@@ -1,0 +1,706 @@
+{
+ "month": "2026-10",
+ "days": [
+  {
+   "date": "2026-10-11",
+   "questions": [
+    {
+     "id": "n20261011-01",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Quel article de la Constitution de 2016 fixe le mandat du Président de la République (5 ans, rééligible une fois) ?",
+     "o": [
+      "L'article 83",
+      "L'article 127",
+      "L'article 55",
+      "L'article 177"
+     ],
+     "a": 2,
+     "e": "Article 55 : élu pour cinq ans au suffrage universel direct, rééligible une fois ; candidat âgé d'au moins 35 ans.",
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "n20261011-02",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Selon l'article 83 de la Constitution, le Premier ministre et les ministres sont solidairement responsables devant :",
+     "o": [
+      "l'Assemblée nationale",
+      "le Président de la République",
+      "le Sénat",
+      "le Conseil constitutionnel"
+     ],
+     "a": 1,
+     "e": "Article 83 : le Gouvernement répond au Président de la République, non au Parlement.",
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "n20261011-03",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Quelle est la durée du mandat des sénateurs (article 87) ?",
+     "o": [
+      "6 ans",
+      "7 ans",
+      "4 ans",
+      "5 ans"
+     ],
+     "a": 3,
+     "e": "Article 87 : deux tiers élus au suffrage universel indirect, un tiers désignés par le Président ; mandat de cinq ans.",
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "n20261011-04",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Quel organe juge le contentieux de l'élection des députés et des sénateurs (article 127) ?",
+     "o": [
+      "Le Conseil constitutionnel",
+      "La Cour de cassation",
+      "Le Conseil d'État",
+      "La Haute Cour de justice"
+     ],
+     "a": 0,
+     "e": "Article 127 : le Conseil constitutionnel statue sur le contentieux de l'élection présidentielle, des députés et des sénateurs.",
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "n20261011-05",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Devant la Haute Cour de justice, le Président de la République n'est responsable qu'en cas de :",
+     "o": [
+      "faute de gestion",
+      "désaccord avec le Parlement",
+      "haute trahison",
+      "refus de promulguer une loi"
+     ],
+     "a": 2,
+     "e": "Article 157 : le Président n'est responsable devant la Haute Cour de justice qu'en cas de haute trahison.",
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "n20261011-06",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Sans référendum, une révision constitutionnelle soumise au Parlement réuni en Congrès doit recueillir :",
+     "o": [
+      "la majorité simple des présents",
+      "les deux tiers des membres du Congrès effectivement en fonction",
+      "les trois cinquièmes des suffrages exprimés",
+      "l'unanimité des présidents de groupe"
+     ],
+     "a": 1,
+     "e": "Article 177 : la majorité des deux tiers des membres du Congrès effectivement en fonction.",
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "n20261011-07",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Quelle juridiction juge le Vice-Président et les membres du Gouvernement pour les crimes et délits commis dans l'exercice de leurs fonctions ?",
+     "o": [
+      "La Cour de cassation",
+      "Le Conseil d'État",
+      "La Cour des comptes",
+      "La Haute Cour de justice"
+     ],
+     "a": 3,
+     "e": "Article 158 de la Constitution de 2016.",
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "n20261011-08",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Lors de la révision constitutionnelle de mars 2020, le Congrès a adopté le texte par :",
+     "o": [
+      "246 voix pour et 2 contre",
+      "300 voix pour et 44 contre",
+      "172 voix pour et 170 contre",
+      "l'unanimité"
+     ],
+     "a": 0,
+     "e": "Vote rapporté par Le360 le 18 mars 2020 ; l'opposition avait boycotté le scrutin.",
+     "src": {
+      "t": "Le360 – La révision constitutionnelle adoptée par le Parlement (2020)",
+      "u": "https://afrique.le360.ma/cote-divoire/politique/2020/03/18/29840-cote-divoire-la-revision-constitutionnelle-adoptee-par-le-parlement-29840/"
+     }
+    },
+    {
+     "id": "n20261011-09",
+     "m": "da",
+     "tag": "da-terr",
+     "q": "Par quel texte les 31 régions ont-elles été créées ?",
+     "o": [
+      "La loi n° 2014-451 du 5 août 2014",
+      "Le décret n° 2013-294 du 2 mai 2013",
+      "La Constitution de 2016",
+      "Un décret de juin 2021"
+     ],
+     "a": 1,
+     "e": "Les régions ont été créées par décret le 2 mai 2013 ; la loi de 2014 fixe ensuite l'organisation générale.",
+     "src": {
+      "t": "OCDE/CGLU – Profil Côte d'Ivoire (organisation territoriale)",
+      "u": "https://sng-wofi.org/country_profiles/cote_divoire.html"
+     }
+    },
+    {
+     "id": "n20261011-10",
+     "m": "da",
+     "tag": "da-terr",
+     "q": "Quel texte régit la création, les attributions et l'organisation des districts autonomes ?",
+     "o": [
+      "La loi n° 2014-451 du 5 août 2014",
+      "Le décret n° 2013-294",
+      "La loi n° 2014-452 du 5 août 2014",
+      "La loi n° 2023-892"
+     ],
+     "a": 2,
+     "e": "La loi 2014-451 porte sur l'organisation générale ; la loi 2014-452 sur les districts autonomes.",
+     "src": {
+      "t": "OCDE/CGLU – Profil Côte d'Ivoire (organisation territoriale)",
+      "u": "https://sng-wofi.org/country_profiles/cote_divoire.html"
+     }
+    },
+    {
+     "id": "n20261011-11",
+     "m": "da",
+     "tag": "da-terr",
+     "q": "Selon sa population, un conseil régional compte :",
+     "o": [
+      "de 25 à 60 membres",
+      "de 10 à 20 membres",
+      "de 60 à 100 membres",
+      "toujours 31 membres"
+     ],
+     "a": 0,
+     "e": "Le conseil régional, élu, compte 25 à 60 membres selon la population de la région.",
+     "src": {
+      "t": "OCDE/CGLU – Profil Côte d'Ivoire (organisation territoriale)",
+      "u": "https://sng-wofi.org/country_profiles/cote_divoire.html"
+     }
+    },
+    {
+     "id": "n20261011-12",
+     "m": "da",
+     "tag": "da-terr",
+     "q": "En quelle année ont été créés 12 nouveaux districts autonomes, portant leur nombre à 14 ?",
+     "o": [
+      "2013",
+      "2016",
+      "2018",
+      "2021"
+     ],
+     "a": 3,
+     "e": "Décret du 18 juin 2021 ; Abidjan et Yamoussoukro existaient déjà.",
+     "src": {
+      "t": "OCDE/CGLU – Profil Côte d'Ivoire (organisation territoriale)",
+      "u": "https://sng-wofi.org/country_profiles/cote_divoire.html"
+     }
+    },
+    {
+     "id": "n20261011-13",
+     "m": "cg",
+     "tag": "ci2",
+     "q": "La Côte d'Ivoire compte 201 communes depuis 2018 ; combien en comptait-elle en 2013 ?",
+     "o": [
+      "201",
+      "197",
+      "31",
+      "150"
+     ],
+     "a": 1,
+     "e": "197 communes en 2013, puis 201 depuis mai 2018.",
+     "src": {
+      "t": "OCDE/CGLU – Profil Côte d'Ivoire (organisation territoriale)",
+      "u": "https://sng-wofi.org/country_profiles/cote_divoire.html"
+     }
+    },
+    {
+     "id": "n20261011-14",
+     "m": "pes",
+     "tag": "pes-pnd",
+     "q": "Quel est le coût total annoncé du PND 2026-2030 ?",
+     "o": [
+      "114 838,5 milliards de FCFA",
+      "59 000 milliards de FCFA",
+      "38 000 milliards de FCFA",
+      "209 milliards de FCFA"
+     ],
+     "a": 0,
+     "e": "Adopté en Conseil des ministres le 4 février 2026 (APA News). 38 000 milliards est la part publique à lever sur les marchés.",
+     "src": {
+      "t": "APA News – 114 000 milliards FCFA pour le Plan national 2026-2030",
+      "u": "https://fr.apanews.net/education/rci-114-000-milliards-fcfa-pour-le-plan-national-2026-2030/"
+     }
+    },
+    {
+     "id": "n20261011-15",
+     "m": "pes",
+     "tag": "pes-pnd",
+     "q": "Quelle part du financement du PND 2026-2030 doit venir du secteur privé ?",
+     "o": [
+      "29,8 %",
+      "50 %",
+      "70,2 %",
+      "90 %"
+     ],
+     "a": 2,
+     "e": "Répartition annoncée : 70,2 % privé, 29,8 % public.",
+     "src": {
+      "t": "APA News – 114 000 milliards FCFA pour le Plan national 2026-2030",
+      "u": "https://fr.apanews.net/education/rci-114-000-milliards-fcfa-pour-le-plan-national-2026-2030/"
+     }
+    },
+    {
+     "id": "n20261011-16",
+     "m": "pes",
+     "tag": "pes-pnd",
+     "q": "Le PND 2026-2030 vise un taux d'investissement de quel niveau en 2030 ?",
+     "o": [
+      "25,4 % du PIB",
+      "34,5 % du PIB",
+      "7,2 % du PIB",
+      "70 % du PIB"
+     ],
+     "a": 1,
+     "e": "De 25,4 % du PIB en 2026 à 34,5 % en 2030 ; 7,2 % est la croissance moyenne visée.",
+     "src": {
+      "t": "APA News – 114 000 milliards FCFA pour le Plan national 2026-2030",
+      "u": "https://fr.apanews.net/education/rci-114-000-milliards-fcfa-pour-le-plan-national-2026-2030/"
+     }
+    },
+    {
+     "id": "n20261011-17",
+     "m": "pes",
+     "tag": "pes-pnd",
+     "q": "À combien était estimé le PND précédent (2021-2025) ?",
+     "o": [
+      "114 838,5 milliards de FCFA",
+      "25 000 milliards de FCFA",
+      "3 000 milliards de FCFA",
+      "59 000 milliards de FCFA"
+     ],
+     "a": 3,
+     "e": "PND 2021-2025 : environ 59 000 milliards, financé à 74 % par le privé.",
+     "src": {
+      "t": "APA News – 114 000 milliards FCFA pour le Plan national 2026-2030",
+      "u": "https://fr.apanews.net/education/rci-114-000-milliards-fcfa-pour-le-plan-national-2026-2030/"
+     }
+    },
+    {
+     "id": "n20261011-18",
+     "m": "cg",
+     "tag": "ena",
+     "q": "Pour le concours direct d'entrée à l'ENA en 2027 (cycle supérieur), quel était l'âge maximum au 31 décembre 2025 ?",
+     "o": [
+      "43 ans",
+      "40 ans",
+      "35 ans",
+      "45 ans"
+     ],
+     "a": 0,
+     "e": "Communiqué du ministère de la Fonction publique du 23 mars 2026.",
+     "src": {
+      "t": "Fraternité Matin – Concours direct ENA 2027, cycle supérieur : âge maximum 43 ans",
+      "u": "https://www.fratmat.info/article/2640983/societe/concours-direct-dentree-a-lena-en-2027cycle-superieur-lage-maximum-fixe-a-43-ans"
+     }
+    },
+    {
+     "id": "n20261011-19",
+     "m": "cg",
+     "tag": "ena",
+     "q": "Combien coûtait l'inscription au concours direct de l'ENA en 2027 (cycle supérieur) ?",
+     "o": [
+      "10 000 F CFA",
+      "50 000 F CFA",
+      "27 500 F CFA",
+      "5 000 F CFA"
+     ],
+     "a": 2,
+     "e": "10 000 F de droit de candidature et 17 500 F de frais annexes.",
+     "src": {
+      "t": "Fraternité Matin – Concours direct ENA 2027, cycle supérieur : âge maximum 43 ans",
+      "u": "https://www.fratmat.info/article/2640983/societe/concours-direct-dentree-a-lena-en-2027cycle-superieur-lage-maximum-fixe-a-43-ans"
+     }
+    },
+    {
+     "id": "n20261011-20",
+     "m": "oral",
+     "tag": "ena",
+     "q": "Selon l'ENA, sur quels critères le jury de l'oral 2027 évalue-t-il les candidats ?",
+     "o": [
+      "Uniquement les diplômes",
+      "Personnalité, rhétorique, réactivité et culture générale",
+      "L'âge et l'expérience",
+      "La note de présélection seule"
+     ],
+     "a": 1,
+     "e": "Communiqué relayé par Fraternité Matin : maîtrise de soi, qualité de l'expression, réactivité, culture générale.",
+     "src": {
+      "t": "Fraternité Matin – Concours directs 2027 : les épreuves orales démarrent le 10 août",
+      "u": "https://www.fratmat.info/article/2643792/societe/concours-directs-dentree-a-lena-en-2027-les-epreuves-orales-demarrent-le-lundi-10-aout"
+     }
+    },
+    {
+     "id": "n20261011-21",
+     "m": "cg",
+     "tag": "ena",
+     "q": "À la présélection du cycle supérieur (session d'avril 2025), combien de candidats ont composé ?",
+     "o": [
+      "1 000",
+      "5 608",
+      "14 341",
+      "600"
+     ],
+     "a": 1,
+     "e": "5 608 candidats au cycle supérieur ; 14 341 au cycle moyen supérieur.",
+     "src": {
+      "t": "ENA Côte d'Ivoire – Actualités des concours",
+      "u": "https://www.ena.ci/?men=actualite&id=219"
+     }
+    },
+    {
+     "id": "n20261011-22",
+     "m": "cg",
+     "tag": "ena",
+     "q": "Hors Abidjan, dans quelles villes les candidats du cycle supérieur ont-ils composé en avril 2025 ?",
+     "o": [
+      "Daloa, Yamoussoukro et Abengourou",
+      "Bouaké, Korhogo et Man",
+      "San-Pédro, Gagnoa et Odienné",
+      "Bondoukou, Divo et Séguéla"
+     ],
+     "a": 0,
+     "e": "682 candidats ont composé à Daloa, Yamoussoukro et Abengourou.",
+     "src": {
+      "t": "ENA Côte d'Ivoire – Actualités des concours",
+      "u": "https://www.ena.ci/?men=actualite&id=219"
+     }
+    },
+    {
+     "id": "n20261011-23",
+     "m": "cg",
+     "tag": "ena",
+     "q": "Au barème de l'épreuve de logique de la présélection ENA, une mauvaise réponse vaut :",
+     "o": [
+      "−1 point",
+      "0 point",
+      "−0,5 point",
+      "−2 points"
+     ],
+     "a": 3,
+     "e": "Barème imprimé sur les sujets officiels : +2 / 0 / −2.",
+     "src": {
+      "t": "Fomesoutra – Sujets ENA cycle supérieur (sujets officiels numérisés)",
+      "u": "https://www.fomesoutra.com/sujets/sujet-concours/ena-1/ena-cycle-superieur"
+     }
+    },
+    {
+     "id": "n20261011-24",
+     "m": "ct",
+     "tag": "ct2",
+     "q": "Au cycle moyen supérieur (session de juillet 2025), le résumé de texte devait compter :",
+     "o": [
+      "200 mots exactement",
+      "le quart du texte",
+      "250 mots, à plus ou moins 10 %",
+      "500 mots"
+     ],
+     "a": 2,
+     "e": "Consigne relevée sur le sujet officiel : 250 mots ± 10 %.",
+     "src": {
+      "t": "Fomesoutra – Sujets ENA cycle moyen supérieur",
+      "u": "https://www.fomesoutra.com/sujets/sujet-concours/ena-1/ena-cycle-moyen-superieur"
+     }
+    },
+    {
+     "id": "n20261011-25",
+     "m": "cg",
+     "tag": "fp-concours",
+     "q": "Selon l'AIP, combien de concours administratifs avaient été lancés en 2025, contre plus de 400 en 2026 ?",
+     "o": [
+      "590",
+      "199",
+      "224",
+      "1 000"
+     ],
+     "a": 0,
+     "e": "Lancement de la session 2026 le 11 mars 2026 : plus de 400 concours, contre 590 en 2025.",
+     "src": {
+      "t": "AIP – Lancement des concours administratifs 2026",
+      "u": "https://www.aip.ci/?p=332135"
+     }
+    },
+    {
+     "id": "n20261011-26",
+     "m": "cg",
+     "tag": "fp-concours",
+     "q": "En 2026, l'âge limite des concours administratifs des grades D1 à A3 a été porté à :",
+     "o": [
+      "40 ans",
+      "42 ans",
+      "45 ans",
+      "47 ans"
+     ],
+     "a": 1,
+     "e": "Reconduction exceptionnelle du relèvement de deux ans : de 40 à 42 ans (de 45 à 47 ans pour le grade A4).",
+     "src": {
+      "t": "AIP – Lancement des concours administratifs 2026",
+      "u": "https://www.aip.ci/?p=332135"
+     }
+    },
+    {
+     "id": "n20261011-27",
+     "m": "cg",
+     "tag": "gram2",
+     "q": "Quel est le pluriel de « un chef-d'œuvre » ?",
+     "o": [
+      "des chef-d'œuvres",
+      "des chefs-d'œuvre",
+      "des chefs-d'œuvres",
+      "des chef-d'œuvre"
+     ],
+     "a": 1,
+     "e": "Nom + complément introduit par une préposition : seul le premier nom prend la marque du pluriel.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261011-28",
+     "m": "cg",
+     "tag": "gram2",
+     "q": "Complétez : « Les efforts qu'il a … pour réussir sont immenses. »",
+     "o": [
+      "fallus",
+      "fallue",
+      "falloir",
+      "fallu"
+     ],
+     "a": 3,
+     "e": "Le participe passé d'un verbe impersonnel (il faut) reste invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261011-29",
+     "m": "cg",
+     "tag": "gram2",
+     "q": "Complétez : « Les heures qu'il a … à préparer ce concours. »",
+     "o": [
+      "passées",
+      "passé",
+      "passés",
+      "passée"
+     ],
+     "a": 0,
+     "e": "Avoir + COD placé avant (que = les heures, féminin pluriel) : accord du participe.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261011-30",
+     "m": "ang",
+     "tag": "ang3",
+     "q": "How many ___ does an adult have in his mouth?",
+     "o": [
+      "tooths",
+      "toothes",
+      "teeth",
+      "teeths"
+     ],
+     "a": 2,
+     "e": "Pluriel irrégulier : tooth → teeth.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261011-31",
+     "m": "ang",
+     "tag": "ang3",
+     "q": "« Aubergines » are also called ___ in American English.",
+     "o": [
+      "egg plants trees",
+      "eggplants",
+      "aged plants",
+      "eggfruits"
+     ],
+     "a": 1,
+     "e": "Aubergine (anglais britannique) = eggplant (anglais américain).",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261011-32",
+     "m": "ang",
+     "tag": "ang3",
+     "q": "Choose the correct sentence:",
+     "o": [
+      "Aya wouldn't have talked to Séka if she had known the truth.",
+      "Aya won't have talked to Séka if she knew the truth.",
+      "Aya didn't talk to Séka if she would have known the truth.",
+      "Aya doesn't talk to Séka if she had known the truth."
+     ],
+     "a": 0,
+     "e": "Irréel du passé : if + past perfect, would have + participe passé.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261011-33",
+     "m": "log",
+     "tag": "calc2",
+     "q": "450 000 F placés à 4 % d'intérêts simples pendant 2 ans rapportent :",
+     "o": [
+      "18 000 F",
+      "486 000 F",
+      "36 000 F",
+      "72 000 F"
+     ],
+     "a": 2,
+     "e": "450 000 × 0,04 × 2 = 36 000 F d'intérêts.",
+     "verif": "calcul",
+     "calc": "450000*0.04*2"
+    },
+    {
+     "id": "n20261011-34",
+     "m": "log",
+     "tag": "calc2",
+     "q": "Quel nombre suit : 5, 11, 23, 47, … ?",
+     "o": [
+      "94",
+      "95",
+      "71",
+      "96"
+     ],
+     "a": 1,
+     "e": "Chaque terme vaut le double du précédent plus 1 : 47 × 2 + 1 = 95.",
+     "verif": "calcul",
+     "calc": "47*2+1"
+    },
+    {
+     "id": "n20261011-35",
+     "m": "log",
+     "tag": "calc2",
+     "q": "Un service coûte 236 000 F TTC avec une TVA de 18 %. Son prix hors taxes est :",
+     "o": [
+      "193 520 F",
+      "218 000 F",
+      "196 000 F",
+      "200 000 F"
+     ],
+     "a": 3,
+     "e": "HT = TTC / 1,18 = 200 000 F.",
+     "verif": "calcul",
+     "calc": "236000/1.18"
+    },
+    {
+     "id": "n20261011-36",
+     "m": "log",
+     "tag": "calc2",
+     "q": "Combien valent les 3/8 de 64 000 F ?",
+     "o": [
+      "24 000 F",
+      "21 333 F",
+      "32 000 F",
+      "8 000 F"
+     ],
+     "a": 0,
+     "e": "64 000 / 8 × 3 = 24 000 F.",
+     "verif": "calcul",
+     "calc": "64000/8*3"
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261011",
+     "m": "dc",
+     "titre": "La Constitution de 2016, article par article",
+     "min": 45,
+     "tech": [
+      "## Pourquoi apprendre les numéros d'articles",
+      "Citer l'article exact dans une dissertation de droit constitutionnel montre une maîtrise précise du texte. Au QCM, les numéros servent de pièges : apprenez-les par groupes logiques.",
+      "## Méthode de mémorisation",
+      "- Regroupez les articles par pouvoir : exécutif, législatif, juridictions, révision.",
+      "- Pour chaque article : un mot-clé et un chiffre (55 = 5 ans + 35 ans ; 87 = Sénat ; 177 = révision).",
+      "- Relisez la fiche à voix haute, puis faites le questionnaire sans la regarder.",
+      "> Vérifiez toujours un article sur le texte officiel avant de le citer dans une copie : un numéro faux coûte plus cher que pas de numéro."
+     ],
+     "fond": [
+      "## Le pouvoir exécutif",
+      "- Article 55 : le Président est élu pour cinq ans au suffrage universel direct, rééligible une fois ; âge minimum de 35 ans.",
+      "- Article 83 : le Premier ministre et les ministres sont solidairement responsables devant le Président de la République.",
+      "## Le pouvoir législatif",
+      "- Article 87 : deux tiers des sénateurs élus au suffrage universel indirect, un tiers désignés par le Président ; mandat de cinq ans.",
+      "## Les juridictions",
+      "- Article 127 : le Conseil constitutionnel juge le contentieux de l'élection présidentielle, des députés et des sénateurs.",
+      "- Articles 156 à 158 : la Haute Cour de justice juge le Président (seulement pour haute trahison, art. 157), le Vice-Président et les membres du Gouvernement (crimes et délits commis dans leurs fonctions, art. 158).",
+      "## La révision",
+      "- Article 177 : la révision est en principe approuvée par référendum à la majorité absolue des suffrages exprimés ; si le Président soumet le projet au seul Parlement réuni en Congrès, il faut la majorité des deux tiers des membres effectivement en fonction.",
+      "- En mars 2020, le Congrès a adopté une révision par 246 voix pour et 2 contre."
+     ],
+     "retenir": [
+      "55 : mandat présidentiel ; 83 : responsabilité du Gouvernement ; 87 : Sénat.",
+      "127 : contentieux électoral au Conseil constitutionnel.",
+      "157 : haute trahison ; 177 : révision (deux tiers en Congrès)."
+     ],
+     "exo": {
+      "tag": "dc-art",
+      "n": 8,
+      "ecrit": "dc"
+     },
+     "sources": [
+      {
+       "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+       "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+      },
+      {
+       "t": "Le360 – La révision constitutionnelle adoptée par le Parlement (2020)",
+       "u": "https://afrique.le360.ma/cote-divoire/politique/2020/03/18/29840-cote-divoire-la-revision-constitutionnelle-adoptee-par-le-parlement-29840/"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "sog",
+     "src": "original",
+     "ref": "Entraînement · 11 oct. 2026",
+     "t": "« La décentralisation rapproche l'État du citoyen. » Commentez et discutez cette assertion.",
+     "plan": [
+      "I. Une proximité réelle : collectivités élues, compétences locales, services de proximité.",
+      "II. Une proximité inachevée : moyens financiers limités, capacités techniques inégales, poids de l'État central.",
+      "Conclusion : la proximité dépend des moyens transférés et de la participation citoyenne."
+     ]
+    },
+    {
+     "e": "pes",
+     "src": "original",
+     "ref": "Entraînement · 11 oct. 2026",
+     "t": "Le secteur privé peut-il financer l'essentiel du développement de la Côte d'Ivoire, comme le prévoit le PND 2026-2030 ?",
+     "plan": [
+      "Rappel sourcé : 70,2 % du financement attendu du privé (APA News, février 2026).",
+      "I. Des atouts : dynamisme de l'investissement, partenariats public-privé, marché financier régional.",
+      "II. Des limites : coût du crédit, informalité, risques, besoin d'investissements publics d'infrastructure et de capital humain."
+     ]
+    }
+   ]
+  }
+ ]
+}
