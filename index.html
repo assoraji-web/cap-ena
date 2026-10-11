@@ -142,6 +142,19 @@ details summary{cursor:pointer;font-weight:700}
 .src{font-family:var(--f-d);font-size:.8rem;color:var(--muted);margin-top:6px} .src a,.srcs a{color:var(--green)}
 .srcs{border-top:1px dashed var(--line);padding-top:8px;font-size:.85rem}
 .tag+.tag{margin-left:4px}
+.lock{display:flex;flex-direction:column;align-items:center;gap:18px;padding:28px 0 40px;max-width:420px;margin:0 auto}
+.lockmark{font-family:var(--f-s);font-size:2.2rem;letter-spacing:.12em;color:var(--green);border:5px double var(--green);border-radius:12px;padding:6px 18px;transform:rotate(-6deg)}
+.center{text-align:center;display:flex;flex-direction:column;gap:4px}
+.lockcard{width:100%}
+.codebox{display:flex;gap:6px;align-items:center} .codebox input{flex:1;min-width:0;font:inherit;font-size:18px;letter-spacing:.06em;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px}
+.err{color:var(--bad);font-weight:650}
+.shake{animation:shk .35s}
+@keyframes shk{20%,60%{transform:translateX(-6px)}40%,80%{transform:translateX(6px)}}
+@media (prefers-reduced-motion:reduce){.shake{animation:none}}
+body.locked #nav, body.locked .top .chip{display:none}
+.tdots{display:flex;gap:6px;flex-wrap:wrap} .tdots button{width:26px;height:8px;border-radius:4px;border:0;padding:0;background:var(--line)}
+.tdots button.done{background:color-mix(in srgb,var(--green) 55%,var(--line))} .tdots button.cur{background:var(--orange);width:40px}
+.opts.demo{border-top:1px dashed var(--line);padding-top:10px}
 [hidden]{display:none!important}
 </style>
 </head>

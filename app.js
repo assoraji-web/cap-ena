@@ -1157,15 +1157,16 @@ function clearTimers(){ timers.forEach(t=>clearInterval(t)); timers = []; }
 function go(v){ view = v; clearTimers(); render(); window.scrollTo({top:0}); }
 function renderNav(){
   const n = $("#nav"); n.replaceChildren();
-  const parent = {quiz:"train", lesson:"cours", ecrit:"ecrits", oral:"ecrits", planning:"home", reglages:"progres"}[view] || view;
+  const parent = {quiz:"train", lesson:"cours", ecrit:"ecrits", oral:"ecrits", planning:"home", reglages:"progres", tuto:"home"}[view] || view;
   for (const [k,l] of TABS) n.append(h("button",{type:"button","aria-current":parent===k?"page":null,onclick:()=>go(k)}, h("span",{class:"ic ic-"+k,"aria-hidden":"true"}), h("span",null,l)));
   $("#chipLevel").textContent = niveau(state.xp).cur[1] + " · " + state.xp + " XP";
   $("#chipStreak").textContent = state.streak + " j";
 }
 function render(){
+  if (document.body.classList.contains("locked")) return;
   renderNav();
   const v = $("#view"); v.replaceChildren();
-  const fn = {home:vHome, cours:vCours, lesson:vLesson, train:vTrain, quiz:vQuiz, ecrits:vEcrits, ecrit:vEcrit, oral:vOral, progres:vProgres, planning:vPlanning, reglages:vReglages}[view] || vHome;
+  const fn = {home:vHome, cours:vCours, lesson:vLesson, train:vTrain, quiz:vQuiz, ecrits:vEcrits, ecrit:vEcrit, oral:vOral, progres:vProgres, planning:vPlanning, reglages:vReglages, tuto:vTuto}[view] || vHome;
   v.append(fn());
 }
 const card = (cls, ...kids)=>h("section",{class:"card "+(cls||"")}, ...kids);
@@ -1215,7 +1216,8 @@ function vHome(){
         h("button",{class:"btn",type:"button",onclick:()=>go("planning")},"Ma semaine"),
         h("button",{class:"btn",type:"button",onclick:startBlanc},"Présélection blanche"),
         h("button",{class:"btn",type:"button",disabled:nErr===0,onclick:startErreurs},"Revoir mes erreurs"),
-        h("button",{class:"btn",type:"button",onclick:()=>go("reglages")},"Rappels et sauvegarde")
+        h("button",{class:"btn",type:"button",onclick:()=>go("reglages")},"Rappels et sauvegarde"),
+        h("button",{class:"btn",type:"button",onclick:()=>openTuto(0)},"Tutoriel")
       )
     ),
     newsCard(),
@@ -1255,15 +1257,26 @@ function structureCard(){
 }
 let deferredPrompt = null;
 window.addEventListener("beforeinstallprompt", (e)=>{ e.preventDefault(); deferredPrompt = e; if (view==="home") render(); });
-function installCard(){
-  const standalone = window.matchMedia && window.matchMedia("(display-mode: standalone)").matches;
-  if (standalone) return null;
-  return card("stack soft",
-    h("h2",null,"Installer l'appli"),
-    deferredPrompt ? h("div",null,h("button",{class:"btn primary",type:"button",onclick:async()=>{ deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt=null; render(); }},"Installer Cap ENA sur ce téléphone"))
-      : h("p",null,"Dans Chrome : menu ⋮ en haut à droite, puis « Ajouter à l'écran d'accueil » ou « Installer l'application ». L'appli fonctionne ensuite hors connexion.")
-  );
+const isStandalone = ()=> (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || window.navigator.standalone === true;
+function installSteps(){
+  return h("ol",{class:"pts"},
+    h("li",null,"Ouvrez cette page dans ", h("b",null,"Chrome"), " sur votre téléphone Android."),
+    h("li",null,"Touchez le menu ", h("b",null,"⋮"), " en haut à droite."),
+    h("li",null,"Choisissez ", h("b",null,"« Installer l'application »"), " (ou « Ajouter à l'écran d'accueil »), puis confirmez."),
+    h("li",null,"L'icône ", h("b",null,"Cap ENA"), " apparaît parmi vos applications : ouvrez toujours l'appli depuis cette icône."));
 }
+function installButton(){
+  return deferredPrompt ? h("button",{class:"btn primary",type:"button",onclick:async()=>{ deferredPrompt.prompt(); const c = await deferredPrompt.userChoice; deferredPrompt=null; if (c && c.outcome==="accepted") toast("Installation lancée : l'icône Cap ENA arrive sur l'écran d'accueil."); render(); }},"Installer Cap ENA sur ce téléphone") : null;
+}
+function installCard(){
+  if (isStandalone()) return null;
+  return card("stack soft",
+    h("h2",null,"Installer l'appli sur le téléphone"),
+    installButton(),
+    installSteps(),
+    h("p",{class:"muted small"},"Une fois installée, l'appli s'ouvre en plein écran et fonctionne aussi hors connexion avec les contenus déjà téléchargés."));
+}
+window.addEventListener("appinstalled", ()=>{ deferredPrompt=null; toast("Cap ENA est installée sur ce téléphone."); });
 
 // ---------- Planning ----------
 function vPlanning(){
@@ -1624,6 +1637,17 @@ function vReglages(){
       h("button",{class:"btn",type:"button",onclick:()=>download("cap-ena-rappels.ics", icsText(), "text/calendar")},"Ou télécharger tous les rappels (.ics)")
     ),
     card("stack",
+      h("h2",null,"Code d'accès"),
+      h("p",null, rememberOn() ? "Ce téléphone est mémorisé : l'appli s'ouvre sans demander le code." : "Le code d'accès est demandé à chaque ouverture de l'appli."),
+      h("label",{class:"chk"}, h("input",{type:"checkbox",checked:rememberOn()||null,onchange:(ev)=>{ setRemember(ev.target.checked); render(); }}), h("span",null,"Ne plus demander le code sur ce téléphone")),
+      h("button",{class:"btn",type:"button",onclick:lockNow},"Verrouiller maintenant")
+    ),
+    card("stack",
+      h("h2",null,"Tutoriel"),
+      h("p",{class:"muted small"},"Revoir, étape par étape, comment utiliser Cap ENA."),
+      h("button",{class:"btn",type:"button",onclick:()=>openTuto(0)},"Revoir le tutoriel")
+    ),
+    card("stack",
       h("h2",null,"Sauvegarde de ma progression"),
       h("p",{class:"muted small"},"La progression est stockée dans le téléphone. Sauvegardez-la de temps en temps, surtout avant de changer de téléphone ou de vider les données du navigateur."),
       h("button",{class:"btn primary",type:"button",onclick:()=>download("cap-ena-sauvegarde-"+ymd(new Date())+".json", JSON.stringify(state), "application/json")},"Télécharger une sauvegarde"),
@@ -1634,7 +1658,148 @@ function vReglages(){
   );
 }
 
+// ---------- Tutoriel ----------
+let tutoI = 0;
+function openTuto(i){ tutoI = i||0; go("tuto"); }
+const demoOpt = (k, t, cls)=>h("div",{class:"opt "+(cls||"")}, h("span",{class:"k"},k), h("span",null,t));
+const TUTO = [
+  { t:"Bienvenue dans Cap ENA", lbl:"1 · Le principe",
+    txt:["Cap ENA vous prépare au concours direct de l'ENA de Côte d'Ivoire : cycle moyen supérieur en priorité, cycle supérieur ensuite.",
+         "- Chaque séance suit le même ordre : d'abord un cours (la technique de l'épreuve, puis le fond), ensuite les exercices.",
+         "- Les séances sont calées sur vos créneaux : midi en semaine, 21 h à 22 h le soir, matinées et fins d'après-midi le week-end.",
+         "- Chaque nuit, de nouveaux contenus vérifiés s'ajoutent : questions, leçon, sujet d'écrit.",
+         "> Ce tutoriel dure 3 minutes. Vous pourrez le revoir à tout moment : Aujourd'hui > Tutoriel."] },
+  { t:"Installer l'appli sur votre téléphone", lbl:"2 · Installation", install:true,
+    txt:["Installée, Cap ENA s'ouvre comme une vraie application, en plein écran, depuis son icône."] },
+  { t:"L'écran « Aujourd'hui »", lbl:"3 · Votre point de départ",
+    txt:["C'est l'écran d'accueil. Il vous dit quoi faire maintenant.",
+         "- Le cadre vert indique la séance en cours ou la prochaine, avec la leçon prévue.",
+         "- Touchez « Commencer la séance » : l'appli ouvre directement la bonne leçon.",
+         "- Les compteurs suivent votre série de jours, vos leçons faites et votre précision.",
+         "- « Accès rapide » : votre semaine, la présélection blanche, la révision de vos erreurs, les rappels, ce tutoriel.",
+         "~ En bas de l'écran, cinq onglets : Aujourd'hui, Cours, QCM, Écrits, Progrès."] },
+  { t:"Une séance en 4 étapes", lbl:"4 · Le déroulé d'une leçon", demo:"steps",
+    txt:["Chaque leçon se parcourt avec les boutons « Suivant » et « Précédent ».",
+         "- Technique : la méthode de l'épreuve (comment lire le sujet, construire, gérer le temps).",
+         "- Cours : les connaissances de fond, avec leurs sources.",
+         "- À retenir : l'essentiel en quelques lignes, à relire avant le concours.",
+         "- Exercice : le questionnaire lié à la leçon, et selon le cas un sujet d'écrit ou une simulation d'oral.",
+         "> Une leçon terminée rapporte 40 XP. L'onglet Cours liste toutes les leçons ; les plus récentes portent l'étiquette « Nouveau »."] },
+  { t:"Les QCM au barème officiel", lbl:"5 · Présélection", demo:"qcm",
+    txt:["Le barème relevé sur les sujets 2023-2024 est appliqué : bonne réponse +1, sans réponse 0, mauvaise réponse −1. En logique : +2 / 0 / −2.",
+         "- Si vous n'êtes pas sûr, touchez « Je ne réponds pas (0 point) » : c'est souvent le bon choix.",
+         "- Après chaque réponse, l'explication s'affiche, avec sa source quand il s'agit d'un fait.",
+         "- Le samedi de 16 h à 17 h 30 : présélection blanche, 45 questions en 45 minutes, avec un tampon ADMIS, ADMISSIBLE ou AJOURNÉ.",
+         "- Le vendredi soir : révision de toutes vos questions ratées.",
+         "~ Onglet QCM : séries de 10 par matière, et « Mes annales » pour ajouter vos propres questions."] },
+  { t:"Les écrits et l'oral", lbl:"6 · Admissibilité et admission",
+    txt:["Onglet Écrits : sujets officiels des sessions passées et sujets d'entraînement, classés par épreuve.",
+         "- Lancez le chrono et rédigez dans la copie : le texte s'enregistre tout seul.",
+         "- Pour le résumé de texte, le compteur de mots vérifie que vous restez dans la fourchette de ± 10 %.",
+         "- « Rendre ma copie » : cochez honnêtement la grille d'auto-évaluation, une note indicative sur 20 en découle.",
+         "- « Voir le plan proposé » : comparez votre plan au plan corrigé.",
+         "- Simulation d'oral : 2 minutes de préparation, 5 minutes de réponse, puis la grille du jury.",
+         "! Rédigez au moins l'introduction et le plan avant d'ouvrir le plan corrigé, sinon l'exercice perd son intérêt."] },
+  { t:"Les nouveautés de chaque nuit", lbl:"7 · Une source qui ne s'épuise pas",
+    txt:["Chaque nuit, de nouvelles questions, une leçon et un sujet d'écrit sont publiés. Ouvrez l'appli avec Internet : ils se chargent seuls.",
+         "- La carte « Nouveautés » de l'accueil propose « Faire les questions du jour ».",
+         "- Chaque fait cite sa source (lien « Source »). Les règles de langue et les calculs sont contrôlés avant publication.",
+         "- Vous voyez une erreur ? Touchez « Signaler une erreur » sous l'explication. Le signalement est vérifié la nuit suivante : la question est corrigée ou retirée.",
+         "> Pour signaler une erreur, connectez-vous une fois à GitHub (compte assoraji-web) dans Chrome sur votre téléphone.",
+         "~ Sans connexion, l'appli fonctionne avec ce qu'elle a déjà téléchargé."] },
+  { t:"Rappels et sauvegarde", lbl:"8 · Ne jamais rater une séance",
+    txt:["Onglet Progrès > « Rappels et sauvegarde ».",
+         "- Touchez chaque créneau pour l'ajouter à Google Agenda : le téléphone vous prévient avant chaque séance, même appli fermée.",
+         "- Vous recevez aussi les rappels de Claude par notification.",
+         "- « Télécharger une sauvegarde » : votre progression est stockée dans le téléphone ; sauvegardez-la de temps en temps.",
+         "- Code d'accès : vous pouvez ne plus le saisir sur ce téléphone, ou verrouiller l'appli à tout moment."] },
+  { t:"Grades, XP et série", lbl:"9 · Prêt à commencer", final:true,
+    txt:["Votre travail fait monter votre grade : Candidat inscrit, Présélectionné, Admissible, Admis, Élève de l'ENA, Major de promotion.",
+         "- Bonne réponse +10 XP, leçon terminée +40, copie rendue +50, oral +30.",
+         "- La série compte vos jours de travail consécutifs : ne la cassez pas.",
+         "- L'onglet Progrès montre votre réussite par matière : travaillez d'abord les barres orange (moins de 50 %).",
+         "> Pour commencer : onglet Cours > Présélection > la première leçon, sur la stratégie et le barème."] }
+];
+function tutoDemo(kind){
+  if (kind==="steps") return h("ol",{class:"steps"}, ["Technique","Cours","À retenir","Exercice"].map((s,i)=>h("li",{class:i===1?"cur":i<1?"done":""},s)));
+  if (kind==="qcm") return h("div",{class:"opts demo"},
+    h("p",{class:"lbl"},"Exemple"),
+    h("p",{class:"question"},"Quel est le pluriel correct de « un chou-fleur » ?"),
+    demoOpt("A","des chou-fleurs",""), demoOpt("B","des choux-fleurs","ok"), demoOpt("C","des choux-fleur","ko"),
+    h("p",{class:"muted small"},"En vert la bonne réponse, en rouge une réponse fausse (−1). Dans un nom composé de deux noms, les deux prennent la marque du pluriel."));
+  return null;
+}
+function vTuto(){
+  const T = TUTO[tutoI], last = tutoI===TUTO.length-1;
+  const done = ()=>{ state.tuto = ymd(new Date()); save(); go("home"); };
+  const move = (d)=>{ tutoI += d; render(); window.scrollTo({top:0}); };
+  return h("div",{class:"stack tuto"},
+    h("div",{class:"row spread"}, h("p",{class:"lbl"},"Tutoriel · " + T.lbl), h("button",{class:"btn ghost small",type:"button",onclick:done}, last ? "Fermer" : "Passer")),
+    h("div",{class:"tdots","aria-label":"Étapes du tutoriel"}, TUTO.map((x,i)=>h("button",{type:"button",class:i===tutoI?"cur":i<tutoI?"done":"","aria-label":"Étape "+(i+1)+" : "+x.t,"aria-current":i===tutoI?"step":null,onclick:()=>{tutoI=i; render();}}))),
+    h("h1",{class:"h-l"}, T.t),
+    card("stack read", blocks(T.txt),
+      T.demo ? tutoDemo(T.demo) : null,
+      T.install ? (isStandalone() ? h("p",{class:"box"},"C'est fait : vous utilisez déjà l'appli installée.")
+        : h("div",{class:"stack"}, installButton(), installSteps(), h("p",{class:"muted small"},"Si le menu ne propose pas l'installation, mettez Chrome à jour depuis le Play Store, puis rouvrez la page."))) : null),
+    h("div",{class:"row spread"},
+      tutoI>0 ? h("button",{class:"btn ghost",type:"button",onclick:()=>move(-1)},"Précédent") : h("span"),
+      last ? h("button",{class:"btn primary",type:"button",onclick:done},"Commencer ma préparation")
+           : h("button",{class:"btn primary",type:"button",onclick:()=>move(1)},"Suivant"))
+  );
+}
+
+// ---------- Code d'accès ----------
+// On ne stocke que l'empreinte SHA-256 du code normalisé (majuscules, sans accents, espaces simples).
+const CODE_H = "522838e9be5927e3c59cef95ae651daebaa9f975ecd8b6276a47beee2941e62c";
+const CODE_FB = "bhqwk6"; // empreinte de secours si le navigateur ne fournit pas SHA-256
+const UKEY = "capena.unlock";
+const normCode = (x)=>x.normalize("NFD").replace(/[̀-ͯ]/g,"").toUpperCase().replace(/[^A-Z0-9]+/g," ").trim();
+async function digest(x){
+  try { if (window.crypto && crypto.subtle){ const b = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(x)); return {sha:[...new Uint8Array(b)].map(v=>v.toString(16).padStart(2,"0")).join("")}; } } catch(e){}
+  return {fb:hash(x)};
+}
+function rememberOn(){ try { return localStorage.getItem(UKEY) === CODE_H; } catch(e){ return false; } }
+function setRemember(on){ try { if (on) localStorage.setItem(UKEY, CODE_H); else localStorage.removeItem(UKEY); } catch(e){} }
+function lockNow(){ setRemember(false); showLock(); }
+function showLock(){
+  clearTimers(); document.body.classList.add("locked");
+  const inp = h("input",{type:"password",id:"code",autocomplete:"off",autocapitalize:"characters",spellcheck:"false","aria-describedby":"codeMsg",placeholder:"Votre code"});
+  const rem = h("input",{type:"checkbox",id:"rem"});
+  const msg = h("p",{id:"codeMsg",class:"small muted","aria-live":"polite"},"Saisissez votre code d'accès pour ouvrir l'appli.");
+  const show = h("button",{class:"btn ghost small",type:"button",onclick:()=>{ inp.type = inp.type==="password" ? "text" : "password"; show.textContent = inp.type==="password" ? "Afficher" : "Masquer"; inp.focus(); }},"Afficher");
+  let form;
+  const submit = async(ev)=>{
+    ev.preventDefault();
+    const d = await digest(normCode(inp.value));
+    const ok = d.sha ? d.sha===CODE_H : d.fb===CODE_FB;
+    if (!ok){
+      msg.textContent = "Code incorrect. Vérifiez l'orthographe, puis réessayez."; msg.className = "small err";
+      inp.value = ""; inp.focus(); form.classList.remove("shake"); void form.offsetWidth; form.classList.add("shake"); return;
+    }
+    setRemember(rem.checked);
+    document.body.classList.remove("locked");
+    startApp();
+  };
+  form = h("form",{class:"card stack lockcard",onsubmit:submit},
+    h("label",{class:"lbl",for:"code"},"Code d'accès"),
+    h("div",{class:"codebox"}, inp, show),
+    msg,
+    h("label",{class:"chk"}, rem, h("span",null,"Ne plus demander le code sur ce téléphone")),
+    h("button",{class:"btn primary",type:"submit"},"Ouvrir Cap ENA"));
+  $("#view").replaceChildren(h("div",{class:"lock"},
+    h("div",{class:"lockmark","aria-hidden":"true"},"ENA"),
+    h("div",{class:"center"}, h("p",{class:"lbl"},"Accès réservé"), h("h1",null,"Cap ENA 2027"), h("p",{class:"muted"},"Préparation aux concours directs de l'ENA de Côte d'Ivoire")),
+    form));
+  window.scrollTo({top:0});
+  setTimeout(()=>inp.focus(), 50);
+}
+let started = false;
+function startApp(){
+  if (!state.tuto){ view = "tuto"; tutoI = 0; } else if (view==="tuto") view = "home";
+  render();
+  if (!started){ started = true; loadContent(); }
+}
+
 if ("serviceWorker" in navigator) window.addEventListener("load", ()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
-render();
-loadContent();
+if (rememberOn()) startApp(); else showLock();
 })();
