@@ -701,6 +701,494 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-12",
+   "questions": [
+    {
+     "id": "n20261012-01",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Dans le pacte de convergence UEMOA de 2015, quel est le critère clé ?",
+     "o": [
+      "Le taux de pression fiscale",
+      "Le solde budgétaire global, dons compris, rapporté au PIB nominal",
+      "La masse salariale rapportée aux recettes fiscales",
+      "Le taux de croissance du PIB réel"
+     ],
+     "a": 1,
+     "e": "Le critère clé est le solde budgétaire global, dons compris, rapporté au PIB nominal, qui doit être supérieur ou égal à −3 %.",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-02",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Selon le pacte de convergence UEMOA de 2015, le taux d'inflation annuel moyen ne doit pas dépasser :",
+     "o": [
+      "2 %",
+      "5 %",
+      "10 %",
+      "3 %"
+     ],
+     "a": 3,
+     "e": "Critère de premier rang : inflation annuelle moyenne de 3 % au maximum.",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-03",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Critère de second rang du pacte UEMOA de 2015 : la masse salariale rapportée aux recettes fiscales doit être :",
+     "o": [
+      "inférieure ou égale à 35 %",
+      "inférieure ou égale à 50 %",
+      "supérieure ou égale à 20 %",
+      "inférieure ou égale à 70 %"
+     ],
+     "a": 0,
+     "e": "Masse salariale / recettes fiscales ≤ 35 %. Ne pas confondre avec la pression fiscale (≥ 20 %) ni avec la dette (≤ 70 % du PIB).",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-04",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Quel taux de pression fiscale minimum le pacte de convergence UEMOA de 2015 fixe-t-il ?",
+     "o": [
+      "15 %",
+      "25 %",
+      "20 %",
+      "35 %"
+     ],
+     "a": 2,
+     "e": "Critère de second rang : taux de pression fiscale supérieur ou égal à 20 %.",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-05",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Lequel de ces indicateurs n'est PAS un critère de premier rang du pacte UEMOA de 2015 ?",
+     "o": [
+      "Le taux d'inflation annuel moyen",
+      "L'encours de la dette rapporté au PIB nominal",
+      "Le solde budgétaire global rapporté au PIB nominal",
+      "La masse salariale rapportée aux recettes fiscales"
+     ],
+     "a": 3,
+     "e": "Premier rang : solde budgétaire (≥ −3 %), inflation (≤ 3 %), dette (≤ 70 %). La masse salariale (≤ 35 %) et la pression fiscale (≥ 20 %) sont de second rang.",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-06",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Quel organe a adopté, le 19 janvier 2015, le pacte de convergence UEMOA à cinq critères ?",
+     "o": [
+      "La Conférence des Chefs d'État et de Gouvernement",
+      "La Commission de l'UEMOA",
+      "Le Conseil d'administration de la BCEAO",
+      "Le Parlement de l'UEMOA"
+     ],
+     "a": 0,
+     "e": "Le nouveau pacte a été adopté par la Conférence des Chefs d'État et de Gouvernement le 19 janvier 2015.",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-07",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "En avril 2020, face à la Covid-19, les chefs d'État de l'UEMOA ont décidé :",
+     "o": [
+      "de relever le plafond d'inflation à 5 %",
+      "de dévaluer le franc CFA",
+      "de suspendre temporairement l'application du pacte de convergence",
+      "de supprimer le critère de dette"
+     ],
+     "a": 2,
+     "e": "Réunis en sommet extraordinaire par visioconférence, ils ont suspendu temporairement le pacte (inflation 3 %, déficit 3 % du PIB, dette 70 %) pour faire face à la crise.",
+     "src": {
+      "t": "Le360 – Covid-19 : l'UEMOA suspend son pacte de convergence économique (28 avril 2020)",
+      "u": "https://afrique.le360.ma/autres-pays/economie/2020/04/28/30390-covid-19-luemoa-suspend-son-pacte-de-convergence-economique-30390"
+     }
+    },
+    {
+     "id": "n20261012-08",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Le premier pacte de convergence, de stabilité, de croissance et de solidarité de l'UEMOA a été institué par :",
+     "o": [
+      "le Traité de Dakar de 1994",
+      "l'Acte additionnel n° 04/99",
+      "la Loi organique de 2014",
+      "le Règlement de la BCEAO de 2010"
+     ],
+     "a": 1,
+     "e": "L'Acte additionnel n° 04/99 au Traité a institué le premier pacte, avec un horizon de convergence au 31 décembre 2002, reporté à 2005 puis à 2008.",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-09",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Un État a une masse salariale de 1 500 milliards de F et des recettes fiscales de 5 000 milliards de F. Son ratio masse salariale / recettes fiscales vaut :",
+     "o": [
+      "33,3 %",
+      "35 %",
+      "30 %",
+      "20 %"
+     ],
+     "a": 2,
+     "e": "1 500 / 5 000 × 100 = 30 % : le critère de second rang (≤ 35 %) est respecté.",
+     "verif": "calcul",
+     "calc": "1500/5000*100"
+    },
+    {
+     "id": "n20261012-10",
+     "m": "pes",
+     "tag": "pes-conv",
+     "q": "Un État a un déficit budgétaire (dons compris) de 1 600 milliards de F pour un PIB nominal de 40 000 milliards de F. Son déficit représente :",
+     "o": [
+      "2,5 % du PIB",
+      "3 % du PIB",
+      "4 % du PIB",
+      "25 % du PIB"
+     ],
+     "a": 2,
+     "e": "1 600 / 40 000 × 100 = 4 % : un solde de −4 % ne respecte pas le critère clé (≥ −3 %).",
+     "verif": "calcul",
+     "calc": "1600/40000*100"
+    },
+    {
+     "id": "n20261012-11",
+     "m": "cg",
+     "tag": "ci-integ",
+     "q": "L'UEMOA a été créée le 10 janvier 1994 à :",
+     "o": [
+      "Ouagadougou",
+      "Dakar",
+      "Abidjan",
+      "Lomé"
+     ],
+     "a": 1,
+     "e": "Créée le 10 janvier 1994 à Dakar ; son siège est à Ouagadougou (piège classique).",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-12",
+     "m": "cg",
+     "tag": "ci-integ",
+     "q": "Quel État a rejoint l'UEMOA en 1997, portant le nombre de membres à huit ?",
+     "o": [
+      "La Guinée-Bissau",
+      "La Guinée",
+      "Le Ghana",
+      "La Mauritanie"
+     ],
+     "a": 0,
+     "e": "La Guinée-Bissau a adhéré en 1997 ; les huit membres partagent le franc CFA.",
+     "src": {
+      "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "n20261012-13",
+     "m": "cg",
+     "tag": "ci-integ",
+     "q": "Le traité de l'OHADA a été signé le 17 octobre 1993 à :",
+     "o": [
+      "Québec",
+      "Libreville",
+      "Port-Louis",
+      "Yaoundé"
+     ],
+     "a": 2,
+     "e": "Signé à Port-Louis (Maurice) le 17 octobre 1993, révisé à Québec le 17 octobre 2008.",
+     "src": {
+      "t": "OHADA.com – Traité OHADA",
+      "u": "https://ohada.com/textes-ohada/traite-ohada.html?langue=en"
+     }
+    },
+    {
+     "id": "n20261012-14",
+     "m": "cg",
+     "tag": "ci-integ",
+     "q": "Dans quelle ville siège la Cour commune de justice et d'arbitrage (CCJA) de l'OHADA ?",
+     "o": [
+      "Porto-Novo",
+      "Yaoundé",
+      "Dakar",
+      "Abidjan"
+     ],
+     "a": 3,
+     "e": "La CCJA siège à Abidjan ; l'OHADA compte 17 États membres.",
+     "src": {
+      "t": "OHADA.com – À 30 ans, l'OHADA dans la force de l'âge (févr. 2024)",
+      "u": "https://www.ohada.com/actualite/7151/a-30-ans-lohada-dans-la-force-de-lage.html?langue=pt"
+     }
+    },
+    {
+     "id": "n20261012-15",
+     "m": "cg",
+     "tag": "voc3",
+     "q": "Choisissez le mot juste : « Les cambrioleurs sont entrés par … dans les bureaux. »",
+     "o": [
+      "infraction",
+      "effraction",
+      "fraction",
+      "diffraction"
+     ],
+     "a": 1,
+     "e": "Paronymes : l'effraction est le bris de clôture ou de serrure pour entrer ; l'infraction est la violation d'une loi.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261012-16",
+     "m": "cg",
+     "tag": "voc3",
+     "q": "Quel est le synonyme de « pérenne » ?",
+     "o": [
+      "éphémère",
+      "onéreux",
+      "durable",
+      "obligatoire"
+     ],
+     "a": 2,
+     "e": "« Pérenne » signifie qui dure longtemps, durable ; « éphémère » en est l'antonyme.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261012-17",
+     "m": "ang",
+     "tag": "ang4",
+     "q": "He is ___ honest man.",
+     "o": [
+      "a",
+      "an",
+      "the a",
+      "some"
+     ],
+     "a": 1,
+     "e": "On emploie « an » devant un son voyelle : le h de « honest » est muet.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261012-18",
+     "m": "ang",
+     "tag": "ang4",
+     "q": "Give the plural of « phenomenon » :",
+     "o": [
+      "phenomenons",
+      "phenomenas",
+      "phenomena",
+      "phenomenes"
+     ],
+     "a": 2,
+     "e": "Pluriel irrégulier d'origine grecque : phenomenon → phenomena (comme criterion → criteria).",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261012-19",
+     "m": "ang",
+     "tag": "ang4",
+     "q": "I have been waiting ___ two hours.",
+     "o": [
+      "since",
+      "for",
+      "during",
+      "from"
+     ],
+     "a": 1,
+     "e": "« For » + durée (two hours) ; « since » + point de départ (since 8 o'clock).",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261012-20",
+     "m": "ang",
+     "tag": "ang4",
+     "q": "This exam is ___ than the last one.",
+     "o": [
+      "more difficult",
+      "difficulter",
+      "most difficult",
+      "more difficulter"
+     ],
+     "a": 0,
+     "e": "Adjectif de trois syllabes ou plus : comparatif en « more + adjectif » (more difficult than).",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261012-21",
+     "m": "log",
+     "tag": "calc3",
+     "q": "Quel nombre suit : 3, 7, 15, 31, … ?",
+     "o": [
+      "47",
+      "62",
+      "63",
+      "64"
+     ],
+     "a": 2,
+     "e": "Chaque terme vaut le double du précédent plus 1 : 31 × 2 + 1 = 63.",
+     "verif": "calcul",
+     "calc": "31*2+1"
+    },
+    {
+     "id": "n20261012-22",
+     "m": "log",
+     "tag": "calc3",
+     "q": "12 agents traitent 360 dossiers en 5 jours. Au même rythme, combien de dossiers 15 agents traitent-ils en 4 jours ?",
+     "o": [
+      "300 dossiers",
+      "384 dossiers",
+      "450 dossiers",
+      "360 dossiers"
+     ],
+     "a": 3,
+     "e": "Rendement : 360 / (12 × 5) = 6 dossiers par agent et par jour ; 15 × 4 × 6 = 360 dossiers.",
+     "verif": "calcul",
+     "calc": "360/(12*5)*15*4"
+    },
+    {
+     "id": "n20261012-23",
+     "m": "log",
+     "tag": "calc3",
+     "q": "Un candidat obtient 12, 15, 9 et 14 à quatre épreuves de même coefficient. Sa moyenne est :",
+     "o": [
+      "12",
+      "12,5",
+      "13",
+      "11,5"
+     ],
+     "a": 1,
+     "e": "(12 + 15 + 9 + 14) / 4 = 50 / 4 = 12,5.",
+     "verif": "calcul",
+     "calc": "(12+15+9+14)/4"
+    },
+    {
+     "id": "n20261012-24",
+     "m": "log",
+     "tag": "calc3",
+     "q": "Un budget de 80 millions de F consacre 35 % aux salaires. Le montant des salaires est de :",
+     "o": [
+      "28 millions de F",
+      "35 millions de F",
+      "52 millions de F",
+      "24 millions de F"
+     ],
+     "a": 0,
+     "e": "80 × 0,35 = 28 millions de F.",
+     "verif": "calcul",
+     "calc": "80*0.35"
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261012",
+     "m": "pes",
+     "titre": "Le pacte de convergence de l'UEMOA",
+     "min": 45,
+     "tech": [
+      "## Pourquoi ce thème tombe en PES",
+      "Les critères de convergence encadrent les finances publiques ivoiriennes : déficit, dette, masse salariale, fiscalité. Un sujet sur le financement du développement, la dette ou l'emploi public gagne à les citer avec précision.",
+      "## Méthode",
+      "- Apprenez les cinq critères par rang : trois de premier rang, deux de second rang.",
+      "- Associez chaque seuil à un sens : ≥ −3 % (solde), ≤ 3 % (inflation), ≤ 70 % (dette), ≤ 35 % (salaires / recettes fiscales), ≥ 20 % (pression fiscale).",
+      "- Entraînez-vous à calculer un ratio (montant / dénominateur × 100) puis à le comparer au seuil.",
+      "! Piège fréquent : confondre le 35 % de la masse salariale (rapporté aux recettes fiscales) et le 20 % de pression fiscale (rapporté au PIB).",
+      "> Dans une copie, citez la source et l'année du pacte (2015) : les chiffres de l'UEMOA évoluent, la règle de prudence s'applique."
+     ],
+     "fond": [
+      "## La surveillance multilatérale",
+      "- L'UEMOA, créée le 10 janvier 1994 à Dakar, réunit huit États (Bénin, Burkina Faso, Côte d'Ivoire, Guinée-Bissau, Mali, Niger, Sénégal, Togo) qui partagent le franc CFA.",
+      "- La surveillance multilatérale vise à assurer la convergence des performances et des politiques économiques des États membres.",
+      "## Du pacte de 1999 au pacte de 2015",
+      "- L'Acte additionnel n° 04/99 a institué le pacte de convergence, de stabilité, de croissance et de solidarité ; l'horizon de 2002 a été reporté à 2005 puis à 2008, et le mécanisme de sanction est resté inopérant.",
+      "- Le 19 janvier 2015, la Conférence des Chefs d'État et de Gouvernement a adopté un nouveau pacte, avec un horizon fixé au 31 décembre 2019 pour le critère clé.",
+      "## Les cinq critères de 2015",
+      "- Premier rang : solde budgétaire global, dons compris, rapporté au PIB nominal ≥ −3 % (critère clé) ; inflation annuelle moyenne ≤ 3 % ; encours de la dette rapporté au PIB nominal ≤ 70 %.",
+      "- Second rang : masse salariale rapportée aux recettes fiscales ≤ 35 % ; taux de pression fiscale ≥ 20 %.",
+      "## La suspension de 2020",
+      "- En avril 2020, réunis en sommet extraordinaire par visioconférence, les chefs d'État ont suspendu temporairement l'application du pacte pour faire face à la Covid-19 et préserver les conditions de la reprise.",
+      "~ Exemple de calcul : déficit de 1 600 milliards pour un PIB de 40 000 milliards → 4 % du PIB, critère clé non respecté."
+     ],
+     "retenir": [
+      "Premier rang : solde ≥ −3 % du PIB (critère clé), inflation ≤ 3 %, dette ≤ 70 % du PIB.",
+      "Second rang : masse salariale ≤ 35 % des recettes fiscales, pression fiscale ≥ 20 %.",
+      "1999 : Acte additionnel n° 04/99 ; 19 janvier 2015 : nouveau pacte ; avril 2020 : suspension temporaire (Covid-19)."
+     ],
+     "exo": {
+      "tag": "pes-conv",
+      "n": 10,
+      "ecrit": "pes"
+     },
+     "sources": [
+      {
+       "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+       "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+      },
+      {
+       "t": "Le360 – Covid-19 : l'UEMOA suspend son pacte de convergence économique (28 avril 2020)",
+       "u": "https://afrique.le360.ma/autres-pays/economie/2020/04/28/30390-covid-19-luemoa-suspend-son-pacte-de-convergence-economique-30390"
+      },
+      {
+       "t": "Connectionivoirienne – Suspension du pacte de 3 % de déficit budgétaire dans l'UEMOA (7 mai 2020)",
+       "u": "https://connectionivoirienne.net/2020/05/07/suspension-du-pacte-de-3-de-deficit-budgetaire-dans-luemoa-une-decision-saluee-par-les-economistes/"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "pes",
+     "src": "original",
+     "ref": "Entraînement · 12 oct. 2026",
+     "t": "Les critères de convergence de l'UEMOA : contrainte pour le financement du développement ou garantie de stabilité pour la Côte d'Ivoire ?",
+     "plan": [
+      "Rappel sourcé : cinq critères adoptés en 2015 (solde ≥ −3 % du PIB, inflation ≤ 3 %, dette ≤ 70 %, masse salariale ≤ 35 % des recettes fiscales, pression fiscale ≥ 20 %).",
+      "I. Une garantie : stabilité de la monnaie commune, crédibilité auprès des marchés, discipline budgétaire.",
+      "II. Une contrainte : limitation de l'investissement public, besoin de flexibilité en crise (suspension d'avril 2020).",
+      "Conclusion : concilier discipline et développement par la mobilisation des recettes fiscales et la qualité de la dépense."
+     ]
+    },
+    {
+     "e": "sog",
+     "src": "original",
+     "ref": "Entraînement · 12 oct. 2026",
+     "t": "« La discipline collective est le prix de la solidarité entre les nations. » Commentez et discutez cette assertion.",
+     "plan": [
+      "I. La discipline fonde la solidarité : règles communes, confiance mutuelle, exemple des unions monétaires et commerciales.",
+      "II. Mais la solidarité ne peut se réduire à la discipline : chocs asymétriques, crises sanitaires, besoin de souplesse et d'entraide.",
+      "Conclusion : une discipline acceptée suppose des règles justes et des mécanismes de solidarité en cas de crise."
+     ]
+    }
+   ]
   }
  ]
 }
