@@ -1195,6 +1195,7 @@ const PROGRAMME = [
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
+const APP_VERSION = "a635749e du 13/10/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -2256,7 +2257,8 @@ function vProfil(){
     state.copies.length ? card("stack", h("h2",null,"Mes copies"), h("div",{class:"list"}, state.copies.slice().reverse().slice(0,10).map(c=>h("div",{class:"item"}, h("span",{class:"grow"}, h("b",null,EPREUVES[c.e].label), " · ", c.t), h("span",{class:"meta"}, frDate(c.date) + " · " + fr1(c.note) + "/20"))))) : null,
     state.sanctions.length ? card("stack", h("h2",null,"Sanctions"), h("div",{class:"list"}, state.sanctions.slice().reverse().map(s=>h("div",{class:"item"}, h("span",{class:"grow"}, s.reason, h("span",{class:"muted small block"}, frDate(s.date) + (s.reverted.length ? " · " + s.reverted.length + " niveau(x) reverrouillé(s)" : ""))), h("span",{class:"meta"},"−" + s.xp))))) : null,
     backupCard(),
-    card("stack", h("h2",null,"Tutoriel"), h("button",{class:"btn",type:"button",onclick:()=>openTuto(0)},"Revoir le tutoriel"))
+    card("stack", h("h2",null,"Tutoriel"), h("button",{class:"btn",type:"button",onclick:()=>openTuto(0)},"Revoir le tutoriel")),
+    h("p",{class:"note"},"Version de l'appli : " + APP_VERSION + ". ", h("button",{class:"link",type:"button",onclick:()=>{ if (state.exam) return; location.reload(); }},"Recharger"))
   );
 }
 function backupCard(){
@@ -2738,6 +2740,19 @@ function startApp(){
 indexLevels();
 // une épreuve restée ouverte (appli fermée de force, page rechargée) est une sortie pendant l'épreuve
 if (state.exam) interruptExam();
-if ("serviceWorker" in navigator) window.addEventListener("load", ()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
+// Mises à jour : vérification à chaque ouverture ; la nouvelle version s'installe et l'appli se recharge (jamais pendant une épreuve)
+if ("serviceWorker" in navigator){
+  const hadController = !!navigator.serviceWorker.controller;
+  let reloading = false;
+  navigator.serviceWorker.addEventListener("controllerchange", ()=>{
+    if (reloading || !hadController) return;
+    if (state.exam || state.interrupt) return;
+    reloading = true; location.reload();
+  });
+  window.addEventListener("load", ()=>navigator.serviceWorker.register("sw.js").then(reg=>{
+    reg.update().catch(()=>{});
+    document.addEventListener("visibilitychange", ()=>{ if (!document.hidden && !state.exam) reg.update().catch(()=>{}); });
+  }).catch(()=>{}));
+}
 if (rememberOn() && !state.pendingSanction && !state.interrupt) startApp(); else showLock();
 })();
