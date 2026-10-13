@@ -1465,7 +1465,21 @@ function indice(){
 // ---------- Navigation (déclarations utilisées par les épreuves) ----------
 let view = "home", quiz = null, lesson = null, ecrit = null, oralS = null, timers = [], pre = null, trackView = null;
 function clearTimers(){ timers.forEach(t=>clearInterval(t)); timers = []; }
-function go(v){ view = v; clearTimers(); render(); window.scrollTo({top:0}); }
+// Historique de navigation : bouton « Retour » de l'appli et bouton retour d'Android
+let NAV = [];
+const TRANSIENT = new Set(["conditions","quiz","ecrit","oral","interruption","urgence","sanction","tuto"]);
+function go(v, opts){
+  const back = opts && opts.back;
+  if (!back && v !== view && !TRANSIENT.has(view)){ NAV.push(view); if (NAV.length > 40) NAV.shift(); try { history.pushState({cap:1}, ""); } catch(e){} }
+  view = v; clearTimers(); render(); window.scrollTo({top:0});
+}
+function goBack(){
+  if (state.exam || state.interrupt || (state.blockUntil > Date.now())) return;
+  const v = NAV.pop();
+  if (v) go(v, {back:true}); else if (view !== "home") go("home", {back:true});
+}
+function canGoBack(){ return NAV.length > 0 && !state.exam && !state.interrupt && !(state.blockUntil > Date.now()) && !document.body.classList.contains("locked"); }
+function backClick(){ if (!canGoBack()) return; try { history.back(); } catch(e){ goBack(); } }
 const inExamView = ()=> ["quiz","ecrit","oral","conditions"].includes(view) && !!state.exam;
 
 // ---------- Surveillance des épreuves ----------
@@ -1481,7 +1495,11 @@ function examBegin(info){
   try { history.pushState({exam:1}, ""); } catch(e){}
 }
 function examFinish(){ state.exam = null; save(); wake(false); document.body.classList.remove("inexam"); }
-window.addEventListener("popstate", ()=>{ if (state.exam){ try { history.pushState({exam:1}, ""); } catch(e){} toast("Épreuve en cours : impossible de quitter. Remettez votre copie ou abandonnez."); } });
+window.addEventListener("popstate", ()=>{
+  if (state.exam){ try { history.pushState({exam:1}, ""); } catch(e){} toast("Épreuve en cours : impossible de quitter. Remettez votre copie ou abandonnez."); return; }
+  if (document.body.classList.contains("locked")) return;
+  goBack();
+});
 document.addEventListener("visibilitychange", ()=>{
   if (document.hidden){ if (state.exam) interruptExam(); }
   else {
@@ -1700,6 +1718,8 @@ function render(){
   document.body.classList.toggle("blocked", (view==="sanction" && state.blockUntil > Date.now()) || view==="interruption");
   renderNav();
   const v = $("#view"); v.replaceChildren();
+  const lo = $("#logoutBtn"); if (lo) lo.onclick = logout;
+  if (canGoBack() && !(view==="quiz" && quiz && !quiz.done) && !(view==="ecrit" && ecrit && ecrit.phase==="write")) v.append(h("button",{class:"backbtn",type:"button",onclick:backClick}, "← Retour"));
   const fn = {home:vHome, parcours:vParcours, track:vTrack, lesson:vLesson, quiz:vQuiz, train:vTrain, ecrit:vEcrit, oral:vOral, conditions:vConditions,
     candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, interruption:vInterruption, urgence:vUrgence}[view] || vHome;
   v.append(fn());
@@ -1770,7 +1790,7 @@ function vHome(){
   const dp = dossierProgress();
   const p = state.profile;
   return h("div",{class:"stack"},
-    h("div",null, h("p",{class:"lbl"}, JOURS[new Date().getDay()] + " " + frDate(td) + " · cycle " + (state.cycle==="CS"?"supérieur":"moyen supérieur")), h("h1",null, (hr<18?"Bonjour ":"Bonsoir ") + (p.prenoms || "") )),
+    h("div",{class:"hello"}, h("button",{class:"avbtn",type:"button","aria-label":"Mon profil",onclick:()=>go("profil")}, avatar(52)), h("div",null, h("p",{class:"lbl"}, JOURS[new Date().getDay()] + " " + frDate(td) + " · cycle " + (state.cycle==="CS"?"supérieur":"moyen supérieur")), h("h1",null, (hr<18?"Bonjour ":"Bonsoir ") + (p.prenoms || "") ))),
     card("feature stack",
       h("div",{class:"row spread"}, h("div",null, h("p",{class:"lbl"},"Indice de préparation"), h("b",{class:"big-n"}, ind.total + " / 100")), h("div",{class:"right"}, h("p",{class:"lbl"},"Grade"), h("b",null, nv.cur[1]))),
       bar(ind.total, ind.total<40),
@@ -2209,6 +2229,7 @@ function vProfil(){
   const rows = ms.map(k=>{ const st=state.stats[k]; const v = st.n?Math.round(st.ok/st.n*100):0; return h("div",{class:"mrow"}, h("span",null,kindLabel(k)), bar(v, v<50), h("span",null,v+" %")); });
   return h("div",{class:"stack"},
     h("div",null,h("p",{class:"lbl"},"Candidat"),h("h1",null, ((p.nom||"") + " " + (p.prenoms||"")).trim() || "Mon profil")),
+    card("stack", photoCard()),
     card("stack",
       h("div",{class:"row spread"}, h("div",null,h("p",{class:"lbl"},"Grade"),h("h2",null,nv.cur[1])), h("b",{class:"big-n"}, state.xp + " XP")),
       bar(pct),
@@ -2315,6 +2336,35 @@ function remindersCard(){
       h("li",null,"Après un changement d'horaires, supprimez les anciens événements « Cap ENA » de l'agenda, puis ajoutez les nouveaux.")),
     h("div",{class:"list"}, state.planning.slice().sort((a,b)=>((a.jour+6)%7)-((b.jour+6)%7) || toMin(a.debut)-toMin(b.debut)).map(s=>h("a",{class:"item",href:gcalLink(s),target:"_blank",rel:"noopener"}, h("span",{class:"grow"}, h("b",null, slotLabel(s)), h("span",{class:"muted small block"}, JOURS[s.jour] + " · " + s.debut + "–" + s.fin)), h("span",{class:"meta"},"Ajouter")))),
     h("button",{class:"btn",type:"button",onclick:()=>download("cap-ena-rappels.ics", icsText(), "text/calendar")},"Ou télécharger tous les rappels (.ics)"));
+}
+
+// ---------- Photo de profil (stockée dans le téléphone uniquement) ----------
+function initials(){ const p = state.profile; return ((p.prenoms||"").trim()[0] || "") + ((p.nom||"").trim()[0] || "") || "?"; }
+function avatar(size){
+  const p = state.profile, st = "width:"+size+"px;height:"+size+"px;font-size:"+Math.round(size*0.38)+"px";
+  return p.photo ? h("img",{class:"avatar",src:p.photo,alt:"Photo de profil",style:st}) : h("span",{class:"avatar ini",style:st,"aria-hidden":"true"}, initials().toUpperCase());
+}
+function pickPhoto(file){
+  if (!file) return;
+  if (!/^image\//.test(file.type)) return toast("Choisissez une image.");
+  const url = URL.createObjectURL(file), img = new Image();
+  img.onload = ()=>{
+    const S = 320, c = document.createElement("canvas"); c.width = c.height = S;
+    const m = Math.min(img.naturalWidth, img.naturalHeight);
+    c.getContext("2d").drawImage(img, (img.naturalWidth-m)/2, (img.naturalHeight-m)/2, m, m, 0, 0, S, S);
+    state.profile.photo = c.toDataURL("image/jpeg", 0.82); URL.revokeObjectURL(url); save(); render(); toast("Photo enregistrée.");
+  };
+  img.onerror = ()=>{ URL.revokeObjectURL(url); toast("Image illisible : essayez une autre photo."); };
+  img.src = url;
+}
+function photoCard(){
+  const inp = h("input",{type:"file",accept:"image/*",class:"hiddenfile",id:"photoIn",onchange:(ev)=>pickPhoto(ev.target.files[0])});
+  return h("div",{class:"photorow"},
+    avatar(84),
+    h("div",{class:"stack tight"},
+      h("label",{class:"btn small primary",for:"photoIn"}, state.profile.photo ? "Changer la photo" : "Ajouter ma photo"), inp,
+      state.profile.photo ? h("button",{class:"btn small ghost",type:"button",onclick:()=>{ delete state.profile.photo; save(); render(); }},"Retirer la photo") : null,
+      h("span",{class:"muted small"},"Galerie ou appareil photo. La photo reste dans le téléphone.")));
 }
 
 
@@ -2508,7 +2558,7 @@ function securityCard(){
     h("div",{class:"row"},
       has ? h("button",{class:"btn",type:"button",onclick:()=>{ try{ localStorage.removeItem(CKEY); }catch(e){} toast("Empreinte désactivée."); render(); }},"Désactiver l'empreinte")
           : h("button",{class:"btn primary",type:"button",id:"bioBtn",onclick:async()=>{ if (await bioEnroll()) render(); }},"Activer l'empreinte digitale"),
-      h("button",{class:"btn",type:"button",onclick:()=>{ setRemember(false); showLock(); }},"Verrouiller maintenant")),
+      h("button",{class:"btn",type:"button",onclick:logout},"Se déconnecter")),
     h("p",{class:"muted small"}, "L'empreinte utilise le capteur et le verrouillage d'écran du téléphone (Android peut proposer votre code PIN si le doigt n'est pas reconnu). Le code TANO AHMED reste toujours valable."));
   bioAvailable().then(ok=>{ if (!ok && !has){ const b = c.querySelector("#bioBtn"); if (b){ b.disabled = true; b.textContent = "Empreinte indisponible ici"; } } });
   return c;
@@ -2537,7 +2587,7 @@ function showLock(){
     h("label",{class:"chk"}, rem, h("span",null,"Ne plus demander de déverrouillage sur ce téléphone")),
     h("button",{class: bio ? "btn" : "btn primary",type:"submit"},"Ouvrir Cap ENA"));
   $("#view").replaceChildren(h("div",{class:"lock"},
-    h("div",{class:"lockmark","aria-hidden":"true"},"ENA"),
+    state.profile.photo ? avatar(96) : h("div",{class:"lockmark","aria-hidden":"true"},"ENA"),
     h("div",{class:"center"}, h("p",{class:"lbl"},"Accès réservé"), h("h1",null,"Cap ENA 2027"), h("p",{class:"muted"},"Préparation aux concours directs de l'ENA de Côte d'Ivoire")),
     state.pendingSanction ? h("p",{class:"box warn"},"Vous avez quitté l'appli pendant une épreuve : déverrouillez pour voir la sanction.") : state.interrupt ? h("p",{class:"box warn"},"Une épreuve a été interrompue : déverrouillez pour en déclarer la cause.") : null,
     form));
@@ -2565,6 +2615,14 @@ function installCard(){
 }
 window.addEventListener("appinstalled", ()=>{ deferredPrompt=null; toast("Cap ENA est installée sur ce téléphone."); });
 
+// ---------- Déconnexion ----------
+function logout(){
+  if (state.exam) return toast("Épreuve en cours : remettez votre copie avant de vous déconnecter.");
+  setRemember(false); NAV = []; clearTimers();
+  showLock();
+  toast("Vous êtes déconnecté. Code ou empreinte pour revenir.");
+}
+
 
 // ---------- Tutoriel ----------
 let tutoI = 0;
@@ -2582,7 +2640,9 @@ const TUTO = [
     txt:["Installée, Cap ENA s'ouvre en plein écran depuis son icône et fonctionne hors connexion avec les contenus déjà téléchargés."] },
   { t:"Votre profil et l'empreinte digitale", lbl:"Profil et sécurité",
     txt:["Onglet Profil : renseignez votre identité, votre date de naissance et le cycle visé. Ces informations restent dans le téléphone.",
+         "- Ajoutez votre photo (galerie ou appareil photo) : elle s'affiche sur l'accueil et sur l'écran de verrouillage.",
          "- « Activer l'empreinte digitale » : l'appli s'ouvrira ensuite avec votre doigt.",
+         "- Le bouton rond en haut à droite vous déconnecte ; « ← Retour » (ou le bouton retour du téléphone) ramène à la page précédente.",
          "- Le code TANO AHMED reste toujours valable si le capteur ne répond pas.",
          "- L'empreinte n'est disponible que dans l'appli installée sur un téléphone équipé d'un verrouillage d'écran."] },
   { t:"L'écran « Aujourd'hui »", lbl:"L'emploi du temps du jour",
