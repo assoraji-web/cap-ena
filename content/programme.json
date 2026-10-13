@@ -1293,5 +1293,586 @@
     "tag_integre": null
    }
   ]
+ },
+ {
+  "k": "oj",
+  "label": "Organisation judiciaire de la Côte d'Ivoire",
+  "ecrit": "oj",
+  "levels": [
+   {
+    "id": "oj01",
+    "titre": "Méthode de l'épreuve d'organisation judiciaire",
+    "objectifs": "Dissertation juridique et sujet de cours : analyser, problématiser, construire un plan en deux parties",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj02",
+    "titre": "Les sources et les principes de l'organisation judiciaire",
+    "objectifs": "Constitution, lois d'organisation judiciaire ; indépendance, gratuité, double degré de juridiction, collégialité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj03",
+    "titre": "Le pouvoir judiciaire dans la Constitution",
+    "objectifs": "Titre de la Constitution consacré au pouvoir judiciaire, Conseil supérieur de la magistrature",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj04",
+    "titre": "Les juridictions du premier degré",
+    "objectifs": "Tribunaux de première instance et sections de tribunal, compétences",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj05",
+    "titre": "Les cours d'appel",
+    "objectifs": "Organisation, chambres, compétences",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj06",
+    "titre": "Les juridictions suprêmes",
+    "objectifs": "Cour de cassation, Conseil d'État, Cour des comptes : rôle et saisine",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj07",
+    "titre": "Les juridictions spécialisées",
+    "objectifs": "Tribunaux de commerce, juridictions pour mineurs, juridictions militaires, autres",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj08",
+    "titre": "Le ministère public et les magistrats",
+    "objectifs": "Parquet, siège, statut de la magistrature",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj09",
+    "titre": "Les auxiliaires de justice",
+    "objectifs": "Greffiers, avocats, huissiers, notaires, experts",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj10",
+    "titre": "La Haute Cour de justice et la justice constitutionnelle",
+    "objectifs": "Responsabilité pénale des gouvernants, Conseil constitutionnel",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj11",
+    "titre": "L'accès à la justice",
+    "objectifs": "Aide juridictionnelle, médiation, justice de proximité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "oj12",
+    "titre": "Révision : organisation judiciaire",
+    "objectifs": "Test de niveau et sujet blanc",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "denf",
+  "label": "Droits de l'enfant",
+  "ecrit": "denf",
+  "levels": [
+   {
+    "id": "de01",
+    "titre": "Méthode de l'épreuve de droits de l'enfant",
+    "objectifs": "Dissertation et cas pratique : qualifier, citer la règle, raisonner",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de02",
+    "titre": "La notion d'enfant et l'intérêt supérieur de l'enfant",
+    "objectifs": "Définitions, principe directeur",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de03",
+    "titre": "La Convention relative aux droits de l'enfant",
+    "objectifs": "Adoption, principes, droits garantis, Comité des droits de l'enfant",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de04",
+    "titre": "La Charte africaine des droits et du bien-être de l'enfant",
+    "objectifs": "Spécificités, comité africain d'experts",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de05",
+    "titre": "Les droits civils de l'enfant",
+    "objectifs": "Nom, nationalité, état civil, filiation",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de06",
+    "titre": "L'enfant dans la famille",
+    "objectifs": "Autorité parentale, garde, adoption, placement",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de07",
+    "titre": "La protection de l'enfant contre les violences",
+    "objectifs": "Maltraitance, exploitation, mariage précoce",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de08",
+    "titre": "Le travail des enfants et la traite",
+    "objectifs": "Normes internationales et législation ivoirienne",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de09",
+    "titre": "L'enfant en conflit avec la loi",
+    "objectifs": "Responsabilité pénale, mesures éducatives, juridictions pour mineurs",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de10",
+    "titre": "L'enfant en danger et la protection judiciaire",
+    "objectifs": "Mesures d'assistance éducative, rôle des services de la PJEJ",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de11",
+    "titre": "Le droit à l'éducation et à la santé",
+    "objectifs": "Obligations de l'État",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de12",
+    "titre": "Les institutions de protection de l'enfance",
+    "objectifs": "Acteurs nationaux et internationaux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "de13",
+    "titre": "Révision : droits de l'enfant",
+    "objectifs": "Test de niveau et sujet blanc",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "sfp",
+  "label": "Statut et déontologie de la fonction publique",
+  "ecrit": "sfp",
+  "levels": [
+   {
+    "id": "sf01",
+    "titre": "Méthode de l'épreuve de statut de la fonction publique",
+    "objectifs": "Dissertation et sujet de cours appliqués au droit de la fonction publique",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf02",
+    "titre": "La notion de fonction publique et ses sources",
+    "objectifs": "Constitution, statut général, statuts particuliers",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf03",
+    "titre": "L'accès à la fonction publique",
+    "objectifs": "Conditions, concours, stage, titularisation",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf04",
+    "titre": "La carrière du fonctionnaire",
+    "objectifs": "Catégories, grades, avancement, positions",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf05",
+    "titre": "Les droits du fonctionnaire",
+    "objectifs": "Rémunération, congés, liberté d'opinion, droit syndical, protection",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf06",
+    "titre": "Les obligations du fonctionnaire",
+    "objectifs": "Service, obéissance, discrétion, neutralité, probité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf07",
+    "titre": "La déontologie et l'éthique",
+    "objectifs": "Conflits d'intérêts, intégrité, lutte contre la corruption",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf08",
+    "titre": "Le régime disciplinaire",
+    "objectifs": "Fautes, sanctions, procédure, garanties",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf09",
+    "titre": "La cessation des fonctions",
+    "objectifs": "Démission, retraite, licenciement, révocation",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "sf10",
+    "titre": "Révision : statut et déontologie",
+    "objectifs": "Test de niveau et sujet blanc",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "opaj",
+  "label": "Organisation politique, administrative et judiciaire",
+  "ecrit": "opaj",
+  "levels": [
+   {
+    "id": "op01",
+    "titre": "Méthode de l'épreuve d'OPAJ",
+    "objectifs": "Sujet de cours : définir, organiser, illustrer par le droit positif ivoirien",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op02",
+    "titre": "L'organisation politique : l'État et la Constitution",
+    "objectifs": "Forme de l'État, souveraineté, régime",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op03",
+    "titre": "Le pouvoir exécutif",
+    "objectifs": "Président, Vice-Président, Gouvernement",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op04",
+    "titre": "Le pouvoir législatif",
+    "objectifs": "Parlement, procédure législative",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op05",
+    "titre": "Les institutions consultatives et de contrôle",
+    "objectifs": "Conseil constitutionnel, CESEC, Médiateur, autres",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op06",
+    "titre": "L'administration centrale",
+    "objectifs": "Ministères, directions, établissements publics",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op07",
+    "titre": "L'administration territoriale",
+    "objectifs": "Déconcentration : districts, régions, départements, sous-préfectures",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op08",
+    "titre": "La décentralisation",
+    "objectifs": "Collectivités territoriales, tutelle",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op09",
+    "titre": "L'organisation judiciaire",
+    "objectifs": "Juridictions de l'ordre judiciaire et administratif",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "op10",
+    "titre": "Révision : OPAJ",
+    "objectifs": "Test de niveau et sujet blanc",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "pen",
+  "label": "Organisation du système pénitentiaire",
+  "ecrit": "pen",
+  "levels": [
+   {
+    "id": "pn01",
+    "titre": "Méthode de l'épreuve sur le système pénitentiaire",
+    "objectifs": "Dissertation et sujet de cours appliqués au droit pénitentiaire",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn02",
+    "titre": "Les finalités de la peine et de l'administration pénitentiaire",
+    "objectifs": "Garde, réinsertion, sécurité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn03",
+    "titre": "L'organisation de l'administration pénitentiaire",
+    "objectifs": "Direction, services, personnels",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn04",
+    "titre": "Les établissements pénitentiaires",
+    "objectifs": "Catégories, régimes",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn05",
+    "titre": "La situation juridique des détenus",
+    "objectifs": "Prévenus, condamnés, droits et obligations",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn06",
+    "titre": "Les normes internationales",
+    "objectifs": "Règles Nelson Mandela, règles de Bangkok, autres standards",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn07",
+    "titre": "La discipline et la sécurité",
+    "objectifs": "Régime disciplinaire, contrôle, prévention des évasions",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn08",
+    "titre": "La réinsertion sociale",
+    "objectifs": "Travail, formation, aménagements de peine",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn09",
+    "titre": "Le contrôle des établissements",
+    "objectifs": "Contrôles juridictionnels et administratifs",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pn10",
+    "titre": "Révision : système pénitentiaire",
+    "objectifs": "Test de niveau et sujet blanc",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "dciv",
+  "label": "Droit civil et droit commercial général",
+  "ecrit": "dciv",
+  "levels": [
+   {
+    "id": "dv01",
+    "titre": "Méthode du droit civil et commercial",
+    "objectifs": "Cas pratique et dissertation : faits, qualification, règle, solution",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv02",
+    "titre": "Les personnes",
+    "objectifs": "Personnalité juridique, capacité, état civil",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv03",
+    "titre": "La famille",
+    "objectifs": "Mariage, filiation, régimes matrimoniaux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv04",
+    "titre": "Les biens",
+    "objectifs": "Classification, propriété, possession",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv05",
+    "titre": "Les obligations : le contrat",
+    "objectifs": "Formation, validité, effets",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv06",
+    "titre": "La responsabilité civile",
+    "objectifs": "Faute, dommage, lien de causalité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv07",
+    "titre": "Le droit OHADA",
+    "objectifs": "Organisation, actes uniformes, CCJA",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv08",
+    "titre": "Le commerçant et les actes de commerce",
+    "objectifs": "Définitions, obligations, RCCM",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv09",
+    "titre": "Le fonds de commerce et le bail commercial",
+    "objectifs": "Éléments, opérations",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv10",
+    "titre": "Les intermédiaires de commerce et la vente commerciale",
+    "objectifs": "Régimes",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dv11",
+    "titre": "Révision : droit civil et commercial",
+    "objectifs": "Test de niveau et sujet blanc",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "info",
+  "label": "Informatique et bureautique",
+  "ecrit": null,
+  "levels": [
+   {
+    "id": "in01",
+    "titre": "Méthode de l'épreuve d'informatique et de bureautique",
+    "objectifs": "Ce qui est attendu, gestion du temps, vocabulaire",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in02",
+    "titre": "L'ordinateur et ses composants",
+    "objectifs": "Matériel, périphériques, unités de mesure",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in03",
+    "titre": "Systèmes d'exploitation et gestion des fichiers",
+    "objectifs": "Dossiers, extensions, sauvegarde",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in04",
+    "titre": "Le traitement de texte",
+    "objectifs": "Mise en forme, styles, tableaux, publipostage",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in05",
+    "titre": "Le tableur",
+    "objectifs": "Formules, fonctions usuelles, graphiques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in06",
+    "titre": "Internet et messagerie",
+    "objectifs": "Navigation, recherche, courriel",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in07",
+    "titre": "Sécurité informatique",
+    "objectifs": "Mots de passe, virus, hameçonnage, sauvegardes",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in08",
+    "titre": "Présentation et outils collaboratifs",
+    "objectifs": "Diaporama, partage de documents",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in09",
+    "titre": "L'informatique dans l'administration et la justice",
+    "objectifs": "Dématérialisation, protection des données",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "in10",
+    "titre": "Révision : informatique et bureautique",
+    "objectifs": "Test de niveau",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
  }
 ]

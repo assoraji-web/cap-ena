@@ -15,13 +15,14 @@ L'appli est un parcours à niveaux. Le programme complet est dans `content/progr
 
 1. Dresse la liste des niveaux déjà pourvus : ceux qui ont `lecon_integree` dans programme.json, et ceux qui ont une leçon avec le champ `niv` dans les packs `content/AAAA-MM.json`.
 2. Pour chaque matière, le prochain niveau à produire est le premier niveau non pourvu.
-3. Produis **3 niveaux** cette nuit : choisis les matières qui ont le moins de niveaux pourvus d'avance (à égalité : français, anglais, culture générale, logique, PES, droit constitutionnel, SOG, résumé, droit administratif, oral, note de synthèse).
+3. Produis **3 niveaux** cette nuit : **2 niveaux** dans les matières du concours prioritaire (ENA cycle moyen supérieur : français, anglais, culture générale, logique, PES, droit constitutionnel, SOG, résumé, oral, droit administratif) et **1 niveau** dans les matières des concours de l'INFJ et de la Fonction publique (organisation judiciaire, droits de l'enfant, statut et déontologie de la fonction publique, OPAJ, système pénitentiaire, informatique et bureautique, puis droit civil et commercial). Dans chaque groupe, choisis la matière qui a le moins de niveaux pourvus d'avance. Les matières et épreuves de chaque concours, avec leurs sources officielles, figurent dans `concours.js` à la racine de l'application (constante CONCOURS).
 4. Pour chaque niveau : une leçon complète avec `"niv": "<identifiant du niveau>"` et ses **10 à 12 questions** portant le tag `"niv-<identifiant>"` (le contrôleur en exige au moins 6). La leçon suit fidèlement le titre et les objectifs du niveau.
 5. En plus : 6 questions de culture générale vérifiées (actualité de plus de 30 jours, Afrique, Europe, Amériques, Asie, organisations internationales) avec le tag `cg-libre`, et, si une matière d'écrit a été produite, 1 sujet original (`src: "original"`) avec un plan corrigé de 3 à 5 lignes.
 6. Niveau « Révision » (dernier niveau d'une matière) : questions couvrant toute la matière.
 - Toujours des contenus originaux, aussi exigeants que les sujets de l'ENA ou plus : ne te contente jamais de recopier d'anciens sujets.
 - La bonne réponse doit être répartie sur les positions 0 à 3.
-- Matières (`m`) : fr (français), cg, ang, log, pes, dc, da, fp, sog, ct, ns, oral.
+- Matières (`m`) : fr (français), cg, ang, log, pes, dc, da, fp, sog, ct, ns, oral, oj (organisation judiciaire), denf (droits de l'enfant), sfp (statut et déontologie de la fonction publique), opaj, pen (système pénitentiaire), dciv (droit civil et commercial), info (informatique et bureautique).
+- Droit ivoirien : chaque article, loi ou décret cité doit être vérifié sur le texte officiel (Journal officiel, site du Gouvernement, de l'Assemblée nationale, de la Cour suprême ou de l'INFJ). Un statut général de la fonction publique a été réformé (décret n°2025-120 du 26 février 2025 cité par le communiqué du concours de Secrétaire administratif 2026) : vérifie le texte en vigueur avant d'écrire sur le statut.
 - Leçon de langue, de calcul ou de méthode : `"verif": "regle"`, `"calcul"` ou `"methode"` (pas d'URL exigée). Toute leçon qui contient des faits porte `sources` (pages réellement lues).
 
 ## L'esprit des sujets ENA (relevé sur les sujets 2019-2026)
@@ -39,7 +40,7 @@ L'appli est un parcours à niveaux. Le programme complet est dans `content/progr
 ```
 - Blocs de texte des leçons : `## ` intertitre, `- ` puce, `> ` encadré, `! ` piège, `~ ` exemple.
 - La bonne réponse peut être à n'importe quelle position (`a` de 0 à 3) : varie-la.
-- Matières : fr, cg, ang, log, pes, dc, da, fp, sog, ct, ns, oral. Épreuves d'écrit : sog, pes, ct, dc, ns, da.
+- Matières : fr, cg, ang, log, pes, dc, da, fp, sog, ct, ns, oral, oj, denf, sfp, opaj, pen, dciv, info. Épreuves d'écrit : sog, pes, ct, dc, ns, da, oj, denf, sfp, opaj, pen, dciv.
 - Ajoute le jour au fichier du mois en cours (crée-le s'il n'existe pas).
 
 ## Signalements d'erreurs

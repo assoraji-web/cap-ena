@@ -2863,6 +2863,846 @@
      "a": 1,
      "e": "La sécurité de l'emploi est une motivation personnelle, pas un projet de service public.",
      "verif": "methode"
+    },
+    {
+     "id": "n20261013-oj01-01",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "En organisation judiciaire, par quoi commence le travail sur un sujet ?",
+     "o": [
+      "La rédaction directe du développement",
+      "La définition des termes du sujet et la délimitation du champ",
+      "La conclusion",
+      "Le choix des exemples"
+     ],
+     "a": 1,
+     "e": "Définir les termes et délimiter le champ évite le hors-sujet : c'est la première étape de la méthode.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-oj01-02",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "En organisation judiciaire, quel plan est attendu dans une copie juridique ?",
+     "o": [
+      "Un plan en deux parties et deux sous-parties",
+      "Un plan en cinq parties",
+      "Une liste de paragraphes sans titres",
+      "Un plan chronologique imposé"
+     ],
+     "a": 0,
+     "e": "La tradition juridique française et ivoirienne privilégie le plan en deux parties et deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-oj01-03",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "En organisation judiciaire, que faire si l'on n'est pas sûr du numéro exact d'un article de loi ?",
+     "o": [
+      "Inventer un numéro plausible",
+      "Citer le texte sans le numéro",
+      "Ne citer aucun texte",
+      "Citer un texte étranger"
+     ],
+     "a": 1,
+     "e": "Une référence inexacte discrédite la copie ; on cite alors le texte (la Constitution, la loi) sans numéro.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-oj01-04",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "En organisation judiciaire, la problématique d'un sujet est :",
+     "o": [
+      "la définition du sujet",
+      "la liste des textes applicables",
+      "la question juridique centrale que pose le sujet",
+      "le titre de la première partie"
+     ],
+     "a": 2,
+     "e": "La problématique formule la question de droit à laquelle le plan va répondre.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-oj01-05",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "Dans une copie de organisation judiciaire, à quoi servent les « chapeaux » au début de chaque partie ?",
+     "o": [
+      "À remplacer la conclusion",
+      "À annoncer les sous-parties qui suivent",
+      "À citer des auteurs",
+      "À rien : ils sont interdits"
+     ],
+     "a": 1,
+     "e": "Le chapeau introduit la partie et annonce ses deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-oj01-06",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "Épreuve de organisation judiciaire aux concours de l'INFJ (session 2026) : une note inférieure ou égale à 5/20 est :",
+     "o": [
+      "sans effet",
+      "compensée automatiquement",
+      "éliminatoire, sauf délibération spécialement motivée du jury",
+      "doublée à l'oral"
+     ],
+     "a": 2,
+     "e": "Les arrêtés d'ouverture des concours de l'INFJ du 9 janvier 2026 prévoient cette note éliminatoire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-oj01-07",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "Un sujet de cours d'organisation judiciaire demande surtout :",
+     "o": [
+      "un exposé organisé d'une institution ou d'un régime",
+      "une opinion personnelle",
+      "un résumé de texte",
+      "un calcul"
+     ],
+     "a": 0,
+     "e": "Le sujet de cours appelle un exposé structuré et exact.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-oj01-08",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "Pour réviser l'organisation judiciaire, l'outil le plus utile est :",
+     "o": [
+      "un schéma de l'organisation juridictionnelle",
+      "un roman",
+      "un dictionnaire d'anglais",
+      "une calculatrice"
+     ],
+     "a": 0,
+     "e": "Un schéma permet de mémoriser la hiérarchie et les compétences des juridictions.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-de01-01",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "En droits de l'enfant, par quoi commence le travail sur un sujet ?",
+     "o": [
+      "La rédaction directe du développement",
+      "La définition des termes du sujet et la délimitation du champ",
+      "La conclusion",
+      "Le choix des exemples"
+     ],
+     "a": 1,
+     "e": "Définir les termes et délimiter le champ évite le hors-sujet : c'est la première étape de la méthode.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-de01-02",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "En droits de l'enfant, quel plan est attendu dans une copie juridique ?",
+     "o": [
+      "Un plan en deux parties et deux sous-parties",
+      "Un plan en cinq parties",
+      "Une liste de paragraphes sans titres",
+      "Un plan chronologique imposé"
+     ],
+     "a": 0,
+     "e": "La tradition juridique française et ivoirienne privilégie le plan en deux parties et deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-de01-03",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "En droits de l'enfant, que faire si l'on n'est pas sûr du numéro exact d'un article de loi ?",
+     "o": [
+      "Inventer un numéro plausible",
+      "Citer le texte sans le numéro",
+      "Ne citer aucun texte",
+      "Citer un texte étranger"
+     ],
+     "a": 1,
+     "e": "Une référence inexacte discrédite la copie ; on cite alors le texte (la Constitution, la loi) sans numéro.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-de01-04",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "En droits de l'enfant, la problématique d'un sujet est :",
+     "o": [
+      "la définition du sujet",
+      "la liste des textes applicables",
+      "la question juridique centrale que pose le sujet",
+      "le titre de la première partie"
+     ],
+     "a": 2,
+     "e": "La problématique formule la question de droit à laquelle le plan va répondre.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-de01-05",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "Dans une copie de droits de l'enfant, à quoi servent les « chapeaux » au début de chaque partie ?",
+     "o": [
+      "À remplacer la conclusion",
+      "À annoncer les sous-parties qui suivent",
+      "À citer des auteurs",
+      "À rien : ils sont interdits"
+     ],
+     "a": 1,
+     "e": "Le chapeau introduit la partie et annonce ses deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-de01-06",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "Épreuve de droits de l'enfant aux concours de l'INFJ (session 2026) : une note inférieure ou égale à 5/20 est :",
+     "o": [
+      "sans effet",
+      "compensée automatiquement",
+      "éliminatoire, sauf délibération spécialement motivée du jury",
+      "doublée à l'oral"
+     ],
+     "a": 2,
+     "e": "Les arrêtés d'ouverture des concours de l'INFJ du 9 janvier 2026 prévoient cette note éliminatoire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-de01-07",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "Dans un cas pratique, quelle est la bonne succession des étapes ?",
+     "o": [
+      "Solution, faits, règle",
+      "Faits, question de droit, règle, application, solution",
+      "Règle, solution, faits",
+      "Conclusion, introduction, faits"
+     ],
+     "a": 1,
+     "e": "La méthode du cas pratique va des faits à la solution en passant par la règle et son application.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-de01-08",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "Le principe directeur de toute décision concernant un enfant est :",
+     "o": [
+      "l'intérêt des parents",
+      "l'intérêt supérieur de l'enfant",
+      "l'intérêt de l'administration",
+      "l'ordre d'arrivée des dossiers"
+     ],
+     "a": 1,
+     "e": "L'intérêt supérieur de l'enfant guide toutes les décisions qui le concernent.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-sf01-01",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "En statut de la fonction publique, par quoi commence le travail sur un sujet ?",
+     "o": [
+      "La rédaction directe du développement",
+      "La définition des termes du sujet et la délimitation du champ",
+      "La conclusion",
+      "Le choix des exemples"
+     ],
+     "a": 1,
+     "e": "Définir les termes et délimiter le champ évite le hors-sujet : c'est la première étape de la méthode.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-sf01-02",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "En statut de la fonction publique, quel plan est attendu dans une copie juridique ?",
+     "o": [
+      "Un plan en deux parties et deux sous-parties",
+      "Un plan en cinq parties",
+      "Une liste de paragraphes sans titres",
+      "Un plan chronologique imposé"
+     ],
+     "a": 0,
+     "e": "La tradition juridique française et ivoirienne privilégie le plan en deux parties et deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-sf01-03",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "En statut de la fonction publique, que faire si l'on n'est pas sûr du numéro exact d'un article de loi ?",
+     "o": [
+      "Inventer un numéro plausible",
+      "Citer le texte sans le numéro",
+      "Ne citer aucun texte",
+      "Citer un texte étranger"
+     ],
+     "a": 1,
+     "e": "Une référence inexacte discrédite la copie ; on cite alors le texte (la Constitution, la loi) sans numéro.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-sf01-04",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "En statut de la fonction publique, la problématique d'un sujet est :",
+     "o": [
+      "la définition du sujet",
+      "la liste des textes applicables",
+      "la question juridique centrale que pose le sujet",
+      "le titre de la première partie"
+     ],
+     "a": 2,
+     "e": "La problématique formule la question de droit à laquelle le plan va répondre.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-sf01-05",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "Dans une copie de statut de la fonction publique, à quoi servent les « chapeaux » au début de chaque partie ?",
+     "o": [
+      "À remplacer la conclusion",
+      "À annoncer les sous-parties qui suivent",
+      "À citer des auteurs",
+      "À rien : ils sont interdits"
+     ],
+     "a": 1,
+     "e": "Le chapeau introduit la partie et annonce ses deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-sf01-06",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "Épreuve de statut de la fonction publique aux concours de l'INFJ (session 2026) : une note inférieure ou égale à 5/20 est :",
+     "o": [
+      "sans effet",
+      "compensée automatiquement",
+      "éliminatoire, sauf délibération spécialement motivée du jury",
+      "doublée à l'oral"
+     ],
+     "a": 2,
+     "e": "Les arrêtés d'ouverture des concours de l'INFJ du 9 janvier 2026 prévoient cette note éliminatoire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-sf01-07",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "Pour organiser les règles du statut, on distingue utilement :",
+     "o": [
+      "accès, carrière, droits et obligations, discipline",
+      "nord, sud, est, ouest",
+      "matin, midi, soir",
+      "recettes et dépenses"
+     ],
+     "a": 0,
+     "e": "Ces quatre familles couvrent l'essentiel du statut du fonctionnaire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-sf01-08",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "Une épreuve de déontologie gagne à s'appuyer sur :",
+     "o": [
+      "des situations professionnelles concrètes",
+      "des anecdotes personnelles sans lien",
+      "des chiffres inventés",
+      "des citations de romans"
+     ],
+     "a": 0,
+     "e": "La déontologie s'illustre par des situations professionnelles concrètes.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-op01-01",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "En OPAJ, par quoi commence le travail sur un sujet ?",
+     "o": [
+      "La rédaction directe du développement",
+      "La définition des termes du sujet et la délimitation du champ",
+      "La conclusion",
+      "Le choix des exemples"
+     ],
+     "a": 1,
+     "e": "Définir les termes et délimiter le champ évite le hors-sujet : c'est la première étape de la méthode.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-op01-02",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "En OPAJ, quel plan est attendu dans une copie juridique ?",
+     "o": [
+      "Un plan en deux parties et deux sous-parties",
+      "Un plan en cinq parties",
+      "Une liste de paragraphes sans titres",
+      "Un plan chronologique imposé"
+     ],
+     "a": 0,
+     "e": "La tradition juridique française et ivoirienne privilégie le plan en deux parties et deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-op01-03",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "En OPAJ, que faire si l'on n'est pas sûr du numéro exact d'un article de loi ?",
+     "o": [
+      "Inventer un numéro plausible",
+      "Citer le texte sans le numéro",
+      "Ne citer aucun texte",
+      "Citer un texte étranger"
+     ],
+     "a": 1,
+     "e": "Une référence inexacte discrédite la copie ; on cite alors le texte (la Constitution, la loi) sans numéro.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-op01-04",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "En OPAJ, la problématique d'un sujet est :",
+     "o": [
+      "la définition du sujet",
+      "la liste des textes applicables",
+      "la question juridique centrale que pose le sujet",
+      "le titre de la première partie"
+     ],
+     "a": 2,
+     "e": "La problématique formule la question de droit à laquelle le plan va répondre.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-op01-05",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "Dans une copie de OPAJ, à quoi servent les « chapeaux » au début de chaque partie ?",
+     "o": [
+      "À remplacer la conclusion",
+      "À annoncer les sous-parties qui suivent",
+      "À citer des auteurs",
+      "À rien : ils sont interdits"
+     ],
+     "a": 1,
+     "e": "Le chapeau introduit la partie et annonce ses deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-op01-06",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "Épreuve de OPAJ aux concours de l'INFJ (session 2026) : une note inférieure ou égale à 5/20 est :",
+     "o": [
+      "sans effet",
+      "compensée automatiquement",
+      "éliminatoire, sauf délibération spécialement motivée du jury",
+      "doublée à l'oral"
+     ],
+     "a": 2,
+     "e": "Les arrêtés d'ouverture des concours de l'INFJ du 9 janvier 2026 prévoient cette note éliminatoire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-op01-07",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "En OPAJ, la déconcentration désigne :",
+     "o": [
+      "le transfert de compétences à des collectivités élues dotées de la personnalité morale",
+      "la délégation de pouvoirs de l'État à ses propres représentants locaux",
+      "la suppression des ministères",
+      "l'élection des juges"
+     ],
+     "a": 1,
+     "e": "La déconcentration reste interne à l'État ; la décentralisation transfère des compétences à des collectivités dotées de la personnalité morale.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-op01-08",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "En une heure d'épreuve, quelle répartition est conseillée ?",
+     "o": [
+      "Une heure de plan, aucune rédaction",
+      "10 minutes d'analyse et de plan, 45 minutes de rédaction, 5 minutes de relecture",
+      "Rédaction directe sans plan",
+      "30 minutes de relecture"
+     ],
+     "a": 1,
+     "e": "Un plan rapide puis une rédaction continue et une relecture finale.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-pn01-01",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "En système pénitentiaire, par quoi commence le travail sur un sujet ?",
+     "o": [
+      "La rédaction directe du développement",
+      "La définition des termes du sujet et la délimitation du champ",
+      "La conclusion",
+      "Le choix des exemples"
+     ],
+     "a": 1,
+     "e": "Définir les termes et délimiter le champ évite le hors-sujet : c'est la première étape de la méthode.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-pn01-02",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "En système pénitentiaire, quel plan est attendu dans une copie juridique ?",
+     "o": [
+      "Un plan en deux parties et deux sous-parties",
+      "Un plan en cinq parties",
+      "Une liste de paragraphes sans titres",
+      "Un plan chronologique imposé"
+     ],
+     "a": 0,
+     "e": "La tradition juridique française et ivoirienne privilégie le plan en deux parties et deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-pn01-03",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "En système pénitentiaire, que faire si l'on n'est pas sûr du numéro exact d'un article de loi ?",
+     "o": [
+      "Inventer un numéro plausible",
+      "Citer le texte sans le numéro",
+      "Ne citer aucun texte",
+      "Citer un texte étranger"
+     ],
+     "a": 1,
+     "e": "Une référence inexacte discrédite la copie ; on cite alors le texte (la Constitution, la loi) sans numéro.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-pn01-04",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "En système pénitentiaire, la problématique d'un sujet est :",
+     "o": [
+      "la définition du sujet",
+      "la liste des textes applicables",
+      "la question juridique centrale que pose le sujet",
+      "le titre de la première partie"
+     ],
+     "a": 2,
+     "e": "La problématique formule la question de droit à laquelle le plan va répondre.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-pn01-05",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "Dans une copie de système pénitentiaire, à quoi servent les « chapeaux » au début de chaque partie ?",
+     "o": [
+      "À remplacer la conclusion",
+      "À annoncer les sous-parties qui suivent",
+      "À citer des auteurs",
+      "À rien : ils sont interdits"
+     ],
+     "a": 1,
+     "e": "Le chapeau introduit la partie et annonce ses deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-pn01-06",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "Épreuve de système pénitentiaire aux concours de l'INFJ (session 2026) : une note inférieure ou égale à 5/20 est :",
+     "o": [
+      "sans effet",
+      "compensée automatiquement",
+      "éliminatoire, sauf délibération spécialement motivée du jury",
+      "doublée à l'oral"
+     ],
+     "a": 2,
+     "e": "Les arrêtés d'ouverture des concours de l'INFJ du 9 janvier 2026 prévoient cette note éliminatoire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-pn01-07",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "Les deux missions à toujours distinguer en droit pénitentiaire sont :",
+     "o": [
+      "la garde et la réinsertion",
+      "l'impôt et la douane",
+      "l'élection et le référendum",
+      "l'achat et la vente"
+     ],
+     "a": 0,
+     "e": "L'administration pénitentiaire assure la garde des personnes détenues et prépare leur réinsertion.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-pn01-08",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "Un prévenu est :",
+     "o": [
+      "une personne définitivement condamnée",
+      "une personne détenue en attente de jugement définitif",
+      "un agent pénitentiaire",
+      "un avocat"
+     ],
+     "a": 1,
+     "e": "Le prévenu n'a pas encore été définitivement jugé ; il bénéficie de la présomption d'innocence.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dv01-01",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "En droit civil et commercial, par quoi commence le travail sur un sujet ?",
+     "o": [
+      "La rédaction directe du développement",
+      "La définition des termes du sujet et la délimitation du champ",
+      "La conclusion",
+      "Le choix des exemples"
+     ],
+     "a": 1,
+     "e": "Définir les termes et délimiter le champ évite le hors-sujet : c'est la première étape de la méthode.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dv01-02",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "En droit civil et commercial, quel plan est attendu dans une copie juridique ?",
+     "o": [
+      "Un plan en deux parties et deux sous-parties",
+      "Un plan en cinq parties",
+      "Une liste de paragraphes sans titres",
+      "Un plan chronologique imposé"
+     ],
+     "a": 0,
+     "e": "La tradition juridique française et ivoirienne privilégie le plan en deux parties et deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dv01-03",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "En droit civil et commercial, que faire si l'on n'est pas sûr du numéro exact d'un article de loi ?",
+     "o": [
+      "Inventer un numéro plausible",
+      "Citer le texte sans le numéro",
+      "Ne citer aucun texte",
+      "Citer un texte étranger"
+     ],
+     "a": 1,
+     "e": "Une référence inexacte discrédite la copie ; on cite alors le texte (la Constitution, la loi) sans numéro.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dv01-04",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "En droit civil et commercial, la problématique d'un sujet est :",
+     "o": [
+      "la définition du sujet",
+      "la liste des textes applicables",
+      "la question juridique centrale que pose le sujet",
+      "le titre de la première partie"
+     ],
+     "a": 2,
+     "e": "La problématique formule la question de droit à laquelle le plan va répondre.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dv01-05",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "Dans une copie de droit civil et commercial, à quoi servent les « chapeaux » au début de chaque partie ?",
+     "o": [
+      "À remplacer la conclusion",
+      "À annoncer les sous-parties qui suivent",
+      "À citer des auteurs",
+      "À rien : ils sont interdits"
+     ],
+     "a": 1,
+     "e": "Le chapeau introduit la partie et annonce ses deux sous-parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dv01-06",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "Épreuve de droit civil et commercial aux concours de l'INFJ (session 2026) : une note inférieure ou égale à 5/20 est :",
+     "o": [
+      "sans effet",
+      "compensée automatiquement",
+      "éliminatoire, sauf délibération spécialement motivée du jury",
+      "doublée à l'oral"
+     ],
+     "a": 2,
+     "e": "Les arrêtés d'ouverture des concours de l'INFJ du 9 janvier 2026 prévoient cette note éliminatoire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dv01-07",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "Dans un cas pratique, après avoir résumé les faits, on :",
+     "o": [
+      "conclut immédiatement",
+      "pose la question de droit",
+      "cite un roman",
+      "calcule une moyenne"
+     ],
+     "a": 1,
+     "e": "Après les faits vient la question de droit, puis la règle et son application.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dv01-08",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "Le droit commercial général applicable en Côte d'Ivoire est issu principalement :",
+     "o": [
+      "du droit OHADA",
+      "du droit maritime international",
+      "du droit fiscal",
+      "du règlement intérieur des entreprises"
+     ],
+     "a": 0,
+     "e": "Le droit commercial général est harmonisé par l'OHADA, dont la Côte d'Ivoire est membre.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-in01-01",
+     "m": "info",
+     "tag": "niv-in01",
+     "q": "Combien de bits compte un octet ?",
+     "o": [
+      "4",
+      "8",
+      "16",
+      "10"
+     ],
+     "a": 1,
+     "e": "Un octet est composé de 8 bits.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-in01-02",
+     "m": "info",
+     "tag": "niv-in01",
+     "q": "Quel raccourci clavier permet de coller sous Windows ?",
+     "o": [
+      "Ctrl + C",
+      "Ctrl + X",
+      "Ctrl + V",
+      "Ctrl + Z"
+     ],
+     "a": 2,
+     "e": "Ctrl + V colle ; Ctrl + C copie, Ctrl + X coupe, Ctrl + Z annule.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-in01-03",
+     "m": "info",
+     "tag": "niv-in01",
+     "q": "Quel raccourci permet d'annuler la dernière action sous Windows ?",
+     "o": [
+      "Ctrl + Z",
+      "Ctrl + S",
+      "Ctrl + P",
+      "Ctrl + V"
+     ],
+     "a": 0,
+     "e": "Ctrl + Z annule la dernière action.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-in01-04",
+     "m": "info",
+     "tag": "niv-in01",
+     "q": "Quelle extension correspond à un classeur Excel récent ?",
+     "o": [
+      ".docx",
+      ".pptx",
+      ".xlsx",
+      ".pdf"
+     ],
+     "a": 2,
+     "e": ".xlsx est l'extension des classeurs Excel depuis la version 2007.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-in01-05",
+     "m": "info",
+     "tag": "niv-in01",
+     "q": "La mémoire vive (RAM) :",
+     "o": [
+      "conserve les données après l'extinction",
+      "est effacée à l'extinction de l'ordinateur",
+      "est un logiciel",
+      "est un périphérique d'impression"
+     ],
+     "a": 1,
+     "e": "La RAM est une mémoire de travail volatile.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-in01-06",
+     "m": "info",
+     "tag": "niv-in01",
+     "q": "Lequel de ces éléments est un logiciel ?",
+     "o": [
+      "Le processeur",
+      "Le clavier",
+      "Le système d'exploitation",
+      "L'écran"
+     ],
+     "a": 2,
+     "e": "Le système d'exploitation est un logiciel ; les autres éléments sont du matériel.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-in01-07",
+     "m": "info",
+     "tag": "niv-in01",
+     "q": "Quel raccourci permet d'enregistrer un document sous Windows ?",
+     "o": [
+      "Ctrl + P",
+      "Ctrl + S",
+      "Ctrl + C",
+      "Ctrl + X"
+     ],
+     "a": 1,
+     "e": "Ctrl + S enregistre ; Ctrl + P imprime.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-in01-08",
+     "m": "info",
+     "tag": "niv-in01",
+     "q": "Quelle extension désigne un document au format portable, lisible sur tous les appareils ?",
+     "o": [
+      ".pdf",
+      ".xlsx",
+      ".exe",
+      ".pptx"
+     ],
+     "a": 0,
+     "e": "Le PDF (Portable Document Format) conserve la mise en page sur tous les appareils.",
+     "verif": "regle"
     }
    ],
    "lessons": [
@@ -3308,6 +4148,306 @@
       "tag": "niv-or02",
       "n": 6,
       "oral": true
+     }
+    },
+    {
+     "id": "L20261013oj01",
+     "niv": "oj01",
+     "m": "oj",
+     "titre": "Méthode de l'épreuve d'organisation judiciaire",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "L'épreuve d'organisation judiciaire (3 heures, coefficient 3 aux concours de Conseiller PJEJ et d'Attaché pénitentiaire de la session 2026) vérifie que vous connaissez l'architecture de la justice ivoirienne et que vous savez l'exposer avec rigueur.",
+      "## Les deux formes de sujets",
+      "- Le sujet de dissertation pose une question ou une notion à discuter (« L'indépendance de la justice »).",
+      "- Le sujet de cours demande d'exposer de manière organisée une institution ou un régime juridique (« Les juridictions du premier degré »).",
+      "## La méthode en cinq temps",
+      "- Analyser : définir chaque terme du sujet, repérer le champ (droit ivoirien, droit international) et la période.",
+      "- Rassembler les connaissances : textes (Constitution, lois, décrets, conventions), principes, institutions, jurisprudence si vous la connaissez avec certitude.",
+      "- Problématiser : trouver la question juridique centrale que pose le sujet.",
+      "- Construire le plan : deux parties, deux sous-parties, avec des intitulés qui répondent à la problématique.",
+      "- Rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "! Une citation d'article de loi doit être exacte. En cas de doute sur un numéro d'article, citez le texte sans le numéro plutôt que d'inventer."
+     ],
+     "fond": [
+      "## Ce que le correcteur attend",
+      "- Une présentation exacte des juridictions et de leurs compétences, du premier degré aux juridictions suprêmes.",
+      "- La maîtrise des grands principes : indépendance de la justice, égalité devant la justice, double degré de juridiction, collégialité, publicité des débats.",
+      "- La capacité à relier les institutions à leurs textes fondateurs, à commencer par la Constitution.",
+      "## Comment réviser",
+      "- Construisez un schéma de l'organisation juridictionnelle et apprenez-le par cœur.",
+      "- Pour chaque juridiction : composition, compétence, voies de recours contre ses décisions.",
+      "~ Les niveaux suivants du parcours détaillent chaque juridiction, avec leurs sources."
+     ],
+     "retenir": [
+      "Définir les termes, délimiter le sujet, puis poser une problématique juridique.",
+      "Plan en deux parties et deux sous-parties, intitulés qui répondent à la question.",
+      "Chaque argument s'appuie sur un texte ou un principe juridique exact.",
+      "Ne jamais inventer un numéro d'article : citer le texte sans numéro en cas de doute.",
+      "Une note inférieure ou égale à 5/20 est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-oj01",
+      "n": 8,
+      "ecrit": "oj"
+     }
+    },
+    {
+     "id": "L20261013de01",
+     "niv": "de01",
+     "m": "denf",
+     "titre": "Méthode de l'épreuve de droits de l'enfant",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "L'épreuve de droits de l'enfant (4 heures, coefficient 4) est l'épreuve la plus lourde des concours de Conseiller et d'Inspecteur de la protection judiciaire de l'enfance et de la jeunesse, à égalité avec le sujet d'ordre général.",
+      "## Les deux formes de sujets",
+      "- Le sujet de dissertation pose une question ou une notion à discuter (« L'indépendance de la justice »).",
+      "- Le sujet de cours demande d'exposer de manière organisée une institution ou un régime juridique (« Les juridictions du premier degré »).",
+      "## La méthode en cinq temps",
+      "- Analyser : définir chaque terme du sujet, repérer le champ (droit ivoirien, droit international) et la période.",
+      "- Rassembler les connaissances : textes (Constitution, lois, décrets, conventions), principes, institutions, jurisprudence si vous la connaissez avec certitude.",
+      "- Problématiser : trouver la question juridique centrale que pose le sujet.",
+      "- Construire le plan : deux parties, deux sous-parties, avec des intitulés qui répondent à la problématique.",
+      "- Rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "! Une citation d'article de loi doit être exacte. En cas de doute sur un numéro d'article, citez le texte sans le numéro plutôt que d'inventer."
+     ],
+     "fond": [
+      "## Ce que le correcteur attend",
+      "- La connaissance des textes internationaux et régionaux de protection de l'enfant et de leur traduction en droit ivoirien.",
+      "- La maîtrise des principes directeurs, au premier rang desquels l'intérêt supérieur de l'enfant.",
+      "- Pour un cas pratique : qualifier la situation de l'enfant (en danger, victime, en conflit avec la loi), identifier la règle applicable, proposer la mesure adaptée.",
+      "## La méthode du cas pratique",
+      "- Résumer les faits utiles.",
+      "- Poser la question de droit.",
+      "- Énoncer la règle (texte, principe).",
+      "- L'appliquer aux faits.",
+      "- Conclure par une solution claire."
+     ],
+     "retenir": [
+      "Définir les termes, délimiter le sujet, puis poser une problématique juridique.",
+      "Plan en deux parties et deux sous-parties, intitulés qui répondent à la question.",
+      "Chaque argument s'appuie sur un texte ou un principe juridique exact.",
+      "Ne jamais inventer un numéro d'article : citer le texte sans numéro en cas de doute.",
+      "Une note inférieure ou égale à 5/20 est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-de01",
+      "n": 8,
+      "ecrit": "denf"
+     }
+    },
+    {
+     "id": "L20261013sf01",
+     "niv": "sf01",
+     "m": "sfp",
+     "titre": "Méthode de l'épreuve de statut et déontologie de la fonction publique",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "L'épreuve de statut et déontologie de la fonction publique (3 heures, coefficient 3 aux concours de la protection judiciaire de l'enfance et de la jeunesse) vérifie que vous connaissez les règles qui gouvernent la carrière, les droits et les devoirs du fonctionnaire.",
+      "## Les deux formes de sujets",
+      "- Le sujet de dissertation pose une question ou une notion à discuter (« L'indépendance de la justice »).",
+      "- Le sujet de cours demande d'exposer de manière organisée une institution ou un régime juridique (« Les juridictions du premier degré »).",
+      "## La méthode en cinq temps",
+      "- Analyser : définir chaque terme du sujet, repérer le champ (droit ivoirien, droit international) et la période.",
+      "- Rassembler les connaissances : textes (Constitution, lois, décrets, conventions), principes, institutions, jurisprudence si vous la connaissez avec certitude.",
+      "- Problématiser : trouver la question juridique centrale que pose le sujet.",
+      "- Construire le plan : deux parties, deux sous-parties, avec des intitulés qui répondent à la problématique.",
+      "- Rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "! Une citation d'article de loi doit être exacte. En cas de doute sur un numéro d'article, citez le texte sans le numéro plutôt que d'inventer."
+     ],
+     "fond": [
+      "## Ce que le correcteur attend",
+      "- La connaissance du statut général de la fonction publique et de ses textes d'application.",
+      "- La distinction claire entre droits, obligations et régime disciplinaire.",
+      "- Une réflexion sur l'éthique et la déontologie : neutralité, probité, réserve, prévention des conflits d'intérêts.",
+      "## Comment réviser",
+      "- Classez chaque règle dans l'une des quatre familles : accès, carrière, droits et obligations, discipline.",
+      "- Pour la déontologie, préparez des exemples concrets de situations professionnelles."
+     ],
+     "retenir": [
+      "Définir les termes, délimiter le sujet, puis poser une problématique juridique.",
+      "Plan en deux parties et deux sous-parties, intitulés qui répondent à la question.",
+      "Chaque argument s'appuie sur un texte ou un principe juridique exact.",
+      "Ne jamais inventer un numéro d'article : citer le texte sans numéro en cas de doute.",
+      "Une note inférieure ou égale à 5/20 est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-sf01",
+      "n": 8,
+      "ecrit": "sfp"
+     }
+    },
+    {
+     "id": "L20261013op01",
+     "niv": "op01",
+     "m": "opaj",
+     "titre": "Méthode de l'épreuve d'organisation politique, administrative et judiciaire (OPAJ)",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "L'OPAJ figure au concours d'Attaché des greffes et parquets (3 heures, coefficient 3) et au concours direct de Secrétaire administratif (1 heure). Elle couvre les institutions politiques, l'administration centrale et territoriale, et l'organisation de la justice.",
+      "## Les deux formes de sujets",
+      "- Le sujet de dissertation pose une question ou une notion à discuter (« L'indépendance de la justice »).",
+      "- Le sujet de cours demande d'exposer de manière organisée une institution ou un régime juridique (« Les juridictions du premier degré »).",
+      "## La méthode en cinq temps",
+      "- Analyser : définir chaque terme du sujet, repérer le champ (droit ivoirien, droit international) et la période.",
+      "- Rassembler les connaissances : textes (Constitution, lois, décrets, conventions), principes, institutions, jurisprudence si vous la connaissez avec certitude.",
+      "- Problématiser : trouver la question juridique centrale que pose le sujet.",
+      "- Construire le plan : deux parties, deux sous-parties, avec des intitulés qui répondent à la problématique.",
+      "- Rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "! Une citation d'article de loi doit être exacte. En cas de doute sur un numéro d'article, citez le texte sans le numéro plutôt que d'inventer."
+     ],
+     "fond": [
+      "## Ce que le correcteur attend",
+      "- Une description exacte des institutions issues de la Constitution de 2016.",
+      "- La distinction entre administration centrale, déconcentration et décentralisation.",
+      "- Une vue d'ensemble de l'organisation judiciaire.",
+      "## Gérer le temps",
+      "- En 1 heure (Secrétaire administratif) : 10 minutes d'analyse et de plan, 45 minutes de rédaction, 5 minutes de relecture.",
+      "- En 3 heures (Attaché des greffes) : 45 minutes d'analyse et de plan détaillé, 2 heures de rédaction, 15 minutes de relecture."
+     ],
+     "retenir": [
+      "Définir les termes, délimiter le sujet, puis poser une problématique juridique.",
+      "Plan en deux parties et deux sous-parties, intitulés qui répondent à la question.",
+      "Chaque argument s'appuie sur un texte ou un principe juridique exact.",
+      "Ne jamais inventer un numéro d'article : citer le texte sans numéro en cas de doute.",
+      "Une note inférieure ou égale à 5/20 est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-op01",
+      "n": 8,
+      "ecrit": "opaj"
+     }
+    },
+    {
+     "id": "L20261013pn01",
+     "niv": "pn01",
+     "m": "pen",
+     "titre": "Méthode de l'épreuve d'organisation du système pénitentiaire",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "L'épreuve sur l'organisation du système pénitentiaire de la Côte d'Ivoire (3 heures, coefficient 3) est propre au concours d'Attaché des services pénitentiaires.",
+      "## Les deux formes de sujets",
+      "- Le sujet de dissertation pose une question ou une notion à discuter (« L'indépendance de la justice »).",
+      "- Le sujet de cours demande d'exposer de manière organisée une institution ou un régime juridique (« Les juridictions du premier degré »).",
+      "## La méthode en cinq temps",
+      "- Analyser : définir chaque terme du sujet, repérer le champ (droit ivoirien, droit international) et la période.",
+      "- Rassembler les connaissances : textes (Constitution, lois, décrets, conventions), principes, institutions, jurisprudence si vous la connaissez avec certitude.",
+      "- Problématiser : trouver la question juridique centrale que pose le sujet.",
+      "- Construire le plan : deux parties, deux sous-parties, avec des intitulés qui répondent à la problématique.",
+      "- Rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "! Une citation d'article de loi doit être exacte. En cas de doute sur un numéro d'article, citez le texte sans le numéro plutôt que d'inventer."
+     ],
+     "fond": [
+      "## Ce que le correcteur attend",
+      "- La connaissance de l'administration pénitentiaire : organisation, établissements, personnels.",
+      "- La maîtrise du statut des personnes détenues : prévenus et condamnés, droits et obligations.",
+      "- La connaissance des normes internationales de traitement des détenus et des finalités de la peine : sanction, protection de la société, réinsertion.",
+      "## Comment réviser",
+      "- Distinguez toujours ce qui relève de la garde (sécurité) et de la réinsertion.",
+      "- Reliez chaque règle à son fondement : texte national ou norme internationale."
+     ],
+     "retenir": [
+      "Définir les termes, délimiter le sujet, puis poser une problématique juridique.",
+      "Plan en deux parties et deux sous-parties, intitulés qui répondent à la question.",
+      "Chaque argument s'appuie sur un texte ou un principe juridique exact.",
+      "Ne jamais inventer un numéro d'article : citer le texte sans numéro en cas de doute.",
+      "Une note inférieure ou égale à 5/20 est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-pn01",
+      "n": 8,
+      "ecrit": "pen"
+     }
+    },
+    {
+     "id": "L20261013dv01",
+     "niv": "dv01",
+     "m": "dciv",
+     "titre": "Méthode du droit civil et du droit commercial général",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "Au concours d'Administrateur des greffes et parquets, l'épreuve de droit civil ou de droit commercial général dure 3 heures (coefficient 3). Elle peut prendre la forme d'une dissertation ou d'un cas pratique.",
+      "## Les deux formes de sujets",
+      "- Le sujet de dissertation pose une question ou une notion à discuter (« L'indépendance de la justice »).",
+      "- Le sujet de cours demande d'exposer de manière organisée une institution ou un régime juridique (« Les juridictions du premier degré »).",
+      "## La méthode en cinq temps",
+      "- Analyser : définir chaque terme du sujet, repérer le champ (droit ivoirien, droit international) et la période.",
+      "- Rassembler les connaissances : textes (Constitution, lois, décrets, conventions), principes, institutions, jurisprudence si vous la connaissez avec certitude.",
+      "- Problématiser : trouver la question juridique centrale que pose le sujet.",
+      "- Construire le plan : deux parties, deux sous-parties, avec des intitulés qui répondent à la problématique.",
+      "- Rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "! Une citation d'article de loi doit être exacte. En cas de doute sur un numéro d'article, citez le texte sans le numéro plutôt que d'inventer."
+     ],
+     "fond": [
+      "## Ce que le correcteur attend",
+      "- La maîtrise des notions de base du droit civil : personnes, famille, biens, obligations, responsabilité.",
+      "- La connaissance du droit commercial général issu de l'OHADA : commerçant, actes de commerce, registre du commerce et du crédit mobilier, fonds de commerce.",
+      "## La méthode du cas pratique",
+      "- Résumer les faits utiles, poser la question de droit, énoncer la règle, l'appliquer, conclure.",
+      "~ Le droit commercial général est harmonisé dans l'espace OHADA : la règle est la même dans tous les États membres, dont la Côte d'Ivoire."
+     ],
+     "retenir": [
+      "Définir les termes, délimiter le sujet, puis poser une problématique juridique.",
+      "Plan en deux parties et deux sous-parties, intitulés qui répondent à la question.",
+      "Chaque argument s'appuie sur un texte ou un principe juridique exact.",
+      "Ne jamais inventer un numéro d'article : citer le texte sans numéro en cas de doute.",
+      "Une note inférieure ou égale à 5/20 est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-dv01",
+      "n": 8,
+      "ecrit": "dciv"
+     }
+    },
+    {
+     "id": "L20261013in01",
+     "niv": "in01",
+     "m": "info",
+     "titre": "Méthode de l'épreuve d'informatique et de bureautique",
+     "min": 35,
+     "verif": "regle",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "L'informatique et la bureautique comptent aux concours d'Attaché (2 heures, coefficient 2) et d'Administrateur des greffes et parquets (2 heures, coefficient 2). L'épreuve vérifie que vous maîtrisez les outils du greffe moderne : traitement de texte, tableur, messagerie, gestion des fichiers et sécurité.",
+      "## La méthode",
+      "- Lisez toutes les questions avant de commencer et répondez d'abord à celles que vous maîtrisez.",
+      "- Utilisez le vocabulaire exact : fichier, dossier, extension, logiciel, système d'exploitation, navigateur.",
+      "- Pour une question pratique (« Comment… ? »), donnez les étapes dans l'ordre, une par ligne.",
+      "! Ne confondez pas matériel (hardware) et logiciel (software)."
+     ],
+     "fond": [
+      "## Le vocabulaire de base",
+      "- Matériel : les éléments physiques (processeur, mémoire, disque, écran, clavier).",
+      "- Logiciel : les programmes (système d'exploitation, traitement de texte, tableur, navigateur).",
+      "- Unité de base : le bit (0 ou 1) ; 1 octet = 8 bits.",
+      "- Mémoire vive (RAM) : mémoire de travail, volatile, effacée à l'extinction. Stockage (disque dur, SSD, clé USB) : conserve les données.",
+      "## Les raccourcis à connaître (Windows)",
+      "- Ctrl + C : copier ; Ctrl + X : couper ; Ctrl + V : coller ; Ctrl + Z : annuler ; Ctrl + S : enregistrer ; Ctrl + P : imprimer.",
+      "## Les extensions courantes",
+      "- .docx : document Word ; .xlsx : classeur Excel ; .pptx : présentation PowerPoint ; .pdf : document portable ; .jpg et .png : images."
+     ],
+     "retenir": [
+      "Matériel = physique ; logiciel = programmes.",
+      "1 octet = 8 bits.",
+      "RAM = mémoire vive, effacée à l'extinction ; disque et clé USB = stockage durable.",
+      "Ctrl+C copier, Ctrl+X couper, Ctrl+V coller, Ctrl+Z annuler, Ctrl+S enregistrer.",
+      ".docx Word, .xlsx Excel, .pptx PowerPoint, .pdf document portable."
+     ],
+     "exo": {
+      "tag": "niv-in01",
+      "n": 10
      }
     }
    ],

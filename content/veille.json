@@ -113,5 +113,83 @@
     "u": "https://www.koaci.com/article/2026/03/11/cote-divoire/societe/cote-divoire-entree-a-lena-annee-2027-les-concours-seront-ouverts-pour-un-recrutement-estime-a-600-places_195022.html"
    }
   }
+ ],
+ "autres": [
+  {
+   "id": "infj",
+   "titre": "Concours directs de l'INFJ",
+   "concours": [
+    "infj-ces",
+    "infj-agp",
+    "infj-asp",
+    "infj-ies",
+    "infj-agpa"
+   ],
+   "statut": "non_annonce",
+   "resume": "Au 13 octobre 2026, aucun arrêté n'ouvre encore la session suivante. En 2026, les arrêtés d'ouverture dataient du 9 janvier et les inscriptions ont débuté le 19 janvier : une ouverture vers janvier 2027 est probable, sans certitude.",
+   "calendrier": [
+    {
+     "etape": "Arrêtés d'ouverture",
+     "statut": "estime",
+     "prevision": "vers janvier 2027 (estimation)",
+     "ref2026": "9 janvier 2026",
+     "source": {
+      "t": "Arrêté n°0029/MJDH/CAB du 9 janvier 2026 (INFJ, Attachés des greffes et parquets)",
+      "u": "https://infj.ciconcours.com/uploads/communiques/1/ATTACHES%20DES%20GREFFES%20ET%20PARQUETS%20-%20GREFFES.pdf"
+     }
+    },
+    {
+     "etape": "Inscriptions en ligne (infj.ci)",
+     "statut": "estime",
+     "prevision": "vers fin janvier à mars 2027 (estimation)",
+     "ref2026": "du 19 janvier au 1er mars 2026 (attachés, administrateurs) ; du 21 janvier au 27 mars 2026 (protection judiciaire de l'enfance)",
+     "source": {
+      "t": "Arrêté n°0014/MJDH/CAB du 9 janvier 2026 (INFJ, Conseiller de la protection judiciaire de l'enfance et de la jeunesse)",
+      "u": "https://infj.ciconcours.com/uploads/communiques/1/CONSEILLER%20D%20EDUCATION%20SURVEILLEE%20-%20DIRECT.pdf"
+     }
+    },
+    {
+     "etape": "Dépôt des dossiers de candidature",
+     "statut": "estime",
+     "prevision": "vers mars et avril 2027 (estimation)",
+     "ref2026": "du 2 mars au 10 avril 2026",
+     "source": {
+      "t": "Arrêté n°0029/MJDH/CAB du 9 janvier 2026 (INFJ, Attachés des greffes et parquets)",
+      "u": "https://infj.ciconcours.com/uploads/communiques/1/ATTACHES%20DES%20GREFFES%20ET%20PARQUETS%20-%20GREFFES.pdf"
+     }
+    },
+    {
+     "etape": "Écrits",
+     "statut": "estime",
+     "prevision": "vers juillet et août 2027 (estimation)",
+     "ref2026": "Attaché des greffes : 1er et 2 août ; Conseiller PJEJ : 22 et 23 août 2026",
+     "source": {
+      "t": "Arrêté n°0014/MJDH/CAB du 9 janvier 2026 (INFJ, Conseiller de la protection judiciaire de l'enfance et de la jeunesse)",
+      "u": "https://infj.ciconcours.com/uploads/communiques/1/CONSEILLER%20D%20EDUCATION%20SURVEILLEE%20-%20DIRECT.pdf"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fp",
+   "titre": "Concours directs de la Fonction publique (Secrétaire administratif)",
+   "concours": [
+    "fp-sa"
+   ],
+   "statut": "non_annonce",
+   "resume": "Au 13 octobre 2026, la liste des concours administratifs de la session suivante n'est pas publiée. En 2026, les inscriptions ont eu lieu du 16 mars au 30 avril.",
+   "calendrier": [
+    {
+     "etape": "Inscriptions en ligne (fonctionpublique.gouv.ci)",
+     "statut": "estime",
+     "prevision": "vers mi-mars à fin avril 2027 (estimation)",
+     "ref2026": "du 16 mars au 30 avril 2026",
+     "source": {
+      "t": "Fonction publique, communiqué du concours direct de Secrétaire administratif 2026",
+      "u": "https://gucaci.ciconcours.com/uploads/communiques/1/CD%20SECRETAIRE%20ADMINISTRATIF.PDF"
+     }
+    }
+   ]
+  }
  ]
 }

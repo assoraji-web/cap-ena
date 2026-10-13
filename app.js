@@ -989,6 +989,32 @@ const ORAL = [
   ["Quelles sont vos qualités et vos défauts ?","Qualités prouvées par des exemples ; un défaut réel et la façon dont vous le corrigez."]
 ];
 
+// ============ ÉPREUVES ÉCRITES DES CONCOURS INFJ ET FONCTION PUBLIQUE ============
+// Durées et coefficients : arrêtés INFJ du 9 janvier 2026 (voir concours.js).
+const GRILLE_JURIDIQUE = ["Les termes du sujet sont définis et le champ de l'étude est délimité.","Une problématique juridique claire est posée.","Le plan en deux parties et deux sous-parties est annoncé et équilibré.","Chaque argument s'appuie sur un texte ou un principe juridique précis.","Les références au droit ivoirien (Constitution, lois, décrets) sont exactes.","Des transitions relient les parties.","La conclusion répond à la problématique.","Vocabulaire juridique, orthographe et accords maîtrisés."];
+Object.assign(EPREUVES, {
+  oj:   { label:"Organisation judiciaire", duree:180, coef:3, cycles:"INFJ", grille:GRILLE_JURIDIQUE },
+  denf: { label:"Droits de l'enfant", duree:240, coef:4, cycles:"INFJ · PJEJ", grille:GRILLE_JURIDIQUE },
+  sfp:  { label:"Statut et déontologie de la fonction publique", duree:180, coef:3, cycles:"INFJ · PJEJ", grille:GRILLE_JURIDIQUE },
+  opaj: { label:"Organisation politique, administrative et judiciaire", duree:180, coef:3, cycles:"INFJ · Fonction publique", grille:GRILLE_JURIDIQUE },
+  pen:  { label:"Organisation du système pénitentiaire", duree:180, coef:3, cycles:"INFJ · pénitentiaire", grille:GRILLE_JURIDIQUE },
+  dciv: { label:"Droit civil ou droit commercial général", duree:180, coef:3, cycles:"INFJ · greffes", grille:GRILLE_JURIDIQUE }
+});
+SUJETS.push(
+  { e:"oj", src:"original", ref:"Entraînement", t:"Le double degré de juridiction : une garantie pour le justiciable ?", plan:["I. Un principe protecteur du justiciable : A. le droit à un nouvel examen de l'affaire ; B. le contrôle exercé sur les premiers juges.","II. Un principe aménagé : A. les décisions rendues en premier et dernier ressort ; B. les contraintes de délais et de coût qui limitent son usage."] },
+  { e:"oj", src:"original", ref:"Entraînement", t:"L'indépendance du pouvoir judiciaire en Côte d'Ivoire.", plan:["I. Une indépendance proclamée : A. les garanties constitutionnelles du pouvoir judiciaire ; B. le rôle du Conseil supérieur de la magistrature.","II. Une indépendance à consolider : A. les liens entre le parquet et l'exécutif ; B. les moyens matériels et humains de la justice."] },
+  { e:"denf", src:"original", ref:"Entraînement", t:"L'intérêt supérieur de l'enfant.", plan:["I. Un principe directeur : A. sa consécration par les textes internationaux ; B. sa traduction en droit interne.","II. Un principe difficile à mettre en œuvre : A. une notion au contenu variable, appréciée au cas par cas ; B. la conciliation avec les droits des parents et l'intérêt de la société."] },
+  { e:"denf", src:"original", ref:"Entraînement", t:"La justice des mineurs : punir ou éduquer ?", plan:["I. La primauté de l'éducatif : A. une responsabilité pénale atténuée ; B. des mesures éducatives et des juridictions spécialisées.","II. La place maintenue de la sanction : A. les peines encourues par le mineur ; B. la recherche d'un équilibre entre protection de la société et réinsertion."] },
+  { e:"sfp", src:"original", ref:"Entraînement", t:"La neutralité du fonctionnaire.", plan:["I. Une obligation fondamentale : A. le fondement : égalité des usagers devant le service public ; B. le contenu : neutralité politique, religieuse et philosophique dans le service.","II. Une obligation conciliée avec les libertés : A. la liberté d'opinion du fonctionnaire ; B. le devoir de réserve et ses limites."] },
+  { e:"sfp", src:"original", ref:"Entraînement", t:"Droits et obligations du fonctionnaire : un équilibre ?", plan:["I. Des droits qui protègent l'agent : A. droits pécuniaires et sociaux ; B. libertés et protection fonctionnelle.","II. Des obligations qui protègent le service : A. obligations de service et d'obéissance ; B. probité, discrétion et sanction disciplinaire."] },
+  { e:"opaj", src:"original", ref:"Entraînement", t:"Déconcentration et décentralisation en Côte d'Ivoire.", plan:["I. Deux modes distincts d'organisation administrative : A. la déconcentration, délégation de l'État à ses représentants ; B. la décentralisation, transfert de compétences à des collectivités dotées de la personnalité morale.","II. Deux modes complémentaires : A. l'articulation entre représentants de l'État et élus locaux ; B. les enjeux : proximité, développement local, contrôle de légalité."] },
+  { e:"opaj", src:"original", ref:"Entraînement", t:"Le Président de la République dans la Constitution de 2016.", plan:["I. La clé de voûte des institutions : A. mode d'élection et mandat ; B. pouvoirs propres et pouvoirs partagés.","II. Une prééminence encadrée : A. les rapports avec le Gouvernement et le Parlement ; B. les mécanismes de contrôle et de responsabilité."] },
+  { e:"pen", src:"original", ref:"Entraînement", t:"La prison peut-elle réinsérer ?", plan:["I. La réinsertion, mission affirmée de l'administration pénitentiaire : A. les fonctions de la peine ; B. les outils : travail, formation, suivi social.","II. Une mission difficile à remplir : A. surpopulation et manque de moyens ; B. les pistes : aménagements de peine, partenariats, peines alternatives."] },
+  { e:"pen", src:"original", ref:"Entraînement", t:"Les droits du détenu.", plan:["I. Des droits reconnus : A. le respect de la dignité et de l'intégrité ; B. le maintien des liens familiaux, l'accès aux soins et à la défense.","II. Des droits encadrés : A. les restrictions liées à la sécurité et à la discipline ; B. les mécanismes de contrôle et de recours."] },
+  { e:"dciv", src:"original", ref:"Entraînement", t:"La force obligatoire du contrat.", plan:["I. Le principe : A. le contrat fait la loi des parties ; B. les sanctions de l'inexécution.","II. Les tempéraments : A. la révision ou l'anéantissement du contrat ; B. le rôle du juge et de la loi d'ordre public."] },
+  { e:"dciv", src:"original", ref:"Entraînement", t:"Le commerçant dans l'espace OHADA.", plan:["I. La qualité de commerçant : A. l'accomplissement d'actes de commerce à titre de profession habituelle ; B. les incompatibilités et incapacités.","II. Le statut du commerçant : A. les obligations, dont l'immatriculation au RCCM et la tenue d'une comptabilité ; B. les droits et la protection du commerçant."] }
+);
+
 // ============ PROGRAMME À NIVEAUX ============
 // Chaque matière se parcourt dans l'ordre. Un niveau = une leçon (technique, cours, à retenir) + une évaluation.
 // [identifiant, titre, objectifs (pour la production des contenus), leçon intégrée éventuelle]
@@ -1188,14 +1214,163 @@ const PROGRAMME = [
   ["or05","Posture, voix et gestion du stress","Communication non verbale"],
   ["or06","Mises en situation administratives","Cas pratiques de l'oral"],
   ["or07","Simulation complète de l'oral","Oral blanc"]
+ ]},
+ { k:"oj", label:"Organisation judiciaire de la Côte d'Ivoire", court:"Organisation judiciaire", phase:"INFJ", ecrit:"oj", levels:[
+  ["oj01","Méthode de l'épreuve d'organisation judiciaire","Dissertation juridique et sujet de cours : analyser, problématiser, construire un plan en deux parties"],
+  ["oj02","Les sources et les principes de l'organisation judiciaire","Constitution, lois d'organisation judiciaire ; indépendance, gratuité, double degré de juridiction, collégialité"],
+  ["oj03","Le pouvoir judiciaire dans la Constitution","Titre de la Constitution consacré au pouvoir judiciaire, Conseil supérieur de la magistrature"],
+  ["oj04","Les juridictions du premier degré","Tribunaux de première instance et sections de tribunal, compétences"],
+  ["oj05","Les cours d'appel","Organisation, chambres, compétences"],
+  ["oj06","Les juridictions suprêmes","Cour de cassation, Conseil d'État, Cour des comptes : rôle et saisine"],
+  ["oj07","Les juridictions spécialisées","Tribunaux de commerce, juridictions pour mineurs, juridictions militaires, autres"],
+  ["oj08","Le ministère public et les magistrats","Parquet, siège, statut de la magistrature"],
+  ["oj09","Les auxiliaires de justice","Greffiers, avocats, huissiers, notaires, experts"],
+  ["oj10","La Haute Cour de justice et la justice constitutionnelle","Responsabilité pénale des gouvernants, Conseil constitutionnel"],
+  ["oj11","L'accès à la justice","Aide juridictionnelle, médiation, justice de proximité"],
+  ["oj12","Révision : organisation judiciaire","Test de niveau et sujet blanc"]
+ ]},
+ { k:"denf", label:"Droits de l'enfant", court:"Droits de l'enfant", phase:"INFJ · protection de l'enfance", ecrit:"denf", levels:[
+  ["de01","Méthode de l'épreuve de droits de l'enfant","Dissertation et cas pratique : qualifier, citer la règle, raisonner"],
+  ["de02","La notion d'enfant et l'intérêt supérieur de l'enfant","Définitions, principe directeur"],
+  ["de03","La Convention relative aux droits de l'enfant","Adoption, principes, droits garantis, Comité des droits de l'enfant"],
+  ["de04","La Charte africaine des droits et du bien-être de l'enfant","Spécificités, comité africain d'experts"],
+  ["de05","Les droits civils de l'enfant","Nom, nationalité, état civil, filiation"],
+  ["de06","L'enfant dans la famille","Autorité parentale, garde, adoption, placement"],
+  ["de07","La protection de l'enfant contre les violences","Maltraitance, exploitation, mariage précoce"],
+  ["de08","Le travail des enfants et la traite","Normes internationales et législation ivoirienne"],
+  ["de09","L'enfant en conflit avec la loi","Responsabilité pénale, mesures éducatives, juridictions pour mineurs"],
+  ["de10","L'enfant en danger et la protection judiciaire","Mesures d'assistance éducative, rôle des services de la PJEJ"],
+  ["de11","Le droit à l'éducation et à la santé","Obligations de l'État"],
+  ["de12","Les institutions de protection de l'enfance","Acteurs nationaux et internationaux"],
+  ["de13","Révision : droits de l'enfant","Test de niveau et sujet blanc"]
+ ]},
+ { k:"sfp", label:"Statut et déontologie de la fonction publique", court:"Statut de la fonction publique", phase:"INFJ", ecrit:"sfp", levels:[
+  ["sf01","Méthode de l'épreuve de statut de la fonction publique","Dissertation et sujet de cours appliqués au droit de la fonction publique"],
+  ["sf02","La notion de fonction publique et ses sources","Constitution, statut général, statuts particuliers"],
+  ["sf03","L'accès à la fonction publique","Conditions, concours, stage, titularisation"],
+  ["sf04","La carrière du fonctionnaire","Catégories, grades, avancement, positions"],
+  ["sf05","Les droits du fonctionnaire","Rémunération, congés, liberté d'opinion, droit syndical, protection"],
+  ["sf06","Les obligations du fonctionnaire","Service, obéissance, discrétion, neutralité, probité"],
+  ["sf07","La déontologie et l'éthique","Conflits d'intérêts, intégrité, lutte contre la corruption"],
+  ["sf08","Le régime disciplinaire","Fautes, sanctions, procédure, garanties"],
+  ["sf09","La cessation des fonctions","Démission, retraite, licenciement, révocation"],
+  ["sf10","Révision : statut et déontologie","Test de niveau et sujet blanc"]
+ ]},
+ { k:"opaj", label:"Organisation politique, administrative et judiciaire", court:"OPAJ", phase:"INFJ · Fonction publique", ecrit:"opaj", levels:[
+  ["op01","Méthode de l'épreuve d'OPAJ","Sujet de cours : définir, organiser, illustrer par le droit positif ivoirien"],
+  ["op02","L'organisation politique : l'État et la Constitution","Forme de l'État, souveraineté, régime"],
+  ["op03","Le pouvoir exécutif","Président, Vice-Président, Gouvernement"],
+  ["op04","Le pouvoir législatif","Parlement, procédure législative"],
+  ["op05","Les institutions consultatives et de contrôle","Conseil constitutionnel, CESEC, Médiateur, autres"],
+  ["op06","L'administration centrale","Ministères, directions, établissements publics"],
+  ["op07","L'administration territoriale","Déconcentration : districts, régions, départements, sous-préfectures"],
+  ["op08","La décentralisation","Collectivités territoriales, tutelle"],
+  ["op09","L'organisation judiciaire","Juridictions de l'ordre judiciaire et administratif"],
+  ["op10","Révision : OPAJ","Test de niveau et sujet blanc"]
+ ]},
+ { k:"pen", label:"Organisation du système pénitentiaire", court:"Système pénitentiaire", phase:"INFJ · pénitentiaire", ecrit:"pen", levels:[
+  ["pn01","Méthode de l'épreuve sur le système pénitentiaire","Dissertation et sujet de cours appliqués au droit pénitentiaire"],
+  ["pn02","Les finalités de la peine et de l'administration pénitentiaire","Garde, réinsertion, sécurité"],
+  ["pn03","L'organisation de l'administration pénitentiaire","Direction, services, personnels"],
+  ["pn04","Les établissements pénitentiaires","Catégories, régimes"],
+  ["pn05","La situation juridique des détenus","Prévenus, condamnés, droits et obligations"],
+  ["pn06","Les normes internationales","Règles Nelson Mandela, règles de Bangkok, autres standards"],
+  ["pn07","La discipline et la sécurité","Régime disciplinaire, contrôle, prévention des évasions"],
+  ["pn08","La réinsertion sociale","Travail, formation, aménagements de peine"],
+  ["pn09","Le contrôle des établissements","Contrôles juridictionnels et administratifs"],
+  ["pn10","Révision : système pénitentiaire","Test de niveau et sujet blanc"]
+ ]},
+ { k:"dciv", label:"Droit civil et droit commercial général", court:"Droit civil et commercial", phase:"INFJ · cycle supérieur", ecrit:"dciv", levels:[
+  ["dv01","Méthode du droit civil et commercial","Cas pratique et dissertation : faits, qualification, règle, solution"],
+  ["dv02","Les personnes","Personnalité juridique, capacité, état civil"],
+  ["dv03","La famille","Mariage, filiation, régimes matrimoniaux"],
+  ["dv04","Les biens","Classification, propriété, possession"],
+  ["dv05","Les obligations : le contrat","Formation, validité, effets"],
+  ["dv06","La responsabilité civile","Faute, dommage, lien de causalité"],
+  ["dv07","Le droit OHADA","Organisation, actes uniformes, CCJA"],
+  ["dv08","Le commerçant et les actes de commerce","Définitions, obligations, RCCM"],
+  ["dv09","Le fonds de commerce et le bail commercial","Éléments, opérations"],
+  ["dv10","Les intermédiaires de commerce et la vente commerciale","Régimes"],
+  ["dv11","Révision : droit civil et commercial","Test de niveau et sujet blanc"]
+ ]},
+ { k:"info", label:"Informatique et bureautique", court:"Informatique", phase:"INFJ · greffes", levels:[
+  ["in01","Méthode de l'épreuve d'informatique et de bureautique","Ce qui est attendu, gestion du temps, vocabulaire"],
+  ["in02","L'ordinateur et ses composants","Matériel, périphériques, unités de mesure"],
+  ["in03","Systèmes d'exploitation et gestion des fichiers","Dossiers, extensions, sauvegarde"],
+  ["in04","Le traitement de texte","Mise en forme, styles, tableaux, publipostage"],
+  ["in05","Le tableur","Formules, fonctions usuelles, graphiques"],
+  ["in06","Internet et messagerie","Navigation, recherche, courriel"],
+  ["in07","Sécurité informatique","Mots de passe, virus, hameçonnage, sauvegardes"],
+  ["in08","Présentation et outils collaboratifs","Diaporama, partage de documents"],
+  ["in09","L'informatique dans l'administration et la justice","Dématérialisation, protection des données"],
+  ["in10","Révision : informatique et bureautique","Test de niveau"]
  ]}
+];
+// ============ CATALOGUE DES CONCOURS ============
+// Conditions et épreuves relevées sur les textes officiels de la session 2026 (arrêtés INFJ du 9 janvier 2026,
+// communiqué ENA du 13 mars 2026, communiqué Fonction publique). statut : "ouvert" (accessible), "diplome" (Master exigé), "statut" (réservé aux fonctionnaires).
+const CSRC = {
+  ena: {t:"ENA, communiqué n°063 du 13 mars 2026 (concours d'entrée en 2027)", u:"https://gucaci.ciconcours.com/uploads/communiques/6/Communique_ENA_2026.pdf"},
+  enaCms: {t:"Ablanian, fiche du concours direct ENA cycle moyen supérieur 2026", u:"https://ablanian.ci/concours_admin/view.php?slug=enacmsdirect"},
+  enaCs: {t:"Ablanian, fiche du concours direct ENA cycle supérieur 2026", u:"https://ablanian.ci/concours_admin/view.php?slug=enacs"},
+  infjList: {t:"INFJ, liste et arrêtés des concours directs 2026", u:"https://infj.ciconcours.com/details/1"},
+  ces: {t:"Arrêté n°0014/MJDH/CAB du 9 janvier 2026 (Conseiller de la protection judiciaire de l'enfance et de la jeunesse)", u:"https://infj.ciconcours.com/uploads/communiques/1/CONSEILLER%20D%20EDUCATION%20SURVEILLEE%20-%20DIRECT.pdf"},
+  ies: {t:"Arrêté n°0016/MJDH/CAB du 9 janvier 2026 (Inspecteur de la protection judiciaire de l'enfance et de la jeunesse)", u:"https://infj.ciconcours.com/uploads/communiques/1/INSPECTEUR%20D%20EDUCATION%20SURVEILLEE%20-%20DIRECT.pdf"},
+  agp: {t:"Arrêté n°0029/MJDH/CAB du 9 janvier 2026 (Attachés des greffes et parquets)", u:"https://infj.ciconcours.com/uploads/communiques/1/ATTACHES%20DES%20GREFFES%20ET%20PARQUETS%20-%20GREFFES.pdf"},
+  agpa: {t:"Arrêté n°0030/MJDH/CAB du 9 janvier 2026 (Administrateurs des greffes et parquets)", u:"https://infj.ciconcours.com/uploads/communiques/1/ADMINISTRATEURS%20DES%20GREFFES%20ET%20PARQUETS%20-%20GREFFES.pdf"},
+  asp: {t:"Arrêté n°0015/MJDH/CAB du 9 janvier 2026 (Attachés des services pénitentiaires)", u:"https://infj.ciconcours.com/uploads/communiques/1/ATTACHES%20DES%20SERVICES%20PENITENTIAIRES%20-%20EPP.pdf"},
+  sa: {t:"Fonction publique, communiqué du concours direct de Secrétaire administratif 2026", u:"https://gucaci.ciconcours.com/uploads/communiques/1/CD%20SECRETAIRE%20ADMINISTRATIF.PDF"},
+  liste: {t:"Liste officielle des concours administratifs 2026", u:"https://gucaci.ciconcours.com/uploads/communiques/LISTE_CONCOURS_ADMINISTRATIFS_OUVERTS_2026.pdf"}
+};
+const CONCOURS = [
+ { id:"ena-cms", nom:"ENA, cycle moyen supérieur (direct)", org:"ENA", statut:"ouvert", prio:1,
+   conditions:"Nationalité ivoirienne ; 18 à 40 ans au 31 décembre 2025 (session 2026) ; diplôme de fin de premier cycle universitaire, BTS ou DUT.", age:{max:40, ref:"31/12"},
+   epreuves:[["Présélection : culture générale et aptitude verbale, anglais, logique (QCM)","1 h chacune · coef. 2",["fr","cg","ang","log"]],["Sujet d'ordre général","4 h · coef. 4",["sog"]],["Problèmes économiques et sociaux","3 h · coef. 3",["pes"]],["Résumé de texte","3 h · coef. 3",["ct"]],["Droit constitutionnel","3 h · coef. 3",["dc"]],["Oral avec le jury","coef. 3",["oral"]]],
+   tracks:["fr","ang","cg","log","pes","dc","ct","sog","oral","da"], src:["ena","enaCms"], session2026:"Inscriptions du 16 mars au 30 avril 2026" },
+ { id:"infj-ces", nom:"INFJ, Conseiller de la protection judiciaire de l'enfance et de la jeunesse (direct)", court:"INFJ · Conseiller PJEJ", org:"INFJ", statut:"ouvert", prio:2,
+   conditions:"Nationalité ivoirienne ; 18 à 45 ans au 31 décembre 2026 ; DEUG, licence, BTS, DUT ou équivalent.", age:{max:45, ref:"31/12"},
+   epreuves:[["Sujet d'ordre général","4 h · coef. 4",["sog"]],["Droits de l'enfant","4 h · coef. 4",["denf"]],["Organisation judiciaire","3 h · coef. 3",["oj"]],["Statut et déontologie de la fonction publique","3 h · coef. 3",["sfp"]],["Oral : exposé de culture générale (10 min de préparation)","coef. 3",["oral","cg"]]],
+   tracks:["sog","denf","oj","sfp","oral","cg","fr"], src:["ces"], session2026:"Inscriptions du 21 janvier au 27 mars 2026 ; écrits les 22 et 23 août 2026", note:"Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire, sauf délibération motivée du jury." },
+ { id:"infj-agp", nom:"INFJ, Attaché des greffes et parquets (direct)", court:"INFJ · Attaché des greffes", org:"INFJ", statut:"ouvert", prio:3,
+   conditions:"Nationalité ivoirienne ; 18 à 40 ans au 1er janvier 2026 ; DEUG 2 ou équivalent ; aptitude physique (visite médicale).", age:{max:40, ref:"01/01"},
+   epreuves:[["Sujet d'ordre général","4 h · coef. 4",["sog"]],["Organisation politique, administrative et judiciaire","3 h · coef. 3",["opaj"]],["Droit administratif","3 h · coef. 3",["da"]],["Informatique et bureautique","2 h · coef. 2",["info"]],["Oral : exposé (15 min de préparation, 20 min)","coef. 3",["oral","cg"]]],
+   tracks:["sog","opaj","da","info","oral","cg","fr"], src:["agp"], session2026:"Inscriptions du 19 janvier au 1er mars 2026 ; écrits les 1er et 2 août 2026", note:"Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire, sauf délibération motivée du jury." },
+ { id:"infj-asp", nom:"INFJ, Attaché des services pénitentiaires (direct)", court:"INFJ · Attaché pénitentiaire", org:"INFJ", statut:"ouvert", prio:4,
+   conditions:"Nationalité ivoirienne ; 18 à 40 ans au 31 décembre 2026 ; DEUG 2, licence ou équivalent ; visite médicale paramilitaire.", age:{max:40, ref:"31/12"},
+   epreuves:[["Sujet d'ordre général","4 h · coef. 4",["sog"]],["Organisation du système pénitentiaire de Côte d'Ivoire","3 h · coef. 3",["pen"]],["Droit administratif","3 h · coef. 3",["da"]],["Organisation judiciaire de Côte d'Ivoire","3 h · coef. 3",["oj"]],["Oral : exposé de culture générale (10 min de préparation, 20 min)","coef. 3",["oral","cg"]]],
+   tracks:["sog","pen","da","oj","oral","cg","fr"], src:["asp"], session2026:"Inscriptions du 19 janvier au 1er mars 2026 ; écrits les 8 et 9 août 2026", note:"Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire, sauf délibération motivée du jury." },
+ { id:"fp-sa", nom:"Fonction publique, Secrétaire administratif (direct, B3)", court:"Secrétaire administratif", org:"Fonction publique", statut:"ouvert", prio:5,
+   conditions:"Nationalité ivoirienne ; licence ; 18 à 42 ans au 31 décembre 2025 (session 2026) ; 100 postes en 2026.", age:{max:42, ref:"31/12"},
+   epreuves:[["Logique","1 h",["log"]],["Organisation politique, administrative et judiciaire (OPAJ)","1 h",["opaj"]],["Sujet d'ordre général (dissertation)","1 h",["sog"]]],
+   tracks:["log","opaj","sog","fr","cg"], src:["sa"], session2026:"Inscriptions du 16 mars au 30 avril 2026 ; prise de vue dans les directions régionales, dont Abengourou", note:"Le communiqué donne une durée d'une heure par épreuve ; je ne peux pas confirmer les coefficients, illisibles dans le tableau du communiqué." },
+ { id:"ena-cs", nom:"ENA, cycle supérieur (direct)", org:"ENA", statut:"diplome", prio:6,
+   conditions:"Nationalité ivoirienne ; 18 à 43 ans au 31 décembre 2025 ; diplôme de fin de second cycle de l'enseignement supérieur (Master).", age:{max:43, ref:"31/12"},
+   epreuves:[["Présélection : culture générale, anglais, logique (QCM)","",["fr","cg","ang","log"]],["Note de synthèse","5 h · coef. 5",["ns"]],["Sujet d'ordre général","4 h · coef. 4",["sog"]],["Problèmes économiques et sociaux","3 h · coef. 3",["pes"]],["Droit administratif","3 h · coef. 3",["da"]],["Oral avec le jury","coef. 3",["oral"]]],
+   tracks:["fr","ang","cg","log","ns","sog","pes","da","oral"], src:["ena","enaCs"], lock:"Il faut un Master (ou une maîtrise obtenue au plus tard en 2016)." },
+ { id:"infj-ies", nom:"INFJ, Inspecteur de la protection judiciaire de l'enfance et de la jeunesse (direct)", court:"INFJ · Inspecteur PJEJ", org:"INFJ", statut:"diplome", prio:7,
+   conditions:"Nationalité ivoirienne ; 18 à 45 ans au 31 décembre 2026 ; maîtrise, master ou équivalent.", age:{max:45, ref:"31/12"},
+   epreuves:[["Sujet d'ordre général","4 h · coef. 4",["sog"]],["Droits de l'enfant","4 h · coef. 4",["denf"]],["Organisation judiciaire","3 h · coef. 3",["oj"]],["Statut et déontologie de la fonction publique","3 h · coef. 3",["sfp"]],["Oral : exposé de culture générale","coef. 3",["oral","cg"]]],
+   tracks:["sog","denf","oj","sfp","oral","cg","fr"], src:["ies"], lock:"Il faut une maîtrise ou un Master." },
+ { id:"infj-agpa", nom:"INFJ, Administrateur des greffes et parquets (direct)", court:"INFJ · Administrateur des greffes", org:"INFJ", statut:"diplome", prio:8,
+   conditions:"Nationalité ivoirienne ; 18 à 40 ans au 1er janvier 2026 ; maîtrise, master ou équivalent.", age:{max:40, ref:"01/01"},
+   epreuves:[["Sujet d'ordre général","4 h · coef. 4",["sog"]],["Droit administratif","3 h · coef. 3",["da"]],["Droit civil ou droit commercial général","3 h · coef. 3",["dciv"]],["Organisation judiciaire","2 h · coef. 2",["oj"]],["Informatique et bureautique","2 h · coef. 2",["info"]],["Oral : sujet de culture générale (20 min)","coef. 3",["oral","cg"]]],
+   tracks:["sog","da","dciv","oj","info","oral","cg","fr"], src:["agpa"], lock:"Il faut une maîtrise ou un Master." }
+];
+// Concours professionnels de la liste 2026 : réservés aux fonctionnaires (ancienneté exigée). Épreuves non intégrées : je ne peux pas les confirmer.
+const CONCOURS_PRO = [
+ ["Administrateur des services financiers, options Trésor, Impôts, Finances générales","A4"],
+ ["Inspecteur du Trésor","A3"], ["Attaché des finances","A3"], ["Contrôleur des impôts, Contrôleur du Trésor","B3"],
+ ["Administrateur des services financiers, options Douanes et Commerce ; Inspecteur des douanes ; Inspecteur du commerce","A4 / A3"],
+ ["Conseiller d'éducation permanente","A3"], ["Administrateur social ; Administrateur du travail et des lois sociales","A4"],
+ ["Attaché social ; Attaché du travail et des affaires sociales","A3"], ["Administrateur civil","A4"], ["Attaché de direction ; Attaché administratif","A3"],
+ ["ENA, concours professionnels (cycles supérieur, moyen supérieur, moyen)","selon le cycle"]
 ];
 
 // ============ CAP ENA — APPLICATION ============
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "a635749e du 13/10/2026";
+const APP_VERSION = "5abea647 du 13/10/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1233,13 +1408,14 @@ const LEVELS = []; const LVMAP = {};
 PROGRAMME.forEach(t=>t.levels.forEach((L,i)=>{ const lv={id:L[0],t:L[1],obj:L[2],lesson:L[3]||null,track:t.k,idx:i,last:i===t.levels.length-1}; LEVELS.push(lv); LVMAP[lv.id]=lv; }));
 const SLOT_KINDS = { blanc:{court:"Présélection blanche", label:"Présélection blanche (45 questions, 45 min)"}, revision:{court:"Rattrapages et révision", label:"Rattrapages, puis révision des erreurs"}, ecrit:{court:"Écrit en conditions", label:"Copie complète en conditions d'examen"} };
 const kindLabel = (k)=> TRACKS[k] ? TRACKS[k].court : (SLOT_KINDS[k] ? SLOT_KINDS[k].court : k);
-const EPREUVE_OF = {sog:"sog", pes:"pes", ct:"ct", dc:"dc", da:"da", ns:"ns"};
-const METHOD_LEVEL = {sog:"so02", pes:"pe01", ct:"ct01", dc:"dc02", da:"da02", ns:"ns01"};
+const METHOD_LEVEL = {sog:"so02", pes:"pe01", ct:"ct01", dc:"dc02", da:"da02", ns:"ns01", oj:"oj01", denf:"de01", sfp:"sf01", opaj:"op01", pen:"pn01", dciv:"dv01"};
+const CMAP = Object.fromEntries(CONCOURS.map(c=>[c.id,c]));
 // matière d'une question : d'abord le niveau de sa leçon, sinon son code
 function trackOfQ(q){
   if (TAG2LV[q.tag]) return LVMAP[TAG2LV[q.tag]].track;
   if (q.m === "fr" || /^(voc|gram|orth|conj|fr)/.test(q.tag||"")) return "fr";
-  return {cg:"cg",ang:"ang",log:"log",pes:"pes",dc:"dc",da:"da",fp:"da",ct:"ct",sog:"sog",ns:"ns",oral:"oral"}[q.m] || "cg";
+  if (TRACKS[q.m]) return q.m;
+  return {fp:"da"}[q.m] || "cg";
 }
 const weight = (q)=> (q.m==="log" || trackOfQ(q)==="log") ? 2 : 1;
 
@@ -1329,7 +1505,7 @@ const DEFAULT_PLANNING = [
   {id:"dim-a", jour:0, debut:"17:00", fin:"18:00", k:"oral"}
 ];
 const defaults = ()=>({v:3, xp:0, stats:{}, wrong:{}, seen:{}, lv:{}, valHist:[], copies:[], oral:0, custom:[], cycle:"CMS",
-  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null, interrupt:null, jokers:[], urgences:[], veilleSeen:null,
+  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null, interrupt:null, jokers:[], urgences:[], veilleSeen:null, concours:["ena-cms"], concoursPrin:"ena-cms", ttsRate:1, dossierInfj:{},
   profile:{nom:"TANO", prenoms:"Ahmed", naissance:"", diplome:"", ville:"", statut:"", email:""}, dossier:{}, days:{}, created:today(), tuto3:null, blancs:0});
 let state = defaults();
 (function load(){
@@ -1355,6 +1531,14 @@ function addXP(n){ const b = niveau(state.xp).cur[1]; state.xp = Math.max(0, sta
 function markDay(){ const d = today(); state.days[d] = (state.days[d]||0) + 1; }
 function precision(){ let ok=0,n=0; for (const k in state.stats){ ok+=state.stats[k].ok; n+=state.stats[k].n; } return n ? Math.round(ok/n*100) : null; }
 
+
+// ---------- Concours choisis et matières actives ----------
+function myConcours(){ const l = (state.concours||[]).filter(id=>CMAP[id]); return l.length ? l.map(id=>CMAP[id]) : [CMAP["ena-cms"]]; }
+function activeTracks(){
+  const set = new Set(); for (const c of myConcours()) for (const k of c.tracks) set.add(k);
+  return [...set].filter(k=>TRACKS[k]);
+}
+function concoursOfTrack(k){ return myConcours().filter(c=>c.tracks.includes(k)); }
 
 // ---------- Parcours : niveaux ----------
 const PASS = 14;          // note minimale sur 20 pour valider un niveau ou un rattrapage QCM
@@ -1446,8 +1630,8 @@ function restoreMissed(id){
 
 // ---------- Indice de préparation (indicateur interne, pas une probabilité) ----------
 function indice(){
-  const skip = state.cycle==="CS" ? ["ct","dc"] : ["ns"];
-  const tracks = PROGRAMME.filter(t=>!skip.includes(t.k));
+  const act = activeTracks();
+  const tracks = PROGRAMME.filter(t=>act.includes(t.k));
   const all = LEVELS.filter(lv=>tracks.some(t=>t.k===lv.track));
   const val = all.filter(lv=>isValid(lv.id));
   const couverture = all.length ? val.length/all.length : 0;
@@ -1472,6 +1656,7 @@ const TRANSIENT = new Set(["conditions","quiz","ecrit","oral","interruption","ur
 function go(v, opts){
   const back = opts && opts.back;
   if (!back && v !== view && !TRANSIENT.has(view)){ NAV.push(view); if (NAV.length > 40) NAV.shift(); try { history.pushState({cap:1}, ""); } catch(e){} }
+  if (TTS.on) ttsStop();
   view = v; clearTimers(); render(); window.scrollTo({top:0});
 }
 function goBack(){
@@ -1640,7 +1825,7 @@ function afterQCM(q){
 // ---------- Écrits en conditions ----------
 function sujetId(s){ return "s"+hash(s.t); }
 function pickSujet(e, full){
-  const list = SUJETS.filter(s=>s.e===e && (state.cycle==="CS" || !s.dossier || e==="ns"));
+  const list = SUJETS.filter(s=>s.e===e);
   const done = new Set(state.copies.map(c=>c.sid));
   return list.find(x=>x.src==="officiel" && !done.has(sujetId(x))) || list.find(x=>!done.has(sujetId(x))) || shuffle(list)[0] || null;
 }
@@ -1704,7 +1889,7 @@ function oralNext(){
 
 // ---------- Rendu ----------
 const TABS = [["home","Aujourd'hui"],["parcours","Parcours"],["train","Entraînement"],["candidature","Candidature"],["profil","Profil"]];
-const PARENT = {quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
+const PARENT = {concours:"parcours", quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
 function renderNav(){
   const n = $("#nav"); n.replaceChildren();
   const parent = PARENT[view] || view;
@@ -1722,7 +1907,7 @@ function render(){
   const lo = $("#logoutBtn"); if (lo) lo.onclick = logout;
   if (canGoBack() && !(view==="quiz" && quiz && !quiz.done) && !(view==="ecrit" && ecrit && ecrit.phase==="write")) v.append(h("button",{class:"backbtn",type:"button",onclick:backClick}, "← Retour"));
   const fn = {home:vHome, parcours:vParcours, track:vTrack, lesson:vLesson, quiz:vQuiz, train:vTrain, ecrit:vEcrit, oral:vOral, conditions:vConditions,
-    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, interruption:vInterruption, urgence:vUrgence}[view] || vHome;
+    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, concours:vConcours, interruption:vInterruption, urgence:vUrgence}[view] || vHome;
   v.append(fn());
 }
 const card = (cls, ...kids)=>h("section",{class:"card "+(cls||"")}, ...kids);
@@ -1741,7 +1926,8 @@ function blocks(arr){
   return out;
 }
 const bar = (pct, warn)=>h("div",{class:"bar"+(warn?" o":"")}, h("i",{style:"width:"+Math.max(0,Math.min(100,pct))+"%"}));
-const trackOrder = ()=>{ const seen = []; for (const d of [1,2,3,4,5,6,0]) for (const s of state.planning.filter(x=>x.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut))) if (TRACKS[s.k] && !seen.includes(s.k)) seen.push(s.k); for (const t of PROGRAMME) if (!seen.includes(t.k)) seen.push(t.k); return seen; };
+const trackOrder = ()=>{ const act = activeTracks(); const seen = []; for (const d of [1,2,3,4,5,6,0]) for (const s of state.planning.filter(x=>x.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut))) if (TRACKS[s.k] && act.includes(s.k) && !seen.includes(s.k)) seen.push(s.k); for (const t of PROGRAMME) if (act.includes(t.k) && !seen.includes(t.k)) seen.push(t.k); return seen; };
+const slotless = ()=>{ const inPlan = new Set(state.planning.map(s=>s.k)); return activeTracks().filter(k=>!inPlan.has(k)); };
 
 // ---------- Démarrer une séance ----------
 function runSlot(s){
@@ -1791,7 +1977,7 @@ function vHome(){
   const dp = dossierProgress();
   const p = state.profile;
   return h("div",{class:"stack"},
-    h("div",{class:"hello"}, h("button",{class:"avbtn",type:"button","aria-label":"Mon profil",onclick:()=>go("profil")}, avatar(52)), h("div",null, h("p",{class:"lbl"}, JOURS[new Date().getDay()] + " " + frDate(td) + " · cycle " + (state.cycle==="CS"?"supérieur":"moyen supérieur")), h("h1",null, (hr<18?"Bonjour ":"Bonsoir ") + (p.prenoms || "") ))),
+    h("div",{class:"hello"}, h("button",{class:"avbtn",type:"button","aria-label":"Mon profil",onclick:()=>go("profil")}, avatar(52)), h("div",null, h("p",{class:"lbl"}, JOURS[new Date().getDay()] + " " + frDate(td) + " · " + ((CMAP[state.concoursPrin]||{}).court || (CMAP[state.concoursPrin]||{}).nom || "")), h("h1",null, (hr<18?"Bonjour ":"Bonsoir ") + (p.prenoms || "") ))),
     card("feature stack",
       h("div",{class:"row spread"}, h("div",null, h("p",{class:"lbl"},"Indice de préparation"), h("b",{class:"big-n"}, ind.total + " / 100")), h("div",{class:"right"}, h("p",{class:"lbl"},"Grade"), h("b",null, nv.cur[1]))),
       bar(ind.total, ind.total<40),
@@ -1865,7 +2051,7 @@ function startRattrapage(m){
   if (TRACKS[m.k]) return startRevision(m.k, m.id);
   if (m.k === "blanc") return startBlanc(m.id);
   if (m.k === "oral") return startOral({ratt:m.id});
-  if (m.k === "ecrit"){ const e = ["sog","pes","ct","dc"].find(x=>isValid(METHOD_LEVEL[x])) || "sog"; const s = pickSujet(e); if (s) return startEcrit(s, {dur:3600, ratt:m.id}); }
+  if (m.k === "ecrit"){ const e = activeTracks().map(k=>TRACKS[k].ecrit).filter(Boolean).find(x=>isValid(METHOD_LEVEL[x])) || "sog"; const s = pickSujet(e); if (s) return startEcrit(s, {dur:3600, ratt:m.id}); }
   if (m.k === "revision"){
     const items = allQ().filter(q=>state.wrong[q.id]>0);
     const pool = items.length >= 10 ? items : ["fr","ang","cg","log"].flatMap(k=>trackPool(k,true));
@@ -1879,13 +2065,17 @@ function startRattrapage(m){
 function vParcours(){
   return h("div",{class:"stack"},
     h("div",null, h("p",{class:"lbl"},"Matières dans l'ordre de l'emploi du temps"), h("h1",null,"Mon parcours")),
+    card("stack tight",
+      h("div",{class:"row spread"}, h("h2",null,"Mes concours"), h("button",{class:"btn small",type:"button",onclick:()=>go("concours")},"Choisir mes concours")),
+      h("div",{class:"row"}, myConcours().map(c=>h("span",{class:"tag"+(c.id===state.concoursPrin?" off":"")}, (c.court||c.nom) + (c.id===state.concoursPrin?" · prioritaire":""))))),
+    slotless().length ? card("warnc stack tight", h("p",null, h("b",null,"Matières sans créneau : "), slotless().map(k=>TRACKS[k].court).join(", ") + ". Ajoutez-les à votre emploi du temps, sinon elles n'avanceront pas."), h("button",{class:"btn small",type:"button",onclick:()=>go("planning")},"Modifier mes horaires")) : null,
     h("p",{class:"muted"},"Chaque matière se franchit niveau par niveau : leçon (technique, cours, à retenir), puis évaluation en conditions d'examen. Il faut 14/20 pour déverrouiller le niveau suivant ; dans les matières d'écrit, une copie notée au moins 10/20 est aussi exigée."),
     trackOrder().map(k=>{
       const t = TRACKS[k], p = trackProgress(k), cur = currentLevel(k);
       const st = cur ? levelStatus(cur) : "done";
-      const skip = (state.cycle==="CMS" && k==="ns") || (state.cycle==="CS" && (k==="ct"||k==="dc"));
-      return h("button",{class:"card trackcard"+(skip?" dim":""),type:"button",onclick:()=>{ trackView = k; go("track"); }},
-        h("div",{class:"row spread"}, h("span",{class:"lbl"}, t.phase + (skip ? " · hors de votre cycle" : "")), h("b",null, p.n + "/" + p.total)),
+      const cs = concoursOfTrack(k).map(c=>c.court||c.nom.split(",")[0]).join(" · ");
+      return h("button",{class:"card trackcard",type:"button",onclick:()=>{ trackView = k; go("track"); }},
+        h("div",{class:"row spread"}, h("span",{class:"lbl"}, cs), h("b",null, p.n + "/" + p.total)),
         h("h2",null, t.label),
         bar(p.pct),
         h("p",{class:"small"}, cur ? (st==="prep" ? "Niveau " + (cur.idx+1) + " en préparation (publication de nuit)" : "Niveau " + (cur.idx+1) + " : " + cur.t) : "Matière terminée"));
@@ -1928,6 +2118,8 @@ function vLesson(){
   const s = lvState(lv.id);
   const steps = [["Technique", l.tech, "t"], ["Cours", l.fond, "t"], ["À retenir", l.retenir, "r"], ["Évaluation", null]];
   const st = lesson.step;
+  const ttsKey = lesson.id + ":" + st;
+  if (TTS.on && TTS.key !== ttsKey) ttsStop();
   const dots = h("ol",{class:"steps"}, steps.map((x,i)=>h("li",{class: i===st?"cur": i<st?"done":""}, x[0])));
   let body;
   if (st < 2) body = card("stack read", blocks(steps[st][1]),
@@ -1952,7 +2144,9 @@ function vLesson(){
   }
   return h("div",{class:"stack"},
     h("div",null,h("p",{class:"lbl"}, TRACKS[lv.track].court + " · niveau " + (lv.idx+1) + (lesson.review ? " · révision" : "")),h("h1",{class:"h-l"},l.titre || lv.t)),
-    dots, body,
+    dots,
+    st < 3 ? ttsControls(st < 2 ? steps[st][1] : (l.retenir||[]), ttsKey) : null,
+    body,
     h("div",{class:"row spread"},
       st>0 && (lesson.review || st<3) ? h("button",{class:"btn ghost",type:"button",onclick:()=>{lesson.maxStep = Math.max(lesson.maxStep||0, st); lesson.step--; render(); window.scrollTo({top:0});}},"Précédent") : h("button",{class:"btn ghost",type:"button",onclick:()=>{ trackView = lv.track; go("track"); }},"Niveaux"),
       nextBtn)
@@ -2099,12 +2293,13 @@ function vEcrit(){
   );
 }
 function vChoixEcrit(){
-  const order = state.cycle==="CS" ? ["ns","sog","pes","da"] : ["sog","pes","ct","dc"];
+  const order = activeTracks().filter(k=>TRACKS[k].ecrit && EPREUVES[TRACKS[k].ecrit]).map(k=>TRACKS[k].ecrit);
   return h("div",{class:"stack"},
     h("div",null, h("p",{class:"lbl"},"Séance d'écrit en conditions"), h("h1",null,"Choisir l'épreuve")),
     h("p",{class:"muted"},"Copie complète en temps réel, ou en 2 heures si votre créneau est plus court. Une épreuve s'ouvre quand son niveau de méthode est validé dans le parcours."),
     order.map(e=>{
       const E = EPREUVES[e], open = isValid(METHOD_LEVEL[e]), sj = pickSujet(e);
+      if (!sj) return null;
       return card("stack tight"+(open?"":" dim"), h("p",{class:"lbl"}, E.duree/60 + " h · coef. " + E.coef), h("h2",null,E.label),
         open && sj ? h("div",{class:"row"}, h("button",{class:"btn primary small",type:"button",onclick:()=>startEcrit(sj,{dur:E.duree*60})},"Durée réelle (" + E.duree/60 + " h)"), h("button",{class:"btn small",type:"button",onclick:()=>startEcrit(sj,{dur:7200})},"2 heures"))
           : h("p",{class:"muted small"}, "🔒 Validez d'abord « " + LVMAP[METHOD_LEVEL[e]].t + " »."));
@@ -2148,7 +2343,7 @@ function vTrain(){
       h("button",{class:"btn accent",type:"button",disabled:pre<30,onclick:()=>startBlanc()}, pre<30 ? "S'ouvre à 30 questions débloquées" : "Lancer la présélection blanche")),
     card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s)."), h("button",{class:"btn",type:"button",onclick:startErreurs},"Lancer")),
     card("stack", h("h2",null,"Séries libres (correction immédiate)"), h("p",{class:"muted small"},"Uniquement sur les niveaux déjà validés. Sans enjeu : elles ne valident ni niveau ni séance."),
-      h("div",{class:"list"}, PROGRAMME.filter(t=>t.k!=="oral").map(t=>{ const pool = trackPool(t.k,false); return h("button",{class:"item",type:"button",disabled:pool.length<5,onclick:()=>startQCM({items:pick(pool,Math.min(10,pool.length)), title:"Série libre · " + t.court, kind:"train", mode:"train"})}, h("span",{class:"grow"}, t.court), h("span",{class:"meta"}, pool.length<5 ? "🔒" : pool.length + " q.")); }))),
+      h("div",{class:"list"}, PROGRAMME.filter(t=>t.k!=="oral" && activeTracks().includes(t.k)).map(t=>{ const pool = trackPool(t.k,false); return h("button",{class:"item",type:"button",disabled:pool.length<5,onclick:()=>startQCM({items:pick(pool,Math.min(10,pool.length)), title:"Série libre · " + t.court, kind:"train", mode:"train"})}, h("span",{class:"grow"}, t.court), h("span",{class:"meta"}, pool.length<5 ? "🔒" : pool.length + " q.")); }))),
     card("stack", h("h2",null,"Écrits en conditions"), h("p",{class:"muted small"},"Sujets officiels et sujets d'entraînement ; chaque épreuve s'ouvre avec son niveau de méthode."), h("button",{class:"btn",type:"button",onclick:()=>go("choixecrit")},"Choisir une épreuve")),
     card("stack", h("h2",null,"Simulation d'oral"), h("p",{class:"muted small"},"Deux questions de jury, préparation et réponse chronométrées."), h("button",{class:"btn",type:"button",disabled:!isValid("or01"),onclick:()=>startOral()}, isValid("or01") ? "Passer un oral" : "🔒 Après le niveau 1 de l'oral")),
     annalesSection()
@@ -2221,6 +2416,73 @@ function vUrgence(){
 }
 
 
+// ---------- Lecture à voix haute des leçons (synthèse vocale du téléphone) ----------
+const TTS = {on:false, paused:false, parts:[], idx:0, key:null};
+const ttsSupported = ()=> "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+function ttsVoice(){
+  try { const vs = speechSynthesis.getVoices(); return vs.find(v=>/^fr[-_]FR/i.test(v.lang) && /google/i.test(v.name)) || vs.find(v=>/^fr[-_]FR/i.test(v.lang)) || vs.find(v=>/^fr/i.test(v.lang)) || null; } catch(e){ return null; }
+}
+if (ttsSupported()) { try { speechSynthesis.getVoices(); speechSynthesis.onvoiceschanged = ()=>{}; } catch(e){} }
+function ttsText(arr){
+  return (arr||[]).map(s=>{
+    if (s.startsWith("## ")) return s.slice(3) + ".";
+    if (s.startsWith("- ")) return s.slice(2);
+    if (s.startsWith("> ")) return s.slice(2);
+    if (s.startsWith("! ")) return "Attention, piège : " + s.slice(2);
+    if (s.startsWith("~ ")) return "Exemple : " + s.slice(2);
+    return s;
+  }).join(" ").replace(/\s+/g," ").replace(/ · /g,", ").replace(/→/g," donne ").replace(/±/g,"plus ou moins ").replace(/−/g,"moins ");
+}
+function ttsChunks(text){
+  const sent = text.match(/[^.!?;:]+[.!?;:]*\s*/g) || [text];
+  const out = []; let cur = "";
+  for (const s of sent){ if ((cur + s).length > 220 && cur){ out.push(cur.trim()); cur = ""; } cur += s; }
+  if (cur.trim()) out.push(cur.trim());
+  return out;
+}
+function ttsSpeakNext(){
+  if (!TTS.on || TTS.paused) return;
+  if (TTS.idx >= TTS.parts.length){ ttsStop(); return; }
+  const u = new SpeechSynthesisUtterance(TTS.parts[TTS.idx]);
+  u.lang = "fr-FR"; const v = ttsVoice(); if (v) u.voice = v; u.rate = state.ttsRate || 1;
+  u.onend = ()=>{ if (!TTS.on || TTS.paused) return; TTS.idx++; ttsSpeakNext(); };
+  u.onerror = ()=>{ if (!TTS.on || TTS.paused) return; TTS.idx++; ttsSpeakNext(); };
+  speechSynthesis.speak(u); ttsBar();
+}
+function ttsStart(arr, key){
+  if (!ttsSupported()) return toast("La lecture à voix haute n'est pas disponible sur ce navigateur.");
+  try { speechSynthesis.cancel(); } catch(e){}
+  TTS.parts = ttsChunks(ttsText(arr)); TTS.idx = 0; TTS.on = true; TTS.paused = false; TTS.key = key;
+  if (!state.exam) wake(true);
+  ttsSpeakNext(); ttsBar();
+}
+function ttsPause(){ if (!TTS.on) return; TTS.paused = true; try { speechSynthesis.cancel(); } catch(e){} ttsBar(); }
+function ttsResume(){ if (!TTS.on) return; TTS.paused = false; ttsSpeakNext(); ttsBar(); }
+function ttsStop(){ const was = TTS.on; TTS.on = false; TTS.paused = false; TTS.key = null; try { if (ttsSupported()) speechSynthesis.cancel(); } catch(e){} if (was && !state.exam) wake(false); ttsBar(); }
+document.addEventListener("visibilitychange", ()=>{ if (document.hidden && TTS.on && !TTS.paused) ttsPause(); });
+function ttsBar(){
+  const el = document.getElementById("ttsbar"); if (!el) return;
+  const key = el.dataset.key, arr = TTS_SOURCES[key] || [];
+  const mine = TTS.on && TTS.key === key;
+  el.replaceChildren(...[
+    !mine ? h("button",{class:"btn small primary",type:"button",onclick:()=>ttsStart(arr, key)},"🔊 Écouter")
+      : TTS.paused ? h("button",{class:"btn small primary",type:"button",onclick:ttsResume},"▶ Reprendre")
+      : h("button",{class:"btn small",type:"button",onclick:ttsPause},"⏸ Pause"),
+    mine ? h("button",{class:"btn small ghost",type:"button",onclick:ttsStop},"⏹ Arrêter") : null,
+    h("select",{class:"ttsrate","aria-label":"Vitesse de lecture",onchange:(ev)=>{ state.ttsRate = Number(ev.target.value); save(); if (mine && !TTS.paused){ ttsPause(); ttsResume(); } }},
+      [["0.8","Lent"],["1","Normal"],["1.2","Rapide"],["1.4","Très rapide"]].map(([v,l])=>h("option",{value:v,selected:String(state.ttsRate||1)===v||null}, l))),
+    mine ? h("span",{class:"muted small"}, "Passage " + Math.min(TTS.idx+1, TTS.parts.length) + "/" + TTS.parts.length) : null].filter(Boolean));
+}
+const TTS_SOURCES = {};
+function ttsControls(arr, key){
+  if (!ttsSupported()) return null;
+  TTS_SOURCES[key] = arr;
+  const el = h("div",{class:"ttsbar",id:"ttsbar","data-key":key});
+  setTimeout(ttsBar, 0);
+  return el;
+}
+
+
 // ---------- Profil ----------
 function vProfil(){
   const p = state.profile, nv = niveau(state.xp), ind = indice();
@@ -2245,8 +2507,7 @@ function vProfil(){
     card("stack",
       h("h2",null,"Identité"),
       h("div",{class:"grid2"}, f("nom","Nom"), f("prenoms","Prénoms"), f("naissance","Date de naissance","date"), f("ville","Ville"), f("diplome","Diplôme le plus élevé","text","ex. Licence"), f("statut","Situation professionnelle","text","ex. contractuel, non fonctionnaire")),
-      h("div",{class:"row spread"}, h("span",{class:"lbl"},"Cycle visé"),
-        h("div",{class:"seg",role:"group","aria-label":"Cycle visé"}, ...[["CMS","Moyen supérieur"],["CS","Supérieur"]].map(([k,l])=>h("button",{type:"button","aria-pressed":state.cycle===k?"true":"false",onclick:()=>{state.cycle=k; save(); render();}},l)))),
+      h("div",{class:"row spread"}, h("span",{class:"lbl"},"Concours préparés : " + myConcours().length), h("button",{class:"btn small",type:"button",onclick:()=>go("concours")},"Choisir mes concours")),
       h("p",{class:"muted small"},"Ces informations restent dans votre téléphone.")),
     securityCard(),
     card("stack",
@@ -2423,20 +2684,26 @@ function dWarn(it){
   return null;
 }
 function dossierProgress(){
-  const ok = DITEMS.filter(it=>dState(it.id).st===2 && !dWarn(it)).length;
-  const next = DITEMS.find(it=>dState(it.id).st!==2);
-  return {ok, total:DITEMS.length, pct: Math.round(ok/DITEMS.length*100), next};
+  const cs = (typeof myConcours === "function") ? myConcours() : [];
+  const ena = !cs.length || cs.some(c=>c.org==="ENA"), infj = cs.some(c=>c.org==="INFJ");
+  const items = [].concat(ena ? DITEMS.map(it=>({it, ok: dState(it.id).st===2 && !dWarn(it), st:dState(it.id).st})) : [],
+                          infj ? DOSSIER_INFJ.map(it=>({it, ok: dInfj(it.id).st===2 && !infjWarn(it), st:dInfj(it.id).st})) : []);
+  if (!items.length) return {ok:0, total:0, pct:0, next:null};
+  const ok = items.filter(x=>x.ok).length, n = items.find(x=>x.st!==2);
+  return {ok, total:items.length, pct: Math.round(ok/items.length*100), next: n ? n.it : null};
 }
 const DST = ["À faire","En cours","Prêt"];
 function vCandidature(){
   const dp = dossierProgress();
   return h("div",{class:"stack"},
-    h("div",null, h("p",{class:"lbl"},"Concours direct · cycle " + (state.cycle==="CS"?"supérieur":"moyen supérieur")), h("h1",null,"Ma candidature")),
+    h("div",null, h("p",{class:"lbl"}, myConcours().length + " concours préparé" + (myConcours().length>1?"s":"")), h("h1",null,"Ma candidature")),
     card("feature stack", h("div",{class:"row spread"}, h("h2",null,"Dossier prêt à " + dp.pct + " %"), h("b",null, dp.ok + "/" + dp.total)), bar(dp.pct, dp.pct<50),
       h("p",{class:"muted small"},"Se préparer ne sert à rien sans pouvoir s'inscrire : en 2026, les admissibles n'avaient que deux jours pour déposer leur dossier physique. Touchez une pièce pour changer son état et noter sa date de délivrance.")),
     veilleCard(),
-    eligCard(),
-    DOSSIER.map(p=>card("stack",
+    myConcours().map(c=>concoursCard(c, true)),
+    infjDossierCard(),
+    !myConcours().some(c=>c.org==="ENA") ? null : h("h2",{class:"sec"},"Dossier des concours de l'ENA"),
+    !myConcours().some(c=>c.org==="ENA") ? null : DOSSIER.map(p=>card("stack",
       h("h2",null, p.ph),
       h("div",{class:"list"}, p.items.map(it=>{
         const s = dState(it.id), w = dWarn(it);
@@ -2506,9 +2773,100 @@ function veilleCard(){
           c.source && c.source.u ? h("p",{class:"src"}, "Source : ", h("a",{href:c.source.u,target:"_blank",rel:"noopener"}, c.source.t || c.source.u)) : null),
         h("span",{class:"pill " + st[1]}, st[0]));
     })) : null,
+    Array.isArray(VEILLE.autres) ? VEILLE.autres.filter(a=>!a.concours || a.concours.some(id=>(state.concours||[]).includes(id))).map(a=>h("div",{class:"stack tight vother"},
+      h("div",{class:"row spread"}, h("h3",null, a.titre), h("span",{class:"pill " + (a.statut==="annonce" ? "ok" : "late")}, a.statut==="annonce" ? "Session annoncée" : "Pas encore annoncée")),
+      a.resume ? h("p",{class:"small"}, a.resume) : null,
+      (a.calendrier||[]).map(c=>{ const st = STATUT[c.statut] || STATUT.estime; const dates = c.debut ? (frDate(c.debut) + (c.fin && c.fin!==c.debut ? " au " + frDate(c.fin) : "")) : (c.prevision || "date non publiée");
+        return h("div",{class:"vrow"}, h("div",{class:"grow"}, h("b",null,c.etape), h("span",{class:"small block"}, dates), c.ref2026 ? h("span",{class:"muted small block"}, "En 2026 : " + c.ref2026) : null, c.source && c.source.u ? h("p",{class:"src"}, "Source : ", h("a",{href:c.source.u,target:"_blank",rel:"noopener"}, c.source.t || c.source.u)) : null), h("span",{class:"pill " + st[1]}, st[0])); }))) : null,
     Array.isArray(VEILLE.actus) && VEILLE.actus.length ? h("details",null, h("summary",null,"Dernières informations (" + VEILLE.actus.length + ")"),
       h("div",{class:"stack tight"}, VEILLE.actus.map(a=>h("div",{class:"miss"}, h("p",{class:"small"}, h("b",null, frDate(a.date) + " · " + a.titre)), a.resume ? h("p",{class:"muted small"}, a.resume) : null,
         a.source && a.source.u ? h("p",{class:"src"}, "Source : ", h("a",{href:a.source.u,target:"_blank",rel:"noopener"}, a.source.t || a.source.u)) : null)))) : null);
+}
+
+
+// ---------- Mes concours ----------
+// Dates de référence de la limite d'âge à la session 2026 (textes officiels), décalées d'un an pour la session suivante.
+const AGE_REF_2026 = {"ena-cms":"2025-12-31","ena-cs":"2025-12-31","fp-sa":"2025-12-31","infj-ces":"2026-12-31","infj-ies":"2026-12-31","infj-asp":"2026-12-31","infj-agp":"2026-01-01","infj-agpa":"2026-01-01"};
+function ageOn(birth, ref){ if (!birth) return null; const b = parseYmd(birth), r = parseYmd(ref); let a = r.getFullYear()-b.getFullYear(); if (r.getMonth()<b.getMonth() || (r.getMonth()===b.getMonth() && r.getDate()<b.getDate())) a--; return a; }
+function ageCheck(c){
+  const ref = AGE_REF_2026[c.id], b = state.profile.naissance; if (!ref || !b || !c.age) return null;
+  const nextRef = (Number(ref.slice(0,4))+1) + ref.slice(4);
+  const a1 = ageOn(b, ref), a2 = ageOn(b, nextRef);
+  return {a1, a2, max:c.age.max, ref, nextRef, ok: a2 <= c.age.max};
+}
+const STATUT_C = {ouvert:["Accessible","ok"], diplome:["Master exigé","late"], statut:["Réservé aux fonctionnaires",""]};
+function trackPct(keys){ let n=0, t=0; for (const k of keys){ if (!TRACKS[k]) continue; const p = trackProgress(k); n += p.n; t += p.total; } return t ? Math.round(n/t*100) : 0; }
+function concoursCard(c, inCandidature){
+  const st = STATUT_C[c.statut], chk = ageCheck(c), on = (state.concours||[]).includes(c.id);
+  return card("stack tight concourscard",
+    h("div",{class:"row spread"}, h("span",{class:"pill " + st[1]}, st[0]), c.id===state.concoursPrin ? h("span",{class:"pill cur"},"Prioritaire") : null),
+    h("h2",null, c.nom),
+    h("p",{class:"small"}, c.conditions),
+    c.lock ? h("p",{class:"small bad"}, "Bloqué pour l'instant : " + c.lock) : null,
+    chk ? h("p",{class:"small " + (chk.ok ? "good" : "bad")}, "Âge : " + chk.a1 + " ans à la date de référence de la session 2026 ; " + chk.a2 + " ans à la date équivalente de la session suivante (limite " + chk.max + " ans, si la règle est reconduite).") : (state.profile.naissance ? null : h("p",{class:"muted small"},"Renseignez votre date de naissance dans le profil pour vérifier la condition d'âge.")),
+    h("div",{class:"eplist"}, c.epreuves.map(([nom, dc, tr])=>h("div",{class:"eprow"}, h("span",{class:"grow"}, nom, dc ? h("span",{class:"muted small block"}, dc) : null), h("span",{class:"meta"}, trackPct(tr) + " %")))),
+    c.session2026 ? h("p",{class:"muted small"}, "Session 2026 : " + c.session2026 + ".") : null,
+    c.note ? h("p",{class:"muted small"}, c.note) : null,
+    h("p",{class:"src"}, "Sources : ", c.src.map((k,i)=>[i?" · ":"", h("a",{href:CSRC[k].u,target:"_blank",rel:"noopener"}, CSRC[k].t)])),
+    inCandidature ? null : h("div",{class:"row"},
+      h("label",{class:"chk"}, h("input",{type:"checkbox",checked:on||null,onchange:(ev)=>toggleConcours(c.id, ev.target.checked)}), h("span",null,"Je prépare ce concours")),
+      on && c.id!==state.concoursPrin ? h("button",{class:"btn small ghost",type:"button",onclick:()=>{ state.concoursPrin = c.id; save(); render(); }},"Rendre prioritaire") : null));
+}
+function toggleConcours(id, on){
+  let l = (state.concours||[]).filter(x=>x!==id);
+  if (on) l.push(id);
+  if (!l.length){ toast("Gardez au moins un concours."); render(); return; }
+  state.concours = l;
+  if (!l.includes(state.concoursPrin)) state.concoursPrin = l[0];
+  save();
+  const miss = slotless();
+  toast(on ? ("Concours ajouté." + (miss.length ? " Pensez à donner un créneau à : " + miss.map(k=>TRACKS[k].court).join(", ") + "." : "")) : "Concours retiré : votre progression dans ses matières est conservée.");
+  render();
+}
+function vConcours(){
+  const groups = [["ouvert","Accessibles avec ta licence"],["diplome","Bloqués par le diplôme (Master exigé)"]];
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Catalogue"), h("h1",null,"Mes concours")),
+    h("p",{class:"muted"},"Cochez les concours que vous préparez : le parcours, l'emploi du temps et le dossier s'adaptent. Les matières communes (sujet d'ordre général, culture générale, droit administratif…) ne se travaillent qu'une fois et servent à tous les concours."),
+    groups.map(([st, titre])=>[h("h2",{class:"sec"}, titre), CONCOURS.filter(c=>c.statut===st).sort((a,b)=>a.prio-b.prio).map(c=>concoursCard(c, false))]),
+    h("h2",{class:"sec"},"Réservés aux fonctionnaires (concours professionnels)"),
+    card("stack tight",
+      h("p",{class:"small"},"Ces concours exigent d'être déjà fonctionnaire, avec une ancienneté dans un grade donné : un CDI à l'AEJ ne compte pas. Je ne peux pas confirmer leurs épreuves : ils ne sont pas intégrés au parcours. Les matières déjà présentes (finances publiques, droit administratif, PES, culture générale) en couvrent une partie."),
+      h("div",{class:"list"}, CONCOURS_PRO.map(([n,g])=>h("div",{class:"item"}, h("span",{class:"grow"}, n), h("span",{class:"meta"}, g)))),
+      h("p",{class:"src"},"Source : ", h("a",{href:CSRC.liste.u,target:"_blank",rel:"noopener"}, CSRC.liste.t), " · ", h("a",{href:CSRC.ena.u,target:"_blank",rel:"noopener"}, CSRC.ena.t)))
+  );
+}
+
+// ---------- Dossier des concours de l'INFJ (arrêté d'ouverture du concours d'Attaché des greffes, 9 janvier 2026) ----------
+const DOSSIER_INFJ = [
+  {id:"i-dem", t:"Demande manuscrite adressée au Ministre de la Justice et des Droits de l'Homme, avec votre adresse exacte, et sa photocopie"},
+  {id:"i-nais", t:"Extrait d'acte de naissance de moins de 6 mois", check:{mois:6}},
+  {id:"i-nat", t:"Certificat de nationalité ivoirienne"},
+  {id:"i-casier", t:"Extrait de casier judiciaire de moins de 3 mois", check:{mois:3}},
+  {id:"i-cv", t:"Curriculum vitae"},
+  {id:"i-dip", t:"Copie légalisée du diplôme exigé, authentifiée par l'établissement qui l'a délivré"},
+  {id:"i-decl", t:"Attestation sur l'honneur de non-fonctionnaire"},
+  {id:"i-fiche", t:"Fiche de candidature"},
+  {id:"i-med", t:"Certificat de visite et de contre-visite médicale délivré par les médecins désignés par l'INFJ"},
+  {id:"i-frais", t:"Frais 2026 : inscription 17 500 F, pochette 5 000 F, prise de vue 2 500 F, visite médicale 25 000 F (payée à l'agence comptable de l'INFJ)"}
+];
+function dInfj(id){ return (state.dossierInfj||{})[id] || {st:0}; }
+function infjWarn(it){ const s = dInfj(it.id); if (!s.date || !it.check) return null; const lim = new Date(); lim.setMonth(lim.getMonth() - it.check.mois); return parseYmd(s.date) < lim ? "Délivré il y a plus de " + it.check.mois + " mois : à refaire au moment du dépôt." : null; }
+function infjDossierCard(){
+  if (!myConcours().some(c=>c.org==="INFJ")) return null;
+  const ok = DOSSIER_INFJ.filter(it=>dInfj(it.id).st===2 && !infjWarn(it)).length;
+  return card("stack",
+    h("div",{class:"row spread"}, h("h2",null,"Dossier des concours de l'INFJ"), h("b",null, ok + "/" + DOSSIER_INFJ.length)),
+    bar(Math.round(ok/DOSSIER_INFJ.length*100)),
+    h("p",{class:"muted small"},"En 2026 : inscriptions en ligne sur infj.ci entre le 19 janvier et le 1er mars (attachés et administrateurs) ou le 27 mars (protection judiciaire de l'enfance et de la jeunesse) ; visite médicale à partir du 19 janvier ; dépôt des dossiers du 2 mars au 10 avril. Les inscriptions de l'INFJ ouvrent plus tôt que celles de l'ENA."),
+    h("div",{class:"list"}, DOSSIER_INFJ.map(it=>{
+      const s = dInfj(it.id), w = infjWarn(it);
+      return h("div",{class:"ditem"},
+        h("button",{class:"dst s"+s.st,type:"button",onclick:()=>{ const d = state.dossierInfj || (state.dossierInfj = {}); const x = d[it.id] || (d[it.id] = {st:0}); x.st = (x.st+1)%3; save(); render(); }}, DST[s.st]),
+        h("div",{class:"grow"}, h("b",null,it.t), w ? h("p",{class:"small bad"}, w) : null,
+          it.check ? h("div",{class:"row"}, h("span",{class:"muted small"},"Délivré le"), h("input",{type:"date",value:s.date||"",onchange:(ev)=>{ const d = state.dossierInfj || (state.dossierInfj = {}); const x = d[it.id] || (d[it.id] = {st:0}); x.date = ev.target.value; save(); render(); }})) : null));
+    })),
+    h("p",{class:"src"},"Source : ", h("a",{href:CSRC.agp.u,target:"_blank",rel:"noopener"}, CSRC.agp.t), ". Les arrêtés des autres concours de l'INFJ peuvent différer : vérifiez celui de votre concours."));
 }
 
 
@@ -2660,6 +3018,13 @@ const TUTO = [
          "- Dans les matières d'écrit (SOG, PES, résumé, droit), il faut aussi une copie notée au moins 10/20 avec la grille du jury.",
          "- En cas d'échec, relisez « À retenir » puis repassez : les questions changent.",
          "~ Symboles : ✓ validé, ▶ en cours, 🔒 verrouillé, … leçon en préparation (publiée par la production de nuit)."] },
+  { t:"Plusieurs concours, une seule préparation", lbl:"Mes concours",
+    txt:["Parcours > « Choisir mes concours » : cochez les concours que vous préparez (ENA, INFJ, Fonction publique) et choisissez votre concours prioritaire.",
+         "- Chaque concours affiche ses conditions, ses épreuves avec durées et coefficients officiels, et votre progression par épreuve.",
+         "- Les matières communes (sujet d'ordre général, culture générale, droit administratif…) ne se travaillent qu'une fois et servent à tous vos concours.",
+         "- Une nouvelle matière doit recevoir un créneau dans l'emploi du temps, sinon elle n'avance pas : l'appli vous le signale.",
+         "- Les concours bloqués par le diplôme (Master) restent visibles, pour vous préparer à l'avance.",
+         "> Lecture à voix haute : dans chaque leçon, « 🔊 Écouter » fait lire la technique, le cours ou l'essentiel par la voix du téléphone, à la vitesse choisie."] },
   { t:"Les conditions d'examen", lbl:"Pas de passe-droit", demo:"qcm",
     txt:["Avant chaque évaluation, vous vous engagez à composer seul. Ensuite :",
          "- Le chrono tourne sans pause ; à la fin, la copie est ramassée.",

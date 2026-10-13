@@ -6,8 +6,8 @@ import json, re, sys, unicodedata, pathlib, hashlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 C = ROOT / "content"
-MATIERES = {"fr","cg","ang","log","pes","dc","da","fp","sog","ct","ns","oral"}
-EPREUVES = {"sog","pes","ct","dc","ns","da"}
+MATIERES = {"fr","cg","ang","log","pes","dc","da","fp","sog","ct","ns","oral","oj","denf","sfp","opaj","pen","dciv","info"}
+EPREUVES = {"sog","pes","ct","dc","ns","da","oj","denf","sfp","opaj","pen","dciv"}
 # Catégories où une source web n'est pas exigée, mais une vérification explicite l'est.
 SANS_URL = {"regle", "calcul", "methode"}
 
@@ -120,6 +120,15 @@ if vp.exists():
                 if c.get(k) and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", c[k]): err(w, f"{k} doit être au format AAAA-MM-JJ")
             if c.get("statut") == "officiel" and not (c.get("debut") or c.get("fin")): err(w, "une étape officielle doit avoir une date")
             if not str((c.get("source") or {}).get("u","")).startswith("https://"): err(w, "source https obligatoire")
+        for j, sec in enumerate(V.get("autres", [])):
+            for k in ("id","titre","statut","calendrier"):
+                if k not in sec: err(f"veille.json autres {j+1}", f"champ manquant {k}")
+            if sec.get("statut") not in ("annonce","non_annonce"): err(f"veille.json autres {j+1}", "statut invalide")
+            for i, c in enumerate(sec.get("calendrier", [])):
+                w = f"veille.json autres {j+1} calendrier {i+1}"
+                if c.get("statut") not in ("officiel","estime","passe"): err(w, "statut invalide")
+                if c.get("statut") == "officiel" and not (c.get("debut") or c.get("fin")): err(w, "une étape officielle doit avoir une date")
+                if not str((c.get("source") or {}).get("u","")).startswith("https://"): err(w, "source https obligatoire")
         for i, a_ in enumerate(V.get("actus", [])):
             w = f"veille.json actu {i+1}"
             if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(a_.get("date",""))): err(w, "date invalide")
