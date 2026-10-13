@@ -989,6 +989,208 @@ const ORAL = [
   ["Quelles sont vos qualités et vos défauts ?","Qualités prouvées par des exemples ; un défaut réel et la façon dont vous le corrigez."]
 ];
 
+// ============ PROGRAMME À NIVEAUX ============
+// Chaque matière se parcourt dans l'ordre. Un niveau = une leçon (technique, cours, à retenir) + une évaluation.
+// [identifiant, titre, objectifs (pour la production des contenus), leçon intégrée éventuelle]
+const PROGRAMME = [
+ { k:"fr", label:"Français : orthographe, grammaire, conjugaison, vocabulaire", court:"Français", phase:"Présélection", qcm:true, levels:[
+  ["fr01","Stratégie de la présélection : le barème qui pénalise","Barème +1/0/-1 et +2/0/-2, gestion du temps, quand s'abstenir","p0"],
+  ["fr02","Synonymes, antonymes, paronymes, intrus","Les quatre familles d'exercices d'aptitude verbale de l'ENA","p1"],
+  ["fr03","Accords, pluriels et conjugaison : le panorama","Vue d'ensemble des pièges grammaticaux des QCM","p2"],
+  ["fr04","Nature et fonction des mots","Classes grammaticales, fonctions sujet, COD, COI, attribut, complément circonstanciel"],
+  ["fr05","L'accord du verbe avec son sujet","Sujets inversés, collectifs, « l'un et l'autre », « ni... ni », « c'est / ce sont », pourcentages"],
+  ["fr06","L'accord de l'adjectif ; les adjectifs de couleur","Accord en genre et nombre, adjectifs composés, couleurs simples et composées, « demi », « nu », « feu »"],
+  ["fr07","Le participe passé avec être et avec avoir","Règle du COD placé avant, « en », participe suivi d'un infinitif, « fait » + infinitif"],
+  ["fr08","Le participe passé des verbes pronominaux","Essentiellement pronominaux, réfléchis et réciproques, « se sont succédé », « se sont plu »"],
+  ["fr09","Le pluriel des noms simples et composés","-al, -ail, -ou, -eu, noms étrangers, noms composés (nom+nom, verbe+nom, mot invariable)"],
+  ["fr10","Numéraux, tout, même, quelque, demi","Vingt et cent, mille, « tout » adverbe, « quelque » et « quel que », « même »"],
+  ["fr11","Les homophones grammaticaux","a/à, ou/où, ces/ses/c'est/s'est, quand/quant/qu'en, leur/leurs, sans/s'en, quelquefois/quelques fois"],
+  ["fr12","Conjugaison 1 : présent et passé simple des verbes difficiles","Verbes en -indre, -soudre, -cevoir, acquérir, mouvoir ; passé simple des verbes du 3e groupe"],
+  ["fr13","Conjugaison 2 : futur, conditionnel, concordance des temps","Futur et conditionnel (courir, mourir, envoyer), « si » + imparfait, concordance au passé"],
+  ["fr14","Conjugaison 3 : le subjonctif","Formes du subjonctif présent et imparfait, après « bien que », « avant que » ; indicatif après « après que »"],
+  ["fr15","Orthographe d'usage : les mots pièges","Doubles consonnes, accents, mots fréquemment mal orthographiés, mots en -tion/-ssion"],
+  ["fr16","Vocabulaire administratif et juridique","Termes de l'administration, des actes, des finances publiques, du droit"],
+  ["fr17","Paronymes et impropriétés","Conjecture/conjoncture, éminent/imminent, prolongation/prolongement, etc."],
+  ["fr18","Expressions, locutions et proverbes","Sens et emploi des locutions courantes et des proverbes"],
+  ["fr19","Analogies et séries de mots","Raisonnement par analogie verbale, intrus, séries sémantiques"],
+  ["fr20","Ponctuation, majuscules et abréviations","Virgule, majuscules des institutions, abréviations officielles"],
+  ["fr21","Syntaxe : la phrase complexe et le discours rapporté","Propositions subordonnées, discours direct et indirect, transformations"],
+  ["fr22","Figures de style et registres de langue","Métaphore, litote, euphémisme, hyperbole, antithèse ; registres soutenu, courant, familier"],
+  ["fr23","Pléonasmes, barbarismes, anglicismes","Fautes de langue courantes et leurs corrections"],
+  ["fr24","Révision générale de français","Test de niveau sur tout le programme"]
+ ]},
+ { k:"ang", label:"Anglais", court:"Anglais", phase:"Présélection", qcm:true, levels:[
+  ["an01","Les temps et les structures piégées","Temps de base et structures fréquentes des QCM","p5"],
+  ["an02","Vocabulaire administratif et faux amis","Vocabulaire de l'administration et faux amis","p6"],
+  ["an03","Present simple et present continuous","Emplois, verbes d'état, marqueurs de temps"],
+  ["an04","Past simple, present perfect, for et since","Emplois comparés, ago, already, yet, just"],
+  ["an05","Past perfect et expression du futur","Past perfect, will, going to, present continuous à valeur de futur"],
+  ["an06","Les modaux","Must, have to, should, may, might, can, could, needn't"],
+  ["an07","Les conditionnelles et wish","Conditionnels 0, 1, 2, 3 ; I wish, if only"],
+  ["an08","La voix passive","Formation à tous les temps, by, passif des verbes à deux compléments"],
+  ["an09","Le discours rapporté","Say/tell, concordance des temps, questions rapportées"],
+  ["an10","Articles, dénombrables et indénombrables","A/an/the/zéro, much/many, few/little, some/any"],
+  ["an11","Comparatifs, superlatifs, so/such, too/enough","Formation et pièges"],
+  ["an12","Pluriels et féminins irréguliers, nationalités","Pluriels irréguliers, noms de nationalité"],
+  ["an13","Pronoms et propositions relatives","Who, whom, whose, which, that ; pronoms réfléchis"],
+  ["an14","Prépositions et verbes à particule essentiels","In/on/at, prépositions de lieu et de temps, phrasal verbs courants"],
+  ["an15","Gérondif ou infinitif","Verbes suivis de -ing, de to, ou des deux avec changement de sens"],
+  ["an16","Question tags, ordre des mots, inversion","Tags, place des adverbes, inversion après never/rarely"],
+  ["an17","Les verbes irréguliers","Base verbale, prétérit, participe passé des verbes irréguliers courants"],
+  ["an18","Formation des mots","Préfixes, suffixes, noms, adjectifs et adverbes dérivés"],
+  ["an19","Vocabulaire : gouvernement, économie, organisations internationales","Lexique institutionnel et économique"],
+  ["an20","Compréhension écrite","Stratégies de lecture et questions de compréhension"],
+  ["an21","Révision générale d'anglais","Test de niveau sur tout le programme"]
+ ]},
+ { k:"cg", label:"Culture générale : Côte d'Ivoire, Afrique, Europe, Amériques, Asie, monde", court:"Culture générale", phase:"Présélection", qcm:true, levels:[
+  ["cg01","La Côte d'Ivoire : repères essentiels","Repères institutionnels, géographiques et historiques","p3"],
+  ["cg02","Le monde et les organisations internationales","Grandes organisations et repères mondiaux","p4"],
+  ["cg03","Côte d'Ivoire : histoire précoloniale et coloniale","Royaumes, peuplement, colonisation, figures historiques"],
+  ["cg04","Côte d'Ivoire : de l'indépendance à nos jours","Présidents, constitutions, grandes étapes politiques"],
+  ["cg05","Côte d'Ivoire : géographie et organisation du territoire","Relief, fleuves, climat, districts, régions"],
+  ["cg06","Côte d'Ivoire : économie","Cacao, café, anacarde, pétrole, ports, PND 2026-2030"],
+  ["cg07","Côte d'Ivoire : culture, arts et personnalités","Littérature, musique, sport, patrimoine UNESCO"],
+  ["cg08","Afrique de l'Ouest : CEDEAO, UEMOA, AES","Pays membres, sièges, dates, institutions"],
+  ["cg09","Afrique : indépendances, panafricanisme, Union africaine","Pères des indépendances, OUA, UA, Agenda 2063"],
+  ["cg10","Afrique : pays, capitales et grands dirigeants","Afrique du Nord, centrale, de l'Est, australe"],
+  ["cg11","Afrique : géographie physique","Fleuves, lacs, montagnes, déserts, records"],
+  ["cg12","Europe : Union européenne et institutions","Traités, institutions, élargissements, euro"],
+  ["cg13","Europe : pays, capitales et histoire","Géographie, monarchies et républiques, grandes dates"],
+  ["cg14","Amérique du Nord : États-Unis et Canada","Institutions américaines, grandes dates, géographie"],
+  ["cg15","Amérique latine et Caraïbes","Pays, capitales, indépendances, organisations régionales"],
+  ["cg16","Asie et Moyen-Orient","Chine, Inde, Japon, Asie du Sud-Est, Moyen-Orient"],
+  ["cg17","Océanie, pôles et océans","Pays, géographie, traités sur l'Antarctique"],
+  ["cg18","L'ONU et le système des Nations unies","Organes, agences, sièges, secrétaires généraux"],
+  ["cg19","Institutions financières et économiques","FMI, Banque mondiale, BAD, BCEAO, BOAD, OMC"],
+  ["cg20","Histoire contemporaine : 1914-1945","Guerres mondiales, entre-deux-guerres, traités"],
+  ["cg21","Guerre froide, décolonisation, mondialisation","Blocs, décolonisation, fin de l'URSS"],
+  ["cg22","Climat, environnement et développement durable","COP, accords, ODD, biodiversité"],
+  ["cg23","Sciences, techniques et grandes découvertes","Inventeurs, découvertes, espace, santé"],
+  ["cg24","Littérature africaine et mondiale","Auteurs, œuvres, prix littéraires"],
+  ["cg25","Arts, musique et cinéma","Mouvements artistiques, FESPACO, grandes œuvres"],
+  ["cg26","Sport","CAN, Coupe du monde, Jeux olympiques, grandes figures"],
+  ["cg27","Prix et distinctions","Prix Nobel, prix africains"],
+  ["cg28","Sigles et acronymes","Sigles nationaux et internationaux"],
+  ["cg29","Actualité nationale et internationale","Faits vérifiés des derniers mois"],
+  ["cg30","Révision générale de culture générale","Test de niveau sur tout le programme"]
+ ]},
+ { k:"log", label:"Logique et aptitude numérique", court:"Logique", phase:"Présélection", qcm:true, levels:[
+  ["lo01","Suites, proportions et pourcentages","Bases du calcul de présélection","p7"],
+  ["lo02","Le test d'organisation","Problèmes à contraintes","p8"],
+  ["lo03","Fractions et calcul mental","Opérations sur fractions, priorités, astuces de calcul mental"],
+  ["lo04","Pourcentages avancés","Hausses et baisses successives, taux réciproque, TVA, remises"],
+  ["lo05","Proportionnalité, règle de trois, échelles","Grandeurs proportionnelles et inversement proportionnelles"],
+  ["lo06","Vitesse, distance, temps et débits","Mouvements, croisements, robinets"],
+  ["lo07","Intérêts simples et composés","Calculs financiers de base"],
+  ["lo08","Moyennes et statistiques simples","Moyenne pondérée, médiane, étendue"],
+  ["lo09","Âges, partages et mélanges","Problèmes classiques"],
+  ["lo10","Suites numériques avancées","Suites croisées, carrés, différences de second ordre"],
+  ["lo11","Suites de lettres et alphanumériques","Rangs alphabétiques, décalages"],
+  ["lo12","Logique propositionnelle et syllogismes","Implication, négation, syllogismes"],
+  ["lo13","Dénombrement et probabilités simples","Arrangements, combinaisons simples, probabilités"],
+  ["lo14","Calendriers, horloges et dates","Jours de la semaine, angles des aiguilles, fuseaux"],
+  ["lo15","Géométrie : périmètres, aires, volumes","Formules usuelles"],
+  ["lo16","Lecture de tableaux et de graphiques","Interpréter des données chiffrées"],
+  ["lo17","Problèmes à contraintes avancés","Tableaux logiques, rangements, emplois du temps"],
+  ["lo18","Révision générale de logique","Test de niveau sur tout le programme"]
+ ]},
+ { k:"pes", label:"Problèmes économiques et sociaux", court:"PES", phase:"Admissibilité", ecrit:"pes", levels:[
+  ["pe01","La méthode du devoir de PES","Méthode de la dissertation économique","e1"],
+  ["pe02","Croissance, emploi, inflation et UEMOA","Notions économiques de base","e2"],
+  ["pe03","Le pacte de convergence de l'UEMOA","Critères et enjeux","L20261012"],
+  ["pe04","Comptabilité nationale : PIB et agrégats","PIB, valeur ajoutée, croissance réelle et nominale"],
+  ["pe05","Politique budgétaire et dette publique","Déficit, dette, soutenabilité"],
+  ["pe06","Monnaie, BCEAO et politique monétaire","Franc CFA, réformes, taux directeurs"],
+  ["pe07","Commerce international et ZLECAf","Balance des paiements, intégration commerciale"],
+  ["pe08","Emploi, chômage, jeunesse et informel","Concepts, politiques d'emploi, économie informelle"],
+  ["pe09","Pauvreté, inégalités et inclusion sociale","Mesures, filets sociaux, politiques publiques"],
+  ["pe10","Agriculture et sécurité alimentaire","Filières, transformation locale, autosuffisance"],
+  ["pe11","Industrialisation, énergie et infrastructures","Transformation structurelle"],
+  ["pe12","Éducation, formation et capital humain","Politiques éducatives, formation professionnelle"],
+  ["pe13","Santé et protection sociale","CMU, financement de la santé"],
+  ["pe14","Urbanisation, logement et transports","Villes, mobilité, logement social"],
+  ["pe15","Environnement, climat et transition","Économie verte, adaptation"],
+  ["pe16","Développement : PND 2026-2030 et ODD","Planification et financement du développement"],
+  ["pe17","Numérique et innovation","Économie numérique, inclusion financière"],
+  ["pe18","Révision : sujet blanc de PES","Épreuve complète en conditions"]
+ ]},
+ { k:"dc", label:"Droit constitutionnel", court:"Droit constitutionnel", phase:"Admissibilité CMS", ecrit:"dc", levels:[
+  ["dc01","L'État, la Constitution, les régimes politiques","Notions fondamentales","d1"],
+  ["dc02","Les institutions de la Constitution de 2016","Panorama institutionnel","d2"],
+  ["dc03","La Constitution de 2016, article par article","Articles clés","L20261011"],
+  ["dc04","Histoire constitutionnelle de la Côte d'Ivoire","1960, 2000, 2016, révision de 2020"],
+  ["dc05","Le Président de la République et le Vice-Président","Élection, pouvoirs, intérim"],
+  ["dc06","Le Gouvernement et les rapports entre pouvoirs","Responsabilité, moyens d'action réciproques"],
+  ["dc07","Le Parlement et la procédure législative","Assemblée nationale, Sénat, navette, lois organiques"],
+  ["dc08","Le Conseil constitutionnel et le contrôle de constitutionnalité","Saisine, contrôle a priori, exception"],
+  ["dc09","Le pouvoir judiciaire","Organisation juridictionnelle, Conseil supérieur de la magistrature"],
+  ["dc10","Droits, libertés et devoirs","Titre I de la Constitution"],
+  ["dc11","Élections, partis politiques et CEI","Droit électoral"],
+  ["dc12","Les autres institutions constitutionnelles","CESEC, Médiateur, Chambre des rois et chefs traditionnels"],
+  ["dc13","Révision de la Constitution et traités","Procédure de révision, engagements internationaux"],
+  ["dc14","Les grands régimes étrangers","France, États-Unis, Royaume-Uni"],
+  ["dc15","Révision : sujet blanc de droit constitutionnel","Épreuve complète en conditions"]
+ ]},
+ { k:"da", label:"Droit administratif et finances publiques", court:"Droit administratif", phase:"Admissibilité CS", ecrit:"da", levels:[
+  ["da01","L'organisation administrative de la Côte d'Ivoire","Panorama","a1"],
+  ["da02","Le régime juridique des actes administratifs","Actes unilatéraux","a2"],
+  ["da03","Service public, police et responsabilité","Notions clés","a3"],
+  ["da04","Budget et dépense publique","Finances publiques de base","f1"],
+  ["da05","Les sources du droit administratif et la légalité","Hiérarchie des normes, principe de légalité"],
+  ["da06","Centralisation, déconcentration, décentralisation","Notions et applications ivoiriennes"],
+  ["da07","Les collectivités territoriales","Régions, communes, districts autonomes"],
+  ["da08","Contrats administratifs et marchés publics","Critères, procédures, code des marchés"],
+  ["da09","La fonction publique","Statut général, droits et obligations"],
+  ["da10","Domaine public et expropriation","Régime des biens publics"],
+  ["da11","Le contentieux administratif","Recours pour excès de pouvoir, plein contentieux"],
+  ["da12","Lois de finances et budget-programme","LOLF, directives UEMOA"],
+  ["da13","Recettes, dépenses et comptabilité publique","Ordonnateur, comptable, phases de la dépense"],
+  ["da14","Le contrôle des finances publiques","Cour des comptes, contrôle parlementaire"],
+  ["da15","Révision : sujet blanc de droit administratif","Épreuve complète en conditions"]
+ ]},
+ { k:"ct", label:"Résumé de texte", court:"Résumé", phase:"Admissibilité CMS", ecrit:"ct", levels:[
+  ["ct01","La technique ENA du résumé","Méthode complète","c1"],
+  ["ct02","Lire et dégager la structure d'un texte","Thèse, arguments, connecteurs, plan du texte"],
+  ["ct03","Reformuler sans paraphraser","Condenser, généraliser, supprimer les exemples"],
+  ["ct04","Compter les mots et tenir la fourchette","Règles de décompte et ajustement"],
+  ["ct05","Résumer un texte économique","Entraînement guidé"],
+  ["ct06","Résumer un texte de société","Entraînement guidé"],
+  ["ct07","Résumé chronométré","Épreuve en conditions"],
+  ["ct08","Révision : résumé blanc","Épreuve complète en conditions"]
+ ]},
+ { k:"sog", label:"Sujet d'ordre général", court:"SOG", phase:"Admissibilité", ecrit:"sog", levels:[
+  ["so01","Analyser le sujet et trouver la problématique","Méthode d'analyse","s1"],
+  ["so02","Construire le plan et rédiger","Méthode du plan","s2"],
+  ["so03","L'introduction en quatre temps","Accroche, définition, problématique, annonce"],
+  ["so04","Argumenter : idée, explication, exemple","Paragraphe argumentatif"],
+  ["so05","Transitions et conclusion","Lier les parties, conclure et ouvrir"],
+  ["so06","Thèmes : paix, cohésion sociale, sécurité","Idées et exemples vérifiés"],
+  ["so07","Thèmes : démocratie, élections, citoyenneté","Idées et exemples vérifiés"],
+  ["so08","Thèmes : jeunesse, emploi, éducation","Idées et exemples vérifiés"],
+  ["so09","Thèmes : environnement et développement durable","Idées et exemples vérifiés"],
+  ["so10","Thèmes : éthique, gouvernance, lutte contre la corruption","Idées et exemples vérifiés"],
+  ["so11","Thèmes : mondialisation, numérique, culture","Idées et exemples vérifiés"],
+  ["so12","Révision : SOG blanc","Épreuve complète en conditions"]
+ ]},
+ { k:"ns", label:"Note de synthèse (cycle supérieur)", court:"Synthèse", phase:"Admissibilité CS", ecrit:"ns", levels:[
+  ["ns01","La méthode des 5 heures","Méthode complète","n1"],
+  ["ns02","Lire et classer un dossier","Tableau de dépouillement"],
+  ["ns03","Bâtir le plan de la note","Plan thématique, titres"],
+  ["ns04","Rédiger une note objective","Neutralité, citations des documents"],
+  ["ns05","Note chronométrée","Épreuve en conditions"],
+  ["ns06","Révision : note de synthèse blanche","Épreuve complète en conditions"]
+ ]},
+ { k:"oral", label:"Oral d'admission", court:"Oral", phase:"Admission", levels:[
+  ["or01","Se présenter et convaincre le jury","Présentation","o1"],
+  ["or02","Les questions de motivation","Pourquoi l'ENA, projet professionnel"],
+  ["or03","Culture et actualité devant le jury","Réponses structurées sur l'actualité"],
+  ["or04","L'administration ivoirienne en questions","Connaître l'État que l'on veut servir"],
+  ["or05","Posture, voix et gestion du stress","Communication non verbale"],
+  ["or06","Mises en situation administratives","Cas pratiques de l'oral"],
+  ["or07","Simulation complète de l'oral","Oral blanc"]
+ ]}
+];
+
 // ============ CAP ENA — APPLICATION ============
 (function(){
 "use strict";
@@ -1011,31 +1213,47 @@ function h(tag, attrs, ...kids){
 const shuffle = (a)=>{ a=a.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; };
 const pad = (n)=>String(n).padStart(2,"0");
 const ymd = (d)=>d.getFullYear()+"-"+pad(d.getMonth()+1)+"-"+pad(d.getDate());
+const parseYmd = (s)=>{ const [y,m,d]=s.split("-").map(Number); return new Date(y,m-1,d); };
+const addDays = (s,n)=>{ const d=parseYmd(s); d.setDate(d.getDate()+n); return ymd(d); };
+const frDate = (s)=>{ if(!s) return ""; const d=parseYmd(s); return d.getDate()+" "+["janv.","févr.","mars","avr.","mai","juin","juil.","août","sept.","oct.","nov.","déc."][d.getMonth()]+" "+d.getFullYear(); };
 const fmtTime = (s)=>{ s=Math.max(0,Math.round(s)); const hh=Math.floor(s/3600), mm=Math.floor(s%3600/60), ss=s%60; return (hh? hh+":"+pad(mm) : mm)+":"+pad(ss); };
 const words = (t)=>(t.trim().match(/[^\s'’]+/g)||[]).length;
 const JOURS = ["Dimanche","Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi"];
 const hash = (s)=>{ let x=5381; for (let i=0;i<s.length;i++) x=((x<<5)+x+s.charCodeAt(i))|0; return (x>>>0).toString(36); };
-function toast(msg){ const t=$("#toast"); t.textContent=msg; t.hidden=false; clearTimeout(toast._t); toast._t=setTimeout(()=>{t.hidden=true},2800); }
+const toMin = (s)=>{ const [a,b]=s.split(":").map(Number); return a*60+b; };
+const nowMin = ()=>{ const d=new Date(); return d.getHours()*60+d.getMinutes(); };
+const today = ()=>ymd(new Date());
+const fr1 = (x)=>String(x).replace(".",",");
+function toast(msg){ const t=$("#toast"); t.textContent=msg; t.hidden=false; clearTimeout(toast._t); toast._t=setTimeout(()=>{t.hidden=true},3200); }
 
-const MAT = {
-  cg:{label:"Culture générale et aptitude verbale", court:"Culture générale", phase:"Présélection"},
-  ang:{label:"Anglais", court:"Anglais", phase:"Présélection"},
-  log:{label:"Logique et aptitude numérique", court:"Logique", phase:"Présélection"},
-  sog:{label:"Sujet d'ordre général", court:"SOG", phase:"Admissibilité"},
-  pes:{label:"Problèmes économiques et sociaux", court:"PES", phase:"Admissibilité"},
-  ct:{label:"Résumé de texte", court:"Résumé", phase:"Admissibilité CMS"},
-  dc:{label:"Droit constitutionnel", court:"Droit const.", phase:"Admissibilité CMS"},
-  ns:{label:"Note de synthèse", court:"Synthèse", phase:"Admissibilité CS"},
-  da:{label:"Droit administratif", court:"Droit adm.", phase:"Admissibilité CS"},
-  fp:{label:"Finances publiques", court:"Finances pub.", phase:"Bonus EGEF"},
-  oral:{label:"Oral d'admission", court:"Oral", phase:"Admission"}
-};
+// ---------- Matières ----------
+const TRACKS = Object.fromEntries(PROGRAMME.map(t=>[t.k,t]));
+const LEVELS = []; const LVMAP = {};
+PROGRAMME.forEach(t=>t.levels.forEach((L,i)=>{ const lv={id:L[0],t:L[1],obj:L[2],lesson:L[3]||null,track:t.k,idx:i,last:i===t.levels.length-1}; LEVELS.push(lv); LVMAP[lv.id]=lv; }));
+const SLOT_KINDS = { blanc:{court:"Présélection blanche", label:"Présélection blanche (45 questions, 45 min)"}, revision:{court:"Rattrapages et révision", label:"Rattrapages, puis révision des erreurs"}, ecrit:{court:"Écrit en conditions", label:"Copie complète en conditions d'examen"} };
+const kindLabel = (k)=> TRACKS[k] ? TRACKS[k].court : (SLOT_KINDS[k] ? SLOT_KINDS[k].court : k);
+const EPREUVE_OF = {sog:"sog", pes:"pes", ct:"ct", dc:"dc", da:"da", ns:"ns"};
+const METHOD_LEVEL = {sog:"so02", pes:"pe01", ct:"ct01", dc:"dc02", da:"da02", ns:"ns01"};
+// matière d'une question : d'abord le niveau de sa leçon, sinon son code
+function trackOfQ(q){
+  if (TAG2LV[q.tag]) return LVMAP[TAG2LV[q.tag]].track;
+  if (q.m === "fr" || /^(voc|gram|orth|conj|fr)/.test(q.tag||"")) return "fr";
+  return {cg:"cg",ang:"ang",log:"log",pes:"pes",dc:"dc",da:"da",fp:"da",ct:"ct",sog:"sog",ns:"ns",oral:"oral"}[q.m] || "cg";
+}
+const weight = (q)=> (q.m==="log" || trackOfQ(q)==="log") ? 2 : 1;
+
 let BANK = QUESTIONS.map(r=>({id:"q"+hash(r[2]), m:r[0], tag:r[1], q:r[2], o:r[3], a:r[4], e:r[5], src:"Cap ENA"}));
 let LMAP = Object.fromEntries(LESSONS.map(l=>[l.id,l]));
-const TRACKS = { pre:["p0","p1","p2","p3","p4","p5","p6","p7","p8"], pes:["e1","e2"], dc:["d1","d2"], da:["a1","a2","a3","f1"], ct:["c1"], sog:["s1","s2"], ns:["n1"], oral:["o1"] };
-const TRACK_OF = {cg:"pre",ang:"pre",log:"pre",pes:"pes",dc:"dc",da:"da",fp:"da",ct:"ct",sog:"sog",ns:"ns",oral:"oral"};
+const NIV2L = {}; const TAG2LV = {};
+function indexLevels(){
+  for (const lv of LEVELS){
+    const l = lessonOf(lv);
+    if (l && l.exo && l.exo.tag) TAG2LV[l.exo.tag] = lv.id;
+  }
+}
+function lessonOf(lv){ return (lv.lesson && LMAP[lv.lesson]) || NIV2L[lv.id] || null; }
 
-// ---------- Contenus en ligne (packs publiés chaque jour) ----------
+// ---------- Contenus publiés chaque nuit ----------
 const CONTENT = {loaded:false, updated:null, packs:0, added:{q:0,l:0,s:0}, today:{q:0,l:0,s:0}, offline:false};
 function repoInfo(){
   const m = location.hostname.match(/^([^.]+)\.github\.io$/i);
@@ -1053,7 +1271,7 @@ function mergePack(p, isToday){
   for (const l of (p.lessons||[])){
     if (!l || LMAP[l.id] || !Array.isArray(l.tech) || !Array.isArray(l.fond)) continue;
     l.date = p.date; l.fresh = true; LESSONS.push(l); LMAP[l.id] = l;
-    const tr = TRACK_OF[l.m]; if (tr) (TRACKS[tr] = TRACKS[tr] || []).push(l.id);
+    if (l.niv && LVMAP[l.niv] && !NIV2L[l.niv]) NIV2L[l.niv] = l;
     CONTENT.added.l++; if (isToday) CONTENT.today.l++;
   }
   for (const s of (p.sujets||[])){
@@ -1066,18 +1284,19 @@ async function loadContent(){
   try {
     const idx = await fetch("content/index.json", {cache:"no-cache"}).then(r=>{ if(!r.ok) throw 0; return r.json(); });
     const retired = new Set(idx.retired || []);
-    const today = ymd(new Date());
+    const td = today();
     for (const pk of (idx.packs||[])){
       try {
         const p = await fetch("content/" + pk.file + "?v=" + encodeURIComponent(pk.v||""), {cache:"no-cache"}).then(r=>r.json());
-        for (const day of (p.days || [p])) mergePack(day, day.date === today);
+        for (const day of (p.days || [p])) mergePack(day, day.date === td);
         CONTENT.packs++;
       } catch(e){}
     }
     if (retired.size){ BANK = BANK.filter(q=>!retired.has(q.id)); for (const id of retired){ delete state.wrong[id]; } }
     CONTENT.loaded = true; CONTENT.updated = idx.updated || null;
   } catch(e){ CONTENT.offline = true; }
-  if (["home","cours","train","ecrits"].includes(view)) render();
+  indexLevels();
+  if (!state.exam && !inExamView()) render();
 }
 function reportUrl(it){
   const r = repoInfo(); if (!r) return null;
@@ -1085,95 +1304,382 @@ function reportUrl(it){
   const body = "Question (id " + it.id + ") :\n" + it.q + "\n\nPropositions : " + it.o.join(" | ") + "\nRéponse donnée comme juste : " + it.o[it.a] + "\n\nCe qui me semble faux :\n";
   return "https://github.com/" + r.user + "/" + r.repo + "/issues/new?labels=erreur&title=" + encodeURIComponent(title) + "&body=" + encodeURIComponent(body);
 }
-const PLANNING = [
-  { jours:[1,2,3,4,5], debut:"12:30", fin:"13:00", titre:"Sprint présélection", track:"pre", type:"cours", detail:"Une leçon de présélection puis son questionnaire au barème officiel." },
-  { jours:[1], debut:"21:00", fin:"22:00", titre:"Problèmes économiques et sociaux", track:"pes", type:"cours", detail:"Cours de méthode et de fond, questionnaire, puis plan d'un sujet officiel." },
-  { jours:[2], debut:"21:00", fin:"22:00", titre:"Droit constitutionnel", track:"dc", type:"cours", detail:"Cours, questionnaire, puis plan d'un sujet officiel." },
-  { jours:[3], debut:"21:00", fin:"22:00", titre:"Droit administratif et finances publiques", track:"da", type:"cours", detail:"Cours, questionnaire, puis plan d'un sujet." },
-  { jours:[4], debut:"21:00", fin:"22:00", titre:"Résumé de texte", track:"ct", type:"cours", detail:"Technique du résumé, puis résumé chronométré." },
-  { jours:[5], debut:"21:00", fin:"22:00", titre:"Révision de la semaine", track:null, type:"erreurs", detail:"Toutes les questions ratées, au barème officiel." },
-  { jours:[6], debut:"08:00", fin:"10:00", titre:"Sujet d'ordre général", track:"sog", type:"cours", detail:"Cours de méthode, puis introduction et plan détaillé d'un sujet officiel." },
-  { jours:[6], debut:"16:00", fin:"17:30", titre:"Présélection blanche", track:null, type:"blanc", detail:"45 questions mélangées en 45 minutes, barème officiel." },
-  { jours:[0], debut:"08:00", fin:"10:00", titre:"Écrit long", track:"ns", type:"cours", detail:"Note de synthèse (cycle supérieur) ou résumé et PES (cycle moyen supérieur)." },
-  { jours:[0], debut:"17:00", fin:"18:00", titre:"Oral et bilan", track:"oral", type:"cours", detail:"Préparation de l'oral, deux questions de jury, puis bilan de la semaine." }
-];
-const NIVEAUX = [[0,"Candidat inscrit"],[300,"Présélectionné"],[900,"Admissible"],[2000,"Admis"],[4000,"Élève de l'ENA"],[7000,"Major de promotion"]];
+
 
 // ---------- État ----------
-const KEY = "capena.v2";
-const defaults = ()=>({v:2, xp:0, streak:0, best:0, lastDay:"", days:{}, stats:{}, wrong:{}, seen:{}, lessons:{}, copies:[], oral:0, custom:[], bareme:true, cycle:"CMS", blancs:0, created:ymd(new Date())});
+const KEY = "capena.v3";
+const DEFAULT_PLANNING = [
+  {id:"lun-m", jour:1, debut:"12:30", fin:"13:00", k:"fr"},
+  {id:"lun-s", jour:1, debut:"21:00", fin:"22:00", k:"pes"},
+  {id:"mar-m", jour:2, debut:"12:30", fin:"13:00", k:"ang"},
+  {id:"mar-s", jour:2, debut:"21:00", fin:"22:00", k:"dc"},
+  {id:"mer-m", jour:3, debut:"12:30", fin:"13:00", k:"cg"},
+  {id:"mer-s", jour:3, debut:"21:00", fin:"22:00", k:"da"},
+  {id:"jeu-m", jour:4, debut:"12:30", fin:"13:00", k:"log"},
+  {id:"jeu-s", jour:4, debut:"21:00", fin:"22:00", k:"ct"},
+  {id:"ven-m", jour:5, debut:"12:30", fin:"13:00", k:"fr"},
+  {id:"ven-s", jour:5, debut:"21:00", fin:"22:00", k:"revision"},
+  {id:"sam-m", jour:6, debut:"08:00", fin:"10:00", k:"sog"},
+  {id:"sam-a", jour:6, debut:"16:00", fin:"17:30", k:"blanc"},
+  {id:"dim-m", jour:0, debut:"08:00", fin:"10:00", k:"ecrit"},
+  {id:"dim-a", jour:0, debut:"17:00", fin:"18:00", k:"oral"}
+];
+const defaults = ()=>({v:3, xp:0, stats:{}, wrong:{}, seen:{}, lv:{}, valHist:[], copies:[], oral:0, custom:[], cycle:"CMS",
+  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null,
+  profile:{nom:"TANO", prenoms:"Ahmed", naissance:"", diplome:"", ville:"", statut:"", email:""}, dossier:{}, days:{}, created:today(), tuto3:null, blancs:0});
 let state = defaults();
-try { const raw = localStorage.getItem(KEY); if (raw) state = Object.assign(defaults(), JSON.parse(raw)); } catch(e){}
-function save(){ try { localStorage.setItem(KEY, JSON.stringify(state)); } catch(e){ toast("Impossible d'enregistrer : mémoire du navigateur pleine."); } }
+(function load(){
+  try {
+    const raw = localStorage.getItem(KEY);
+    if (raw){ state = Object.assign(defaults(), JSON.parse(raw)); return; }
+    const old = localStorage.getItem("capena.v2");
+    if (old){
+      const o = JSON.parse(old);
+      state.xp = o.xp||0; state.stats = o.stats||{}; state.wrong = o.wrong||{}; state.seen = o.seen||{}; state.copies = o.copies||[]; state.oral = o.oral||0; state.custom = o.custom||[]; state.cycle = o.cycle||"CMS";
+      // leçons déjà réussies (au moins 70 %) : niveau validé
+      for (const lv of LEVELS){ const r = lv.lesson && o.lessons && o.lessons[lv.lesson]; if (r && r.best >= 70){ state.lv[lv.id] = {ok:r.done||today(), best:r.best, tries:1, read:true}; state.valHist.push(lv.id); } }
+    }
+  } catch(e){}
+})();
+if (!state.lastProc) state.lastProc = addDays(today(), -1);   // les séances ne comptent qu'à partir de l'installation de cette version
+function save(){ try { localStorage.setItem(KEY, JSON.stringify(state)); } catch(e){ toast("Impossible d'enregistrer : mémoire du téléphone pleine."); } }
 function allQ(){ return BANK.concat(state.custom.map(q=>Object.assign({src:"Mes annales"},q))); }
+
+const NIVEAUX = [[0,"Candidat inscrit"],[300,"Présélectionné"],[900,"Admissible"],[2000,"Admis"],[4000,"Élève de l'ENA"],[7000,"Major de promotion"]];
 function niveau(xp){ let cur=NIVEAUX[0], next=NIVEAUX[1]; for (let i=0;i<NIVEAUX.length;i++){ if (xp>=NIVEAUX[i][0]) { cur=NIVEAUX[i]; next=NIVEAUX[i+1]||null; } } return {cur, next}; }
-function touchDay(){
-  const today = ymd(new Date());
-  if (state.lastDay !== today){
-    const y = new Date(); y.setDate(y.getDate()-1);
-    state.streak = (state.lastDay === ymd(y)) ? state.streak + 1 : 1;
-    state.best = Math.max(state.best||0, state.streak);
-    state.lastDay = today;
-  }
-  state.days[today] = (state.days[today]||0) + 1;
-}
-function addXP(n){ const b = niveau(state.xp).cur[1]; state.xp += n; const a = niveau(state.xp).cur[1]; if (a!==b) toast("Nouveau grade : " + a); }
+function addXP(n){ const b = niveau(state.xp).cur[1]; state.xp = Math.max(0, state.xp + n); const a = niveau(state.xp).cur[1]; if (a!==b) toast((n>0?"Nouveau grade : ":"Rétrogradé : ") + a); }
+function markDay(){ const d = today(); state.days[d] = (state.days[d]||0) + 1; }
 function precision(){ let ok=0,n=0; for (const k in state.stats){ ok+=state.stats[k].ok; n+=state.stats[k].n; } return n ? Math.round(ok/n*100) : null; }
 
-// ---------- Planning ----------
-const toMin = (s)=>{ const [a,b]=s.split(":").map(Number); return a*60+b; };
-function sessionInfo(){
-  const now = new Date(), d = now.getDay(), m = now.getHours()*60 + now.getMinutes();
-  for (const p of PLANNING) if (p.jours.includes(d) && m >= toMin(p.debut) && m < toMin(p.fin)) return {p, cur:true, day:d, off:0};
-  for (let off=0; off<8; off++){
-    const dd = (d+off)%7;
-    const list = PLANNING.filter(p=>p.jours.includes(dd)).sort((a,b)=>toMin(a.debut)-toMin(b.debut));
-    for (const p of list) if (off>0 || toMin(p.debut) > m) return {p, cur:false, day:dd, off};
-  }
-  return null;
+
+// ---------- Parcours : niveaux ----------
+const PASS = 14;          // note minimale sur 20 pour valider un niveau ou un rattrapage QCM
+const PASS_ECRIT = 10;    // note minimale de la copie (auto-évaluation)
+const lvState = (id)=> state.lv[id] || {};
+const isValid = (id)=> !!lvState(id).ok;
+function poolOf(lv){ const l = lessonOf(lv); if (!l || !l.exo || !l.exo.tag) return []; return allQ().filter(q=>q.tag===l.exo.tag); }
+function isAvailable(lv){ const l = lessonOf(lv); if (!l) return false; return lv.track==="oral" ? true : poolOf(lv).length >= 5; }
+function currentLevel(k){ return TRACKS[k].levels.map(L=>LVMAP[L[0]]).find(lv=>!isValid(lv.id)) || null; }
+function levelStatus(lv){
+  if (isValid(lv.id)) return "ok";
+  const cur = currentLevel(lv.track);
+  if (cur && cur.id === lv.id) return isAvailable(lv) ? "cur" : "prep";
+  return "lock";
 }
-function trackFor(p){
-  if (p.track === "ns" && state.cycle !== "CS"){ const wk = Math.floor(Date.now()/604800000); return wk%2 ? "ct" : "pes"; }
-  return p.track;
+function trackProgress(k){ const ids = TRACKS[k].levels.map(L=>L[0]); const n = ids.filter(isValid).length; return {n, total:ids.length, pct: Math.round(n/ids.length*100)}; }
+// exercice écrit exigé pour valider un niveau d'une matière d'écrit (après le QCM)
+function ecritNeeded(lv){
+  const t = TRACKS[lv.track];
+  if (!t.ecrit) return null;
+  const l = lessonOf(lv);
+  if (!lv.last && !(l && l.exo && l.exo.ecrit)) return null;
+  const E = EPREUVES[t.ecrit]; if (!E) return null;
+  const court = {sog:30, pes:30, dc:30, da:30, ct:60, ns:60}[t.ecrit] || 30;
+  return {e:t.ecrit, dur: lv.last ? E.duree*60 : court*60, full: !!lv.last};
 }
-function nextLesson(track){
-  const ids = TRACKS[track] || [];
-  const todo = ids.find(id=>!state.lessons[id]);
-  if (todo) return {id:todo, revision:false};
-  const worst = ids.slice().sort((a,b)=>(state.lessons[a].best||0)-(state.lessons[b].best||0))[0];
-  return worst ? {id:worst, revision:true} : null;
+function validateLevel(id, note){
+  const s = state.lv[id] || (state.lv[id] = {});
+  if (!s.ok){ s.ok = today(); state.valHist.push(id); addXP(60); }
+  s.best = Math.max(s.best||0, note);
+  save();
+  const lv = LVMAP[id]; const nx = currentLevel(lv.track);
+  toast("Niveau validé : « " + lv.t + " »" + (nx ? ". Niveau suivant déverrouillé." : ". Matière terminée !"));
 }
-function runSlot(p){
-  if (p.type === "erreurs") return startErreurs();
-  if (p.type === "blanc") return startBlanc();
-  const nl = nextLesson(trackFor(p));
-  if (nl) openLesson(nl.id);
+// questions des niveaux déjà validés (et du niveau en cours) d'une matière
+function trackPool(k, withCurrent){
+  const ids = new Set();
+  for (const L of TRACKS[k].levels){ const lv = LVMAP[L[0]]; const st = levelStatus(lv); if (st==="ok" || (withCurrent && st==="cur")){ const l = lessonOf(lv); if (l && l.exo) ids.add(l.exo.tag); } }
+  return allQ().filter(q=>ids.has(q.tag) || (trackOfQ(q)===k && !TAG2LV[q.tag] && q.src!=="Mes annales" && isValid(TRACKS[k].levels[0][0])));
 }
 
-// ---------- Navigation ----------
-const TABS = [["home","Aujourd'hui"],["cours","Cours"],["train","QCM"],["ecrits","Écrits"],["progres","Progrès"]];
-let view = "home", quiz = null, lesson = null, ecrit = null, oralS = null, timers = [];
+// ---------- Emploi du temps et séances ----------
+const slotsOn = (date)=>{ const wd = parseYmd(date).getDay(); return state.planning.filter(s=>s.jour===wd).sort((a,b)=>toMin(a.debut)-toMin(b.debut)); };
+const slotMin = (s)=> Math.max(0, toMin(s.fin)-toMin(s.debut));
+const doneOn = (date)=> state.done[date] || [];
+function slotDone(date, s){ return doneOn(date).includes(s.id); }
+function slotLabel(s){ return kindLabel(s.k); }
+function slotDetail(s){
+  if (TRACKS[s.k]){ const cur = currentLevel(s.k); if (!cur) return "Matière terminée : révision"; return (levelStatus(cur)==="prep" ? "Révision (niveau suivant en préparation)" : "Niveau " + (cur.idx+1) + " : " + cur.t); }
+  return SLOT_KINDS[s.k] ? SLOT_KINDS[s.k].label : "";
+}
+// Une séance est créditée quand une activité de sa matière est terminée le jour même.
+function creditSeance(kind){
+  const d = today(); const list = slotsOn(d); const done = state.done[d] || (state.done[d] = []);
+  const s = list.find(x=>x.k===kind && !done.includes(x.id));
+  if (s){ done.push(s.id); save(); toast("Séance « " + slotLabel(s) + " » validée pour aujourd'hui."); return true; }
+  return false;
+}
+// Passage en revue des jours écoulés : chaque séance non faite retire des points (2 XP par minute prévue).
+function processMissed(){
+  const y = addDays(today(), -1);
+  let d = state.lastProc ? addDays(state.lastProc, 1) : y;
+  if (parseYmd(d) < parseYmd(addDays(y, -60))) d = addDays(y, -60);
+  let lost = 0, n = 0;
+  while (parseYmd(d) <= parseYmd(y)){
+    for (const s of slotsOn(d)){
+      if (slotDone(d, s)) continue;
+      const id = d + "_" + s.id;
+      if (state.missed.some(m=>m.id===id)) continue;
+      const pts = slotMin(s) * 2;
+      const before = state.xp; addXP(-pts);
+      state.missed.push({id, date:d, k:s.k, debut:s.debut, fin:s.fin, pts, lost: before - state.xp, st:"due", limit: addDays(d, 14)});
+      lost += before - state.xp; n++;
+    }
+    d = addDays(d, 1);
+  }
+  state.lastProc = y;
+  // rattrapages expirés
+  for (const m of state.missed) if (m.st==="due" && parseYmd(m.limit) < parseYmd(today())) m.st = "perdu";
+  save();
+  return {n, lost};
+}
+const dueMissed = ()=> state.missed.filter(m=>m.st==="due").sort((a,b)=>a.date<b.date?-1:1);
+function restoreMissed(id){
+  const m = state.missed.find(x=>x.id===id); if (!m || m.st!=="due") return;
+  m.st = "ok"; m.on = today(); addXP(m.pts); markDay(); save();
+  toast("Rattrapage réussi : +" + m.pts + " XP récupérés.");
+}
+
+// ---------- Indice de préparation (indicateur interne, pas une probabilité) ----------
+function indice(){
+  const skip = state.cycle==="CS" ? ["ct","dc"] : ["ns"];
+  const tracks = PROGRAMME.filter(t=>!skip.includes(t.k));
+  const all = LEVELS.filter(lv=>tracks.some(t=>t.k===lv.track));
+  const val = all.filter(lv=>isValid(lv.id));
+  const couverture = all.length ? val.length/all.length : 0;
+  // qualité : somme des meilleures notes rapportée au programme entier (20/20 partout = 20 points)
+  const qualite = all.length ? val.reduce((a,lv)=>a+Math.min(20,lvState(lv.id).best||0)/20,0)/all.length : 0;
+  // assiduité sur 28 jours (0 tant qu'aucune séance n'était prévue)
+  let due = 0, ok = 0;
+  for (let i=1;i<=28;i++){ const d = addDays(today(), -i); if (parseYmd(d) < parseYmd(state.created)) break; for (const s of slotsOn(d)){ due++; const m = state.missed.find(x=>x.id===d+"_"+s.id); if (slotDone(d,s) || (m && m.st==="ok")) ok++; } }
+  const assiduite = due ? ok/due : 0;
+  const dos = dossierProgress();
+  const parts = {couverture: Math.round(couverture*40), maitrise: Math.round(qualite*20), assiduite: Math.round(assiduite*25), dossier: Math.round(dos.pct/100*15)};
+  return {total: parts.couverture+parts.maitrise+parts.assiduite+parts.dossier, parts, due, ok};
+}
+
+
+// ---------- Navigation (déclarations utilisées par les épreuves) ----------
+let view = "home", quiz = null, lesson = null, ecrit = null, oralS = null, timers = [], pre = null, trackView = null;
 function clearTimers(){ timers.forEach(t=>clearInterval(t)); timers = []; }
 function go(v){ view = v; clearTimers(); render(); window.scrollTo({top:0}); }
+const inExamView = ()=> ["quiz","ecrit","oral","conditions"].includes(view) && !!state.exam;
+
+// ---------- Surveillance des épreuves ----------
+// Pendant une évaluation, quitter l'appli (autre appli, écran d'accueil, verrouillage, appel, rechargement) entraîne une sanction :
+// épreuve annulée, les deux derniers niveaux validés sont reverrouillés, −150 XP, appli bloquée 3 minutes puis reverrouillée.
+let wakeLock = null;
+async function wake(on){ try { if (on && "wakeLock" in navigator){ wakeLock = await navigator.wakeLock.request("screen"); } else if (!on && wakeLock){ await wakeLock.release(); wakeLock = null; } } catch(e){} }
+function examBegin(info){
+  state.exam = Object.assign({start:Date.now()}, info); save();
+  wake(true); document.body.classList.add("inexam");
+  try { history.pushState({exam:1}, ""); } catch(e){}
+}
+function examFinish(){ state.exam = null; save(); wake(false); document.body.classList.remove("inexam"); }
+window.addEventListener("popstate", ()=>{ if (state.exam){ try { history.pushState({exam:1}, ""); } catch(e){} toast("Épreuve en cours : impossible de quitter. Remettez votre copie ou abandonnez."); } });
+document.addEventListener("visibilitychange", ()=>{
+  if (document.hidden){ if (state.exam) sanction("Sortie de l'appli pendant l'épreuve"); }
+  else {
+    if (state.exam) wake(true);
+    if (state.pendingSanction && !document.body.classList.contains("locked")) showLock();
+  }
+});
+window.addEventListener("pagehide", ()=>{ if (state.exam) sanction("Sortie de l'appli pendant l'épreuve"); });
+function sanction(reason){
+  const ex = state.exam; if (!ex) return;
+  state.exam = null;
+  const reverted = [];
+  for (let i=0; i<2 && state.valHist.length; i++){
+    const id = state.valHist.pop();
+    if (state.lv[id]){ delete state.lv[id].ok; delete state.lv[id].qcm; state.lv[id].read = false; }
+    reverted.push(id);
+  }
+  // un niveau dont le QCM était acquis (écrit en attente) perd aussi ce QCM
+  if (ex.lv && state.lv[ex.lv]) { delete state.lv[ex.lv].qcm; state.lv[ex.lv].read = false; }
+  const before = state.xp; addXP(-150);
+  const s = {date:today(), at:Date.now(), reason, what: ex.title || "", reverted, xp: before - state.xp};
+  state.sanctions.push(s); state.pendingSanction = s; state.blockUntil = Date.now() + 3*60*1000;
+  save();
+  quiz = null; ecrit = null; oralS = null; pre = null; clearTimers(); wake(false); document.body.classList.remove("inexam");
+  view = "sanction";
+}
+
+// ---------- Écran « conditions d'examen » avant chaque évaluation ----------
+function conditions(opts){ pre = opts; go("conditions"); }
+function vConditions(){
+  if (!pre) return vHome();
+  const ok = h("input",{type:"checkbox",id:"engage"});
+  const btn = h("button",{class:"btn primary",type:"button",disabled:true,onclick:()=>{ const f = pre.start; pre = null; f(); }}, "Commencer l'épreuve");
+  ok.addEventListener("change", ()=>{ btn.disabled = !ok.checked; });
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Conditions d'examen"), h("h1",{class:"h-l"}, pre.title)),
+    card("stack",
+      h("p",null, pre.desc),
+      h("ul",{class:"pts"},
+        h("li",null,"Activez le mode « Ne pas déranger » et coupez la sonnerie des appels."),
+        h("li",null, h("b",null,"Ne quittez pas l'appli"), " : changer d'appli, revenir à l'écran d'accueil, éteindre l'écran, recevoir un appel ou recharger la page annule l'épreuve."),
+        h("li",null,"Sanction : les deux derniers niveaux validés sont reverrouillés, −150 XP, appli bloquée 3 minutes."),
+        h("li",null,"Aucune correction pendant l'épreuve : elle s'affiche quand vous remettez votre copie."),
+        pre.extra ? h("li",null, pre.extra) : null),
+      h("label",{class:"chk"}, ok, h("span",null,"Je m'engage à composer seul, sans document ni aide extérieure.")),
+      h("div",{class:"row spread"}, h("button",{class:"btn ghost",type:"button",onclick:()=>{ pre = null; go("home"); }},"Plus tard"), btn))
+  );
+}
+
+// ---------- QCM ----------
+function pick(pool, n){ return shuffle(pool).map(q=>({q, s:(state.wrong[q.id]||0)*3 + (state.seen[q.id]?0:2) + Math.random()})).sort((a,b)=>b.s-a.s).slice(0,n).map(x=>x.q); }
+function prep(q){ const order = shuffle(q.o.map((_,i)=>i)); return Object.assign({}, q, {o: order.map(i=>q.o[i]), a: order.indexOf(q.a), pick:null}); }
+// mode "exam" : conditions strictes ; mode "train" : correction immédiate, sans enjeu
+function startQCM(o){
+  const items = o.items.map(prep);
+  quiz = Object.assign({i:0, done:false, start:Date.now(), mode:"exam"}, o, {items});
+  if (quiz.mode === "exam") examBegin({kind:"qcm", title:o.title, lv:o.lv||null});
+  go("quiz");
+  if (quiz.chrono) startQuizTimer();
+}
+function startQuizTimer(){
+  timers.push(setInterval(()=>{
+    if (!quiz || quiz.done) return;
+    const left = quiz.chrono - (Date.now()-quiz.start)/1000; const t = document.getElementById("qtimer");
+    if (t){ t.textContent = fmtTime(left); t.classList.toggle("low", left<60); }
+    if (left <= 0){ clearTimers(); finishQCM(true); }
+  }, 1000));
+}
+function finishQCM(timeout){
+  if (!quiz || quiz.done) return;
+  clearTimers(); quiz.done = true; quiz.timeout = timeout;
+  let pts=0, max=0, ok=0, ko=0, sk=0;
+  for (const it of quiz.items){
+    const w = weight(it); max += w;
+    const k = trackOfQ(it); const st = state.stats[k] || (state.stats[k] = {ok:0,n:0});
+    state.seen[it.id] = 1;
+    if (it.pick == null || it.pick === -1){ sk++; continue; }
+    st.n++;
+    if (it.pick === it.a){ pts += w; ok++; st.ok++; if (state.wrong[it.id]){ state.wrong[it.id]--; if (!state.wrong[it.id]) delete state.wrong[it.id]; } }
+    else { pts -= w; ko++; state.wrong[it.id] = Math.min(5,(state.wrong[it.id]||0)+1); }
+  }
+  const note = max ? Math.max(0, Math.round(pts/max*200)/10) : 0;
+  quiz.res = {pts, max, ok, ko, sk, note};
+  if (quiz.mode === "exam"){
+    examFinish(); addXP(ok*10); markDay();
+    afterQCM(quiz);
+  }
+  save(); render(); window.scrollTo({top:0});
+}
+function afterQCM(q){
+  const note = q.res.note;
+  if (q.kind === "level"){
+    const lv = LVMAP[q.lv]; const s = state.lv[lv.id] || (state.lv[lv.id] = {});
+    s.tries = (s.tries||0) + 1; s.last = note;
+    creditSeance(lv.track);
+    if (note >= PASS){
+      s.qcmNote = note;
+      if (ecritNeeded(lv) || lv.track==="oral"){ s.qcm = true; q.verdict = "qcm"; }
+      else { validateLevel(lv.id, note); q.verdict = "valid"; }
+    } else { s.read = "retenir"; q.verdict = "fail"; }
+  } else if (q.kind === "blanc"){
+    state.blancs = (state.blancs||0) + 1; creditSeance("blanc"); addXP(40);
+    if (q.ratt && note >= 10){ restoreMissed(q.ratt); q.verdict = "ratt-ok"; } else if (q.ratt) q.verdict = "ratt-ko";
+  } else if (q.kind === "ratt"){
+    creditSeance("revision");
+    if (note >= 12){ restoreMissed(q.ratt); q.verdict = "ratt-ok"; } else q.verdict = "ratt-ko";
+  } else if (q.kind === "revision"){
+    creditSeance(q.track);
+  } else if (q.kind === "erreurs"){
+    creditSeance("revision");
+  }
+}
+
+// ---------- Écrits en conditions ----------
+function sujetId(s){ return "s"+hash(s.t); }
+function pickSujet(e, full){
+  const list = SUJETS.filter(s=>s.e===e && (state.cycle==="CS" || !s.dossier || e==="ns"));
+  const done = new Set(state.copies.map(c=>c.sid));
+  return list.find(x=>x.src==="officiel" && !done.has(sujetId(x))) || list.find(x=>!done.has(sujetId(x))) || shuffle(list)[0] || null;
+}
+function startEcrit(s, o){
+  const E = EPREUVES[s.e];
+  const dur = o.dur || E.duree*60;
+  conditions({title: E.label + " · " + fmtTime(dur).replace(/:00$/,"") + (dur>=3600 ? " h" : " min"),
+    desc: (dur < E.duree*60 ? "Exercice en temps réduit : " + Math.round(dur/60) + " minutes (introduction et plan détaillé). " : "Épreuve complète : " + (E.duree/60) + " heures, comme au concours. ") + "Le chrono démarre dès que vous commencez et ne s'arrête pas. À la fin du temps, la copie est ramassée automatiquement.",
+    extra: "Le plan corrigé n'est visible qu'après la remise de la copie et votre auto-évaluation.",
+    start: ()=>{
+      ecrit = Object.assign({s, text:"", dur, start:Date.now(), phase:"write", checks:{}}, o);
+      examBegin({kind:"ecrit", title:E.label, lv:o.lv||null});
+      go("ecrit");
+    }});
+}
+function endWriting(timeout){
+  if (!ecrit || ecrit.phase !== "write") return;
+  clearTimers(); ecrit.phase = "grade"; ecrit.timeout = timeout; ecrit.realDur = Math.round((Date.now()-ecrit.start)/1000);
+  examFinish(); save(); render(); window.scrollTo({top:0});
+}
+function gradeEcrit(){
+  const E = EPREUVES[ecrit.s.e]; const n = E.grille.filter((_,i)=>ecrit.checks[i]).length;
+  const note = Math.round(n / E.grille.length * 200)/10;
+  const mots = words(ecrit.text);
+  state.copies.push({sid:sujetId(ecrit.s), e:ecrit.s.e, t:ecrit.s.t.slice(0,90), date:today(), mots, note, dur:ecrit.realDur});
+  state.copies = state.copies.slice(-60);
+  ecrit.note = note; ecrit.phase = "done"; addXP(50); markDay();
+  const tr = {sog:"sog",pes:"pes",ct:"ct",dc:"dc",da:"da",ns:"ns"}[ecrit.s.e];
+  if (ecrit.dur >= 3600) creditSeance("ecrit");
+  creditSeance(tr);
+  if (ecrit.lv){
+    if (note >= PASS_ECRIT){ validateLevel(ecrit.lv, Math.min(20, Math.round(((state.lv[ecrit.lv].qcmNote||note)+note)/2*10)/10)); ecrit.verdict = "valid"; }
+    else ecrit.verdict = "fail";
+  }
+  if (ecrit.ratt){ if (note >= PASS_ECRIT){ restoreMissed(ecrit.ratt); ecrit.verdict = "ratt-ok"; } else ecrit.verdict = "ratt-ko"; }
+  save(); render(); window.scrollTo({top:0});
+}
+
+// ---------- Oral en conditions ----------
+const GRILLE_ORAL = ["Introduction claire avec une problématique","Deux idées structurées, annoncées","Exemples précis et exacts","Ton posé, débit lent, regard vers le jury","Neutralité sur les sujets politiques","Conclusion avec ouverture","Réponse dans le temps imparti"];
+function startOral(o){
+  conditions({title:"Simulation d'oral · 2 questions", desc:"Pour chaque question : 2 minutes de préparation, puis 5 minutes de réponse à voix haute. Vous vous évaluez ensuite avec la grille du jury.", extra:"Parlez réellement à voix haute ; enregistrez-vous si possible avec un second appareil.",
+    start: ()=>{ const qs = shuffle(ORAL.map((_,i)=>i)).slice(0,2); oralS = Object.assign({qs, j:0, phase:"prep", start:Date.now(), notes:"", checks:[{},{}]}, o||{}); examBegin({kind:"oral", title:"Oral", lv:(o&&o.lv)||null}); go("oral"); }});
+}
+function oralNext(){
+  if (oralS.phase === "prep"){ oralS.phase = "rep"; oralS.start = Date.now(); }
+  else if (oralS.j === 0){ oralS.j = 1; oralS.phase = "prep"; oralS.start = Date.now(); oralS.notes = ""; }
+  else {
+    examFinish();
+    const sc = oralS.checks.map(c=>Object.values(c).filter(Boolean).length);
+    const note = Math.round((sc[0]+sc[1])/2/GRILLE_ORAL.length*200)/10;
+    oralS.phase = "done"; oralS.note = note; state.oral++; addXP(30); markDay();
+    creditSeance("oral");
+    if (oralS.lv){ if (note >= PASS_ECRIT){ validateLevel(oralS.lv, Math.min(20, Math.round(((state.lv[oralS.lv].qcmNote||note)+note)/2*10)/10)); oralS.verdict="valid"; } else oralS.verdict="fail"; }
+    if (oralS.ratt){ if (note >= PASS_ECRIT){ restoreMissed(oralS.ratt); oralS.verdict="ratt-ok"; } else oralS.verdict="ratt-ko"; }
+    save();
+  }
+  clearTimers(); render(); window.scrollTo({top:0});
+}
+
+
+// ---------- Rendu ----------
+const TABS = [["home","Aujourd'hui"],["parcours","Parcours"],["train","Entraînement"],["candidature","Candidature"],["profil","Profil"]];
+const PARENT = {quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home"};
 function renderNav(){
   const n = $("#nav"); n.replaceChildren();
-  const parent = {quiz:"train", lesson:"cours", ecrit:"ecrits", oral:"ecrits", planning:"home", reglages:"progres", tuto:"home"}[view] || view;
+  const parent = PARENT[view] || view;
   for (const [k,l] of TABS) n.append(h("button",{type:"button","aria-current":parent===k?"page":null,onclick:()=>go(k)}, h("span",{class:"ic ic-"+k,"aria-hidden":"true"}), h("span",null,l)));
-  $("#chipLevel").textContent = niveau(state.xp).cur[1] + " · " + state.xp + " XP";
-  $("#chipStreak").textContent = state.streak + " j";
+  $("#chipLevel").textContent = state.xp + " XP";
+  $("#chipStreak").textContent = "Indice " + indice().total;
 }
 function render(){
   if (document.body.classList.contains("locked")) return;
+  if (state.blockUntil > Date.now() && view !== "sanction") view = "sanction";
+  document.body.classList.toggle("blocked", view==="sanction" && state.blockUntil > Date.now());
   renderNav();
   const v = $("#view"); v.replaceChildren();
-  const fn = {home:vHome, cours:vCours, lesson:vLesson, train:vTrain, quiz:vQuiz, ecrits:vEcrits, ecrit:vEcrit, oral:vOral, progres:vProgres, planning:vPlanning, reglages:vReglages, tuto:vTuto}[view] || vHome;
+  const fn = {home:vHome, parcours:vParcours, track:vTrack, lesson:vLesson, quiz:vQuiz, train:vTrain, ecrit:vEcrit, oral:vOral, conditions:vConditions,
+    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction}[view] || vHome;
   v.append(fn());
 }
 const card = (cls, ...kids)=>h("section",{class:"card "+(cls||"")}, ...kids);
 const kpi = (l, v, sub)=>h("div",{class:"kpi"}, h("span",{class:"lbl"},l), h("b",null,v), sub ? h("span",{class:"sub"},sub) : null);
 function blocks(arr){
   const out = []; let ul = null;
-  for (const raw of arr){
+  for (const raw of (arr||[])){
     if (raw.startsWith("- ")) { if (!ul) { ul = h("ul",{class:"pts"}); out.push(ul); } ul.append(h("li",null,raw.slice(2))); continue; }
     ul = null;
     if (raw.startsWith("## ")) out.push(h("h3",{class:"sub-h"},raw.slice(3)));
@@ -1184,291 +1690,420 @@ function blocks(arr){
   }
   return out;
 }
+const bar = (pct, warn)=>h("div",{class:"bar"+(warn?" o":"")}, h("i",{style:"width:"+Math.max(0,Math.min(100,pct))+"%"}));
+const trackOrder = ()=>{ const seen = []; for (const d of [1,2,3,4,5,6,0]) for (const s of state.planning.filter(x=>x.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut))) if (TRACKS[s.k] && !seen.includes(s.k)) seen.push(s.k); for (const t of PROGRAMME) if (!seen.includes(t.k)) seen.push(t.k); return seen; };
+
+// ---------- Démarrer une séance ----------
+function runSlot(s){
+  if (TRACKS[s.k]) return openTrackSession(s.k);
+  if (s.k === "blanc") return startBlanc();
+  if (s.k === "revision") return go("rattrapages");
+  if (s.k === "ecrit") return go("choixecrit");
+}
+function openTrackSession(k, ratt){
+  const cur = currentLevel(k);
+  if (cur && levelStatus(cur) === "cur" && !ratt) return openLevel(cur.id);
+  return startRevision(k, ratt);
+}
+function startRevision(k, ratt){
+  const t = TRACKS[k];
+  const pool = trackPool(k, !!ratt);
+  if (pool.length < 5){
+    if (t.ecrit){ const s = pickSujet(t.ecrit); if (s) return startEcrit(s, {dur: ({ct:3600, ns:3600}[t.ecrit] || 1800), ratt}); }
+    if (k === "oral") return startOral({ratt});
+    toast("Pas encore assez de questions validées dans cette matière : faites d'abord le niveau en cours."); return openLevel(currentLevel(k).id);
+  }
+  const n = Math.min(15, pool.length);
+  conditions({title: (ratt ? "Rattrapage · " : "Révision · ") + t.court, desc: n + " questions des niveaux déjà travaillés, " + n + " minutes, barème officiel." + (ratt ? " Note minimale pour récupérer les points : 12/20." : ""),
+    start: ()=>startQCM({items: pick(pool, n), title:(ratt ? "Rattrapage · " : "Révision · ") + t.court, kind: ratt ? "ratt" : "revision", ratt, track:k, chrono: n*60})});
+}
+function startBlanc(ratt){
+  const pool = ["fr","ang","cg","log"].flatMap(k=>trackPool(k, true));
+  if (pool.length < 30){ toast("La présélection blanche s'ouvre quand 30 questions de présélection sont débloquées (" + pool.length + " aujourd'hui). Avancez dans le parcours."); return; }
+  const by = (k)=>pick(pool.filter(q=>trackOfQ(q)===k), k==="fr"||k==="cg" ? 12 : 11);
+  const items = shuffle([].concat(by("fr"), by("cg"), by("ang"), by("log"))).slice(0,45);
+  conditions({title:"Présélection blanche", desc: items.length + " questions mêlant français, culture générale, anglais et logique, en " + items.length + " minutes, barème officiel (+1/0/−1, logique +2/0/−2).",
+    start: ()=>startQCM({items, title:"Présélection blanche", kind:"blanc", ratt, chrono: items.length*60})});
+}
+function startErreurs(){
+  const items = allQ().filter(q=>state.wrong[q.id]>0);
+  if (items.length < 5){ toast("Moins de 5 erreurs à revoir : faites plutôt une révision de matière."); return; }
+  const n = Math.min(20, items.length);
+  conditions({title:"Révision des erreurs", desc: n + " questions que vous avez déjà ratées, en " + n + " minutes, barème officiel.",
+    start: ()=>startQCM({items: pick(items, n), title:"Révision des erreurs", kind:"erreurs", chrono:n*60})});
+}
 
 // ---------- Aujourd'hui ----------
 function vHome(){
-  const s = sessionInfo(), nv = niveau(state.xp), prec = precision();
-  const target = new Date(2027,2,16), days = Math.max(0, Math.ceil((target - new Date())/86400000));
+  const td = today(), slots = slotsOn(td), m = nowMin();
+  const ind = indice(), due = dueMissed(), nv = niveau(state.xp);
   const hr = new Date().getHours();
-  let nl = null;
-  if (s && s.p.type === "cours") nl = nextLesson(trackFor(s.p));
-  const doneL = Object.keys(state.lessons).length;
-  const nErr = Object.keys(state.wrong).length;
+  const dp = dossierProgress();
+  const p = state.profile;
   return h("div",{class:"stack"},
-    h("div",null, h("p",{class:"lbl"}, "Concours direct ENA · cycle " + (state.cycle==="CS"?"supérieur":"moyen supérieur")), h("h1",null, (hr<18?"Bonjour":"Bonsoir") + " Ahmed")),
-    s ? card("feature now",
-      h("div",{class:"clock"}, s.p.debut, h("small",null, s.cur ? "en cours" : (s.off===0 ? "aujourd'hui" : JOURS[s.day].toLowerCase()))),
-      h("div",{class:"now-b"},
-        h("p",{class:"lbl"}, s.cur ? "Séance en cours, jusqu'à " + s.p.fin : "Prochaine séance"),
-        h("h2",null, s.p.titre),
-        nl ? h("p",null, (nl.revision ? "Révision : " : "Leçon : ") + LMAP[nl.id].titre) : h("p",{class:"muted"}, s.p.detail),
-        h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>runSlot(s.p)}, s.cur ? "Commencer la séance" : "Faire cette séance maintenant"))
-      )) : null,
-    h("div",{class:"kpis"},
-      kpi("Avant les inscriptions", "J-" + days, "date probable mi-mars 2027"),
-      kpi("Série", state.streak + " j", "record " + (state.best||0) + " j"),
-      kpi("Leçons faites", doneL + "/" + LESSONS.length, null),
-      kpi("Précision", prec==null ? "–" : prec + " %", nErr + " question(s) à revoir")
-    ),
+    h("div",null, h("p",{class:"lbl"}, JOURS[new Date().getDay()] + " " + frDate(td) + " · cycle " + (state.cycle==="CS"?"supérieur":"moyen supérieur")), h("h1",null, (hr<18?"Bonjour ":"Bonsoir ") + (p.prenoms || "") )),
+    card("feature stack",
+      h("div",{class:"row spread"}, h("div",null, h("p",{class:"lbl"},"Indice de préparation"), h("b",{class:"big-n"}, ind.total + " / 100")), h("div",{class:"right"}, h("p",{class:"lbl"},"Grade"), h("b",null, nv.cur[1]))),
+      bar(ind.total, ind.total<40),
+      h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. Chaque séance manquée fait baisser l'assiduité et retire des points.")),
+    due.length ? card("warnc stack",
+      h("h2",null, due.length + " séance" + (due.length>1?"s":"") + " à rattraper"),
+      h("p",null, due.reduce((a,x)=>a+x.pts,0) + " XP perdus, récupérables. Prochaine échéance : " + frDate(due[0].limit) + "."),
+      h("button",{class:"btn accent",type:"button",onclick:()=>go("rattrapages")},"Voir mes rattrapages")) : null,
     card("stack",
-      h("h2",null,"Accès rapide"),
-      h("div",{class:"row"},
-        h("button",{class:"btn",type:"button",onclick:()=>go("planning")},"Ma semaine"),
-        h("button",{class:"btn",type:"button",onclick:startBlanc},"Présélection blanche"),
-        h("button",{class:"btn",type:"button",disabled:nErr===0,onclick:startErreurs},"Revoir mes erreurs"),
-        h("button",{class:"btn",type:"button",onclick:()=>go("reglages")},"Rappels et sauvegarde"),
-        h("button",{class:"btn",type:"button",onclick:()=>openTuto(0)},"Tutoriel")
-      )
-    ),
+      h("div",{class:"row spread"}, h("h2",null,"Emploi du temps du jour"), h("button",{class:"link",type:"button",onclick:()=>go("semaine")},"Ma semaine")),
+      slots.length ? h("div",{class:"list"}, slots.map(s=>{
+        const done = slotDone(td, s), cur = m>=toMin(s.debut) && m<toMin(s.fin), past = m>=toMin(s.fin);
+        const st = done ? ["Fait","ok"] : cur ? ["En cours","cur"] : past ? ["À faire avant minuit","late"] : ["À venir",""];
+        return h("div",{class:"slotrow"+(cur?" now":"")},
+          h("div",{class:"tcol"}, h("time",null, s.debut), h("small",null, s.fin)),
+          h("div",{class:"grow"}, h("b",null, slotLabel(s)), h("span",{class:"muted small block"}, slotDetail(s)), h("span",{class:"pill "+st[1]}, st[0])),
+          done ? null : h("button",{class: "btn small " + (cur||past ? "primary" : ""),type:"button",onclick:()=>runSlot(s)}, cur ? "Commencer" : "Faire"));
+      })) : h("p",{class:"muted"},"Aucune séance prévue aujourd'hui. Vous pouvez avancer dans le parcours ou faire vos rattrapages."),
+      h("p",{class:"note"},"Une séance est validée quand l'évaluation (ou la copie) de sa matière est terminée le jour même. Une séance non faite à minuit retire 2 XP par minute prévue ; elle se rattrape dans les 14 jours.")),
+    card("stack",
+      h("div",{class:"row spread"}, h("h2",null,"Mon dossier de candidature"), h("b",null, dp.ok + "/" + dp.total)),
+      bar(dp.pct, dp.pct<50),
+      dp.next ? h("p",null, h("span",{class:"muted"},"Prochaine pièce : "), dp.next.t) : h("p",null,"Toutes les pièces sont prêtes."),
+      h("button",{class:"btn",type:"button",onclick:()=>go("candidature")},"Ouvrir mon dossier")),
     newsCard(),
-    structureCard(),
     installCard()
   );
 }
 function newsCard(){
-  if (CONTENT.offline && !CONTENT.loaded) return card("soft", h("p",{class:"small"},"Hors connexion : vous travaillez sur les contenus déjà téléchargés. Les nouveautés arriveront à la prochaine connexion."));
+  if (CONTENT.offline && !CONTENT.loaded) return card("soft", h("p",{class:"small"},"Hors connexion : vous travaillez avec les contenus déjà téléchargés. Les nouveautés arriveront à la prochaine connexion."));
   if (!CONTENT.loaded) return null;
   const t = CONTENT.today, a = CONTENT.added;
-  const fresh = LESSONS.filter(l=>l.fresh && !state.lessons[l.id]).slice(-3);
-  return card("stack",
-    h("div",{class:"row spread"}, h("h2",null,"Nouveautés"), h("span",{class:"muted small"}, CONTENT.updated ? "mis à jour le " + CONTENT.updated : "")),
-    h("p",null, (t.q||t.l||t.s) ? ("Aujourd'hui : " + t.q + " question(s), " + t.l + " leçon(s), " + t.s + " sujet(s).") : "Pas encore de nouveauté aujourd'hui."),
-    h("p",{class:"muted small"}, "Depuis le début : " + a.q + " questions, " + a.l + " leçons et " + a.s + " sujets ajoutés, chacun vérifié (source citée, règle ou calcul contrôlé)."),
-    fresh.length ? h("div",{class:"list"}, fresh.map(l=>h("button",{class:"item",type:"button",onclick:()=>openLesson(l.id)}, h("span",{class:"grow"}, h("span",{class:"tag off"},"Nouveau"), " ", l.titre), h("span",{class:"meta"}, l.min + " min")))) : null,
-    t.q ? h("div",null, h("button",{class:"btn primary",type:"button",onclick:()=>{ const items = BANK.filter(q=>q.date===ymd(new Date())); startQuiz({items: shuffle(items).slice(0,20), title:"Questions du jour"}); }},"Faire les questions du jour")) : null
-  );
+  return card("stack tight",
+    h("div",{class:"row spread"}, h("h2",null,"Nouveautés"), h("span",{class:"muted small"}, CONTENT.updated ? "mis à jour le " + frDate(CONTENT.updated) : "")),
+    h("p",{class:"small"}, (t.q||t.l||t.s) ? ("Cette nuit : " + t.l + " leçon(s), " + t.q + " question(s), " + t.s + " sujet(s), rangés dans le parcours.") : "Pas de nouveauté publiée cette nuit."),
+    h("p",{class:"muted small"}, "Au total : " + a.l + " leçons, " + a.q + " questions et " + a.s + " sujets ajoutés, chacun vérifié (source citée, règle ou calcul contrôlé)."));
 }
-function structureCard(){
-  const seg = h("div",{class:"seg",role:"group","aria-label":"Cycle visé"},
-    ...[["CMS","Moyen supérieur"],["CS","Supérieur"]].map(([k,l])=>h("button",{type:"button","aria-pressed":state.cycle===k?"true":"false",onclick:()=>{state.cycle=k; save(); render();}},l)));
-  const adm = state.cycle==="CS"
-    ? [["Note de synthèse","5 h · coef. 5"],["Sujet d'ordre général","4 h · coef. 4"],["Problèmes économiques et sociaux","3 h · coef. 3"],["Droit administratif","3 h · coef. 3"]]
-    : [["Sujet d'ordre général","4 h · coef. 4"],["Problèmes économiques et sociaux","3 h · coef. 3"],["Résumé de texte","3 h · coef. 3"],["Droit constitutionnel","3 h · coef. 3"]];
-  const phase = (t, items)=>h("div",{class:"phase"}, h("span",{class:"lbl"},t), h("div",null, items.map(([a,b])=>h("div",{class:"ep"},h("span",null,a),h("span",null,b)))));
-  return card("stack",
-    h("div",{class:"row spread"}, h("h2",null,"Le concours"), seg),
-    h("div",null,
-      phase("Présélection", [["Culture générale et aptitude verbale (QCM)","coef. 2"],["Anglais (QCM)","coef. 2"],["Logique et aptitude numérique (QCM)","coef. 2"]]),
-      phase("Admissibilité", adm),
-      phase("Admission", [["Entretien avec le jury","coef. 3 (2026)"]])
-    ),
-    h("p",{class:"note"},"Barème des QCM relevé sur les sujets 2023-2024 : +1 / 0 / −1 en culture générale, +2 / 0 / −2 en logique. Durées et coefficients selon la présentation de la session 2026 ; à vérifier dans le communiqué officiel de 2027 sur ena.ci.")
-  );
-}
-let deferredPrompt = null;
-window.addEventListener("beforeinstallprompt", (e)=>{ e.preventDefault(); deferredPrompt = e; if (view==="home") render(); });
-const isStandalone = ()=> (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || window.navigator.standalone === true;
-function installSteps(){
-  return h("ol",{class:"pts"},
-    h("li",null,"Ouvrez cette page dans ", h("b",null,"Chrome"), " sur votre téléphone Android."),
-    h("li",null,"Touchez le menu ", h("b",null,"⋮"), " en haut à droite."),
-    h("li",null,"Choisissez ", h("b",null,"« Installer l'application »"), " (ou « Ajouter à l'écran d'accueil »), puis confirmez."),
-    h("li",null,"L'icône ", h("b",null,"Cap ENA"), " apparaît parmi vos applications : ouvrez toujours l'appli depuis cette icône."));
-}
-function installButton(){
-  return deferredPrompt ? h("button",{class:"btn primary",type:"button",onclick:async()=>{ deferredPrompt.prompt(); const c = await deferredPrompt.userChoice; deferredPrompt=null; if (c && c.outcome==="accepted") toast("Installation lancée : l'icône Cap ENA arrive sur l'écran d'accueil."); render(); }},"Installer Cap ENA sur ce téléphone") : null;
-}
-function installCard(){
-  if (isStandalone()) return null;
-  return card("stack soft",
-    h("h2",null,"Installer l'appli sur le téléphone"),
-    installButton(),
-    installSteps(),
-    h("p",{class:"muted small"},"Une fois installée, l'appli s'ouvre en plein écran et fonctionne aussi hors connexion avec les contenus déjà téléchargés."));
-}
-window.addEventListener("appinstalled", ()=>{ deferredPrompt=null; toast("Cap ENA est installée sur ce téléphone."); });
-
-// ---------- Planning ----------
-function vPlanning(){
-  const s = sessionInfo();
+function vSemaine(){
+  const days = [1,2,3,4,5,6,0];
+  const start = (()=>{ const d = new Date(); const wd = d.getDay(); const diff = wd===0 ? -6 : 1-wd; d.setDate(d.getDate()+diff); return ymd(d); })();
   return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"},"Créneaux hors heures de travail"),h("h1",null,"Ma semaine")),
-    h("div",{class:"week"}, [1,2,3,4,5,6,0].map(d=>{
-      const list = PLANNING.filter(p=>p.jours.includes(d)).sort((a,b)=>toMin(a.debut)-toMin(b.debut));
-      return h("div",{class:"day"}, h("b",null,JOURS[d]), h("div",{class:"stack tight"}, list.map(p=>h("div",{class:"slot" + (s && s.p===p && s.day===d && s.cur ? " cur":"")},
-        h("time",null,p.debut + " – " + p.fin), h("b",null,p.titre), h("p",{class:"muted small"},p.detail),
-        h("button",{class:"link",type:"button",onclick:()=>runSlot(p)},"Lancer")))));
+    h("div",null, h("p",{class:"lbl"},"Emploi du temps"), h("h1",null,"Ma semaine")),
+    h("div",{class:"week"}, days.map((wd,i)=>{
+      const date = addDays(start, i); const list = slotsOn(date);
+      return h("div",{class:"day"}, h("b",null, JOURS[wd], h("small",{class:"muted block"}, frDate(date))),
+        h("div",{class:"stack tight"}, list.length ? list.map(s=>{
+          const m = state.missed.find(x=>x.id===date+"_"+s.id);
+          const st = slotDone(date,s) ? "Fait" : m ? (m.st==="ok" ? "Rattrapé" : m.st==="perdu" ? "Perdu" : "Manqué") : (date < today() ? "—" : "");
+          return h("div",{class:"slot"+(date===today()?" cur":"")}, h("time",null, s.debut + "–" + s.fin), h("span",null, slotLabel(s)), st ? h("span",{class:"muted small"}, st) : null);
+        }) : h("span",{class:"muted small"},"Repos")));
     })),
-    h("p",{class:"muted small"},"Total : 14 heures par semaine. Les rappels se règlent dans « Rappels et sauvegarde ».")
+    h("button",{class:"btn",type:"button",onclick:()=>go("planning")},"Modifier mes horaires")
   );
 }
 
-// ---------- Cours ----------
-function vCours(){
-  const groups = [["Présélection",["cg","ang","log"]],["Admissibilité",["sog","pes","ct","dc","ns","da","fp"]],["Admission",["oral"]]];
+// ---------- Rattrapages ----------
+function vRattrapages(){
+  const due = dueMissed(), old = state.missed.filter(m=>m.st!=="due").slice(-10).reverse();
   return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"},"Leçons"),h("h1",null,"Les cours")),
-    h("p",{class:"muted"},"Chaque leçon commence par la technique de l'épreuve, puis le cours de fond, l'essentiel à retenir et un exercice."),
-    groups.map(([g, ms])=>card("stack",
-      h("h2",null,g),
-      h("div",{class:"list"}, LESSONS.filter(l=>ms.includes(l.m)).map(l=>{
-        const st = state.lessons[l.id];
-        return h("button",{class:"item",type:"button",onclick:()=>openLesson(l.id)},
-          h("span",{class:"grow"}, h("span",{class:"tag"},MAT[l.m].court), l.fresh ? h("span",{class:"tag off"},"Nouveau") : null, " ", l.titre),
-          h("span",{class:"meta"}, st ? (st.best!=null ? st.best + " %" : "fait") : l.min + " min"));
-      }))
-    ))
+    h("div",null, h("p",{class:"lbl"},"Séances manquées"), h("h1",null,"Rattrapages")),
+    h("p",{class:"muted"},"Chaque rattrapage est une épreuve en conditions d'examen dans la matière de la séance manquée. Réussi (12/20 au QCM, 10/20 à l'écrit ou à l'oral), il rend les points perdus. Délai : 14 jours."),
+    due.length ? h("div",{class:"list"}, due.map(m=>h("div",{class:"item"},
+      h("span",{class:"grow"}, h("b",null, kindLabel(m.k)), h("span",{class:"muted small block"}, JOURS[parseYmd(m.date).getDay()] + " " + frDate(m.date) + " · " + m.debut + "–" + m.fin + " · −" + m.pts + " XP · avant le " + frDate(m.limit))),
+      h("button",{class:"btn small primary",type:"button",onclick:()=>startRattrapage(m)},"Rattraper")))) : card("soft", h("p",null,"Aucune séance à rattraper. Continuez ainsi.")),
+    card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s) à retravailler."), h("button",{class:"btn",type:"button",onclick:startErreurs},"Lancer la révision des erreurs")),
+    old.length ? card("stack", h("h2",null,"Historique"), h("div",{class:"list"}, old.map(m=>h("div",{class:"item"}, h("span",{class:"grow"}, kindLabel(m.k) + " · " + frDate(m.date)), h("span",{class:"meta"}, m.st==="ok" ? "rattrapé (+" + m.pts + ")" : "perdu (−" + m.pts + ")"))))) : null
   );
 }
-function openLesson(id){ lesson = {id, step:0}; go("lesson"); }
+function startRattrapage(m){
+  if (TRACKS[m.k]) return startRevision(m.k, m.id);
+  if (m.k === "blanc") return startBlanc(m.id);
+  if (m.k === "oral") return startOral({ratt:m.id});
+  if (m.k === "ecrit"){ const e = ["sog","pes","ct","dc"].find(x=>isValid(METHOD_LEVEL[x])) || "sog"; const s = pickSujet(e); if (s) return startEcrit(s, {dur:3600, ratt:m.id}); }
+  if (m.k === "revision"){
+    const items = allQ().filter(q=>state.wrong[q.id]>0);
+    const pool = items.length >= 10 ? items : ["fr","ang","cg","log"].flatMap(k=>trackPool(k,true));
+    const n = Math.min(15, pool.length);
+    if (n < 5){ toast("Pas encore assez de questions pour ce rattrapage : avancez d'abord dans le parcours."); return; }
+    return conditions({title:"Rattrapage · révision", desc:n + " questions, " + n + " minutes, barème officiel. Note minimale : 12/20.", start: ()=>startQCM({items:pick(pool,n), title:"Rattrapage · révision", kind:"ratt", ratt:m.id, chrono:n*60})});
+  }
+}
+
+// ---------- Parcours ----------
+function vParcours(){
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Matières dans l'ordre de l'emploi du temps"), h("h1",null,"Mon parcours")),
+    h("p",{class:"muted"},"Chaque matière se franchit niveau par niveau : leçon (technique, cours, à retenir), puis évaluation en conditions d'examen. Il faut 14/20 pour déverrouiller le niveau suivant ; dans les matières d'écrit, une copie notée au moins 10/20 est aussi exigée."),
+    trackOrder().map(k=>{
+      const t = TRACKS[k], p = trackProgress(k), cur = currentLevel(k);
+      const st = cur ? levelStatus(cur) : "done";
+      const skip = (state.cycle==="CMS" && k==="ns") || (state.cycle==="CS" && (k==="ct"||k==="dc"));
+      return h("button",{class:"card trackcard"+(skip?" dim":""),type:"button",onclick:()=>{ trackView = k; go("track"); }},
+        h("div",{class:"row spread"}, h("span",{class:"lbl"}, t.phase + (skip ? " · hors de votre cycle" : "")), h("b",null, p.n + "/" + p.total)),
+        h("h2",null, t.label),
+        bar(p.pct),
+        h("p",{class:"small"}, cur ? (st==="prep" ? "Niveau " + (cur.idx+1) + " en préparation (publication de nuit)" : "Niveau " + (cur.idx+1) + " : " + cur.t) : "Matière terminée"));
+    })
+  );
+}
+function vTrack(){
+  const t = TRACKS[trackView]; if (!t) return vParcours();
+  const p = trackProgress(t.k);
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"}, t.phase + " · " + p.n + "/" + p.total + " niveaux"), h("h1",{class:"h-l"}, t.label)),
+    bar(p.pct),
+    h("ol",{class:"levels"}, t.levels.map(L=>{
+      const lv = LVMAP[L[0]], st = levelStatus(lv), s = lvState(lv.id);
+      const icon = {ok:"✓", cur:"▶", prep:"…", lock:"🔒"}[st];
+      const cls = st==="lock" ? "lk" : st;
+      const meta = st==="ok" ? fr1(s.best) + "/20" : st==="cur" ? (s.qcm ? "écrit à rendre" : s.tries ? s.tries + " essai(s)" : "à faire") : st==="prep" ? "en préparation" : "verrouillé";
+      return h("li",null, h("button",{class:"lvl "+cls,type:"button",onclick:()=>{
+          if (st==="lock") return toast("Verrouillé : validez d'abord le niveau précédent.");
+          if (st==="prep") return toast("Cette leçon sera publiée par la production de nuit. En attendant, faites une révision de la matière.");
+          openLevel(lv.id);
+        }}, h("span",{class:"lvi","aria-hidden":"true"}, icon), h("span",{class:"grow"}, h("span",{class:"muted small block"},"Niveau " + (lv.idx+1)), lv.t), h("span",{class:"meta"}, meta)));
+    })),
+    trackPool(t.k,false).length >= 5 ? h("button",{class:"btn",type:"button",onclick:()=>startRevision(t.k)},"Révision de la matière (niveaux validés)") : null,
+    h("button",{class:"btn ghost",type:"button",onclick:()=>go("parcours")},"Toutes les matières")
+  );
+}
+
+// ---------- Leçon d'un niveau ----------
+function openLevel(id){
+  const lv = LVMAP[id]; const s = lvState(id); const review = isValid(id);
+  const step = review ? 0 : (s.read==="retenir" ? 2 : s.read===true ? 3 : 0);
+  lesson = {id, review, step, maxStep: step, stepStart: Date.now()};
+  go("lesson");
+}
+function minRead(arr, f){ const w = words((arr||[]).join(" ")); return Math.max(f==="r"?15:20, Math.min(f==="r"?90:240, Math.round(w*(f==="r"?0.25:0.2)))); }
 function vLesson(){
-  const l = LMAP[lesson.id]; if (!l) return vCours();
-  const steps = [["Technique", l.tech], ["Cours", l.fond], ["À retenir", null], ["Exercice", null]];
+  const lv = LVMAP[lesson.id]; const l = lessonOf(lv);
+  if (!l) return vTrack();
+  const s = lvState(lv.id);
+  const steps = [["Technique", l.tech, "t"], ["Cours", l.fond, "t"], ["À retenir", l.retenir, "r"], ["Évaluation", null]];
   const st = lesson.step;
-  const dots = h("ol",{class:"steps"}, steps.map((s,i)=>h("li",{class: i===st?"cur": i<st?"done":""}, s[0])));
+  const dots = h("ol",{class:"steps"}, steps.map((x,i)=>h("li",{class: i===st?"cur": i<st?"done":""}, x[0])));
   let body;
   if (st < 2) body = card("stack read", blocks(steps[st][1]),
-    st===1 && Array.isArray(l.sources) && l.sources.length ? h("div",{class:"srcs"}, h("p",{class:"lbl"},"Sources"), h("ul",{class:"pts"}, l.sources.map(s=>h("li",null, h("a",{href:s.u,target:"_blank",rel:"noopener"}, s.t||s.u))))) : null);
-  else if (st === 2) body = card("stack read", h("ul",{class:"pts big"}, l.retenir.map(r=>h("li",null,r))));
-  else {
-    const n = (l.exo && l.exo.n) || 8;
-    const pool = allQ().filter(q=>q.tag===l.exo.tag);
-    body = card("stack",
-      h("p",null, pool.length ? (pool.length + " questions liées à cette leçon. Barème " + (state.bareme ? "officiel (les erreurs retirent des points)." : "simple.")) : "Pas de questionnaire pour cette leçon."),
-      h("div",{class:"row"},
-        pool.length ? h("button",{class:"btn primary",type:"button",onclick:()=>startQuiz({items:pick(pool,n), title:l.titre, lessonId:l.id})},"Lancer le questionnaire") : null,
-        l.exo.ecrit ? h("button",{class:"btn",type:"button",onclick:()=>{ markLesson(l.id,null); openEcritFor(l.exo.ecrit); }},"Sujet d'application") : null,
-        l.exo.oral ? h("button",{class:"btn",type:"button",onclick:()=>{ markLesson(l.id,null); go("oral"); }},"Simulation d'oral") : null
-      ));
+    st===1 && Array.isArray(l.sources) && l.sources.length ? h("div",{class:"srcs"}, h("p",{class:"lbl"},"Sources"), h("ul",{class:"pts"}, l.sources.map(x=>h("li",null, h("a",{href:x.u,target:"_blank",rel:"noopener"}, x.t||x.u))))) : null);
+  else if (st === 2) body = card("stack read", h("ul",{class:"pts big"}, (l.retenir||[]).map(r=>h("li",null,r))));
+  else body = evalCard(lv, l, s);
+  // durée minimale de lecture (sauf en révision d'un niveau validé)
+  let nextBtn = null;
+  if (st < 3){
+    const need = (lesson.review || st < (lesson.maxStep||0)) ? 0 : minRead(steps[st][1], steps[st][2]);
+    const left = ()=> Math.ceil(need - (Date.now()-lesson.stepStart)/1000);
+    nextBtn = h("button",{class:"btn primary",type:"button",id:"nextStep",onclick:()=>{
+      if (left() > 0) return toast("Lisez encore " + left() + " s avant de continuer.");
+      lesson.maxStep = Math.max(lesson.maxStep||0, st+1); lesson.step++; lesson.stepStart = Date.now();
+      if (lesson.step === 3 && !lesson.review){ const x = state.lv[lv.id] || (state.lv[lv.id] = {}); x.read = true; save(); }
+      render(); window.scrollTo({top:0});
+    }}, "Suivant");
+    if (left() > 0){
+      const upd = ()=>{ const b = document.getElementById("nextStep"); if (!b) return; const r = left(); b.textContent = r > 0 ? "Suivant (" + r + " s)" : "Suivant"; b.classList.toggle("wait", r>0); };
+      timers.push(setInterval(upd, 1000)); setTimeout(upd, 0);
+    }
   }
   return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"}, MAT[l.m].label + " · " + l.min + " min"),h("h1",{class:"h-l"},l.titre)),
+    h("div",null,h("p",{class:"lbl"}, TRACKS[lv.track].court + " · niveau " + (lv.idx+1) + (lesson.review ? " · révision" : "")),h("h1",{class:"h-l"},l.titre || lv.t)),
     dots, body,
     h("div",{class:"row spread"},
-      st>0 ? h("button",{class:"btn ghost",type:"button",onclick:()=>{lesson.step--; render(); window.scrollTo({top:0});}},"Précédent") : h("button",{class:"btn ghost",type:"button",onclick:()=>go("cours")},"Tous les cours"),
-      st<3 ? h("button",{class:"btn primary",type:"button",onclick:()=>{lesson.step++; render(); window.scrollTo({top:0});}},"Suivant") : null)
+      st>0 && (lesson.review || st<3) ? h("button",{class:"btn ghost",type:"button",onclick:()=>{lesson.maxStep = Math.max(lesson.maxStep||0, st); lesson.step--; render(); window.scrollTo({top:0});}},"Précédent") : h("button",{class:"btn ghost",type:"button",onclick:()=>{ trackView = lv.track; go("track"); }},"Niveaux"),
+      nextBtn)
   );
 }
-function markLesson(id, pct){
-  const cur = state.lessons[id] || {};
-  state.lessons[id] = {done: ymd(new Date()), best: pct==null ? (cur.best==null?null:cur.best) : Math.max(cur.best||0, pct)};
-  if (!cur.done) addXP(40);
-  touchDay(); save();
+function evalCard(lv, l, s){
+  if (lesson.review) return card("stack", h("p",null,"Niveau validé avec " + fr1(s.best||0) + "/20 le " + frDate(s.ok) + "."), h("p",{class:"muted small"},"Pour vous réentraîner sur cette matière, utilisez la révision de matière (Parcours) ou l'Entraînement."));
+  const pool = poolOf(lv);
+  const ec = ecritNeeded(lv);
+  const oralLevel = lv.track === "oral";
+  if (!s.qcm && pool.length >= 5){
+    const n = Math.min(12, Math.max(8, (l.exo && l.exo.n) || 10), pool.length);
+    const chrono = n * (lv.track==="log" ? 90 : 60);
+    return card("stack",
+      h("h2",null,"Évaluation du niveau"),
+      h("p",null, n + " questions, " + Math.round(chrono/60) + " minutes, barème officiel (mauvaise réponse : −1" + (lv.track==="log" ? ", −2 en logique" : "") + "). Il faut ", h("b",null,"14/20"), " pour valider" + (ec ? ", puis une copie écrite." : oralLevel ? ", puis une simulation d'oral." : ".")),
+      s.tries ? h("p",{class:"muted small"}, "Essais : " + s.tries + " · dernière note " + fr1(s.last||0) + "/20. Chaque essai tire des questions différentes.") : null,
+      h("button",{class:"btn primary",type:"button",onclick:()=>conditions({title:"Évaluation · " + lv.t, desc: n + " questions en " + Math.round(chrono/60) + " minutes. Note minimale : 14/20.", start: ()=>startQCM({items:pick(pool,n), title:lv.t, kind:"level", lv:lv.id, chrono})})},"Passer l'évaluation"));
+  }
+  if (oralLevel) return card("stack", h("h2",null,"Simulation d'oral"), h("p",null,"Deux questions de jury en conditions réelles. Note minimale : 10/20."), h("button",{class:"btn primary",type:"button",onclick:()=>startOral({lv:lv.id})},"Passer l'oral"));
+  if (ec){
+    const sj = pickSujet(ec.e);
+    return card("stack", h("h2",null, s.qcm ? "QCM réussi : place à l'écrit" : "Épreuve écrite du niveau"),
+      h("p",null, ec.full ? "Copie complète en " + (ec.dur/3600) + " h, comme au concours." : "Introduction et plan détaillé en " + Math.round(ec.dur/60) + " minutes, sur un sujet du concours ou d'entraînement.", " Note minimale : ", h("b",null,"10/20"), " (auto-évaluation honnête avec la grille du jury)."),
+      sj ? h("button",{class:"btn primary",type:"button",onclick:()=>startEcrit(sj, {dur:ec.dur, lv:lv.id})},"Composer") : h("p",{class:"muted"},"Aucun sujet disponible pour cette épreuve."));
+  }
+  // pas assez de questions et pas d'écrit : validation à la lecture complète
+  return card("stack", h("p",null,"Ce niveau n'a pas encore d'évaluation publiée."), h("button",{class:"btn primary",type:"button",onclick:()=>{ validateLevel(lv.id, 14); creditSeance(lv.track); trackView = lv.track; go("track"); }},"Valider la lecture"));
 }
 
-// ---------- QCM ----------
-function pick(pool, n){ return shuffle(pool).map(q=>({q, s:(state.wrong[q.id]||0)*3 + (state.seen[q.id]?0:2) + Math.random()})).sort((a,b)=>b.s-a.s).slice(0,n).map(x=>x.q); }
-function prep(q){ const order = shuffle(q.o.map((_,i)=>i)); return Object.assign({}, q, {o: order.map(i=>q.o[i]), a: order.indexOf(q.a), pick:null}); }
-const weight = (m)=> m==="log" ? 2 : 1;
-function startQuiz(o){
-  const items = o.items || pick(allQ().filter(q=>q.m===o.m), o.n||10);
-  if (!items.length) { toast("Aucune question disponible."); return; }
-  quiz = {title:o.title, items: items.map(prep), i:0, ok:0, pts:0, max:0, done:false, chrono:o.chrono||null, start:Date.now(), mode:o.mode||"serie", lessonId:o.lessonId||null, bareme:state.bareme};
-  view = "quiz"; clearTimers(); render(); startQuizTimer(); window.scrollTo({top:0});
-}
-function startBlanc(){ const items = ["cg","ang","log"].flatMap(m=>pick(allQ().filter(q=>q.m===m),15)); startQuiz({items: shuffle(items), title:"Présélection blanche", chrono:45*60, mode:"blanc"}); }
-function startErreurs(){ const items = allQ().filter(q=>state.wrong[q.id]>0); if (!items.length){ toast("Aucune erreur à revoir."); return; } startQuiz({items: shuffle(items).slice(0,20), title:"Révision des erreurs", mode:"erreurs"}); }
-function startQuizTimer(){
-  if (!quiz || !quiz.chrono) return;
-  timers.push(setInterval(()=>{
-    const left = quiz.chrono - (Date.now()-quiz.start)/1000; const t = document.getElementById("qtimer");
-    if (t){ t.textContent = fmtTime(left); t.classList.toggle("low", left<120); }
-    if (left <= 0){ clearTimers(); finishQuiz(true); }
-  }, 1000));
-}
-function answer(idx){
-  const it = quiz.items[quiz.i]; if (it.pick != null) return;
-  it.pick = idx;
-  const w = weight(it.m); quiz.max += w;
-  const st = state.stats[it.m] || (state.stats[it.m] = {ok:0,n:0});
-  state.seen[it.id] = 1;
-  if (idx === -1){ /* passe : 0 point */ }
-  else if (idx === it.a){ quiz.ok++; quiz.pts += w; st.ok++; st.n++; if (state.wrong[it.id]){ state.wrong[it.id]--; if (!state.wrong[it.id]) delete state.wrong[it.id]; } }
-  else { st.n++; if (quiz.bareme) quiz.pts -= w; state.wrong[it.id] = Math.min(5,(state.wrong[it.id]||0)+1); }
-  if (idx === it.a) addXP(10); else addXP(2);
-  touchDay(); save(); render();
-}
-function next(){ if (quiz.i < quiz.items.length-1){ quiz.i++; render(); window.scrollTo({top:0}); } else finishQuiz(false); }
-function finishQuiz(timeout){
-  clearTimers(); quiz.done = true; quiz.timeout = timeout;
-  for (const it of quiz.items) if (it.pick == null){ quiz.max += weight(it.m); }
-  if (quiz.mode === "blanc") state.blancs = (state.blancs||0)+1;
-  addXP(15);
-  const pct = quiz.max ? Math.max(0, Math.round(quiz.pts/quiz.max*100)) : 0;
-  if (quiz.lessonId) markLesson(quiz.lessonId, pct);
-  save(); render(); window.scrollTo({top:0});
-}
+// ---------- Vue QCM ----------
 function vQuiz(){
-  if (!quiz) return vTrain();
-  const total = quiz.items.length;
-  if (quiz.done){
-    const note = quiz.max ? Math.max(0, Math.round(quiz.pts/quiz.max*200)/10) : 0;
-    const cls = note>=14 ? "admis" : note>=10 ? "admissible" : "ajourne";
-    const word = note>=14 ? "ADMIS" : note>=10 ? "ADMISSIBLE" : "AJOURNÉ";
-    const missed = quiz.items.filter(x=>x.pick!==x.a);
-    const passed = quiz.items.filter(x=>x.pick===-1 || x.pick==null).length;
-    const l = quiz.lessonId ? LMAP[quiz.lessonId] : null;
-    return h("div",{class:"stack"},
-      card("result",
-        h("p",{class:"lbl"},quiz.title + (quiz.timeout ? " · temps écoulé" : "")),
-        h("p",{class:"note-big"}, String(note).replace(".",",") + " / 20"),
-        h("p",{class:"muted"}, quiz.ok + " bonnes réponses, " + (total-quiz.ok-passed) + " erreurs, " + passed + " sans réponse" + (quiz.bareme ? " · barème officiel" : "")),
-        h("div",{class:"stampwrap"}, h("span",{class:"stamp " + cls}, word))
-      ),
-      quiz.bareme && (total-quiz.ok-passed) > 0 ? h("p",{class:"box"},"Au barème officiel, vos " + (total-quiz.ok-passed) + " erreurs vous ont coûté autant que des bonnes réponses. Ne répondez que si vous êtes sûr, ou si vous hésitez entre deux propositions avec un indice.") : null,
-      missed.length ? card("stack", h("h2",null,"À retenir"),
-        missed.map(x=>h("div",{class:"miss"},
-          h("p",{class:"q-s"}, x.q),
-          h("p",null, "Réponse : ", h("b",null, x.o[x.a])),
-          x.e ? h("p",{class:"muted small"}, x.e) : null,
-          x.ref && x.ref.u ? h("p",{class:"src"}, "Source : ", h("a",{href:x.ref.u,target:"_blank",rel:"noopener"}, x.ref.t || x.ref.u)) : null))) : null,
-      h("div",{class:"row"},
-        l && l.exo.ecrit ? h("button",{class:"btn primary",type:"button",onclick:()=>openEcritFor(l.exo.ecrit)},"Passer au sujet d'application") : null,
-        l && l.exo.oral ? h("button",{class:"btn primary",type:"button",onclick:()=>go("oral")},"Passer à la simulation d'oral") : null,
-        h("button",{class:"btn",type:"button",onclick:()=>{ quiz.mode==="blanc" ? startBlanc() : quiz.mode==="erreurs" ? startErreurs() : l ? startQuiz({items:pick(allQ().filter(q=>q.tag===l.exo.tag),(l.exo.n||8)), title:l.titre, lessonId:l.id}) : startQuiz({m:quiz.items[0].m, n:10, title:quiz.title}); }},"Recommencer"),
-        h("button",{class:"btn ghost",type:"button",onclick:()=>go(l?"cours":"train")},"Retour")
-      )
-    );
-  }
-  const it = quiz.items[quiz.i], answered = it.pick != null;
+  if (!quiz) return vParcours();
+  if (quiz.done) return vQuizResult();
+  const total = quiz.items.length, it = quiz.items[quiz.i];
+  const exam = quiz.mode === "exam";
+  const answered = it.pick != null;
+  const head = h("div",{class:"qhead"},
+    h("div",null,h("p",{class:"lbl"},quiz.title),h("h2",null,"Question " + (quiz.i+1) + " / " + total)),
+    quiz.chrono ? h("span",{class:"timer",id:"qtimer"}, fmtTime(quiz.chrono - (Date.now()-quiz.start)/1000)) : null);
+  const grid = h("div",{class:"qgrid"}, quiz.items.map((x,i)=>h("button",{type:"button",class:(i===quiz.i?"cur ":"") + (x.pick==null ? "" : x.pick===-1 ? "skip" : (exam ? "ans" : (x.pick===x.a ? "ok" : "ko"))),"aria-label":"Question "+(i+1),onclick:()=>{ if (!exam && quiz.items[quiz.i].pick==null) return; quiz.i=i; render(); }}, String(i+1))));
+  const opts = h("div",{class:"opts"}, it.o.map((o,i)=>{
+    let cls = "opt";
+    if (exam){ if (it.pick===i) cls += " sel"; }
+    else if (answered){ if (i===it.a) cls+=" ok"; else if (i===it.pick) cls+=" ko"; }
+    return h("button",{class:cls,type:"button",disabled: !exam && answered,onclick:()=>{ if (exam){ it.pick = (it.pick===i ? null : i); render(); } else { it.pick = i; render(); } }}, h("span",{class:"k"},"abcd"[i]+")"), h("span",null,o));
+  }));
+  const confirmBtn = h("button",{class:"btn primary",type:"button",onclick:(ev)=>{ if (!quiz.confirm){ quiz.confirm = true; ev.target.textContent = "Confirmer la remise (" + quiz.items.filter(x=>x.pick==null).length + " sans réponse)"; return; } finishQCM(false); }}, "Remettre ma copie");
   return h("div",{class:"stack"},
-    h("div",{class:"qhead"},
-      h("div",null,h("p",{class:"lbl"},quiz.title),h("h2",null,"Question " + (quiz.i+1) + " / " + total)),
-      quiz.chrono ? h("span",{class:"timer",id:"qtimer"}, fmtTime(quiz.chrono - (Date.now()-quiz.start)/1000)) : h("span",{class:"score"}, (quiz.pts>0?"+":"") + quiz.pts + " pt")
-    ),
-    h("div",{class:"dots","aria-hidden":"true"}, quiz.items.map((x,i)=>h("i",{class: i===quiz.i ? "cur" : x.pick==null ? "" : x.pick===-1 ? "skip" : x.pick===x.a ? "ok" : "ko"}))),
+    head, grid,
     card("stack",
-      h("div",{class:"row"}, h("span",{class:"tag"}, MAT[it.m] ? MAT[it.m].court : it.m), it.src==="Mes annales" ? h("span",{class:"tag mine"},"Mes annales") : null, quiz.bareme ? h("span",{class:"muted small"}, "+" + weight(it.m) + " / 0 / −" + weight(it.m)) : null),
+      h("div",{class:"row"}, h("span",{class:"tag"}, kindLabel(trackOfQ(it))), h("span",{class:"muted small"}, "+" + weight(it) + " / 0 / −" + weight(it))),
       h("p",{class:"question"}, it.q),
-      h("div",{class:"opts"}, it.o.map((o,i)=>{
-        let cls = "opt"; if (answered){ if (i===it.a) cls+=" ok"; else if (i===it.pick) cls+=" ko"; }
-        return h("button",{class:cls,type:"button",disabled:answered,onclick:()=>answer(i)}, h("span",{class:"k"},"abcd"[i]+")"), h("span",null,o));
-      })),
-      !answered ? h("button",{class:"btn ghost",type:"button",onclick:()=>answer(-1)},"Je ne réponds pas (0 point)") : null,
-      answered ? h("div",{class:"expl"}, h("b",null, it.pick===-1 ? "Sans réponse. " : it.pick===it.a ? "Exact. " : "Inexact. "), it.e || "",
-        it.ref && it.ref.u ? h("p",{class:"src"}, "Source : ", h("a",{href:it.ref.u,target:"_blank",rel:"noopener"}, it.ref.t || it.ref.u)) : null,
-        reportUrl(it) ? h("p",{class:"src"}, h("a",{href:reportUrl(it),target:"_blank",rel:"noopener"},"Signaler une erreur")) : null) : null,
-      answered ? h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:next}, quiz.i<total-1 ? "Question suivante" : "Voir mon résultat")) : null
-    ),
-    h("button",{class:"btn ghost",type:"button",onclick:()=>finishQuiz(false)},"Terminer maintenant")
+      opts,
+      exam ? h("button",{class:"btn ghost"+(it.pick===-1?" on":""),type:"button",onclick:()=>{ it.pick = it.pick===-1 ? null : -1; render(); }}, it.pick===-1 ? "Sans réponse (0 point) ✓" : "Je ne réponds pas (0 point)")
+           : (!answered ? h("button",{class:"btn ghost",type:"button",onclick:()=>{ it.pick=-1; render(); }},"Je ne réponds pas (0 point)") : null),
+      !exam && answered ? h("div",{class:"expl"}, h("b",null, it.pick===-1 ? "Sans réponse. " : it.pick===it.a ? "Exact. " : "Inexact. "), it.e || "",
+        it.ref && it.ref.u ? h("p",{class:"src"}, "Source : ", h("a",{href:it.ref.u,target:"_blank",rel:"noopener"}, it.ref.t || it.ref.u)) : null) : null),
+    h("div",{class:"row spread"},
+      h("button",{class:"btn ghost",type:"button",disabled:quiz.i===0,onclick:()=>{ quiz.i--; render(); }},"Précédente"),
+      quiz.i < total-1 ? h("button",{class:"btn",type:"button",disabled:!exam && !answered,onclick:()=>{ quiz.i++; render(); window.scrollTo({top:0}); }},"Suivante") : (exam ? confirmBtn : h("button",{class:"btn primary",type:"button",disabled:!answered,onclick:()=>finishQCM(false)},"Voir mon résultat"))),
+    exam && quiz.i < total-1 ? confirmBtn : null,
+    exam ? h("button",{class:"btn ghost small",type:"button",onclick:(ev)=>{ if (!quiz.ab){ quiz.ab = true; ev.target.textContent = "Confirmer l'abandon (copie blanche, note 0)"; return; } quiz.items.forEach(x=>x.pick=null); finishQCM(false); }},"Abandonner l'épreuve") : null
   );
 }
+function vQuizResult(){
+  const r = quiz.res, note = r.note;
+  const pass = quiz.kind==="ratt" ? 12 : quiz.kind==="blanc" ? 10 : PASS;
+  const cls = note>=pass ? "admis" : note>=10 ? "admissible" : "ajourne";
+  const word = quiz.kind==="level" ? (quiz.verdict==="qcm" ? "QCM RÉUSSI" : note>=PASS ? "VALIDÉ" : "NON VALIDÉ") : quiz.kind==="ratt" ? (note>=12 ? "RATTRAPÉ" : "ÉCHEC") : (note>=14 ? "ADMIS" : note>=10 ? "ADMISSIBLE" : "AJOURNÉ");
+  const lv = quiz.lv ? LVMAP[quiz.lv] : null;
+  const msg = {
+    valid: "Niveau validé. Le niveau suivant est déverrouillé.",
+    qcm: lv && lv.track==="oral" ? "QCM réussi. Pour valider le niveau, passez maintenant la simulation d'oral." : "QCM réussi. Pour valider le niveau, il reste la copie écrite.",
+    fail: "Note insuffisante (14/20 exigés). Relisez « À retenir » puis repassez l'évaluation : les questions changeront.",
+    "ratt-ok": "Rattrapage réussi : les points perdus vous sont rendus.",
+    "ratt-ko": "Rattrapage échoué : vous pouvez réessayer avant la date limite."
+  }[quiz.verdict];
+  return h("div",{class:"stack"},
+    card("result",
+      h("p",{class:"lbl"}, quiz.title + (quiz.timeout ? " · temps écoulé" : "")),
+      h("p",{class:"note-big"}, fr1(note) + " / 20"),
+      h("p",{class:"muted"}, r.ok + " bonne(s) réponse(s), " + r.ko + " erreur(s), " + r.sk + " sans réponse · " + r.pts + " pt sur " + r.max),
+      h("div",{class:"stampwrap"}, h("span",{class:"stamp " + cls}, word))),
+    msg ? h("p",{class:"box"+(note>=pass?"":" warn")}, msg) : null,
+    card("stack", h("h2",null,"Correction"),
+      quiz.items.map((x,i)=>h("div",{class:"miss"},
+        h("p",{class:"q-s"}, (i+1) + ". " + x.q),
+        h("p",null, x.pick===x.a ? h("span",{class:"good"},"✓ ") : x.pick==null||x.pick===-1 ? h("span",{class:"muted"},"— ") : h("span",{class:"bad"},"✗ "), "Réponse : ", h("b",null, x.o[x.a]), x.pick!=null && x.pick>=0 && x.pick!==x.a ? h("span",{class:"muted"}, " (vous : " + x.o[x.pick] + ")") : null),
+        x.e ? h("p",{class:"muted small"}, x.e) : null,
+        x.ref && x.ref.u ? h("p",{class:"src"}, "Source : ", h("a",{href:x.ref.u,target:"_blank",rel:"noopener"}, x.ref.t || x.ref.u)) : null,
+        reportUrl(x) ? h("p",{class:"src"}, h("a",{href:reportUrl(x),target:"_blank",rel:"noopener"},"Signaler une erreur")) : null))),
+    h("div",{class:"row"},
+      quiz.verdict==="qcm" && lv ? h("button",{class:"btn primary",type:"button",onclick:()=>openLevel(lv.id)}, lv.track==="oral" ? "Passer l'oral" : "Passer à l'écrit") : null,
+      quiz.verdict==="fail" && lv ? h("button",{class:"btn primary",type:"button",onclick:()=>openLevel(lv.id)},"Relire « À retenir »") : null,
+      quiz.verdict==="valid" && lv && currentLevel(lv.track) && levelStatus(currentLevel(lv.track))==="cur" ? h("button",{class:"btn primary",type:"button",onclick:()=>openLevel(currentLevel(lv.track).id)},"Niveau suivant") : null,
+      h("button",{class:"btn",type:"button",onclick:()=>go("home")},"Aujourd'hui"))
+  );
+}
+
+// ---------- Vue écrit ----------
+function vEcrit(){
+  if (!ecrit) return vTrain();
+  const s = ecrit.s, E = EPREUVES[s.e];
+  let target = null; const mt = s.t.match(/en (\d+) mots/); if (mt) target = Number(mt[1]);
+  let support = null;
+  if (s.texte) support = h("details",{class:"card",open:true}, h("summary",null,"Texte à résumer (" + words(TEXTE_CONTRACTION) + " mots, texte original d'entraînement)"), h("div",{class:"reading"}, TEXTE_CONTRACTION));
+  if (s.dossier) support = h("div",{class:"stack tight"}, h("p",{class:"box"}, DOSSIER_SYNTHESE.consigne), DOSSIER_SYNTHESE.docs.map(d=>h("details",{class:"card"}, h("summary",null,d.t), h("p",{class:"para"}, d.c))));
+  const headTitle = h("div",null,h("p",{class:"lbl"}, E.label + (ecrit.lv ? " · niveau " + (LVMAP[ecrit.lv].idx+1) : ecrit.ratt ? " · rattrapage" : "")), h("h2",null, s.src==="officiel" ? "Sujet officiel · " + s.ref : "Sujet d'entraînement"));
+  if (ecrit.phase === "write"){
+    const counter = h("span",{class:"muted"});
+    const ta = h("textarea",{class:"copy",id:"copy","aria-label":"Votre copie",placeholder:"Rédigez ici. Le texte est conservé tant que l'épreuve dure.", spellcheck:"false", autocomplete:"off", autocorrect:"off"});
+    ta.value = ecrit.text;
+    const upd = ()=>{ const w = words(ta.value); if (target){ counter.textContent = w + " mots · fourchette " + Math.round(target*0.9) + " à " + Math.round(target*1.1); counter.className = (w>=target*0.9 && w<=target*1.1) ? "good" : "muted"; } else counter.textContent = w + " mots"; };
+    ta.addEventListener("input",()=>{ ecrit.text = ta.value; upd(); }); upd();
+    const tick = ()=>{ if (!ecrit || ecrit.phase!=="write") return; const left = ecrit.dur-(Date.now()-ecrit.start)/1000; const t=document.getElementById("etimer"); if(t){ t.textContent = fmtTime(left); t.classList.toggle("low",left<600);} if (left<=0){ endWriting(true); } };
+    timers.push(setInterval(tick,1000)); setTimeout(tick,0);
+    return h("div",{class:"stack"},
+      h("div",{class:"qhead"}, headTitle, h("span",{class:"timer",id:"etimer"})),
+      h("p",{class:"sujet"}, s.t), support, ta, counter,
+      h("button",{class:"btn primary",type:"button",onclick:(ev)=>{ if (words(ecrit.text) < 40) return toast("Rédigez au moins votre introduction et votre plan avant de remettre."); if (!ecrit.cf){ ecrit.cf = true; ev.target.textContent = "Confirmer la remise de la copie"; return; } endWriting(false); }},"Remettre ma copie"),
+      h("button",{class:"btn ghost small",type:"button",onclick:(ev)=>{ if (!ecrit.ab){ ecrit.ab = true; ev.target.textContent = "Confirmer l'abandon (copie non notée)"; return; } examFinish(); ecrit = null; go("home"); }},"Abandonner l'épreuve"));
+  }
+  if (ecrit.phase === "grade"){
+    const grille = h("div",{class:"stack tight"}, E.grille.map((g,i)=>h("label",{class:"chk"}, h("input",{type:"checkbox",id:"g"+i,checked:ecrit.checks[i]||null,onchange:(ev)=>{ ecrit.checks[i]=ev.target.checked; }}), h("span",null,g))));
+    return h("div",{class:"stack"},
+      h("div",{class:"qhead"}, headTitle, h("span",{class:"pill"}, ecrit.timeout ? "Temps écoulé" : "Copie remise")),
+      h("p",{class:"sujet"}, s.t),
+      card("stack read", h("h3",null,"Votre copie (" + words(ecrit.text) + " mots)"), h("div",{class:"reading"}, ecrit.text || "(vide)")),
+      card("stack", h("h3",null,"Auto-évaluation"), h("p",{class:"muted small"},"Cochez honnêtement ce que votre copie réussit vraiment. Le plan corrigé s'affiche ensuite."), grille,
+        h("button",{class:"btn primary",type:"button",onclick:gradeEcrit},"Valider ma note")));
+  }
+  const msg = {valid:"Copie suffisante : niveau validé.", fail:"Copie insuffisante (10/20 exigés) : recommencez l'exercice sur un autre sujet.", "ratt-ok":"Rattrapage réussi : points récupérés.", "ratt-ko":"Rattrapage échoué : réessayez avant la date limite."}[ecrit.verdict];
+  return h("div",{class:"stack"},
+    card("result", h("p",{class:"lbl"}, E.label), h("p",{class:"note-big"}, fr1(ecrit.note) + " / 20"), h("p",{class:"muted"}, words(ecrit.text) + " mots · " + fmtTime(ecrit.realDur))),
+    msg ? h("p",{class:"box"+(ecrit.note>=10?"":" warn")}, msg) : null,
+    s.plan && s.plan.length ? card("stack read", h("h3",null,"Plan proposé (corrigé indicatif)"), blocks(s.plan.map(p=>"- "+p))) : card("soft", h("p",null,"Pas de plan corrigé pour ce sujet.")),
+    h("div",{class:"row"},
+      ecrit.verdict==="fail" && ecrit.lv ? h("button",{class:"btn primary",type:"button",onclick:()=>openLevel(ecrit.lv)},"Recommencer l'écrit") : null,
+      ecrit.verdict==="valid" && ecrit.lv && currentLevel(LVMAP[ecrit.lv].track) ? h("button",{class:"btn primary",type:"button",onclick:()=>openLevel(currentLevel(LVMAP[ecrit.lv].track).id)},"Niveau suivant") : null,
+      h("button",{class:"btn",type:"button",onclick:()=>{ ecrit = null; go("home"); }},"Aujourd'hui"))
+  );
+}
+function vChoixEcrit(){
+  const order = state.cycle==="CS" ? ["ns","sog","pes","da"] : ["sog","pes","ct","dc"];
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Séance d'écrit en conditions"), h("h1",null,"Choisir l'épreuve")),
+    h("p",{class:"muted"},"Copie complète en temps réel, ou en 2 heures si votre créneau est plus court. Une épreuve s'ouvre quand son niveau de méthode est validé dans le parcours."),
+    order.map(e=>{
+      const E = EPREUVES[e], open = isValid(METHOD_LEVEL[e]), sj = pickSujet(e);
+      return card("stack tight"+(open?"":" dim"), h("p",{class:"lbl"}, E.duree/60 + " h · coef. " + E.coef), h("h2",null,E.label),
+        open && sj ? h("div",{class:"row"}, h("button",{class:"btn primary small",type:"button",onclick:()=>startEcrit(sj,{dur:E.duree*60})},"Durée réelle (" + E.duree/60 + " h)"), h("button",{class:"btn small",type:"button",onclick:()=>startEcrit(sj,{dur:7200})},"2 heures"))
+          : h("p",{class:"muted small"}, "🔒 Validez d'abord « " + LVMAP[METHOD_LEVEL[e]].t + " »."));
+    }));
+}
+
+// ---------- Vue oral ----------
+function vOral(){
+  if (!oralS) return vTrain();
+  if (oralS.phase === "done"){
+    const msg = {valid:"Oral suffisant : niveau validé.", fail:"Oral insuffisant (10/20 exigés) : recommencez.", "ratt-ok":"Rattrapage réussi : points récupérés.", "ratt-ko":"Rattrapage échoué."}[oralS.verdict];
+    return h("div",{class:"stack"}, card("result", h("p",{class:"lbl"},"Simulation d'oral"), h("p",{class:"note-big"}, fr1(oralS.note) + " / 20")), msg ? h("p",{class:"box"}, msg) : null,
+      card("stack", h("h3",null,"Pistes du jury"), oralS.qs.map(i=>h("div",{class:"miss"}, h("p",{class:"q-s"}, ORAL[i][0]), h("p",{class:"muted small"}, ORAL[i][1])))),
+      h("button",{class:"btn",type:"button",onclick:()=>{ oralS = null; go("home"); }},"Aujourd'hui"));
+  }
+  const [q] = ORAL[oralS.qs[oralS.j]];
+  const dur = oralS.phase==="prep" ? 120 : 300;
+  const tick = ()=>{ const left = dur-(Date.now()-oralS.start)/1000; const t=document.getElementById("otimer"); if(t){ t.textContent = left>0 ? fmtTime(left) : "Temps écoulé"; t.classList.toggle("low",left<30);} };
+  timers.push(setInterval(tick,1000)); setTimeout(tick,0);
+  const ta = h("textarea",{id:"oral-notes",rows:"5","aria-label":"Notes",placeholder: oralS.phase==="prep" ? "Vos idées : problématique, deux parties, exemples." : "Répondez à voix haute ; notez ici les points clés."});
+  ta.value = oralS.notes; ta.addEventListener("input",()=>{ oralS.notes = ta.value; });
+  const ck = oralS.checks[oralS.j];
+  return h("div",{class:"stack"},
+    h("div",{class:"qhead"}, h("div",null,h("p",{class:"lbl"},"Oral · question " + (oralS.j+1) + " / 2"),h("h1",null,"Face au jury")), h("span",{class:"timer",id:"otimer"})),
+    card("stack",
+      h("p",{class:"lbl"}, oralS.phase==="prep" ? "Préparation · 2 minutes" : "Réponse à voix haute · 5 minutes"),
+      h("p",{class:"question"}, q), ta,
+      oralS.phase==="rep" ? h("div",{class:"stack tight"}, h("h3",null,"Grille du jury (cochez ce que vous avez réussi)"), GRILLE_ORAL.map((g,i)=>h("label",{class:"chk"},h("input",{type:"checkbox",checked:ck[i]||null,onchange:(ev)=>{ck[i]=ev.target.checked;}}),h("span",null,g)))) : null,
+      h("button",{class:"btn primary",type:"button",onclick:oralNext}, oralS.phase==="prep" ? "Je réponds" : oralS.j===0 ? "Question suivante" : "Terminer l'oral"))
+  );
+}
+
+// ---------- Entraînement ----------
 let annalesOpen = false;
 function vTrain(){
-  const ms = ["cg","ang","log","sog","pes","ct","dc","ns","da","fp"].filter(m=>allQ().some(q=>q.m===m));
+  const pre = ["fr","ang","cg","log"].flatMap(k=>trackPool(k,true)).length;
   return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"},"Questionnaires"),h("h1",null,"QCM")),
-    card("row spread",
-      h("div",null,h("b",null,"Barème officiel"),h("p",{class:"muted small"},"Mauvaise réponse : −1 (−2 en logique). Sans réponse : 0.")),
-      h("button",{class:"switch",type:"button",role:"switch","aria-checked":state.bareme?"true":"false",onclick:()=>{state.bareme=!state.bareme; save(); render();}}, h("span",null))),
-    h("div",{class:"row"},
-      h("button",{class:"btn accent",type:"button",onclick:startBlanc},"Présélection blanche · 45 questions · 45 min"),
-      h("button",{class:"btn",type:"button",onclick:startErreurs},"Revoir mes erreurs (" + Object.keys(state.wrong).length + ")")),
-    h("div",{class:"grid"}, ms.map(m=>{
-      const st = state.stats[m] || {ok:0,n:0}, pool = allQ().filter(q=>q.m===m).length, pct = st.n ? Math.round(st.ok/st.n*100) : 0;
-      return card("stack tight",
-        h("p",{class:"lbl"},MAT[m].phase), h("h3",null,MAT[m].label),
-        h("p",{class:"muted small"}, pool + " questions · " + (st.n ? pct + " % de réussite" : "pas encore commencé")),
-        h("div",{class:"bar"}, h("i",{style:"width:"+pct+"%"})),
-        h("button",{class:"btn primary",type:"button",onclick:()=>startQuiz({m, n:10, title:MAT[m].label})},"Série de 10"));
-    })),
+    h("div",null,h("p",{class:"lbl"},"En plus du parcours"),h("h1",null,"Entraînement")),
+    card("stack", h("h2",null,"Présélection blanche"), h("p",{class:"muted small"},"45 questions en 45 minutes, barème officiel, conditions d'examen. Questions tirées des niveaux débloqués (" + pre + " disponibles)."),
+      h("button",{class:"btn accent",type:"button",disabled:pre<30,onclick:()=>startBlanc()}, pre<30 ? "S'ouvre à 30 questions débloquées" : "Lancer la présélection blanche")),
+    card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s)."), h("button",{class:"btn",type:"button",onclick:startErreurs},"Lancer")),
+    card("stack", h("h2",null,"Séries libres (correction immédiate)"), h("p",{class:"muted small"},"Uniquement sur les niveaux déjà validés. Sans enjeu : elles ne valident ni niveau ni séance."),
+      h("div",{class:"list"}, PROGRAMME.filter(t=>t.k!=="oral").map(t=>{ const pool = trackPool(t.k,false); return h("button",{class:"item",type:"button",disabled:pool.length<5,onclick:()=>startQCM({items:pick(pool,Math.min(10,pool.length)), title:"Série libre · " + t.court, kind:"train", mode:"train"})}, h("span",{class:"grow"}, t.court), h("span",{class:"meta"}, pool.length<5 ? "🔒" : pool.length + " q.")); }))),
+    card("stack", h("h2",null,"Écrits en conditions"), h("p",{class:"muted small"},"Sujets officiels et sujets d'entraînement ; chaque épreuve s'ouvre avec son niveau de méthode."), h("button",{class:"btn",type:"button",onclick:()=>go("choixecrit")},"Choisir une épreuve")),
+    card("stack", h("h2",null,"Simulation d'oral"), h("p",{class:"muted small"},"Deux questions de jury, préparation et réponse chronométrées."), h("button",{class:"btn",type:"button",disabled:!isValid("or01"),onclick:()=>startOral()}, isValid("or01") ? "Passer un oral" : "🔒 Après le niveau 1 de l'oral")),
     annalesSection()
   );
 }
 function annalesSection(){
   const det = h("details",{class:"card",open:annalesOpen||null, ontoggle:(ev)=>{annalesOpen = ev.target.open;}});
   det.append(h("summary",null,"Mes annales : ajouter des questions (" + state.custom.length + ")"));
-  const sel = h("select",{id:"anM"}, ["cg","ang","log","pes","dc","da","fp"].map(k=>h("option",{value:k},MAT[k].label)));
+  const sel = h("select",{id:"anM"}, [["fr","Français"],["cg","Culture générale"],["ang","Anglais"],["log","Logique"],["pes","PES"],["dc","Droit constitutionnel"],["da","Droit administratif"]].map(([k,l])=>h("option",{value:k},l)));
   const q = h("textarea",{id:"anQ",rows:"2",placeholder:"Énoncé de la question"});
   const opts = [0,1,2,3].map(i=>h("input",{type:"text",id:"anO"+i,placeholder:"Proposition " + "abcd"[i]}));
   const ans = h("select",{id:"anA"}, [0,1,2,3].map(i=>h("option",{value:String(i)},"Bonne réponse : " + "abcd"[i])));
@@ -1477,282 +2112,253 @@ function annalesSection(){
     ev.preventDefault(); const o = opts.map(i=>i.value.trim());
     if (!q.value.trim() || o.some(x=>!x)) { toast("Remplissez l'énoncé et les quatre propositions."); return; }
     state.custom.push({id:"c"+Date.now().toString(36), m:sel.value, tag:"annales", q:q.value.trim(), o, a:Number(ans.value), e:ex.value.trim()});
-    save(); annalesOpen = true; toast("Question ajoutée"); render();
+    save(); annalesOpen = true; toast("Question ajoutée à la révision des erreurs et aux séries"); render();
   }},
-    h("p",{class:"muted small"},"Ajoutez les questions des cours préparatoires officiels ou des annales : elles entrent dans les séries et la révision des erreurs."),
+    h("p",{class:"muted small"},"Ajoutez les questions des cours préparatoires officiels ou des annales. Elles entrent dans les séries libres."),
     sel, q, opts, ans, ex, h("button",{class:"btn primary",type:"submit"},"Ajouter")));
   if (state.custom.length) det.append(h("div",{class:"list"}, state.custom.slice().reverse().map(c=>h("div",{class:"item"},
     h("span",{class:"grow"}, c.q), h("button",{class:"link",type:"button",onclick:()=>{ state.custom = state.custom.filter(x=>x.id!==c.id); save(); annalesOpen=true; render(); }},"Retirer")))));
   return det;
 }
 
-// ---------- Écrits ----------
-function sujetId(s){ return "s"+hash(s.t); }
-function openEcritFor(e){
-  const list = SUJETS.filter(s=>s.e===e);
-  const done = new Set(state.copies.map(c=>c.sid));
-  const s = list.find(x=>x.src==="officiel" && x.plan.length && !done.has(sujetId(x))) || list.find(x=>!done.has(sujetId(x))) || list[0];
-  if (s) openEcrit(s);
-}
-function vEcrits(){
-  const order = state.cycle==="CS" ? ["sog","ns","pes","da","ct","dc"] : ["sog","pes","ct","dc","ns","da"];
-  const done = new Set(state.copies.map(c=>c.sid));
-  return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"},"Admissibilité et admission"),h("h1",null,"Écrits et oral")),
-    card("row spread", h("div",null,h("b",null,"Simulation d'oral"),h("p",{class:"muted small"},"Préparation 2 min, réponse 5 min, grille du jury.")), h("button",{class:"btn primary",type:"button",onclick:()=>go("oral")},"S'entraîner")),
-    order.map(e=>{
-      const E = EPREUVES[e];
-      return card("stack tight",
-        h("p",{class:"lbl"}, E.cycles + " · " + (E.duree/60) + " h · coef. " + E.coef), h("h2",null,E.label),
-        h("div",{class:"list"}, SUJETS.filter(s=>s.e===e).map(s=>h("button",{class:"item",type:"button",onclick:()=>openEcrit(s)},
-          h("span",{class:"grow"}, h("span",{class: s.src==="officiel"?"tag off":"tag"}, s.src==="officiel" ? "Officiel" : "Entraînement"), " ", h("span",{class:"q-s"}, s.t), h("span",{class:"muted small block"}, s.ref)),
-          h("span",{class:"meta"}, done.has(sujetId(s)) ? "fait" : "")))));
-    }),
-    h("p",{class:"note"},"Sujets « Officiel » : relevés sur les sujets ENA publiés par les sites de préparation ivoiriens (Fomesoutra, Ablanian). Les énoncés partiellement lisibles sont signalés.")
-  );
-}
-const draftKey = (s)=>"capena.draft."+sujetId(s);
-function openEcrit(s){ let d=""; try{ d = localStorage.getItem(draftKey(s))||""; }catch(e){} ecrit = {s, text:d, start:null, dur:null, showPlan:false, checks:{}}; go("ecrit"); }
-function vEcrit(){
-  if (!ecrit) return vEcrits();
-  const s = ecrit.s, E = EPREUVES[s.e];
-  let target = null;
-  const m = s.t.match(/en (\d+) mots/); if (m) target = Number(m[1]);
-  const counter = h("span",{class:"muted"});
-  const ta = h("textarea",{class:"copy",id:"copy-"+sujetId(s),"aria-label":"Votre copie",placeholder:"Rédigez ici (introduction, plan détaillé ou copie complète). Enregistrement automatique."});
-  ta.value = ecrit.text;
-  const upd = ()=>{ const w = words(ta.value); if (target){ counter.textContent = w + " mots · fourchette " + Math.round(target*0.9) + " à " + Math.round(target*1.1); counter.className = (w>=target*0.9 && w<=target*1.1) ? "good" : "muted"; } else counter.textContent = w + " mots"; };
-  let dt=null; ta.addEventListener("input",()=>{ ecrit.text=ta.value; upd(); clearTimeout(dt); dt=setTimeout(()=>{ try{ localStorage.setItem(draftKey(s), ta.value);}catch(e){} },500); }); upd();
-  const tEl = h("span",{class:"timer",id:"etimer"}, ecrit.dur ? "" : "");
-  if (ecrit.dur){ const tick=()=>{ const left = ecrit.dur-(Date.now()-ecrit.start)/1000; const t=document.getElementById("etimer"); if(t){ t.textContent = left>0 ? fmtTime(left) : "Temps écoulé"; t.classList.toggle("low",left<600);} }; timers.push(setInterval(tick,1000)); setTimeout(tick,0); }
-  const chrono = (sec)=>{ ecrit.start=Date.now(); ecrit.dur=sec; clearTimers(); render(); };
-  const lessonFor = {sog:"s1",pes:"e1",ct:"c1",dc:"d1",ns:"n1",da:"a2"}[s.e];
-  let support = null;
-  if (s.texte) support = h("details",{class:"card",open:true}, h("summary",null,"Texte à résumer (" + words(TEXTE_CONTRACTION) + " mots, texte original d'entraînement)"), h("div",{class:"reading"}, TEXTE_CONTRACTION));
-  if (s.dossier) support = h("div",{class:"stack tight"}, h("p",{class:"box"}, DOSSIER_SYNTHESE.consigne), DOSSIER_SYNTHESE.docs.map(d=>h("details",{class:"card"}, h("summary",null,d.t), h("p",{class:"para"}, d.c))));
-  const grille = h("div",{class:"stack tight"}, E.grille.map((g,i)=>h("label",{class:"chk"}, h("input",{type:"checkbox",id:"g"+i,checked:ecrit.checks[i]||null,onchange:(ev)=>{ ecrit.checks[i]=ev.target.checked; }}), h("span",null,g))));
-  return h("div",{class:"stack"},
-    h("div",{class:"qhead"}, h("div",null,h("p",{class:"lbl"}, E.label + " · " + (E.duree/60) + " h · coef. " + E.coef), h("h2",null, s.src==="officiel" ? "Sujet officiel · " + s.ref : "Sujet d'entraînement")), tEl),
-    h("p",{class:"sujet"}, s.t),
-    lessonFor ? h("button",{class:"link",type:"button",onclick:()=>openLesson(lessonFor)},"Revoir le cours de méthode") : null,
-    support,
-    h("div",{class:"row"}, h("span",{class:"lbl"},"Chrono"),
-      h("button",{class:"btn small",type:"button",onclick:()=>chrono(E.duree*60)},"Durée réelle " + (E.duree/60) + " h"),
-      h("button",{class:"btn small",type:"button",onclick:()=>chrono(3600)},"1 h"),
-      h("button",{class:"btn small",type:"button",onclick:()=>chrono(1800)},"30 min (plan seul)")),
-    ta, counter,
-    card("stack", h("h3",null,"Auto-évaluation"), h("p",{class:"muted small"},"Cochez honnêtement ce que votre copie réussit. La note indicative en découle."), grille,
-      h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:rendre},"Rendre ma copie"),
-        s.plan && s.plan.length ? h("button",{class:"btn",type:"button",onclick:()=>{ecrit.showPlan=!ecrit.showPlan; render();}}, ecrit.showPlan ? "Masquer le corrigé" : "Voir le plan proposé") : null)),
-    ecrit.showPlan ? card("stack read", h("h3",null,"Plan proposé (corrigé indicatif rédigé pour l'appli)"), blocks(s.plan.map(p=>"- "+p))) : null,
-    h("button",{class:"btn ghost",type:"button",onclick:()=>go("ecrits")},"Retour aux sujets")
-  );
-}
-function rendre(){
-  const mots = words(ecrit.text);
-  if (mots < 40){ toast("Rédigez au moins votre introduction et votre plan avant de rendre."); return; }
-  const E = EPREUVES[ecrit.s.e]; const n = E.grille.filter((_,i)=>ecrit.checks[i]).length;
-  const note = Math.round(n / E.grille.length * 200)/10;
-  state.copies.push({sid:sujetId(ecrit.s), e:ecrit.s.e, t:ecrit.s.t.slice(0,90), date:ymd(new Date()), mots, note});
-  state.copies = state.copies.slice(-40);
-  addXP(50); touchDay(); save();
-  toast("Copie rendue : note d'auto-évaluation " + String(note).replace(".",",") + " / 20");
-  ecrit.showPlan = true; render();
-}
-
-// ---------- Oral ----------
-function newOral(){ oralS = {i:Math.floor(Math.random()*ORAL.length), phase:"prep", start:Date.now(), notes:"", checks:{}}; }
-const GRILLE_ORAL = ["Introduction claire avec une problématique","Deux idées structurées, annoncées","Exemples précis et exacts","Ton posé, débit lent, regard vers le jury","Neutralité sur les sujets politiques","Conclusion avec ouverture","Réponse dans le temps imparti"];
-function vOral(){
-  if (!oralS) newOral();
-  const [q, piste] = ORAL[oralS.i];
-  const dur = oralS.phase==="prep" ? 120 : 300;
-  const tick = ()=>{ const left = dur-(Date.now()-oralS.start)/1000; const t=document.getElementById("otimer"); if(t){ t.textContent = left>0 ? fmtTime(left) : "Temps écoulé"; t.classList.toggle("low",left<30);} };
-  timers.push(setInterval(tick,1000)); setTimeout(tick,0);
-  const ta = h("textarea",{id:"oral-notes",rows:"6","aria-label":"Notes",placeholder: oralS.phase==="prep" ? "Vos idées : problématique, deux parties, exemples." : "Répondez à voix haute ; notez ici les points clés."});
-  ta.value = oralS.notes; ta.addEventListener("input",()=>{ oralS.notes = ta.value; });
-  return h("div",{class:"stack"},
-    h("div",{class:"qhead"}, h("div",null,h("p",{class:"lbl"},"Oral d'admission"),h("h1",null,"Face au jury")), h("span",{class:"timer",id:"otimer"})),
+// ---------- Sanction ----------
+function vSanction(){
+  const s = state.pendingSanction || state.sanctions[state.sanctions.length-1];
+  const left = Math.ceil((state.blockUntil - Date.now())/1000);
+  if (left > 0){ timers.push(setInterval(()=>{ const t = document.getElementById("blk"); const r = Math.ceil((state.blockUntil - Date.now())/1000); if (r<=0){ clearTimers(); render(); } else if (t) t.textContent = fmtTime(r); }, 1000)); }
+  return h("div",{class:"stack sanction"},
+    h("div",{class:"center"}, h("span",{class:"stamp ajourne"},"FRAUDE"), h("h1",null,"Épreuve annulée")),
     card("stack",
-      h("p",{class:"lbl"}, oralS.phase==="prep" ? "Préparation · 2 minutes" : "Réponse à voix haute · 5 minutes"),
-      h("p",{class:"question"}, q), ta,
-      h("details",null,h("summary",null,"Piste du jury"),h("p",{class:"para"},piste)),
-      oralS.phase==="prep" ? h("button",{class:"btn primary",type:"button",onclick:()=>{ oralS.phase="rep"; oralS.start=Date.now(); clearTimers(); render(); }},"Je réponds") : null,
-      oralS.phase==="rep" ? h("div",{class:"stack tight"}, h("h3",null,"Grille du jury"), GRILLE_ORAL.map((g,i)=>h("label",{class:"chk"},h("input",{type:"checkbox",id:"og"+i,checked:oralS.checks[i]||null,onchange:(ev)=>{oralS.checks[i]=ev.target.checked;}}),h("span",null,g)))) : null,
-      h("div",{class:"row"}, h("button",{class:"btn",type:"button",onclick:()=>{ if (oralS.phase==="rep"){ state.oral++; addXP(30); touchDay(); save(); toast("Oral enregistré : +30 XP"); } newOral(); clearTimers(); render(); }}, oralS.phase==="rep" ? "Valider et question suivante" : "Autre question"))
-    ),
-    h("p",{class:"muted small"},"Conseil : enregistrez-vous avec le dictaphone du téléphone et réécoutez-vous. " + state.oral + " oral(s) préparé(s).")
+      h("p",null, s ? s.reason + (s.what ? " (« " + s.what + " »)" : "") + "." : "Sortie de l'appli pendant l'épreuve."),
+      h("ul",{class:"pts"},
+        h("li",null,"Épreuve annulée, aucune note enregistrée."),
+        s && s.reverted.length ? h("li",null,"Niveaux reverrouillés : " + s.reverted.map(id=>"« " + LVMAP[id].t + " »").join(" et ") + ".") : h("li",null,"Aucun niveau validé à reverrouiller."),
+        h("li",null,"Points retirés : −" + (s ? s.xp : 150) + " XP.")),
+      left > 0 ? h("p",{class:"box warn"},"Appli bloquée encore ", h("b",{id:"blk"}, fmtTime(left)), ".")
+        : h("button",{class:"btn primary",type:"button",onclick:()=>{ state.pendingSanction = null; save(); go("home"); }},"J'ai compris"))
   );
 }
 
-// ---------- Progrès ----------
-function vProgres(){
-  const nv = niveau(state.xp);
+
+// ---------- Profil ----------
+function vProfil(){
+  const p = state.profile, nv = niveau(state.xp), ind = indice();
   const pct = nv.next ? Math.round((state.xp-nv.cur[0])/(nv.next[0]-nv.cur[0])*100) : 100;
-  const today = new Date(); const heat = [];
-  for (let i=0;i<28;i++){ const d = new Date(today); d.setDate(today.getDate()-27+i); const n = state.days[ymd(d)]||0; heat.push(h("i",{class: n>=30?"l3":n>=12?"l2":n>0?"l1":"",title:ymd(d)})); }
-  const ms = ["cg","ang","log","pes","dc","da","fp","sog","ct","ns"];
-  const rows = ms.filter(m=>state.stats[m]).map(m=>{ const st=state.stats[m]; const p = st.n?Math.round(st.ok/st.n*100):0; return h("div",{class:"mrow"}, h("span",null,MAT[m].court), h("div",{class:"bar"+(p<50?" o":"")},h("i",{style:"width:"+p+"%"})), h("span",null,p+" %")); });
+  const f = (k, label, type, ph)=>h("label",{class:"field"}, h("span",{class:"lbl"},label), h("input",{type:type||"text",value:p[k]||"",placeholder:ph||"",onchange:(ev)=>{ p[k]=ev.target.value.trim(); save(); render(); }}));
+  const ms = PROGRAMME.map(t=>t.k).filter(k=>state.stats[k]);
+  const rows = ms.map(k=>{ const st=state.stats[k]; const v = st.n?Math.round(st.ok/st.n*100):0; return h("div",{class:"mrow"}, h("span",null,kindLabel(k)), bar(v, v<50), h("span",null,v+" %")); });
   return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"},"Tableau de bord"),h("h1",null,"Mes progrès")),
-    card("stack", h("div",{class:"row spread"}, h("div",null,h("p",{class:"lbl"},"Grade"),h("h2",null,nv.cur[1])), h("b",{class:"big-n"}, state.xp + " XP")),
-      h("div",{class:"bar o"},h("i",{style:"width:"+pct+"%"})),
-      h("p",{class:"muted small"}, nv.next ? "Encore " + (nv.next[0]-state.xp) + " XP pour « " + nv.next[1] + " ». Leçon terminée +40, bonne réponse +10, copie +50, oral +30." : "Grade maximal atteint.")),
-    h("div",{class:"grid"},
-      card("stack", h("h2",null,"Réussite par matière"), rows.length ? rows : h("p",{class:"muted"},"Faites un premier questionnaire pour voir vos résultats.")),
-      card("stack", h("h2",null,"Assiduité, 4 semaines"), h("div",{class:"heat"}, heat), h("p",{class:"muted small"}, "Série " + state.streak + " j · record " + (state.best||0) + " j · " + Object.keys(state.lessons).length + " leçon(s) · " + state.copies.length + " copie(s) · " + state.oral + " oral(s)"))),
-    state.copies.length ? card("stack", h("h2",null,"Mes copies"), h("div",{class:"list"}, state.copies.slice().reverse().slice(0,10).map(c=>h("div",{class:"item"}, h("span",{class:"grow"}, h("b",null,EPREUVES[c.e].label), " · ", c.t), h("span",{class:"meta"}, c.date + " · " + String(c.note).replace(".",",") + "/20"))))) : null,
-    h("button",{class:"btn",type:"button",onclick:()=>go("reglages")},"Rappels et sauvegarde")
+    h("div",null,h("p",{class:"lbl"},"Candidat"),h("h1",null, ((p.nom||"") + " " + (p.prenoms||"")).trim() || "Mon profil")),
+    card("stack",
+      h("div",{class:"row spread"}, h("div",null,h("p",{class:"lbl"},"Grade"),h("h2",null,nv.cur[1])), h("b",{class:"big-n"}, state.xp + " XP")),
+      bar(pct),
+      h("p",{class:"muted small"}, nv.next ? "Encore " + (nv.next[0]-state.xp) + " XP pour « " + nv.next[1] + " ». Bonne réponse en épreuve +10, niveau validé +60, copie +50, oral +30, présélection blanche +40. Séance manquée : −2 par minute ; sortie pendant une épreuve : −150." : "Grade maximal atteint.")),
+    card("stack",
+      h("h2",null,"Indice de préparation : " + ind.total + " / 100"),
+      h("div",{class:"mrow"}, h("span",null,"Programme validé"), bar(ind.parts.couverture/40*100), h("span",null, ind.parts.couverture + "/40")),
+      h("div",{class:"mrow"}, h("span",null,"Qualité (notes)"), bar(ind.parts.maitrise/20*100), h("span",null, ind.parts.maitrise + "/20")),
+      h("div",{class:"mrow"}, h("span",null,"Assiduité (28 j)"), bar(ind.parts.assiduite/25*100, ind.parts.assiduite<15), h("span",null, ind.parts.assiduite + "/25")),
+      h("div",{class:"mrow"}, h("span",null,"Dossier"), bar(ind.parts.dossier/15*100, ind.parts.dossier<8), h("span",null, ind.parts.dossier + "/15")),
+      h("p",{class:"note"},"Indicateur interne de l'appli, pas une probabilité de réussite. Assiduité : " + ind.ok + " séance(s) faite(s) ou rattrapée(s) sur " + ind.due + " prévue(s) depuis 28 jours.")),
+    card("stack",
+      h("h2",null,"Identité"),
+      h("div",{class:"grid2"}, f("nom","Nom"), f("prenoms","Prénoms"), f("naissance","Date de naissance","date"), f("ville","Ville"), f("diplome","Diplôme le plus élevé","text","ex. Licence"), f("statut","Situation professionnelle","text","ex. contractuel, non fonctionnaire")),
+      h("div",{class:"row spread"}, h("span",{class:"lbl"},"Cycle visé"),
+        h("div",{class:"seg",role:"group","aria-label":"Cycle visé"}, ...[["CMS","Moyen supérieur"],["CS","Supérieur"]].map(([k,l])=>h("button",{type:"button","aria-pressed":state.cycle===k?"true":"false",onclick:()=>{state.cycle=k; save(); render();}},l)))),
+      h("p",{class:"muted small"},"Ces informations restent dans votre téléphone.")),
+    securityCard(),
+    card("stack",
+      h("h2",null,"Emploi du temps et rappels"),
+      h("p",{class:"muted small"}, state.planning.length + " séances par semaine, " + Math.round(state.planning.reduce((a,s)=>a+slotMin(s),0)/60*10)/10 + " h au total."),
+      h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>go("planning")},"Modifier mes horaires"), h("button",{class:"btn",type:"button",onclick:()=>go("semaine")},"Voir ma semaine"))),
+    card("stack", h("h2",null,"Réussite par matière"), rows.length ? rows : h("p",{class:"muted"},"Pas encore de résultats.")),
+    state.copies.length ? card("stack", h("h2",null,"Mes copies"), h("div",{class:"list"}, state.copies.slice().reverse().slice(0,10).map(c=>h("div",{class:"item"}, h("span",{class:"grow"}, h("b",null,EPREUVES[c.e].label), " · ", c.t), h("span",{class:"meta"}, frDate(c.date) + " · " + fr1(c.note) + "/20"))))) : null,
+    state.sanctions.length ? card("stack", h("h2",null,"Sanctions"), h("div",{class:"list"}, state.sanctions.slice().reverse().map(s=>h("div",{class:"item"}, h("span",{class:"grow"}, s.reason, h("span",{class:"muted small block"}, frDate(s.date) + (s.reverted.length ? " · " + s.reverted.length + " niveau(x) reverrouillé(s)" : ""))), h("span",{class:"meta"},"−" + s.xp))))) : null,
+    backupCard(),
+    card("stack", h("h2",null,"Tutoriel"), h("button",{class:"btn",type:"button",onclick:()=>openTuto(0)},"Revoir le tutoriel"))
   );
 }
+function backupCard(){
+  const imp = h("textarea",{id:"imp",rows:"3",placeholder:"Collez ici le contenu d'un fichier de sauvegarde"});
+  return card("stack",
+    h("h2",null,"Sauvegarde de ma progression"),
+    h("p",{class:"muted small"},"La progression est stockée dans le téléphone. Sauvegardez-la régulièrement, surtout avant de changer de téléphone."),
+    h("button",{class:"btn primary",type:"button",onclick:()=>download("cap-ena-sauvegarde-"+today()+".json", JSON.stringify(state), "application/json")},"Télécharger une sauvegarde"),
+    imp,
+    h("button",{class:"btn",type:"button",onclick:()=>{ try{ const o = JSON.parse(imp.value); if (typeof o!=="object"||o.v!==3) throw 0; o.exam = null; state = Object.assign(defaults(), o); save(); toast("Progression restaurée"); render(); } catch(e){ toast("Contenu invalide : collez le texte complet d'une sauvegarde de cette version."); } }},"Restaurer"));
+}
+function download(name, text, type){ const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([text],{type})); a.download = name; document.body.append(a); a.click(); setTimeout(()=>{URL.revokeObjectURL(a.href); a.remove();},1000); }
 
-// ---------- Rappels et sauvegarde ----------
+// ---------- Emploi du temps modifiable ----------
+let planDraft = null;
+const KIND_OPTIONS = ()=>[...PROGRAMME.map(t=>[t.k, t.court]), ["blanc","Présélection blanche"], ["revision","Rattrapages et révision"], ["ecrit","Écrit en conditions"]];
+function vPlanning(){
+  if (!planDraft) planDraft = state.planning.map(s=>Object.assign({},s));
+  const rows = [1,2,3,4,5,6,0].flatMap(d=>planDraft.filter(s=>s.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut)));
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Emploi du temps"), h("h1",null,"Mes horaires d'étude")),
+    h("p",{class:"muted"},"Adaptez vos créneaux quand vos horaires de travail changent. Les modifications s'appliquent à partir d'aujourd'hui ; les séances passées restent comptées selon l'ancien emploi du temps."),
+    h("div",{class:"stack tight"}, rows.map(s=>h("div",{class:"card planrow"},
+      h("select",{"aria-label":"Jour",onchange:(ev)=>{ s.jour = Number(ev.target.value); render(); }}, [1,2,3,4,5,6,0].map(d=>h("option",{value:String(d),selected:s.jour===d||null}, JOURS[d]))),
+      h("input",{type:"time",value:s.debut,"aria-label":"Début",onchange:(ev)=>{ s.debut = ev.target.value; }}),
+      h("input",{type:"time",value:s.fin,"aria-label":"Fin",onchange:(ev)=>{ s.fin = ev.target.value; }}),
+      h("select",{"aria-label":"Matière",onchange:(ev)=>{ s.k = ev.target.value; }}, KIND_OPTIONS().map(([k,l])=>h("option",{value:k,selected:s.k===k||null}, l))),
+      h("button",{class:"link",type:"button","aria-label":"Supprimer ce créneau",onclick:()=>{ planDraft = planDraft.filter(x=>x!==s); render(); }},"Supprimer")))),
+    h("button",{class:"btn",type:"button",onclick:()=>{ planDraft.push({id:"c"+Date.now().toString(36), jour:new Date().getDay(), debut:"19:00", fin:"20:00", k:"fr"}); render(); }},"Ajouter un créneau"),
+    h("div",{class:"row"},
+      h("button",{class:"btn primary",type:"button",onclick:savePlanning},"Enregistrer"),
+      h("button",{class:"btn ghost",type:"button",onclick:()=>{ planDraft = null; go("profil"); }},"Annuler"),
+      h("button",{class:"btn ghost",type:"button",onclick:()=>{ planDraft = DEFAULT_PLANNING.map(s=>Object.assign({},s)); render(); }},"Revenir aux horaires d'origine")),
+    remindersCard()
+  );
+}
+function savePlanning(){
+  for (const s of planDraft){
+    if (!/^\d\d:\d\d$/.test(s.debut) || !/^\d\d:\d\d$/.test(s.fin) || toMin(s.fin) <= toMin(s.debut)) return toast("Un créneau a une heure de fin avant son début (" + JOURS[s.jour] + ").");
+  }
+  for (const d of [0,1,2,3,4,5,6]){
+    const l = planDraft.filter(s=>s.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut));
+    for (let i=1;i<l.length;i++) if (toMin(l[i].debut) < toMin(l[i-1].fin)) return toast("Deux créneaux se chevauchent le " + JOURS[d].toLowerCase() + ".");
+  }
+  if (!planDraft.length) return toast("Gardez au moins un créneau par semaine.");
+  processMissed();   // les jours passés sont comptés avec l'ancien emploi du temps
+  // un créneau d'aujourd'hui déjà fait reste fait
+  state.planning = planDraft.map(s=>Object.assign({},s)); planDraft = null; save();
+  toast("Emploi du temps enregistré. Mettez à jour vos rappels.");
+  go("planning");
+}
+
+// ---------- Rappels (notifications du téléphone avec sonnerie, via l'agenda) ----------
 const DAYCODE = ["SU","MO","TU","WE","TH","FR","SA"];
-function gcalLink(p){
-  const now = new Date(); let d = new Date(now); for (let i=0;i<8;i++){ if (p.jours.includes(d.getDay())) break; d.setDate(d.getDate()+1); }
-  const ds = d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate());
-  const st = ds+"T"+p.debut.replace(":","")+"00", en = ds+"T"+p.fin.replace(":","")+"00";
-  const rr = "RRULE:FREQ=WEEKLY;BYDAY=" + p.jours.map(j=>DAYCODE[j]).join(",");
-  return "https://calendar.google.com/calendar/render?action=TEMPLATE&text=" + encodeURIComponent("Cap ENA · " + p.titre) + "&details=" + encodeURIComponent(p.detail + "\nOuvrez l'appli Cap ENA.") + "&dates=" + st + "/" + en + "&ctz=Africa/Abidjan&recur=" + encodeURIComponent(rr);
+function nextDate(jour){ const d = new Date(); for (let i=0;i<8;i++){ if (d.getDay()===jour) break; d.setDate(d.getDate()+1); } return d; }
+function gcalLink(s){
+  const d = nextDate(s.jour); const ds = d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate());
+  const st = ds+"T"+s.debut.replace(":","")+"00", en = ds+"T"+s.fin.replace(":","")+"00";
+  return "https://calendar.google.com/calendar/render?action=TEMPLATE&text=" + encodeURIComponent("Cap ENA · " + slotLabel(s)) + "&details=" + encodeURIComponent("Séance Cap ENA. Ouvrez l'appli : " + location.origin + location.pathname) + "&dates=" + st + "/" + en + "&ctz=Africa/Abidjan&recur=" + encodeURIComponent("RRULE:FREQ=WEEKLY;BYDAY=" + DAYCODE[s.jour]);
 }
 function icsText(){
-  const now = new Date(); const stamp = now.toISOString().replace(/[-:]/g,"").replace(/\.\d+Z$/,"Z");
-  const L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Cap ENA//FR","CALSCALE:GREGORIAN"];
-  PLANNING.forEach((p,i)=>{
-    let d = new Date(now); for (let k=0;k<8;k++){ if (p.jours.includes(d.getDay())) break; d.setDate(d.getDate()+1); }
-    const ds = d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate());
-    L.push("BEGIN:VEVENT","UID:capena-"+i+"@capena","DTSTAMP:"+stamp,"DTSTART;TZID=Africa/Abidjan:"+ds+"T"+p.debut.replace(":","")+"00","DTEND;TZID=Africa/Abidjan:"+ds+"T"+p.fin.replace(":","")+"00","RRULE:FREQ=WEEKLY;BYDAY="+p.jours.map(j=>DAYCODE[j]).join(","),"SUMMARY:Cap ENA - "+p.titre,"DESCRIPTION:"+p.detail.replace(/,/g,"\\,"),"BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:Séance Cap ENA dans 10 minutes","TRIGGER:-PT10M","END:VALARM","END:VEVENT");
+  const stamp = new Date().toISOString().replace(/[-:]/g,"").replace(/\.\d+Z$/,"Z");
+  const L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Cap ENA//FR","CALSCALE:GREGORIAN","X-WR-CALNAME:Cap ENA"];
+  state.planning.forEach(s=>{
+    const d = nextDate(s.jour); const ds = d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate());
+    L.push("BEGIN:VEVENT","UID:capena-"+s.id+"-"+stamp+"@capena","DTSTAMP:"+stamp,"DTSTART;TZID=Africa/Abidjan:"+ds+"T"+s.debut.replace(":","")+"00","DTEND;TZID=Africa/Abidjan:"+ds+"T"+s.fin.replace(":","")+"00","RRULE:FREQ=WEEKLY;BYDAY="+DAYCODE[s.jour],"SUMMARY:Cap ENA - "+slotLabel(s),"DESCRIPTION:Séance Cap ENA","BEGIN:VALARM","ACTION:AUDIO","TRIGGER:-PT10M","END:VALARM","BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:Séance Cap ENA dans 10 minutes","TRIGGER:-PT10M","END:VALARM","END:VEVENT");
   });
   L.push("END:VCALENDAR"); return L.join("\r\n");
 }
-function download(name, text, type){ const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([text],{type})); a.download = name; document.body.append(a); a.click(); setTimeout(()=>{URL.revokeObjectURL(a.href); a.remove();},1000); }
-function vReglages(){
-  const imp = h("textarea",{id:"imp",rows:"3",placeholder:"Collez ici le contenu d'un fichier de sauvegarde"});
-  return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"},"Réglages"),h("h1",null,"Rappels et sauvegarde")),
-    card("stack",
-      h("h2",null,"Rappels sur le téléphone"),
-      h("p",null,"Les rappels passent par l'agenda du téléphone : il vous prévient même appli fermée et sans connexion. Touchez chaque créneau pour l'ajouter à Google Agenda (répétition chaque semaine), puis vérifiez que la notification est active."),
-      h("div",{class:"list"}, PLANNING.map(p=>h("a",{class:"item",href:gcalLink(p),target:"_blank",rel:"noopener"}, h("span",{class:"grow"}, h("b",null,p.titre), h("span",{class:"muted small block"}, p.jours.map(j=>JOURS[j].slice(0,3)).join(", ") + " · " + p.debut + "–" + p.fin)), h("span",{class:"meta"},"Ajouter")))),
-      h("button",{class:"btn",type:"button",onclick:()=>download("cap-ena-rappels.ics", icsText(), "text/calendar")},"Ou télécharger tous les rappels (.ics)")
-    ),
-    card("stack",
-      h("h2",null,"Code d'accès"),
-      h("p",null, rememberOn() ? "Ce téléphone est mémorisé : l'appli s'ouvre sans demander le code." : "Le code d'accès est demandé à chaque ouverture de l'appli."),
-      h("label",{class:"chk"}, h("input",{type:"checkbox",checked:rememberOn()||null,onchange:(ev)=>{ setRemember(ev.target.checked); render(); }}), h("span",null,"Ne plus demander le code sur ce téléphone")),
-      h("button",{class:"btn",type:"button",onclick:lockNow},"Verrouiller maintenant")
-    ),
-    card("stack",
-      h("h2",null,"Tutoriel"),
-      h("p",{class:"muted small"},"Revoir, étape par étape, comment utiliser Cap ENA."),
-      h("button",{class:"btn",type:"button",onclick:()=>openTuto(0)},"Revoir le tutoriel")
-    ),
-    card("stack",
-      h("h2",null,"Sauvegarde de ma progression"),
-      h("p",{class:"muted small"},"La progression est stockée dans le téléphone. Sauvegardez-la de temps en temps, surtout avant de changer de téléphone ou de vider les données du navigateur."),
-      h("button",{class:"btn primary",type:"button",onclick:()=>download("cap-ena-sauvegarde-"+ymd(new Date())+".json", JSON.stringify(state), "application/json")},"Télécharger une sauvegarde"),
-      imp,
-      h("button",{class:"btn",type:"button",onclick:()=>{ try{ const o = JSON.parse(imp.value); if (typeof o!=="object"||o.v==null) throw 0; state = Object.assign(defaults(), o); save(); toast("Progression restaurée"); render(); } catch(e){ toast("Contenu invalide : collez le texte complet du fichier de sauvegarde."); } }},"Restaurer")
-    ),
-    h("p",{class:"muted small"},"Cap ENA · contenus rédigés pour l'entraînement ; sujets officiels relevés sur des sites de préparation ivoiriens. Vérifiez toujours les conditions dans les communiqués officiels (ena.ci).")
-  );
+function remindersCard(){
+  return card("stack",
+    h("h2",null,"Rappels avec sonnerie"),
+    h("p",null,"Les rappels passent par l'agenda du téléphone : il sonne même appli fermée et sans connexion. Touchez chaque créneau pour l'ajouter à Google Agenda (répétition chaque semaine)."),
+    h("ol",{class:"pts small"},
+      h("li",null,"Dans Google Agenda, vérifiez la notification de l'événement (par exemple 10 minutes avant) et modifiez-la si besoin."),
+      h("li",null,"Pour la sonnerie : dans les réglages de notification de l'appli Agenda du téléphone, activez le son des rappels d'événements et choisissez une sonnerie (le chemin exact varie selon la marque du téléphone)."),
+      h("li",null,"Après un changement d'horaires, supprimez les anciens événements « Cap ENA » de l'agenda, puis ajoutez les nouveaux.")),
+    h("div",{class:"list"}, state.planning.slice().sort((a,b)=>((a.jour+6)%7)-((b.jour+6)%7) || toMin(a.debut)-toMin(b.debut)).map(s=>h("a",{class:"item",href:gcalLink(s),target:"_blank",rel:"noopener"}, h("span",{class:"grow"}, h("b",null, slotLabel(s)), h("span",{class:"muted small block"}, JOURS[s.jour] + " · " + s.debut + "–" + s.fin)), h("span",{class:"meta"},"Ajouter")))),
+    h("button",{class:"btn",type:"button",onclick:()=>download("cap-ena-rappels.ics", icsText(), "text/calendar")},"Ou télécharger tous les rappels (.ics)"));
 }
 
-// ---------- Tutoriel ----------
-let tutoI = 0;
-function openTuto(i){ tutoI = i||0; go("tuto"); }
-const demoOpt = (k, t, cls)=>h("div",{class:"opt "+(cls||"")}, h("span",{class:"k"},k), h("span",null,t));
-const TUTO = [
-  { t:"Bienvenue dans Cap ENA", lbl:"1 · Le principe",
-    txt:["Cap ENA vous prépare au concours direct de l'ENA de Côte d'Ivoire : cycle moyen supérieur en priorité, cycle supérieur ensuite.",
-         "- Chaque séance suit le même ordre : d'abord un cours (la technique de l'épreuve, puis le fond), ensuite les exercices.",
-         "- Les séances sont calées sur vos créneaux : midi en semaine, 21 h à 22 h le soir, matinées et fins d'après-midi le week-end.",
-         "- Chaque nuit, de nouveaux contenus vérifiés s'ajoutent : questions, leçon, sujet d'écrit.",
-         "> Ce tutoriel dure 3 minutes. Vous pourrez le revoir à tout moment : Aujourd'hui > Tutoriel."] },
-  { t:"Installer l'appli sur votre téléphone", lbl:"2 · Installation", install:true,
-    txt:["Installée, Cap ENA s'ouvre comme une vraie application, en plein écran, depuis son icône."] },
-  { t:"L'écran « Aujourd'hui »", lbl:"3 · Votre point de départ",
-    txt:["C'est l'écran d'accueil. Il vous dit quoi faire maintenant.",
-         "- Le cadre vert indique la séance en cours ou la prochaine, avec la leçon prévue.",
-         "- Touchez « Commencer la séance » : l'appli ouvre directement la bonne leçon.",
-         "- Les compteurs suivent votre série de jours, vos leçons faites et votre précision.",
-         "- « Accès rapide » : votre semaine, la présélection blanche, la révision de vos erreurs, les rappels, ce tutoriel.",
-         "~ En bas de l'écran, cinq onglets : Aujourd'hui, Cours, QCM, Écrits, Progrès."] },
-  { t:"Une séance en 4 étapes", lbl:"4 · Le déroulé d'une leçon", demo:"steps",
-    txt:["Chaque leçon se parcourt avec les boutons « Suivant » et « Précédent ».",
-         "- Technique : la méthode de l'épreuve (comment lire le sujet, construire, gérer le temps).",
-         "- Cours : les connaissances de fond, avec leurs sources.",
-         "- À retenir : l'essentiel en quelques lignes, à relire avant le concours.",
-         "- Exercice : le questionnaire lié à la leçon, et selon le cas un sujet d'écrit ou une simulation d'oral.",
-         "> Une leçon terminée rapporte 40 XP. L'onglet Cours liste toutes les leçons ; les plus récentes portent l'étiquette « Nouveau »."] },
-  { t:"Les QCM au barème officiel", lbl:"5 · Présélection", demo:"qcm",
-    txt:["Le barème relevé sur les sujets 2023-2024 est appliqué : bonne réponse +1, sans réponse 0, mauvaise réponse −1. En logique : +2 / 0 / −2.",
-         "- Si vous n'êtes pas sûr, touchez « Je ne réponds pas (0 point) » : c'est souvent le bon choix.",
-         "- Après chaque réponse, l'explication s'affiche, avec sa source quand il s'agit d'un fait.",
-         "- Le samedi de 16 h à 17 h 30 : présélection blanche, 45 questions en 45 minutes, avec un tampon ADMIS, ADMISSIBLE ou AJOURNÉ.",
-         "- Le vendredi soir : révision de toutes vos questions ratées.",
-         "~ Onglet QCM : séries de 10 par matière, et « Mes annales » pour ajouter vos propres questions."] },
-  { t:"Les écrits et l'oral", lbl:"6 · Admissibilité et admission",
-    txt:["Onglet Écrits : sujets officiels des sessions passées et sujets d'entraînement, classés par épreuve.",
-         "- Lancez le chrono et rédigez dans la copie : le texte s'enregistre tout seul.",
-         "- Pour le résumé de texte, le compteur de mots vérifie que vous restez dans la fourchette de ± 10 %.",
-         "- « Rendre ma copie » : cochez honnêtement la grille d'auto-évaluation, une note indicative sur 20 en découle.",
-         "- « Voir le plan proposé » : comparez votre plan au plan corrigé.",
-         "- Simulation d'oral : 2 minutes de préparation, 5 minutes de réponse, puis la grille du jury.",
-         "! Rédigez au moins l'introduction et le plan avant d'ouvrir le plan corrigé, sinon l'exercice perd son intérêt."] },
-  { t:"Les nouveautés de chaque nuit", lbl:"7 · Une source qui ne s'épuise pas",
-    txt:["Chaque nuit, de nouvelles questions, une leçon et un sujet d'écrit sont publiés. Ouvrez l'appli avec Internet : ils se chargent seuls.",
-         "- La carte « Nouveautés » de l'accueil propose « Faire les questions du jour ».",
-         "- Chaque fait cite sa source (lien « Source »). Les règles de langue et les calculs sont contrôlés avant publication.",
-         "- Vous voyez une erreur ? Touchez « Signaler une erreur » sous l'explication. Le signalement est vérifié la nuit suivante : la question est corrigée ou retirée.",
-         "> Pour signaler une erreur, connectez-vous une fois à GitHub (compte assoraji-web) dans Chrome sur votre téléphone.",
-         "~ Sans connexion, l'appli fonctionne avec ce qu'elle a déjà téléchargé."] },
-  { t:"Rappels et sauvegarde", lbl:"8 · Ne jamais rater une séance",
-    txt:["Onglet Progrès > « Rappels et sauvegarde ».",
-         "- Touchez chaque créneau pour l'ajouter à Google Agenda : le téléphone vous prévient avant chaque séance, même appli fermée.",
-         "- Vous recevez aussi les rappels de Claude par notification.",
-         "- « Télécharger une sauvegarde » : votre progression est stockée dans le téléphone ; sauvegardez-la de temps en temps.",
-         "- Code d'accès : vous pouvez ne plus le saisir sur ce téléphone, ou verrouiller l'appli à tout moment."] },
-  { t:"Grades, XP et série", lbl:"9 · Prêt à commencer", final:true,
-    txt:["Votre travail fait monter votre grade : Candidat inscrit, Présélectionné, Admissible, Admis, Élève de l'ENA, Major de promotion.",
-         "- Bonne réponse +10 XP, leçon terminée +40, copie rendue +50, oral +30.",
-         "- La série compte vos jours de travail consécutifs : ne la cassez pas.",
-         "- L'onglet Progrès montre votre réussite par matière : travaillez d'abord les barres orange (moins de 50 %).",
-         "> Pour commencer : onglet Cours > Présélection > la première leçon, sur la stratégie et le barème."] }
+
+// ---------- Dossier de candidature ----------
+// Pièces et étapes relevées sur les communiqués de la session 2026 (concours directs d'entrée à l'ENA en 2027).
+// Les dates de la session suivante ne sont pas publiées : elles sont estimées d'après le calendrier 2026 et à vérifier.
+const DSRC = {
+  insc: {t:"Fraternité Matin, 31 mars 2026 : conditions et pièces d'inscription aux concours directs d'entrée à l'ENA en 2027", u:"https://www.fratmat.info/article/2640983/societe/concours-direct-dentree-a-lena-en-2027cycle-superieur-lage-maximum-fixe-a-43-ans"},
+  phys: {t:"Fraternité Matin, juillet 2026 : résultats de la présélection et dossier physique des admissibles", u:"https://www.fratmat.info/article/2643052/societe/concours-directs-dentree-a-lena-en-2027-les-resultats-de-la-phase-de-preselection-disponibles-ce-lundi-6-juillet"},
+  ecrits: {t:"Fraternité Matin, juillet 2026 : convocations et règles de la phase d'admissibilité", u:"https://www.fratmat.info/article/2643263/societe/concours-directs-dentree-a-lena-en-2027-les-convocations-pour-la-phase-dadmissibilite-disponibles-a-partir-de-ce-mercredi-15-juillet"},
+  cms: {t:"Ablanian (site de préparation) : fiche du concours direct du cycle moyen supérieur, session 2026", u:"https://ablanian.ci/concours_admin/view.php?slug=enacmsdirect"}
+};
+const DOSSIER = [
+  {ph:"Dès maintenant (octobre à décembre 2026)", items:[
+    {id:"cni", t:"Carte nationale d'identité en cours de validité (ou passeport)", d:"Exigée à l'inscription et le jour des écrits. Vérifiez qu'elle restera valide jusqu'à la fin des épreuves (été 2027).", s:"insc"},
+    {id:"bac", t:"Copie du baccalauréat (ou du BT reconnu)", d:"Exigée à l'inscription.", s:"insc"},
+    {id:"lic", t:"Copie de la licence (diplôme exigé pour le cycle moyen supérieur)", d:"En 2026, les diplômes étaient authentifiés auprès des ministères concernés ; un diplôme obtenu à l'étranger exigeait une équivalence du ministère de l'Enseignement supérieur.", s:"insc"},
+    {id:"ccc", t:"Copies certifiées conformes du baccalauréat et de la licence", d:"Exigées dans le dossier physique des admissibles. Faites-les certifier à l'avance.", s:"phys"},
+    {id:"cmu", t:"Justificatif d'enrôlement à la CMU", d:"Exigé à l'inscription et dans le dossier physique.", s:"insc"},
+    {id:"nat", t:"Certificat de nationalité de moins de 5 ans", d:"Exigé dans le dossier physique. S'il a plus de 5 ans à l'été 2027, refaites-le.", s:"phys", check:"nat"},
+    {id:"nais", t:"Extrait d'acte de naissance récent (ou jugement supplétif)", d:"Règle 2026 : moins d'un an au 1er janvier de l'année des épreuves. Si elle est reconduite, un extrait délivré après le 1er janvier 2026 conviendra pour 2027.", s:"phys", check:"nais"}
+  ]},
+  {ph:"Janvier à février 2027", items:[
+    {id:"casier", t:"Extrait de casier judiciaire", d:"Règle 2026 : délivré après le 1er janvier de l'année. Ne le demandez donc qu'à partir de janvier 2027.", s:"phys", check:"casier"},
+    {id:"cv", t:"CV selon le modèle de l'ENA, certifié sincère", d:"Le modèle se télécharge sur le site de l'ENA (ena.ci).", s:"phys"},
+    {id:"decl", t:"Déclaration sur l'honneur de non-fonctionnaire", d:"Le candidat déclare ne pas être fonctionnaire ni stagiaire de la fonction publique (organisme d'État, établissement public, collectivité). Un fonctionnaire doit fournir une démission approuvée.", s:"phys"},
+    {id:"dem", t:"Demande manuscrite sur papier libre", d:"En 2026 : adressée au Ministre d'État, Ministre de la Fonction publique et de la Modernisation de l'Administration, avec votre adresse exacte et le cycle demandé. Vérifiez l'intitulé exact dans le communiqué de 2027.", s:"phys"}
+  ]},
+  {ph:"Inscription en ligne (en 2026 : du 16 mars au 30 avril)", items:[
+    {id:"comm", t:"Lire le communiqué officiel d'ouverture des concours", d:"Sur ena.ci et fonctionpublique.gouv.ci. Il fixe les dates, l'âge limite et les pièces de la session : il prime sur cette liste.", s:"insc"},
+    {id:"insc", t:"S'inscrire sur la plateforme unifiée des concours", d:"En 2026 : sur fonctionpublique.gouv.ci ou ena.ci.", s:"insc"},
+    {id:"frais", t:"Payer les frais et garder les reçus", d:"Tarifs 2026 : 27 500 F d'inscription, 10 000 F de cours de préparation, 4 000 F de kit numérique, soit 41 500 F.", s:"insc"},
+    {id:"photo", t:"Prise de vue sur rendez-vous", d:"En 2026 : à l'ENA ou dans une direction régionale de la Fonction publique, dont Abengourou.", s:"insc"},
+    {id:"prepa", t:"Suivre les cours de préparation obligatoires", d:"En 2026, ils devaient être suivis avant la présélection.", s:"insc"}
+  ]},
+  {ph:"Après la présélection (en 2026 : dépôt du cycle moyen supérieur le 8 juillet)", items:[
+    {id:"fiche", t:"Fiche de candidature imprimée depuis l'espace candidat", d:"Pièce du dossier physique.", s:"phys"},
+    {id:"recus", t:"Reçus des frais de concours et des cours de préparation", d:"Pièces du dossier physique.", s:"phys"},
+    {id:"poch", t:"Pochette de 2 000 F à régler à l'agence comptable de l'ENA", d:"Pièce du dossier physique (tarif 2026).", s:"phys"},
+    {id:"depot", t:"Dépôt du dossier complet à l'ENA, le jour fixé pour le cycle", d:"En 2026, le dépôt avait lieu deux jours après les résultats, un seul jour par cycle, de 8 h à 16 h 30 : tout doit être prêt avant.", s:"phys"}
+  ]},
+  {ph:"Écrits d'admissibilité (en 2026 : 23 et 24 juillet pour le cycle moyen supérieur)", items:[
+    {id:"conv", t:"Convocation téléchargée sur ena.ci", d:"À présenter avec la pièce d'identité. Arrivée au plus tard à 7 h le matin.", s:"ecrits"},
+    {id:"kit", t:"Deux stylos à bille bleus et la tenue exigée", d:"Sacs et objets connectés interdits dans le centre d'examen.", s:"ecrits"}
+  ]}
 ];
-function tutoDemo(kind){
-  if (kind==="steps") return h("ol",{class:"steps"}, ["Technique","Cours","À retenir","Exercice"].map((s,i)=>h("li",{class:i===1?"cur":i<1?"done":""},s)));
-  if (kind==="qcm") return h("div",{class:"opts demo"},
-    h("p",{class:"lbl"},"Exemple"),
-    h("p",{class:"question"},"Quel est le pluriel correct de « un chou-fleur » ?"),
-    demoOpt("A","des chou-fleurs",""), demoOpt("B","des choux-fleurs","ok"), demoOpt("C","des choux-fleur","ko"),
-    h("p",{class:"muted small"},"En vert la bonne réponse, en rouge une réponse fausse (−1). Dans un nom composé de deux noms, les deux prennent la marque du pluriel."));
+const DITEMS = DOSSIER.flatMap(p=>p.items.map(it=>Object.assign({ph:p.ph}, it)));
+function dState(id){ return state.dossier[id] || {st:0}; }
+function dWarn(it){
+  const s = dState(it.id); if (!s.date) return null;
+  if (it.check==="casier" && s.date < "2027-01-01") return "Délivré avant le 1er janvier 2027 : si la règle 2026 est reconduite, il faudra le refaire.";
+  if (it.check==="nais" && s.date < "2026-01-01") return "Délivré avant le 1er janvier 2026 : trop ancien si la règle 2026 est reconduite.";
+  if (it.check==="nat" && s.date < "2022-08-01") return "Plus de 5 ans à l'été 2027 : à refaire.";
   return null;
 }
-function vTuto(){
-  const T = TUTO[tutoI], last = tutoI===TUTO.length-1;
-  const done = ()=>{ state.tuto = ymd(new Date()); save(); go("home"); };
-  const move = (d)=>{ tutoI += d; render(); window.scrollTo({top:0}); };
-  return h("div",{class:"stack tuto"},
-    h("div",{class:"row spread"}, h("p",{class:"lbl"},"Tutoriel · " + T.lbl), h("button",{class:"btn ghost small",type:"button",onclick:done}, last ? "Fermer" : "Passer")),
-    h("div",{class:"tdots","aria-label":"Étapes du tutoriel"}, TUTO.map((x,i)=>h("button",{type:"button",class:i===tutoI?"cur":i<tutoI?"done":"","aria-label":"Étape "+(i+1)+" : "+x.t,"aria-current":i===tutoI?"step":null,onclick:()=>{tutoI=i; render();}}))),
-    h("h1",{class:"h-l"}, T.t),
-    card("stack read", blocks(T.txt),
-      T.demo ? tutoDemo(T.demo) : null,
-      T.install ? (isStandalone() ? h("p",{class:"box"},"C'est fait : vous utilisez déjà l'appli installée.")
-        : h("div",{class:"stack"}, installButton(), installSteps(), h("p",{class:"muted small"},"Si le menu ne propose pas l'installation, mettez Chrome à jour depuis le Play Store, puis rouvrez la page."))) : null),
-    h("div",{class:"row spread"},
-      tutoI>0 ? h("button",{class:"btn ghost",type:"button",onclick:()=>move(-1)},"Précédent") : h("span"),
-      last ? h("button",{class:"btn primary",type:"button",onclick:done},"Commencer ma préparation")
-           : h("button",{class:"btn primary",type:"button",onclick:()=>move(1)},"Suivant"))
+function dossierProgress(){
+  const ok = DITEMS.filter(it=>dState(it.id).st===2 && !dWarn(it)).length;
+  const next = DITEMS.find(it=>dState(it.id).st!==2);
+  return {ok, total:DITEMS.length, pct: Math.round(ok/DITEMS.length*100), next};
+}
+const DST = ["À faire","En cours","Prêt"];
+function vCandidature(){
+  const dp = dossierProgress();
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Concours direct · cycle " + (state.cycle==="CS"?"supérieur":"moyen supérieur")), h("h1",null,"Ma candidature")),
+    card("feature stack", h("div",{class:"row spread"}, h("h2",null,"Dossier prêt à " + dp.pct + " %"), h("b",null, dp.ok + "/" + dp.total)), bar(dp.pct, dp.pct<50),
+      h("p",{class:"muted small"},"Se préparer ne sert à rien sans pouvoir s'inscrire : en 2026, les admissibles n'avaient que deux jours pour déposer leur dossier physique. Touchez une pièce pour changer son état et noter sa date de délivrance.")),
+    eligCard(),
+    DOSSIER.map(p=>card("stack",
+      h("h2",null, p.ph),
+      h("div",{class:"list"}, p.items.map(it=>{
+        const s = dState(it.id), w = dWarn(it);
+        const date = h("input",{type:"date",value:s.date||"","aria-label":"Date de délivrance",onchange:(ev)=>{ const x = state.dossier[it.id] || (state.dossier[it.id] = {st:0}); x.date = ev.target.value; save(); render(); }});
+        return h("div",{class:"ditem"},
+          h("button",{class:"dst s"+s.st,type:"button","aria-label":"État : " + DST[s.st],onclick:()=>{ const x = state.dossier[it.id] || (state.dossier[it.id] = {st:0}); x.st = (x.st+1)%3; save(); render(); }}, DST[s.st]),
+          h("div",{class:"grow"}, h("b",null,it.t), h("p",{class:"muted small"}, it.d), w ? h("p",{class:"small bad"}, w) : null,
+            h("div",{class:"row"}, h("span",{class:"muted small"},"Délivré le"), date),
+            h("p",{class:"src"}, "Source : ", h("a",{href:DSRC[it.s].u,target:"_blank",rel:"noopener"}, DSRC[it.s].t))));
+      })))),
+    h("p",{class:"note"},"Liste établie d'après les communiqués de la session 2026. Les dates, montants et pièces de la session suivante seront fixés par le communiqué officiel : vérifiez-le dès sa parution.")
   );
 }
+function ageAt(birth, y, m, d){ if (!birth) return null; const b = parseYmd(birth); let a = y - b.getFullYear(); if (m < b.getMonth()+1 || (m===b.getMonth()+1 && d < b.getDate())) a--; return a; }
+function eligCard(){
+  const p = state.profile;
+  const a = ageAt(p.naissance, 2026, 12, 31);
+  return card("stack",
+    h("h2",null,"Conditions d'accès"),
+    !p.naissance ? h("p",null,"Renseignez votre date de naissance dans votre profil pour vérifier la condition d'âge.", h("button",{class:"link",type:"button",onclick:()=>go("profil")}," Ouvrir le profil")) :
+    h("ul",{class:"pts"},
+      h("li",null,"Nationalité ivoirienne exigée."),
+      h("li",null,"Votre âge au 31 décembre 2026 : ", h("b",null, a + " ans"), "."),
+      h("li",null,"Cycle moyen supérieur : licence, BTS ou DUT, plus le baccalauréat. Limite d'âge de la session 2026 : 40 ans au 31 décembre 2025, selon Ablanian. Je ne peux pas confirmer ça sur un communiqué officiel : seul celui du cycle supérieur a été retrouvé."),
+      h("li",null,"Cycle supérieur : diplôme de fin de second cycle de l'enseignement supérieur (master) ; 43 ans au plus au 31 décembre 2025 pour la session 2026 (communiqué officiel)."),
+      h("li",null,"Les fonctionnaires qui passent un concours direct doivent fournir une démission approuvée.")),
+    h("p",{class:"src"},"Sources : ", h("a",{href:DSRC.cms.u,target:"_blank",rel:"noopener"},"Ablanian"), " · ", h("a",{href:DSRC.insc.u,target:"_blank",rel:"noopener"},"Fraternité Matin"), " · ", h("a",{href:DSRC.phys.u,target:"_blank",rel:"noopener"},"Fraternité Matin (dossier physique)")));
+}
 
-// ---------- Code d'accès ----------
+
+// ---------- Sécurité : code d'accès et empreinte digitale ----------
 // On ne stocke que l'empreinte SHA-256 du code normalisé (majuscules, sans accents, espaces simples).
 const CODE_H = "522838e9be5927e3c59cef95ae651daebaa9f975ecd8b6276a47beee2941e62c";
-const CODE_FB = "bhqwk6"; // empreinte de secours si le navigateur ne fournit pas SHA-256
-const UKEY = "capena.unlock";
+const CODE_FB = "bhqwk6";
+const UKEY = "capena.unlock", CKEY = "capena.cred";
 const normCode = (x)=>x.normalize("NFD").replace(/[̀-ͯ]/g,"").toUpperCase().replace(/[^A-Z0-9]+/g," ").trim();
 async function digest(x){
   try { if (window.crypto && crypto.subtle){ const b = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(x)); return {sha:[...new Uint8Array(b)].map(v=>v.toString(16).padStart(2,"0")).join("")}; } } catch(e){}
@@ -1760,46 +2366,208 @@ async function digest(x){
 }
 function rememberOn(){ try { return localStorage.getItem(UKEY) === CODE_H; } catch(e){ return false; } }
 function setRemember(on){ try { if (on) localStorage.setItem(UKEY, CODE_H); else localStorage.removeItem(UKEY); } catch(e){} }
-function lockNow(){ setRemember(false); showLock(); }
+const b64 = (buf)=>btoa(String.fromCharCode(...new Uint8Array(buf)));
+const unb64 = (s)=>Uint8Array.from(atob(s), c=>c.charCodeAt(0));
+function credId(){ try { return localStorage.getItem(CKEY); } catch(e){ return null; } }
+const bioSupported = ()=> !!(window.PublicKeyCredential && navigator.credentials && window.isSecureContext);
+async function bioAvailable(){ try { return bioSupported() && await PublicKeyCredential.isUserVerifyingPlatformAuthenticatorAvailable(); } catch(e){ return false; } }
+async function bioEnroll(){
+  try {
+    const cred = await navigator.credentials.create({publicKey:{
+      challenge: crypto.getRandomValues(new Uint8Array(32)),
+      rp: {name:"Cap ENA"},
+      user: {id: crypto.getRandomValues(new Uint8Array(16)), name:"cap-ena", displayName: ((state.profile.nom||"") + " " + (state.profile.prenoms||"")).trim() || "Candidat Cap ENA"},
+      pubKeyCredParams: [{type:"public-key", alg:-7}, {type:"public-key", alg:-257}],
+      authenticatorSelection: {authenticatorAttachment:"platform", userVerification:"required", residentKey:"discouraged"},
+      timeout: 60000, attestation: "none"}});
+    if (!cred) throw 0;
+    localStorage.setItem(CKEY, b64(cred.rawId));
+    toast("Empreinte activée : l'appli s'ouvrira avec votre doigt.");
+    return true;
+  } catch(e){ toast("Activation annulée ou impossible sur ce téléphone."); return false; }
+}
+async function bioVerify(){
+  const id = credId(); if (!id) return false;
+  try {
+    const a = await navigator.credentials.get({publicKey:{challenge: crypto.getRandomValues(new Uint8Array(32)), allowCredentials:[{type:"public-key", id: unb64(id)}], userVerification:"required", timeout:60000}});
+    return !!a;
+  } catch(e){ return false; }
+}
+function securityCard(){
+  const has = !!credId();
+  const c = card("stack",
+    h("h2",null,"Sécurité"),
+    h("p",{class:"muted small"}, "Code d'accès : " + (rememberOn() ? "non demandé sur ce téléphone." : "demandé à chaque ouverture.")),
+    h("label",{class:"chk"}, h("input",{type:"checkbox",checked:rememberOn()||null,onchange:(ev)=>{ setRemember(ev.target.checked); render(); }}), h("span",null,"Ne plus demander de déverrouillage sur ce téléphone")),
+    h("div",{class:"row"},
+      has ? h("button",{class:"btn",type:"button",onclick:()=>{ try{ localStorage.removeItem(CKEY); }catch(e){} toast("Empreinte désactivée."); render(); }},"Désactiver l'empreinte")
+          : h("button",{class:"btn primary",type:"button",id:"bioBtn",onclick:async()=>{ if (await bioEnroll()) render(); }},"Activer l'empreinte digitale"),
+      h("button",{class:"btn",type:"button",onclick:()=>{ setRemember(false); showLock(); }},"Verrouiller maintenant")),
+    h("p",{class:"muted small"}, "L'empreinte utilise le capteur et le verrouillage d'écran du téléphone (Android peut proposer votre code PIN si le doigt n'est pas reconnu). Le code TANO AHMED reste toujours valable."));
+  bioAvailable().then(ok=>{ if (!ok && !has){ const b = c.querySelector("#bioBtn"); if (b){ b.disabled = true; b.textContent = "Empreinte indisponible ici"; } } });
+  return c;
+}
 function showLock(){
   clearTimers(); document.body.classList.add("locked");
   const inp = h("input",{type:"password",id:"code",autocomplete:"off",autocapitalize:"characters",spellcheck:"false","aria-describedby":"codeMsg",placeholder:"Votre code"});
   const rem = h("input",{type:"checkbox",id:"rem"});
-  const msg = h("p",{id:"codeMsg",class:"small muted","aria-live":"polite"},"Saisissez votre code d'accès pour ouvrir l'appli.");
+  const msg = h("p",{id:"codeMsg",class:"small muted","aria-live":"polite"}, credId() ? "Touchez « Empreinte digitale » ou saisissez votre code." : "Saisissez votre code d'accès pour ouvrir l'appli.");
   const show = h("button",{class:"btn ghost small",type:"button",onclick:()=>{ inp.type = inp.type==="password" ? "text" : "password"; show.textContent = inp.type==="password" ? "Afficher" : "Masquer"; inp.focus(); }},"Afficher");
   let form;
+  const unlock = ()=>{ if (rem.checked) setRemember(true); document.body.classList.remove("locked"); startApp(); };
   const submit = async(ev)=>{
     ev.preventDefault();
     const d = await digest(normCode(inp.value));
     const ok = d.sha ? d.sha===CODE_H : d.fb===CODE_FB;
-    if (!ok){
-      msg.textContent = "Code incorrect. Vérifiez l'orthographe, puis réessayez."; msg.className = "small err";
-      inp.value = ""; inp.focus(); form.classList.remove("shake"); void form.offsetWidth; form.classList.add("shake"); return;
-    }
-    setRemember(rem.checked);
-    document.body.classList.remove("locked");
-    startApp();
+    if (!ok){ msg.textContent = "Code incorrect. Vérifiez l'orthographe, puis réessayez."; msg.className = "small err"; inp.value = ""; inp.focus(); form.classList.remove("shake"); void form.offsetWidth; form.classList.add("shake"); return; }
+    unlock();
   };
+  const bio = credId() ? h("button",{class:"btn primary big",type:"button",onclick:async()=>{ if (await bioVerify()) unlock(); else { msg.textContent = "Empreinte non reconnue : réessayez ou saisissez votre code."; msg.className = "small err"; } }}, "Empreinte digitale") : null;
   form = h("form",{class:"card stack lockcard",onsubmit:submit},
-    h("label",{class:"lbl",for:"code"},"Code d'accès"),
+    bio,
+    h("label",{class:"lbl",for:"code"}, bio ? "Ou code d'accès" : "Code d'accès"),
     h("div",{class:"codebox"}, inp, show),
     msg,
-    h("label",{class:"chk"}, rem, h("span",null,"Ne plus demander le code sur ce téléphone")),
-    h("button",{class:"btn primary",type:"submit"},"Ouvrir Cap ENA"));
+    h("label",{class:"chk"}, rem, h("span",null,"Ne plus demander de déverrouillage sur ce téléphone")),
+    h("button",{class: bio ? "btn" : "btn primary",type:"submit"},"Ouvrir Cap ENA"));
   $("#view").replaceChildren(h("div",{class:"lock"},
     h("div",{class:"lockmark","aria-hidden":"true"},"ENA"),
     h("div",{class:"center"}, h("p",{class:"lbl"},"Accès réservé"), h("h1",null,"Cap ENA 2027"), h("p",{class:"muted"},"Préparation aux concours directs de l'ENA de Côte d'Ivoire")),
+    state.pendingSanction ? h("p",{class:"box warn"},"Vous avez quitté l'appli pendant une épreuve : déverrouillez pour voir la sanction.") : null,
     form));
   window.scrollTo({top:0});
-  setTimeout(()=>inp.focus(), 50);
-}
-let started = false;
-function startApp(){
-  if (!state.tuto){ view = "tuto"; tutoI = 0; } else if (view==="tuto") view = "home";
-  render();
-  if (!started){ started = true; loadContent(); }
+  if (!bio) setTimeout(()=>inp.focus(), 50);
 }
 
+// ---------- Installation ----------
+let deferredPrompt = null;
+window.addEventListener("beforeinstallprompt", (e)=>{ e.preventDefault(); deferredPrompt = e; if (view==="home" && !state.exam) render(); });
+const isStandalone = ()=> (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || window.navigator.standalone === true;
+function installSteps(){
+  return h("ol",{class:"pts"},
+    h("li",null,"Ouvrez cette page dans ", h("b",null,"Chrome"), " sur votre téléphone Android."),
+    h("li",null,"Touchez le menu ", h("b",null,"⋮"), " en haut à droite."),
+    h("li",null,"Choisissez ", h("b",null,"« Installer l'application »"), " (ou « Ajouter à l'écran d'accueil »), puis confirmez."),
+    h("li",null,"Ouvrez ensuite toujours Cap ENA depuis son icône."));
+}
+function installButton(){
+  return deferredPrompt ? h("button",{class:"btn primary",type:"button",onclick:async()=>{ deferredPrompt.prompt(); const c = await deferredPrompt.userChoice; deferredPrompt=null; if (c && c.outcome==="accepted") toast("Installation lancée."); render(); }},"Installer Cap ENA sur ce téléphone") : null;
+}
+function installCard(){
+  if (isStandalone()) return null;
+  return card("stack soft", h("h2",null,"Installer l'appli sur le téléphone"), installButton(), installSteps());
+}
+window.addEventListener("appinstalled", ()=>{ deferredPrompt=null; toast("Cap ENA est installée sur ce téléphone."); });
+
+
+// ---------- Tutoriel ----------
+let tutoI = 0;
+function openTuto(i){ tutoI = i||0; go("tuto"); }
+const TUTO = [
+  { t:"Bienvenue dans Cap ENA", lbl:"Le principe",
+    txt:["Cap ENA vous prépare au concours direct de l'ENA de Côte d'Ivoire comme un jeu à niveaux, avec les exigences du concours.",
+         "- Un emploi du temps fixe vos séances ; chaque matière avance niveau par niveau.",
+         "- Un niveau ne s'ouvre que si le précédent est réussi : pas de raccourci.",
+         "- Les évaluations se passent en conditions d'examen. Quitter l'appli pendant une épreuve est sanctionné.",
+         "- Une séance manquée coûte des points ; un rattrapage les rend.",
+         "- En parallèle, l'appli suit la préparation de votre dossier de candidature.",
+         "> Comptez 4 minutes pour ce tutoriel. Il reste accessible dans Profil > Tutoriel."] },
+  { t:"Installer l'appli sur votre téléphone", lbl:"Installation", install:true,
+    txt:["Installée, Cap ENA s'ouvre en plein écran depuis son icône et fonctionne hors connexion avec les contenus déjà téléchargés."] },
+  { t:"Votre profil et l'empreinte digitale", lbl:"Profil et sécurité",
+    txt:["Onglet Profil : renseignez votre identité, votre date de naissance et le cycle visé. Ces informations restent dans le téléphone.",
+         "- « Activer l'empreinte digitale » : l'appli s'ouvrira ensuite avec votre doigt.",
+         "- Le code TANO AHMED reste toujours valable si le capteur ne répond pas.",
+         "- L'empreinte n'est disponible que dans l'appli installée sur un téléphone équipé d'un verrouillage d'écran."] },
+  { t:"L'écran « Aujourd'hui »", lbl:"L'emploi du temps du jour",
+    txt:["Il affiche les séances du jour, dans l'ordre de l'emploi du temps, avec leur état : à venir, en cours, à faire avant minuit, fait.",
+         "- Touchez « Commencer » : l'appli ouvre le bon niveau de la bonne matière.",
+         "- Une séance est validée quand l'évaluation (ou la copie) de sa matière est terminée le jour même, même à une autre heure.",
+         "- En haut : l'indice de préparation sur 100 (programme, maîtrise, assiduité, dossier) et votre grade.",
+         "~ « Ma semaine » montre toute la semaine : séances faites, manquées, rattrapées."] },
+  { t:"Le parcours à niveaux", lbl:"Progression", demo:"steps",
+    txt:["Onglet Parcours : les matières dans l'ordre de l'emploi du temps. Chaque niveau se déroule en quatre étapes.",
+         "- Technique, puis Cours, puis À retenir : un temps de lecture minimum est imposé avant de passer à l'étape suivante.",
+         "- Évaluation : il faut 14/20 au QCM pour valider le niveau.",
+         "- Dans les matières d'écrit (SOG, PES, résumé, droit), il faut aussi une copie notée au moins 10/20 avec la grille du jury.",
+         "- En cas d'échec, relisez « À retenir » puis repassez : les questions changent.",
+         "~ Symboles : ✓ validé, ▶ en cours, 🔒 verrouillé, … leçon en préparation (publiée par la production de nuit)."] },
+  { t:"Les conditions d'examen", lbl:"Pas de passe-droit", demo:"qcm",
+    txt:["Avant chaque évaluation, vous vous engagez à composer seul. Ensuite :",
+         "- Le chrono tourne sans pause ; à la fin, la copie est ramassée.",
+         "- Aucune correction pendant l'épreuve : elle s'affiche à la remise de la copie.",
+         "- Barème officiel : +1 / 0 / −1, et +2 / 0 / −2 en logique. « Je ne réponds pas » vaut 0.",
+         "! Quitter l'appli pendant une épreuve (autre appli, écran d'accueil, bouton marche, appel, rechargement) annule l'épreuve, reverrouille vos deux derniers niveaux validés, retire 150 XP et bloque l'appli 3 minutes.",
+         "> Avant chaque épreuve : mode « Ne pas déranger », batterie chargée, appels coupés. L'écran reste allumé pendant l'épreuve."] },
+  { t:"Séances manquées et rattrapages", lbl:"Assiduité",
+    txt:["À minuit, chaque séance non faite retire 2 XP par minute prévue : 60 XP pour un créneau de 30 minutes, 240 XP pour 2 heures.",
+         "- Votre assiduité baisse, votre indice aussi, et votre grade peut redescendre.",
+         "- Chaque séance manquée se rattrape dans les 14 jours : une épreuve en conditions dans la même matière.",
+         "- Réussie (12/20 au QCM, 10/20 à l'écrit ou à l'oral), elle rend les points perdus.",
+         "~ Le vendredi soir est réservé aux rattrapages et à la révision des erreurs."] },
+  { t:"Votre dossier de candidature", lbl:"Candidature",
+    txt:["Onglet Candidature : toutes les pièces et étapes relevées sur les communiqués de la session 2026, dans l'ordre où les préparer.",
+         "- Touchez l'état d'une pièce pour la passer de « À faire » à « En cours » puis « Prêt ».",
+         "- Notez la date de délivrance : l'appli signale une pièce trop ancienne (casier, extrait de naissance, certificat de nationalité).",
+         "- Les conditions d'accès sont calculées à partir de votre date de naissance.",
+         "! Le communiqué officiel de la session suivante prime sur cette liste : vérifiez-le dès sa parution."] },
+  { t:"L'entraînement", lbl:"En plus du parcours",
+    txt:["Onglet Entraînement :",
+         "- Présélection blanche : 45 questions en 45 minutes, en conditions (le samedi après-midi dans l'emploi du temps).",
+         "- Révision des erreurs : vos questions ratées, en conditions.",
+         "- Séries libres : correction immédiate, seulement sur les niveaux validés, sans enjeu.",
+         "- Écrits en conditions et simulation d'oral, qui s'ouvrent avec les niveaux de méthode.",
+         "- Mes annales : ajoutez les questions des cours préparatoires officiels."] },
+  { t:"Rappels et horaires", lbl:"Ne rien rater",
+    txt:["Profil > « Modifier mes horaires » : changez jours, heures et matières quand vos horaires de travail évoluent.",
+         "- Les rappels passent par l'agenda du téléphone, avec sonnerie, même appli fermée.",
+         "- Touchez chaque créneau pour l'ajouter à Google Agenda, puis réglez le son des notifications de l'agenda.",
+         "- Après un changement d'horaires, supprimez les anciens événements et ajoutez les nouveaux."] },
+  { t:"Les contenus de chaque nuit", lbl:"Prêt à commencer", final:true,
+    txt:["Chaque nuit, la production de contenus publie de nouvelles leçons et questions qui remplissent les niveaux du parcours, dans l'ordre du programme.",
+         "- Chaque fait cite sa source ; les règles de langue et les calculs sont contrôlés avant publication.",
+         "- Une erreur ? « Signaler une erreur » dans la correction : elle est vérifiée la nuit suivante.",
+         "> Pour commencer : Aujourd'hui > la première séance du jour, ou Parcours > Français > niveau 1."] }
+];
+function tutoDemo(kind){
+  if (kind==="steps") return h("ol",{class:"steps"}, ["Technique","Cours","À retenir","Évaluation"].map((s,i)=>h("li",{class:i===1?"cur":i<1?"done":""},s)));
+  if (kind==="qcm") return h("div",{class:"opts demo"}, h("p",{class:"lbl"},"Exemple pendant l'épreuve : la réponse choisie est surlignée, sans correction"),
+    h("div",{class:"opt"}, h("span",{class:"k"},"a)"), h("span",null,"des chou-fleurs")), h("div",{class:"opt sel"}, h("span",{class:"k"},"b)"), h("span",null,"des choux-fleurs")), h("div",{class:"opt"}, h("span",{class:"k"},"c)"), h("span",null,"des choux-fleur")));
+  return null;
+}
+function vTuto(){
+  const T = TUTO[tutoI], last = tutoI===TUTO.length-1;
+  const done = ()=>{ state.tuto3 = today(); save(); go("home"); };
+  const move = (d)=>{ tutoI += d; render(); window.scrollTo({top:0}); };
+  return h("div",{class:"stack tuto"},
+    h("div",{class:"row spread"}, h("p",{class:"lbl"},"Tutoriel " + (tutoI+1) + "/" + TUTO.length + " · " + T.lbl), h("button",{class:"btn ghost small",type:"button",onclick:done}, last ? "Fermer" : "Passer")),
+    h("div",{class:"tdots","aria-label":"Étapes du tutoriel"}, TUTO.map((x,i)=>h("button",{type:"button",class:i===tutoI?"cur":i<tutoI?"done":"","aria-label":"Étape "+(i+1)+" : "+x.t,onclick:()=>{tutoI=i; render();}}))),
+    h("h1",{class:"h-l"}, T.t),
+    card("stack read", blocks(T.txt), T.demo ? tutoDemo(T.demo) : null,
+      T.install ? (isStandalone() ? h("p",{class:"box"},"C'est fait : vous utilisez l'appli installée.") : h("div",{class:"stack"}, installButton(), installSteps())) : null),
+    h("div",{class:"row spread"},
+      tutoI>0 ? h("button",{class:"btn ghost",type:"button",onclick:()=>move(-1)},"Précédent") : h("span"),
+      last ? h("button",{class:"btn primary",type:"button",onclick:done},"Commencer ma préparation") : h("button",{class:"btn primary",type:"button",onclick:()=>move(1)},"Suivant")));
+}
+
+// ---------- Démarrage ----------
+let started = false;
+function startApp(){
+  const r = processMissed();
+  if (state.pendingSanction || state.blockUntil > Date.now()) view = "sanction";
+  else if (!state.tuto3) { view = "tuto"; tutoI = 0; }
+  else if (view === "tuto") view = "home";
+  render();
+  if (r.n && view !== "sanction") toast(r.n + " séance(s) manquée(s) : −" + r.lost + " XP. Rattrapez-les dans les 14 jours.");
+  if (!started){
+    started = true; loadContent();
+    // à minuit, l'appli ouverte compte aussi les séances manquées
+    setInterval(()=>{ if (!state.exam && state.lastProc !== addDays(today(), -1)){ const x = processMissed(); if (x.n) { toast(x.n + " séance(s) manquée(s) : −" + x.lost + " XP."); if (!inExamView()) render(); } } }, 60000);
+  }
+}
+indexLevels();
+// une épreuve restée ouverte (appli fermée de force, page rechargée) est une sortie pendant l'épreuve
+if (state.exam) sanction("Épreuve interrompue (appli fermée ou rechargée)");
 if ("serviceWorker" in navigator) window.addEventListener("load", ()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
-if (rememberOn()) startApp(); else showLock();
+if (rememberOn() && !state.pendingSanction) startApp(); else showLock();
 })();

@@ -6,7 +6,7 @@ import json, re, sys, unicodedata, pathlib, hashlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 C = ROOT / "content"
-MATIERES = {"cg","ang","log","pes","dc","da","fp","sog","ct","ns","oral"}
+MATIERES = {"fr","cg","ang","log","pes","dc","da","fp","sog","ct","ns","oral"}
 EPREUVES = {"sog","pes","ct","dc","ns","da"}
 # Catégories où une source web n'est pas exigée, mais une vérification explicite l'est.
 SANS_URL = {"regle", "calcul", "methode"}
@@ -24,6 +24,9 @@ seen_q = {norm(t) for t in base.get("questions", [])}
 seen_l = set(base.get("lessons", []))
 seen_s = {norm(t) for t in base.get("sujets", [])}
 ids = set()
+prog = json.loads((C / "programme.json").read_text(encoding="utf-8"))
+NIVS = {lv["id"]: lv for t in prog for lv in t["levels"]}
+niv_used = {lv["id"] for lv in NIVS.values() if lv.get("lecon_integree")}
 
 index = json.loads((C / "index.json").read_text(encoding="utf-8"))
 for pk in index.get("packs", []):
@@ -74,8 +77,16 @@ for pk in index.get("packs", []):
             if l.get("id") in seen_l or l.get("id") in ids: err(w, "identifiant de leçon en double")
             seen_l.add(l.get("id")); ids.add(l.get("id"))
             if l.get("m") not in MATIERES: err(w, "matière inconnue")
-            if not l.get("sources") and l.get("verif") != "methode":
-                err(w, "leçon de fond sans sources (sources [{t,u}] obligatoires)")
+            if not l.get("sources") and l.get("verif") not in SANS_URL:
+                err(w, "leçon de fond sans sources (sources [{t,u}] obligatoires, ou verif = regle / calcul / methode)")
+            nv = l.get("niv")
+            if nv is not None:
+                if nv not in NIVS: err(w, f"niveau inconnu {nv} (voir content/programme.json)")
+                elif nv in niv_used: err(w, f"le niveau {nv} a déjà sa leçon")
+                niv_used.add(nv)
+                tg = (l.get("exo") or {}).get("tag")
+                nq = sum(1 for dd in data.get("days", []) for qq in dd.get("questions", []) if qq.get("tag") == tg)
+                if nq < 6: err(w, f"niveau {nv} : il faut au moins 6 questions avec le tag {tg} (trouvées : {nq})")
             for s in l.get("sources", []):
                 if not str(s.get("u","")).startswith("https://"): err(w, "source sans URL https")
             tag = (l.get("exo") or {}).get("tag")

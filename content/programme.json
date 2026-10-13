@@ -1,0 +1,1297 @@
+[
+ {
+  "k": "fr",
+  "label": "Français : orthographe, grammaire, conjugaison, vocabulaire",
+  "ecrit": null,
+  "levels": [
+   {
+    "id": "fr01",
+    "titre": "Stratégie de la présélection : le barème qui pénalise",
+    "objectifs": "Barème +1/0/-1 et +2/0/-2, gestion du temps, quand s'abstenir",
+    "lecon_integree": "p0",
+    "tag_integre": "strat"
+   },
+   {
+    "id": "fr02",
+    "titre": "Synonymes, antonymes, paronymes, intrus",
+    "objectifs": "Les quatre familles d'exercices d'aptitude verbale de l'ENA",
+    "lecon_integree": "p1",
+    "tag_integre": "voc"
+   },
+   {
+    "id": "fr03",
+    "titre": "Accords, pluriels et conjugaison : le panorama",
+    "objectifs": "Vue d'ensemble des pièges grammaticaux des QCM",
+    "lecon_integree": "p2",
+    "tag_integre": "gram"
+   },
+   {
+    "id": "fr04",
+    "titre": "Nature et fonction des mots",
+    "objectifs": "Classes grammaticales, fonctions sujet, COD, COI, attribut, complément circonstanciel",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr05",
+    "titre": "L'accord du verbe avec son sujet",
+    "objectifs": "Sujets inversés, collectifs, « l'un et l'autre », « ni... ni », « c'est / ce sont », pourcentages",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr06",
+    "titre": "L'accord de l'adjectif ; les adjectifs de couleur",
+    "objectifs": "Accord en genre et nombre, adjectifs composés, couleurs simples et composées, « demi », « nu », « feu »",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr07",
+    "titre": "Le participe passé avec être et avec avoir",
+    "objectifs": "Règle du COD placé avant, « en », participe suivi d'un infinitif, « fait » + infinitif",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr08",
+    "titre": "Le participe passé des verbes pronominaux",
+    "objectifs": "Essentiellement pronominaux, réfléchis et réciproques, « se sont succédé », « se sont plu »",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr09",
+    "titre": "Le pluriel des noms simples et composés",
+    "objectifs": "-al, -ail, -ou, -eu, noms étrangers, noms composés (nom+nom, verbe+nom, mot invariable)",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr10",
+    "titre": "Numéraux, tout, même, quelque, demi",
+    "objectifs": "Vingt et cent, mille, « tout » adverbe, « quelque » et « quel que », « même »",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr11",
+    "titre": "Les homophones grammaticaux",
+    "objectifs": "a/à, ou/où, ces/ses/c'est/s'est, quand/quant/qu'en, leur/leurs, sans/s'en, quelquefois/quelques fois",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr12",
+    "titre": "Conjugaison 1 : présent et passé simple des verbes difficiles",
+    "objectifs": "Verbes en -indre, -soudre, -cevoir, acquérir, mouvoir ; passé simple des verbes du 3e groupe",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr13",
+    "titre": "Conjugaison 2 : futur, conditionnel, concordance des temps",
+    "objectifs": "Futur et conditionnel (courir, mourir, envoyer), « si » + imparfait, concordance au passé",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr14",
+    "titre": "Conjugaison 3 : le subjonctif",
+    "objectifs": "Formes du subjonctif présent et imparfait, après « bien que », « avant que » ; indicatif après « après que »",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr15",
+    "titre": "Orthographe d'usage : les mots pièges",
+    "objectifs": "Doubles consonnes, accents, mots fréquemment mal orthographiés, mots en -tion/-ssion",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr16",
+    "titre": "Vocabulaire administratif et juridique",
+    "objectifs": "Termes de l'administration, des actes, des finances publiques, du droit",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr17",
+    "titre": "Paronymes et impropriétés",
+    "objectifs": "Conjecture/conjoncture, éminent/imminent, prolongation/prolongement, etc.",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr18",
+    "titre": "Expressions, locutions et proverbes",
+    "objectifs": "Sens et emploi des locutions courantes et des proverbes",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr19",
+    "titre": "Analogies et séries de mots",
+    "objectifs": "Raisonnement par analogie verbale, intrus, séries sémantiques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr20",
+    "titre": "Ponctuation, majuscules et abréviations",
+    "objectifs": "Virgule, majuscules des institutions, abréviations officielles",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr21",
+    "titre": "Syntaxe : la phrase complexe et le discours rapporté",
+    "objectifs": "Propositions subordonnées, discours direct et indirect, transformations",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr22",
+    "titre": "Figures de style et registres de langue",
+    "objectifs": "Métaphore, litote, euphémisme, hyperbole, antithèse ; registres soutenu, courant, familier",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr23",
+    "titre": "Pléonasmes, barbarismes, anglicismes",
+    "objectifs": "Fautes de langue courantes et leurs corrections",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "fr24",
+    "titre": "Révision générale de français",
+    "objectifs": "Test de niveau sur tout le programme",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "ang",
+  "label": "Anglais",
+  "ecrit": null,
+  "levels": [
+   {
+    "id": "an01",
+    "titre": "Les temps et les structures piégées",
+    "objectifs": "Temps de base et structures fréquentes des QCM",
+    "lecon_integree": "p5",
+    "tag_integre": "ang1"
+   },
+   {
+    "id": "an02",
+    "titre": "Vocabulaire administratif et faux amis",
+    "objectifs": "Vocabulaire de l'administration et faux amis",
+    "lecon_integree": "p6",
+    "tag_integre": "ang2"
+   },
+   {
+    "id": "an03",
+    "titre": "Present simple et present continuous",
+    "objectifs": "Emplois, verbes d'état, marqueurs de temps",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an04",
+    "titre": "Past simple, present perfect, for et since",
+    "objectifs": "Emplois comparés, ago, already, yet, just",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an05",
+    "titre": "Past perfect et expression du futur",
+    "objectifs": "Past perfect, will, going to, present continuous à valeur de futur",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an06",
+    "titre": "Les modaux",
+    "objectifs": "Must, have to, should, may, might, can, could, needn't",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an07",
+    "titre": "Les conditionnelles et wish",
+    "objectifs": "Conditionnels 0, 1, 2, 3 ; I wish, if only",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an08",
+    "titre": "La voix passive",
+    "objectifs": "Formation à tous les temps, by, passif des verbes à deux compléments",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an09",
+    "titre": "Le discours rapporté",
+    "objectifs": "Say/tell, concordance des temps, questions rapportées",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an10",
+    "titre": "Articles, dénombrables et indénombrables",
+    "objectifs": "A/an/the/zéro, much/many, few/little, some/any",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an11",
+    "titre": "Comparatifs, superlatifs, so/such, too/enough",
+    "objectifs": "Formation et pièges",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an12",
+    "titre": "Pluriels et féminins irréguliers, nationalités",
+    "objectifs": "Pluriels irréguliers, noms de nationalité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an13",
+    "titre": "Pronoms et propositions relatives",
+    "objectifs": "Who, whom, whose, which, that ; pronoms réfléchis",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an14",
+    "titre": "Prépositions et verbes à particule essentiels",
+    "objectifs": "In/on/at, prépositions de lieu et de temps, phrasal verbs courants",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an15",
+    "titre": "Gérondif ou infinitif",
+    "objectifs": "Verbes suivis de -ing, de to, ou des deux avec changement de sens",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an16",
+    "titre": "Question tags, ordre des mots, inversion",
+    "objectifs": "Tags, place des adverbes, inversion après never/rarely",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an17",
+    "titre": "Les verbes irréguliers",
+    "objectifs": "Base verbale, prétérit, participe passé des verbes irréguliers courants",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an18",
+    "titre": "Formation des mots",
+    "objectifs": "Préfixes, suffixes, noms, adjectifs et adverbes dérivés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an19",
+    "titre": "Vocabulaire : gouvernement, économie, organisations internationales",
+    "objectifs": "Lexique institutionnel et économique",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an20",
+    "titre": "Compréhension écrite",
+    "objectifs": "Stratégies de lecture et questions de compréhension",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "an21",
+    "titre": "Révision générale d'anglais",
+    "objectifs": "Test de niveau sur tout le programme",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "cg",
+  "label": "Culture générale : Côte d'Ivoire, Afrique, Europe, Amériques, Asie, monde",
+  "ecrit": null,
+  "levels": [
+   {
+    "id": "cg01",
+    "titre": "La Côte d'Ivoire : repères essentiels",
+    "objectifs": "Repères institutionnels, géographiques et historiques",
+    "lecon_integree": "p3",
+    "tag_integre": "ci"
+   },
+   {
+    "id": "cg02",
+    "titre": "Le monde et les organisations internationales",
+    "objectifs": "Grandes organisations et repères mondiaux",
+    "lecon_integree": "p4",
+    "tag_integre": "monde"
+   },
+   {
+    "id": "cg03",
+    "titre": "Côte d'Ivoire : histoire précoloniale et coloniale",
+    "objectifs": "Royaumes, peuplement, colonisation, figures historiques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg04",
+    "titre": "Côte d'Ivoire : de l'indépendance à nos jours",
+    "objectifs": "Présidents, constitutions, grandes étapes politiques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg05",
+    "titre": "Côte d'Ivoire : géographie et organisation du territoire",
+    "objectifs": "Relief, fleuves, climat, districts, régions",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg06",
+    "titre": "Côte d'Ivoire : économie",
+    "objectifs": "Cacao, café, anacarde, pétrole, ports, PND 2026-2030",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg07",
+    "titre": "Côte d'Ivoire : culture, arts et personnalités",
+    "objectifs": "Littérature, musique, sport, patrimoine UNESCO",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg08",
+    "titre": "Afrique de l'Ouest : CEDEAO, UEMOA, AES",
+    "objectifs": "Pays membres, sièges, dates, institutions",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg09",
+    "titre": "Afrique : indépendances, panafricanisme, Union africaine",
+    "objectifs": "Pères des indépendances, OUA, UA, Agenda 2063",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg10",
+    "titre": "Afrique : pays, capitales et grands dirigeants",
+    "objectifs": "Afrique du Nord, centrale, de l'Est, australe",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg11",
+    "titre": "Afrique : géographie physique",
+    "objectifs": "Fleuves, lacs, montagnes, déserts, records",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg12",
+    "titre": "Europe : Union européenne et institutions",
+    "objectifs": "Traités, institutions, élargissements, euro",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg13",
+    "titre": "Europe : pays, capitales et histoire",
+    "objectifs": "Géographie, monarchies et républiques, grandes dates",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg14",
+    "titre": "Amérique du Nord : États-Unis et Canada",
+    "objectifs": "Institutions américaines, grandes dates, géographie",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg15",
+    "titre": "Amérique latine et Caraïbes",
+    "objectifs": "Pays, capitales, indépendances, organisations régionales",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg16",
+    "titre": "Asie et Moyen-Orient",
+    "objectifs": "Chine, Inde, Japon, Asie du Sud-Est, Moyen-Orient",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg17",
+    "titre": "Océanie, pôles et océans",
+    "objectifs": "Pays, géographie, traités sur l'Antarctique",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg18",
+    "titre": "L'ONU et le système des Nations unies",
+    "objectifs": "Organes, agences, sièges, secrétaires généraux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg19",
+    "titre": "Institutions financières et économiques",
+    "objectifs": "FMI, Banque mondiale, BAD, BCEAO, BOAD, OMC",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg20",
+    "titre": "Histoire contemporaine : 1914-1945",
+    "objectifs": "Guerres mondiales, entre-deux-guerres, traités",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg21",
+    "titre": "Guerre froide, décolonisation, mondialisation",
+    "objectifs": "Blocs, décolonisation, fin de l'URSS",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg22",
+    "titre": "Climat, environnement et développement durable",
+    "objectifs": "COP, accords, ODD, biodiversité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg23",
+    "titre": "Sciences, techniques et grandes découvertes",
+    "objectifs": "Inventeurs, découvertes, espace, santé",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg24",
+    "titre": "Littérature africaine et mondiale",
+    "objectifs": "Auteurs, œuvres, prix littéraires",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg25",
+    "titre": "Arts, musique et cinéma",
+    "objectifs": "Mouvements artistiques, FESPACO, grandes œuvres",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg26",
+    "titre": "Sport",
+    "objectifs": "CAN, Coupe du monde, Jeux olympiques, grandes figures",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg27",
+    "titre": "Prix et distinctions",
+    "objectifs": "Prix Nobel, prix africains",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg28",
+    "titre": "Sigles et acronymes",
+    "objectifs": "Sigles nationaux et internationaux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg29",
+    "titre": "Actualité nationale et internationale",
+    "objectifs": "Faits vérifiés des derniers mois",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cg30",
+    "titre": "Révision générale de culture générale",
+    "objectifs": "Test de niveau sur tout le programme",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "log",
+  "label": "Logique et aptitude numérique",
+  "ecrit": null,
+  "levels": [
+   {
+    "id": "lo01",
+    "titre": "Suites, proportions et pourcentages",
+    "objectifs": "Bases du calcul de présélection",
+    "lecon_integree": "p7",
+    "tag_integre": "calc"
+   },
+   {
+    "id": "lo02",
+    "titre": "Le test d'organisation",
+    "objectifs": "Problèmes à contraintes",
+    "lecon_integree": "p8",
+    "tag_integre": "orga"
+   },
+   {
+    "id": "lo03",
+    "titre": "Fractions et calcul mental",
+    "objectifs": "Opérations sur fractions, priorités, astuces de calcul mental",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo04",
+    "titre": "Pourcentages avancés",
+    "objectifs": "Hausses et baisses successives, taux réciproque, TVA, remises",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo05",
+    "titre": "Proportionnalité, règle de trois, échelles",
+    "objectifs": "Grandeurs proportionnelles et inversement proportionnelles",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo06",
+    "titre": "Vitesse, distance, temps et débits",
+    "objectifs": "Mouvements, croisements, robinets",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo07",
+    "titre": "Intérêts simples et composés",
+    "objectifs": "Calculs financiers de base",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo08",
+    "titre": "Moyennes et statistiques simples",
+    "objectifs": "Moyenne pondérée, médiane, étendue",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo09",
+    "titre": "Âges, partages et mélanges",
+    "objectifs": "Problèmes classiques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo10",
+    "titre": "Suites numériques avancées",
+    "objectifs": "Suites croisées, carrés, différences de second ordre",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo11",
+    "titre": "Suites de lettres et alphanumériques",
+    "objectifs": "Rangs alphabétiques, décalages",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo12",
+    "titre": "Logique propositionnelle et syllogismes",
+    "objectifs": "Implication, négation, syllogismes",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo13",
+    "titre": "Dénombrement et probabilités simples",
+    "objectifs": "Arrangements, combinaisons simples, probabilités",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo14",
+    "titre": "Calendriers, horloges et dates",
+    "objectifs": "Jours de la semaine, angles des aiguilles, fuseaux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo15",
+    "titre": "Géométrie : périmètres, aires, volumes",
+    "objectifs": "Formules usuelles",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo16",
+    "titre": "Lecture de tableaux et de graphiques",
+    "objectifs": "Interpréter des données chiffrées",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo17",
+    "titre": "Problèmes à contraintes avancés",
+    "objectifs": "Tableaux logiques, rangements, emplois du temps",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "lo18",
+    "titre": "Révision générale de logique",
+    "objectifs": "Test de niveau sur tout le programme",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "pes",
+  "label": "Problèmes économiques et sociaux",
+  "ecrit": "pes",
+  "levels": [
+   {
+    "id": "pe01",
+    "titre": "La méthode du devoir de PES",
+    "objectifs": "Méthode de la dissertation économique",
+    "lecon_integree": "e1",
+    "tag_integre": "pes"
+   },
+   {
+    "id": "pe02",
+    "titre": "Croissance, emploi, inflation et UEMOA",
+    "objectifs": "Notions économiques de base",
+    "lecon_integree": "e2",
+    "tag_integre": "pes2"
+   },
+   {
+    "id": "pe03",
+    "titre": "Le pacte de convergence de l'UEMOA",
+    "objectifs": "Critères et enjeux",
+    "lecon_integree": "L20261012",
+    "tag_integre": null
+   },
+   {
+    "id": "pe04",
+    "titre": "Comptabilité nationale : PIB et agrégats",
+    "objectifs": "PIB, valeur ajoutée, croissance réelle et nominale",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe05",
+    "titre": "Politique budgétaire et dette publique",
+    "objectifs": "Déficit, dette, soutenabilité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe06",
+    "titre": "Monnaie, BCEAO et politique monétaire",
+    "objectifs": "Franc CFA, réformes, taux directeurs",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe07",
+    "titre": "Commerce international et ZLECAf",
+    "objectifs": "Balance des paiements, intégration commerciale",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe08",
+    "titre": "Emploi, chômage, jeunesse et informel",
+    "objectifs": "Concepts, politiques d'emploi, économie informelle",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe09",
+    "titre": "Pauvreté, inégalités et inclusion sociale",
+    "objectifs": "Mesures, filets sociaux, politiques publiques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe10",
+    "titre": "Agriculture et sécurité alimentaire",
+    "objectifs": "Filières, transformation locale, autosuffisance",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe11",
+    "titre": "Industrialisation, énergie et infrastructures",
+    "objectifs": "Transformation structurelle",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe12",
+    "titre": "Éducation, formation et capital humain",
+    "objectifs": "Politiques éducatives, formation professionnelle",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe13",
+    "titre": "Santé et protection sociale",
+    "objectifs": "CMU, financement de la santé",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe14",
+    "titre": "Urbanisation, logement et transports",
+    "objectifs": "Villes, mobilité, logement social",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe15",
+    "titre": "Environnement, climat et transition",
+    "objectifs": "Économie verte, adaptation",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe16",
+    "titre": "Développement : PND 2026-2030 et ODD",
+    "objectifs": "Planification et financement du développement",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe17",
+    "titre": "Numérique et innovation",
+    "objectifs": "Économie numérique, inclusion financière",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "pe18",
+    "titre": "Révision : sujet blanc de PES",
+    "objectifs": "Épreuve complète en conditions",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "dc",
+  "label": "Droit constitutionnel",
+  "ecrit": "dc",
+  "levels": [
+   {
+    "id": "dc01",
+    "titre": "L'État, la Constitution, les régimes politiques",
+    "objectifs": "Notions fondamentales",
+    "lecon_integree": "d1",
+    "tag_integre": "dc1"
+   },
+   {
+    "id": "dc02",
+    "titre": "Les institutions de la Constitution de 2016",
+    "objectifs": "Panorama institutionnel",
+    "lecon_integree": "d2",
+    "tag_integre": "dc2"
+   },
+   {
+    "id": "dc03",
+    "titre": "La Constitution de 2016, article par article",
+    "objectifs": "Articles clés",
+    "lecon_integree": "L20261011",
+    "tag_integre": null
+   },
+   {
+    "id": "dc04",
+    "titre": "Histoire constitutionnelle de la Côte d'Ivoire",
+    "objectifs": "1960, 2000, 2016, révision de 2020",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc05",
+    "titre": "Le Président de la République et le Vice-Président",
+    "objectifs": "Élection, pouvoirs, intérim",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc06",
+    "titre": "Le Gouvernement et les rapports entre pouvoirs",
+    "objectifs": "Responsabilité, moyens d'action réciproques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc07",
+    "titre": "Le Parlement et la procédure législative",
+    "objectifs": "Assemblée nationale, Sénat, navette, lois organiques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc08",
+    "titre": "Le Conseil constitutionnel et le contrôle de constitutionnalité",
+    "objectifs": "Saisine, contrôle a priori, exception",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc09",
+    "titre": "Le pouvoir judiciaire",
+    "objectifs": "Organisation juridictionnelle, Conseil supérieur de la magistrature",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc10",
+    "titre": "Droits, libertés et devoirs",
+    "objectifs": "Titre I de la Constitution",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc11",
+    "titre": "Élections, partis politiques et CEI",
+    "objectifs": "Droit électoral",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc12",
+    "titre": "Les autres institutions constitutionnelles",
+    "objectifs": "CESEC, Médiateur, Chambre des rois et chefs traditionnels",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc13",
+    "titre": "Révision de la Constitution et traités",
+    "objectifs": "Procédure de révision, engagements internationaux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc14",
+    "titre": "Les grands régimes étrangers",
+    "objectifs": "France, États-Unis, Royaume-Uni",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dc15",
+    "titre": "Révision : sujet blanc de droit constitutionnel",
+    "objectifs": "Épreuve complète en conditions",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "da",
+  "label": "Droit administratif et finances publiques",
+  "ecrit": "da",
+  "levels": [
+   {
+    "id": "da01",
+    "titre": "L'organisation administrative de la Côte d'Ivoire",
+    "objectifs": "Panorama",
+    "lecon_integree": "a1",
+    "tag_integre": "da1"
+   },
+   {
+    "id": "da02",
+    "titre": "Le régime juridique des actes administratifs",
+    "objectifs": "Actes unilatéraux",
+    "lecon_integree": "a2",
+    "tag_integre": "da2"
+   },
+   {
+    "id": "da03",
+    "titre": "Service public, police et responsabilité",
+    "objectifs": "Notions clés",
+    "lecon_integree": "a3",
+    "tag_integre": "da3"
+   },
+   {
+    "id": "da04",
+    "titre": "Budget et dépense publique",
+    "objectifs": "Finances publiques de base",
+    "lecon_integree": "f1",
+    "tag_integre": "fp"
+   },
+   {
+    "id": "da05",
+    "titre": "Les sources du droit administratif et la légalité",
+    "objectifs": "Hiérarchie des normes, principe de légalité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da06",
+    "titre": "Centralisation, déconcentration, décentralisation",
+    "objectifs": "Notions et applications ivoiriennes",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da07",
+    "titre": "Les collectivités territoriales",
+    "objectifs": "Régions, communes, districts autonomes",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da08",
+    "titre": "Contrats administratifs et marchés publics",
+    "objectifs": "Critères, procédures, code des marchés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da09",
+    "titre": "La fonction publique",
+    "objectifs": "Statut général, droits et obligations",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da10",
+    "titre": "Domaine public et expropriation",
+    "objectifs": "Régime des biens publics",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da11",
+    "titre": "Le contentieux administratif",
+    "objectifs": "Recours pour excès de pouvoir, plein contentieux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da12",
+    "titre": "Lois de finances et budget-programme",
+    "objectifs": "LOLF, directives UEMOA",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da13",
+    "titre": "Recettes, dépenses et comptabilité publique",
+    "objectifs": "Ordonnateur, comptable, phases de la dépense",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da14",
+    "titre": "Le contrôle des finances publiques",
+    "objectifs": "Cour des comptes, contrôle parlementaire",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "da15",
+    "titre": "Révision : sujet blanc de droit administratif",
+    "objectifs": "Épreuve complète en conditions",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "ct",
+  "label": "Résumé de texte",
+  "ecrit": "ct",
+  "levels": [
+   {
+    "id": "ct01",
+    "titre": "La technique ENA du résumé",
+    "objectifs": "Méthode complète",
+    "lecon_integree": "c1",
+    "tag_integre": "ct"
+   },
+   {
+    "id": "ct02",
+    "titre": "Lire et dégager la structure d'un texte",
+    "objectifs": "Thèse, arguments, connecteurs, plan du texte",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ct03",
+    "titre": "Reformuler sans paraphraser",
+    "objectifs": "Condenser, généraliser, supprimer les exemples",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ct04",
+    "titre": "Compter les mots et tenir la fourchette",
+    "objectifs": "Règles de décompte et ajustement",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ct05",
+    "titre": "Résumer un texte économique",
+    "objectifs": "Entraînement guidé",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ct06",
+    "titre": "Résumer un texte de société",
+    "objectifs": "Entraînement guidé",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ct07",
+    "titre": "Résumé chronométré",
+    "objectifs": "Épreuve en conditions",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ct08",
+    "titre": "Révision : résumé blanc",
+    "objectifs": "Épreuve complète en conditions",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "sog",
+  "label": "Sujet d'ordre général",
+  "ecrit": "sog",
+  "levels": [
+   {
+    "id": "so01",
+    "titre": "Analyser le sujet et trouver la problématique",
+    "objectifs": "Méthode d'analyse",
+    "lecon_integree": "s1",
+    "tag_integre": "sog1"
+   },
+   {
+    "id": "so02",
+    "titre": "Construire le plan et rédiger",
+    "objectifs": "Méthode du plan",
+    "lecon_integree": "s2",
+    "tag_integre": "sog2"
+   },
+   {
+    "id": "so03",
+    "titre": "L'introduction en quatre temps",
+    "objectifs": "Accroche, définition, problématique, annonce",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so04",
+    "titre": "Argumenter : idée, explication, exemple",
+    "objectifs": "Paragraphe argumentatif",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so05",
+    "titre": "Transitions et conclusion",
+    "objectifs": "Lier les parties, conclure et ouvrir",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so06",
+    "titre": "Thèmes : paix, cohésion sociale, sécurité",
+    "objectifs": "Idées et exemples vérifiés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so07",
+    "titre": "Thèmes : démocratie, élections, citoyenneté",
+    "objectifs": "Idées et exemples vérifiés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so08",
+    "titre": "Thèmes : jeunesse, emploi, éducation",
+    "objectifs": "Idées et exemples vérifiés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so09",
+    "titre": "Thèmes : environnement et développement durable",
+    "objectifs": "Idées et exemples vérifiés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so10",
+    "titre": "Thèmes : éthique, gouvernance, lutte contre la corruption",
+    "objectifs": "Idées et exemples vérifiés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so11",
+    "titre": "Thèmes : mondialisation, numérique, culture",
+    "objectifs": "Idées et exemples vérifiés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "so12",
+    "titre": "Révision : SOG blanc",
+    "objectifs": "Épreuve complète en conditions",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "ns",
+  "label": "Note de synthèse (cycle supérieur)",
+  "ecrit": "ns",
+  "levels": [
+   {
+    "id": "ns01",
+    "titre": "La méthode des 5 heures",
+    "objectifs": "Méthode complète",
+    "lecon_integree": "n1",
+    "tag_integre": "ns"
+   },
+   {
+    "id": "ns02",
+    "titre": "Lire et classer un dossier",
+    "objectifs": "Tableau de dépouillement",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ns03",
+    "titre": "Bâtir le plan de la note",
+    "objectifs": "Plan thématique, titres",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ns04",
+    "titre": "Rédiger une note objective",
+    "objectifs": "Neutralité, citations des documents",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ns05",
+    "titre": "Note chronométrée",
+    "objectifs": "Épreuve en conditions",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ns06",
+    "titre": "Révision : note de synthèse blanche",
+    "objectifs": "Épreuve complète en conditions",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "oral",
+  "label": "Oral d'admission",
+  "ecrit": null,
+  "levels": [
+   {
+    "id": "or01",
+    "titre": "Se présenter et convaincre le jury",
+    "objectifs": "Présentation",
+    "lecon_integree": "o1",
+    "tag_integre": "oral"
+   },
+   {
+    "id": "or02",
+    "titre": "Les questions de motivation",
+    "objectifs": "Pourquoi l'ENA, projet professionnel",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "or03",
+    "titre": "Culture et actualité devant le jury",
+    "objectifs": "Réponses structurées sur l'actualité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "or04",
+    "titre": "L'administration ivoirienne en questions",
+    "objectifs": "Connaître l'État que l'on veut servir",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "or05",
+    "titre": "Posture, voix et gestion du stress",
+    "objectifs": "Communication non verbale",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "or06",
+    "titre": "Mises en situation administratives",
+    "objectifs": "Cas pratiques de l'oral",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "or07",
+    "titre": "Simulation complète de l'oral",
+    "objectifs": "Oral blanc",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ }
+]

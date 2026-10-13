@@ -1189,6 +1189,2129 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-13",
+   "questions": [
+    {
+     "id": "n20261013-fr04-01",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Il marche vite », quelle est la nature du mot « vite » ?",
+     "o": [
+      "Un adverbe",
+      "Un adjectif qualificatif",
+      "Un nom",
+      "Une préposition"
+     ],
+     "a": 0,
+     "e": "« Vite » modifie le verbe « marche » et reste invariable : c'est un adverbe de manière.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-02",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Le directeur a signé la note », quelle est la fonction de « la note » ?",
+     "o": [
+      "Complément d'objet indirect",
+      "Complément d'objet direct",
+      "Attribut du sujet",
+      "Complément circonstanciel"
+     ],
+     "a": 1,
+     "e": "Le directeur a signé quoi ? La note : complément construit sans préposition, c'est un COD.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-03",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Elle paraît fatiguée », quelle est la fonction de « fatiguée » ?",
+     "o": [
+      "Épithète",
+      "Complément d'objet direct",
+      "Attribut du sujet",
+      "Apposition"
+     ],
+     "a": 2,
+     "e": "« Paraître » est un verbe d'état : l'adjectif qui le suit est attribut du sujet « elle ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-04",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Il parle à son supérieur », quelle est la fonction de « à son supérieur » ?",
+     "o": [
+      "Complément circonstanciel de lieu",
+      "Complément du nom",
+      "Complément d'objet direct",
+      "Complément d'objet indirect"
+     ],
+     "a": 3,
+     "e": "Parler à qui ? La préposition « à » est imposée par le verbe : c'est un COI.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-05",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Dans la salle, les candidats composent », quelle est la fonction de « Dans la salle » ?",
+     "o": [
+      "Complément circonstanciel de lieu",
+      "Sujet",
+      "Complément d'objet indirect",
+      "Attribut du sujet"
+     ],
+     "a": 0,
+     "e": "Le groupe répond à la question « où ? » et peut être déplacé ou supprimé : complément circonstanciel de lieu.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-06",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « La réforme du code a été votée », quelle est la fonction de « du code » ?",
+     "o": [
+      "Complément d'objet indirect",
+      "Complément circonstanciel",
+      "Complément du nom",
+      "Complément d'agent"
+     ],
+     "a": 2,
+     "e": "« Du code » complète le nom « réforme » : c'est un complément du nom.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-07",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « le dossier dont je parle », quelle est la nature de « dont » ?",
+     "o": [
+      "Conjonction de coordination",
+      "Pronom relatif",
+      "Adverbe",
+      "Conjonction de subordination"
+     ],
+     "a": 1,
+     "e": "« Dont » remplace son antécédent « le dossier » (je parle du dossier) : c'est un pronom relatif.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-08",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Je pense que tu as raison », quelle est la nature de « que » ?",
+     "o": [
+      "Pronom relatif",
+      "Pronom interrogatif",
+      "Adverbe",
+      "Conjonction de subordination"
+     ],
+     "a": 3,
+     "e": "« Que » n'a pas d'antécédent et introduit une proposition complétive : conjonction de subordination.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-09",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « On l'a nommé préfet », quelle est la fonction de « préfet » ?",
+     "o": [
+      "Attribut du complément d'objet direct",
+      "Complément d'objet direct",
+      "Attribut du sujet",
+      "Complément du nom"
+     ],
+     "a": 0,
+     "e": "« Préfet » qualifie le COD « l' » par l'intermédiaire du verbe « nommer » : attribut du COD.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-10",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Quelle est la nature du mot « mais » ?",
+     "o": [
+      "Adverbe",
+      "Préposition",
+      "Conjonction de coordination",
+      "Conjonction de subordination"
+     ],
+     "a": 2,
+     "e": "Mais, ou, et, donc, or, ni, car : les sept conjonctions de coordination.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-11",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Je leur ai écrit », quelle est la nature de « leur » ?",
+     "o": [
+      "Déterminant possessif",
+      "Pronom personnel",
+      "Adverbe",
+      "Nom"
+     ],
+     "a": 1,
+     "e": "Placé devant le verbe, « leur » remplace « à eux » : pronom personnel, toujours invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr04-12",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Le ministre, homme d'expérience, a répondu », quelle est la fonction de « homme d'expérience » ?",
+     "o": [
+      "Attribut du sujet",
+      "Complément d'objet direct",
+      "Complément du nom",
+      "Apposition"
+     ],
+     "a": 3,
+     "e": "Groupe nominal détaché par des virgules, qui désigne la même personne que « le ministre » : apposition.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-01",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « La plupart des candidats ___ en retard. »",
+     "o": [
+      "est",
+      "sont",
+      "soit",
+      "était"
+     ],
+     "a": 1,
+     "e": "Avec « la plupart » suivi d'un complément au pluriel, le verbe se met au pluriel.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-02",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Toi et moi ___ convoqués demain. »",
+     "o": [
+      "sont",
+      "êtes",
+      "sommes",
+      "est"
+     ],
+     "a": 2,
+     "e": "Sujets de personnes différentes : la 1re personne l'emporte, d'où « nous sommes ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-03",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Lui et toi ___ du même avis. »",
+     "o": [
+      "êtes",
+      "sont",
+      "sommes",
+      "es"
+     ],
+     "a": 0,
+     "e": "La 2e personne l'emporte sur la 3e : lui et toi = vous, d'où « êtes ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-04",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « C'est moi qui ___ responsable du dossier. »",
+     "o": [
+      "est",
+      "es",
+      "sont",
+      "suis"
+     ],
+     "a": 3,
+     "e": "Le verbe après « qui » s'accorde avec l'antécédent « moi » : 1re personne du singulier.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-05",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Les dossiers que m'___ envoyés le directeur sont complets. »",
+     "o": [
+      "ont",
+      "a",
+      "avez",
+      "avaient"
+     ],
+     "a": 1,
+     "e": "Le sujet du verbe « envoyer » est « le directeur », placé après le verbe : 3e personne du singulier.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-06",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Chacun des candidats ___ sa convocation. »",
+     "o": [
+      "reçoivent",
+      "recevront",
+      "reçoit",
+      "reçoivent-ils"
+     ],
+     "a": 2,
+     "e": "« Chacun » est un pronom singulier : le verbe se met au singulier.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-07",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Plus d'un candidat ___ échoué à cette épreuve. »",
+     "o": [
+      "a",
+      "ont",
+      "avons",
+      "avaient"
+     ],
+     "a": 0,
+     "e": "Avec « plus d'un », l'usage met le verbe au singulier.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-08",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Moins de deux candidats ___ absents. »",
+     "o": [
+      "est",
+      "soit",
+      "était",
+      "sont"
+     ],
+     "a": 3,
+     "e": "Avec « moins de deux », le verbe s'accorde avec le nom pluriel qui suit.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-09",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Tout le monde ___ présent à la cérémonie. »",
+     "o": [
+      "sont",
+      "est",
+      "êtes",
+      "étaient"
+     ],
+     "a": 1,
+     "e": "« Tout le monde » est singulier : le verbe se met au singulier.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-10",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Vous et lui ___ convoqués demain. »",
+     "o": [
+      "seront",
+      "serons",
+      "sera",
+      "serez"
+     ],
+     "a": 3,
+     "e": "La 2e personne l'emporte sur la 3e : vous et lui = vous, d'où « serez ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-11",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « C'est nous qui ___ chargés de l'accueil. »",
+     "o": [
+      "sommes",
+      "sont",
+      "êtes",
+      "est"
+     ],
+     "a": 0,
+     "e": "Accord avec l'antécédent de « qui », « nous » : 1re personne du pluriel.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr05-12",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "q": "Complétez : « Où ___ passées les convocations ? »",
+     "o": [
+      "est",
+      "sont",
+      "es",
+      "soit"
+     ],
+     "a": 1,
+     "e": "Sujet inversé : « les convocations », féminin pluriel, d'où « sont passées ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-01",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Adjectif de couleur « orange » : quelle orthographe est correcte ?",
+     "o": [
+      "des robes oranges",
+      "des robes orange",
+      "des robe oranges",
+      "des robes orangeses"
+     ],
+     "a": 1,
+     "e": "« Orange » est un nom de fruit employé comme couleur : il reste invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-02",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Adjectif de couleur « rose » : quelle orthographe est correcte ?",
+     "o": [
+      "des chemises rose",
+      "des chemises rosis",
+      "des chemises roses",
+      "des chemise roses"
+     ],
+     "a": 2,
+     "e": "« Rose » fait partie des exceptions (rose, mauve, fauve, écarlate, pourpre, incarnat) : il s'accorde.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-03",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Couleur composée « bleu clair » : quelle orthographe est correcte ?",
+     "o": [
+      "des yeux bleu clair",
+      "des yeux bleus clairs",
+      "des yeux bleus clair",
+      "des yeux bleu clairs"
+     ],
+     "a": 0,
+     "e": "Un adjectif de couleur composé de deux mots reste invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-04",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Complétez : « Il est arrivé à midi et ___. »",
+     "o": [
+      "demie",
+      "demis",
+      "demies",
+      "demi"
+     ],
+     "a": 3,
+     "e": "Après le nom, « demi » s'accorde en genre seulement ; « midi » est masculin.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-05",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Adjectif « nu » placé avant le nom : quelle orthographe est correcte ?",
+     "o": [
+      "Ils marchaient nus-pieds.",
+      "Ils marchaient nu-pieds.",
+      "Ils marchaient nu-pied.",
+      "Ils marchaient nues-pieds."
+     ],
+     "a": 1,
+     "e": "Avant le nom, « nu » est invariable et relié au nom par un trait d'union.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-06",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Adjectif « feu » (défunt) : quelle formulation est correcte ?",
+     "o": [
+      "feue la reine",
+      "la feu reine",
+      "la feue reine",
+      "feues la reine"
+     ],
+     "a": 2,
+     "e": "« Feu » s'accorde quand il est placé entre le déterminant et le nom ; il reste invariable devant le déterminant.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-07",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Complétez : « Un manteau et une veste ___. »",
+     "o": [
+      "noires",
+      "noire",
+      "noir",
+      "noirs"
+     ],
+     "a": 3,
+     "e": "Noms de genres différents : l'adjectif se met au masculin pluriel.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-08",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Couleur « marron » : quelle orthographe est correcte ?",
+     "o": [
+      "des tables marron",
+      "des tables marrons",
+      "des tables marronnes",
+      "des table marrons"
+     ],
+     "a": 0,
+     "e": "« Marron » est un nom employé comme couleur : invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-09",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Couleur composée « rouge orangé » : quelle orthographe est correcte ?",
+     "o": [
+      "des fleurs rouges orangées",
+      "des fleurs rouges orangé",
+      "des fleurs rouge orangé",
+      "des fleurs rouge orangées"
+     ],
+     "a": 2,
+     "e": "Couleur composée de deux mots : l'ensemble reste invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-10",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Adjectif « châtain » : quelle orthographe est correcte ?",
+     "o": [
+      "des cheveux châtain",
+      "des cheveux châtains",
+      "des cheveux châtaines",
+      "des cheveu châtains"
+     ],
+     "a": 1,
+     "e": "« Châtain » est un adjectif qui s'accorde en nombre avec le nom.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr06-11",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Adjectif « demi » placé avant le nom : quelle orthographe est correcte ?",
+     "o": [
+      "une demie-heure",
+      "une demi-heures",
+      "une demi-heure",
+      "une demis-heure"
+     ],
+     "a": 2,
+     "e": "Avant le nom, « demi » est invariable et suivi d'un trait d'union.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-01",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Les lettres que j'ai ___ sont parties ce matin. » (écrire)",
+     "o": [
+      "écrit",
+      "écrits",
+      "écrites",
+      "écrite"
+     ],
+     "a": 2,
+     "e": "Auxiliaire avoir, COD « que » (= les lettres, féminin pluriel) placé avant : accord.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-02",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Elles ont ___ toute la nuit. » (travailler)",
+     "o": [
+      "travaillé",
+      "travaillées",
+      "travaillés",
+      "travaillée"
+     ],
+     "a": 0,
+     "e": "Auxiliaire avoir et pas de COD (« toute la nuit » est un complément de temps) : invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-03",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Les candidates sont ___ hier. » (arriver)",
+     "o": [
+      "arrivé",
+      "arrivés",
+      "arrivée",
+      "arrivées"
+     ],
+     "a": 3,
+     "e": "Auxiliaire être : accord avec le sujet « les candidates », féminin pluriel.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-04",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Les décisions qu'il a ___ prendre étaient difficiles. » (falloir)",
+     "o": [
+      "fallues",
+      "fallu",
+      "fallus",
+      "fallue"
+     ],
+     "a": 1,
+     "e": "« Falloir » est un verbe impersonnel : son participe passé est toujours invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-05",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Les fleurs qu'il a ___ sont fanées. » (cueillir)",
+     "o": [
+      "cueilli",
+      "cueillis",
+      "cueillies",
+      "cueillie"
+     ],
+     "a": 2,
+     "e": "Auxiliaire avoir, COD « que » (= les fleurs, féminin pluriel) placé avant : accord.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-06",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « La chanteuse que j'ai ___ chanter était ivoirienne. » (entendre)",
+     "o": [
+      "entendue",
+      "entendu",
+      "entendus",
+      "entendues"
+     ],
+     "a": 0,
+     "e": "Le COD « que » (la chanteuse) fait l'action de chanter : accord au féminin singulier.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-07",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Les chansons que j'ai ___ chanter étaient anciennes. » (entendre)",
+     "o": [
+      "entendues",
+      "entendue",
+      "entendus",
+      "entendu"
+     ],
+     "a": 3,
+     "e": "Les chansons ne font pas l'action de chanter (elles sont chantées) : invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-08",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Elle s'est ___ couper les cheveux. » (faire)",
+     "o": [
+      "faite",
+      "fait",
+      "faits",
+      "faites"
+     ],
+     "a": 1,
+     "e": "« Fait » suivi d'un infinitif est toujours invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-09",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Les deux heures qu'il a ___ ne l'ont pas reposé. » (dormir)",
+     "o": [
+      "dormies",
+      "dormie",
+      "dormi",
+      "dormis"
+     ],
+     "a": 2,
+     "e": "« Les deux heures » est un complément de durée, pas un COD : participe invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-10",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Les efforts que cette réforme a ___ ont été récompensés. » (coûter)",
+     "o": [
+      "coûté",
+      "coûtées",
+      "coûtée",
+      "coûtés"
+     ],
+     "a": 3,
+     "e": "Au sens figuré (causer, exiger), « coûter » a un COD : « que » (les efforts), placé avant, d'où l'accord.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-fr07-11",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Ils ont ___ les dossiers par ordre alphabétique. » (classer)",
+     "o": [
+      "classé",
+      "classés",
+      "classées",
+      "classée"
+     ],
+     "a": 0,
+     "e": "Le COD « les dossiers » est placé après le verbe : participe invariable.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-01",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"Water ___ at 100 °C.\"",
+     "o": [
+      "is boiling",
+      "boils",
+      "boil",
+      "boiled"
+     ],
+     "a": 1,
+     "e": "Vérité générale : present simple, avec -s à la 3e personne du singulier.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-02",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"Look! It ___.\"",
+     "o": [
+      "rains",
+      "rain",
+      "is raining",
+      "has rain"
+     ],
+     "a": 2,
+     "e": "« Look! » signale une action en cours : present continuous.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-03",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"I ___ this answer now.\"",
+     "o": [
+      "understand",
+      "am understanding",
+      "understands",
+      "am understand"
+     ],
+     "a": 0,
+     "e": "« Understand » est un verbe d'état : pas de forme en -ing, même avec « now ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-04",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"She usually ___ to work by bus.\"",
+     "o": [
+      "is going",
+      "go",
+      "going",
+      "goes"
+     ],
+     "a": 3,
+     "e": "« Usually » exprime une habitude : present simple, 3e personne en -es (goes).",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-05",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"At the moment, they ___ a new law.\"",
+     "o": [
+      "draft",
+      "are drafting",
+      "drafts",
+      "is drafting"
+     ],
+     "a": 1,
+     "e": "« At the moment » : action en cours ; sujet pluriel, donc « are drafting ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-06",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"This bag ___ to the minister.\"",
+     "o": [
+      "is belonging",
+      "belong",
+      "belongs",
+      "are belonging"
+     ],
+     "a": 2,
+     "e": "« Belong » est un verbe d'état : present simple, 3e personne du singulier.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-07",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"How often ___ you check your emails?\"",
+     "o": [
+      "do",
+      "does",
+      "are",
+      "is"
+     ],
+     "a": 0,
+     "e": "Question au present simple avec « you » : auxiliaire « do ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-08",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct negative: \"He ___ coffee.\"",
+     "o": [
+      "don't drink",
+      "doesn't drinks",
+      "not drinks",
+      "doesn't drink"
+     ],
+     "a": 3,
+     "e": "Négation à la 3e personne : does not + base verbale sans -s.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-09",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"The train ___ at 6 p.m. every day.\"",
+     "o": [
+      "leaves",
+      "is leaving",
+      "leave",
+      "left every"
+     ],
+     "a": 0,
+     "e": "Horaire régulier (every day) : present simple.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-10",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct question: \"What ___ now? — I'm reading.\"",
+     "o": [
+      "do you do",
+      "are you doing",
+      "you are doing",
+      "does you do"
+     ],
+     "a": 1,
+     "e": "Question sur une action en cours : be + sujet + -ing.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an03-11",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"She ___ hard for the exam every evening.\"",
+     "o": [
+      "studys",
+      "study",
+      "studies",
+      "is study"
+     ],
+     "a": 2,
+     "e": "Consonne + y à la 3e personne du singulier : -ies (studies).",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-01",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct form: \"I ___ in Abengourou since 2015.\"",
+     "o": [
+      "live",
+      "lived",
+      "have lived",
+      "am living"
+     ],
+     "a": 2,
+     "e": "Situation commencée en 2015 qui dure encore (since) : present perfect.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-02",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct form: \"She ___ the report yesterday.\"",
+     "o": [
+      "finished",
+      "has finished",
+      "have finished",
+      "finishes"
+     ],
+     "a": 0,
+     "e": "« Yesterday » est un moment passé précis : past simple.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-03",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct word: \"They have worked here ___ ten years.\"",
+     "o": [
+      "since",
+      "for",
+      "ago",
+      "during since"
+     ],
+     "a": 1,
+     "e": "« For » introduit une durée (ten years) ; « since » introduirait un point de départ.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-04",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct word: \"He has been the director ___ 2020.\"",
+     "o": [
+      "for",
+      "ago",
+      "during",
+      "since"
+     ],
+     "a": 3,
+     "e": "« Since » introduit le point de départ (2020).",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-05",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct question: \"___ to Ghana?\"",
+     "o": [
+      "Have you ever been",
+      "Did you ever been",
+      "Have you ever went",
+      "Are you ever been"
+     ],
+     "a": 0,
+     "e": "Question sur l'expérience : present perfect, have + participe passé « been ».",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-06",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct form: \"I ___ him two days ago.\"",
+     "o": [
+      "have seen",
+      "see",
+      "saw",
+      "have saw"
+     ],
+     "a": 2,
+     "e": "« Ago » impose le past simple.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-07",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct word: \"We haven't received the results ___.\"",
+     "o": [
+      "already",
+      "yet",
+      "ago",
+      "since ago"
+     ],
+     "a": 1,
+     "e": "« Yet » s'emploie dans les phrases négatives et interrogatives au present perfect.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-08",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct word: \"She has ___ arrived; she is in her office now.\"",
+     "o": [
+      "yet",
+      "ago",
+      "for",
+      "just"
+     ],
+     "a": 3,
+     "e": "« Just » exprime une action qui vient de se produire ; « yet », « ago » et « for » sont impossibles ici.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-09",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct question: \"When ___ your degree?\"",
+     "o": [
+      "did you get",
+      "have you got",
+      "do you got",
+      "you got"
+     ],
+     "a": 0,
+     "e": "« When » interroge sur un moment passé précis : past simple, did + base.",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-an04-10",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Choose the correct form: \"How long ___ you known her?\"",
+     "o": [
+      "do",
+      "did",
+      "have",
+      "are"
+     ],
+     "a": 2,
+     "e": "« How long » + durée jusqu'à maintenant : present perfect (have known).",
+     "verif": "regle"
+    },
+    {
+     "id": "n20261013-lo03-01",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font les 3/4 de 240 ?",
+     "o": [
+      "160",
+      "180",
+      "200",
+      "120"
+     ],
+     "a": 1,
+     "e": "240 ÷ 4 = 60 ; 60 × 3 = 180.",
+     "verif": "calcul",
+     "calc": "240*3/4"
+    },
+    {
+     "id": "n20261013-lo03-02",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Un service dispose d'un budget de 1 500 000 F. Il en consacre les 2/5 à la formation. Quel montant ?",
+     "o": [
+      "500 000 F",
+      "750 000 F",
+      "600 000 F",
+      "300 000 F"
+     ],
+     "a": 2,
+     "e": "1 500 000 ÷ 5 = 300 000 ; 300 000 × 2 = 600 000 F.",
+     "verif": "calcul",
+     "calc": "1500000*2/5"
+    },
+    {
+     "id": "n20261013-lo03-03",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font 0,25 × 48 ?",
+     "o": [
+      "12",
+      "24",
+      "1,2",
+      "4,8"
+     ],
+     "a": 0,
+     "e": "0,25 = 1/4 ; 48 ÷ 4 = 12.",
+     "verif": "calcul",
+     "calc": "0.25*48"
+    },
+    {
+     "id": "n20261013-lo03-04",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font 125 × 8 ?",
+     "o": [
+      "800",
+      "1 250",
+      "10 000",
+      "1 000"
+     ],
+     "a": 3,
+     "e": "125 × 8 = 1 000 (car 1 000 ÷ 8 = 125).",
+     "verif": "calcul",
+     "calc": "125*8"
+    },
+    {
+     "id": "n20261013-lo03-05",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font 45 × 11 ?",
+     "o": [
+      "455",
+      "495",
+      "450",
+      "4 950"
+     ],
+     "a": 1,
+     "e": "Astuce × 11 : 4 + 5 = 9 au milieu, d'où 495.",
+     "verif": "calcul",
+     "calc": "45*11"
+    },
+    {
+     "id": "n20261013-lo03-06",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font 1,5 + 2,75 ?",
+     "o": [
+      "4,25",
+      "3,25",
+      "4,75",
+      "3,80"
+     ],
+     "a": 0,
+     "e": "1,50 + 2,75 = 4,25.",
+     "verif": "calcul",
+     "calc": "1.5+2.75"
+    },
+    {
+     "id": "n20261013-lo03-07",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font 72 ÷ 0,5 ?",
+     "o": [
+      "36",
+      "72,5",
+      "144",
+      "14,4"
+     ],
+     "a": 2,
+     "e": "Diviser par 0,5 revient à multiplier par 2 : 144.",
+     "verif": "calcul",
+     "calc": "72/0.5"
+    },
+    {
+     "id": "n20261013-lo03-08",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font (3 + 5) × 4 − 6 ÷ 2 ?",
+     "o": [
+      "13",
+      "16",
+      "26",
+      "29"
+     ],
+     "a": 3,
+     "e": "Parenthèses : 8 ; 8 × 4 = 32 ; 6 ÷ 2 = 3 ; 32 − 3 = 29.",
+     "verif": "calcul",
+     "calc": "(3+5)*4-6/2"
+    },
+    {
+     "id": "n20261013-lo03-09",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font 99 × 99 ?",
+     "o": [
+      "9 801",
+      "9 891",
+      "9 999",
+      "8 901"
+     ],
+     "a": 0,
+     "e": "(100 − 1)² = 10 000 − 200 + 1 = 9 801.",
+     "verif": "calcul",
+     "calc": "99*99"
+    },
+    {
+     "id": "n20261013-lo03-10",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien vaut 1/8 en écriture décimale ?",
+     "o": [
+      "0,18",
+      "0,8",
+      "0,125",
+      "0,0125"
+     ],
+     "a": 2,
+     "e": "1 ÷ 8 = 0,125, soit 12,5 %.",
+     "verif": "calcul",
+     "calc": "1/8"
+    },
+    {
+     "id": "n20261013-lo03-11",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font 25 % de 84 ?",
+     "o": [
+      "21",
+      "25",
+      "42",
+      "16,8"
+     ],
+     "a": 0,
+     "e": "25 % = 1/4 ; 84 ÷ 4 = 21.",
+     "verif": "calcul",
+     "calc": "84*0.25"
+    },
+    {
+     "id": "n20261013-lo04-01",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un prix de 20 000 F augmente de 10 %, puis baisse de 10 %. Quel est le prix final ?",
+     "o": [
+      "20 000 F",
+      "19 800 F",
+      "20 200 F",
+      "18 000 F"
+     ],
+     "a": 1,
+     "e": "20 000 × 1,1 × 0,9 = 19 800 F : les deux variations ne s'annulent pas.",
+     "verif": "calcul",
+     "calc": "20000*1.1*0.9"
+    },
+    {
+     "id": "n20261013-lo04-02",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un prix augmente de 20 %, puis de 30 %. Quelle est la hausse globale, en pourcentage ?",
+     "o": [
+      "50 %",
+      "60 %",
+      "56 %",
+      "26 %"
+     ],
+     "a": 2,
+     "e": "1,2 × 1,3 = 1,56 : hausse globale de 56 %.",
+     "verif": "calcul",
+     "calc": "(1.2*1.3-1)*100"
+    },
+    {
+     "id": "n20261013-lo04-03",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un article coûte 11 800 F TTC, avec une TVA de 18 %. Quel est son prix hors taxe ?",
+     "o": [
+      "10 000 F",
+      "9 676 F",
+      "9 800 F",
+      "10 200 F"
+     ],
+     "a": 0,
+     "e": "HT = 11 800 ÷ 1,18 = 10 000 F.",
+     "verif": "calcul",
+     "calc": "11800/1.18"
+    },
+    {
+     "id": "n20261013-lo04-04",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Après une baisse de 20 %, quelle hausse, en pourcentage, ramène un prix à sa valeur initiale ?",
+     "o": [
+      "20 %",
+      "22 %",
+      "30 %",
+      "25 %"
+     ],
+     "a": 3,
+     "e": "× 0,8 puis × 1,25 = × 1 : il faut une hausse de 25 %.",
+     "verif": "calcul",
+     "calc": "(1/0.8-1)*100"
+    },
+    {
+     "id": "n20261013-lo04-05",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un effectif passe de 400 à 460 agents. Quel est le taux de hausse, en pourcentage ?",
+     "o": [
+      "15 %",
+      "13 %",
+      "60 %",
+      "6 %"
+     ],
+     "a": 0,
+     "e": "(460 − 400) ÷ 400 = 0,15, soit 15 %.",
+     "verif": "calcul",
+     "calc": "(460-400)/400*100"
+    },
+    {
+     "id": "n20261013-lo04-06",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un article de 60 000 F bénéficie d'une remise de 15 %. Quel prix paie-t-on ?",
+     "o": [
+      "45 000 F",
+      "54 000 F",
+      "51 000 F",
+      "59 100 F"
+     ],
+     "a": 2,
+     "e": "60 000 × 0,85 = 51 000 F.",
+     "verif": "calcul",
+     "calc": "60000*0.85"
+    },
+    {
+     "id": "n20261013-lo04-07",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Combien font 30 % de 30 % de 1 000 ?",
+     "o": [
+      "600",
+      "90",
+      "300",
+      "9"
+     ],
+     "a": 1,
+     "e": "1 000 × 0,3 × 0,3 = 90.",
+     "verif": "calcul",
+     "calc": "1000*0.3*0.3"
+    },
+    {
+     "id": "n20261013-lo04-08",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un salaire baisse de 50 %, puis augmente de 50 %. Quelle est la variation totale ?",
+     "o": [
+      "aucune variation",
+      "baisse de 50 %",
+      "hausse de 25 %",
+      "baisse de 25 %"
+     ],
+     "a": 3,
+     "e": "0,5 × 1,5 = 0,75 : baisse de 25 %.",
+     "verif": "calcul",
+     "calc": "(1-0.5*1.5)*100"
+    },
+    {
+     "id": "n20261013-lo04-09",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Sur 250 candidats, 40 % sont admissibles, puis 30 % des admissibles sont admis. Combien d'admis ?",
+     "o": [
+      "30",
+      "75",
+      "100",
+      "70"
+     ],
+     "a": 0,
+     "e": "250 × 0,4 = 100 admissibles ; 100 × 0,3 = 30 admis.",
+     "verif": "calcul",
+     "calc": "250*0.4*0.3"
+    },
+    {
+     "id": "n20261013-lo04-10",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un prix hors taxe de 50 000 F supporte une TVA de 18 %. Quel est le prix TTC ?",
+     "o": [
+      "50 018 F",
+      "68 000 F",
+      "59 000 F",
+      "41 000 F"
+     ],
+     "a": 2,
+     "e": "50 000 × 1,18 = 59 000 F.",
+     "verif": "calcul",
+     "calc": "50000*1.18"
+    },
+    {
+     "id": "n20261013-ct02-01",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Le connecteur « en revanche » exprime :",
+     "o": [
+      "la cause",
+      "l'opposition",
+      "la conséquence",
+      "l'addition"
+     ],
+     "a": 1,
+     "e": "« En revanche » marque une opposition entre deux idées.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ct02-02",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Le connecteur « par conséquent » exprime :",
+     "o": [
+      "la conséquence",
+      "l'opposition",
+      "la concession",
+      "l'illustration"
+     ],
+     "a": 0,
+     "e": "« Par conséquent » introduit le résultat de ce qui précède.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ct02-03",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Le connecteur « en effet » introduit généralement :",
+     "o": [
+      "une opposition",
+      "une conclusion",
+      "une justification de ce qui précède",
+      "une concession"
+     ],
+     "a": 2,
+     "e": "« En effet » apporte une explication ou une preuve à l'affirmation précédente.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ct02-04",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "La structure « certes… mais » exprime :",
+     "o": [
+      "la cause",
+      "l'addition",
+      "l'illustration",
+      "la concession"
+     ],
+     "a": 3,
+     "e": "On admet une idée (certes) pour mieux la dépasser (mais) : c'est une concession.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ct02-05",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Dans un résumé de texte, l'ordre des idées :",
+     "o": [
+      "suit celui du texte",
+      "est réorganisé par thèmes",
+      "commence par la conclusion",
+      "est libre"
+     ],
+     "a": 0,
+     "e": "Le résumé suit l'ordre du texte ; le regroupement par thèmes est propre à la synthèse.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ct02-06",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Dans un résumé, la formule « l'auteur affirme que » :",
+     "o": [
+      "est obligatoire au début",
+      "est à éviter : on reprend directement le point de vue de l'auteur",
+      "doit figurer à chaque paragraphe",
+      "remplace la conclusion"
+     ],
+     "a": 1,
+     "e": "Le résumé épouse le point de vue de l'auteur sans le commenter ni le désigner.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ct02-07",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Que fait-on des exemples du texte dans le résumé ?",
+     "o": [
+      "On les recopie tous",
+      "On en ajoute d'autres",
+      "On les supprime ou on les généralise",
+      "On les place en conclusion"
+     ],
+     "a": 2,
+     "e": "Les exemples illustrent les idées : le résumé garde les idées, pas les illustrations.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ct02-08",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Où se trouve le plus souvent la thèse d'un texte argumentatif ?",
+     "o": [
+      "Dans les exemples",
+      "Au milieu du deuxième paragraphe",
+      "Dans les citations",
+      "Dans l'introduction ou dans la conclusion"
+     ],
+     "a": 3,
+     "e": "L'auteur annonce ou récapitule sa thèse au début ou à la fin.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-so03-01",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "Dans quel ordre se succèdent les quatre temps de l'introduction ?",
+     "o": [
+      "Accroche, définition des termes, problématique, annonce du plan",
+      "Problématique, accroche, annonce du plan, définitions",
+      "Annonce du plan, accroche, définitions, problématique",
+      "Définitions, annonce du plan, accroche, problématique"
+     ],
+     "a": 0,
+     "e": "On va du concret (accroche) au sujet (définitions), puis à la question (problématique) et au plan.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-so03-02",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "Quelle accroche est la meilleure ?",
+     "o": [
+      "« De tout temps, l'homme a cherché la paix. »",
+      "Un fait précis, daté et vérifiable, lié au sujet",
+      "« Depuis la nuit des temps, la jeunesse est l'avenir. »",
+      "Une question générale sans rapport direct avec le sujet"
+     ],
+     "a": 1,
+     "e": "L'accroche doit être précise et en lien direct avec le sujet ; les formules générales sont à proscrire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-so03-03",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "La problématique doit être :",
+     "o": [
+      "une liste de plusieurs questions indépendantes",
+      "la réponse définitive au sujet",
+      "une question centrale qui exprime une tension du sujet",
+      "la reformulation mot pour mot du sujet"
+     ],
+     "a": 2,
+     "e": "Une seule question centrale, qui fait apparaître le problème posé par le sujet.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-so03-04",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "À quoi sert la définition des termes du sujet ?",
+     "o": [
+      "À allonger l'introduction",
+      "À annoncer la conclusion",
+      "À citer des auteurs",
+      "À délimiter le champ de la réflexion"
+     ],
+     "a": 3,
+     "e": "Définir les mots clés, c'est fixer les limites du sujet et éviter le hors-sujet.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-so03-05",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "L'annonce du plan doit :",
+     "o": [
+      "annoncer les parties sans les développer",
+      "développer tous les arguments",
+      "donner les exemples de chaque partie",
+      "rester implicite"
+     ],
+     "a": 0,
+     "e": "Elle présente clairement les parties ; les arguments viennent dans le développement.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-so03-06",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "Combien de questions centrales une problématique doit-elle contenir ?",
+     "o": [
+      "Trois au moins",
+      "Une seule",
+      "Autant que de parties",
+      "Aucune : c'est une affirmation"
+     ],
+     "a": 1,
+     "e": "Une seule question centrale, conformément à la grille d'évaluation du SOG.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-so03-07",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "Selon la charte enseignée dans les préparations ivoiriennes, une introduction compte environ :",
+     "o": [
+      "2 à 3 phrases",
+      "25 à 30 phrases",
+      "10 à 15 phrases",
+      "une seule phrase"
+     ],
+     "a": 2,
+     "e": "La charte graphique des préparations recommande 10 à 15 phrases pour l'introduction.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-so03-08",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "L'accroche « Depuis la nuit des temps… » est :",
+     "o": [
+      "recommandée pour tous les sujets",
+      "obligatoire au concours",
+      "réservée au cycle supérieur",
+      "à proscrire, car banale et invérifiable"
+     ],
+     "a": 3,
+     "e": "Une accroche doit être précise ; ces formules ne disent rien et agacent le correcteur.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-or02-01",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "À la question « Pourquoi l'ENA ? », la meilleure réponse s'appuie sur :",
+     "o": [
+      "un projet de service public concret relié à votre parcours",
+      "le salaire des administrateurs",
+      "la sécurité de l'emploi",
+      "le prestige du diplôme"
+     ],
+     "a": 0,
+     "e": "Le jury attend une motivation de service public ancrée dans votre parcours.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-or02-02",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Face à une question dont vous ignorez la réponse, il faut :",
+     "o": [
+      "inventer une réponse plausible",
+      "reconnaître honnêtement et proposer une piste de raisonnement",
+      "changer de sujet",
+      "garder le silence"
+     ],
+     "a": 1,
+     "e": "L'honnêteté et le raisonnement valent mieux qu'une invention que le jury détectera.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-or02-03",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Sur une question politique sensible, le candidat doit :",
+     "o": [
+      "donner son opinion partisane",
+      "refuser de répondre",
+      "rester neutre et présenter les faits et les positions",
+      "critiquer le jury"
+     ],
+     "a": 2,
+     "e": "Le futur fonctionnaire est tenu à la neutralité : faits et positions, sans parti pris.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-or02-04",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Que signifie la méthode STAR pour raconter une expérience ?",
+     "o": [
+      "Style, Ton, Aisance, Rythme",
+      "Sujet, Thèse, Antithèse, Résolution",
+      "Synthèse, Travail, Avis, Recommandation",
+      "Situation, Tâche, Action, Résultat"
+     ],
+     "a": 3,
+     "e": "STAR : le contexte, votre mission, ce que vous avez fait, le résultat obtenu.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-or02-05",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Pour valoriser une expérience professionnelle devant le jury, il vaut mieux :",
+     "o": [
+      "l'illustrer par un exemple précis et un résultat mesurable",
+      "énumérer tous ses postes sans détail",
+      "insister sur les difficultés rencontrées avec ses supérieurs",
+      "parler uniquement de ses diplômes"
+     ],
+     "a": 0,
+     "e": "Un exemple précis et un résultat mesurable rendent l'expérience crédible.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-or02-06",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Laquelle de ces motivations faut-il éviter de mettre en avant ?",
+     "o": [
+      "Le sens de l'intérêt général",
+      "La sécurité de l'emploi",
+      "L'envie d'améliorer un service public",
+      "L'expérience de terrain"
+     ],
+     "a": 1,
+     "e": "La sécurité de l'emploi est une motivation personnelle, pas un projet de service public.",
+     "verif": "methode"
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261013fr04",
+     "niv": "fr04",
+     "m": "fr",
+     "titre": "Nature et fonction des mots",
+     "min": 40,
+     "verif": "regle",
+     "tech": [
+      "## Ce que demande le concours",
+      "Les QCM d'aptitude verbale demandent souvent d'identifier la nature d'un mot (sa classe grammaticale) ou sa fonction (son rôle dans la phrase). Ces deux notions conditionnent tous les accords : un participe, un adjectif ou un verbe s'accordent selon la fonction des mots qui les entourent.",
+      "## La méthode en trois questions",
+      "- Nature : le mot change-t-il de forme (nom, adjectif, verbe, déterminant, pronom) ou est-il invariable (adverbe, préposition, conjonction, interjection) ?",
+      "- Fonction : posez la question au verbe. Qui est-ce qui ? donne le sujet ; quoi ? ou qui ? directement après le verbe donne le COD ; à qui ? de quoi ? donne le COI ; où ? quand ? comment ? pourquoi ? donne un complément circonstanciel.",
+      "- Test du déplacement : un complément circonstanciel se déplace ou se supprime ; un COD ou un COI, en général, non.",
+      "! Ne confondez pas nature et fonction : « la note » est un groupe nominal (nature) qui peut être sujet, COD, COI ou complément selon la phrase."
+     ],
+     "fond": [
+      "## Les classes de mots",
+      "- Variables : le nom, le déterminant (le, un, ce, mon, quelques), l'adjectif qualificatif, le pronom (il, que, dont, celui-ci), le verbe.",
+      "- Invariables : l'adverbe (vite, très, hier), la préposition (à, de, dans, pour, sans), la conjonction de coordination (mais, ou, et, donc, or, ni, car), la conjonction de subordination (que, quand, si, lorsque, puisque), l'interjection.",
+      "~ « Que » est une conjonction de subordination dans « Je pense que tu as raison » ; c'est un pronom relatif dans « le dossier que j'ai lu », car il remplace « le dossier ».",
+      "~ « Leur » devant un verbe est un pronom personnel (« Je leur écris ») ; devant un nom, c'est un déterminant possessif (« leurs dossiers »).",
+      "## Les fonctions principales",
+      "- Sujet : il commande l'accord du verbe.",
+      "- COD : construit sans préposition (« Il signe la note »).",
+      "- COI : introduit par une préposition imposée par le verbe (« Il parle à son supérieur », « Il se souvient de la date »).",
+      "- Attribut du sujet : relié au sujet par un verbe d'état (être, paraître, sembler, devenir, rester, demeurer) : « Elle paraît fatiguée ».",
+      "- Attribut du COD : il qualifie le COD par l'intermédiaire de verbes comme nommer, élire, juger, rendre : « On l'a nommé préfet ».",
+      "- Complément du nom : il complète un nom, souvent avec « de » : « la réforme du code ».",
+      "- Apposition : groupe détaché par des virgules qui désigne la même réalité qu'un nom : « Le ministre, homme d'expérience, a répondu ».",
+      "- Complément circonstanciel : lieu, temps, manière, cause, but… Il est mobile : « Dans la salle, les candidats composent »."
+     ],
+     "retenir": [
+      "Nature = ce qu'est le mot ; fonction = ce qu'il fait dans la phrase.",
+      "Questions au verbe : qui ? quoi ? (COD), à qui ? de quoi ? (COI), où ? quand ? comment ? (complément circonstanciel).",
+      "Verbe d'état + adjectif ou nom = attribut du sujet.",
+      "« Que » : pronom relatif s'il a un antécédent, conjonction sinon. « Leur » devant un verbe = pronom, invariable.",
+      "Un complément circonstanciel se déplace ou se supprime."
+     ],
+     "exo": {
+      "tag": "niv-fr04",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261013fr05",
+     "niv": "fr05",
+     "m": "fr",
+     "titre": "L'accord du verbe avec son sujet",
+     "min": 40,
+     "verif": "regle",
+     "tech": [
+      "## Ce que demande le concours",
+      "Les QCM proposent une phrase à trou et quatre formes du verbe. Le piège n'est jamais le verbe lui-même mais le sujet : sujet inversé, sujet éloigné, plusieurs sujets de personnes différentes, pronom relatif, expression de quantité.",
+      "## La méthode",
+      "- Trouvez le vrai sujet en posant la question « qui est-ce qui ? » devant le verbe, même s'il est placé après le verbe.",
+      "- Remplacez le sujet par un pronom (il, elle, ils, nous, vous) pour vérifier la personne et le nombre.",
+      "- Avec « qui », remontez à l'antécédent : c'est lui qui donne la personne.",
+      "! Dans une relative introduite par « que », le sujet est souvent inversé : « les dossiers que m'a envoyés le directeur »."
+     ],
+     "fond": [
+      "## Plusieurs sujets",
+      "- Deux sujets ou plus coordonnés par « et » : verbe au pluriel.",
+      "- Personnes différentes : la 1re personne l'emporte sur les deux autres (« Toi et moi sommes convoqués ») ; la 2e l'emporte sur la 3e (« Lui et toi êtes du même avis »).",
+      "## Le pronom relatif « qui »",
+      "- Le verbe s'accorde avec l'antécédent de « qui » : « C'est moi qui suis responsable », « C'est vous qui êtes attendus ».",
+      "## Les expressions de quantité",
+      "- « La plupart » suivi d'un complément au pluriel : verbe au pluriel (« La plupart des candidats sont en retard »).",
+      "- « Chacun », « tout le monde » : verbe au singulier.",
+      "- « Plus d'un » : verbe au singulier (« Plus d'un candidat a échoué »).",
+      "- « Moins de deux » : verbe au pluriel, accordé avec le nom qui suit (« Moins de deux candidats sont absents »).",
+      "## Le sujet inversé",
+      "- Le verbe s'accorde avec le sujet même placé après lui : « Les dossiers que m'a envoyés le directeur », « Où sont passées les convocations ? »."
+     ],
+     "retenir": [
+      "Le sujet se trouve avec « qui est-ce qui ? », même placé après le verbe.",
+      "1re personne > 2e > 3e : toi et moi sommes ; lui et toi êtes.",
+      "C'est moi qui suis ; c'est nous qui sommes : accord avec l'antécédent.",
+      "La plupart des + pluriel → pluriel ; chacun, tout le monde, plus d'un → singulier ; moins de deux → pluriel."
+     ],
+     "exo": {
+      "tag": "niv-fr05",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261013fr06",
+     "niv": "fr06",
+     "m": "fr",
+     "titre": "L'accord de l'adjectif ; les adjectifs de couleur",
+     "min": 40,
+     "verif": "regle",
+     "tech": [
+      "## Ce que demande le concours",
+      "Les adjectifs de couleur et quelques adjectifs particuliers (demi, nu, feu) sont des pièges classiques des QCM d'orthographe grammaticale. Il suffit de connaître une poignée de règles et leurs exceptions.",
+      "## La méthode",
+      "- Repérez le nom auquel se rapporte l'adjectif, son genre et son nombre.",
+      "- Couleur : demandez-vous si le mot est un adjectif de couleur simple, un nom employé comme couleur, ou une couleur composée de deux mots.",
+      "- Position : pour demi, nu et feu, regardez si l'adjectif est placé avant ou après le nom."
+     ],
+     "fond": [
+      "## Règle générale",
+      "- L'adjectif s'accorde en genre et en nombre avec le nom qu'il qualifie.",
+      "- Plusieurs noms de genres différents : masculin pluriel (« un manteau et une veste noirs »).",
+      "## Les adjectifs de couleur",
+      "- Adjectif de couleur simple : il s'accorde (« des robes vertes »).",
+      "- Nom employé comme couleur (orange, marron, crème, olive, chocolat…) : invariable (« des robes orange », « des tables marron »).",
+      "- Exceptions qui s'accordent : rose, mauve, fauve, écarlate, pourpre, incarnat (« des chemises roses »).",
+      "- Couleur composée de deux mots : invariable (« des yeux bleu clair », « des fleurs rouge orangé »).",
+      "- « Châtain » s'accorde en nombre : « des cheveux châtains ».",
+      "## Demi, nu, feu",
+      "- « Demi » avant le nom : invariable et suivi d'un trait d'union (« une demi-heure »). Après le nom : accord en genre seulement (« une heure et demie », « midi et demi », car midi est masculin).",
+      "- « Nu » avant le nom : invariable avec trait d'union (« nu-pieds ») ; après le nom : accordé (« pieds nus »).",
+      "- « Feu » (défunt) : invariable devant le déterminant (« feu la reine »), accordé entre le déterminant et le nom (« la feue reine »)."
+     ],
+     "retenir": [
+      "Nom employé comme couleur = invariable (orange, marron), sauf rose, mauve, fauve, écarlate, pourpre, incarnat.",
+      "Couleur en deux mots = invariable : bleu clair, rouge orangé.",
+      "Demi- et nu- avant le nom : invariables ; après le nom : demie (genre seulement), nus.",
+      "Feu la reine, mais la feue reine.",
+      "Masculin + féminin = masculin pluriel."
+     ],
+     "exo": {
+      "tag": "niv-fr06",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261013fr07",
+     "niv": "fr07",
+     "m": "fr",
+     "titre": "Le participe passé avec être et avec avoir",
+     "min": 45,
+     "verif": "regle",
+     "tech": [
+      "## Ce que demande le concours",
+      "L'accord du participe passé est la question d'orthographe la plus fréquente des concours administratifs. Les QCM jouent sur trois pièges : le COD placé avant l'auxiliaire avoir, le participe suivi d'un infinitif, et les participes invariables.",
+      "## La méthode en quatre questions",
+      "- Quel est l'auxiliaire ? Être : accord avec le sujet. Avoir : passez à la question suivante.",
+      "- Y a-t-il un COD (question « quoi ? » ou « qui ? ») ?",
+      "- Est-il placé avant le verbe (souvent « que », « l' », « les », « la ») ? Si oui, accord avec ce COD ; sinon, participe invariable.",
+      "- Le participe est-il suivi d'un infinitif ? Accord seulement si le COD placé avant fait l'action de l'infinitif.",
+      "! « Fait » suivi d'un infinitif est toujours invariable : « Elle s'est fait couper les cheveux »."
+     ],
+     "fond": [
+      "## Avec l'auxiliaire être",
+      "- Le participe s'accorde avec le sujet : « Les candidates sont arrivées hier ».",
+      "## Avec l'auxiliaire avoir",
+      "- Pas d'accord avec le sujet.",
+      "- Accord avec le COD seulement s'il est placé avant : « Les lettres que j'ai écrites » (que = les lettres).",
+      "- COD placé après ou absence de COD : invariable (« Ils ont classé les dossiers », « Elles ont travaillé toute la nuit »).",
+      "## Cas particuliers",
+      "- Avec « en » COD : participe invariable selon la règle traditionnelle (« Des pommes, j'en ai mangé trois »).",
+      "- Verbes impersonnels : invariables (« les décisions qu'il a fallu prendre »).",
+      "- Compléments de durée, de prix ou de mesure avec dormir, vivre, durer, coûter (sens propre) : ce ne sont pas des COD, participe invariable (« les deux heures qu'il a dormi »). Au sens figuré, « coûter » a un COD et s'accorde : « les efforts que cette réforme a coûtés ».",
+      "- Participe suivi d'un infinitif : accord si le COD fait l'action (« la chanteuse que j'ai entendue chanter ») ; invariable sinon (« les chansons que j'ai entendu chanter »)."
+     ],
+     "retenir": [
+      "Être : accord avec le sujet.",
+      "Avoir : accord avec le COD seulement s'il est placé avant.",
+      "Verbes impersonnels (fallu) et « fait » + infinitif : invariables ; avec « en », la règle traditionnelle laisse le participe invariable.",
+      "Durée ou prix (dormi, coûté au sens propre) : invariables ; coûter au sens figuré s'accorde.",
+      "+ infinitif : accord si le COD fait l'action de l'infinitif."
+     ],
+     "exo": {
+      "tag": "niv-fr07",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261013an03",
+     "niv": "an03",
+     "m": "ang",
+     "titre": "Present simple et present continuous",
+     "min": 40,
+     "verif": "regle",
+     "tech": [
+      "## Ce que demande le concours",
+      "Les QCM d'anglais de présélection testent surtout le choix du temps. Le duo present simple / present continuous est le premier piège : il faut reconnaître les indices de temps et les verbes qui refusent la forme en -ing.",
+      "## La méthode",
+      "- Cherchez l'indice : usually, always, every day, often → habitude (present simple) ; now, at the moment, look!, listen! → action en cours (present continuous).",
+      "- Vérité générale ou horaire officiel → present simple.",
+      "- Verbe d'état (know, understand, believe, belong, want, like, need, seem) → present simple, même pour « maintenant ».",
+      "! À la 3e personne du singulier du present simple : -s (works), -es après o, s, x, ch, sh (goes, watches), consonne + y → -ies (studies)."
+     ],
+     "fond": [
+      "## Present simple",
+      "- Formation : base verbale ; -s à la 3e personne du singulier. Négation : do not / does not + base (She doesn't drink). Question : Do / Does + sujet + base (How often do you check…?).",
+      "- Emplois : habitudes, vérités générales (Water boils at 100 °C), horaires (The train leaves at 6 p.m.), verbes d'état.",
+      "## Present continuous",
+      "- Formation : be (am, is, are) + verbe en -ing (They are drafting a new law).",
+      "- Emplois : action en cours au moment où l'on parle, situation temporaire.",
+      "## Les verbes d'état",
+      "- Ils décrivent un état, pas une action : know, understand, believe, belong, own, want, like, love, hate, need, seem, mean.",
+      "~ I understand this answer (et non I am understanding)."
+     ],
+     "retenir": [
+      "Habitude, vérité générale, horaire → present simple.",
+      "Now, at the moment, look! → be + -ing.",
+      "Verbes d'état (know, understand, belong, want…) → jamais en -ing dans leur sens d'état.",
+      "3e personne : -s ; does / doesn't + base verbale sans -s."
+     ],
+     "exo": {
+      "tag": "niv-an03",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261013an04",
+     "niv": "an04",
+     "m": "ang",
+     "titre": "Past simple, present perfect, for et since",
+     "min": 40,
+     "verif": "regle",
+     "tech": [
+      "## Ce que demande le concours",
+      "Le choix entre past simple et present perfect, et entre for et since, revient à chaque session de QCM. Tout se joue sur les marqueurs de temps.",
+      "## La méthode",
+      "- Moment passé précis et terminé (yesterday, in 2019, two days ago, last year, when…?) → past simple.",
+      "- Lien avec le présent, durée qui continue, expérience (ever, never, already, yet, just, since, for, how long) → present perfect.",
+      "- For + durée (for ten years) ; since + point de départ (since 2020).",
+      "! « Ago » impose le past simple : I saw him two days ago (jamais *I have seen him two days ago)."
+     ],
+     "fond": [
+      "## Past simple",
+      "- Formation : base + -ed (verbes réguliers) ou forme irrégulière (saw, went, got). Question et négation avec did / didn't + base.",
+      "- Emploi : action terminée, datée : She finished the report yesterday.",
+      "## Present perfect",
+      "- Formation : have / has + participe passé (have lived, has finished, been).",
+      "- Emplois : situation commencée dans le passé qui dure encore (I have lived in Abengourou since 2015) ; expérience (Have you ever been to Ghana?) ; résultat présent (She has just arrived).",
+      "## Les marqueurs",
+      "- already (déjà, phrase affirmative), yet (déjà ? / pas encore, question et négation), just (venir de), ever / never.",
+      "- How long have you known her? : durée jusqu'à maintenant."
+     ],
+     "retenir": [
+      "Date ou moment passé précis (ago, yesterday, in 2019, when?) → past simple.",
+      "Durée jusqu'à maintenant, expérience, résultat présent → have / has + participe passé.",
+      "For + durée ; since + point de départ.",
+      "Yet dans les questions et les négations ; just = venir de."
+     ],
+     "exo": {
+      "tag": "niv-an04",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261013lo03",
+     "niv": "lo03",
+     "m": "log",
+     "titre": "Fractions et calcul mental",
+     "min": 40,
+     "verif": "calcul",
+     "tech": [
+      "## Ce que demande le concours",
+      "En présélection, la calculatrice n'est pas autorisée et chaque erreur en logique coûte 2 points. Le calcul mental rapide et sûr est donc un avantage décisif.",
+      "## La méthode",
+      "- Estimez d'abord l'ordre de grandeur : il élimine souvent deux propositions sur quatre.",
+      "- Transformez les pourcentages et décimaux en fractions simples : 25 % = 1/4, 0,5 = 1/2, 0,125 = 1/8.",
+      "- Respectez les priorités : parenthèses, puis multiplications et divisions, puis additions et soustractions.",
+      "! Diviser par 0,5 revient à multiplier par 2 ; diviser par 0,25 revient à multiplier par 4."
+     ],
+     "fond": [
+      "## Fractions",
+      "- Prendre une fraction d'un nombre : multiplier par le numérateur, diviser par le dénominateur (3/4 de 240 = 240 ÷ 4 × 3 = 180).",
+      "- Additionner : mettre au même dénominateur (3/4 + 1/6 = 9/12 + 2/12 = 11/12).",
+      "## Équivalences à connaître",
+      "- 1/2 = 0,5 = 50 % ; 1/4 = 0,25 = 25 % ; 3/4 = 0,75 = 75 % ; 1/5 = 0,2 = 20 % ; 1/8 = 0,125 = 12,5 % ; 1/3 ≈ 0,333.",
+      "## Astuces de calcul mental",
+      "- × 11 d'un nombre à deux chiffres : on écrit la somme des chiffres au milieu (45 × 11 = 495).",
+      "- × 125 = × 1000 ÷ 8 ; × 25 = × 100 ÷ 4 ; × 5 = × 10 ÷ 2.",
+      "- 99 × 99 = (100 − 1)² = 10 000 − 200 + 1 = 9 801."
+     ],
+     "retenir": [
+      "Fraction d'un nombre : ÷ dénominateur × numérateur.",
+      "25 % = 1/4 ; 12,5 % = 1/8 ; ÷ 0,5 = × 2.",
+      "Priorités : parenthèses, × et ÷, puis + et −.",
+      "Toujours estimer l'ordre de grandeur avant de calculer."
+     ],
+     "exo": {
+      "tag": "niv-lo03",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261013lo04",
+     "niv": "lo04",
+     "m": "log",
+     "titre": "Pourcentages avancés",
+     "min": 45,
+     "verif": "calcul",
+     "tech": [
+      "## Ce que demande le concours",
+      "Les pourcentages successifs, la TVA et les taux réciproques sont des pièges classiques : la réponse intuitive (additionner les pourcentages) est presque toujours fausse.",
+      "## La méthode du coefficient multiplicateur",
+      "- Une hausse de t % multiplie par (1 + t/100) ; une baisse de t % multiplie par (1 − t/100).",
+      "- Des variations successives se multiplient : + 10 % puis − 10 % donne × 1,1 × 0,9 = × 0,99, soit une baisse de 1 %.",
+      "- Pour revenir au point de départ après une baisse, il faut diviser : après − 20 % (× 0,8), il faut × 1/0,8 = × 1,25, soit + 25 %.",
+      "! Ne jamais additionner deux pourcentages successifs."
+     ],
+     "fond": [
+      "## Taux de variation",
+      "- Taux = (valeur d'arrivée − valeur de départ) ÷ valeur de départ × 100. De 400 à 460 : 60 ÷ 400 = 15 %.",
+      "## TVA",
+      "- Prix TTC = prix HT × (1 + taux). Avec une TVA de 18 % : TTC = HT × 1,18.",
+      "- Prix HT = prix TTC ÷ (1 + taux). 11 800 F TTC → 11 800 ÷ 1,18 = 10 000 F HT.",
+      "## Pourcentage de pourcentage",
+      "- 30 % de 30 % = 0,3 × 0,3 = 0,09, soit 9 %.",
+      "~ Sur 250 candidats, 40 % sont admissibles (100), puis 30 % des admissibles sont admis : 30 admis, soit 12 % du total."
+     ],
+     "retenir": [
+      "Hausse de t % : × (1 + t/100) ; baisse : × (1 − t/100).",
+      "Variations successives : on multiplie les coefficients, on n'additionne jamais les taux.",
+      "HT = TTC ÷ (1 + taux).",
+      "Taux réciproque d'une baisse de 20 % : + 25 %."
+     ],
+     "exo": {
+      "tag": "niv-lo04",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261013ct02",
+     "niv": "ct02",
+     "m": "ct",
+     "titre": "Lire et dégager la structure d'un texte",
+     "min": 50,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "On ne résume bien que ce que l'on a compris. Avant d'écrire une ligne, il faut savoir quelle est la thèse de l'auteur, comment il l'argumente et dans quel ordre.",
+      "## La méthode de lecture en trois passages",
+      "- Première lecture, sans crayon : de quoi parle le texte, que soutient l'auteur ?",
+      "- Deuxième lecture, crayon en main : encadrez les connecteurs logiques, soulignez les phrases qui portent une idée, mettez entre crochets les exemples.",
+      "- Troisième lecture : notez en marge, pour chaque paragraphe, son idée en quelques mots. Vous obtenez le plan du texte.",
+      "! Les exemples, les anecdotes et les citations servent l'argumentation : dans le résumé, on les supprime ou on les généralise."
+     ],
+     "fond": [
+      "## Les connecteurs, squelette du texte",
+      "- Opposition : mais, cependant, pourtant, en revanche, au contraire, néanmoins.",
+      "- Concession : certes… mais, bien que, même si.",
+      "- Cause : car, en effet, parce que, puisque.",
+      "- Conséquence : donc, ainsi, par conséquent, c'est pourquoi.",
+      "- Addition : de plus, en outre, par ailleurs.",
+      "## Repérer la thèse",
+      "- Elle se trouve le plus souvent dans l'introduction ou dans la conclusion du texte.",
+      "- Elle s'oppose souvent à une thèse adverse, présentée d'abord puis réfutée.",
+      "## Ce que l'on garde dans le résumé",
+      "- Le même ordre des idées que le texte.",
+      "- Le point de vue de l'auteur, sans écrire « l'auteur dit que ».",
+      "- Les liens logiques entre les idées, exprimés par des connecteurs."
+     ],
+     "retenir": [
+      "Trois lectures : comprendre, annoter, dégager le plan.",
+      "Les connecteurs révèlent la structure : opposition, concession, cause, conséquence, addition.",
+      "Thèse : souvent en introduction ou en conclusion.",
+      "Résumé : même ordre, même point de vue, sans les exemples."
+     ],
+     "exo": {
+      "tag": "niv-ct02",
+      "n": 8,
+      "ecrit": "ct"
+     }
+    },
+    {
+     "id": "L20261013so03",
+     "niv": "so03",
+     "m": "sog",
+     "titre": "L'introduction en quatre temps",
+     "min": 50,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "Le correcteur se fait une opinion dès l'introduction. Une introduction claire, construite et précise annonce une copie maîtrisée ; une introduction vague annonce une copie confuse.",
+      "## Les quatre temps",
+      "- L'accroche : un fait précis, daté, vérifiable, lié directement au sujet (une loi, un chiffre officiel, un événement).",
+      "- La définition des termes : chaque mot clé du sujet est défini pour délimiter le champ de la réflexion.",
+      "- La problématique : une seule question centrale, qui exprime une tension ou un paradoxe contenu dans le sujet.",
+      "- L'annonce du plan : les deux ou trois parties, annoncées clairement, sans être développées.",
+      "! À proscrire : « De tout temps, l'homme… », « Depuis la nuit des temps… » : accroches banales et invérifiables."
+     ],
+     "fond": [
+      "## L'accroche",
+      "- Elle part du concret pour aller vers le sujet. Exemple pour un sujet sur la jeunesse et l'emploi : un dispositif public daté ou une statistique officielle sourcée.",
+      "## La définition des termes",
+      "- Elle évite le hors-sujet : définir, c'est aussi exclure ce qui n'est pas dans le sujet.",
+      "## La problématique",
+      "- Elle naît de la confrontation des termes définis : en quoi le sujet pose-t-il problème ?",
+      "- Une seule question centrale ; d'éventuelles sous-questions restent au service de celle-ci.",
+      "## L'annonce du plan",
+      "- « Si … (première partie), il n'en demeure pas moins que … (seconde partie). »",
+      "## Longueur",
+      "- La charte enseignée dans les préparations ivoiriennes recommande une introduction de 10 à 15 phrases."
+     ],
+     "retenir": [
+      "Accroche précise et datée, définitions, problématique unique, annonce du plan.",
+      "Jamais « de tout temps » ni « depuis la nuit des temps ».",
+      "La problématique exprime une tension contenue dans le sujet.",
+      "L'annonce du plan annonce sans développer."
+     ],
+     "exo": {
+      "tag": "niv-so03",
+      "n": 8,
+      "ecrit": "sog"
+     }
+    },
+    {
+     "id": "L20261013or02",
+     "niv": "or02",
+     "m": "oral",
+     "titre": "Les questions de motivation",
+     "min": 40,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "L'oral d'admission évalue la personnalité, la culture générale et la motivation professionnelle du candidat. Les questions de motivation (« Pourquoi l'ENA ? », « Quel administrateur voulez-vous être ? ») sont presque certaines : elles se préparent à l'avance.",
+      "## La méthode",
+      "- Partez de votre parcours réel : formation, expérience, engagements.",
+      "- Reliez-le à un projet de service public précis et concret.",
+      "- Illustrez chaque affirmation par un exemple vérifiable, idéalement chiffré.",
+      "- Structurez vos exemples avec la méthode STAR : Situation, Tâche, Action, Résultat.",
+      "! Le salaire, la sécurité de l'emploi ou le prestige ne sont pas des motivations à mettre en avant."
+     ],
+     "fond": [
+      "## Pourquoi l'ENA ?",
+      "- Montrer que vous connaissez la mission de l'école : former les cadres de l'administration.",
+      "- Montrer ce que vous apporterez : compétences, expérience de terrain, sens de l'intérêt général.",
+      "## Les questions difficiles",
+      "- Si vous ignorez la réponse, dites-le honnêtement et proposez une piste de raisonnement : le jury apprécie la lucidité plus que l'invention.",
+      "- Sur une question politique sensible : restez neutre, exposez les faits et les positions en présence ; un futur fonctionnaire est tenu à la neutralité.",
+      "## Valoriser son expérience",
+      "- Une expérience racontée avec STAR : le contexte, votre mission, ce que vous avez fait, le résultat mesurable."
+     ],
+     "retenir": [
+      "Parcours réel + projet de service public concret + exemples vérifiables.",
+      "Méthode STAR : Situation, Tâche, Action, Résultat.",
+      "Ne pas savoir : le reconnaître et raisonner à voix haute.",
+      "Neutralité sur les sujets politiques."
+     ],
+     "exo": {
+      "tag": "niv-or02",
+      "n": 6,
+      "oral": true
+     }
+    }
+   ],
+   "sujets": []
   }
  ]
 }
