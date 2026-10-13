@@ -1,0 +1,117 @@
+{
+ "updated": "2026-10-13",
+ "verifie_le": "2026-10-13",
+ "session": "Concours directs de la session suivante (entrée à l'ENA en 2028)",
+ "statut": "non_annonce",
+ "resume": "Au 13 octobre 2026, aucun communiqué officiel n'annonce encore les concours directs de la session suivante. En 2026, les concours avaient été annoncés le 11 mars et les inscriptions ont eu lieu du 16 mars au 30 avril : une annonce vers mars 2027 est probable, sans certitude.",
+ "calendrier": [
+  {
+   "etape": "Annonce officielle des concours",
+   "statut": "estime",
+   "prevision": "vers mars 2027 (estimation)",
+   "ref2026": "11 mars 2026, par la ministre de la Fonction publique",
+   "source": {
+    "t": "KOACI, 11 mars 2026 : annonce des concours d'entrée à l'ENA en 2027",
+    "u": "https://www.koaci.com/article/2026/03/11/cote-divoire/societe/cote-divoire-entree-a-lena-annee-2027-les-concours-seront-ouverts-pour-un-recrutement-estime-a-600-places_195022.html"
+   }
+  },
+  {
+   "etape": "Inscriptions en ligne",
+   "statut": "estime",
+   "prevision": "vers mi-mars à fin avril 2027 (estimation)",
+   "ref2026": "du 16 mars au 30 avril 2026",
+   "source": {
+    "t": "Fraternité Matin, 31 mars 2026 : inscriptions aux concours directs",
+    "u": "https://www.fratmat.info/article/2640983/societe/concours-direct-dentree-a-lena-en-2027cycle-superieur-lage-maximum-fixe-a-43-ans"
+   }
+  },
+  {
+   "etape": "Prise de vue sur rendez-vous",
+   "statut": "estime",
+   "prevision": "pendant les inscriptions (estimation)",
+   "ref2026": "du 23 mars au 6 mai 2026",
+   "source": {
+    "t": "Fraternité Matin, 31 mars 2026 : inscriptions aux concours directs",
+    "u": "https://www.fratmat.info/article/2640983/societe/concours-direct-dentree-a-lena-en-2027cycle-superieur-lage-maximum-fixe-a-43-ans"
+   }
+  },
+  {
+   "etape": "Présélection du cycle moyen supérieur",
+   "statut": "estime",
+   "prevision": "vers fin juin 2027 (estimation)",
+   "ref2026": "29 et 30 juin 2026",
+   "source": {
+    "t": "KOACI, 11 mars 2026 : annonce des concours d'entrée à l'ENA en 2027",
+    "u": "https://www.koaci.com/article/2026/03/11/cote-divoire/societe/cote-divoire-entree-a-lena-annee-2027-les-concours-seront-ouverts-pour-un-recrutement-estime-a-600-places_195022.html"
+   }
+  },
+  {
+   "etape": "Dépôt du dossier physique des admissibles (cycle moyen supérieur)",
+   "statut": "estime",
+   "prevision": "quelques jours après les résultats de la présélection",
+   "ref2026": "8 juillet 2026, deux jours après les résultats",
+   "source": {
+    "t": "Fraternité Matin, juillet 2026 : résultats de la présélection et dossier physique",
+    "u": "https://www.fratmat.info/article/2643052/societe/concours-directs-dentree-a-lena-en-2027-les-resultats-de-la-phase-de-preselection-disponibles-ce-lundi-6-juillet"
+   }
+  },
+  {
+   "etape": "Écrits d'admissibilité du cycle moyen supérieur",
+   "statut": "estime",
+   "prevision": "vers fin juillet 2027 (estimation)",
+   "ref2026": "23 et 24 juillet 2026",
+   "source": {
+    "t": "Fraternité Matin, juillet 2026 : convocations aux écrits d'admissibilité",
+    "u": "https://www.fratmat.info/article/2643263/societe/concours-directs-dentree-a-lena-en-2027-les-convocations-pour-la-phase-dadmissibilite-disponibles-a-partir-de-ce-mercredi-15-juillet"
+   }
+  },
+  {
+   "etape": "Visite médicale et dépôt des dossiers des admis",
+   "statut": "estime",
+   "prevision": "vers septembre et octobre 2027 (estimation)",
+   "ref2026": "du 21 septembre au 23 octobre 2026",
+   "source": {
+    "t": "KOACI, 11 mars 2026 : annonce des concours d'entrée à l'ENA en 2027",
+    "u": "https://www.koaci.com/article/2026/03/11/cote-divoire/societe/cote-divoire-entree-a-lena-annee-2027-les-concours-seront-ouverts-pour-un-recrutement-estime-a-600-places_195022.html"
+   }
+  }
+ ],
+ "actus": [
+  {
+   "date": "2026-09-10",
+   "titre": "Communiqués de l'ENA sur le dépôt des dossiers et la visite médicale des admis aux concours d'entrée en 2027",
+   "resume": "Ils concernent les admis de la session 2026. Rien n'est encore publié sur la session suivante.",
+   "source": {
+    "t": "ENA, avis et communiqués (page d'accueil)",
+    "u": "https://www.ena.ci/"
+   }
+  },
+  {
+   "date": "2026-07-15",
+   "titre": "Convocations aux écrits d'admissibilité",
+   "resume": "Cycle moyen supérieur : 23 et 24 juillet 2026.",
+   "source": {
+    "t": "Fraternité Matin, juillet 2026 : convocations aux écrits d'admissibilité",
+    "u": "https://www.fratmat.info/article/2643263/societe/concours-directs-dentree-a-lena-en-2027-les-convocations-pour-la-phase-dadmissibilite-disponibles-a-partir-de-ce-mercredi-15-juillet"
+   }
+  },
+  {
+   "date": "2026-07-02",
+   "titre": "Résultats de la présélection et dépôt des dossiers physiques",
+   "resume": "Résultats affichés le 6 juillet 2026 ; dépôt du cycle moyen supérieur le 8 juillet.",
+   "source": {
+    "t": "Fraternité Matin, juillet 2026 : résultats de la présélection et dossier physique",
+    "u": "https://www.fratmat.info/article/2643052/societe/concours-directs-dentree-a-lena-en-2027-les-resultats-de-la-phase-de-preselection-disponibles-ce-lundi-6-juillet"
+   }
+  },
+  {
+   "date": "2026-03-11",
+   "titre": "Annonce des six concours d'entrée à l'ENA en 2027",
+   "resume": "600 places estimées, dont 450 pour les trois concours directs.",
+   "source": {
+    "t": "KOACI, 11 mars 2026 : annonce des concours d'entrée à l'ENA en 2027",
+    "u": "https://www.koaci.com/article/2026/03/11/cote-divoire/societe/cote-divoire-entree-a-lena-annee-2027-les-concours-seront-ouverts-pour-un-recrutement-estime-a-600-places_195022.html"
+   }
+  }
+ ]
+}

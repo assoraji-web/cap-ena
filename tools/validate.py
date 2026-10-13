@@ -104,6 +104,30 @@ for pk in index.get("packs", []):
 for r in index.get("retired", []):
     if not isinstance(r, str): err("index.json", "retired doit contenir des identifiants")
 
+# veille du concours
+vp = C / "veille.json"
+if vp.exists():
+    try:
+        V = json.loads(vp.read_text(encoding="utf-8"))
+        for k in ("updated","verifie_le","statut","resume","calendrier","actus"):
+            if k not in V: err("veille.json", f"champ manquant {k}")
+        if V.get("statut") not in ("annonce","non_annonce"): err("veille.json", "statut doit valoir annonce ou non_annonce")
+        for i, c in enumerate(V.get("calendrier", [])):
+            w = f"veille.json calendrier {i+1}"
+            if not c.get("etape"): err(w, "étape manquante")
+            if c.get("statut") not in ("officiel","estime","passe"): err(w, "statut doit valoir officiel, estime ou passe")
+            for k in ("debut","fin"):
+                if c.get(k) and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", c[k]): err(w, f"{k} doit être au format AAAA-MM-JJ")
+            if c.get("statut") == "officiel" and not (c.get("debut") or c.get("fin")): err(w, "une étape officielle doit avoir une date")
+            if not str((c.get("source") or {}).get("u","")).startswith("https://"): err(w, "source https obligatoire")
+        for i, a_ in enumerate(V.get("actus", [])):
+            w = f"veille.json actu {i+1}"
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(a_.get("date",""))): err(w, "date invalide")
+            if not a_.get("titre"): err(w, "titre manquant")
+            if not str((a_.get("source") or {}).get("u","")).startswith("https://"): err(w, "source https obligatoire")
+    except json.JSONDecodeError as e:
+        err("veille.json", f"JSON invalide : {e}")
+
 for x in warns: print("Avertissement :", x)
 if errors:
     print(f"ÉCHEC : {len(errors)} erreur(s)")

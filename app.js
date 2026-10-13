@@ -1254,6 +1254,7 @@ function indexLevels(){
 function lessonOf(lv){ return (lv.lesson && LMAP[lv.lesson]) || NIV2L[lv.id] || null; }
 
 // ---------- Contenus publiés chaque nuit ----------
+let VEILLE = null;   // veille du concours (content/veille.json), mise à jour chaque jour
 const CONTENT = {loaded:false, updated:null, packs:0, added:{q:0,l:0,s:0}, today:{q:0,l:0,s:0}, offline:false};
 function repoInfo(){
   const m = location.hostname.match(/^([^.]+)\.github\.io$/i);
@@ -1295,6 +1296,8 @@ async function loadContent(){
     if (retired.size){ BANK = BANK.filter(q=>!retired.has(q.id)); for (const id of retired){ delete state.wrong[id]; } }
     CONTENT.loaded = true; CONTENT.updated = idx.updated || null;
   } catch(e){ CONTENT.offline = true; }
+  try { const v = await fetch("content/veille.json", {cache:"no-cache"}).then(r=>{ if(!r.ok) throw 0; return r.json(); }); if (v && v.updated) { VEILLE = v; try { localStorage.setItem("capena.veille", JSON.stringify(v)); } catch(e){} } } catch(e){}
+  if (!VEILLE) { try { VEILLE = JSON.parse(localStorage.getItem("capena.veille") || "null"); } catch(e){} }
   indexLevels();
   if (!state.exam && !inExamView()) render();
 }
@@ -1325,7 +1328,7 @@ const DEFAULT_PLANNING = [
   {id:"dim-a", jour:0, debut:"17:00", fin:"18:00", k:"oral"}
 ];
 const defaults = ()=>({v:3, xp:0, stats:{}, wrong:{}, seen:{}, lv:{}, valHist:[], copies:[], oral:0, custom:[], cycle:"CMS",
-  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null,
+  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null, interrupt:null, jokers:[], urgences:[], veilleSeen:null,
   profile:{nom:"TANO", prenoms:"Ahmed", naissance:"", diplome:"", ville:"", statut:"", email:""}, dossier:{}, days:{}, created:today(), tuto3:null, blancs:0});
 let state = defaults();
 (function load(){
@@ -1466,8 +1469,10 @@ function go(v){ view = v; clearTimers(); render(); window.scrollTo({top:0}); }
 const inExamView = ()=> ["quiz","ecrit","oral","conditions"].includes(view) && !!state.exam;
 
 // ---------- Surveillance des épreuves ----------
-// Pendant une évaluation, quitter l'appli (autre appli, écran d'accueil, verrouillage, appel, rechargement) entraîne une sanction :
-// épreuve annulée, les deux derniers niveaux validés sont reverrouillés, −150 XP, appli bloquée 3 minutes puis reverrouillée.
+// Pendant une évaluation, quitter l'appli (autre appli, écran d'accueil, verrouillage, appel, rechargement) annule l'épreuve.
+// Au retour, le candidat déclare la cause : appel entrant ou urgence (3 interruptions justifiées par 30 jours, sans sanction),
+// ou sortie volontaire : sanction (les deux derniers niveaux validés sont reverrouillés, −150 XP, appli bloquée 3 minutes).
+// Le bouton « Urgence » de l'épreuve permet de sortir sans sanction pour appeler les secours.
 let wakeLock = null;
 async function wake(on){ try { if (on && "wakeLock" in navigator){ wakeLock = await navigator.wakeLock.request("screen"); } else if (!on && wakeLock){ await wakeLock.release(); wakeLock = null; } } catch(e){} }
 function examBegin(info){
@@ -1478,16 +1483,37 @@ function examBegin(info){
 function examFinish(){ state.exam = null; save(); wake(false); document.body.classList.remove("inexam"); }
 window.addEventListener("popstate", ()=>{ if (state.exam){ try { history.pushState({exam:1}, ""); } catch(e){} toast("Épreuve en cours : impossible de quitter. Remettez votre copie ou abandonnez."); } });
 document.addEventListener("visibilitychange", ()=>{
-  if (document.hidden){ if (state.exam) sanction("Sortie de l'appli pendant l'épreuve"); }
+  if (document.hidden){ if (state.exam) interruptExam(); }
   else {
     if (state.exam) wake(true);
-    if (state.pendingSanction && !document.body.classList.contains("locked")) showLock();
+    if ((state.pendingSanction || state.interrupt) && !document.body.classList.contains("locked")) showLock();
   }
 });
-window.addEventListener("pagehide", ()=>{ if (state.exam) sanction("Sortie de l'appli pendant l'épreuve"); });
-function sanction(reason){
+window.addEventListener("pagehide", ()=>{ if (state.exam) interruptExam(); });
+const JOKERS = 3;
+function jokersLeft(){ const lim = Date.now() - 30*86400000; return Math.max(0, JOKERS - (state.jokers||[]).filter(t=>t>lim).length); }
+function resetExamUI(){ quiz = null; ecrit = null; oralS = null; pre = null; clearTimers(); wake(false); document.body.classList.remove("inexam"); }
+function interruptExam(){
   const ex = state.exam; if (!ex) return;
-  state.exam = null;
+  state.exam = null; state.interrupt = Object.assign({}, ex, {at: Date.now()});
+  save(); resetExamUI(); view = "interruption";
+}
+function justifyInterrupt(){
+  state.jokers = (state.jokers||[]).concat([Date.now()]); state.interrupt = null; save();
+  toast("Interruption justifiée : épreuve annulée sans sanction. À recommencer avec d'autres questions.");
+  go("home");
+}
+function urgentExit(){
+  const ex = state.exam; if (!ex) return;
+  state.exam = null; state.urgences = (state.urgences||[]).concat([{at:Date.now(), what: ex.title||""}]);
+  save(); resetExamUI(); go("urgence");
+}
+function urgenceButton(){
+  return h("button",{class:"btn ghost small urg",type:"button",onclick:(ev)=>{ if (!ev.target.dataset.c){ ev.target.dataset.c = "1"; ev.target.textContent = "Confirmer : suspendre l'épreuve pour une urgence"; return; } urgentExit(); }},"Urgence (appel des secours)");
+}
+function sanction(reason, exArg){
+  const ex = exArg || state.exam; if (!ex) return;
+  state.exam = null; state.interrupt = null;
   const reverted = [];
   for (let i=0; i<2 && state.valHist.length; i++){
     const id = state.valHist.pop();
@@ -1500,7 +1526,7 @@ function sanction(reason){
   const s = {date:today(), at:Date.now(), reason, what: ex.title || "", reverted, xp: before - state.xp};
   state.sanctions.push(s); state.pendingSanction = s; state.blockUntil = Date.now() + 3*60*1000;
   save();
-  quiz = null; ecrit = null; oralS = null; pre = null; clearTimers(); wake(false); document.body.classList.remove("inexam");
+  resetExamUI();
   view = "sanction";
 }
 
@@ -1518,7 +1544,9 @@ function vConditions(){
       h("ul",{class:"pts"},
         h("li",null,"Activez le mode « Ne pas déranger » et coupez la sonnerie des appels."),
         h("li",null, h("b",null,"Ne quittez pas l'appli"), " : changer d'appli, revenir à l'écran d'accueil, éteindre l'écran, recevoir un appel ou recharger la page annule l'épreuve."),
-        h("li",null,"Sanction : les deux derniers niveaux validés sont reverrouillés, −150 XP, appli bloquée 3 minutes."),
+        h("li",null,"Sortie volontaire : les deux derniers niveaux validés sont reverrouillés, −150 XP, appli bloquée 3 minutes."),
+        h("li",null,"Appel entrant : à votre retour, déclarez-le. L'épreuve est annulée sans sanction et sera recommencée avec d'autres questions (3 interruptions justifiées par période de 30 jours ; il vous en reste " + jokersLeft() + ")."),
+        h("li",null,"Urgence : le bouton « Urgence » en bas de l'épreuve suspend l'épreuve sans sanction et affiche les numéros des secours."),
         h("li",null,"Aucune correction pendant l'épreuve : elle s'affiche quand vous remettez votre copie."),
         pre.extra ? h("li",null, pre.extra) : null),
       h("label",{class:"chk"}, ok, h("span",null,"Je m'engage à composer seul, sans document ni aide extérieure.")),
@@ -1657,7 +1685,7 @@ function oralNext(){
 
 // ---------- Rendu ----------
 const TABS = [["home","Aujourd'hui"],["parcours","Parcours"],["train","Entraînement"],["candidature","Candidature"],["profil","Profil"]];
-const PARENT = {quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home"};
+const PARENT = {quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
 function renderNav(){
   const n = $("#nav"); n.replaceChildren();
   const parent = PARENT[view] || view;
@@ -1668,11 +1696,12 @@ function renderNav(){
 function render(){
   if (document.body.classList.contains("locked")) return;
   if (state.blockUntil > Date.now() && view !== "sanction") view = "sanction";
-  document.body.classList.toggle("blocked", view==="sanction" && state.blockUntil > Date.now());
+  else if (state.interrupt && view !== "interruption") view = "interruption";
+  document.body.classList.toggle("blocked", (view==="sanction" && state.blockUntil > Date.now()) || view==="interruption");
   renderNav();
   const v = $("#view"); v.replaceChildren();
   const fn = {home:vHome, parcours:vParcours, track:vTrack, lesson:vLesson, quiz:vQuiz, train:vTrain, ecrit:vEcrit, oral:vOral, conditions:vConditions,
-    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction}[view] || vHome;
+    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, interruption:vInterruption, urgence:vUrgence}[view] || vHome;
   v.append(fn());
 }
 const card = (cls, ...kids)=>h("section",{class:"card "+(cls||"")}, ...kids);
@@ -1746,6 +1775,7 @@ function vHome(){
       h("div",{class:"row spread"}, h("div",null, h("p",{class:"lbl"},"Indice de préparation"), h("b",{class:"big-n"}, ind.total + " / 100")), h("div",{class:"right"}, h("p",{class:"lbl"},"Grade"), h("b",null, nv.cur[1]))),
       bar(ind.total, ind.total<40),
       h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. Chaque séance manquée fait baisser l'assiduité et retire des points.")),
+    veilleBanner(),
     due.length ? card("warnc stack",
       h("h2",null, due.length + " séance" + (due.length>1?"s":"") + " à rattraper"),
       h("p",null, due.reduce((a,x)=>a+x.pts,0) + " XP perdus, récupérables. Prochaine échéance : " + frDate(due[0].limit) + "."),
@@ -1964,7 +1994,8 @@ function vQuiz(){
       h("button",{class:"btn ghost",type:"button",disabled:quiz.i===0,onclick:()=>{ quiz.i--; render(); }},"Précédente"),
       quiz.i < total-1 ? h("button",{class:"btn",type:"button",disabled:!exam && !answered,onclick:()=>{ quiz.i++; render(); window.scrollTo({top:0}); }},"Suivante") : (exam ? confirmBtn : h("button",{class:"btn primary",type:"button",disabled:!answered,onclick:()=>finishQCM(false)},"Voir mon résultat"))),
     exam && quiz.i < total-1 ? confirmBtn : null,
-    exam ? h("button",{class:"btn ghost small",type:"button",onclick:(ev)=>{ if (!quiz.ab){ quiz.ab = true; ev.target.textContent = "Confirmer l'abandon (copie blanche, note 0)"; return; } quiz.items.forEach(x=>x.pick=null); finishQCM(false); }},"Abandonner l'épreuve") : null
+    exam ? h("button",{class:"btn ghost small",type:"button",onclick:(ev)=>{ if (!quiz.ab){ quiz.ab = true; ev.target.textContent = "Confirmer l'abandon (copie blanche, note 0)"; return; } quiz.items.forEach(x=>x.pick=null); finishQCM(false); }},"Abandonner l'épreuve") : null,
+    exam ? urgenceButton() : null
   );
 }
 function vQuizResult(){
@@ -2023,7 +2054,8 @@ function vEcrit(){
       h("div",{class:"qhead"}, headTitle, h("span",{class:"timer",id:"etimer"})),
       h("p",{class:"sujet"}, s.t), support, ta, counter,
       h("button",{class:"btn primary",type:"button",onclick:(ev)=>{ if (words(ecrit.text) < 40) return toast("Rédigez au moins votre introduction et votre plan avant de remettre."); if (!ecrit.cf){ ecrit.cf = true; ev.target.textContent = "Confirmer la remise de la copie"; return; } endWriting(false); }},"Remettre ma copie"),
-      h("button",{class:"btn ghost small",type:"button",onclick:(ev)=>{ if (!ecrit.ab){ ecrit.ab = true; ev.target.textContent = "Confirmer l'abandon (copie non notée)"; return; } examFinish(); ecrit = null; go("home"); }},"Abandonner l'épreuve"));
+      h("button",{class:"btn ghost small",type:"button",onclick:(ev)=>{ if (!ecrit.ab){ ecrit.ab = true; ev.target.textContent = "Confirmer l'abandon (copie non notée)"; return; } examFinish(); ecrit = null; go("home"); }},"Abandonner l'épreuve"),
+      urgenceButton());
   }
   if (ecrit.phase === "grade"){
     const grille = h("div",{class:"stack tight"}, E.grille.map((g,i)=>h("label",{class:"chk"}, h("input",{type:"checkbox",id:"g"+i,checked:ecrit.checks[i]||null,onchange:(ev)=>{ ecrit.checks[i]=ev.target.checked; }}), h("span",null,g))));
@@ -2080,7 +2112,8 @@ function vOral(){
       h("p",{class:"lbl"}, oralS.phase==="prep" ? "Préparation · 2 minutes" : "Réponse à voix haute · 5 minutes"),
       h("p",{class:"question"}, q), ta,
       oralS.phase==="rep" ? h("div",{class:"stack tight"}, h("h3",null,"Grille du jury (cochez ce que vous avez réussi)"), GRILLE_ORAL.map((g,i)=>h("label",{class:"chk"},h("input",{type:"checkbox",checked:ck[i]||null,onchange:(ev)=>{ck[i]=ev.target.checked;}}),h("span",null,g)))) : null,
-      h("button",{class:"btn primary",type:"button",onclick:oralNext}, oralS.phase==="prep" ? "Je réponds" : oralS.j===0 ? "Question suivante" : "Terminer l'oral"))
+      h("button",{class:"btn primary",type:"button",onclick:oralNext}, oralS.phase==="prep" ? "Je réponds" : oralS.j===0 ? "Question suivante" : "Terminer l'oral")),
+    urgenceButton()
   );
 }
 
@@ -2137,6 +2170,33 @@ function vSanction(){
       left > 0 ? h("p",{class:"box warn"},"Appli bloquée encore ", h("b",{id:"blk"}, fmtTime(left)), ".")
         : h("button",{class:"btn primary",type:"button",onclick:()=>{ state.pendingSanction = null; save(); go("home"); }},"J'ai compris"))
   );
+}
+
+// ---------- Interruption et urgence ----------
+function vInterruption(){
+  const it = state.interrupt; if (!it) return vHome();
+  const left = jokersLeft();
+  const when = new Date(it.at); const hm = pad(when.getHours()) + " h " + pad(when.getMinutes());
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Épreuve interrompue à " + hm), h("h1",{class:"h-l"},"Vous avez quitté l'appli")),
+    card("stack",
+      h("p",null, "L'épreuve « " + (it.title||"") + " » est annulée : vous la recommencerez avec d'autres questions. Que s'est-il passé ?"),
+      left > 0 ? h("button",{class:"btn primary",type:"button",onclick:justifyInterrupt},"Appel entrant ou urgence") : h("p",{class:"box warn"},"Vous avez déjà utilisé vos 3 interruptions justifiées des 30 derniers jours : cette sortie est sanctionnée."),
+      left > 0 ? h("p",{class:"muted small"},"Déclaration sur l'honneur. Interruptions justifiées restantes sur 30 jours : " + left + " / " + JOKERS + ". Aucune sanction, mais l'épreuve est à refaire.") : null,
+      h("button",{class: left > 0 ? "btn" : "btn primary",type:"button",onclick:()=>{ sanction("Sortie de l'appli pendant l'épreuve", state.interrupt); render(); }}, left > 0 ? "J'ai quitté l'appli pour une autre raison" : "Voir la sanction")),
+    h("p",{class:"note"},"Pour éviter les interruptions : mode « Ne pas déranger » pendant les épreuves. Vous pouvez y autoriser vos contacts favoris ou les appels répétés, pour rester joignable en cas d'urgence familiale.")
+  );
+}
+const SECOURS = [["Police secours","170"],["Police secours","110"],["Police secours","111"],["Sapeurs-pompiers","180"],["Assistance médicale","185"]];
+function vUrgence(){
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Épreuve suspendue sans sanction"), h("h1",null,"Urgence")),
+    card("stack",
+      h("p",null,"Vous pouvez quitter l'appli librement. L'épreuve est annulée sans pénalité ; vous la recommencerez plus tard."),
+      h("div",{class:"list"}, SECOURS.map(([l,n])=>h("a",{class:"item",href:"tel:"+n}, h("span",{class:"grow"}, h("b",null,l)), h("span",{class:"big-n"}, n)))),
+      h("a",{class:"btn",href:"tel:"},"Ouvrir le téléphone"),
+      h("p",{class:"src"},"Numéros d'urgence en Côte d'Ivoire : ", h("a",{href:"https://voyage.gc.ca/assistance/ambassades-consulats/cote-d-ivoire",target:"_blank",rel:"noopener"},"Gouvernement du Canada, voyage.gc.ca"))),
+    h("button",{class:"btn ghost",type:"button",onclick:()=>go("home")},"Retour à l'accueil"));
 }
 
 
@@ -2322,6 +2382,7 @@ function vCandidature(){
     h("div",null, h("p",{class:"lbl"},"Concours direct · cycle " + (state.cycle==="CS"?"supérieur":"moyen supérieur")), h("h1",null,"Ma candidature")),
     card("feature stack", h("div",{class:"row spread"}, h("h2",null,"Dossier prêt à " + dp.pct + " %"), h("b",null, dp.ok + "/" + dp.total)), bar(dp.pct, dp.pct<50),
       h("p",{class:"muted small"},"Se préparer ne sert à rien sans pouvoir s'inscrire : en 2026, les admissibles n'avaient que deux jours pour déposer leur dossier physique. Touchez une pièce pour changer son état et noter sa date de délivrance.")),
+    veilleCard(),
     eligCard(),
     DOSSIER.map(p=>card("stack",
       h("h2",null, p.ph),
@@ -2351,6 +2412,51 @@ function eligCard(){
       h("li",null,"Cycle supérieur : diplôme de fin de second cycle de l'enseignement supérieur (master) ; 43 ans au plus au 31 décembre 2025 pour la session 2026 (communiqué officiel)."),
       h("li",null,"Les fonctionnaires qui passent un concours direct doivent fournir une démission approuvée.")),
     h("p",{class:"src"},"Sources : ", h("a",{href:DSRC.cms.u,target:"_blank",rel:"noopener"},"Ablanian"), " · ", h("a",{href:DSRC.insc.u,target:"_blank",rel:"noopener"},"Fraternité Matin"), " · ", h("a",{href:DSRC.phys.u,target:"_blank",rel:"noopener"},"Fraternité Matin (dossier physique)")));
+}
+
+// ---------- Veille du concours ----------
+const STATUT = {officiel:["Officiel","ok"], estime:["Estimé","late"], passe:["Passé",""]};
+function veilleDeadlines(){
+  if (!VEILLE || !Array.isArray(VEILLE.calendrier)) return [];
+  const td = today(), out = [];
+  for (const c of VEILLE.calendrier){
+    if (c.statut !== "officiel") continue;
+    const d = c.fin || c.debut; if (!d || d < td) continue;
+    const n = Math.round((parseYmd(d) - parseYmd(td))/86400000);
+    if (n <= 30) out.push({c, n, d});
+  }
+  return out.sort((a,b)=>a.n-b.n);
+}
+function veilleBanner(){
+  if (!VEILLE) return null;
+  const dl = veilleDeadlines();
+  const fresh = VEILLE.updated !== state.veilleSeen;
+  if (!fresh && !dl.length) return null;
+  return card("warnc stack tight",
+    h("h2",null, fresh ? "Veille du concours : nouvelle information" : "Échéance du concours"),
+    fresh ? h("p",{class:"small"}, VEILLE.resume || "") : null,
+    dl.map(x=>h("p",null, h("b",null, x.c.etape), " : " + (x.c.fin ? "jusqu'au " : "le ") + frDate(x.d) + (x.n===0 ? " (aujourd'hui)" : " (dans " + x.n + " jour" + (x.n>1?"s":"") + ")"))),
+    h("button",{class:"btn accent",type:"button",onclick:()=>go("candidature")},"Voir la veille et mon dossier"));
+}
+function veilleCard(){
+  if (!VEILLE) return card("soft", h("p",{class:"small"},"Veille du concours : connectez-vous à Internet pour charger les dernières informations officielles."));
+  state.veilleSeen = VEILLE.updated; save();
+  const an = VEILLE.statut === "annonce";
+  return card("feature stack",
+    h("div",{class:"row spread"}, h("h2",null,"Veille du concours"), h("span",{class:"pill " + (an ? "ok" : "late")}, an ? "Session annoncée" : "Pas encore annoncée")),
+    h("p",null, VEILLE.resume || ""),
+    h("p",{class:"muted small"},"Sources officielles vérifiées le " + frDate(VEILLE.verifie_le || VEILLE.updated) + " (ena.ci, fonctionpublique.gouv.ci, presse officielle). Mise à jour automatique chaque jour."),
+    Array.isArray(VEILLE.calendrier) && VEILLE.calendrier.length ? h("div",{class:"list"}, VEILLE.calendrier.map(c=>{
+      const st = STATUT[c.statut] || STATUT.estime;
+      const dates = c.debut ? (frDate(c.debut) + (c.fin && c.fin!==c.debut ? " au " + frDate(c.fin) : "")) : (c.prevision || "date non publiée");
+      return h("div",{class:"vrow"},
+        h("div",{class:"grow"}, h("b",null, c.etape), h("span",{class:"small block"}, dates), c.ref2026 ? h("span",{class:"muted small block"}, "En 2026 : " + c.ref2026) : null,
+          c.source && c.source.u ? h("p",{class:"src"}, "Source : ", h("a",{href:c.source.u,target:"_blank",rel:"noopener"}, c.source.t || c.source.u)) : null),
+        h("span",{class:"pill " + st[1]}, st[0]));
+    })) : null,
+    Array.isArray(VEILLE.actus) && VEILLE.actus.length ? h("details",null, h("summary",null,"Dernières informations (" + VEILLE.actus.length + ")"),
+      h("div",{class:"stack tight"}, VEILLE.actus.map(a=>h("div",{class:"miss"}, h("p",{class:"small"}, h("b",null, frDate(a.date) + " · " + a.titre)), a.resume ? h("p",{class:"muted small"}, a.resume) : null,
+        a.source && a.source.u ? h("p",{class:"src"}, "Source : ", h("a",{href:a.source.u,target:"_blank",rel:"noopener"}, a.source.t || a.source.u)) : null)))) : null);
 }
 
 
@@ -2433,7 +2539,7 @@ function showLock(){
   $("#view").replaceChildren(h("div",{class:"lock"},
     h("div",{class:"lockmark","aria-hidden":"true"},"ENA"),
     h("div",{class:"center"}, h("p",{class:"lbl"},"Accès réservé"), h("h1",null,"Cap ENA 2027"), h("p",{class:"muted"},"Préparation aux concours directs de l'ENA de Côte d'Ivoire")),
-    state.pendingSanction ? h("p",{class:"box warn"},"Vous avez quitté l'appli pendant une épreuve : déverrouillez pour voir la sanction.") : null,
+    state.pendingSanction ? h("p",{class:"box warn"},"Vous avez quitté l'appli pendant une épreuve : déverrouillez pour voir la sanction.") : state.interrupt ? h("p",{class:"box warn"},"Une épreuve a été interrompue : déverrouillez pour en déclarer la cause.") : null,
     form));
   window.scrollTo({top:0});
   if (!bio) setTimeout(()=>inp.focus(), 50);
@@ -2468,7 +2574,7 @@ const TUTO = [
     txt:["Cap ENA vous prépare au concours direct de l'ENA de Côte d'Ivoire comme un jeu à niveaux, avec les exigences du concours.",
          "- Un emploi du temps fixe vos séances ; chaque matière avance niveau par niveau.",
          "- Un niveau ne s'ouvre que si le précédent est réussi : pas de raccourci.",
-         "- Les évaluations se passent en conditions d'examen. Quitter l'appli pendant une épreuve est sanctionné.",
+         "- Les évaluations se passent en conditions d'examen. Quitter l'appli pendant une épreuve sans raison valable est sanctionné.",
          "- Une séance manquée coûte des points ; un rattrapage les rend.",
          "- En parallèle, l'appli suit la préparation de votre dossier de candidature.",
          "> Comptez 4 minutes pour ce tutoriel. Il reste accessible dans Profil > Tutoriel."] },
@@ -2497,7 +2603,10 @@ const TUTO = [
          "- Le chrono tourne sans pause ; à la fin, la copie est ramassée.",
          "- Aucune correction pendant l'épreuve : elle s'affiche à la remise de la copie.",
          "- Barème officiel : +1 / 0 / −1, et +2 / 0 / −2 en logique. « Je ne réponds pas » vaut 0.",
-         "! Quitter l'appli pendant une épreuve (autre appli, écran d'accueil, bouton marche, appel, rechargement) annule l'épreuve, reverrouille vos deux derniers niveaux validés, retire 150 XP et bloque l'appli 3 minutes.",
+         "! Quitter l'appli pendant une épreuve (autre appli, écran d'accueil, bouton marche, rechargement) annule l'épreuve. Au retour, vous en déclarez la cause.",
+         "- Sortie volontaire : vos deux derniers niveaux validés sont reverrouillés, −150 XP, appli bloquée 3 minutes.",
+         "- Appel entrant : déclarez-le ; pas de sanction, l'épreuve est simplement à refaire (3 interruptions justifiées par 30 jours).",
+         "- Urgence : le bouton « Urgence » en bas de chaque épreuve suspend l'épreuve sans sanction et affiche les numéros des secours (police 170, 110, 111 ; pompiers 180 ; assistance médicale 185).",
          "> Avant chaque épreuve : mode « Ne pas déranger », batterie chargée, appels coupés. L'écran reste allumé pendant l'épreuve."] },
   { t:"Séances manquées et rattrapages", lbl:"Assiduité",
     txt:["À minuit, chaque séance non faite retire 2 XP par minute prévue : 60 XP pour un créneau de 30 minutes, 240 XP pour 2 heures.",
@@ -2555,10 +2664,11 @@ let started = false;
 function startApp(){
   const r = processMissed();
   if (state.pendingSanction || state.blockUntil > Date.now()) view = "sanction";
+  else if (state.interrupt) view = "interruption";
   else if (!state.tuto3) { view = "tuto"; tutoI = 0; }
   else if (view === "tuto") view = "home";
   render();
-  if (r.n && view !== "sanction") toast(r.n + " séance(s) manquée(s) : −" + r.lost + " XP. Rattrapez-les dans les 14 jours.");
+  if (r.n && view !== "sanction" && view !== "interruption") toast(r.n + " séance(s) manquée(s) : −" + r.lost + " XP. Rattrapez-les dans les 14 jours.");
   if (!started){
     started = true; loadContent();
     // à minuit, l'appli ouverte compte aussi les séances manquées
@@ -2567,7 +2677,7 @@ function startApp(){
 }
 indexLevels();
 // une épreuve restée ouverte (appli fermée de force, page rechargée) est une sortie pendant l'épreuve
-if (state.exam) sanction("Épreuve interrompue (appli fermée ou rechargée)");
+if (state.exam) interruptExam();
 if ("serviceWorker" in navigator) window.addEventListener("load", ()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
-if (rememberOn() && !state.pendingSanction) startApp(); else showLock();
+if (rememberOn() && !state.pendingSanction && !state.interrupt) startApp(); else showLock();
 })();
