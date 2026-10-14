@@ -1874,5 +1874,404 @@
     "tag_integre": null
    }
   ]
+ },
+ {
+  "k": "cmc",
+  "label": "Connaissance du monde contemporain",
+  "ecrit": "cmc",
+  "levels": [
+   {
+    "id": "cm01",
+    "titre": "Méthode de l'épreuve de connaissance du monde contemporain",
+    "objectifs": "Ce qu'attend le jury, sujets types, plan, exemples datés et localisés",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm02",
+    "titre": "L'ordre mondial depuis 1945",
+    "objectifs": "Guerre froide, décolonisation, fin de la bipolarité, monde multipolaire",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm03",
+    "titre": "L'Organisation des Nations unies et le multilatéralisme",
+    "objectifs": "Organes de l'ONU, Conseil de sécurité, maintien de la paix, réforme",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm04",
+    "titre": "L'Afrique dans le monde : Union africaine et intégration régionale",
+    "objectifs": "UA, Agenda 2063, CEDEAO, UEMOA, ZLECAf",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm05",
+    "titre": "Les grandes puissances et les puissances émergentes",
+    "objectifs": "États-Unis, Chine, Union européenne, Russie, BRICS",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm06",
+    "titre": "La mondialisation économique",
+    "objectifs": "Commerce international, OMC, firmes transnationales, dette, aide au développement",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm07",
+    "titre": "Climat, environnement et développement durable",
+    "objectifs": "Accords sur le climat, ODD, déforestation, transition énergétique",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm08",
+    "titre": "Population, urbanisation et migrations",
+    "objectifs": "Croissance démographique africaine, villes, migrations internationales",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm09",
+    "titre": "Sécurité et conflits contemporains",
+    "objectifs": "Terrorisme au Sahel, cybersécurité, prolifération, conflits régionaux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm10",
+    "titre": "Le numérique et les mutations de la société",
+    "objectifs": "Révolution numérique, réseaux sociaux, intelligence artificielle, fracture numérique",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm11",
+    "titre": "La Côte d'Ivoire dans le monde contemporain",
+    "objectifs": "Diplomatie, économie, intégration régionale, défis sociaux",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "cm12",
+    "titre": "Révision : monde contemporain",
+    "objectifs": "Test de niveau",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "redac",
+  "label": "Rédaction administrative et mise au net",
+  "ecrit": "redac",
+  "levels": [
+   {
+    "id": "rd01",
+    "titre": "Méthode : le style administratif et l'épreuve de mise au net",
+    "objectifs": "Qualités du style administratif, épreuve de rédaction, épreuve de mise au net",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd02",
+    "titre": "La lettre administrative",
+    "objectifs": "Mentions obligatoires, présentation, formules d'appel et de politesse",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd03",
+    "titre": "La note de service et la note d'information",
+    "objectifs": "Destinataires, objet, structure, signature",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd04",
+    "titre": "Le compte rendu et le procès-verbal",
+    "objectifs": "Différences, plan, temps et style",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd05",
+    "titre": "Le rapport administratif",
+    "objectifs": "Introduction, constat, analyse, propositions",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd06",
+    "titre": "Décision, arrêté et circulaire",
+    "objectifs": "Visas, considérants, dispositif, articles",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd07",
+    "titre": "Le bordereau d'envoi et le soit-transmis",
+    "objectifs": "Usage, présentation",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd08",
+    "titre": "La mise au net : corriger et présenter un brouillon",
+    "objectifs": "Orthographe, ponctuation, abréviations, présentation, signes de correction",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd09",
+    "titre": "Le protocole et les formules de politesse",
+    "objectifs": "Titres, hiérarchie, appellations, formules selon le destinataire",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "rd10",
+    "titre": "Révision : rédaction administrative",
+    "objectifs": "Test de niveau",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "mop",
+  "label": "Management des organisations publiques",
+  "ecrit": "mop",
+  "levels": [
+   {
+    "id": "mp01",
+    "titre": "Méthode de l'épreuve de management des organisations publiques",
+    "objectifs": "Ce qui est attendu, sujets de réflexion et cas pratiques, gestion du temps",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp02",
+    "titre": "Organisation, administration et management",
+    "objectifs": "Définitions, spécificités du secteur public, usager et intérêt général",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp03",
+    "titre": "Les fonctions du management",
+    "objectifs": "Planifier, organiser, diriger, contrôler",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp04",
+    "titre": "La gestion axée sur les résultats et le budget-programme",
+    "objectifs": "Objectifs, indicateurs, performance, redevabilité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp05",
+    "titre": "La gestion des ressources humaines publiques",
+    "objectifs": "Recrutement, évaluation, formation, motivation",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp06",
+    "titre": "Leadership, motivation et conduite d'équipe",
+    "objectifs": "Styles de direction, délégation, gestion des conflits",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp07",
+    "titre": "Communication et prise de décision",
+    "objectifs": "Communication interne et externe, réunion, décision",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp08",
+    "titre": "Qualité du service public et relation avec l'usager",
+    "objectifs": "Accueil, délais, simplification, numérique",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp09",
+    "titre": "Éthique, conduite du changement et modernisation",
+    "objectifs": "Réformes, résistance au changement, bonne gouvernance",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "mp10",
+    "titre": "Révision : management public",
+    "objectifs": "Test de niveau",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "dpen",
+  "label": "Droit pénal et procédure pénale",
+  "ecrit": "dpen",
+  "levels": [
+   {
+    "id": "dp01",
+    "titre": "Méthode de l'épreuve de droit pénal",
+    "objectifs": "Dissertation et cas pratique, qualification des faits",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp02",
+    "titre": "Les principes du droit pénal",
+    "objectifs": "Légalité des délits et des peines, non-rétroactivité, interprétation stricte",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp03",
+    "titre": "L'infraction et ses éléments",
+    "objectifs": "Élément légal, matériel, moral ; classification des infractions",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp04",
+    "titre": "La tentative et la complicité",
+    "objectifs": "Commencement d'exécution, désistement volontaire, actes de complicité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp05",
+    "titre": "La responsabilité pénale",
+    "objectifs": "Imputabilité, causes d'irresponsabilité, faits justificatifs, mineurs",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp06",
+    "titre": "Les peines et leur exécution",
+    "objectifs": "Peines principales et complémentaires, sursis, récidive",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp07",
+    "titre": "Les infractions contre les personnes",
+    "objectifs": "Atteintes à la vie et à l'intégrité physique",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp08",
+    "titre": "Les infractions contre les biens",
+    "objectifs": "Vol, escroquerie, abus de confiance",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp09",
+    "titre": "La procédure pénale : acteurs et étapes",
+    "objectifs": "Police judiciaire, ministère public, instruction, jugement, voies de recours",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "dp10",
+    "titre": "Révision : droit pénal",
+    "objectifs": "Test de niveau",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
+ },
+ {
+  "k": "ecm",
+  "label": "Éducation civique et morale",
+  "ecrit": "ecm",
+  "levels": [
+   {
+    "id": "ec01",
+    "titre": "Méthode de l'épreuve d'éducation civique et morale",
+    "objectifs": "Questions de cours, sujets de réflexion, exemples concrets",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec02",
+    "titre": "La nation ivoirienne et ses symboles",
+    "objectifs": "Drapeau, hymne, devise, armoiries, fête nationale",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec03",
+    "titre": "La Constitution, les droits et les devoirs du citoyen",
+    "objectifs": "Libertés, égalité, devoirs civiques",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec04",
+    "titre": "Les institutions de la République",
+    "objectifs": "Président, Gouvernement, Parlement, justice, institutions consultatives",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec05",
+    "titre": "La citoyenneté et les élections",
+    "objectifs": "Droit de vote, élections, partis, participation",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec06",
+    "titre": "Le civisme au quotidien",
+    "objectifs": "Respect du bien public, code de la route, impôt, salubrité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec07",
+    "titre": "Les droits humains",
+    "objectifs": "Déclaration universelle, droits de l'enfant, égalité femmes-hommes",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec08",
+    "titre": "Bonne gouvernance et lutte contre la corruption",
+    "objectifs": "Transparence, intégrité, institutions de contrôle",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec09",
+    "titre": "Morale, tolérance et cohésion sociale",
+    "objectifs": "Paix, dialogue, refus des discriminations, solidarité",
+    "lecon_integree": null,
+    "tag_integre": null
+   },
+   {
+    "id": "ec10",
+    "titre": "Révision : éducation civique et morale",
+    "objectifs": "Test de niveau",
+    "lecon_integree": null,
+    "tag_integre": null
+   }
+  ]
  }
 ]

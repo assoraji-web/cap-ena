@@ -6,8 +6,8 @@ import json, re, sys, unicodedata, pathlib, hashlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 C = ROOT / "content"
-MATIERES = {"fr","cg","ang","log","pes","dc","da","fp","sog","ct","ns","oral","oj","denf","sfp","opaj","pen","dciv","info"}
-EPREUVES = {"sog","pes","ct","dc","ns","da","oj","denf","sfp","opaj","pen","dciv"}
+MATIERES = {"fr","cg","ang","log","pes","dc","da","fp","sog","ct","ns","oral","oj","denf","sfp","opaj","pen","dciv","info","cmc","redac","mop","dpen","ecm"}
+EPREUVES = {"sog","pes","ct","dc","ns","da","oj","denf","sfp","opaj","pen","dciv","cmc","redac","mop","dpen","ecm"}
 # Catégories où une source web n'est pas exigée, mais une vérification explicite l'est.
 SANS_URL = {"regle", "calcul", "methode"}
 

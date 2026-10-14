@@ -1,9 +1,11 @@
 # Veille quotidienne du concours ENA (Cap ENA)
 
-Tu tiens à jour `content/veille.json`, que l'application affiche dans l'onglet Candidature et sur l'écran d'accueil. Objectif : qu'Ahmed connaisse, dès leur publication, les dates officielles de la prochaine session de ses concours et ne rate aucune échéance (inscriptions, prise de vue, visite médicale, présélection, dépôt des dossiers, écrits, oral) :
+Tu tiens à jour `content/veille.json`, que l'application affiche dans l'onglet Candidature et sur l'écran d'accueil, ainsi que, une fois par mois, le catalogue `content/catalogue.json` (voir la fin de ce fichier). Objectif : que chaque candidat, quel que soit son niveau, connaisse, dès leur publication, les dates officielles de la prochaine session de ses concours et ne rate aucune échéance (inscriptions, prise de vue, visite médicale, présélection, dépôt des dossiers, écrits, oral) :
 - concours directs de l'ENA (cycle moyen supérieur en priorité) : champs principaux du fichier ;
 - concours directs de l'INFJ (Conseiller et Inspecteur de la protection judiciaire de l'enfance et de la jeunesse, Attaché et Administrateur des greffes et parquets, Attaché des services pénitentiaires) : section `autres` d'id `infj` ;
-- concours direct de Secrétaire administratif de la Fonction publique : section `autres` d'id `fp`.
+- concours directs de l'INFJ de tous niveaux (magistrature, secrétaires des greffes et parquets, agents d'encadrement, contrôleurs et administrateurs pénitentiaires) : section `infj` également ;
+- concours de la Fonction publique (directs, recrutements sur titre, professionnels) : section `autres` d'id `fp`, avec les dates communes d'inscription de la plateforme unifiée ;
+- concours professionnels de l'ENA (fonctionnaires) : champs principaux, comme les concours directs.
 
 ## Règle absolue
 - Une information n'entre dans le fichier que si tu l'as **lue pendant cette session** sur une source fiable : ena.ci, fonctionpublique.gouv.ci, gucaci.ciconcours.com, communiqués officiels repris par Fraternité Matin (fratmat.info), l'AIP (aip.ci), AllAfrica, KOACI.
@@ -31,3 +33,6 @@ Tu tiens à jour `content/veille.json`, que l'application affiche dans l'onglet 
 1. `python3 tools/validate.py` : corrige jusqu'à « OK ».
 2. Si le fichier a changé : `git add content/veille.json && git commit -m "Veille du concours AAAA-MM-JJ" && git push`.
 3. Réponse finale, en français, en une ou deux lignes : « Nouveau : … » si une information nouvelle a été publiée (avec la date clé), sinon « Rien de nouveau sur le concours ENA (vérifié le …). »
+
+## Catalogue de la Fonction publique (le 1er de chaque mois)
+- Si la liste officielle des concours administratifs de la nouvelle session est publiée sur https://gucaci.ciconcours.com, signale-le dans ta réponse finale avec le lien : le catalogue `content/catalogue.json` (460 concours de 2026) devra être régénéré à partir des nouveaux communiqués. Ne modifie pas le catalogue à la main.

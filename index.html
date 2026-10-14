@@ -124,7 +124,7 @@ main{padding-block:18px}
 .sujet{font-family:var(--f-r);font-size:1.08rem;font-weight:600;border:1px solid var(--line);background:var(--card);padding:16px 14px 14px;border-radius:10px;position:relative}
 .sujet::before{content:"SUJET";position:absolute;top:-9px;left:12px;background:var(--paper);padding:0 6px;font-family:var(--f-s);font-size:.72rem;color:var(--orange)}
 .reading{font-family:var(--f-r);line-height:1.65;white-space:pre-wrap;max-height:340px;overflow:auto;margin-top:8px}
-textarea,input[type=text],select{width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+textarea,input[type=text],input[type=search],input[type=number],input[type=password].fld,select{width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
 textarea.copy{min-height:320px;font-family:var(--f-r);line-height:1.75;background-image:repeating-linear-gradient(transparent 0 calc(1.75em - 1px),var(--line) calc(1.75em - 1px) 1.75em);background-attachment:local}
 details summary{cursor:pointer;font-weight:700}
 .chk{display:flex;gap:10px;align-items:flex-start;font-size:.95rem} .chk input{width:20px;height:20px;margin-top:2px;flex:none;accent-color:var(--green)}
@@ -211,6 +211,12 @@ label.btn{display:inline-flex;align-items:center;justify-content:center;cursor:p
 .eplist{display:flex;flex-direction:column;gap:4px;border-top:1px dashed var(--line);padding-top:6px}
 .eprow{display:flex;gap:8px;align-items:flex-start;font-size:.9rem} .eprow .meta{color:var(--muted);font-size:.78rem;white-space:nowrap}
 [hidden]{display:none!important}
+.segbtn{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:8px 14px;font:inherit;font-weight:650;min-height:40px;cursor:pointer}
+.segbtn.on{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.catrow .item{cursor:pointer}
+.catrow > div:not(:empty){margin-top:8px}
+.onb{max-width:560px;margin:0 auto}
+.onb .steps{display:flex;gap:6px}.onb .steps span{flex:1;height:4px;border-radius:4px;background:var(--line)}.onb .steps span.on{background:var(--orange)}
 </style>
 </head>
 <body>
@@ -223,6 +229,6 @@ label.btn{display:inline-flex;align-items:center;justify-content:center;cursor:p
 <main class="wrap" id="view"></main>
 <nav id="nav" aria-label="Sections"></nav>
 <div id="toast" hidden></div>
-<script src="app.js?v=5abea647"></script>
+<script src="app.js?v=22f94038"></script>
 </body>
 </html>

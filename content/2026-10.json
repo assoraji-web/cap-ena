@@ -3703,6 +3703,606 @@
      "a": 0,
      "e": "Le PDF (Portable Document Format) conserve la mise en page sur tous les appareils.",
      "verif": "regle"
+    },
+    {
+     "id": "n20261013-cm01-01",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Par quoi commence le travail sur un sujet de monde contemporain ?",
+     "o": [
+      "La rédaction de la conclusion",
+      "La définition des termes et la délimitation dans le temps et l'espace",
+      "Le recopiage du sujet",
+      "Le choix d'une citation"
+     ],
+     "a": 1,
+     "e": "Définir et délimiter évite le hors-sujet : c'est la première étape.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-cm01-02",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "En quelle année l'Organisation des Nations unies a-t-elle été créée ?",
+     "o": [
+      "1919",
+      "1945",
+      "1960",
+      "1975"
+     ],
+     "a": 1,
+     "e": "La Charte des Nations unies a été signée à San Francisco en 1945.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-cm01-03",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Quelle organisation l'Union africaine a-t-elle remplacée en 2002 ?",
+     "o": [
+      "La CEDEAO",
+      "L'UEMOA",
+      "L'Organisation de l'unité africaine (OUA)",
+      "La Communauté économique européenne"
+     ],
+     "a": 2,
+     "e": "L'UA a succédé en 2002 à l'OUA, créée en 1963.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-cm01-04",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Combien de membres permanents compte le Conseil de sécurité de l'ONU ?",
+     "o": [
+      "3",
+      "5",
+      "10",
+      "15"
+     ],
+     "a": 1,
+     "e": "Cinq membres permanents (Chine, États-Unis, France, Royaume-Uni, Russie) sur 15 membres.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-cm01-05",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Le siège de l'Union africaine, qui a succédé à l'OUA, est établi à :",
+     "o": [
+      "Abidjan",
+      "Addis-Abeba",
+      "Dakar",
+      "Lagos"
+     ],
+     "a": 1,
+     "e": "Le siège de l'Union africaine est à Addis-Abeba, en Éthiopie.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-cm01-06",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Quel accord international sur le climat a été conclu en 2015 ?",
+     "o": [
+      "Le protocole de Kyoto",
+      "L'Accord de Paris",
+      "L'accord de Cotonou",
+      "Le traité de Rome"
+     ],
+     "a": 1,
+     "e": "L'Accord de Paris a été adopté en décembre 2015 lors de la COP21.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-cm01-07",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Face à un chiffre dont vous n'êtes pas sûr, la bonne attitude est :",
+     "o": [
+      "l'inventer en le rendant crédible",
+      "donner un ordre de grandeur prudent ou s'en passer",
+      "citer une source imaginaire",
+      "doubler le chiffre"
+     ],
+     "a": 1,
+     "e": "Une erreur factuelle discrédite la copie ; l'ordre de grandeur prudent est préférable.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-cm01-08",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Combien d'objectifs de développement durable l'ONU a-t-elle adoptés en 2015 ?",
+     "o": [
+      "8",
+      "10",
+      "17",
+      "25"
+     ],
+     "a": 2,
+     "e": "Les 17 ODD, à atteindre d'ici 2030, ont succédé aux 8 objectifs du Millénaire.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-rd01-01",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Laquelle de ces qualités n'est PAS attendue du style administratif ?",
+     "o": [
+      "La clarté",
+      "La concision",
+      "L'expression des émotions personnelles",
+      "La précision"
+     ],
+     "a": 2,
+     "e": "Le style administratif est neutre : il exclut l'expression des émotions.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-rd01-02",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Dans une lettre administrative, où place-t-on le lieu et la date ?",
+     "o": [
+      "En haut à droite",
+      "En bas à gauche",
+      "Sous la signature",
+      "Dans l'objet"
+     ],
+     "a": 0,
+     "e": "Le lieu et la date figurent en haut à droite ; le timbre et le numéro en haut à gauche.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-rd01-03",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Quel document sert à donner des instructions internes au personnel d'un service ?",
+     "o": [
+      "La lettre administrative",
+      "La note de service",
+      "Le procès-verbal",
+      "Le bordereau d'envoi"
+     ],
+     "a": 1,
+     "e": "La note de service transmet des instructions internes ; elle ne comporte ni formule d'appel ni formule de politesse.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-rd01-04",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Quelle différence entre un compte rendu et un procès-verbal ?",
+     "o": [
+      "Aucune",
+      "Le compte rendu résume ; le procès-verbal relate fidèlement et a une valeur officielle",
+      "Le procès-verbal est toujours plus court",
+      "Le compte rendu est signé par toutes les parties"
+     ],
+     "a": 1,
+     "e": "Le procès-verbal fait foi de ce qui a été dit ou constaté ; le compte rendu en donne une synthèse.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-rd01-05",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Dans l'épreuve de mise au net, il faut :",
+     "o": [
+      "réécrire le texte avec ses propres mots",
+      "reproduire le texte en appliquant toutes les corrections et en soignant la présentation",
+      "résumer le texte",
+      "commenter le texte"
+     ],
+     "a": 1,
+     "e": "La mise au net reproduit fidèlement le texte corrigé, sans en changer le sens.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-rd01-06",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Que trouve-t-on en haut à gauche d'une lettre administrative ?",
+     "o": [
+      "La formule de politesse",
+      "Le timbre du service et le numéro d'enregistrement",
+      "La signature",
+      "Les pièces jointes"
+     ],
+     "a": 1,
+     "e": "Le timbre (ministère, direction, service) et le numéro figurent en haut à gauche.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-rd01-07",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Quelle formule ouvre traditionnellement le corps d'une lettre administrative ?",
+     "o": [
+      "« Salut, »",
+      "« J'ai l'honneur de… »",
+      "« Comme tu le sais… »",
+      "« Bref, »"
+     ],
+     "a": 1,
+     "e": "« J'ai l'honneur de… » est la formule consacrée de l'introduction.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-rd01-08",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "La mention « Objet » d'une lettre indique :",
+     "o": [
+      "le nom du signataire",
+      "le sujet de la lettre en quelques mots",
+      "la liste des destinataires en copie",
+      "la date de réception"
+     ],
+     "a": 1,
+     "e": "L'objet résume en quelques mots le sujet traité.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-mp01-01",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "L'efficience désigne :",
+     "o": [
+      "le fait d'atteindre ses objectifs",
+      "le fait d'atteindre ses objectifs au meilleur coût",
+      "le nombre d'agents d'un service",
+      "la rapidité de rédaction"
+     ],
+     "a": 1,
+     "e": "L'efficacité mesure l'atteinte des objectifs ; l'efficience y ajoute l'économie des moyens.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-mp01-02",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Quel auteur a décrit les fonctions « prévoir, organiser, commander, coordonner, contrôler » ?",
+     "o": [
+      "Henri Fayol",
+      "Adam Smith",
+      "Max Weber",
+      "Karl Marx"
+     ],
+     "a": 0,
+     "e": "Henri Fayol a défini ces cinq fonctions administratives au début du XXe siècle.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-mp01-03",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Dans un cas pratique de management, quel plan est le plus adapté ?",
+     "o": [
+      "Une liste de citations",
+      "Diagnostic de la situation, puis propositions concrètes",
+      "Un résumé du sujet",
+      "Une biographie d'auteurs"
+     ],
+     "a": 1,
+     "e": "On analyse d'abord le problème, puis on propose des solutions réalistes et mesurables.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-mp01-04",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Un indicateur de performance sert à :",
+     "o": [
+      "décorer un rapport",
+      "mesurer l'atteinte d'un objectif",
+      "remplacer le budget",
+      "recruter des agents"
+     ],
+     "a": 1,
+     "e": "L'indicateur mesure le résultat obtenu par rapport à l'objectif fixé.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-mp01-05",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Lequel de ces principes est propre au service public ?",
+     "o": [
+      "La recherche du profit maximal",
+      "La continuité du service et l'égalité des usagers",
+      "Le secret des tarifs",
+      "Le choix libre des clients"
+     ],
+     "a": 1,
+     "e": "Continuité, égalité et adaptabilité sont les principes classiques du service public.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-mp01-06",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Le budget-programme présente les crédits :",
+     "o": [
+      "par nature de dépense uniquement",
+      "par programmes assortis d'objectifs et d'indicateurs",
+      "sans aucun objectif",
+      "par ordre alphabétique des services"
+     ],
+     "a": 1,
+     "e": "Le budget-programme lie les crédits à des objectifs et des indicateurs de performance.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-mp01-07",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "En une heure d'épreuve, la répartition conseillée est :",
+     "o": [
+      "une heure de plan",
+      "environ 20 minutes d'analyse et de plan, 35 minutes de rédaction, 5 minutes de relecture",
+      "rédaction directe sans relecture",
+      "30 minutes de relecture"
+     ],
+     "a": 1,
+     "e": "Un plan rapide, une rédaction continue et une relecture finale.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-mp01-08",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Une copie qui récite des théories sans les appliquer au cas proposé :",
+     "o": [
+      "obtient la note maximale",
+      "est sanctionnée",
+      "est hors concours",
+      "est obligatoire"
+     ],
+     "a": 1,
+     "e": "Le correcteur attend une application concrète à la situation posée.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dp01-01",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Que signifie le principe de la légalité des délits et des peines ?",
+     "o": [
+      "Le juge peut créer des infractions",
+      "Il n'y a ni infraction ni peine sans texte",
+      "Toutes les infractions sont des crimes",
+      "La peine est fixée par la victime"
+     ],
+     "a": 1,
+     "e": "Seule la loi définit les infractions et les peines ; le juge ne peut pas en créer.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dp01-02",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Quels sont les trois éléments constitutifs d'une infraction ?",
+     "o": [
+      "Légal, matériel, moral",
+      "Civil, commercial, pénal",
+      "Victime, témoin, juge",
+      "Plainte, enquête, jugement"
+     ],
+     "a": 0,
+     "e": "L'infraction suppose un texte (élément légal), un acte (élément matériel) et une intention ou une faute (élément moral).",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dp01-03",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Selon leur gravité, les infractions se classent en :",
+     "o": [
+      "crimes, délits et contraventions",
+      "fautes, erreurs et oublis",
+      "lois, décrets et arrêtés",
+      "plaintes, procès et appels"
+     ],
+     "a": 0,
+     "e": "La classification tripartite distingue crimes, délits et contraventions.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dp01-04",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Une loi pénale nouvelle plus sévère :",
+     "o": [
+      "s'applique aux faits commis avant son entrée en vigueur",
+      "ne s'applique pas aux faits commis avant son entrée en vigueur",
+      "s'applique seulement aux mineurs",
+      "est toujours inconstitutionnelle"
+     ],
+     "a": 1,
+     "e": "La non-rétroactivité de la loi pénale plus sévère protège le justiciable.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dp01-05",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Dans un cas pratique, quelle est la bonne démarche ?",
+     "o": [
+      "Solution, puis faits",
+      "Faits, question de droit, règle, application, solution",
+      "Règle seulement",
+      "Opinion personnelle"
+     ],
+     "a": 1,
+     "e": "On part des faits, on pose la question de droit, on expose et applique la règle, puis on conclut.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dp01-06",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "L'élément moral de l'infraction correspond :",
+     "o": [
+      "au texte qui la prévoit",
+      "à l'acte matériel",
+      "à l'intention ou à la faute de l'auteur",
+      "à la peine prononcée"
+     ],
+     "a": 2,
+     "e": "L'élément moral est l'intention coupable ou, pour certaines infractions, la faute d'imprudence.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dp01-07",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "La procédure pénale a pour objet :",
+     "o": [
+      "de définir chaque infraction",
+      "d'organiser la recherche, la poursuite et le jugement des infractions",
+      "de fixer les impôts",
+      "de régler les contrats"
+     ],
+     "a": 1,
+     "e": "La procédure pénale encadre l'enquête, les poursuites, l'instruction et le jugement.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-dp01-08",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "En cas de doute sur le numéro d'un article du Code pénal, il faut :",
+     "o": [
+      "inventer un numéro plausible",
+      "citer le Code pénal sans numéro",
+      "ne citer aucun texte",
+      "citer un texte étranger"
+     ],
+     "a": 1,
+     "e": "Une référence fausse discrédite la copie ; mieux vaut citer le texte sans numéro.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ec01-01",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Quelle est la devise de la République de Côte d'Ivoire ?",
+     "o": [
+      "Liberté, Égalité, Fraternité",
+      "Union, Discipline, Travail",
+      "Paix, Travail, Patrie",
+      "Unité, Progrès, Justice"
+     ],
+     "a": 1,
+     "e": "La devise de la Côte d'Ivoire est « Union, Discipline, Travail ».",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ec01-02",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Comment s'appelle l'hymne national de la Côte d'Ivoire ?",
+     "o": [
+      "La Marseillaise",
+      "L'Abidjanaise",
+      "La Yamoussoukroise",
+      "Le Chant de la paix"
+     ],
+     "a": 1,
+     "e": "L'hymne national ivoirien est l'Abidjanaise.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ec01-03",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Quelles sont les couleurs du drapeau ivoirien ?",
+     "o": [
+      "Rouge, jaune, vert",
+      "Orange, blanc, vert",
+      "Bleu, blanc, rouge",
+      "Vert, jaune, noir"
+     ],
+     "a": 1,
+     "e": "Le drapeau ivoirien comporte trois bandes verticales : orange, blanc et vert.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ec01-04",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "À quelle date la Côte d'Ivoire célèbre-t-elle sa fête nationale ?",
+     "o": [
+      "Le 1er mai",
+      "Le 7 août",
+      "Le 15 août",
+      "Le 1er janvier"
+     ],
+     "a": 1,
+     "e": "Le 7 août commémore l'indépendance du 7 août 1960.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ec01-05",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Quelle est la capitale politique et administrative de la Côte d'Ivoire ?",
+     "o": [
+      "Abidjan",
+      "Bouaké",
+      "Yamoussoukro",
+      "Abengourou"
+     ],
+     "a": 2,
+     "e": "Yamoussoukro est la capitale politique ; Abidjan est la capitale économique.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ec01-06",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Lequel de ces éléments est un devoir du citoyen ?",
+     "o": [
+      "Ne pas payer l'impôt",
+      "Respecter les lois et le bien public",
+      "Dégrader les routes",
+      "Refuser de voter pour les autres"
+     ],
+     "a": 1,
+     "e": "Respecter les lois, payer l'impôt et protéger le bien public sont des devoirs du citoyen.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ec01-07",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Le Parlement ivoirien issu de la Constitution de 2016 comprend :",
+     "o": [
+      "une seule chambre",
+      "l'Assemblée nationale et le Sénat",
+      "le Gouvernement et la Cour suprême",
+      "le Conseil des ministres seulement"
+     ],
+     "a": 1,
+     "e": "Depuis 2016, le Parlement est bicaméral : Assemblée nationale et Sénat.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261013-ec01-08",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Dans un sujet de réflexion, une réponse vague sans exemple :",
+     "o": [
+      "rapporte le maximum de points",
+      "rapporte peu de points",
+      "est interdite par le règlement",
+      "remplace la conclusion"
+     ],
+     "a": 1,
+     "e": "Le correcteur attend des règles, des institutions et des exemples précis.",
+     "verif": "methode"
     }
    ],
    "lessons": [
@@ -4448,6 +5048,236 @@
      "exo": {
       "tag": "niv-in01",
       "n": 10
+     }
+    },
+    {
+     "id": "L20261013cm01",
+     "niv": "cm01",
+     "m": "cmc",
+     "titre": "Méthode de l'épreuve de connaissance du monde contemporain",
+     "min": 40,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "Au concours direct du cycle moyen de l'ENA (session 2026), la connaissance du monde contemporain est une épreuve écrite d'admission de coefficient 3, après la présélection. Elle vérifie que vous comprenez les grandes évolutions du monde actuel et que vous savez les exposer avec ordre et précision.",
+      "## Les sujets types",
+      "- Une question ouverte : « L'Afrique est-elle devenue un acteur majeur des relations internationales ? »",
+      "- Une notion à expliquer : « La mondialisation », « Le multilatéralisme ».",
+      "- Un thème d'actualité durable : climat, migrations, numérique, sécurité au Sahel, intégration régionale.",
+      "## La méthode",
+      "- Analyser le sujet : définir chaque mot, le situer dans le temps (depuis quand ?) et dans l'espace (monde, Afrique, Côte d'Ivoire).",
+      "- Poser une problématique : la question précise à laquelle la copie va répondre.",
+      "- Construire un plan en deux ou trois parties, chacune avec deux sous-parties.",
+      "- Illustrer chaque idée par un exemple précis, daté et localisé.",
+      "- Conclure en répondant à la problématique, puis ouvrir sur une perspective.",
+      "! Un fait, une date ou un chiffre inexact coûte cher. En cas de doute, donnez un ordre de grandeur prudent (« plus d'un milliard d'habitants ») plutôt qu'un chiffre précis inventé."
+     ],
+     "fond": [
+      "## Les repères à toujours avoir en tête",
+      "- 1945 : création de l'Organisation des Nations unies (Charte signée à San Francisco).",
+      "- 1963 : création de l'Organisation de l'unité africaine (OUA), remplacée en 2002 par l'Union africaine, dont le siège est à Addis-Abeba.",
+      "- 1975 : création de la CEDEAO ; 1994 : création de l'UEMOA.",
+      "- 2015 : Accord de Paris sur le climat et adoption des 17 objectifs de développement durable (horizon 2030).",
+      "- Le Conseil de sécurité de l'ONU compte 15 membres, dont 5 permanents disposant du droit de veto : Chine, États-Unis, France, Royaume-Uni, Russie.",
+      "## Comment réviser",
+      "- Construisez une fiche par grand thème (ordre mondial, Afrique, économie, climat, population, sécurité, numérique).",
+      "- Sur chaque fiche : définitions, trois dates sûres, trois exemples (dont un ivoirien ou africain), un débat."
+     ],
+     "retenir": [
+      "Définir, situer dans le temps et l'espace, puis problématiser.",
+      "Plan en deux ou trois parties, deux sous-parties chacune.",
+      "Chaque idée est illustrée par un exemple daté et localisé.",
+      "Jamais de chiffre inventé : un ordre de grandeur prudent vaut mieux.",
+      "ONU 1945 ; OUA 1963, UA 2002 ; CEDEAO 1975 ; UEMOA 1994 ; Accord de Paris 2015."
+     ],
+     "exo": {
+      "tag": "niv-cm01",
+      "n": 8,
+      "ecrit": "cmc"
+     }
+    },
+    {
+     "id": "L20261013rd01",
+     "niv": "rd01",
+     "m": "redac",
+     "titre": "Méthode : le style administratif et l'épreuve de mise au net",
+     "min": 40,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demandent les épreuves",
+      "- Rédaction administrative : à partir d'une situation, rédiger le document demandé (lettre, note de service, compte rendu, rapport…). En 2026, elle figure surtout aux concours professionnels exceptionnels de la Fonction publique (1 heure, coefficient 2 ou 3).",
+      "- Mise au net : recopier proprement un brouillon raturé et annoté, en appliquant toutes les corrections indiquées et en corrigeant les fautes. Elle figure aux concours directs de niveau CEPE et BEPC (agent de bureau, adjoint administratif…) et aux concours de secrétariat, parfois sur ordinateur.",
+      "## Les qualités du style administratif",
+      "- Clarté : une idée par paragraphe, des phrases courtes.",
+      "- Précision : dates, lieux, références exactes ; pas de mots vagues.",
+      "- Concision : aller à l'essentiel, sans répétition.",
+      "- Neutralité et courtoisie : pas d'émotion, pas de familiarité, respect de la hiérarchie.",
+      "- Formules consacrées : « J'ai l'honneur de… », « Je vous saurais gré de… », « Il m'a été donné de constater que… ».",
+      "## Méthode pour la mise au net",
+      "- Lire d'abord tout le brouillon et repérer les signes de correction (ajouts, suppressions, déplacements).",
+      "- Recopier en appliquant chaque correction, sans rien ajouter ni retrancher au sens.",
+      "- Corriger l'orthographe, les accords et la ponctuation ; développer les abréviations non admises.",
+      "- Soigner la présentation : marges, alignements, paragraphes, majuscules.",
+      "! En mise au net, on ne réécrit pas le texte à sa manière : on reproduit fidèlement le texte corrigé."
+     ],
+     "fond": [
+      "## Les mentions de la lettre administrative",
+      "- En haut à gauche : le timbre (nom du ministère et du service), puis le numéro d'enregistrement.",
+      "- En haut à droite : le lieu et la date.",
+      "- La suscription : l'autorité qui écrit et le destinataire (« Le Directeur régional à Monsieur le Maire de… »).",
+      "- L'objet : le sujet de la lettre en quelques mots ; puis les références et les pièces jointes s'il y en a.",
+      "- Le corps : formule d'appel, introduction, développement, conclusion, formule de politesse.",
+      "- La signature : qualité, puis nom du signataire.",
+      "## Le bon document pour la bonne situation",
+      "- Note de service : instructions internes à l'ensemble ou à une partie du personnel, sans formule d'appel ni de politesse.",
+      "- Compte rendu : résumé ordonné d'une réunion ou d'une mission.",
+      "- Procès-verbal : relation fidèle et officielle de ce qui a été dit ou constaté, souvent signée.",
+      "- Rapport : exposé d'une situation, analyse et propositions à l'autorité."
+     ],
+     "retenir": [
+      "Clarté, précision, concision, neutralité, courtoisie.",
+      "Lettre : timbre et numéro à gauche, lieu et date à droite, suscription, objet, corps, signature.",
+      "Note de service : interne, pas de formule d'appel ni de politesse.",
+      "Compte rendu résume ; procès-verbal relate fidèlement et fait foi.",
+      "Mise au net : appliquer toutes les corrections, sans changer le sens, et soigner la présentation."
+     ],
+     "exo": {
+      "tag": "niv-rd01",
+      "n": 8,
+      "ecrit": "redac"
+     }
+    },
+    {
+     "id": "L20261013mp01",
+     "niv": "mp01",
+     "m": "mop",
+     "titre": "Méthode de l'épreuve de management des organisations publiques",
+     "min": 40,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "En 2026, le management des organisations publiques est une épreuve d'une heure (coefficient 2) de plusieurs concours professionnels exceptionnels de la Fonction publique, pour l'accès à des emplois d'encadrement. Elle prend la forme d'un sujet de réflexion ou d'un cas pratique : vous êtes placé en situation de responsable.",
+      "## La méthode en une heure",
+      "- 10 minutes : lire le sujet, définir les notions, repérer le problème posé.",
+      "- 10 minutes : bâtir un plan simple (diagnostic, puis propositions) avec des exemples concrets.",
+      "- 35 minutes : rédiger, avec une introduction courte et des propositions précises.",
+      "- 5 minutes : relire.",
+      "## Les attentes du correcteur",
+      "- La maîtrise du vocabulaire du management : objectif, indicateur, résultat, performance, délégation, évaluation.",
+      "- La prise en compte des spécificités du secteur public : intérêt général, continuité du service, égalité des usagers, règles budgétaires et statutaires.",
+      "- Des propositions réalistes, hiérarchisées, avec un calendrier et des indicateurs de suivi.",
+      "! Une copie qui récite des théories sans les appliquer à la situation proposée est sanctionnée."
+     ],
+     "fond": [
+      "## Les notions de base",
+      "- Organisation : ensemble de personnes et de moyens réunis pour atteindre des objectifs communs.",
+      "- Management : art de conduire une organisation et ses agents vers ces objectifs, en utilisant au mieux les moyens disponibles.",
+      "- Les fonctions classiques du dirigeant, décrites par Henri Fayol : prévoir, organiser, commander, coordonner, contrôler. On les résume aujourd'hui en : planifier, organiser, diriger, contrôler.",
+      "- Efficacité : atteindre les objectifs. Efficience : les atteindre au meilleur coût. Ne confondez pas les deux.",
+      "## Le management public aujourd'hui",
+      "- Gestion axée sur les résultats : fixer des objectifs, mesurer les résultats par des indicateurs, rendre compte.",
+      "- Le budget-programme, adopté par la Côte d'Ivoire, présente les crédits par programmes assortis d'objectifs et d'indicateurs de performance."
+     ],
+     "retenir": [
+      "Diagnostic, puis propositions concrètes, hiérarchisées et mesurables.",
+      "Fayol : prévoir, organiser, commander, coordonner, contrôler.",
+      "Efficacité = atteindre l'objectif ; efficience = au meilleur coût.",
+      "Secteur public : intérêt général, continuité, égalité des usagers.",
+      "Gestion axée sur les résultats : objectifs, indicateurs, compte rendu."
+     ],
+     "exo": {
+      "tag": "niv-mp01",
+      "n": 8,
+      "ecrit": "mop"
+     }
+    },
+    {
+     "id": "L20261013dp01",
+     "niv": "dp01",
+     "m": "dpen",
+     "titre": "Méthode de l'épreuve de droit pénal",
+     "min": 40,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "En 2026, le droit pénal est une épreuve écrite du concours d'accès à la magistrature (4 heures, coefficient 4) et du concours d'Administrateur des services pénitentiaires (3 heures, coefficient 3). Le sujet peut être une dissertation (« Le principe de la légalité des délits et des peines ») ou un cas pratique.",
+      "## La dissertation",
+      "- Définir les termes, poser une problématique juridique, plan en deux parties et deux sous-parties.",
+      "- Appuyer chaque argument sur un principe, un texte ou une règle exacte du droit ivoirien.",
+      "## Le cas pratique : qualifier les faits",
+      "- Relever les faits utiles, sans les déformer.",
+      "- Poser la question de droit : quelle infraction ? quelle responsabilité ?",
+      "- Exposer la règle : les éléments constitutifs de l'infraction (élément légal, élément matériel, élément moral).",
+      "- Appliquer la règle aux faits, élément par élément.",
+      "- Conclure : l'infraction est-elle constituée ? Qui est auteur, coauteur ou complice ? Quelle peine est encourue ?",
+      "! Ne citez un numéro d'article que si vous en êtes certain ; sinon, citez le texte (le Code pénal, le Code de procédure pénale) sans numéro."
+     ],
+     "fond": [
+      "## Les notions de départ",
+      "- Principe de légalité : pas d'infraction ni de peine sans texte. Le juge ne peut punir un comportement que la loi n'incrimine pas.",
+      "- Les trois éléments d'une infraction : légal (un texte la prévoit), matériel (un acte ou une abstention), moral (l'intention ou la faute).",
+      "- Classification selon la gravité : crimes, délits, contraventions.",
+      "- La loi pénale plus sévère n'est pas rétroactive ; la loi pénale plus douce s'applique aux faits non encore définitivement jugés.",
+      "## Droit pénal et procédure pénale",
+      "- Le droit pénal général étudie l'infraction, la responsabilité et la peine ; le droit pénal spécial étudie chaque infraction (vol, meurtre, escroquerie…).",
+      "- La procédure pénale organise la recherche, la poursuite et le jugement des infractions."
+     ],
+     "retenir": [
+      "Pas d'infraction ni de peine sans texte.",
+      "Infraction = élément légal + matériel + moral.",
+      "Crimes, délits, contraventions.",
+      "Cas pratique : faits, question de droit, règle, application, solution.",
+      "Numéro d'article incertain : citer le texte sans numéro."
+     ],
+     "exo": {
+      "tag": "niv-dp01",
+      "n": 8,
+      "ecrit": "dpen"
+     }
+    },
+    {
+     "id": "L20261013ec01",
+     "niv": "ec01",
+     "m": "ecm",
+     "titre": "Méthode de l'épreuve d'éducation civique et morale",
+     "min": 40,
+     "verif": "methode",
+     "tech": [
+      "## Ce que demande l'épreuve",
+      "En 2026, l'éducation civique et morale est une épreuve écrite du concours d'Agent d'encadrement des établissements pénitentiaires (2 heures, coefficient 2), ouvert aux titulaires du BEPC. Une note inférieure ou égale à 5 sur 20 est éliminatoire.",
+      "## Les deux formes de sujets",
+      "- Des questions de cours : « Citez les symboles de la République de Côte d'Ivoire », « Quels sont les devoirs du citoyen ? ».",
+      "- Un sujet de réflexion : « Pourquoi faut-il respecter le bien public ? ».",
+      "## La méthode",
+      "- Question de cours : répondre directement, avec des phrases complètes et précises.",
+      "- Sujet de réflexion : une introduction qui définit les mots du sujet, un développement en deux parties avec des exemples de la vie quotidienne, une conclusion qui donne votre position.",
+      "- Relire l'orthographe : elle compte dans la note.",
+      "! Une réponse vague (« il faut être gentil ») rapporte peu : donnez des règles, des institutions et des exemples précis."
+     ],
+     "fond": [
+      "## Les symboles de la République de Côte d'Ivoire",
+      "- Le drapeau : trois bandes verticales, orange, blanc et vert.",
+      "- L'hymne national : l'Abidjanaise.",
+      "- La devise : Union, Discipline, Travail.",
+      "- La fête nationale : le 7 août, jour anniversaire de l'indépendance (7 août 1960).",
+      "## Repères sur les institutions",
+      "- La Constitution en vigueur a été adoptée en 2016 ; elle fonde la Troisième République.",
+      "- Le Parlement comprend deux chambres : l'Assemblée nationale et le Sénat.",
+      "- La capitale politique et administrative est Yamoussoukro ; Abidjan est la capitale économique.",
+      "## Droits et devoirs",
+      "- Le citoyen a des droits (vote, libertés, éducation) et des devoirs (respect des lois, paiement de l'impôt, respect du bien public, défense de la patrie)."
+     ],
+     "retenir": [
+      "Question de cours : réponse directe et précise.",
+      "Réflexion : définir, deux parties illustrées, conclusion.",
+      "Drapeau orange, blanc, vert ; hymne l'Abidjanaise ; devise Union, Discipline, Travail.",
+      "Fête nationale le 7 août (indépendance en 1960).",
+      "Constitution de 2016 ; Parlement : Assemblée nationale et Sénat."
+     ],
+     "exo": {
+      "tag": "niv-ec01",
+      "n": 8,
+      "ecrit": "ecm"
      }
     }
    ],
