@@ -5282,6 +5282,883 @@
     }
    ],
    "sujets": []
+  },
+  {
+   "date": "2026-10-14",
+   "questions": [
+    {
+     "id": "n20261014-ns02-01",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Lors du premier survol d'un dossier de note de synthèse, on relève d'abord pour chaque document :",
+     "o": [
+      "les exemples les plus frappants",
+      "la nature, la source, la date et l'idée générale",
+      "les chiffres à recopier tels quels",
+      "les passages avec lesquels on est en désaccord"
+     ],
+     "a": 1,
+     "e": "Le survol sert à identifier chaque pièce : nature (texte officiel, rapport, article), source, date, et son idée générale en une phrase.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-02",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Dans un tableau de dépouillement, que contient chaque case ?",
+     "o": [
+      "une opinion personnelle sur le document",
+      "le nombre de mots du document",
+      "l'information du document sur ce thème, avec sa référence",
+      "la note que l'on attribue au document"
+     ],
+     "a": 2,
+     "e": "Chaque case croise un thème et un document : on y note l'information utile et sa référence (doc. 3, § 2) pour pouvoir la citer ensuite.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-03",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Au cours de la lecture active, il faut souligner en priorité :",
+     "o": [
+      "les idées et les informations clés",
+      "tous les adjectifs",
+      "les noms des journalistes",
+      "les titres seulement"
+     ],
+     "a": 0,
+     "e": "On souligne les idées et les données essentielles ; les exemples ne servent qu'à les illustrer.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-04",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Deux documents du dossier donnent des chiffres différents sur le même phénomène. Que faire dans la note ?",
+     "o": [
+      "choisir le chiffre qui paraît le plus juste",
+      "écarter les deux chiffres",
+      "ajouter un troisième chiffre connu par ailleurs",
+      "présenter les deux chiffres en citant chaque document"
+     ],
+     "a": 3,
+     "e": "La note est neutre et fidèle au dossier : on expose la divergence en citant les deux sources, sans trancher par une connaissance extérieure.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-05",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Quel défaut produit une note qui résume les documents l'un après l'autre ?",
+     "o": [
+      "un plan trop thématique",
+      "une note « catalogue » sans synthèse",
+      "une note trop neutre",
+      "un excès de références"
+     ],
+     "a": 1,
+     "e": "Résumer document par document n'est pas synthétiser : la note doit croiser les documents autour de thèmes communs.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-06",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Le classement des informations sert surtout à :",
+     "o": [
+      "faire apparaître les thèmes communs qui donneront le plan",
+      "compter le nombre de pages du dossier",
+      "choisir les documents à ignorer",
+      "recopier les passages les plus longs"
+     ],
+     "a": 0,
+     "e": "En regroupant les informations par thème, on voit émerger les grandes idées qui structureront les deux parties.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-07",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Un document du dossier semble hors sujet. La bonne attitude est de :",
+     "o": [
+      "l'écarter sans le lire",
+      "le citer en entier en annexe",
+      "chercher l'angle sous lequel il éclaire le sujet",
+      "le critiquer dans l'introduction"
+     ],
+     "a": 2,
+     "e": "Un dossier est construit à dessein : un document d'apparence marginale apporte souvent un angle (contexte, limite, exemple) à intégrer.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-08",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Pourquoi noter la date de chaque document ?",
+     "o": [
+      "pour classer les documents par ordre alphabétique",
+      "pour juger le style de l'auteur",
+      "pour remplacer la référence au document",
+      "pour situer l'information dans le temps et repérer une évolution"
+     ],
+     "a": 3,
+     "e": "La date permet de distinguer une donnée ancienne d'une donnée récente et de faire apparaître une évolution.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-09",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Lors du dépouillement, une connaissance personnelle utile vous vient à l'esprit. Que faire ?",
+     "o": [
+      "l'ajouter dans le tableau comme un document",
+      "ne pas l'utiliser : la note s'en tient au dossier",
+      "l'utiliser en conclusion",
+      "la mettre en note de bas de page"
+     ],
+     "a": 1,
+     "e": "La note de synthèse exclut toute information extérieure au dossier : la connaissance personnelle aide à comprendre, pas à rédiger.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-ns02-10",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "À la fin du dépouillement, comment vérifier qu'aucun document n'a été oublié ?",
+     "o": [
+      "en relisant seulement l'introduction",
+      "en comptant les mots de chaque document",
+      "en vérifiant que chaque colonne du tableau contient au moins une information",
+      "en supprimant les documents courts"
+     ],
+     "a": 2,
+     "e": "Si une colonne (un document) reste vide, ce document n'a pas été exploité : il faut y revenir avant de bâtir le plan.",
+     "verif": "methode"
+    },
+    {
+     "id": "n20261014-oj02-01",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Selon la loi n° 2025-219 portant organisation des juridictions, en matière administrative, la justice est rendue par :",
+     "o": [
+      "la Cour de cassation et les cours d'appel",
+      "le Conseil d'État, les cours administratives d'appel et les tribunaux administratifs",
+      "la Cour des comptes et les chambres régionales des comptes",
+      "la Haute Cour de justice"
+     ],
+     "a": 1,
+     "e": "Article 1 de la loi n° 2025-219 : la justice est rendue en matière administrative par le Conseil d'État, les cours administratives d'appel et les tribunaux administratifs.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261014-oj02-02",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Quelle juridiction la loi n° 2025-219 charge-t-elle de trancher les conflits de compétence entre l'ordre administratif et l'ordre judiciaire ?",
+     "o": [
+      "la Cour de cassation",
+      "le Conseil constitutionnel",
+      "le Conseil d'État",
+      "le tribunal des conflits"
+     ],
+     "a": 3,
+     "e": "Article 1, dernier alinéa : en matière de conflits de compétence entre les juridictions de l'ordre administratif et celles de l'ordre judiciaire, la justice est rendue par le tribunal des conflits.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261014-oj02-03",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Quelle loi la loi n° 2025-219 portant organisation des juridictions abroge-t-elle ?",
+     "o": [
+      "la loi n° 61-155 portant organisation judiciaire et ses modifications",
+      "la Constitution de 2016",
+      "la loi n° 2023-892 portant statut général de la fonction publique",
+      "la loi n° 2016-1110 sur les juridictions de commerce"
+     ],
+     "a": 0,
+     "e": "Article 55 de la loi n° 2025-219 : abrogation de la loi n° 61-155 portant organisation judiciaire, modifiée en 1964, 1997, 1998 et 1999.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261014-oj02-04",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Laquelle de ces juridictions n'est PAS une juridiction du premier degré au sens de la loi n° 2025-219 ?",
+     "o": [
+      "le tribunal de première instance",
+      "le tribunal administratif",
+      "la cour administrative d'appel",
+      "la chambre régionale des comptes"
+     ],
+     "a": 2,
+     "e": "Article 27 : les juridictions de premier degré sont les tribunaux de première instance, les tribunaux administratifs et les chambres régionales des comptes. Article 12 : les cours administratives d'appel sont des juridictions de second degré.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261014-oj02-05",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "En principe, comment siège le tribunal de première instance selon la loi n° 2025-219 ?",
+     "o": [
+      "toujours à juge unique",
+      "en nombre impair, avec au moins trois juges",
+      "avec deux juges et un greffier",
+      "avec cinq juges au minimum"
+     ],
+     "a": 1,
+     "e": "Article 35 : « Le tribunal siège en nombre impair. Il comprend au moins trois juges. » C'est la règle de la collégialité.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261014-oj02-06",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Dans lequel de ces cas la loi n° 2025-219 prévoit-elle que le tribunal statue à juge unique ?",
+     "o": [
+      "à la demande de l'une des parties",
+      "lorsque le président du tribunal l'estime opportun",
+      "lorsque le greffier est absent",
+      "lorsque le tribunal correctionnel juge des délits de police de la circulation"
+     ],
+     "a": 3,
+     "e": "Article 35 : juge unique en trois cas seulement (magistrats du siège en nombre insuffisant, délits de police de la circulation et accidents de la voie publique, disposition expresse de la loi). L'absence de greffier se règle par la désignation d'un greffier ad hoc.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261014-oj02-07",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Qui détermine la création, le siège et le ressort des juridictions autres que la Cour de cassation, le Conseil d'État, la Cour des comptes et le tribunal des conflits ?",
+     "o": [
+      "un décret pris en Conseil des ministres",
+      "un arrêté du ministre de la Justice",
+      "le Conseil supérieur de la magistrature",
+      "l'assemblée générale de chaque cour d'appel"
+     ],
+     "a": 0,
+     "e": "Article 2 de la loi n° 2025-219 : ces éléments sont déterminés par décret pris en Conseil des ministres.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261014-oj02-08",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "D'après la Constitution, qui est le garant de l'indépendance du pouvoir judiciaire ?",
+     "o": [
+      "le ministre de la Justice",
+      "le président de la Cour de cassation",
+      "le Président de la République, assisté du Conseil supérieur de la magistrature",
+      "le Président de l'Assemblée nationale"
+     ],
+     "a": 2,
+     "e": "Article 139 de la Constitution : le pouvoir judiciaire est indépendant ; le Président de la République en est le garant, assisté du Conseil supérieur de la magistrature.",
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261014-oj02-09",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Selon la Constitution, les magistrats du siège sont :",
+     "o": [
+      "révocables par le Gouvernement",
+      "inamovibles",
+      "élus par les citoyens",
+      "nommés pour deux ans"
+     ],
+     "a": 1,
+     "e": "Article 140 de la Constitution : les magistrats du siège sont inamovibles et le juge n'obéit qu'à l'autorité de la loi.",
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261014-oj02-10",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Pour quelle durée le Président de la Cour de cassation et celui du Conseil d'État sont-ils nommés selon la Constitution ?",
+     "o": [
+      "à vie",
+      "trois ans non renouvelables",
+      "sept ans non renouvelables",
+      "cinq ans, renouvelables une fois"
+     ],
+     "a": 3,
+     "e": "Article 150 de la Constitution : ils sont nommés par le Président de la République pour un mandat de cinq ans renouvelable une fois.",
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261014-oj02-11",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "Devant quelle juridiction est porté l'appel des jugements rendus par les tribunaux de commerce ?",
+     "o": [
+      "la cour d'appel de commerce",
+      "le Conseil d'État",
+      "la Cour des comptes",
+      "le tribunal de première instance"
+     ],
+     "a": 0,
+     "e": "Article 8 de la loi n° 2016-1110 : l'appel des jugements rendus par les tribunaux de commerce est porté devant la cour d'appel de commerce. Les juridictions de commerce ont deux degrés (article 2).",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2016-1110 portant création, organisation et fonctionnement des juridictions de commerce",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/1110/fra@2023-07-06/source"
+     }
+    },
+    {
+     "id": "n20261014-oj02-12",
+     "m": "oj",
+     "tag": "niv-oj02",
+     "q": "En application de la loi n° 2025-219, combien de sections détachées un décret adopté en juillet 2025 a-t-il érigées en tribunaux de première instance ?",
+     "o": [
+      "5",
+      "12",
+      "35",
+      "60"
+     ],
+     "a": 2,
+     "e": "Le décret adopté en Conseil des ministres en juillet 2025 érige 35 sections détachées en tribunaux de première instance et met fin à la notion de section détachée (Koaci, 30 juillet 2025).",
+     "src": {
+      "t": "Koaci – 35 sections détachées érigées en tribunaux de première instance (30 juillet 2025)",
+      "u": "https://www.koaci.com/article/2025/07/30/cote-divoire/justice/cote-divoire-justice-de-proximite-35-nouvelles-juridictions-erigees-en-tribunaux-de-premiere-instance_189014.html"
+     }
+    },
+    {
+     "id": "n20261014-sf02-01",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Selon la loi n° 2023-892 portant statut général de la fonction publique, le fonctionnaire est, vis-à-vis de l'Administration, dans une situation :",
+     "o": [
+      "contractuelle",
+      "de droit privé",
+      "statutaire et réglementaire",
+      "conventionnelle"
+     ],
+     "a": 2,
+     "e": "Article 6 : « Le fonctionnaire est vis-à-vis de l'Administration dans une situation statutaire et réglementaire. » Ses droits et obligations découlent des textes, non d'un contrat.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-sf02-02",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Dans quel ordre hiérarchique décroissant la loi n° 2023-892 classe-t-elle les emplois de la fonction publique ?",
+     "o": [
+      "D, C, B et A",
+      "A, B, C et D",
+      "A, B et C",
+      "1, 2, 3 et 4"
+     ],
+     "a": 1,
+     "e": "Article 7 : les emplois sont classés en quatre catégories désignées dans l'ordre hiérarchique décroissant : A, B, C et D, selon les diplômes, qualifications et expériences professionnelles.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-sf02-03",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Quelle loi le statut général de 2023 abroge-t-il expressément ?",
+     "o": [
+      "la loi n° 2016-886 portant Constitution",
+      "la loi n° 61-155 portant organisation judiciaire",
+      "la loi n° 2025-219 portant organisation des juridictions",
+      "la loi n° 92-570 portant statut général de la fonction publique"
+     ],
+     "a": 3,
+     "e": "Article 115 : la loi abroge toutes dispositions antérieures contraires, notamment la loi n° 92-570, l'ancien statut général de 1992.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-sf02-04",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Les fonctionnaires dotés d'un statut particulier dérogent au statut général. Sur quel point cette dérogation peut-elle leur accorder des conditions plus favorables ?",
+     "o": [
+      "la rémunération",
+      "le droit de grève",
+      "la durée du stage",
+      "le régime disciplinaire"
+     ],
+     "a": 0,
+     "e": "Article 1 : à l'exception des questions liées à la rémunération, la dérogation ne peut introduire des conditions plus favorables au regard des principes du statut.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-sf02-05",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Un agent non fonctionnaire recruté sur un emploi de catégorie A est engagé par un contrat d'une durée maximale de :",
+     "o": [
+      "six mois, non renouvelable",
+      "cinq ans, renouvelable sans limite",
+      "deux ans, renouvelable une seule fois",
+      "un an, renouvelable deux fois"
+     ],
+     "a": 2,
+     "e": "Article 18 : ces agents sont engagés par contrat pour une durée déterminée qui ne peut excéder deux ans ; le contrat n'est renouvelable qu'une seule fois.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-sf02-06",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Dans le statut général, comment appelle-t-on le titre acquis dans une catégorie, qui donne vocation à occuper les emplois correspondants ?",
+     "o": [
+      "le grade",
+      "l'emploi",
+      "la famille d'emplois",
+      "le poste de travail"
+     ],
+     "a": 0,
+     "e": "Article 10 : le grade est le titre acquis dans une catégorie, qui confère à son titulaire vocation à occuper les emplois de sa spécialité ; il est distinct de l'emploi (article 11).",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-sf02-07",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Selon le statut général, les nominations aux emplois supérieurs de l'État :",
+     "o": [
+      "sont réservées aux fonctionnaires de catégorie A",
+      "se font uniquement par concours",
+      "entraînent la titularisation des non-fonctionnaires",
+      "sont laissées à la discrétion du Gouvernement et révocables"
+     ],
+     "a": 3,
+     "e": "Article 16 : ces nominations sont laissées à la discrétion du Gouvernement, sont révocables, et la nomination d'un non-fonctionnaire n'entraîne pas sa titularisation dans un grade.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-sf02-08",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Quel est l'objet du décret n° 2025-120 du 26 février 2025 ?",
+     "o": [
+      "le statut particulier des magistrats",
+      "les modalités communes d'application de la loi portant statut général de la fonction publique",
+      "le calendrier des concours administratifs 2025",
+      "la grille des salaires du secteur privé"
+     ],
+     "a": 1,
+     "e": "Le décret n° 2025-120 du 26 février 2025 porte modalités communes d'application de la loi portant statut général de la fonction publique.",
+     "src": {
+      "t": "Loidici – Décret n° 2025-120 du 26 février 2025 portant modalités communes d'application du statut général",
+      "u": "https://loidici.biz/?p=69548"
+     }
+    },
+    {
+     "id": "n20261014-sf02-09",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "D'après la Constitution, le statut général de la fonction publique relève :",
+     "o": [
+      "du domaine du règlement",
+      "d'un simple arrêté ministériel",
+      "du domaine de la loi",
+      "des conventions collectives"
+     ],
+     "a": 2,
+     "e": "Article 101 de la Constitution : le statut général de la fonction publique figure parmi les matières dont la loi fixe les règles.",
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261014-sf02-10",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Selon le statut général, l'expression des opinions politiques, philosophiques ou religieuses du fonctionnaire :",
+     "o": [
+      "ne peut se faire qu'en dehors du service, avec la réserve appropriée à ses fonctions",
+      "est libre pendant le service",
+      "est interdite en toutes circonstances",
+      "doit être déclarée à sa hiérarchie"
+     ],
+     "a": 0,
+     "e": "Article 21 : la liberté d'opinion est reconnue, mais son expression ne peut se faire qu'en dehors du service, avec la réserve appropriée aux fonctions exercées.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-sf02-11",
+     "m": "sfp",
+     "tag": "niv-sf02",
+     "q": "Par quel acte les emplois de la fonction publique sont-ils créés ou supprimés ?",
+     "o": [
+      "une loi organique",
+      "un arrêté du ministre de la Fonction publique",
+      "une décision du chef de service",
+      "un décret pris en Conseil des ministres"
+     ],
+     "a": 3,
+     "e": "Article 12 : les emplois sont créés ou supprimés par décret pris en Conseil des ministres, en fonction des besoins de l'Administration.",
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261014-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quelle ville est devenue la capitale politique du Burundi après un vote du Parlement en janvier 2019 ?",
+     "o": [
+      "Bujumbura",
+      "Gitega",
+      "Ngozi",
+      "Kigali"
+     ],
+     "a": 1,
+     "e": "Le Parlement burundais a officialisé le 16 janvier 2019 le choix de Gitega comme capitale politique ; Bujumbura demeure la capitale économique.",
+     "src": {
+      "t": "Wikipédia – Gitega",
+      "u": "https://en.wikipedia.org/wiki/Gitega"
+     }
+    },
+    {
+     "id": "n20261014-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville l'Association des nations de l'Asie du Sud-Est (ASEAN) a-t-elle été fondée en 1967 ?",
+     "o": [
+      "Jakarta",
+      "Manille",
+      "Singapour",
+      "Bangkok"
+     ],
+     "a": 3,
+     "e": "L'ASEAN a été fondée le 8 août 1967 à Bangkok par la Déclaration de Bangkok (Indonésie, Malaisie, Philippines, Singapour, Thaïlande). Son secrétariat siège à Jakarta.",
+     "src": {
+      "t": "ASEAN – About ASEAN",
+      "u": "https://asean.org/?p=64044"
+     }
+    },
+    {
+     "id": "n20261014-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le traité qui a créé le Mercosur en 1991 a été signé à :",
+     "o": [
+      "Asunción",
+      "Montevideo",
+      "Buenos Aires",
+      "Brasília"
+     ],
+     "a": 0,
+     "e": "Le traité d'Asunción, signé le 26 mars 1991 par l'Argentine, le Brésil, le Paraguay et l'Uruguay, a créé le Mercosur.",
+     "src": {
+      "t": "Encyclopædia Universalis – Mercosur",
+      "u": "https://www.universalis.fr/encyclopedie/mercosur-mercosul/"
+     }
+    },
+    {
+     "id": "n20261014-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville siège le Secrétariat de la Zone de libre-échange continentale africaine (ZLECAf) ?",
+     "o": [
+      "Addis-Abeba",
+      "Kigali",
+      "Accra",
+      "Abidjan"
+     ],
+     "a": 2,
+     "e": "Le Secrétariat de la ZLECAf est hébergé à Accra (Ghana). L'accord est entré en vigueur le 30 mai 2019 et les échanges ont commencé le 1er janvier 2021.",
+     "src": {
+      "t": "AfCFTA – About the AfCFTA",
+      "u": "https://au-afcfta.org/about/"
+     }
+    },
+    {
+     "id": "n20261014-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En quelle année l'Organisation mondiale du commerce (OMC) a-t-elle commencé à fonctionner ?",
+     "o": [
+      "1947",
+      "1995",
+      "2001",
+      "1989"
+     ],
+     "a": 1,
+     "e": "L'OMC, créée par les accords signés à Marrakech en avril 1994, a commencé à fonctionner le 1er janvier 1995.",
+     "src": {
+      "t": "USTR – History of the WTO, part two",
+      "u": "https://ustr.gov/about-us/policy-offices/press-office/blog/2009/november/history-wto-part-two"
+     }
+    },
+    {
+     "id": "n20261014-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville siège en permanence la Cour européenne des droits de l'homme ?",
+     "o": [
+      "Bruxelles",
+      "La Haye",
+      "Luxembourg",
+      "Strasbourg"
+     ],
+     "a": 3,
+     "e": "La Cour européenne des droits de l'homme, créée en 1959, siège en permanence à Strasbourg (France).",
+     "src": {
+      "t": "Conseil de l'Europe – Acteurs clés de la Convention",
+      "u": "https://www.coe.int/fr/web/human-rights-convention/key-players"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261014ns02",
+     "niv": "ns02",
+     "m": "ns",
+     "titre": "Lire et classer un dossier",
+     "min": 50,
+     "verif": "methode",
+     "tech": [
+      "## Ce que vise ce niveau",
+      "Dans la méthode des 5 heures, la lecture et le classement du dossier occupent environ la première heure et quart. C'est l'étape qui décide de tout : une information mal classée est une information perdue, ou mal placée dans le plan.",
+      "## Étape 1 : le survol (10 à 15 minutes)",
+      "- Feuilletez tout le dossier avant de lire en détail : nombre de documents, longueur, présence de tableaux chiffrés.",
+      "- Pour chaque document, notez sur une feuille : numéro, nature (texte officiel, rapport, article de presse, discours, statistique), source, date.",
+      "- Écrivez l'idée générale de chaque document en une seule phrase.",
+      "## Étape 2 : la lecture active",
+      "- Lisez crayon en main ; soulignez les idées et les données clés, pas les exemples.",
+      "- Dans la marge, attribuez à chaque passage un code de thème (lettre, chiffre ou couleur).",
+      "- Repérez les mots qui reviennent d'un document à l'autre : ce sont souvent les thèmes du plan.",
+      "## Étape 3 : le tableau de dépouillement",
+      "- En lignes, les thèmes ; en colonnes, les documents.",
+      "- Dans chaque case, l'information utile en quelques mots et sa référence (doc. 3, § 2).",
+      "- Une case vide est normale ; une colonne vide signale un document non exploité.",
+      "! Le piège principal : résumer les documents l'un après l'autre. Le classement par thèmes est justement ce qui transforme une suite de résumés en synthèse."
+     ],
+     "fond": [
+      "## Évaluer chaque document",
+      "- Un texte juridique fixe le cadre ; un rapport apporte des données et des analyses ; un article de presse rapporte des faits ou un point de vue ; un discours exprime une orientation.",
+      "- Notez qui parle : cela permet ensuite d'attribuer correctement chaque position (« selon le rapport du doc. 4… »).",
+      "## Convergences et divergences",
+      "- Quand plusieurs documents disent la même chose, regroupez-les dans la même ligne : c'est une idée forte.",
+      "- Quand ils se contredisent, notez-le tel quel : la note présentera les deux positions en citant leurs documents, sans trancher.",
+      "## Les chiffres",
+      "- Relevez chaque chiffre avec son unité, sa date et son document ; ne recalculez pas et n'ajoutez pas de chiffre extérieur.",
+      "## Du tableau au plan",
+      "- Regroupez les lignes du tableau en deux grands ensembles : ils deviendront les deux parties de la note.",
+      "~ Exemple fictif : un dossier sur l'accès des jeunes au crédit. Les lignes « offre de financement », « garanties exigées », « formation des porteurs de projet », « suivi des remboursements » peuvent se regrouper en I. Des dispositifs de financement en expansion ; II. Des conditions de réussite encore à réunir.",
+      "> Avant de passer au plan, relisez votre tableau : chaque document doit apparaître au moins une fois."
+     ],
+     "retenir": [
+      "Survol, lecture active, tableau : trois étapes dans la première heure et quart.",
+      "Tableau : thèmes en lignes, documents en colonnes, référence dans chaque case.",
+      "Une colonne vide = un document oublié.",
+      "Divergences : les exposer en citant les documents, sans trancher.",
+      "Jamais d'information extérieure au dossier."
+     ],
+     "exo": {
+      "tag": "niv-ns02",
+      "n": 10,
+      "ecrit": "ns"
+     }
+    },
+    {
+     "id": "L20261014oj02",
+     "niv": "oj02",
+     "m": "oj",
+     "titre": "Les sources et les principes de l'organisation judiciaire",
+     "min": 50,
+     "tech": [
+      "## Les sources à citer dans une copie",
+      "- La Constitution du 8 novembre 2016 (révisée en 2020) : titre IX « Du pouvoir judiciaire », articles 139 à 155.",
+      "- La loi n° 2025-219 du 28 mars 2025 portant organisation des juridictions, qui a abrogé la loi n° 61-155 portant organisation judiciaire (article 55).",
+      "- Les lois propres à certaines juridictions, par exemple la loi n° 2016-1110 portant création, organisation et fonctionnement des juridictions de commerce.",
+      "- Les décrets pris en Conseil des ministres, qui fixent la création, le siège et le ressort des juridictions autres que les juridictions suprêmes (article 2 de la loi n° 2025-219).",
+      "- Le Code de procédure civile, commerciale et administrative (loi n° 72-833), qui consacre notamment une section à l'assistance judiciaire (articles 27 à 31).",
+      "## L'architecture issue de la loi de 2025 (article 1)",
+      "- Ordre judiciaire (civil, commercial, pénal) : Cour de cassation, cours d'appel, tribunaux de première instance.",
+      "- Ordre administratif : Conseil d'État, cours administratives d'appel, tribunaux administratifs.",
+      "- Contrôle des finances publiques : Cour des comptes et chambres régionales des comptes.",
+      "- Conflits de compétence entre les deux ordres : tribunal des conflits.",
+      "! Ne citez plus la « Cour suprême » ni les « sections détachées » comme organisation actuelle : la loi de 2025 a remplacé la loi de 1961, et un décret de juillet 2025 a érigé 35 sections détachées en tribunaux de première instance."
+     ],
+     "fond": [
+      "## Principe 1 : l'indépendance de la justice",
+      "- Article 139 de la Constitution : le pouvoir judiciaire est indépendant ; le Président de la République en est le garant, assisté du Conseil supérieur de la magistrature.",
+      "- Article 140 : les magistrats du siège sont inamovibles ; le juge n'obéit qu'à l'autorité de la loi.",
+      "- Article 155 : les décisions de justice sont obligatoires et les pouvoirs publics doivent en assurer l'exécution.",
+      "## Principe 2 : le double degré de juridiction",
+      "- Les juridictions de premier degré (tribunaux de première instance, tribunaux administratifs, chambres régionales des comptes, article 27) sont contrôlées par les juridictions de second degré (cours d'appel et cours administratives d'appel, article 12).",
+      "- Les juridictions de commerce suivent la même logique : tribunaux de commerce puis cours d'appel de commerce (loi n° 2016-1110, articles 2 et 8).",
+      "## Principe 3 : la collégialité, et ses exceptions",
+      "- Le tribunal siège en nombre impair, au moins trois juges (article 35 de la loi n° 2025-219).",
+      "- Juge unique dans trois cas : magistrats du siège insuffisants, délits de police de la circulation et accidents de la voie publique, disposition expresse de la loi.",
+      "## Principe 4 : l'unité d'interprétation du droit",
+      "- La Cour de cassation veille à l'application uniforme de la loi dans l'ordre judiciaire, le Conseil d'État dans l'ordre administratif (article 147 de la Constitution).",
+      "- Leurs présidents sont nommés pour cinq ans, renouvelables une fois (article 150).",
+      "> Dans une dissertation, chaque principe se démontre par un article : « Article 140 de la Constitution » vaut mieux que « il est admis que »."
+     ],
+     "retenir": [
+      "Sources : Constitution (articles 139 à 155), loi n° 2025-219, lois particulières, décrets.",
+      "Trois ordres de juridictions et un tribunal des conflits.",
+      "Indépendance : article 139 ; inamovibilité des juges du siège : article 140.",
+      "Double degré : premier degré (article 27), second degré (article 12).",
+      "Collégialité : au moins trois juges, sauf trois cas de juge unique (article 35)."
+     ],
+     "exo": {
+      "tag": "niv-oj02",
+      "n": 12,
+      "ecrit": "oj"
+     },
+     "sources": [
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2016-1110 portant création, organisation et fonctionnement des juridictions de commerce",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2016/1110/fra@2023-07-06/source"
+      },
+      {
+       "t": "Koaci – 35 sections détachées érigées en tribunaux de première instance (30 juillet 2025)",
+       "u": "https://www.koaci.com/article/2025/07/30/cote-divoire/justice/cote-divoire-justice-de-proximite-35-nouvelles-juridictions-erigees-en-tribunaux-de-premiere-instance_189014.html"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+      }
+     ]
+    },
+    {
+     "id": "L20261014sf02",
+     "niv": "sf02",
+     "m": "sfp",
+     "titre": "La notion de fonction publique et ses sources",
+     "min": 50,
+     "tech": [
+      "## Définir la fonction publique",
+      "- Au sens organique : l'ensemble des agents qui servent l'État et ses établissements publics.",
+      "- Au sens du statut général (article 1 de la loi n° 2023-892) : les personnes nommées à titre permanent dans un emploi de l'administration centrale de l'État, de ses services extérieurs ou de ses établissements publics, et titularisées après un stage probatoire dans un grade.",
+      "- Article 2 : les personnes soumises au statut ont la qualité de fonctionnaire.",
+      "## La hiérarchie des sources",
+      "- La Constitution : le statut général de la fonction publique relève du domaine de la loi (article 101).",
+      "- La loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique, qui abroge la loi n° 92-570 de 1992 (article 115).",
+      "- Les décrets d'application pris en Conseil des ministres, au premier rang desquels le décret n° 2025-120 du 26 février 2025 portant modalités communes d'application du statut (183 articles).",
+      "- Les statuts particuliers, qui dérogent au statut général sans pouvoir être plus favorables, sauf en matière de rémunération (article 1).",
+      "! Ne citez plus la loi de 1992 comme texte en vigueur : elle a été abrogée par la loi de 2023."
+     ],
+     "fond": [
+      "## Une situation statutaire et réglementaire",
+      "- Article 6 : le fonctionnaire n'est pas lié par un contrat ; ses droits et obligations découlent des textes, que l'État peut modifier.",
+      "## Les notions de base du statut",
+      "- Catégories : A, B, C et D, dans l'ordre hiérarchique décroissant (article 7).",
+      "- Grade : titre acquis dans une catégorie, distinct de l'emploi (articles 9 et 10).",
+      "- Emploi : le métier exercé, fondé sur une qualification (article 11) ; il est créé ou supprimé par décret pris en Conseil des ministres (article 12).",
+      "- Famille d'emplois : ensemble de spécialités voisines d'un même domaine (article 3).",
+      "## Le principe et ses exceptions",
+      "- Principe : les emplois civils de l'État et de ses établissements publics sont occupés par des fonctionnaires (article 18).",
+      "- Exceptions : agents contractuels sur des emplois de catégorie A (contrat de deux ans au plus, renouvelable une fois) et membres de cabinet ministériel (article 18) ; le contractuel n'est pas titularisé dans un grade (article 20).",
+      "- Emplois supérieurs : nominations à la discrétion du Gouvernement, révocables (article 16).",
+      "## Des garanties dès l'entrée",
+      "- Non-discrimination dans l'accès, la carrière et la retraite (article 17).",
+      "- Liberté d'opinion, exprimée hors du service avec réserve (article 21) ; aucune mention des opinions dans le dossier (article 22).",
+      "> Plan possible pour le sujet « Les sources du droit de la fonction publique » : I. Un socle constitutionnel et législatif ; II. Des textes d'application et des statuts particuliers encadrés."
+     ],
+     "retenir": [
+      "Statut général : loi n° 2023-892 du 23 novembre 2023 ; décret d'application commun : n° 2025-120 du 26 février 2025.",
+      "La loi de 2023 abroge la loi n° 92-570 de 1992.",
+      "Situation statutaire et réglementaire (article 6).",
+      "Catégories A, B, C, D ; grade distinct de l'emploi.",
+      "Contractuels catégorie A : deux ans au plus, renouvelable une fois."
+     ],
+     "exo": {
+      "tag": "niv-sf02",
+      "n": 11,
+      "ecrit": "sfp"
+     },
+     "sources": [
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+      },
+      {
+       "t": "Loidici – Décret n° 2025-120 du 26 février 2025 portant modalités communes d'application du statut général",
+       "u": "https://loidici.biz/?p=69548"
+      },
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "oj",
+     "src": "original",
+     "ref": "Entraînement · 14 oct. 2026",
+     "t": "Le double degré de juridiction dans l'organisation judiciaire ivoirienne issue de la loi n° 2025-219 du 28 mars 2025.",
+     "plan": [
+      "Introduction : définir le double degré (droit de faire rejuger l'affaire en fait et en droit) ; textes : loi n° 2025-219 (articles 12 et 27), Constitution (titre IX) ; problématique : une garantie généralisée mais aménagée.",
+      "I. Un principe consacré par l'architecture juridictionnelle : A. Des juridictions de premier degré dans chaque ordre (TPI, tribunaux administratifs, chambres régionales des comptes) ; B. Des juridictions de second degré (cours d'appel, cours administratives d'appel), modèle repris par les juridictions de commerce (loi n° 2016-1110).",
+      "II. Un principe encadré : A. Des décisions rendues en premier et dernier ressort pour les petits litiges (ex. : tribunaux de commerce) ; B. Le contrôle des juridictions suprêmes, juges du droit et non troisième degré (article 147 de la Constitution).",
+      "Conclusion : garantie de bonne justice, à concilier avec la célérité ; ouverture sur l'effectivité de l'accès au juge (assistance judiciaire)."
+     ]
+    }
+   ]
   }
  ]
 }
