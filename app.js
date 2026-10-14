@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "22f94038 du 13/10/2026";
+const APP_VERSION = "b86874dc du 14/10/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1550,7 +1550,7 @@ function indexLevels(){
     if (l && l.exo && l.exo.tag) TAG2LV[l.exo.tag] = lv.id;
   }
 }
-function lessonOf(lv){ return (lv.lesson && LMAP[lv.lesson]) || NIV2L[lv.id] || null; }
+function lessonOf(lv){ const l = (lv.lesson && LMAP[lv.lesson]) || NIV2L[lv.id] || null; if (l || !lv.last || lv.track==="oral") return l; return bilanLesson(lv); }
 
 // ---------- Contenus publiés chaque nuit ----------
 let VEILLE = null;   // veille du concours (content/veille.json), mise à jour chaque jour
@@ -1627,7 +1627,7 @@ const DEFAULT_PLANNING = [
   {id:"dim-a", jour:0, debut:"17:00", fin:"18:00", k:"oral"}
 ];
 const defaults = ()=>({v:3, xp:0, stats:{}, wrong:{}, seen:{}, lv:{}, valHist:[], copies:[], oral:0, custom:[], cycle:"CMS",
-  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null, interrupt:null, jokers:[], urgences:[], veilleSeen:null, concours:["ena-cms"], concoursPrin:"ena-cms", ttsRate:1, dossierInfj:{}, catSel:{}, dossierFp:{}, onboarded:false,
+  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null, interrupt:null, jokers:[], urgences:[], veilleSeen:null, concours:["ena-cms"], concoursPrin:"ena-cms", ttsRate:1, dossierInfj:{}, catSel:{}, dossierFp:{}, rev:{}, onboarded:false,
   profile:{nom:"", prenoms:"", naissance:"", niv:"", domaine:"", statutAdm:"", grade:"", anciennete:"", ville:"", email:""}, dossier:{}, days:{}, created:today(), tuto3:null, blancs:0});
 let state = defaults();
 (function load(){
@@ -1679,8 +1679,8 @@ const PASS = 14;          // note minimale sur 20 pour valider un niveau ou un r
 const PASS_ECRIT = 10;    // note minimale de la copie (auto-évaluation)
 const lvState = (id)=> state.lv[id] || {};
 const isValid = (id)=> !!lvState(id).ok;
-function poolOf(lv){ const l = lessonOf(lv); if (!l || !l.exo || !l.exo.tag) return []; return allQ().filter(q=>q.tag===l.exo.tag); }
-function isAvailable(lv){ const l = lessonOf(lv); if (!l) return false; return lv.track==="oral" ? true : poolOf(lv).length >= 5; }
+function poolOf(lv){ if (lv.last && lv.track!=="oral") return trackPool(lv.track, false); const l = lessonOf(lv); if (!l || !l.exo || !l.exo.tag) return []; return allQ().filter(q=>q.tag===l.exo.tag); }
+function isAvailable(lv){ const l = lessonOf(lv); if (!l) return false; if (lv.track==="oral") return true; return poolOf(lv).length >= (lv.last ? 20 : 5); }
 function currentLevel(k){ return TRACKS[k].levels.map(L=>LVMAP[L[0]]).find(lv=>!isValid(lv.id)) || null; }
 function levelStatus(lv){
   if (isValid(lv.id)) return "ok";
@@ -1701,7 +1701,7 @@ function ecritNeeded(lv){
 }
 function validateLevel(id, note){
   const s = state.lv[id] || (state.lv[id] = {});
-  if (!s.ok){ s.ok = today(); state.valHist.push(id); addXP(60); }
+  if (!s.ok){ s.ok = today(); state.valHist.push(id); addXP(60); memNew(id); }
   s.best = Math.max(s.best||0, note);
   save();
   const lv = LVMAP[id]; const nx = currentLevel(lv.track);
@@ -1710,7 +1710,8 @@ function validateLevel(id, note){
 // questions des niveaux déjà validés (et du niveau en cours) d'une matière
 function trackPool(k, withCurrent){
   const ids = new Set();
-  for (const L of TRACKS[k].levels){ const lv = LVMAP[L[0]]; const st = levelStatus(lv); if (st==="ok" || (withCurrent && st==="cur")){ const l = lessonOf(lv); if (l && l.exo) ids.add(l.exo.tag); } }
+  const cur = currentLevel(k);
+  for (const L of TRACKS[k].levels){ const lv = LVMAP[L[0]]; if (lv.last) continue; if (isValid(lv.id) || (withCurrent && cur && cur.id===lv.id)){ const l = lessonOf(lv); if (l && l.exo && l.exo.tag) ids.add(l.exo.tag); } }
   return allQ().filter(q=>ids.has(q.tag) || (trackOfQ(q)===k && !TAG2LV[q.tag] && q.src!=="Mes annales" && isValid(TRACKS[k].levels[0][0])));
 }
 
@@ -1767,10 +1768,13 @@ function indice(){
   const act = activeTracks();
   const tracks = PROGRAMME.filter(t=>act.includes(t.k));
   const all = LEVELS.filter(lv=>tracks.some(t=>t.k===lv.track));
-  const val = all.filter(lv=>isValid(lv.id));
+  // un niveau « à réapprendre » ne compte plus dans le programme acquis
+  const val = all.filter(lv=>isValid(lv.id) && !lvState(lv.id).relearn);
   const couverture = all.length ? val.length/all.length : 0;
-  // qualité : somme des meilleures notes rapportée au programme entier (20/20 partout = 20 points)
-  const qualite = all.length ? val.reduce((a,lv)=>a+Math.min(20,lvState(lv.id).best||0)/20,0)/all.length : 0;
+  // qualité : moitié notes (meilleures notes rapportées au programme), moitié mémorisation (rappels espacés réussis sur 90 jours)
+  const notes = all.length ? val.reduce((a,lv)=>a+Math.min(20,lvState(lv.id).best||0)/20,0)/all.length : 0;
+  const ms = memStats();
+  const qualite = ms.taux == null ? notes : (notes + couverture*ms.taux/100)/2;
   // assiduité sur 28 jours (0 tant qu'aucune séance n'était prévue)
   let due = 0, ok = 0;
   for (let i=1;i<=28;i++){ const d = addDays(today(), -i); if (parseYmd(d) < parseYmd(state.created)) break; for (const s of slotsOn(d)){ due++; const m = state.missed.find(x=>x.id===d+"_"+s.id); if (slotDone(d,s) || (m && m.st==="ok")) ok++; } }
@@ -1778,6 +1782,157 @@ function indice(){
   const dos = dossierProgress();
   const parts = {couverture: Math.round(couverture*40), maitrise: Math.round(qualite*20), assiduite: Math.round(assiduite*25), dossier: Math.round(dos.pct/100*15)};
   return {total: parts.couverture+parts.maitrise+parts.assiduite+parts.dossier, parts, due, ok};
+}
+
+
+// ---------- Mémorisation durable : rappels espacés, bilans cumulatifs ----------
+// Principe : un niveau validé n'est pas « acquis » pour toujours. Il revient en rappel (questions de récupération en mémoire)
+// à intervalles croissants : 1, 3, 7, 16, 35 puis 90 jours. Rappel réussi : l'intervalle s'allonge. Rappel raté : retour à 1 jour.
+// Deux rappels ratés de suite : le niveau est « à réapprendre » (relire la leçon et repasser l'évaluation à 14/20).
+const REV_INT = [1, 3, 7, 16, 35, 90];
+const REV_Q = 3;            // questions par niveau dans un rappel
+const REV_MAX_LV = 8;       // niveaux au plus par rappel (24 questions)
+const ANCRE_BOX = 4;        // niveau « ancré » : rappel réussi après 16 jours ou plus
+function revOf(id){
+  if (!state.rev) state.rev = {};
+  let r = state.rev[id];
+  if (!r && isValid(id)){
+    // niveaux validés avant cette version : premier rappel étalé sur les prochains jours
+    const n = Object.keys(state.rev).length;
+    r = state.rev[id] = {box:0, due: addDays(today(), n % 4), cons:0, hist:[]};
+  }
+  return r || null;
+}
+function memNew(id){ if (!state.rev) state.rev = {}; state.rev[id] = {box:0, due: addDays(today(), REV_INT[0]), cons:0, hist:[]}; }
+const relearn = (id)=> !!lvState(id).relearn;
+const revPool = (lv)=> lv.last ? [] : poolOf(lv);
+// niveaux dont le rappel est dû (matières des concours choisis)
+function dueLevels(k){
+  const act = activeTracks(), td = today();
+  return LEVELS.filter(lv=>(k ? lv.track===k : act.includes(lv.track)) && isValid(lv.id) && !relearn(lv.id) && lv.track!=="oral" && revPool(lv).length >= REV_Q)
+    .filter(lv=>{ const r = revOf(lv.id); return r && r.due <= td; })
+    .sort((a,b)=>revOf(a.id).due.localeCompare(revOf(b.id).due) || a.idx-b.idx);
+}
+const toRelearn = ()=> LEVELS.filter(lv=>activeTracks().includes(lv.track) && relearn(lv.id));
+function startRappel(k, then){
+  const lvs = dueLevels(k).slice(0, REV_MAX_LV);
+  if (!lvs.length){ if (then) return then(); return toast("Aucun rappel dû aujourd'hui."); }
+  const items = shuffle(lvs.flatMap(lv=>pick(revPool(lv), REV_Q).map(q=>Object.assign({}, q, {revLv: lv.id}))));
+  const n = items.length;
+  conditions({title: k ? "Rappel avant la séance · " + TRACKS[k].court : "Rappel du jour",
+    desc: n + " questions sur " + lvs.length + " niveau" + (lvs.length>1?"x":"") + " déjà validé" + (lvs.length>1?"s":"") + ", mélangées, en " + n + " minutes, barème officiel. Pour chaque niveau : 2 bonnes réponses sur 3 pour allonger l'intervalle de révision ; sinon le niveau revient demain. Deux rappels ratés de suite : le niveau est à réapprendre.",
+    start: ()=>startQCM({items, title: k ? "Rappel · " + TRACKS[k].court : "Rappel du jour", kind:"rappel", track:k||null, lvs:lvs.map(l=>l.id), then: then ? "track:" + k : null, chrono: n*60})});
+}
+// correction d'un rappel : niveau par niveau
+function gradeRappel(q){
+  const res = [];
+  for (const id of q.lvs){
+    const its = q.items.filter(it=>it.revLv===id), ok = its.filter(it=>it.pick===it.a).length;
+    const r = revOf(id), pass = ok >= Math.ceil(its.length*2/3);
+    r.hist = (r.hist||[]).concat([[today(), ok, its.length]]).slice(-12);
+    if (pass){ r.box = Math.min(REV_INT.length-1, r.box+1); r.cons = 0; r.due = addDays(today(), REV_INT[r.box]); }
+    else {
+      r.box = 0; r.cons = (r.cons||0) + 1; r.due = addDays(today(), REV_INT[0]);
+      if (r.cons >= 2){ const s = state.lv[id] || (state.lv[id] = {}); s.relearn = today(); s.read = false; s.qcm = false; }
+    }
+    res.push({id, ok, n:its.length, pass, relearn: relearn(id), next:r.due});
+  }
+  q.rappel = res;
+  const okN = res.filter(x=>x.pass).length;
+  addXP(okN*5);
+  if (q.track) creditSeance(q.track); else creditSeance("revision");
+}
+// un niveau à réapprendre est de nouveau réussi (évaluation à 14/20 après relecture)
+function relearnDone(id){
+  const s = state.lv[id]; if (!s) return;
+  delete s.relearn; s.read = true;
+  memNew(id);
+  toast("Niveau reconsolidé : il revient en rappel demain.");
+}
+// statistiques de mémorisation (90 derniers jours)
+function memStats(){
+  const lim = addDays(today(), -90); let ok = 0, n = 0;
+  for (const id in (state.rev||{})) for (const [d, a, b] of (state.rev[id].hist||[])) if (d >= lim){ n++; if (a >= Math.ceil(b*2/3)) ok++; }
+  const act = activeTracks();
+  const val = LEVELS.filter(lv=>act.includes(lv.track) && isValid(lv.id) && !lv.last);
+  const ancres = val.filter(lv=>(revOf(lv.id)||{}).box >= ANCRE_BOX && !relearn(lv.id)).length;
+  return {taux: n ? Math.round(ok/n*100) : null, n, ancres, valides: val.length, dus: dueLevels().length, relearn: toRelearn().length};
+}
+// Bilan cumulatif : le dernier niveau de chaque matière reprend tous les niveaux précédents
+function bilanLesson(lv){
+  const t = TRACKS[lv.track];
+  const prev = t.levels.slice(0, -1).map(L=>LVMAP[L[0]]);
+  const fond = [];
+  for (const p of prev){ const l = lessonOf(p); if (l && Array.isArray(l.retenir) && l.retenir.length){ fond.push("## " + (p.idx+1) + ". " + (l.titre || p.t)); for (const r of l.retenir) fond.push("- " + r); } }
+  return {id:"bilan-" + lv.id, titre: "Bilan cumulatif : " + t.label, bilan:true, min:30,
+    tech: ["## Le principe du bilan",
+      "Ce dernier niveau vérifie que vous avez retenu toute la matière, pas seulement la dernière leçon. L'évaluation tire ses questions de tous les niveaux précédents, mélangées, comme le jour du concours.",
+      "## Comment le préparer",
+      "- Relisez la fiche de synthèse (étape suivante) en vous interrogeant : cachez chaque point et redites-le de mémoire avant de le lire.",
+      "- Revoyez vos erreurs de la matière dans Entraînement > Révision des erreurs.",
+      "- Il faut 14/20 sur 20 questions." + (t.ecrit ? " Une copie complète, dans la durée officielle de l'épreuve, termine la matière." : "")],
+    fond: fond.length ? fond : ["Les fiches « À retenir » des niveaux précédents s'afficheront ici."],
+    retenir: ["Interrogez-vous de mémoire avant de relire : c'est ce qui fixe les connaissances.", "Les questions du bilan couvrent toute la matière.", "Note minimale : 14/20 sur 20 questions."],
+    exo: {n: 20}};
+}
+
+// ---------- Écrans ----------
+function memCard(){
+  const due = dueLevels(), rl = toRelearn(), ms = memStats();
+  if (!due.length && !rl.length && !ms.valides) return null;
+  const n = Math.min(due.length, REV_MAX_LV) * REV_Q;
+  return card("stack" + (due.length || rl.length ? " feature" : ""),
+    h("div",{class:"row spread"}, h("h2",null,"Mémorisation"), h("span",{class:"meta"}, ms.ancres + "/" + ms.valides + " niveaux ancrés")),
+    due.length ? h("p",null, due.length + " niveau" + (due.length>1?"x":"") + " à rappeler aujourd'hui (" + n + " questions, " + n + " min). Les rappels sont faits automatiquement au début de chaque séance de la matière ; vous pouvez aussi les faire tous maintenant.") : h("p",{class:"muted small"},"Aucun rappel dû aujourd'hui." + (ms.taux != null ? " Rappels réussis sur 90 jours : " + ms.taux + " %." : "")),
+    rl.length ? h("p",{class:"box warn"}, rl.length + " niveau" + (rl.length>1?"x":"") + " à réapprendre (deux rappels ratés de suite) : " + rl.slice(0,3).map(lv=>"« " + lv.t + " »").join(", ") + (rl.length>3?"…":"") + ". Relisez la leçon et repassez l'évaluation.") : null,
+    h("div",{class:"row"},
+      due.length ? h("button",{class:"btn primary",type:"button",onclick:()=>startRappel(null)},"Faire le rappel du jour") : null,
+      rl.length ? h("button",{class:"btn",type:"button",onclick:()=>openLevel(rl[0].id)},"Réapprendre") : null,
+      h("button",{class:"btn ghost",type:"button",onclick:()=>go("fiches")},"Mes fiches")));
+}
+function vRappelResult(){
+  const r = quiz.res, res = quiz.rappel || [];
+  const okN = res.filter(x=>x.pass).length;
+  const cont = quiz.then && quiz.then.startsWith("track:") ? quiz.then.slice(6) : null;
+  return h("div",{class:"stack"},
+    card("result",
+      h("p",{class:"lbl"}, quiz.title + (quiz.timeout ? " · temps écoulé" : "")),
+      h("p",{class:"note-big"}, okN + " / " + res.length),
+      h("p",{class:"muted"}, "niveau" + (res.length>1?"x":"") + " retenu" + (okN>1?"s":"") + " · " + r.ok + " bonne(s) réponse(s) sur " + quiz.items.length)),
+    card("stack", h("h2",null,"Niveau par niveau"),
+      h("div",{class:"list"}, res.map(x=>{ const lv = LVMAP[x.id]; return h("div",{class:"item"},
+        h("span",{class:"grow"}, lv.t, h("span",{class:"muted small block"}, TRACKS[lv.track].court + " · " + x.ok + "/" + x.n)),
+        h("span",{class:"pill " + (x.pass ? "ok" : x.relearn ? "late" : "cur")}, x.pass ? "Prochain rappel " + frDate(x.next) : x.relearn ? "À réapprendre" : "Revient demain")); }))),
+    res.some(x=>!x.pass) ? h("p",{class:"box warn"},"Relisez la fiche « À retenir » des niveaux ratés (Mes fiches) : ils reviennent demain. Deux rappels ratés de suite obligent à refaire la leçon.") : h("p",{class:"box"},"Tout est retenu : les intervalles de révision s'allongent."),
+    card("stack", h("h2",null,"Correction"),
+      quiz.items.map((x,i)=>h("div",{class:"miss"},
+        h("p",{class:"q-s"}, (i+1) + ". " + x.q),
+        h("p",null, x.pick===x.a ? h("span",{class:"good"},"✓ ") : x.pick==null||x.pick===-1 ? h("span",{class:"muted"},"— ") : h("span",{class:"bad"},"✗ "), "Réponse : ", h("b",null, x.o[x.a])),
+        x.e ? h("p",{class:"muted small"}, x.e) : null))),
+    h("div",{class:"row"},
+      cont ? h("button",{class:"btn primary",type:"button",onclick:()=>openTrackSession(cont, false, true)},"Continuer la séance") : null,
+      h("button",{class:"btn",type:"button",onclick:()=>go("home")},"Aujourd'hui")));
+}
+// Fiches « À retenir » des niveaux validés, à se réciter de mémoire avant de les afficher
+let ficheTrack = null;
+function vFiches(){
+  const act = trackOrder();
+  if (!ficheTrack || !act.includes(ficheTrack)) ficheTrack = act.find(k=>TRACKS[k].levels.some(L=>isValid(L[0]))) || act[0];
+  const t = TRACKS[ficheTrack];
+  const lvs = t ? t.levels.map(L=>LVMAP[L[0]]).filter(lv=>isValid(lv.id) && !lv.last) : [];
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Révision active"), h("h1",null,"Mes fiches")),
+    h("p",{class:"muted"},"Pour chaque niveau validé : essayez d'abord de redire de mémoire ce qu'il faut retenir, puis touchez la fiche pour vérifier. Se tester ainsi fixe bien mieux les connaissances que relire."),
+    h("label",{class:"field"}, h("span",{class:"lbl"},"Matière"),
+      h("select",{onchange:(ev)=>{ ficheTrack = ev.target.value; render(); }}, act.map(k=>h("option",{value:k,selected:k===ficheTrack||null}, TRACKS[k].court + " (" + TRACKS[k].levels.filter(L=>isValid(L[0])).length + ")")))),
+    lvs.length ? h("div",{class:"stack tight"}, lvs.map(lv=>{
+      const l = lessonOf(lv), r = revOf(lv.id), s = lvState(lv.id);
+      const pts = (l && l.retenir) || [];
+      return h("details",{class:"card fiche"},
+        h("summary",null, h("b",null, (lv.idx+1) + ". " + ((l && l.titre) || lv.t)), h("span",{class:"muted small block"}, s.relearn ? "À réapprendre" : r ? (r.due <= today() ? "Rappel dû" : "Prochain rappel " + frDate(r.due)) : "")),
+        pts.length ? h("ul",{class:"pts big"}, pts.map(x=>h("li",null,x))) : h("p",{class:"muted"},"Pas de fiche pour ce niveau."),
+        pts.length ? ttsControls(pts, "fiche:" + lv.id) : null);
+    })) : h("p",{class:"muted"},"Aucun niveau validé dans cette matière pour l'instant."));
 }
 
 
@@ -1934,10 +2089,12 @@ function finishQCM(timeout){
 }
 function afterQCM(q){
   const note = q.res.note;
+  if (q.kind === "rappel"){ gradeRappel(q); return; }
   if (q.kind === "level"){
     const lv = LVMAP[q.lv]; const s = state.lv[lv.id] || (state.lv[lv.id] = {});
     s.tries = (s.tries||0) + 1; s.last = note;
     creditSeance(lv.track);
+    if (s.relearn){ if (note >= PASS){ s.best = Math.max(s.best||0, note); relearnDone(lv.id); q.verdict = "relearn-ok"; } else { s.read = "retenir"; q.verdict = "fail"; } return; }
     if (note >= PASS){
       s.qcmNote = note;
       if (ecritNeeded(lv) || lv.track==="oral"){ s.qcm = true; q.verdict = "qcm"; }
@@ -2023,7 +2180,7 @@ function oralNext(){
 
 // ---------- Rendu ----------
 const TABS = [["home","Aujourd'hui"],["parcours","Parcours"],["train","Entraînement"],["candidature","Candidature"],["profil","Profil"]];
-const PARENT = {concours:"parcours", quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
+const PARENT = {fiches:"train", concours:"parcours", quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
 function renderNav(){
   const n = $("#nav"); n.replaceChildren();
   const parent = PARENT[view] || view;
@@ -2041,7 +2198,7 @@ function render(){
   const lo = $("#logoutBtn"); if (lo) lo.onclick = logout;
   if (canGoBack() && !(view==="quiz" && quiz && !quiz.done) && !(view==="ecrit" && ecrit && ecrit.phase==="write")) v.append(h("button",{class:"backbtn",type:"button",onclick:backClick}, "← Retour"));
   const fn = {home:vHome, parcours:vParcours, track:vTrack, lesson:vLesson, quiz:vQuiz, train:vTrain, ecrit:vEcrit, oral:vOral, conditions:vConditions,
-    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, concours:vConcours, interruption:vInterruption, urgence:vUrgence}[view] || vHome;
+    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, concours:vConcours, fiches:vFiches, interruption:vInterruption, urgence:vUrgence}[view] || vHome;
   v.append(fn());
 }
 const card = (cls, ...kids)=>h("section",{class:"card "+(cls||"")}, ...kids);
@@ -2070,7 +2227,10 @@ function runSlot(s){
   if (s.k === "revision") return go("rattrapages");
   if (s.k === "ecrit") return go("choixecrit");
 }
-function openTrackSession(k, ratt){
+function openTrackSession(k, ratt, skipRappel){
+  if (!ratt && !skipRappel && dueLevels(k).length) return startRappel(k, ()=>openTrackSession(k, false, true));
+  const rl = !ratt && toRelearn().find(lv=>lv.track===k);
+  if (rl) return openLevel(rl.id);
   const cur = currentLevel(k);
   if (cur && levelStatus(cur) === "cur" && !ratt) return openLevel(cur.id);
   return startRevision(k, ratt);
@@ -2116,6 +2276,7 @@ function vHome(){
       h("div",{class:"row spread"}, h("div",null, h("p",{class:"lbl"},"Indice de préparation"), h("b",{class:"big-n"}, ind.total + " / 100")), h("div",{class:"right"}, h("p",{class:"lbl"},"Grade"), h("b",null, nv.cur[1]))),
       bar(ind.total, ind.total<40),
       h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. Chaque séance manquée fait baisser l'assiduité et retire des points.")),
+    memCard(),
     profilComplet() ? null : card("stack tight soft", h("h2",null,"Complétez votre profil"), h("p",{class:"small"},"Indiquez votre diplôme le plus élevé et votre situation (fonctionnaire ou non) : l'appli vous montrera tous les concours auxquels vous pouvez vous présenter, du BEPC au doctorat."), h("button",{class:"btn primary",type:"button",onclick:()=>go("concours")},"Compléter et voir mes concours")),
     veilleBanner(),
     due.length ? card("warnc stack",
@@ -2225,9 +2386,10 @@ function vTrack(){
     bar(p.pct),
     h("ol",{class:"levels"}, t.levels.map(L=>{
       const lv = LVMAP[L[0]], st = levelStatus(lv), s = lvState(lv.id);
-      const icon = {ok:"✓", cur:"▶", prep:"…", lock:"🔒"}[st];
-      const cls = st==="lock" ? "lk" : st;
-      const meta = st==="ok" ? fr1(s.best) + "/20" : st==="cur" ? (s.qcm ? "écrit à rendre" : s.tries ? s.tries + " essai(s)" : "à faire") : st==="prep" ? "en préparation" : "verrouillé";
+      const icon = s.relearn ? "↺" : {ok:"✓", cur:"▶", prep:"…", lock:"🔒"}[st];
+      const cls = (st==="lock" ? "lk" : st) + (s.relearn ? " relearn" : "");
+      const r = st==="ok" ? revOf(lv.id) : null;
+      const meta = st==="ok" && s.relearn ? "à réapprendre" : st==="ok" && r && r.due <= today() ? "rappel dû" : st==="ok" ? fr1(s.best) + "/20" + (r ? (r.box >= ANCRE_BOX ? " · ancré" : " · rappel " + frDate(r.due)) : "") : st==="cur" ? (s.qcm ? "écrit à rendre" : s.tries ? s.tries + " essai(s)" : "à faire") : st==="prep" ? "en préparation" : "verrouillé";
       return h("li",null, h("button",{class:"lvl "+cls,type:"button",onclick:()=>{
           if (st==="lock") return toast("Verrouillé : validez d'abord le niveau précédent.");
           if (st==="prep") return toast("Cette leçon sera publiée par la production de nuit. En attendant, faites une révision de la matière.");
@@ -2241,7 +2403,7 @@ function vTrack(){
 
 // ---------- Leçon d'un niveau ----------
 function openLevel(id){
-  const lv = LVMAP[id]; const s = lvState(id); const review = isValid(id);
+  const lv = LVMAP[id]; const s = lvState(id); const review = isValid(id) && !s.relearn;
   const step = review ? 0 : (s.read==="retenir" ? 2 : s.read===true ? 3 : 0);
   lesson = {id, review, step, maxStep: step, stepStart: Date.now()};
   go("lesson");
@@ -2293,7 +2455,7 @@ function evalCard(lv, l, s){
   const ec = ecritNeeded(lv);
   const oralLevel = lv.track === "oral";
   if (!s.qcm && pool.length >= 5){
-    const n = Math.min(12, Math.max(8, (l.exo && l.exo.n) || 10), pool.length);
+    const n = lv.last ? Math.min(20, pool.length) : Math.min(12, Math.max(8, (l.exo && l.exo.n) || 10), pool.length);
     const chrono = n * (lv.track==="log" ? 90 : 60);
     return card("stack",
       h("h2",null,"Évaluation du niveau"),
@@ -2352,11 +2514,13 @@ function vQuizResult(){
   const r = quiz.res, note = r.note;
   const pass = quiz.kind==="ratt" ? 12 : quiz.kind==="blanc" ? 10 : PASS;
   const cls = note>=pass ? "admis" : note>=10 ? "admissible" : "ajourne";
-  const word = quiz.kind==="level" ? (quiz.verdict==="qcm" ? "QCM RÉUSSI" : note>=PASS ? "VALIDÉ" : "NON VALIDÉ") : quiz.kind==="ratt" ? (note>=12 ? "RATTRAPÉ" : "ÉCHEC") : (note>=14 ? "ADMIS" : note>=10 ? "ADMISSIBLE" : "AJOURNÉ");
+  if (quiz.kind === "rappel") return vRappelResult();
+  const word = quiz.kind==="level" ? (quiz.verdict==="relearn-ok" ? "RECONSOLIDÉ" : 0) ||  (quiz.verdict==="qcm" ? "QCM RÉUSSI" : note>=PASS ? "VALIDÉ" : "NON VALIDÉ") : quiz.kind==="ratt" ? (note>=12 ? "RATTRAPÉ" : "ÉCHEC") : (note>=14 ? "ADMIS" : note>=10 ? "ADMISSIBLE" : "AJOURNÉ");
   const lv = quiz.lv ? LVMAP[quiz.lv] : null;
   const msg = {
     valid: "Niveau validé. Le niveau suivant est déverrouillé.",
     qcm: lv && lv.track==="oral" ? "QCM réussi. Pour valider le niveau, passez maintenant la simulation d'oral." : "QCM réussi. Pour valider le niveau, il reste la copie écrite.",
+    "relearn-ok": "Niveau reconsolidé : il compte de nouveau dans votre programme acquis et revient en rappel demain.",
     fail: "Note insuffisante (14/20 exigés). Relisez « À retenir » puis repassez l'évaluation : les questions changeront.",
     "ratt-ok": "Rattrapage réussi : les points perdus vous sont rendus.",
     "ratt-ko": "Rattrapage échoué : vous pouvez réessayer avant la date limite."
@@ -2476,6 +2640,8 @@ function vTrain(){
     h("div",null,h("p",{class:"lbl"},"En plus du parcours"),h("h1",null,"Entraînement")),
     card("stack", h("h2",null,"Présélection blanche"), h("p",{class:"muted small"},"45 questions en 45 minutes, barème officiel, conditions d'examen. Questions tirées des niveaux débloqués (" + pre + " disponibles)."),
       h("button",{class:"btn accent",type:"button",disabled:pre<30,onclick:()=>startBlanc()}, pre<30 ? "S'ouvre à 30 questions débloquées" : "Lancer la présélection blanche")),
+    card("stack", h("h2",null,"Rappels espacés et fiches"), h("p",{class:"muted small"}, (()=>{ const m = memStats(); return m.dus + " niveau(x) à rappeler aujourd'hui · " + m.ancres + "/" + m.valides + " niveaux ancrés" + (m.taux != null ? " · " + m.taux + " % de rappels réussis (90 j)" : ""); })()),
+      h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",disabled:!dueLevels().length||null,onclick:()=>startRappel(null)},"Rappel du jour"), h("button",{class:"btn",type:"button",onclick:()=>go("fiches")},"Mes fiches"))),
     card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s)."), h("button",{class:"btn",type:"button",onclick:startErreurs},"Lancer")),
     card("stack", h("h2",null,"Séries libres (correction immédiate)"), h("p",{class:"muted small"},"Uniquement sur les niveaux déjà validés. Sans enjeu : elles ne valident ni niveau ni séance."),
       h("div",{class:"list"}, PROGRAMME.filter(t=>t.k!=="oral" && activeTracks().includes(t.k)).map(t=>{ const pool = trackPool(t.k,false); return h("button",{class:"item",type:"button",disabled:pool.length<5,onclick:()=>startQCM({items:pick(pool,Math.min(10,pool.length)), title:"Série libre · " + t.court, kind:"train", mode:"train"})}, h("span",{class:"grow"}, t.court), h("span",{class:"meta"}, pool.length<5 ? "🔒" : pool.length + " q.")); }))),
@@ -3445,6 +3611,14 @@ const TUTO = [
          "- Dans les matières d'écrit (dissertation, résumé, droit, rédaction administrative…), il faut aussi une copie notée au moins 10/20 avec la grille du jury.",
          "- En cas d'échec, relisez « À retenir » puis repassez : les questions changent.",
          "~ Symboles : ✓ validé, ▶ en cours, 🔒 verrouillé, … leçon en préparation (publiée par la production de nuit)."] },
+  { t:"Retenir dans la durée", lbl:"Mémorisation",
+    txt:["Valider un niveau ne suffit pas : il faut s'en souvenir le jour du concours. L'appli vous réinterroge donc sur chaque niveau validé, à intervalles croissants : 1, 3, 7, 16, 35 puis 90 jours.",
+         "- Le rappel se fait au début de la séance de la matière : 3 questions par niveau dû, mélangées, en conditions d'examen.",
+         "- 2 bonnes réponses sur 3 : l'intervalle s'allonge. Sinon, le niveau revient le lendemain.",
+         "- Deux rappels ratés de suite : le niveau est « à réapprendre ». Il ne compte plus dans l'indice tant que vous n'avez pas relu la leçon et repassé l'évaluation à 14/20.",
+         "- Le dernier niveau de chaque matière est un bilan cumulatif : 20 questions tirées de tous les niveaux, avec la fiche de synthèse de toute la matière.",
+         "- Entraînement > Mes fiches : récitez de mémoire ce qu'il faut retenir, puis vérifiez. Se tester fixe mieux que relire.",
+         "~ Un niveau est « ancré » quand vous l'avez retenu après au moins 16 jours."] },
   { t:"Plusieurs concours, une seule préparation", lbl:"Mes concours",
     txt:["Parcours > « Choisir mes concours » : cochez les concours que vous préparez et choisissez votre concours prioritaire. Le filtre « Accessibles pour moi » ne montre que les concours ouverts à votre profil ; la recherche couvre les 460 concours du catalogue officiel de la Fonction publique.",
          "- Chaque concours affiche ses conditions, ses épreuves avec durées et coefficients officiels, et votre progression par épreuve.",
