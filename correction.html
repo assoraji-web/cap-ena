@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Correction de copie</title>
+<meta name="description" content="Corriger la copie d'un candidat aux concours administratifs de Côte d'Ivoire avec la grille du jury, puis lui renvoyer la correction.">
+<meta name="theme-color" content="#0A6A4C">
+<link rel="icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,400..800&family=Literata:opsz,wght@7..72,400;7..72,600&display=swap">
+<style>
+:root{
+  --paper:#EEF1EA; --card:#FBFCF8; --ink:#17231E; --muted:#5B6961; --line:#D3DACF;
+  --green:#0A6A4C; --green-soft:#D9EDE3; --orange:#C9581A; --orange-soft:#F8E3D5;
+  --good:#1D7A45; --good-soft:#DDF0E3; --bad:#B1281F; --bad-soft:#F7DEDB;
+  --f-d:"Archivo","Arial Narrow",system-ui,sans-serif; --f-r:"Literata",Georgia,serif; color-scheme:light;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --paper:#0E1411; --card:#161F1A; --ink:#E3EAE5; --muted:#93A29A; --line:#28342E;
+  --green:#3DBE8B; --green-soft:#15372A; --orange:#F08A44; --orange-soft:#3A2315;
+  --good:#52C584; --good-soft:#163525; --bad:#F2766B; --bad-soft:#3D1D1A; color-scheme:dark } }
+:root[data-theme="dark"]{ --paper:#0E1411; --card:#161F1A; --ink:#E3EAE5; --muted:#93A29A; --line:#28342E; --green:#3DBE8B; --green-soft:#15372A; --orange:#F08A44; --orange-soft:#3A2315; --good:#52C584; --good-soft:#163525; --bad:#F2766B; --bad-soft:#3D1D1A; color-scheme:dark }
+*{box-sizing:border-box}
+html,body{background:var(--paper)}
+body{margin:0;color:var(--ink);font-family:var(--f-d);font-size:16px;line-height:1.5;padding:0 16px 48px}
+.wrap{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+header{padding:20px 0 4px;border-bottom:1px solid var(--line)}
+h1,h2,h3{margin:0;line-height:1.15;font-stretch:85%}
+h1{font-size:1.6rem;font-weight:820} h2{font-size:1.2rem;font-weight:760} h3{font-size:1rem;font-weight:720}
+p{margin:0}
+.lbl{font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;font-weight:700;color:var(--muted)}
+.muted{color:var(--muted)} .small{font-size:.86rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:12px}
+.sujet{font-family:var(--f-r);font-size:1.08rem;font-weight:600}
+.para{font-family:var(--f-r);font-size:1.02rem;line-height:1.65;white-space:pre-wrap}
+.pblock{border-left:3px solid var(--line);padding-left:12px;display:flex;flex-direction:column;gap:6px}
+.pblock.has{border-left-color:var(--orange)}
+.pnum{font-size:.75rem;font-weight:700;color:var(--muted)}
+.crit{display:flex;flex-direction:column;gap:6px;padding:10px 0;border-top:1px solid var(--line)}
+.crit:first-of-type{border-top:0}
+.seg{display:flex;gap:6px;flex-wrap:wrap}
+.seg label{flex:1;min-width:92px}
+.seg input{position:absolute;opacity:0}
+.seg span{display:block;text-align:center;border:1px solid var(--line);border-radius:999px;padding:8px 10px;font-weight:650;font-size:.88rem;cursor:pointer}
+.seg input:checked+span{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.seg input:focus-visible+span{outline:3px solid var(--orange);outline-offset:2px}
+textarea,input[type=text],input[type=number],select{width:100%;font:inherit;font-size:16px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+textarea{min-height:84px;resize:vertical}
+.field{display:flex;flex-direction:column;gap:4px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.btn{font:inherit;font-weight:700;border-radius:12px;padding:12px 16px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;min-height:46px}
+.btn.primary{background:var(--green);border-color:var(--green);color:#fff}
+.btn.small{padding:6px 12px;min-height:36px;font-size:.88rem}
+.btn.ghost{background:transparent}
+.note{display:flex;align-items:baseline;gap:8px}
+.note input{width:110px;font-size:1.6rem;font-weight:800;text-align:center}
+.box{border-radius:12px;padding:12px 14px;background:var(--green-soft)}
+.box.warn{background:var(--orange-soft)}
+details summary{cursor:pointer;font-weight:700}
+:focus-visible{outline:3px solid var(--orange);outline-offset:2px}
+.done{background:var(--good-soft)}
+</style>
+</head>
+<body>
+<div class="wrap" id="app">
+  <header><p class="lbl">Cap ENA · correction de copie</p><h1>Chargement de la copie…</h1></header>
+</div>
+<script>
+(function(){
+"use strict";
+const $ = (s)=>document.querySelector(s);
+function h(tag, attrs, ...kids){
+  const el = document.createElement(tag);
+  if (attrs) for (const k in attrs){ const v = attrs[k]; if (v == null || v === false) continue;
+    if (k === "class") el.className = v; else if (k.startsWith("on")) el.addEventListener(k.slice(2), v); else el.setAttribute(k, v === true ? "" : v); }
+  for (const kid of kids.flat(Infinity)){ if (kid == null || kid === false) continue; el.append(kid.nodeType ? kid : document.createTextNode(String(kid))); }
+  return el;
+}
+const b64u = (bytes)=>{ let s = ""; const a = new Uint8Array(bytes); for (let i=0;i<a.length;i+=0x8000) s += String.fromCharCode.apply(null, a.subarray(i, i+0x8000)); return btoa(s).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,""); };
+const unb64u = (s)=>{ s = s.replace(/-/g,"+").replace(/_/g,"/"); while (s.length % 4) s += "="; return Uint8Array.from(atob(s), c=>c.charCodeAt(0)); };
+async function pack(obj){ const raw = new TextEncoder().encode(JSON.stringify(obj)); if (window.CompressionStream){ const buf = await new Response(new Blob([raw]).stream().pipeThrough(new CompressionStream("deflate-raw"))).arrayBuffer(); return "z" + b64u(buf); } return "j" + b64u(raw); }
+async function unpack(s){ const k = s[0], b = unb64u(s.slice(1)); if (k === "z"){ const buf = await new Response(new Blob([b]).stream().pipeThrough(new DecompressionStream("deflate-raw"))).arrayBuffer(); return JSON.parse(new TextDecoder().decode(buf)); } return JSON.parse(new TextDecoder().decode(b)); }
+const fr1 = (x)=>String(x).replace(".",",");
+const frDate = (s)=>{ if (!s) return ""; const [y,m,d] = s.split("-").map(Number); return d + " " + ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"][m-1] + " " + y; };
+const today = ()=>{ const d = new Date(); return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0"); };
+const QUALITES = [["formateur","Formateur ou enseignant"],["admis","Ancien admis ou fonctionnaire du corps visé"],["pro","Juriste ou professionnel du domaine"],["candidat","Autre candidat (correction croisée)"],["autre","Autre"]];
+const LAB = [["0","Non acquis"],["1","Partiel"],["2","Acquis"]];
+
+function fail(msg){ $("#app").replaceChildren(h("header",null, h("p",{class:"lbl"},"Cap ENA · correction de copie"), h("h1",null,"Lien incomplet")), h("div",{class:"card"}, h("p",null, msg))); }
+
+async function main(){
+  const m = location.hash.match(/#d=([A-Za-z0-9_-]+)/);
+  if (!m) return fail("Ce lien ne contient pas de copie. Demandez au candidat de vous renvoyer le lien en entier : il est long, c'est normal.");
+  let d; try { d = await unpack(m[1]); } catch(e){ return fail("Le lien a été tronqué pendant l'envoi. Demandez au candidat de le renvoyer, par exemple par e-mail."); }
+  const KEY = "capena.corr." + d.id;
+  let draft = {}; try { draft = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch(e){}
+  draft.crit = draft.crit || []; draft.paras = draft.paras || {};
+  const keep = ()=>{ try { localStorage.setItem(KEY, JSON.stringify(draft)); } catch(e){} };
+  const paras = (d.text||"").split(/\n\s*\n|\n/).map(x=>x.trim()).filter(Boolean);
+
+  const suggest = ()=>{ const n = d.grille.length; const s = d.grille.reduce((a,_,i)=>a + (Number(draft.crit[i])||0), 0); return draft.crit.filter(x=>x!=null && x!=="").length === n ? Math.round(s/(2*n)*40)/2 : null; };
+  const noteIn = h("input",{type:"number",min:"0",max:"20",step:"0.5",inputmode:"decimal","aria-label":"Note sur 20",value: draft.note != null ? draft.note : ""});
+  noteIn.addEventListener("input", ()=>{ draft.note = noteIn.value === "" ? null : Number(noteIn.value); draft.noteTouched = true; keep(); });
+  const sugg = h("p",{class:"muted small"});
+  const updSugg = ()=>{ const s = suggest(); sugg.textContent = s == null ? "Notez chaque critère : une note indicative sera proposée. La note finale reste la vôtre." : "Note indicative d'après la grille : " + fr1(s) + "/20. Vous pouvez l'ajuster."; if (s != null && !draft.noteTouched){ noteIn.value = s; draft.note = s; keep(); } };
+
+  const area = (k, label, ph)=>{ const t = h("textarea",{placeholder:ph}); t.value = draft[k] || ""; t.addEventListener("input", ()=>{ draft[k] = t.value; keep(); }); return h("label",{class:"field"}, h("span",{class:"lbl"}, label), t); };
+  const by = h("input",{type:"text",placeholder:"Votre nom",value:draft.by||""}); by.addEventListener("input", ()=>{ draft.by = by.value; keep(); });
+  const qual = h("select",null, QUALITES.map(([v,l])=>h("option",{value:v,selected:draft.qual===v||null}, l))); qual.addEventListener("change", ()=>{ draft.qual = qual.value; keep(); });
+  if (!draft.qual) draft.qual = qual.value;
+
+  const result = h("div");
+  async function send(){
+    if (draft.note == null || isNaN(draft.note) || draft.note < 0 || draft.note > 20){ noteIn.focus(); return alertBox("Indiquez une note entre 0 et 20."); }
+    if (!by.value.trim()) { by.focus(); return alertBox("Indiquez votre nom : le candidat saura qui l'a corrigé."); }
+    const out = {v:1, id:d.id, note:Number(draft.note), crit:d.grille.map((_,i)=>draft.crit[i]==null||draft.crit[i]==="" ? null : Number(draft.crit[i])), forts:draft.forts||"", raison:draft.raison||"", style:draft.style||"", conseils:draft.conseils||"", paras:draft.paras, by:by.value.trim(), qual:draft.qual, date:today()};
+    const url = (d.app || location.href.replace(/correction\.html.*$/,"")) + "#corr=" + await pack(out);
+    const summary = "Correction de votre copie (« " + d.ep + " ») : " + fr1(out.note) + "/20." + (out.conseils ? "\nConseils : " + out.conseils : "") + "\nOuvrez ce lien sur votre téléphone pour l'enregistrer dans Cap ENA :";
+    result.replaceChildren(h("div",{class:"card done"},
+      h("h2",null,"Correction prête"),
+      h("p",null,"Envoyez-la au candidat : le lien l'ajoute automatiquement à sa copie dans l'appli."),
+      h("div",{class:"row"},
+        navigator.share ? h("button",{class:"btn primary",type:"button",onclick:async()=>{ try { await navigator.share({title:"Correction de votre copie", text:summary, url}); } catch(e){} }},"Envoyer au candidat") : null,
+        h("a",{class:"btn" + (navigator.share ? "" : " primary"),href:"https://wa.me/?text=" + encodeURIComponent(summary + "\n" + url),target:"_blank",rel:"noopener"},"Par WhatsApp"),
+        h("button",{class:"btn",type:"button",onclick:async()=>{ try { await navigator.clipboard.writeText(summary + "\n" + url); alertBox("Lien copié."); } catch(e){ prompt("Copiez ce lien :", url); } }},"Copier le lien")),
+      h("p",{class:"muted small"},"Votre brouillon reste enregistré dans ce navigateur : vous pouvez revenir sur ce lien pour modifier la correction et la renvoyer.")));
+    result.scrollIntoView({behavior:"smooth", block:"start"});
+  }
+  function alertBox(t){ const b = h("p",{class:"box warn",role:"alert"}, t); result.replaceChildren(b); b.scrollIntoView({behavior:"smooth", block:"center"}); }
+
+  const pblock = (p, i)=>{
+    const wrap = h("div",{class:"pblock" + (draft.paras[i] ? " has" : "")});
+    const com = h("textarea",{placeholder:"Votre remarque sur ce paragraphe (raisonnement, exemple, formulation, fautes)…",hidden: draft.paras[i] ? null : true});
+    com.value = draft.paras[i] || "";
+    com.addEventListener("input", ()=>{ if (com.value.trim()) draft.paras[i] = com.value; else delete draft.paras[i]; wrap.classList.toggle("has", !!com.value.trim()); keep(); });
+    wrap.append(h("span",{class:"pnum"},"§ " + (i+1)), h("p",{class:"para"}, p), com,
+      h("button",{class:"btn small ghost",type:"button",onclick:()=>{ com.hidden = false; com.focus(); }}, draft.paras[i] ? "Modifier la remarque" : "Annoter ce paragraphe"));
+    return wrap;
+  };
+
+  $("#app").replaceChildren(
+    h("header",null, h("p",{class:"lbl"},"Cap ENA · correction de copie"), h("h1",null, d.ep),
+      h("p",{class:"muted small"}, (d.cand ? "Copie de " + d.cand + " · " : "") + frDate(d.date) + " · épreuve de " + fr1(Math.round(d.dur/6)/10) + " h, coefficient " + d.coef + (d.papier ? " · copie manuscrite (" + d.pages + " page(s) envoyées en photos)" : " · " + d.mots + " mots") + " · rédigée en " + Math.round((d.temps||0)/60) + " min")),
+    h("div",{class:"card"},
+      h("p",null,"Merci de corriger cette copie. Lisez-la, notez chaque critère de la grille du jury, annotez les paragraphes si vous le souhaitez, puis renvoyez la correction au candidat avec le bouton en bas de page. Rien n'est envoyé à un serveur : la correction part dans le lien que vous transmettez."),
+      h("p",{class:"muted small"},"Soyez exigeant comme un jury : la note sert au candidat à mesurer son niveau réel. Les remarques sur le raisonnement (problématique, plan, preuves) l'aident le plus.")),
+    h("div",{class:"card"}, h("p",{class:"lbl"},"Sujet"), h("p",{class:"sujet"}, d.sujet),
+      d.plan && d.plan.length ? h("details",null, h("summary",null,"Plan indicatif (réservé au correcteur)"), h("ul",null, d.plan.map(p=>h("li",{class:"small"}, p)))) : null),
+    h("div",{class:"card"}, h("p",{class:"lbl"},"Copie"),
+      d.papier ? h("p",{class:"box"},"Copie écrite à la main : le candidat vous a envoyé les photos des pages dans la même conversation. Vous pouvez faire vos remarques générales plus bas.") : null,
+      paras.map(pblock)),
+    h("div",{class:"card"}, h("h2",null,"Grille du jury"),
+      d.grille.map((g,i)=>h("div",{class:"crit"}, h("p",null, (i+1) + ". " + g),
+        h("div",{class:"seg",role:"radiogroup","aria-label":"Critère " + (i+1)}, LAB.map(([v,l])=>h("label",null, h("input",{type:"radio",name:"c"+i,value:v,checked:String(draft.crit[i])===v||null,onchange:()=>{ draft.crit[i] = v; keep(); updSugg(); }}), h("span",null,l))))))),
+    h("div",{class:"card"}, h("h2",null,"Note et remarques"),
+      h("div",{class:"note"}, noteIn, h("b",null,"/ 20")), sugg,
+      area("forts","Points forts","Ce que la copie réussit"),
+      area("raison","Raisonnement et plan","Problématique, plan, enchaînement, preuves et exemples, hors-sujet éventuel"),
+      area("style","Style et langue","Clarté, vocabulaire, orthographe, ponctuation (citez les passages)"),
+      area("conseils","Conseils pour la prochaine copie","Deux ou trois conseils concrets"),
+      h("div",{class:"row"}, h("label",{class:"field",style:"flex:1;min-width:200px"}, h("span",{class:"lbl"},"Correcteur"), by), h("label",{class:"field",style:"flex:1;min-width:200px"}, h("span",{class:"lbl"},"Qualité"), qual)),
+      h("button",{class:"btn primary",type:"button",onclick:send},"Renvoyer la correction au candidat")),
+    result);
+  updSugg();
+}
+main();
+})();
+</script>
+</body>
+</html>
