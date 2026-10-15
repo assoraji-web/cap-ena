@@ -6373,6 +6373,703 @@
      ],
      "verif": "calcul",
      "calc": "20000/4"
+    },
+    {
+     "id": "r20261015-L20261013an04-01",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Which sentence is correct? (action two days ago)",
+     "o": [
+      "I have seen him two days ago.",
+      "I saw him two days ago.",
+      "I have saw him two days ago.",
+      "I see him two days ago."
+     ],
+     "a": 1,
+     "e": "« Ago » situe l'action à un moment passé précis et terminé : il impose le past simple (see → saw).",
+     "ed": [
+      "Le present perfect est impossible avec « ago », qui date l'action dans le passé.",
+      null,
+      "« Have saw » n'existe pas : le participe passé de see est seen, et de toute façon « ago » exige le past simple.",
+      "Le présent ne peut pas exprimer une action datée « il y a deux jours »."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013an04-02",
+     "m": "ang",
+     "tag": "niv-an04",
+     "q": "Complete: « She has worked here ___ 2019. »",
+     "o": [
+      "for",
+      "since",
+      "ago",
+      "during"
+     ],
+     "a": 1,
+     "e": "2019 est un point de départ : on emploie since avec le present perfect (She has worked here since 2019).",
+     "ed": [
+      "For s'emploie devant une durée (for seven years), pas devant une date.",
+      null,
+      "Ago se place après une durée avec le past simple (seven years ago) ; il ne s'emploie pas avec le present perfect.",
+      "During signifie « pendant » une période (during the meeting) ; il n'indique pas un point de départ."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013lo04-01",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un prix de 80 000 F baisse de 25 %, puis augmente de 25 %. Quel est le prix final ?",
+     "o": [
+      "80 000 F",
+      "75 000 F",
+      "78 000 F",
+      "70 000 F"
+     ],
+     "a": 1,
+     "e": "80 000 × 0,75 = 60 000 F, puis 60 000 × 1,25 = 75 000 F. Les coefficients se multiplient : 0,75 × 1,25 = 0,9375.",
+     "ed": [
+      "Revenir à 80 000 F supposerait qu'une baisse et une hausse de même taux s'annulent, ce qui est faux.",
+      null,
+      "78 000 F ne correspond à aucun calcul correct : appliquez les deux coefficients successivement.",
+      "70 000 F revient à retirer deux fois un montant ; la seconde variation est une hausse, pas une baisse."
+     ],
+     "verif": "calcul",
+     "calc": "80000*0.75*1.25"
+    },
+    {
+     "id": "r20261015-L20261013lo04-02",
+     "m": "log",
+     "tag": "niv-lo04",
+     "q": "Un article coûte 5 900 F TTC avec une TVA de 18 %. Quel est son prix hors taxe ?",
+     "o": [
+      "4 838 F",
+      "5 000 F",
+      "4 900 F",
+      "5 182 F"
+     ],
+     "a": 1,
+     "e": "Prix HT = prix TTC ÷ (1 + taux) = 5 900 ÷ 1,18 = 5 000 F ; vérification : 5 000 × 1,18 = 5 900 F.",
+     "ed": [
+      "4 838 F revient à retirer 18 % du prix TTC ; or la TVA se calcule sur le prix hors taxe.",
+      null,
+      "4 900 F revient à retirer 1 000 F au hasard : ce n'est pas le calcul de la TVA.",
+      "5 182 F ne correspond pas à une division par 1,18 du prix TTC."
+     ],
+     "verif": "calcul",
+     "calc": "5900/1.18"
+    },
+    {
+     "id": "r20261015-c1-01",
+     "m": "ct",
+     "tag": "ct",
+     "q": "La consigne demande un résumé de 250 mots avec une tolérance de 10 %. Quelle longueur est acceptable ?",
+     "o": [
+      "200 mots",
+      "220 mots",
+      "260 mots",
+      "290 mots"
+     ],
+     "a": 2,
+     "e": "Avec 10 % de tolérance, un résumé de 250 mots peut compter de 225 à 275 mots : seule la proposition de 260 mots est dans la fourchette.",
+     "ed": [
+      "200 mots est 20 % en dessous de 250 : hors de la fourchette (225 à 275).",
+      "220 mots est juste en dessous du minimum de 225 mots.",
+      null,
+      "290 mots dépasse le maximum de 275 mots."
+     ],
+     "verif": "calcul",
+     "calc": "260"
+    },
+    {
+     "id": "r20261015-c1-02",
+     "m": "ct",
+     "tag": "ct",
+     "q": "Quel élément faut-il supprimer en priorité dans un résumé ?",
+     "o": [
+      "La thèse de l'auteur",
+      "Les connecteurs logiques",
+      "Les exemples et les citations",
+      "La conclusion du texte"
+     ],
+     "a": 2,
+     "e": "Les exemples et les citations illustrent les arguments sans en ajouter de nouveaux : on les supprime pour garder le raisonnement.",
+     "ed": [
+      "La thèse est l'idée centrale : la supprimer viderait le résumé de son sens.",
+      "Les connecteurs portent les liens logiques : le résumé doit les conserver.",
+      null,
+      "La conclusion de l'auteur fait partie de son raisonnement : on la garde, résumée."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-c1-03",
+     "m": "ct",
+     "tag": "ct",
+     "q": "Quelle phrase peut ouvrir correctement un résumé ?",
+     "o": [
+      "L'auteur affirme que l'école doit changer.",
+      "Dans ce texte, il est question de l'école.",
+      "L'école doit changer pour répondre aux besoins du pays.",
+      "Le texte proposé traite de l'école."
+     ],
+     "a": 2,
+     "e": "Le résumé s'écrit à la place de l'auteur, sans le mentionner : on reformule directement sa pensée.",
+     "ed": [
+      "« L'auteur affirme que » transforme le résumé en compte rendu : c'est pénalisé.",
+      "« Dans ce texte, il est question de » décrit le texte au lieu de le résumer.",
+      null,
+      "« Le texte proposé traite de » est une formule de compte rendu, pas de résumé."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-s1-01",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Que demande la consigne « Commentez et discutez cette assertion » ?",
+     "o": [
+      "Uniquement approuver l'assertion",
+      "Expliquer l'assertion, puis en montrer les limites",
+      "Résumer l'assertion",
+      "Raconter un souvenir personnel"
+     ],
+     "a": 1,
+     "e": "Commenter, c'est expliquer et justifier l'assertion ; discuter, c'est en montrer les limites. D'où le plan dialectique en deux parties.",
+     "ed": [
+      "Se contenter d'approuver ne traite que la moitié de la consigne : il faut aussi discuter.",
+      null,
+      "Résumer l'assertion ne suffit pas : on attend une réflexion argumentée.",
+      "Un souvenir personnel peut servir d'exemple, mais ne répond pas à la consigne."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-s1-02",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Laquelle de ces questions est la meilleure problématique pour le sujet « Le sport permet de bâtir un monde plus pacifique » ?",
+     "o": [
+      "Le sport est-il pacifique ?",
+      "Qu'est-ce que le sport ?",
+      "Le sport, qui rassemble au-delà des différences, peut-il construire la paix alors qu'il nourrit aussi des rivalités et des violences ?",
+      "Le sport est-il pratiqué en Côte d'Ivoire ?"
+     ],
+     "a": 2,
+     "e": "Une bonne problématique exprime une tension : ici, la promesse de rassemblement du sport s'oppose à ses dérives.",
+     "ed": [
+      "On peut y répondre par oui ou par non sans réfléchir : il manque la tension.",
+      "C'est une simple définition, pas une problématique.",
+      null,
+      "Cette question est hors sujet : elle ne porte pas sur le lien entre sport et paix."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-s1-03",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Quelle est la différence entre le thème et le sujet ?",
+     "o": [
+      "Il n'y en a aucune",
+      "Le thème est le domaine général, le sujet la relation précise que l'énoncé établit",
+      "Le sujet est plus large que le thème",
+      "Le thème est toujours une citation"
+     ],
+     "a": 1,
+     "e": "Le thème (la paix) est le domaine ; le sujet (les élections, levier de la paix ?) est la relation précise à étudier. Traiter le thème, c'est risquer le hors-sujet.",
+     "ed": [
+      "Confondre les deux conduit au hors-sujet : la distinction est essentielle.",
+      null,
+      "C'est l'inverse : le thème est plus large que le sujet.",
+      "Le thème est un domaine, pas une forme de citation."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-s2-01",
+     "m": "sog",
+     "tag": "sog2",
+     "q": "Dans quel ordre se construit un paragraphe argumentatif ?",
+     "o": [
+      "Exemple, idée, conclusion, explication",
+      "Idée, explication, exemple, mini-conclusion",
+      "Conclusion, exemple, idée",
+      "Explication seule"
+     ],
+     "a": 1,
+     "e": "On énonce l'idée, on l'explique, on la prouve par un exemple précis, puis une mini-conclusion la relie au sujet.",
+     "ed": [
+      "Commencer par l'exemple sans annoncer l'idée rend le paragraphe difficile à suivre.",
+      null,
+      "La conclusion vient à la fin du paragraphe, pas au début.",
+      "Une explication sans idée claire ni exemple ne constitue pas un argument complet."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-s2-02",
+     "m": "sog",
+     "tag": "sog2",
+     "q": "Le temps manque à la fin de l'épreuve. Que faut-il sacrifier ?",
+     "o": [
+      "La conclusion",
+      "La relecture et la conclusion",
+      "Une partie du dernier argument",
+      "L'introduction déjà rédigée"
+     ],
+     "a": 2,
+     "e": "La conclusion n'est jamais sacrifiée : on raccourcit le dernier argument pour garder le temps de conclure.",
+     "ed": [
+      "Une copie sans conclusion est lourdement sanctionnée.",
+      "Sacrifier la conclusion est la pire option ; mieux vaut raccourcir le développement.",
+      null,
+      "Supprimer une introduction déjà rédigée n'a aucun sens et pénaliserait la copie."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-s2-03",
+     "m": "sog",
+     "tag": "sog2",
+     "q": "Quel est le rôle d'une transition en fin de partie ?",
+     "o": [
+      "Ajouter un nouvel exemple",
+      "Résumer ce qui vient d'être montré et annoncer la partie suivante",
+      "Répéter l'introduction",
+      "Donner son avis personnel"
+     ],
+     "a": 1,
+     "e": "La transition fait le bilan de la partie qui s'achève et annonce la suivante : elle rend visible la progression du raisonnement.",
+     "ed": [
+      "Un exemple appartient au corps d'un argument, pas à la transition.",
+      null,
+      "Répéter l'introduction n'apporte rien et fait perdre du temps.",
+      "L'avis personnel ne remplace pas le lien logique entre les parties."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013so03-01",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "Quelle accroche est la meilleure pour un sujet sur la jeunesse et l'emploi ?",
+     "o": [
+      "De tout temps, les jeunes ont cherché du travail.",
+      "Le Plan national de développement 2026-2030, adopté le 4 février 2026, fait de l'emploi une priorité.",
+      "Les jeunes sont l'avenir.",
+      "Depuis la nuit des temps, le travail existe."
+     ],
+     "a": 1,
+     "e": "Une bonne accroche est un fait précis, daté et vérifiable, directement lié au sujet.",
+     "ed": [
+      "« De tout temps » est une formule banale et invérifiable, à proscrire.",
+      null,
+      "C'est un lieu commun, sans fait précis.",
+      "« Depuis la nuit des temps » est la formule d'accroche la plus critiquée par les correcteurs."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013so03-02",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "À quel moment rédiger l'introduction au brouillon ?",
+     "o": [
+      "Avant toute analyse du sujet",
+      "Après avoir arrêté le plan",
+      "Après avoir rédigé la conclusion",
+      "Jamais : on l'écrit directement au propre"
+     ],
+     "a": 1,
+     "e": "On ne peut pas annoncer un plan qu'on ne connaît pas encore : l'introduction se rédige une fois le plan arrêté.",
+     "ed": [
+      "Sans analyse, l'introduction ne peut ni définir les termes ni poser la problématique.",
+      null,
+      "La conclusion se rédige à la fin ; attendre jusque-là priverait l'introduction de sa fonction d'annonce.",
+      "Écrire directement au propre fait courir le risque d'une introduction confuse."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013ct02-01",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Dans « On croit souvent que le numérique isole. En réalité, il crée du lien », quelle est la thèse de l'auteur ?",
+     "o": [
+      "Le numérique isole les individus",
+      "Le numérique crée du lien social",
+      "On croit souvent des choses fausses",
+      "Le numérique n'a aucun effet"
+     ],
+     "a": 1,
+     "e": "« On croit souvent que » introduit la thèse adverse ; « en réalité » introduit la thèse de l'auteur : le numérique crée du lien.",
+     "ed": [
+      "C'est la thèse adverse, rapportée pour être contestée.",
+      null,
+      "C'est une généralisation qui ne correspond pas au texte.",
+      "Le texte affirme au contraire que le numérique a un effet : il crée du lien."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013ct02-02",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Quel connecteur exprime une concession ?",
+     "o": [
+      "donc",
+      "certes",
+      "car",
+      "de plus"
+     ],
+     "a": 1,
+     "e": "« Certes » reconnaît la valeur d'une idée avant de la nuancer (« certes… mais ») : c'est une concession.",
+     "ed": [
+      "« Donc » exprime une conséquence.",
+      null,
+      "« Car » exprime une cause.",
+      "« De plus » exprime une addition."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013ct02-03",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Comment généraliser « Au Sénégal, au Ghana et en Côte d'Ivoire, les femmes créent de plus en plus d'entreprises » ?",
+     "o": [
+      "Les femmes créent des entreprises au Sénégal.",
+      "En Afrique de l'Ouest, l'entrepreneuriat féminin progresse.",
+      "Le Ghana est un pays d'Afrique.",
+      "Les entreprises sont nombreuses."
+     ],
+     "a": 1,
+     "e": "On remplace l'énumération de pays par une catégorie générale qui conserve l'idée : la progression de l'entrepreneuriat féminin en Afrique de l'Ouest.",
+     "ed": [
+      "On garde un seul exemple au lieu de généraliser : l'idée est appauvrie.",
+      null,
+      "Cette phrase perd complètement l'idée du texte.",
+      "L'idée de progression et le rôle des femmes ont disparu."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013ct02-04",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Que faire des exemples d'un texte dans le résumé ?",
+     "o": [
+      "Les recopier intégralement",
+      "Les supprimer ou les généraliser",
+      "Les placer en conclusion",
+      "Les remplacer par d'autres exemples"
+     ],
+     "a": 1,
+     "e": "Les exemples illustrent les idées sans en ajouter : dans le résumé, on les supprime ou on les généralise pour garder le raisonnement.",
+     "ed": [
+      "Recopier les exemples gaspille des mots et éloigne de l'essentiel.",
+      null,
+      "Déplacer les exemples ne respecte pas l'ordre du texte et n'est pas utile.",
+      "Ajouter ses propres exemples trahit le texte de l'auteur."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-e1-01",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Quelle est la bonne démarche pour un devoir de PES ?",
+     "o": [
+      "Raconter, décrire, conclure",
+      "Définir, diagnostiquer, évaluer, recommander",
+      "Citer des théories sans les relier au sujet",
+      "Donner uniquement des chiffres"
+     ],
+     "a": 1,
+     "e": "La démarche PES va de la définition des notions au diagnostic, puis à l'évaluation des politiques et à des recommandations réalistes.",
+     "ed": [
+      "Décrire ne suffit pas : le sujet demande d'évaluer et de proposer.",
+      null,
+      "Une théorie non reliée au sujet ne sert pas l'argumentation.",
+      "Des chiffres sans raisonnement ne constituent pas une analyse, et un chiffre douteux pénalise."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-e1-02",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Qu'est-ce que la pauvreté multidimensionnelle ?",
+     "o": [
+      "Un revenu inférieur à un seuil",
+      "Des privations en santé, éducation et conditions de vie",
+      "La pauvreté de l'État",
+      "Le chômage des jeunes diplômés"
+     ],
+     "a": 1,
+     "e": "La pauvreté multidimensionnelle mesure des privations dans plusieurs domaines (santé, éducation, conditions de vie), au-delà du seul revenu.",
+     "ed": [
+      "C'est la définition de la pauvreté monétaire.",
+      null,
+      "La pauvreté multidimensionnelle concerne les personnes et les ménages, pas l'État.",
+      "Le chômage peut en être une cause, mais ce n'est pas sa définition."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-e2-01",
+     "m": "pes",
+     "tag": "pes2",
+     "q": "Pourquoi le PIB ne suffit-il pas à mesurer le développement ?",
+     "o": [
+      "Parce qu'il est calculé en francs CFA",
+      "Parce qu'il ne dit rien de la répartition des richesses ni de la santé et de l'éducation",
+      "Parce qu'il n'est pas publié",
+      "Parce qu'il mesure seulement l'inflation"
+     ],
+     "a": 1,
+     "e": "Le PIB mesure la production ; il ne renseigne ni sur sa répartition ni sur la santé ou l'éducation, que l'IDH prend en compte.",
+     "ed": [
+      "La monnaie de calcul ne change rien au problème de fond.",
+      null,
+      "Le PIB est publié ; la question porte sur ce qu'il mesure.",
+      "Le PIB ne mesure pas l'inflation, qui est la hausse générale des prix."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-e2-02",
+     "m": "pes",
+     "tag": "pes2",
+     "q": "Si les ménages consomment 75 % de tout revenu supplémentaire, quel est le multiplicateur keynésien ?",
+     "o": [
+      "1,33",
+      "4",
+      "0,75",
+      "25"
+     ],
+     "a": 1,
+     "e": "Multiplicateur = 1 / (1 − propension à consommer) = 1 / (1 − 0,75) = 1 / 0,25 = 4.",
+     "ed": [
+      "1,33 correspond à 1 / 0,75 : on a divisé par la propension à consommer au lieu de 1 moins cette propension.",
+      null,
+      "0,75 est la propension à consommer elle-même, pas le multiplicateur.",
+      "25 confond le multiplicateur avec le pourcentage épargné (25 %)."
+     ],
+     "verif": "calcul",
+     "calc": "1/(1-0.75)"
+    },
+    {
+     "id": "r20261015-n1-01",
+     "m": "ns",
+     "tag": "ns",
+     "q": "Quelle phrase respecte la neutralité exigée dans une note de synthèse ?",
+     "o": [
+      "Il est évident que l'État doit agir.",
+      "Selon le rapport du ministère (doc. 3), l'accès au crédit reste le principal obstacle.",
+      "Je pense que ce dispositif est excellent.",
+      "Tout le monde sait que les banques prêtent peu."
+     ],
+     "a": 1,
+     "e": "La note rapporte ce que disent les documents en les citant, sans opinion personnelle : « selon le rapport (doc. 3) ».",
+     "ed": [
+      "« Il est évident que » exprime une opinion personnelle.",
+      null,
+      "Le « je » et l'appréciation personnelle sont proscrits.",
+      "« Tout le monde sait » est une affirmation sans source, extérieure au dossier."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-n1-02",
+     "m": "ns",
+     "tag": "ns",
+     "q": "Combien de pages au maximum les sujets récents de l'ENA autorisent-ils pour la note de synthèse ?",
+     "o": [
+      "2 pages",
+      "4 pages",
+      "8 pages",
+      "Aucune limite"
+     ],
+     "a": 1,
+     "e": "Les sujets de juin 2025 et de septembre 2024 du cycle supérieur demandent une note de 4 pages au maximum, sans intercalaire.",
+     "ed": [
+      "2 pages est inférieur à la limite fixée par les sujets récents.",
+      null,
+      "8 pages dépasse largement la limite de 4 pages.",
+      "Une limite est bien fixée : 4 pages au maximum."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-n1-03",
+     "m": "ns",
+     "tag": "ns",
+     "q": "Pourquoi faut-il citer les documents entre parenthèses (doc. 2, doc. 5) ?",
+     "o": [
+      "Pour remplir la page",
+      "Pour montrer que chaque idée vient du dossier et que tout le dossier a été exploité",
+      "Parce que c'est plus joli",
+      "Pour donner son avis"
+     ],
+     "a": 1,
+     "e": "Le référencement prouve que les idées viennent du dossier, sans ajout personnel, et que chaque document a été exploité.",
+     "ed": [
+      "Les références ne servent pas à allonger la note, limitée à 4 pages.",
+      null,
+      "La présentation n'est pas le but : c'est une exigence de rigueur.",
+      "Les références excluent justement l'avis personnel."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-n1-04",
+     "m": "ns",
+     "tag": "ns",
+     "q": "Que doit contenir la conclusion d'une note de synthèse ?",
+     "o": [
+      "Une prise de position personnelle",
+      "Un résumé des grandes lignes, sans idée nouvelle ni avis",
+      "Une nouvelle partie",
+      "Des informations extérieures au dossier"
+     ],
+     "a": 1,
+     "e": "La conclusion résume brièvement les grandes lignes de la note, sans avis personnel ni information nouvelle.",
+     "ed": [
+      "L'avis personnel sort de la neutralité exigée.",
+      null,
+      "Une conclusion n'ouvre pas de nouvelle partie.",
+      "Toute information extérieure au dossier est proscrite."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013or02-01",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Que signifie la méthode STAR ?",
+     "o": [
+      "Sujet, Thèse, Antithèse, Réponse",
+      "Situation, Tâche, Action, Résultat",
+      "Style, Ton, Accent, Rythme",
+      "Synthèse, Tableau, Analyse, Rédaction"
+     ],
+     "a": 1,
+     "e": "STAR structure une expérience : Situation (contexte), Tâche (mission), Action (ce que vous avez fait), Résultat (ce qui a changé).",
+     "ed": [
+      "Ce sont des termes de dissertation, pas la méthode STAR.",
+      null,
+      "Ces mots concernent la diction, pas la structure d'un exemple.",
+      "Ce sont des étapes de la note de synthèse."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013or02-02",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Laquelle de ces motivations est à mettre en avant devant le jury ?",
+     "o": [
+      "Le salaire",
+      "La sécurité de l'emploi",
+      "Le service public et les missions du corps visé",
+      "Le prestige de l'école"
+     ],
+     "a": 2,
+     "e": "Le jury attend une motivation tournée vers le service public et les missions du poste, appuyée sur votre parcours.",
+     "ed": [
+      "Le salaire n'est pas une motivation à mettre en avant.",
+      "La sécurité de l'emploi est une motivation perçue comme peu convaincante.",
+      null,
+      "Le prestige est une motivation superficielle aux yeux du jury."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013or02-03",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Vous ignorez la réponse à une question du jury. Que faire ?",
+     "o": [
+      "Inventer une réponse avec assurance",
+      "Le reconnaître et proposer une piste de raisonnement",
+      "Changer de sujet",
+      "Rester silencieux"
+     ],
+     "a": 1,
+     "e": "Le jury apprécie l'honnêteté intellectuelle : reconnaître ne pas savoir et raisonner à voix haute vaut mieux qu'une invention.",
+     "ed": [
+      "Une réponse inventée et fausse est sévèrement jugée.",
+      null,
+      "Éluder la question donne une impression de fuite.",
+      "Le silence prolongé donne une impression de blocage."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013or02-04",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Comment évoquer un échec à un concours précédent ?",
+     "o": [
+      "Le cacher",
+      "Le reconnaître brièvement et montrer ce que vous en avez tiré",
+      "Accuser le jury précédent",
+      "En parler longuement"
+     ],
+     "a": 1,
+     "e": "On reconnaît brièvement l'échec et on montre l'analyse et les progrès qui ont suivi : c'est un signe de maturité.",
+     "ed": [
+      "Le cacher est risqué : le jury peut le savoir et apprécie la franchise.",
+      null,
+      "Accuser le jury donne une image négative et peu responsable.",
+      "S'y attarder fait perdre du temps et met l'accent sur le négatif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013or02-05",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Que répondre si le jury vous interroge sur une question politique sensible ?",
+     "o": [
+      "Donner son opinion partisane",
+      "Exposer les faits et les positions en présence, avec neutralité",
+      "Refuser de répondre",
+      "Critiquer le gouvernement"
+     ],
+     "a": 1,
+     "e": "Un futur fonctionnaire est tenu à la neutralité : on expose les faits et les différentes positions sans prendre parti.",
+     "ed": [
+      "Une opinion partisane contredit le devoir de neutralité du fonctionnaire.",
+      null,
+      "Refuser de répondre paraît fuyant ; on peut répondre en restant neutre.",
+      "Critiquer le gouvernement est une prise de position incompatible avec la neutralité attendue."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013or02-06",
+     "m": "oral",
+     "tag": "niv-or02",
+     "q": "Quel est l'ordre logique d'une bonne présentation de soi ?",
+     "o": [
+      "Projet, salaire, parcours",
+      "Parcours, réalisation concrète, ce que j'en ai appris, projet",
+      "Hobbies, famille, projet",
+      "Projet seulement"
+     ],
+     "a": 1,
+     "e": "On part du concret (parcours, réalisation) pour aller au sens (ce que l'expérience a appris) puis au projet de service public.",
+     "ed": [
+      "Le salaire n'a pas sa place et l'ordre est inversé.",
+      null,
+      "La vie privée n'est pas le cœur de la présentation au jury.",
+      "Un projet sans parcours ni preuve concrète n'est pas convaincant."
+     ],
+     "verif": "regle"
     }
    ],
    "lessons": [
@@ -7158,6 +7855,963 @@
       "tag": "orga",
       "n": 10
      },
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013an03",
+     "rev": 2,
+     "m": "ang",
+     "titre": "Present simple et present continuous",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir entre present simple et present continuous grâce aux indices de temps, et reconnaître les verbes d'état qui refusent la forme en -ing.",
+      "## Ce que demande le concours",
+      "Les QCM d'anglais testent surtout le choix du temps. Le duo present simple / present continuous est le premier piège : il faut repérer l'indice de temps et savoir quels verbes ne se mettent pas en -ing.",
+      "## La méthode en trois questions",
+      "- Y a-t-il un indice d'habitude (usually, always, every day, often, never) ? → present simple.",
+      "- Y a-t-il un indice d'action en cours (now, at the moment, look!, listen!, this week) ? → present continuous.",
+      "- Le verbe exprime-t-il un état (know, understand, believe, belong, want, like, need, seem) ? → present simple, même pour parler de maintenant.",
+      "- Vérité générale ou horaire officiel → present simple.",
+      "! 3e personne du singulier du present simple : -s (works), -es après o, s, x, ch, sh (goes, watches), consonne + y → -ies (studies)."
+     ],
+     "fond": [
+      "## Notion 1 : le present simple, temps des habitudes et des vérités",
+      "- Formation : base verbale, avec -s à la 3e personne du singulier. Négation : do not / does not + base (She doesn't drink coffee). Question : Do / Does + sujet + base (Does he work here?).",
+      "- Emplois : habitudes, vérités générales, horaires, verbes d'état.",
+      "Pourquoi « does » fait-il disparaître le -s du verbe ? Parce que la marque de la 3e personne est déjà portée par l'auxiliaire : she works, mais she doesn't work, does she work?",
+      "~ The minister usually holds a press conference on Mondays. (habitude) / Water boils at 100 °C. (vérité générale) / The train leaves at 6 p.m. (horaire)",
+      "? Corrigez : « Does she speaks English? » || Does she speak English? Après does, le verbe reste à la base verbale, sans -s.",
+      "## Notion 2 : le present continuous, temps de l'action en cours",
+      "- Formation : be (am, is, are) + verbe en -ing. They are drafting a new law.",
+      "- Emplois : action en cours au moment où l'on parle ; situation temporaire (This week, I am working in Bouaké).",
+      "~ Look! The candidates are leaving the room. (action en cours) / He usually works in Abidjan, but this month he is working in Korhogo. (habitude contre situation temporaire)",
+      "? Complétez : « Listen! Someone … (knock) at the door. » || Is knocking. « Listen! » signale une action en train de se produire : present continuous.",
+      "## Notion 3 : les verbes d'état",
+      "Ils décrivent un état ou une opinion, pas une action qui se déroule : know, understand, believe, belong, own, want, like, love, hate, need, seem, mean. Ils restent au present simple, même avec « now ».",
+      "~ I understand your point now (et non « I am understanding »). This car belongs to the ministry (et non « is belonging »).",
+      "! Certains verbes changent de sens : « I think it's a good idea » (opinion, present simple) mais « I am thinking about the subject » (réflexion en cours, -ing possible).",
+      "? Complétez : « At the moment, I … (need) your signature. » || Need. « Need » est un verbe d'état : present simple, malgré « at the moment ».",
+      "## Notion 4 : l'orthographe de la 3e personne et du -ing",
+      "- 3e personne : works, goes, watches, fixes, studies (consonne + y), mais plays (voyelle + y).",
+      "- Forme en -ing : write → writing (e muet supprimé), sit → sitting (consonne doublée après voyelle courte accentuée), lie → lying.",
+      "~ She studies law and plays football; at the moment she is writing her thesis. (studies : consonne + y ; plays : voyelle + y ; writing : e muet supprimé)"
+     ],
+     "retenir": [
+      "Habitude, vérité générale, horaire → present simple.",
+      "Now, at the moment, look!, listen! → be + verbe en -ing.",
+      "Verbes d'état (know, understand, belong, want, need…) : jamais en -ing dans leur sens d'état.",
+      "Does / doesn't + base verbale sans -s : does she work?",
+      "3e personne : works, goes, studies, mais plays.",
+      "I think (opinion) ≠ I am thinking (réflexion en cours)."
+     ],
+     "exo": {
+      "tag": "niv-an03",
+      "n": 10
+     },
+     "niv": "an03",
+     "verif": "regle"
+    },
+    {
+     "id": "L20261013an04",
+     "rev": 2,
+     "m": "ang",
+     "titre": "Past simple, present perfect, for et since",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir entre past simple et present perfect, employer for et since, et utiliser already, yet, just, ever et never à bon escient.",
+      "## Ce que demande le concours",
+      "Le choix entre past simple et present perfect, et entre for et since, revient à chaque session. Tout se joue sur les marqueurs de temps de la phrase.",
+      "## La méthode",
+      "- Moment passé précis et terminé (yesterday, in 2019, two days ago, last year, when…?) → past simple.",
+      "- Lien avec le présent : durée qui continue, expérience, résultat visible maintenant (ever, never, already, yet, just, since, for, how long) → present perfect.",
+      "- For + durée (for ten years) ; since + point de départ (since 2020, since Monday).",
+      "- Formez la réponse vous-même avant de lire les propositions.",
+      "! « Ago » impose le past simple : I saw him two days ago (jamais « I have seen him two days ago »)."
+     ],
+     "fond": [
+      "## Notion 1 : le past simple, passé coupé du présent",
+      "- Formation : base + -ed pour les verbes réguliers (worked, decided) ; forme propre aux verbes irréguliers (saw, went, got, wrote). Question et négation : did / didn't + base.",
+      "- Emploi : action terminée, située à un moment précis.",
+      "~ She finished the report yesterday. / The Constitution was adopted in 2016. / When did you arrive?",
+      "? Complétez : « We … (meet) the director last week. » || Met. « Last week » situe l'action à un moment passé précis : past simple (meet → met, verbe irrégulier).",
+      "## Notion 2 : le present perfect, passé relié au présent",
+      "- Formation : have / has + participe passé (have lived, has finished, have been).",
+      "- Trois emplois : situation commencée dans le passé qui dure encore ; expérience de vie ; résultat présent d'une action récente.",
+      "~ I have lived in Abengourou since 2015. (j'y habite encore) / Have you ever been to Ghana? (expérience) / She has just arrived. (résultat : elle est là)",
+      "Pourquoi les Français se trompent-ils ? Le français dit « J'habite ici depuis 2015 » au présent. L'anglais, lui, voit une durée qui part du passé : il emploie le present perfect.",
+      "? Traduisez : « Je travaille à la préfecture depuis cinq ans. » || I have worked (ou I have been working) at the prefecture for five years. Durée qui continue jusqu'à maintenant : present perfect, et « for » devant une durée.",
+      "## Notion 3 : for ou since",
+      "- For + une durée : for three hours, for ten years, for a long time.",
+      "- Since + un point de départ : since 2020, since Monday, since I arrived.",
+      "~ The office has been closed for two weeks / since 1st October.",
+      "? Complétez avec for ou since : « He has been a civil servant … 2018. » || Since. 2018 est un point de départ ; avec une durée (« eight years »), on emploierait for.",
+      "## Notion 4 : les petits marqueurs",
+      "- Already : déjà, dans une phrase affirmative (I have already signed it).",
+      "- Yet : déjà ? dans une question (Have you finished yet?) ; pas encore dans une négation (I haven't finished yet).",
+      "- Just : venir de (She has just left = elle vient de partir).",
+      "- Ever / never : jamais au sens de « à un moment quelconque » / « à aucun moment » (Have you ever…? I have never…).",
+      "- How long…? : depuis combien de temps (How long have you known her?).",
+      "! « Since when » est possible mais moins courant que « how long » pour demander une durée."
+     ],
+     "retenir": [
+      "Ago, yesterday, last year, in 2019, when? → past simple.",
+      "Durée jusqu'à maintenant, expérience, résultat présent → have / has + participe passé.",
+      "For + durée (for ten years) ; since + point de départ (since 2020).",
+      "« Depuis » + présent en français → present perfect en anglais.",
+      "Yet : questions et négations ; already : affirmatives ; just = venir de.",
+      "How long have you…? = depuis combien de temps…?"
+     ],
+     "exo": {
+      "tag": "niv-an04",
+      "n": 10
+     },
+     "niv": "an04",
+     "verif": "regle"
+    },
+    {
+     "id": "L20261013lo03",
+     "rev": 2,
+     "m": "log",
+     "titre": "Fractions et calcul mental",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez calculer de tête avec des fractions, des pourcentages et des décimaux, respecter les priorités de calcul et utiliser les raccourcis qui font gagner du temps.",
+      "## Ce que demande le concours",
+      "En présélection, la calculatrice n'est pas autorisée et chaque erreur en logique coûte 2 points. Le calcul mental rapide et sûr est donc un avantage décisif : il libère du temps pour les problèmes d'organisation.",
+      "## La méthode",
+      "- Estimez d'abord l'ordre de grandeur : il élimine souvent deux propositions sur quatre.",
+      "- Transformez pourcentages et décimaux en fractions simples : 25 % = 1/4, 0,5 = 1/2, 0,125 = 1/8.",
+      "- Respectez les priorités : parenthèses, puis multiplications et divisions, puis additions et soustractions.",
+      "- Vérifiez par une opération inverse quand vous avez un doute.",
+      "! Diviser par 0,5 revient à multiplier par 2 ; diviser par 0,25 revient à multiplier par 4."
+     ],
+     "fond": [
+      "## Notion 1 : prendre une fraction d'un nombre",
+      "Prendre a/b d'un nombre, c'est le diviser par b puis multiplier par a. Divisez d'abord : vous manipulez des nombres plus petits.",
+      "~ 3/4 de 240 : 240 ÷ 4 = 60, puis 60 × 3 = 180.",
+      "? Calculez 2/5 de 350. || 350 ÷ 5 = 70, puis 70 × 2 = 140.",
+      "## Notion 2 : additionner et comparer des fractions",
+      "- Pour additionner, mettez au même dénominateur : 3/4 + 1/6 = 9/12 + 2/12 = 11/12.",
+      "- Pour comparer, ramenez au même dénominateur ou passez en décimal : 5/8 = 0,625 et 2/3 ≈ 0,667, donc 2/3 est plus grand.",
+      "Pourquoi un dénominateur commun ? Parce qu'on ne peut additionner que des parts de même taille : des quarts et des sixièmes deviennent tous des douzièmes.",
+      "? Calculez 1/2 + 1/3. || 3/6 + 2/6 = 5/6. Erreur fréquente : additionner numérateurs et dénominateurs (1 + 1)/(2 + 3) = 2/5, qui est faux.",
+      "## Notion 3 : les équivalences à connaître par cœur",
+      "- 1/2 = 0,5 = 50 % ; 1/4 = 0,25 = 25 % ; 3/4 = 0,75 = 75 %.",
+      "- 1/5 = 0,2 = 20 % ; 1/8 = 0,125 = 12,5 % ; 1/3 ≈ 0,333 ≈ 33,3 %.",
+      "~ 25 % de 640 = 640 ÷ 4 = 160. 12,5 % de 800 = 800 ÷ 8 = 100.",
+      "## Notion 4 : les raccourcis de calcul mental",
+      "- × 5 = × 10 ÷ 2 ; × 25 = × 100 ÷ 4 ; × 125 = × 1 000 ÷ 8.",
+      "- × 11 pour un nombre à deux chiffres dont la somme des chiffres est inférieure à 10 : écrivez la somme des chiffres au milieu (45 × 11 = 495).",
+      "- Carré d'un nombre proche d'une centaine : 99 × 99 = (100 − 1)² = 10 000 − 200 + 1 = 9 801.",
+      "~ 48 × 25 = 4 800 ÷ 4 = 1 200. 36 × 5 = 360 ÷ 2 = 180.",
+      "? Calculez 64 × 125 de tête. || 64 × 1 000 = 64 000, puis ÷ 8 = 8 000.",
+      "## Notion 5 : les priorités de calcul",
+      "~ 6 + 4 × 3 = 6 + 12 = 18 (et non 10 × 3 = 30). (6 + 4) × 3 = 30 : ce sont les parenthèses qui changent l'ordre.",
+      "Pourquoi cette règle ? Sans ordre fixé, une même écriture donnerait plusieurs résultats. La convention (parenthèses, puis multiplications et divisions, puis additions et soustractions) garantit que tout le monde trouve le même nombre.",
+      "~ 20 − 12 ÷ 4 + 2 × 3 = 20 − 3 + 6 = 23 : on calcule d'abord 12 ÷ 4 et 2 × 3, puis on effectue les additions et soustractions de gauche à droite."
+     ],
+     "retenir": [
+      "Fraction d'un nombre : diviser par le dénominateur, puis multiplier par le numérateur.",
+      "Additionner des fractions : même dénominateur d'abord ; 1/2 + 1/3 = 5/6.",
+      "25 % = 1/4 ; 12,5 % = 1/8 ; 20 % = 1/5.",
+      "Diviser par 0,5 = multiplier par 2 ; diviser par 0,25 = multiplier par 4.",
+      "× 25 = × 100 ÷ 4 ; × 125 = × 1 000 ÷ 8.",
+      "Priorités : parenthèses, puis × et ÷, puis + et −.",
+      "Estimez l'ordre de grandeur avant de calculer."
+     ],
+     "exo": {
+      "tag": "niv-lo03",
+      "n": 10
+     },
+     "niv": "lo03",
+     "verif": "calcul"
+    },
+    {
+     "id": "L20261013lo04",
+     "rev": 2,
+     "m": "log",
+     "titre": "Pourcentages avancés",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez enchaîner des pourcentages, calculer un taux de variation et un taux réciproque, passer du prix hors taxe au prix TTC, et prendre un pourcentage d'un pourcentage.",
+      "## Ce que demande le concours",
+      "Les pourcentages successifs, la TVA et les taux réciproques sont des pièges classiques : la réponse intuitive (additionner les pourcentages) est presque toujours fausse, et le concours la place exprès parmi les propositions.",
+      "## La méthode du coefficient multiplicateur",
+      "- Une hausse de t % multiplie par (1 + t/100) ; une baisse de t % multiplie par (1 − t/100).",
+      "- Des variations successives se multiplient.",
+      "- Pour annuler une variation, divisez par son coefficient.",
+      "- À la fin, retraduisez le coefficient en pourcentage : × 1,15 = + 15 % ; × 0,92 = − 8 %.",
+      "! Ne jamais additionner deux pourcentages successifs : + 10 % puis − 10 % ne donne pas 0 %."
+     ],
+     "fond": [
+      "## Notion 1 : le coefficient multiplicateur",
+      "Pourquoi raisonner en coefficients ? Parce qu'un pourcentage s'applique toujours à la valeur du moment. Multiplier enchaîne correctement les étapes ; additionner fait comme si chaque pourcentage s'appliquait à la valeur de départ.",
+      "~ Un prix de 50 000 F augmente de 20 % : 50 000 × 1,2 = 60 000 F. Il baisse ensuite de 20 % : 60 000 × 0,8 = 48 000 F. Bilan : × 1,2 × 0,8 = × 0,96, soit une baisse de 4 %.",
+      "? Un loyer augmente de 10 % deux années de suite. De quel pourcentage a-t-il augmenté au total ? || 1,1 × 1,1 = 1,21 : + 21 %, et non + 20 %.",
+      "## Notion 2 : le taux de variation",
+      "- Taux = (valeur d'arrivée − valeur de départ) ÷ valeur de départ × 100.",
+      "~ Les inscrits passent de 400 à 460 : (460 − 400) ÷ 400 = 60 ÷ 400 = 0,15, soit + 15 %.",
+      "! Divisez toujours par la valeur de départ : de 460 à 400, la baisse est de 60 ÷ 460 ≈ 13 %, et non 15 %.",
+      "## Notion 3 : le taux réciproque",
+      "Pour revenir au point de départ après une variation, il faut diviser par son coefficient.",
+      "~ Après une baisse de 20 % (× 0,8), il faut × 1 / 0,8 = × 1,25, soit une hausse de 25 %, pour revenir au prix initial.",
+      "? Une action perd 50 % de sa valeur. Quelle hausse lui faut-il pour retrouver sa valeur d'origine ? || 1 / 0,5 = 2 : il faut doubler, soit + 100 %.",
+      "## Notion 4 : la TVA",
+      "- Prix TTC = prix HT × (1 + taux). Avec une TVA de 18 % : TTC = HT × 1,18.",
+      "- Prix HT = prix TTC ÷ (1 + taux). 11 800 F TTC → 11 800 ÷ 1,18 = 10 000 F HT.",
+      "! Retirer 18 % du prix TTC est faux : la TVA se calcule sur le prix hors taxe, pas sur le prix TTC.",
+      "## Notion 5 : le pourcentage d'un pourcentage",
+      "- 30 % de 30 % = 0,3 × 0,3 = 0,09, soit 9 %.",
+      "~ Sur 250 candidats, 40 % sont admissibles (100), puis 30 % des admissibles sont admis : 30 admis, soit 30 ÷ 250 = 12 % du total (0,4 × 0,3 = 0,12).",
+      "? 60 % des candidats d'un centre sont des femmes, et 25 % d'entre elles sont admises. Quelle part des candidats du centre est constituée de femmes admises ? || 0,6 × 0,25 = 0,15, soit 15 % des candidats."
+     ],
+     "retenir": [
+      "Hausse de t % : × (1 + t/100) ; baisse de t % : × (1 − t/100).",
+      "Variations successives : on multiplie les coefficients, on n'additionne jamais les taux.",
+      "+ 10 % deux fois = + 21 % ; + 20 % puis − 20 % = − 4 %.",
+      "Taux de variation : divisez par la valeur de départ.",
+      "Après une baisse de 20 %, il faut + 25 % pour revenir au départ.",
+      "Prix HT = prix TTC ÷ (1 + taux de TVA).",
+      "Pourcentage d'un pourcentage : on multiplie (30 % de 30 % = 9 %)."
+     ],
+     "exo": {
+      "tag": "niv-lo04",
+      "n": 10
+     },
+     "niv": "lo04",
+     "verif": "calcul"
+    },
+    {
+     "id": "s1",
+     "rev": 2,
+     "m": "sog",
+     "titre": "SOG 1 : analyser le sujet et trouver la problématique",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez analyser un sujet d'ordre général en quatre temps, lire correctement sa consigne et formuler une problématique qui contient une vraie tension.",
+      "## Ce que le jury évalue",
+      "Le sujet d'ordre général (4 heures, coefficient 4 au cycle moyen supérieur de l'ENA) évalue la culture générale, la capacité d'analyse et l'expression écrite. Le correcteur cherche une réponse construite à une question précise, pas une récitation de connaissances. La plupart des copies faibles échouent dès l'analyse : elles traitent un thème au lieu de traiter le sujet.",
+      "## Les quatre temps de l'analyse (25 à 30 minutes)",
+      "- Recopiez le sujet en haut du brouillon et soulignez chaque mot important.",
+      "- Définissez chaque terme, puis regardez ce que le sujet relie (« les élections » et « la paix »).",
+      "- Identifiez la consigne : « commentez et discutez » demande d'expliquer l'idée puis d'en montrer les limites ; « appréciez » demande un jugement nuancé ; « analysez » demande d'expliquer des mécanismes.",
+      "- Formulez la problématique : une question unique, qui contient une tension.",
+      "## Le brouillon d'idées",
+      "Notez en vrac, pendant 10 minutes, tous les arguments et exemples qui vous viennent. Classez-les ensuite en deux colonnes : ce qui va dans le sens de l'assertion, ce qui la limite. Ce classement donne votre plan.",
+      "> Test de la bonne problématique : si l'on peut y répondre par oui ou par non sans réfléchir, elle est trop pauvre."
+     ],
+     "fond": [
+      "## Notion 1 : traiter le sujet, pas le thème",
+      "Le thème est le domaine général (la paix, l'environnement) ; le sujet est la relation précise que l'énoncé établit entre plusieurs notions. Un candidat qui écrit tout ce qu'il sait sur la paix est hors sujet si on lui demande si les élections favorisent la paix.",
+      "~ Sujet : « Les élections sont un levier pertinent de la paix ». Thème : la paix. Sujet réel : le lien entre un mécanisme (l'élection) et un résultat (la paix). Toute la copie doit parler de ce lien.",
+      "? Sujet : « L'action incontrôlée de l'homme contribue à la transformation de l'environnement. » Quel mot, souvent négligé, oriente toute la réflexion ? || « Incontrôlée ». Le sujet ne condamne pas toute action humaine ; il vise celle qui échappe aux règles. Cela ouvre une réflexion sur la régulation (lois, contrôle, sanctions).",
+      "## Notion 2 : définir les termes",
+      "Définir, c'est donner le sens précis de chaque mot clé dans le contexte du sujet, et donc fixer les limites de la réflexion.",
+      "~ « Levier » : moyen d'action qui permet d'obtenir un effet. « Pertinent » : adapté, efficace. « Paix » : absence de conflit violent, mais aussi cohésion sociale durable. Ces définitions suggèrent déjà la tension : un outil peut être adapté en théorie et inefficace en pratique.",
+      "## Notion 3 : lire la consigne",
+      "- « Commentez et discutez » : expliquer et justifier l'assertion (I), puis en montrer les limites (II).",
+      "- « Appréciez » : porter un jugement argumenté et nuancé.",
+      "- « Analysez » : expliquer des causes, des mécanismes, des conséquences.",
+      "- « Quelles réflexions vous inspire… » : liberté plus grande, mais il faut toujours une problématique et un plan.",
+      "! Ignorer la consigne coûte cher : une copie qui ne fait que « commenter » sans « discuter » ne traite que la moitié du sujet.",
+      "## Notion 4 : la problématique",
+      "La problématique transforme le sujet en une question unique qui exprime une tension : un paradoxe, une contradiction, un écart entre l'idéal et la réalité.",
+      "~ Question pauvre : « Les élections favorisent-elles la paix ? » (oui ou non). Problématique riche : « Les élections, censées départager pacifiquement les ambitions, peuvent-elles garantir la paix alors qu'elles sont parfois elles-mêmes l'occasion de crises ? »",
+      "? Formulez une problématique pour : « Le sport permet de bâtir un monde inclusif et plus pacifique. » || Par exemple : « Le sport, qui rassemble au-delà des différences, peut-il vraiment construire l'inclusion et la paix, alors qu'il est aussi le théâtre d'exclusions, de violences et de rivalités nationales ? » La tension oppose la promesse du sport à ses dérives.",
+      "## Notion 5 : ce que révèlent les sujets officiels",
+      "- Cycle supérieur, juin 2025 : « Les élections sont un levier pertinent de la paix ». Commentez et discutez cette assertion.",
+      "- Cycle moyen supérieur, juillet 2025 : « L'action incontrôlée de l'homme contribue à la transformation de l'environnement. » Analysez cette assertion.",
+      "- Cycle supérieur, septembre 2024 : une assertion sur le sport, qui permettrait de bâtir un monde inclusif et plus pacifique.",
+      "- Cycle moyen supérieur, 2019 : un jeune Africain en quête d'un premier emploi, après plusieurs concours, déclare n'avoir plus que l'émigration clandestine comme issue. Appréciez ces propos.",
+      "- Cycle moyen supérieur, 2009 : « La mondialisation accentuera la pauvreté des pays du tiers monde. » Quelles réflexions vous inspire cette opinion ?",
+      "> Constante : des thèmes de société (paix, élections, jeunesse, emploi, environnement, éthique, mondialisation, sport) formulés comme une assertion à discuter. Préparez une réserve d'exemples sur chacun.",
+      "? Pour le sujet de 2019 sur l'émigration clandestine, quelle est la tension à exploiter ? || Le désespoir du jeune est compréhensible (chômage, échecs répétés), mais la conclusion qu'il en tire est discutable : l'émigration clandestine est dangereuse et d'autres voies existent (formation, entrepreneuriat, dispositifs d'insertion). Le plan peut donc comprendre (I) puis discuter (II)."
+     ],
+     "retenir": [
+      "Traitez le sujet (une relation précise), pas le thème général.",
+      "Définissez chaque mot clé : définir, c'est délimiter le sujet.",
+      "Commentez et discutez = expliquer l'assertion, puis en montrer les limites.",
+      "La problématique est une question unique qui exprime une tension.",
+      "Une question à laquelle on répond par oui ou non sans réfléchir est trop pauvre.",
+      "Brouillon d'idées en deux colonnes : arguments pour, limites."
+     ],
+     "exo": {
+      "tag": "sog1",
+      "n": 6,
+      "ecrit": "sog"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "s2",
+     "rev": 2,
+     "m": "sog",
+     "titre": "SOG 2 : construire le plan et rédiger",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir un plan adapté au sujet, rédiger une introduction et des paragraphes argumentés, et répartir vos 4 heures sans sacrifier la conclusion.",
+      "## Choisir son plan",
+      "- Plan dialectique (I. L'assertion est fondée ; II. Elle doit être nuancée) : pour les assertions à « commenter et discuter ».",
+      "- Plan analytique (causes, conséquences, solutions) : pour « analysez » un phénomène. À manier avec prudence : il ne s'applique pas à tous les sujets.",
+      "- Plan thématique : quand le sujet invite à examiner plusieurs dimensions (politique, économique, sociale).",
+      "## La structure attendue d'une copie",
+      "Les supports de préparation diffusés en Côte d'Ivoire proposent cette charte :",
+      "- Introduction : 10 à 15 phrases (accroche, définitions, problématique, annonce du plan).",
+      "- Chaque partie : un chapeau de 1 à 2 phrases annonçant ses sous-parties.",
+      "- Chaque argument : 5 à 7 phrases (idée, explication, exemple, mini-conclusion).",
+      "- Fin de partie : conclusion partielle et transition.",
+      "- Conclusion générale : bilan qui répond à la problématique, puis ouverture.",
+      "## Gestion des 4 heures",
+      "- 0 h 00 – 0 h 30 : analyse et brouillon d'idées. 0 h 30 – 1 h 00 : plan détaillé et introduction au brouillon.",
+      "- 1 h 00 – 3 h 30 : rédaction au propre. 3 h 30 – 4 h 00 : conclusion et relecture.",
+      "! Une copie sans conclusion est lourdement sanctionnée. Si le temps manque, raccourcissez le dernier argument, jamais la conclusion."
+     ],
+     "fond": [
+      "## Notion 1 : le paragraphe argumentatif, brique de la copie",
+      "Un argument se construit en quatre temps : l'idée (une phrase claire), l'explication (pourquoi c'est vrai), l'exemple (précis, daté, situé), la mini-conclusion (qui relie l'argument au sujet).",
+      "~ Idée : les élections apaisent la compétition pour le pouvoir. Explication : elles substituent le bulletin de vote à la force et donnent au vainqueur une légitimité reconnue par tous. Exemple : les alternances pacifiques au Ghana ou au Sénégal. Mini-conclusion : quand les règles sont acceptées, le vote canalise les conflits au lieu de les provoquer.",
+      "Pourquoi l'exemple est-il indispensable ? Parce qu'une idée sans exemple reste une opinion. L'exemple prouve que l'idée correspond à la réalité ; il montre aussi votre culture.",
+      "? Complétez ce paragraphe dont manque l'exemple : « Le sport favorise l'inclusion, car il réunit des personnes de toutes origines autour de règles communes. [exemple ?] Ainsi, le terrain de sport peut devenir un lieu de cohésion. » || Par exemple : « La CAN 2023, organisée par la Côte d'Ivoire début 2024, a rassemblé des supporters de toutes les régions et de nombreux pays autour d'un même événement. » Un exemple précis, daté et lié à l'idée.",
+      "## Notion 2 : l'introduction en cinq gestes",
+      "- Accroche : un fait, une citation exacte ou une actualité liée au sujet.",
+      "- Présentation et définition des termes.",
+      "- Reformulation du sujet et mise en tension.",
+      "- Problématique, sous forme de question.",
+      "- Annonce du plan.",
+      "~ Introduction modèle (sujet : les élections et la paix), commentée : « En 2016, la Côte d'Ivoire s'est dotée d'une nouvelle Constitution qui confie au peuple, par le suffrage, le choix de ses dirigeants. [accroche datée] L'élection désigne le choix des gouvernants par le vote ; la paix s'entend comme l'absence de conflit violent et la cohésion durable d'une société. [définitions] Censées départager pacifiquement les ambitions, les élections ont pourtant été, dans plusieurs pays d'Afrique de l'Ouest, l'occasion de crises graves. [tension] Les élections peuvent-elles alors garantir la paix ? [problématique] Si elles constituent un instrument privilégié de règlement pacifique de la compétition politique, leur efficacité dépend de conditions qui, lorsqu'elles manquent, en font un facteur de tension. [annonce du plan] »",
+      "## Notion 3 : chapeaux, transitions et conclusion",
+      "- Chapeau : en tête de partie, il annonce les deux sous-parties.",
+      "- Transition : en fin de partie, elle résume ce qui vient d'être montré et annonce la suite (« Si les élections apaisent la compétition, elles ne produisent cet effet qu'à certaines conditions »).",
+      "- Conclusion : réponse claire à la problématique (bilan), puis ouverture vers une question voisine.",
+      "! L'ouverture n'est pas une nouvelle question gratuite : elle prolonge la réflexion (par exemple, du vote vers la confiance dans les institutions).",
+      "? Rédigez une transition entre une partie I (« Les élections, instrument de paix ») et une partie II (« Une efficacité conditionnée »). || Par exemple : « Instrument de règlement pacifique de la compétition politique, l'élection n'apaise toutefois que si ses règles sont acceptées par tous ; or ces conditions font parfois défaut. »",
+      "## Notion 4 : une réserve d'exemples",
+      "- Paix et cohésion : crises post-électorales en Afrique de l'Ouest ; rôle des commissions électorales et des juridictions constitutionnelles ; mécanismes de dialogue politique.",
+      "- Jeunesse et emploi : dividende démographique, entrepreneuriat des jeunes, dispositifs publics d'insertion, émigration irrégulière.",
+      "- Environnement : déforestation liée aux cultures de rente, orpaillage clandestin, érosion côtière, Accord de Paris (2015).",
+      "- Sport : CAN 2023 organisée par la Côte d'Ivoire, sport et insertion, mais aussi violences et corruption.",
+      "? Quel plan choisir pour « Analysez les causes et les conséquences de l'exode rural en Côte d'Ivoire » ? || Un plan analytique : I. Les causes (recherche d'emploi, services concentrés en ville, attrait de la vie urbaine) ; II. Les conséquences (croissance des quartiers précaires, pression sur l'emploi urbain, vieillissement des campagnes). La consigne « analysez » appelle des mécanismes, pas une discussion pour et contre."
+     ],
+     "retenir": [
+      "Assertion à commenter et discuter → plan dialectique.",
+      "Argument = idée, explication, exemple précis, mini-conclusion.",
+      "Introduction : accroche, définitions, tension, problématique, annonce du plan.",
+      "Chapeau en tête de partie, transition en fin de partie.",
+      "Conclusion : réponse à la problématique, puis ouverture qui prolonge la réflexion.",
+      "Gestion du temps : 1 heure de préparation, 2 h 30 de rédaction, 30 minutes de conclusion et relecture.",
+      "La conclusion n'est jamais sacrifiée."
+     ],
+     "exo": {
+      "tag": "sog2",
+      "n": 6,
+      "ecrit": "sog"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013so03",
+     "rev": 2,
+     "m": "sog",
+     "titre": "L'introduction en quatre temps",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez rédiger une introduction complète en quatre temps : accroche, définitions, problématique, annonce du plan.",
+      "## Ce que demande l'épreuve",
+      "Le correcteur se fait une opinion dès l'introduction. Une introduction claire, construite et précise annonce une copie maîtrisée ; une introduction vague annonce une copie confuse. La charte enseignée dans les préparations ivoiriennes recommande 10 à 15 phrases.",
+      "## Les quatre temps",
+      "- L'accroche : un fait précis, daté, vérifiable, lié directement au sujet.",
+      "- La définition des termes : chaque mot clé du sujet est défini pour délimiter le champ.",
+      "- La problématique : une seule question centrale, qui exprime une tension.",
+      "- L'annonce du plan : les deux ou trois parties, annoncées sans être développées.",
+      "## La méthode au brouillon",
+      "Rédigez l'introduction entièrement au brouillon, après avoir arrêté votre plan : on ne peut pas annoncer un plan qu'on ne connaît pas encore.",
+      "! À proscrire : « De tout temps, l'homme… », « Depuis la nuit des temps… » : accroches banales et invérifiables."
+     ],
+     "fond": [
+      "## Notion 1 : l'accroche",
+      "Elle part du concret pour aller vers le sujet. Sa fonction : montrer au correcteur que le sujet a une réalité, ici et maintenant.",
+      "- Bonnes sources d'accroche : une loi ou une Constitution datée, un événement marquant, une citation exacte, une statistique officielle dont vous êtes sûr.",
+      "~ Sujet sur la jeunesse et l'emploi : « Le Plan national de développement 2026-2030, adopté en Conseil des ministres le 4 février 2026, fait de l'emploi l'une de ses priorités. »",
+      "! Une citation approximative ou un chiffre inventé fait plus de tort qu'une accroche simple : en cas de doute, choisissez un fait que vous maîtrisez.",
+      "? Remplacez cette accroche faible : « Depuis toujours, les hommes pratiquent le sport. » (sujet : le sport et la paix). || Par exemple : « Organisée par la Côte d'Ivoire début 2024, la CAN 2023 a réuni des supporters de tout le continent autour d'une même compétition. » Un fait daté, précis, directement lié au sujet.",
+      "## Notion 2 : les définitions",
+      "Définir, c'est donner le sens de chaque mot clé dans le contexte du sujet. C'est aussi exclure ce qui n'en fait pas partie, et donc éviter le hors-sujet.",
+      "~ « Jeunesse » : la tranche d'âge que les politiques publiques ivoiriennes visent en matière d'insertion, mais aussi un moment de la vie marqué par l'entrée dans la vie active. Cette double définition oriente vers les questions de formation et d'insertion professionnelle.",
+      "## Notion 3 : la problématique",
+      "Elle naît de la confrontation des termes définis : en quoi le sujet pose-t-il problème ? Une seule question centrale ; d'éventuelles sous-questions restent à son service.",
+      "~ Sujet : « L'école prépare-t-elle à l'emploi ? » Problématique : « L'école, dont la mission est de former des citoyens autant que des travailleurs, peut-elle répondre aux besoins du marché de l'emploi sans renoncer à sa vocation de formation générale ? »",
+      "? Pourquoi la problématique ci-dessus est-elle meilleure que « L'école prépare-t-elle à l'emploi ? » || Parce qu'elle met en tension deux missions de l'école (former des citoyens et préparer à un métier) : la réponse ne peut être ni un oui ni un non simple, elle exige une démonstration.",
+      "## Notion 4 : l'annonce du plan",
+      "L'annonce dit où va la copie, en une ou deux phrases, sans développer les arguments.",
+      "~ « Si l'école donne les savoirs de base indispensables à toute insertion professionnelle, elle peine encore à s'adapter aux besoins concrets des employeurs. » La formule « si…, il n'en demeure pas moins que… » annonce les deux parties d'un plan dialectique.",
+      "? Annoncez un plan en deux parties pour : « La décentralisation rapproche-t-elle l'administration des citoyens ? » || Par exemple : « Si la décentralisation confie aux collectivités élues la gestion des affaires locales au plus près des citoyens, son efficacité reste limitée par l'insuffisance des moyens transférés. »"
+     ],
+     "retenir": [
+      "Quatre temps : accroche, définitions, problématique, annonce du plan.",
+      "Accroche : un fait précis, daté, vérifiable, directement lié au sujet.",
+      "Jamais « de tout temps » ni « depuis la nuit des temps ».",
+      "Définir, c'est délimiter le sujet et éviter le hors-sujet.",
+      "La problématique est une question unique qui exprime une tension.",
+      "L'annonce du plan annonce sans développer.",
+      "Rédigez l'introduction au brouillon une fois le plan arrêté."
+     ],
+     "exo": {
+      "tag": "niv-so03",
+      "n": 8,
+      "ecrit": "sog"
+     },
+     "niv": "so03",
+     "verif": "methode"
+    },
+    {
+     "id": "c1",
+     "rev": 2,
+     "m": "ct",
+     "titre": "Résumé de texte : la technique ENA",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez respecter la consigne de longueur d'un résumé, compter les mots selon l'usage des concours et suivre une méthode en cinq étapes pour résumer un texte en 3 heures.",
+      "## La consigne réelle",
+      "Les sujets publiés du cycle moyen supérieur de l'ENA demandent un résumé en un nombre fixe de mots, avec une tolérance de 10 % : 200 mots en 2019, 250 mots en juillet 2025. Pour 250 mots, votre résumé doit compter entre 225 et 275 mots.",
+      "! Hors de la fourchette, la copie est pénalisée, parfois sévèrement. Comptez vos mots et indiquez le total à la fin.",
+      "## Comment compter les mots",
+      "Usage courant des concours : un mot est un ensemble de lettres entre deux espaces ou apostrophes. « L'État » compte deux mots ; « c'est-à-dire » compte pour un mot dans l'usage le plus répandu ; un nombre écrit en chiffres compte pour un mot.",
+      "## Méthode en cinq étapes",
+      "- Première lecture sans crayon : saisir le thème et la thèse de l'auteur.",
+      "- Deuxième lecture : numérotez les paragraphes, soulignez l'idée principale de chacun, entourez les connecteurs logiques.",
+      "- Dressez le plan du texte : thèse, arguments, exemples, concessions, conclusion.",
+      "- Rédigez dans l'ordre du texte, à la place de l'auteur, sans « l'auteur dit que ».",
+      "- Comptez, ajustez, recopiez proprement, notez le nombre de mots."
+     ],
+     "fond": [
+      "## Notion 1 : ce que l'on garde, ce que l'on supprime",
+      "- Garder : la thèse, les arguments, les liens logiques entre les idées.",
+      "- Supprimer : les exemples, les répétitions, les citations, les digressions.",
+      "- Reformuler : n'utilisez pas les phrases du texte ; seuls les mots-clés techniques peuvent être repris.",
+      "Pourquoi supprimer les exemples ? Ils illustrent un argument sans en ajouter un nouveau. Le résumé garde le raisonnement, pas ses illustrations.",
+      "## Notion 2 : résumer à la place de l'auteur",
+      "Le résumé s'écrit comme si vous étiez l'auteur qui réécrit son texte en plus court : même point de vue, même ordre, même énonciation (« nous », « je » si l'auteur les emploie).",
+      "! « L'auteur affirme que… », « Dans ce texte, il est question de… » : c'est un compte rendu, pas un résumé. Pénalisé.",
+      "## Notion 3 : un exemple complet",
+      "~ Texte (78 mots) : « Beaucoup pensent que le développement passe d'abord par les routes, les ponts et les barrages. Ces infrastructures sont certes indispensables. Mais à quoi servirait une route moderne si les jeunes qui l'empruntent n'ont reçu ni formation ni soins ? Un pays qui néglige l'école et la santé construit sur du sable. C'est pourquoi l'investissement dans le capital humain doit être considéré comme la première des infrastructures, celle qui rend toutes les autres utiles. »",
+      "~ Analyse : thèse adverse (le développement, ce sont les infrastructures) → concession (elles sont indispensables) → réfutation (sans formation ni santé, elles sont inutiles) → conclusion (le capital humain est la première infrastructure). L'image de la route est un exemple : on la supprime.",
+      "~ Résumé en 29 mots : « Si les infrastructures matérielles sont nécessaires au développement, elles restent vaines sans une population formée et en bonne santé. L'éducation et la santé constituent donc l'investissement prioritaire. » (Comptez : 29 mots.)",
+      "? Pourquoi le résumé ci-dessus garde-t-il « si… » au début ? || Pour conserver la concession de l'auteur (« ces infrastructures sont certes indispensables ») et le lien logique avec la réfutation. Le connecteur « si… » condense « certes… mais » en une seule phrase.",
+      "## Notion 4 : ajuster la longueur",
+      "- Trop long : supprimez les répétitions, fusionnez deux phrases, remplacez une proposition par un nom (« parce que les jeunes ne trouvent pas d'emploi » → « faute d'emploi »).",
+      "- Trop court : vérifiez qu'aucun argument n'a disparu ; c'est presque toujours un argument oublié, pas un manque de mots.",
+      "? Raccourcissez : « Il est nécessaire que les pouvoirs publics prennent des mesures afin que les jeunes puissent accéder à un emploi. » (19 mots) || Par exemple : « Les pouvoirs publics doivent agir pour l'emploi des jeunes. » (10 mots) La nominalisation (« pour l'emploi ») et le verbe direct (« doivent agir ») suppriment les tournures lourdes.",
+      "## Notion 5 : les textes donnés récemment",
+      "- Juillet 2025 : un texte sur la fin de la présence française en Afrique et l'histoire de la relation franco-africaine (résumé en 250 mots).",
+      "- Session 2019 : un texte sur le capital humain, opposant l'investissement dans les infrastructures à l'investissement dans l'éducation et la santé (résumé en 200 mots).",
+      "> Les textes portent sur des enjeux contemporains : développement, relations internationales, éducation. Lire régulièrement des articles d'analyse est le meilleur entraînement.",
+      "? Combien de mots compte « L'État s'engage à garantir l'accès à l'eau » selon l'usage des concours ? || 11 mots : L' / État / s' / engage / à / garantir / l' / accès / à / l' / eau. Selon cet usage, chaque apostrophe sépare deux mots."
+     ],
+     "retenir": [
+      "Nombre de mots imposé, avec une tolérance de 10 % : pour 250 mots, de 225 à 275.",
+      "Un mot = un ensemble de lettres entre deux espaces ou apostrophes ; « l'État » compte deux mots.",
+      "Garder la thèse, les arguments et les liens logiques ; supprimer exemples, citations et répétitions.",
+      "Écrire à la place de l'auteur, dans l'ordre du texte, sans « l'auteur dit que ».",
+      "Reformuler : ne pas recopier les phrases du texte.",
+      "Trop court ? Un argument a sans doute été oublié.",
+      "Indiquer le nombre de mots à la fin du résumé."
+     ],
+     "exo": {
+      "tag": "ct",
+      "n": 6,
+      "ecrit": "ct"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013ct02",
+     "rev": 2,
+     "m": "ct",
+     "titre": "Lire et dégager la structure d'un texte",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez lire un texte en trois passages, repérer la thèse et les connecteurs logiques, et en dégager le plan, préalable indispensable à tout résumé.",
+      "## Ce que demande l'épreuve",
+      "On ne résume bien que ce que l'on a compris. Avant d'écrire une ligne, il faut savoir quelle est la thèse de l'auteur, comment il l'argumente et dans quel ordre. La plupart des résumés faibles trahissent une lecture trop rapide.",
+      "## La méthode de lecture en trois passages",
+      "- Première lecture, sans crayon : de quoi parle le texte, que soutient l'auteur ?",
+      "- Deuxième lecture, crayon en main : encadrez les connecteurs logiques, soulignez les phrases qui portent une idée, mettez entre crochets les exemples.",
+      "- Troisième lecture : notez en marge, pour chaque paragraphe, son idée en quelques mots. Vous obtenez le plan du texte.",
+      "! Les exemples, les anecdotes et les citations servent l'argumentation : dans le résumé, on les supprime ou on les généralise."
+     ],
+     "fond": [
+      "## Notion 1 : les connecteurs, squelette du texte",
+      "Les connecteurs logiques montrent comment les idées s'enchaînent. Les repérer, c'est voir le raisonnement de l'auteur.",
+      "- Opposition : mais, cependant, pourtant, en revanche, au contraire, néanmoins.",
+      "- Concession : certes… mais, bien que, même si.",
+      "- Cause : car, en effet, parce que, puisque.",
+      "- Conséquence : donc, ainsi, par conséquent, c'est pourquoi.",
+      "- Addition : de plus, en outre, par ailleurs.",
+      "~ « Certes, la croissance économique est forte. Pourtant, le chômage des jeunes reste élevé. C'est pourquoi la formation professionnelle doit devenir une priorité. » Concession → opposition → conséquence : l'idée importante est la dernière.",
+      "? Dans « La décentralisation rapproche l'administration des citoyens ; en revanche, elle exige des moyens que les communes n'ont pas toujours », quelle est la relation entre les deux idées ? || Une opposition, marquée par « en revanche » : un avantage de la décentralisation est contrebalancé par une limite.",
+      "## Notion 2 : repérer la thèse",
+      "- La thèse est l'idée que l'auteur défend. Elle se trouve le plus souvent dans l'introduction ou dans la conclusion du texte.",
+      "- Elle s'oppose souvent à une thèse adverse, présentée d'abord (« beaucoup pensent que… », « on affirme souvent… ») puis réfutée.",
+      "~ « On croit souvent que le numérique isole les individus. En réalité, il crée de nouvelles formes de lien social. » Thèse adverse : le numérique isole. Thèse de l'auteur : il crée du lien.",
+      "! Ne confondez pas la thèse adverse, que l'auteur rapporte pour la contester, avec sa propre thèse.",
+      "? Dans « Il serait tentant de réduire la pauvreté à un manque de revenus. Elle est pourtant aussi un manque d'accès à l'éducation, à la santé et aux droits », quelle est la thèse de l'auteur ? || La pauvreté ne se réduit pas au revenu : elle est aussi privation d'éducation, de santé et de droits. « Il serait tentant » introduit la thèse adverse ; « pourtant » introduit celle de l'auteur.",
+      "## Notion 3 : idée principale et exemple",
+      "Une idée est une affirmation générale ; un exemple est un cas particulier qui l'illustre. Dans le résumé, on garde l'idée et on supprime ou on généralise l'exemple.",
+      "~ « Les villes africaines s'étendent rapidement : Abidjan, Lagos ou Kinshasa gagnent chaque année de nouveaux quartiers. » Idée : l'urbanisation africaine est rapide. Exemple : les trois villes citées.",
+      "? Généralisez l'exemple : « Au Sénégal, au Ghana et en Côte d'Ivoire, les femmes créent de plus en plus d'entreprises. » || « En Afrique de l'Ouest, l'entrepreneuriat féminin progresse. » On remplace l'énumération de pays par une catégorie générale.",
+      "## Notion 4 : ce que l'on garde dans le résumé",
+      "- Le même ordre des idées que le texte.",
+      "- Le point de vue de l'auteur, sans écrire « l'auteur dit que ».",
+      "- Les liens logiques entre les idées, exprimés par des connecteurs."
+     ],
+     "retenir": [
+      "Trois lectures : comprendre, annoter, dégager le plan.",
+      "Les connecteurs révèlent la structure : opposition, concession, cause, conséquence, addition.",
+      "La thèse est souvent en introduction ou en conclusion.",
+      "« On croit souvent que… » introduit la thèse adverse, pas celle de l'auteur.",
+      "Dans le résumé, on garde l'idée et on supprime ou généralise l'exemple.",
+      "Résumé : même ordre, même point de vue, liens logiques conservés."
+     ],
+     "exo": {
+      "tag": "niv-ct02",
+      "n": 8,
+      "ecrit": "ct"
+     },
+     "niv": "ct02",
+     "verif": "methode"
+    },
+    {
+     "id": "e1",
+     "rev": 2,
+     "m": "pes",
+     "titre": "PES 1 : la méthode du devoir de problèmes économiques et sociaux",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez traiter un sujet de problèmes économiques et sociaux en quatre temps (définir, diagnostiquer, évaluer, recommander) et maîtriser le vocabulaire de la pauvreté et de l'inclusion.",
+      "## Nature de l'épreuve",
+      "Composition de 3 heures, coefficient 3, aux cycles supérieur et moyen supérieur de l'ENA. Le sujet porte sur une question économique ou sociale, souvent ivoirienne ou africaine, à traiter de manière argumentée. Le correcteur attend un raisonnement d'économiste au service de l'action publique : comprendre un problème, juger les politiques menées, proposer des solutions réalistes.",
+      "## La démarche en quatre temps",
+      "- Définir précisément les notions économiques du sujet (pauvreté, inclusion sociale, économie informelle, croissance).",
+      "- Diagnostiquer : situation, causes, acteurs, avec des chiffres sûrs seulement.",
+      "- Évaluer les politiques publiques : objectifs, résultats, limites.",
+      "- Recommander des mesures réalistes, qui tiennent compte des moyens de l'État.",
+      "## Structure enseignée dans les préparations",
+      "Introduction de 10 à 15 phrases ; deux parties, chacune avec un chapeau, deux arguments de 5 à 7 phrases, une conclusion partielle et une transition ; conclusion générale de 10 à 15 phrases.",
+      "! N'inventez jamais un chiffre. Un ordre de grandeur prudent (« plus d'un tiers de la population ») vaut mieux qu'un pourcentage faux."
+     ],
+     "fond": [
+      "## Notion 1 : les sujets et ce qu'ils demandent",
+      "- Cycle supérieur, juin 2025 : « Les dispositifs actuels d'inclusion sociale en Côte d'Ivoire permettent-ils de lutter efficacement contre la pauvreté ? »",
+      "- Cycle moyen supérieur, juillet 2025 : « L'économie informelle est-elle un levier ou un frein à la croissance et à l'inclusion ? »",
+      "- Cycle moyen supérieur, 2019 : une question sur la mondialisation et le libre-échange : est-il profitable à tous ?",
+      "Ces sujets ont un point commun : ils demandent d'évaluer. On ne vous demande pas de décrire l'informel ou l'inclusion, mais de juger leurs effets et l'efficacité des politiques.",
+      "## Notion 2 : le vocabulaire indispensable",
+      "- Pauvreté monétaire : revenu ou consommation inférieurs à un seuil. Pauvreté multidimensionnelle : privations en santé, éducation, conditions de vie.",
+      "- Inclusion sociale : accès de tous aux droits, services et opportunités (emploi, protection sociale, santé, éducation, services financiers).",
+      "- Filets sociaux : transferts monétaires ou en nature ciblés sur les ménages pauvres.",
+      "- Protection sociale : assurance maladie, retraite, prestations familiales, assistance sociale.",
+      "- Économie informelle : activités non enregistrées ou non déclarées, hors des cadres fiscaux et sociaux.",
+      "Pourquoi distinguer pauvreté monétaire et multidimensionnelle ? Parce qu'une politique qui augmente les revenus ne règle pas forcément l'accès à l'école ou aux soins. Cette distinction permet de construire une partie « limites » solide.",
+      "? Un ménage dispose d'un revenu supérieur au seuil de pauvreté, mais ses enfants ne sont pas scolarisés et il n'a pas accès aux soins. Est-il pauvre ? || Il n'est pas pauvre au sens monétaire, mais il l'est au sens multidimensionnel : il subit des privations en éducation et en santé. C'est l'intérêt de cette double mesure.",
+      "## Notion 3 : diagnostiquer avec des mécanismes",
+      "Un diagnostic de PES enchaîne des causes et des effets. L'informel, par exemple, a des causes (faiblesse de l'emploi formel, coût et complexité des formalités, faible qualification) et des effets (emplois pour beaucoup, mais faible protection sociale et recettes fiscales limitées).",
+      "~ Mécanisme rédigé : « Parce que les formalités de création d'entreprise restent coûteuses pour un petit commerçant, celui-ci reste dans l'informel ; il échappe ainsi à l'impôt, mais se prive aussi de crédit bancaire et de protection sociale, ce qui limite la croissance de son activité. »",
+      "? Pour le sujet « L'économie informelle est-elle un levier ou un frein ? », proposez un argument « levier » et un argument « frein ». || Levier : elle fournit des revenus et des emplois à une grande partie de la population active, et sert d'amortisseur social. Frein : elle prive l'État de recettes fiscales et les travailleurs de protection sociale, et ses entreprises, sans accès au crédit, grandissent peu.",
+      "## Notion 4 : évaluer les politiques publiques",
+      "Évaluer, c'est confronter les objectifs d'une politique à ses résultats et identifier ses limites (financement, ciblage, couverture, mise en œuvre).",
+      "- Couverture maladie universelle (CMU), instituée par la loi n° 2014-131 du 24 mars 2014.",
+      "- Programmes de filets sociaux productifs (transferts monétaires aux ménages vulnérables), soutenus par la Banque mondiale.",
+      "- Programmes sociaux du Gouvernement (PSGouv), lancés à partir de 2019.",
+      "- Dispositifs d'insertion et d'emploi des jeunes : agence publique d'emploi, financement de projets, stages, travaux à haute intensité de main-d'œuvre.",
+      "- Plan national de développement 2026-2030, qui vise une croissance moyenne de 7,2 % par an.",
+      "~ Grille d'évaluation applicable à tout dispositif : objectif affiché → public visé → résultats observables → limites (moyens, ciblage, durabilité) → amélioration proposée.",
+      "! Restez prudent sur les résultats chiffrés d'un dispositif : sans source sûre, décrivez la logique et les limites plutôt que d'avancer un chiffre.",
+      "## Notion 5 : recommander de façon réaliste",
+      "Une bonne recommandation dit qui fait quoi, avec quels moyens, et comment on mesurera le résultat.",
+      "? Transformez cette recommandation vague en recommandation réaliste : « Il faut lutter contre la pauvreté. » || Par exemple : « Étendre progressivement les transferts monétaires aux ménages vulnérables des zones rurales, en s'appuyant sur un registre social unique, avec un suivi annuel du taux de scolarisation des enfants bénéficiaires. » Acteur, moyen, public, indicateur."
+     ],
+     "retenir": [
+      "Démarche PES : définir, diagnostiquer, évaluer, recommander.",
+      "Pauvreté monétaire (revenu) ≠ pauvreté multidimensionnelle (santé, éducation, conditions de vie).",
+      "Un diagnostic enchaîne des causes et des effets explicites.",
+      "Évaluer une politique : objectif, public, résultats, limites, amélioration.",
+      "CMU : loi n° 2014-131 du 24 mars 2014.",
+      "Une recommandation réaliste précise l'acteur, le moyen, le public et l'indicateur de suivi.",
+      "Jamais de chiffre inventé : un ordre de grandeur prudent vaut mieux."
+     ],
+     "exo": {
+      "tag": "pes",
+      "n": 10,
+      "ecrit": "pes"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "e2",
+     "rev": 2,
+     "m": "pes",
+     "titre": "PES 2 : croissance, emploi, inflation et UEMOA",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez rédiger un mécanisme économique cause → effet, distinguer croissance et développement, chômage et sous-emploi, et citer à bon escient les règles monétaires de l'UEMOA et quelques théories classiques.",
+      "## Ce que demande l'épreuve",
+      "Un bon argument de PES ne se contente pas d'affirmer : il explique comment une cause produit un effet. Chaque partie de votre copie devrait contenir au moins un mécanisme de ce type.",
+      "## La méthode du mécanisme",
+      "- Partez d'un fait ou d'une décision (hausse des prix, baisse des taux, nouvel impôt).",
+      "- Enchaînez les effets avec des connecteurs explicites : donc, par conséquent, ce qui entraîne.",
+      "- Identifiez qui est touché (ménages modestes, entreprises, État).",
+      "- Concluez sur la conséquence pour le sujet (pauvreté, emploi, croissance).",
+      "~ « La hausse des prix alimentaires réduit le pouvoir d'achat des ménages modestes, qui consacrent une large part de leur budget à l'alimentation ; la pauvreté augmente donc, même si la croissance du PIB reste forte. »"
+     ],
+     "fond": [
+      "## Notion 1 : croissance et développement",
+      "- Le PIB mesure la valeur ajoutée produite sur le territoire en un an. Sa hausse est la croissance économique.",
+      "- Le PIB ne dit rien de la répartition des richesses : un pays peut croître vite sans que la pauvreté recule.",
+      "- Croissance inclusive : croissance dont les fruits profitent largement à la population, notamment par l'emploi.",
+      "- L'IDH (indicateur de développement humain du PNUD) combine santé, éducation et niveau de vie : il mesure le développement, plus large que la croissance.",
+      "? Un pays connaît une croissance de 7 % par an, mais le chômage des jeunes ne baisse pas. Comment l'expliquer ? || La croissance peut venir de secteurs qui emploient peu (mines, grands projets très capitalistiques) ou profiter surtout à une minorité. Elle n'est pas « inclusive » : d'où l'importance de la qualité de la croissance, et pas seulement de son niveau.",
+      "## Notion 2 : l'emploi",
+      "- Chômage au sens du BIT : être sans emploi, disponible et en recherche active.",
+      "- Sous-emploi : temps partiel subi ou emploi peu productif ; très répandu dans l'informel.",
+      "- Inadéquation formation-emploi : des diplômés sans les compétences recherchées, et des entreprises qui ne trouvent pas de main-d'œuvre qualifiée.",
+      "Pourquoi le taux de chômage peut-il être faible alors que les jeunes peinent à s'insérer ? Parce que beaucoup travaillent dans l'informel en sous-emploi : ils ne sont pas chômeurs au sens du BIT, mais leur emploi est précaire et peu rémunérateur.",
+      "## Notion 3 : la monnaie et les prix dans l'UEMOA",
+      "- Le franc CFA est émis par la BCEAO, qui conduit la politique monétaire commune, notamment par ses taux directeurs.",
+      "- Critères de convergence du pacte de 2015 : solde budgétaire global (dons compris) d'au moins −3 % du PIB ; inflation annuelle moyenne d'au plus 3 % ; encours de la dette publique d'au plus 70 % du PIB.",
+      "- L'inflation importée (énergie, céréales) pèse surtout sur les ménages urbains ; l'État peut agir par la fiscalité, des subventions ciblées ou le contrôle des marges.",
+      "~ Mécanisme monétaire : si la BCEAO relève ses taux directeurs, les banques empruntent plus cher et prêtent plus cher ; le crédit ralentit, la demande aussi, ce qui freine la hausse des prix, au prix d'un ralentissement de l'activité.",
+      "? Pourquoi un État de l'UEMOA ne peut-il pas, seul, baisser ses taux d'intérêt pour relancer son économie ? || Parce que la politique monétaire est commune et conduite par la BCEAO pour l'ensemble des États membres. Chaque État garde surtout la politique budgétaire (dépenses, impôts), encadrée par les critères de convergence.",
+      "## Notion 4 : les théories à citer à bon escient",
+      "- Ricardo : la théorie des avantages comparatifs fonde l'argument en faveur du libre-échange (chaque pays gagne à se spécialiser là où il est relativement le plus efficace).",
+      "- List : la protection temporaire des « industries naissantes » justifie un protectionnisme éducateur.",
+      "- Keynes : en période de sous-emploi, l'État peut soutenir la demande ; l'effet multiplicateur vaut 1 / (1 − propension à consommer).",
+      "- Effet d'éviction : l'endettement public peut renchérir le crédit pour les entreprises privées.",
+      "~ Multiplicateur : si les ménages consomment 80 % de chaque revenu supplémentaire, le multiplicateur vaut 1 / (1 − 0,8) = 5. Une dépense publique de 100 milliards peut alors, en théorie, accroître le revenu national de 500 milliards. En pratique, l'effet est réduit par les importations et l'épargne.",
+      "? Pour le sujet « Le libre-échange est-il profitable à tous ? », quelle théorie mobiliser dans chaque partie ? || Partie favorable : Ricardo et les avantages comparatifs (gains de la spécialisation). Partie critique : List et la protection des industries naissantes (un pays peu industrialisé peut perdre à s'ouvrir trop tôt)."
+     ],
+     "retenir": [
+      "Chaque partie d'une copie de PES contient au moins un mécanisme cause → effet.",
+      "Le PIB mesure la production, pas sa répartition ; l'IDH mesure le développement.",
+      "Chômage (BIT) : sans emploi, disponible, en recherche active ; le sous-emploi est autre chose.",
+      "La politique monétaire de l'UEMOA est commune et conduite par la BCEAO.",
+      "Critères UEMOA de premier rang : solde ≥ −3 % du PIB, inflation ≤ 3 %, dette ≤ 70 % du PIB.",
+      "Ricardo pour le libre-échange, List pour la protection des industries naissantes.",
+      "Multiplicateur keynésien : 1 / (1 − propension à consommer)."
+     ],
+     "exo": {
+      "tag": "pes2",
+      "n": 10,
+      "ecrit": "pes"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "L20261012",
+     "rev": 2,
+     "m": "pes",
+     "titre": "Le pacte de convergence de l'UEMOA",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez citer les cinq critères de convergence de l'UEMOA, expliquer leur logique, calculer un ratio et le comparer au seuil, et retracer l'histoire du pacte de 1999 à 2020.",
+      "## Pourquoi ce thème tombe en PES",
+      "Les critères de convergence encadrent les finances publiques ivoiriennes : déficit, dette, masse salariale, fiscalité. Un sujet sur le financement du développement, la dette ou l'emploi public gagne à les citer avec précision.",
+      "## La méthode",
+      "- Apprenez les cinq critères par rang : trois de premier rang, deux de second rang.",
+      "- Associez chaque seuil à un sens : ≥ −3 % (solde), ≤ 3 % (inflation), ≤ 70 % (dette), ≤ 35 % (salaires / recettes fiscales), ≥ 20 % (pression fiscale).",
+      "- Pour vérifier un critère : ratio = montant ÷ dénominateur × 100, puis comparaison au seuil.",
+      "! Piège fréquent : confondre le 35 % de la masse salariale (rapporté aux recettes fiscales) et le 20 % de pression fiscale (rapporté au PIB).",
+      "> Dans une copie, citez la source et l'année du pacte (2015) : les règles de l'UEMOA évoluent, la prudence s'impose."
+     ],
+     "fond": [
+      "## Notion 1 : pourquoi une surveillance multilatérale ?",
+      "- L'UEMOA, créée le 10 janvier 1994 à Dakar, réunit huit États (Bénin, Burkina Faso, Côte d'Ivoire, Guinée-Bissau, Mali, Niger, Sénégal, Togo) qui partagent le franc CFA.",
+      "- La surveillance multilatérale vise à assurer la convergence des performances et des politiques économiques des États membres.",
+      "Pourquoi est-ce nécessaire ? Parce que les huit États partagent une même monnaie : si l'un d'eux laisse filer son déficit ou son inflation, il fragilise la monnaie commune pour tous. Les critères sont une discipline collective.",
+      "## Notion 2 : les cinq critères de 2015",
+      "- Premier rang : solde budgétaire global, dons compris, rapporté au PIB nominal ≥ −3 % (critère clé) ; inflation annuelle moyenne ≤ 3 % ; encours de la dette rapporté au PIB nominal ≤ 70 %.",
+      "- Second rang : masse salariale rapportée aux recettes fiscales ≤ 35 % ; taux de pression fiscale (recettes fiscales / PIB) ≥ 20 %.",
+      "~ Calcul du critère clé : déficit de 1 600 milliards pour un PIB de 40 000 milliards → 1 600 ÷ 40 000 = 4 % du PIB, soit un solde de −4 % : critère non respecté (il faudrait au plus 3 % de déficit).",
+      "? Un État a des recettes fiscales de 5 000 milliards et une masse salariale de 2 000 milliards. Respecte-t-il le critère de second rang ? || 2 000 ÷ 5 000 = 40 % : supérieur au plafond de 35 %, le critère n'est pas respecté.",
+      "? Un État a un PIB de 30 000 milliards et des recettes fiscales de 4 500 milliards. Quel est son taux de pression fiscale, et respecte-t-il le critère ? || 4 500 ÷ 30 000 = 15 % : inférieur au minimum de 20 %, le critère n'est pas respecté. Ce critère vise à pousser les États à mobiliser davantage de recettes propres.",
+      "## Notion 3 : la logique de chaque critère",
+      "- Solde budgétaire : limiter le déficit, donc le besoin d'emprunt.",
+      "- Inflation : protéger le pouvoir d'achat et la valeur de la monnaie commune.",
+      "- Dette : éviter un endettement insoutenable, dont les intérêts finiraient par absorber les recettes.",
+      "- Masse salariale : préserver des ressources pour l'investissement, au lieu de tout consacrer aux salaires.",
+      "- Pression fiscale : renforcer les recettes propres de l'État pour financer le développement.",
+      "## Notion 4 : du pacte de 1999 à la suspension de 2020",
+      "- L'Acte additionnel n° 04/99 a institué le pacte de convergence, de stabilité, de croissance et de solidarité ; l'horizon de 2002 a été reporté à 2005 puis à 2008, et le mécanisme de sanction est resté inopérant.",
+      "- Le 19 janvier 2015, la Conférence des Chefs d'État et de Gouvernement a adopté un nouveau pacte, avec un horizon fixé au 31 décembre 2019 pour le critère clé.",
+      "- En avril 2020, réunis en sommet extraordinaire par visioconférence, les chefs d'État ont suspendu temporairement l'application du pacte pour faire face à la Covid-19 et préserver les conditions de la reprise.",
+      "~ Usage dans une dissertation : la suspension de 2020 illustre la tension entre discipline budgétaire et besoin de dépenser en temps de crise, débat classique entre rigueur et relance.",
+      "? Pourquoi suspendre les critères en 2020 plutôt que de les maintenir ? || Pour permettre aux États de dépenser davantage (santé, soutien aux ménages et aux entreprises) face à la crise sanitaire, sans être en infraction. Maintenir le plafond de déficit aurait obligé à réduire d'autres dépenses en pleine crise."
+     ],
+     "retenir": [
+      "Premier rang : solde ≥ −3 % du PIB (critère clé), inflation ≤ 3 %, dette ≤ 70 % du PIB.",
+      "Second rang : masse salariale ≤ 35 % des recettes fiscales, pression fiscale ≥ 20 % du PIB.",
+      "Ratio = montant ÷ dénominateur × 100, puis comparaison au seuil.",
+      "Les critères protègent la monnaie commune : le laxisme d'un État fragilise tous les autres.",
+      "1999 : Acte additionnel n° 04/99 ; 19 janvier 2015 : nouveau pacte.",
+      "Avril 2020 : suspension temporaire du pacte face à la Covid-19."
+     ],
+     "exo": {
+      "tag": "pes-conv",
+      "n": 10,
+      "ecrit": "pes"
+     },
+     "sources": [
+      {
+       "t": "DG Trésor (SER Abidjan) – 25 ans de l'UEMOA : bilan et perspectives (janv. 2019)",
+       "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+      },
+      {
+       "t": "Le360 – Covid-19 : l'UEMOA suspend son pacte de convergence économique (28 avril 2020)",
+       "u": "https://afrique.le360.ma/autres-pays/economie/2020/04/28/30390-covid-19-luemoa-suspend-son-pacte-de-convergence-economique-30390"
+      },
+      {
+       "t": "Connectionivoirienne – Suspension du pacte de 3 % de déficit budgétaire dans l'UEMOA (7 mai 2020)",
+       "u": "https://connectionivoirienne.net/2020/05/07/suspension-du-pacte-de-3-de-deficit-budgetaire-dans-luemoa-une-decision-saluee-par-les-economistes/"
+      }
+     ]
+    },
+    {
+     "id": "n1",
+     "rev": 2,
+     "m": "ns",
+     "titre": "Note de synthèse : la méthode des 5 heures",
+     "min": 75,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez ce qu'exige une note de synthèse (neutralité, exhaustivité utile, référencement, plan apparent), et comment répartir les 5 heures de l'épreuve.",
+      "## La consigne réelle",
+      "Au cycle supérieur de l'ENA, les sujets publiés demandent, à partir d'un dossier de 13 ou 14 pages, une note de synthèse de 4 pages au maximum, sans intercalaire (juin 2025 et septembre 2024). L'épreuve dure 5 heures, coefficient 5 : c'est la plus lourde de l'admissibilité.",
+      "## Les quatre règles d'or",
+      "- Neutralité : aucune opinion, aucune connaissance extérieure au dossier.",
+      "- Exhaustivité utile : toutes les idées importantes du dossier, aucune anecdote.",
+      "- Référencement : chaque idée renvoie à ses documents (doc. 2, doc. 5).",
+      "- Plan apparent en deux parties, chacune en deux sous-parties, avec titres.",
+      "## Gestion du temps",
+      "- 0 h 00 – 1 h 15 : lecture du dossier et repérage des idées document par document.",
+      "- 1 h 15 – 2 h 00 : tableau de synthèse et plan.",
+      "- 2 h 00 – 4 h 30 : rédaction directe au propre.",
+      "- 4 h 30 – 5 h 00 : relecture et contrôle de la longueur.",
+      "! Ne plaquez pas un plan tout fait (causes, conséquences, solutions) : laissez le dossier vous dicter le plan."
+     ],
+     "fond": [
+      "## Notion 1 : à quoi sert une note de synthèse ?",
+      "Dans l'administration, un cadre reçoit des dossiers volumineux et doit en tirer, pour son supérieur, l'essentiel en quelques pages : c'est la note de synthèse. L'épreuve simule ce travail réel. D'où ses exigences : l'autorité qui lit la note veut une information complète, fidèle et rapide à lire, pas l'avis du rédacteur.",
+      "~ Un directeur doit décider du financement de projets agricoles. Il n'a pas le temps de lire 14 pages : il attend une note qui présente objectivement les besoins, les dispositifs existants et leurs limites, en citant ses sources.",
+      "## Notion 2 : la neutralité",
+      "La note rapporte ce que dit le dossier, sans prendre parti et sans ajouter de connaissances personnelles.",
+      "~ Formulation neutre : « Selon le rapport du ministère (doc. 3), l'accès au crédit reste le principal obstacle des exploitants. » Formulation à proscrire : « Il est évident que les banques ne font pas assez d'efforts. »",
+      "? Réécrivez de manière neutre : « Ce dispositif est une excellente initiative qu'il faut absolument généraliser. » || Par exemple : « Le dispositif est présenté comme prometteur par ses promoteurs (doc. 2), qui en recommandent la généralisation. » On attribue l'appréciation à un document au lieu de la prendre à son compte.",
+      "## Notion 3 : le référencement",
+      "Chaque idée renvoie aux documents qui la contiennent, entre parenthèses. Le correcteur vérifie ainsi que vous avez exploité tout le dossier, sans rien inventer.",
+      "~ « Les besoins de financement sont jugés importants par l'ensemble des acteurs (doc. 1, 4 et 7), même si leur évaluation chiffrée diverge (doc. 4 et 6). »",
+      "! Un document jamais cité laisse penser qu'il a été oublié ; une idée sans référence laisse penser qu'elle vient de vous.",
+      "## Notion 4 : le plan apparent",
+      "- Deux parties, chacune avec deux sous-parties, toutes titrées : le lecteur doit comprendre la note en lisant seulement les titres.",
+      "- Les titres sont informatifs : « Un financement agricole encore insuffisant » vaut mieux que « Le constat ».",
+      "? Transformez ces titres vagues en titres informatifs : « I. Le constat » et « II. Les solutions » (dossier sur l'accès des jeunes au crédit). || Par exemple : « I. Un accès au crédit encore difficile pour les jeunes porteurs de projet » et « II. Des dispositifs publics et bancaires en cours de renforcement ». Chaque titre dit déjà ce que contient la partie.",
+      "## Notion 5 : introduction et conclusion",
+      "- Introduction (10 à 15 phrases) : contexte tiré du dossier, définition du sujet, problématique, annonce du plan.",
+      "- Conclusion courte : elle résume les grandes lignes, sans prise de position personnelle ni idée nouvelle.",
+      "## Notion 6 : les dossiers récents",
+      "- Juin 2025 : un dossier de 13 pages autour du financement de l'agriculture (articles de presse sur le financement agricole et le Salon de l'agriculture et des ressources animales d'Abidjan).",
+      "- Septembre 2024 : un dossier de 14 pages, note de 4 pages maximum.",
+      "> Les dossiers mêlent articles de presse, extraits de rapports et discours officiels. Entraînez-vous avec des articles économiques ivoiriens : agriculture, emploi, numérique, finances publiques.",
+      "? Pourquoi la conclusion d'une note de synthèse ne doit-elle pas contenir votre avis ? || Parce que la note sert à informer une autorité qui décidera elle-même. Donner son avis sort de la neutralité exigée ; le correcteur le sanctionne comme un apport extérieur au dossier."
+     ],
+     "retenir": [
+      "Note de 4 pages maximum à partir d'un dossier de 13 à 14 pages, en 5 heures, coefficient 5.",
+      "Neutralité : aucune opinion, aucune connaissance extérieure au dossier.",
+      "Chaque idée renvoie à ses documents : (doc. 2, doc. 5).",
+      "Plan apparent en deux parties et deux sous-parties, avec des titres informatifs.",
+      "Le dossier dicte le plan : pas de plan plaqué.",
+      "Conclusion courte, sans avis personnel ni idée nouvelle.",
+      "Temps : 1 h 15 de lecture, 45 min de tableau et de plan, 2 h 30 de rédaction, 30 min de relecture."
+     ],
+     "exo": {
+      "tag": "ns",
+      "n": 6,
+      "ecrit": "ns"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "L20261014ns02",
+     "rev": 2,
+     "m": "ns",
+     "titre": "Lire et classer un dossier",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez survoler un dossier, le lire activement et construire un tableau de dépouillement qui transforme une pile de documents en plan de synthèse.",
+      "## Ce que vise ce niveau",
+      "Dans la méthode des 5 heures, la lecture et le classement du dossier occupent environ la première heure et quart. C'est l'étape qui décide de tout : une information mal classée est une information perdue, ou mal placée dans le plan.",
+      "## Étape 1 : le survol (10 à 15 minutes)",
+      "- Feuilletez tout le dossier avant de lire en détail : nombre de documents, longueur, tableaux chiffrés.",
+      "- Pour chaque document, notez : numéro, nature (texte officiel, rapport, article de presse, discours, statistique), source, date.",
+      "- Écrivez l'idée générale de chaque document en une seule phrase.",
+      "## Étape 2 : la lecture active",
+      "- Lisez crayon en main ; soulignez les idées et les données clés, pas les exemples.",
+      "- Dans la marge, attribuez à chaque passage un code de thème (lettre, chiffre ou couleur).",
+      "- Repérez les mots qui reviennent d'un document à l'autre : ce sont souvent les thèmes du plan.",
+      "## Étape 3 : le tableau de dépouillement",
+      "- En lignes, les thèmes ; en colonnes, les documents ; dans chaque case, l'information utile et sa référence (doc. 3, § 2).",
+      "! Le piège principal : résumer les documents l'un après l'autre. Le classement par thèmes est ce qui transforme une suite de résumés en synthèse."
+     ],
+     "fond": [
+      "## Notion 1 : évaluer chaque document",
+      "Tous les documents n'ont pas le même statut, et la note doit le refléter.",
+      "- Un texte juridique fixe le cadre (ce qui est obligatoire, permis, interdit).",
+      "- Un rapport apporte des données et des analyses.",
+      "- Un article de presse rapporte des faits ou un point de vue.",
+      "- Un discours exprime une orientation politique ou institutionnelle.",
+      "~ Dans un dossier sur l'emploi des jeunes : la loi créant un dispositif (doc. 1) fixe le cadre ; un rapport d'évaluation (doc. 4) en mesure les effets ; un article (doc. 6) relaie les critiques des bénéficiaires. La note dira « la loi prévoit… (doc. 1) ; selon le rapport d'évaluation (doc. 4)… ; des bénéficiaires dénoncent… (doc. 6) ».",
+      "## Notion 2 : le tableau de dépouillement, pas à pas",
+      "~ Dossier fictif sur l'accès des jeunes au crédit, quatre documents. Lignes retenues : « offre de financement », « garanties exigées », « formation des porteurs de projet », « suivi des remboursements ». Dans la case « garanties exigées / doc. 2 » : « les banques exigent un apport et une caution (doc. 2, § 3) ».",
+      "Pourquoi ce tableau est-il si efficace ? Parce qu'il réunit, sur une même ligne, ce que disent tous les documents sur un thème : la synthèse est déjà faite avant d'écrire.",
+      "? Votre tableau compte une colonne entièrement vide (doc. 5). Que faut-il en conclure ? || Que le document 5 n'a pas été exploité. Relisez-le : soit il contient une information à placer dans une ligne existante, soit il ouvre un thème nouveau. Une note qui ignore un document est pénalisée.",
+      "## Notion 3 : convergences et divergences",
+      "- Quand plusieurs documents disent la même chose, regroupez-les sur la même ligne : c'est une idée forte, à citer avec toutes ses références.",
+      "- Quand ils se contredisent, notez-le tel quel : la note présentera les deux positions en citant leurs documents, sans trancher.",
+      "~ « Si le ministère estime le dispositif efficace (doc. 3), une association de jeunes entrepreneurs juge ses conditions d'accès trop restrictives (doc. 7). »",
+      "? Deux documents donnent des chiffres différents pour le même phénomène. Que faites-vous ? || Vous présentez les deux chiffres en les attribuant à leurs documents, sans choisir ni recalculer : « 30 % selon le doc. 2, 25 % selon le doc. 5 ». Le choix revient au lecteur de la note.",
+      "## Notion 4 : les chiffres",
+      "Relevez chaque chiffre avec son unité, sa date et son document. Ne recalculez pas et n'ajoutez aucun chiffre extérieur au dossier.",
+      "## Notion 5 : du tableau au plan",
+      "Regroupez les lignes du tableau en deux grands ensembles : ils deviendront les deux parties de la note.",
+      "~ Pour le dossier sur le crédit : « offre de financement » et « formation » → I. Des dispositifs de financement en expansion ; « garanties exigées » et « suivi des remboursements » → II. Des conditions de réussite encore à réunir.",
+      "> Avant de rédiger, relisez votre tableau : chaque document doit apparaître au moins une fois.",
+      "? Un dossier sur la gestion des déchets contient les lignes « collecte », « tri et recyclage », « financement des communes », « sensibilisation des habitants ». Proposez deux parties. || Par exemple : I. Une chaîne de gestion des déchets encore incomplète (collecte, tri et recyclage) ; II. Des leviers d'amélioration (financement des communes, sensibilisation des habitants). On regroupe ce qui relève du constat technique, puis ce qui relève des moyens d'agir."
+     ],
+     "retenir": [
+      "Trois étapes dans la première heure et quart : survol, lecture active, tableau.",
+      "Tableau de dépouillement : thèmes en lignes, documents en colonnes, référence dans chaque case.",
+      "Une colonne vide signale un document oublié.",
+      "Convergences : regrouper et citer toutes les références.",
+      "Divergences : exposer les deux positions en citant les documents, sans trancher.",
+      "Aucun chiffre ni information extérieurs au dossier.",
+      "Les lignes du tableau, regroupées en deux ensembles, donnent les deux parties."
+     ],
+     "exo": {
+      "tag": "niv-ns02",
+      "n": 10,
+      "ecrit": "ns"
+     },
+     "niv": "ns02",
+     "verif": "methode"
+    },
+    {
+     "id": "o1",
+     "rev": 2,
+     "m": "oral",
+     "titre": "Oral 1 : se présenter et convaincre le jury",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez ce que le jury évalue à l'oral, construire une présentation de soi de 2 à 3 minutes et structurer un exposé sur un sujet tiré au sort.",
+      "## Le déroulement",
+      "Les sources de préparation décrivent un entretien devant un jury de hauts cadres : exposé sur un sujet tiré au sort (souvent une question d'actualité nationale ou internationale), puis questions. Selon le communiqué de l'ENA d'août 2026, le jury apprécie la personnalité (maîtrise de soi, humilité, ouverture d'esprit, prestance), la rhétorique (qualité de l'expression, rigueur de l'argumentation), la réactivité et la culture générale.",
+      "> Coefficient : 3 selon la présentation de la session 2026 ; des sources plus anciennes indiquent 5. Vérifiez le communiqué de votre session. Les autres concours (INFJ, Fonction publique) ont leurs propres règles d'oral, indiquées dans « Mes concours ».",
+      "## La présentation de soi (2 à 3 minutes)",
+      "- Qui je suis : formation, parcours, responsabilités.",
+      "- Ce que j'ai appris : deux réalisations concrètes, chiffrées si possible.",
+      "- Pourquoi ce concours : le service de l'État, les missions du corps visé.",
+      "- Mon projet : ce que j'apporterai dans le poste.",
+      "## Tenue et posture (exigences publiées pour la session 2026 de l'ENA)",
+      "- Hommes : costume sombre uni, chemise blanche, cravate sombre assortie, chaussures et chaussettes noires, barbe rasée.",
+      "- Femmes : tailleur ou robe tailleur sombre uni, maquillage discret, chaussures noires.",
+      "- Aucun signe religieux ou politique."
+     ],
+     "fond": [
+      "## Notion 1 : ce que le jury cherche vraiment",
+      "Le jury ne vérifie pas seulement des connaissances : il se demande si vous serez un bon cadre de l'administration. Calme, clarté, honnêteté intellectuelle et sens du service public pèsent autant que la culture générale.",
+      "~ Un candidat qui répond « je ne sais pas, mais je raisonnerais ainsi… » fait meilleure impression qu'un candidat qui invente une réponse fausse avec aplomb.",
+      "## Notion 2 : la présentation de soi, un exemple commenté",
+      "~ « Titulaire d'une licence en droit, je travaille depuis trois ans comme assistant dans un service administratif régional. [qui je suis] J'y ai notamment mis en place un registre numérique du courrier qui a réduit les délais de réponse aux usagers. [réalisation concrète] Ce travail m'a montré combien l'organisation de l'administration conditionne la qualité du service rendu aux citoyens. [ce que j'ai appris] C'est pourquoi je souhaite intégrer ce corps, pour exercer ces responsabilités à un niveau plus élevé. [pourquoi ce concours, projet] »",
+      "Pourquoi cette structure fonctionne-t-elle ? Parce qu'elle va du concret (parcours, réalisation) au sens (ce que j'ai compris) puis au projet : le jury voit une motivation fondée sur l'expérience, pas un discours appris.",
+      "? Que manque-t-il à cette présentation : « Je m'appelle Koné, j'ai une licence et je veux réussir le concours pour avoir un emploi stable » ? || Une réalisation concrète, ce que l'expérience a appris, et une motivation tournée vers le service public. La sécurité de l'emploi n'est pas une motivation à mettre en avant devant le jury.",
+      "## Notion 3 : l'exposé sur sujet tiré",
+      "- Introduction courte avec une problématique, deux parties annoncées, conclusion avec ouverture : la même logique qu'à l'écrit, en plus bref.",
+      "- Parlez lentement, regardez chaque membre du jury, n'apprenez pas par cœur : notez seulement le plan et les exemples.",
+      "~ Sujet : « Le numérique au service de l'usager ». Plan : I. Le numérique rapproche l'administration des usagers (démarches en ligne, gain de temps) ; II. Il exige des conditions pour profiter à tous (accès au réseau, formation, protection des données).",
+      "? Vous tirez le sujet « La décentralisation ». Proposez un plan en deux parties pour l'exposé. || Par exemple : I. La décentralisation rapproche les décisions des citoyens (collectivités élues, compétences locales) ; II. Son efficacité dépend des moyens transférés et des capacités des collectivités.",
+      "## Notion 4 : les questions qui reviennent",
+      "- Pourquoi la fonction publique plutôt que le privé ?",
+      "- Quelles sont les valeurs du fonctionnaire ? (légalité, neutralité, probité, loyauté, devoir de réserve)",
+      "- Que feriez-vous face à un ordre manifestement illégal ?",
+      "- Que pensez-vous de la décentralisation, de l'emploi des jeunes, du numérique dans l'administration ?",
+      "! Sur une question politique sensible, restez neutre : exposez les faits et les positions en présence. Le devoir de réserve s'applique déjà dans votre attitude de candidat.",
+      "## Notion 5 : valoriser son parcours avec neutralité",
+      "Expérience professionnelle, engagement associatif, responsabilités électives : tout parcours peut devenir un atout s'il est présenté par ce qu'il vous a appris (rigueur, sens du terrain, dialogue). Présentez vos engagements sans connotation partisane.",
+      "? Vous êtes membre actif d'une association de jeunesse. Comment le présenter au jury ? || Par ce que cet engagement vous a appris et apporte au service public : organiser des actions, travailler avec des partenaires, écouter les besoins du terrain. On décrit des réalisations concrètes, sans discours militant ni référence partisane."
+     ],
+     "retenir": [
+      "Le jury évalue la personnalité, la rhétorique, la réactivité et la culture générale.",
+      "Présentation de soi : qui je suis, une réalisation concrète, ce que j'en ai appris, mon projet de service public.",
+      "La sécurité de l'emploi ou le salaire ne sont pas des motivations à mettre en avant.",
+      "Exposé : problématique, deux parties, conclusion avec ouverture ; noter le plan, ne rien apprendre par cœur.",
+      "Valeurs du fonctionnaire : légalité, neutralité, probité, loyauté, devoir de réserve.",
+      "Ne pas savoir : le reconnaître et raisonner à voix haute.",
+      "Tenue sobre et aucun signe religieux ou politique."
+     ],
+     "exo": {
+      "tag": "oral",
+      "n": 5,
+      "oral": true
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013or02",
+     "rev": 2,
+     "m": "oral",
+     "titre": "Les questions de motivation",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez répondre aux questions de motivation en reliant votre parcours réel à un projet de service public, et raconter une expérience avec la méthode STAR.",
+      "## Ce que demande l'épreuve",
+      "L'oral d'admission évalue la personnalité, la culture générale et la motivation professionnelle. Les questions de motivation (« Pourquoi ce concours ? », « Quel cadre voulez-vous être ? ») sont presque certaines : elles se préparent à l'avance, par écrit, puis à voix haute.",
+      "## La méthode",
+      "- Partez de votre parcours réel : formation, expérience, engagements.",
+      "- Reliez-le à un projet de service public précis et concret.",
+      "- Illustrez chaque affirmation par un exemple vérifiable, idéalement chiffré.",
+      "- Structurez vos exemples avec la méthode STAR : Situation, Tâche, Action, Résultat.",
+      "- Entraînez-vous à voix haute : une réponse écrite n'est pas une réponse maîtrisée tant qu'on ne l'a pas dite.",
+      "! Le salaire, la sécurité de l'emploi ou le prestige ne sont pas des motivations à mettre en avant."
+     ],
+     "fond": [
+      "## Notion 1 : répondre à « Pourquoi ce concours ? »",
+      "Une bonne réponse montre trois choses : que vous connaissez la mission de l'école ou du corps (former des cadres, rendre la justice, gérer les établissements pénitentiaires…), ce que vous apporterez, et pourquoi c'est cohérent avec votre parcours.",
+      "~ « Mon expérience dans un service d'accueil m'a fait mesurer l'attente des usagers envers une administration efficace. L'ENA forme les cadres qui organisent ces services : c'est ce rôle que je veux exercer, en apportant mon sens du terrain et ma rigueur d'organisation. »",
+      "? Améliorez cette réponse : « Je veux entrer à l'ENA parce que c'est une grande école prestigieuse. » || Par exemple : « Je veux entrer à l'ENA parce qu'elle forme les cadres chargés de mettre en œuvre les politiques publiques, et que mon expérience de [domaine] m'a donné l'envie et les premiers outils pour exercer ces responsabilités. » On remplace le prestige par la mission et la cohérence du parcours.",
+      "## Notion 2 : la méthode STAR",
+      "Elle transforme une expérience en preuve : Situation (le contexte), Tâche (votre mission), Action (ce que vous avez fait, vous personnellement), Résultat (ce qui a changé, mesuré si possible).",
+      "~ Situation : un service recevait de nombreuses réclamations pour des délais de traitement. Tâche : j'étais chargé du suivi des dossiers. Action : j'ai créé un tableau de suivi partagé et des rappels hebdomadaires. Résultat : les dossiers en retard ont nettement diminué en trois mois.",
+      "? Racontez avec STAR une expérience associative (organisation d'un événement, par exemple). || Par exemple — Situation : notre association voulait sensibiliser les jeunes du quartier à l'emploi. Tâche : je coordonnais l'organisation d'une journée d'information. Action : j'ai réuni des intervenants, réservé la salle et préparé la communication. Résultat : une centaine de jeunes présents et plusieurs inscriptions à des formations. Chaque étape est concrète et le résultat est observable.",
+      "## Notion 3 : les questions difficiles",
+      "- Si vous ignorez la réponse, dites-le honnêtement et proposez une piste de raisonnement : le jury apprécie la lucidité plus que l'invention.",
+      "- Sur une question politique sensible : restez neutre, exposez les faits et les positions en présence.",
+      "- Sur un point faible (échec à un concours précédent, parcours atypique) : reconnaissez-le brièvement et montrez ce que vous en avez tiré.",
+      "~ « J'ai échoué au concours l'an dernier. J'ai analysé mes copies : je manquais de méthode à l'écrit. Je me suis donc entraîné chaque semaine en conditions réelles. »",
+      "? Le jury vous demande ce que vous feriez face à un ordre manifestement illégal de votre supérieur. Quelle est la bonne logique de réponse ? || Rappeler le principe d'obéissance hiérarchique et sa limite : on n'exécute pas un ordre manifestement illégal ; on le signale à son supérieur, par écrit si nécessaire. Ton calme, référence aux principes, pas d'emportement. Vérifiez la formulation exacte de cette règle dans le statut général de la fonction publique.",
+      "## Notion 4 : préparer à voix haute",
+      "Écrivez vos réponses aux dix questions les plus probables, puis dites-les à voix haute, sans les lire, devant un proche ou en vous enregistrant. La simulation d'oral de l'appli vous entraîne en conditions réelles."
+     ],
+     "retenir": [
+      "Motivation = mission du corps visé + ce que j'apporte + cohérence avec mon parcours.",
+      "Méthode STAR : Situation, Tâche, Action, Résultat.",
+      "Des exemples réels et vérifiables, chiffrés si possible.",
+      "Salaire, sécurité de l'emploi, prestige : jamais mis en avant.",
+      "Ne pas savoir : le reconnaître et raisonner à voix haute.",
+      "Point faible : le reconnaître brièvement et montrer ce qu'on en a tiré.",
+      "Neutralité sur les sujets politiques."
+     ],
+     "exo": {
+      "tag": "niv-or02",
+      "n": 6,
+      "oral": true
+     },
+     "niv": "or02",
      "verif": "methode"
     }
    ],
