@@ -18,6 +18,7 @@ def norm(s):
 
 errors, warns = [], []
 def err(where, msg): errors.append(f"{where} : {msg}")
+STANDARD = "2026-10-15"   # contenus publiés à partir de cette date : standard pédagogique renforcé (voir GENERATION.md)
 
 base = json.loads((C / "base.json").read_text(encoding="utf-8"))
 seen_q = {norm(t) for t in base.get("questions", [])}
@@ -45,15 +46,21 @@ for pk in index.get("packs", []):
             for k in ("id","m","tag","q","o","a","e"):
                 if k not in q: err(w, f"champ manquant {k}")
             if any(k not in q for k in ("id","m","q","o","a")): continue
-            if q["id"] in ids: err(w, f"identifiant en double {q['id']}")
+            rev = q.get("rev", 0)
+            if q["id"] in ids and not rev: err(w, f"identifiant en double {q['id']}")
             ids.add(q["id"])
             if q["m"] not in MATIERES: err(w, f"matière inconnue {q['m']}")
             if not (isinstance(q["o"], list) and len(q["o"]) == 4): err(w, "il faut exactement 4 propositions")
             elif len({norm(o) for o in q["o"]}) != 4: err(w, "propositions en double")
             if not (isinstance(q["a"], int) and 0 <= q["a"] < 4): err(w, "index de réponse invalide")
             if len(q.get("e","")) < 15: err(w, "explication trop courte")
+            if d >= STANDARD and not rev:
+                if len(q.get("e","")) < 60: err(w, "standard : explication de la bonne réponse trop courte (60 caractères au moins)")
+                ed = q.get("ed")
+                if not (isinstance(ed, list) and len(ed) == 4 and ed[q["a"]] is None and all(isinstance(x, str) and len(x) >= 15 for i2, x in enumerate(ed) if i2 != q["a"])):
+                    err(w, "standard : champ ed absent ou incomplet (une explication par mauvaise réponse, null pour la bonne)")
             n = norm(q["q"])
-            if n in seen_q: err(w, "question déjà existante (doublon)")
+            if n in seen_q and not rev: err(w, "question déjà existante (doublon)")
             seen_q.add(n)
             verif = q.get("verif")
             src = q.get("src")
@@ -74,19 +81,30 @@ for pk in index.get("packs", []):
             w = f"{pk['file']} {d} leçon {i+1}"
             for k in ("id","m","titre","min","tech","fond","retenir","exo"):
                 if k not in l: err(w, f"champ manquant {k}")
-            if l.get("id") in seen_l or l.get("id") in ids: err(w, "identifiant de leçon en double")
+            lrev = l.get("rev", 0)
+            if (l.get("id") in seen_l or l.get("id") in ids) and not lrev: err(w, "identifiant de leçon en double")
             seen_l.add(l.get("id")); ids.add(l.get("id"))
             if l.get("m") not in MATIERES: err(w, "matière inconnue")
-            if not l.get("sources") and l.get("verif") not in SANS_URL:
+            if not l.get("sources") and l.get("verif") not in SANS_URL and not (lrev and l.get("id") in set(base.get("lessons", []))):
                 err(w, "leçon de fond sans sources (sources [{t,u}] obligatoires, ou verif = regle / calcul / methode)")
             nv = l.get("niv")
             if nv is not None:
                 if nv not in NIVS: err(w, f"niveau inconnu {nv} (voir content/programme.json)")
-                elif nv in niv_used: err(w, f"le niveau {nv} a déjà sa leçon")
+                elif nv in niv_used and not lrev: err(w, f"le niveau {nv} a déjà sa leçon")
                 niv_used.add(nv)
                 tg = (l.get("exo") or {}).get("tag")
                 nq = sum(1 for dd in data.get("days", []) for qq in dd.get("questions", []) if qq.get("tag") == tg)
-                if nq < 6: err(w, f"niveau {nv} : il faut au moins 6 questions avec le tag {tg} (trouvées : {nq})")
+                if nq < 6 and not lrev: err(w, f"niveau {nv} : il faut au moins 6 questions avec le tag {tg} (trouvées : {nq})")
+            if d >= STANDARD:
+                wc = lambda arr: len(" ".join(x for x in (arr or []) if isinstance(x, str)).split())
+                tech, fond, ret = l.get("tech") or [], l.get("fond") or [], l.get("retenir") or []
+                if wc(tech) < 150: err(w, f"standard : étape Technique trop courte ({wc(tech)} mots, 150 au moins)")
+                if not any(x.startswith("= ") for x in tech): err(w, "standard : objectif (ligne « = ») absent de l'étape Technique")
+                if wc(fond) < 450: err(w, f"standard : étape Cours trop courte ({wc(fond)} mots, 450 au moins)")
+                if sum(1 for x in tech + fond if x.startswith("~ ")) < 2: err(w, "standard : au moins 2 exemples résolus (« ~ »)")
+                exos = [x for x in fond if x.startswith("? ")]
+                if len(exos) < 3 or any("||" not in x or len(x.split("||")[1].strip()) < 20 for x in exos): err(w, "standard : au moins 3 exercices « ? énoncé || correction » avec une correction expliquée")
+                if not (5 <= len(ret) <= 8) or any(len(x.split()) > 30 for x in ret): err(w, "standard : « À retenir » de 5 à 8 points de 30 mots au plus")
             for s in l.get("sources", []):
                 if not str(s.get("u","")).startswith("https://"): err(w, "source sans URL https")
             tag = (l.get("exo") or {}).get("tag")

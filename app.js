@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "70f81bc5 du 15/10/2026";
+const APP_VERSION = "773ffecc du 15/10/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1565,12 +1565,26 @@ function repoInfo(){
 function mergePack(p, isToday){
   const known = new Set(BANK.map(q=>q.id));
   for (const q of (p.questions||[])){
-    if (!q || known.has(q.id) || !Array.isArray(q.o) || !(q.a>=0 && q.a<q.o.length)) continue;
-    BANK.push({id:q.id, m:q.m, tag:q.tag||("pack-"+q.m), q:q.q, o:q.o, a:q.a, e:q.e||"", src:"Nouveau", ref:q.src||null, date:p.date});
+    if (!q || !Array.isArray(q.o) || !(q.a>=0 && q.a<q.o.length)) continue;
+    if (known.has(q.id)){
+      const old = BANK.find(x=>x.id===q.id);
+      if (old && (q.rev||0) > (old.rev||0)) Object.assign(old, {q:q.q, o:q.o, a:q.a, e:q.e||old.e, ed:Array.isArray(q.ed) ? q.ed : old.ed, rev:q.rev, ref:q.src||old.ref});
+      continue;
+    }
+    BANK.push({id:q.id, m:q.m, tag:q.tag||("pack-"+q.m), q:q.q, o:q.o, a:q.a, e:q.e||"", ed:Array.isArray(q.ed) ? q.ed : null, rev:q.rev||0, src:"Nouveau", ref:q.src||null, date:p.date});
     known.add(q.id); CONTENT.added.q++; if (isToday) CONTENT.today.q++;
   }
   for (const l of (p.lessons||[])){
-    if (!l || LMAP[l.id] || !Array.isArray(l.tech) || !Array.isArray(l.fond)) continue;
+    if (!l || !Array.isArray(l.tech) || !Array.isArray(l.fond)) continue;
+    if (LMAP[l.id]){
+      const old = LMAP[l.id];
+      if ((l.rev||0) <= (old.rev||0)) continue;
+      // version améliorée d'une leçon existante : même identifiant, même niveau, mêmes questions
+      l.exo = l.exo || old.exo; l.date = p.date; l.revised = true;
+      const i = LESSONS.indexOf(old); if (i >= 0) LESSONS[i] = l; LMAP[l.id] = l;
+      for (const k in NIV2L) if (NIV2L[k] === old) NIV2L[k] = l;
+      continue;
+    }
     l.date = p.date; l.fresh = true; LESSONS.push(l); LMAP[l.id] = l;
     if (l.niv && LVMAP[l.niv] && !NIV2L[l.niv]) NIV2L[l.niv] = l;
     CONTENT.added.l++; if (isToday) CONTENT.today.l++;
@@ -2061,7 +2075,7 @@ function vConditions(){
 
 // ---------- QCM ----------
 function pick(pool, n){ return shuffle(pool).map(q=>({q, s:(state.wrong[q.id]||0)*3 + (state.seen[q.id]?0:2) + Math.random()})).sort((a,b)=>b.s-a.s).slice(0,n).map(x=>x.q); }
-function prep(q){ const order = shuffle(q.o.map((_,i)=>i)); return Object.assign({}, q, {o: order.map(i=>q.o[i]), a: order.indexOf(q.a), pick:null}); }
+function prep(q){ const order = shuffle(q.o.map((_,i)=>i)); return Object.assign({}, q, {o: order.map(i=>q.o[i]), a: order.indexOf(q.a), ed: Array.isArray(q.ed) ? order.map(i=>q.ed[i]||null) : null, pick:null}); }
 // mode "exam" : conditions strictes ; mode "train" : correction immédiate, sans enjeu
 function startQCM(o){
   const items = o.items.map(prep);
@@ -2566,6 +2580,13 @@ function blocks(arr){
     else if (raw.startsWith("> ")) out.push(h("p",{class:"box"},raw.slice(2)));
     else if (raw.startsWith("! ")) out.push(h("p",{class:"box warn"},h("b",null,"Piège : "),raw.slice(2)));
     else if (raw.startsWith("~ ")) out.push(h("p",{class:"ex"},raw.slice(2)));
+    else if (raw.startsWith("= ")) out.push(h("p",{class:"box obj"}, h("b",null,"Objectif : "), raw.slice(2)));
+    else if (raw.startsWith("? ")){
+      const [qq, rr] = raw.slice(2).split("||").map(x=>x.trim());
+      const ans = h("div",{class:"exo-a",hidden:true}, h("b",null,"Correction : "), rr || "");
+      const btn = h("button",{class:"btn small",type:"button",onclick:()=>{ ans.hidden = false; btn.remove(); }},"Voir la correction");
+      out.push(h("div",{class:"exo"}, h("p",null, h("b",null,"À vous : "), qq), h("p",{class:"muted small"},"Cherchez la réponse de tête ou sur un brouillon avant de l'afficher."), btn, ans));
+    }
     else out.push(h("p",{class:"para"},raw));
   }
   return out;
@@ -2894,6 +2915,7 @@ function vQuizResult(){
       quiz.items.map((x,i)=>h("div",{class:"miss"},
         h("p",{class:"q-s"}, (i+1) + ". " + x.q),
         h("p",null, x.pick===x.a ? h("span",{class:"good"},"✓ ") : x.pick==null||x.pick===-1 ? h("span",{class:"muted"},"— ") : h("span",{class:"bad"},"✗ "), "Réponse : ", h("b",null, x.o[x.a]), x.pick!=null && x.pick>=0 && x.pick!==x.a ? h("span",{class:"muted"}, " (vous : " + x.o[x.pick] + ")") : null),
+        x.pick!=null && x.pick>=0 && x.pick!==x.a && x.ed && x.ed[x.pick] ? h("p",{class:"small bad"}, "Pourquoi « " + x.o[x.pick] + " » est faux : " + x.ed[x.pick]) : null,
         x.e ? h("p",{class:"muted small"}, x.e) : null,
         h("button",{class:"link small",type:"button",onclick:()=>askQuestion({type:"qcm", lv: TAG2LV[x.tag] || null, mat: kindLabel(trackOfQ(x)), q:x.q, rep:x.o[x.a], mine: x.pick!=null && x.pick>=0 && x.pick!==x.a ? x.o[x.pick] : "", e:x.e||""})},"Poser une question"),
         x.ref && x.ref.u ? h("p",{class:"src"}, "Source : ", h("a",{href:x.ref.u,target:"_blank",rel:"noopener"}, x.ref.t || x.ref.u)) : null,
@@ -3101,6 +3123,8 @@ function ttsText(arr){
     if (s.startsWith("> ")) return s.slice(2);
     if (s.startsWith("! ")) return "Attention, piège : " + s.slice(2);
     if (s.startsWith("~ ")) return "Exemple : " + s.slice(2);
+    if (s.startsWith("= ")) return "Objectif : " + s.slice(2);
+    if (s.startsWith("? ")) return "Exercice : " + s.slice(2).split("||")[0] + " Cherchez la réponse, puis affichez la correction à l'écran.";
     return s;
   }).join(" ").replace(/\s+/g," ").replace(/ · /g,", ").replace(/→/g," donne ").replace(/±/g,"plus ou moins ").replace(/−/g,"moins ");
 }

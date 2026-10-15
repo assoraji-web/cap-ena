@@ -6159,6 +6159,1009 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-15",
+   "questions": [
+    {
+     "id": "r20261015-p0-01",
+     "m": "fr",
+     "tag": "strat",
+     "q": "En culture générale (barème +1 / 0 / −1), quelle est l'espérance d'une réponse donnée au hasard parmi 4 propositions ?",
+     "o": [
+      "+0,25 point",
+      "0 point",
+      "−0,5 point",
+      "−1 point"
+     ],
+     "a": 2,
+     "e": "On gagne 1 point une fois sur 4 et on en perd 1 trois fois sur 4 : 0,25 − 0,75 = −0,5 point en moyenne.",
+     "ed": [
+      "0,25 est la probabilité de tomber juste, pas l'espérance : il faut retrancher les pertes.",
+      "0 est l'espérance quand il ne reste que deux propositions, pas quatre.",
+      null,
+      "−1 est la perte d'une mauvaise réponse, pas la moyenne sur un grand nombre de réponses."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-p0-02",
+     "m": "fr",
+     "tag": "strat",
+     "q": "Vous avez éliminé avec certitude deux propositions sur quatre et n'avez aucune préférence entre les deux restantes. Que rapporte une réponse en moyenne (barème +1 / −1) ?",
+     "o": [
+      "Une perte de 0,5 point",
+      "0 point",
+      "Un gain de 0,5 point",
+      "Un gain de 1 point"
+     ],
+     "a": 1,
+     "e": "Une chance sur deux de gagner 1 point, une chance sur deux d'en perdre 1 : l'espérance est nulle, le pari est neutre.",
+     "ed": [
+      "−0,5 correspond au hasard pur sur quatre propositions ; l'élimination a amélioré vos chances.",
+      null,
+      "Pour gagner en moyenne, il faudrait pencher réellement vers l'une des deux propositions.",
+      "+1 ne s'obtient qu'avec une certitude."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-p0-03",
+     "m": "fr",
+     "tag": "strat",
+     "q": "En logique (barème +2 / 0 / −2), quelle est l'espérance d'une réponse au hasard parmi 4 propositions ?",
+     "o": [
+      "−0,5 point",
+      "−1 point",
+      "−2 points",
+      "0 point"
+     ],
+     "a": 1,
+     "e": "1/4 × (+2) + 3/4 × (−2) = 0,5 − 1,5 = −1 point : le hasard coûte deux fois plus cher qu'en culture générale.",
+     "ed": [
+      "−0,5 est l'espérance avec le barème +1 / −1, pas avec le barème doublé de la logique.",
+      null,
+      "−2 est la perte d'une seule mauvaise réponse, pas la moyenne.",
+      "L'espérance n'est nulle qu'avec deux propositions équiprobables."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-p0-04",
+     "m": "fr",
+     "tag": "strat",
+     "q": "Quelle est la meilleure raison d'éliminer une proposition ?",
+     "o": [
+      "Elle est plus longue que les autres",
+      "Elle contient une date impossible ou une faute d'orthographe",
+      "Elle est placée en dernière position",
+      "Elle ressemble trop à la bonne réponse"
+     ],
+     "a": 1,
+     "e": "On n'élimine que ce qu'on sait faux pour une raison objective : date impossible, faute d'orthographe, terme hors sujet, calcul aberrant.",
+     "ed": [
+      "La longueur d'une proposition ne dit rien de sa justesse.",
+      null,
+      "La position est sans rapport avec la réponse : les bonnes réponses sont réparties sur toutes les positions.",
+      "Une proposition proche de la bonne réponse peut justement être la bonne ; ce n'est pas un motif d'élimination."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-p0-05",
+     "m": "fr",
+     "tag": "strat",
+     "q": "Que faire d'une question de logique sur laquelle vous êtes bloqué depuis deux minutes ?",
+     "o": [
+      "Continuer jusqu'à trouver",
+      "Répondre au hasard pour ne pas la laisser vide",
+      "La marquer, passer à la suite et y revenir à la fin",
+      "Recommencer l'épreuve depuis le début"
+     ],
+     "a": 2,
+     "e": "Le temps perdu sur une question bloquante coûte plusieurs questions faciles : on la marque et on y revient s'il reste du temps.",
+     "ed": [
+      "S'obstiner fait perdre le temps de plusieurs questions plus faciles.",
+      "Le hasard coûte en moyenne 1 point en logique : mieux vaut laisser vide.",
+      null,
+      "Recommencer depuis le début n'a aucun sens et fait perdre encore plus de temps."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-p0-06",
+     "m": "fr",
+     "tag": "strat",
+     "q": "Vous penchez nettement pour une proposition (environ 2 chances sur 3). Avec le barème +1 / −1, que rapporte une réponse en moyenne ?",
+     "o": [
+      "Environ +0,33 point",
+      "0 point",
+      "−0,33 point",
+      "+1 point"
+     ],
+     "a": 0,
+     "e": "2/3 × (+1) + 1/3 × (−1) = 1/3 ≈ +0,33 point : dès qu'on penche réellement d'un côté, répondre devient rentable.",
+     "ed": [
+      null,
+      "L'espérance n'est nulle qu'à chances égales (1 sur 2).",
+      "Le signe est inversé : avec 2 chances sur 3 de réussir, le pari est favorable.",
+      "+1 suppose une certitude totale."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013fr06-01",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "q": "Quelle phrase est correctement écrite ?",
+     "o": [
+      "Des écharpes marrons et des gants roses.",
+      "Des écharpes marron et des gants roses.",
+      "Des écharpes marron et des gants rose.",
+      "Des écharpes marrons et des gants rose."
+     ],
+     "a": 1,
+     "e": "« Marron » est un nom employé comme couleur : invariable. « Rose » fait partie des exceptions qui s'accordent comme de vrais adjectifs.",
+     "ed": [
+      "« Marron » est un nom (le fruit) employé comme couleur : il ne prend pas de s.",
+      null,
+      "« Rose » est une exception : il s'accorde, donc « roses ».",
+      "Les deux accords sont inversés : marron reste invariable et rose s'accorde."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013fr07-01",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "q": "Complétez : « Les rapports qu'il a fallu … ont été transmis. »",
+     "o": [
+      "rédigé",
+      "rédiger",
+      "rédigés",
+      "rédigées"
+     ],
+     "a": 1,
+     "e": "Après « il a fallu », on emploie l'infinitif « rédiger » : les rapports qu'il a fallu rédiger. « Fallu », participe d'un verbe impersonnel, reste invariable.",
+     "ed": [
+      "Le participe « rédigé » ne peut pas suivre « il a fallu » : il faut un infinitif.",
+      null,
+      "On ne peut pas employer un participe passé après « il a fallu » ; c'est l'infinitif qui convient.",
+      "Un participe accordé au féminin ne convient pas : après « il a fallu », il faut l'infinitif, et « rapports » est masculin."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-p8-01",
+     "m": "log",
+     "tag": "orga",
+     "q": "Trois collègues, Awa, Bintou et Cyrille, occupent les bureaux 1, 2 et 3. Cyrille est au bureau 1 ; Awa n'est pas au bureau 2. Qui occupe le bureau 2 ?",
+     "o": [
+      "Awa",
+      "Bintou",
+      "Cyrille",
+      "On ne peut pas savoir"
+     ],
+     "a": 1,
+     "e": "Cyrille occupe le 1 ; Awa ne peut être ni au 1 (pris) ni au 2 : elle est au 3. Il reste le bureau 2 pour Bintou.",
+     "ed": [
+      "L'énoncé dit justement qu'Awa n'est pas au bureau 2.",
+      null,
+      "Cyrille est au bureau 1.",
+      "Les deux indices suffisent : Awa est forcément au 3, donc Bintou au 2."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-p8-02",
+     "m": "log",
+     "tag": "orga",
+     "q": "Un sac coûte trois fois plus qu'une ceinture ; l'ensemble coûte 20 000 F. Combien coûte la ceinture ?",
+     "o": [
+      "4 000 F",
+      "5 000 F",
+      "6 667 F",
+      "15 000 F"
+     ],
+     "a": 1,
+     "e": "Ceinture = c, sac = 3c ; 4c = 20 000, donc c = 5 000 F (et le sac coûte 15 000 F).",
+     "ed": [
+      "4 000 F reviendrait à diviser par 5 au lieu de 4 : il y a 1 + 3 = 4 parts.",
+      null,
+      "6 667 F correspond à une division par 3 : on a oublié de compter la ceinture elle-même.",
+      "15 000 F est le prix du sac, pas celui de la ceinture."
+     ],
+     "verif": "calcul",
+     "calc": "20000/4"
+    }
+   ],
+   "lessons": [
+    {
+     "id": "p0",
+     "rev": 2,
+     "m": "cg",
+     "titre": "Stratégie de la présélection : le barème qui pénalise",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez calculer ce que rapporte ou coûte une réponse, décider quand répondre et quand s'abstenir, et organiser votre temps en deux passages.",
+      "## Ce que dit le barème officiel",
+      "Les sujets de présélection de l'ENA publiés pour les sessions 2023 et 2024 indiquent le barème sur leur page de garde : en culture générale et aptitude verbale, une bonne réponse vaut +1, l'absence de réponse 0, une mauvaise réponse −1. En logique, le barème est doublé : +2, 0 et −2.",
+      "Ce barème change tout : une épreuve de présélection n'est pas un examen où l'on « tente sa chance ». Chaque réponse est un pari, et un mauvais pari coûte un point.",
+      "## La méthode en trois paquets",
+      "- Paquet 1, je suis sûr : je réponds tout de suite.",
+      "- Paquet 2, j'hésite entre deux propositions : je réponds seulement si un indice me fait pencher d'un côté.",
+      "- Paquet 3, je ne sais pas : je laisse vide, sans regret.",
+      "## Deux passages",
+      "- Premier passage, rapide : toutes les questions du paquet 1. Vous sécurisez vos points.",
+      "- Second passage : les questions du paquet 2, avec la technique d'élimination.",
+      "- Une question de logique ne doit jamais vous bloquer plus de deux minutes : marquez-la et revenez-y à la fin.",
+      "- Reportez vos réponses sur la feuille au fur et à mesure, jamais toutes à la dernière minute."
+     ],
+     "fond": [
+      "## Notion 1 : l'espérance d'une réponse au hasard",
+      "L'espérance, c'est ce qu'une décision rapporte en moyenne si on la répète un grand nombre de fois. Elle se calcule en multipliant chaque gain par sa probabilité, puis en additionnant.",
+      "~ Question à 4 propositions, aucune idée : on tombe juste 1 fois sur 4 (+1) et faux 3 fois sur 4 (−1). Espérance = 1/4 × (+1) + 3/4 × (−1) = 0,25 − 0,75 = −0,5 point. Répondre au hasard fait perdre en moyenne un demi-point par question.",
+      "Pourquoi le correcteur pénalise-t-il ainsi ? Parce que la présélection veut classer les candidats selon ce qu'ils savent vraiment, pas selon leur chance. Le barème négatif neutralise le hasard.",
+      "? En logique (barème +2 / −2), vous répondez au hasard à une question à 4 propositions. Quelle est l'espérance ? || 1/4 × 2 + 3/4 × (−2) = 0,5 − 1,5 = −1 point. Le hasard coûte deux fois plus cher en logique qu'en culture générale.",
+      "## Notion 2 : ce que change l'élimination",
+      "Chaque proposition que vous éliminez avec certitude augmente vos chances. Si vous éliminez deux propositions sur quatre, il en reste deux : vous avez une chance sur deux.",
+      "~ Deux propositions restantes, sans préférence : espérance = 1/2 × (+1) + 1/2 × (−1) = 0. Le pari est neutre : il ne rapporte rien en moyenne, il ajoute seulement du risque.",
+      "~ Trois propositions éliminées : il ne reste qu'une réponse. Vous êtes dans le paquet 1, répondez.",
+      "! Une élimination « au feeling » n'est pas une élimination. Ne barrez une proposition que si vous pouvez dire pourquoi elle est fausse : date impossible, faute d'orthographe, terme hors sujet, calcul aberrant.",
+      "? Vous hésitez entre deux propositions, mais l'une vous semble nettement plus probable (environ 2 chances sur 3). Faut-il répondre ? || Oui. Espérance = 2/3 × (+1) + 1/3 × (−1) = 1/3 ≈ +0,33 point. Dès que vous penchez réellement d'un côté, répondre devient rentable.",
+      "## Notion 3 : la gestion du temps",
+      "Le temps est la deuxième ressource de l'épreuve. Une question bloquante vole le temps de trois questions faciles.",
+      "~ Un candidat passe 6 minutes sur une question de logique qu'il finit par rater (−2). Pendant ce temps, il aurait pu répondre à trois questions faciles de vocabulaire (+3). Écart : 5 points.",
+      "? Il vous reste 5 minutes et 8 questions non traitées, toutes difficiles pour vous. Que faites-vous ? || Lisez-les toutes rapidement et ne répondez qu'à celles où vous éliminez au moins deux propositions ou reconnaissez la réponse. Les autres restent vides : 0 vaut mieux qu'un −1 probable.",
+      "## Notion 4 : ce que contient l'épreuve",
+      "D'après les sujets publiés de 2023 à 2025, le questionnaire mélange quatre familles :",
+      "- aptitude verbale : intrus, synonymes, antonymes, paronymes, analogies, orthographe d'usage, pluriels des noms composés, conjugaison, accords ;",
+      "- culture générale : histoire contemporaine, organisations internationales, personnalités et culture ivoiriennes et africaines, sport, économie mondiale ;",
+      "- anglais : so et such, comparatifs, pluriels et féminins irréguliers, prépositions, temps ;",
+      "- logique : problèmes d'organisation (qui fait quoi, qui habite où), proportions, prix, âges, suites.",
+      "> Le parcours de l'appli suit ces quatre familles. La présélection blanche (Entraînement) applique le vrai barème : c'est là que vous testez votre stratégie."
+     ],
+     "retenir": [
+      "Barème de présélection : +1 / 0 / −1 en culture générale et aptitude verbale, +2 / 0 / −2 en logique.",
+      "Répondre au hasard sur 4 propositions coûte en moyenne 0,5 point (1 point en logique).",
+      "Entre deux propositions sans préférence, le pari est neutre : ne répondez que si un indice vous fait pencher.",
+      "N'éliminez une proposition que si vous savez dire pourquoi elle est fausse.",
+      "Deux passages : d'abord tout ce qui est sûr, puis les hésitations avec élimination.",
+      "Jamais plus de deux minutes bloqué sur une question : marquez-la et revenez-y."
+     ],
+     "exo": {
+      "tag": "strat",
+      "n": 6
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "p1",
+     "rev": 2,
+     "m": "cg",
+     "titre": "Aptitude verbale 1 : synonymes, antonymes, paronymes, intrus",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez traiter les cinq types de questions de vocabulaire de la présélection : synonymes, antonymes, paronymes, intrus et analogies.",
+      "## La règle d'or",
+      "Avant de lire les propositions, donnez-vous une définition courte du mot. Les propositions sont faites pour vous troubler ; votre définition vous protège.",
+      "## La méthode selon le type de question",
+      "- Synonyme : remplacez le mot par chaque proposition dans une phrase simple. Le sens doit rester le même.",
+      "- Antonyme : cherchez le contraire exact, pas un mot simplement différent.",
+      "- Paronyme : deux mots presque identiques à l'œil ou à l'oreille, mais de sens différent. Lisez lettre par lettre.",
+      "- Intrus : trouvez la catégorie de sens commune à trois mots ; l'intrus est le quatrième.",
+      "- Analogie « A est à B ce que C est à ? » : formulez la relation entre A et B en une phrase, puis appliquez-la à C.",
+      "! Les distracteurs sont très souvent des paronymes du bon mot : « conjoncture » à la place de « conjecture », « infraction » à la place de « effraction »."
+     ],
+     "fond": [
+      "## Notion 1 : le synonyme se vérifie dans une phrase",
+      "Deux mots sont synonymes quand on peut les échanger dans une phrase sans changer le sens. Le test de la phrase évite de confondre « mots de la même famille » et « mots de même sens ».",
+      "~ « Pérenne » : la phrase « une institution pérenne » devient « une institution durable » sans changer de sens. « Durable » est un synonyme ; « permanent » aussi, alors que « perméable » (qui laisse passer l'eau) n'est qu'une ressemblance de forme.",
+      "Pourquoi ce test fonctionne-t-il ? Parce qu'un mot n'a de sens précis que dans un contexte. Hors contexte, on se laisse guider par la forme ; en contexte, le sens apparaît.",
+      "? Quel est le synonyme de « sagace » : obtus, perspicace, sage, saccadé ? || Perspicace. Un esprit sagace comprend vite et bien. « Sage » est un piège de forme ; « obtus » est le contraire ; « saccadé » n'a aucun rapport.",
+      "## Notion 2 : l'antonyme est le contraire exact",
+      "Un antonyme s'oppose au mot sur le même axe de sens. « Prolixe » (qui parle ou écrit trop longuement) a pour contraire « concis », pas « muet » : on reste sur l'axe de la longueur du discours.",
+      "~ Léthargie (torpeur, inactivité) ↔ vivacité. Érudition (savoir étendu) ↔ ignorance. Pérenne ↔ éphémère. Véhément (emporté) ↔ calme, mesuré.",
+      "! Un mot négatif construit avec un préfixe n'est pas toujours le contraire attendu : le contraire de « probité » (honnêteté scrupuleuse) est « malhonnêteté » ou « improbité », pas « probabilité ».",
+      "## Notion 3 : les paronymes, le piège favori",
+      "Les paronymes sont des mots de forme proche et de sens différent. Le concours propose le bon mot et son paronyme : seul le sens tranche.",
+      "- Acception (sens d'un mot) / acceptation (fait d'accepter).",
+      "- Affliger (attrister) / infliger (imposer une peine).",
+      "- Collusion (entente secrète) / collision (choc).",
+      "- Conjecture (supposition) / conjoncture (situation du moment).",
+      "- Éminent (remarquable) / imminent (sur le point d'arriver).",
+      "- Effraction (fait de forcer une entrée) / infraction (violation d'une règle).",
+      "- Prodige (merveille) / prodigue (qui dépense sans compter).",
+      "- Recouvrer (récupérer : recouvrer l'impôt, recouvrer la santé) / recouvrir (couvrir de nouveau).",
+      "- Inclinaison (état de ce qui penche) / inclination (penchant, goût).",
+      "~ « Le Trésor public est chargé de recouvrer l'impôt » : on récupère une somme due, donc « recouvrer ». « Recouvrir l'impôt » n'a aucun sens.",
+      "? Complétez : « Le cambrioleur est entré par … » (effraction / infraction). || Effraction : il a forcé l'entrée. L'infraction est la violation d'une règle en général ; l'effraction en est une forme précise (forcer une porte, une serrure).",
+      "## Notion 4 : l'intrus et l'analogie demandent de nommer une relation",
+      "Pour l'intrus, cherchez d'abord une catégorie de sens (métiers, sentiments, institutions). Les catégories de forme (nombre de lettres, première lettre) ne sont presque jamais la bonne clé.",
+      "~ Intrus parmi « préfet, sous-préfet, maire, gouverneur de district » : le maire est le seul élu de la liste ; les trois autres représentent l'État et sont nommés. La catégorie « nommé par l'État » révèle l'intrus.",
+      "Pour l'analogie, formulez la relation entre A et B en une phrase complète : « le juge rend le jugement », « le pinceau est l'outil du peintre », « la sécheresse cause la famine ».",
+      "? « Plume est à écrivain ce que bistouri est à … » || Chirurgien. Relation : outil de travail du métier. Un « hôpital » (lieu) ou un « malade » (patient) ne respectent pas la relation.",
+      "## Notion 5 : l'orthographe d'usage",
+      "Certains mots se retiennent par cœur, faute de règle : développement, connexion, appeler, apercevoir, occurrence, accueil, hypoténuse. Un rai de lumière (rayon) ; des rets (filet, piège)."
+     ],
+     "retenir": [
+      "Définissez le mot avant de lire les propositions.",
+      "Un synonyme se vérifie en remplaçant le mot dans une phrase : le sens doit rester le même.",
+      "L'antonyme est le contraire sur le même axe de sens : prolixe ↔ concis.",
+      "Le distracteur le plus fréquent est un paronyme : conjecture / conjoncture, effraction / infraction.",
+      "Recouvrer, c'est récupérer (l'impôt, la santé) ; recouvrir, c'est couvrir de nouveau.",
+      "Pour une analogie, nommez la relation en une phrase avant de chercher la réponse.",
+      "Pour un intrus, cherchez une catégorie de sens, pas une catégorie de forme."
+     ],
+     "exo": {
+      "tag": "voc",
+      "n": 12
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "p2",
+     "rev": 2,
+     "m": "cg",
+     "titre": "Aptitude verbale 2 : accords, pluriels et conjugaison",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez appliquer une procédure unique pour tout accord, former les pluriels difficiles et éviter les pièges de conjugaison les plus fréquents des QCM.",
+      "## La procédure en trois questions pour tout accord",
+      "- Quel mot commande l'accord ? (le sujet pour un verbe, le nom pour un adjectif, le sujet ou le COD pour un participe passé)",
+      "- Où est-il placé ? (avant ou après le verbe ou le participe)",
+      "- Quel auxiliaire est employé ? (être ou avoir)",
+      "> Participe passé avec être : accord avec le sujet. Avec avoir : accord avec le COD seulement s'il est placé avant (« les lettres que j'ai écrites »). Ces cas sont détaillés dans les niveaux suivants.",
+      "## Dans un QCM",
+      "- Lisez la phrase entière avant de regarder les propositions.",
+      "- Appliquez la procédure et formez vous-même la bonne réponse.",
+      "- Cherchez-la ensuite parmi les propositions ; méfiez-vous de celles qui ne diffèrent que d'une lettre.",
+      "! Le piège est presque toujours une forme qui « sonne » juste : « nous recourerons », « il dissoud », « après qu'il soit parti »."
+     ],
+     "fond": [
+      "## Notion 1 : le pluriel des noms composés",
+      "Règle de fond : seuls les mots qui varient d'eux-mêmes (le nom et l'adjectif) peuvent prendre la marque du pluriel. Le verbe, l'adverbe et la préposition restent invariables, parce qu'ils ne sont jamais au pluriel en français.",
+      "~ Un chou-fleur → des choux-fleurs : deux noms, les deux s'accordent.",
+      "~ Un arc-en-ciel → des arcs-en-ciel : « en » est une préposition, « ciel » complète « arc » ; seul « arc » prend la marque du pluriel.",
+      "~ Un brise-glace → des brise-glaces (orthographe rectifiée de 1990) : « brise » est le verbe briser, invariable ; le nom prend la marque du pluriel quand le mot composé est au pluriel.",
+      "! Certains sujets suivent l'usage traditionnel antérieur à 1990. Choisissez toujours la forme où le verbe reste invariable et où le nom porte la marque.",
+      "? Quel est le pluriel de « un sous-préfet » ? || Des sous-préfets. « Sous » est une préposition (invariable), « préfet » est un nom (il s'accorde).",
+      "## Notion 2 : les pluriels irréguliers",
+      "- -al → -aux (un journal, des journaux), sauf bals, carnavals, chacals, festivals, récitals, régals.",
+      "- -ou → -ous (des trous), sauf sept noms en -oux : bijoux, cailloux, choux, genoux, hiboux, joujoux, poux.",
+      "- -eu → -eux (des cheveux), sauf bleus, pneus, émeus, lieus (le poisson) ; un lieu (endroit) donne des lieux.",
+      "Pourquoi ces exceptions ? Ce sont des héritages de l'histoire de la langue : ils ne se déduisent pas, ils s'apprennent. Une phrase mnémotechnique aide : « Viens, mon chou, mon bijou, mon joujou, sur mes genoux, et jette des cailloux à ce hibou plein de poux. »",
+      "? Pluriel de « festival » et de « canal » ? || Des festivals (exception en -als) et des canaux (règle générale -al → -aux).",
+      "## Notion 3 : les conjugaisons piégées",
+      "- Courir, mourir, recourir, parcourir : deux r au futur et au conditionnel (nous recourrons, ils mourraient), un seul r à l'imparfait (nous recourions). Pourquoi ? Le futur se forme sur l'infinitif « courir » qui perd son i : cour-r-ons.",
+      "- Dissoudre, résoudre, absoudre : il dissout, il résout, il absout (avec un t, sans d). Participe : dissous, dissoute ; résolu.",
+      "- Acquiescer : ils acquiescent, nous acquiesçons (cédille devant a et o pour garder le son « s »).",
+      "- Envoyer : j'enverrai, j'enverrais (futur et conditionnel irréguliers).",
+      "~ « Si le comité le décide, nous recourrons à un vote. » Futur de recourir : deux r. Comparez : « Autrefois, nous recourions souvent au vote » (imparfait, un seul r).",
+      "? Corrigez si nécessaire : « Le Parlement a été dissout par décret. » || « Dissous ». Le participe passé masculin de dissoudre est « dissous » (féminin : dissoute). « Dissout » est la 3e personne du présent : « il dissout ».",
+      "## Notion 4 : indicatif ou subjonctif ?",
+      "- Le subjonctif exprime ce qui est envisagé, souhaité ou douteux : après « je doute que », « bien que », « pour que », « avant que », « il faut que ».",
+      "- L'indicatif exprime un fait réel ou certain : après « après que », car l'action est déjà accomplie.",
+      "~ « Bien qu'il soit compétent, il n'a pas été retenu. » (subjonctif : bien que) — « Après qu'il est parti, la réunion a repris. » (indicatif : après que).",
+      "- Système hypothétique : si + imparfait → conditionnel présent ; si + plus-que-parfait → conditionnel passé. Jamais de conditionnel après « si ».",
+      "~ « Si les crédits étaient votés, le projet démarrerait. » / « Si les crédits avaient été votés, le projet aurait démarré. »",
+      "## Notion 5 : les homophones grammaticaux",
+      "- Quoique (= bien que) / quoi que (= quelle que soit la chose que) : « Quoi qu'il dise, il ne convaincra pas. »",
+      "- Quelque (= un peu de, environ) / quel que (devant le verbe être) : « Quelle que soit la décision… »",
+      "- Davantage (= plus) / d'avantage (= de bénéfice) : « Il n'a pas d'avantage à attendre. »",
+      "- Près de (= proche de, sur le point de) / prêt à (= préparé à)."
+     ],
+     "retenir": [
+      "Pour tout accord : quel mot commande, où est-il placé, quel auxiliaire.",
+      "Dans un nom composé, seuls le nom et l'adjectif prennent la marque du pluriel : des arcs-en-ciel, des sous-préfets.",
+      "Bijou, caillou, chou, genou, hibou, joujou, pou prennent un x au pluriel.",
+      "Futur et conditionnel de courir et ses composés : deux r (nous recourrons) ; imparfait : un r.",
+      "Il dissout (présent) ; dissous, dissoute (participe passé).",
+      "Après que + indicatif ; bien que, pour que, avant que + subjonctif.",
+      "Si + imparfait → conditionnel présent ; jamais de conditionnel après si."
+     ],
+     "exo": {
+      "tag": "gram",
+      "n": 12
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "L20261013fr04",
+     "rev": 2,
+     "m": "fr",
+     "titre": "Nature et fonction des mots",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez reconnaître la classe d'un mot (sa nature) et son rôle dans la phrase (sa fonction), base de tous les accords.",
+      "## Pourquoi c'est important",
+      "Les QCM d'aptitude verbale demandent parfois directement la nature ou la fonction d'un mot. Mais surtout, tous les accords en dépendent : le verbe s'accorde avec son sujet, le participe avec le COD placé avant, l'adjectif avec le nom. Sans fonction, pas d'accord juste.",
+      "## La méthode en trois questions",
+      "- Nature : le mot change-t-il de forme (nom, déterminant, adjectif, pronom, verbe) ou est-il invariable (adverbe, préposition, conjonction, interjection) ?",
+      "- Fonction : posez la question au verbe. « Qui est-ce qui ? » donne le sujet ; « quoi ? » ou « qui ? » juste après le verbe donne le COD ; « à qui ? », « de quoi ? » donne le COI ; « où ? quand ? comment ? pourquoi ? » donne un complément circonstanciel.",
+      "- Test du déplacement : un complément circonstanciel se déplace ou se supprime ; un COD ou un COI, en général, non.",
+      "! Ne confondez pas nature et fonction : « la note » est toujours un groupe nominal (nature), mais il peut être sujet, COD, COI ou complément selon la phrase."
+     ],
+     "fond": [
+      "## Notion 1 : les classes de mots (la nature)",
+      "La nature d'un mot est sa carte d'identité : elle ne change pas d'une phrase à l'autre, sauf pour quelques mots à plusieurs emplois.",
+      "- Mots variables : le nom, le déterminant (le, un, ce, mon, quelques), l'adjectif qualificatif, le pronom (il, que, dont, celui-ci), le verbe.",
+      "- Mots invariables : l'adverbe (vite, très, hier), la préposition (à, de, dans, pour, sans), la conjonction de coordination (mais, ou, et, donc, or, ni, car), la conjonction de subordination (que, quand, si, lorsque, puisque), l'interjection.",
+      "Pourquoi distinguer variable et invariable ? Parce qu'un mot invariable ne s'accorde jamais : si vous identifiez un adverbe, la question de l'accord ne se pose plus.",
+      "## Notion 2 : les mots à double emploi",
+      "Certains mots changent de nature selon leur emploi. Ce sont eux que le concours choisit.",
+      "~ « Que » : conjonction de subordination dans « Je pense que tu as raison » (il relie deux propositions sans rien remplacer) ; pronom relatif dans « le dossier que j'ai lu » (il remplace « le dossier »).",
+      "~ « Leur » : pronom personnel devant un verbe, toujours invariable (« Je leur écris ») ; déterminant possessif devant un nom, il s'accorde (« leurs dossiers »).",
+      "~ « Tout » : adverbe devant un adjectif (« ils sont tout contents » = très contents) ; déterminant devant un nom (« tous les candidats »).",
+      "? Dans « Le ministre leur a remis leurs attestations », quelle est la nature de chaque « leur » ? || Le premier, devant le verbe « a remis », est un pronom personnel invariable (= à eux). Le second, devant le nom « attestations », est un déterminant possessif, accordé au pluriel.",
+      "## Notion 3 : les fonctions autour du verbe",
+      "- Sujet : il fait ou subit l'action et commande l'accord du verbe. Question : « qui est-ce qui ? ».",
+      "- COD (complément d'objet direct) : construit sans préposition. « Il signe la note » → il signe quoi ? la note.",
+      "- COI (complément d'objet indirect) : introduit par une préposition imposée par le verbe. « Il parle à son supérieur », « Il se souvient de la date ».",
+      "- Attribut du sujet : relié au sujet par un verbe d'état (être, paraître, sembler, devenir, rester, demeurer). « Elle paraît fatiguée » : « fatiguée » qualifie le sujet.",
+      "- Attribut du COD : il qualifie le COD avec des verbes comme nommer, élire, juger, rendre. « On l'a nommé préfet. »",
+      "~ « Le jury a jugé la copie excellente. » Le jury a jugé quoi ? la copie (COD). « Excellente » qualifie la copie par l'intermédiaire du verbe juger : attribut du COD.",
+      "? Quelle est la fonction de « directeur » dans « Le conseil l'a élu directeur » ? || Attribut du COD. Le COD est « l' » (le conseil a élu qui ? lui) ; « directeur » dit ce que le COD est devenu grâce au verbe élire.",
+      "## Notion 4 : les fonctions autour du nom et les compléments circonstanciels",
+      "- Complément du nom : il précise un nom, souvent avec « de » : « la réforme du code ».",
+      "- Apposition : groupe détaché par des virgules qui désigne la même réalité qu'un nom : « Le ministre, homme d'expérience, a répondu ».",
+      "- Complément circonstanciel : il indique le lieu, le temps, la manière, la cause, le but… Il est mobile et souvent supprimable.",
+      "~ « Dans la salle, les candidats composent en silence. » On peut écrire « Les candidats composent » : « dans la salle » (lieu) et « en silence » (manière) sont des compléments circonstanciels.",
+      "? Dans « Il pense à son examen », « à son examen » est-il un COI ou un complément circonstanciel ? || Un COI. La préposition « à » est imposée par le verbe (« penser à quelque chose ») et le groupe ne peut ni se déplacer ni se supprimer sans changer le sens de la phrase."
+     ],
+     "retenir": [
+      "Nature = ce qu'est le mot ; fonction = ce qu'il fait dans la phrase.",
+      "Un mot invariable (adverbe, préposition, conjonction) ne s'accorde jamais.",
+      "« Que » est pronom relatif s'il a un antécédent, conjonction sinon.",
+      "« Leur » devant un verbe est un pronom invariable ; devant un nom, un déterminant qui s'accorde.",
+      "Questions au verbe : qui est-ce qui ? (sujet), quoi ? (COD), à qui ? de quoi ? (COI).",
+      "Verbe d'état + adjectif ou nom = attribut du sujet.",
+      "Un complément circonstanciel se déplace ou se supprime ; un COI, non."
+     ],
+     "exo": {
+      "tag": "niv-fr04",
+      "n": 10
+     },
+     "niv": "fr04",
+     "verif": "regle"
+    },
+    {
+     "id": "L20261013fr05",
+     "rev": 2,
+     "m": "fr",
+     "titre": "L'accord du verbe avec son sujet",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez trouver le vrai sujet d'un verbe dans toutes les situations piégées du concours et accorder le verbe sans erreur.",
+      "## Ce que demande le concours",
+      "Les QCM proposent une phrase à trou et quatre formes du verbe. Le piège ne porte jamais sur le verbe lui-même mais sur son sujet : sujet inversé, sujet éloigné, plusieurs sujets de personnes différentes, pronom relatif « qui », expression de quantité.",
+      "## La méthode",
+      "- Trouvez le vrai sujet en posant la question « qui est-ce qui ? » devant le verbe, même si le sujet est placé après lui.",
+      "- Remplacez le sujet par un pronom (il, elle, ils, nous, vous) pour vérifier la personne et le nombre.",
+      "- Avec « qui », remontez à l'antécédent : c'est lui qui donne la personne.",
+      "! Dans une relative introduite par « que », le sujet est souvent inversé : « les dossiers que m'a envoyés le directeur » (sujet : le directeur)."
+     ],
+     "fond": [
+      "## Notion 1 : le principe",
+      "Le verbe s'accorde en personne et en nombre avec son sujet. Le sujet est le mot (ou le groupe) qui répond à « qui est-ce qui ? » ou « qu'est-ce qui ? » posée devant le verbe.",
+      "Pourquoi le concours piège-t-il le sujet ? Parce que, à l'oral, la plupart des terminaisons verbales se prononcent de la même façon (il travaille, ils travaillent). Seule l'analyse permet d'écrire juste.",
+      "## Notion 2 : plusieurs sujets",
+      "- Deux sujets ou plus coordonnés par « et » : verbe au pluriel. « Le préfet et le maire sont présents. »",
+      "- Personnes différentes : la 1re personne l'emporte sur les deux autres, la 2e sur la 3e. Astuce : remplacez l'ensemble par le pronom qui le résume (toi et moi = nous ; lui et toi = vous).",
+      "~ « Toi et moi sommes convoqués » (= nous sommes) ; « Lui et toi êtes du même avis » (= vous êtes).",
+      "? Complétez : « Ma collègue et moi … (prendre) la parole demain. » || Prendrons. « Ma collègue et moi » = nous : 1re personne du pluriel.",
+      "## Notion 3 : le pronom relatif « qui »",
+      "« Qui » n'a ni personne ni nombre par lui-même : il prend ceux de son antécédent, c'est-à-dire du mot qu'il remplace.",
+      "~ « C'est moi qui suis responsable » (qui = moi → je suis) ; « C'est vous qui êtes attendus » (qui = vous → vous êtes).",
+      "! L'erreur fréquente : « C'est moi qui est » ou « C'est nous qui ont ». Le verbe ne s'accorde jamais à la 3e personne par défaut après « qui ».",
+      "? Complétez : « C'est nous qui … (avoir) rédigé ce rapport. » || Avons. L'antécédent de « qui » est « nous » : 1re personne du pluriel.",
+      "## Notion 4 : les expressions de quantité",
+      "- « La plupart » suivi d'un complément au pluriel (ou employé seul) : verbe au pluriel. « La plupart des candidats sont en retard. »",
+      "- « Chacun », « tout le monde », « personne » : verbe au singulier. « Chacun des candidats a reçu sa convocation. »",
+      "- « Plus d'un » : singulier, malgré le sens pluriel. « Plus d'un candidat a échoué. »",
+      "- « Moins de deux » : pluriel, accord avec le nom qui suit. « Moins de deux candidats sont absents. »",
+      "- Nom collectif suivi d'un complément (une foule de, un groupe de, une partie de) : accord avec le collectif ou avec le complément, selon ce que l'on veut mettre en avant ; les deux sont acceptés.",
+      "~ « Une foule de candidats attendait » (on voit la foule comme un bloc) ou « attendaient » (on voit les candidats un à un).",
+      "Pourquoi « plus d'un » au singulier et « moins de deux » au pluriel ? L'accord se fait avec le nombre écrit : « un » est singulier, « deux » est pluriel. La logique du sens importe moins que la forme grammaticale.",
+      "## Notion 5 : le sujet inversé ou éloigné",
+      "- Le verbe s'accorde avec son sujet même placé après lui : « Où sont passées les convocations ? », « Les dossiers que m'a envoyés le directeur ».",
+      "- Un complément qui s'intercale entre le sujet et le verbe ne change rien : « Le rapport des inspecteurs sur les écoles du district est attendu. » (sujet : le rapport)",
+      "? Complétez : « Les attestations que … (signer) le directeur régional sont arrivées. » || A signées. Qui est-ce qui signe ? le directeur régional (sujet singulier, inversé). Le participe « signées » s'accorde avec le COD « que » (= les attestations), placé avant."
+     ],
+     "retenir": [
+      "Le sujet répond à « qui est-ce qui ? » posée devant le verbe, même s'il est placé après lui.",
+      "Plusieurs personnes : 1re > 2e > 3e ; toi et moi sommes, lui et toi êtes.",
+      "Après « qui », le verbe s'accorde avec l'antécédent : c'est moi qui suis, c'est nous qui avons.",
+      "La plupart des + pluriel → verbe au pluriel.",
+      "Chacun, tout le monde, plus d'un → singulier ; moins de deux → pluriel.",
+      "Un complément placé entre le sujet et le verbe ne change pas l'accord."
+     ],
+     "exo": {
+      "tag": "niv-fr05",
+      "n": 10
+     },
+     "niv": "fr05",
+     "verif": "regle"
+    },
+    {
+     "id": "L20261013fr06",
+     "rev": 2,
+     "m": "fr",
+     "titre": "L'accord de l'adjectif ; les adjectifs de couleur",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez accorder l'adjectif dans tous les cas, y compris les adjectifs de couleur et les mots piégés demi, nu et feu.",
+      "## Ce que demande le concours",
+      "Les adjectifs de couleur et quelques adjectifs particuliers sont des classiques des QCM d'orthographe grammaticale. Une poignée de règles et d'exceptions suffit à ne plus jamais se tromper.",
+      "## La méthode",
+      "- Repérez le ou les noms auxquels se rapporte l'adjectif, leur genre et leur nombre.",
+      "- Pour une couleur, demandez-vous : est-ce un adjectif de couleur simple, un nom employé comme couleur, ou une couleur en deux mots ?",
+      "- Pour demi, nu et feu, regardez la place de l'adjectif : avant ou après le nom.",
+      "- Pour plusieurs noms de genres différents, pensez « masculin pluriel ».",
+      "- Relisez enfin la phrase en vous demandant si chaque adjectif « colle » bien à son nom.",
+      "! Le mot « orange » est d'abord un fruit : employé comme couleur, il reste invariable. C'est le piège type."
+     ],
+     "fond": [
+      "## Notion 1 : la règle générale",
+      "L'adjectif qualificatif s'accorde en genre et en nombre avec le nom qu'il qualifie, qu'il soit épithète (« une décision importante ») ou attribut (« la décision est importante »).",
+      "- Plusieurs noms : l'adjectif se met au pluriel.",
+      "- Noms de genres différents : masculin pluriel. « Un manteau et une veste noirs. »",
+      "~ « Le préfet et la sous-préfète sont satisfaits » : masculin pluriel, car l'un des noms est masculin.",
+      "Conseil de style : placez le nom masculin près de l'adjectif masculin (« une veste et un manteau noirs ») pour que la phrase sonne naturellement.",
+      "## Notion 2 : les adjectifs de couleur",
+      "La question à se poser : le mot de couleur est-il un vrai adjectif, ou un nom de chose employé pour désigner une couleur ?",
+      "- Vrai adjectif de couleur (vert, bleu, noir, blanc, jaune, rouge, gris) : il s'accorde. « Des robes vertes. »",
+      "- Nom employé comme couleur (orange, marron, crème, olive, chocolat, kaki, turquoise) : invariable, car on sous-entend « de la couleur de l'orange, du marron ». « Des robes orange », « des tables marron ».",
+      "- Six exceptions, devenues de vrais adjectifs, s'accordent : rose, mauve, fauve, écarlate, pourpre, incarnat. « Des chemises roses. »",
+      "- Couleur composée de deux mots : invariable. « Des yeux bleu clair », « des fleurs rouge orangé ».",
+      "- « Châtain » s'accorde en nombre : « des cheveux châtains ».",
+      "~ « Des uniformes kaki et des bérets verts » : « kaki » (à l'origine un nom) reste invariable, « vert » s'accorde.",
+      "? Accordez : « des rideaux (bleu foncé) », « des tissus (rose) », « des voitures (marron) ». || Des rideaux bleu foncé (couleur en deux mots, invariable) ; des tissus roses (exception qui s'accorde) ; des voitures marron (nom employé comme couleur, invariable).",
+      "## Notion 3 : demi",
+      "- Avant le nom : invariable et relié par un trait d'union. « Une demi-heure », « des demi-journées ».",
+      "- Après le nom (« et demi ») : accord en genre seulement, jamais en nombre. « Une heure et demie », « deux heures et demie », « midi et demi » (midi est masculin), « minuit et demi ».",
+      "Pourquoi pas de pluriel après le nom ? Parce que « demie » se rapporte à une seule unité : « deux heures et demie » = deux heures et une demi-heure.",
+      "? Écrivez correctement : « La séance a duré trois heures et (demi) » et « Il faut une (demi) journée ». || Trois heures et demie (accord au féminin avec « heure », pas de pluriel) ; une demi-journée (avant le nom : invariable, trait d'union).",
+      "## Notion 4 : nu et feu",
+      "- « Nu » avant le nom : invariable, avec trait d'union : « nu-pieds », « nu-tête ». Après le nom : il s'accorde : « pieds nus », « tête nue ».",
+      "- « Feu » (= défunt) : invariable devant le déterminant (« feu la reine ») ; accordé entre le déterminant et le nom (« la feue reine »).",
+      "~ « Il marchait nu-pieds » mais « il marchait pieds nus ». « Feu ma tante » mais « ma feue tante ».",
+      "? Écrivez correctement : « Les enfants couraient (nu)-pieds » et « Ils sont sortis tête (nu) ». || Nu-pieds (avant le nom : invariable, trait d'union) ; tête nue (après le nom : accord avec « tête », féminin singulier)."
+     ],
+     "retenir": [
+      "L'adjectif s'accorde avec le nom ; masculin + féminin = masculin pluriel.",
+      "Nom employé comme couleur = invariable : orange, marron, kaki.",
+      "Rose, mauve, fauve, écarlate, pourpre, incarnat s'accordent.",
+      "Couleur en deux mots = invariable : bleu clair, rouge orangé.",
+      "Demi- et nu- avant le nom : invariables avec trait d'union.",
+      "Après le nom : une heure et demie (genre seulement), pieds nus.",
+      "Feu la reine, mais la feue reine."
+     ],
+     "exo": {
+      "tag": "niv-fr06",
+      "n": 10
+     },
+     "niv": "fr06",
+     "verif": "regle"
+    },
+    {
+     "id": "L20261013fr07",
+     "rev": 2,
+     "m": "fr",
+     "titre": "Le participe passé avec être et avec avoir",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez accorder le participe passé employé avec être et avec avoir, y compris quand il est suivi d'un infinitif ou employé avec « en ».",
+      "## Ce que demande le concours",
+      "L'accord du participe passé est la question d'orthographe la plus fréquente des concours administratifs. Les QCM jouent sur trois pièges : le COD placé avant l'auxiliaire avoir, le participe suivi d'un infinitif, et les participes toujours invariables.",
+      "## La méthode en quatre questions",
+      "- Quel est l'auxiliaire ? Être : accord avec le sujet. Avoir : passez à la question suivante.",
+      "- Y a-t-il un COD ? (le verbe + « quoi ? » ou « qui ? »)",
+      "- Ce COD est-il placé avant le verbe ? (souvent « que », « l' », « les », « la », « me », « nous »). Si oui, accord avec lui ; sinon, participe invariable.",
+      "- Le participe est-il suivi d'un infinitif ? Accord seulement si le COD placé avant fait l'action de l'infinitif.",
+      "! « Fait » suivi d'un infinitif est toujours invariable : « Elle s'est fait couper les cheveux »."
+     ],
+     "fond": [
+      "## Notion 1 : avec l'auxiliaire être",
+      "Le participe passé employé avec être se comporte comme un adjectif attribut : il s'accorde avec le sujet.",
+      "~ « Les candidates sont arrivées hier. » Qui est-ce qui est arrivé ? les candidates : féminin pluriel.",
+      "? Accordez : « La séance a été (lever) à midi. » || Levée. Avec « a été », l'auxiliaire est être (voix passive) : accord avec le sujet « la séance ».",
+      "## Notion 2 : avec l'auxiliaire avoir",
+      "Le participe ne s'accorde jamais avec le sujet. Il s'accorde avec le COD seulement si ce COD est placé avant le verbe.",
+      "Pourquoi cette règle ? Quand on écrit le participe, on sait déjà ce qui a été fait si le COD a été annoncé avant ; s'il vient après, on ne le connaît pas encore, et le participe reste au masculin singulier.",
+      "~ « Les lettres que j'ai écrites » : j'ai écrit quoi ? « que », mis pour « les lettres », placé avant → écrites.",
+      "~ « J'ai écrit les lettres » : le COD « les lettres » vient après → écrit, invariable.",
+      "~ « Elles ont travaillé toute la nuit » : pas de COD (« toute la nuit » répond à « combien de temps ? ») → invariable.",
+      "? Accordez : « Les mesures que le gouvernement a (prendre) sont saluées. » || Prises. Le gouvernement a pris quoi ? « que », mis pour « les mesures » (féminin pluriel), placé avant l'auxiliaire avoir.",
+      "## Notion 3 : les participes qui restent invariables",
+      "- Avec « en » comme COD : participe invariable selon la règle traditionnelle. « Des pommes, j'en ai mangé trois. »",
+      "- Verbes impersonnels : « les décisions qu'il a fallu prendre », « les orages qu'il y a eu ».",
+      "- Compléments de durée, de prix ou de mesure avec dormir, vivre, durer, coûter, peser (au sens propre) : ce ne sont pas des COD. « Les deux heures qu'il a dormi », « les mille francs que ce livre a coûté ».",
+      "- Au sens figuré, coûter, valoir ou peser ont un vrai COD : « les efforts que cette réforme a coûtés ».",
+      "? Accordez : « Les sommes qu'il a (falloir) mobiliser. » || Fallu. « Falloir » est impersonnel : son participe est toujours invariable.",
+      "## Notion 4 : le participe suivi d'un infinitif",
+      "Posez la question : le COD placé avant fait-il l'action exprimée par l'infinitif ? Si oui, accord ; sinon, invariable.",
+      "~ « La chanteuse que j'ai entendue chanter » : c'est la chanteuse qui chante → entendue.",
+      "~ « Les chansons que j'ai entendu chanter » : les chansons ne chantent pas, elles sont chantées → entendu.",
+      "- « Fait » + infinitif est toujours invariable : « les maisons qu'il a fait construire ». Depuis les rectifications de 1990, « laissé » + infinitif peut aussi rester invariable."
+     ],
+     "retenir": [
+      "Avec être, le participe s'accorde avec le sujet.",
+      "Avec avoir, accord avec le COD seulement s'il est placé avant le verbe.",
+      "Pas de COD, ou COD placé après : participe invariable.",
+      "Verbes impersonnels (il a fallu) et « fait » + infinitif : toujours invariables.",
+      "Durée ou prix au sens propre (dormi, coûté) : invariables ; coûter au sens figuré s'accorde.",
+      "+ infinitif : accord si le COD placé avant fait l'action de l'infinitif."
+     ],
+     "exo": {
+      "tag": "niv-fr07",
+      "n": 10
+     },
+     "niv": "fr07",
+     "verif": "regle"
+    },
+    {
+     "id": "p3",
+     "rev": 2,
+     "m": "cg",
+     "titre": "Culture générale 1 : la Côte d'Ivoire, repères essentiels",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer les grandes dates de l'histoire politique ivoirienne, nommer les symboles de l'État, décrire l'organisation du territoire et citer les repères culturels et sportifs que le concours aime interroger.",
+      "## Ce que demande le concours",
+      "La présélection pose des questions directes sur la Côte d'Ivoire : une date, un symbole, une institution, un écrivain, un palmarès. À l'écrit, ces repères servent d'exemples précis : un jury valorise une copie qui cite « la Constitution du 8 novembre 2016 » plutôt que « la Constitution actuelle ».",
+      "## La méthode pour retenir sans se noyer",
+      "- Travaillez par fiches courtes : une date, un fait, une conséquence.",
+      "- Reliez chaque date à une histoire : la mémoire retient mieux les récits que les listes.",
+      "- Récitez la fiche de mémoire avant de la relire : c'est l'effort de rappel qui fixe le souvenir (les rappels espacés de l'appli s'en chargent).",
+      "- Suivez l'actualité dans la presse nationale (Fraternité Matin, AIP) : certaines questions portent sur des faits récents.",
+      "! Les chiffres qui changent (budget, population, titulaires de fonctions) doivent être vérifiés dans l'actualité juste avant le concours."
+     ],
+     "fond": [
+      "## Notion 1 : les grandes dates politiques",
+      "- 7 août 1960 : indépendance. Félix Houphouët-Boigny devient le premier président ; il le restera jusqu'à son décès, le 7 décembre 1993.",
+      "- 1983 : Yamoussoukro devient la capitale politique ; Abidjan reste la capitale économique, siège de l'essentiel de l'activité et du port.",
+      "- 1990 : retour au multipartisme, après trente ans de parti unique.",
+      "- 2016 : nouvelle Constitution, adoptée par référendum le 30 octobre et promulguée le 8 novembre ; elle fonde la IIIᵉ République.",
+      "- 2020 : révision de la Constitution (19 mars).",
+      "Pourquoi ces dates comptent-elles ? Elles marquent les changements de régime politique : l'État indépendant (1960), l'ouverture démocratique (1990), le nouveau cadre institutionnel (2016). Dans une dissertation sur la démocratie ou les institutions, elles structurent un historique en trois temps.",
+      "~ Exemple d'usage à l'écrit : « Depuis le retour au multipartisme en 1990, la vie politique ivoirienne repose sur la compétition électorale ; la Constitution du 8 novembre 2016 en a renouvelé le cadre institutionnel. »",
+      "? Classez dans l'ordre chronologique : nouvelle Constitution, multipartisme, Yamoussoukro capitale politique, indépendance. || Indépendance (1960), Yamoussoukro capitale politique (1983), multipartisme (1990), nouvelle Constitution (2016).",
+      "## Notion 2 : les symboles de l'État",
+      "- Devise : Union – Discipline – Travail.",
+      "- Hymne national : l'Abidjanaise.",
+      "- Drapeau : trois bandes verticales orange, blanche et verte.",
+      "Ces symboles sont fixés par la Constitution : ils appartiennent à tous les citoyens et leur respect fait partie de l'éducation civique. Ils reviennent souvent dans les questions d'introduction de présélection.",
+      "! Ne confondez pas avec le drapeau de l'Irlande (vert, blanc, orange) : l'ordre des couleurs est inversé.",
+      "## Notion 3 : l'économie en repères",
+      "- La Côte d'Ivoire est le premier producteur mondial de cacao, devant le Ghana.",
+      "- Sa monnaie est le franc CFA, émis par la BCEAO pour les huit États de l'UEMOA.",
+      "- Le Plan national de développement 2026-2030 a été adopté en Conseil des ministres le 4 février 2026, avec un objectif de croissance moyenne de 7,2 % par an (source : APA News).",
+      "Pourquoi le cacao est-il un sujet de dissertation fréquent ? Parce qu'il illustre à la fois la force de l'économie ivoirienne (recettes d'exportation, emplois ruraux) et sa fragilité (dépendance aux prix mondiaux, faible transformation locale). C'est un exemple idéal pour un sujet sur la diversification ou la mondialisation.",
+      "? Dans une copie sur la transformation de l'économie ivoirienne, comment utiliser l'exemple du cacao ? || En montrant le paradoxe : premier producteur mondial, mais une grande partie de la valeur ajoutée est captée ailleurs, faute de transformation locale suffisante. D'où l'intérêt des politiques de transformation sur place, que l'on peut relier aux objectifs du PND.",
+      "## Notion 4 : l'organisation du territoire",
+      "- 31 régions et 201 communes : ce sont les collectivités territoriales décentralisées, dirigées par des élus.",
+      "- 14 districts autonomes depuis 2021 : Abidjan, Yamoussoukro et 12 districts créés en 2021.",
+      "- Cadre juridique : loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'administration territoriale.",
+      "~ Distinction à maîtriser : la région et la commune sont des collectivités décentralisées (des élus gèrent les affaires locales) ; le préfet et le sous-préfet représentent l'État dans les circonscriptions administratives (déconcentration).",
+      "## Notion 5 : culture et sport",
+      "- Littérature : Bernard Dadié (Climbié, 1956), Ahmadou Kourouma (Les Soleils des Indépendances, 1968 ; Allah n'est pas obligé, prix Renaudot 2000), Véronique Tadjo.",
+      "- Bande dessinée : Aya de Yopougon, de Marguerite Abouet (scénario) et Clément Oubrerie (dessin).",
+      "- Football : la Côte d'Ivoire a remporté la Coupe d'Afrique des nations en 1992, en 2015 et lors de la CAN 2023, qu'elle a organisée début 2024.",
+      "? Quel écrivain ivoirien a reçu le prix Renaudot, et pour quel roman ? || Ahmadou Kourouma, pour Allah n'est pas obligé, en 2000. Ne confondez pas avec Les Soleils des Indépendances (1968), son premier roman."
+     ],
+     "retenir": [
+      "7 août 1960 : indépendance ; Félix Houphouët-Boigny président jusqu'à son décès le 7 décembre 1993.",
+      "1983 : Yamoussoukro capitale politique ; Abidjan capitale économique.",
+      "1990 : retour au multipartisme ; 2016 : Constitution de la IIIᵉ République, promulguée le 8 novembre.",
+      "Devise : Union – Discipline – Travail ; hymne : l'Abidjanaise ; drapeau orange, blanc, vert.",
+      "31 régions, 201 communes et 14 districts autonomes.",
+      "Premier producteur mondial de cacao ; monnaie : franc CFA émis par la BCEAO.",
+      "CAN remportée en 1992, 2015 et lors de la CAN 2023 organisée en 2024."
+     ],
+     "exo": {
+      "tag": "ci",
+      "n": 12
+     }
+    },
+    {
+     "id": "p4",
+     "rev": 2,
+     "m": "cg",
+     "titre": "Culture générale 2 : le monde et les organisations internationales",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez présenter les grandes organisations universelles et africaines (création, siège, rôle) et situer les tournants du monde contemporain.",
+      "## Ce que demande le concours",
+      "La présélection adore les questions de siège et de date : « Où siège la BCEAO ? », « En quelle année l'OUA a-t-elle été créée ? ». À l'écrit, ces organisations sont les acteurs de tous les sujets sur la paix, l'intégration ou le développement.",
+      "## La fiche type d'une organisation",
+      "Pour chaque organisation, retenez cinq éléments : date de création, siège, membres, mission, dirigeant actuel. Le dirigeant change : vérifiez-le dans l'actualité avant le concours.",
+      "## La méthode",
+      "- Construisez un tableau à deux colonnes « organisation / siège » et récitez-le de mémoire.",
+      "- Associez chaque siège à une logique : la BAD est à Abidjan, la BCEAO à Dakar, la BOAD à Lomé, l'UEMOA à Ouagadougou.",
+      "! Les distracteurs mélangent les sièges (Addis-Abeba, Abuja, Dakar, Ouagadougou, Lomé) : c'est le tableau, appris par cœur, qui vous sauve."
+     ],
+     "fond": [
+      "## Notion 1 : les organisations universelles",
+      "- ONU : Charte signée à San Francisco le 26 juin 1945 ; siège à New York ; 193 États membres. Sa mission première : maintenir la paix et la sécurité internationales.",
+      "- FMI et Banque mondiale : créés à la conférence de Bretton Woods en 1944, sièges à Washington. Le FMI veille à la stabilité monétaire et prête aux États en difficulté ; la Banque mondiale finance le développement.",
+      "- OMC : créée en 1995, siège à Genève ; elle fixe les règles du commerce international et règle les différends commerciaux.",
+      "Pourquoi l'ONU naît-elle en 1945 ? Pour éviter une troisième guerre mondiale, après l'échec de la Société des Nations à empêcher la Seconde. Ce lien de cause à effet est une bonne accroche pour un sujet sur la paix.",
+      "- Secrétaires généraux marquants : Trygve Lie (le premier), Dag Hammarskjöld (mort en 1961 dans un accident d'avion en Rhodésie du Nord, actuelle Zambie), Boutros Boutros-Ghali (Égyptien), Kofi Annan (Ghanéen, prix Nobel de la paix 2001).",
+      "? Quel secrétaire général de l'ONU, originaire d'un pays voisin de la Côte d'Ivoire, a reçu le prix Nobel de la paix en 2001 ? || Kofi Annan, Ghanéen. Ne le confondez pas avec Boutros Boutros-Ghali, son prédécesseur égyptien.",
+      "## Notion 2 : l'intégration africaine",
+      "- OUA : créée en 1963 à Addis-Abeba, pour soutenir les indépendances et la lutte contre la colonisation.",
+      "- Union africaine : lancée en 2002 à Durban, elle remplace l'OUA ; siège à Addis-Abeba. Elle va plus loin : paix et sécurité, intégration économique, gouvernance.",
+      "- CEDEAO : traité de Lagos du 28 mai 1975 ; siège à Abuja. Le retrait du Burkina Faso, du Mali et du Niger a pris effet le 29 janvier 2025 (communiqué de la CEDEAO).",
+      "- UEMOA : traité de Dakar du 10 janvier 1994 ; siège à Ouagadougou ; 8 États membres partageant le franc CFA.",
+      "- BCEAO (banque centrale des États de l'UEMOA) : Dakar. BOAD : Lomé. BAD : Abidjan.",
+      "- ZLECAf (Zone de libre-échange continentale africaine) : secrétariat à Accra.",
+      "~ Distinction à maîtriser : la CEDEAO est une communauté économique de toute l'Afrique de l'Ouest (anglophones, francophones, lusophones) ; l'UEMOA est une union économique et monétaire plus étroite, limitée aux États qui partagent le franc CFA.",
+      "? Un candidat écrit : « La BCEAO, dont le siège est à Abidjan, émet le franc CFA. » Corrigez. || Le siège de la BCEAO est à Dakar. C'est la Banque africaine de développement (BAD) qui a son siège à Abidjan.",
+      "## Notion 3 : les tournants du monde contemporain",
+      "- 1989 : chute du mur de Berlin ; 1991 : dissolution de l'URSS. Fin de la guerre froide et du monde bipolaire.",
+      "- 1990-1991 : guerre du Golfe, après l'invasion du Koweït par l'Irak en août 1990.",
+      "- G7 : Allemagne, Canada, États-Unis, France, Italie, Japon, Royaume-Uni. La Russie, membre du G8, en a été exclue en 2014.",
+      "- 2015 : Accord de Paris sur le climat (COP21) et adoption des 17 Objectifs de développement durable (Agenda 2030).",
+      "- Jeux olympiques d'été : Rio de Janeiro 2016, Tokyo 2020 (disputés en 2021), Paris 2024.",
+      "~ Exemple d'usage à l'écrit : « La fin de la guerre froide, symbolisée par la chute du mur de Berlin en 1989, a ouvert une ère de multilatéralisme renforcé, dont l'Agenda 2030 adopté par l'ONU en 2015 est une illustration. »",
+      "? Pourquoi parle-t-on de « monde bipolaire » avant 1991 ? || Parce que deux superpuissances, les États-Unis et l'URSS, dominaient les relations internationales et organisaient autour d'elles deux blocs rivaux. La dissolution de l'URSS en 1991 met fin à cette bipolarité."
+     ],
+     "retenir": [
+      "ONU : Charte signée le 26 juin 1945 à San Francisco ; siège à New York ; 193 États membres.",
+      "FMI et Banque mondiale : Bretton Woods, 1944, sièges à Washington ; OMC : 1995, Genève.",
+      "OUA 1963 ; Union africaine 2002 ; siège commun : Addis-Abeba.",
+      "CEDEAO : Lagos 1975, siège à Abuja ; UEMOA : Dakar 1994, siège à Ouagadougou.",
+      "BCEAO : Dakar · BOAD : Lomé · BAD : Abidjan · ZLECAf : Accra.",
+      "1989 chute du mur de Berlin, 1991 fin de l'URSS ; Russie exclue du G8 en 2014.",
+      "2015 : Accord de Paris (COP21) et 17 Objectifs de développement durable."
+     ],
+     "exo": {
+      "tag": "monde",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "CEDEAO, communiqué de presse du 29 janvier 2025 sur le retrait du Burkina Faso, du Mali et du Niger",
+       "u": "https://ecowas.int/wp-content/uploads/2025/01/FINAL_Communique-de-Presse_CEDEAO_Retrait-BURKINA_MALI_NIGER.pdf"
+      }
+     ]
+    },
+    {
+     "id": "p5",
+     "rev": 2,
+     "m": "ang",
+     "titre": "Anglais 1 : les temps et les structures piégées",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir entre present perfect et prétérit, employer so et such, former les comparatifs, les pluriels et féminins irréguliers, et construire les phrases au conditionnel.",
+      "## Ce que demande le concours",
+      "Les QCM d'anglais testent des points de grammaire précis, toujours les mêmes : temps du passé, so/such, comparatifs, pluriels et féminins irréguliers, prépositions, conditionnel. Chaque point se règle avec une règle courte.",
+      "## La méthode",
+      "- Lisez toute la phrase avant de regarder les propositions : le mot indicateur est souvent à la fin (since, ago, yet, already).",
+      "- Identifiez le point testé : temps, préposition, comparatif, so/such, pluriel.",
+      "- Éliminez les formes qui n'existent pas (more better, mouses, childs).",
+      "- Formez vous-même la bonne réponse avant de la chercher parmi les propositions : vous serez moins sensible aux pièges.",
+      "! Le français est un mauvais guide : « J'habite à Abidjan depuis 2015 » se dit au present perfect en anglais, pas au présent."
+     ],
+     "fond": [
+      "## Notion 1 : present perfect ou prétérit",
+      "- Present perfect (have + participe passé) : une action qui dure jusqu'à maintenant, ou dont le résultat compte maintenant. Indicateurs : since, for, already, yet, ever, never.",
+      "- Prétérit : une action terminée à un moment précis du passé. Indicateurs : ago, yesterday, last year, in 2015.",
+      "Pourquoi cette différence ? L'anglais sépare nettement le passé coupé du présent (prétérit) et le passé relié au présent (present perfect). Le français utilise souvent le même temps pour les deux.",
+      "~ She has lived in Abidjan since 2015. (Elle habite à Abidjan depuis 2015 : elle y habite encore.) / She moved to Abidjan in 2015. (Elle s'est installée à Abidjan en 2015 : moment précis, terminé.)",
+      "? Complétez : « I … (finish) the report two hours ago. » || I finished. « Ago » situe l'action à un moment précis du passé : prétérit.",
+      "## Notion 2 : so ou such",
+      "- So + adjectif ou adverbe : so tall, so quickly.",
+      "- So much + nom indénombrable (so much money), so many + nom dénombrable pluriel (so many people).",
+      "- Such + a/an + adjectif + nom singulier (such a good idea) ; such + adjectif + nom pluriel ou indénombrable (such good ideas, such bad weather).",
+      "~ The exam was so difficult that many candidates gave up. / It was such a difficult exam that many candidates gave up.",
+      "? Complétez : « There were … many applicants that the hall was full. » || So. « Many » appelle « so many ». « Such many » n'existe pas.",
+      "## Notion 3 : les comparatifs",
+      "- Adjectif court : -er (tall → taller) ; adjectif long : more (more important).",
+      "- Irréguliers : good → better → the best ; bad → worse → the worst ; far → further/farther.",
+      "- Progression parallèle : the more…, the better… (« The more you practise, the better you get »).",
+      "! « More better » est une double erreur : better est déjà un comparatif.",
+      "## Notion 4 : pluriels et féminins irréguliers",
+      "- Pluriels : man/men, woman/women, child/children, foot/feet, tooth/teeth, mouse/mice, louse/lice, goose/geese.",
+      "- Féminins d'animaux et de titres : horse → mare, fox → vixen, bull → cow, lion → lioness, duke → duchess.",
+      "## Notion 5 : le conditionnel en trois cas",
+      "- Réel : if + présent → will. « If it rains, the ceremony will be held indoors. »",
+      "- Irréel du présent : if + prétérit → would. « If I were minister, I would reform the system. » (were à toutes les personnes dans la langue soignée)",
+      "- Irréel du passé : if + past perfect → would have + participe. « If he had studied, he would have passed. »",
+      "? Complétez : « If she … (know) the answer, she would tell us. » || Knew. « Would » dans la principale indique l'irréel du présent : prétérit après if."
+     ],
+     "retenir": [
+      "Since, for, already, yet → present perfect ; ago, yesterday, last year → prétérit.",
+      "So + adjectif ; so much / so many + nom ; such a + adjectif + nom.",
+      "Good → better → the best ; bad → worse → the worst ; jamais « more better ».",
+      "Mouse → mice, louse → lice, goose → geese ; horse → mare, fox → vixen.",
+      "If + présent → will ; if + prétérit → would ; if + past perfect → would have.",
+      "« If I were » dans la langue soignée, à toutes les personnes."
+     ],
+     "exo": {
+      "tag": "ang1",
+      "n": 12
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "p6",
+     "rev": 2,
+     "m": "ang",
+     "titre": "Anglais 2 : vocabulaire administratif et faux amis",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez utiliser le vocabulaire anglais de l'administration et des finances publiques, déjouer les faux amis classiques et employer les bonnes prépositions.",
+      "## Ce que demande le concours",
+      "Les questions de vocabulaire portent sur des mots utiles à un futur cadre de l'administration (budget, politique publique, emploi) et sur les faux amis, ces mots anglais qui ressemblent à un mot français mais n'ont pas le même sens.",
+      "## La méthode",
+      "- Apprenez les mots par familles (administration, finances, emploi), chacun dans une phrase exemple.",
+      "- Lisez les phrases à voix haute : le mot en contexte se retient mieux qu'isolé.",
+      "- Face à un mot qui ressemble au français, posez-vous systématiquement la question : faux ami ?",
+      "- Révisez par petites séries de dix mots, en vous interrogeant dans les deux sens : du français vers l'anglais, puis de l'anglais vers le français.",
+      "! Les cinq faux amis les plus fréquents : actually, eventually, library, sensible, to achieve."
+     ],
+     "fond": [
+      "## Notion 1 : l'administration et les politiques publiques",
+      "- Civil servant : fonctionnaire. Civil service : fonction publique.",
+      "- Policy : politique publique (une stratégie d'action). Politics : la vie politique (partis, élections).",
+      "- Stakeholder : partie prenante. Accountability : obligation de rendre compte.",
+      "- To implement : mettre en œuvre. To carry out : mener à bien. To assess : évaluer.",
+      "~ The ministry will implement a new youth employment policy and assess its results after one year. (Le ministère mettra en œuvre une nouvelle politique d'emploi des jeunes et en évaluera les résultats au bout d'un an.)",
+      "? Traduisez : « Les fonctionnaires doivent rendre compte de leur action. » || Civil servants must be accountable for their actions. (ou : Civil servants are subject to accountability.)",
+      "## Notion 2 : les finances publiques et l'emploi",
+      "- Budget deficit : déficit budgétaire. Public debt : dette publique. Tax revenue : recettes fiscales.",
+      "- Unemployment rate : taux de chômage. Youth employment : emploi des jeunes. Skills : compétences.",
+      "~ The government reduced the budget deficit by increasing tax revenue. (Le gouvernement a réduit le déficit budgétaire en augmentant les recettes fiscales.)",
+      "~ The unemployment rate among young graduates remains high, so the policy focuses on skills. (Le taux de chômage des jeunes diplômés reste élevé : la politique met donc l'accent sur les compétences.)",
+      "## Notion 3 : les faux amis",
+      "Un faux ami trompe parce que sa forme rappelle un mot français. La seule défense : connaître le vrai sens.",
+      "- Actually = en fait (actuellement = currently).",
+      "- Eventually = finalement (éventuellement = possibly).",
+      "- Library = bibliothèque (librairie = bookshop).",
+      "- Sensible = raisonnable (sensible = sensitive).",
+      "- To achieve = accomplir, atteindre (achever = to finish).",
+      "- Agenda = ordre du jour d'une réunion (un agenda = a diary, a planner).",
+      "~ « Actually, the meeting has been postponed » signifie « En fait, la réunion a été reportée », et non « Actuellement… ».",
+      "? Que signifie : « Eventually, the reform was adopted » ? || Finalement, la réforme a été adoptée. « Eventually » ne veut jamais dire « éventuellement » (qui se dit possibly).",
+      "## Notion 4 : les prépositions imposées",
+      "- Interested in, depend on, responsible for, apply for (a job), apply to (an institution).",
+      "- Look forward to + verbe en -ing : « I look forward to hearing from you » (formule de fin de lettre).",
+      "! Après « look forward to », « to » est une préposition, pas la marque de l'infinitif : on écrit hearing, jamais hear.",
+      "? Complétez : « She applied … the position of administrative secretary. » || For. On postule à un emploi : apply for a job, a position. On s'adresse à une institution : apply to the ministry."
+     ],
+     "retenir": [
+      "Civil servant = fonctionnaire ; civil service = fonction publique.",
+      "Policy = politique publique ; politics = vie politique.",
+      "To implement a policy : mettre en œuvre une politique ; to assess : évaluer.",
+      "Actually = en fait ; eventually = finalement ; library = bibliothèque.",
+      "Sensible = raisonnable ; to achieve = atteindre, accomplir.",
+      "Apply for a job, apply to an institution.",
+      "Look forward to + -ing : I look forward to hearing from you."
+     ],
+     "exo": {
+      "tag": "ang2",
+      "n": 12
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "p7",
+     "rev": 2,
+     "m": "log",
+     "titre": "Logique 1 : suites, proportions et pourcentages",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez trouver le terme suivant d'une suite en moins de 30 secondes, calculer des pourcentages et des variations successives sans erreur, et résoudre les problèmes de proportionnalité, de vitesse, d'intérêts et de partage.",
+      "## Ce que demande le concours",
+      "Les aptitudes numériques de la présélection sont notées +2 / 0 / −2 : une erreur coûte cher, une méthode sûre rapporte beaucoup. Les questions portent sur des suites, des pourcentages, des prix, des âges, des partages.",
+      "## La méthode pour une suite",
+      "- Calculez les écarts entre termes consécutifs : s'ils sont constants, la suite est arithmétique.",
+      "- Si les écarts forment eux-mêmes une suite (2, 3, 4…), prolongez-la.",
+      "- Sinon, testez les rapports (×2, ×3) : suite géométrique.",
+      "- Pensez aussi aux carrés (1, 4, 9, 16), à Fibonacci (chaque terme est la somme des deux précédents), aux suites alternées (un terme sur deux).",
+      "- Pour des lettres, convertissez en rangs : A = 1, B = 2… Z = 26.",
+      "! Vérifiez toujours votre règle sur tous les termes donnés, pas seulement sur les deux premiers."
+     ],
+     "fond": [
+      "## Notion 1 : les suites",
+      "~ 3, 7, 11, 15, … : écarts +4, +4, +4 → suite arithmétique ; terme suivant 19.",
+      "~ 2, 3, 5, 8, 12, … : écarts +1, +2, +3, +4 → l'écart suivant est +5 ; terme suivant 17.",
+      "~ 1, 1, 2, 3, 5, 8, … : chaque terme est la somme des deux précédents (Fibonacci) → 13.",
+      "? Trouvez le terme suivant : 2, 6, 18, 54, … || 162. Les écarts (4, 12, 36) ne sont pas constants, mais les rapports le sont : chaque terme est multiplié par 3. 54 × 3 = 162.",
+      "## Notion 2 : les pourcentages",
+      "- Augmenter de t % revient à multiplier par (1 + t/100) ; baisser de t %, à multiplier par (1 − t/100).",
+      "- Deux variations successives se multiplient, elles ne s'additionnent pas.",
+      "- Taux de variation = (valeur finale − valeur initiale) / valeur initiale.",
+      "- Retrouver un prix hors taxe : prix TTC / (1 + taux de TVA).",
+      "Pourquoi « +10 % puis −10 % » ne ramène-t-il pas au point de départ ? Parce que la baisse s'applique à une valeur déjà augmentée : on retire 10 % d'un montant plus grand.",
+      "~ Un prix de 10 000 F augmente de 10 % : 10 000 × 1,1 = 11 000 F. Il baisse ensuite de 10 % : 11 000 × 0,9 = 9 900 F. Bilan : ×0,99, soit −1 %.",
+      "? Un article coûte 23 600 F TTC avec une TVA de 18 %. Quel est son prix hors taxe ? || 23 600 / 1,18 = 20 000 F. Erreur à éviter : retirer 18 % de 23 600 (on trouverait 19 352 F, faux, car la TVA se calcule sur le prix hors taxe).",
+      "## Notion 3 : la proportionnalité, directe et inverse",
+      "- Directe (règle de trois) : si 3 kg coûtent 1 500 F, 1 kg coûte 500 F, 7 kg coûtent 3 500 F.",
+      "- Inverse : plus d'ouvriers, moins de jours. Le produit reste constant : 5 ouvriers × 8 jours = 40 jours-ouvrier ; 10 ouvriers mettent 40 / 10 = 4 jours.",
+      "? 6 agents saisissent un fichier en 10 jours. Combien de jours faut-il à 4 agents ? || 6 × 10 = 60 jours-agent ; 60 / 4 = 15 jours. Moins d'agents, plus de jours : proportionnalité inverse.",
+      "## Notion 4 : vitesse, intérêts, partages",
+      "- Vitesse : d = v × t et t = d / v. Convertissez les décimales d'heure : 0,5 h = 30 min, 0,25 h = 15 min.",
+      "- Intérêts simples : I = C × t × n. 1 000 000 F à 5 % sur 3 ans rapportent 150 000 F.",
+      "- Intérêts composés : C × (1 + t)ⁿ. 1 000 000 F à 10 % sur 2 ans deviennent 1 210 000 F.",
+      "- Partage proportionnel : partager 90 000 F en parts proportionnelles à 2, 3 et 4. Total : 9 parts ; une part vaut 10 000 F ; d'où 20 000, 30 000 et 40 000 F.",
+      "~ Un car parcourt 210 km à 70 km/h : t = 210 / 70 = 3 h."
+     ],
+     "retenir": [
+      "Suite : écarts, puis écarts des écarts, puis rapports ; vérifiez la règle sur tous les termes.",
+      "Augmenter de t % : multiplier par (1 + t/100) ; les variations successives se multiplient.",
+      "+10 % puis −10 % = −1 % au total.",
+      "Prix HT = prix TTC / (1 + taux de TVA).",
+      "Proportionnalité inverse : le produit reste constant (ouvriers × jours).",
+      "Intérêts simples : C × t × n ; composés : C × (1 + t)ⁿ.",
+      "Partage proportionnel : diviser par le total des parts, puis multiplier."
+     ],
+     "exo": {
+      "tag": "calc",
+      "n": 12
+     },
+     "verif": "calcul"
+    },
+    {
+     "id": "p8",
+     "rev": 2,
+     "m": "log",
+     "titre": "Logique 2 : test d'organisation (problèmes à contraintes)",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez résoudre un problème d'organisation (qui fait quoi, qui habite où) avec un tableau, traiter les problèmes de rapports, et raisonner juste sur les syllogismes, les calendriers et les horloges.",
+      "## Le test d'organisation, c'est quoi ?",
+      "Un énoncé décrit des personnes, des places ou des tâches, avec des indices (« Daouda habite à côté de Bella », « Étienne n'est pas au bout »). Il faut déduire la seule configuration possible. Les sujets de 2023 et 2025 du cycle supérieur de l'ENA en contiennent.",
+      "## La méthode du tableau",
+      "- Dessinez immédiatement un tableau : personnes en lignes, positions ou attributs en colonnes.",
+      "- Traitez d'abord les indices absolus (« X est au n° 1 »), puis les négations (« Y n'est pas au n° 5 ») : cochez et barrez.",
+      "- Traitez ensuite les indices relatifs (« à côté de », « à gauche de ») en testant les rares cas possibles.",
+      "- Quand une case est certaine, barrez le reste de sa ligne et de sa colonne.",
+      "- Vérifiez la solution contre tous les indices avant de répondre.",
+      "> Gain de temps : la question ne demande souvent qu'une case (« qui habite au n° 3 ? »). Arrêtez-vous dès qu'elle est certaine."
+     ],
+     "fond": [
+      "## Notion 1 : un problème d'organisation résolu pas à pas",
+      "Énoncé : trois agents, Ama, Bakary et Chantal, occupent les bureaux 1, 2 et 3. Indices : (a) Ama n'est pas au bureau 1 ; (b) Bakary est à côté d'Ama ; (c) Chantal est au bureau 3.",
+      "~ Étape 1, l'indice absolu (c) : Chantal au bureau 3. On barre les autres bureaux pour Chantal et le bureau 3 pour les autres.",
+      "~ Étape 2, la négation (a) : Ama n'est pas au 1, ni au 3 (pris) : Ama est au bureau 2.",
+      "~ Étape 3 : il reste le bureau 1 pour Bakary. Vérification de (b) : le bureau 1 est bien à côté du bureau 2. Solution : Bakary 1, Ama 2, Chantal 3.",
+      "? Quatre candidats, Koffi, Léa, Moussa et Nina, sont assis sur les chaises 1 à 4. Nina est sur la chaise 4 ; Koffi n'est pas à côté de Nina ; Léa est à gauche de Moussa, immédiatement. Qui est sur la chaise 2 ? || Nina est au 4. Koffi n'est pas au 3 (à côté de Nina) : il est au 1 ou au 2. Léa et Moussa occupent deux chaises voisines, Léa à gauche : c'est 2-3 ou 1-2. Si Koffi est au 1, Léa et Moussa sont au 2 et au 3 : tout est vérifié. Si Koffi était au 2, Léa et Moussa ne pourraient plus être voisins (chaises 1 et 3). Réponse : Léa est sur la chaise 2.",
+      "## Notion 2 : les problèmes de rapports",
+      "Méthode : tout exprimer en fonction de la plus petite quantité, puis résoudre une seule équation.",
+      "~ « Un collier coûte deux fois plus qu'un bracelet ; un bracelet coûte cinq fois plus qu'un médaillon ; l'ensemble coûte 16 000 F. » Médaillon = m ; bracelet = 5m ; collier = 10m. Total : m + 5m + 10m = 16m = 16 000, donc m = 1 000 F.",
+      "? Un père a trois fois l'âge de son fils. Ensemble, ils ont 48 ans. Quel est l'âge du fils ? || Fils = f ; père = 3f ; f + 3f = 4f = 48, donc f = 12 ans (et le père a 36 ans).",
+      "## Notion 3 : les syllogismes et les connecteurs logiques",
+      "- « Tous les A sont B » ne permet pas de dire « tous les B sont A ». Tous les préfets sont des fonctionnaires, mais tous les fonctionnaires ne sont pas préfets.",
+      "- « Aucun A n'est B » est réciproque : aucun B n'est A.",
+      "- « Certains A sont B » : on ne sait rien des autres A.",
+      "- Contraposée : « S'il pleut, la route est mouillée » équivaut à « si la route n'est pas mouillée, il ne pleut pas ». Mais une route mouillée ne prouve pas qu'il pleut (elle a pu être arrosée).",
+      "! Le piège classique est la réciproque : une condition suffisante n'est pas forcément nécessaire.",
+      "? « Tous les admis ont suivi la préparation. Awa a suivi la préparation. » Peut-on conclure qu'Awa est admise ? || Non. L'énoncé dit que tous les admis ont suivi la préparation, pas que tous ceux qui l'ont suivie sont admis. Conclure qu'Awa est admise, c'est commettre l'erreur de la réciproque.",
+      "## Notion 4 : calendriers et horloges",
+      "- Jour de la semaine dans N jours : prenez le reste de la division de N par 7. Dans 100 jours, si l'on est lundi : 100 = 14 × 7 + 2, on sera mercredi.",
+      "- Angle des aiguilles : l'aiguille des heures avance de 30° par heure et de 0,5° par minute ; celle des minutes, de 6° par minute.",
+      "~ À 3 h 00, l'angle est de 3 × 30 = 90°. À 3 h 30, l'aiguille des heures est à 90 + 15 = 105°, celle des minutes à 180° : l'angle vaut 75°."
+     ],
+     "retenir": [
+      "Tableau d'abord ; indices absolus, puis négations, puis indices relatifs.",
+      "Une case certaine : barrez le reste de sa ligne et de sa colonne.",
+      "Vérifiez la solution contre tous les indices avant de répondre.",
+      "Problème de rapports : tout exprimer en fonction de la plus petite inconnue.",
+      "« Tous les A sont B » ne donne pas « tous les B sont A » : attention à la réciproque.",
+      "Jour dans N jours : reste de N divisé par 7.",
+      "Aiguille des heures : 30° par heure et 0,5° par minute."
+     ],
+     "exo": {
+      "tag": "orga",
+      "n": 10
+     },
+     "verif": "methode"
+    }
+   ],
+   "sujets": []
   }
  ]
 }
