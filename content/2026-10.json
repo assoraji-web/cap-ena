@@ -7070,6 +7070,770 @@
       "Un projet sans parcours ni preuve concrète n'est pas convaincant."
      ],
      "verif": "regle"
+    },
+    {
+     "id": "r20261015-d1-01",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "Quel critère permet de distinguer un régime parlementaire d'un régime présidentiel ?",
+     "o": [
+      "Le nombre de partis politiques",
+      "La responsabilité du Gouvernement devant le Parlement",
+      "La durée du mandat présidentiel",
+      "L'existence d'une Constitution écrite"
+     ],
+     "a": 1,
+     "e": "En régime parlementaire, le Gouvernement est responsable devant le Parlement, qui peut le renverser ; en régime présidentiel, il ne l'est pas.",
+     "ed": [
+      "Le nombre de partis ne définit pas le type de régime.",
+      null,
+      "La durée du mandat varie dans les deux types de régime.",
+      "Les deux types de régime peuvent reposer sur une Constitution écrite."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-d1-02",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "Pourquoi la Côte d'Ivoire est-elle un État unitaire et non fédéral ?",
+     "o": [
+      "Parce qu'elle a des régions",
+      "Parce qu'il n'existe qu'un seul centre de pouvoir législatif, les collectivités n'ayant pas de constitution propre",
+      "Parce qu'elle a un Président",
+      "Parce qu'elle appartient à l'UEMOA"
+     ],
+     "a": 1,
+     "e": "Dans un État unitaire, seul le Parlement national fait la loi ; les collectivités décentralisées exercent des compétences administratives, sans constitution ni législation propres.",
+     "ed": [
+      "Avoir des régions n'en fait pas un État fédéral : elles sont des collectivités décentralisées.",
+      null,
+      "Les États fédéraux ont aussi souvent un Président (États-Unis, Nigeria).",
+      "L'appartenance à une organisation régionale ne détermine pas la forme de l'État."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261011-01",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Selon l'article 177 de la Constitution, quelle majorité faut-il pour adopter une révision par le seul Parlement réuni en Congrès ?",
+     "o": [
+      "La majorité simple",
+      "La majorité absolue",
+      "Les deux tiers des membres effectivement en fonction",
+      "L'unanimité"
+     ],
+     "a": 2,
+     "e": "L'article 177 exige, pour la voie parlementaire, la majorité des deux tiers des membres effectivement en fonction ; la voie référendaire requiert la majorité absolue des suffrages exprimés.",
+     "ed": [
+      "La majorité simple ne suffit pas pour réviser une Constitution rigide.",
+      "La majorité absolue des suffrages exprimés concerne la voie du référendum, pas celle du Congrès.",
+      null,
+      "L'unanimité n'est pas exigée."
+     ],
+     "verif": null,
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "r20261015-L20261011-02",
+     "m": "dc",
+     "tag": "dc-art",
+     "q": "Selon l'article 157, pour quel motif le Président de la République peut-il être jugé par la Haute Cour de justice ?",
+     "o": [
+      "Tout crime ou délit",
+      "La haute trahison seulement",
+      "Les fautes de gestion",
+      "Les infractions au code de la route"
+     ],
+     "a": 1,
+     "e": "L'article 157 limite la responsabilité du Président devant la Haute Cour de justice au seul cas de haute trahison.",
+     "ed": [
+      "Les crimes et délits commis dans l'exercice des fonctions concernent les membres du Gouvernement (art. 158), pas le Président.",
+      null,
+      "Les fautes de gestion ne sont pas visées par l'article 157.",
+      "La Haute Cour de justice ne juge pas les infractions ordinaires de ce type."
+     ],
+     "verif": null,
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+      "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+     }
+    },
+    {
+     "id": "r20261015-a3-01",
+     "m": "da",
+     "tag": "da3",
+     "q": "Quel est le but de la police administrative ?",
+     "o": [
+      "Punir les auteurs d'infractions",
+      "Prévenir les troubles à l'ordre public",
+      "Juger les litiges",
+      "Percevoir les impôts"
+     ],
+     "a": 1,
+     "e": "La police administrative est préventive : elle vise à maintenir l'ordre public (sécurité, tranquillité, salubrité) avant qu'un trouble ne survienne.",
+     "ed": [
+      "Punir relève de la justice pénale ; rechercher les auteurs relève de la police judiciaire.",
+      null,
+      "Juger les litiges est le rôle des juridictions.",
+      "La perception des impôts relève de l'administration fiscale."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-a3-02",
+     "m": "da",
+     "tag": "da3",
+     "q": "Un agent public commet, en service, une faute d'une particulière gravité guidée par l'intention de nuire. De quel type de faute s'agit-il ?",
+     "o": [
+      "Une faute de service",
+      "Une faute personnelle",
+      "Une responsabilité sans faute",
+      "Une faute de l'usager"
+     ],
+     "a": 1,
+     "e": "L'intention de nuire ou une gravité exceptionnelle rendent la faute détachable du service : c'est une faute personnelle, qui engage l'agent lui-même.",
+     "ed": [
+      "La faute de service est commise dans l'exercice normal des fonctions, sans intention de nuire.",
+      null,
+      "Il y a bien une faute ici : la responsabilité sans faute ne s'applique pas.",
+      "Rien n'indique une faute de l'usager."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-a3-03",
+     "m": "da",
+     "tag": "da3",
+     "q": "Quel principe impose qu'un service public fonctionne sans interruption injustifiée ?",
+     "o": [
+      "L'égalité",
+      "La continuité",
+      "La mutabilité",
+      "La neutralité"
+     ],
+     "a": 1,
+     "e": "La continuité, l'une des lois de Rolland, impose un fonctionnement régulier et sans interruption injustifiée du service public.",
+     "ed": [
+      "L'égalité impose de traiter de la même façon les usagers placés dans la même situation.",
+      null,
+      "La mutabilité impose d'adapter le service aux besoins.",
+      "La neutralité interdit au service de favoriser une opinion ou une croyance."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-a3-04",
+     "m": "da",
+     "tag": "da3",
+     "q": "Que signifie l'inaliénabilité du domaine public ?",
+     "o": [
+      "On peut le vendre librement",
+      "On ne peut pas le vendre tant qu'il n'a pas été déclassé",
+      "Il appartient aux particuliers",
+      "Il est exonéré d'entretien"
+     ],
+     "a": 1,
+     "e": "Un bien du domaine public ne peut pas être vendu tant qu'il n'a pas été déclassé (sorti du domaine public).",
+     "ed": [
+      "C'est précisément l'inverse : l'inaliénabilité interdit la vente.",
+      null,
+      "Le domaine public appartient à des personnes publiques.",
+      "L'inaliénabilité n'a aucun rapport avec l'entretien."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-f1-01",
+     "m": "fp",
+     "tag": "fp",
+     "q": "Dans quel ordre se déroulent les phases de la dépense publique ?",
+     "o": [
+      "Paiement, engagement, liquidation, ordonnancement",
+      "Engagement, liquidation, ordonnancement, paiement",
+      "Liquidation, engagement, paiement, ordonnancement",
+      "Ordonnancement, paiement, engagement, liquidation"
+     ],
+     "a": 1,
+     "e": "L'ordonnateur engage, liquide puis ordonnance la dépense ; le comptable public la paie ensuite, après contrôle.",
+     "ed": [
+      "On ne peut pas payer avant d'avoir décidé et vérifié la dépense.",
+      null,
+      "La décision de dépenser (engagement) précède la vérification (liquidation).",
+      "L'ordre de payer suppose une dépense déjà engagée et liquidée."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-f1-02",
+     "m": "fp",
+     "tag": "fp",
+     "q": "Quelle loi constate les résultats de l'exécution du budget ?",
+     "o": [
+      "La loi de finances initiale",
+      "La loi de finances rectificative",
+      "La loi de règlement",
+      "La loi organique"
+     ],
+     "a": 2,
+     "e": "La loi de règlement constate, après la clôture de l'exercice, les résultats de l'exécution du budget.",
+     "ed": [
+      "La loi de finances initiale prévoit et autorise les recettes et dépenses de l'année.",
+      "La loi de finances rectificative modifie le budget en cours d'année.",
+      null,
+      "Une loi organique fixe les règles générales, elle ne constate pas l'exécution d'un budget."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-f1-03",
+     "m": "fp",
+     "tag": "fp",
+     "q": "Pourquoi l'ordonnateur et le comptable public sont-ils des personnes distinctes ?",
+     "o": [
+      "Pour aller plus vite",
+      "Pour qu'aucune personne ne puisse à la fois décider d'une dépense et la payer",
+      "Pour réduire le nombre d'agents",
+      "Parce que le comptable est élu"
+     ],
+     "a": 1,
+     "e": "La séparation des ordonnateurs et des comptables permet un double contrôle : le comptable vérifie la régularité avant de payer, ce qui limite erreurs et détournements.",
+     "ed": [
+      "La séparation ajoute un contrôle ; elle ne vise pas la rapidité.",
+      null,
+      "Elle suppose au contraire deux intervenants distincts.",
+      "Le comptable public est un agent nommé, pas un élu."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-f1-04",
+     "m": "fp",
+     "tag": "fp",
+     "q": "Que vérifie la liquidation d'une dépense ?",
+     "o": [
+      "L'opportunité politique de la dépense",
+      "La réalité de la dette (service fait) et son montant exact",
+      "Le nom du ministre",
+      "Le taux d'inflation"
+     ],
+     "a": 1,
+     "e": "La liquidation vérifie que le service a bien été fait et arrête le montant exact de la dette avant l'ordre de payer.",
+     "ed": [
+      "L'opportunité se décide lors de l'engagement, pas de la liquidation.",
+      null,
+      "Le nom du ministre n'a rien à voir avec la liquidation.",
+      "Le taux d'inflation ne fait pas partie du contrôle de la dépense."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "r20261015-L20261013oj01-01",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "Comment organiser un schéma de révision de l'organisation judiciaire ?",
+     "o": [
+      "Par ordre alphabétique des juridictions",
+      "Les ordres de juridictions en colonnes, les degrés en lignes",
+      "Par date de création",
+      "Au hasard"
+     ],
+     "a": 1,
+     "e": "Un tableau ordres × degrés montre d'un coup d'œil la hiérarchie et les voies de recours de chaque juridiction.",
+     "ed": [
+      "L'ordre alphabétique ne montre ni la hiérarchie ni les recours.",
+      null,
+      "La date de création n'aide pas à comprendre l'organisation.",
+      "Un schéma sans logique ne facilite pas la mémorisation."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013oj01-02",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "Quel principe interdit de déplacer un magistrat du siège sans les garanties prévues ?",
+     "o": [
+      "La collégialité",
+      "L'inamovibilité",
+      "La publicité des débats",
+      "Le double degré"
+     ],
+     "a": 1,
+     "e": "L'inamovibilité des magistrats du siège protège leur indépendance : ils ne peuvent être déplacés sans les garanties prévues.",
+     "ed": [
+      "La collégialité concerne le nombre de juges qui statuent.",
+      null,
+      "La publicité des débats concerne l'accès du public aux audiences.",
+      "Le double degré concerne le droit de faire réexaminer une affaire."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013oj01-03",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "Dans une copie, que faire si l'on hésite sur le numéro d'un article ?",
+     "o": [
+      "Inventer un numéro",
+      "Citer le texte sans le numéro",
+      "Ne rien citer",
+      "Citer un texte étranger"
+     ],
+     "a": 1,
+     "e": "Une référence fausse discrédite la copie ; on cite alors le texte (la Constitution, la loi) sans le numéro.",
+     "ed": [
+      "Un numéro inventé est une erreur grave, vite repérée par le correcteur.",
+      null,
+      "Ne rien citer affaiblit l'argument.",
+      "Un texte étranger ne prouve pas le droit ivoirien."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013oj01-04",
+     "m": "oj",
+     "tag": "niv-oj01",
+     "q": "Quel plan convient à un sujet de cours comme « Les juridictions du premier degré » ?",
+     "o": [
+      "Un plan dialectique pour ou contre",
+      "Un plan qui expose l'organisation puis le fonctionnement",
+      "Un plan chronologique de l'histoire de la Côte d'Ivoire",
+      "Aucun plan"
+     ],
+     "a": 1,
+     "e": "Un sujet de cours appelle un exposé organisé : par exemple I. L'organisation des juridictions du premier degré ; II. Leur fonctionnement et leurs compétences.",
+     "ed": [
+      "Un sujet de cours n'appelle pas un débat pour ou contre.",
+      null,
+      "L'histoire générale du pays est hors sujet.",
+      "Une copie sans plan est sanctionnée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013de01-01",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "Quels sont les deux grands textes de référence en droits de l'enfant ?",
+     "o": [
+      "Le Code civil et le Code pénal",
+      "La Convention des Nations unies relative aux droits de l'enfant (1989) et la Charte africaine des droits et du bien-être de l'enfant (1990)",
+      "La Déclaration des droits de l'homme de 1789 et la Charte de l'ONU",
+      "Le traité de l'OHADA et celui de l'UEMOA"
+     ],
+     "a": 1,
+     "e": "La Convention de 1989 et la Charte africaine de 1990 sont les deux textes internationaux de référence, complétés par le droit ivoirien.",
+     "ed": [
+      "Ce sont des codes nationaux généraux, pas les textes de référence spécifiques à l'enfant.",
+      null,
+      "Ces textes ne sont pas consacrés à l'enfant.",
+      "Ces traités portent sur le droit des affaires et l'intégration économique."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013de01-02",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "Un enfant auteur présumé d'une infraction est :",
+     "o": [
+      "un enfant en danger",
+      "un enfant victime",
+      "un enfant en conflit avec la loi",
+      "un enfant émancipé"
+     ],
+     "a": 2,
+     "e": "L'enfant auteur présumé d'une infraction est dit « en conflit avec la loi » ; la réponse doit rester guidée par son intérêt supérieur.",
+     "ed": [
+      "L'enfant en danger est celui dont la santé, la sécurité ou l'éducation sont menacées.",
+      "L'enfant victime subit l'infraction, il ne la commet pas.",
+      null,
+      "L'émancipation est une notion de droit civil sans rapport avec cette qualification."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013de01-03",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "Dans un cas pratique, que faire en premier ?",
+     "o": [
+      "Donner la solution",
+      "Résumer les faits utiles",
+      "Citer la Convention en entier",
+      "Raconter son expérience"
+     ],
+     "a": 1,
+     "e": "La méthode du cas pratique commence par le résumé des faits utiles, avant la question de droit, la règle, l'application et la solution.",
+     "ed": [
+      "La solution vient en dernier, après le raisonnement.",
+      null,
+      "Citer un texte en entier n'est pas une méthode ; on cite la règle utile.",
+      "L'expérience personnelle ne remplace pas le raisonnement juridique."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013de01-04",
+     "m": "denf",
+     "tag": "niv-de01",
+     "q": "Quel principe guide toute décision qui concerne un enfant ?",
+     "o": [
+      "L'intérêt des parents",
+      "L'intérêt supérieur de l'enfant",
+      "L'ordre public seul",
+      "La volonté du juge"
+     ],
+     "a": 1,
+     "e": "L'intérêt supérieur de l'enfant est le principe directeur de toutes les décisions qui le concernent.",
+     "ed": [
+      "L'intérêt des parents compte, mais il cède devant celui de l'enfant.",
+      null,
+      "L'ordre public n'est pas le principe directeur en matière d'enfance.",
+      "Le juge doit justement se guider sur l'intérêt supérieur de l'enfant."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013sf01-01",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "Quel est le texte du statut général de la fonction publique en vigueur ?",
+     "o": [
+      "La loi n° 92-570 de 1992",
+      "La loi n° 2023-892 du 23 novembre 2023",
+      "Le Code du travail",
+      "La Constitution de 1960"
+     ],
+     "a": 1,
+     "e": "Le statut général en vigueur est la loi n° 2023-892 du 23 novembre 2023, qui a abrogé la loi de 1992.",
+     "ed": [
+      "La loi de 1992 a été abrogée par la loi de 2023.",
+      null,
+      "Le Code du travail régit le secteur privé, pas les fonctionnaires.",
+      "La Constitution de 1960 a été remplacée ; elle ne contient pas le statut."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013sf01-02",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "Dans quelle famille de règles classer la sanction d'un agent pour faute ?",
+     "o": [
+      "L'accès",
+      "La carrière",
+      "Les droits et obligations",
+      "La discipline"
+     ],
+     "a": 3,
+     "e": "Les fautes, les sanctions et leurs garanties de procédure forment le régime disciplinaire.",
+     "ed": [
+      "L'accès concerne le recrutement et la titularisation.",
+      "La carrière concerne grades, emplois, avancement.",
+      "Les obligations fondent la faute, mais la sanction relève de la discipline.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013sf01-03",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "Un agent reçoit un cadeau d'une entreprise candidate à un marché qu'il instruit. Que doit-il faire ?",
+     "o": [
+      "L'accepter discrètement",
+      "Le refuser et informer sa hiérarchie",
+      "Le partager avec ses collègues",
+      "Le revendre"
+     ],
+     "a": 1,
+     "e": "La probité et la prévention des conflits d'intérêts imposent de refuser et d'informer la hiérarchie.",
+     "ed": [
+      "Accepter compromettrait son impartialité.",
+      null,
+      "Le partager ne règle pas le conflit d'intérêts.",
+      "Le revendre aggrave le manquement."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013sf01-04",
+     "m": "sfp",
+     "tag": "niv-sf01",
+     "q": "Quelle obligation impose au fonctionnaire de s'exprimer avec mesure, même hors du service ?",
+     "o": [
+      "L'obéissance",
+      "La réserve",
+      "La continuité",
+      "La spécialité"
+     ],
+     "a": 1,
+     "e": "L'obligation de réserve impose une expression mesurée, qui ne compromette ni la neutralité ni l'image du service.",
+     "ed": [
+      "L'obéissance concerne les ordres de la hiérarchie.",
+      null,
+      "La continuité est un principe du service public, pas une obligation d'expression.",
+      "La spécialité est un principe budgétaire."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013op01-01",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "En 1 heure d'OPAJ, quelle répartition du temps est conseillée ?",
+     "o": [
+      "1 heure de plan",
+      "10 minutes de plan, 45 minutes de rédaction, 5 minutes de relecture",
+      "30 minutes de relecture",
+      "Rédaction directe sans plan"
+     ],
+     "a": 1,
+     "e": "Un plan rapide, une rédaction continue et une relecture finale permettent de rendre une copie complète en une heure.",
+     "ed": [
+      "Sans rédaction, il n'y a pas de copie.",
+      null,
+      "30 minutes de relecture laissent trop peu de temps pour rédiger.",
+      "Sans plan, la copie risque d'être désordonnée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013op01-02",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "À quel échelon appartient le préfet ?",
+     "o": [
+      "À l'administration décentralisée",
+      "À l'administration déconcentrée de l'État",
+      "Au pouvoir judiciaire",
+      "Au Parlement"
+     ],
+     "a": 1,
+     "e": "Le préfet représente l'État sur le territoire : il relève de l'administration déconcentrée.",
+     "ed": [
+      "L'administration décentralisée est dirigée par des élus (maire, conseil régional).",
+      null,
+      "Le préfet n'est pas un magistrat.",
+      "Le préfet n'est pas un parlementaire."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013op01-03",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "Quels sont les trois volets de l'OPAJ ?",
+     "o": [
+      "Politique, administratif, judiciaire",
+      "Économique, social, culturel",
+      "Fiscal, douanier, budgétaire",
+      "National, régional, international"
+     ],
+     "a": 0,
+     "e": "L'OPAJ couvre l'organisation politique, l'organisation administrative et l'organisation judiciaire.",
+     "ed": [
+      null,
+      "Ces volets correspondent plutôt au CESEC qu'à l'OPAJ.",
+      "Ce sont des domaines des finances publiques.",
+      "Ce sont des niveaux géographiques, pas les volets de l'épreuve."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013op01-04",
+     "m": "opaj",
+     "tag": "niv-op01",
+     "q": "Une commune construit un marché par délibération de son conseil élu. De quel mode d'administration s'agit-il ?",
+     "o": [
+      "De la centralisation",
+      "De la déconcentration",
+      "De la décentralisation",
+      "De la justice"
+     ],
+     "a": 2,
+     "e": "Une collectivité élue qui décide dans ses compétences, sur son budget, exerce une compétence décentralisée.",
+     "ed": [
+      "La centralisation supposerait une décision prise à la capitale par l'État.",
+      "La déconcentration concerne des agents de l'État, pas des élus locaux.",
+      null,
+      "La construction d'un marché n'est pas un acte de justice."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013pn01-01",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "Quelles sont les deux missions de l'administration pénitentiaire ?",
+     "o": [
+      "La garde et la réinsertion",
+      "Le jugement et l'enquête",
+      "L'impôt et la douane",
+      "L'élection et le référendum"
+     ],
+     "a": 0,
+     "e": "L'administration pénitentiaire assure la garde des personnes détenues et prépare leur réinsertion.",
+     "ed": [
+      null,
+      "Juger et enquêter relèvent des juridictions et de la police judiciaire.",
+      "Ce sont des missions des administrations financières.",
+      "Ce sont des procédures électorales."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013pn01-02",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "Comment s'appellent les règles minima des Nations unies pour le traitement des détenus, révisées en 2015 ?",
+     "o": [
+      "Les Règles de Beijing",
+      "Les Règles Nelson Mandela",
+      "Les Principes de Paris",
+      "La Charte de Banjul"
+     ],
+     "a": 1,
+     "e": "Révisé en 2015, l'Ensemble de règles minima des Nations unies pour le traitement des détenus porte le nom de « Règles Nelson Mandela ».",
+     "ed": [
+      "Les Règles de Beijing concernent l'administration de la justice pour mineurs.",
+      null,
+      "Les Principes de Paris concernent les institutions nationales des droits de l'homme.",
+      "La Charte de Banjul est la Charte africaine des droits de l'homme et des peuples."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013pn01-03",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "Quelle définition correspond au prévenu ?",
+     "o": [
+      "un condamné définitif",
+      "une personne détenue en attente d'un jugement définitif",
+      "un surveillant",
+      "un avocat"
+     ],
+     "a": 1,
+     "e": "Le prévenu n'a pas encore été jugé définitivement ; il bénéficie de la présomption d'innocence.",
+     "ed": [
+      "Le condamné a fait l'objet d'une décision définitive.",
+      null,
+      "Le surveillant fait partie du personnel pénitentiaire.",
+      "L'avocat assiste et défend la personne poursuivie."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013pn01-04",
+     "m": "pen",
+     "tag": "niv-pn01",
+     "q": "Quel principe protège le prévenu ?",
+     "o": [
+      "La présomption d'innocence",
+      "L'inamovibilité",
+      "La non-affectation",
+      "La continuité"
+     ],
+     "a": 0,
+     "e": "Tant qu'il n'est pas définitivement jugé, le prévenu est présumé innocent.",
+     "ed": [
+      null,
+      "L'inamovibilité protège les magistrats du siège.",
+      "La non-affectation est un principe budgétaire.",
+      "La continuité est un principe du service public."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013dv01-01",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "Dans quel cadre le droit commercial général est-il harmonisé en Côte d'Ivoire ?",
+     "o": [
+      "L'UEMOA",
+      "L'OHADA",
+      "La CEDEAO",
+      "L'Union africaine"
+     ],
+     "a": 1,
+     "e": "Le droit commercial général est harmonisé par l'OHADA, notamment par l'Acte uniforme relatif au droit commercial général.",
+     "ed": [
+      "L'UEMOA est une union économique et monétaire ; elle n'harmonise pas le droit commercial général.",
+      null,
+      "La CEDEAO est une communauté économique régionale ; ce n'est pas elle qui harmonise ce droit.",
+      "L'Union africaine n'est pas l'organisation chargée de ce droit des affaires."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013dv01-02",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "Acheter des marchandises pour les revendre, de façon habituelle, est :",
+     "o": [
+      "un acte civil",
+      "un acte de commerce",
+      "un acte administratif",
+      "un acte de procédure"
+     ],
+     "a": 1,
+     "e": "L'achat pour revendre, exercé de façon habituelle et professionnelle, est un acte de commerce qui confère la qualité de commerçant.",
+     "ed": [
+      "Un acte civil ne vise pas la revente avec profit à titre professionnel.",
+      null,
+      "Un acte administratif émane d'une autorité publique.",
+      "Un acte de procédure intervient dans un procès."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013dv01-03",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "Un particulier vend une seule fois sa voiture personnelle à un voisin. De quel acte s'agit-il ?",
+     "o": [
+      "Un acte de commerce",
+      "Une vente civile",
+      "Un acte administratif",
+      "Un contrat de travail"
+     ],
+     "a": 1,
+     "e": "La voiture n'a pas été achetée pour être revendue et l'opération est isolée : c'est une vente civile entre particuliers.",
+     "ed": [
+      "Sans achat pour revendre ni habitude professionnelle, il n'y a pas d'acte de commerce.",
+      null,
+      "Aucune autorité publique n'intervient.",
+      "Il n'y a ni employeur ni salarié."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013dv01-04",
+     "m": "dciv",
+     "tag": "niv-dv01",
+     "q": "Dans un cas pratique, quelle étape suit l'énoncé de la règle ?",
+     "o": [
+      "La conclusion immédiate",
+      "L'application de la règle aux faits",
+      "Le résumé des faits",
+      "La question de droit"
+     ],
+     "a": 1,
+     "e": "Après avoir énoncé la règle, on l'applique aux faits, élément par élément, avant de conclure.",
+     "ed": [
+      "Conclure sans appliquer la règle saute l'étape décisive du raisonnement.",
+      null,
+      "Le résumé des faits vient en premier, avant la règle.",
+      "La question de droit est posée avant d'énoncer la règle."
+     ],
+     "verif": "methode"
     }
    ],
    "lessons": [
@@ -8813,6 +9577,990 @@
      },
      "niv": "or02",
      "verif": "methode"
+    },
+    {
+     "id": "d1",
+     "rev": 2,
+     "m": "dc",
+     "titre": "Droit constitutionnel 1 : l'État, la Constitution, les régimes",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir l'État et la Constitution, distinguer régime parlementaire et régime présidentiel, situer la Côte d'Ivoire, et bâtir une dissertation juridique en I/A/B – II/A/B.",
+      "## Ce que demande l'épreuve",
+      "Le droit constitutionnel (3 heures, coefficient 3 au cycle moyen supérieur de l'ENA) se traite en dissertation juridique. Les sujets récents portent sur les rapports entre pouvoirs et sur le contrôle de constitutionnalité : il faut maîtriser les notions de base pour les mobiliser avec précision.",
+      "## La dissertation juridique",
+      "- Introduction : accroche, définitions juridiques, contexte (droit ivoirien, droit comparé), problématique, annonce du plan.",
+      "- Plan en deux parties (I, II), chacune en deux sous-parties (A, B), avec titres apparents et chapeaux.",
+      "- Chaque argument s'appuie sur un texte (article de la Constitution) ou un principe.",
+      "- Citez un article seulement si vous en êtes sûr ; sinon, renvoyez au principe (« la Constitution prévoit que… »).",
+      "! Pas de conclusion militante : le juriste démontre, il ne milite pas."
+     ],
+     "fond": [
+      "## Notion 1 : l'État et ses éléments",
+      "L'État réunit trois éléments : une population, un territoire, une puissance publique souveraine (un pouvoir politique qui ne dépend d'aucun autre, à l'intérieur comme à l'extérieur).",
+      "- État unitaire : un seul centre de pouvoir politique (Côte d'Ivoire), même s'il délègue des compétences aux collectivités locales.",
+      "- État fédéral : plusieurs entités fédérées ont leur propre constitution et leurs propres institutions (Nigeria, États-Unis).",
+      "~ La décentralisation ivoirienne (régions, communes) ne fait pas de la Côte d'Ivoire un État fédéral : les collectivités gèrent des affaires locales, mais n'ont ni constitution ni pouvoir législatif propre.",
+      "? Une région ivoirienne peut-elle voter ses propres lois ? Pourquoi ? || Non. La Côte d'Ivoire est un État unitaire : seul le Parlement vote la loi. Les régions sont des collectivités décentralisées qui exercent des compétences administratives, sans pouvoir législatif.",
+      "## Notion 2 : la Constitution, norme suprême",
+      "- La Constitution est au sommet de la hiérarchie des normes (théorie de Kelsen) : lois, décrets et arrêtés doivent la respecter.",
+      "- Constitution rigide : sa révision exige une procédure plus exigeante que celle d'une loi ordinaire, ce qui la protège des changements de circonstance.",
+      "- Pouvoir constituant originaire : celui qui crée une nouvelle constitution (2016) ; pouvoir constituant dérivé : celui qui révise une constitution existante (2020).",
+      "Pourquoi la rigidité ? Pour que les règles fondamentales (droits, organisation des pouvoirs) ne dépendent pas d'une majorité de passage.",
+      "## Notion 3 : la séparation des pouvoirs",
+      "Montesquieu, dans De l'esprit des lois (1748), montre que la liberté exige que « le pouvoir arrête le pouvoir » : législatif, exécutif et judiciaire ne doivent pas être concentrés dans les mêmes mains.",
+      "- Régime parlementaire : collaboration des pouvoirs ; le Gouvernement est responsable devant le Parlement (qui peut le renverser) ; l'exécutif peut dissoudre l'assemblée (Royaume-Uni).",
+      "- Régime présidentiel : séparation stricte ; pas de responsabilité du Gouvernement devant le Parlement, pas de dissolution (États-Unis).",
+      "~ Test simple : le Parlement peut-il renverser le Gouvernement, et l'exécutif dissoudre le Parlement ? Si oui aux deux, régime parlementaire ; si non aux deux, régime présidentiel.",
+      "? Dans un pays, le Gouvernement est responsable devant le seul Président de la République et le Parlement ne peut pas le renverser. De quel type de régime se rapproche-t-il ? || D'un régime présidentiel : l'absence de responsabilité du Gouvernement devant le Parlement est le critère décisif. C'est le cas de la Côte d'Ivoire, où le Gouvernement est responsable devant le Président.",
+      "## Notion 4 : la Côte d'Ivoire",
+      "La Côte d'Ivoire est généralement classée parmi les régimes présidentiels à exécutif fort : le Président détermine et conduit la politique de la Nation, et le Gouvernement est responsable devant lui.",
+      "## Notion 5 : les sujets officiels et leur traitement",
+      "- Cycle moyen supérieur, juillet 2025 : « Quels sont les rapports entre les pouvoirs législatif et exécutif ? »",
+      "- Cycle moyen supérieur, septembre 2019 : « Le contrôle de constitutionnalité des lois avant leur promulgation ».",
+      "~ Plan possible pour le sujet de 2025 : I. Des pouvoirs séparés (A. des origines et des fonctions distinctes ; B. une séparation garantie par la Constitution) ; II. Des pouvoirs en interaction (A. la collaboration dans la fonction législative ; B. le contrôle parlementaire de l'action gouvernementale).",
+      "? Proposez une problématique pour « Le contrôle de constitutionnalité des lois avant leur promulgation ». || Par exemple : « Le contrôle préalable des lois suffit-il à garantir la suprématie de la Constitution, alors qu'il intervient avant toute application de la loi et dépend de la saisine de quelques autorités ? » La tension porte sur l'efficacité d'un contrôle limité dans le temps et dans l'accès."
+     ],
+     "retenir": [
+      "L'État : une population, un territoire, une puissance publique souveraine.",
+      "État unitaire (Côte d'Ivoire) ≠ État fédéral (Nigeria, États-Unis).",
+      "La Constitution est la norme suprême ; sa révision suit une procédure renforcée.",
+      "Montesquieu (1748) : « le pouvoir arrête le pouvoir ».",
+      "Régime parlementaire : responsabilité du Gouvernement et dissolution ; présidentiel : séparation stricte.",
+      "Côte d'Ivoire : exécutif fort, Gouvernement responsable devant le Président.",
+      "Dissertation juridique : plan I/A/B – II/A/B avec titres apparents."
+     ],
+     "exo": {
+      "tag": "dc1",
+      "n": 10,
+      "ecrit": "dc"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "d2",
+     "rev": 2,
+     "m": "dc",
+     "titre": "Droit constitutionnel 2 : les institutions de la Constitution de 2016",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez présenter chaque institution de la Constitution de 2016 (désignation, mandat, compétences, rapports avec les autres) et expliquer les changements apportés par la révision de 2020.",
+      "## Ce que demande l'épreuve",
+      "Un sujet comme « les rapports entre les pouvoirs législatif et exécutif » exige de connaître précisément chaque institution : qui la compose, comment elle est désignée, ce qu'elle peut faire, et comment elle agit sur les autres.",
+      "## La fiche institution",
+      "Pour chaque institution, notez quatre rubriques :",
+      "- mode de désignation (élection directe, indirecte, nomination) ;",
+      "- durée du mandat ;",
+      "- compétences ;",
+      "- rapports avec les autres pouvoirs.",
+      "> Une fiche par institution, récitée de mémoire, vaut mieux que la relecture de la Constitution entière.",
+      "! Ne citez plus la Cour suprême comme juridiction actuelle : la révision de 2020 l'a remplacée par la Cour de cassation, le Conseil d'État et la Cour des comptes."
+     ],
+     "fond": [
+      "## Notion 1 : deux dates repères",
+      "- Constitution adoptée par référendum le 30 octobre 2016, promulguée le 8 novembre 2016 : IIIᵉ République.",
+      "- Révision par la loi constitutionnelle du 19 mars 2020 : le vice-président n'est plus élu en même temps que le Président, il est désigné par celui-ci ; la Cour suprême disparaît au profit de la Cour de cassation, du Conseil d'État et de la Cour des comptes.",
+      "## Notion 2 : le pouvoir exécutif",
+      "- Président de la République : élu au suffrage universel direct pour 5 ans, rééligible une fois ; âge minimum de 35 ans.",
+      "- Il détermine et conduit la politique de la Nation, nomme le Premier ministre et, sur proposition de celui-ci, les ministres.",
+      "- Vice-président de la République : institution créée en 2016 ; depuis 2020, désigné par le Président.",
+      "- Le Gouvernement est responsable devant le Président de la République.",
+      "Pourquoi parle-t-on d'exécutif fort ? Parce que le Président tient sa légitimité de l'élection directe, conduit la politique de la Nation et que le Gouvernement ne répond que devant lui.",
+      "? Devant qui le Gouvernement est-il responsable, et qu'est-ce que cela implique ? || Devant le Président de la République. Le Parlement contrôle l'action du Gouvernement, mais c'est le Président qui nomme et peut mettre fin aux fonctions des membres du Gouvernement.",
+      "## Notion 3 : le pouvoir législatif",
+      "- Parlement bicaméral depuis 2016 : Assemblée nationale et Sénat.",
+      "- Députés élus au suffrage universel direct pour 5 ans.",
+      "- Sénat : deux tiers des sénateurs élus au suffrage universel indirect, un tiers désignés par le Président de la République.",
+      "- Le Parlement vote la loi, consent l'impôt et contrôle l'action du Gouvernement (questions, commissions d'enquête).",
+      "- Réuni en Congrès, il peut adopter une révision de la Constitution à la majorité des deux tiers de ses membres, hors des cas où un référendum est obligatoire.",
+      "~ Fiche Sénat : désignation mixte (2/3 élus au suffrage indirect, 1/3 nommés) ; mandat de 5 ans ; compétences : vote de la loi avec l'Assemblée nationale, représentation des collectivités territoriales ; rapports : contrôle de l'action gouvernementale.",
+      "? Un candidat écrit : « Tous les sénateurs ivoiriens sont élus au suffrage universel direct. » Corrigez. || Faux. Deux tiers des sénateurs sont élus au suffrage universel indirect (par des grands électeurs) et un tiers est désigné par le Président de la République. Seuls les députés sont élus au suffrage universel direct.",
+      "## Notion 4 : les juridictions",
+      "- Conseil constitutionnel : contrôle de constitutionnalité des lois, contentieux de l'élection présidentielle et des élections législatives.",
+      "- Cour de cassation (ordre judiciaire), Conseil d'État (ordre administratif), Cour des comptes (finances publiques).",
+      "- Haute Cour de justice : juge le Président pour haute trahison et les membres du Gouvernement pour les crimes et délits commis dans l'exercice de leurs fonctions.",
+      "~ Qui juge quoi : un litige entre deux particuliers remonte jusqu'à la Cour de cassation ; un litige entre un citoyen et l'administration, jusqu'au Conseil d'État ; la contestation d'une élection présidentielle va au Conseil constitutionnel.",
+      "? Un citoyen conteste un arrêté préfectoral. Quelle juridiction suprême est compétente en dernier ressort ? || Le Conseil d'État, sommet de l'ordre administratif, car le litige oppose un citoyen à l'administration.",
+      "## Notion 5 : les autres institutions",
+      "- Conseil économique, social, environnemental et culturel : organe consultatif.",
+      "- Médiateur de la République : règle à l'amiable les différends entre administration et administrés.",
+      "- Chambre nationale des rois et chefs traditionnels : valorise les us et coutumes et contribue à la cohésion sociale."
+     ],
+     "retenir": [
+      "Constitution adoptée par référendum le 30 octobre 2016, promulguée le 8 novembre 2016.",
+      "Révision du 19 mars 2020 : vice-président désigné par le Président ; fin de la Cour suprême.",
+      "Président : suffrage universel direct, 5 ans, rééligible une fois, 35 ans minimum.",
+      "Le Gouvernement est responsable devant le Président de la République.",
+      "Sénat : 2/3 élus au suffrage universel indirect, 1/3 désignés par le Président.",
+      "Conseil constitutionnel : constitutionnalité des lois et contentieux électoral.",
+      "Cour de cassation, Conseil d'État, Cour des comptes : les trois juridictions suprêmes depuis 2020."
+     ],
+     "exo": {
+      "tag": "dc2",
+      "n": 12,
+      "ecrit": "dc"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "L20261011",
+     "rev": 2,
+     "m": "dc",
+     "titre": "La Constitution de 2016, article par article",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez citer les articles clés de la Constitution de 2016 (exécutif, Sénat, juridictions, révision), les mémoriser par groupes logiques et les utiliser à bon escient dans une copie.",
+      "## Pourquoi apprendre les numéros d'articles",
+      "Citer l'article exact dans une dissertation de droit constitutionnel montre une maîtrise précise du texte et donne du poids à l'argument. Au QCM, les numéros servent de pièges : apprenez-les par groupes logiques plutôt qu'en liste.",
+      "## La méthode de mémorisation",
+      "- Regroupez les articles par pouvoir : exécutif, législatif, juridictions, révision.",
+      "- Pour chaque article : un mot-clé et un moyen mnémotechnique (55 = 5 ans et 35 ans ; 87 = Sénat ; 177 = révision).",
+      "- Récitez la fiche de mémoire, puis vérifiez : c'est l'effort de rappel qui fixe le souvenir.",
+      "> Vérifiez toujours un article sur le texte officiel avant de le citer dans une copie : un numéro faux coûte plus cher que pas de numéro du tout."
+     ],
+     "fond": [
+      "## Notion 1 : le pouvoir exécutif",
+      "- Article 55 : le Président est élu pour cinq ans au suffrage universel direct, rééligible une fois ; âge minimum de 35 ans.",
+      "- Article 83 : le Premier ministre et les ministres sont solidairement responsables devant le Président de la République.",
+      "~ Usage dans une copie : « En vertu de l'article 83 de la Constitution, le Gouvernement est solidairement responsable devant le Président de la République, ce qui exclut sa mise en cause par le Parlement. » L'article sert de preuve à l'argument.",
+      "? Quel article fixe la durée du mandat présidentiel, et comment le retenir ? || L'article 55 : cinq ans, rééligible une fois, 35 ans minimum. Moyen mnémotechnique : 5 et 5, comme cinq ans et trente-cinq ans.",
+      "## Notion 2 : le pouvoir législatif",
+      "- Article 87 : deux tiers des sénateurs sont élus au suffrage universel indirect, un tiers est désigné par le Président ; mandat de cinq ans.",
+      "Pourquoi un tiers de sénateurs désignés ? La justification généralement avancée est de permettre la présence de personnalités reconnues pour leur compétence ou leur représentativité, que l'élection n'aurait pas forcément désignées. Dans une copie, cette composition mixte peut nourrir une réflexion sur la légitimité du Sénat.",
+      "## Notion 3 : les juridictions",
+      "- Article 127 : le Conseil constitutionnel juge le contentieux de l'élection présidentielle, des députés et des sénateurs.",
+      "- Articles 156 à 158 : la Haute Cour de justice juge le Président (seulement pour haute trahison, art. 157), le Vice-Président et les membres du Gouvernement (crimes et délits commis dans leurs fonctions, art. 158).",
+      "~ Distinction : le Président ne répond devant la Haute Cour que de la haute trahison (art. 157), alors que les membres du Gouvernement répondent des crimes et délits commis dans leurs fonctions (art. 158).",
+      "? Un ministre est soupçonné d'un délit commis dans l'exercice de ses fonctions. Quelle juridiction est compétente, selon quel article ? || La Haute Cour de justice, selon l'article 158, qui vise les crimes et délits commis par les membres du Gouvernement dans l'exercice de leurs fonctions.",
+      "## Notion 4 : la révision",
+      "- Article 177 : la révision est en principe approuvée par référendum à la majorité absolue des suffrages exprimés ; si le Président soumet le projet au seul Parlement réuni en Congrès, il faut la majorité des deux tiers des membres effectivement en fonction.",
+      "- En mars 2020, le Congrès a adopté une révision par 246 voix pour et 2 contre.",
+      "Pourquoi deux procédures ? Le référendum associe directement le peuple, titulaire de la souveraineté ; la voie parlementaire, plus rapide, exige en contrepartie une majorité renforcée des deux tiers pour protéger la Constitution.",
+      "? La révision de mars 2020 a-t-elle respecté la majorité exigée par la voie parlementaire ? || Oui. Adoptée par 246 voix contre 2, elle dépasse largement la majorité des deux tiers des membres effectivement en fonction requise par l'article 177."
+     ],
+     "retenir": [
+      "Article 55 : Président élu pour 5 ans, rééligible une fois, 35 ans minimum.",
+      "Article 83 : Gouvernement solidairement responsable devant le Président.",
+      "Article 87 : Sénat, 2/3 élus au suffrage indirect, 1/3 désignés.",
+      "Article 127 : contentieux électoral au Conseil constitutionnel.",
+      "Article 157 : le Président ne répond devant la Haute Cour que de la haute trahison.",
+      "Article 177 : révision par référendum, ou par le Congrès à la majorité des deux tiers.",
+      "Un article incertain ne se cite pas : renvoyez au principe."
+     ],
+     "exo": {
+      "tag": "dc-art",
+      "n": 8,
+      "ecrit": "dc"
+     },
+     "sources": [
+      {
+       "t": "Constitution de la Côte d'Ivoire (2016), texte intégral",
+       "u": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Cote_d_Ivoire-_Constitution_2016EN_zMQuz3F.pdf"
+      },
+      {
+       "t": "Le360 – La révision constitutionnelle adoptée par le Parlement (2020)",
+       "u": "https://afrique.le360.ma/cote-divoire/politique/2020/03/18/29840-cote-divoire-la-revision-constitutionnelle-adoptee-par-le-parlement-29840/"
+      }
+     ]
+    },
+    {
+     "id": "a1",
+     "rev": 2,
+     "m": "da",
+     "titre": "Droit administratif 1 : organisation administrative de la Côte d'Ivoire",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez distinguer centralisation, déconcentration et décentralisation, hiérarchie et tutelle, et décrire l'organisation territoriale ivoirienne issue de la loi de 2014.",
+      "## Ce que demande l'épreuve",
+      "Les sujets de droit administratif se traitent en opposant des notions voisines : déconcentration et décentralisation, hiérarchie et tutelle, acte réglementaire et acte individuel. Le correcteur attend des définitions exactes et des distinctions nettes, illustrées par l'organisation ivoirienne.",
+      "## La méthode : distinguer pour démontrer",
+      "- Définissez chaque notion par ses critères (qui décide ? au nom de qui ? sous quel contrôle ?).",
+      "- Opposez-la à sa notion voisine.",
+      "- Illustrez par une institution ivoirienne précise (préfet, conseil régional, maire).",
+      "- Construisez vos parties sur ces distinctions : I. La déconcentration… II. La décentralisation…",
+      "- Concluez chaque partie en revenant au sujet : en quoi la distinction éclaire-t-elle la question posée ?",
+      "! Ne confondez pas le préfet (représentant de l'État, nommé) et le président du conseil régional (élu de la collectivité)."
+     ],
+     "fond": [
+      "## Notion 1 : centralisation et déconcentration",
+      "- Centralisation : toutes les décisions sont prises au centre, par les autorités de l'État à la capitale.",
+      "- Déconcentration : des agents de l'État, répartis sur le territoire, décident au nom de l'État, sous son pouvoir hiérarchique (préfet de région, préfet de département, sous-préfet).",
+      "Pourquoi déconcentrer ? Parce qu'un État ne peut pas tout décider depuis la capitale : rapprocher la décision du terrain la rend plus rapide et mieux informée, tout en restant une décision de l'État.",
+      "~ Un sous-préfet qui délivre une autorisation agit au nom de l'État : c'est de la déconcentration. Son supérieur hiérarchique peut annuler ou réformer sa décision.",
+      "## Notion 2 : la décentralisation",
+      "Des collectivités dotées de la personnalité morale et de l'autonomie financière s'administrent elles-mêmes par des organes élus, sous la tutelle de l'État.",
+      "- Trois critères : personnalité morale, organes élus, compétences propres (avec des moyens).",
+      "~ Une commune qui décide de construire un marché, par délibération de son conseil municipal élu et sur son budget, exerce une compétence décentralisée.",
+      "? Le préfet de région et le président du conseil régional exercent-ils le même type de pouvoir ? || Non. Le préfet de région, nommé, représente l'État : déconcentration. Le président du conseil régional, élu, dirige une collectivité décentralisée : décentralisation.",
+      "## Notion 3 : le cadre ivoirien",
+      "- Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'administration territoriale : administration déconcentrée (régions, départements, sous-préfectures, villages), administration décentralisée (régions, communes) et districts autonomes.",
+      "- 31 régions et 201 communes sont les collectivités territoriales.",
+      "- 14 districts autonomes depuis 2021, dirigés par des gouverneurs nommés par décret.",
+      "- Il n'existe pas de lien hiérarchique entre la région et la commune : chacune s'administre librement dans ses compétences.",
+      "! « Région » désigne à la fois une circonscription administrative de l'État (avec un préfet de région) et une collectivité décentralisée (avec un conseil régional élu). Précisez toujours de quelle région vous parlez.",
+      "## Notion 4 : hiérarchie et tutelle",
+      "- Pouvoir hiérarchique (déconcentration) : le supérieur peut annuler, réformer, donner des ordres. Il existe sans texte, du seul fait de la hiérarchie.",
+      "- Tutelle (décentralisation) : contrôle limité, prévu par les textes, sur les actes des collectivités (approbation, annulation pour illégalité). « Pas de tutelle sans texte, pas de tutelle au-delà des textes. »",
+      "Pourquoi cette différence ? Parce qu'un agent déconcentré exerce le pouvoir de l'État et doit obéir à sa hiérarchie, alors qu'une collectivité décentralisée est autonome : l'État ne peut la contrôler que dans les cas prévus par la loi.",
+      "~ Le préfet peut donner un ordre au sous-préfet (hiérarchie). Il ne peut pas ordonner à un maire de prendre une délibération ; il peut seulement exercer les contrôles de légalité prévus par les textes (tutelle).",
+      "? Le préfet peut-il réformer, pour des raisons d'opportunité, une délibération légale d'un conseil municipal ? || Non. La tutelle ne permet qu'un contrôle prévu par les textes, en principe de légalité ; elle n'autorise pas à substituer son appréciation d'opportunité à celle des élus. C'est la différence avec le pouvoir hiérarchique.",
+      "? Proposez un plan pour le sujet « Déconcentration et décentralisation en Côte d'Ivoire ». || Par exemple : I. Deux modes distincts d'organisation (A. la déconcentration, prolongement de l'État ; B. la décentralisation, autonomie des collectivités) ; II. Deux modes complémentaires (A. le contrôle de l'État sur les collectivités ; B. la coordination de l'action publique sur le territoire)."
+     ],
+     "retenir": [
+      "Déconcentration : des agents de l'État décident au nom de l'État, sous pouvoir hiérarchique.",
+      "Décentralisation : collectivités avec personnalité morale, organes élus et compétences propres, sous tutelle.",
+      "Pouvoir hiérarchique : existe sans texte ; tutelle : seulement dans les cas prévus par les textes.",
+      "Loi n° 2014-451 du 5 août 2014 : organisation générale de l'administration territoriale.",
+      "31 régions et 201 communes ; 14 districts autonomes dirigés par des gouverneurs nommés.",
+      "Pas de lien hiérarchique entre la région et la commune.",
+      "Le préfet représente l'État ; le maire et le président du conseil régional sont des élus."
+     ],
+     "exo": {
+      "tag": "da1",
+      "n": 10,
+      "ecrit": "da"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "a2",
+     "rev": 2,
+     "m": "da",
+     "titre": "Droit administratif 2 : le régime juridique des actes administratifs",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir l'acte administratif unilatéral, énoncer ses conditions de légalité, expliquer son entrée en vigueur, ses effets et sa disparition, et traiter le sujet type « Le régime juridique des actes administratifs ».",
+      "## Pourquoi cette leçon est prioritaire",
+      "Le sujet du cycle supérieur de juin 2025 était exactement : « Le régime juridique des actes administratifs ». Les grands thèmes du programme reviennent : maîtrisez-les à fond.",
+      "## Plan possible pour ce sujet",
+      "- I. L'élaboration et l'entrée en vigueur des actes : A. Les conditions de légalité (compétence, forme, procédure, motifs, but). B. L'entrée en vigueur (publication, notification, non-rétroactivité).",
+      "- II. La vie et la disparition des actes : A. Le privilège du préalable et l'exécution. B. Le retrait et l'abrogation, sous le contrôle du juge.",
+      "## La méthode",
+      "Pour chaque règle, donnez sa justification (pourquoi elle protège l'intérêt général ou les administrés) et un exemple : c'est ce qui distingue une copie de juriste d'une récitation."
+     ],
+     "fond": [
+      "## Notion 1 : définir et classer",
+      "- Acte administratif unilatéral : décision prise par une autorité administrative qui modifie l'ordonnancement juridique sans le consentement de ses destinataires (décret, arrêté, décision).",
+      "- Acte réglementaire : général et impersonnel (un arrêté fixant les horaires d'ouverture d'un service). Acte individuel : vise une ou plusieurs personnes nommément désignées (la nomination d'un agent).",
+      "Pourquoi « unilatéral » ? Parce que l'administration impose sa décision au nom de l'intérêt général, sans négocier avec le destinataire, à la différence d'un contrat.",
+      "? Un arrêté ministériel nomme M. Kouassi chef de service. Est-ce un acte réglementaire ou individuel ? || Individuel : il vise une personne nommément désignée. Un arrêté fixant les conditions générales de nomination des chefs de service serait réglementaire.",
+      "## Notion 2 : les conditions de légalité",
+      "- Légalité externe : compétence de l'auteur, respect des formes et de la procédure.",
+      "- Légalité interne : exactitude des motifs (de fait et de droit), respect de la règle de droit, absence de détournement de pouvoir (but étranger à l'intérêt général).",
+      "~ Un maire qui retire une autorisation de commerce pour nuire à un opposant politique, et non pour un motif d'ordre public, commet un détournement de pouvoir : l'acte est illégal, même s'il est pris par l'autorité compétente et dans les formes.",
+      "? Une sanction disciplinaire est prise sans que l'agent ait été mis en mesure de présenter sa défense. Quel vice affecte l'acte ? || Un vice de procédure (légalité externe) : une garantie prévue au profit de l'agent n'a pas été respectée.",
+      "## Notion 3 : l'entrée en vigueur",
+      "- Acte réglementaire : il entre en vigueur par sa publication. Acte individuel : par sa notification à l'intéressé.",
+      "- Principe de non-rétroactivité : un acte administratif ne dispose que pour l'avenir.",
+      "Pourquoi ces règles ? Nul ne peut se voir opposer une règle qu'il ne pouvait pas connaître : la publication et la notification garantissent cette connaissance ; la non-rétroactivité garantit la sécurité juridique.",
+      "## Notion 4 : les effets",
+      "- Privilège du préalable : l'acte est présumé légal et exécutoire dès son entrée en vigueur ; l'administration n'a pas besoin d'un juge pour l'appliquer.",
+      "- Le recours n'est en principe pas suspensif : l'acte continue de s'appliquer pendant le procès.",
+      "## Notion 5 : la disparition",
+      "- Retrait : disparition rétroactive de l'acte, comme s'il n'avait jamais existé ; pour un acte créateur de droits, il n'est possible que s'il est illégal et dans un délai limité.",
+      "- Abrogation : disparition pour l'avenir seulement.",
+      "~ Une autorisation légale accordée à un commerçant crée des droits : l'administration ne peut pas la retirer librement. Un règlement devenu inadapté peut, lui, être abrogé pour l'avenir.",
+      "? Quelle est la différence entre retirer et abroger un arrêté ? || Le retrait efface l'arrêté rétroactivement, depuis son origine ; l'abrogation y met fin seulement pour l'avenir, les effets passés restant acquis.",
+      "## Notion 6 : le contrôle",
+      "- Recours pour excès de pouvoir : demande d'annulation d'un acte illégal ; le juge suprême de l'ordre administratif est le Conseil d'État.",
+      "- Jurisprudence française souvent citée : Blanco (1873, autonomie de la responsabilité administrative), Pelletier (1873, distinction de la faute personnelle et de la faute de service)."
+     ],
+     "retenir": [
+      "Acte administratif unilatéral : décision qui modifie l'ordonnancement juridique sans le consentement de ses destinataires.",
+      "Acte réglementaire : général et impersonnel ; acte individuel : personnes nommément désignées.",
+      "Légalité externe : compétence, forme, procédure ; interne : motifs, règle de droit, but.",
+      "Publication pour l'acte réglementaire, notification pour l'acte individuel ; pas de rétroactivité.",
+      "Privilège du préalable : l'acte est exécutoire ; le recours n'est pas suspensif en principe.",
+      "Retrait = disparition rétroactive ; abrogation = disparition pour l'avenir.",
+      "Recours pour excès de pouvoir : annulation d'un acte illégal par le juge administratif."
+     ],
+     "exo": {
+      "tag": "da2",
+      "n": 10,
+      "ecrit": "da"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "a3",
+     "rev": 2,
+     "m": "da",
+     "titre": "Droit administratif 3 : service public, police et responsabilité",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir le service public et ses principes, distinguer police administrative et police judiciaire, et expliquer quand et comment la responsabilité de l'administration est engagée.",
+      "## Sujets probables",
+      "Continuité du service public, police administrative, responsabilité de l'administration, contrats administratifs, domaine public. Préparez une définition précise et un plan type pour chacun.",
+      "## La méthode",
+      "- Définissez la notion par ses critères.",
+      "- Énoncez son régime (règles applicables) avec leur justification.",
+      "- Illustrez chaque règle par une situation concrète de la vie administrative ivoirienne (école, hôpital, eau, électricité, transport, sécurité).",
+      "- Pour un sujet de dissertation, opposez souvent le principe et ses limites : la continuité du service public face au droit de grève, la police administrative face aux libertés.",
+      "- Terminez chaque argument par sa portée pratique pour l'usager : c'est ce qui rend une copie de droit administratif vivante.",
+      "! Ne confondez pas « service public » (une activité d'intérêt général) et « fonction publique » (l'ensemble des agents)."
+     ],
+     "fond": [
+      "## Notion 1 : le service public",
+      "Activité d'intérêt général assurée ou contrôlée par une personne publique.",
+      "- Lois de Rolland : continuité (le service fonctionne sans interruption injustifiée), mutabilité ou adaptation (il évolue avec les besoins), égalité (tous les usagers sont traités de la même manière). On y ajoute souvent la neutralité.",
+      "- Modes de gestion : régie (par l'administration elle-même), établissement public, délégation à une personne privée (concession, affermage).",
+      "~ Égalité : deux élèves dans la même situation doivent être traités de la même façon par l'école publique. Continuité : un hôpital assure une permanence la nuit et le week-end.",
+      "? Une ville confie la distribution de l'eau à une entreprise privée. Le service cesse-t-il d'être un service public ? || Non. Il reste un service public, géré par délégation : la personne publique en garde le contrôle, et les principes de continuité, d'égalité et d'adaptation s'imposent au délégataire.",
+      "## Notion 2 : la police administrative",
+      "- But préventif : maintenir l'ordre public (sécurité, tranquillité, salubrité publiques).",
+      "- Distincte de la police judiciaire, répressive : constater les infractions, en rechercher les auteurs.",
+      "- Les mesures de police doivent être nécessaires et proportionnées : une interdiction générale et absolue est en principe illégale si une mesure moins contraignante suffit.",
+      "Pourquoi la proportionnalité ? Parce que la police administrative restreint des libertés (circuler, se réunir, commercer) : elle n'est légitime que dans la mesure strictement nécessaire à l'ordre public.",
+      "~ Interdire une manifestation à un endroit et à une heure où elle menace réellement la sécurité peut être légal ; interdire toute manifestation dans la ville pour une durée indéterminée serait disproportionné.",
+      "? Un policier qui règle la circulation pour éviter des accidents et un policier qui interpelle l'auteur d'un vol exercent-ils la même police ? || Non. Le premier exerce une police administrative (prévenir les troubles) ; le second, une police judiciaire (rechercher l'auteur d'une infraction déjà commise).",
+      "## Notion 3 : la responsabilité administrative",
+      "- Responsabilité pour faute : la faute de service engage l'administration ; la faute personnelle, détachable du service (intention de nuire, faute d'une particulière gravité), engage l'agent lui-même.",
+      "- Responsabilité sans faute : pour risque (activités ou choses dangereuses) ou pour rupture d'égalité devant les charges publiques (un administré supporte seul une charge anormale dans l'intérêt de tous).",
+      "~ Un agent qui commet une erreur de transmission d'un dossier dans l'exercice normal de ses fonctions commet une faute de service : l'administration indemnise. Un agent qui, en service, frappe un usager par vengeance commet une faute personnelle.",
+      "? Les travaux d'une route publique ferment pendant deux ans l'accès à un commerce, qui perd toute clientèle. Sur quel fondement le commerçant peut-il être indemnisé ? || Sur la responsabilité sans faute pour rupture d'égalité devant les charges publiques : les travaux sont légaux et utiles à tous, mais le commerçant supporte seul un préjudice anormal et spécial.",
+      "## Notion 4 : les biens publics",
+      "- Le domaine public est inaliénable (on ne peut pas le vendre tant qu'il n'est pas déclassé) et imprescriptible (on ne peut pas l'acquérir par une occupation prolongée).",
+      "~ Un particulier qui occupe depuis vingt ans une partie de la voie publique ne peut pas en devenir propriétaire."
+     ],
+     "retenir": [
+      "Service public : activité d'intérêt général assurée ou contrôlée par une personne publique.",
+      "Lois de Rolland : continuité, mutabilité, égalité ; on y ajoute la neutralité.",
+      "Police administrative : préventive, mesures nécessaires et proportionnées.",
+      "Police judiciaire : répressive, constate les infractions et recherche les auteurs.",
+      "Faute de service : l'administration répond ; faute personnelle, détachable du service : l'agent répond.",
+      "Responsabilité sans faute : risque, ou rupture d'égalité devant les charges publiques.",
+      "Domaine public : inaliénable et imprescriptible."
+     ],
+     "exo": {
+      "tag": "da3",
+      "n": 10,
+      "ecrit": "da"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "f1",
+     "rev": 2,
+     "m": "fp",
+     "titre": "Finances publiques (bonus EGEF) : budget et dépense publique",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez énoncer les principes budgétaires, distinguer les lois de finances, expliquer le budget-programme et décrire les quatre phases de la dépense publique.",
+      "## Pourquoi ce bonus",
+      "Les finances publiques ne sont pas une épreuve d'admissibilité du cycle moyen supérieur de l'ENA, mais elles nourrissent les copies de PES et l'oral, figurent à certains concours, et préparent à la formation de l'École de gestion économique et financière (EGEF).",
+      "## La méthode",
+      "- Retenez chaque principe avec sa raison d'être (pourquoi il existe).",
+      "- Apprenez la chaîne de la dépense dans l'ordre, en associant chaque phase à son acteur.",
+      "- Illustrez par un exemple concret : l'achat de fournitures pour une école, le paiement d'un marché de construction.",
+      "- Pour l'oral ou une copie de PES, sachez expliquer en une phrase à quoi sert chaque règle : un jury apprécie la compréhension plus que la récitation.",
+      "! L'ordonnateur et le comptable sont deux personnes différentes : c'est le principe de séparation, garde-fou contre les détournements."
+     ],
+     "fond": [
+      "## Notion 1 : les principes budgétaires",
+      "- Annualité : le budget est voté pour un an. Il permet au Parlement de contrôler régulièrement l'action financière du Gouvernement.",
+      "- Unité : toutes les recettes et dépenses figurent dans un document unique, pour une vision d'ensemble.",
+      "- Universalité : non-compensation (on n'efface pas une dépense par une recette) et non-affectation (les recettes financent l'ensemble des dépenses).",
+      "- Spécialité : les crédits sont votés pour un objet précis et ne peuvent être utilisés librement à d'autres fins.",
+      "- Sincérité : les prévisions doivent être honnêtes, sans sous-estimer les dépenses ni surestimer les recettes.",
+      "? Une taxe sur les véhicules est entièrement réservée, par principe, à l'entretien des routes. Quel principe cette pratique écarte-t-elle ? || Le principe de non-affectation (composante de l'universalité) : en principe, une recette ne doit pas être réservée à une dépense déterminée. Les exceptions doivent être prévues par les textes.",
+      "## Notion 2 : les lois de finances",
+      "- Loi de finances initiale : elle prévoit et autorise les recettes et les dépenses de l'année.",
+      "- Lois de finances rectificatives : elles modifient en cours d'année la loi initiale.",
+      "- Loi de règlement : elle constate les résultats de l'exécution du budget.",
+      "~ Si une crise oblige à dépenser davantage en cours d'année, le Gouvernement présente une loi de finances rectificative. Après la clôture de l'exercice, la loi de règlement permet au Parlement de vérifier ce qui a réellement été dépensé.",
+      "## Notion 3 : le budget-programme",
+      "Les directives de l'UEMOA de 2009 prévoient des budgets présentés par programmes, avec des objectifs et des indicateurs de performance, sous la responsabilité de responsables de programme.",
+      "Pourquoi ce changement ? Pour passer d'une logique de moyens (combien dépense-t-on ?) à une logique de résultats (qu'obtient-on avec ces dépenses ?), et rendre l'administration redevable de ses résultats.",
+      "~ Un programme « Éducation de base » peut avoir pour objectif d'améliorer la scolarisation, mesuré par un indicateur comme le taux d'achèvement du primaire.",
+      "## Notion 4 : l'exécution de la dépense",
+      "- Phase administrative (ordonnateur) : engagement (décision de dépenser), liquidation (vérification de la réalité de la dette et de son montant), ordonnancement (ordre donné au comptable de payer).",
+      "- Phase comptable (comptable public) : paiement, après contrôle de la régularité de la dépense.",
+      "~ Achat de tables-bancs pour une école : l'ordonnateur passe la commande (engagement) ; à la livraison, il vérifie la quantité et la facture (liquidation) ; il émet l'ordre de payer (ordonnancement) ; le comptable public contrôle le dossier puis paie le fournisseur (paiement).",
+      "? Pourquoi la liquidation vient-elle après la livraison et non avant ? || Parce qu'elle consiste à vérifier la réalité de la dette (le service a-t-il été fait ?) et à en arrêter le montant exact. On ne peut constater une dette qu'une fois la prestation réalisée : c'est le « service fait ».",
+      "## Notion 5 : les contrôles",
+      "- Contrôle administratif (contrôle financier), juridictionnel (Cour des comptes), parlementaire (vote de la loi de règlement).",
+      "? Pourquoi sépare-t-on l'ordonnateur et le comptable ? || Pour qu'aucune personne ne puisse à la fois décider d'une dépense et payer : le comptable contrôle la régularité avant de payer, ce qui limite les erreurs et les détournements."
+     ],
+     "retenir": [
+      "Principes budgétaires : annualité, unité, universalité, spécialité, sincérité.",
+      "Universalité : non-compensation et non-affectation des recettes.",
+      "Loi de finances initiale, rectificative, de règlement (constate l'exécution).",
+      "Budget-programme : objectifs et indicateurs de performance (directives UEMOA de 2009).",
+      "Dépense : engagement, liquidation, ordonnancement (ordonnateur), puis paiement (comptable).",
+      "La liquidation suppose le service fait.",
+      "L'ordonnateur et le comptable sont deux personnes distinctes."
+     ],
+     "exo": {
+      "tag": "fp",
+      "n": 8
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013oj01",
+     "rev": 2,
+     "m": "oj",
+     "titre": "Méthode de l'épreuve d'organisation judiciaire",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez ce qu'attend le correcteur en organisation judiciaire, comment traiter un sujet de dissertation ou de cours, et comment organiser vos révisions autour d'un schéma des juridictions.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve d'organisation judiciaire (3 heures, coefficient 3 aux concours de Conseiller de la protection judiciaire de l'enfance et de la jeunesse et d'Attaché des services pénitentiaires de la session 2026, et à plusieurs autres concours de l'INFJ) vérifie que vous connaissez l'architecture de la justice ivoirienne et que vous savez l'exposer avec rigueur.",
+      "## Ce que le correcteur attend",
+      "- Une présentation exacte des juridictions et de leurs compétences, du premier degré aux juridictions suprêmes.",
+      "- La maîtrise des grands principes : indépendance de la justice, égalité devant la justice, double degré de juridiction, collégialité, publicité des débats.",
+      "- Des institutions reliées à leurs textes fondateurs, à commencer par la Constitution.",
+      "> Conseil de préparation : faites au moins une copie complète par mois en temps réel, puis comparez-la au plan indicatif ; c'est en rédigeant qu'on apprend à mobiliser ses connaissances."
+     ],
+     "fond": [
+      "## La méthode de la dissertation juridique",
+      "Un sujet de organisation judiciaire prend deux formes : une question à discuter (« L'indépendance de la justice est-elle garantie ? ») ou un sujet de cours qui demande d'exposer une institution ou un régime (« Les juridictions du premier degré »). Dans les deux cas, la démarche est la même :",
+      "- analyser : définir chaque terme, délimiter le champ (droit ivoirien, droit international, période) ;",
+      "- rassembler les textes et principes utiles (Constitution, lois, décrets, conventions) ;",
+      "- poser une problématique juridique, puis bâtir un plan en deux parties et deux sous-parties aux intitulés qui répondent à la question ;",
+      "- rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "Pourquoi deux parties et deux sous-parties ? C'est la tradition des facultés de droit francophones : elle oblige à opposer ou articuler deux idées, ce qui rend le raisonnement visible pour le correcteur.",
+      "~ Des intitulés qui répondent à la question : pour « La justice est-elle accessible à tous ? », préférez « I. Un accès à la justice garanti par les textes ; II. Un accès encore limité en pratique » à « I. Les principes ; II. Les limites ». Les premiers intitulés disent déjà la réponse.",
+      "## La méthode du cas pratique",
+      "- Résumer les faits utiles (qui, quoi, quand), sans les déformer.",
+      "- Poser la question de droit en termes juridiques.",
+      "- Énoncer la règle applicable (texte, principe).",
+      "- L'appliquer aux faits, élément par élément.",
+      "- Conclure par une solution claire.",
+      "! Ne citez un numéro d'article que si vous en êtes sûr ; sinon, citez le texte sans le numéro. Une référence fausse discrédite toute la copie.",
+      "## Réviser avec un schéma",
+      "Construisez un schéma de l'organisation juridictionnelle : en colonnes, les ordres (judiciaire, administratif, financier) ; en lignes, les degrés (premier degré, appel, juridiction suprême). Pour chaque juridiction : composition, compétence, voies de recours.",
+      "~ Ordre judiciaire : tribunaux de première instance → cours d'appel → Cour de cassation. Ordre administratif : tribunaux administratifs → cours administratives d'appel → Conseil d'État. Le niveau suivant du parcours détaille ces juridictions et leurs textes.",
+      "? Sujet : « Le double degré de juridiction : une garantie pour le justiciable ? » Quelle problématique proposer ? || Par exemple : « Le droit de faire réexaminer son affaire par une juridiction supérieure protège-t-il réellement le justiciable, alors que ce réexamen allonge les procédures et connaît des exceptions ? » La tension oppose la garantie à ses limites.",
+      "? Proposez un plan pour « L'indépendance du pouvoir judiciaire en Côte d'Ivoire ». || Par exemple : I. Une indépendance proclamée (A. les garanties constitutionnelles ; B. le rôle du Conseil supérieur de la magistrature) ; II. Une indépendance à consolider (A. la situation particulière du parquet ; B. les moyens matériels et humains de la justice).",
+      "? Un ami soutient que « le juge du siège peut être muté à tout moment par le ministre ». Quel principe lui opposer ? || L'inamovibilité des magistrats du siège, garantie par la Constitution : un juge du siège ne peut pas être déplacé sans les garanties prévues. C'est l'une des protections de l'indépendance de la justice (voir le niveau suivant)."
+     ],
+     "retenir": [
+      "Organisation judiciaire : connaître les juridictions, leurs compétences et les grands principes.",
+      "Réviser avec un schéma : ordres en colonnes, degrés en lignes.",
+      "Chaque argument s'appuie sur un texte exact ; sinon, citer le texte sans numéro.",
+      "Plan en deux parties et deux sous-parties, avec des intitulés qui répondent à la question.",
+      "Cas pratique : faits, question de droit, règle, application, solution.",
+      "Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-oj01",
+      "n": 8,
+      "ecrit": "oj"
+     },
+     "niv": "oj01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013de01",
+     "rev": 2,
+     "m": "denf",
+     "titre": "Méthode de l'épreuve de droits de l'enfant",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez ce qu'attend le correcteur en droits de l'enfant, qualifier la situation d'un enfant dans un cas pratique et construire une dissertation fondée sur les grands textes et principes.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de droits de l'enfant (4 heures, coefficient 4) est l'épreuve la plus lourde des concours de Conseiller et d'Inspecteur de la protection judiciaire de l'enfance et de la jeunesse, à égalité avec le sujet d'ordre général.",
+      "## Ce que le correcteur attend",
+      "- La connaissance des textes internationaux et régionaux de protection de l'enfant et de leur traduction en droit ivoirien.",
+      "- La maîtrise des principes directeurs, au premier rang desquels l'intérêt supérieur de l'enfant.",
+      "- Pour un cas pratique : qualifier la situation de l'enfant (en danger, victime, en conflit avec la loi), identifier la règle applicable, proposer la mesure adaptée.",
+      "> Conseil de préparation : faites au moins une copie complète par mois en temps réel, puis comparez-la au plan indicatif ; c'est en rédigeant qu'on apprend à mobiliser ses connaissances."
+     ],
+     "fond": [
+      "## La méthode de la dissertation juridique",
+      "Un sujet de droits de l'enfant prend deux formes : une question à discuter (« L'indépendance de la justice est-elle garantie ? ») ou un sujet de cours qui demande d'exposer une institution ou un régime (« Les juridictions du premier degré »). Dans les deux cas, la démarche est la même :",
+      "- analyser : définir chaque terme, délimiter le champ (droit ivoirien, droit international, période) ;",
+      "- rassembler les textes et principes utiles (Constitution, lois, décrets, conventions) ;",
+      "- poser une problématique juridique, puis bâtir un plan en deux parties et deux sous-parties aux intitulés qui répondent à la question ;",
+      "- rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "Pourquoi deux parties et deux sous-parties ? C'est la tradition des facultés de droit francophones : elle oblige à opposer ou articuler deux idées, ce qui rend le raisonnement visible pour le correcteur.",
+      "~ Des intitulés qui répondent à la question : pour « La justice est-elle accessible à tous ? », préférez « I. Un accès à la justice garanti par les textes ; II. Un accès encore limité en pratique » à « I. Les principes ; II. Les limites ». Les premiers intitulés disent déjà la réponse.",
+      "## La méthode du cas pratique",
+      "- Résumer les faits utiles (qui, quoi, quand), sans les déformer.",
+      "- Poser la question de droit en termes juridiques.",
+      "- Énoncer la règle applicable (texte, principe).",
+      "- L'appliquer aux faits, élément par élément.",
+      "- Conclure par une solution claire.",
+      "! Ne citez un numéro d'article que si vous en êtes sûr ; sinon, citez le texte sans le numéro. Une référence fausse discrédite toute la copie.",
+      "## Les repères de la matière",
+      "- Textes de référence : la Convention des Nations unies relative aux droits de l'enfant (1989) et la Charte africaine des droits et du bien-être de l'enfant (1990), complétées par le droit ivoirien.",
+      "- Principe directeur : l'intérêt supérieur de l'enfant guide toute décision qui le concerne.",
+      "- Trois situations à distinguer : l'enfant en danger (sa santé, sa sécurité ou son éducation sont menacées), l'enfant victime (d'une infraction), l'enfant en conflit avec la loi (auteur présumé d'une infraction).",
+      "Pourquoi qualifier d'abord la situation ? Parce que la réponse juridique en dépend : protection et assistance pour l'enfant en danger ou victime, justice adaptée aux mineurs pour l'enfant en conflit avec la loi.",
+      "~ Cas pratique résolu (situation fictive) — Faits : un garçon de 13 ans, déscolarisé, travaille la nuit sur un marché pour un adulte qui garde son salaire. Question : quelle est sa situation et que faire ? Règle : l'enfant a droit à la protection contre l'exploitation économique et à l'éducation ; l'intérêt supérieur de l'enfant guide la décision. Application : l'enfant est en danger (éducation et santé compromises) et victime d'exploitation. Solution : signalement aux services compétents, mesure de protection, retour à l'école ou en formation.",
+      "? Une fillette de 12 ans est surprise en train de voler dans une boutique. Comment qualifier sa situation ? || Elle est en conflit avec la loi (auteur présumé d'une infraction). Mais la réponse doit rester guidée par l'intérêt supérieur de l'enfant : mesures éducatives adaptées à son âge plutôt que logique purement répressive. Il faut aussi rechercher si elle n'est pas, par ailleurs, en danger.",
+      "? Proposez une problématique pour « L'intérêt supérieur de l'enfant ». || Par exemple : « Principe directeur de toute décision concernant l'enfant, l'intérêt supérieur de l'enfant est-il un guide suffisamment précis pour protéger effectivement les enfants, alors que son contenu varie selon les situations et les acteurs qui l'apprécient ? »",
+      "? Pourquoi citer la Charte africaine de 1990 en plus de la Convention de 1989 ? || Parce qu'elle adapte la protection de l'enfant aux réalités africaines et engage les États africains au niveau régional : la citer montre une connaissance complète du cadre applicable en Côte d'Ivoire."
+     ],
+     "retenir": [
+      "Textes clés : Convention des Nations unies relative aux droits de l'enfant (1989) et Charte africaine (1990).",
+      "L'intérêt supérieur de l'enfant guide toute décision qui le concerne.",
+      "Qualifier d'abord : enfant en danger, victime, ou en conflit avec la loi.",
+      "Plan en deux parties et deux sous-parties, avec des intitulés qui répondent à la question.",
+      "Cas pratique : faits, question de droit, règle, application, solution.",
+      "Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-de01",
+      "n": 8,
+      "ecrit": "denf"
+     },
+     "niv": "de01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013sf01",
+     "rev": 2,
+     "m": "sfp",
+     "titre": "Méthode de l'épreuve de statut et déontologie de la fonction publique",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez organiser le statut de la fonction publique en quatre familles de règles, traiter un sujet de déontologie avec des situations concrètes et éviter les erreurs de références.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de statut et déontologie de la fonction publique (3 heures, coefficient 3 aux concours de la protection judiciaire de l'enfance et de la jeunesse) vérifie que vous connaissez les règles qui gouvernent la carrière, les droits et les devoirs du fonctionnaire. Le statut figure aussi, sous forme de QCM ou de questions, à de nombreux concours de la Fonction publique.",
+      "## Ce que le correcteur attend",
+      "- La connaissance du statut général et de ses textes d'application : loi n° 2023-892 du 23 novembre 2023 et décret n° 2025-120 du 26 février 2025.",
+      "- Une distinction claire entre droits, obligations et régime disciplinaire.",
+      "- Une réflexion sur l'éthique : neutralité, probité, réserve, prévention des conflits d'intérêts.",
+      "> Conseil de préparation : faites au moins une copie complète par mois en temps réel, puis comparez-la au plan indicatif ; c'est en rédigeant qu'on apprend à mobiliser ses connaissances."
+     ],
+     "fond": [
+      "## La méthode de la dissertation juridique",
+      "Un sujet de statut de la fonction publique prend deux formes : une question à discuter (« L'indépendance de la justice est-elle garantie ? ») ou un sujet de cours qui demande d'exposer une institution ou un régime (« Les juridictions du premier degré »). Dans les deux cas, la démarche est la même :",
+      "- analyser : définir chaque terme, délimiter le champ (droit ivoirien, droit international, période) ;",
+      "- rassembler les textes et principes utiles (Constitution, lois, décrets, conventions) ;",
+      "- poser une problématique juridique, puis bâtir un plan en deux parties et deux sous-parties aux intitulés qui répondent à la question ;",
+      "- rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "Pourquoi deux parties et deux sous-parties ? C'est la tradition des facultés de droit francophones : elle oblige à opposer ou articuler deux idées, ce qui rend le raisonnement visible pour le correcteur.",
+      "~ Des intitulés qui répondent à la question : pour « La justice est-elle accessible à tous ? », préférez « I. Un accès à la justice garanti par les textes ; II. Un accès encore limité en pratique » à « I. Les principes ; II. Les limites ». Les premiers intitulés disent déjà la réponse.",
+      "## La méthode du cas pratique",
+      "- Résumer les faits utiles (qui, quoi, quand), sans les déformer.",
+      "- Poser la question de droit en termes juridiques.",
+      "- Énoncer la règle applicable (texte, principe).",
+      "- L'appliquer aux faits, élément par élément.",
+      "- Conclure par une solution claire.",
+      "! Ne citez un numéro d'article que si vous en êtes sûr ; sinon, citez le texte sans le numéro. Une référence fausse discrédite toute la copie.",
+      "## Les quatre familles de règles",
+      "- Accès : recrutement par concours, conditions (nationalité, âge, diplôme), stage probatoire, titularisation.",
+      "- Carrière : catégories, grades, emplois, avancement, positions.",
+      "- Droits et obligations : rémunération, congés, liberté d'opinion ; neutralité, obéissance hiérarchique, discrétion, probité, réserve.",
+      "- Discipline : fautes, sanctions, garanties de procédure.",
+      "Pourquoi ce classement ? Il donne immédiatement un plan pour la plupart des sujets : « les droits du fonctionnaire » (famille 3), « la carrière du fonctionnaire » (famille 2), « le pouvoir disciplinaire » (famille 4).",
+      "~ Situation de déontologie résolue : un agent chargé d'attribuer des marchés reçoit une offre de cadeau d'une entreprise candidate. Règle : obligation de probité et prévention des conflits d'intérêts. Application : accepter compromettrait son impartialité. Solution : refuser le cadeau et en informer sa hiérarchie.",
+      "? Un fonctionnaire publie sur les réseaux sociaux des critiques virulentes contre la politique de son ministère. Quelle obligation est en cause ? || L'obligation de réserve : le fonctionnaire garde sa liberté d'opinion, mais doit l'exprimer avec mesure, surtout hors du service, pour ne pas compromettre la neutralité et l'image du service.",
+      "? Dans quelle famille de règles classer l'avancement d'échelon ? || La carrière : l'avancement fait partie du déroulement de la carrière du fonctionnaire, avec les grades, les emplois et les positions.",
+      "? Proposez un plan pour « Les obligations du fonctionnaire ». || Par exemple : I. Des obligations au service de l'usager (A. la neutralité et l'égalité de traitement ; B. la probité) ; II. Des obligations au service de l'institution (A. l'obéissance hiérarchique ; B. la discrétion et la réserve)."
+     ],
+     "retenir": [
+      "Statut général : loi n° 2023-892 du 23 novembre 2023 ; décret d'application : n° 2025-120 du 26 février 2025.",
+      "Quatre familles de règles : accès, carrière, droits et obligations, discipline.",
+      "La déontologie se démontre par des situations professionnelles concrètes.",
+      "Plan en deux parties et deux sous-parties, avec des intitulés qui répondent à la question.",
+      "Cas pratique : faits, question de droit, règle, application, solution.",
+      "Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-sf01",
+      "n": 8,
+      "ecrit": "sfp"
+     },
+     "niv": "sf01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013op01",
+     "rev": 2,
+     "m": "opaj",
+     "titre": "Méthode de l'épreuve d'organisation politique, administrative et judiciaire (OPAJ)",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez ce que couvre l'OPAJ, comment gérer une épreuve d'une heure ou de trois heures, et comment structurer une réponse sur les institutions politiques, administratives et judiciaires.",
+      "## Ce que demande l'épreuve",
+      "L'OPAJ (organisation politique, administrative et judiciaire) figure au concours d'Attaché des greffes et parquets (3 heures, coefficient 3), au concours direct de Secrétaire administratif (1 heure, coefficient 2 en 2026) et à d'autres concours de l'INFJ et de la Fonction publique. Elle couvre les institutions politiques, l'administration centrale et territoriale, et l'organisation de la justice.",
+      "## Ce que le correcteur attend",
+      "- Une description exacte des institutions issues de la Constitution de 2016.",
+      "- La distinction entre administration centrale, déconcentration et décentralisation.",
+      "- Une vue d'ensemble de l'organisation judiciaire.",
+      "## Gérer le temps",
+      "- En 1 heure : 10 minutes d'analyse et de plan, 45 minutes de rédaction, 5 minutes de relecture.",
+      "- En 3 heures : 45 minutes d'analyse et de plan détaillé, 2 heures de rédaction, 15 minutes de relecture.",
+      "> Conseil de préparation : faites au moins une copie complète par mois en temps réel, puis comparez-la au plan indicatif ; c'est en rédigeant qu'on apprend à mobiliser ses connaissances."
+     ],
+     "fond": [
+      "## La méthode de la dissertation juridique",
+      "Un sujet de OPAJ prend deux formes : une question à discuter (« L'indépendance de la justice est-elle garantie ? ») ou un sujet de cours qui demande d'exposer une institution ou un régime (« Les juridictions du premier degré »). Dans les deux cas, la démarche est la même :",
+      "- analyser : définir chaque terme, délimiter le champ (droit ivoirien, droit international, période) ;",
+      "- rassembler les textes et principes utiles (Constitution, lois, décrets, conventions) ;",
+      "- poser une problématique juridique, puis bâtir un plan en deux parties et deux sous-parties aux intitulés qui répondent à la question ;",
+      "- rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "Pourquoi deux parties et deux sous-parties ? C'est la tradition des facultés de droit francophones : elle oblige à opposer ou articuler deux idées, ce qui rend le raisonnement visible pour le correcteur.",
+      "~ Des intitulés qui répondent à la question : pour « La justice est-elle accessible à tous ? », préférez « I. Un accès à la justice garanti par les textes ; II. Un accès encore limité en pratique » à « I. Les principes ; II. Les limites ». Les premiers intitulés disent déjà la réponse.",
+      "## La méthode du cas pratique",
+      "- Résumer les faits utiles (qui, quoi, quand), sans les déformer.",
+      "- Poser la question de droit en termes juridiques.",
+      "- Énoncer la règle applicable (texte, principe).",
+      "- L'appliquer aux faits, élément par élément.",
+      "- Conclure par une solution claire.",
+      "! Ne citez un numéro d'article que si vous en êtes sûr ; sinon, citez le texte sans le numéro. Une référence fausse discrédite toute la copie.",
+      "## Les trois volets à relier",
+      "- Politique : le Président de la République, le Gouvernement, le Parlement (Assemblée nationale et Sénat), le Conseil constitutionnel.",
+      "- Administratif : l'administration centrale (ministères), l'administration déconcentrée (préfets, sous-préfets) et décentralisée (régions, communes), les districts autonomes.",
+      "- Judiciaire : les juridictions de l'ordre judiciaire et de l'ordre administratif, la Cour des comptes.",
+      "Pourquoi l'épreuve réunit-elle ces trois volets ? Parce qu'un agent public doit comprendre l'ensemble de l'appareil de l'État : qui décide (politique), qui exécute (administration), qui contrôle et juge (justice).",
+      "~ Une même question les traverse : la construction d'un marché municipal relève d'une décision du conseil municipal (administration décentralisée), soumise au contrôle de l'État (tutelle) et, en cas de litige, au juge administratif.",
+      "? En 1 heure, comment traiter « La décentralisation en Côte d'Ivoire » ? || Une introduction courte (définition, cadre de la loi n° 2014-451, problématique), deux parties brèves — par exemple I. Des collectivités dotées d'autonomie (régions, communes, organes élus) ; II. Une autonomie encadrée par l'État (tutelle, moyens) — et une conclusion de deux ou trois phrases. Gardez 5 minutes de relecture.",
+      "? À quel volet de l'OPAJ appartient le Médiateur de la République ? || Au volet politique et institutionnel : c'est une institution prévue par la Constitution, chargée de régler à l'amiable les différends entre l'administration et les administrés.",
+      "? Quelle est la différence entre un ministère et une préfecture ? || Le ministère appartient à l'administration centrale de l'État ; la préfecture est un échelon de l'administration déconcentrée, qui représente l'État sur le territoire. Les deux relèvent de l'État, à des niveaux différents."
+     ],
+     "retenir": [
+      "OPAJ : institutions politiques, administration centrale et territoriale, organisation judiciaire.",
+      "En 1 heure : 10 minutes de plan, 45 minutes de rédaction, 5 minutes de relecture.",
+      "Relier les trois volets : qui décide, qui exécute, qui contrôle et juge.",
+      "Plan en deux parties et deux sous-parties, avec des intitulés qui répondent à la question.",
+      "Cas pratique : faits, question de droit, règle, application, solution.",
+      "Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-op01",
+      "n": 8,
+      "ecrit": "opaj"
+     },
+     "niv": "op01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013pn01",
+     "rev": 2,
+     "m": "pen",
+     "titre": "Méthode de l'épreuve d'organisation du système pénitentiaire",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez ce qu'attend le correcteur sur le système pénitentiaire, distinguer garde et réinsertion, prévenu et condamné, et appuyer chaque règle sur une norme nationale ou internationale.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve sur l'organisation du système pénitentiaire de la Côte d'Ivoire (3 heures, coefficient 3) figure aux concours d'Attaché et d'Administrateur des services pénitentiaires ; une épreuve voisine (organisation et fonctionnement de l'administration pénitentiaire) figure au concours de Contrôleur.",
+      "## Ce que le correcteur attend",
+      "- La connaissance de l'administration pénitentiaire : organisation, établissements, personnels.",
+      "- La maîtrise du statut des personnes détenues : prévenus et condamnés, droits et obligations.",
+      "- La connaissance des normes internationales de traitement des détenus et des finalités de la peine : sanction, protection de la société, réinsertion.",
+      "> Conseil de préparation : faites au moins une copie complète par mois en temps réel, puis comparez-la au plan indicatif ; c'est en rédigeant qu'on apprend à mobiliser ses connaissances."
+     ],
+     "fond": [
+      "## La méthode de la dissertation juridique",
+      "Un sujet de système pénitentiaire prend deux formes : une question à discuter (« L'indépendance de la justice est-elle garantie ? ») ou un sujet de cours qui demande d'exposer une institution ou un régime (« Les juridictions du premier degré »). Dans les deux cas, la démarche est la même :",
+      "- analyser : définir chaque terme, délimiter le champ (droit ivoirien, droit international, période) ;",
+      "- rassembler les textes et principes utiles (Constitution, lois, décrets, conventions) ;",
+      "- poser une problématique juridique, puis bâtir un plan en deux parties et deux sous-parties aux intitulés qui répondent à la question ;",
+      "- rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "Pourquoi deux parties et deux sous-parties ? C'est la tradition des facultés de droit francophones : elle oblige à opposer ou articuler deux idées, ce qui rend le raisonnement visible pour le correcteur.",
+      "~ Des intitulés qui répondent à la question : pour « La justice est-elle accessible à tous ? », préférez « I. Un accès à la justice garanti par les textes ; II. Un accès encore limité en pratique » à « I. Les principes ; II. Les limites ». Les premiers intitulés disent déjà la réponse.",
+      "## La méthode du cas pratique",
+      "- Résumer les faits utiles (qui, quoi, quand), sans les déformer.",
+      "- Poser la question de droit en termes juridiques.",
+      "- Énoncer la règle applicable (texte, principe).",
+      "- L'appliquer aux faits, élément par élément.",
+      "- Conclure par une solution claire.",
+      "! Ne citez un numéro d'article que si vous en êtes sûr ; sinon, citez le texte sans le numéro. Une référence fausse discrédite toute la copie.",
+      "## Les deux missions de l'administration pénitentiaire",
+      "- La garde : assurer la sécurité, empêcher les évasions, maintenir l'ordre dans l'établissement.",
+      "- La réinsertion : préparer le retour du détenu dans la société (formation, travail, maintien des liens familiaux, suivi).",
+      "Pourquoi les distinguer ? Parce qu'elles peuvent entrer en tension : un excès de sécurité peut freiner la réinsertion, et un manque de sécurité menace détenus et personnels. Beaucoup de sujets se construisent sur cette tension.",
+      "## Prévenu et condamné",
+      "- Le prévenu est détenu en attente d'un jugement définitif : il bénéficie de la présomption d'innocence.",
+      "- Le condamné purge une peine prononcée par une décision définitive.",
+      "~ Conséquence pratique : un prévenu et un condamné ne relèvent pas du même régime ; la présomption d'innocence impose de traiter le prévenu en conséquence.",
+      "## Les normes internationales",
+      "L'Ensemble de règles minima des Nations unies pour le traitement des détenus, révisé en 2015 sous le nom de « Règles Nelson Mandela », fixe des standards de dignité, de santé et de sécurité. Citez-le comme référence internationale, en le reliant au droit ivoirien.",
+      "? Proposez une problématique pour « La prison, lieu de punition ou de réinsertion ? » || Par exemple : « L'administration pénitentiaire peut-elle concilier sa mission de garde, qui impose contrainte et sécurité, et sa mission de réinsertion, qui suppose formation, ouverture et confiance ? »",
+      "? Un détenu n'a pas encore été jugé définitivement. Comment s'appelle-t-il, et quel principe le protège ? || C'est un prévenu ; il est protégé par la présomption d'innocence.",
+      "? Citez deux actions qui relèvent de la réinsertion. || Par exemple : des formations professionnelles en détention et le maintien des liens familiaux (visites, contacts). Toutes deux préparent le retour du détenu dans la société."
+     ],
+     "retenir": [
+      "Deux missions : la garde (sécurité) et la réinsertion.",
+      "Prévenu : en attente d'un jugement définitif, présumé innocent ; condamné : peine définitive.",
+      "Norme internationale : Règles Nelson Mandela (règles minima des Nations unies révisées en 2015).",
+      "Plan en deux parties et deux sous-parties, avec des intitulés qui répondent à la question.",
+      "Cas pratique : faits, question de droit, règle, application, solution.",
+      "Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-pn01",
+      "n": 8,
+      "ecrit": "pen"
+     },
+     "niv": "pn01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013dv01",
+     "rev": 2,
+     "m": "dciv",
+     "titre": "Méthode du droit civil et du droit commercial général",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez ce qu'attend le correcteur en droit civil et en droit commercial général, résoudre un cas pratique pas à pas et situer le droit commercial dans l'espace OHADA.",
+      "## Ce que demande l'épreuve",
+      "Au concours d'Administrateur des greffes et parquets, l'épreuve de droit civil ou de droit commercial général dure 3 heures (coefficient 3). Au concours d'accès à la magistrature, le droit civil et le droit commercial sont deux épreuves distinctes de 4 heures (coefficient 4 chacune). Le sujet peut être une dissertation ou un cas pratique.",
+      "## Ce que le correcteur attend",
+      "- La maîtrise des notions de base du droit civil : personnes, famille, biens, obligations, responsabilité.",
+      "- La connaissance du droit commercial général issu de l'OHADA : commerçant, actes de commerce, registre du commerce et du crédit mobilier, fonds de commerce.",
+      "> Conseil de préparation : faites au moins une copie complète par mois en temps réel, puis comparez-la au plan indicatif ; c'est en rédigeant qu'on apprend à mobiliser ses connaissances."
+     ],
+     "fond": [
+      "## La méthode de la dissertation juridique",
+      "Un sujet de droit civil et commercial prend deux formes : une question à discuter (« L'indépendance de la justice est-elle garantie ? ») ou un sujet de cours qui demande d'exposer une institution ou un régime (« Les juridictions du premier degré »). Dans les deux cas, la démarche est la même :",
+      "- analyser : définir chaque terme, délimiter le champ (droit ivoirien, droit international, période) ;",
+      "- rassembler les textes et principes utiles (Constitution, lois, décrets, conventions) ;",
+      "- poser une problématique juridique, puis bâtir un plan en deux parties et deux sous-parties aux intitulés qui répondent à la question ;",
+      "- rédiger : introduction (accroche, définitions, intérêt du sujet, problématique, annonce du plan), développement avec chapeaux et transitions, conclusion.",
+      "Pourquoi deux parties et deux sous-parties ? C'est la tradition des facultés de droit francophones : elle oblige à opposer ou articuler deux idées, ce qui rend le raisonnement visible pour le correcteur.",
+      "~ Des intitulés qui répondent à la question : pour « La justice est-elle accessible à tous ? », préférez « I. Un accès à la justice garanti par les textes ; II. Un accès encore limité en pratique » à « I. Les principes ; II. Les limites ». Les premiers intitulés disent déjà la réponse.",
+      "## La méthode du cas pratique",
+      "- Résumer les faits utiles (qui, quoi, quand), sans les déformer.",
+      "- Poser la question de droit en termes juridiques.",
+      "- Énoncer la règle applicable (texte, principe).",
+      "- L'appliquer aux faits, élément par élément.",
+      "- Conclure par une solution claire.",
+      "! Ne citez un numéro d'article que si vous en êtes sûr ; sinon, citez le texte sans le numéro. Une référence fausse discrédite toute la copie.",
+      "## Le droit commercial dans l'espace OHADA",
+      "Le droit commercial général est harmonisé dans l'espace OHADA (Organisation pour l'harmonisation en Afrique du droit des affaires) : la règle est la même dans tous les États membres, dont la Côte d'Ivoire. On la trouve dans l'Acte uniforme relatif au droit commercial général.",
+      "Pourquoi une harmonisation ? Pour qu'un investisseur ou un commerçant applique les mêmes règles dans toute la zone, ce qui sécurise les échanges.",
+      "## Droit civil et droit commercial : la frontière",
+      "- Le droit civil régit les rapports entre particuliers (famille, biens, contrats, responsabilité).",
+      "- Le droit commercial régit les commerçants et les actes de commerce.",
+      "~ Cas pratique résolu (situation fictive) — Faits : Awa achète régulièrement des pagnes en gros pour les revendre sur un marché, en son nom et pour son compte. Question : a-t-elle la qualité de commerçante ? Règle : est commerçant celui qui accomplit des actes de commerce et en fait sa profession habituelle. Application : l'achat pour revendre est un acte de commerce, accompli de façon habituelle et à titre professionnel. Solution : Awa est commerçante ; elle doit notamment s'immatriculer au registre du commerce et du crédit mobilier.",
+      "? Koffi vend, une seule fois, sa voiture personnelle à un voisin. Fait-il un acte de commerce ? || Non. Il n'a pas acheté la voiture pour la revendre et l'opération est isolée : c'est une vente civile entre particuliers.",
+      "? Pourquoi l'immatriculation au registre du commerce est-elle importante ? || Elle fait connaître publiquement l'existence et la situation du commerçant ; elle sécurise les partenaires qui traitent avec lui. Le niveau du programme consacré au commerçant en détaille les effets.",
+      "? Dans un cas pratique, par quoi commencer ? || Par le résumé des faits utiles, puis la question de droit. Énoncer la règle avant d'avoir identifié la question fait courir le risque de traiter un autre problème que celui posé."
+     ],
+     "retenir": [
+      "Droit civil : personnes, famille, biens, obligations, responsabilité.",
+      "Droit commercial général harmonisé par l'OHADA : mêmes règles dans tous les États membres.",
+      "Commerçant : celui qui accomplit des actes de commerce et en fait sa profession habituelle.",
+      "Plan en deux parties et deux sous-parties, avec des intitulés qui répondent à la question.",
+      "Cas pratique : faits, question de droit, règle, application, solution.",
+      "Une note inférieure ou égale à 5/20 à une épreuve écrite est éliminatoire aux concours de l'INFJ (sauf délibération motivée du jury)."
+     ],
+     "exo": {
+      "tag": "niv-dv01",
+      "n": 8,
+      "ecrit": "dciv"
+     },
+     "niv": "dv01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013in01",
+     "rev": 2,
+     "m": "info",
+     "titre": "Méthode de l'épreuve d'informatique et de bureautique",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez maîtriser le vocabulaire de base de l'informatique, distinguer matériel et logiciel, mémoire et stockage, et utiliser les raccourcis et extensions les plus courants.",
+      "## Ce que demande l'épreuve",
+      "L'informatique et la bureautique comptent aux concours d'Attaché, de Secrétaire et d'Administrateur des greffes et parquets (2 heures, coefficient 2). L'épreuve vérifie que vous maîtrisez les outils du greffe moderne : traitement de texte, tableur, messagerie, gestion des fichiers et sécurité.",
+      "## La méthode",
+      "- Lisez toutes les questions avant de commencer et répondez d'abord à celles que vous maîtrisez.",
+      "- Utilisez le vocabulaire exact : fichier, dossier, extension, logiciel, système d'exploitation, navigateur.",
+      "- Pour une question pratique (« Comment… ? »), donnez les étapes dans l'ordre, une par ligne.",
+      "- Entraînez-vous sur un vrai ordinateur : la plupart des questions pratiques se comprennent mieux après avoir fait le geste une fois.",
+      "! Ne confondez pas matériel (hardware) et logiciel (software)."
+     ],
+     "fond": [
+      "## Notion 1 : matériel et logiciel",
+      "- Matériel : les éléments physiques (processeur, mémoire, disque, écran, clavier, imprimante).",
+      "- Logiciel : les programmes (système d'exploitation, traitement de texte, tableur, navigateur).",
+      "- Le système d'exploitation (Windows, Linux, Android…) est le logiciel de base qui fait fonctionner l'ordinateur et les autres programmes.",
+      "Pourquoi cette distinction compte-t-elle ? Parce qu'une panne se règle différemment : on remplace une pièce (matériel) ou on réinstalle, met à jour ou répare un programme (logiciel).",
+      "? Un clavier ne répond plus, et un traitement de texte se ferme sans arrêt. Lequel est un problème matériel ? || Le clavier : c'est un élément physique. La fermeture du traitement de texte est un problème logiciel.",
+      "## Notion 2 : bits, octets, mémoire et stockage",
+      "- L'unité de base est le bit (0 ou 1) ; 1 octet = 8 bits ; on compte ensuite en kilo-octets, mégaoctets, gigaoctets.",
+      "- Mémoire vive (RAM) : mémoire de travail, volatile, effacée à l'extinction.",
+      "- Stockage (disque dur, SSD, clé USB) : conserve les données même éteint.",
+      "~ Vous rédigez un jugement sans l'enregistrer et une coupure de courant survient : le texte, qui n'était qu'en mémoire vive, est perdu. Enregistré sur le disque, il aurait été conservé.",
+      "? Pourquoi faut-il enregistrer souvent son travail ? || Parce que tant qu'il n'est pas enregistré, le document n'existe qu'en mémoire vive, effacée en cas de coupure ou d'extinction. L'enregistrement le copie sur le stockage durable.",
+      "## Notion 3 : fichiers, dossiers et extensions",
+      "- Un fichier contient des données (un document, une image) ; un dossier range des fichiers.",
+      "- L'extension indique le type de fichier : .docx (document Word), .xlsx (classeur Excel), .pptx (présentation PowerPoint), .pdf (document portable, qui conserve la mise en page), .jpg et .png (images).",
+      "~ Pour transmettre un acte qui ne doit pas être modifié et doit s'afficher identique sur tous les appareils, on l'envoie au format .pdf.",
+      "## Notion 4 : les raccourcis clavier (Windows)",
+      "- Ctrl + C : copier ; Ctrl + X : couper ; Ctrl + V : coller ; Ctrl + Z : annuler ; Ctrl + S : enregistrer ; Ctrl + P : imprimer.",
+      "? Quelle suite de raccourcis permet de déplacer un paragraphe d'un endroit à un autre ? || Sélectionner le paragraphe, Ctrl + X (couper), placer le curseur au nouvel endroit, Ctrl + V (coller). Ctrl + C copierait sans retirer le texte d'origine.",
+      "## Notion 5 : les bons réflexes de sécurité",
+      "- Sauvegardez régulièrement sur un autre support.",
+      "- Utilisez des mots de passe solides et personnels, sans les communiquer.",
+      "- Méfiez-vous des pièces jointes et des liens inattendus : c'est la porte d'entrée de nombreux virus et escroqueries."
+     ],
+     "retenir": [
+      "Matériel = éléments physiques ; logiciel = programmes.",
+      "Le système d'exploitation est le logiciel de base de l'ordinateur.",
+      "1 octet = 8 bits.",
+      "RAM = mémoire vive, effacée à l'extinction ; disque, SSD, clé USB = stockage durable.",
+      "Ctrl + C copier, Ctrl + X couper, Ctrl + V coller, Ctrl + Z annuler, Ctrl + S enregistrer.",
+      ".docx Word, .xlsx Excel, .pptx PowerPoint, .pdf document portable.",
+      "Sauvegarder souvent, mots de passe personnels, méfiance envers les pièces jointes inattendues."
+     ],
+     "exo": {
+      "tag": "niv-in01",
+      "n": 10
+     },
+     "niv": "in01",
+     "verif": "regle"
+    },
+    {
+     "id": "L20261014oj02",
+     "rev": 2,
+     "m": "oj",
+     "titre": "Les sources et les principes de l'organisation judiciaire",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez citer les sources de l'organisation judiciaire, décrire l'architecture issue de la loi n° 2025-219 et démontrer chaque grand principe par un article précis.",
+      "## Les sources à citer dans une copie",
+      "- La Constitution du 8 novembre 2016 (révisée en 2020) : titre IX « Du pouvoir judiciaire », articles 139 à 155.",
+      "- La loi n° 2025-219 du 28 mars 2025 portant organisation des juridictions, qui a abrogé la loi n° 61-155 portant organisation judiciaire (article 55).",
+      "- Les lois propres à certaines juridictions, par exemple la loi n° 2016-1110 portant création, organisation et fonctionnement des juridictions de commerce.",
+      "- Les décrets pris en Conseil des ministres, qui fixent la création, le siège et le ressort des juridictions autres que les juridictions suprêmes (article 2 de la loi n° 2025-219).",
+      "- Le Code de procédure civile, commerciale et administrative (loi n° 72-833), qui consacre notamment une section à l'assistance judiciaire (articles 27 à 31).",
+      "## L'architecture issue de la loi de 2025 (article 1)",
+      "- Ordre judiciaire (civil, commercial, pénal) : Cour de cassation, cours d'appel, tribunaux de première instance.",
+      "- Ordre administratif : Conseil d'État, cours administratives d'appel, tribunaux administratifs.",
+      "- Contrôle des finances publiques : Cour des comptes et chambres régionales des comptes.",
+      "- Conflits de compétence entre les deux ordres : tribunal des conflits.",
+      "! Ne citez plus la « Cour suprême » ni les « sections détachées » comme organisation actuelle : la loi de 2025 a remplacé la loi de 1961, et un décret de juillet 2025 a érigé 35 sections détachées en tribunaux de première instance."
+     ],
+     "fond": [
+      "## Pourquoi commencer par les sources",
+      "En organisation judiciaire, une affirmation n'a de valeur que si elle s'appuie sur un texte. Connaître les sources, c'est savoir où chercher la preuve de chaque argument : Constitution pour les principes, loi pour l'organisation, décrets pour la carte des juridictions.",
+      "## Principe 1 : l'indépendance de la justice",
+      "- Article 139 de la Constitution : le pouvoir judiciaire est indépendant ; le Président de la République en est le garant, assisté du Conseil supérieur de la magistrature.",
+      "- Article 140 : les magistrats du siège sont inamovibles ; le juge n'obéit qu'à l'autorité de la loi.",
+      "- Article 155 : les décisions de justice sont obligatoires et les pouvoirs publics doivent en assurer l'exécution.",
+      "## Principe 2 : le double degré de juridiction",
+      "- Les juridictions de premier degré (tribunaux de première instance, tribunaux administratifs, chambres régionales des comptes, article 27) sont contrôlées par les juridictions de second degré (cours d'appel et cours administratives d'appel, article 12).",
+      "- Les juridictions de commerce suivent la même logique : tribunaux de commerce puis cours d'appel de commerce (loi n° 2016-1110, articles 2 et 8).",
+      "## Principe 3 : la collégialité, et ses exceptions",
+      "- Le tribunal siège en nombre impair, au moins trois juges (article 35 de la loi n° 2025-219).",
+      "- Juge unique dans trois cas : magistrats du siège insuffisants, délits de police de la circulation et accidents de la voie publique, disposition expresse de la loi.",
+      "## Principe 4 : l'unité d'interprétation du droit",
+      "- La Cour de cassation veille à l'application uniforme de la loi dans l'ordre judiciaire, le Conseil d'État dans l'ordre administratif (article 147 de la Constitution).",
+      "- Leurs présidents sont nommés pour cinq ans, renouvelables une fois (article 150).",
+      "> Dans une dissertation, chaque principe se démontre par un article : « Article 140 de la Constitution » vaut mieux que « il est admis que ».",
+      "## Application",
+      "~ Démontrer un principe en une phrase : « L'indépendance de la justice est consacrée par l'article 139 de la Constitution, qui fait du Président de la République son garant, assisté du Conseil supérieur de la magistrature ; l'article 140 la renforce en garantissant l'inamovibilité des magistrats du siège. »",
+      "~ Situer une juridiction : un litige commercial est jugé par le tribunal de commerce, puis, en appel, par la cour d'appel de commerce (loi n° 2016-1110) : le double degré s'applique aussi aux juridictions spécialisées.",
+      "? Un candidat écrit en 2026 : « La Cour suprême est la plus haute juridiction de Côte d'Ivoire. » Corrigez. || Depuis la révision constitutionnelle de 2020 et la loi n° 2025-219, on ne cite plus la Cour suprême comme organisation actuelle : les juridictions suprêmes sont la Cour de cassation (ordre judiciaire), le Conseil d'État (ordre administratif) et la Cour des comptes.",
+      "? Dans quels cas un tribunal peut-il statuer à juge unique selon la loi n° 2025-219 ? || Dans trois cas (article 35) : insuffisance de magistrats du siège, délits de police de la circulation et accidents de la voie publique, et lorsque la loi le prévoit expressément. Le principe reste la collégialité, au moins trois juges.",
+      "? Quel principe garantit l'application uniforme de la loi dans l'ordre judiciaire, et quelle juridiction l'assure ? || L'unité d'interprétation du droit : la Cour de cassation veille à l'application uniforme de la loi dans l'ordre judiciaire (le Conseil d'État dans l'ordre administratif), selon l'article 147 de la Constitution."
+     ],
+     "retenir": [
+      "Sources : Constitution (articles 139 à 155), loi n° 2025-219, lois particulières, décrets.",
+      "Trois ordres de juridictions et un tribunal des conflits.",
+      "Indépendance : article 139 ; inamovibilité des juges du siège : article 140.",
+      "Double degré : premier degré (article 27), second degré (article 12).",
+      "Collégialité : au moins trois juges, sauf trois cas de juge unique (article 35).",
+      "On ne cite plus la Cour suprême comme organisation actuelle."
+     ],
+     "exo": {
+      "tag": "niv-oj02",
+      "n": 12,
+      "ecrit": "oj"
+     },
+     "niv": "oj02",
+     "sources": [
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2025-219 portant organisation des juridictions",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2016-1110 portant création, organisation et fonctionnement des juridictions de commerce",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2016/1110/fra@2023-07-06/source"
+      },
+      {
+       "t": "Koaci – 35 sections détachées érigées en tribunaux de première instance (30 juillet 2025)",
+       "u": "https://www.koaci.com/article/2025/07/30/cote-divoire/justice/cote-divoire-justice-de-proximite-35-nouvelles-juridictions-erigees-en-tribunaux-de-premiere-instance_189014.html"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+      }
+     ]
+    },
+    {
+     "id": "L20261014sf02",
+     "rev": 2,
+     "m": "sfp",
+     "titre": "La notion de fonction publique et ses sources",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir la fonction publique, hiérarchiser ses sources (Constitution, loi de 2023, décret de 2025, statuts particuliers) et maîtriser les notions de base du statut : catégories, grade, emploi.",
+      "## Définir la fonction publique",
+      "- Au sens organique : l'ensemble des agents qui servent l'État et ses établissements publics.",
+      "- Au sens du statut général (article 1 de la loi n° 2023-892) : les personnes nommées à titre permanent dans un emploi de l'administration centrale de l'État, de ses services extérieurs ou de ses établissements publics, et titularisées après un stage probatoire dans un grade.",
+      "- Article 2 : les personnes soumises au statut ont la qualité de fonctionnaire.",
+      "## La hiérarchie des sources",
+      "- La Constitution : le statut général de la fonction publique relève du domaine de la loi (article 101).",
+      "- La loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique, qui abroge la loi n° 92-570 de 1992 (article 115).",
+      "- Les décrets d'application pris en Conseil des ministres, au premier rang desquels le décret n° 2025-120 du 26 février 2025 portant modalités communes d'application du statut (183 articles).",
+      "- Les statuts particuliers, qui dérogent au statut général sans pouvoir être plus favorables, sauf en matière de rémunération (article 1).",
+      "! Ne citez plus la loi de 1992 comme texte en vigueur : elle a été abrogée par la loi de 2023."
+     ],
+     "fond": [
+      "## Pourquoi cette leçon est fondatrice",
+      "Tout sujet de statut commence par une définition exacte du fonctionnaire et des textes applicables. Une copie qui cite encore la loi de 1992 comme texte en vigueur perd immédiatement en crédibilité.",
+      "## Une situation statutaire et réglementaire",
+      "- Article 6 : le fonctionnaire n'est pas lié par un contrat ; ses droits et obligations découlent des textes, que l'État peut modifier.",
+      "## Les notions de base du statut",
+      "- Catégories : A, B, C et D, dans l'ordre hiérarchique décroissant (article 7).",
+      "- Grade : titre acquis dans une catégorie, distinct de l'emploi (articles 9 et 10).",
+      "- Emploi : le métier exercé, fondé sur une qualification (article 11) ; il est créé ou supprimé par décret pris en Conseil des ministres (article 12).",
+      "- Famille d'emplois : ensemble de spécialités voisines d'un même domaine (article 3).",
+      "## Le principe et ses exceptions",
+      "- Principe : les emplois civils de l'État et de ses établissements publics sont occupés par des fonctionnaires (article 18).",
+      "- Exceptions : agents contractuels sur des emplois de catégorie A (contrat de deux ans au plus, renouvelable une fois) et membres de cabinet ministériel (article 18) ; le contractuel n'est pas titularisé dans un grade (article 20).",
+      "- Emplois supérieurs : nominations à la discrétion du Gouvernement, révocables (article 16).",
+      "## Des garanties dès l'entrée",
+      "- Non-discrimination dans l'accès, la carrière et la retraite (article 17).",
+      "- Liberté d'opinion, exprimée hors du service avec réserve (article 21) ; aucune mention des opinions dans le dossier (article 22).",
+      "> Plan possible pour le sujet « Les sources du droit de la fonction publique » : I. Un socle constitutionnel et législatif ; II. Des textes d'application et des statuts particuliers encadrés.",
+      "## Application",
+      "~ Distinguer grade et emploi : un agent titulaire d'un grade de la catégorie A peut occuper l'emploi de chef de service ou de chargé d'études ; s'il change d'emploi, il garde son grade. Le grade est un titre, l'emploi est le métier exercé.",
+      "~ Situation statutaire : si l'État modifie par décret les règles d'avancement, le fonctionnaire ne peut pas invoquer un « contrat » pour s'y opposer, car sa situation découle des textes (article 6).",
+      "? Un agent recruté sur un emploi de catégorie A par contrat de deux ans demande sa titularisation dans un grade. Est-ce possible au titre de son contrat ? || Non. Le contractuel n'est pas titularisé dans un grade (article 20) ; son contrat de deux ans au plus n'est renouvelable qu'une fois (article 18). Pour devenir fonctionnaire, il faut passer par la voie statutaire (concours, stage, titularisation).",
+      "? Quelle est la différence entre la loi n° 2023-892 et le décret n° 2025-120 ? || La loi n° 2023-892 du 23 novembre 2023 fixe le statut général (texte législatif) ; le décret n° 2025-120 du 26 février 2025 en précise les modalités communes d'application (texte réglementaire, inférieur à la loi).",
+      "? Un statut particulier peut-il accorder aux agents d'un corps des garanties plus favorables que le statut général ? || En principe non : les statuts particuliers dérogent au statut général sans pouvoir être plus favorables, sauf en matière de rémunération (article 1 de la loi n° 2023-892)."
+     ],
+     "retenir": [
+      "Statut général : loi n° 2023-892 du 23 novembre 2023 ; décret d'application commun : n° 2025-120 du 26 février 2025.",
+      "La loi de 2023 abroge la loi n° 92-570 de 1992.",
+      "Situation statutaire et réglementaire (article 6) : pas de contrat.",
+      "Catégories A, B, C, D ; grade (titre) distinct de l'emploi (métier).",
+      "Contractuels de catégorie A : deux ans au plus, renouvelable une fois ; pas de titularisation.",
+      "Statuts particuliers : pas plus favorables que le statut général, sauf pour la rémunération."
+     ],
+     "exo": {
+      "tag": "niv-sf02",
+      "n": 11,
+      "ecrit": "sfp"
+     },
+     "niv": "sf02",
+     "sources": [
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 portant statut général de la fonction publique",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+      },
+      {
+       "t": "Loidici – Décret n° 2025-120 du 26 février 2025 portant modalités communes d'application du statut général",
+       "u": "https://loidici.biz/?p=69548"
+      },
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      }
+     ]
     }
    ],
    "sujets": []
