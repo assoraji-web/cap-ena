@@ -8254,6 +8254,1026 @@
       "Une phrase hors sujet ne rapporte aucun point."
      ],
      "verif": "methode"
+    },
+    {
+     "id": "n20261015-cm02-01",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "Dans quelle ville la Charte des Nations unies a-t-elle été signée le 26 juin 1945 ?",
+     "o": [
+      "Yalta",
+      "Genève",
+      "San Francisco",
+      "New York"
+     ],
+     "a": 2,
+     "e": "La Charte a été signée à San Francisco le 26 juin 1945, à l'issue de la conférence des Nations unies, par 51 pays ; elle est entrée en vigueur le 24 octobre 1945.",
+     "ed": [
+      "Yalta est une conférence des Alliés de février 1945, pas le lieu de signature de la Charte.",
+      "Genève était le siège de la Société des Nations, pas le lieu de signature de la Charte de 1945.",
+      null,
+      "New York accueille le siège de l'ONU, mais la Charte n'y a pas été signée."
+     ],
+     "src": {
+      "t": "UNRIC, « La Charte des Nations Unies en 5 questions »",
+      "u": "https://unric.org/fr/la-charte-des-nations-unies-en-5-questions/"
+     }
+    },
+    {
+     "id": "n20261015-cm02-02",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "Quelles institutions la conférence de Bretton Woods (juillet 1944) a-t-elle créées ?",
+     "o": [
+      "Le FMI et la BIRD (Banque mondiale)",
+      "L'ONU et l'UNESCO",
+      "L'OTAN et l'OCDE",
+      "La BCEAO et la BOAD"
+     ],
+     "a": 0,
+     "e": "En juillet 1944, la conférence monétaire et financière de Bretton Woods crée le Fonds monétaire international et la Banque internationale pour la reconstruction et le développement, dite Banque mondiale.",
+     "ed": [
+      null,
+      "L'ONU naît de la Charte signée à San Francisco en 1945, pas à Bretton Woods.",
+      "L'OTAN est créée par le traité de Washington de 1949, sans lien avec Bretton Woods.",
+      "La BCEAO et la BOAD sont des institutions ouest-africaines, sans rapport avec la conférence de 1944."
+     ],
+     "src": {
+      "t": "Larousse, encyclopédie : accords de Bretton Woods",
+      "u": "https://www.larousse.fr/encyclopedie/divers/wd/133686"
+     }
+    },
+    {
+     "id": "n20261015-cm02-03",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "Quel nom donne-t-on à la stratégie américaine fixée par la doctrine Truman en mars 1947 ?",
+     "o": [
+      "La coexistence pacifique",
+      "Le non-alignement",
+      "La détente",
+      "L'endiguement (containment)"
+     ],
+     "a": 3,
+     "e": "La doctrine Truman (mars 1947) fixe la stratégie d'endiguement, ou containment : contenir l'expansion du communisme en soutenant les pays menacés.",
+     "ed": [
+      "La coexistence pacifique désigne une phase postérieure de la guerre froide, pas la stratégie fixée en 1947.",
+      "Le non-alignement est le refus des deux blocs, organisé au sommet de Belgrade en 1961.",
+      "La détente désigne un apaisement ultérieur entre les deux Grands, pas la stratégie de 1947.",
+      null
+     ],
+     "src": {
+      "t": "Larousse, encyclopédie : guerre froide",
+      "u": "https://www.larousse.fr/encyclopedie/divers/guerre_froide/122564"
+     }
+    },
+    {
+     "id": "n20261015-cm02-04",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "Quel événement a accéléré la signature du traité de l'Atlantique Nord en avril 1949 ?",
+     "o": [
+      "La construction du mur de Berlin",
+      "Le blocus de Berlin",
+      "La crise des missiles de Cuba",
+      "La dissolution du pacte de Varsovie"
+     ],
+     "a": 1,
+     "e": "Le blocus de Berlin (juin 1948-mai 1949) aggrave la tension et pousse les Occidentaux à conclure rapidement le traité de l'Atlantique Nord, signé à Washington le 4 avril 1949.",
+     "ed": [
+      "Le mur de Berlin date d'août 1961, douze ans après le traité.",
+      null,
+      "La crise de Cuba date de 1962, bien après 1949.",
+      "Le pacte de Varsovie n'existait pas encore (1955) et sa structure militaire n'est dissoute qu'en 1991."
+     ],
+     "src": {
+      "t": "Larousse, encyclopédie : guerre froide",
+      "u": "https://www.larousse.fr/encyclopedie/divers/guerre_froide/122564"
+     }
+    },
+    {
+     "id": "n20261015-cm02-05",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "La conférence de Bandung (18-24 avril 1955) a réuni :",
+     "o": [
+      "29 pays d'Asie et d'Afrique",
+      "les 12 pays fondateurs de l'OTAN",
+      "les 51 pays fondateurs de l'ONU",
+      "les seuls États d'Amérique latine"
+     ],
+     "a": 0,
+     "e": "La conférence de Bandung, en Indonésie, a rassemblé 29 pays d'Asie et d'Afrique, qui ont adopté dix principes inspirés de la Charte des Nations unies.",
+     "ed": [
+      null,
+      "Les 12 fondateurs de l'OTAN sont des pays occidentaux, réunis à Washington en 1949.",
+      "Les 51 fondateurs de l'ONU ont signé la Charte à San Francisco en 1945.",
+      "Bandung est une conférence afro-asiatique, pas latino-américaine."
+     ],
+     "src": {
+      "t": "Wikipedia, Bandung Conference",
+      "u": "https://en.wikipedia.org/wiki/Bandung_Conference"
+     }
+    },
+    {
+     "id": "n20261015-cm02-06",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "Le sommet de Belgrade de septembre 1961, présidé par Tito, a donné naissance :",
+     "o": [
+      "à l'Organisation de l'unité africaine",
+      "au pacte de Varsovie",
+      "au mouvement des non-alignés",
+      "à la CEDEAO"
+     ],
+     "a": 2,
+     "e": "Le premier sommet des non-alignés s'est tenu à Belgrade du 1er au 6 septembre 1961 avec 25 États, dont l'Inde de Nehru, l'Égypte de Nasser et le Ghana de Nkrumah.",
+     "ed": [
+      "L'OUA a été créée le 25 mai 1963, pas au sommet de Belgrade de 1961.",
+      "Le pacte de Varsovie est l'alliance du bloc soviétique, créée en 1955.",
+      null,
+      "La CEDEAO a été créée par un traité signé le 28 mai 1975."
+     ],
+     "src": {
+      "t": "Wikipedia, 1st Summit of the Non-Aligned Movement (Belgrade, 1961)",
+      "u": "https://en.wikipedia.org/wiki/1st_Summit_of_the_Non-Aligned_Movement"
+     }
+    },
+    {
+     "id": "n20261015-cm02-07",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "Combien de pays africains ont accédé à l'indépendance en 1960, « l'année de l'Afrique » ?",
+     "o": [
+      "5",
+      "11",
+      "26",
+      "17"
+     ],
+     "a": 3,
+     "e": "En 1960, 17 pays africains accèdent à l'indépendance, dont 14 anciennes colonies françaises, parmi lesquelles la Côte d'Ivoire le 7 août.",
+     "ed": [
+      "Cinq est très en dessous : les seules anciennes colonies françaises indépendantes en 1960 sont déjà 14.",
+      "Onze ne correspond pas : 17 pays deviennent indépendants en 1960.",
+      "Vingt-six est le nombre total d'États africains indépendants à la fin de 1960, pas celui des indépendances de l'année.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia, Year of Africa (1960)",
+      "u": "https://en.wikipedia.org/wiki/Year_of_Africa"
+     }
+    },
+    {
+     "id": "n20261015-cm02-08",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "Quel est l'objet de la résolution 1514 (XV) adoptée par l'Assemblée générale des Nations unies le 14 décembre 1960 ?",
+     "o": [
+      "La création du Conseil de sécurité",
+      "L'octroi de l'indépendance aux pays et aux peuples coloniaux",
+      "La création de l'Union africaine",
+      "La création du Fonds monétaire international"
+     ],
+     "a": 1,
+     "e": "La résolution 1514 (XV) est la « Déclaration sur l'octroi de l'indépendance aux pays et aux peuples coloniaux » : elle affirme le droit des peuples à disposer d'eux-mêmes.",
+     "ed": [
+      "Le Conseil de sécurité est créé par la Charte de 1945, pas par une résolution de 1960.",
+      null,
+      "L'Union africaine a remplacé l'OUA en juillet 2002 ; elle n'est pas née d'une résolution de l'ONU.",
+      "Le FMI a été créé à la conférence de Bretton Woods en juillet 1944."
+     ],
+     "src": {
+      "t": "Bibliothèque numérique de l'ONU, résolution A/RES/1514(XV)",
+      "u": "https://digitallibrary.un.org/record/206145?ln=fr"
+     }
+    },
+    {
+     "id": "n20261015-cm02-09",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "La crise des missiles de Cuba (octobre 1962) a opposé directement :",
+     "o": [
+      "Truman et Staline",
+      "Kennedy et Gorbatchev",
+      "Kennedy et Khrouchtchev",
+      "Eisenhower et Mao Zedong"
+     ],
+     "a": 2,
+     "e": "En octobre 1962, le président américain John F. Kennedy obtient du dirigeant soviétique Nikita Khrouchtchev le retrait des missiles installés à Cuba.",
+     "ed": [
+      "Truman est le président de la doctrine de 1947, pas celui de la crise de 1962.",
+      "Gorbatchev n'est pas le dirigeant soviétique de 1962 : c'est lui qui démissionne en décembre 1991.",
+      null,
+      "En 1962, le président américain est Kennedy, et la crise oppose Washington à Moscou, pas à Pékin."
+     ],
+     "src": {
+      "t": "Le Temps, « Il y a 50 ans, la crise des missiles cubains »",
+      "u": "https://www.letemps.ch/opinions/y-50-ans-crise-missiles-cubains"
+     }
+    },
+    {
+     "id": "n20261015-cm02-10",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "À quelle date l'URSS est-elle officiellement dissoute ?",
+     "o": [
+      "Novembre 1989",
+      "Avril 1991",
+      "8 décembre 1991",
+      "26 décembre 1991"
+     ],
+     "a": 3,
+     "e": "L'URSS est officiellement dissoute le 26 décembre 1991, au lendemain de la démission de Mikhaïl Gorbatchev (25 décembre).",
+     "ed": [
+      "Novembre 1989 est la date du démantèlement du mur de Berlin, pas de la fin de l'URSS.",
+      "En avril 1991, c'est la structure militaire du pacte de Varsovie qui est dissoute.",
+      "Le 8 décembre 1991, les accords de Minsk prévoient la dissolution, mais celle-ci n'est officielle que le 26 décembre.",
+      null
+     ],
+     "src": {
+      "t": "Vikidia, Dislocation de l'URSS",
+      "u": "https://fr.vikidia.org/wiki/Dislocation_de_l%27URSS"
+     }
+    },
+    {
+     "id": "n20261015-cm02-11",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "Quelle affirmation sur la fin de l'URSS est exacte ?",
+     "o": [
+      "L'URSS comptait 12 républiques",
+      "Les accords d'Alma-Ata ont été signés par les 15 républiques",
+      "Gorbatchev a démissionné en 1992, après la dissolution",
+      "La Russie a repris le siège de l'URSS au Conseil de sécurité"
+     ],
+     "a": 3,
+     "e": "À la disparition de l'URSS, la Russie a repris son siège de membre permanent au Conseil de sécurité de l'ONU ; les 15 républiques sont devenues indépendantes.",
+     "ed": [
+      "L'URSS comptait 15 républiques, et non 12.",
+      "À Alma-Ata, le 21 décembre 1991, seules 11 des 15 républiques étaient présentes.",
+      "Gorbatchev a démissionné le 25 décembre 1991, la veille de la dissolution officielle.",
+      null
+     ],
+     "src": {
+      "t": "Vikidia, Dislocation de l'URSS",
+      "u": "https://fr.vikidia.org/wiki/Dislocation_de_l%27URSS"
+     }
+    },
+    {
+     "id": "n20261015-cm02-12",
+     "m": "cmc",
+     "tag": "niv-cm02",
+     "q": "En quelle année l'Afrique du Sud a-t-elle rejoint le groupe des BRIC, devenu alors BRICS ?",
+     "o": [
+      "2006",
+      "2011",
+      "2009",
+      "2024"
+     ],
+     "a": 1,
+     "e": "Le premier sommet des BRIC (Brésil, Russie, Inde, Chine) s'est tenu en 2009 à Iekaterinbourg ; l'Afrique du Sud a rejoint le groupe en 2011, d'où le sigle BRICS.",
+     "ed": [
+      "En 2006, le groupe n'avait pas encore tenu son premier sommet et l'Afrique du Sud n'en faisait pas partie.",
+      null,
+      "2009 est l'année du premier sommet des BRIC, à quatre, sans l'Afrique du Sud.",
+      "En 2024, l'Afrique du Sud était membre du groupe depuis plus de dix ans (2011)."
+     ],
+     "src": {
+      "t": "Hérodote.net, « BRICS »",
+      "u": "https://www.herodote.net/BRICS-mot-600.php"
+     }
+    },
+    {
+     "id": "n20261015-de02-01",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "Selon l'article 1 de la Convention relative aux droits de l'enfant, un enfant s'entend de tout être humain âgé de moins de :",
+     "o": [
+      "15 ans",
+      "16 ans",
+      "18 ans, sauf si la majorité est atteinte plus tôt selon la loi applicable",
+      "21 ans"
+     ],
+     "a": 2,
+     "e": "L'article 1 de la CDE définit l'enfant comme tout être humain âgé de moins de dix-huit ans, sauf si la majorité est atteinte plus tôt en vertu de la législation qui lui est applicable.",
+     "ed": [
+      "Quinze ans n'est pas le seuil de la Convention, qui retient dix-huit ans.",
+      "Seize ans n'est pas le seuil de la Convention ; c'est en droit ivoirien l'âge minimal de l'émancipation.",
+      null,
+      "Vingt et un ans dépasse le seuil de la Convention, fixé à dix-huit ans."
+     ],
+     "src": {
+      "t": "UNICEF, texte de la Convention relative aux droits de l'enfant (1989)",
+      "u": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention"
+     }
+    },
+    {
+     "id": "n20261015-de02-02",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "En quoi la définition de l'enfant de la Charte africaine (article 2) diffère-t-elle de celle de la CDE ?",
+     "o": [
+      "Elle retient tout être humain de moins de 18 ans, sans réserve d'une majorité plus précoce",
+      "Elle fixe la limite à 15 ans",
+      "Elle laisse chaque coutume fixer l'âge de l'enfance",
+      "Elle ne définit pas l'enfant"
+     ],
+     "a": 0,
+     "e": "L'article 2 de la Charte africaine entend par enfant « tout être humain âgé de moins de 18 ans », sans reprendre la réserve de la CDE sur la majorité atteinte plus tôt : elle est donc plus protectrice.",
+     "ed": [
+      null,
+      "La Charte retient 18 ans, et non 15 ans.",
+      "C'est l'inverse : la Charte fixe un âge uniforme et décourage les coutumes incompatibles avec ses droits (article 1, alinéa 3).",
+      "La Charte définit expressément l'enfant dans son article 2."
+     ],
+     "src": {
+      "t": "Union africaine, Charte africaine des droits et du bien-être de l'enfant (texte français)",
+      "u": "https://au.int/sites/default/files/documents/30918-doc-acrwc-fr_0.pdf"
+     }
+    },
+    {
+     "id": "n20261015-de02-03",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "D'après la loi ivoirienne n° 2019-572 du 26 juin 2019 relative à la minorité, est mineure la personne qui n'a pas encore atteint l'âge de :",
+     "o": [
+      "seize ans révolus",
+      "vingt et un ans",
+      "vingt ans",
+      "dix-huit ans accomplis"
+     ],
+     "a": 3,
+     "e": "L'article premier de la loi n° 2019-572 dispose : « Est mineure, la personne qui n'a pas encore atteint l'âge de dix-huit ans accomplis. »",
+     "ed": [
+      "Seize ans révolus est l'âge à partir duquel le mineur peut être émancipé (article 120), pas l'âge de la majorité.",
+      "Vingt et un ans n'est pas le seuil retenu par la loi de 2019.",
+      "Vingt ans n'est pas le seuil retenu par la loi de 2019.",
+      null
+     ],
+     "src": {
+      "t": "Côte d'Ivoire, loi n° 2019-572 du 26 juin 2019 relative à la minorité (CIVLII)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261015-de02-04",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "En droit ivoirien, à partir de quel âge le mineur peut-il être émancipé par ses père et mère ?",
+     "o": [
+      "Seize ans révolus",
+      "Quatorze ans",
+      "Quinze ans",
+      "Dix-sept ans"
+     ],
+     "a": 0,
+     "e": "L'article 120 de la loi n° 2019-572 permet aux père et mère ou parents adoptifs d'émanciper le mineur lorsqu'il a atteint l'âge de seize ans révolus.",
+     "ed": [
+      null,
+      "Quatorze ans est inférieur au seuil de seize ans révolus fixé par l'article 120.",
+      "Quinze ans est inférieur au seuil de seize ans révolus fixé par l'article 120.",
+      "Dix-sept ans n'est pas le seuil légal : l'émancipation est possible dès seize ans révolus."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire, loi n° 2019-572 du 26 juin 2019 relative à la minorité (CIVLII)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261015-de02-05",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "Selon l'article 3, paragraphe 1, de la CDE, dans toutes les décisions qui concernent les enfants, l'intérêt supérieur de l'enfant doit être :",
+     "o": [
+      "la seule considération",
+      "une considération primordiale",
+      "une considération secondaire, après celle des parents",
+      "une simple recommandation sans portée juridique"
+     ],
+     "a": 1,
+     "e": "L'article 3, paragraphe 1, dispose que l'intérêt supérieur de l'enfant « doit être une considération primordiale » ; le Comité y voit une obligation juridique stricte pour les États.",
+     "ed": [
+      "Le texte dit « une » considération primordiale, pas « la seule » : d'autres intérêts peuvent être pris en compte.",
+      null,
+      "L'intérêt de l'enfant n'est pas secondaire : il a un rang de priorité élevé.",
+      "Le Comité des droits de l'enfant souligne que « doit être » crée une obligation juridique stricte."
+     ],
+     "src": {
+      "t": "Comité des droits de l'enfant, observation générale n° 14 (2013), CRC/C/GC/14",
+      "u": "https://digitallibrary.un.org/record/778523/files/CRC_C_GC_14-FR.pdf"
+     }
+    },
+    {
+     "id": "n20261015-de02-06",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "L'article 3, paragraphe 1, de la CDE s'applique aux décisions prises par :",
+     "o": [
+      "les seuls tribunaux",
+      "les seuls parents",
+      "les institutions publiques ou privées de protection sociale, les tribunaux, les autorités administratives et les organes législatifs",
+      "les seules organisations non gouvernementales"
+     ],
+     "a": 2,
+     "e": "L'article 3, paragraphe 1, vise toutes les décisions concernant les enfants, qu'elles soient le fait des institutions publiques ou privées de protection sociale, des tribunaux, des autorités administratives ou des organes législatifs.",
+     "ed": [
+      "Les tribunaux sont visés, mais avec trois autres catégories de décideurs.",
+      "Les parents ne figurent pas dans l'énumération de l'article 3, paragraphe 1, qui vise des institutions et autorités.",
+      null,
+      "Les ONG ne sont pas seules visées : l'article énumère quatre catégories de décideurs."
+     ],
+     "src": {
+      "t": "Humanium, texte intégral de la Convention relative aux droits de l'enfant",
+      "u": "https://www.humanium.org/fr/texte-integral-convention-internationale-relative-droits-enfant-1989/"
+     }
+    },
+    {
+     "id": "n20261015-de02-07",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "Quelle formulation la Charte africaine (article 4, paragraphe 1) retient-elle pour l'intérêt de l'enfant ?",
+     "o": [
+      "Il est une considération parmi d'autres",
+      "Il est la considération primordiale dans toute action concernant un enfant",
+      "Il ne s'impose qu'aux tribunaux",
+      "Il ne s'applique qu'aux enfants de moins de 15 ans"
+     ],
+     "a": 1,
+     "e": "L'article 4, paragraphe 1, de la Charte africaine dispose que, dans toute action concernant un enfant, entreprise par une quelconque personne ou autorité, son intérêt est « la considération primordiale ».",
+     "ed": [
+      "La Charte en fait « la » considération primordiale, et non une considération parmi d'autres.",
+      null,
+      "La Charte vise toute action entreprise par « une quelconque personne ou autorité », pas les seuls tribunaux.",
+      "La Charte protège tout être humain de moins de 18 ans, sans seuil de 15 ans."
+     ],
+     "src": {
+      "t": "Union africaine, Charte africaine des droits et du bien-être de l'enfant (texte français)",
+      "u": "https://au.int/sites/default/files/documents/30918-doc-acrwc-fr_0.pdf"
+     }
+    },
+    {
+     "id": "n20261015-de02-08",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "Selon l'observation générale n° 14 (2013) du Comité des droits de l'enfant, l'intérêt supérieur de l'enfant est un concept triple. Lequel ?",
+     "o": [
+      "Un droit de fond, un principe juridique interprétatif et une règle de procédure",
+      "Une coutume, un usage et une tradition",
+      "Un droit pénal, un droit civil et un droit commercial",
+      "Une recommandation morale, politique et religieuse"
+     ],
+     "a": 0,
+     "e": "Le paragraphe 6 de l'observation générale n° 14 présente l'intérêt supérieur comme un droit de fond invocable en justice, un principe juridique interprétatif fondamental et une règle de procédure.",
+     "ed": [
+      null,
+      "Ces notions ne figurent pas dans l'observation générale ; la Charte africaine décourage même les coutumes contraires aux droits de l'enfant.",
+      "Ce sont des branches du droit, pas les trois dimensions du concept.",
+      "Le Comité y voit une obligation juridique, pas une simple recommandation morale ou religieuse."
+     ],
+     "src": {
+      "t": "Comité des droits de l'enfant, observation générale n° 14 (2013), CRC/C/GC/14",
+      "u": "https://digitallibrary.un.org/record/778523/files/CRC_C_GC_14-FR.pdf"
+     }
+    },
+    {
+     "id": "n20261015-de02-09",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "Une règle relative à la garde admet deux interprétations. Selon l'observation générale n° 14, laquelle faut-il retenir ?",
+     "o": [
+      "Celle qui arrange le mieux l'administration",
+      "Celle que choisit le parent le plus âgé",
+      "Celle qui sert le plus efficacement l'intérêt supérieur de l'enfant",
+      "Celle qui est la plus ancienne"
+     ],
+     "a": 2,
+     "e": "Comme principe juridique interprétatif, l'intérêt supérieur impose, lorsqu'une disposition admet plusieurs interprétations, de choisir celle qui sert le plus efficacement l'intérêt de l'enfant.",
+     "ed": [
+      "La commodité administrative ne prime pas sur l'intérêt de l'enfant.",
+      "L'âge du parent n'est pas un critère d'interprétation : c'est l'intérêt de l'enfant qui guide le choix.",
+      null,
+      "L'ancienneté d'une interprétation ne compte pas : c'est l'intérêt de l'enfant qui la départage."
+     ],
+     "src": {
+      "t": "Comité des droits de l'enfant, observation générale n° 14 (2013), CRC/C/GC/14",
+      "u": "https://digitallibrary.un.org/record/778523/files/CRC_C_GC_14-FR.pdf"
+     }
+    },
+    {
+     "id": "n20261015-de02-10",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "Lequel de ces éléments N'est PAS l'un des quatre principes généraux de la CDE ?",
+     "o": [
+      "La non-discrimination (article 2)",
+      "Le droit à la vie, à la survie et au développement (article 6)",
+      "Le droit de l'enfant d'exprimer librement son opinion (article 12)",
+      "La primauté de l'intérêt des parents sur celui de l'enfant"
+     ],
+     "a": 3,
+     "e": "Les quatre principes généraux de la CDE sont la non-discrimination (article 2), l'intérêt supérieur de l'enfant (article 3), le droit à la vie, à la survie et au développement (article 6) et le respect de l'opinion de l'enfant (article 12).",
+     "ed": [
+      "La non-discrimination (article 2) est bien l'un des quatre principes généraux.",
+      "Le droit à la vie, à la survie et au développement (article 6) est bien un principe général.",
+      "Le droit d'exprimer son opinion (article 12) est bien un principe général, complémentaire de l'article 3.",
+      null
+     ],
+     "src": {
+      "t": "Comité des droits de l'enfant, observation générale n° 14 (2013), CRC/C/GC/14",
+      "u": "https://digitallibrary.un.org/record/778523/files/CRC_C_GC_14-FR.pdf"
+     }
+    },
+    {
+     "id": "n20261015-de02-11",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "En matière d'adoption, l'article 21 de la CDE fait de l'intérêt supérieur de l'enfant :",
+     "o": [
+      "une considération parmi d'autres",
+      "un critère facultatif",
+      "la considération primordiale",
+      "un critère réservé à l'adoption internationale"
+     ],
+     "a": 2,
+     "e": "L'article 21 impose aux États qui admettent l'adoption de s'assurer que l'intérêt supérieur de l'enfant est « la considération primordiale » en la matière : l'article défini marque un poids encore plus fort qu'à l'article 3.",
+     "ed": [
+      "En matière d'adoption, l'intérêt de l'enfant n'est pas une considération parmi d'autres : c'est la considération primordiale.",
+      "Le critère n'est pas facultatif : les États « s'assurent » de son respect.",
+      null,
+      "L'article 21 vise l'adoption en général, pas seulement l'adoption internationale."
+     ],
+     "src": {
+      "t": "UNICEF, texte de la Convention relative aux droits de l'enfant (1989)",
+      "u": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention"
+     }
+    },
+    {
+     "id": "n20261015-de02-12",
+     "m": "denf",
+     "tag": "niv-de02",
+     "q": "Selon l'article 3 de la loi ivoirienne n° 2019-572, l'autorité parentale a pour finalité :",
+     "o": [
+      "l'intérêt de la famille élargie",
+      "l'intérêt de l'enfant",
+      "l'intérêt du père",
+      "la préservation du patrimoine familial"
+     ],
+     "a": 1,
+     "e": "L'article 3 définit l'autorité parentale comme l'ensemble des droits et obligations des père et mère sur la personne et les biens de leur enfant mineur, « ayant pour finalité l'intérêt de celui-ci ».",
+     "ed": [
+      "La loi ne vise pas l'intérêt de la famille élargie, mais celui de l'enfant.",
+      null,
+      "L'autorité parentale appartient aux deux parents et n'a pas pour finalité l'intérêt du père.",
+      "Les biens de l'enfant sont concernés, mais la finalité reste son intérêt, pas le patrimoine familial."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire, loi n° 2019-572 du 26 juin 2019 relative à la minorité (CIVLII)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261015-rd02-01",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Dans une lettre administrative, que signifie l'abréviation « S/C » placée sous le nom du destinataire ?",
+     "o": [
+      "Sans commentaire",
+      "Service central",
+      "Sous couvert",
+      "Suite à communication"
+     ],
+     "a": 2,
+     "e": "« S/C » signifie « sous couvert » : la lettre passe par le supérieur intermédiaire, conformément à la voie hiérarchique, avant d'arriver à son destinataire.",
+     "ed": [
+      "« Sans commentaire » n'est pas une mention de la lettre administrative.",
+      "« Service central » ne correspond pas à cette abréviation, qui marque la voie hiérarchique.",
+      null,
+      "« Suite à communication » n'existe pas comme mention ; les échanges antérieurs se citent dans les références."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-rd02-02",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Dans le corps d'une lettre administrative, quelle personne grammaticale emploie l'auteur ?",
+     "o": [
+      "La première personne du singulier : « je »",
+      "Le pronom indéfini « on »",
+      "La première personne du pluriel : « nous »",
+      "La troisième personne : « le soussigné » dans chaque phrase"
+     ],
+     "a": 0,
+     "e": "L'auteur d'une lettre administrative écrit à la première personne du singulier (« je ») : il engage sa responsabilité ; « on » est vague et « nous » est réservé à des usages particuliers.",
+     "ed": [
+      null,
+      "« On » est indéfini : il ne dit pas qui agit ni qui est responsable.",
+      "« Nous » est réservé aux textes réglementaires ou aux usages de modestie ou de majesté.",
+      "Répéter « le soussigné » alourdit la lettre ; le « je » suffit."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-rd02-03",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Lequel de ces verbes un agent peut-il employer dans une lettre adressée à son supérieur hiérarchique ?",
+     "o": [
+      "Ordonner",
+      "Solliciter",
+      "Prescrire",
+      "Enjoindre"
+     ],
+     "a": 1,
+     "e": "Le vocabulaire suit la hiérarchie : le subordonné rend compte, expose, sollicite, propose ou suggère, tandis que le supérieur informe, prie, convie, ordonne ou prescrit.",
+     "ed": [
+      "« Ordonner » est réservé au supérieur qui s'adresse à un subordonné.",
+      null,
+      "« Prescrire » marque l'autorité du supérieur sur le subordonné.",
+      "« Enjoindre », c'est ordonner expressément : un subordonné ne peut l'employer envers son supérieur."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-rd02-04",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Une lettre commence par l'appel « Monsieur le Directeur, ». Quelle formule finale est correcte ?",
+     "o": [
+      "Veuillez agréer l'expression de mes salutations distinguées.",
+      "Cordialement.",
+      "Je vous prie d'agréer, Monsieur le Directeur, l'expression de ma haute considération.",
+      "Je vous prie d'agréer, Cher ami, mes sentiments."
+     ],
+     "a": 2,
+     "e": "La formule de politesse reprend exactement la formule d'appel entre virgules et se termine par un point ; « l'expression de ma haute considération » convient envers une autorité.",
+     "ed": [
+      "Elle ne reprend pas l'appel, et « l'expression de » ne se construit pas avec « salutations ».",
+      "« Cordialement » est une formule brève de courriel, pas une formule de lettre administrative.",
+      null,
+      "Elle ne reprend pas l'appel « Monsieur le Directeur » et le ton familier est déplacé."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "OQLF, Vitrine linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261015-rd02-05",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Laquelle de ces formules de politesse est fautive ?",
+     "o": [
+      "Veuillez agréer, Madame la Directrice, l'expression de mes salutations distinguées.",
+      "Veuillez agréer, Madame la Directrice, mes salutations distinguées.",
+      "Je vous prie d'agréer, Madame la Directrice, l'expression de ma considération respectueuse.",
+      "Je vous prie d'agréer, Madame la Directrice, l'assurance de ma considération distinguée."
+     ],
+     "a": 0,
+     "e": "« L'expression de » et « l'assurance de » ne peuvent pas avoir « salutations » pour complément : on écrit « mes salutations distinguées » sans « l'expression de ».",
+     "ed": [
+      null,
+      "Cette formule est correcte : « salutations » s'emploie sans « l'expression de ».",
+      "Cette formule est correcte et adaptée à une autorité.",
+      "Cette formule est correcte : « l'assurance de ma considération distinguée » convient à une autorité."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "OQLF, Vitrine linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261015-rd02-06",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Vous écrivez pour la première fois au ministre de la Fonction publique. Quelle formule d'appel choisir ?",
+     "o": [
+      "Cher Monsieur le Ministre,",
+      "Monsieur le Ministre,",
+      "Cher Ministre,",
+      "À qui de droit,"
+     ],
+     "a": 1,
+     "e": "Pour une personne qui exerce une fonction officielle, l'appel indique cette fonction avec une majuscule : « Monsieur le Ministre, ». « Cher » est réservé aux personnes que l'on connaît très bien.",
+     "ed": [
+      "« Cher » ne s'emploie qu'avec une personne que l'on connaît très bien, pas avec un ministre à qui l'on écrit pour la première fois.",
+      null,
+      "« Cher Ministre » est familier et omet le titre de civilité.",
+      "« À qui de droit » ne s'emploie pas comme formule d'appel, et le destinataire est ici connu."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "OQLF, Vitrine linguistique : formules d'appel dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22099/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-dappel-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261015-rd02-07",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Dans une lettre administrative, les « ampliations » désignent :",
+     "o": [
+      "les pièces jointes",
+      "les références de la lettre précédente",
+      "la formule de politesse développée",
+      "les copies de la lettre adressées à d'autres destinataires"
+     ],
+     "a": 3,
+     "e": "Les ampliations sont les copies de la lettre adressées, pour information ou exécution, à d'autres destinataires que le destinataire principal ; elles figurent en bas de la lettre.",
+     "ed": [
+      "Les pièces jointes sont les documents annexés, signalés sous l'objet.",
+      "Les références renvoient aux documents antérieurs auxquels la lettre se rattache.",
+      "La formule de politesse clôt le corps ; elle n'a rien à voir avec les ampliations.",
+      null
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-rd02-08",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Que doit comporter la signature d'une lettre administrative ?",
+     "o": [
+      "Le seul paraphe, sans nom",
+      "La qualité du signataire, ses prénoms et son nom",
+      "Le seul tampon du service",
+      "Les initiales de la secrétaire"
+     ],
+     "a": 1,
+     "e": "Tout document administratif doit être signé, avec l'indication de la qualité du signataire, de ses prénoms et de son nom : on sait ainsi qui engage l'administration.",
+     "ed": [
+      "Un paraphe sans nom ne permet pas d'identifier le signataire.",
+      null,
+      "Un tampon seul ne dit pas qui a signé ni en quelle qualité.",
+      "Les initiales de la secrétaire identifient la saisie, pas le signataire responsable."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-rd02-09",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Un agent demande une attestation de travail pour son propre compte. Quelle forme de lettre emploie-t-il ?",
+     "o": [
+      "La forme personnelle",
+      "La note de service",
+      "La forme administrative, de service à service",
+      "Le procès-verbal"
+     ],
+     "a": 0,
+     "e": "Un agent qui écrit pour son propre compte (congé, attestation, mutation) emploie la lettre de forme personnelle : il indique ses nom, matricule, emploi et adresse en haut à gauche.",
+     "ed": [
+      null,
+      "La note de service donne des instructions au personnel ; elle n'est pas une demande individuelle.",
+      "La forme administrative traite une affaire de l'administration entre services, pas un intérêt personnel.",
+      "Le procès-verbal relate officiellement des faits ou des débats ; ce n'est pas une demande."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-rd02-10",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Un agent de la direction régionale de Korhogo écrit au Directeur général pour solliciter une formation. Son chef direct est le Directeur régional. Que doit-il faire ?",
+     "o": [
+      "Écrire directement au Directeur général sans en informer personne",
+      "Demander au Directeur général de prévenir ensuite le Directeur régional",
+      "Adresser sa lettre au Directeur général sous couvert du Directeur régional",
+      "Envoyer sa demande par simple message à un collègue de la direction générale"
+     ],
+     "a": 2,
+     "e": "La lettre doit suivre la voie hiérarchique : elle est adressée au Directeur général « sous couvert » (S/C) du Directeur régional, qui en est informé et peut donner son avis.",
+     "ed": [
+      "Écrire sans passer par son chef court-circuite la voie hiérarchique.",
+      "C'est à l'agent, et non au Directeur général, de respecter la voie hiérarchique dès l'envoi.",
+      null,
+      "Un message informel à un collègue n'est ni une lettre administrative ni une voie hiérarchique."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-rd02-11",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Dans le corps d'une lettre administrative, que contient la conclusion ?",
+     "o": [
+      "Le rappel de l'en-tête",
+      "Une décision, une proposition ou une demande qui découle du développement",
+      "Les références de la lettre précédente",
+      "La liste des ampliations"
+     ],
+     "a": 1,
+     "e": "Le corps comporte trois parties : l'introduction pose l'affaire, le développement l'examine avec des faits et des textes précis, la conclusion énonce la décision, la proposition ou la demande qui en découle.",
+     "ed": [
+      "L'en-tête figure en haut de la lettre, pas dans le corps.",
+      null,
+      "Les références se placent sous l'objet, avant le corps.",
+      "Les ampliations se placent en bas de la lettre, après la signature."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-rd02-12",
+     "m": "redac",
+     "tag": "niv-rd02",
+     "q": "Une lettre répond à « votre lettre n° 112/DRH du 4 avril ». Où cette indication doit-elle figurer ?",
+     "o": [
+      "Dans l'objet, à la place du sujet de la lettre",
+      "Dans la formule de politesse",
+      "Dans la signature",
+      "Dans les références"
+     ],
+     "a": 3,
+     "e": "Les références, placées sous l'objet, signalent le document auquel la lettre se rattache ; l'objet, lui, résume en quelques mots le sujet traité.",
+     "ed": [
+      "L'objet résume le sujet de la lettre ; il ne remplace pas les références.",
+      "La formule de politesse ne contient aucune référence de document.",
+      "La signature identifie le signataire, pas les documents antérieurs.",
+      null
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+      "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+     }
+    },
+    {
+     "id": "n20261015-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville l'Organisation des pays exportateurs de pétrole (OPEP) a-t-elle été créée le 14 septembre 1960 ?",
+     "o": [
+      "Riyad",
+      "Vienne",
+      "Caracas",
+      "Bagdad"
+     ],
+     "a": 3,
+     "e": "L'OPEP a été créée à Bagdad (Irak) le 14 septembre 1960 par l'Iran, l'Irak, le Koweït, l'Arabie saoudite et le Venezuela ; son siège, d'abord à Genève, a été transféré à Vienne en 1965.",
+     "ed": [
+      "Riyad est la capitale de l'Arabie saoudite, membre fondateur, mais l'OPEP n'y a pas été créée.",
+      "Vienne est le siège de l'OPEP depuis 1965, pas son lieu de création.",
+      "Caracas est la capitale du Venezuela, membre fondateur, mais la conférence fondatrice s'est tenue à Bagdad.",
+      null
+     ],
+     "src": {
+      "t": "Les clés du Moyen-Orient, « L'OPEP fête ses 50 ans »",
+      "u": "https://www.lesclesdumoyenorient.com/L-OPEP-fete-ses-50-ans.html"
+     }
+    },
+    {
+     "id": "n20261015-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le siège du Secrétariat de la Communauté de développement d'Afrique australe (SADC) ?",
+     "o": [
+      "Gaborone",
+      "Pretoria",
+      "Harare",
+      "Lusaka"
+     ],
+     "a": 0,
+     "e": "Le siège du Secrétariat de la SADC se trouve à Gaborone, au Botswana, dans le quartier central des affaires, comme l'indique le site officiel de l'organisation.",
+     "ed": [
+      null,
+      "Pretoria est une capitale de l'Afrique du Sud, pas le siège du Secrétariat de la SADC.",
+      "Harare est la capitale du Zimbabwe, pas le siège du Secrétariat de la SADC.",
+      "Lusaka est la capitale de la Zambie, pas le siège du Secrétariat de la SADC."
+     ],
+     "src": {
+      "t": "SADC, « Where are the SADC Offices? »",
+      "u": "https://www.sadc.int/fr/node/3275"
+     }
+    },
+    {
+     "id": "n20261015-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Où se trouve le siège de la Communauté d'Afrique de l'Est (EAC) ?",
+     "o": [
+      "Nairobi (Kenya)",
+      "Arusha (Tanzanie)",
+      "Kampala (Ouganda)",
+      "Kigali (Rwanda)"
+     ],
+     "a": 1,
+     "e": "La Communauté d'Afrique de l'Est, dont le traité est entré en vigueur le 7 juillet 2000, a son siège à Arusha, en Tanzanie, selon la fiche de l'Union africaine consacrée à cette communauté économique régionale.",
+     "ed": [
+      "Nairobi est la capitale du Kenya, membre de l'EAC, mais pas son siège.",
+      null,
+      "Kampala est la capitale de l'Ouganda, membre de l'EAC, mais pas son siège.",
+      "Kigali est la capitale du Rwanda, membre de l'EAC depuis 2007, mais pas son siège."
+     ],
+     "src": {
+      "t": "Union africaine, « East African Community (EAC) »",
+      "u": "https://au.int/en/recs/eac"
+     }
+    },
+    {
+     "id": "n20261015-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La Ligue des États arabes a été fondée le 22 mars 1945 dans quelle ville ?",
+     "o": [
+      "Damas",
+      "Tunis",
+      "Le Caire",
+      "Bagdad"
+     ],
+     "a": 2,
+     "e": "La charte de la Ligue arabe a été signée au Caire le 22 mars 1945 par sept États ; son siège, transféré à Tunis en 1979, est revenu au Caire en 1990.",
+     "ed": [
+      "Damas est la capitale de la Syrie, membre fondateur, mais la Ligue n'y a pas été fondée.",
+      "Tunis n'a accueilli le siège qu'à partir de 1979, à titre provisoire, avant son retour au Caire en 1990.",
+      null,
+      "Bagdad est la capitale de l'Irak, membre fondateur, mais la Ligue n'y a pas été fondée."
+     ],
+     "src": {
+      "t": "Larousse, encyclopédie : Ligue arabe",
+      "u": "https://www.larousse.fr/encyclopedie/divers/Ligue_arabe/105875"
+     }
+    },
+    {
+     "id": "n20261015-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Les traités de Rome du 25 mars 1957 ont créé la Communauté économique européenne et :",
+     "o": [
+      "la Communauté européenne de l'énergie atomique (Euratom)",
+      "l'Organisation du traité de l'Atlantique Nord",
+      "le Conseil de l'Europe",
+      "la Banque centrale européenne"
+     ],
+     "a": 0,
+     "e": "Signés le 25 mars 1957 par l'Allemagne, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas, les traités de Rome ont créé la Communauté économique européenne (CEE) et la Communauté européenne de l'énergie atomique (Euratom).",
+     "ed": [
+      null,
+      "L'OTAN est née du traité de Washington du 4 avril 1949, pas des traités de Rome.",
+      "Le Conseil de l'Europe n'est pas issu des traités de Rome, qui ont créé la CEE et Euratom.",
+      "La Banque centrale européenne n'est pas issue des traités de Rome, qui ont créé la CEE et Euratom."
+     ],
+     "src": {
+      "t": "Ministère français de l'Europe et des Affaires étrangères, infographie « Les traités de Rome »",
+      "u": "https://www.diplomatie.gouv.fr/IMG/pdf/0816-0817-0818-traites_de_rome_infogr_3__cle0617bd-1.pdf"
+     }
+    },
+    {
+     "id": "n20261015-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville les chefs d'État de la Communauté économique des États de l'Afrique centrale (CEEAC) ont-ils confirmé, en mars 2024, le maintien du siège de l'organisation ?",
+     "o": [
+      "Yaoundé",
+      "Libreville",
+      "Kinshasa",
+      "N'Djamena"
+     ],
+     "a": 1,
+     "e": "En mars 2024, les chefs d'État de la CEEAC ont réaffirmé « d'une manière définitive » que le siège de l'organisation, créée en 1983 par un traité signé à Libreville, reste à Libreville (Gabon).",
+     "ed": [
+      "Yaoundé est la capitale du Cameroun, pas le siège de la CEEAC.",
+      null,
+      "Kinshasa est la capitale de la RD Congo, pas le siège de la CEEAC.",
+      "N'Djamena est la capitale du Tchad, pas le siège de la CEEAC."
+     ],
+     "src": {
+      "t": "Le360 Afrique, « Afrique centrale : levée de sanctions contre le Gabon et maintien du siège de la CEEAC à Libreville » (10 mars 2024)",
+      "u": "https://afrique.le360.ma/politique/afrique-centrale-levee-de-sanctions-contre-le-gabon-et-maintien-du-siege-de-la-ceeac-a-libreville_4OW6NNVPBVCUVBAIWN3UUI2WQY/"
+     }
     }
    ],
    "lessons": [
@@ -11289,9 +12309,288 @@
      },
      "niv": "ec01",
      "verif": "methode"
+    },
+    {
+     "id": "L20261015cm02",
+     "niv": "cm02",
+     "m": "cmc",
+     "titre": "L'ordre mondial depuis 1945 : de la bipolarité au monde multipolaire",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer les grandes étapes de l'ordre mondial depuis 1945 (guerre froide, décolonisation, fin de la bipolarité), les dater sans erreur et les mobiliser dans une dissertation.",
+      "= Vous saurez aussi discuter la notion de « monde multipolaire » avec des arguments pour et contre.",
+      "## Ce que le concours demande",
+      "En connaissance du monde contemporain, l'ordre mondial depuis 1945 est le socle de presque tous les sujets : multilatéralisme, place de l'Afrique, sécurité, mondialisation. Le correcteur attend des repères exacts et une lecture d'ensemble : comment est-on passé d'un monde coupé en deux blocs à un monde où plusieurs puissances comptent ? À la présélection, les mêmes repères reviennent sous forme de QCM de dates et d'organisations.",
+      "! Le piège habituel : confondre les dates proches (accords de Minsk du 8 décembre 1991 et dissolution de l'URSS le 26 décembre 1991 ; Bandung 1955 et Belgrade 1961) ou plaquer une chronologie sans l'expliquer.",
+      "## La méthode, pas à pas",
+      "- 1. Retenez quatre périodes : la mise en place (1944-1947), la guerre froide (1947-1991), la décolonisation qui la traverse (années 1950-1960), l'après-guerre froide (depuis 1991).",
+      "- 2. Pour chaque période, mémorisez deux ou trois dates sûres et une institution.",
+      "- 3. Pour chaque fait, demandez-vous « pourquoi ? » et « avec quelles conséquences ? » : c'est ce qui transforme une date en argument.",
+      "- 4. Reliez systématiquement à l'Afrique et à la Côte d'Ivoire (indépendance, non-alignement, coopération).",
+      "- 5. Le jour de l'épreuve, n'utilisez que les dates dont vous êtes sûr ; à défaut, situez par la décennie."
+     ],
+     "fond": [
+      "## 1. 1944-1945 : un nouvel ordre fondé sur des institutions",
+      "Avant même la fin de la Seconde Guerre mondiale, les Alliés construisent des institutions pour éviter la répétition des catastrophes des années 1930. En juillet 1944, la conférence monétaire et financière de Bretton Woods crée le Fonds monétaire international (FMI) et la Banque internationale pour la reconstruction et le développement (BIRD), dite Banque mondiale ; le dollar américain devient de fait la monnaie de référence. Le 26 juin 1945, 51 pays signent à San Francisco la Charte des Nations unies, qui entre en vigueur le 24 octobre 1945.",
+      "Pourquoi ces institutions ? La crise de 1929 et la guerre ont montré que le repli de chaque État sur lui-même mène au désordre monétaire puis au conflit. L'idée est de régler les problèmes communs par la coopération : c'est la naissance du multilatéralisme moderne.",
+      "~ Exemple d'utilisation : sujet « Le multilatéralisme est-il encore utile ? ». Accroche possible : « Signée à San Francisco le 26 juin 1945 par 51 pays, la Charte des Nations unies traduisait une conviction : la paix se construit ensemble. » La date, le lieu et le chiffre sont exacts ; l'idée annonce le sujet.",
+      "## 2. 1947-1991 : la guerre froide, un monde bipolaire",
+      "La guerre froide est l'affrontement indirect entre les États-Unis et l'URSS, chacun à la tête d'un bloc, sans guerre directe entre eux. En mars 1947, la doctrine Truman fixe la stratégie américaine d'endiguement (containment) du communisme ; en juin 1947, le plan Marshall offre une aide économique à l'Europe. Le blocus de Berlin (juin 1948-mai 1949) accélère la signature à Washington, le 4 avril 1949, du traité de l'Atlantique Nord (OTAN) par 12 pays. En 1955, l'URSS répond par le pacte de Varsovie.",
+      "Pourquoi « froide » ? Parce que la dissuasion nucléaire rend la guerre directe trop dangereuse : les deux Grands s'affrontent par crises, alliances, propagande et conflits périphériques. Le mur de Berlin, construit en août 1961, et la crise des missiles de Cuba d'octobre 1962, où Kennedy obtient de Khrouchtchev le retrait des missiles soviétiques, montrent jusqu'où peut aller la tension.",
+      "! Piège : le mur de Berlin n'a pas ouvert la guerre froide (1961) et sa chute (novembre 1989) ne marque pas la disparition de l'URSS (décembre 1991).",
+      "? Classez dans l'ordre chronologique : pacte de Varsovie, doctrine Truman, traité de l'Atlantique Nord, crise de Cuba. || Doctrine Truman (mars 1947), traité de l'Atlantique Nord (avril 1949), pacte de Varsovie (1955), crise de Cuba (octobre 1962). Le raisonnement aide la mémoire : la doctrine fixe la stratégie, l'alliance occidentale en découle, puis le bloc soviétique réplique.",
+      "## 3. La décolonisation et l'émergence du tiers-monde",
+      "Pendant la guerre froide, les peuples colonisés obtiennent leur indépendance. Du 18 au 24 avril 1955, la conférence de Bandung (Indonésie) réunit 29 pays d'Asie et d'Afrique, qui adoptent dix principes inspirés de la Charte des Nations unies. Du 1er au 6 septembre 1961, le sommet de Belgrade, présidé par Tito, en présence de Nehru, Nasser, Nkrumah et Sukarno, réunit 25 États et fonde le mouvement des non-alignés : refuser de choisir entre les deux blocs.",
+      "1960 est « l'année de l'Afrique » : 17 pays africains accèdent à l'indépendance, dont 14 anciennes colonies françaises. Le 7 août 1960, Félix Houphouët-Boigny proclame l'indépendance de la Côte d'Ivoire. Le 14 décembre 1960, l'Assemblée générale des Nations unies adopte la résolution 1514 (XV), « Déclaration sur l'octroi de l'indépendance aux pays et aux peuples coloniaux », qui affirme le droit des peuples à disposer d'eux-mêmes.",
+      "Pourquoi le non-alignement ? Les nouveaux États veulent préserver leur souveraineté toute neuve et consacrer leurs ressources au développement plutôt qu'à la rivalité des Grands.",
+      "? Un candidat écrit : « Le mouvement des non-alignés est né à Bandung en 1955. » Corrigez. || Bandung (avril 1955) est une étape préparatoire, une conférence afro-asiatique de 29 pays. Le mouvement des non-alignés est fondé au sommet de Belgrade, en septembre 1961. Formulation juste : « Préparé par la conférence de Bandung (1955), le non-alignement s'organise au sommet de Belgrade (1961). »",
+      "## 4. 1989-1991 : la fin de la bipolarité",
+      "En novembre 1989, le mur de Berlin est démantelé. En avril 1991, la structure militaire du pacte de Varsovie est dissoute. Le 8 décembre 1991, les dirigeants de la Russie, de l'Ukraine et de la Biélorussie concluent à Minsk des accords qui prévoient la dissolution de l'URSS ; le 21 décembre, à Alma-Ata, 11 des 15 républiques l'entérinent ; Gorbatchev démissionne le 25 décembre et l'URSS est officiellement dissoute le 26 décembre 1991. La Russie reprend son siège de membre permanent au Conseil de sécurité.",
+      "~ Exemple résolu de raisonnement : « Pourquoi parle-t-on de monde unipolaire au début des années 1990 ? » Étape 1 : l'URSS disparaît en décembre 1991. Étape 2 : les États-Unis restent la seule superpuissance à la fois militaire, économique et culturelle. Étape 3 : on parle donc de « moment unipolaire », c'est-à-dire d'une domination d'un seul pôle.",
+      "## 5. Depuis les années 2000 : un monde multipolaire ?",
+      "De nouvelles puissances s'affirment. Le premier sommet des BRIC (Brésil, Russie, Inde, Chine) se tient le 16 juin 2009 à Iekaterinbourg ; l'Afrique du Sud les rejoint en 2011 et le groupe devient les BRICS.",
+      "Débat réutilisable. Pour la multipolarité : poids économique croissant de la Chine et des émergents, affirmation de l'Afrique et de ses organisations, diversification des partenaires. Contre : les États-Unis gardent une avance militaire et financière, les émergents restent divisés, et certains auteurs parlent plutôt d'un monde « apolaire » ou fragmenté, où aucune puissance n'organise l'ordre.",
+      "? Problématisez : « L'Afrique dans l'ordre mondial depuis 1945. » || Par exemple : « De continent dominé à acteur qui revendique sa place, l'Afrique a-t-elle réussi, depuis les indépendances, à peser sur un ordre mondial conçu sans elle ? » Plan possible : I. Un ordre construit sans l'Afrique, puis desserré par la décolonisation et le non-alignement ; II. Une Afrique qui cherche à peser dans un monde devenu multipolaire."
+     ],
+     "retenir": [
+      "Juillet 1944, Bretton Woods : création du FMI et de la BIRD (Banque mondiale).",
+      "La Charte des Nations unies est signée à San Francisco le 26 juin 1945 par 51 pays et entre en vigueur le 24 octobre 1945.",
+      "Guerre froide : doctrine Truman (mars 1947), OTAN (4 avril 1949, 12 pays), pacte de Varsovie (1955), crise de Cuba (1962).",
+      "Bandung (avril 1955) réunit 29 pays d'Asie et d'Afrique ; le mouvement des non-alignés naît à Belgrade en septembre 1961.",
+      "1960, année de l'Afrique : 17 indépendances, dont la Côte d'Ivoire le 7 août ; résolution 1514 de l'ONU le 14 décembre.",
+      "L'URSS est officiellement dissoute le 26 décembre 1991 ; la Russie reprend son siège au Conseil de sécurité.",
+      "Premier sommet des BRIC en 2009 à Iekaterinbourg ; l'Afrique du Sud les rejoint en 2011 (BRICS)."
+     ],
+     "exo": {
+      "tag": "niv-cm02",
+      "n": 12,
+      "ecrit": "cmc"
+     },
+     "sources": [
+      {
+       "t": "UNRIC, « La Charte des Nations Unies en 5 questions »",
+       "u": "https://unric.org/fr/la-charte-des-nations-unies-en-5-questions/"
+      },
+      {
+       "t": "Larousse, encyclopédie : accords de Bretton Woods",
+       "u": "https://www.larousse.fr/encyclopedie/divers/wd/133686"
+      },
+      {
+       "t": "Larousse, encyclopédie : guerre froide",
+       "u": "https://www.larousse.fr/encyclopedie/divers/guerre_froide/122564"
+      },
+      {
+       "t": "OTAN, « Traité de l'Atlantique Nord » (historique)",
+       "u": "https://www.nato.int/cps/fr/natohq/topics_67656.htm"
+      },
+      {
+       "t": "Wikipedia, Bandung Conference",
+       "u": "https://en.wikipedia.org/wiki/Bandung_Conference"
+      },
+      {
+       "t": "Wikipedia, 1st Summit of the Non-Aligned Movement (Belgrade, 1961)",
+       "u": "https://en.wikipedia.org/wiki/1st_Summit_of_the_Non-Aligned_Movement"
+      },
+      {
+       "t": "Wikipedia, Year of Africa (1960)",
+       "u": "https://en.wikipedia.org/wiki/Year_of_Africa"
+      },
+      {
+       "t": "Documents diplomatiques suisses (Dodis), dossier « 1960, année de l'Afrique »",
+       "u": "https://www.dodis.ch/res/doc/Media-2010-06-01-Afrique.pdf"
+      },
+      {
+       "t": "Bibliothèque numérique de l'ONU, résolution A/RES/1514(XV)",
+       "u": "https://digitallibrary.un.org/record/206145?ln=fr"
+      },
+      {
+       "t": "APA News, « Côte d'Ivoire : le 7 août 1960, proclamation de l'indépendance »",
+       "u": "https://fr.apanews.net/news/cote-divoire-le-7-aout-1960-proclamation-de-lindependance/"
+      },
+      {
+       "t": "Le Temps, « Il y a 50 ans, la crise des missiles cubains »",
+       "u": "https://www.letemps.ch/opinions/y-50-ans-crise-missiles-cubains"
+      },
+      {
+       "t": "Vikidia, Dislocation de l'URSS",
+       "u": "https://fr.vikidia.org/wiki/Dislocation_de_l%27URSS"
+      },
+      {
+       "t": "Hérodote.net, « BRICS »",
+       "u": "https://www.herodote.net/BRICS-mot-600.php"
+      }
+     ]
+    },
+    {
+     "id": "L20261015de02",
+     "niv": "de02",
+     "m": "denf",
+     "titre": "La notion d'enfant et l'intérêt supérieur de l'enfant",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir juridiquement l'enfant selon la Convention des Nations unies de 1989, la Charte africaine de 1990 et la loi ivoirienne de 2019 sur la minorité, et distinguer ces définitions.",
+      "= Vous saurez aussi expliquer et appliquer le principe de l'intérêt supérieur de l'enfant dans un cas pratique.",
+      "## Ce que le concours demande",
+      "En droits de l'enfant, ces deux notions ouvrent presque toutes les copies : on ne peut traiter ni un cas pratique ni une dissertation sans dire qui est un enfant et quel principe guide les décisions qui le concernent. Les QCM portent sur l'âge, la source exacte de chaque définition et la formulation du principe. Le piège classique : confondre « une considération primordiale » (Convention de 1989, article 3) et « la considération primordiale » (Charte africaine, article 4 ; Convention, article 21 sur l'adoption).",
+      "## La méthode, pas à pas",
+      "- 1. Qualifier : la personne a-t-elle moins de 18 ans ? Citez la source (Convention, Charte, loi ivoirienne).",
+      "- 2. Identifier l'auteur de la décision : tribunal, autorité administrative, institution de protection sociale, législateur, parent.",
+      "- 3. Énoncer le principe : l'intérêt supérieur de l'enfant doit être une considération primordiale.",
+      "- 4. Évaluer concrètement les effets de chaque solution possible sur cet enfant, en recueillant son opinion selon son âge et sa maturité.",
+      "- 5. Conclure par la solution qui sert le mieux son intérêt et motiver ce choix.",
+      "! Ne citez pas un article dont vous n'êtes pas sûr : citez le texte sans numéro."
+     ],
+     "fond": [
+      "## 1. Qui est un enfant ? La définition internationale",
+      "La Convention relative aux droits de l'enfant (CDE), adoptée par l'Assemblée générale des Nations unies le 20 novembre 1989 (résolution 44/25) et entrée en vigueur le 2 septembre 1990, pose la définition de référence dans son article 1 : « un enfant s'entend de tout être humain âgé de moins de dix-huit ans, sauf si la majorité est atteinte plus tôt en vertu de la législation qui lui est applicable ».",
+      "Pourquoi un critère d'âge ? Parce qu'il est objectif et facile à vérifier : il évite de juger au cas par cas la « maturité » de chacun et garantit la même protection à tous. La réserve finale (« sauf si la majorité est atteinte plus tôt ») est une concession aux États dont le droit fixait une majorité plus précoce.",
+      "## 2. La définition africaine et la définition ivoirienne",
+      "La Charte africaine des droits et du bien-être de l'enfant (CADBE), adoptée à Addis-Abeba en juillet 1990 par la 26e Conférence des chefs d'État et de gouvernement de l'OUA, est plus protectrice : son article 2 dispose qu'on entend par enfant « tout être humain âgé de moins de 18 ans », sans réserve. Elle interdit aussi le mariage des enfants et fixe l'âge minimal du mariage à 18 ans (article 21, alinéa 2).",
+      "En Côte d'Ivoire, la loi n° 2019-572 du 26 juin 2019 relative à la minorité dispose en son article premier : « Est mineure, la personne qui n'a pas encore atteint l'âge de dix-huit ans accomplis. » Le mineur peut être émancipé par ses père et mère à partir de seize ans révolus (article 120) ; l'émancipation le libère de l'autorité parentale ou de la tutelle (article 119), mais ne change pas son âge.",
+      "Pourquoi la Charte africaine supprime-t-elle la réserve ? Pour empêcher qu'une coutume ou une loi nationale fasse sortir trop tôt un enfant de la protection, notamment par le mariage précoce.",
+      "~ Cas résolu : Awa, 17 ans, vit à Bouaké. Est-elle une enfant au sens des textes applicables en Côte d'Ivoire ? Étape 1 : CDE, article 1 : moins de 18 ans, donc enfant, sauf majorité plus précoce. Étape 2 : la loi ivoirienne fixe la minorité à 18 ans accomplis : pas de majorité plus précoce. Étape 3 : CADBE, article 2 : moins de 18 ans, sans réserve. Conclusion : Awa est une enfant au regard des trois textes et bénéficie de leur protection.",
+      "? Kofi, 16 ans et demi, a été émancipé par ses parents. Est-il encore un enfant au sens de la Charte africaine ? || Oui. L'émancipation (possible à partir de 16 ans révolus selon l'article 120 de la loi ivoirienne) le libère de l'autorité parentale, mais la Charte africaine définit l'enfant par le seul âge : tout être humain de moins de 18 ans. Kofi reste donc un enfant protégé par la Charte.",
+      "## 3. L'intérêt supérieur de l'enfant : le principe",
+      "Article 3, paragraphe 1, de la CDE : dans toutes les décisions qui concernent les enfants, qu'elles soient le fait des institutions publiques ou privées de protection sociale, des tribunaux, des autorités administratives ou des organes législatifs, « l'intérêt supérieur de l'enfant doit être une considération primordiale ». La Charte africaine va plus loin (article 4, paragraphe 1) : dans toute action concernant un enfant, entreprise par une quelconque personne ou autorité, cet intérêt est « la considération primordiale ». La CDE retient aussi l'article défini pour l'adoption (article 21).",
+      "Pourquoi ce principe ? L'enfant dépend des adultes et peut difficilement défendre lui-même ses intérêts. Le Comité des droits de l'enfant le rappelle : son intérêt « n'est pas une considération parmi d'autres seulement » ; il doit recevoir un rang élevé de priorité (observation générale n° 14, 2013, paragraphe 39).",
+      "! Piège : « une » considération primordiale (CDE, article 3) ne signifie pas « la seule » considération ; d'autres intérêts peuvent être pris en compte, mais celui de l'enfant pèse d'un poids prioritaire.",
+      "## 4. Un concept triple et quatre principes généraux",
+      "Selon l'observation générale n° 14 (2013), l'intérêt supérieur est à la fois : un droit de fond, que l'enfant peut invoquer devant un tribunal ; un principe juridique interprétatif, qui commande de choisir, entre plusieurs interprétations d'une règle, celle qui sert le plus efficacement l'intérêt de l'enfant ; une règle de procédure, qui impose d'évaluer les effets d'une décision sur l'enfant concerné. C'est l'un des quatre principes généraux de la Convention, avec la non-discrimination (article 2), le droit à la vie, à la survie et au développement (article 6) et le droit d'exprimer librement son opinion, prise en considération selon l'âge et la maturité (article 12).",
+      "~ Application en droit ivoirien : la loi de 2019 fait de l'intérêt de l'enfant la finalité de l'autorité parentale (article 3). En cas de désaccord entre les parents mariés, le juge « statue en considérant l'intérêt de l'enfant » (article 5), et il peut confier la garde à un tiers « dans l'intérêt exclusif de l'enfant » (article 8).",
+      "? Un juge hésite entre deux lectures d'une règle sur la garde : l'une favorise la stabilité scolaire de l'enfant, l'autre la commodité d'un parent. Quelle dimension de l'intérêt supérieur doit-il appliquer, et avec quel résultat ? || La dimension de principe interprétatif : lorsqu'une règle admet plusieurs interprétations, il faut retenir celle qui sert le plus efficacement l'intérêt de l'enfant. Il choisira donc la lecture qui préserve la stabilité scolaire, après avoir évalué ses effets et entendu l'enfant s'il est capable de discernement.",
+      "? Pourquoi faut-il entendre l'enfant avant de décider de son intérêt ? || Parce que l'article 12 de la CDE lui reconnaît le droit d'exprimer librement son opinion sur toute question l'intéressant, prise en considération selon son âge et sa maturité. L'article 3 fixe l'objectif (son intérêt), l'article 12 la méthode (l'écouter) : les deux principes sont complémentaires."
+     ],
+     "retenir": [
+      "CDE, article 1 : est un enfant tout être humain de moins de 18 ans, sauf majorité atteinte plus tôt selon la loi applicable.",
+      "Charte africaine, article 2 : est un enfant tout être humain de moins de 18 ans, sans aucune réserve.",
+      "Loi ivoirienne n° 2019-572 : est mineure la personne qui n'a pas atteint 18 ans accomplis ; émancipation possible à 16 ans révolus.",
+      "CDE, article 3 : l'intérêt supérieur de l'enfant est « une considération primordiale » dans toutes les décisions qui le concernent.",
+      "Charte africaine, article 4, et CDE, article 21 (adoption) : l'intérêt de l'enfant est « la considération primordiale ».",
+      "Observation générale n° 14 (2013) : l'intérêt supérieur est un droit de fond, un principe interprétatif et une règle de procédure.",
+      "Quatre principes généraux de la CDE : non-discrimination (art. 2), intérêt supérieur (art. 3), vie et développement (art. 6), opinion de l'enfant (art. 12)."
+     ],
+     "exo": {
+      "tag": "niv-de02",
+      "n": 12,
+      "ecrit": "denf"
+     },
+     "sources": [
+      {
+       "t": "UNICEF, texte de la Convention relative aux droits de l'enfant (1989)",
+       "u": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention"
+      },
+      {
+       "t": "Humanium, texte intégral de la Convention relative aux droits de l'enfant",
+       "u": "https://www.humanium.org/fr/texte-integral-convention-internationale-relative-droits-enfant-1989/"
+      },
+      {
+       "t": "Union africaine, Charte africaine des droits et du bien-être de l'enfant (texte français)",
+       "u": "https://au.int/sites/default/files/documents/30918-doc-acrwc-fr_0.pdf"
+      },
+      {
+       "t": "Comité des droits de l'enfant, observation générale n° 14 (2013), CRC/C/GC/14",
+       "u": "https://digitallibrary.un.org/record/778523/files/CRC_C_GC_14-FR.pdf"
+      },
+      {
+       "t": "Côte d'Ivoire, loi n° 2019-572 du 26 juin 2019 relative à la minorité (CIVLII)",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+      }
+     ]
+    },
+    {
+     "id": "L20261015rd02",
+     "niv": "rd02",
+     "m": "redac",
+     "verif": "methode",
+     "titre": "La lettre administrative : mentions, formules et voie hiérarchique",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez présenter une lettre administrative complète, distinguer la lettre de forme administrative de la lettre de forme personnelle, et choisir les formules d'appel, de courtoisie et de politesse adaptées au rang du destinataire.",
+      "## Ce que l'épreuve demande",
+      "En rédaction administrative, on vous donne une situation (un agent sollicite un congé, un directeur convoque une réunion, un service répond à une réclamation) et vous devez produire la lettre attendue. Le correcteur vérifie trois choses : la présence et la place de toutes les mentions, la correction des formules, et la clarté du corps en trois parties. Une mention oubliée ou une formule fautive se voit au premier coup d'œil et coûte des points, même si le contenu est bon.",
+      "! Pièges habituels : oublier l'objet ou la signature, écrire « Cher Monsieur le Directeur » à un supérieur, terminer par « l'expression de mes salutations distinguées », ou adresser directement au directeur général une lettre qui doit passer par la voie hiérarchique.",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez qui écrit à qui, et le rapport hiérarchique (supérieur, subordonné, égal, particulier).",
+      "- 2. Choisissez la forme : administrative (de service à service) ou personnelle (un agent ou un usager qui écrit pour son propre compte).",
+      "- 3. Posez l'en-tête et les mentions avant de rédiger le corps.",
+      "- 4. Rédigez le corps en trois parties : introduction, développement, conclusion.",
+      "- 5. Terminez par une formule de politesse qui reprend exactement la formule d'appel, puis la signature.",
+      "- 6. Relisez en cochant chaque mention."
+     ],
+     "fond": [
+      "## 1. Les mentions et leur place",
+      "La lettre administrative s'échange entre services ou agents pour traiter une affaire de l'administration. Chaque mention a une fonction : identifier, dater, classer, retrouver. Dans les documents officiels ivoiriens, l'en-tête place le ministère en haut à gauche et, en haut à droite, « RÉPUBLIQUE DE CÔTE D'IVOIRE » suivi de la devise « Union – Discipline – Travail ».",
+      "- Le timbre (ou attache) : ministère, direction, service émetteur.",
+      "- Le numéro d'enregistrement, le lieu et la date.",
+      "- La suscription : la qualité de l'expéditeur et celle du destinataire (« Le Directeur régional à Monsieur le Préfet de… »).",
+      "- L'objet, puis les références (la lettre à laquelle on répond, le texte appliqué) et les pièces jointes.",
+      "- Le corps, puis la signature (qualité, prénoms et nom) et, s'il y a lieu, les ampliations, c'est-à-dire les copies adressées à d'autres destinataires.",
+      "Pourquoi tant de mentions ? Une lettre administrative engage l'administration et doit pouvoir être retrouvée et vérifiée des années plus tard : sans numéro, date, objet et signature, elle ne peut ni être classée ni faire foi. Tout document administratif doit être signé.",
+      "? Vous répondez à la lettre n° 045 du 3 mars d'un maire. Où mentionnez-vous cette lettre ? || Dans les « Références », placées sous l'objet : « Réf. : votre lettre n° 045 du 3 mars ». L'objet dit de quoi parle la lettre ; les références disent à quel document elle se rattache. Les mélanger rend la lettre difficile à classer.",
+      "## 2. Forme administrative et forme personnelle",
+      "La lettre de forme administrative circule entre services et sert l'intérêt de l'administration. La lettre de forme personnelle est écrite par un agent ou un usager pour son propre compte (demande de congé, de mutation, d'attestation) : l'agent indique en haut à gauche ses nom et prénoms, son matricule, son emploi et son adresse ; il adresse sa lettre « À Monsieur le Directeur… » et, s'il n'écrit pas à son supérieur direct, la fait passer « sous couvert » (S/C) de la voie hiérarchique.",
+      "Pourquoi la voie hiérarchique ? Chaque supérieur intermédiaire doit être informé et pouvoir donner son avis : on ne court-circuite pas son chef de service.",
+      "~ Exemple résolu : M. Koffi Yao, secrétaire administratif à la Direction régionale de Daloa, demande un congé au Directeur des ressources humaines du ministère. Étape 1 : il écrit pour son propre compte, donc forme personnelle. Étape 2 : il n'écrit pas à son chef direct, donc voie hiérarchique. Présentation : en haut à gauche « KOFFI Yao, Secrétaire administratif, Mle … , Direction régionale de Daloa » ; à droite « Daloa, le … » ; puis « À Monsieur le Directeur des ressources humaines, S/C de Monsieur le Directeur régional de Daloa » ; « Objet : demande de congé annuel ».",
+      "## 3. Le corps : trois parties et le ton administratif",
+      "Le corps comporte trois parties : l'introduction pose l'affaire (souvent par « J'ai l'honneur de… ») ; le développement l'examine avec des faits et des textes précis ; la conclusion énonce une décision, une proposition ou une demande. On écrit à la première personne du singulier (« je ») plutôt qu'avec « on » ou « nous ». Le ton reste courtois, précis et objectif ; un refus se formule avec mesure.",
+      "Le vocabulaire suit la hiérarchie. Le supérieur informe, prie, convie, demande, prescrit. Le subordonné rend compte, expose, sollicite, propose, suggère.",
+      "! Un subordonné n'« ordonne » ni ne « prescrit » rien à son supérieur : il « sollicite » ou « propose ».",
+      "? Corrigez la phrase d'un chef de bureau à son directeur : « Je vous ordonne de valider le planning avant vendredi. » || « J'ai l'honneur de solliciter votre validation du planning avant vendredi. » Le subordonné sollicite ; « ordonner » est réservé au supérieur, et « J'ai l'honneur de » introduit la demande avec la déférence attendue.",
+      "## 4. Formule d'appel et formule de politesse",
+      "La formule d'appel désigne le destinataire par son titre de fonction : « Monsieur le Ministre, », « Madame la Directrice, ». « Cher » ne s'emploie qu'avec une personne que l'on connaît très bien : on l'évite envers une autorité. La formule de politesse finale reprend l'appel entre virgules : « Je vous prie d'agréer, Monsieur le Ministre, l'expression de ma haute considération. »",
+      "Pour une autorité, on choisit une formule de considération ou de respect : « l'expression de ma haute considération », « l'expression de ma considération respectueuse », « l'assurance de ma considération distinguée ». Les « sentiments » conviennent plutôt à la correspondance personnelle.",
+      "! Faute fréquente : « l'expression de mes salutations distinguées ». « L'expression de » et « l'assurance de » ne se construisent pas avec « salutations » : on écrit « Veuillez agréer, Monsieur le Directeur, mes salutations distinguées ».",
+      "~ Exemple commenté : appel « Monsieur le Préfet, » (titre de fonction, pas de « Cher ») ; introduction « J'ai l'honneur de vous rendre compte de… » (le subordonné rend compte) ; conclusion « Je sollicite votre arbitrage sur… » ; politesse « Je vous prie d'agréer, Monsieur le Préfet, l'expression de ma haute considération. » (reprise exacte de l'appel, entre virgules).",
+      "? Trouvez l'erreur : appel « Madame la Ministre, » ; politesse « Veuillez agréer, Monsieur, l'assurance de mes sentiments les meilleurs. » || Deux fautes : la formule finale ne reprend pas l'appel (il faut « Madame la Ministre ») et les « sentiments les meilleurs » relèvent de la correspondance personnelle. Correction : « Veuillez agréer, Madame la Ministre, l'expression de ma haute considération. »"
+     ],
+     "retenir": [
+      "Mentions : timbre, numéro, lieu et date, suscription, objet, références, pièces jointes, corps, signature (qualité, prénoms, nom), ampliations.",
+      "En-tête ivoirien : ministère en haut à gauche ; « République de Côte d'Ivoire – Union, Discipline, Travail » en haut à droite.",
+      "Forme administrative : de service à service ; forme personnelle : un agent ou un usager écrit pour son propre compte.",
+      "Lettre qui ne va pas au chef direct : elle passe « sous couvert » (S/C) de la voie hiérarchique.",
+      "Corps en trois parties : introduction, développement, conclusion ; on écrit « je », jamais « on ».",
+      "Le subordonné sollicite, rend compte, propose ; le supérieur prie, convie, prescrit.",
+      "La formule de politesse reprend l'appel entre virgules ; jamais « l'expression de mes salutations »."
+     ],
+     "exo": {
+      "tag": "niv-rd02",
+      "n": 12,
+      "ecrit": "redac"
+     },
+     "sources": [
+      {
+       "t": "AUF, « Éthique et déontologie, U10 : la correspondance administrative »",
+       "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique : formules de salutation dans la lettre",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique : formules d'appel dans la lettre",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22099/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-dappel-dans-la-lettre"
+      },
+      {
+       "t": "Université virtuelle de Côte d'Ivoire, termes de référence (exemple d'en-tête officiel ivoirien)",
+       "u": "https://event.uvci.online/event/public/storage/evenement/tdr/tdr-formation-des-assistantes-revu_1788207888.docx"
+      }
+     ]
     }
    ],
-   "sujets": []
+   "sujets": [
+    {
+     "e": "cmc",
+     "src": "original",
+     "ref": "Entraînement · 15 oct. 2026",
+     "t": "Depuis la fin de la guerre froide, le monde est-il devenu multipolaire ?",
+     "plan": [
+      "Introduction : de la bipolarité (1947-1991) au « moment unipolaire » qui suit la dissolution de l'URSS le 26 décembre 1991 ; problématique : la diffusion de la puissance a-t-elle remplacé la domination d'un seul pôle ?",
+      "I. Une multipolarité en construction : affirmation de la Chine et des émergents (BRIC en 2009, BRICS avec l'Afrique du Sud en 2011), diversification des partenaires de l'Afrique et de la Côte d'Ivoire.",
+      "II. Une multipolarité inachevée : avance militaire et financière persistante des États-Unis, divisions entre émergents, institutions de 1944-1945 toujours centrales (ONU, FMI, Banque mondiale).",
+      "Conclusion : un monde plus « polycentrique » que multipolaire, où l'Afrique peut peser si elle parle d'une seule voix."
+     ]
+    }
+   ]
   }
  ]
 }
