@@ -114,11 +114,14 @@ async function main(){
   async function send(){
     if (draft.note == null || isNaN(draft.note) || draft.note < 0 || draft.note > 20){ noteIn.focus(); return alertBox("Indiquez une note entre 0 et 20."); }
     if (!by.value.trim()) { by.focus(); return alertBox("Indiquez votre nom : le candidat saura qui l'a corrigé."); }
-    const out = {v:1, id:d.id, note:Number(draft.note), crit:d.grille.map((_,i)=>draft.crit[i]==null||draft.crit[i]==="" ? null : Number(draft.crit[i])), forts:draft.forts||"", raison:draft.raison||"", style:draft.style||"", conseils:draft.conseils||"", paras:draft.paras, by:by.value.trim(), qual:draft.qual, date:today()};
+    // ouverte sur le téléphone du candidat lui-même (même stockage que l'appli) : signalée comme auto-correction
+    let self = false, dev = ""; try { self = !!localStorage.getItem("capena.v3"); dev = localStorage.getItem("capena.dev") || ""; } catch(e){}
+    const out = {v:1, id:d.id, self, dev, note:Number(draft.note), crit:d.grille.map((_,i)=>draft.crit[i]==null||draft.crit[i]==="" ? null : Number(draft.crit[i])), forts:draft.forts||"", raison:draft.raison||"", style:draft.style||"", conseils:draft.conseils||"", paras:draft.paras, by:by.value.trim(), qual:draft.qual, date:today()};
     const url = (d.app || location.href.replace(/correction\.html.*$/,"")) + "#corr=" + await pack(out);
     const summary = "Correction de votre copie (« " + d.ep + " ») : " + fr1(out.note) + "/20." + (out.conseils ? "\nConseils : " + out.conseils : "") + "\nOuvrez ce lien sur votre téléphone pour l'enregistrer dans Cap ENA :";
     result.replaceChildren(h("div",{class:"card done"},
       h("h2",null,"Correction prête"),
+      self ? h("p",{class:"box warn"},"Cette page a été ouverte sur le téléphone du candidat : la correction sera enregistrée comme une auto-correction, sans effet sur sa note.") : null,
       h("p",null,"Envoyez-la au candidat : le lien l'ajoute automatiquement à sa copie dans l'appli."),
       h("div",{class:"row"},
         navigator.share ? h("button",{class:"btn primary",type:"button",onclick:async()=>{ try { await navigator.share({title:"Correction de votre copie", text:summary, url}); } catch(e){} }},"Envoyer au candidat") : null,

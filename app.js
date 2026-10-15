@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "5c62af79 du 14/10/2026";
+const APP_VERSION = "70f81bc5 du 15/10/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1500,6 +1500,7 @@ function h(tag, attrs, ...kids){
     if (v == null || v === false) continue;
     if (k === "class") el.className = v;
     else if (k.startsWith("on")) el.addEventListener(k.slice(2), v);
+    else if ((k === "href" || k === "src") && !/^(https?:|mailto:|tel:|blob:|data:image\/|#|[a-z0-9_.\/-]+$)/i.test(String(v).trim())) continue;
     else el.setAttribute(k, v === true ? "" : v);
   }
   for (const kid of kids.flat(Infinity)){
@@ -1726,7 +1727,11 @@ function slotDetail(s){
   return SLOT_KINDS[s.k] ? SLOT_KINDS[s.k].label : "";
 }
 // Une séance est créditée quand une activité de sa matière est terminée le jour même.
+// Date du téléphone antérieure à la dernière utilisation : aucune séance n'est comptée tant qu'elle n'est pas corrigée.
+function clockBack(){ return !!state.maxDate && today() < state.maxDate; }
+function noteDate(){ if (!state.maxDate || today() > state.maxDate){ state.maxDate = today(); save(); } }
 function creditSeance(kind){
+  if (clockBack()){ toast("La date du téléphone a reculé : séance non comptée. Corrigez la date et l'heure du téléphone."); return false; }
   const d = today(); const list = slotsOn(d); const done = state.done[d] || (state.done[d] = []);
   const s = list.find(x=>x.k===kind && !done.includes(x.id));
   if (s){ done.push(s.id); save(); toast("Séance « " + slotLabel(s) + " » validée pour aujourd'hui."); return true; }
@@ -1734,6 +1739,8 @@ function creditSeance(kind){
 }
 // Passage en revue des jours écoulés : chaque séance non faite retire des points (2 XP par minute prévue).
 function processMissed(){
+  if (clockBack()) return {n:0, lost:0};
+  noteDate();
   const y = addDays(today(), -1);
   let d = state.lastProc ? addDays(state.lastProc, 1) : y;
   if (parseYmd(d) < parseYmd(addDays(y, -60))) d = addDays(y, -60);
@@ -1983,6 +1990,10 @@ document.addEventListener("visibilitychange", ()=>{
   }
 });
 window.addEventListener("pagehide", ()=>{ if (state.exam) interruptExam(); });
+// Écran partagé ou fenêtre flottante : l'appli reste visible mais perd le focus. Au-delà de 15 secondes, c'est une sortie.
+let blurT = null;
+window.addEventListener("blur", ()=>{ if (!state.exam) return; clearTimeout(blurT); blurT = setTimeout(()=>{ if (state.exam && !document.hasFocus()){ interruptExam(); showLock(); } }, 15000); });
+window.addEventListener("focus", ()=>{ clearTimeout(blurT); });
 const JOKERS = 3;
 function jokersLeft(){ const lim = Date.now() - 30*86400000; return Math.max(0, JOKERS - (state.jokers||[]).filter(t=>t>lim).length); }
 function resetExamUI(){ quiz = null; ecrit = null; oralS = null; pre = null; clearTimers(); wake(false); document.body.classList.remove("inexam"); }
@@ -2129,7 +2140,7 @@ function startEcrit(s, o){
     extra: "Le plan corrigé n'est visible qu'après la remise de la copie et votre auto-évaluation.",
     node: h("div",{class:"stack tight"}, h("p",{class:"lbl"},"Je compose"),
       h("label",{class:"chk"}, h("input",{type:"radio",name:"emode",value:"clavier",checked:state.ecritMode!=="papier"||null,onchange:()=>{ state.ecritMode = "clavier"; save(); }}), h("span",null,"Au clavier, dans l'appli")),
-      h("label",{class:"chk"}, h("input",{type:"radio",name:"emode",value:"papier",checked:state.ecritMode==="papier"||null,onchange:()=>{ state.ecritMode = "papier"; save(); }}), h("span",null,"Sur papier, comme au concours (écran allumé, téléphone posé ; vous photographiez la copie à la fin pour la faire corriger)"))),
+      h("label",{class:"chk"}, h("input",{type:"radio",name:"emode",value:"papier",checked:state.ecritMode==="papier"||null,onchange:()=>{ state.ecritMode = "papier"; save(); }}), h("span",null,"Sur papier, comme au concours (écran allumé, téléphone posé ; à la fin, vous pouvez photographier la copie si vous voulez la faire corriger)"))),
     start: ()=>{
       ecrit = Object.assign({s, text:"", dur, start:Date.now(), phase:"write", checks:{}, papier: state.ecritMode==="papier", cid:"c" + Date.now(), photos:[]}, o);
       examBegin({kind:"ecrit", title:E.label, lv:o.lv||null});
@@ -2157,7 +2168,13 @@ function gradeEcrit(){
   const trk = PROGRAMME.find(t=>t.ecrit===ecrit.s.e); const tr = trk ? trk.k : null;
   if (ecrit.dur >= 3600) creditSeance("ecrit");
   creditSeance(tr);
-  if (ecrit.lv && ecrit.redo){
+  // une copie ne valide un niveau que si elle montre un vrai travail : texte suffisant, ou photos des pages en mode papier
+  const minW = ecrit.dur >= 3600*2 ? 600 : ecrit.dur >= 3600 ? 350 : 150;
+  const evidence = ecrit.papier ? (ecrit.photos||[]).length > 0 : mots >= minW;
+  ecrit.noEvidence = !evidence;
+  if (!evidence && (ecrit.lv || ecrit.ratt)){
+    ecrit.verdict = "evidence";
+  } else if (ecrit.lv && ecrit.redo){
     const ls = state.lv[ecrit.lv] || (state.lv[ecrit.lv] = {});
     if (note >= PASS_ECRIT){ delete ls.ecritRedo; copy.validated = true; ecrit.verdict = "redo-ok"; } else ecrit.verdict = "fail";
   } else if (ecrit.lv){
@@ -2165,7 +2182,7 @@ function gradeEcrit(){
     if (note >= PASS_ECRIT){ validateLevel(ecrit.lv, Math.min(20, Math.round(((state.lv[ecrit.lv].qcmNote||note)+note)/2*10)/10)); ecrit.verdict = "valid"; }
     else ecrit.verdict = "fail";
   }
-  if (ecrit.ratt){ if (note >= PASS_ECRIT){ restoreMissed(ecrit.ratt); ecrit.verdict = "ratt-ok"; } else ecrit.verdict = "ratt-ko"; }
+  if (ecrit.ratt && evidence){ if (note >= PASS_ECRIT){ restoreMissed(ecrit.ratt); ecrit.verdict = "ratt-ok"; } else ecrit.verdict = "ratt-ko"; }
   save(); render(); window.scrollTo({top:0});
 }
 
@@ -2343,7 +2360,14 @@ function addCorrection(d, src){
   const c = copyById(d.id);
   if (!c){ toast("Correction reçue pour une copie absente de ce téléphone."); return false; }
   c.corr = c.corr || [];
-  const k = src || "humain";
+  // une correction remplie sur ce même téléphone (ou ce navigateur) n'est pas une correction extérieure
+  const self = k0(d);
+  const k = src || (self ? "auto" : "humain");
+  const str = (x, n)=> String(x == null ? "" : x).slice(0, n || 4000);
+  const paras = {}; if (d.paras && typeof d.paras === "object") for (const i of Object.keys(d.paras).slice(0, 80)) if (/^\d+$/.test(i)) paras[i] = str(d.paras[i], 1500);
+  d = {id:d.id, note:d.note, by:str(d.by, 80), qual: QUALITES.some(q=>q[0]===d.qual) || d.qual==="ia" ? d.qual : "autre", date: /^\d{4}-\d{2}-\d{2}$/.test(d.date||"") ? d.date : today(),
+    crit: Array.isArray(d.crit) ? d.crit.slice(0, 20).map(x=>[0,1,2].includes(x) ? x : null) : [], forts:str(d.forts), raison:str(d.raison), style:str(d.style), conseils:str(d.conseils), paras, texte:str(d.texte, 20000)};
+  if (self) toast("Cette correction a été remplie sur votre propre téléphone : elle est enregistrée comme auto-correction, sans effet sur la note retenue.");
   if (c.corr.some(x=>x.src===k && x.date===d.date && x.by===d.by && x.note===d.note)) { toast("Cette correction est déjà enregistrée."); return true; }
   c.corr.push({src:k, note:Math.max(0, Math.min(20, Number(d.note)||0)), by:d.by||"", qual:d.qual||"autre", date:d.date||today(), crit:d.crit||[], forts:d.forts||"", raison:d.raison||"", style:d.style||"", conseils:d.conseils||"", paras:d.paras||{}, texte:d.texte||""});
   // une copie qui avait validé un niveau et qu'un correcteur fiable juge insuffisante : écrit à refaire
@@ -2354,6 +2378,9 @@ function addCorrection(d, src){
   save();
   return true;
 }
+
+function k0(d){ return !!d.self || (!!d.dev && d.dev === devId()); }
+function devId(){ try { let v = localStorage.getItem("capena.dev"); if (!v){ v = b64u(crypto.getRandomValues(new Uint8Array(9))); localStorage.setItem("capena.dev", v); } return v; } catch(e){ return ""; } }
 
 // --- correcteurs, formateurs, mentors ---
 function mentorPicker(onPick, purpose){
@@ -2492,8 +2519,8 @@ function vCopie(){
 function corrCard(c, x){
   const E = EPREUVES[c.e], lab = ["Non acquis","Partiel","Acquis"];
   return card("stack tight corr",
-    h("div",{class:"row spread"}, h("h2",null, x.src==="ia" ? "Avis de Claude (IA)" : "Correction de " + (x.by || "votre correcteur")), h("b",{class:"big-n"}, fr1(x.note) + "/20")),
-    h("p",{class:"muted small"}, (x.src==="ia" ? "Indicatif, non pris en compte dans la note retenue" : qualLabel(x.qual)) + " · " + frDate(x.date)),
+    h("div",{class:"row spread"}, h("h2",null, x.src==="ia" ? "Avis de Claude (IA)" : x.src==="auto" ? "Auto-correction (remplie sur ce téléphone)" : "Correction de " + (x.by || "votre correcteur")), h("b",{class:"big-n"}, fr1(x.note) + "/20")),
+    h("p",{class:"muted small"}, (x.src==="ia" || x.src==="auto" ? "Indicatif, non pris en compte dans la note retenue" : qualLabel(x.qual)) + " · " + frDate(x.date)),
     x.crit && x.crit.length ? h("div",{class:"eplist"}, E.grille.map((g,i)=>h("div",{class:"eprow"}, h("span",{class:"grow small"}, g), h("span",{class:"pill " + (["late","cur","ok"][x.crit[i]]||"")}, lab[x.crit[i]] || "—")))) : null,
     x.forts ? h("p",null, h("b",null,"Points forts : "), x.forts) : null,
     x.raison ? h("p",null, h("b",null,"Raisonnement et plan : "), x.raison) : null,
@@ -2603,6 +2630,7 @@ function vHome(){
       h("div",{class:"row spread"}, h("div",null, h("p",{class:"lbl"},"Indice de préparation"), h("b",{class:"big-n"}, ind.total + " / 100")), h("div",{class:"right"}, h("p",{class:"lbl"},"Grade"), h("b",null, nv.cur[1]))),
       bar(ind.total, ind.total<40),
       h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. Chaque séance manquée fait baisser l'assiduité et retire des points.")),
+    clockBack() ? card("stack warnc", h("h2",null,"Date du téléphone incorrecte"), h("p",{class:"small"},"La date du téléphone (" + frDate(today()) + ") est antérieure à votre dernière utilisation (" + frDate(state.maxDate) + "). Tant qu'elle n'est pas corrigée, aucune séance n'est comptée. Réglez la date et l'heure automatiques dans les paramètres du téléphone.")) : null,
     memCard(),
     (()=>{ const redo = LEVELS.filter(lv=>lvState(lv.id).ecritRedo && activeTracks().includes(lv.track)); return redo.length ? card("stack warnc", h("h2",null, redo.length + " écrit(s) à refaire"), h("p",{class:"small"},"Un correcteur a jugé insuffisante une copie qui avait validé un niveau. Refaites l'écrit, puis faites-le corriger."), h("button",{class:"btn accent",type:"button",onclick:()=>go("copies")},"Voir")) : null; })(),
     profilComplet() ? null : card("stack tight soft", h("h2",null,"Complétez votre profil"), h("p",{class:"small"},"Indiquez votre diplôme le plus élevé et votre situation (fonctionnaire ou non) : l'appli vous montrera tous les concours auxquels vous pouvez vous présenter, du BEPC au doctorat."), h("button",{class:"btn primary",type:"button",onclick:()=>go("concours")},"Compléter et voir mes concours")),
@@ -2909,7 +2937,7 @@ function vEcrit(){
       h("div",{class:"qhead"}, headTitle, h("span",{class:"pill"}, ecrit.timeout ? "Temps écoulé" : "Copie remise")),
       h("p",{class:"sujet"}, s.t),
       ecrit.papier ? card("stack", h("h3",null,"Photographiez votre copie (" + ecrit.photos.length + " page" + (ecrit.photos.length>1?"s":"") + ")"),
-          h("p",{class:"muted small"},"Une photo par page, à plat, bien éclairée. Elles restent dans le téléphone et servent à envoyer la copie à un correcteur."),
+          h("p",{class:"muted small"},"Facultatif : utile seulement si vous voulez faire corriger cette copie. Une photo par page, à plat, bien éclairée ; elles restent dans le téléphone."),
           h("div",{class:"pages"}, ecrit.photos.map((b,i)=>h("img",{src:URL.createObjectURL(b),alt:"Page " + (i+1)}))),
           h("label",{class:"btn"}, "📷 Ajouter des pages", h("input",{type:"file",accept:"image/*",capture:"environment",multiple:true,hidden:true,onchange:async(ev)=>{ for (const f of ev.target.files){ try { ecrit.photos.push(await shrinkPhoto(f)); } catch(e){} } render(); }})))
         : card("stack read", h("h3",null,"Votre copie (" + words(ecrit.text) + " mots)"), h("div",{class:"reading"}, ecrit.text || "(vide)")),
@@ -2917,18 +2945,18 @@ function vEcrit(){
         h("button",{class:"btn primary",type:"button",onclick:gradeEcrit},"Valider ma note")));
   }
   const cpy = copyById(ecrit.cid);
-  const msg = {"redo-ok":"Copie suffisante : l'écrit à refaire est levé. Faites-la corriger pour le confirmer.", valid:"Copie suffisante : niveau validé.", fail:"Copie insuffisante (10/20 exigés) : recommencez l'exercice sur un autre sujet.", "ratt-ok":"Rattrapage réussi : points récupérés.", "ratt-ko":"Rattrapage échoué : réessayez avant la date limite."}[ecrit.verdict];
+  const msg = {evidence: ecrit.papier ? "Copie enregistrée, mais elle ne peut pas valider le niveau sans au moins une photo des pages (preuve du travail). Recommencez en photographiant votre copie." : "Copie enregistrée, mais trop courte pour valider le niveau (au moins " + (ecrit.dur >= 7200 ? 600 : ecrit.dur >= 3600 ? 350 : 150) + " mots pour cette durée). Recommencez l'exercice.", "redo-ok":"Copie suffisante : l'écrit à refaire est levé. Vous pouvez la faire corriger si vous le souhaitez.", valid:"Copie suffisante : niveau validé.", fail:"Copie insuffisante (10/20 exigés) : recommencez l'exercice sur un autre sujet.", "ratt-ok":"Rattrapage réussi : points récupérés.", "ratt-ko":"Rattrapage échoué : réessayez avant la date limite."}[ecrit.verdict];
   return h("div",{class:"stack"},
     card("result", h("p",{class:"lbl"}, E.label), h("p",{class:"note-big"}, fr1(ecrit.note) + " / 20"), h("p",{class:"muted"}, (ecrit.papier ? "copie manuscrite · " + ecrit.photos.length + " page(s)" : words(ecrit.text) + " mots") + " · " + fmtTime(ecrit.realDur) + (ecrit.cut ? " · auto-évaluation " + fr1(ecrit.noteAuto) + " − " + fr1(ecrit.cut) + " d'écart mesuré" : ""))),
-    cpy ? card("stack feature", h("h2",null,"Faites corriger cette copie"),
-      h("p",{class:"small"},"Votre auto-évaluation ne voit ni vos défauts de raisonnement ni vos fautes de style. Envoyez la copie à un correcteur : il recevra le sujet, la grille du jury et un formulaire, et vous renverra sa note et ses remarques. Vous pouvez aussi demander un avis immédiat à Claude."),
-      h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>{ copieView = cpy.id; go("copie"); }},"Envoyer à un correcteur"), h("button",{class:"btn",type:"button",onclick:()=>askIA(cpy)},"Avis de Claude"))) : null,
     msg ? h("p",{class:"box"+(ecrit.note>=10?"":" warn")}, msg) : null,
-    s.plan && s.plan.length ? card("stack read", h("h3",null,"Plan proposé (corrigé indicatif)"), blocks(s.plan.map(p=>"- "+p))) : card("soft", h("p",null,"Pas de plan corrigé pour ce sujet.")),
     h("div",{class:"row"},
-      ecrit.verdict==="fail" && ecrit.lv ? h("button",{class:"btn primary",type:"button",onclick:()=>openLevel(ecrit.lv)},"Recommencer l'écrit") : null,
+      (ecrit.verdict==="fail" || ecrit.verdict==="evidence") && ecrit.lv ? h("button",{class:"btn primary",type:"button",onclick:()=>openLevel(ecrit.lv)},"Recommencer l'écrit") : null,
       ecrit.verdict==="valid" && ecrit.lv && currentLevel(LVMAP[ecrit.lv].track) ? h("button",{class:"btn primary",type:"button",onclick:()=>openLevel(currentLevel(LVMAP[ecrit.lv].track).id)},"Niveau suivant") : null,
-      h("button",{class:"btn",type:"button",onclick:()=>{ ecrit = null; go("home"); }},"Aujourd'hui"))
+      h("button",{class:"btn",type:"button",onclick:()=>{ ecrit = null; go("home"); }},"Aujourd'hui")),
+    s.plan && s.plan.length ? card("stack read", h("h3",null,"Plan proposé (corrigé indicatif)"), blocks(s.plan.map(p=>"- "+p))) : card("soft", h("p",null,"Pas de plan corrigé pour ce sujet.")),
+    cpy ? card("stack soft", h("div",{class:"row spread"}, h("h3",null,"Faire corriger cette copie"), h("span",{class:"pill"},"Facultatif")),
+      h("p",{class:"small muted"},"Si vous le souhaitez, envoyez la copie à un correcteur (formateur, ancien admis, autre candidat) ou demandez un avis à Claude. Ce n'est pas une étape obligatoire : votre progression continue sans. La copie reste disponible dans Entraînement > Mes copies pour l'envoyer plus tard."),
+      h("div",{class:"row"}, h("button",{class:"btn small",type:"button",onclick:()=>{ copieView = cpy.id; go("copie"); }},"Envoyer à un correcteur"), h("button",{class:"btn small ghost",type:"button",onclick:()=>askIA(cpy)},"Avis de Claude"))) : null,
   );
 }
 function vChoixEcrit(){
@@ -3170,7 +3198,7 @@ function backupCard(){
   const imp = h("textarea",{id:"imp",rows:"3",placeholder:"Collez ici le contenu d'un fichier de sauvegarde"});
   return card("stack",
     h("h2",null,"Sauvegarde de ma progression"),
-    h("p",{class:"muted small"},"La progression est stockée dans le téléphone. Sauvegardez-la régulièrement, surtout avant de changer de téléphone."),
+    h("p",{class:"muted small"},"La progression est stockée dans le téléphone. Sauvegardez-la régulièrement, surtout avant de changer de téléphone. Les photos des copies manuscrites ne sont pas incluses dans la sauvegarde."),
     h("button",{class:"btn primary",type:"button",onclick:()=>download("cap-ena-sauvegarde-"+today()+".json", JSON.stringify(state), "application/json")},"Télécharger une sauvegarde"),
     imp,
     h("button",{class:"btn",type:"button",onclick:()=>{ try{ const o = JSON.parse(imp.value); if (typeof o!=="object"||o.v!==3) throw 0; o.exam = null; state = Object.assign(defaults(), o); save(); toast("Progression restaurée"); render(); } catch(e){ toast("Contenu invalide : collez le texte complet d'une sauvegarde de cette version."); } }},"Restaurer"));
@@ -3592,12 +3620,12 @@ function profilResume(){
 }
 
 // ---------- Catalogue officiel de la Fonction publique (content/catalogue.json) ----------
-let CATALOGUE = null, catLoading = null;
+let CATALOGUE = null, catLoading = null, catFailed = false;
 function loadCatalogue(){
   if (CATALOGUE) return Promise.resolve(CATALOGUE);
   if (!catLoading) catLoading = fetch("content/catalogue.json", {cache:"no-store"}).then(r=>{ if (!r.ok) throw 0; return r.json(); })
     .then(d=>{ CATALOGUE = d; try { localStorage.setItem("capena.cat", JSON.stringify(d)); } catch(e){} return d; })
-    .catch(()=>{ try { const c = localStorage.getItem("capena.cat"); if (c){ CATALOGUE = JSON.parse(c); return CATALOGUE; } } catch(e){} catLoading = null; return null; });
+    .catch(()=>{ try { const c = localStorage.getItem("capena.cat"); if (c){ CATALOGUE = JSON.parse(c); return CATALOGUE; } } catch(e){} catLoading = null; catFailed = true; return null; });
   return catLoading;
 }
 function catToConcours(e){
@@ -3671,7 +3699,7 @@ function catRow(c){
 function vConcours(){
   const listBox = h("div",{class:"stack"});
   const drawList = ()=>{
-    if (!CATALOGUE){ listBox.replaceChildren(h("p",{class:"muted"},"Chargement du catalogue officiel…")); return; }
+    if (!CATALOGUE){ listBox.replaceChildren(h("p",{class:"muted"}, catFailed ? "Catalogue indisponible : connectez-vous à Internet une première fois pour le télécharger, puis il restera disponible hors connexion." : "Chargement du catalogue officiel…")); return; }
     const all = catFiltered();
     listBox.replaceChildren(...[
       h("p",{class:"muted small"}, all.length + " concours de la Fonction publique " + (CF.mode==="moi" ? "ouverts ou à vérifier pour votre profil" : "au total") + "."),
@@ -3783,8 +3811,30 @@ async function digest(x){
 const PKEY = "capena.code";
 function myCode(){ try { const c = JSON.parse(localStorage.getItem(PKEY) || "null"); if (c && (c.sha || c.fb)) return c; } catch(e){} return {sha:CODE_H, fb:CODE_FB, legacy:true}; }
 const codeTag = ()=>{ const c = myCode(); return c.sha || c.fb; };
-async function setMyCode(code){ const d = await digest(normCode(code)); const o = {sha:d.sha||null, fb:d.sha ? null : d.fb}; try { localStorage.setItem(PKEY, JSON.stringify(o)); if (localStorage.getItem(UKEY)) localStorage.setItem(UKEY, o.sha || o.fb); } catch(e){ return false; } return true; }
-async function checkCode(code){ const c = myCode(), d = await digest(normCode(code)); return d.sha ? (c.sha ? d.sha === c.sha : false) : (c.fb ? d.fb === c.fb : false); }
+// Nouveau code : dérivation PBKDF2 (150 000 tours, sel aléatoire), bien plus lente à attaquer qu'une simple empreinte.
+async function pbkdf2(code, saltB64){
+  const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(normCode(code)), "PBKDF2", false, ["deriveBits"]);
+  const bits = await crypto.subtle.deriveBits({name:"PBKDF2", hash:"SHA-256", salt:unb64(saltB64), iterations:150000}, key, 256);
+  return [...new Uint8Array(bits)].map(v=>v.toString(16).padStart(2,"0")).join("");
+}
+async function setMyCode(code){
+  let o;
+  try { const salt = b64(crypto.getRandomValues(new Uint8Array(16))); o = {v:2, salt, sha: await pbkdf2(code, salt), fb:null}; }
+  catch(e){ const d = await digest(normCode(code)); o = {sha:d.sha||null, fb:d.sha ? null : d.fb}; } try { localStorage.setItem(PKEY, JSON.stringify(o)); if (localStorage.getItem(UKEY)) localStorage.setItem(UKEY, o.sha || o.fb); } catch(e){ return false; } return true; }
+async function checkCode(code){
+  const c = myCode();
+  if (c.v === 2){ try { return await pbkdf2(code, c.salt) === c.sha; } catch(e){ return false; } }
+  const d = await digest(normCode(code));
+  const ok = d.sha ? (c.sha ? d.sha === c.sha : false) : (c.fb ? d.fb === c.fb : false);
+  // ancien format : converti au nouveau dès la première ouverture réussie (le code ne change pas)
+  if (ok && d.sha && crypto.subtle){ try { await setMyCode(code); } catch(e){} }
+  return ok;
+}
+// Essais de code limités : après 5 erreurs, attente croissante (30 s, 2 min, 5 min, puis 15 min)
+const FKEY = "capena.fails";
+function failState(){ try { return JSON.parse(localStorage.getItem(FKEY) || '{"n":0,"until":0}'); } catch(e){ return {n:0, until:0}; } }
+function noteFail(){ const f = failState(); f.n++; if (f.n >= 5){ const w = [30, 120, 300, 900][Math.min(3, f.n-5)]; f.until = Date.now() + w*1000; } try { localStorage.setItem(FKEY, JSON.stringify(f)); } catch(e){} return f; }
+function clearFails(){ try { localStorage.removeItem(FKEY); } catch(e){} }
 function rememberOn(){ try { return localStorage.getItem(UKEY) === codeTag(); } catch(e){ return false; } }
 function setRemember(on){ try { if (on) localStorage.setItem(UKEY, codeTag()); else localStorage.removeItem(UKEY); } catch(e){} }
 const codeValid = (x)=> normCode(x).replace(/ /g,"").length >= 4;
@@ -3840,8 +3890,11 @@ function showLock(){
   const unlock = ()=>{ if (rem.checked) setRemember(true); document.body.classList.remove("locked"); startApp(); };
   const submit = async(ev)=>{
     ev.preventDefault();
+    const fs = failState();
+    if (fs.until > Date.now()){ msg.textContent = "Trop d'essais : réessayez dans " + Math.ceil((fs.until-Date.now())/1000) + " s."; msg.className = "small err"; return; }
     const ok = await checkCode(inp.value);
-    if (!ok){ msg.textContent = "Code incorrect. Vérifiez l'orthographe, puis réessayez."; msg.className = "small err"; inp.value = ""; inp.focus(); form.classList.remove("shake"); void form.offsetWidth; form.classList.add("shake"); return; }
+    if (ok) clearFails();
+    if (!ok){ const f = noteFail(); msg.textContent = f.until > Date.now() ? "Code incorrect. Trop d'essais : attendez " + Math.ceil((f.until-Date.now())/1000) + " s." : "Code incorrect. Vérifiez l'orthographe, puis réessayez."; msg.className = "small err"; inp.value = ""; inp.focus(); form.classList.remove("shake"); void form.offsetWidth; form.classList.add("shake"); return; }
     unlock();
   };
   const bio = credId() ? h("button",{class:"btn primary big",type:"button",onclick:async()=>{ if (await bioVerify()) unlock(); else { msg.textContent = "Empreinte non reconnue : réessayez ou saisissez votre code."; msg.className = "small err"; } }}, "Empreinte digitale") : null;
@@ -3887,7 +3940,7 @@ function forgotCode(){
     conf,
     h("div",{class:"row"},
       h("button",{class:"btn primary",type:"button",onclick:showLock},"Retour"),
-      h("button",{class:"btn",type:"button",onclick:()=>{ if (conf.value.trim().toUpperCase() !== "EFFACER") return toast("Tapez EFFACER pour confirmer."); try { [KEY, PKEY, UKEY, CKEY, "capena.v2"].forEach(k=>localStorage.removeItem(k)); } catch(e){} location.reload(); }},"Effacer et recommencer")))));
+      h("button",{class:"btn",type:"button",onclick:()=>{ if (conf.value.trim().toUpperCase() !== "EFFACER") return toast("Tapez EFFACER pour confirmer."); try { [KEY, PKEY, UKEY, CKEY, FKEY, "capena.v2", INBOX].forEach(k=>localStorage.removeItem(k)); indexedDB.deleteDatabase("capena-copies"); } catch(e){} location.reload(); }},"Effacer et recommencer")))));
 }
 
 // ---------- Installation ----------
@@ -3962,9 +4015,9 @@ const TUTO = [
          "- Entraînement > Mes fiches : récitez de mémoire ce qu'il faut retenir, puis vérifiez. Se tester fixe mieux que relire.",
          "~ Un niveau est « ancré » quand vous l'avez retenu après au moins 16 jours."] },
   { t:"Faire corriger ses copies, poser ses questions", lbl:"Correction et échanges",
-    txt:["L'auto-évaluation ne voit pas tout. Après chaque copie, « Envoyer à un correcteur » partage un lien (WhatsApp, e-mail) qui contient la copie, le sujet et la grille du jury.",
+    txt:["L'auto-évaluation ne voit pas tout. Après chaque copie, si vous le souhaitez (c'est facultatif), « Envoyer à un correcteur » partage un lien (WhatsApp, e-mail) qui contient la copie, le sujet et la grille du jury.",
          "- Le correcteur note chaque critère, écrit ses remarques (paragraphe par paragraphe s'il le souhaite) et vous renvoie la correction d'un geste : elle s'ajoute à la copie.",
-         "- Vous pouvez composer sur papier, comme au concours, et photographier vos pages à la fin.",
+         "- Vous pouvez composer sur papier, comme au concours, et photographier vos pages à la fin si vous voulez les faire corriger.",
          "- Dès deux copies corrigées par un formateur, un ancien admis ou un professionnel, l'appli mesure si vous vous surnotez et corrige vos auto-évaluations.",
          "- Si un tel correcteur juge insuffisante une copie qui avait validé un niveau, l'écrit de ce niveau est à refaire.",
          "- « Avis de Claude » prépare une demande de correction stricte à coller dans Claude : utile tout de suite, mais indicatif.",

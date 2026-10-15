@@ -143,3 +143,15 @@ if errors:
     for e in errors: print(" -", e)
     sys.exit(1)
 print(f"OK : {len(ids)} éléments contrôlés, aucune erreur.")
+
+
+# Mode « production de nuit » : seuls les fichiers de content/ peuvent avoir changé (protection contre une modification du code de l'appli)
+if "--nuit" in sys.argv:
+    import subprocess
+    st = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout.splitlines()
+    hors = [l[3:] for l in st if l[3:] and not l[3:].startswith("content/")]
+    if hors:
+        print("ÉCHEC : fichiers modifiés hors de content/ :", ", ".join(hors))
+        print("La production de nuit ne doit modifier que content/. Annule ces changements (git checkout -- <fichier>) puis relance.")
+        sys.exit(1)
+    print("OK : seuls des fichiers de content/ ont changé.")
