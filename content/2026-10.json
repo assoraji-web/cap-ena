@@ -7834,6 +7834,426 @@
       "La question de droit est posée avant d'énoncer la règle."
      ],
      "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013cm01-01",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Quel exemple est le plus précis pour illustrer l'intégration régionale ?",
+     "o": [
+      "L'Afrique s'intègre de plus en plus.",
+      "Création de l'UEMOA par le traité de Dakar en 1994.",
+      "Les pays coopèrent.",
+      "L'intégration est importante."
+     ],
+     "a": 1,
+     "e": "Un bon exemple dit quoi, où et quand : l'UEMOA (quoi), traité de Dakar (où), 1994 (quand).",
+     "ed": [
+      "C'est une affirmation générale, pas un exemple.",
+      null,
+      "Rien de précis : ni organisation, ni lieu, ni date.",
+      "C'est une opinion, pas un exemple."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013cm01-02",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Que désigne le multilatéralisme ?",
+     "o": [
+      "La domination d'une seule puissance",
+      "La coopération entre de nombreux États au sein d'organisations communes",
+      "Le commerce entre deux pays",
+      "La fermeture des frontières"
+     ],
+     "a": 1,
+     "e": "Le multilatéralisme est la coopération entre de nombreux États, au sein d'organisations comme l'ONU, l'OMC ou l'Union africaine.",
+     "ed": [
+      "La domination d'une seule puissance s'appelle l'unilatéralisme ou l'hégémonie.",
+      null,
+      "Un accord entre deux pays relève du bilatéralisme.",
+      "La fermeture des frontières est l'inverse de la coopération."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013cm01-03",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Quand le retrait du Burkina Faso, du Mali et du Niger de la CEDEAO a-t-il pris effet ?",
+     "o": [
+      "Le 28 mai 1975",
+      "Le 10 janvier 1994",
+      "Le 29 janvier 2025",
+      "Le 7 août 1960"
+     ],
+     "a": 2,
+     "e": "Selon le communiqué de la CEDEAO du 29 janvier 2025, le retrait de ces trois pays a pris effet à cette date.",
+     "ed": [
+      "Le 28 mai 1975 est la date du traité de Lagos qui a créé la CEDEAO.",
+      "Le 10 janvier 1994 est la date du traité de Dakar qui a créé l'UEMOA.",
+      null,
+      "Le 7 août 1960 est la date de l'indépendance de la Côte d'Ivoire."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013cm01-04",
+     "m": "cmc",
+     "tag": "niv-cm01",
+     "q": "Dans une copie, l'actualité doit servir :",
+     "o": [
+      "de plan",
+      "d'exemple au service d'une analyse",
+      "de conclusion unique",
+      "de remplissage"
+     ],
+     "a": 1,
+     "e": "L'actualité illustre l'analyse ; le plan, lui, répond à la problématique.",
+     "ed": [
+      "Un plan fondé sur l'actualité devient une simple chronique, sans analyse.",
+      null,
+      "Une conclusion doit répondre à la problématique, pas raconter l'actualité.",
+      "Un exemple sans lien avec l'argument n'apporte rien."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013rd01-01",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Dans une lettre administrative adressée à un maire, quelle formule de politesse convient ?",
+     "o": [
+      "« Salutations. »",
+      "« Je vous prie d'agréer, Monsieur le Maire, l'assurance de ma haute considération. »",
+      "« À plus tard. »",
+      "« Bisous. »"
+     ],
+     "a": 1,
+     "e": "La formule de politesse administrative reprend le titre du destinataire (« Monsieur le Maire ») et exprime la considération due à l'autorité.",
+     "ed": [
+      "Trop sèche et incomplète pour un courrier adressé à une autorité.",
+      null,
+      "Formule familière, proscrite dans un courrier administratif.",
+      "Formule familière et totalement inappropriée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013rd01-02",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Quel document relate fidèlement les décisions d'une réunion et fait foi ?",
+     "o": [
+      "Le compte rendu",
+      "Le procès-verbal",
+      "La note d'information",
+      "Le bordereau d'envoi"
+     ],
+     "a": 1,
+     "e": "Le procès-verbal relate de façon fidèle et officielle ce qui a été dit et décidé, et fait foi ; il est souvent signé.",
+     "ed": [
+      "Le compte rendu donne une synthèse, sans valeur officielle de preuve.",
+      null,
+      "La note d'information informe, elle ne relate pas une réunion.",
+      "Le bordereau d'envoi accompagne la transmission de documents."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013rd01-03",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Mettez au net : « les dossiers ont été transmit au service compétant ».",
+     "o": [
+      "Les dossiers ont été transmit au service compétant.",
+      "Les dossiers ont été transmis au service compétent.",
+      "Les dossiers ont été transmises au service compétent.",
+      "Les dossier ont été transmis au service compétant."
+     ],
+     "a": 1,
+     "e": "« Transmis » s'accorde avec « les dossiers » (masculin pluriel) ; « compétent » (qui a la compétence) s'écrit avec -ent.",
+     "ed": [
+      "Les fautes du brouillon n'ont pas été corrigées.",
+      null,
+      "« Dossiers » est masculin : « transmis », pas « transmises ».",
+      "Il faut « dossiers » au pluriel et « compétent » avec -ent."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013rd01-04",
+     "m": "redac",
+     "tag": "niv-rd01",
+     "q": "Que ne doit pas comporter une note de service ?",
+     "o": [
+      "Un objet",
+      "Une signature",
+      "Une formule d'appel et une formule de politesse",
+      "Des destinataires"
+     ],
+     "a": 2,
+     "e": "La note de service, document interne d'instruction, ne comporte ni formule d'appel ni formule de politesse.",
+     "ed": [
+      "L'objet indique le sujet de la note : il est utile.",
+      "La note est signée par l'autorité qui la prend.",
+      null,
+      "Les destinataires (le personnel concerné) sont indiqués."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013mp01-01",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Dans un cas pratique de management, par quoi commencer ?",
+     "o": [
+      "Par les sanctions",
+      "Par le diagnostic de la situation",
+      "Par une liste de théories",
+      "Par la conclusion"
+     ],
+     "a": 1,
+     "e": "Le diagnostic (mesurer, identifier les causes, écouter) précède les propositions : sans lui, on risque de traiter un symptôme.",
+     "ed": [
+      "Sanctionner sans comprendre la situation est contre-productif.",
+      null,
+      "Les théories ne valent que si elles éclairent la situation concrète.",
+      "La conclusion vient en dernier."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013mp01-02",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Lequel est un indicateur mesurable de la qualité de l'accueil ?",
+     "o": [
+      "La bonne volonté des agents",
+      "Le temps d'attente moyen au guichet",
+      "L'ambiance générale",
+      "La beauté des locaux"
+     ],
+     "a": 1,
+     "e": "Le temps d'attente moyen est mesurable, régulier et lié à l'objectif d'un accueil de qualité.",
+     "ed": [
+      "La bonne volonté n'est pas mesurable directement.",
+      null,
+      "L'ambiance est trop vague pour être un indicateur.",
+      "La beauté des locaux n'est pas liée directement à la qualité de l'accueil et n'est pas mesurable."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013mp01-03",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Un service délivre toutes les pièces demandées dans les délais, mais avec deux fois plus d'agents que nécessaire. Il est :",
+     "o": [
+      "efficace mais peu efficient",
+      "efficient mais pas efficace",
+      "ni efficace ni efficient",
+      "efficace et efficient"
+     ],
+     "a": 0,
+     "e": "Il atteint son objectif (efficace) mais avec des moyens excessifs (peu efficient).",
+     "ed": [
+      null,
+      "C'est l'inverse : l'objectif est atteint, mais pas au meilleur coût.",
+      "L'objectif est atteint : le service est efficace.",
+      "Avec deux fois trop d'agents, il n'est pas efficient."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013mp01-04",
+     "m": "mop",
+     "tag": "niv-mp01",
+     "q": "Quel levier de motivation est à la portée d'un chef de service public qui ne fixe pas les salaires ?",
+     "o": [
+      "Augmenter librement les salaires",
+      "Confier des responsabilités valorisantes",
+      "Supprimer les congés",
+      "Ignorer les réussites"
+     ],
+     "a": 1,
+     "e": "Responsabilités, formation, reconnaissance et conditions de travail sont des leviers accessibles au chef de service.",
+     "ed": [
+      "Le chef de service public ne fixe pas librement les rémunérations.",
+      null,
+      "Supprimer des droits démotive et peut être illégal.",
+      "Ignorer les réussites décourage l'équipe."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013dp01-01",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Yao prend un téléphone dans une boutique, le cache et sort sans payer. Quels éléments du vol sont réunis ?",
+     "o": [
+      "Seulement l'élément matériel",
+      "L'élément légal, matériel et moral",
+      "Seulement l'élément moral",
+      "Aucun"
+     ],
+     "a": 1,
+     "e": "Le vol est incriminé (élément légal), Yao a soustrait la chose d'autrui (élément matériel) avec l'intention de se l'approprier (élément moral).",
+     "ed": [
+      "L'intention (cacher, ne pas payer) et le texte d'incrimination sont aussi présents.",
+      null,
+      "L'acte de soustraction (élément matériel) est bien réalisé.",
+      "Les trois éléments sont réunis."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013dp01-02",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Une cliente emporte par erreur un sac identique au sien, en croyant sincèrement qu'il lui appartient. Quel élément du vol fait défaut ?",
+     "o": [
+      "L'élément légal",
+      "L'élément matériel",
+      "L'élément moral",
+      "Aucun"
+     ],
+     "a": 2,
+     "e": "Sans intention de s'approprier le bien d'autrui, l'élément moral fait défaut : le vol n'est pas constitué.",
+     "ed": [
+      "Le vol est bien prévu par la loi.",
+      "Il y a bien eu prise matérielle du sac.",
+      null,
+      "L'erreur sincère prive l'infraction de son élément moral."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013dp01-03",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Une loi plus douce peut-elle s'appliquer à des faits commis avant son entrée en vigueur ?",
+     "o": [
+      "Jamais",
+      "Oui, aux faits non encore définitivement jugés",
+      "Seulement pour les crimes",
+      "Seulement si le juge le souhaite"
+     ],
+     "a": 1,
+     "e": "La loi pénale plus douce s'applique immédiatement aux faits non encore définitivement jugés ; seule la loi plus sévère est non rétroactive.",
+     "ed": [
+      "La règle de non-rétroactivité ne vise que la loi plus sévère.",
+      null,
+      "La règle vaut pour toutes les infractions, pas seulement les crimes.",
+      "C'est une règle de droit, pas une faculté laissée au juge."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013dp01-04",
+     "m": "dpen",
+     "tag": "niv-dp01",
+     "q": "Pourquoi la classification crimes, délits, contraventions est-elle importante ?",
+     "o": [
+      "Elle n'a aucune conséquence",
+      "Elle détermine la juridiction compétente, la procédure et les peines",
+      "Elle fixe le salaire des juges",
+      "Elle concerne seulement les mineurs"
+     ],
+     "a": 1,
+     "e": "Selon sa gravité, l'infraction relève d'une juridiction, d'une procédure et de peines différentes.",
+     "ed": [
+      "Elle a des conséquences pratiques importantes.",
+      null,
+      "Elle n'a aucun rapport avec la rémunération des magistrats.",
+      "Elle concerne toutes les infractions, quel que soit l'âge de l'auteur."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013ec01-01",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Pourquoi faut-il payer l'impôt ?",
+     "o": [
+      "Pour enrichir les agents",
+      "Pour financer les services publics et par solidarité",
+      "Parce que c'est facultatif",
+      "Pour remplacer le salaire"
+     ],
+     "a": 1,
+     "e": "L'impôt finance les biens et services de tous (écoles, hôpitaux, routes) et chacun contribue selon ses moyens : c'est un devoir de solidarité.",
+     "ed": [
+      "L'impôt finance les dépenses publiques, pas l'enrichissement personnel.",
+      null,
+      "Payer l'impôt est une obligation légale, pas une option.",
+      "L'impôt n'a rien à voir avec un remplacement de salaire."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013ec01-02",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Lequel de ces éléments est un droit du citoyen ?",
+     "o": [
+      "Payer l'impôt",
+      "Voter",
+      "Respecter le bien public",
+      "Respecter les lois"
+     ],
+     "a": 1,
+     "e": "Voter est un droit du citoyen ; payer l'impôt, respecter les lois et le bien public sont des devoirs.",
+     "ed": [
+      "Payer l'impôt est un devoir.",
+      null,
+      "Respecter le bien public est un devoir.",
+      "Respecter les lois est un devoir."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013ec01-03",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Un agent refuse l'argent proposé pour faire entrer un téléphone en détention. Quelle valeur illustre-t-il ?",
+     "o": [
+      "La tolérance",
+      "L'intégrité",
+      "La solidarité",
+      "La compétition"
+     ],
+     "a": 1,
+     "e": "Refuser la corruption illustre l'intégrité, valeur essentielle de l'agent public.",
+     "ed": [
+      "La tolérance concerne le respect des différences.",
+      null,
+      "La solidarité consiste à aider ceux qui en ont besoin.",
+      "La compétition n'est pas une valeur civique en jeu ici."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "r20261015-L20261013ec01-04",
+     "m": "ecm",
+     "tag": "niv-ec01",
+     "q": "Que doit contenir une bonne réponse à une question de cours ?",
+     "o": [
+      "Une opinion personnelle vague",
+      "Une réponse directe, précise et complète",
+      "Un récit sans rapport",
+      "Une seule phrase hors sujet"
+     ],
+     "a": 1,
+     "e": "Une question de cours appelle une réponse directe, précise et complète, avec les éléments exacts demandés.",
+     "ed": [
+      "Une opinion vague ne répond pas à une question de cours.",
+      null,
+      "Un récit sans rapport est hors sujet.",
+      "Une phrase hors sujet ne rapporte aucun point."
+     ],
+     "verif": "methode"
     }
    ],
    "lessons": [
@@ -10561,6 +10981,314 @@
        "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
       }
      ]
+    },
+    {
+     "id": "L20261013cm01",
+     "rev": 2,
+     "m": "cmc",
+     "titre": "Méthode de l'épreuve de connaissance du monde contemporain",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez analyser un sujet de connaissance du monde contemporain, le problématiser, l'illustrer par des exemples datés et localisés, et éviter les erreurs factuelles.",
+      "## Ce que demande l'épreuve",
+      "Au concours direct du cycle moyen de l'ENA (session 2026), la connaissance du monde contemporain est une épreuve écrite d'admission de coefficient 3, après la présélection. Elle vérifie que vous comprenez les grandes évolutions du monde actuel et que vous savez les exposer avec ordre et précision.",
+      "## Les sujets types",
+      "- Une question ouverte : « L'Afrique est-elle devenue un acteur majeur des relations internationales ? »",
+      "- Une notion à expliquer : « La mondialisation », « Le multilatéralisme ».",
+      "- Un thème d'actualité durable : climat, migrations, numérique, sécurité au Sahel, intégration régionale.",
+      "## La méthode",
+      "- Analyser le sujet : définir chaque mot, le situer dans le temps (depuis quand ?) et dans l'espace (monde, Afrique, Côte d'Ivoire).",
+      "- Poser une problématique : la question précise à laquelle la copie va répondre.",
+      "- Construire un plan en deux ou trois parties, chacune avec deux sous-parties.",
+      "- Illustrer chaque idée par un exemple précis, daté et localisé.",
+      "- Conclure en répondant à la problématique, puis ouvrir sur une perspective.",
+      "! Un fait, une date ou un chiffre inexact coûte cher. En cas de doute, donnez un ordre de grandeur prudent (« plus d'un milliard d'habitants ») plutôt qu'un chiffre précis inventé."
+     ],
+     "fond": [
+      "## Les repères à toujours avoir en tête",
+      "- 1945 : création de l'Organisation des Nations unies (Charte signée à San Francisco).",
+      "- 1963 : création de l'Organisation de l'unité africaine (OUA), remplacée en 2002 par l'Union africaine, dont le siège est à Addis-Abeba.",
+      "- 1975 : création de la CEDEAO ; 1994 : création de l'UEMOA.",
+      "- 2015 : Accord de Paris sur le climat et adoption des 17 objectifs de développement durable (horizon 2030).",
+      "- Le Conseil de sécurité de l'ONU compte 15 membres, dont 5 permanents disposant du droit de veto : Chine, États-Unis, France, Royaume-Uni, Russie.",
+      "## Comment réviser",
+      "- Construisez une fiche par grand thème (ordre mondial, Afrique, économie, climat, population, sécurité, numérique).",
+      "- Sur chaque fiche : définitions, trois dates sûres, trois exemples (dont un ivoirien ou africain), un débat.",
+      "## Notion : de l'actualité au sujet",
+      "Un sujet de monde contemporain ne demande pas un journal télévisé : il demande d'expliquer une évolution et ses enjeux. L'actualité sert d'exemple, jamais de plan.",
+      "~ Sujet : « Le multilatéralisme est-il en crise ? » Analyse : le multilatéralisme désigne la coopération entre de nombreux États au sein d'organisations communes (ONU, OMC, Union africaine). Tension : ces organisations restent indispensables face aux problèmes mondiaux (climat, santé), mais les grandes puissances les contournent souvent. Plan : I. Un multilatéralisme fragilisé ; II. Un multilatéralisme toujours nécessaire, qui se réinvente.",
+      "Pourquoi ce plan fonctionne-t-il ? Il part du constat suggéré par le sujet (la crise), puis le nuance : c'est la démarche « comprendre, puis discuter » attendue dans toutes les épreuves de culture générale.",
+      "? Problématisez : « L'Afrique dans la mondialisation ». || Par exemple : « L'Afrique, riche de ses ressources et de sa jeunesse, est-elle un acteur de la mondialisation ou reste-t-elle surtout un fournisseur de matières premières soumis aux décisions prises ailleurs ? »",
+      "## Notion : l'exemple daté et localisé",
+      "Un bon exemple répond à trois questions : quoi, où, quand. « La ZLECAf, dont le secrétariat est installé à Accra » est un exemple ; « l'Afrique s'intègre » n'en est pas un.",
+      "~ Pour illustrer l'intégration régionale : création de la CEDEAO par le traité de Lagos en 1975 ; création de l'UEMOA par le traité de Dakar en 1994 ; retrait du Burkina Faso, du Mali et du Niger de la CEDEAO, effectif le 29 janvier 2025.",
+      "? Transformez en exemple précis : « Les pays se sont mis d'accord sur le climat. » || « En 2015, lors de la COP21, les États ont adopté l'Accord de Paris sur le climat. » Le quoi (Accord de Paris), le où (COP21, à Paris) et le quand (2015) sont présents.",
+      "## Notion : les thèmes à préparer",
+      "- L'ordre mondial depuis 1945 et la fin de la guerre froide (1989-1991).",
+      "- Les organisations internationales et africaines (ONU, Union africaine, CEDEAO, UEMOA, ZLECAf).",
+      "- La mondialisation économique, le développement durable, la démographie et l'urbanisation, le numérique, la sécurité.",
+      "- La place de la Côte d'Ivoire dans ces dynamiques.",
+      "? Sur quel thème du programme placeriez-vous un sujet comme « La jeunesse africaine, atout ou défi ? » || Sur le thème « population, urbanisation et migrations » : il touche la croissance démographique, l'emploi des jeunes, l'urbanisation et les migrations, avec des liens vers l'éducation et l'économie."
+     ],
+     "retenir": [
+      "Définir, situer dans le temps et l'espace, puis problématiser.",
+      "Plan en deux ou trois parties : comprendre l'évolution, puis la discuter.",
+      "Chaque idée est illustrée par un exemple précis : quoi, où, quand.",
+      "Jamais de chiffre inventé : un ordre de grandeur prudent vaut mieux.",
+      "ONU 1945 ; OUA 1963, UA 2002 ; CEDEAO 1975 ; UEMOA 1994 ; Accord de Paris 2015."
+     ],
+     "exo": {
+      "tag": "niv-cm01",
+      "n": 8,
+      "ecrit": "cmc"
+     },
+     "niv": "cm01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013rd01",
+     "rev": 2,
+     "m": "redac",
+     "titre": "Méthode : le style administratif et l'épreuve de mise au net",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez appliquer les qualités du style administratif, présenter une lettre administrative complète, choisir le bon document selon la situation et réussir une mise au net.",
+      "## Ce que demandent les épreuves",
+      "- Rédaction administrative : à partir d'une situation, rédiger le document demandé (lettre, note de service, compte rendu, rapport…). En 2026, elle figure surtout aux concours professionnels exceptionnels de la Fonction publique (1 heure, coefficient 2 ou 3).",
+      "- Mise au net : recopier proprement un brouillon raturé et annoté, en appliquant toutes les corrections indiquées et en corrigeant les fautes. Elle figure aux concours directs de niveau CEPE et BEPC (agent de bureau, adjoint administratif…) et aux concours de secrétariat, parfois sur ordinateur.",
+      "## Les qualités du style administratif",
+      "- Clarté : une idée par paragraphe, des phrases courtes.",
+      "- Précision : dates, lieux, références exactes ; pas de mots vagues.",
+      "- Concision : aller à l'essentiel, sans répétition.",
+      "- Neutralité et courtoisie : pas d'émotion, pas de familiarité, respect de la hiérarchie.",
+      "- Formules consacrées : « J'ai l'honneur de… », « Je vous saurais gré de… », « Il m'a été donné de constater que… ».",
+      "## Méthode pour la mise au net",
+      "- Lire d'abord tout le brouillon et repérer les signes de correction (ajouts, suppressions, déplacements).",
+      "- Recopier en appliquant chaque correction, sans rien ajouter ni retrancher au sens.",
+      "- Corriger l'orthographe, les accords et la ponctuation ; développer les abréviations non admises.",
+      "- Soigner la présentation : marges, alignements, paragraphes, majuscules.",
+      "! En mise au net, on ne réécrit pas le texte à sa manière : on reproduit fidèlement le texte corrigé."
+     ],
+     "fond": [
+      "## Les mentions de la lettre administrative",
+      "- En haut à gauche : le timbre (nom du ministère et du service), puis le numéro d'enregistrement.",
+      "- En haut à droite : le lieu et la date.",
+      "- La suscription : l'autorité qui écrit et le destinataire (« Le Directeur régional à Monsieur le Maire de… »).",
+      "- L'objet : le sujet de la lettre en quelques mots ; puis les références et les pièces jointes s'il y en a.",
+      "- Le corps : formule d'appel, introduction, développement, conclusion, formule de politesse.",
+      "- La signature : qualité, puis nom du signataire.",
+      "## Le bon document pour la bonne situation",
+      "- Note de service : instructions internes à l'ensemble ou à une partie du personnel, sans formule d'appel ni de politesse.",
+      "- Compte rendu : résumé ordonné d'une réunion ou d'une mission.",
+      "- Procès-verbal : relation fidèle et officielle de ce qui a été dit ou constaté, souvent signée.",
+      "- Rapport : exposé d'une situation, analyse et propositions à l'autorité.",
+      "## Exemple commenté : une lettre administrative",
+      "~ En-tête à gauche : « MINISTÈRE DE … / DIRECTION RÉGIONALE DE … / N° … ». À droite : « Bouaké, le … ». Suscription : « Le Directeur régional à Monsieur le Maire de la commune de … ». Objet : « Réunion de préparation de la rentrée administrative ».",
+      "~ Corps : « Monsieur le Maire, j'ai l'honneur de vous inviter à la réunion de préparation de la rentrée administrative qui se tiendra le … à 10 heures, dans la salle de conférence de la direction régionale. L'ordre du jour portera sur : 1. le calendrier des activités ; 2. la répartition des moyens logistiques. Je vous saurais gré de bien vouloir me confirmer votre participation. Je vous prie d'agréer, Monsieur le Maire, l'assurance de ma haute considération. » Signature : qualité, puis nom.",
+      "Pourquoi « j'ai l'honneur de » ? C'est la formule consacrée qui ouvre la lettre administrative et marque la courtoisie due à l'institution destinataire. Le ton reste neutre et précis : la date, l'heure, le lieu et l'ordre du jour sont donnés sans détour.",
+      "? Quelles mentions manque-t-il à une lettre qui ne comporte que le corps du texte et la signature ? || Le timbre (ministère, direction), le numéro, le lieu et la date, la suscription (expéditeur et destinataire) et l'objet. Sans elles, la lettre n'est ni identifiable ni classable.",
+      "## La mise au net, pas à pas",
+      "- Lisez tout le brouillon une première fois sans écrire, pour comprendre le texte et repérer les signes de correction.",
+      "- Recopiez paragraphe par paragraphe en appliquant chaque correction : insertion, suppression, déplacement.",
+      "- Corrigez au passage l'orthographe, les accords et la ponctuation ; développez les abréviations non admises dans un document officiel (« svp », « cf. » dans un courrier formel).",
+      "- Relisez la copie au propre en la comparant au brouillon, ligne par ligne.",
+      "? Dans un brouillon, vous lisez : « les dossiers ont été transmit au service compétant ». Comment le mettre au net ? || « Les dossiers ont été transmis au service compétent. » Majuscule en début de phrase ; « transmis » (participe passé de transmettre, accordé avec « les dossiers ») ; « compétent » (qui a la compétence), à ne pas confondre avec « compétant », participe présent de compéter.",
+      "## Choisir le bon document",
+      "? Le chef de service veut rappeler à tous ses agents l'obligation de ponctualité. Quel document rédiger ? || Une note de service : elle s'adresse au personnel interne et donne une instruction, sans formule d'appel ni formule de politesse.",
+      "? Après une réunion, votre directeur vous demande un document qui relate fidèlement les décisions prises et sera signé par les participants. De quel document s'agit-il ? || Un procès-verbal : il relate de façon fidèle et officielle ce qui a été dit et décidé, et fait foi. Le compte rendu, lui, en donne une synthèse."
+     ],
+     "retenir": [
+      "Clarté, précision, concision, neutralité, courtoisie.",
+      "Lettre : timbre et numéro à gauche, lieu et date à droite, suscription, objet, corps, signature.",
+      "« J'ai l'honneur de… » ouvre le corps de la lettre administrative.",
+      "Note de service : interne, pas de formule d'appel ni de politesse.",
+      "Compte rendu résume ; procès-verbal relate fidèlement et fait foi.",
+      "Mise au net : appliquer toutes les corrections, sans changer le sens, et soigner la présentation."
+     ],
+     "exo": {
+      "tag": "niv-rd01",
+      "n": 8,
+      "ecrit": "redac"
+     },
+     "niv": "rd01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013mp01",
+     "rev": 2,
+     "m": "mop",
+     "titre": "Méthode de l'épreuve de management des organisations publiques",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez traiter un cas pratique de management public en une heure : diagnostic, propositions hiérarchisées, indicateurs de suivi, en tenant compte des spécificités du service public.",
+      "## Ce que demande l'épreuve",
+      "En 2026, le management des organisations publiques est une épreuve d'une heure (coefficient 2) de plusieurs concours professionnels exceptionnels de la Fonction publique, pour l'accès à des emplois d'encadrement. Elle prend la forme d'un sujet de réflexion ou d'un cas pratique : vous êtes placé en situation de responsable.",
+      "## La méthode en une heure",
+      "- 10 minutes : lire le sujet, définir les notions, repérer le problème posé.",
+      "- 10 minutes : bâtir un plan simple (diagnostic, puis propositions) avec des exemples concrets.",
+      "- 35 minutes : rédiger, avec une introduction courte et des propositions précises.",
+      "- 5 minutes : relire.",
+      "## Les attentes du correcteur",
+      "- La maîtrise du vocabulaire du management : objectif, indicateur, résultat, performance, délégation, évaluation.",
+      "- La prise en compte des spécificités du secteur public : intérêt général, continuité du service, égalité des usagers, règles budgétaires et statutaires.",
+      "- Des propositions réalistes, hiérarchisées, avec un calendrier et des indicateurs de suivi.",
+      "! Une copie qui récite des théories sans les appliquer à la situation proposée est sanctionnée."
+     ],
+     "fond": [
+      "## Les notions de base",
+      "- Organisation : ensemble de personnes et de moyens réunis pour atteindre des objectifs communs.",
+      "- Management : art de conduire une organisation et ses agents vers ces objectifs, en utilisant au mieux les moyens disponibles.",
+      "- Les fonctions classiques du dirigeant, décrites par Henri Fayol : prévoir, organiser, commander, coordonner, contrôler. On les résume aujourd'hui en : planifier, organiser, diriger, contrôler.",
+      "- Efficacité : atteindre les objectifs. Efficience : les atteindre au meilleur coût. Ne confondez pas les deux.",
+      "## Le management public aujourd'hui",
+      "- Gestion axée sur les résultats : fixer des objectifs, mesurer les résultats par des indicateurs, rendre compte.",
+      "- Le budget-programme, adopté par la Côte d'Ivoire, présente les crédits par programmes assortis d'objectifs et d'indicateurs de performance.",
+      "## Exemple commenté : un cas pratique",
+      "~ Situation : vous êtes nommé chef d'un service où les dossiers des usagers attendent en moyenne plusieurs semaines. Diagnostic : mesurer les délais à chaque étape du circuit, identifier les goulets d'étranglement (signature, saisie, archivage), écouter agents et usagers. Propositions : réorganiser le circuit (une seule étape de vérification au lieu de deux), fixer un objectif de délai, former les agents à l'outil de suivi, rendre compte chaque mois. Indicateur : délai moyen de traitement d'un dossier.",
+      "Pourquoi commencer par le diagnostic ? Parce qu'une solution choisie avant d'avoir mesuré le problème risque de traiter un symptôme et non la cause. Le correcteur valorise la démarche autant que les propositions.",
+      "? Quel indicateur proposeriez-vous pour suivre la qualité de l'accueil dans un service public ? || Par exemple : le temps d'attente moyen au guichet, ou le taux de satisfaction des usagers mesuré par un court questionnaire. Un indicateur doit être mesurable, régulier et lié à l'objectif.",
+      "## Les spécificités du secteur public",
+      "- L'intérêt général remplace le profit comme finalité.",
+      "- L'usager n'est pas un simple client : il a des droits (égalité de traitement, continuité du service).",
+      "- Les règles budgétaires et statutaires encadrent le manager : il ne recrute ni ne rémunère librement.",
+      "~ Un manager du privé peut augmenter un salaire pour motiver un collaborateur ; un chef de service public doit souvent motiver par d'autres leviers : reconnaissance, formation, responsabilités, conditions de travail.",
+      "? Citez deux leviers de motivation dont dispose un chef de service public sans pouvoir modifier les salaires. || Par exemple : confier des responsabilités valorisantes et proposer des formations. On peut aussi améliorer les conditions de travail ou reconnaître publiquement les réussites de l'équipe.",
+      "## Le vocabulaire à employer",
+      "- Objectif, indicateur, résultat, performance, efficacité, efficience, délégation, évaluation, redevabilité.",
+      "? Quelle différence entre efficacité et efficience, illustrée par un service de délivrance de pièces ? || Le service est efficace s'il délivre toutes les pièces demandées dans les délais fixés ; il est efficient s'il y parvient avec le moins de moyens possible (agents, temps, papier)."
+     ],
+     "retenir": [
+      "Cas pratique : diagnostic, puis propositions hiérarchisées et mesurables.",
+      "Fayol : prévoir, organiser, commander, coordonner, contrôler.",
+      "Efficacité = atteindre l'objectif ; efficience = au meilleur coût.",
+      "Secteur public : intérêt général, continuité, égalité des usagers.",
+      "Gestion axée sur les résultats : objectifs, indicateurs, compte rendu.",
+      "Un indicateur est mesurable, régulier et lié à l'objectif."
+     ],
+     "exo": {
+      "tag": "niv-mp01",
+      "n": 8,
+      "ecrit": "mop"
+     },
+     "niv": "mp01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013dp01",
+     "rev": 2,
+     "m": "dpen",
+     "titre": "Méthode de l'épreuve de droit pénal",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez qualifier des faits en droit pénal, vérifier les trois éléments d'une infraction, et construire une dissertation sur les principes du droit pénal.",
+      "## Ce que demande l'épreuve",
+      "En 2026, le droit pénal est une épreuve écrite du concours d'accès à la magistrature (4 heures, coefficient 4) et du concours d'Administrateur des services pénitentiaires (3 heures, coefficient 3). Le sujet peut être une dissertation (« Le principe de la légalité des délits et des peines ») ou un cas pratique.",
+      "## La dissertation",
+      "- Définir les termes, poser une problématique juridique, plan en deux parties et deux sous-parties.",
+      "- Appuyer chaque argument sur un principe, un texte ou une règle exacte du droit ivoirien.",
+      "## Le cas pratique : qualifier les faits",
+      "- Relever les faits utiles, sans les déformer.",
+      "- Poser la question de droit : quelle infraction ? quelle responsabilité ?",
+      "- Exposer la règle : les éléments constitutifs de l'infraction (élément légal, élément matériel, élément moral).",
+      "- Appliquer la règle aux faits, élément par élément.",
+      "- Conclure : l'infraction est-elle constituée ? Qui est auteur, coauteur ou complice ? Quelle peine est encourue ?",
+      "! Ne citez un numéro d'article que si vous en êtes certain ; sinon, citez le texte (le Code pénal, le Code de procédure pénale) sans numéro."
+     ],
+     "fond": [
+      "## Les notions de départ",
+      "- Principe de légalité : pas d'infraction ni de peine sans texte. Le juge ne peut punir un comportement que la loi n'incrimine pas.",
+      "- Les trois éléments d'une infraction : légal (un texte la prévoit), matériel (un acte ou une abstention), moral (l'intention ou la faute).",
+      "- Classification selon la gravité : crimes, délits, contraventions.",
+      "- La loi pénale plus sévère n'est pas rétroactive ; la loi pénale plus douce s'applique aux faits non encore définitivement jugés.",
+      "## Droit pénal et procédure pénale",
+      "- Le droit pénal général étudie l'infraction, la responsabilité et la peine ; le droit pénal spécial étudie chaque infraction (vol, meurtre, escroquerie…).",
+      "- La procédure pénale organise la recherche, la poursuite et le jugement des infractions.",
+      "## Exemple commenté : qualifier des faits",
+      "~ Faits (fictifs) : Yao entre dans une boutique, prend un téléphone exposé et sort sans payer, en le cachant dans sa poche. Question : quelle infraction ? Règle : le vol suppose la soustraction frauduleuse de la chose d'autrui. Application : élément légal, le Code pénal incrimine le vol ; élément matériel, Yao a pris le téléphone (soustraction) d'un bien qui ne lui appartient pas ; élément moral, il l'a caché et n'a pas payé, ce qui montre son intention. Solution : l'infraction de vol est constituée.",
+      "Pourquoi vérifier les trois éléments ? Parce qu'il suffit qu'un seul manque pour qu'il n'y ait pas d'infraction : sans texte, pas d'infraction (légalité) ; sans acte, pas d'infraction ; sans intention (pour une infraction intentionnelle), pas d'infraction.",
+      "? Ama repart d'un marché avec le sac d'une autre cliente, identique au sien, en croyant sincèrement que c'est le sien. Le vol est-il constitué ? || Non, en principe : l'élément moral fait défaut. Ama n'avait pas l'intention de s'approprier le bien d'autrui ; elle s'est trompée. Si elle garde le sac après avoir découvert l'erreur, la situation change.",
+      "## Le principe de légalité dans une dissertation",
+      "~ Plan possible pour « Le principe de la légalité des délits et des peines » : I. Un principe fondamental (A. son contenu : pas d'infraction ni de peine sans texte ; B. sa valeur constitutionnelle et internationale) ; II. Des conséquences étendues (A. l'interprétation stricte de la loi pénale ; B. la non-rétroactivité de la loi pénale plus sévère).",
+      "? Une loi nouvelle aggrave la peine d'une infraction. S'applique-t-elle à des faits commis avant son entrée en vigueur ? || Non : la loi pénale plus sévère n'est pas rétroactive. Elle ne s'applique qu'aux faits commis après son entrée en vigueur. À l'inverse, une loi plus douce s'applique aux faits non encore définitivement jugés.",
+      "## Crimes, délits, contraventions",
+      "La classification selon la gravité détermine notamment la juridiction compétente et la procédure applicable.",
+      "? Pourquoi est-il important de savoir si une infraction est un crime, un délit ou une contravention ? || Parce que cette classification détermine la juridiction compétente, la procédure à suivre et les peines encourues. C'est souvent la première question à se poser après la qualification des faits."
+     ],
+     "retenir": [
+      "Pas d'infraction ni de peine sans texte.",
+      "Infraction = élément légal + matériel + moral ; un seul manque, pas d'infraction.",
+      "Crimes, délits, contraventions : la classification commande la juridiction et la procédure.",
+      "La loi pénale plus sévère n'est pas rétroactive ; la plus douce s'applique aux faits non définitivement jugés.",
+      "Cas pratique : faits, question de droit, règle, application, solution.",
+      "Numéro d'article incertain : citer le texte sans numéro."
+     ],
+     "exo": {
+      "tag": "niv-dp01",
+      "n": 8,
+      "ecrit": "dpen"
+     },
+     "niv": "dp01",
+     "verif": "methode"
+    },
+    {
+     "id": "L20261013ec01",
+     "rev": 2,
+     "m": "ecm",
+     "titre": "Méthode de l'épreuve d'éducation civique et morale",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez répondre aux questions de cours et aux sujets de réflexion d'éducation civique et morale, avec des règles précises et des exemples de la vie quotidienne.",
+      "## Ce que demande l'épreuve",
+      "En 2026, l'éducation civique et morale est une épreuve écrite du concours d'Agent d'encadrement des établissements pénitentiaires (2 heures, coefficient 2), ouvert aux titulaires du BEPC. Une note inférieure ou égale à 5 sur 20 est éliminatoire.",
+      "## Les deux formes de sujets",
+      "- Des questions de cours : « Citez les symboles de la République de Côte d'Ivoire », « Quels sont les devoirs du citoyen ? ».",
+      "- Un sujet de réflexion : « Pourquoi faut-il respecter le bien public ? ».",
+      "## La méthode",
+      "- Question de cours : répondre directement, avec des phrases complètes et précises.",
+      "- Sujet de réflexion : une introduction qui définit les mots du sujet, un développement en deux parties avec des exemples de la vie quotidienne, une conclusion qui donne votre position.",
+      "- Relire l'orthographe : elle compte dans la note.",
+      "! Une réponse vague (« il faut être gentil ») rapporte peu : donnez des règles, des institutions et des exemples précis."
+     ],
+     "fond": [
+      "## Les symboles de la République de Côte d'Ivoire",
+      "- Le drapeau : trois bandes verticales, orange, blanc et vert.",
+      "- L'hymne national : l'Abidjanaise.",
+      "- La devise : Union, Discipline, Travail.",
+      "- La fête nationale : le 7 août, jour anniversaire de l'indépendance (7 août 1960).",
+      "## Repères sur les institutions",
+      "- La Constitution en vigueur a été adoptée en 2016 ; elle fonde la Troisième République.",
+      "- Le Parlement comprend deux chambres : l'Assemblée nationale et le Sénat.",
+      "- La capitale politique et administrative est Yamoussoukro ; Abidjan est la capitale économique.",
+      "## Droits et devoirs",
+      "- Le citoyen a des droits (vote, libertés, éducation) et des devoirs (respect des lois, paiement de l'impôt, respect du bien public, défense de la patrie).",
+      "## Exemple commenté : un sujet de réflexion",
+      "~ Sujet : « Pourquoi faut-il payer l'impôt ? » Introduction : l'impôt est une somme versée par les citoyens et les entreprises à l'État et aux collectivités pour financer les dépenses publiques. I. L'impôt finance les biens et services de tous : écoles, hôpitaux, routes, sécurité. II. Payer l'impôt est un devoir de solidarité et de justice : chacun contribue selon ses moyens, et celui qui fraude fait payer les autres. Conclusion : le civisme fiscal est une condition du développement du pays.",
+      "Pourquoi ce plan est-il adapté ? Il répond directement à la question « pourquoi » par deux raisons distinctes (utilité, justice), chacune illustrée par des exemples concrets que le correcteur peut vérifier.",
+      "? Proposez deux exemples concrets de biens publics financés par l'impôt dans votre commune. || Par exemple : l'éclairage public des rues et l'entretien du marché municipal. On peut aussi citer l'école primaire publique ou le centre de santé.",
+      "## Les questions de cours : répondre juste et complet",
+      "~ Question : « Citez les symboles de la République de Côte d'Ivoire. » Réponse : le drapeau orange, blanc et vert à bandes verticales ; l'hymne national, l'Abidjanaise ; la devise, Union, Discipline, Travail.",
+      "? Question : « Qu'est-ce qu'un citoyen ? » Rédigez une réponse complète. || Un citoyen est une personne qui appartient à un État et qui y jouit de droits (voter, s'exprimer, être protégé par la loi) tout en ayant des devoirs (respecter les lois, payer l'impôt, protéger le bien public).",
+      "## Les valeurs morales à illustrer",
+      "- La tolérance : respecter les opinions, croyances et origines différentes.",
+      "- L'intégrité : refuser la corruption et le mensonge.",
+      "- La solidarité : aider ceux qui sont dans le besoin.",
+      "? Un agent pénitentiaire se voit proposer de l'argent par la famille d'un détenu pour lui faire passer un téléphone. Quelle valeur est en jeu et que doit-il faire ? || L'intégrité : il doit refuser, car accepter serait un acte de corruption et compromettrait la sécurité de l'établissement ; il doit aussi signaler les faits à sa hiérarchie."
+     ],
+     "retenir": [
+      "Question de cours : réponse directe, précise et complète.",
+      "Réflexion : définir, deux parties illustrées d'exemples concrets, conclusion.",
+      "Drapeau orange, blanc, vert ; hymne l'Abidjanaise ; devise Union, Discipline, Travail.",
+      "Fête nationale le 7 août (indépendance en 1960).",
+      "Constitution de 2016 ; Parlement : Assemblée nationale et Sénat.",
+      "Le citoyen a des droits (vote, expression) et des devoirs (lois, impôt, bien public)."
+     ],
+     "exo": {
+      "tag": "niv-ec01",
+      "n": 8,
+      "ecrit": "ecm"
+     },
+     "niv": "ec01",
+     "verif": "methode"
     }
    ],
    "sujets": []
