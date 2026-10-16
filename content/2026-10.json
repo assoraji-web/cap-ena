@@ -12591,6 +12591,1296 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-16",
+   "questions": [
+    {
+     "id": "n20261016-cg03-01",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "À quelle date la Côte d'Ivoire devient-elle officiellement une colonie française ?",
+     "o": [
+      "7 août 1960",
+      "10 mars 1893",
+      "11 avril 1946",
+      "20 février 1888"
+     ],
+     "a": 1,
+     "e": "La Côte d'Ivoire devient officiellement une colonie française le 10 mars 1893, avec Louis-Gustave Binger comme premier gouverneur.",
+     "ed": [
+      "Le 7 août 1960 est la date de l'indépendance, pas celle de la création de la colonie.",
+      null,
+      "Le 11 avril 1946 est la date de la loi supprimant le travail forcé.",
+      "Le 20 février 1888 est la date de l'entrée de Binger à Kong, avant la création de la colonie."
+     ],
+     "src": {
+      "t": "History of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-cg03-02",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Qui fut le premier gouverneur de la colonie de Côte d'Ivoire ?",
+     "o": [
+      "Gabriel Angoulvant",
+      "Marcel Treich-Laplène",
+      "Louis-Gustave Binger",
+      "Édouard Bouët-Willaumez"
+     ],
+     "a": 2,
+     "e": "Louis-Gustave Binger, explorateur qui avait parcouru l'intérieur de 1887 à 1889, devient le premier gouverneur de la colonie créée le 10 mars 1893.",
+     "ed": [
+      "Angoulvant n'est gouverneur qu'à partir de 1908, pour mener la « pacification ».",
+      "Treich-Laplène avait reçu en 1889 un titre de gouverneur, mais avant la création officielle de la colonie ; il n'en est pas le premier gouverneur.",
+      null,
+      "Bouët-Willaumez est l'amiral qui signe les traités côtiers de 1843-1844, pas un gouverneur de la colonie."
+     ],
+     "src": {
+      "t": "History of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-cg03-03",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Quel est l'ordre chronologique des capitales de la Côte d'Ivoire coloniale ?",
+     "o": [
+      "Bingerville, Grand-Bassam, Abidjan",
+      "Grand-Bassam, Abidjan, Bingerville",
+      "Abidjan, Bingerville, Grand-Bassam",
+      "Grand-Bassam, Bingerville, Abidjan"
+     ],
+     "a": 3,
+     "e": "Le siège du gouvernement est d'abord Grand-Bassam (1893), puis il est transféré à Bingerville à la fin de 1900, enfin à Abidjan en 1934.",
+     "ed": [
+      "Bingerville n'est pas la première capitale : Grand-Bassam la précède depuis 1893.",
+      "Abidjan ne devient capitale qu'en 1934, après Bingerville.",
+      "C'est l'ordre inverse : Abidjan est la dernière des trois.",
+      null
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : histoire — Encyclopédie Larousse",
+      "u": "https://www.larousse.fr/encyclopedie/divers/C%C3%B4te_dIvoire_histoire/187417"
+     }
+    },
+    {
+     "id": "n20261016-cg03-04",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Qui fonde l'empire de Kong au début du XVIIIe siècle ?",
+     "o": [
+      "Sékou Ouattara",
+      "Samory Touré",
+      "Osei Tutu",
+      "Abla Pokou"
+     ],
+     "a": 0,
+     "e": "Vers 1710, le Dioula Sékou Ouattara (Seku Watara) prend le pouvoir à Kong et fonde l'empire, centre du commerce de l'or et de la cola.",
+     "ed": [
+      null,
+      "Samory Touré n'a pas fondé Kong : il l'a au contraire incendiée à la fin des années 1890.",
+      "Osei Tutu est lié à l'empire ashanti, dans l'actuel Ghana, pas à Kong.",
+      "Abla Pokou est associée à l'exode des Baoulés, pas à la fondation de Kong."
+     ],
+     "src": {
+      "t": "Kong Empire — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Kong_Empire"
+     }
+    },
+    {
+     "id": "n20261016-cg03-05",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Quelle loi a supprimé le travail forcé dans les territoires d'outre-mer ?",
+     "o": [
+      "La loi-cadre Defferre de 1956",
+      "La loi n° 46-645 du 11 avril 1946",
+      "La loi n° 59-240 du 3 décembre 1959",
+      "Le décret du 10 mars 1893"
+     ],
+     "a": 1,
+     "e": "La loi n° 46-645 du 11 avril 1946, dite loi Houphouët-Boigny, est relative à la suppression du travail forcé dans les territoires d'outre-mer.",
+     "ed": [
+      "La loi-cadre de 1956 transfère des pouvoirs aux territoires ; elle ne supprime pas le travail forcé, déjà aboli en 1946.",
+      null,
+      "La loi de 1959 porte sur le drapeau national, pas sur le travail forcé.",
+      "Le texte de 1893 crée la colonie ; il n'abolit rien, au contraire."
+     ],
+     "src": {
+      "t": "Assemblée nationale (France), question écrite n° 14134 : loi n° 46-645 du 11 avril 1946",
+      "u": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14134"
+     }
+    },
+    {
+     "id": "n20261016-cg03-06",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Dans quelle ville le Rassemblement démocratique africain (RDA) est-il fondé en octobre 1946 ?",
+     "o": [
+      "Dakar",
+      "Abidjan",
+      "Bamako",
+      "Grand-Bassam"
+     ],
+     "a": 2,
+     "e": "Le RDA est fondé à Bamako en octobre 1946 ; Félix Houphouët-Boigny en est le principal fondateur.",
+     "ed": [
+      "Le RDA n'a pas été fondé à Dakar : son congrès constitutif s'est tenu à Bamako.",
+      "Abidjan est la base du PDCI, section ivoirienne, mais le RDA est né à Bamako.",
+      null,
+      "Grand-Bassam est associée à la prison et à la marche des femmes de 1949, pas à la fondation du RDA."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : histoire — Encyclopédie Larousse",
+      "u": "https://www.larousse.fr/encyclopedie/divers/C%C3%B4te_dIvoire_histoire/187417"
+     }
+    },
+    {
+     "id": "n20261016-cg03-07",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Selon la tradition, quel fleuve la reine Abla Pokou et son peuple franchissent-ils avant de s'installer dans la région de Bouaké ?",
+     "o": [
+      "Le Sassandra",
+      "Le Cavally",
+      "Le Bandama",
+      "La Comoé"
+     ],
+     "a": 3,
+     "e": "La tradition rapportée par Larousse indique que la reine Abla Pokou franchit la Comoé avant de s'établir près de Bouaké : les Baoulés venaient de l'est, du pays ashanti.",
+     "ed": [
+      "Le Sassandra coule dans l'ouest du pays, loin de la route venue de l'est.",
+      "Le Cavally marque la frontière avec le Liberia, à l'extrême ouest.",
+      "La tradition rapportée ne cite pas le Bandama : c'est la Comoé, à l'est, que franchit la reine.",
+      null
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : histoire — Encyclopédie Larousse",
+      "u": "https://www.larousse.fr/encyclopedie/divers/C%C3%B4te_dIvoire_histoire/187417"
+     }
+    },
+    {
+     "id": "n20261016-cg03-08",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Quels royaumes agnis ont été fondés au milieu du XVIIIe siècle par des Akan venus du pays ashanti ?",
+     "o": [
+      "L'Indénié et le Sanwi",
+      "Kong et Bouna",
+      "Le Gyaman et Kong",
+      "Le Sanwi et Bouna"
+     ],
+     "a": 0,
+     "e": "L'Indénié (palais royal à Abengourou) et le Sanwi (capitale Krinjabo) sont deux royaumes agnis fondés au milieu du XVIIIe siècle par des groupes akan fuyant l'Ashanti.",
+     "ed": [
+      null,
+      "Kong et Bouna sont des cités liées aux Dioulas et à l'islam, pas des royaumes agnis.",
+      "Le Gyaman est un royaume abron et Kong une fondation dioula : aucun n'est agni.",
+      "Le Sanwi est bien agni, mais Bouna est un foyer de l'islam fondé par des Wangara, pas un royaume agni."
+     ],
+     "src": {
+      "t": "History of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-cg03-09",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Quel gouverneur, en poste à partir de 1908, mène la « pacification » militaire de la Côte d'Ivoire ?",
+     "o": [
+      "Louis-Gustave Binger",
+      "Gabriel Angoulvant",
+      "Marcel Treich-Laplène",
+      "Jean Delafosse"
+     ],
+     "a": 1,
+     "e": "Gabriel Angoulvant, gouverneur à partir de 1908, conduit une « pacification » brutale par expéditions militaires contre les résistances.",
+     "ed": [
+      "Binger est le premier gouverneur (1893) ; il n'est pas l'homme de la pacification de 1908.",
+      null,
+      "Treich-Laplène est un négociateur de traités des années 1880 ; ce n'est pas lui qui conduit la pacification de 1908.",
+      "Jean Delafosse est le ministre qui a expliqué le sens des couleurs du drapeau adopté en 1959, pas un gouverneur colonial."
+     ],
+     "src": {
+      "t": "History of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-cg03-10",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Combien d'années séparent la création de la colonie (1893) du transfert de la capitale à Abidjan (1934) ?",
+     "o": [
+      "39 ans",
+      "34 ans",
+      "41 ans",
+      "43 ans"
+     ],
+     "a": 2,
+     "e": "La colonie est créée en 1893 et la capitale est transférée à Abidjan en 1934 : 1934 − 1893 = 41 ans.",
+     "ed": [
+      "39 ans résulte d'une erreur de soustraction : 1934 − 1893 = 41.",
+      "34 ans correspond à la durée approximative de Bingerville comme capitale (1900-1934), pas à l'écart demandé.",
+      null,
+      "43 ans dépasse l'écart réel ; 1893 + 43 = 1936, et non 1934."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : histoire — Encyclopédie Larousse",
+      "u": "https://www.larousse.fr/encyclopedie/divers/C%C3%B4te_dIvoire_histoire/187417"
+     }
+    },
+    {
+     "id": "n20261016-cg03-11",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Parmi ces affirmations sur la marche des femmes sur Grand-Bassam, laquelle est exacte ?",
+     "o": [
+      "Elle a obtenu la libération immédiate des prisonniers.",
+      "Elle a eu lieu en décembre 1949 pour réclamer la libération des dirigeants du PDCI-RDA.",
+      "Elle a été organisée par l'administration coloniale.",
+      "Elle date de la veille de l'indépendance, en août 1960."
+     ],
+     "a": 1,
+     "e": "Partie d'Abidjan le 22 décembre 1949, la marche atteint la prison de Grand-Bassam le 24 décembre pour réclamer la libération des dirigeants du PDCI-RDA ; Marie Koré figure parmi les meneuses.",
+     "ed": [
+      "Faux : aucun prisonnier n'a été libéré, et des marcheuses ont été blessées et poursuivies.",
+      null,
+      "Faux : c'est une mobilisation anticoloniale de femmes, réprimée par les soldats.",
+      "Faux : la marche a eu lieu en décembre 1949, plus de dix ans avant l'indépendance."
+     ],
+     "src": {
+      "t": "Women's march on Grand-Bassam — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Women%27s_march_on_Grand-Bassam"
+     }
+    },
+    {
+     "id": "n20261016-cg03-12",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "En quelle année Samory Touré, adversaire de la conquête française au nord, est-il capturé ?",
+     "o": [
+      "1878",
+      "1888",
+      "1904",
+      "1898"
+     ],
+     "a": 3,
+     "e": "Samory Touré, qui avait bâti un empire à partir de 1878 et résisté à Binger, est capturé par les Français en 1898.",
+     "ed": [
+      "1878 est l'année à partir de laquelle Samory construit son empire, pas celle de sa capture.",
+      "1888 est l'année de l'entrée de Binger à Kong ; Samory résiste encore dix ans.",
+      "1904 est la date à partir de laquelle la Côte d'Ivoire est membre de l'AOF.",
+      null
+     ],
+     "src": {
+      "t": "History of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-ec02-01",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Quel article de la Constitution ivoirienne de 2016 définit l'emblème, l'hymne et la devise de la République ?",
+     "o": [
+      "L'article 1er",
+      "L'article 29",
+      "L'article 48",
+      "L'article 55"
+     ],
+     "a": 2,
+     "e": "L'article 48 de la Constitution de 2016 définit l'emblème national, l'hymne (l'Abidjanaise), la devise (Union, Discipline, Travail) et la langue officielle.",
+     "ed": [
+      "L'article 1er contenait le drapeau dans la Constitution de 1960, pas dans celle de 2016.",
+      "L'article 29 contenait le drapeau dans la Constitution de 2000, pas dans celle de 2016.",
+      null,
+      "L'article 55 ne porte pas sur les symboles de la République : c'est l'article 48."
+     ],
+     "src": {
+      "t": "Flag of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-ec02-02",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Par quel texte le drapeau ivoirien a-t-il été adopté ?",
+     "o": [
+      "La loi n° 60-207 du 27 juillet 1960",
+      "La loi n° 59-240 du 3 décembre 1959",
+      "Le décret du 7 août 1960",
+      "La loi n° 2016-886 du 8 novembre 2016"
+     ],
+     "a": 1,
+     "e": "Le drapeau a été adopté par la loi n° 59-240 du 3 décembre 1959, votée par l'Assemblée législative avant l'indépendance.",
+     "ed": [
+      "La loi du 27 juillet 1960 est celle qui adopte l'hymne national, pas le drapeau.",
+      null,
+      "Le 7 août 1960 est le jour de l'indépendance ; le drapeau existait déjà depuis 1959.",
+      "La loi de 2016 porte Constitution ; elle reprend le drapeau mais ne l'a pas créé."
+     ],
+     "src": {
+      "t": "Flag of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-ec02-03",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Selon l'explication donnée par le ministre Jean Delafosse, que symbolise la couleur blanche du drapeau ?",
+     "o": [
+      "La paix",
+      "L'espérance",
+      "La lutte de la jeunesse",
+      "La savane du nord"
+     ],
+     "a": 0,
+     "e": "Pour Jean Delafosse, le blanc représente la paix, « la paix du droit » ; l'orange évoque la lutte et le vert l'espérance.",
+     "ed": [
+      null,
+      "L'espérance est le sens attribué au vert, pas au blanc.",
+      "La lutte de la jeunesse pour son émancipation est le sens attribué à l'orange.",
+      "Ce sens géographique n'est pas celui donné par Jean Delafosse : le blanc représente la paix."
+     ],
+     "src": {
+      "t": "Flag of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-ec02-04",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Quelles sont les proportions officielles du drapeau ivoirien (largeur sur longueur) ?",
+     "o": [
+      "1 sur 2",
+      "3 sur 5",
+      "1 sur 1",
+      "2 sur 3"
+     ],
+     "a": 3,
+     "e": "Le drapeau ivoirien a des proportions de 2 sur 3 : sa largeur représente les deux tiers de sa longueur.",
+     "ed": [
+      "1 sur 2 donnerait un drapeau deux fois plus long que large, ce qui n'est pas la norme ivoirienne.",
+      "3 sur 5 n'est pas la proportion retenue pour le drapeau ivoirien.",
+      "1 sur 1 donnerait un drapeau carré, ce qui n'est pas le cas.",
+      null
+     ],
+     "src": {
+      "t": "Flag of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-ec02-05",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Par quelle loi l'Abidjanaise a-t-elle été adoptée comme hymne national ?",
+     "o": [
+      "La loi n° 59-240 du 3 décembre 1959",
+      "La loi n° 46-645 du 11 avril 1946",
+      "La loi n° 60-207 du 27 juillet 1960",
+      "La loi n° 2014-336 du 5 juin 2014"
+     ],
+     "a": 2,
+     "e": "L'Abidjanaise a été adoptée par la loi n° 60-207 du 27 juillet 1960, quelques jours avant l'indépendance du 7 août 1960.",
+     "ed": [
+      "La loi du 3 décembre 1959 adopte le drapeau, pas l'hymne.",
+      "La loi du 11 avril 1946 supprime le travail forcé ; elle n'a rien à voir avec l'hymne.",
+      null,
+      "La loi organique de 2014 est relative aux lois de finances, pas aux symboles."
+     ],
+     "src": {
+      "t": "L'Abidjanaise — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/L%27Abidjanaise"
+     }
+    },
+    {
+     "id": "n20261016-ec02-06",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Quand l'Abidjanaise a-t-elle été entonnée pour la première fois ?",
+     "o": [
+      "Le 7 août 1960 à 0 heure",
+      "Le 3 décembre 1959 à midi",
+      "Le 10 mars 1893",
+      "Le 1er novembre 2016"
+     ],
+     "a": 0,
+     "e": "L'Abidjanaise a été chantée pour la première fois le 7 août 1960 à 0 heure, au moment où le drapeau national a été hissé à la place du drapeau français.",
+     "ed": [
+      null,
+      "Le 3 décembre 1959 est la date de la loi sur le drapeau, pas de la première exécution de l'hymne.",
+      "Le 10 mars 1893 est la date de création de la colonie : il n'y avait pas d'hymne national.",
+      "En 2016, l'hymne existait depuis plus de cinquante ans."
+     ],
+     "src": {
+      "t": "Fraternité Matin, « Fête nationale de Côte d'Ivoire : les 5 symboles de la République présentés aux citoyens », 11 août 2020",
+      "u": "https://www.fratmat.info/article/207222/politique/alassane-ouattara/fete-nationale-de-cote-divoire-les-5-symboles-de-la-republique-presentes-aux-citoyens"
+     }
+    },
+    {
+     "id": "n20261016-ec02-07",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Combien d'éléments composent les armoiries de la République de Côte d'Ivoire ?",
+     "o": [
+      "Trois",
+      "Quatre",
+      "Cinq",
+      "Six"
+     ],
+     "a": 3,
+     "e": "Les armoiries comptent six éléments : un éléphant, un soleil levant, deux palmiers, un écu, un listel et l'inscription « République de Côte d'Ivoire ».",
+     "ed": [
+      "Trois est le nombre de couleurs du drapeau, pas d'éléments des armoiries.",
+      "Quatre éléments ne suffisent pas : il manquerait par exemple le listel et l'inscription.",
+      "Cinq est le nombre de symboles présentés aux citoyens en 2020, pas d'éléments des armoiries.",
+      null
+     ],
+     "src": {
+      "t": "Fraternité Matin, « Fête nationale de Côte d'Ivoire : les 5 symboles de la République présentés aux citoyens », 11 août 2020",
+      "u": "https://www.fratmat.info/article/207222/politique/alassane-ouattara/fete-nationale-de-cote-divoire-les-5-symboles-de-la-republique-presentes-aux-citoyens"
+     }
+    },
+    {
+     "id": "n20261016-ec02-08",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Quel animal figure sur les armoiries de la Côte d'Ivoire ?",
+     "o": [
+      "Le lion",
+      "L'éléphant",
+      "L'aigle",
+      "Le léopard"
+     ],
+     "a": 1,
+     "e": "Les armoiries comportent un éléphant d'argent, accompagné d'un soleil levant d'or et de deux palmiers d'or.",
+     "ed": [
+      "Le lion ne figure pas sur les armoiries ivoiriennes.",
+      null,
+      "L'aigle ne figure pas sur les armoiries ivoiriennes.",
+      "Le léopard ne figure pas sur les armoiries ivoiriennes : l'animal retenu est l'éléphant."
+     ],
+     "src": {
+      "t": "Fraternité Matin, « Honneur au drapeau : les fonctionnaires instruits sur les armoiries de la République », novembre 2025",
+      "u": "https://www.fratmat.info/article/2637956/societe/honneur-au-drapeau-les-fonctionnaires-instruits-sur-les-armoiries-de-la-republique"
+     }
+    },
+    {
+     "id": "n20261016-ec02-09",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "De quelle couleur était l'écu des armoiries lors de leur création le 8 février 1960 ?",
+     "o": [
+      "Vert",
+      "Orange",
+      "Bleu",
+      "Blanc"
+     ],
+     "a": 2,
+     "e": "Créé le 8 février 1960, l'écu des armoiries était bleu ; il est aujourd'hui vert.",
+     "ed": [
+      "Vert est la couleur actuelle de l'écu, pas sa couleur d'origine.",
+      "L'orange est une couleur du drapeau ; l'écu d'origine était bleu.",
+      null,
+      "Le blanc est une couleur du drapeau ; l'écu d'origine était bleu."
+     ],
+     "src": {
+      "t": "Fraternité Matin, « Honneur au drapeau : les fonctionnaires instruits sur les armoiries de la République », novembre 2025",
+      "u": "https://www.fratmat.info/article/2637956/societe/honneur-au-drapeau-les-fonctionnaires-instruits-sur-les-armoiries-de-la-republique"
+     }
+    },
+    {
+     "id": "n20261016-ec02-10",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Sur quel document officiel un citoyen trouve-t-il les armoiries de la République ?",
+     "o": [
+      "La carte nationale d'identité",
+      "Le ticket de bus",
+      "Le bulletin de notes scolaire privé",
+      "La facture d'un commerçant"
+     ],
+     "a": 0,
+     "e": "Les armoiries servent de sceau de la République : elles figurent sur les documents officiels comme la carte nationale d'identité et le passeport.",
+     "ed": [
+      null,
+      "Un ticket de transport n'est pas un document officiel de l'État portant le sceau de la République.",
+      "Un document d'un établissement privé n'est pas un acte de l'État revêtu du sceau.",
+      "Une facture commerciale est un document privé, sans sceau de la République."
+     ],
+     "src": {
+      "t": "Fraternité Matin, « Fête nationale de Côte d'Ivoire : les 5 symboles de la République présentés aux citoyens », 11 août 2020",
+      "u": "https://www.fratmat.info/article/207222/politique/alassane-ouattara/fete-nationale-de-cote-divoire-les-5-symboles-de-la-republique-presentes-aux-citoyens"
+     }
+    },
+    {
+     "id": "n20261016-ec02-11",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Parmi ces éléments, lequel n'est PAS mentionné à l'article 48 de la Constitution ?",
+     "o": [
+      "L'hymne national",
+      "La devise",
+      "La langue officielle",
+      "Les armoiries"
+     ],
+     "a": 3,
+     "e": "L'article 48 mentionne l'emblème national, l'hymne, la devise et la langue officielle ; les armoiries, symbole officiel, n'y sont pas citées.",
+     "ed": [
+      "L'article 48 dispose que l'hymne national est l'Abidjanaise.",
+      "L'article 48 fixe la devise : Union, Discipline, Travail.",
+      "L'article 48 dispose que la langue officielle est le français.",
+      null
+     ],
+     "src": {
+      "t": "Constitution ivoirienne, chapitre premier, article 48 (texte reproduit par Loi d'ici)",
+      "u": "https://loidici.biz/?p=118"
+     }
+    },
+    {
+     "id": "n20261016-ec02-12",
+     "m": "ecm",
+     "tag": "niv-ec02",
+     "q": "Un agent affirme : « La fête nationale du 7 août célèbre l'adoption du drapeau. » Qu'en pensez-vous ?",
+     "o": [
+      "C'est exact : le drapeau a été adopté le 7 août 1960.",
+      "C'est faux : le 7 août célèbre l'indépendance de 1960 ; le drapeau date du 3 décembre 1959.",
+      "C'est faux : la fête nationale a lieu le 10 mars.",
+      "C'est exact : le drapeau et l'hymne ont été adoptés le même jour."
+     ],
+     "a": 1,
+     "e": "La fête nationale du 7 août commémore l'indépendance du 7 août 1960, alors que le drapeau a été adopté par la loi n° 59-240 du 3 décembre 1959.",
+     "ed": [
+      "Faux : le drapeau a été adopté le 3 décembre 1959, pas le 7 août 1960.",
+      null,
+      "Faux : le 10 mars 1893 est la date de création de la colonie, pas la fête nationale.",
+      "Faux : le drapeau date du 3 décembre 1959 et l'hymne de la loi du 27 juillet 1960."
+     ],
+     "src": {
+      "t": "Flag of Ivory Coast — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
+     }
+    },
+    {
+     "id": "n20261016-mp02-01",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Quel ouvrage Henri Fayol publie-t-il en 1916 ?",
+     "o": [
+      "Principes d'organisation scientifique",
+      "Administration industrielle et générale",
+      "Le Prince",
+      "L'Éthique protestante et l'esprit du capitalisme"
+     ],
+     "a": 1,
+     "e": "Henri Fayol (1841-1925) publie en 1916 « Administration industrielle et générale », où il définit les fonctions de l'administration.",
+     "ed": [
+      "Ce titre n'est pas celui de l'ouvrage de Fayol, qui s'intitule « Administration industrielle et générale ».",
+      null,
+      "« Le Prince » est un traité politique bien antérieur, sans rapport avec l'œuvre de Fayol.",
+      "Ce titre n'est pas celui de l'ouvrage de Fayol de 1916 ; c'est une œuvre de sociologie, pas de management."
+     ],
+     "src": {
+      "t": "Henri Fayol — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Henri_Fayol"
+     }
+    },
+    {
+     "id": "n20261016-mp02-02",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Selon Fayol, administrer, c'est :",
+     "o": [
+      "prévoir, organiser, commander, coordonner, contrôler",
+      "produire, vendre, financer, assurer, compter",
+      "recruter, former, évaluer, promouvoir, sanctionner",
+      "planifier, budgéter, dépenser, contrôler, auditer"
+     ],
+     "a": 0,
+     "e": "Pour Fayol, la fonction administrative consiste à prévoir, organiser, commander, coordonner et contrôler ; on la résume aujourd'hui en planifier, organiser, diriger, contrôler.",
+     "ed": [
+      null,
+      "Ces verbes évoquent les autres groupes d'activités de l'entreprise (technique, commerciale, financière, sécurité, comptabilité), pas la fonction administrative.",
+      "Ce sont des actes de gestion des ressources humaines, pas les cinq éléments de l'administration selon Fayol.",
+      "Cette liste mêle des opérations budgétaires ; elle ne correspond pas à la définition de Fayol."
+     ],
+     "src": {
+      "t": "Henri Fayol — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Henri_Fayol"
+     }
+    },
+    {
+     "id": "n20261016-mp02-03",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Le principe d'unité de commandement, formulé par Fayol, signifie que :",
+     "o": [
+      "tous les agents doivent avoir le même grade",
+      "les décisions sont prises collectivement par l'ensemble du service",
+      "un agent ne reçoit d'ordres que d'un seul chef",
+      "le chef ne doit commander qu'un seul agent"
+     ],
+     "a": 2,
+     "e": "L'unité de commandement, l'un des quatorze principes de Fayol, veut qu'un agent ne reçoive d'ordres que d'un seul supérieur, pour éviter les instructions contradictoires.",
+     "ed": [
+      "L'égalité des grades n'a rien à voir avec l'unité de commandement.",
+      "La décision collective n'est pas le sens de ce principe, qui porte sur l'origine unique des ordres.",
+      null,
+      "Le principe ne limite pas le nombre d'agents d'un chef ; il limite le nombre de chefs d'un agent."
+     ],
+     "src": {
+      "t": "Henri Fayol — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Henri_Fayol"
+     }
+    },
+    {
+     "id": "n20261016-mp02-04",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Combien de groupes d'activités Fayol distingue-t-il dans une entreprise ?",
+     "o": [
+      "Quatre",
+      "Cinq",
+      "Quatorze",
+      "Six"
+     ],
+     "a": 3,
+     "e": "Fayol distingue six groupes d'activités : techniques, commerciales, financières, de sécurité, de comptabilité et administratives.",
+     "ed": [
+      "Quatre est le nombre de fonctions du management dans la version moderne (planifier, organiser, diriger, contrôler).",
+      "Cinq est le nombre d'éléments de la fonction administrative (prévoir, organiser, commander, coordonner, contrôler).",
+      "Quatorze est le nombre de principes de management de Fayol, pas de groupes d'activités.",
+      null
+     ],
+     "src": {
+      "t": "Henri Fayol — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Henri_Fayol"
+     }
+    },
+    {
+     "id": "n20261016-mp02-05",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Les principes de continuité, d'égalité et de mutabilité du service public sont associés au nom de :",
+     "o": [
+      "Louis Rolland",
+      "Henri Fayol",
+      "Max Weber",
+      "Frederick Taylor"
+     ],
+     "a": 0,
+     "e": "Ces trois principes sont appelés « lois de Rolland », du nom du juriste Louis Rolland, qui les a dégagés dans les années 1930.",
+     "ed": [
+      null,
+      "Fayol est un théoricien de l'administration des entreprises, pas l'auteur des lois du service public.",
+      "Max Weber n'est pas l'auteur de ces principes : ils portent le nom du juriste Louis Rolland.",
+      "Frederick Taylor n'est pas l'auteur de ces principes : ils portent le nom du juriste Louis Rolland."
+     ],
+     "src": {
+      "t": "Revue générale du droit, « Principes régissant le fonctionnement des services publics » (lois de Rolland)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2021/05/11/droit-administratif-francais-cinquieme-partie-chapitre-2-section-iii"
+     }
+    },
+    {
+     "id": "n20261016-mp02-06",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Une administration modifie les horaires d'un service pour répondre à de nouveaux besoins des usagers. Elle applique le principe de :",
+     "o": [
+      "continuité",
+      "mutabilité (adaptabilité)",
+      "neutralité",
+      "gratuité"
+     ],
+     "a": 1,
+     "e": "La mutabilité, ou adaptabilité, permet d'ajuster le service public à l'évolution des besoins et de l'intérêt général ; les usagers n'ont pas de droit au maintien d'une organisation donnée.",
+     "ed": [
+      "La continuité impose un fonctionnement sans interruption ; elle ne fonde pas l'adaptation des horaires.",
+      null,
+      "La neutralité interdit la politisation ou le prosélytisme dans le service ; elle ne concerne pas les horaires.",
+      "La gratuité n'est pas l'un des trois principes de Rolland et ne justifie pas un changement d'horaires."
+     ],
+     "src": {
+      "t": "Revue générale du droit, « Principes régissant le fonctionnement des services publics » (lois de Rolland)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2021/05/11/droit-administratif-francais-cinquieme-partie-chapitre-2-section-iii"
+     }
+    },
+    {
+     "id": "n20261016-mp02-07",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Le principe de neutralité du service public se rattache directement au principe de :",
+     "o": [
+      "mutabilité",
+      "continuité",
+      "égalité",
+      "rentabilité"
+     ],
+     "a": 2,
+     "e": "La neutralité découle du principe d'égalité : traiter tous les usagers de la même façon suppose un service qui ne favorise aucune opinion politique ou religieuse.",
+     "ed": [
+      "La mutabilité concerne l'adaptation du service, pas l'impartialité envers les usagers.",
+      "La continuité concerne le fonctionnement sans interruption, pas l'impartialité.",
+      null,
+      "La rentabilité n'est pas un principe du service public."
+     ],
+     "src": {
+      "t": "Revue générale du droit, « Principes régissant le fonctionnement des services publics » (lois de Rolland)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2021/05/11/droit-administratif-francais-cinquieme-partie-chapitre-2-section-iii"
+     }
+    },
+    {
+     "id": "n20261016-mp02-08",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Dans quel pays apparaissent les premières pratiques de la nouvelle gestion publique, dans les années 1980 ?",
+     "o": [
+      "Le Royaume-Uni",
+      "La France",
+      "Le Japon",
+      "Le Brésil"
+     ],
+     "a": 0,
+     "e": "Les premières pratiques de la nouvelle gestion publique apparaissent au Royaume-Uni sous Margaret Thatcher, dans les années 1980.",
+     "ed": [
+      null,
+      "La France a adopté plus tard certaines de ces méthodes ; elle n'en est pas le berceau.",
+      "Le Japon n'est pas cité comme le pays d'origine de la nouvelle gestion publique.",
+      "Le Brésil n'est pas le pays d'origine de la nouvelle gestion publique."
+     ],
+     "src": {
+      "t": "New public management — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/New_public_management"
+     }
+    },
+    {
+     "id": "n20261016-mp02-09",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Laquelle de ces caractéristiques n'appartient PAS à la nouvelle gestion publique ?",
+     "o": [
+      "Des objectifs chiffrés et des indicateurs de performance",
+      "La décentralisation de la gestion",
+      "L'externalisation de certains services",
+      "La suppression de toute mesure des résultats"
+     ],
+     "a": 3,
+     "e": "La nouvelle gestion publique repose au contraire sur la mesure des résultats : objectifs, indicateurs, audits ; elle décentralise et externalise certains services.",
+     "ed": [
+      "Les objectifs et indicateurs sont au cœur de la nouvelle gestion publique.",
+      "La décentralisation, qui donne plus de liberté aux agences locales, en fait partie.",
+      "L'externalisation de services à des entreprises privées en fait partie.",
+      null
+     ],
+     "src": {
+      "t": "New public management — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/New_public_management"
+     }
+    },
+    {
+     "id": "n20261016-mp02-10",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "En quelle année le budget de l'État ivoirien bascule-t-il en mode budget-programmes ?",
+     "o": [
+      "2014",
+      "2016",
+      "2020",
+      "2023"
+     ],
+     "a": 2,
+     "e": "Le Conseil des ministres du 2 octobre 2019 a indiqué que l'année 2020 consacrerait le basculement en mode budget-programmes, en remplacement de la budgétisation par les moyens appliquée depuis les indépendances.",
+     "ed": [
+      "2014 est l'année de la loi organique n° 2014-336 relative aux lois de finances, pas celle du basculement effectif.",
+      "2016 est l'année de la Constitution en vigueur, pas celle du basculement budgétaire.",
+      null,
+      "2023 est trop tardif : le basculement en mode budget-programmes date du budget 2020."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire, communiqué du Conseil des ministres du 2 octobre 2019 (budget 2020 en mode budget-programmes)",
+      "u": "https://www.gouv.ci/uploads/publications/1570054269COMMUNIQUE-DU-CONSEIL-DES-MINISTRES-DU-MERCREDI-02-OCTOBRE-2019.pdf"
+     }
+    },
+    {
+     "id": "n20261016-mp02-11",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Pourquoi la comparaison de l'usager à un « client » est-elle critiquée ?",
+     "o": [
+      "Parce que l'usager paie toujours plus cher que le client",
+      "Parce que l'usager a souvent peu de choix réel et doit être traité à égalité",
+      "Parce que le client n'a aucun droit",
+      "Parce que le service public ne doit jamais mesurer la qualité"
+     ],
+     "a": 1,
+     "e": "Les critiques de la nouvelle gestion publique soulignent que les citoyens ont souvent peu de choix réels face à l'administration, ce qui limite l'idée du citoyen-client ; le service public doit en outre traiter tous les usagers à égalité.",
+     "ed": [
+      "Faux : l'usager ne paie pas forcément ; beaucoup de services publics sont financés par l'impôt.",
+      null,
+      "Faux : le client a des droits ; ce n'est pas le fond de la critique.",
+      "Faux : mesurer la qualité est utile ; la critique porte sur l'absence de choix et l'égalité."
+     ],
+     "src": {
+      "t": "New public management — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/New_public_management"
+     }
+    },
+    {
+     "id": "n20261016-mp02-12",
+     "m": "mop",
+     "tag": "niv-mp02",
+     "q": "Un chef de service supprime une permanence de nuit indispensable pour économiser des heures supplémentaires, sans solution de remplacement. Quel principe est d'abord menacé ?",
+     "o": [
+      "La continuité du service public",
+      "L'unité de commandement",
+      "La mutabilité",
+      "La neutralité"
+     ],
+     "a": 0,
+     "e": "La continuité impose que le service fonctionne sans interruption injustifiée ; supprimer une permanence indispensable sans relais l'interrompt, même si la mesure réduit les coûts.",
+     "ed": [
+      null,
+      "L'unité de commandement concerne la chaîne des ordres, pas la présence du service la nuit.",
+      "La mutabilité autoriserait une adaptation justifiée, mais elle ne permet pas d'interrompre un service indispensable.",
+      "La neutralité porte sur l'impartialité religieuse et politique, pas sur la présence du service."
+     ],
+     "src": {
+      "t": "Revue générale du droit, « Principes régissant le fonctionnement des services publics » (lois de Rolland)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2021/05/11/droit-administratif-francais-cinquieme-partie-chapitre-2-section-iii"
+     }
+    },
+    {
+     "id": "n20261016-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville l'accord portant création de la Zone de libre-échange continentale africaine (ZLECAf) a-t-il été signé le 21 mars 2018 ?",
+     "o": [
+      "Accra",
+      "Addis-Abeba",
+      "Kigali",
+      "Niamey"
+     ],
+     "a": 2,
+     "e": "L'accord sur la ZLECAf a été signé par les chefs d'État de l'Union africaine le 21 mars 2018 à Kigali, au Rwanda ; son secrétariat est installé à Accra.",
+     "ed": [
+      "Accra accueille le secrétariat de la ZLECAf, mais l'accord a été signé à Kigali.",
+      "Addis-Abeba est le siège de l'Union africaine, pas le lieu de signature de l'accord.",
+      null,
+      "L'accord n'a pas été signé à Niamey, mais à Kigali."
+     ],
+     "src": {
+      "t": "Africa Renewal (ONU), « AfCFTA secretariat commissioned in Accra », août 2020",
+      "u": "https://africarenewal.un.org/en/magazine/afcfta-secretariat-commissioned-accra-free-trade-set-begin-january-2021"
+     }
+    },
+    {
+     "id": "n20261016-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lequel de ces pays n'est PAS l'un des quatre fondateurs du Mercosur (traité d'Asunción, 26 mars 1991) ?",
+     "o": [
+      "Le Chili",
+      "L'Argentine",
+      "Le Paraguay",
+      "L'Uruguay"
+     ],
+     "a": 0,
+     "e": "Le traité d'Asunción du 26 mars 1991 a été signé par l'Argentine, le Brésil, le Paraguay et l'Uruguay ; le Chili n'en est pas signataire.",
+     "ed": [
+      null,
+      "L'Argentine est l'un des quatre signataires du traité d'Asunción.",
+      "Le Paraguay est signataire : le traité porte d'ailleurs le nom de sa capitale.",
+      "L'Uruguay est l'un des quatre signataires du traité d'Asunción."
+     ],
+     "src": {
+      "t": "Treaty of Asunción — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/Treaty_of_Asunci%C3%B3n"
+     }
+    },
+    {
+     "id": "n20261016-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lequel de ces États ne figure PAS parmi les cinq fondateurs de l'ASEAN en 1967 ?",
+     "o": [
+      "L'Indonésie",
+      "Les Philippines",
+      "Le Viêt Nam",
+      "Singapour"
+     ],
+     "a": 2,
+     "e": "La déclaration de Bangkok du 8 août 1967 a été signée par l'Indonésie, la Malaisie, les Philippines, Singapour et la Thaïlande ; le Viêt Nam n'en faisait pas partie.",
+     "ed": [
+      "L'Indonésie est fondatrice, représentée par son ministre des Affaires étrangères Adam Malik.",
+      "Les Philippines sont fondatrices, représentées par Narciso R. Ramos.",
+      null,
+      "Singapour est fondateur, représenté par son ministre des Affaires étrangères S. Rajaratnam."
+     ],
+     "src": {
+      "t": "ASEAN, « The Founding of ASEAN »",
+      "u": "https://asean.org/about-asean/the-founding-of-asean/"
+     }
+    },
+    {
+     "id": "n20261016-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel traité, signé le 7 février 1992 et entré en vigueur le 1er novembre 1993, institue l'Union européenne ?",
+     "o": [
+      "Le traité de Rome",
+      "Le traité de Lisbonne",
+      "Le traité de Nice",
+      "Le traité de Maastricht"
+     ],
+     "a": 3,
+     "e": "Le traité de Maastricht, signé le 7 février 1992 et entré en vigueur le 1er novembre 1993, établit l'Union européenne, une citoyenneté européenne et prévoit une monnaie commune.",
+     "ed": [
+      "Le traité de Rome ne date pas de 1992 et n'a pas créé l'Union européenne.",
+      "Le traité de Lisbonne n'a pas été signé le 7 février 1992 ; il n'a pas institué l'Union, qui existait déjà.",
+      "Le traité de Nice n'a pas été signé en 1992 ; il n'a pas institué l'Union européenne.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Maastricht Treaty »",
+      "u": "https://WWW.Britannica.com/event/Maastricht-Treaty"
+     }
+    },
+    {
+     "id": "n20261016-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le traité de l'Atlantique Nord, qui fonde l'OTAN, a été signé le 4 avril 1949 dans quelle ville ?",
+     "o": [
+      "Washington",
+      "Bruxelles",
+      "Londres",
+      "Paris"
+     ],
+     "a": 0,
+     "e": "Le traité de l'Atlantique Nord a été signé à Washington le 4 avril 1949 par douze États fondateurs, dont les États-Unis, le Canada, la France et le Royaume-Uni.",
+     "ed": [
+      null,
+      "Bruxelles n'est pas la ville de signature du traité de 1949.",
+      "Londres n'est pas la ville de signature : le traité a été signé à Washington.",
+      "Paris n'est pas la ville de signature : le traité a été signé à Washington."
+     ],
+     "src": {
+      "t": "North Atlantic Treaty — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/North_Atlantic_Treaty"
+     }
+    },
+    {
+     "id": "n20261016-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Après quel événement l'article 5 du traité de l'Atlantique Nord (défense collective) a-t-il été invoqué pour la seule fois de son histoire ?",
+     "o": [
+      "L'invasion du Koweït en 1990",
+      "Les attentats du 11 septembre 2001 aux États-Unis",
+      "La crise des missiles de Cuba en 1962",
+      "La guerre de Corée en 1950"
+     ],
+     "a": 1,
+     "e": "L'article 5, qui considère une attaque armée contre un membre comme une attaque contre tous, n'a été invoqué qu'une fois, après les attentats du 11 septembre 2001.",
+     "ed": [
+      "L'invasion du Koweït n'a pas entraîné l'invocation de l'article 5.",
+      null,
+      "La crise de Cuba n'a pas donné lieu à l'invocation de l'article 5.",
+      "La guerre de Corée n'a pas donné lieu à l'invocation de l'article 5 : il n'a été invoqué qu'en 2001."
+     ],
+     "src": {
+      "t": "North Atlantic Treaty — Wikipedia",
+      "u": "https://en.wikipedia.org/wiki/North_Atlantic_Treaty"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261016cg03",
+     "niv": "cg03",
+     "m": "cg",
+     "titre": "Côte d'Ivoire : histoire précoloniale et coloniale",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer les grands royaumes précoloniaux de la Côte d'Ivoire, retracer les étapes de la colonisation française de 1843 à 1958 et citer les figures et les dates qui reviennent au concours.",
+      "= Vous saurez aussi mobiliser ces repères dans une dissertation sur l'identité nationale, la cohésion sociale ou la décolonisation.",
+      "## Ce que demande le concours",
+      "En présélection, la culture générale de l'ENA se joue en QCM au barème +1 / 0 / −1. Les questions d'histoire ivoirienne portent sur une date (création de la colonie, capitales successives), un nom (Binger, Samory Touré, Abla Pokou, Marie Koré) ou un lieu (Kong, Grand-Bassam, Bingerville). Le piège habituel : des dates voisines qui se ressemblent (1893, 1900, 1934 ; 1944, 1946, 1949).",
+      "## La méthode pour retenir et répondre",
+      "1. Classez chaque fait dans l'une des quatre périodes : les royaumes (XVIIIe siècle), les premiers contacts et traités (1469-1889), la conquête et l'administration coloniale (1893-1945), la marche vers l'émancipation (1944-1958).",
+      "2. Associez chaque date à un couple « lieu + personnage » : 1893, Binger premier gouverneur ; 1946, Houphouët-Boigny et la fin du travail forcé.",
+      "3. Le jour du concours, éliminez d'abord les propositions hors de la bonne période, puis départagez les deux restantes.",
+      "4. En cas de doute entre deux dates très proches, abstenez-vous : une erreur coûte un point.",
+      "! Ne confondez pas la création de la colonie (10 mars 1893) et l'indépendance (7 août 1960), ni Bingerville (capitale à partir de 1900) avec Abidjan (capitale à partir de 1934)."
+     ],
+     "fond": [
+      "## Notion 1 : le peuplement et les royaumes du XVIIIe siècle",
+      "La Côte d'Ivoire actuelle est un carrefour de peuples. Selon l'encyclopédie Larousse, les plus anciens peuplements se trouvaient sur le littoral lagunaire ; des Sénoufos puis des Malinkés sont venus du nord, des Akan (Baoulés, Agnis, Abrons) de l'est, et des Bétés de l'ouest.",
+      "Pourquoi tant de migrations venues de l'est ? Au XVIIIe siècle, la puissance de l'empire ashanti (dans l'actuel Ghana) pousse plusieurs groupes akan à partir vers l'ouest. C'est ainsi que naissent les royaumes agnis de l'Indénié et du Sanwi, fondés au milieu du XVIIIe siècle, ainsi que le royaume baoulé.",
+      "- Le royaume abron du Gyaman (région de Bondoukou), établi vers 1690, passe sous domination ashanti en 1740.",
+      "- Le Sanwi a pour capitale Krinjabo ; l'Indénié a son palais royal à Abengourou, où le roi célèbre chaque année la fête de l'igname (la 281e en mars 2026).",
+      "- Le royaume baoulé : selon la tradition orale, la reine Abla Pokou conduit l'exode de son peuple depuis le pays ashanti ; elle franchit la Comoé et s'installe dans la région de Bouaké.",
+      "~ Exemple résolu. Question : « Quel royaume est né d'un départ du pays ashanti ? a) Kong ; b) le royaume baoulé ; c) Bouna ; d) l'empire du Mali. » Démarche : Kong et Bouna sont des fondations liées aux Dioulas et à l'islam ; l'empire du Mali n'est pas issu d'une migration akan. Seul le royaume baoulé est issu d'une migration akan venue de l'est. Réponse : b.",
+      "## Notion 2 : Kong, ville du commerce et de l'islam",
+      "Au début du XVIIIe siècle (vers 1710), Sékou Ouattara (Seku Watara), un Dioula, prend le pouvoir à Kong et y fonde un empire. Pourquoi Kong devient-il puissant ? Parce qu'il contrôle des routes commerciales essentielles, celles de l'or et de la noix de cola. Kong est aussi un centre d'études islamiques. Les Dioulas, commerçants musulmans, y côtoient des agriculteurs sénoufos.",
+      "L'explorateur français Louis-Gustave Binger entre à Kong le 20 février 1888. À la fin des années 1890, Samory Touré, qui a bâti un empire à partir de 1878 et résiste à la France, incendie la ville.",
+      "! Piège : Kong n'est pas un royaume akan. C'est une fondation dioula et musulmane ; ne la rangez pas avec les Agnis ou les Baoulés.",
+      "? Expliquez en une phrase pourquoi Kong et Bouna appartiennent à une autre histoire que l'Indénié et le Sanwi. || Kong et Bouna sont des cités liées au commerce dioula et à l'islam (Bouna a été fondée par des Wangara, ancêtres des Dioulas), tandis que l'Indénié et le Sanwi sont des royaumes agnis fondés à l'est par des Akan partis du pays ashanti : l'origine, la région et la religion diffèrent.",
+      "## Notion 3 : des premiers contacts européens à la colonie de 1893",
+      "Les navigateurs portugais sont les premiers Européens à longer cette côte (1469 selon Larousse). Les Français s'installent brièvement à Assinie de 1687 à 1705. La côte est relativement épargnée par la traite négrière, notamment à cause d'un littoral difficile d'accès.",
+      "La présence française s'organise ensuite par des traités. En 1843-1844, l'amiral Bouët-Willaumez signe avec les rois de Grand-Bassam et d'Assinie des traités de protectorat. Pourquoi des traités plutôt qu'une conquête immédiate ? Ils donnent à la France un titre juridique face aux Britanniques, à moindre coût. Entre 1887 et 1889, Binger et Marcel Treich-Laplène signent de nouveaux accords dans l'intérieur.",
+      "- Le 10 mars 1893, la Côte d'Ivoire devient officiellement une colonie française ; Binger en est le premier gouverneur.",
+      "- Capitales successives : Grand-Bassam (1893), Bingerville (le gouvernement y est transféré fin 1900), Abidjan (1934).",
+      "~ Exemple résolu. Question : « Combien d'années Bingerville a-t-elle été le siège du gouvernement de la colonie ? » Démarche : de fin 1900 à 1934, soit 1934 − 1900 = 34 ans environ. Ce calcul aide à retenir l'ordre : Bassam, Bingerville, Abidjan.",
+      "? Remettez dans l'ordre : création de la colonie ; traités de Bouët-Willaumez ; Bingerville capitale ; entrée de Binger à Kong. || Traités de Bouët-Willaumez (1843-1844), entrée de Binger à Kong (1888), création de la colonie (1893), Bingerville capitale (1900). Chaque étape prépare la suivante : traités côtiers, exploration de l'intérieur, colonie, puis installation administrative.",
+      "## Notion 4 : la conquête, l'AOF et le système colonial",
+      "La colonie est intégrée à l'Afrique occidentale française (AOF), dont elle est membre de 1904 à 1958. La conquête rencontre de fortes résistances : Gouros et Baoulés au centre, Samory Touré au nord, capturé par les Français en 1898. Gouverneur à partir de 1908, Gabriel Angoulvant mène une « pacification » par des expéditions militaires.",
+      "Le système colonial repose sur l'impôt de capitation, instauré en 1900 et source de révoltes, et sur le travail forcé. En 1932, une grande partie de la Haute-Volta est rattachée à la Côte d'Ivoire, qui y trouve une main-d'œuvre abondante ; la frontière nord n'est fixée qu'en 1947.",
+      "## Notion 5 : la marche vers l'émancipation (1944-1958)",
+      "En 1944, Félix Houphouët-Boigny fonde le Syndicat agricole africain pour défendre les planteurs africains, discriminés face aux colons. Élu député en 1945, il fait voter la loi n° 46-645 du 11 avril 1946 relative à la suppression du travail forcé dans les territoires d'outre-mer, dite loi Houphouët-Boigny. En octobre 1946, il est le principal fondateur du Rassemblement démocratique africain (RDA) à Bamako.",
+      "La répression de 1949-1950 frappe le PDCI-RDA. Ses dirigeants sont emprisonnés à Grand-Bassam ; du 22 au 24 décembre 1949, des femmes marchent d'Abidjan vers la prison pour exiger leur libération. Marie Koré est l'une des meneuses ; les chiffres vont de 500 (version officielle) à environ 2 000 marcheuses. La loi-cadre Defferre de 1956 transfère des pouvoirs à des gouvernements territoriaux élus ; en décembre 1958, la Côte d'Ivoire devient une république autonome au sein de la Communauté.",
+      "Débat pour la dissertation : la colonisation a laissé des infrastructures et un cadre administratif, mais elle s'est construite sur la contrainte (impôt, travail forcé) ; la lutte de 1944-1958 montre que l'émancipation a été obtenue par l'organisation politique, syndicale et féminine.",
+      "? Pourquoi la loi du 11 avril 1946 a-t-elle rendu Houphouët-Boigny si populaire ? || Parce qu'elle supprimait le travail forcé, la charge la plus lourde que le système colonial imposait aux populations : en la portant, Houphouët-Boigny devenait le défenseur concret des Africains, ce qui a fait sa notoriété."
+     ],
+     "retenir": [
+      "Au XVIIIe siècle, des Akan venus du pays ashanti fondent les royaumes agnis de l'Indénié et du Sanwi, ainsi que le royaume baoulé.",
+      "La reine Abla Pokou conduit, selon la tradition, l'exode des Baoulés, qui franchissent la Comoé et s'installent vers Bouaké.",
+      "Vers 1710, Sékou Ouattara fonde l'empire de Kong, centre dioula du commerce de l'or et de la cola et foyer de l'islam.",
+      "La Côte d'Ivoire devient colonie française le 10 mars 1893 ; Louis-Gustave Binger en est le premier gouverneur.",
+      "Capitales coloniales successives : Grand-Bassam (1893), Bingerville (1900), Abidjan (1934).",
+      "Samory Touré, grand résistant à la conquête française, est capturé en 1898.",
+      "La loi Houphouët-Boigny n° 46-645 du 11 avril 1946 supprime le travail forcé dans les territoires d'outre-mer.",
+      "Le 24 décembre 1949, la marche des femmes sur Grand-Bassam réclame la libération des dirigeants du PDCI-RDA emprisonnés."
+     ],
+     "exo": {
+      "tag": "niv-cg03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "History of Ivory Coast — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast"
+      },
+      {
+       "t": "Côte d'Ivoire : histoire — Encyclopédie Larousse",
+       "u": "https://www.larousse.fr/encyclopedie/divers/C%C3%B4te_dIvoire_histoire/187417"
+      },
+      {
+       "t": "Kong Empire — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/Kong_Empire"
+      },
+      {
+       "t": "Bingerville, chef-lieu de la Côte d'Ivoire (1900-1934) — Entreprises coloniales",
+       "u": "https://www.entreprises-coloniales.fr/afrique-occidentale/Bingerville.pdf"
+      },
+      {
+       "t": "Assemblée nationale (France), question écrite n° 14134 : loi n° 46-645 du 11 avril 1946",
+       "u": "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE14134"
+      },
+      {
+       "t": "Women's march on Grand-Bassam — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/Women%27s_march_on_Grand-Bassam"
+      },
+      {
+       "t": "Fraternité Matin, « 281e fête de l'igname : le roi de l'Indénié appelle à la cohésion sociale », 9 mars 2026",
+       "u": "https://www.fratmat.info/article/2640494/regions/281e-fete-de-ligname-le-roi-de-lindenie-appelle-a-la-cohesion-sociale"
+      }
+     ]
+    },
+    {
+     "id": "L20261016ec02",
+     "niv": "ec02",
+     "m": "ecm",
+     "titre": "La nation ivoirienne et ses symboles",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez citer et décrire les symboles de la République de Côte d'Ivoire (drapeau, hymne, devise, armoiries), donner leur fondement juridique et leur date, et expliquer leur sens.",
+      "= Vous saurez aussi traiter un sujet de réflexion du type « Pourquoi faut-il respecter les symboles de la nation ? ».",
+      "## Ce que demande l'épreuve",
+      "L'éducation civique et morale du concours d'agent d'encadrement des établissements pénitentiaires pose deux types de sujets : des questions de cours (« Citez les symboles de la République », « Que signifient les couleurs du drapeau ? ») et des sujets de réflexion. Le correcteur attend des réponses précises : le texte (article 48 de la Constitution), la date, la description exacte. Le piège habituel : confondre la devise et les couleurs, ou oublier les armoiries parmi les symboles.",
+      "## La méthode pas à pas",
+      "1. Pour une question de cours, commencez par la règle exacte (« L'article 48 de la Constitution dispose que… »), puis décrivez le symbole.",
+      "2. Ajoutez une date et un sens : quand le symbole a été adopté, ce qu'il représente.",
+      "3. Pour un sujet de réflexion, définissez « nation » et « symbole », puis montrez en deux parties à quoi servent les symboles (unir, rendre l'État visible) et comment les respecter (comportements concrets).",
+      "4. Concluez sur le lien entre respect des symboles et cohésion nationale.",
+      "! Ne récitez pas une liste sans phrase : le correcteur note la précision et la rédaction."
+     ],
+     "fond": [
+      "## Notion 1 : nation, État et symboles",
+      "Une nation est une communauté humaine qui partage une histoire, des valeurs et la volonté de vivre ensemble. L'État est l'organisation politique qui la gouverne. Pourquoi des symboles ? Parce qu'une nation est une idée : on ne la voit pas. Le drapeau, l'hymne, la devise et les armoiries la rendent visible et permettent à chaque citoyen de s'y reconnaître, quelle que soit sa région ou sa langue.",
+      "Le texte de référence est l'article 48 de la Constitution de 2016, qui n'a pas été modifié par les révisions de 2020 et de 2023. Il dispose : « L'emblème national est le drapeau tricolore orange, blanc, vert, en bandes verticales et d'égales dimensions. L'hymne national est l'Abidjanaise. La devise de la République est : Union, Discipline, Travail. La langue officielle est le français. »",
+      "Lors de la fête nationale de 2020, le gouvernement a présenté aux citoyens cinq symboles de la République : le drapeau, l'hymne, la devise, les armoiries et le portrait du chef de l'État, présenté comme garant de la cohésion sociale.",
+      "! Piège : l'article 48 cite l'emblème, l'hymne, la devise et la langue officielle ; les armoiries n'y figurent pas, mais elles sont bien un symbole officiel de la République.",
+      "## Notion 2 : le drapeau, emblème national",
+      "Le drapeau a été adopté par la loi n° 59-240 du 3 décembre 1959, votée par l'Assemblée législative, quelques mois avant l'indépendance. Ses proportions sont de 2 sur 3 (largeur sur longueur). Le ministre Jean Delafosse a donné le sens des couleurs :",
+      "- l'orange : la terre et la lutte, « le sang d'une jeunesse » qui lutte pour son émancipation ;",
+      "- le blanc : la paix, « la paix du droit » ;",
+      "- le vert : l'espérance, « la certitude d'un avenir meilleur ».",
+      "Le drapeau incarne la souveraineté de l'État. Il est mis en berne lorsque la République est en deuil. Les agents publics participent à la cérémonie traditionnelle de l'honneur au drapeau.",
+      "~ Exemple résolu. Question de cours : « Décrivez le drapeau ivoirien. » Réponse modèle : « Selon l'article 48 de la Constitution, l'emblème national est le drapeau tricolore orange, blanc, vert, en bandes verticales et d'égales dimensions. Adopté par la loi du 3 décembre 1959, il symbolise la lutte (orange), la paix (blanc) et l'espérance (vert). » Pourquoi cette réponse est complète : texte, description, date et sens.",
+      "? Un candidat écrit : « Le drapeau ivoirien a trois bandes horizontales vert, blanc, orange. » Corrigez. || Les bandes sont verticales et non horizontales, et l'article 48 les énumère dans l'ordre orange, blanc, vert. Il faut citer le texte pour éviter cette double erreur.",
+      "## Notion 3 : l'hymne et la devise",
+      "L'Abidjanaise a été adoptée par la loi n° 60-207 du 27 juillet 1960. Elle a été entonnée pour la première fois le 7 août 1960 à 0 heure, quand le drapeau national a été hissé à la place du drapeau français. Elle demeure l'hymne national, même si Yamoussoukro est aujourd'hui la capitale politique.",
+      "La devise « Union, Discipline, Travail » exprime l'objectif commun : bâtir une Côte d'Ivoire unie et prospère. Union : vivre ensemble malgré la diversité ; Discipline : respecter les règles et l'autorité légitime ; Travail : produire la richesse du pays par l'effort de chacun.",
+      "~ Exemple résolu. Sujet : « Illustrez la devise par un exemple tiré de la vie d'un agent pénitentiaire. » Réponse : l'agent applique le règlement sans favoritisme (Discipline), traite tous les détenus et collègues sans distinction d'origine (Union) et accomplit sa mission avec assiduité (Travail).",
+      "? Pourquoi l'hymne s'appelle-t-il encore l'Abidjanaise alors que la capitale politique est Yamoussoukro ? || Parce que l'hymne a été adopté en 1960, quand Abidjan était la capitale ; la Constitution de 2016 (article 48) a conservé ce nom : le symbole garde la mémoire de l'indépendance.",
+      "## Notion 4 : les armoiries et la fête nationale",
+      "Les armoiries, créées le 8 février 1960, comportent six éléments : un éléphant d'argent, un soleil levant d'or, deux palmiers d'or, un écu, un listel d'or et l'inscription d'argent « République de Côte d'Ivoire ». L'écu, bleu à l'origine, est aujourd'hui vert. Les armoiries servent de sceau de la République : elles figurent sur la carte nationale d'identité et le passeport. Elles expriment l'union entre les populations du pays et des valeurs comme la fraternité et l'amour de la patrie.",
+      "La fête nationale est célébrée le 7 août, anniversaire de l'indépendance obtenue le 7 août 1960.",
+      "! Piège : le 7 août 1960 est la date de l'indépendance, alors que le drapeau a été adopté dès le 3 décembre 1959.",
+      "? Citez les six éléments des armoiries et dites où un citoyen les rencontre au quotidien. || Éléphant, soleil levant, deux palmiers, écu, listel, inscription « République de Côte d'Ivoire ». On les trouve sur la carte nationale d'identité et le passeport, car elles servent de sceau de la République.",
+      "Débat pour la réflexion : respecter les symboles n'est pas un simple rituel ; c'est reconnaître l'autorité de la loi commune. Mais le respect des symboles n'a de sens que s'il s'accompagne du respect des valeurs qu'ils portent (union, discipline, travail)."
+     ],
+     "retenir": [
+      "Article 48 de la Constitution : drapeau orange, blanc, vert en bandes verticales ; hymne l'Abidjanaise ; devise Union, Discipline, Travail ; langue officielle le français.",
+      "Le drapeau a été adopté par la loi n° 59-240 du 3 décembre 1959 ; ses proportions sont de 2 sur 3.",
+      "Couleurs du drapeau : orange, la lutte ; blanc, la paix ; vert, l'espérance.",
+      "L'Abidjanaise, adoptée par la loi du 27 juillet 1960, a été chantée pour la première fois le 7 août 1960 à 0 heure.",
+      "Les armoiries comptent six éléments, dont un éléphant, un soleil levant et deux palmiers ; elles servent de sceau de la République.",
+      "Créées le 8 février 1960, les armoiries avaient un écu bleu, aujourd'hui vert.",
+      "La fête nationale, le 7 août, célèbre l'indépendance du 7 août 1960."
+     ],
+     "exo": {
+      "tag": "niv-ec02",
+      "n": 12,
+      "ecrit": "ecm"
+     },
+     "sources": [
+      {
+       "t": "Constitution ivoirienne, chapitre premier, article 48 (texte reproduit par Loi d'ici)",
+       "u": "https://loidici.biz/?p=118"
+      },
+      {
+       "t": "Refworld : Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (articles modifiés en 2020 et 2023)",
+       "u": "https://www.refworld.org/node/20384"
+      },
+      {
+       "t": "Flag of Ivory Coast — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast"
+      },
+      {
+       "t": "L'Abidjanaise — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/L%27Abidjanaise"
+      },
+      {
+       "t": "Fraternité Matin, « Fête nationale de Côte d'Ivoire : les 5 symboles de la République présentés aux citoyens », 11 août 2020",
+       "u": "https://www.fratmat.info/article/207222/politique/alassane-ouattara/fete-nationale-de-cote-divoire-les-5-symboles-de-la-republique-presentes-aux-citoyens"
+      },
+      {
+       "t": "Fraternité Matin, « Honneur au drapeau : les fonctionnaires instruits sur les armoiries de la République », novembre 2025",
+       "u": "https://www.fratmat.info/article/2637956/societe/honneur-au-drapeau-les-fonctionnaires-instruits-sur-les-armoiries-de-la-republique"
+      },
+      {
+       "t": "History of Ivory Coast — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast"
+      }
+     ]
+    },
+    {
+     "id": "L20261016mp02",
+     "niv": "mp02",
+     "m": "mop",
+     "titre": "Organisation, administration et management",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir organisation, administration et management, expliquer ce qui distingue le management public du management privé, et utiliser correctement les notions d'usager et d'intérêt général.",
+      "= Vous saurez aussi bâtir une introduction de cas pratique qui pose ces définitions en quelques lignes.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de management des organisations publiques (une heure) propose un sujet de réflexion ou un cas pratique. Dans les deux cas, la première ligne du barème est la maîtrise des notions : le correcteur vérifie que vous ne confondez pas administrer et gérer, usager et client, efficacité et efficience. Le piège habituel est de transposer telles quelles les recettes de l'entreprise privée, sans tenir compte de l'intérêt général et des principes du service public.",
+      "## La méthode pas à pas",
+      "1. Repérez dans le sujet les mots clés (organisation, service, usager, performance) et définissez-les dès l'introduction.",
+      "2. Identifiez la nature de l'organisation : administration centrale, collectivité, établissement public. Ses contraintes en découlent.",
+      "3. Confrontez chaque proposition aux trois principes du service public : continuité, égalité, adaptabilité.",
+      "4. Formulez des propositions mesurables, avec un indicateur, en pensant à l'usager.",
+      "! Une proposition qui améliore la rentabilité mais exclut une partie des usagers viole le principe d'égalité : elle sera sanctionnée."
+     ],
+     "fond": [
+      "## Notion 1 : organisation et management",
+      "Une organisation est un ensemble de personnes et de moyens réunis et coordonnés pour atteindre des objectifs communs : un ministère, une mairie, un hôpital ou une entreprise sont des organisations. Le management est l'art de conduire cette organisation vers ses objectifs en employant au mieux ses ressources (humaines, financières, matérielles, informationnelles).",
+      "Pourquoi parler d'organisation plutôt que de « bureau » ? Parce que le mot insiste sur la coordination : des agents compétents mais mal coordonnés produisent peu. Le management sert précisément à transformer des efforts individuels en résultat collectif.",
+      "~ Exemple résolu. Une sous-préfecture délivre des actes d'état civil. Organisation : le sous-préfet, les agents de l'état civil, les registres, les locaux, le budget. Objectif : délivrer des actes fiables dans un délai raisonnable. Management : répartir les tâches, fixer un délai cible, contrôler la qualité des actes, motiver les agents.",
+      "## Notion 2 : l'administration selon Henri Fayol",
+      "Henri Fayol (1841-1925) publie en 1916 « Administration industrielle et générale ». Il distingue six groupes d'activités dans une entreprise : techniques, commerciales, financières, de sécurité, de comptabilité et administratives. Administrer, c'est prévoir, organiser, commander, coordonner et contrôler. On résume aujourd'hui ces fonctions en quatre verbes : planifier, organiser, diriger, contrôler.",
+      "Fayol propose aussi quatorze principes, dont l'unité de commandement (un agent ne reçoit d'ordres que d'un seul chef) et la subordination de l'intérêt particulier à l'intérêt général. Pourquoi Fayol intéresse-t-il l'administration publique ? Parce qu'il présente l'administration comme une fonction présente dans toute organisation, publique ou privée, et non comme un simple ensemble de bureaux.",
+      "! Piège : le mot « administration » a deux sens. Avec une majuscule, l'Administration désigne l'ensemble des services publics ; avec une minuscule, l'administration est une fonction (celle de Fayol) qu'exerce tout dirigeant.",
+      "? Classez ces actes selon les fonctions de Fayol : fixer le programme annuel du service ; répartir les dossiers entre agents ; vérifier en fin de mois les délais atteints. || Fixer le programme annuel relève de la prévision (planifier) ; répartir les dossiers relève de l'organisation ; vérifier les délais relève du contrôle. Chaque acte correspond à un moment du cycle : on prévoit, on organise, puis on contrôle pour corriger.",
+      "## Notion 3 : les spécificités du management public",
+      "Le management public applique les outils du management à des organisations qui poursuivent l'intérêt général, et non le profit. Trois différences en découlent.",
+      "- La finalité : l'administration sert l'intérêt général ; sa réussite ne se mesure pas au bénéfice mais au service rendu.",
+      "- Le cadre juridique : l'agent public agit selon la loi, dans le respect du statut et des règles budgétaires.",
+      "- Les principes du service public, appelés « lois de Rolland », dégagés par le juriste Louis Rolland dans les années 1930 : continuité (le service fonctionne sans interruption injustifiée), égalité (tous les usagers sont traités de la même façon, avec un principe de neutralité) et mutabilité ou adaptabilité (le service s'adapte à l'évolution des besoins et de l'intérêt général).",
+      "Depuis les années 1980, la nouvelle gestion publique (New Public Management), apparue notamment au Royaume-Uni sous Margaret Thatcher, a importé dans l'administration des méthodes du privé : objectifs chiffrés, indicateurs de performance, décentralisation, externalisation. En Côte d'Ivoire, l'année 2020 consacre le basculement en mode budget-programmes, qui remplace la budgétisation par les moyens appliquée depuis les indépendances : le budget 2020 compte 35 dotations et 149 programmes, et responsabilise les gestionnaires par des indicateurs de performance annuels. Cette réforme met en œuvre la deuxième génération des réformes de l'UEMOA ; le cadre national est la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances.",
+      "~ Exemple résolu. Un directeur d'hôpital public veut fermer les urgences la nuit pour réduire les coûts. Analyse : la mesure améliore peut-être l'efficience financière, mais elle viole la continuité du service et l'égalité d'accès aux soins. Proposition conforme : réorganiser les équipes de nuit et mesurer le temps d'attente, plutôt que fermer.",
+      "? Une mairie décide de ne délivrer certains actes qu'en ligne. Quel principe faut-il vérifier, et pourquoi ? || Le principe d'égalité, et la mutabilité. La mairie peut adapter le service (mutabilité), mais elle doit garantir un accès normal à tous, y compris aux usagers sans internet ; sinon elle rompt l'égalité devant le service public.",
+      "## Notion 4 : l'usager et l'intérêt général",
+      "L'usager est la personne qui utilise un service public. La nouvelle gestion publique l'a parfois appelé « client » pour insister sur la qualité du service. Mais la comparaison a des limites : le client choisit son fournisseur et paie le prix, tandis que l'usager n'a souvent pas d'autre choix que le service public, qui doit le traiter à égalité, même s'il ne rapporte rien.",
+      "L'intérêt général est ce qui profite à l'ensemble de la collectivité, au-delà des intérêts particuliers. C'est la boussole du manager public : il justifie les prérogatives de l'administration et limite les décisions qui avantageraient un groupe au détriment des autres.",
+      "? Un agent d'accueil refuse de renseigner un usager parce qu'il « ne dépend pas de son bureau », sans l'orienter. Quelle règle de management public est méconnue, et que proposer ? || L'usager doit être servi à égalité et le service doit fonctionner comme un tout : l'agent devait au minimum l'orienter vers le bon service. Proposition : une fiche d'orientation à l'accueil et un indicateur simple, la part des usagers orientés du premier coup.",
+      "Débat pour la dissertation : traiter l'usager comme un client améliore l'accueil et les délais ; mais réduire l'usager à un client risque d'oublier ceux qui ne rapportent rien, alors que le service public existe pour eux aussi."
+     ],
+     "retenir": [
+      "Une organisation est un ensemble de personnes et de moyens coordonnés pour atteindre des objectifs communs.",
+      "Henri Fayol publie en 1916 « Administration industrielle et générale » : administrer, c'est prévoir, organiser, commander, coordonner et contrôler.",
+      "Unité de commandement : un agent ne reçoit d'ordres que d'un seul chef.",
+      "Lois de Rolland : continuité, égalité et mutabilité (adaptabilité) du service public.",
+      "Le management public poursuit l'intérêt général, agit dans le cadre de la loi et respecte les principes du service public.",
+      "La nouvelle gestion publique, née dans les années 1980, importe objectifs chiffrés et indicateurs de performance.",
+      "En Côte d'Ivoire, le budget de l'État bascule en mode budget-programmes en 2020, avec des indicateurs de performance annuels.",
+      "L'usager n'est pas un simple client : il n'a souvent pas le choix et doit être traité à égalité."
+     ],
+     "exo": {
+      "tag": "niv-mp02",
+      "n": 12,
+      "ecrit": "mop"
+     },
+     "sources": [
+      {
+       "t": "Henri Fayol — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/Henri_Fayol"
+      },
+      {
+       "t": "Revue générale du droit, « Principes régissant le fonctionnement des services publics » (lois de Rolland)",
+       "u": "https://www.revuegeneraledudroit.eu/blog/2021/05/11/droit-administratif-francais-cinquieme-partie-chapitre-2-section-iii"
+      },
+      {
+       "t": "New public management — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/New_public_management"
+      },
+      {
+       "t": "Gouvernement de Côte d'Ivoire, communiqué du Conseil des ministres du 2 octobre 2019 (budget 2020 en mode budget-programmes)",
+       "u": "https://www.gouv.ci/uploads/publications/1570054269COMMUNIQUE-DU-CONSEIL-DES-MINISTRES-DU-MERCREDI-02-OCTOBRE-2019.pdf"
+      },
+      {
+       "t": "DGBF, Loi de règlement 2020 : rapport de présentation (budget-programmes, LOLF n° 2014-336)",
+       "u": "https://www.dgbf.ci/wp-content/uploads/2022/03/02.-LR-2020-Rapport-de-Presentation_V2021-12-31-final.pdf"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "mop",
+     "src": "original",
+     "ref": "Entraînement · 16 oct. 2026",
+     "t": "« L'usager du service public doit être traité comme un client. » Commentez et discutez cette affirmation en vous appuyant sur l'exemple de l'administration ivoirienne.",
+     "plan": [
+      "Introduction : définir l'usager (personne qui utilise un service public) et le client (qui choisit et paie un fournisseur) ; rappeler l'essor de la nouvelle gestion publique depuis les années 1980 ; problématique : la logique client améliore-t-elle le service public sans le dénaturer ?",
+      "I. Une exigence utile : la logique client améliore l'accueil, les délais et la qualité ; elle s'appuie sur des objectifs et des indicateurs (basculement du budget ivoirien en mode budget-programmes en 2020).",
+      "II. Une limite de principe : l'usager a souvent peu de choix réel ; les lois de Rolland (continuité, égalité, mutabilité) imposent de servir aussi ceux qui ne rapportent rien.",
+      "Conclusion : traiter l'usager avec la qualité due à un client, mais avec les droits d'un citoyen ; proposition : chartes d'accueil, indicateurs de délai et voies de recours accessibles à tous."
+     ]
+    }
+   ]
   }
  ]
 }
