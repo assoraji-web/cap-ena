@@ -13881,6 +13881,1234 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-21",
+   "questions": [
+    {
+     "id": "n20261021-ct03-01",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Dans l'épreuve de résumé, qu'appelle-t-on « paraphrase » ?",
+     "o": [
+      "Redire chaque phrase du texte avec presque autant de mots, en changeant seulement quelques termes",
+      "Recopier entre guillemets les phrases essentielles du texte",
+      "Remplacer une énumération par un mot englobant",
+      "Transformer une proposition verbale en groupe nominal"
+     ],
+     "a": 0,
+     "e": "La paraphrase redit la phrase de l'auteur en changeant quelques mots, sans la réduire : elle ne prouve pas la compréhension et ne respecte pas l'exigence de réduction.",
+     "ed": [
+      null,
+      "Recopier des phrases du texte, c'est citer : le défaut s'appelle le montage de citations, pas la paraphrase.",
+      "Remplacer une énumération par un mot englobant est une technique de généralisation, recommandée dans le résumé.",
+      "Transformer une proposition en groupe nominal s'appelle nominaliser : c'est un outil de réduction, pas un défaut."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-02",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Que faut-il faire, dans un résumé, des exemples et des anecdotes du texte ?",
+     "o": [
+      "Les recopier, car ils rendent le résumé concret",
+      "Les regrouper tous dans la conclusion",
+      "Les supprimer ou les généraliser, car ils illustrent l'idée sans être l'idée",
+      "Les remplacer par des exemples personnels mieux choisis"
+     ],
+     "a": 2,
+     "e": "Les exemples servent à convaincre le lecteur ; le résumé ne garde que l'argument. On les supprime, ou on les remplace par une formule générale.",
+     "ed": [
+      "Recopier les exemples gaspille les mots disponibles et relève du montage de citations.",
+      "Le résumé suit l'ordre du texte : on ne déplace pas des éléments vers la conclusion.",
+      null,
+      "Le résumé n'ajoute rien au texte : un exemple personnel serait un ajout, donc une infidélité."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-03",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Quel mot englobant remplace exactement l'énumération « le riz, le maïs, le manioc et l'igname » ?",
+     "o": [
+      "Les céréales",
+      "Les légumineuses",
+      "Les fruits tropicaux",
+      "Les cultures vivrières"
+     ],
+     "a": 3,
+     "e": "Le mot englobant doit couvrir tous les éléments : riz, maïs, manioc et igname sont tous des cultures vivrières, destinées d'abord à l'alimentation.",
+     "ed": [
+      "Le manioc et l'igname sont des tubercules, non des céréales : le mot ne couvre pas toute l'énumération.",
+      "Les légumineuses désignent des plantes comme le haricot ou l'arachide, absentes de l'énumération.",
+      "Aucun des quatre produits cités n'est un fruit.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-04",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Quelle est la nominalisation correcte de « Les prix ont fortement augmenté » ?",
+     "o": [
+      "Les prix, qui ont fortement augmenté",
+      "La forte hausse des prix",
+      "Fortement, les prix ont augmenté",
+      "Les prix augmentent fort"
+     ],
+     "a": 1,
+     "e": "Nominaliser, c'est transformer la proposition en groupe nominal : le verbe « augmenter » devient le nom « hausse », l'adverbe « fortement » devient l'adjectif « forte ».",
+     "ed": [
+      "C'est une proposition relative : le verbe conjugué demeure, il n'y a pas de nominalisation.",
+      null,
+      "Le simple déplacement de l'adverbe garde la phrase verbale.",
+      "La phrase reste verbale et devient en outre familière (« fort »)."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-05",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Quelle est la meilleure reformulation de : « Les communes manquent de ressources financières ; elles ne peuvent donc pas entretenir les routes, les marchés et les écoles dont elles ont la charge » ?",
+     "o": [
+      "Faute de ressources, les communes ne peuvent entretenir leurs équipements.",
+      "Les communes n'ont pas de ressources financières ; ainsi, elles ne peuvent pas entretenir les routes, les marchés et les écoles qu'elles gèrent.",
+      "L'État doit accorder davantage de subventions aux communes.",
+      "Les routes communales sont en mauvais état."
+     ],
+     "a": 0,
+     "e": "Cette phrase garde la cause (manque de ressources) et la conséquence (entretien impossible), généralise l'énumération par « équipements » et réduit de moitié le nombre de mots.",
+     "ed": [
+      null,
+      "C'est une paraphrase : presque autant de mots, l'énumération est conservée.",
+      "Elle ajoute une recommandation absente du texte : c'est une infidélité.",
+      "Elle perd la cause et réduit l'idée à un seul équipement : l'idée de l'auteur est trahie."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-06",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Comment fusionner fidèlement : « La population urbaine croît rapidement. Les besoins en logements augmentent » ?",
+     "o": [
+      "La population urbaine croît rapidement, car les besoins en logements augmentent.",
+      "Bien que la population urbaine croisse rapidement, les besoins en logements augmentent.",
+      "La croissance urbaine rapide accroît les besoins en logements.",
+      "La population urbaine croît vite et rapidement ; les besoins en logements augmentent aussi."
+     ],
+     "a": 2,
+     "e": "La croissance de la population est la cause, l'augmentation des besoins la conséquence : la nominalisation « la croissance urbaine » devient le sujet et le verbe « accroît » exprime le lien.",
+     "ed": [
+      "« Car » inverse le rapport : ce ne sont pas les besoins en logements qui font croître la population.",
+      "« Bien que » marque une concession, alors que les deux faits vont dans le même sens.",
+      null,
+      "La phrase est redondante (« vite et rapidement ») et ne réduit rien."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-07",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Quel résumé est fidèle à : « Certes, le numérique crée des emplois ; mais il en détruit davantage dans les métiers peu qualifiés » ?",
+     "o": [
+      "Le numérique crée des emplois.",
+      "Le numérique ne détruit aucun emploi qualifié.",
+      "L'auteur affirme que le numérique crée et détruit des emplois.",
+      "Malgré les emplois qu'il crée, le numérique en supprime davantage parmi les moins qualifiés."
+     ],
+     "a": 3,
+     "e": "La phrase repose sur une concession (« certes… mais ») : l'idée principale suit le « mais ». Le résumé garde la concession (« malgré ») et l'idée dominante.",
+     "ed": [
+      "Ce résumé ne garde que la concession et omet l'idée principale, introduite par « mais ».",
+      "Le texte ne dit rien des emplois qualifiés : c'est un ajout, donc un contresens.",
+      "La formule « l'auteur affirme » est proscrite, et l'équilibre « crée et détruit » efface le fait que les destructions l'emportent.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-08",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Laquelle de ces formules est à proscrire dans un résumé de texte ?",
+     "o": [
+      "Pourtant",
+      "L'auteur montre que",
+      "Par conséquent",
+      "En outre"
+     ],
+     "a": 1,
+     "e": "Le résumé parle à la place de l'auteur : une formule comme « l'auteur montre que » transforme la réduction en commentaire du texte.",
+     "ed": [
+      "« Pourtant » est un connecteur d'opposition, utile pour restituer les liens logiques.",
+      null,
+      "« Par conséquent » exprime une conséquence : il est utile dans un résumé.",
+      "« En outre » marque l'addition d'un argument : il est permis."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-09",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Le texte emploie le mot « décentralisation ». Dans votre résumé, vous devez :",
+     "o": [
+      "le remplacer obligatoirement par un synonyme",
+      "le supprimer, car il est trop technique",
+      "le conserver, car c'est une notion que rien ne remplace exactement",
+      "le recopier entre guillemets avec le numéro de la ligne"
+     ],
+     "a": 2,
+     "e": "Reformuler, c'est changer les tournures, non les concepts : une notion technique comme « décentralisation » n'a pas de synonyme exact, la remplacer trahirait l'auteur.",
+     "ed": [
+      "Un « synonyme » approximatif changerait le sens d'une notion juridique précise.",
+      "Supprimer la notion centrale ferait disparaître l'idée elle-même.",
+      null,
+      "Le résumé ne cite pas le texte et ne renvoie pas aux lignes : c'est une réduction autonome."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-10",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Quel mot englobant convient exactement à « le Ghana, le Nigeria et le Sénégal » ?",
+     "o": [
+      "Des pays d'Afrique de l'Ouest",
+      "Des pays francophones",
+      "Des pays enclavés",
+      "Des pays d'Afrique centrale"
+     ],
+     "a": 0,
+     "e": "Les trois États appartiennent à l'Afrique de l'Ouest : le mot englobant couvre tous les éléments de l'énumération, et seulement ce qu'ils ont en commun.",
+     "ed": [
+      null,
+      "Le Ghana et le Nigeria sont anglophones : l'englobant ne couvre pas toute l'énumération.",
+      "Les trois pays ont une façade maritime : ils ne sont pas enclavés.",
+      "Aucun des trois n'est situé en Afrique centrale."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-11",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Pourquoi conseille-t-on de reformuler chaque idée sur le brouillon sans regarder le texte ?",
+     "o": [
+      "Pour gagner du temps en sautant l'étape du plan",
+      "Pour pouvoir ajouter librement ses propres idées",
+      "Pour éviter de compter les mots",
+      "Pour s'obliger à employer ses propres mots et ne pas reprendre les tournures de l'auteur"
+     ],
+     "a": 3,
+     "e": "Texte sous les yeux, on recopie ou on paraphrase malgré soi. Texte caché, on doit redire l'idée comprise avec son propre vocabulaire, ce qu'exige le correcteur.",
+     "ed": [
+      "La reformulation suit le plan : on ne la fait qu'après avoir dégagé les idées.",
+      "Le résumé n'ajoute aucune idée personnelle, quelle que soit la méthode.",
+      "Le décompte des mots reste obligatoire à la fin.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261021-ct03-12",
+     "m": "ct",
+     "tag": "niv-ct03",
+     "q": "Un résumé est demandé en 150 mots, avec une tolérance de plus ou moins 10 %. Quel est le nombre minimal de mots accepté ?",
+     "o": [
+      "140 mots",
+      "145 mots",
+      "135 mots",
+      "100 mots"
+     ],
+     "a": 2,
+     "e": "10 % de 150 font 15 ; le résumé doit donc compter entre 150 − 15 = 135 et 150 + 15 = 165 mots.",
+     "ed": [
+      "140 correspond à une tolérance d'environ 6,7 %, pas de 10 %.",
+      "145 correspond à une tolérance d'environ 3,3 %.",
+      null,
+      "100 mots correspond à une réduction de plus de 33 %, bien au-delà de la tolérance."
+     ],
+     "verif": "calcul",
+     "calc": "150-150*10/100"
+    },
+    {
+     "id": "n20261021-in02-01",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Quel composant de l'ordinateur exécute les programmes ?",
+     "o": [
+      "L'écran",
+      "Le processeur (CPU)",
+      "La clé USB",
+      "Le clavier"
+     ],
+     "a": 1,
+     "e": "Le processeur, ou unité centrale de traitement, est le composant qui exécute les programmes, c'est-à-dire les séries d'instructions stockées.",
+     "ed": [
+      "L'écran est un périphérique de sortie : il affiche les résultats, il ne les calcule pas.",
+      null,
+      "La clé USB stocke des fichiers ; elle n'exécute aucune instruction.",
+      "Le clavier est un périphérique d'entrée : il transmet la saisie au processeur."
+     ],
+     "src": {
+      "t": "Techno-Science.net – Processeur",
+      "u": "https://www.techno-science.net/fr/definitions/processeur"
+     }
+    },
+    {
+     "id": "n20261021-in02-02",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Dans le processeur, quel élément effectue les calculs arithmétiques élémentaires et les tests ?",
+     "o": [
+      "Les registres",
+      "L'unité de contrôle",
+      "L'unité arithmétique et logique (UAL)",
+      "La carte mère"
+     ],
+     "a": 2,
+     "e": "L'UAL prend en charge les calculs arithmétiques élémentaires et les tests, comme la comparaison de deux valeurs.",
+     "ed": [
+      "Les registres sont de petites mémoires de quelques octets : ils conservent des valeurs, ils ne calculent pas.",
+      "L'unité de contrôle synchronise les éléments du processeur ; elle ne fait pas les calculs.",
+      null,
+      "La carte mère porte le processeur et relie les composants ; elle n'est pas une partie du processeur."
+     ],
+     "src": {
+      "t": "Techno-Science.net – Processeur",
+      "u": "https://www.techno-science.net/fr/definitions/processeur"
+     }
+    },
+    {
+     "id": "n20261021-in02-03",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Quelle est la caractéristique essentielle de la mémoire vive (RAM) ?",
+     "o": [
+      "Ses données sont perdues quand l'alimentation électrique est coupée",
+      "Elle conserve les fichiers après l'extinction de l'ordinateur",
+      "Elle est plus lente qu'un disque dur",
+      "Elle ne peut être que lue, jamais écrite"
+     ],
+     "a": 0,
+     "e": "La mémoire vive est volatile : elle contient les données en cours de traitement, qui disparaissent à la coupure du courant.",
+     "ed": [
+      null,
+      "C'est le rôle du stockage (disque dur, SSD) : la RAM, elle, s'efface à l'extinction.",
+      "C'est l'inverse : la RAM répond en quelques dizaines ou centaines de nanosecondes, le disque dur en quelques millisecondes.",
+      "On y écrit et on y lit en permanence les données en cours de traitement."
+     ],
+     "src": {
+      "t": "Techno-Science.net – Mémoire vive",
+      "u": "https://www.techno-science.net/fr/definitions/memoire-vive"
+     }
+    },
+    {
+     "id": "n20261021-in02-04",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Parmi ces périphériques, lequel est un périphérique d'entrée ?",
+     "o": [
+      "L'imprimante",
+      "Le haut-parleur",
+      "L'écran",
+      "Le scanner"
+     ],
+     "a": 3,
+     "e": "Le scanner fait entrer une image dans l'ordinateur : l'information circule de l'extérieur vers la machine, c'est donc un périphérique d'entrée.",
+     "ed": [
+      "L'imprimante fait sortir un document vers l'utilisateur : c'est un périphérique de sortie.",
+      "Le haut-parleur restitue un son vers l'utilisateur : c'est un périphérique de sortie.",
+      "L'écran affiche les informations : c'est un périphérique de sortie.",
+      null
+     ],
+     "src": {
+      "t": "Techno-Science.net – Périphérique informatique",
+      "u": "https://www.techno-science.net/fr/definitions/peripherique-informatique"
+     }
+    },
+    {
+     "id": "n20261021-in02-05",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Combien de bits y a-t-il dans 3 octets ?",
+     "o": [
+      "3 bits",
+      "11 bits",
+      "24 bits",
+      "30 bits"
+     ],
+     "a": 2,
+     "e": "Un octet est composé de huit bits : 3 × 8 = 24 bits. Vérification : 24 ÷ 8 = 3 octets.",
+     "ed": [
+      "C'est confondre bit et octet : chaque octet compte huit bits.",
+      "C'est additionner 3 + 8 au lieu de multiplier.",
+      null,
+      "C'est compter 10 bits par octet ; un octet en compte 8."
+     ],
+     "src": {
+      "t": "OQLF, Grand dictionnaire terminologique – « octet »",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387944/octet"
+     },
+     "verif": "calcul",
+     "calc": "3*8"
+    },
+    {
+     "id": "n20261021-in02-06",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Avec les préfixes du Système international, combien de mégaoctets font 5 gigaoctets ?",
+     "o": [
+      "500 Mo",
+      "5 120 Mo",
+      "50 Mo",
+      "5 000 Mo"
+     ],
+     "a": 3,
+     "e": "Giga = 10⁹ et méga = 10⁶ : 1 Go = 1 000 Mo, donc 5 Go = 5 × 1 000 = 5 000 Mo.",
+     "ed": [
+      "C'est multiplier par 100 au lieu de 1 000.",
+      "5 120 résulte d'un facteur 1 024, qui correspond aux préfixes binaires (gibi, mébi), non au Système international.",
+      "C'est multiplier par 10 au lieu de 1 000.",
+      null
+     ],
+     "src": {
+      "t": "BIPM – Les préfixes du Système international d'unités",
+      "u": "https://bipm.org/measurement-units/si-prefixes"
+     },
+     "verif": "calcul",
+     "calc": "5*1000"
+    },
+    {
+     "id": "n20261021-in02-07",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Combien d'octets contient un fichier de 2 Kio (kibioctets) ?",
+     "o": [
+      "2 000 octets",
+      "2 048 octets",
+      "2 024 octets",
+      "16 octets"
+     ],
+     "a": 1,
+     "e": "Un kibioctet vaut 1 024 octets (2 puissance 10) : 2 × 1 024 = 2 048 octets.",
+     "ed": [
+      "2 000 octets correspond à 2 ko (kilo du Système international), pas à 2 Kio.",
+      null,
+      "2 024 additionne 1 000 et 1 024 : ce calcul n'a pas de sens.",
+      "16 est le nombre de bits dans 2 octets, sans rapport avec 2 Kio."
+     ],
+     "src": {
+      "t": "OQLF, Grand dictionnaire terminologique – « kilo-octet »",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8873682/kilo-octet"
+     },
+     "verif": "calcul",
+     "calc": "2*1024"
+    },
+    {
+     "id": "n20261021-in02-08",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Une clé de 16 Go doit recevoir des vidéos de 800 Mo chacune (préfixes du Système international). Combien de vidéos peut-elle contenir au maximum ?",
+     "o": [
+      "20 vidéos",
+      "2 vidéos",
+      "200 vidéos",
+      "12 vidéos"
+     ],
+     "a": 0,
+     "e": "16 Go = 16 000 Mo ; 16 000 ÷ 800 = 20 vidéos. Vérification : 20 × 800 = 16 000 Mo.",
+     "ed": [
+      null,
+      "C'est diviser 1 600 par 800 : on a oublié un facteur 10 dans la conversion.",
+      "C'est diviser 160 000 par 800 : la conversion compte un zéro de trop.",
+      "12 ne résulte d'aucune conversion correcte de 16 Go en Mo."
+     ],
+     "src": {
+      "t": "BIPM – Les préfixes du Système international d'unités",
+      "u": "https://bipm.org/measurement-units/si-prefixes"
+     },
+     "verif": "calcul",
+     "calc": "16000/800"
+    },
+    {
+     "id": "n20261021-in02-09",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Combien de valeurs différentes un octet peut-il représenter ?",
+     "o": [
+      "8",
+      "16",
+      "255",
+      "256"
+     ],
+     "a": 3,
+     "e": "Un octet compte 8 bits, chacun valant 0 ou 1 : 2 × 2 × … × 2 (8 fois) = 2 puissance 8 = 256 valeurs (de 0 à 255).",
+     "ed": [
+      "8 est le nombre de bits d'un octet, pas le nombre de valeurs.",
+      "16 = 2 × 8 : c'est multiplier au lieu d'élever à la puissance.",
+      "255 est la plus grande valeur codable (de 0 à 255) ; avec le zéro, cela fait 256 valeurs.",
+      null
+     ],
+     "src": {
+      "t": "OQLF, Grand dictionnaire terminologique – « octet »",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387944/octet"
+     },
+     "verif": "calcul",
+     "calc": "2*2*2*2*2*2*2*2"
+    },
+    {
+     "id": "n20261021-in02-10",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Qu'est-ce qui distingue la mémoire morte (ROM) de la mémoire vive (RAM) ?",
+     "o": [
+      "La ROM conserve ses données sans alimentation électrique",
+      "La ROM est volatile, comme la RAM",
+      "La ROM est un périphérique de sortie",
+      "La ROM sert à afficher les images à l'écran"
+     ],
+     "a": 0,
+     "e": "La mémoire morte conserve ses données en l'absence d'alimentation électrique, ce qui la rend nécessaire au démarrage ; la mémoire vive, elle, s'efface.",
+     "ed": [
+      null,
+      "C'est précisément l'inverse : la ROM n'est pas volatile.",
+      "La ROM est une mémoire interne, pas un périphérique.",
+      "L'affichage relève de l'écran, périphérique de sortie ; la ROM ne joue pas ce rôle."
+     ],
+     "src": {
+      "t": "Techno-Science.net – Mémoire vive",
+      "u": "https://www.techno-science.net/fr/definitions/memoire-vive"
+     }
+    },
+    {
+     "id": "n20261021-in02-11",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Pourquoi un SSD résiste-t-il mieux aux chocs qu'un disque dur classique (HDD) ?",
+     "o": [
+      "Parce qu'il est toujours plus grand",
+      "Parce qu'il utilise de la mémoire flash, sans pièce mobile",
+      "Parce qu'il s'efface quand on l'éteint",
+      "Parce qu'il est relié par un câble plus épais"
+     ],
+     "a": 1,
+     "e": "Le disque dur repose sur des plateaux rotatifs et des pièces mobiles, fragiles ; le SSD utilise de la mémoire flash sans pièce mobile, d'où sa meilleure résistance aux chutes.",
+     "ed": [
+      "La taille n'explique pas la résistance aux chocs ; c'est l'absence de pièces mobiles qui compte.",
+      null,
+      "Un SSD est un support de stockage : il conserve les données à l'extinction.",
+      "Le câble n'a aucun rapport avec la fragilité des pièces internes."
+     ],
+     "src": {
+      "t": "SanDisk – SSD ou disque dur (HDD) : les différences",
+      "u": "https://www.sandisk.com/fr-ca/solutions/ssd-vs-hdd"
+     }
+    },
+    {
+     "id": "n20261021-in02-12",
+     "m": "info",
+     "tag": "niv-in02",
+     "q": "Pendant la saisie d'un rapport, une coupure de courant survient. Quelles données sont perdues ?",
+     "o": [
+      "Les fichiers déjà enregistrés sur le disque",
+      "Le contenu de la mémoire morte",
+      "Les modifications non enregistrées, qui ne se trouvaient qu'en mémoire vive",
+      "Le système d'exploitation installé sur le disque"
+     ],
+     "a": 2,
+     "e": "La mémoire vive est volatile : ce qui n'avait pas été enregistré sur le support de stockage disparaît avec la coupure de courant.",
+     "ed": [
+      "Le disque conserve les fichiers sans alimentation : ce qui y était enregistré est intact.",
+      "La mémoire morte conserve ses données en l'absence d'alimentation.",
+      null,
+      "Le système d'exploitation installé sur le disque est conservé, comme tout fichier enregistré."
+     ],
+     "src": {
+      "t": "Techno-Science.net – Mémoire vive",
+      "u": "https://www.techno-science.net/fr/definitions/memoire-vive"
+     }
+    },
+    {
+     "id": "n20261021-sf03-01",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Selon l'article 47 de la loi n° 2023-892, comment les fonctionnaires sont-ils recrutés ?",
+     "o": [
+      "Par tirage au sort parmi les diplômés",
+      "Par voie de concours, et à titre dérogatoire par décret",
+      "Sur simple dossier déposé au ministère",
+      "Par contrat de droit privé"
+     ],
+     "a": 1,
+     "e": "L'article 47 pose le principe du recrutement par voie de concours ; le recrutement par décret n'est admis qu'à titre dérogatoire.",
+     "ed": [
+      "Aucun tirage au sort n'est prévu : le concours départage par le mérite.",
+      null,
+      "Le dépôt d'un dossier ne suffit pas : il faut réussir le concours.",
+      "L'article 47 prévoit le concours, non un contrat de droit privé, pour recruter un fonctionnaire."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-02",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Quelle est la durée du stage probatoire prévue par l'article 52 de la loi n° 2023-892 ?",
+     "o": [
+      "Six mois",
+      "Deux ans",
+      "Une année",
+      "Trois mois"
+     ],
+     "a": 2,
+     "e": "L'article 52 soumet toute personne nommée fonctionnaire à un stage probatoire d'une année.",
+     "ed": [
+      "Six mois ne correspond pas au texte, qui prévoit une année.",
+      "Deux ans n'est possible qu'en cas de seconde année accordée après une première année non probante.",
+      null,
+      "Trois mois ne correspond pas au texte, qui prévoit une année."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-03",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Laquelle de ces conditions figure parmi celles de l'article 48 de la loi n° 2023-892 ?",
+     "o": [
+      "Avoir accompli son service militaire",
+      "Être titulaire d'un master",
+      "Résider à Abidjan",
+      "Avoir la nationalité ivoirienne"
+     ],
+     "a": 3,
+     "e": "L'article 48 exige notamment d'avoir la nationalité ivoirienne, de remplir les conditions d'âge, de jouir de ses droits civiques et d'avoir l'aptitude physique et mentale exigée.",
+     "ed": [
+      "L'article 48 ne mentionne pas le service militaire.",
+      "L'article 48 ne fixe aucun diplôme ; les diplômes exigés relèvent de chaque concours (article 47).",
+      "Aucune condition de résidence ne figure à l'article 48.",
+      null
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-04",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Par quel texte les conditions d'âge pour l'accès aux emplois de la fonction publique sont-elles fixées ?",
+     "o": [
+      "Par décret pris en Conseil des ministres",
+      "Par la Constitution",
+      "Par arrêté du préfet",
+      "Par le règlement intérieur de chaque ministère"
+     ],
+     "a": 0,
+     "e": "L'article 4 de la loi n° 2023-892 renvoie la fixation des conditions d'âge à un décret pris en Conseil des ministres.",
+     "ed": [
+      null,
+      "La Constitution ne fixe pas les conditions d'âge d'accès à la fonction publique.",
+      "Le préfet n'a pas compétence pour fixer ces conditions nationales.",
+      "Un règlement intérieur ne peut fixer les conditions d'accès à la fonction publique."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-05",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "À l'issue du stage probatoire, si les résultats sont probants, le fonctionnaire stagiaire est :",
+     "o": [
+      "soumis à un nouveau concours",
+      "titularisé d'office",
+      "maintenu stagiaire pour une seconde année",
+      "recruté comme contractuel"
+     ],
+     "a": 1,
+     "e": "Article 52 : « si les résultats sont probants, le fonctionnaire stagiaire est titularisé d'office ».",
+     "ed": [
+      "Aucun nouveau concours n'est exigé : le stage suffit.",
+      null,
+      "La seconde année n'est prévue que si les résultats ne sont pas probants.",
+      "Le stagiaire est déjà nommé fonctionnaire ; il n'est pas reversé dans un contrat."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-06",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Un fonctionnaire stagiaire obtient des résultats insuffisants à la fin de sa première année. Que prévoit l'article 52 ?",
+     "o": [
+      "Sa révocation immédiate",
+      "Sa titularisation d'office",
+      "Une seconde année de stage peut lui être accordée",
+      "Sa mutation dans un autre ministère"
+     ],
+     "a": 2,
+     "e": "L'article 52 prévoit qu'en cas de résultats non probants, une seconde année de stage peut être accordée avant toute décision définitive.",
+     "ed": [
+      "La loi ne prévoit pas de sanction immédiate : une seconde année est d'abord possible.",
+      "La titularisation d'office suppose des résultats probants.",
+      null,
+      "La mutation n'est pas la suite prévue d'un stage insuffisant."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-07",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Après une seconde année de stage toujours non probante, que se passe-t-il ?",
+     "o": [
+      "Le stagiaire est titularisé à l'ancienneté",
+      "Il est mis fin à son engagement par arrêté du ministre chargé de la Fonction publique",
+      "Une troisième année de stage est accordée de droit",
+      "Le stagiaire devient automatiquement contractuel"
+     ],
+     "a": 1,
+     "e": "Selon l'article 52, si les résultats restent non probants après la seconde année, il est mis fin à l'engagement, ce que constate un arrêté du ministre chargé de la Fonction publique.",
+     "ed": [
+      "La titularisation exige des résultats probants, pas une simple ancienneté.",
+      null,
+      "La loi ne prévoit pas de troisième année de stage.",
+      "Aucun reversement automatique en contrat n'est prévu."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-08",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Où les actes de nomination des fonctionnaires doivent-ils être publiés ?",
+     "o": [
+      "Au Journal officiel de la République de Côte d'Ivoire",
+      "Dans un quotidien privé au choix du ministère",
+      "Uniquement sur le tableau d'affichage du service",
+      "Nulle part : ils restent confidentiels"
+     ],
+     "a": 0,
+     "e": "L'article 50 de la loi n° 2023-892 impose la publication des actes de nomination au Journal officiel de la République de Côte d'Ivoire.",
+     "ed": [
+      null,
+      "La loi désigne le Journal officiel, non un journal privé.",
+      "Un affichage interne ne remplace pas la publication au Journal officiel exigée par l'article 50.",
+      "La loi impose au contraire leur publication (article 50)."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-09",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Comment l'article 51 de la loi n° 2023-892 définit-il la titularisation ?",
+     "o": [
+      "L'admission sur la liste d'un concours",
+      "La signature d'un contrat de deux ans",
+      "L'inscription sur la liste d'aptitude d'un ministère",
+      "La situation qui confère un grade à titre définitif dans la hiérarchie administrative"
+     ],
+     "a": 3,
+     "e": "Article 51 : « La titularisation est la situation qui confère un grade à titre définitif dans la hiérarchie administrative. »",
+     "ed": [
+      "L'admission au concours précède la nomination et le stage ; elle ne vaut pas titularisation.",
+      "L'article 51 ne parle d'aucun contrat : la titularisation confère un grade à titre définitif.",
+      "La titularisation n'est pas une inscription sur une liste, mais l'attribution d'un grade à titre définitif.",
+      null
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-10",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Selon l'article 46, les fonctionnaires sont recrutés en tenant compte :",
+     "o": [
+      "du nombre de candidats inscrits",
+      "des besoins de l'État, dans la limite des ressources disponibles",
+      "des souhaits exprimés par les diplômés",
+      "de l'ancienneté du diplôme des candidats"
+     ],
+     "a": 1,
+     "e": "L'article 46 dispose : « Les fonctionnaires sont recrutés en tenant compte des besoins de l'Etat, dans la limite des ressources disponibles. »",
+     "ed": [
+      "Le nombre de candidats ne détermine pas le volume de recrutement.",
+      null,
+      "Les souhaits des diplômés ne sont pas le critère retenu par la loi.",
+      "L'ancienneté du diplôme n'est pas mentionnée par l'article 46."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-11",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Parmi ces motifs, lequel l'article 17 de la loi n° 2023-892 cite-t-il expressément parmi les discriminations interdites dans l'accès à la fonction publique ?",
+     "o": [
+      "Le groupe sanguin",
+      "Le lieu de naissance du père",
+      "Le handicap",
+      "La taille"
+     ],
+     "a": 2,
+     "e": "L'article 17 interdit la discrimination notamment fondée sur la race, l'ethnie, le sexe, les opinions, l'origine sociale, l'appartenance syndicale ou religieuse et le handicap.",
+     "ed": [
+      "Le groupe sanguin ne figure pas dans la liste de l'article 17.",
+      "Le lieu de naissance du père n'est pas cité en tant que tel par l'article 17.",
+      null,
+      "La taille n'est pas citée par l'article 17."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-sf03-12",
+     "m": "sfp",
+     "tag": "niv-sf03",
+     "q": "Un fonctionnaire atteint la limite d'âge de son emploi. Que permet l'article 110 de la loi n° 2023-892 ?",
+     "o": [
+      "Son maintien libre en service jusqu'à 70 ans",
+      "Une prolongation par décret, pour nécessité de service, de deux ans au plus, renouvelable une fois",
+      "Une prolongation par simple note de service du chef de service",
+      "Aucune prolongation, sans exception"
+     ],
+     "a": 1,
+     "e": "L'article 110 interdit le maintien au-delà de la limite d'âge, sauf prolongation par décret pour nécessité de service, de deux ans au plus, renouvelable une fois.",
+     "ed": [
+      "La loi ne prévoit aucun maintien libre : le principe est l'interdiction du maintien au-delà de la limite d'âge.",
+      null,
+      "La prolongation exige un décret, non une note de service.",
+      "La loi prévoit une exception, par décret, pour nécessité de service."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261021-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En quelle année Gamal Abdel Nasser a-t-il annoncé la nationalisation du canal de Suez ?",
+     "o": [
+      "1948",
+      "1952",
+      "1967",
+      "1956"
+     ],
+     "a": 3,
+     "e": "Nasser annonce la nationalisation de la compagnie du canal le 26 juillet 1956 ; la France, le Royaume-Uni et Israël interviennent militairement à l'automne, puis se retirent sous la pression de l'URSS et des États-Unis.",
+     "ed": [
+      "1948 est l'année de la création de l'État d'Israël et de la première guerre israélo-arabe.",
+      "1952 est l'année de la révolution des Officiers libres en Égypte, pas de la nationalisation.",
+      "1967 est l'année de la guerre des Six Jours.",
+      null
+     ],
+     "src": {
+      "t": "Hérodote – 26 juillet 1956 : Nasser nationalise le canal de Suez",
+      "u": "https://www.herodote.net/26_juillet_1956-evenement-19560726.php"
+     }
+    },
+    {
+     "id": "n20261021-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "À quelle date le Panama a-t-il pris le contrôle total du canal de Panama ?",
+     "o": [
+      "Le 31 décembre 1999",
+      "Le 7 septembre 1977",
+      "Le 1er octobre 1979",
+      "Le 1er janvier 1990"
+     ],
+     "a": 0,
+     "e": "Les traités signés le 7 septembre 1977 par Jimmy Carter et Omar Torrijos prévoyaient le transfert ; le Panama a pris le contrôle total du canal le 31 décembre 1999.",
+     "ed": [
+      null,
+      "Le 7 septembre 1977 est la date de signature des traités, pas celle du transfert.",
+      "Le 1er octobre 1979 marque la fin de la zone du canal, non le transfert total du canal.",
+      "Aucun transfert n'a eu lieu à cette date ; le contrôle total date du 31 décembre 1999."
+     ],
+     "src": {
+      "t": "Office of the Historian (U.S. Department of State) – The Panama Canal and the Torrijos-Carter Treaties",
+      "u": "https://history.state.gov/milestones/1977-1980/panama-canal"
+     }
+    },
+    {
+     "id": "n20261021-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quelle ville Brasília a-t-elle remplacée comme capitale fédérale du Brésil lors de son inauguration, le 21 avril 1960 ?",
+     "o": [
+      "São Paulo",
+      "Salvador de Bahia",
+      "Rio de Janeiro",
+      "Belo Horizonte"
+     ],
+     "a": 2,
+     "e": "Brasília, inaugurée le 21 avril 1960 sous la présidence de Juscelino Kubitschek et conçue notamment par l'urbaniste Lúcio Costa, a remplacé Rio de Janeiro comme capitale fédérale.",
+     "ed": [
+      "São Paulo n'a jamais été la capitale fédérale remplacée par Brasília.",
+      "Salvador fut une capitale coloniale, mais la capitale remplacée en 1960 était Rio de Janeiro.",
+      null,
+      "Belo Horizonte est la capitale d'un État fédéré, le Minas Gerais, pas la capitale fédérale."
+     ],
+     "src": {
+      "t": "Encyclopædia Universalis – Brasília",
+      "u": "https://www.universalis.fr/encyclopedie/brasilia/"
+     }
+    },
+    {
+     "id": "n20261021-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Qui devient le premier Premier ministre de l'Inde lors de son indépendance, le 15 août 1947 ?",
+     "o": [
+      "Mohandas Gandhi",
+      "Jawaharlal Nehru",
+      "Indira Gandhi",
+      "Muhammad Ali Jinnah"
+     ],
+     "a": 1,
+     "e": "L'Inde accède à l'indépendance le 15 août 1947, en vertu de l'Indian Independence Act ; Jawaharlal Nehru devient son premier Premier ministre et hisse le drapeau au Fort Rouge de Delhi.",
+     "ed": [
+      "Gandhi a guidé le mouvement d'indépendance mais n'a jamais exercé la fonction de Premier ministre.",
+      null,
+      "Indira Gandhi, fille de Nehru, n'est devenue Premier ministre que plus tard.",
+      "Jinnah est le fondateur du Pakistan, né de la partition de 1947, et non le chef du gouvernement indien."
+     ],
+     "src": {
+      "t": "Wikipedia – Independence Day (India)",
+      "u": "https://en.wikipedia.org/wiki/Independence_Day_(India)"
+     }
+    },
+    {
+     "id": "n20261021-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Patrice Lumumba fut le premier Premier ministre de quel pays, devenu indépendant en 1960 ?",
+     "o": [
+      "Le Congo-Brazzaville",
+      "Le Rwanda",
+      "Le Gabon",
+      "La République démocratique du Congo (ex-Congo belge)"
+     ],
+     "a": 3,
+     "e": "Patrice Lumumba, né au Congo belge, fut le premier Premier ministre de la République démocratique du Congo, de juin à septembre 1960 ; il est mort au Katanga le 17 janvier 1961.",
+     "ed": [
+      "Le Congo-Brazzaville, ancienne colonie française, n'a pas eu Lumumba pour chef de gouvernement.",
+      "Le Rwanda n'a pas eu Lumumba pour Premier ministre.",
+      "Le Gabon n'a pas eu Lumumba pour Premier ministre.",
+      null
+     ],
+     "src": {
+      "t": "Encyclopædia Britannica – Patrice Lumumba",
+      "u": "https://www.britannica.com/EBchecked/topic/351310"
+     }
+    },
+    {
+     "id": "n20261021-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Où se trouve le siège du Secrétariat du Commonwealth ?",
+     "o": [
+      "À Marlborough House, à Londres",
+      "À Ottawa",
+      "À Genève",
+      "À Nairobi"
+     ],
+     "a": 0,
+     "e": "Le Secrétariat du Commonwealth siège à Marlborough House, sur Pall Mall, à Londres. Le Commonwealth moderne date de la Déclaration de Londres de 1949, qui fait de ses membres des partenaires libres et égaux.",
+     "ed": [
+      null,
+      "Ottawa est la capitale du Canada, membre du Commonwealth, mais n'abrite pas son Secrétariat.",
+      "Genève accueille de nombreuses organisations internationales, mais pas le Secrétariat du Commonwealth.",
+      "Nairobi abrite des agences de l'ONU, pas le Secrétariat du Commonwealth."
+     ],
+     "src": {
+      "t": "The Commonwealth – About us",
+      "u": "https://thecommonwealth.org/about-us"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261021ct03",
+     "niv": "ct03",
+     "m": "ct",
+     "titre": "Reformuler sans paraphraser",
+     "min": 50,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez redire une idée du texte avec vos propres mots en la condensant, au lieu de la recopier ou de la paraphraser.",
+      "= Vous saurez manier quatre outils de réduction : supprimer, généraliser, nominaliser, fusionner.",
+      "## Ce que demande l'épreuve",
+      "Le résumé impose un nombre de mots fixé, avec une tolérance de plus ou moins 10 %. Le correcteur vérifie trois choses : la fidélité aux idées de l'auteur, la réduction réelle du texte et la qualité de votre expression. Deux défauts coûtent cher : le montage de citations, qui recopie des morceaux de phrases du texte, et la paraphrase, qui redit chaque phrase avec presque autant de mots. Dans les deux cas, vous ne prouvez pas que vous avez compris.",
+      "Pourquoi cette exigence ? On ne peut redire autrement que ce que l'on a compris. La reformulation est donc la preuve de votre lecture.",
+      "## La méthode pas à pas",
+      "- 1. Dégagez d'abord le plan du texte (leçon précédente) : une idée par paragraphe.",
+      "- 2. Reformulez chaque idée sur le brouillon sans regarder le texte : vous serez obligé d'employer vos propres mots.",
+      "- 3. Supprimez ce qui illustre : exemples, anecdotes, chiffres de détail, citations.",
+      "- 4. Généralisez les énumérations par un mot englobant exact.",
+      "- 5. Nominalisez : transformez une proposition en groupe nominal.",
+      "- 6. Fusionnez deux phrases qui s'enchaînent à l'aide d'un connecteur, puis comptez vos mots et ajustez.",
+      "! Gardez les notions techniques que rien ne remplace (« décentralisation », « inflation ») : ce sont les tournures qu'il faut changer, pas les concepts de l'auteur."
+     ],
+     "fond": [
+      "## Notion 1 : citation, paraphrase, reformulation",
+      "Citer, c'est recopier les mots du texte. Paraphraser, c'est redire la même phrase en changeant quelques mots, sans la raccourcir. Reformuler, c'est exprimer la même idée avec d'autres mots et moins de mots.",
+      "Pourquoi le correcteur sanctionne-t-il la paraphrase ? Parce qu'elle ne réduit rien et ne montre pas que vous avez saisi l'essentiel : elle remplace des mots, pas des idées.",
+      "~ Texte (27 mots) : « Les jeunes diplômés, qui sortent chaque année des universités et des grandes écoles, éprouvent de plus en plus de difficultés à trouver un premier emploi correspondant à leur formation. » Paraphrase : « Les jeunes titulaires de diplômes, qui quittent tous les ans les universités et les grandes écoles, ont de plus en plus de mal à obtenir un premier travail adapté à leurs études » : même longueur, rien n'est gagné. Reformulation (8 mots) : « L'insertion professionnelle des jeunes diplômés devient de plus en plus difficile. »",
+      "! Remplacer chaque mot par un synonyme n'est pas reformuler : la structure de la phrase reste celle de l'auteur.",
+      "? Reformulez en dix mots au plus : « Dans de nombreux villages, les femmes doivent parcourir chaque jour plusieurs kilomètres à pied pour aller chercher l'eau dont leur famille a besoin. » || Proposition : « En milieu rural, la corvée d'eau pèse lourdement sur les femmes » (10 mots). On a généralisé « de nombreux villages » en « milieu rural », nominalisé « aller chercher l'eau » en « la corvée d'eau » et supprimé le détail des kilomètres.",
+      "## Notion 2 : supprimer ce qui illustre",
+      "Règle : on supprime les exemples, les anecdotes, les citations, les répétitions et les chiffres de détail. Pourquoi ? Ils servent à convaincre le lecteur ; ils ne sont pas l'idée elle-même. Le résumé garde l'argument, pas ses illustrations.",
+      "~ « Le téléphone portable a transformé le commerce rural : une vendeuse de vivriers peut désormais connaître les prix du marché voisin avant de se déplacer, et un planteur peut recevoir son paiement sans aller en ville. » Idée : le téléphone portable a modernisé les échanges en milieu rural. Les deux personnages sont des exemples : ils disparaissent.",
+      "! Ne supprimez jamais une concession ou une objection : « certes… mais » fait partie du raisonnement de l'auteur, pas de l'illustration.",
+      "## Notion 3 : généraliser par un mot englobant",
+      "Règle : une énumération se remplace par un mot qui englobe tous ses éléments, et seulement eux. Pourquoi ? Le mot englobant dit la même chose en un mot au lieu de quatre.",
+      "~ « le riz, le maïs, le manioc et l'igname » devient « les cultures vivrières ». Attention : « les céréales » serait faux, car le manioc et l'igname sont des tubercules, non des céréales.",
+      "? Trouvez un mot englobant exact pour : « les hôpitaux, les écoles, les marchés et les forages ». || « Les équipements collectifs » (ou « les infrastructures de base »). Vérifiez chaque élément : un hôpital, une école, un marché et un forage sont bien tous des équipements à l'usage de la collectivité. « Les services de santé » serait trop étroit.",
+      "## Notion 4 : nominaliser et fusionner",
+      "Nominaliser, c'est transformer une proposition verbale en groupe nominal : « les prix augmentent » devient « la hausse des prix ». Fusionner, c'est réunir deux phrases en une seule grâce à un connecteur ou à un verbe de relation (entraîner, réduire, favoriser). Pourquoi ? Le groupe nominal permet d'exprimer une cause ou une conséquence dans une seule phrase courte.",
+      "~ « Parce que les prix des denrées augmentent, les ménages achètent moins. » (11 mots) devient « La hausse des prix réduit la consommation des ménages. » (8 mots). La cause est devenue le sujet de la phrase, la conséquence son complément.",
+      "! N'abusez pas des noms abstraits : une phrase sans verbe d'action devient lourde et obscure. Gardez au moins un verbe conjugué par phrase.",
+      "? Fusionnez : « La population urbaine croît rapidement. Les besoins en logements augmentent. » || « La croissance urbaine rapide accroît les besoins en logements. » La première phrase est nominalisée (« la croissance urbaine ») et devient la cause ; le verbe « accroît » exprime le lien de conséquence que le texte laissait implicite.",
+      "## Notion 5 : rester dans la voix de l'auteur",
+      "Le résumé parle à la place de l'auteur : on n'écrit ni « l'auteur dit que », ni « selon le texte », et on n'ajoute aucun avis personnel. On respecte l'ordre des idées et le système d'énonciation : si l'auteur écrit « nous », le résumé peut garder « nous ». Pourquoi ? Le résumé est une réduction du texte, pas un commentaire sur le texte.",
+      "~ À éviter : « L'auteur montre que la corruption freine le développement, ce qui est très juste. » Correct : « La corruption freine le développement. » La formule d'introduction et le jugement personnel ont disparu."
+     ],
+     "retenir": [
+      "Paraphraser, c'est redire une phrase avec presque autant de mots ; reformuler, c'est redire l'idée avec d'autres mots et moins de mots.",
+      "Le montage de citations recopie des morceaux du texte : il est sanctionné dans le résumé.",
+      "On supprime exemples, anecdotes, citations et chiffres de détail ; on garde concessions et oppositions.",
+      "Une énumération se remplace par un mot englobant qui couvre tous ses éléments, et seulement eux.",
+      "Nominaliser transforme une proposition en groupe nominal : « les prix augmentent » devient « la hausse des prix ».",
+      "Les notions techniques de l'auteur se conservent ; ce sont les tournures qui changent.",
+      "Pas de « l'auteur dit que » ni d'avis personnel : le résumé parle à la place de l'auteur."
+     ],
+     "exo": {
+      "tag": "niv-ct03",
+      "n": 12,
+      "ecrit": "ct"
+     }
+    },
+    {
+     "id": "L20261021in02",
+     "niv": "in02",
+     "m": "info",
+     "titre": "L'ordinateur et ses composants",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez nommer les principaux composants d'un ordinateur et leur rôle, classer les périphériques et convertir les unités de mesure de l'information (bit, octet, kilo, méga, giga, téra).",
+      "## Ce que demande le concours",
+      "L'épreuve d'informatique vérifie des notions de base précises : le rôle du processeur, la différence entre mémoire vive et stockage, le classement d'un périphérique, la conversion d'une capacité. Les pièges habituels portent sur la confusion entre mémoire vive et disque, sur le sens dans lequel circule l'information, et sur la valeur de « kilo » (1 000 ou 1 024).",
+      "## La méthode pas à pas",
+      "- 1. Pour un composant, demandez-vous : calcule-t-il, garde-t-il les données pendant le travail, ou les conserve-t-il quand l'appareil est éteint ?",
+      "- 2. Pour un périphérique, demandez-vous dans quel sens circule l'information : vers l'ordinateur (entrée), de l'ordinateur vers l'utilisateur (sortie), ou dans les deux sens.",
+      "- 3. Pour une conversion, écrivez l'unité de départ et l'unité d'arrivée : on multiplie pour aller vers une unité plus petite, on divise pour aller vers une unité plus grande.",
+      "- 4. Vérifiez le résultat par l'opération inverse : 5 000 Mo ÷ 1 000 doit redonner 5 Go.",
+      "- 5. Lisez bien le symbole : « b » désigne le bit, « o » l'octet (« B » pour byte en anglais).",
+      "! Dans le Système international, « kilo » vaut 1 000. La valeur 1 024 correspond au kibioctet (Kio), terme recommandé par la Commission électrotechnique internationale pour lever l'ambiguïté."
+     ],
+     "fond": [
+      "## Notion 1 : le processeur, cœur de l'unité centrale",
+      "Le processeur, ou CPU (unité centrale de traitement), est le composant qui exécute les programmes. Un programme est une série d'instructions stockées ; le processeur les lit et les exécute. Il est monté sur la carte mère, et on le décrit souvent comme le « cerveau » de l'ordinateur.",
+      "- L'unité arithmétique et logique (UAL) effectue les calculs arithmétiques élémentaires et les tests (comparer deux valeurs).",
+      "- L'unité de contrôle, ou séquenceur, synchronise les différents éléments du processeur.",
+      "- Les registres sont de très petites mémoires, de quelques octets, internes au processeur.",
+      "- La fréquence d'horloge s'exprime en mégahertz (MHz) ou en gigahertz (GHz).",
+      "~ Un agent saisit « =25*4 » dans un tableur. Le clavier transmet la saisie ; l'unité de contrôle organise l'exécution de l'instruction ; l'UAL effectue la multiplication ; le résultat, 100, s'affiche à l'écran.",
+      "? Quelle partie du processeur vérifie si un montant saisi dépasse un plafond ? || L'unité arithmétique et logique : comparer deux valeurs est un « test », qui relève de l'UAL au même titre que les calculs élémentaires. L'unité de contrôle, elle, coordonne mais ne calcule pas.",
+      "## Notion 2 : mémoire vive, mémoire morte et stockage",
+      "La mémoire vive (RAM) contient les données que l'unité centrale est en train de traiter. Elle est volatile : son contenu est perdu quand l'alimentation électrique est coupée. RAM signifie que l'on accède directement à n'importe quelle donnée, sans lire les précédentes. La mémoire morte (ROM) conserve ses données sans alimentation, ce qui la rend utile au démarrage de l'ordinateur.",
+      "Le stockage (disque dur, SSD, clé USB) conserve les fichiers durablement. Pourquoi ne pas tout mettre en mémoire vive ? Parce qu'elle s'efface à l'extinction. Pourquoi ne pas tout lire sur le disque ? Parce qu'il est beaucoup plus lent : quelques millisecondes d'accès pour un disque dur, contre quelques dizaines ou centaines de nanosecondes pour la mémoire vive.",
+      "- Le disque dur (HDD) utilise des plateaux rotatifs et des pièces mobiles, fragiles en cas de chute.",
+      "- Le SSD utilise de la mémoire flash, sans pièce mobile : il est plus rapide et résiste mieux aux chocs.",
+      "~ Un agent rédige un rapport ; une coupure de courant survient. Tout ce qui n'avait pas été enregistré est perdu, car il se trouvait seulement en mémoire vive. La dernière version enregistrée, elle, est intacte sur le disque.",
+      "! Le mot « mémoire » d'un téléphone désigne souvent son espace de stockage, et non sa mémoire vive : lisez bien de quoi parle la question.",
+      "## Notion 3 : les périphériques",
+      "Un périphérique est un dispositif connecté à l'ordinateur qui lui ajoute des fonctions. On le classe selon le sens de l'information.",
+      "- Entrée (vers l'ordinateur) : clavier, souris, scanner, microphone, webcam.",
+      "- Sortie (vers l'utilisateur) : écran, imprimante, haut-parleur.",
+      "- Entrée-sortie et stockage : clé USB, disque dur, qui reçoivent et restituent des données.",
+      "! Le scanner et l'imprimante traitent tous deux du papier, mais en sens inverse : le scanner fait entrer une image, l'imprimante la fait sortir.",
+      "? Classez : microphone, imprimante, clé USB. || Microphone : entrée (le son entre dans l'ordinateur). Imprimante : sortie (le document sort vers l'utilisateur). Clé USB : entrée-sortie et stockage (on y écrit et on y lit des données).",
+      "## Notion 4 : le bit et l'octet",
+      "Le bit est l'unité élémentaire d'information : il vaut 0 ou 1 (le mot vient de l'anglais binary digit). L'octet est une unité composée de huit bits ; son symbole est « o », et il se dit byte en anglais. Un octet peut représenter 2 puissance 8, soit 256 valeurs différentes.",
+      "~ Combien de bits dans 4 octets ? 4 × 8 = 32 bits. Vérification : 32 ÷ 8 = 4 octets.",
+      "## Notion 5 : les multiples",
+      "Préfixes du Système international : kilo (k) = 10³ = 1 000 ; méga (M) = 10⁶ ; giga (G) = 10⁹ ; téra (T) = 10¹². Ainsi 1 Go = 1 000 Mo = 1 000 000 000 octets. Dans l'usage, « kilo-octet » désigne parfois 1 024 octets ; la Commission électrotechnique internationale recommande alors « kibioctet » (Kio), qui vaut 1 024 octets, soit 2 puissance 10.",
+      "~ Une clé de 4 Go reçoit des vidéos de 500 Mo. 4 Go = 4 000 Mo ; 4 000 ÷ 500 = 8 vidéos. Vérification : 8 × 500 = 4 000 Mo.",
+      "? Combien d'octets dans 3 Kio ? Et dans 3 ko ? || 3 Kio = 3 × 1 024 = 3 072 octets (préfixe binaire). 3 ko = 3 × 1 000 = 3 000 octets (préfixe du Système international). L'écart vient de la base : 1 024 = 2 puissance 10, contre 1 000 = 10 puissance 3."
+     ],
+     "retenir": [
+      "Le processeur (CPU) exécute les programmes ; son UAL fait les calculs et les tests, son unité de contrôle synchronise.",
+      "La mémoire vive (RAM) est volatile : son contenu est perdu quand le courant est coupé.",
+      "La mémoire morte (ROM) conserve ses données sans alimentation électrique.",
+      "Périphérique d'entrée : clavier, souris, scanner ; de sortie : écran, imprimante ; d'entrée-sortie : clé USB.",
+      "Un octet vaut 8 bits et peut représenter 256 valeurs.",
+      "Système international : kilo = 1 000, méga = 10⁶, giga = 10⁹, téra = 10¹².",
+      "Le kibioctet (Kio) vaut 1 024 octets ; la CEI le recommande pour lever l'ambiguïté du kilo-octet.",
+      "Le SSD utilise de la mémoire flash sans pièce mobile ; le disque dur utilise des plateaux rotatifs."
+     ],
+     "exo": {
+      "tag": "niv-in02",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Techno-Science.net – Processeur",
+       "u": "https://www.techno-science.net/fr/definitions/processeur"
+      },
+      {
+       "t": "Futura Sciences – CPU : qu'est-ce que c'est ?",
+       "u": "https://www.futura-sciences.com/tech/definitions/informatique-cpu-5741/"
+      },
+      {
+       "t": "Techno-Science.net – Mémoire vive",
+       "u": "https://www.techno-science.net/fr/definitions/memoire-vive"
+      },
+      {
+       "t": "Techno-Science.net – Périphérique informatique",
+       "u": "https://www.techno-science.net/fr/definitions/peripherique-informatique"
+      },
+      {
+       "t": "SanDisk – SSD ou disque dur (HDD) : les différences",
+       "u": "https://www.sandisk.com/fr-ca/solutions/ssd-vs-hdd"
+      },
+      {
+       "t": "OQLF, Grand dictionnaire terminologique – « bit »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8873029/bit"
+      },
+      {
+       "t": "OQLF, Grand dictionnaire terminologique – « octet »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387944/octet"
+      },
+      {
+       "t": "OQLF, Grand dictionnaire terminologique – « kilo-octet »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8873682/kilo-octet"
+      },
+      {
+       "t": "BIPM – Les préfixes du Système international d'unités",
+       "u": "https://bipm.org/measurement-units/si-prefixes"
+      }
+     ]
+    },
+    {
+     "id": "L20261021sf03",
+     "niv": "sf03",
+     "m": "sfp",
+     "titre": "L'accès à la fonction publique",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez énoncer les conditions d'accès à la fonction publique, expliquer le rôle du concours, et décrire le stage probatoire et la titularisation, articles de la loi n° 2023-892 du 23 novembre 2023 à l'appui.",
+      "## Ce que demande l'épreuve",
+      "Les questions portent sur les conditions exigées des candidats (article 48), sur le mode de recrutement (article 47), sur la durée et l'issue du stage (article 52) et sur la définition de la titularisation (article 51). En dissertation, le thème de l'égal accès aux emplois publics revient souvent. Le piège classique consiste à inventer des chiffres (âge, durée) que le texte renvoie à un décret.",
+      "## La méthode pas à pas",
+      "- 1. Situez la question dans le parcours d'entrée : besoins de l'État, concours, conditions, nomination, stage, titularisation.",
+      "- 2. Citez l'article exact : « l'article 52 de la loi n° 2023-892 » vaut mieux que « la loi prévoit ».",
+      "- 3. Distinguez le fonctionnaire stagiaire (nommé, en stage) du fonctionnaire titulaire (investi d'un grade à titre définitif).",
+      "- 4. Repérez ce que la loi renvoie au règlement : conditions d'âge (article 4), modalités des concours (article 49), liste des affections (article 48).",
+      "- 5. Dans un cas pratique, déroulez la chronologie : date de nomination, fin de la première année, éventuelle seconde année, décision finale.",
+      "! La loi ne parle pas de « licenciement » du stagiaire : après une seconde année non probante, « il est mis fin à son engagement », par arrêté du ministre chargé de la Fonction publique."
+     ],
+     "fond": [
+      "## Notion 1 : le concours, voie normale du recrutement",
+      "Selon l'article 46, les fonctionnaires sont recrutés en tenant compte des besoins de l'État, dans la limite des ressources disponibles. L'article 47 pose le principe : le recrutement se fait par voie de concours, et seulement à titre dérogatoire par décret. Les concours sont ouverts aux candidats non fonctionnaires titulaires de certains diplômes ou titres ; ils donnent lieu à des listes classant par ordre de mérite les candidats admis. Les modalités de chaque concours sont fixées par voie réglementaire (article 49).",
+      "Pourquoi le concours ? Il met tous les candidats devant les mêmes épreuves et départage par le mérite, non par les relations. L'article 17 renforce cette logique : il interdit toute discrimination dans l'accès à la fonction publique, notamment fondée sur la race, l'ethnie, le clan ou la tribu, la couleur, le sexe, les opinions politiques ou philosophiques, l'origine, l'appartenance syndicale ou religieuse, l'origine sociale ou le handicap.",
+      "~ Une administration souhaite recruter dix contrôleurs. Elle doit organiser un concours dont un texte réglementaire fixe les modalités ; les admis sont classés par ordre de mérite. Un recrutement direct par décret n'est possible qu'à titre dérogatoire.",
+      "! Le recrutement dépend des besoins de l'État et des ressources disponibles (article 46) : l'administration ne recrute pas pour chaque diplômé, mais pour des postes budgétés.",
+      "## Notion 2 : les conditions à remplir",
+      "L'article 48 exige du candidat : avoir la nationalité ivoirienne ; remplir les conditions d'âge pour l'accès à la fonction publique ; jouir de ses droits civiques et être de bonne moralité ; remplir les conditions d'aptitude physique et mentale exigées pour l'emploi ; être reconnu indemne de toute affection grave ou contagieuse, selon une liste de pathologies arrêtée par décret.",
+      "Pourquoi ces conditions ? Le fonctionnaire exerce une part de l'autorité de l'État : on exige un lien de nationalité, l'intégrité civique et la capacité d'exercer réellement l'emploi. Les conditions d'âge ne figurent pas dans la loi : l'article 4 les renvoie à un décret pris en Conseil des ministres.",
+      "~ Un candidat brillant a été privé de ses droits civiques par une décision de justice. Sa candidature ne remplit pas l'article 48 : son dossier est irrecevable, quelle que soit sa note.",
+      "? Une candidate demande quel âge maximal la loi n° 2023-892 fixe pour se présenter. Que lui répondre ? || La loi ne fixe pas de chiffre : l'article 48 exige de « remplir les conditions d'âge », et l'article 4 renvoie leur fixation à un décret pris en Conseil des ministres. Il faut donc consulter le décret et le communiqué du concours visé.",
+      "## Notion 3 : la nomination",
+      "Le candidat admis est nommé. L'article 50 impose la publication des actes de nomination au Journal officiel de la République de Côte d'Ivoire. Pourquoi ? La publication rend l'acte connu de tous et permet de vérifier la régularité des nominations.",
+      "## Notion 4 : le stage probatoire",
+      "L'article 52 soumet toute personne nommée fonctionnaire à un stage probatoire d'une année. Si les résultats sont probants, le fonctionnaire stagiaire est titularisé d'office. Sinon, une seconde année de stage peut lui être accordée. Si, à l'issue de cette seconde année, les résultats ne sont toujours pas probants, il est mis fin à son engagement par arrêté du ministre chargé de la Fonction publique.",
+      "Pourquoi un stage ? Le concours mesure des connaissances ; le stage vérifie l'aptitude à servir réellement. La seconde année donne une deuxième chance avant toute décision définitive.",
+      "~ Un agent nommé prend service le 2 janvier 2027. Fin de la première année : 1er janvier 2028. Résultats non probants : seconde année jusqu'au 1er janvier 2029. Résultats probants à cette date : titularisation ; résultats toujours insuffisants : fin de l'engagement par arrêté.",
+      "? Un stagiaire aux résultats insuffisants après un an est-il immédiatement exclu ? || Non. L'article 52 prévoit d'abord une seconde année de stage. Ce n'est qu'à l'issue de cette seconde année, si les résultats ne sont toujours pas probants, qu'il est mis fin à son engagement par arrêté du ministre chargé de la Fonction publique.",
+      "## Notion 5 : la titularisation et la fin de carrière",
+      "L'article 51 définit la titularisation comme la situation qui confère un grade à titre définitif dans la hiérarchie administrative ; elle ouvre les droits attachés au grade et la vocation à faire carrière. À l'autre bout, l'article 110 interdit de maintenir le fonctionnaire en service au-delà de la limite d'âge de son emploi, sauf prolongation par décret pour nécessité de service, de deux ans au plus, renouvelable une fois.",
+      "? Quelle différence entre un fonctionnaire stagiaire et un fonctionnaire titulaire ? || Le stagiaire est nommé mais accomplit encore son stage probatoire : sa situation n'est pas définitive (article 52). Le titulaire a reçu son grade à titre définitif dans la hiérarchie administrative (article 51) et peut faire carrière."
+     ],
+     "retenir": [
+      "Les fonctionnaires sont recrutés par voie de concours ; le recrutement par décret n'est possible qu'à titre dérogatoire (article 47).",
+      "Les concours aboutissent à des listes classant les admis par ordre de mérite (article 47).",
+      "Conditions de l'article 48 : nationalité ivoirienne, âge, droits civiques et moralité, aptitude physique et mentale, absence d'affection grave ou contagieuse.",
+      "Les conditions d'âge sont fixées par décret pris en Conseil des ministres (article 4).",
+      "Les actes de nomination sont publiés au Journal officiel (article 50).",
+      "Stage probatoire d'un an ; résultats probants : titularisation d'office ; sinon seconde année, puis fin de l'engagement par arrêté (article 52).",
+      "La titularisation confère un grade à titre définitif dans la hiérarchie administrative (article 51)."
+     ],
+     "exo": {
+      "tag": "niv-sf03",
+      "n": 12,
+      "ecrit": "sfp"
+     },
+     "sources": [
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "sfp",
+     "src": "original",
+     "ref": "Entraînement · 21 oct. 2026",
+     "t": "« Le concours est la meilleure garantie d'une fonction publique fondée sur le mérite. » Discutez cette affirmation à la lumière de la loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique.",
+     "plan": [
+      "Introduction : définir le concours et le mérite ; rappeler l'article 47 (recrutement par voie de concours, listes classées par ordre de mérite) ; problématique : le concours suffit-il à garantir une administration de mérite ?",
+      "I. Le concours, instrument d'égalité et de sélection par le mérite : A. Un principe légal (article 47) encadré par le règlement (article 49) ; B. Un accès protégé contre les discriminations (article 17) et soumis à des conditions objectives (article 48).",
+      "II. Une garantie nécessaire mais insuffisante : A. Le stage probatoire vérifie l'aptitude réelle avant la titularisation (articles 51 et 52) ; B. Le recrutement dérogatoire par décret et la contrainte budgétaire (article 46) appellent transparence et publication (article 50).",
+      "Conclusion : le mérite se mesure à l'entrée par le concours, mais se confirme par le stage et tout au long de la carrière ; ouverture sur l'évaluation des agents."
+     ]
+    }
+   ]
   }
  ]
 }
