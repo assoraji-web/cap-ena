@@ -15109,6 +15109,1215 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-22",
+   "questions": [
+    {
+     "id": "n20261022-op02-01",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Selon l'article 50 de la Constitution ivoirienne, à qui appartient la souveraineté ?",
+     "o": [
+      "Au Président de la République",
+      "Au Parlement réuni en Congrès",
+      "Au peuple",
+      "Au Conseil constitutionnel"
+     ],
+     "a": 2,
+     "e": "L'article 50 dispose : « La souveraineté appartient au peuple. » Il ajoute qu'aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.",
+     "ed": [
+      "Le Président est un organe élu qui exerce une partie du pouvoir ; il n'est pas titulaire de la souveraineté.",
+      "Le Parlement exerce la souveraineté au nom du peuple, comme représentant élu ; il n'en est pas le titulaire.",
+      null,
+      "Le Conseil constitutionnel contrôle notamment la régularité des scrutins ; la souveraineté ne lui appartient pas."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261022-op02-02",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Selon la théorie classique du droit constitutionnel, quels sont les trois éléments constitutifs de l'État ?",
+     "o": [
+      "Un drapeau, un hymne et une devise",
+      "Un territoire, une population et un pouvoir politique organisé et souverain",
+      "Un Président, un Gouvernement et un Parlement",
+      "Une Constitution, une armée et une monnaie"
+     ],
+     "a": 1,
+     "e": "L'État réunit un élément matériel (le territoire), un élément humain (la population) et un élément formel : un pouvoir politique organisé qui exerce l'autorité de façon souveraine.",
+     "ed": [
+      "Le drapeau, l'hymne et la devise sont des symboles de l'État (article 48), pas ses éléments constitutifs.",
+      null,
+      "Le Président, le Gouvernement et le Parlement sont des organes de l'État ; ils exercent le pouvoir mais ne définissent pas l'État.",
+      "La Constitution, l'armée et la monnaie sont des attributs ou des instruments de l'État, non ses trois éléments constitutifs."
+     ],
+     "src": {
+      "t": "UNJF – Droit constitutionnel 1 : théorie générale de l'État (support de cours)",
+      "u": "https://cours.unjf.fr/repository/coursefilearea/file.php/64/Cours/01_item/support01.pdf"
+     }
+    },
+    {
+     "id": "n20261022-op02-03",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Quelles collectivités territoriales l'article 170 de la Constitution de 2016 reconnaît-il ?",
+     "o": [
+      "Les districts autonomes et les départements",
+      "Les départements et les sous-préfectures",
+      "Les provinces et les cantons",
+      "Les régions et les communes"
+     ],
+     "a": 3,
+     "e": "L'article 170 de la Constitution énumère deux catégories de collectivités territoriales : les régions et les communes. C'est sur elles que repose la décentralisation.",
+     "ed": [
+      "Les districts autonomes et les départements ne figurent pas dans l'énumération de l'article 170, qui ne cite que les régions et les communes.",
+      "Les départements et les sous-préfectures ne figurent pas dans l'énumération de l'article 170, limitée aux régions et aux communes.",
+      "La Côte d'Ivoire ne connaît ni provinces ni cantons ; l'article 170 vise les régions et les communes.",
+      null
+     ],
+     "src": {
+      "t": "Constitute Project – Côte d'Ivoire 2016 (rev. 2020)",
+      "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "n20261022-op02-04",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Comment l'article 49 de la Constitution qualifie-t-il la République de Côte d'Ivoire ?",
+     "o": [
+      "Une et indivisible, laïque, démocratique et sociale",
+      "Fédérale, laïque et démocratique",
+      "Une et indivisible, confessionnelle et sociale",
+      "Décentralisée, parlementaire et sociale"
+     ],
+     "a": 0,
+     "e": "L'article 49 dispose que la République de Côte d'Ivoire est « une et indivisible, laïque, démocratique et sociale » ; « une et indivisible » exclut le fédéralisme.",
+     "ed": [
+      null,
+      "« Fédérale » contredit le caractère « un et indivisible » de la République posé par l'article 49.",
+      "La République est laïque selon l'article 49 ; elle n'est pas confessionnelle.",
+      "L'article 49 ne qualifie la République ni de « décentralisée » ni de « parlementaire »."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261022-op02-05",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Selon l'article 51 de la Constitution, comment le peuple exerce-t-il sa souveraineté ?",
+     "o": [
+      "Par le seul référendum",
+      "Par les chefs traditionnels et les partis politiques",
+      "Par la voie du référendum et par ses représentants élus",
+      "Par le Président de la République seul"
+     ],
+     "a": 2,
+     "e": "L'article 51 dispose : « Le peuple exerce sa souveraineté par la voie du référendum et par ses représentants élus. » La démocratie ivoirienne est donc à la fois directe et représentative.",
+     "ed": [
+      "Le référendum n'est qu'une des deux voies : l'article 51 y ajoute les représentants élus.",
+      "Ni les chefs traditionnels ni les partis politiques n'exercent la souveraineté : l'article 51 ne cite que le référendum et les représentants élus.",
+      null,
+      "Le Président est un représentant élu parmi d'autres ; l'article 50 interdit à tout individu de s'attribuer l'exercice de la souveraineté."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261022-op02-06",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Un Ivoirien âgé de 17 ans peut-il voter, selon l'article 52 de la Constitution ?",
+     "o": [
+      "Oui, le suffrage universel ne connaît aucune condition d'âge",
+      "Non, sont électeurs les nationaux âgés d'au moins dix-huit ans",
+      "Oui, avec l'autorisation écrite de ses parents",
+      "Non, il faut être âgé d'au moins vingt et un ans"
+     ],
+     "a": 1,
+     "e": "L'article 52 fait électeurs « tous les nationaux Ivoiriens des deux sexes âgés d'au moins dix-huit ans » jouissant de leurs droits civils et politiques : à 17 ans, on ne vote pas.",
+     "ed": [
+      "Le suffrage universel n'exclut pas une condition d'âge : l'article 52 fixe un minimum de dix-huit ans.",
+      null,
+      "Aucune autorisation parentale ne permet de voter avant dix-huit ans : l'âge est fixé par l'article 52.",
+      "L'âge minimal fixé par l'article 52 est de dix-huit ans, non de vingt et un ans."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261022-op02-07",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Un préfet de région, nommé par l'État et soumis à l'autorité hiérarchique du ministre, représente l'État dans la région. Cette organisation relève de :",
+     "o": [
+      "la décentralisation",
+      "le fédéralisme",
+      "la séparation des pouvoirs",
+      "la déconcentration"
+     ],
+     "a": 3,
+     "e": "La déconcentration aménage le pouvoir de décision à l'intérieur de l'État : les autorités locales sont nommées par l'État et soumises à son contrôle hiérarchique, ce qui est le cas du préfet.",
+     "ed": [
+      "La décentralisation confie des compétences à des collectivités dotées de la personnalité morale et d'organes propres, non à un agent nommé par l'État.",
+      "Le fédéralisme superpose un État central à des États fédérés ; il n'a rien à voir avec un préfet nommé.",
+      "La séparation des pouvoirs répartit les fonctions entre exécutif, législatif et judiciaire ; elle ne décrit pas la représentation territoriale de l'État.",
+      null
+     ],
+     "src": {
+      "t": "UNJF – Droit constitutionnel 1 : théorie générale de l'État (support de cours)",
+      "u": "https://cours.unjf.fr/repository/coursefilearea/file.php/64/Cours/01_item/support01.pdf"
+     }
+    },
+    {
+     "id": "n20261022-op02-08",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Le Président de la République souhaite changer de Premier ministre. Que prévoit l'article 70 de la Constitution ?",
+     "o": [
+      "Le Président nomme le Premier ministre, chef du Gouvernement, et met fin à ses fonctions",
+      "Le Premier ministre ne peut être remplacé qu'après un vote de défiance de l'Assemblée nationale",
+      "Le Sénat doit approuver la fin de ses fonctions",
+      "Le Premier ministre est élu par l'Assemblée nationale pour la durée de la législature"
+     ],
+     "a": 0,
+     "e": "Selon l'article 70, « le Président de la République nomme le Premier Ministre, chef du Gouvernement. Il met fin à ses fonctions. » Aucun vote du Parlement n'est exigé.",
+     "ed": [
+      null,
+      "L'article 70 ne subordonne la fin des fonctions du Premier ministre à aucun vote de l'Assemblée nationale.",
+      "Le Sénat n'intervient pas : c'est le Président seul qui met fin aux fonctions du Premier ministre (article 70).",
+      "Le Premier ministre n'est pas élu par l'Assemblée : il est nommé par le Président (article 70)."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261022-op02-09",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Selon l'article 64 de la Constitution, qui détermine et conduit la politique de la Nation ?",
+     "o": [
+      "Le Premier ministre",
+      "Le Président de la République",
+      "L'Assemblée nationale",
+      "Le vice-Président de la République"
+     ],
+     "a": 1,
+     "e": "L'article 64 dispose : « Le Président de la République détermine et conduit la politique de la Nation. » C'est un trait central de la prééminence du chef de l'État.",
+     "ed": [
+      "Le Premier ministre est chef du Gouvernement, mais l'article 64 réserve au Président la détermination et la conduite de la politique de la Nation.",
+      null,
+      "L'Assemblée nationale vote la loi et contrôle le Gouvernement ; elle ne détermine pas la politique de la Nation selon l'article 64.",
+      "Le vice-Président est choisi par le Président ; l'article 64 ne lui confie pas la politique de la Nation."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261022-op02-10",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Un projet de révision constitutionnelle prévoit de doter l'État d'une religion officielle. Quel obstacle constitutionnel rencontre-t-il ?",
+     "o": [
+      "Aucun : toute disposition peut être révisée par référendum",
+      "L'article 52, qui fixe les conditions du suffrage",
+      "L'article 178, qui interdit toute révision portant sur la laïcité de l'État",
+      "L'article 85, qui organise le Parlement en deux chambres"
+     ],
+     "a": 2,
+     "e": "L'article 178 soustrait à la révision la forme républicaine du gouvernement et la laïcité de l'État : une religion officielle porterait atteinte à la laïcité, même par référendum.",
+     "ed": [
+      "L'article 178 pose une limite matérielle qui vaut quelle que soit la procédure : la laïcité ne peut faire l'objet d'aucune révision.",
+      "L'article 52 concerne les électeurs et le suffrage ; il ne protège pas la laïcité.",
+      null,
+      "L'article 85 organise le Parlement ; il est sans rapport avec la laïcité de l'État."
+     ],
+     "src": {
+      "t": "Constitute Project – Côte d'Ivoire 2016 (rev. 2020)",
+      "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "n20261022-op02-11",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Laquelle de ces affirmations sur la forme de l'État ivoirien est exacte ?",
+     "o": [
+      "C'est un État fédéral, puisque ses régions ont des organes élus",
+      "C'est un État unitaire strictement centralisé, sans collectivité territoriale",
+      "C'est une confédération d'États fondée sur un traité",
+      "C'est un État unitaire qui reconnaît des collectivités territoriales décentralisées"
+     ],
+     "a": 3,
+     "e": "La République est « une et indivisible » (article 49) : l'État est unitaire. Mais l'article 170 reconnaît les régions et les communes comme collectivités territoriales : il est décentralisé.",
+     "ed": [
+      "Des organes élus locaux ne font pas un État fédéral : les régions n'ont ni Constitution ni Parlement propres, et la République est une et indivisible.",
+      "L'État unitaire ivoirien n'est pas strictement centralisé : l'article 170 reconnaît des collectivités territoriales.",
+      "Une confédération naît d'un traité entre États souverains ; la Côte d'Ivoire est un État unique régi par sa Constitution.",
+      null
+     ],
+     "src": {
+      "t": "Constitute Project – Côte d'Ivoire 2016 (rev. 2020)",
+      "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "n20261022-op02-12",
+     "m": "opaj",
+     "tag": "niv-op02",
+     "q": "Un candidat qualifie le système ivoirien de « régime parlementaire ». Quel argument tiré de la Constitution le contredit le mieux ?",
+     "o": [
+      "Le Premier ministre et les ministres sont solidairement responsables devant le Président de la République (article 83)",
+      "Le Parlement comprend l'Assemblée nationale et le Sénat (article 85)",
+      "Les députés sont élus au suffrage universel direct pour cinq ans (article 86)",
+      "La souveraineté appartient au peuple (article 50)"
+     ],
+     "a": 0,
+     "e": "Dans un régime parlementaire, le Gouvernement est responsable devant le Parlement, qui peut le renverser. L'article 83 le rend responsable devant le Président : l'argument contredit directement la qualification.",
+     "ed": [
+      null,
+      "Le bicamérisme existe aussi dans des régimes parlementaires : il ne permet pas d'écarter cette qualification.",
+      "L'élection des députés au suffrage direct se retrouve dans les régimes parlementaires : ce n'est pas un critère de distinction.",
+      "La souveraineté du peuple est commune à toutes les démocraties, parlementaires comme présidentielles."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261022-ns03-01",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Dans une note de synthèse, que doit énoncer le titre d'une partie ?",
+     "o": [
+      "Une idée qui répond à une moitié de la problématique",
+      "Le numéro du document le plus important",
+      "Le simple nom du thème traité",
+      "L'opinion personnelle du candidat sur la question"
+     ],
+     "a": 0,
+     "e": "Le titre apparent dit une idée, pas un thème : le lecteur pressé doit pouvoir comprendre la réponse de la note en lisant ses seuls titres.",
+     "ed": [
+      null,
+      "Un titre ne renvoie pas à un document : les références (doc. 2, doc. 5) se placent dans le texte, à côté de chaque idée.",
+      "Un thème (« Le financement ») ne dit rien : il faut une idée (« Un financement encore insuffisant »).",
+      "La note est objective : aucune opinion personnelle, ni dans les titres ni dans le texte."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-02",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Selon la méthode de l'épreuve, comment le plan de la note de synthèse est-il organisé ?",
+     "o": [
+      "En trois parties sans sous-parties",
+      "En deux parties, chacune divisée en deux sous-parties, avec titres apparents",
+      "En autant de parties que le dossier compte de documents",
+      "En quatre paragraphes sans aucun titre"
+     ],
+     "a": 1,
+     "e": "La méthode de l'épreuve retient un plan apparent en deux parties, chacune en deux sous-parties, avec titres : il rend la note lisible et montre que les documents ont été croisés.",
+     "ed": [
+      "Le plan attendu compte deux parties, chacune subdivisée ; trois parties sans sous-parties ne respectent pas ce cadre.",
+      null,
+      "Une partie par document produit une suite de résumés, pas une synthèse.",
+      "Le plan doit être apparent : les titres sont obligatoires pour guider le lecteur."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-03",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Pourquoi le plan « document par document » est-il sanctionné ?",
+     "o": [
+      "Parce qu'il oblige à citer les documents",
+      "Parce qu'il rend la note trop courte",
+      "Parce qu'il juxtapose des résumés au lieu de croiser les documents par thèmes",
+      "Parce que les documents doivent être présentés par ordre de date"
+     ],
+     "a": 2,
+     "e": "La synthèse consiste à rapprocher, sur un même thème, ce que disent plusieurs documents. Le plan document par document se contente de résumés successifs : le travail de synthèse n'est pas fait.",
+     "ed": [
+      "Citer les documents est au contraire exigé dans toute note : ce n'est pas le défaut de ce plan.",
+      "La longueur n'est pas en cause : un plan document par document peut être long, il reste une simple suite de résumés.",
+      null,
+      "Aucune règle n'impose l'ordre chronologique des documents ; le classement se fait par thèmes."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-04",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "À quel moment de la préparation formule-t-on la problématique de la note ?",
+     "o": [
+      "Avant de lire le dossier, pour orienter la lecture",
+      "Après la rédaction, pour l'ajouter dans la conclusion",
+      "Jamais : une note de synthèse n'a pas de problématique",
+      "Après le dépouillement, avant de regrouper les thèmes en parties"
+     ],
+     "a": 3,
+     "e": "La problématique naît des tensions que révèle le tableau de dépouillement ; elle commande ensuite le regroupement des thèmes en deux parties, qui y répondent chacune pour moitié.",
+     "ed": [
+      "Formulée avant la lecture, la problématique serait plaquée : c'est le dossier qui la suggère.",
+      "Trouvée après la rédaction, elle ne pourrait plus organiser le plan ; elle figure dans l'introduction.",
+      "La note pose bien une problématique, énoncée dans l'introduction juste avant l'annonce du plan.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-05",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Lequel de ces titres convient le mieux à une partie de note de synthèse ?",
+     "o": [
+      "Une couverture sanitaire en progrès mais inégale",
+      "La santé",
+      "Faut-il réformer la couverture sanitaire ?",
+      "Une réforme sanitaire que je juge indispensable"
+     ],
+     "a": 0,
+     "e": "Ce titre énonce une idée nuancée tirée du dossier (progrès et inégalités), dans une phrase nominale courte et neutre : c'est exactement ce qu'on attend d'un titre apparent.",
+     "ed": [
+      null,
+      "« La santé » est un thème, pas une idée : il ne dit pas ce que la partie démontre.",
+      "Le titre interrogatif ne répond à rien : le titre doit énoncer la réponse, pas poser une question.",
+      "« Je juge » introduit une opinion personnelle, contraire à l'objectivité de la note."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-06",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Votre contrôle montre qu'aucune sous-partie n'utilise le document 4. Que faites-vous ?",
+     "o": [
+      "Vous l'ignorez : il n'est pas nécessaire d'utiliser tous les documents",
+      "Vous relisez le document 4 et placez son information utile dans la sous-partie qui lui correspond",
+      "Vous créez une troisième partie consacrée au document 4",
+      "Vous remplacez ses informations par vos connaissances personnelles"
+     ],
+     "a": 1,
+     "e": "Chaque document doit être exploité au moins une fois. On relit le document oublié pour rattacher son apport à une sous-partie existante, ou pour élargir le thème qui l'accueille.",
+     "ed": [
+      "Une note qui ignore un document est pénalisée : chaque document doit être utilisé au moins une fois.",
+      null,
+      "Ajouter une troisième partie casse le plan en deux parties et revient au plan document par document.",
+      "Aucune connaissance extérieure au dossier n'est admise dans la note de synthèse."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-07",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Dossier : un programme d'électrification rurale (doc. 1, 2), des coupures fréquentes (doc. 3), des tarifs jugés élevés (doc. 4), des solutions solaires locales (doc. 5, 6). Quel plan convient ?",
+     "o": [
+      "I. Les documents 1 à 3 ; II. Les documents 4 à 6",
+      "I. Mon avis sur le programme ; II. Mes propositions personnelles",
+      "I. Une électrification rurale en progrès mais imparfaite ; II. Des solutions pour un service fiable et abordable",
+      "I. L'histoire de l'électricité dans le monde ; II. Le programme national d'électrification"
+     ],
+     "a": 2,
+     "e": "Ce plan croise les documents : la partie I réunit le programme, les coupures et les tarifs (doc. 1 à 4) ; la partie II les solutions (doc. 5 et 6, avec les problèmes qu'elles traitent).",
+     "ed": [
+      "Découper par numéros de documents, c'est faire une suite de résumés, pas une synthèse.",
+      "La note ne contient ni avis ni proposition personnelle du candidat.",
+      null,
+      "L'histoire mondiale de l'électricité n'est pas dans le dossier : c'est une information extérieure."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-08",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Laquelle de ces annonces de plan est correcte ?",
+     "o": [
+      "Nous étudierons d'abord le document 1, puis le document 2.",
+      "Dans une première partie, je donnerai mon opinion, puis je proposerai mes solutions.",
+      "Le plan suivra les idées dans l'ordre où elles apparaissent dans le dossier.",
+      "Si le microcrédit favorise l'emploi des jeunes (I), son efficacité dépend encore de l'accompagnement des bénéficiaires (II)."
+     ],
+     "a": 3,
+     "e": "L'annonce reprend le sens des deux titres en une phrase qui montre leur lien logique (« si… », « encore ») et répond à la problématique, sans opinion ni découpage par document.",
+     "ed": [
+      "Annoncer les documents l'un après l'autre révèle un plan document par document, qui n'est pas une synthèse.",
+      "La note est objective : ni opinion ni solution personnelle du candidat.",
+      "Suivre l'ordre du dossier n'est pas un plan : il faut regrouper les idées par thèmes.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-09",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Votre partie I compte deux sous-parties nourries par cinq documents ; votre partie II n'en utilise qu'un. Quel est le diagnostic le plus probable ?",
+     "o": [
+      "Le plan est déséquilibré : il faut redécouper les thèmes entre les deux parties",
+      "Le plan est parfait : la première partie est toujours la plus longue",
+      "Il faut compléter la partie II par des connaissances extérieures",
+      "Il faut supprimer la partie II et rédiger une note en une seule partie"
+     ],
+     "a": 0,
+     "e": "Les deux parties doivent avoir un poids comparable. Un tel écart signale un thème mal découpé : une sous-partie de la partie I répond sans doute à la seconde moitié de la question.",
+     "ed": [
+      null,
+      "Aucune règle ne veut que la première partie soit la plus longue : on recherche l'équilibre.",
+      "On ne comble jamais un vide par des informations extérieures au dossier.",
+      "Le plan en deux parties est attendu : supprimer une partie ne corrige pas le déséquilibre."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-10",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Un candidat adopte d'emblée le plan « causes / conséquences / solutions », avant d'avoir lu le dossier. Quel est le risque principal ?",
+     "o": [
+      "Aucun : ce plan convient à tous les dossiers",
+      "Forcer les documents dans des cases préétablies et en oublier une partie",
+      "Dépasser obligatoirement la longueur autorisée",
+      "Devoir citer chaque document deux fois"
+     ],
+     "a": 1,
+     "e": "Un plan choisi avant lecture ne vient pas du dossier : on force les documents à entrer dans des cases, on en néglige certains. La méthode le rappelle : le dossier dicte le plan.",
+     "ed": [
+      "Aucun plan type ne convient à tous les dossiers ; c'est le contenu du dossier qui décide.",
+      null,
+      "La longueur dépend de la rédaction, non du type de plan choisi.",
+      "Le nombre de citations n'a pas de lien avec le plan choisi ; chaque idée cite simplement ses documents."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-11",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Lequel de ces titres viole l'exigence d'objectivité de la note ?",
+     "o": [
+      "Une réforme jugée tardive par plusieurs acteurs (doc. 2, 5)",
+      "Une réforme engagée depuis peu",
+      "Une réforme scandaleusement tardive",
+      "Une réforme aux premiers effets mesurés"
+     ],
+     "a": 2,
+     "e": "« Scandaleusement » exprime le jugement du rédacteur. La note rapporte les positions du dossier en les attribuant à leurs auteurs ; elle ne prend pas parti.",
+     "ed": [
+      "Ce titre rapporte un jugement en l'attribuant aux documents : il reste objectif.",
+      "Ce titre constate un fait sans le juger : il est neutre.",
+      null,
+      "« Mesurés » décrit des effets observés : le titre reste descriptif et neutre."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-ns03-12",
+     "m": "ns",
+     "tag": "niv-ns03",
+     "q": "Deux documents se contredisent sur l'effet d'une même mesure. Comment le plan doit-il en tenir compte ?",
+     "o": [
+      "En retenant seulement le document le plus récent",
+      "En créant une partie par document pour éviter la contradiction",
+      "En tranchant selon l'opinion du candidat",
+      "En plaçant les deux positions dans la même sous-partie, chacune attribuée à son document"
+     ],
+     "a": 3,
+     "e": "Une divergence est une information du dossier : on la présente dans la sous-partie qui traite de cette mesure, en attribuant chaque position à son document, sans trancher.",
+     "ed": [
+      "Écarter un document, c'est trahir le dossier ; la date ne permet pas d'ignorer une position.",
+      "Une partie par document détruit la synthèse : la divergence doit être exposée au même endroit.",
+      "La note ne tranche pas : le choix revient au lecteur, pas au rédacteur.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-01",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Qu'est-ce qui distingue d'abord la note de service de la note d'information ?",
+     "o": [
+      "La note de service s'adresse aux usagers, hors de l'administration",
+      "La note de service a un caractère obligatoire, la note d'information informe sans obliger",
+      "La note d'information doit toujours être signée par le ministre",
+      "La note de service s'écrit à la première personne et se termine par une formule de politesse"
+     ],
+     "a": 1,
+     "e": "La note de service exprime une instruction de la hiérarchie : les agents doivent s'y conformer. La note d'information porte une information à la connaissance de ses destinataires, sans caractère obligatoire.",
+     "ed": [
+      "La note de service est un document interne : elle s'adresse aux agents, non aux usagers.",
+      null,
+      "Aucune règle ne réserve la signature de la note d'information au ministre : tout service peut en émettre.",
+      "La note de service est impersonnelle et ne comporte aucune formule de politesse."
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-02",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Quelle fin convient à une note de service ?",
+     "o": [
+      "« Veuillez agréer l'expression de mes sentiments distingués. »",
+      "« Je vous prie de croire à ma considération respectueuse. »",
+      "Aucune formule de politesse : la note se termine par la signature",
+      "« Avec mes salutations cordiales. »"
+     ],
+     "a": 2,
+     "e": "La note de service ne comporte ni formule d'appel ni formule de politesse : elle s'adresse à un groupe d'agents et va droit au but, puis se clôt par la signature (fonction, prénoms et nom).",
+     "ed": [
+      "Cette formule de politesse appartient à la lettre ; elle n'a pas sa place dans une note.",
+      "Cette formule de considération relève de la lettre administrative, non de la note de service.",
+      null,
+      "« Salutations cordiales » est une formule de correspondance ; la note n'en comporte aucune."
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-03",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Dans quels sens une note d'information peut-elle circuler ?",
+     "o": [
+      "Vers le bas, entre services et vers le haut",
+      "Uniquement de la direction vers les agents",
+      "Uniquement vers les usagers, hors de l'administration",
+      "Uniquement des agents vers la direction"
+     ],
+     "a": 0,
+     "e": "La note d'information peut émaner de n'importe quel service et circuler dans tous les sens : de la hiérarchie vers les agents, entre services de même niveau ou d'un agent vers son supérieur.",
+     "ed": [
+      null,
+      "Le sens descendant est celui de la note de service ; la note d'information circule aussi entre services et vers le haut.",
+      "La note d'information est un document interne, non une correspondance destinée aux usagers.",
+      "Elle peut remonter vers la direction, mais aussi descendre ou circuler entre services."
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-04",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Combien de sujets une note de service doit-elle traiter ?",
+     "o": [
+      "Au moins deux, pour limiter le nombre de notes",
+      "Autant que nécessaire, s'ils sont numérotés",
+      "Tous les sujets de la semaine, regroupés",
+      "Un seul"
+     ],
+     "a": 3,
+     "e": "La note traite un seul sujet, annoncé dans l'objet : elle est ainsi facile à appliquer, à classer et à retrouver.",
+     "ed": [
+      "Regrouper plusieurs sujets nuit à la clarté et au classement : on rédige une note par sujet.",
+      "La numérotation des paragraphes ne compense pas le mélange des sujets : une note, un objet.",
+      "Un bilan hebdomadaire mélangerait les sujets : chaque consigne fait l'objet de sa propre note.",
+      null
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-05",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Le secrétaire général veut imposer à tous les agents le port du badge à compter de lundi. Quel document rédige-t-il ?",
+     "o": [
+      "Une note d'information",
+      "Une note de service",
+      "Une lettre de forme personnelle",
+      "Un compte rendu"
+     ],
+     "a": 1,
+     "e": "Il s'agit d'une consigne obligatoire donnée par la hiérarchie à l'ensemble des agents : c'est l'objet même de la note de service.",
+     "ed": [
+      "La note d'information n'a pas de caractère obligatoire : elle ne convient pas pour imposer une consigne.",
+      null,
+      "La lettre de forme personnelle est écrite par un agent ou un usager pour son propre compte ; elle ne sert pas à donner des instructions.",
+      "Le compte rendu relate et résume une réunion ou une activité ; il ne donne pas d'ordre."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-06",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Laquelle de ces phrases convient au style d'une note de service ?",
+     "o": [
+      "« Les agents sont invités à déposer leurs demandes de congé avant le 30 novembre. »",
+      "« J'aimerais bien, si possible, que vous pensiez à déposer vos congés. »",
+      "« Monsieur, j'ai l'honneur de vous demander vos dates de congé. »",
+      "« On verra plus tard pour les congés, ce n'est pas urgent. »"
+     ],
+     "a": 0,
+     "e": "La phrase est impersonnelle, précise (qui, quoi, avant quand) et courtoise sans formule de politesse : c'est le style attendu d'une note de service.",
+     "ed": [
+      null,
+      "La tournure est personnelle, hésitante et imprécise : une consigne doit être claire et nette.",
+      "« Monsieur » est une formule d'appel et « j'ai l'honneur » relève de la lettre ; la note n'en comporte pas.",
+      "« On verra plus tard » est familier et ne donne aucune consigne : c'est l'inverse d'une note."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-07",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Quelle mention manque à cette note : « NOTE DE SERVICE N° 015/DAF – Abidjan, le 4 novembre 2026 – Objet : fermeture de la caisse – texte – signature » ?",
+     "o": [
+      "La formule d'appel",
+      "La formule de politesse",
+      "Les destinataires",
+      "Le numéro de téléphone du signataire"
+     ],
+     "a": 2,
+     "e": "La note doit préciser son public : « À l'ensemble du personnel », « Aux chefs de service »… Sans destinataires, on ne sait pas qui doit appliquer la consigne.",
+     "ed": [
+      "La note de service ne comporte pas de formule d'appel : son absence n'est pas une faute.",
+      "La note de service ne comporte pas de formule de politesse : son absence est normale.",
+      null,
+      "Un contact peut être utile mais n'est pas une mention obligatoire ; les destinataires, eux, le sont."
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-08",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Un chef de bureau doit signaler à son directeur un retard dans le traitement des dossiers. Quel document choisit-il ?",
+     "o": [
+      "Une note de service adressée au directeur",
+      "Une circulaire adressée à tous les ministères",
+      "Un procès-verbal de réunion",
+      "Une note d'information adressée au directeur"
+     ],
+     "a": 3,
+     "e": "Il informe son supérieur sans rien lui ordonner : c'est une note d'information, qui peut circuler de bas en haut.",
+     "ed": [
+      "La note de service exprime un ordre de la hiérarchie ; un subordonné ne peut pas en adresser une à son supérieur.",
+      "Une circulaire diffuse des instructions générales d'une autorité ; elle ne sert pas à rendre compte d'un retard.",
+      "Le procès-verbal relate fidèlement une réunion ; il n'y a pas ici de réunion à constater.",
+      null
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-09",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Pourquoi une note de service porte-t-elle un numéro et une date ?",
+     "o": [
+      "Pour être classée et retrouvée, et établir qui a ordonné quoi et depuis quand",
+      "Pour indiquer le nombre d'agents concernés",
+      "Pour dispenser de la signature",
+      "Pour indiquer l'ancienneté du signataire"
+     ],
+     "a": 0,
+     "e": "La note est archivée et peut être produite plus tard, y compris dans une procédure : numéro et date permettent de l'identifier et de dater l'instruction donnée.",
+     "ed": [
+      null,
+      "Le numéro identifie la note dans la série du service ; il ne compte pas les agents.",
+      "Le numéro et la date ne remplacent jamais la signature : la note doit être datée et signée.",
+      "Le numéro n'a aucun rapport avec l'ancienneté du signataire."
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-10",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Une note de service annonce dans le même texte de nouveaux horaires, une session de formation et une collecte pour un collègue. Quelle est la faute ?",
+     "o": [
+      "Aucune : regrouper les informations économise du papier",
+      "La note traite plusieurs sujets : il fallait une note par sujet",
+      "Il manquait une formule de politesse finale",
+      "Il fallait l'écrire à la première personne du pluriel"
+     ],
+     "a": 1,
+     "e": "Une note traite un seul sujet : mélanger horaires, formation et collecte brouille les consignes et empêche de classer la note sous un objet unique.",
+     "ed": [
+      "L'économie de papier ne justifie pas le mélange des sujets, qui nuit à la clarté et au classement.",
+      null,
+      "La note de service ne comporte jamais de formule de politesse : ce n'est pas la faute.",
+      "Le style de la note est impersonnel ; le « nous » ne corrige pas le mélange des sujets."
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-11",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Un agent soutient : « Une note d'information est obligatoire, puisqu'elle émane d'un service. » Qu'en pensez-vous ?",
+     "o": [
+      "Il a raison : toute note interne est obligatoire",
+      "Il a raison dès que la note est affichée",
+      "Il a tort : la note d'information informe et n'a pas de caractère obligatoire",
+      "Il a tort, sauf si la note est signée par un directeur"
+     ],
+     "a": 2,
+     "e": "La note d'information a pour but d'informer : elle n'a pas de caractère obligatoire. Seule la note de service, qui exprime une instruction hiérarchique, impose aux agents de s'y conformer.",
+     "ed": [
+      "Toutes les notes internes ne sont pas obligatoires : la note d'information ne l'est pas.",
+      "L'affichage est un mode de diffusion ; il ne change pas la nature de la note.",
+      null,
+      "La qualité du signataire ne transforme pas une information en ordre : c'est la nature du document qui compte."
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-rd03-12",
+     "m": "redac",
+     "tag": "niv-rd03",
+     "q": "Une note de service commence par « Monsieur le Directeur, » et se termine par « Veuillez agréer… ». Que faut-il corriger ?",
+     "o": [
+      "Rien : ces formules sont obligatoires dans toute note",
+      "Remplacer « Monsieur le Directeur » par « Cher Directeur »",
+      "Ajouter « Je vous prie de croire… » avant la signature",
+      "Supprimer la formule d'appel et la formule de politesse, propres à la lettre"
+     ],
+     "a": 3,
+     "e": "La note de service ne comporte ni formule d'appel ni formule de politesse : ces formules caractérisent la lettre. On garde les destinataires, l'objet, le texte et la signature.",
+     "ed": [
+      "Ces formules sont au contraire exclues de la note de service.",
+      "« Cher » est familier et, surtout, la note n'a pas de formule d'appel du tout.",
+      "Ajouter une autre formule de politesse aggrave la faute au lieu de la corriger.",
+      null
+     ],
+     "src": {
+      "t": "Weka – Glossaire : note de service dans la fonction publique",
+      "u": "https://www.weka.fr/glossaire/?p=591"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261022-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Sous quel nom colonial était connu le Ghana, devenu indépendant le 6 mars 1957 ?",
+     "o": [
+      "La Côte-des-Esclaves",
+      "La Haute-Volta",
+      "La Côte-de-l'Or (Gold Coast)",
+      "Le Dahomey"
+     ],
+     "a": 2,
+     "e": "Le Ghana, ancienne colonie britannique de la Gold Coast (Côte-de-l'Or), a obtenu son indépendance le 6 mars 1957 sous la conduite de Kwame Nkrumah.",
+     "ed": [
+      "La Côte-des-Esclaves n'est pas le nom colonial du Ghana, qui s'appelait la Côte-de-l'Or (Gold Coast).",
+      "La Haute-Volta n'est pas le nom colonial du Ghana : la colonie britannique s'appelait la Côte-de-l'Or.",
+      null,
+      "Le Dahomey n'est pas le nom colonial du Ghana : la colonie britannique s'appelait la Côte-de-l'Or."
+     ],
+     "src": {
+      "t": "Democracy Now! – Ghana celebrates 50 years of independence (6 mars 2007)",
+      "u": "https://www.democracynow.org/2007/3/6/ghana_celebrates_50_years_of_independence"
+     }
+    },
+    {
+     "id": "n20261022-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Où le secrétaire d'État américain George Marshall annonça-t-il, le 5 juin 1947, son plan d'aide à la reconstruction de l'Europe ?",
+     "o": [
+      "À l'université Harvard",
+      "À la conférence de Potsdam",
+      "Devant le Conseil de sécurité des Nations unies",
+      "Devant l'Assemblée nationale française, à Paris"
+     ],
+     "a": 0,
+     "e": "George C. Marshall, secrétaire d'État du président Truman, présenta le plan le 5 juin 1947 dans un discours à l'université Harvard ; l'URSS et les pays qu'elle contrôlait le refusèrent.",
+     "ed": [
+      null,
+      "Le plan Marshall n'a pas été annoncé à Potsdam, mais dans un discours à l'université Harvard.",
+      "Le plan fut annoncé dans un discours universitaire à Harvard, non devant le Conseil de sécurité.",
+      "Marshall s'exprima aux États-Unis, à Harvard, et non devant un parlement européen."
+     ],
+     "src": {
+      "t": "Hérodote – 5 juin 1947 : le plan Marshall",
+      "u": "https://www.herodote.net/5_juin_1947-evenement-19470605.php"
+     }
+    },
+    {
+     "id": "n20261022-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville a été signée, le 20 mars 1970, la convention créant l'Agence de coopération culturelle et technique, ancêtre de l'Organisation internationale de la Francophonie ?",
+     "o": [
+      "Dakar",
+      "Niamey",
+      "Paris",
+      "Tunis"
+     ],
+     "a": 1,
+     "e": "La convention créant l'ACCT a été signée à Niamey (Niger) le 20 mars 1970 par les représentants de 21 États et gouvernements, sous l'impulsion notamment de Senghor, Bourguiba et Hamani Diori.",
+     "ed": [
+      "Dakar est la capitale du Sénégal de Senghor, mais la convention a été signée à Niamey.",
+      null,
+      "Paris accueille aujourd'hui le siège de l'OIF, mais la convention de 1970 a été signée à Niamey.",
+      "Tunis est la capitale de la Tunisie de Bourguiba, non le lieu de signature de la convention."
+     ],
+     "src": {
+      "t": "Wikipedia – Organisation internationale de la Francophonie",
+      "u": "https://en.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie"
+     }
+    },
+    {
+     "id": "n20261022-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville s'est tenu, en juillet 2002, le sommet de lancement de l'Union africaine ?",
+     "o": [
+      "Addis-Abeba",
+      "Abuja",
+      "Accra",
+      "Durban"
+     ],
+     "a": 3,
+     "e": "Le sommet de lancement de l'Union africaine s'est tenu à Durban (Afrique du Sud) en juillet 2002 ; le président sud-africain Thabo Mbeki en est devenu le premier président en exercice.",
+     "ed": [
+      "Addis-Abeba est le siège de l'Union africaine, non le lieu de son sommet de lancement.",
+      "Le sommet de lancement ne s'est pas tenu à Abuja, mais à Durban, en Afrique du Sud.",
+      "Le sommet de lancement ne s'est pas tenu à Accra, mais à Durban, en Afrique du Sud.",
+      null
+     ],
+     "src": {
+      "t": "AllAfrica – Le sommet de l'Union africaine se termine sur une note incertaine (10 juillet 2002)",
+      "u": "https://fr.allafrica.com/stories/200207110632.html"
+     }
+    },
+    {
+     "id": "n20261022-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville l'indépendance d'Haïti a-t-elle été proclamée le 1er janvier 1804 ?",
+     "o": [
+      "Port-au-Prince",
+      "Jacmel",
+      "Aux Gonaïves",
+      "Cap-Haïtien"
+     ],
+     "a": 2,
+     "e": "L'indépendance de Saint-Domingue, rebaptisée Haïti, a été proclamée aux Gonaïves le 1er janvier 1804, après la victoire de Dessalines à Vertières le 18 novembre 1803.",
+     "ed": [
+      "Port-au-Prince est l'actuelle capitale, mais la proclamation eut lieu aux Gonaïves.",
+      "Jacmel n'est pas le lieu de la proclamation, qui eut lieu aux Gonaïves.",
+      null,
+      "Cap-Haïtien n'est pas le lieu de la proclamation : l'indépendance fut proclamée aux Gonaïves, sur la place d'armes."
+     ],
+     "src": {
+      "t": "Hérodote – 1er janvier 1804 : indépendance d'Haïti",
+      "u": "https://www.herodote.net/1er_janvier_1804-evenement-18040101.php"
+     }
+    },
+    {
+     "id": "n20261022-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Signé à Lisbonne le 13 décembre 2007, quand le traité de Lisbonne est-il entré en vigueur ?",
+     "o": [
+      "Le 1er novembre 1993",
+      "Le 13 décembre 2008",
+      "Le 1er janvier 2008",
+      "Le 1er décembre 2009"
+     ],
+     "a": 3,
+     "e": "Le traité de Lisbonne, signé à Lisbonne le 13 décembre 2007, est entré en vigueur près de deux ans plus tard, le 1er décembre 2009.",
+     "ed": [
+      "Le 1er novembre 1993 est antérieur de plus de quatorze ans à la signature du traité de Lisbonne : il ne peut s'agir de son entrée en vigueur.",
+      "Le traité n'est pas entré en vigueur un an jour pour jour après sa signature, mais le 1er décembre 2009.",
+      "Le traité n'est pas entré en vigueur début 2008, mais le 1er décembre 2009.",
+      null
+     ],
+     "src": {
+      "t": "Parlement européen – Le traité de Lisbonne",
+      "u": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/treaty-of-lisbon"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261022op02",
+     "niv": "op02",
+     "m": "opaj",
+     "titre": "L'organisation politique : l'État et la Constitution",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir l'État par ses trois éléments, qualifier la forme de l'État ivoirien et dire à qui appartient la souveraineté selon la Constitution de 2016.",
+      "= Vous saurez aussi caractériser le régime politique ivoirien à partir des articles qui organisent l'exécutif et le Parlement.",
+      "## Ce que demande l'épreuve",
+      "En OPAJ, le sujet de cours demande d'exposer une notion de façon ordonnée et de l'illustrer par le droit positif ivoirien. Sur l'organisation politique, les sujets portent sur l'État, sa forme, la souveraineté ou le régime politique. Le correcteur attend des définitions exactes et des articles de la Constitution cités sans erreur.",
+      "! Piège habituel : confondre la forme de l'État (unitaire ou fédéral) et le régime politique (présidentiel ou parlementaire). La première répond à la question « comment le pouvoir est-il réparti sur le territoire ? », le second à « comment l'exécutif et le Parlement sont-ils organisés l'un par rapport à l'autre ? ».",
+      "## La méthode, pas à pas",
+      "- 1. Définissez chaque terme du sujet (État, souveraineté, régime) par une définition de cours.",
+      "- 2. Identifiez la question posée : forme de l'État, titulaire de la souveraineté, ou rapports entre les pouvoirs.",
+      "- 3. Rattachez chaque affirmation à un article de la loi n° 2016-886 du 8 novembre 2016 portant Constitution.",
+      "- 4. Expliquez le « pourquoi » : l'intention du constituant ou la logique du mécanisme.",
+      "- 5. Concluez par une qualification nette (« État unitaire décentralisé », « exécutif dominé par le Président »).",
+      "> Repère : la Constitution, adoptée par le référendum du 30 octobre 2016 (93,42 % des suffrages exprimés selon le discours de promulgation) et promulguée le 8 novembre 2016, fonde ce que le Président de la République a appelé la « Troisième République »."
+     ],
+     "fond": [
+      "## Notion 1 : l'État et ses trois éléments",
+      "Le droit constitutionnel définit l'État par trois éléments : un territoire (élément matériel), une population (élément humain) et un pouvoir politique organisé qui s'exerce de façon souveraine (élément formel).",
+      "Pourquoi trois éléments ? Un peuple sans territoire, ou un territoire sans autorité, ne forment pas un État : c'est leur réunion qui fait naître une personne publique capable de commander à l'intérieur et d'être reconnue à l'extérieur.",
+      "~ La Côte d'Ivoire réunit les trois : un territoire délimité par des frontières, une population (qui comprend aussi des étrangers, lesquels ne sont pas citoyens) et un pouvoir organisé par la Constitution. L'article 48 en fixe les signes : drapeau orange, blanc, vert en bandes verticales, hymne « l'Abidjanaise », devise « Union, Discipline, Travail », langue officielle le français.",
+      "? Un candidat écrit : « L'État, c'est le Gouvernement. » Corrigez. || Le Gouvernement n'est qu'un organe de l'État. L'État est la réunion d'un territoire, d'une population et d'un pouvoir politique souverain ; le Gouvernement, avec le Président et le Parlement, exerce une partie de ce pouvoir.",
+      "## Notion 2 : la forme de l'État : unitaire et décentralisé",
+      "L'État unitaire a un seul centre de décision politique : une seule catégorie de lois, applicables sur tout le territoire. L'État fédéral, au contraire, superpose un État central à des États fédérés qui gardent leur Constitution, leur Parlement et leurs tribunaux.",
+      "Selon l'article 49, la République de Côte d'Ivoire est « une et indivisible, laïque, démocratique et sociale ». « Une et indivisible » exclut le fédéralisme : aucune partie du territoire ne peut se doter de sa propre Constitution.",
+      "Pourquoi ce choix ? L'unité de l'État sert la cohésion nationale dans un pays dont le Préambule affirme respecter la diversité. Mais unitaire ne veut pas dire centralisé à l'extrême : l'article 170 reconnaît des collectivités territoriales, les régions et les communes.",
+      "~ Une commune vote son budget et gère ses services de proximité, mais elle applique les lois nationales et reste soumise à un contrôle de légalité. Elle est autonome, non indépendante : la Côte d'Ivoire est un État unitaire décentralisé.",
+      "! Décentraliser n'est pas déconcentrer. La déconcentration confie des pouvoirs à des agents nommés par l'État (le préfet), soumis au pouvoir hiérarchique ; la décentralisation confie des compétences à des collectivités dotées de la personnalité morale.",
+      "? Un préfet et un conseil régional exercent-ils leurs pouvoirs au même titre ? || Non. Le préfet est un agent nommé par l'État : il relève de la déconcentration. Le conseil régional est l'organe d'une collectivité territoriale, la région, reconnue par l'article 170 : il relève de la décentralisation.",
+      "## Notion 3 : la souveraineté appartient au peuple",
+      "La souveraineté est le pouvoir suprême, qui ne dépend d'aucune autorité supérieure. L'article 50 dispose : « La souveraineté appartient au peuple. Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice. »",
+      "Pourquoi cette interdiction ? Pour qu'aucun groupe (parti, armée, communauté) ni aucun chef ne puisse prétendre parler seul au nom du peuple. C'est le fondement du refus, affirmé dans le Préambule, de tout accès au pouvoir par des moyens non démocratiques.",
+      "Le peuple exerce sa souveraineté « par la voie du référendum et par ses représentants élus » (article 51) : la démocratie est à la fois directe et représentative. Sont électeurs les nationaux ivoiriens des deux sexes âgés d'au moins dix-huit ans (article 52).",
+      "~ La Constitution elle-même a été adoptée par référendum le 30 octobre 2016 : le peuple a exercé directement sa souveraineté. Les députés, élus pour cinq ans au suffrage universel direct (article 86), l'exercent ensuite en son nom.",
+      "? Un mouvement affirme représenter « le vrai peuple » et réclame le pouvoir sans élection. Quel article lui opposer ? || L'article 50 : aucune section du peuple ne peut s'attribuer l'exercice de la souveraineté. Le pouvoir ne procède que du référendum ou de l'élection des représentants (article 51).",
+      "## Notion 4 : la Constitution, norme suprême et protégée",
+      "La Constitution organise les pouvoirs publics et garantit les droits : son Titre I traite des droits, libertés et devoirs, son Titre II de l'État et de la souveraineté.",
+      "Pourquoi la protéger ? Une Constitution trop facile à modifier n'encadrerait plus le pouvoir. L'article 178 interdit donc toute révision portant sur la forme républicaine du gouvernement et sur la laïcité de l'État.",
+      "! La laïcité ne signifie pas l'hostilité aux religions, mais la neutralité de l'État à leur égard. Elle figure à l'article 49 et est protégée par l'article 178.",
+      "## Notion 5 : le régime politique : un exécutif dominé par le Président",
+      "L'exécutif comprend le Président de la République, le vice-Président et le Gouvernement (article 53). Le Président est élu pour cinq ans au suffrage universel direct et n'est rééligible qu'une fois (article 55) ; il « détermine et conduit la politique de la Nation » (article 64), nomme le Premier ministre et met fin à ses fonctions (article 70). Le Premier ministre et les ministres sont solidairement responsables devant le Président (article 83). Le Parlement est composé de l'Assemblée nationale et du Sénat (article 85) ; un tiers des sénateurs est désigné par le Président (article 87).",
+      "Pourquoi parler d'un exécutif dominant ? Dans un régime parlementaire, le Gouvernement est responsable devant le Parlement, qui peut le renverser. Ici, il répond devant le Président : le centre de gravité du pouvoir est le chef de l'État, trait des régimes présidentiels.",
+      "~ Mini-cas : le Président veut changer de Premier ministre. Étape 1 : qui nomme ? Le Président (article 70). Étape 2 : devant qui le Gouvernement est-il responsable ? Devant le Président (article 83). Conclusion : il met fin aux fonctions du Premier ministre sans vote du Parlement.",
+      "? Le vice-Président est-il élu au suffrage universel avec le Président ? || Non. Selon l'article 55, le Président choisit un vice-Président en accord avec le Parlement. Il n'existe pas d'élection directe du vice-Président."
+     ],
+     "retenir": [
+      "L'État réunit trois éléments : un territoire, une population et un pouvoir politique organisé et souverain.",
+      "Article 49 : la République de Côte d'Ivoire est une et indivisible, laïque, démocratique et sociale.",
+      "La Côte d'Ivoire est un État unitaire décentralisé : régions et communes sont ses collectivités territoriales (article 170).",
+      "Article 50 : la souveraineté appartient au peuple ; aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.",
+      "Le peuple exerce sa souveraineté par la voie du référendum et par ses représentants élus (article 51).",
+      "Article 178 : la forme républicaine du gouvernement et la laïcité de l'État ne peuvent faire l'objet d'une révision.",
+      "Le Président détermine et conduit la politique de la Nation (article 64) ; le Gouvernement est responsable devant lui (article 83)."
+     ],
+     "exo": {
+      "tag": "niv-op02",
+      "n": 12,
+      "ecrit": "opaj"
+     },
+     "sources": [
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire (version consolidée)",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+      },
+      {
+       "t": "Constitute Project – Côte d'Ivoire 2016 (rev. 2020)",
+       "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+      },
+      {
+       "t": "UNJF – Droit constitutionnel 1 : théorie générale de l'État (support de cours)",
+       "u": "https://cours.unjf.fr/repository/coursefilearea/file.php/64/Cours/01_item/support01.pdf"
+      },
+      {
+       "t": "Kartable – Les composantes institutionnelles des régimes politiques démocratiques",
+       "u": "https://kartable.fr/ressources/ses/cours/quelles-sont-les-composantes-institutionnelles-des-regimes-politiques-democratiques/11057"
+      },
+      {
+       "t": "Abidjan.net – Promulgation de la Constitution de la Troisième République : discours du Président de la République (8 novembre 2016)",
+       "u": "https://news.abidjan.net/articles/603796/promulgation-de-la-constitution-de-la-troisieme-republique-discours-de-sem-alassane-ouattara-president-de-la-republique"
+      }
+     ]
+    },
+    {
+     "id": "L20261022ns03",
+     "niv": "ns03",
+     "m": "ns",
+     "titre": "Bâtir le plan de la note",
+     "min": 50,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez transformer votre tableau de dépouillement en un plan de note en deux parties et quatre sous-parties, équilibré et fidèle au dossier.",
+      "= Vous saurez rédiger des titres apparents qui informent et une annonce de plan claire.",
+      "## Ce que demande l'épreuve",
+      "La note de synthèse se lit vite : son lecteur, souvent un décideur, doit saisir l'essentiel en parcourant les titres. Le plan est donc évalué pour lui-même : il doit être apparent, équilibré et ne rien contenir d'extérieur au dossier. La méthode de l'épreuve, présentée au premier niveau, retient deux parties, chacune en deux sous-parties, avec titres.",
+      "! Pièges habituels : le plan « document par document » (I. Ce que dit le doc. 1 ; II. Ce que dit le doc. 2), qui n'est pas une synthèse, et le plan passe-partout choisi avant lecture (causes / conséquences / solutions).",
+      "## La méthode, pas à pas",
+      "- 1. Partez du tableau de dépouillement : listez les thèmes (les lignes) et les documents qui nourrissent chacun.",
+      "- 2. Formulez la problématique : la question à laquelle le dossier permet de répondre.",
+      "- 3. Regroupez les thèmes en deux ensembles qui répondent chacun à une moitié de la question.",
+      "- 4. Dans chaque partie, dégagez deux sous-parties de poids comparable.",
+      "- 5. Rédigez les titres : des phrases courtes, souvent nominales, qui disent une idée et non un thème.",
+      "- 6. Contrôlez : chaque document est-il placé ? Une partie n'est-elle pas deux fois plus nourrie que l'autre ?",
+      "> Comptez une quarantaine de minutes pour cette étape : un plan solide fait gagner du temps à la rédaction, car chaque idée a déjà sa place."
+     ],
+     "fond": [
+      "## Notion 1 : la problématique commande le plan",
+      "Le plan n'est pas un simple rangement des informations : c'est la réponse, en deux temps, à une question. On formule d'abord la problématique, en une phrase interrogative, à partir de ce que le dossier met en tension : un objectif et ses obstacles, un dispositif et ses limites, un constat et les réponses possibles.",
+      "Pourquoi ? Sans question, les parties juxtaposent des thèmes sans lien ; avec une question, la première partie prépare logiquement la seconde.",
+      "~ Dossier fictif sur l'accès à l'eau potable en milieu rural (6 documents). Le tableau fait apparaître : des forages plus nombreux (doc. 1, 3), des pannes fréquentes faute d'entretien (doc. 2, 5), le coût de l'eau pour les ménages (doc. 4), des comités de gestion villageois (doc. 5, 6). Problématique : « Les investissements réalisés suffisent-ils à garantir un accès durable à l'eau potable en milieu rural ? »",
+      "? Dossier sur l'installation des jeunes diplômés dans l'agriculture. Le tableau montre : des programmes d'installation (doc. 1, 2), un faible attrait des jeunes pour le métier (doc. 3), le manque de terres et de crédit (doc. 4, 5). Formulez une problématique. || Par exemple : « Comment rendre l'agriculture attractive et accessible aux jeunes diplômés ? » Elle réunit le constat (programmes, faible attrait) et les obstacles (terre, crédit). Une problématique limitée aux programmes oublierait les documents 3 à 5.",
+      "## Notion 2 : les plans types et leur bon usage",
+      "Plusieurs plans reviennent souvent : constat / perspectives ; dispositif / limites et pistes ; enjeux / réponses. Ce sont des cadres de réflexion, pas des recettes : c'est le dossier qui choisit.",
+      "Pourquoi se méfier du plan plaqué ? Un plan choisi avant lecture oblige à forcer les documents dans des cases, ou conduit à en oublier.",
+      "~ Pour le dossier sur l'eau : I. Un accès à l'eau potable en progrès mais fragile ; A. Des forages plus nombreux (doc. 1, 3) ; B. Un service interrompu par les pannes et freiné par le coût (doc. 2, 4, 5). II. Une gestion durable encore à organiser ; A. Les comités villageois, acteurs de l'entretien (doc. 5, 6) ; B. Les conditions de leur réussite (doc. 2, 4, 6).",
+      "! Une sous-partie qui ne s'appuie que sur un seul document est fragile : vérifiez si elle ne doit pas être fusionnée avec une autre.",
+      "## Notion 3 : des titres apparents qui informent",
+      "Le titre d'une partie énonce une idée, pas seulement un thème. « Le financement » est un thème ; « Un financement encore insuffisant » est une idée. Les titres sont courts, et les deux titres de même niveau se répondent.",
+      "Pourquoi ? Le lecteur pressé doit pouvoir lire la note par ses seuls titres et en comprendre la réponse.",
+      "? Améliorez ces titres : « I. Les forages ; II. Les comités ». || Par exemple : « I. Un accès à l'eau en progrès mais fragile ; II. Une gestion locale à consolider ». Chaque titre dit désormais ce que le dossier établit sur le thème, et les deux titres forment ensemble la réponse à la problématique.",
+      "! Ni point d'interrogation ni opinion personnelle dans les titres : la note reste objective. « Une réforme indispensable » est un jugement du rédacteur ; « Une réforme jugée nécessaire par les acteurs (doc. 3, 6) » rapporte celui du dossier.",
+      "## Notion 4 : l'équilibre et le contrôle du plan",
+      "Les deux parties doivent avoir un poids comparable, de même que les deux sous-parties d'une partie. Contrôlez aussi l'exhaustivité : chaque document doit être utilisé au moins une fois.",
+      "Pourquoi ? Un plan déséquilibré signale soit un thème mal découpé, soit des informations oubliées.",
+      "~ Contrôle pas à pas : écrivez sous chaque sous-partie la liste des documents qu'elle utilise. Pour le plan sur l'eau : I.A (1, 3), I.B (2, 4, 5), II.A (5, 6), II.B (2, 4, 6). Les six documents apparaissent, aucune sous-partie n'est vide : le plan est validé.",
+      "? Votre partie I réunit 6 documents et 10 idées, votre partie II 2 documents et 3 idées. Que faire ? || Rééquilibrer : soit une sous-partie de la partie I passe dans la partie II, si elle répond à la seconde moitié de la question, soit la partie II est mal formulée et doit être élargie. On ne comble jamais le vide par des connaissances extérieures au dossier.",
+      "## Notion 5 : annoncer le plan",
+      "L'introduction se termine par la problématique et l'annonce du plan, en une ou deux phrases qui reprennent le sens des titres sans les recopier mot pour mot.",
+      "Pourquoi ? L'annonce prépare le lecteur : il sait d'emblée où va la note et comment les deux parties s'enchaînent.",
+      "~ Annonce modèle : « Si l'accès à l'eau potable progresse grâce aux forages, il demeure fragile (I) ; sa durabilité dépend d'une gestion locale qu'il reste à consolider (II). » La concession « si… » relie les deux parties et montre la logique de la réponse."
+     ],
+     "retenir": [
+      "Le plan répond à une problématique formulée à partir des tensions que révèle le dossier.",
+      "Plan de la note : deux parties, chacune en deux sous-parties, avec titres apparents.",
+      "Un titre énonce une idée, pas un simple thème, et ne contient aucune opinion personnelle.",
+      "Jamais de plan document par document : on classe les informations par thèmes.",
+      "Le plan type n'est qu'un cadre : c'est le dossier qui dicte le plan.",
+      "Chaque document est utilisé au moins une fois ; les parties ont un poids comparable.",
+      "L'annonce du plan clôt l'introduction et reprend le sens des deux titres."
+     ],
+     "exo": {
+      "tag": "niv-ns03",
+      "n": 12,
+      "ecrit": "ns"
+     }
+    },
+    {
+     "id": "L20261022rd03",
+     "niv": "rd03",
+     "m": "redac",
+     "titre": "La note de service et la note d'information",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez distinguer la note de service de la note d'information et rédiger l'une et l'autre avec toutes leurs mentions.",
+      "= Vous saurez adopter un style clair, concis et impersonnel, sans formule d'appel ni formule de politesse.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de rédaction administrative propose une situation concrète (changement d'horaires, réunion à organiser, consigne à rappeler) et demande le document adapté. Le correcteur vérifie le choix du bon document, la présence des mentions, la clarté du message et le ton. Une note de service rédigée comme une lettre (« Monsieur, j'ai l'honneur… ») montre que le candidat confond les genres.",
+      "! Pièges habituels : ajouter une formule de politesse, oublier le numéro ou les destinataires, traiter plusieurs sujets dans une même note, ou donner un ordre par une simple note d'information.",
+      "## La méthode, pas à pas",
+      "- 1. Demandez-vous s'il s'agit d'une consigne à appliquer (note de service) ou d'une information à porter à la connaissance (note d'information).",
+      "- 2. Identifiez l'émetteur (nom et fonction) et les destinataires précis.",
+      "- 3. Posez les mentions : timbre, numéro, lieu et date, titre du document, destinataires, objet.",
+      "- 4. Rédigez une courte introduction qui situe la question, puis les consignes ou informations, une idée par paragraphe.",
+      "- 5. Indiquez la date d'effet et, si utile, la personne à contacter.",
+      "- 6. Terminez par la signature (fonction, prénoms et nom), sans formule de politesse."
+     ],
+     "fond": [
+      "## Notion 1 : deux documents internes, deux fonctions",
+      "La note de service est un document interne par lequel la hiérarchie donne aux agents des instructions qui les concernent : elle a un caractère obligatoire. La note d'information transmet une information : elle n'a pas de caractère obligatoire et peut circuler dans tous les sens, de la direction vers les agents, entre services ou vers le haut.",
+      "Pourquoi cette distinction ? L'agent doit savoir immédiatement s'il doit agir ou seulement prendre connaissance. Un ordre glissé dans une note d'information risque de ne pas être appliqué ; une information présentée comme un ordre crée une obligation inutile.",
+      "~ « À compter du lundi 3 novembre, le service courrier ouvrira de 7 h 30 à 15 h 30. » Il y a une consigne à appliquer : c'est une note de service. « Le service informatique installera un nouveau logiciel de messagerie la semaine prochaine. » Il n'y a rien à faire : c'est une note d'information.",
+      "? Le directeur veut rappeler aux agents l'obligation de badger à l'entrée. Quel document choisir ? || Une note de service : il s'agit d'une consigne obligatoire émanant de la hiérarchie. Une note d'information ne conviendrait pas, puisqu'elle n'a pas de caractère obligatoire.",
+      "## Notion 2 : les mentions",
+      "La note porte : le timbre du service émetteur ; un numéro ; le lieu et la date ; le titre (« NOTE DE SERVICE » ou « NOTE D'INFORMATION ») ; les destinataires (« À l'ensemble du personnel », « Aux chefs de service ») ; l'objet, mis en évidence ; le texte ; la signature avec la fonction, les prénoms et le nom du signataire.",
+      "Pourquoi tant de mentions ? La note est archivée et peut être produite plus tard, par exemple lors d'un entretien ou d'une procédure : elle doit dire qui a ordonné quoi, à qui et depuis quand.",
+      "! Ni formule d'appel (« Monsieur, ») ni formule de politesse finale : la note s'adresse à un groupe et va droit au but. C'est la différence la plus visible avec la lettre administrative étudiée au niveau précédent.",
+      "## Notion 3 : la rédaction",
+      "Le texte traite un seul sujet. Il commence par une courte introduction qui situe le problème ou rappelle le texte appliqué, puis énonce les consignes avec précision : qui fait quoi, où, quand, comment. Le style est clair, concis et impersonnel : « Il est rappelé que… », « Les agents sont invités à… », « L'ensemble du personnel est informé que… ».",
+      "Pourquoi l'impersonnel ? La note exprime la décision du service, non l'opinion de celui qui écrit ; elle doit être comprise et appliquée de la même manière par tous.",
+      "~ Exemple rédigé et commenté. « NOTE DE SERVICE N° 012/DRH » : titre et numéro rendent la note identifiable et classable. « Destinataires : l'ensemble du personnel » : le public est précis. « Objet : nouveaux horaires du service courrier » : un seul sujet, annoncé. « En vue d'améliorer l'accueil des usagers, les horaires du service courrier sont modifiés comme suit à compter du lundi 3 novembre 2026 » : l'introduction donne le motif et la date d'effet. « Ouverture : de 7 h 30 à 15 h 30, du lundi au vendredi » : la consigne est précise. « Les chefs de service veilleront à la stricte application de la présente note » : la responsabilité de l'exécution est fixée. Enfin, « Le Directeur des ressources humaines », prénoms et nom, sans formule de politesse.",
+      "? Corrigez cette fin de note de service : « En vous remerciant de votre compréhension, je vous prie d'agréer, Mesdames et Messieurs, l'expression de mes salutations distinguées. » || Il faut la supprimer : la note de service ne comporte ni formule d'appel ni formule de politesse. On termine par une phrase utile, par exemple « Les chefs de service veilleront à l'application de la présente note », puis par la signature (fonction, prénoms et nom).",
+      "## Notion 4 : la diffusion et le suivi",
+      "La note est diffusée par affichage, par courriel ou sur papier, selon les usages du service. Elle peut indiquer en bas le nom d'un responsable à contacter pour toute question.",
+      "Pourquoi y penser ? Une consigne que personne n'a lue ne sera pas appliquée : le mode de diffusion fait partie de l'efficacité de la note.",
+      "! Une note par sujet : si le directeur veut à la fois changer des horaires et annoncer une formation, il rédige deux notes. Mélanger les sujets nuit au classement comme à l'application.",
+      "? Un chef de bureau veut informer son directeur qu'une panne a retardé l'envoi du courrier. Note de service ou note d'information ? || Une note d'information : elle remonte vers le supérieur pour l'informer, sans rien ordonner. La note de service, qui exprime une instruction de la hiérarchie, ne peut pas être adressée par un subordonné à son supérieur."
+     ],
+     "retenir": [
+      "Note de service : instruction interne de la hiérarchie aux agents, à caractère obligatoire.",
+      "Note d'information : elle informe, sans caractère obligatoire, et peut circuler dans tous les sens.",
+      "Mentions : timbre, numéro, lieu et date, titre, destinataires, objet, texte, signature avec fonction, prénoms et nom.",
+      "Une note ne comporte ni formule d'appel ni formule de politesse.",
+      "Une note traite un seul sujet, annoncé dans l'objet.",
+      "Style clair, concis et impersonnel : « Il est rappelé que… », « Les agents sont invités à… ».",
+      "Un subordonné n'adresse pas de note de service à son supérieur : il l'informe par une note d'information."
+     ],
+     "exo": {
+      "tag": "niv-rd03",
+      "n": 12,
+      "ecrit": "redac"
+     },
+     "sources": [
+      {
+       "t": "Weka – Glossaire : note de service dans la fonction publique",
+       "u": "https://www.weka.fr/glossaire/?p=591"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "opaj",
+     "src": "original",
+     "ref": "Entraînement · 22 oct. 2026",
+     "t": "« La Côte d'Ivoire est un État unitaire décentralisé dont la souveraineté appartient au peuple. » Expliquez et discutez cette affirmation à la lumière de la Constitution du 8 novembre 2016.",
+     "plan": [
+      "Introduction : définir l'État (territoire, population, pouvoir souverain), l'État unitaire et la décentralisation ; rappeler l'adoption de la Constitution par le référendum du 30 octobre 2016 ; problématique : comment la Constitution concilie-t-elle l'unité de l'État, l'autonomie locale et la souveraineté du peuple ?",
+      "I. Un État un et indivisible au service de la souveraineté populaire : A. Une République une et indivisible, laïque, démocratique et sociale (article 49), protégée par l'article 178 ; B. Une souveraineté qui appartient au peuple (article 50), exercée par référendum et par des représentants élus (articles 51 et 52).",
+      "II. Une unité aménagée par la décentralisation et dominée par l'exécutif : A. Des collectivités territoriales, régions et communes (article 170), autonomes mais non indépendantes ; B. Un pouvoir concentré autour du Président, qui conduit la politique de la Nation (articles 64, 70 et 83).",
+      "Conclusion : l'unité de l'État et la souveraineté du peuple sont garanties, mais leur équilibre dépend de la vitalité des collectivités et du contrôle exercé par les représentants élus ; ouverture sur le rôle du Sénat (article 87)."
+     ]
+    }
+   ]
   }
  ]
 }
