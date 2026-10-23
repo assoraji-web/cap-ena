@@ -16318,6 +16318,1316 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-23",
+   "questions": [
+    {
+     "id": "n20261023-dp02-01",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Selon l'article 14 du Code pénal ivoirien de 2019, le juge peut-il punir un fait que la loi ne définit pas comme une infraction ?",
+     "o": [
+      "Oui, si le fait trouble gravement l'ordre public",
+      "Oui, si le ministère public le demande",
+      "Oui, s'il applique une peine légère",
+      "Non, le juge ne peut qualifier d'infraction et punir qu'un fait légalement défini et puni"
+     ],
+     "a": 3,
+     "e": "L'article 14 dispose que le juge ne peut qualifier d'infraction et punir un fait qui n'est pas légalement défini et puni comme tel : c'est le principe de légalité.",
+     "ed": [
+      "Le trouble à l'ordre public ne remplace pas le texte : sans incrimination légale, aucun fait n'est punissable.",
+      "Le ministère public poursuit, mais il ne peut pas créer d'infraction : seule la loi en crée.",
+      "La légèreté de la peine n'y change rien : aucune peine, même légère, sans texte qui la prévoit.",
+      null
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-02",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Que dispose l'article 15 du Code pénal ivoirien ?",
+     "o": [
+      "La loi pénale est d'interprétation stricte.",
+      "La loi pénale s'interprète selon l'équité.",
+      "La loi pénale s'interprète toujours en faveur de la victime.",
+      "Le juge complète la loi pénale par analogie."
+     ],
+     "a": 0,
+     "e": "L'article 15 énonce : « La loi pénale est d'interprétation stricte. » Le juge applique le texte dans ses termes, sans l'étendre à des cas qu'il ne vise pas.",
+     "ed": [
+      null,
+      "L'équité n'est pas un critère d'interprétation de la loi pénale : le Code exige une interprétation stricte.",
+      "Le Code pénal ne pose aucune règle d'interprétation en faveur de la victime ; il impose l'interprétation stricte.",
+      "C'est l'inverse : l'article 16 interdit l'application par analogie d'un texte pénal à un fait qu'il n'a pas prévu."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-03",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Selon l'article 3 du Code pénal ivoirien, une infraction est un crime lorsqu'elle est passible d'une peine privative de liberté :",
+     "o": [
+      "supérieure à deux mois",
+      "perpétuelle ou temporaire supérieure à dix ans",
+      "supérieure à cinq ans",
+      "d'au moins un an"
+     ],
+     "a": 1,
+     "e": "L'article 3 classe en crime l'infraction passible d'une peine privative de liberté perpétuelle ou temporaire supérieure à dix ans.",
+     "ed": [
+      "Au-delà de deux mois et jusqu'à dix ans, l'infraction est un délit, non un crime.",
+      null,
+      "Une peine de cinq ans relève du délit : le seuil du crime est une peine supérieure à dix ans.",
+      "Une peine d'un an relève du délit, puisqu'elle est comprise entre plus de deux mois et dix ans."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-04",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Quel montant d'amende sert de seuil, dans l'article 3 du Code pénal ivoirien, entre le délit et la contravention ?",
+     "o": [
+      "100 000 francs",
+      "500 000 francs",
+      "1 000 000 de francs",
+      "360 000 francs"
+     ],
+     "a": 3,
+     "e": "Selon l'article 3, le délit est passible d'une amende supérieure à 360 000 francs ; la contravention, d'une amende inférieure ou égale à 360 000 francs.",
+     "ed": [
+      "Le Code ne retient pas 100 000 francs : le seuil fixé par l'article 3 est 360 000 francs.",
+      "500 000 francs n'est pas le seuil légal ; l'article 3 retient 360 000 francs.",
+      "Un million de francs n'est pas le seuil de l'article 3, qui retient 360 000 francs.",
+      null
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-05",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Un texte punit un fait de un à cinq ans d'emprisonnement. Selon l'article 3 du Code pénal ivoirien, ce fait est :",
+     "o": [
+      "un délit",
+      "un crime",
+      "une contravention",
+      "une faute civile"
+     ],
+     "a": 0,
+     "e": "Cinq ans d'emprisonnement est une peine supérieure à deux mois et inférieure ou égale à dix ans : l'article 3 la classe dans les délits.",
+     "ed": [
+      null,
+      "Le crime suppose une peine perpétuelle ou supérieure à dix ans ; cinq ans n'atteint pas ce seuil.",
+      "La contravention suppose une peine privative de liberté de deux mois au plus ; cinq ans dépasse ce seuil.",
+      "Un fait puni d'emprisonnement par la loi pénale est une infraction, non une simple faute civile."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-06",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Un fait est commis sous une loi qui le punit de trois ans. Avant tout jugement définitif, une loi nouvelle le punit d'un an au plus. Quelle loi le juge applique-t-il ?",
+     "o": [
+      "La loi ancienne, en vertu de la non-rétroactivité",
+      "La loi nouvelle, parce qu'elle est moins sévère",
+      "Celle que choisit la victime",
+      "Aucune, les poursuites s'éteignent"
+     ],
+     "a": 1,
+     "e": "L'article 24 dispose que la disposition pénale nouvelle s'applique aux infractions qui n'ont pas fait l'objet d'une condamnation devenue définitive si elle est moins sévère que l'ancienne.",
+     "ed": [
+      "La non-rétroactivité ne vaut que pour la loi plus sévère ; la loi plus douce s'applique aux faits non définitivement jugés.",
+      null,
+      "La victime ne choisit jamais la loi pénale applicable : la règle de conflit est fixée par l'article 24.",
+      "Les poursuites ne s'éteignent que si la loi nouvelle supprime l'infraction (article 23) ; ici elle réduit seulement la peine."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-07",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Un fait est commis en janvier. En avril, une loi nouvelle aggrave la peine encourue pour ce fait. Le jugement a lieu en juin. Quelle loi s'applique ?",
+     "o": [
+      "La loi nouvelle, en vigueur au jour du jugement",
+      "La plus sévère des deux",
+      "La loi ancienne",
+      "Le juge applique une moyenne des deux peines"
+     ],
+     "a": 2,
+     "e": "Selon l'article 24, lorsque la disposition nouvelle est plus sévère, les infractions commises avant son entrée en vigueur continuent à être jugées conformément à la loi ancienne.",
+     "ed": [
+      "La date du jugement ne compte pas pour une loi plus sévère : seule la loi en vigueur au moment des faits peut s'appliquer.",
+      "Appliquer la plus sévère violerait la non-rétroactivité de la loi pénale plus sévère posée par l'article 24.",
+      null,
+      "Aucun texte ne permet de combiner deux lois : le juge applique une seule loi, ici l'ancienne."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-08",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Un texte pénal vise expressément un fait A. Le procureur veut l'appliquer à un fait B voisin, que le texte ne prévoit pas. Que dit le Code pénal ivoirien ?",
+     "o": [
+      "C'est permis si le fait B est aussi grave que le fait A",
+      "C'est permis si le juge motive sa décision",
+      "C'est permis pour les seules contraventions",
+      "C'est interdit : l'application par analogie d'une disposition pénale à un fait non prévu est prohibée"
+     ],
+     "a": 3,
+     "e": "L'article 16 dispose que la loi pénale est d'application restrictive et que l'application par analogie d'une disposition pénale à un fait qu'elle n'a pas prévu est interdite.",
+     "ed": [
+      "La gravité comparable ne permet pas d'étendre le texte : l'analogie est interdite quelle que soit la gravité.",
+      "La motivation ne rend pas licite ce que l'article 16 interdit.",
+      "L'interdiction de l'analogie vaut pour toutes les infractions, contraventions comprises.",
+      null
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-09",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Yao purge une peine d'emprisonnement prononcée par une condamnation définitive. Une loi nouvelle supprime l'infraction pour laquelle il a été condamné. Selon l'article 23 du Code pénal ivoirien :",
+     "o": [
+      "il est mis fin à l'exécution de sa peine",
+      "il purge sa peine jusqu'au bout, car sa condamnation est définitive",
+      "sa peine est réduite de moitié",
+      "il doit demander une grâce présidentielle"
+     ],
+     "a": 0,
+     "e": "L'article 23 prévoit que, si des peines ont été prononcées pour un fait qui ne constitue plus une infraction, il est mis fin à leur exécution, sauf l'internement dans une maison de santé et la confiscation mesure de police.",
+     "ed": [
+      null,
+      "Le caractère définitif de la condamnation ne fait pas obstacle à l'article 23, qui met fin à l'exécution des peines.",
+      "Le Code ne prévoit pas de réduction de moitié : l'exécution de la peine prend fin.",
+      "Aucune grâce n'est nécessaire : l'effet résulte directement de l'article 23."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-10",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Une infraction est punie de deux mois d'emprisonnement au plus et de 360 000 francs d'amende au plus. Selon l'article 3 du Code pénal ivoirien, c'est :",
+     "o": [
+      "un délit, car l'amende atteint 360 000 francs",
+      "un crime",
+      "une contravention",
+      "un délit, car il y a de l'emprisonnement"
+     ],
+     "a": 2,
+     "e": "L'article 3 classe en contravention l'infraction passible d'une peine privative de liberté inférieure ou égale à deux mois et d'une amende inférieure ou égale à 360 000 francs : les seuils sont atteints sans être dépassés.",
+     "ed": [
+      "Le délit suppose une amende supérieure à 360 000 francs ; une amende égale à ce montant relève de la contravention.",
+      "Le crime suppose une peine perpétuelle ou supérieure à dix ans, très loin de deux mois.",
+      null,
+      "L'emprisonnement n'exclut pas la contravention : jusqu'à deux mois inclus, il relève de la contravention."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-11",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Une loi nouvelle crée une mesure de sûreté pour un type d'infraction. S'applique-t-elle à une infraction commise avant son entrée en vigueur et non encore définitivement jugée ?",
+     "o": [
+      "Non, aucune loi nouvelle ne s'applique à des faits antérieurs",
+      "Oui, la loi prévoyant une mesure de sûreté est immédiatement applicable",
+      "Seulement si l'auteur y consent",
+      "Seulement si l'infraction est une contravention"
+     ],
+     "a": 1,
+     "e": "L'article 24 dispose que toute loi prévoyant une mesure de sûreté est immédiatement applicable aux infractions qui n'ont pas fait l'objet d'une condamnation devenue définitive.",
+     "ed": [
+      "C'est faux : la loi plus douce et la loi prévoyant une mesure de sûreté s'appliquent aux faits antérieurs non définitivement jugés.",
+      null,
+      "Le consentement de l'auteur n'est pas une condition posée par l'article 24.",
+      "L'article 24 ne distingue pas selon la catégorie de l'infraction."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-dp02-12",
+     "m": "dpen",
+     "tag": "niv-dp02",
+     "q": "Un texte interdit une activité pendant une période déterminée. Après la fin de cette période, peut-on encore poursuivre une infraction commise pendant celle-ci ?",
+     "o": [
+      "Non, l'infraction a disparu avec la fin de la période",
+      "Seulement si la peine encourue est criminelle",
+      "Oui, les poursuites sont valablement engagées ou continuées malgré la fin de la période",
+      "Seulement si l'auteur est en récidive"
+     ],
+     "a": 2,
+     "e": "L'article 23 prévoit qu'en cas d'infraction à une prohibition ou une obligation limitée à une période déterminée, les poursuites sont valablement engagées ou continuées et les peines exécutées, nonobstant la fin de cette période.",
+     "ed": [
+      "La fin de la période n'équivaut pas à une suppression de l'infraction : l'article 23 maintient expressément les poursuites.",
+      "L'article 23 ne distingue pas selon la gravité de la peine encourue.",
+      null,
+      "La récidive n'est pas une condition : les poursuites restent valables pour tout auteur."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261023-cm03-01",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Combien d'organes principaux l'article 7 de la Charte des Nations Unies crée-t-il ?",
+     "o": [
+      "Quatre",
+      "Cinq",
+      "Six",
+      "Sept"
+     ],
+     "a": 2,
+     "e": "L'article 7 crée six organes principaux : l'Assemblée générale, le Conseil de sécurité, le Conseil économique et social, le Conseil de tutelle, la Cour internationale de Justice et le Secrétariat.",
+     "ed": [
+      "Quatre est trop peu : la Charte énumère six organes principaux, dont la CIJ et le Secrétariat.",
+      "Cinq est le nombre de membres permanents du Conseil de sécurité, pas celui des organes principaux.",
+      null,
+      "La Charte n'en crée pas sept : la liste de l'article 7 compte six organes."
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – Charte des Nations Unies (texte intégral)",
+      "u": "https://www.icj-cij.org/fr/charte-des-nations-unies"
+     }
+    },
+    {
+     "id": "n20261023-cm03-02",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Pour quelle durée les membres non permanents du Conseil de sécurité sont-ils élus ?",
+     "o": [
+      "Deux ans",
+      "Un an",
+      "Quatre ans",
+      "Cinq ans"
+     ],
+     "a": 0,
+     "e": "Selon l'article 23 § 2 de la Charte, les membres non permanents du Conseil de sécurité sont élus pour une période de deux ans et ne sont pas immédiatement rééligibles.",
+     "ed": [
+      null,
+      "Un mandat d'un an n'a été prévu qu'à titre transitoire lors de l'élargissement à quinze membres ; la règle est de deux ans.",
+      "Quatre ans ne correspond à aucun mandat prévu par l'article 23.",
+      "Cinq ans n'est pas la durée prévue par l'article 23, qui fixe deux ans."
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – Charte des Nations Unies (texte intégral)",
+      "u": "https://www.icj-cij.org/fr/charte-des-nations-unies"
+     }
+    },
+    {
+     "id": "n20261023-cm03-03",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Selon l'article 97 de la Charte, comment le Secrétaire général de l'ONU est-il désigné ?",
+     "o": [
+      "Il est élu par le Conseil de sécurité seul",
+      "Il est nommé par l'Assemblée générale sur recommandation du Conseil de sécurité",
+      "Il est élu par la Cour internationale de Justice",
+      "Il est désigné à tour de rôle par les membres permanents"
+     ],
+     "a": 1,
+     "e": "L'article 97 dispose que le Secrétaire général est nommé par l'Assemblée générale sur recommandation du Conseil de sécurité ; il est le plus haut fonctionnaire de l'Organisation.",
+     "ed": [
+      "Le Conseil ne fait que recommander : la nomination revient à l'Assemblée générale.",
+      null,
+      "La CIJ est un organe judiciaire ; elle ne désigne pas le Secrétaire général.",
+      "Aucune rotation entre membres permanents n'est prévue par la Charte."
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – Charte des Nations Unies (texte intégral)",
+      "u": "https://www.icj-cij.org/fr/charte-des-nations-unies"
+     }
+    },
+    {
+     "id": "n20261023-cm03-04",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Où siège la Cour internationale de Justice, organe judiciaire principal des Nations Unies ?",
+     "o": [
+      "À Genève, au Palais des Nations",
+      "À New York, au siège de l'ONU",
+      "À Strasbourg",
+      "À La Haye, au Palais de la Paix"
+     ],
+     "a": 3,
+     "e": "La Cour internationale de Justice, composée de quinze juges élus pour neuf ans, a son siège au Palais de la Paix, à La Haye (Pays-Bas).",
+     "ed": [
+      "Genève n'est pas le siège de la CIJ : la Cour siège au Palais de la Paix, à La Haye.",
+      "New York n'est pas le siège de la CIJ : la Cour siège à La Haye, aux Pays-Bas.",
+      "Strasbourg n'est pas le siège de la CIJ : la Cour siège au Palais de la Paix, à La Haye.",
+      null
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – L'Assemblée générale et le Conseil de sécurité élisent cinq membres de la Cour",
+      "u": "https://icj-cij.org/fr/node/203244"
+     }
+    },
+    {
+     "id": "n20261023-cm03-05",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Combien de voix affirmatives faut-il au Conseil de sécurité pour adopter une décision sur une question de procédure ?",
+     "o": [
+      "Sept",
+      "Huit",
+      "Neuf",
+      "Quinze"
+     ],
+     "a": 2,
+     "e": "L'article 27 § 2 de la Charte prévoit que les décisions sur des questions de procédure sont prises par un vote affirmatif de neuf membres, sans exigence d'unanimité des permanents.",
+     "ed": [
+      "Sept voix était la majorité requise avant l'amendement entré en vigueur en 1965, quand le Conseil comptait onze membres.",
+      "Huit voix ne suffisent pas : la Charte exige neuf votes affirmatifs.",
+      null,
+      "L'unanimité des quinze membres n'est jamais exigée par l'article 27."
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – Charte des Nations Unies (texte intégral)",
+      "u": "https://www.icj-cij.org/fr/charte-des-nations-unies"
+     }
+    },
+    {
+     "id": "n20261023-cm03-06",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Un projet de résolution de fond obtient 13 voix pour et 2 voix contre au Conseil de sécurité, dont celle de la France. Quel est le résultat ?",
+     "o": [
+      "Il est rejeté, car un membre permanent a voté contre",
+      "Il est adopté, car il réunit plus de neuf voix",
+      "Il est adopté, mais devient une simple recommandation",
+      "Il est renvoyé de droit à l'Assemblée générale pour un vote à la majorité des deux tiers"
+     ],
+     "a": 0,
+     "e": "Sur les questions de fond, l'article 27 § 3 exige neuf voix comprenant celles de tous les membres permanents : le vote contraire de la France, membre permanent, vaut veto.",
+     "ed": [
+      null,
+      "Neuf voix suffisent seulement si elles comprennent celles de tous les membres permanents ; ce n'est pas le cas ici.",
+      "Un projet rejeté ne produit aucun effet, pas même celui d'une recommandation.",
+      "La Charte ne prévoit aucun renvoi automatique à l'Assemblée générale après un veto ; la résolution 76/262 n'impose qu'un débat."
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – Charte des Nations Unies (texte intégral)",
+      "u": "https://www.icj-cij.org/fr/charte-des-nations-unies"
+     }
+    },
+    {
+     "id": "n20261023-cm03-07",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Laquelle de ces mesures relève de l'article 42 de la Charte, et non de l'article 41 ?",
+     "o": [
+      "L'interruption des relations économiques",
+      "La rupture des relations diplomatiques",
+      "L'interruption des communications aériennes et postales",
+      "Un blocus exécuté par des forces navales"
+     ],
+     "a": 3,
+     "e": "L'article 42 permet au Conseil d'entreprendre une action au moyen de forces aériennes, navales ou terrestres, y compris des mesures de blocus, lorsque les mesures de l'article 41 sont inadéquates.",
+     "ed": [
+      "L'interruption des relations économiques est expressément citée par l'article 41, parmi les mesures sans emploi de la force.",
+      "La rupture des relations diplomatiques figure à l'article 41.",
+      "L'interruption des communications aériennes et postales est une mesure de l'article 41, sans emploi de la force armée.",
+      null
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – Charte des Nations Unies (texte intégral)",
+      "u": "https://www.icj-cij.org/fr/charte-des-nations-unies"
+     }
+    },
+    {
+     "id": "n20261023-cm03-08",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Selon l'article 4 § 2 de la Charte, comment un nouvel État est-il admis comme Membre de l'ONU ?",
+     "o": [
+      "Par décision du Secrétaire général",
+      "Par décision de l'Assemblée générale sur recommandation du Conseil de sécurité",
+      "Par décision du Conseil de sécurité seul",
+      "Par simple dépôt d'une déclaration d'adhésion"
+     ],
+     "a": 1,
+     "e": "L'article 4 § 2 dispose que l'admission se fait par décision de l'Assemblée générale sur recommandation du Conseil de sécurité ; les deux organes interviennent.",
+     "ed": [
+      "Le Secrétaire général n'a pas de pouvoir de décision sur l'admission des Membres.",
+      null,
+      "Le Conseil recommande seulement ; la décision appartient à l'Assemblée générale.",
+      "L'admission n'est pas automatique : elle suppose une recommandation du Conseil et une décision de l'Assemblée."
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – Charte des Nations Unies (texte intégral)",
+      "u": "https://www.icj-cij.org/fr/charte-des-nations-unies"
+     }
+    },
+    {
+     "id": "n20261023-cm03-09",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Quelles sont les dates de l'ONUCI, l'opération des Nations Unies en Côte d'Ivoire ?",
+     "o": [
+      "Du 4 avril 2004 au 30 juin 2017",
+      "Du 7 août 1960 au 31 décembre 1965",
+      "Du 19 septembre 2002 au 11 avril 2011",
+      "Du 1er janvier 2010 au 31 décembre 2020"
+     ],
+     "a": 0,
+     "e": "Selon le site de l'ONUCI, l'opération a été créée le 4 avril 2004 et a terminé avec succès son mandat le 30 juin 2017.",
+     "ed": [
+      null,
+      "Le 7 août 1960 est la date de l'indépendance ivoirienne ; aucune opération de l'ONU n'était alors déployée en Côte d'Ivoire.",
+      "Ces dates ne sont pas celles de l'ONUCI, créée en 2004 et non en 2002, et restée bien après 2011.",
+      "L'ONUCI a commencé en 2004, bien avant 2010, et a pris fin en 2017."
+     ],
+     "src": {
+      "t": "ONUCI – L'ONUCI a terminé avec succès son mandat le 30 juin 2017",
+      "u": "https://onuci.unmissions.org/fr/node/33096"
+     }
+    },
+    {
+     "id": "n20261023-cm03-10",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Que réclame l'Afrique dans le consensus d'Ezulwini (2005) sur la réforme du Conseil de sécurité ?",
+     "o": [
+      "Un seul siège permanent sans droit de veto",
+      "La suppression pure et simple du droit de veto",
+      "Au moins deux sièges permanents avec droit de veto et cinq sièges non permanents",
+      "Trois sièges non permanents supplémentaires seulement"
+     ],
+     "a": 2,
+     "e": "Le consensus d'Ezulwini, position commune de l'Union africaine adoptée en 2005, demande au moins deux sièges permanents assortis du droit de veto et cinq sièges non permanents pour l'Afrique.",
+     "ed": [
+      "L'Afrique demande au moins deux sièges permanents, et avec le droit de veto tant qu'il existe.",
+      "Le consensus ne demande pas la suppression du veto ; il réclame ce droit pour les sièges africains.",
+      null,
+      "La demande porte aussi sur des sièges permanents, pas seulement sur des sièges non permanents."
+     ],
+     "src": {
+      "t": "Wikipedia – Ezulwini Consensus",
+      "u": "https://en.wikipedia.org/wiki/Ezulwini_Consensus"
+     }
+    },
+    {
+     "id": "n20261023-cm03-11",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Quel amendement à la Charte, entré en vigueur le 31 août 1965, a modifié le Conseil de sécurité ?",
+     "o": [
+      "Il a créé le droit de veto",
+      "Il a porté le nombre de ses membres de onze à quinze",
+      "Il a ajouté un sixième membre permanent",
+      "Il a porté le mandat des membres non permanents à trois ans"
+     ],
+     "a": 1,
+     "e": "Adopté le 17 décembre 1963 et entré en vigueur le 31 août 1965, l'amendement aux articles 23 et 27 a porté le Conseil de onze à quinze membres et la majorité de sept à neuf voix.",
+     "ed": [
+      "Le veto figure dans la Charte dès 1945 (article 27 § 3) ; l'amendement ne l'a pas créé.",
+      null,
+      "Le nombre de membres permanents est resté de cinq ; seuls les sièges non permanents ont augmenté.",
+      "Le mandat des membres non permanents est resté de deux ans."
+     ],
+     "src": {
+      "t": "Nations Unies – Amendments to Articles 23, 27, 61, 109 of the Charter",
+      "u": "https://www.un.org/en/node/125739"
+     }
+    },
+    {
+     "id": "n20261023-cm03-12",
+     "m": "cmc",
+     "tag": "niv-cm03",
+     "q": "Lequel des six organes principaux de l'ONU a suspendu ses activités le 1er novembre 1994 ?",
+     "o": [
+      "Le Conseil économique et social",
+      "Le Secrétariat",
+      "Le Conseil de sécurité",
+      "Le Conseil de tutelle"
+     ],
+     "a": 3,
+     "e": "Le Conseil de tutelle a suspendu ses activités le 1er novembre 1994, après l'indépendance des Palaos, dernier territoire sous tutelle : il était devenu « victime de son propre succès ».",
+     "ed": [
+      "L'ECOSOC fonctionne toujours et compte cinquante-quatre membres.",
+      "Le Secrétariat, dirigé par le Secrétaire général, fonctionne en permanence.",
+      "Le Conseil de sécurité exerce toujours la responsabilité principale du maintien de la paix.",
+      null
+     ],
+     "src": {
+      "t": "Archives des Nations Unies – 25e anniversaire de la suspension du Conseil de tutelle",
+      "u": "https://archives.un.org/node/998"
+     }
+    },
+    {
+     "id": "n20261023-mp03-01",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Dans l'acronyme POSDCORB de Luther Gulick, que désigne la lettre B ?",
+     "o": [
+      "Bureau",
+      "Budgeting, c'est-à-dire budgétiser",
+      "Business, c'est-à-dire les affaires",
+      "Benchmarking, c'est-à-dire comparer"
+     ],
+     "a": 1,
+     "e": "POSDCORB énumère Planning, Organizing, Staffing, Directing, Co-ordinating, Reporting et Budgeting : la dernière lettre désigne la fonction budgétaire du chef de l'exécutif.",
+     "ed": [
+      "Le bureau est un lieu ou une unité administrative, pas une fonction de POSDCORB.",
+      null,
+      "Gulick décrit le travail du chef de l'exécutif public ; les affaires commerciales ne figurent pas dans l'acronyme.",
+      "Le benchmarking n'appartient pas à POSDCORB ; la lettre B vise le budget."
+     ],
+     "src": {
+      "t": "Wikipedia – POSDCORB",
+      "u": "https://en.wikipedia.org/wiki/POSDCORB"
+     }
+    },
+    {
+     "id": "n20261023-mp03-02",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Quelle fonction du management consiste à comparer les résultats obtenus aux objectifs fixés, puis à corriger les écarts ?",
+     "o": [
+      "Planifier",
+      "Organiser",
+      "Diriger",
+      "Contrôler"
+     ],
+     "a": 3,
+     "e": "Contrôler, c'est mesurer les résultats, les comparer aux objectifs, analyser les écarts et prendre des mesures correctives ; c'est l'étape « Vérifier » du cycle PDCA.",
+     "ed": [
+      "Planifier consiste à fixer les objectifs et les moyens, avant l'action, non à mesurer les résultats.",
+      "Organiser consiste à répartir les tâches et à construire la structure.",
+      "Diriger consiste à donner des instructions, motiver et coordonner les agents.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261023-mp03-03",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Qui a proposé l'acronyme POSDCORB, et dans quel ouvrage collectif de 1937 ?",
+     "o": [
+      "Henri Fayol, dans « Administration industrielle et générale »",
+      "Max Weber, dans « Économie et société »",
+      "Luther Gulick, dans « Papers on the Science of Administration »",
+      "Peter Drucker, dans « The Practice of Management »"
+     ],
+     "a": 2,
+     "e": "Luther Gulick a présenté POSDCORB dans « Notes on the Theory of Organization », publié en 1937 dans « Papers on the Science of Administration », en adaptant l'analyse de Fayol.",
+     "ed": [
+      "Fayol a publié son ouvrage en 1916 et décrit cinq éléments, pas l'acronyme POSDCORB, qui est postérieur.",
+      "POSDCORB n'est pas de Max Weber : il a été proposé par Luther Gulick en 1937.",
+      null,
+      "Drucker a publié « The Practice of Management » en 1954 ; il est associé à la direction par objectifs, pas à POSDCORB."
+     ],
+     "src": {
+      "t": "Wikipedia – POSDCORB",
+      "u": "https://en.wikipedia.org/wiki/POSDCORB"
+     }
+    },
+    {
+     "id": "n20261023-mp03-04",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Que signifient les quatre lettres du cycle PDCA, appelé aussi roue de Deming ?",
+     "o": [
+      "Planifier, Faire, Vérifier, Agir",
+      "Prévoir, Diriger, Commander, Administrer",
+      "Programmer, Déléguer, Contrôler, Analyser",
+      "Planifier, Décider, Coordonner, Auditer"
+     ],
+     "a": 0,
+     "e": "PDCA signifie Plan, Do, Check, Act, soit Planifier, Faire, Vérifier, Agir : on teste une solution, on vérifie les résultats, puis on généralise ce qui fonctionne.",
+     "ed": [
+      null,
+      "Ces verbes ne correspondent pas au cycle PDCA ; « commander » vient de Fayol, pas de la roue de Deming.",
+      "Ce n'est pas la signification de PDCA : le D signifie Do, faire, et non déléguer.",
+      "Le cycle ne comporte ni « décider » ni « auditer » : D signifie faire, C vérifier, A agir."
+     ],
+     "src": {
+      "t": "Coursera – PDCA : le cycle Planifier-Faire-Vérifier-Agir",
+      "u": "https://coursera.org/fr-FR/articles/pdca"
+     }
+    },
+    {
+     "id": "n20261023-mp03-05",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "À quel auteur et à quel ouvrage de 1954 la direction par objectifs est-elle souvent attribuée ?",
+     "o": [
+      "Henri Fayol, « Administration industrielle et générale »",
+      "Peter Drucker, « The Practice of Management »",
+      "Luther Gulick, « Notes on the Theory of Organization »",
+      "George T. Doran, Management Review"
+     ],
+     "a": 1,
+     "e": "La direction par objectifs est souvent attribuée à Peter Drucker, dans son livre « The Practice of Management » publié en 1954.",
+     "ed": [
+      "L'ouvrage de Fayol date de 1916 et décrit les éléments de l'administration, pas la direction par objectifs.",
+      null,
+      "Le texte de Gulick date de 1937 et présente POSDCORB.",
+      "Doran a publié en novembre 1981 un article sur les objectifs SMART, pas un ouvrage de 1954."
+     ],
+     "src": {
+      "t": "RapidBI – History of SMART objectives (Doran, 1981 ; Drucker, 1954)",
+      "u": "https://rapidbi.com/history-of-smart-objectives/"
+     }
+    },
+    {
+     "id": "n20261023-mp03-06",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Un service devait traiter 2 400 dossiers dans l'année et en a traité 1 800. Quel est son taux de réalisation ?",
+     "o": [
+      "133 %",
+      "60 %",
+      "70 %",
+      "75 %"
+     ],
+     "a": 3,
+     "e": "Taux de réalisation = réalisé ÷ prévu × 100 = 1 800 ÷ 2 400 × 100 = 75 %. Vérification : 75 % de 2 400 font bien 1 800 dossiers.",
+     "ed": [
+      "133 % est le rapport inverse (prévu ÷ réalisé) : on divise toujours le réalisé par le prévu.",
+      "60 % ne correspond pas au calcul : 60 % de 2 400 ne font que 1 440 dossiers.",
+      "70 % de 2 400 font 1 680 dossiers, pas 1 800.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "1800/2400*100"
+    },
+    {
+     "id": "n20261023-mp03-07",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Une secrétaire reçoit chaque matin des priorités contradictoires de deux chefs de service. Quel principe de Fayol est méconnu ?",
+     "o": [
+      "L'unité de commandement",
+      "La rémunération",
+      "La stabilité du personnel",
+      "L'initiative"
+     ],
+     "a": 0,
+     "e": "L'unité de commandement veut qu'un agent ne reçoive d'ordres que d'un seul chef ; recevoir des ordres de deux chefs crée des conflits de priorités et des retards.",
+     "ed": [
+      null,
+      "La rémunération concerne le salaire de l'agent, pas le nombre de chefs dont il reçoit des ordres.",
+      "La stabilité du personnel vise la durée d'affectation des agents, pas la ligne de commandement.",
+      "L'initiative concerne la liberté de proposer et d'agir, pas l'origine des ordres reçus."
+     ],
+     "src": {
+      "t": "Wikipedia – Henri Fayol",
+      "u": "https://en.wikipedia.org/wiki/Henri_Fayol"
+     }
+    },
+    {
+     "id": "n20261023-mp03-08",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Lequel de ces objectifs respecte le mieux la grille SMART ?",
+     "o": [
+      "Améliorer l'accueil des usagers",
+      "Organiser trois réunions sur la qualité",
+      "Ramener de 15 à 5 jours ouvrables le délai moyen de délivrance d'un acte d'état civil d'ici le 31 décembre",
+      "Être le meilleur service de la région"
+     ],
+     "a": 2,
+     "e": "Cet objectif est spécifique (un acte), mesurable (le délai en jours), réaliste s'il est doté de moyens, et daté (31 décembre) : il remplit les critères SMART.",
+     "ed": [
+      "« Améliorer l'accueil » est vague : ni mesure, ni échéance.",
+      "Organiser des réunions est une activité, un moyen, et non un résultat à atteindre.",
+      null,
+      "« Être le meilleur » n'est ni mesurable ni daté."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261023-mp03-09",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "En combien de programmes budgétaires le projet de budget de l'État ivoirien pour 2020, premier en mode budget-programmes, était-il structuré ?",
+     "o": [
+      "35",
+      "149",
+      "54",
+      "200"
+     ],
+     "a": 1,
+     "e": "Selon le communiqué du Conseil des ministres du 2 octobre 2019, le projet de budget 2020 était structuré en 35 dotations et 149 programmes budgétaires.",
+     "ed": [
+      "35 est le nombre de dotations, non celui des programmes budgétaires.",
+      null,
+      "54 ne correspond à aucun chiffre du projet de budget 2020.",
+      "Le communiqué ne mentionne pas 200 programmes ; il en compte 149."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Communiqué du Conseil des ministres du 2 octobre 2019",
+      "u": "https://www.gouv.ci/uploads/publications/1570054269COMMUNIQUE-DU-CONSEIL-DES-MINISTRES-DU-MERCREDI-02-OCTOBRE-2019.pdf"
+     }
+    },
+    {
+     "id": "n20261023-mp03-10",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Un service a dépensé 3 000 000 F pour traiter 1 500 dossiers. Quel est le coût moyen d'un dossier ?",
+     "o": [
+      "500 F",
+      "1 500 F",
+      "2 000 F",
+      "4 500 F"
+     ],
+     "a": 2,
+     "e": "Coût moyen = dépense ÷ nombre de dossiers = 3 000 000 ÷ 1 500 = 2 000 F. Ce coût unitaire mesure l'efficience du service.",
+     "ed": [
+      "500 F supposerait 6 000 dossiers pour la même dépense.",
+      "1 500 F confond le nombre de dossiers avec le coût unitaire.",
+      null,
+      "4 500 F résulte d'une addition des deux nombres en milliers, ce qui n'a pas de sens."
+     ],
+     "verif": "calcul",
+     "calc": "3000000/1500"
+    },
+    {
+     "id": "n20261023-mp03-11",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Lequel de ces termes ne fait PAS partie des cinq éléments de l'administration décrits par Henri Fayol en 1916 ?",
+     "o": [
+      "Prévoir",
+      "Coordonner",
+      "Contrôler",
+      "Budgétiser"
+     ],
+     "a": 3,
+     "e": "Fayol décrit cinq éléments : prévoir, organiser, commander, coordonner et contrôler. Budgétiser (Budgeting) a été ajouté par Gulick dans POSDCORB en 1937.",
+     "ed": [
+      "Prévoir est le premier des cinq éléments de Fayol.",
+      "Coordonner fait partie des cinq éléments de Fayol.",
+      "Contrôler est le cinquième élément de Fayol.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Henri Fayol",
+      "u": "https://en.wikipedia.org/wiki/Henri_Fayol"
+     }
+    },
+    {
+     "id": "n20261023-mp03-12",
+     "m": "mop",
+     "tag": "niv-mp03",
+     "q": "Un chef de service réécrit l'organigramme, rédige les fiches de poste et confie l'enregistrement des dossiers à un agent unique. Quelle fonction exerce-t-il ?",
+     "o": [
+      "Contrôler",
+      "Organiser",
+      "Diriger",
+      "Planifier"
+     ],
+     "a": 1,
+     "e": "Organiser consiste à construire la structure : découper le travail, répartir les tâches entre les postes et fixer les liens hiérarchiques. Organigramme et fiches de poste en sont les outils.",
+     "ed": [
+      "Contrôler consiste à mesurer les résultats, non à répartir les tâches.",
+      null,
+      "Diriger consiste à animer, motiver et coordonner les personnes au quotidien.",
+      "Planifier consiste à fixer les objectifs et le calendrier, avant de répartir le travail."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261023-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "De quelle prison sud-africaine Nelson Mandela est-il libéré le 11 février 1990, après 27 ans de détention ?",
+     "o": [
+      "Robben Island",
+      "Victor Verster",
+      "Pollsmoor",
+      "Sun City"
+     ],
+     "a": 1,
+     "e": "Nelson Mandela est sorti le 11 février 1990 de la prison Victor Verster, près de Paarl, après 27 années de détention.",
+     "ed": [
+      "Robben Island n'est pas la prison d'où Mandela est sorti le 11 février 1990 : sa libération a eu lieu à la prison Victor Verster.",
+      null,
+      "Pollsmoor n'est pas le lieu de la libération du 11 février 1990, qui s'est faite à la prison Victor Verster.",
+      "Sun City n'est pas la prison d'où Mandela a été libéré ; la source désigne la prison Victor Verster."
+     ],
+     "src": {
+      "t": "IISG (Institut international d'histoire sociale) – Mandela released, 11 February 1990",
+      "u": "https://archief.socialhistory.org/en/today/mandela-released"
+     }
+    },
+    {
+     "id": "n20261023-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Investie le 16 janvier 2006, qui fut la première femme élue chef d'État en Afrique ?",
+     "o": [
+      "Joyce Banda, au Malawi",
+      "Sahle-Work Zewde, en Éthiopie",
+      "Ameenah Gurib-Fakim, à Maurice",
+      "Ellen Johnson Sirleaf, au Liberia"
+     ],
+     "a": 3,
+     "e": "Ellen Johnson Sirleaf a été investie présidente du Liberia le 16 janvier 2006 ; elle est la première femme élue chef d'État en Afrique.",
+     "ed": [
+      "Ce n'est pas Joyce Banda : la première femme élue chef d'État en Afrique est Ellen Johnson Sirleaf, investie au Liberia en janvier 2006.",
+      "Ce n'est pas Sahle-Work Zewde : le titre de première femme élue chef d'État en Afrique revient à Ellen Johnson Sirleaf (Liberia, 2006).",
+      "Ce n'est pas Ameenah Gurib-Fakim : la première femme élue chef d'État en Afrique est Ellen Johnson Sirleaf, présidente du Liberia.",
+      null
+     ],
+     "src": {
+      "t": "South African History Online – Ellen Johnson-Sirleaf becomes first woman to be Head of State in Africa",
+      "u": "https://sahistory.org.za/dated-event/ellen-johnson-sirleaf-becomes-first-woman-be-head-state-africa"
+     }
+    },
+    {
+     "id": "n20261023-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En 2004, la Kényane Wangari Maathai devient la première Africaine lauréate du prix Nobel de la paix. Quel mouvement avait-elle fondé ?",
+     "o": [
+      "Le Mouvement de la ceinture verte (Green Belt Movement)",
+      "Le Mouvement des non-alignés",
+      "Le Mouvement pour la paix en Afrique de l'Est",
+      "Greenpeace Afrique"
+     ],
+     "a": 0,
+     "e": "Le comité Nobel a distingué Wangari Maathai pour sa contribution au développement durable, à la démocratie et à la paix ; elle avait fondé le Green Belt Movement, connu pour ses plantations d'arbres.",
+     "ed": [
+      null,
+      "Le Mouvement des non-alignés est un regroupement d'États, pas le mouvement fondé par Wangari Maathai.",
+      "Ce mouvement n'est pas celui que le comité Nobel associe à Wangari Maathai, fondatrice du Green Belt Movement.",
+      "Wangari Maathai n'a pas fondé Greenpeace : le communiqué du comité Nobel cite le Green Belt Movement."
+     ],
+     "src": {
+      "t": "Nobelprize.org – The Nobel Peace Prize 2004, press release",
+      "u": "https://www.nobelprize.org/prizes/peace/2004/press-release/"
+     }
+    },
+    {
+     "id": "n20261023-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "De quelle fédération Singapour s'est-il séparé en devenant indépendant le 9 août 1965 ?",
+     "o": [
+      "L'Indonésie",
+      "La Fédération de Malaisie",
+      "L'Union indienne",
+      "La Thaïlande"
+     ],
+     "a": 1,
+     "e": "La proclamation du 9 août 1965, signée par le Premier ministre Lee Kuan Yew, déclare que Singapour cesse d'être un État de la Malaisie et devient un État indépendant et souverain.",
+     "ed": [
+      "Singapour n'a jamais fait partie de l'Indonésie ; il a quitté la Malaisie.",
+      null,
+      "Singapour n'a jamais appartenu à l'Union indienne.",
+      "La Thaïlande n'est pas une fédération et Singapour n'en a jamais fait partie."
+     ],
+     "src": {
+      "t": "Roots.gov.sg (National Heritage Board) – Proclamation of the Republic of Singapore, 9 August 1965",
+      "u": "https://www.roots.gov.sg/en/stories-landing/stories/the-singapore-story-through-60-objects/self-government-and-independence/proclaimation/story"
+     }
+    },
+    {
+     "id": "n20261023-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville le traité instituant l'Union du Maghreb arabe a-t-il été signé le 17 février 1989 ?",
+     "o": [
+      "Alger",
+      "Tunis",
+      "Marrakech",
+      "Nouakchott"
+     ],
+     "a": 2,
+     "e": "Le traité fondateur de l'Union du Maghreb arabe a été signé le 17 février 1989 à Marrakech par le Maroc, l'Algérie, la Tunisie, la Libye et la Mauritanie.",
+     "ed": [
+      "Alger est la capitale d'un des cinq membres, mais le traité n'y a pas été signé.",
+      "Tunis n'est pas le lieu de signature : le traité a été signé à Marrakech.",
+      null,
+      "Nouakchott, capitale de la Mauritanie, n'est pas le lieu de signature du traité."
+     ],
+     "src": {
+      "t": "Bladi.net – UMA, 23 ans déjà",
+      "u": "https://www.bladi.net/uma-23-ans-deja.html"
+     }
+    },
+    {
+     "id": "n20261023-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "À quelle date la Côte d'Ivoire a-t-elle été admise comme Membre de l'Organisation des Nations Unies ?",
+     "o": [
+      "Le 7 août 1960",
+      "Le 24 octobre 1945",
+      "Le 4 avril 2004",
+      "Le 20 septembre 1960"
+     ],
+     "a": 3,
+     "e": "Selon la liste des États Membres tenue par la Cour internationale de Justice, la Côte d'Ivoire a été admise à l'ONU le 20 septembre 1960, quelques semaines après son indépendance.",
+     "ed": [
+      "Le 7 août 1960 est la date de l'indépendance ; l'admission à l'ONU suit le 20 septembre 1960.",
+      "Le 24 octobre 1945 est la date d'entrée en vigueur de la Charte ; la Côte d'Ivoire n'était pas encore indépendante.",
+      "Le 4 avril 2004 est la date de création de l'ONUCI, l'opération de l'ONU en Côte d'Ivoire, pas celle de l'admission du pays.",
+      null
+     ],
+     "src": {
+      "t": "Cour internationale de Justice – États admis à ester devant la Cour (dates d'admission à l'ONU)",
+      "u": "https://www.icj-cij.org/fr/etats-admis-a-ester"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261023cm03",
+     "niv": "cm03",
+     "m": "cmc",
+     "titre": "L'Organisation des Nations unies et le multilatéralisme",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez citer les six organes principaux de l'ONU, expliquer la composition et le vote du Conseil de sécurité, et distinguer le chapitre VI du chapitre VII de la Charte.",
+      "= Vous saurez aussi bâtir une argumentation sur la réforme du Conseil de sécurité, avec la position africaine et des exemples datés.",
+      "## Ce que demande l'épreuve",
+      "En connaissance du monde contemporain, l'ONU revient sous deux formes. En QCM, on vous interroge sur les dates, les organes, la composition du Conseil de sécurité ou la règle de vote. À l'écrit, on vous demande de discuter l'efficacité du multilatéralisme : « L'ONU est-elle encore utile ? », « Faut-il réformer le Conseil de sécurité ? ». Le jury attend des articles de la Charte exacts et des exemples précis, de préférence africains.",
+      "! Piège habituel : confondre l'Assemblée générale, où chaque État a une voix, et le Conseil de sécurité, seul organe dont les décisions s'imposent aux États Membres (article 25). Autre piège : croire que le veto bloque aussi les questions de procédure.",
+      "## La méthode, pas à pas",
+      "- 1. Situez : Charte signée le 26 juin 1945 à San Francisco, entrée en vigueur le 24 octobre 1945.",
+      "- 2. Nommez l'organe concerné et l'article de la Charte qui fonde son pouvoir.",
+      "- 3. Pour un vote au Conseil, distinguez procédure (neuf voix) et fond (neuf voix dont celles des cinq permanents).",
+      "- 4. Illustrez par un exemple localisé : l'ONUCI en Côte d'Ivoire, l'élection ivoirienne au Conseil en 2017.",
+      "- 5. Discutez : efficacité réelle, paralysie par le veto, légitimité contestée, propositions de réforme.",
+      "> Repère : la Côte d'Ivoire est Membre de l'ONU depuis le 20 septembre 1960 ; l'Organisation compte 193 États Membres, le dernier admis étant le Soudan du Sud, le 14 juillet 2011."
+     ],
+     "fond": [
+      "## Notion 1 : la Charte, ses buts et ses principes",
+      "La Charte des Nations Unies a été signée le 26 juin 1945 à San Francisco et est entrée en vigueur le 24 octobre 1945. Écrite au sortir de la Seconde Guerre mondiale, elle veut substituer des règles communes à la loi du plus fort.",
+      "Le premier but de l'Organisation est de « maintenir la paix et la sécurité internationales » (article 1er). Pour y parvenir, l'article 2 pose les grands principes : l'égalité souveraine de tous les Membres ; l'interdiction de recourir à la menace ou à l'emploi de la force contre l'intégrité territoriale ou l'indépendance politique d'un État (§ 4) ; la non-intervention dans les affaires qui relèvent essentiellement de la compétence nationale d'un État (§ 7), sauf mesures de coercition du chapitre VII. Exception majeure à l'interdiction de la force : la légitime défense, individuelle ou collective, en cas d'agression armée, jusqu'à ce que le Conseil de sécurité agisse (article 51).",
+      "? Un État masse ses troupes et annexe une province voisine en invoquant une « revendication historique ». Quel principe de la Charte viole-t-il ? || L'article 2 § 4 : les Membres s'abstiennent de recourir à la menace ou à l'emploi de la force contre l'intégrité territoriale ou l'indépendance politique de tout État. Une revendication historique n'est pas un cas de légitime défense, qui suppose une agression armée (article 51).",
+      "## Notion 2 : six organes principaux",
+      "L'article 7 crée six organes principaux : l'Assemblée générale, le Conseil de sécurité, le Conseil économique et social (ECOSOC), le Conseil de tutelle, la Cour internationale de Justice (CIJ) et le Secrétariat.",
+      "- Assemblée générale : tous les Membres y siègent et chacun dispose d'une voix (articles 9 et 18). Les questions importantes (paix et sécurité, admission de nouveaux Membres, budget) exigent la majorité des deux tiers des membres présents et votants.",
+      "- CIJ : « organe judiciaire principal des Nations Unies » (article 92). Elle se compose de quinze juges élus pour neuf ans et siège au Palais de la Paix, à La Haye.",
+      "- Secrétariat : le Secrétaire général, « plus haut fonctionnaire de l'Organisation », est nommé par l'Assemblée générale sur recommandation du Conseil de sécurité (article 97).",
+      "~ Le Conseil de tutelle illustre un organe « victime de son propre succès » : chargé d'accompagner les territoires sous tutelle vers l'autonomie, il a suspendu ses activités le 1er novembre 1994, après l'indépendance des Palaos, le dernier territoire placé sous sa tutelle.",
+      "! L'admission d'un nouveau Membre exige deux organes : elle se fait par décision de l'Assemblée générale sur recommandation du Conseil de sécurité (article 4 § 2). Un membre permanent peut donc la bloquer au Conseil.",
+      "## Notion 3 : le Conseil de sécurité, cœur du système",
+      "Les Membres confèrent au Conseil de sécurité « la responsabilité principale du maintien de la paix et de la sécurité internationales » (article 24) et s'engagent à accepter et appliquer ses décisions (article 25).",
+      "Composition (article 23) : quinze membres. Cinq sont permanents : la Chine, la France, la Russie, le Royaume-Uni et les États-Unis. Le texte de 1945 nomme la « République de Chine » et l'URSS : depuis la résolution 2758 de l'Assemblée générale du 25 octobre 1971, la Chine est représentée par la République populaire de Chine, et la Russie continue depuis le 24 décembre 1991 la qualité de membre de l'Union soviétique. Les dix autres membres sont élus par l'Assemblée générale pour deux ans et ne sont pas immédiatement rééligibles.",
+      "Vote (article 27) : chaque membre a une voix. Les questions de procédure exigent neuf voix. Les autres questions exigent neuf voix « dans lequel sont comprises les voix de tous les membres permanents » : c'est le droit de veto.",
+      "Pourquoi le veto ? Par cette règle, aucune décision de fond, et donc aucune mesure de coercition, ne peut être prise contre l'une des cinq puissances permanentes ni sans son accord : la Charte associe ainsi les plus puissants au système au lieu de les en exclure. Le prix de ce choix est la paralysie du Conseil quand un membre permanent, ou l'un de ses alliés, est en cause.",
+      "~ Exemple résolu. Un projet de résolution de fond recueille 13 voix pour et 2 contre, dont celle d'un membre permanent. Étape 1 : la question est de fond, donc l'article 27 § 3 s'applique. Étape 2 : il y a bien neuf voix pour, mais elles ne comprennent pas celles de tous les membres permanents. Solution : le projet est rejeté. Sur une question de procédure, le même vote aurait suffi (article 27 § 2).",
+      "Le Conseil n'a pas toujours compté quinze membres : l'amendement adopté le 17 décembre 1963 et entré en vigueur le 31 août 1965 l'a porté de onze à quinze et a relevé la majorité requise de sept à neuf voix. La Côte d'Ivoire y a siégé en 2018 et 2019, élue en 2017 par 189 voix dès le premier tour.",
+      "? Une question de procédure obtient 9 voix pour, dont quatre membres permanents, et 6 voix contre, dont le cinquième membre permanent. La décision est-elle adoptée ? || Oui. Pour les questions de procédure, l'article 27 § 2 exige seulement le vote affirmatif de neuf membres, sans exiger l'accord de tous les membres permanents : le veto ne joue pas.",
+      "## Notion 4 : régler les différends et maintenir la paix",
+      "Le chapitre VI organise le règlement pacifique : les parties doivent rechercher une solution « par voie de négociation, d'enquête, de médiation, de conciliation, d'arbitrage, de règlement judiciaire », ou par le recours aux organismes régionaux (article 33).",
+      "Le chapitre VII permet la contrainte. Le Conseil constate une menace contre la paix, une rupture de la paix ou un acte d'agression (article 39). Il peut décider des mesures sans emploi de la force armée, comme l'interruption des relations économiques ou la rupture des relations diplomatiques (article 41), puis, si elles sont inadéquates, une action par des forces aériennes, navales ou terrestres, y compris le blocus (article 42).",
+      "Entre les deux, l'ONU a développé les opérations de maintien de la paix. La plus ancienne encore active, l'ONUST, remonte à mai 1948. Elles reposent sur trois principes : le consentement du gouvernement du pays hôte, l'impartialité et le recours à la force en dernier ressort, en cas de légitime défense.",
+      "~ L'ONUCI, opération des Nations Unies en Côte d'Ivoire, a été créée le 4 avril 2004 et a terminé son mandat le 30 juin 2017.",
+      "## Notion 5 : réformer le multilatéralisme",
+      "Le Conseil de 1945 reflète l'ordre de 1945 : aucun État africain n'y est membre permanent. Par le consensus d'Ezulwini (2005), l'Union africaine réclame au moins deux sièges permanents avec droit de veto et cinq sièges non permanents, les États africains titulaires étant choisis par l'Union africaine.",
+      "L'Assemblée générale cherche aussi à encadrer le veto : par la résolution 76/262 du 26 avril 2022, portée par le Liechtenstein, elle se réunit dans les dix jours ouvrables après tout veto pour en débattre. Non contraignante, elle oblige l'auteur du veto à s'expliquer.",
+      "Pour la dissertation : la réforme gagnerait en légitimité et en représentativité ; mais un Conseil élargi risque d'être plus lent, et l'article 108 exige que tout amendement soit ratifié par les deux tiers des Membres, « y compris tous les membres permanents ».",
+      "? Pourquoi la réforme du Conseil de sécurité est-elle juridiquement si difficile ? || Parce que l'article 108 exige, pour tout amendement à la Charte, une ratification par les deux tiers des Membres y compris tous les membres permanents. Chacun des cinq peut donc bloquer une réforme qui réduirait son pouvoir, par exemple l'extension ou la suppression du veto."
+     ],
+     "retenir": [
+      "La Charte des Nations Unies est signée à San Francisco le 26 juin 1945 et entre en vigueur le 24 octobre 1945.",
+      "Six organes principaux : Assemblée générale, Conseil de sécurité, ECOSOC, Conseil de tutelle, Cour internationale de Justice, Secrétariat (article 7).",
+      "Conseil de sécurité : quinze membres, dont cinq permanents et dix élus pour deux ans, non immédiatement rééligibles (article 23).",
+      "Procédure : neuf voix suffisent ; fond : neuf voix comprenant celles des cinq membres permanents, d'où le veto (article 27).",
+      "Le Secrétaire général est nommé par l'Assemblée générale sur recommandation du Conseil de sécurité (article 97).",
+      "Chapitre VII : article 41, mesures sans force armée ; article 42, action militaire, y compris le blocus.",
+      "L'ONUCI a été déployée en Côte d'Ivoire du 4 avril 2004 au 30 juin 2017.",
+      "Consensus d'Ezulwini (2005) : l'Afrique réclame au moins deux sièges permanents avec veto et cinq sièges non permanents."
+     ],
+     "exo": {
+      "tag": "niv-cm03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Cour internationale de Justice – Charte des Nations Unies (texte intégral)",
+       "u": "https://www.icj-cij.org/fr/charte-des-nations-unies"
+      },
+      {
+       "t": "Larousse, encyclopédie – Charte des Nations unies",
+       "u": "https://www.larousse.fr/encyclopedie/divers/wd/185451"
+      },
+      {
+       "t": "Cour internationale de Justice – États admis à ester devant la Cour (liste des 193 États Membres)",
+       "u": "https://www.icj-cij.org/fr/etats-admis-a-ester"
+      },
+      {
+       "t": "Nations Unies – Amendments to Articles 23, 27, 61, 109 of the Charter",
+       "u": "https://www.un.org/en/node/125739"
+      },
+      {
+       "t": "Cour internationale de Justice – L'Assemblée générale et le Conseil de sécurité élisent cinq membres de la Cour",
+       "u": "https://icj-cij.org/fr/node/203244"
+      },
+      {
+       "t": "Archives des Nations Unies – 25e anniversaire de la suspension du Conseil de tutelle",
+       "u": "https://archives.un.org/node/998"
+      },
+      {
+       "t": "Nations Unies – Russian Federation (États Membres)",
+       "u": "https://www.un.org/en/node/122895"
+      },
+      {
+       "t": "Wikipedia – United Nations General Assembly Resolution 2758 (XXVI)",
+       "u": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_2758_(XXVI)"
+      },
+      {
+       "t": "Nations Unies, couverture des réunions – Élection de cinq membres non permanents du Conseil de sécurité (GA/11920, 2017)",
+       "u": "https://press.un.org/en/2017/ga11920.doc.htm"
+      },
+      {
+       "t": "Nations Unies, maintien de la paix – Fiche d'information (septembre 2024)",
+       "u": "https://peacekeeping.un.org/sites/default/files/peacekeeping_fact_sheet_french_september_2024_revision_2.pdf"
+      },
+      {
+       "t": "UNRIC – L'ONU en bref : paix et sécurité internationales",
+       "u": "https://unric.org/fr/ressources/lonu-en-bref/paix-et-securite-internationales/"
+      },
+      {
+       "t": "ONUCI – L'ONUCI a terminé avec succès son mandat le 30 juin 2017",
+       "u": "https://onuci.unmissions.org/fr/node/33096"
+      },
+      {
+       "t": "Wikipedia – Ezulwini Consensus",
+       "u": "https://en.wikipedia.org/wiki/Ezulwini_Consensus"
+      },
+      {
+       "t": "UNRIC – Droit de veto : ce qui va changer (résolution A/RES/76/262)",
+       "u": "https://unric.org/fr/droit-de-veto-ce-qui-va-changer/"
+      }
+     ]
+    },
+    {
+     "id": "L20261023dp02",
+     "niv": "dp02",
+     "m": "dpen",
+     "titre": "Les principes du droit pénal : légalité, interprétation stricte, application dans le temps",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez énoncer le principe de légalité des délits et des peines et le rattacher aux articles 14, 15 et 16 du Code pénal ivoirien de 2019.",
+      "= Vous saurez aussi résoudre un conflit de lois pénales dans le temps avec les articles 23 et 24 : loi qui supprime l'infraction, loi plus douce, loi plus sévère.",
+      "## Ce que demande l'épreuve",
+      "En droit pénal, les principes généraux tombent sous deux formes. D'abord la question de cours ou la dissertation, par exemple « Le principe de légalité protège-t-il le citoyen contre l'arbitraire ? ». Ensuite, et surtout, le cas pratique : un fait est commis sous une loi, puis jugé alors qu'une loi nouvelle est entrée en vigueur. Le correcteur vérifie deux choses : que vous citez le bon article, et que vous appliquez la bonne règle de conflit.",
+      "! Piège habituel : croire que la non-rétroactivité est absolue. Seule la loi plus sévère ne rétroagit pas. La loi plus douce, elle, s'applique aux faits antérieurs qui n'ont pas encore fait l'objet d'une condamnation définitive (article 24).",
+      "## La méthode, pas à pas",
+      "- 1. Cherchez le texte d'incrimination : le fait est-il défini et puni par la loi ? Sinon, il n'y a pas d'infraction (article 14).",
+      "- 2. Lisez ce texte au sens strict : le fait entre-t-il exactement dans ses termes ? Aucune extension par analogie (articles 15 et 16).",
+      "- 3. Datez les faits, puis datez la loi : une loi nouvelle est-elle entrée en vigueur entre les faits et le jugement ?",
+      "- 4. Si oui, qualifiez-la : supprime-t-elle l'infraction (article 23), est-elle plus douce ou plus sévère (article 24) ?",
+      "- 5. Vérifiez si une condamnation est déjà devenue définitive au jour de l'entrée en vigueur de la loi nouvelle.",
+      "- 6. Concluez en une phrase : la loi applicable, et l'article qui le justifie.",
+      "> Repère : la loi n° 2019-574 du 26 juin 2019 portant Code pénal a été publiée au Journal officiel de la République de Côte d'Ivoire du 10 juillet 2019."
+     ],
+     "fond": [
+      "## Notion 1 : pas d'infraction ni de peine sans loi",
+      "La règle est simple : seule la loi dit ce qui est une infraction et quelle peine on encourt. L'adage latin la résume : « nullum crimen, nulla poena sine lege », pas d'infraction ni de peine sans loi.",
+      "Le Code pénal ivoirien l'énonce à l'article 14 : « Le juge ne peut qualifier d'infraction et punir un fait qui n'est pas légalement défini et puni comme tel. » Le même article lui interdit de prononcer d'autres peines et mesures de sûreté que celles établies par la loi pour l'infraction constatée.",
+      "La Constitution de 2016 donne au principe une valeur supérieure : son article 7 interdit de poursuivre ou d'arrêter une personne autrement qu'en vertu d'une loi promulguée antérieurement aux faits qui lui sont reprochés.",
+      "Pourquoi cette règle ? Elle est née en réaction à l'arbitraire des juges de l'Ancien Régime. Montesquieu (L'Esprit des lois, 1748) et Beccaria (Traité des délits et des peines, 1764) l'ont formulée ; la Déclaration des droits de l'homme et du citoyen du 26 août 1789 affirme en son article 8 que « la loi ne peut établir que des peines strictement et évidemment nécessaires ». Il protège le citoyen : chacun sait à l'avance ce qui est interdit.",
+      "~ Exemple résolu. Un tribunal est saisi d'un comportement que l'opinion juge choquant, mais qu'aucun texte ne définit ni ne punit. Étape 1 : chercher un texte d'incrimination. Étape 2 : constater qu'il n'en existe aucun. Solution : le fait n'est pas une infraction et aucune peine ne peut être prononcée (article 14). C'est au législateur, s'il le souhaite, de créer l'infraction pour l'avenir.",
+      "? Un juge estime qu'un comportement « trouble gravement la paix sociale » et veut le punir, alors qu'aucun texte ne l'incrimine. Le peut-il ? || Non. L'article 14 du Code pénal lui interdit de qualifier d'infraction et de punir un fait qui n'est pas légalement défini et puni comme tel. Le trouble causé ne suffit pas : il faut un texte, et c'est au législateur de l'écrire.",
+      "## Notion 2 : la loi classe les infractions",
+      "C'est aussi la loi qui fixe la catégorie de chaque infraction. Selon l'article 3 du Code pénal, les infractions sont classées suivant leur gravité en crimes, délits et contraventions, d'après la peine encourue.",
+      "- Crime : peine privative de liberté perpétuelle, ou temporaire supérieure à dix ans.",
+      "- Délit : peine privative de liberté supérieure à deux mois et inférieure ou égale à dix ans, et amende supérieure à 360 000 francs, ou l'une de ces deux peines seulement.",
+      "- Contravention : peine privative de liberté inférieure ou égale à deux mois, et amende inférieure ou égale à 360 000 francs, ou l'une de ces deux peines seulement.",
+      "Pourquoi classer ? La catégorie traduit la gravité de l'infraction et commande de nombreuses règles. On regarde la peine encourue, prévue par le texte, non celle que le juge prononcera.",
+      "~ Exemple résolu. Un texte punit un fait de un à cinq ans d'emprisonnement. Étape 1 : la peine maximale est de cinq ans. Étape 2 : cinq ans dépasse deux mois et ne dépasse pas dix ans. Solution : c'est un délit.",
+      "! L'article 5 précise que la qualification ne change pas parce que le juge retient la récidive, une excuse ou des circonstances atténuantes, même si la peine finalement prononcée relève d'une autre catégorie.",
+      "? Un texte punit un fait de deux mois d'emprisonnement au plus et de 360 000 francs d'amende au plus. Crime, délit ou contravention ? || Contravention. L'article 3 classe en contravention l'infraction punie d'une peine privative de liberté inférieure ou égale à deux mois et d'une amende inférieure ou égale à 360 000 francs. Les deux seuils sont atteints sans être dépassés.",
+      "## Notion 3 : l'interprétation stricte et l'interdiction de l'analogie",
+      "Article 15 : « La loi pénale est d'interprétation stricte. » Article 16 : « La loi pénale est d'application restrictive. L'application par analogie d'une disposition pénale à un fait qu'elle n'a pas prévu est interdite. »",
+      "Pourquoi ? Étendre un texte à un cas voisin reviendrait à créer une infraction par le juge, ce que la légalité interdit. Le doute sur le champ d'un texte pénal ne peut donc pas être tranché contre la personne poursuivie par une extension du texte.",
+      "~ Exemple résolu. Supposons un texte qui punit spécialement la soustraction de « bovins ». Une personne est poursuivie sur ce fondement pour avoir emporté des chèvres. Étape 1 : lire le texte, qui vise les bovins. Étape 2 : constater que les chèvres n'en sont pas. Solution : ce texte spécial ne peut pas être appliqué par analogie (article 16) ; il faut chercher un autre texte qui couvre exactement les faits, par exemple l'incrimination générale du vol.",
+      "## Notion 4 : la loi pénale dans le temps",
+      "Trois situations se présentent lorsqu'une loi nouvelle entre en vigueur après les faits.",
+      "- La loi nouvelle supprime l'infraction : « Nul ne peut être poursuivi ou jugé en raison d'un fait qui, aux termes d'une disposition nouvelle, ne constitue plus une infraction » (article 23). Si des peines ont déjà été prononcées, il est mis fin à leur exécution.",
+      "- La loi nouvelle est plus douce : elle s'applique aux infractions qui n'ont pas fait l'objet d'une condamnation devenue définitive au jour de son entrée en vigueur (article 24).",
+      "- La loi nouvelle est plus sévère : les infractions commises avant son entrée en vigueur continuent à être jugées conformément à la loi ancienne (article 24). C'est la non-rétroactivité.",
+      "Pourquoi cette asymétrie ? La loi plus sévère ne rétroagit pas pour que chacun ne soit jugé que sur des règles qu'il pouvait connaître. La loi plus douce rétroagit parce que la société a jugé l'ancienne répression excessive : il serait injuste de continuer à l'appliquer.",
+      "~ Exemple résolu. Koffi commet un fait en janvier, puni par la loi A de un à trois ans d'emprisonnement. En mars, la loi B punit le même fait de six mois à un an. Il est jugé en mai, sans condamnation définitive antérieure. Étape 1 : une loi nouvelle est intervenue. Étape 2 : elle est plus douce. Étape 3 : aucune condamnation définitive n'existait à son entrée en vigueur. Solution : la loi B s'applique (article 24). Si la loi B avait été plus sévère, la loi A serait restée applicable.",
+      "! Deux exceptions à connaître. D'abord, une loi qui prévoit une mesure de sûreté est immédiatement applicable aux infractions non encore définitivement jugées (article 24). Ensuite, pour une prohibition limitée à une période déterminée, les poursuites restent valables malgré la fin de cette période (article 23).",
+      "? Awa a été condamnée définitivement en 2024 ; en 2026, une loi nouvelle réduit la peine encourue pour le même fait. Et si la loi nouvelle avait supprimé l'infraction ? || La loi simplement plus douce ne profite pas à Awa : l'article 24 ne vise que les infractions qui n'ont pas fait l'objet d'une condamnation devenue définitive. En revanche, si la loi nouvelle supprime l'infraction, l'article 23 met fin à l'exécution des peines prononcées, même après une condamnation définitive."
+     ],
+     "retenir": [
+      "Article 14 du Code pénal : le juge ne peut punir un fait que la loi ne définit pas et ne punit pas comme infraction.",
+      "Articles 15 et 16 : la loi pénale est d'interprétation stricte ; son application par analogie à un fait non prévu est interdite.",
+      "Article 3 : crime, privation de liberté perpétuelle ou supérieure à dix ans ; délit, plus de deux mois à dix ans ; contravention, deux mois au plus.",
+      "Le seuil d'amende qui sépare le délit de la contravention est de 360 000 francs (article 3 du Code pénal).",
+      "La loi pénale plus sévère ne rétroagit pas : les faits antérieurs restent jugés selon la loi ancienne (article 24).",
+      "La loi pénale plus douce s'applique aux faits qui n'ont pas fait l'objet d'une condamnation définitive à son entrée en vigueur (article 24).",
+      "Si une loi nouvelle supprime l'infraction, nul ne peut plus être poursuivi et l'exécution des peines prononcées prend fin (article 23).",
+      "Une loi prévoyant une mesure de sûreté s'applique immédiatement aux infractions non encore définitivement jugées (article 24)."
+     ],
+     "exo": {
+      "tag": "niv-dp02",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Gouvernement de Côte d'Ivoire (famille.gouv.ci) – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+       "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+      },
+      {
+       "t": "Constitutions of Africa (Université de Nottingham) – Côte d'Ivoire, Constitution 2016, « Nulla poena sine lege » (article 7)",
+       "u": "https://cjad.nottingham.ac.uk/en/state/37/keyword/417"
+      },
+      {
+       "t": "Académie de Bordeaux, Clés de la justice – Le principe de légalité criminelle",
+       "u": "https://ent2d.ac-bordeaux.fr/disciplines/clesjustice64/fonctionnement-de-la-justice/justice-penale/principe-de-legalite-criminelle/"
+      }
+     ]
+    },
+    {
+     "id": "L20261023mp03",
+     "niv": "mp03",
+     "m": "mop",
+     "titre": "Les fonctions du management : planifier, organiser, diriger, contrôler",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir les quatre fonctions du management (planifier, organiser, diriger, contrôler), les rattacher à Fayol et à Gulick, et les appliquer à un service public ivoirien.",
+      "= Vous saurez aussi formuler un objectif mesurable et calculer un taux de réalisation pour exercer la fonction de contrôle.",
+      "## Ce que demande l'épreuve",
+      "En management des organisations publiques, les fonctions du management servent de grille d'analyse. Dans un sujet de réflexion, on vous demande par exemple : « Le chef de service doit-il d'abord contrôler ou d'abord motiver ? ». Dans un cas pratique, on vous décrit un service qui dysfonctionne (retards, doublons, agents désorientés) et l'on attend un diagnostic, puis des propositions classées. Le correcteur valorise le candidat qui nomme la fonction défaillante et propose une action concrète et mesurable.",
+      "! Piège habituel : réciter la liste de Fayol sans l'appliquer. Une fonction ne vaut que si vous montrez, sur le cas, ce que le chef doit faire concrètement.",
+      "## La méthode, pas à pas",
+      "- 1. Lisez le cas et soulignez chaque symptôme (retard, conflit, erreur, gaspillage).",
+      "- 2. Rattachez chaque symptôme à une fonction : pas d'objectif clair (planifier), tâches mal réparties (organiser), équipe démotivée ou mal coordonnée (diriger), aucun suivi des résultats (contrôler).",
+      "- 3. Proposez pour chaque fonction défaillante une action datée, confiée à un responsable, avec un indicateur.",
+      "- 4. Hiérarchisez vos propositions : l'urgent et le peu coûteux d'abord.",
+      "- 5. Concluez en montrant que les quatre fonctions forment un cycle : le contrôle nourrit la planification suivante.",
+      "> Repère : depuis le 1er janvier 2020, la Côte d'Ivoire gère son budget en mode budget-programmes ; le projet de budget 2020 était structuré en 35 dotations et 149 programmes budgétaires."
+     ],
+     "fond": [
+      "## Notion 1 : d'où viennent les fonctions du management",
+      "Henri Fayol (1841-1925), ingénieur des mines devenu directeur général de la Compagnie de Commentry-Fourchambault-Decazeville, publie en 1916 « Administration industrielle et générale ». Il y décrit cinq éléments de l'administration : prévoir, organiser, commander, coordonner et contrôler. Il y ajoute quatorze principes, dont la division du travail, l'unité de commandement et la hiérarchie.",
+      "En 1937, l'Américain Luther Gulick adapte cette analyse au chef de l'exécutif public dans « Notes on the Theory of Organization », publié dans « Papers on the Science of Administration ». Il la résume par l'acronyme POSDCORB : Planning (planifier), Organizing (organiser), Staffing (pourvoir les postes), Directing (diriger), Co-ordinating (coordonner), Reporting (rendre compte) et Budgeting (budgétiser).",
+      "Pourquoi retenir quatre fonctions aujourd'hui ? Les manuels regroupent ces listes en quatre verbes qui couvrent tout le travail d'un chef : planifier, organiser, diriger, contrôler. Commander et coordonner se rangent dans « diriger » ; rendre compte et suivre le budget relèvent largement du « contrôler ».",
+      "? Rangez chacune de ces activités de Gulick dans l'une des quatre fonctions : Staffing, Reporting, Co-ordinating. || Staffing, pourvoir les postes en personnel, relève d'organiser : on place les bonnes personnes dans la structure. Reporting, rendre compte, relève de contrôler : on informe la hiérarchie des résultats. Co-ordinating relève de diriger : on harmonise l'action des agents et des services.",
+      "## Notion 2 : planifier, fixer le cap",
+      "Planifier, c'est fixer des objectifs, choisir les moyens et arrêter un calendrier. C'est la fonction première : sans objectif, on ne peut ni organiser, ni diriger, ni contrôler.",
+      "La direction par objectifs est souvent attribuée à Peter Drucker, dans « The Practice of Management » (1954). L'idée a été prolongée par la grille SMART, que George T. Doran a présentée en novembre 1981 dans la revue Management Review. On la décline couramment ainsi : un objectif est spécifique, mesurable, atteignable, réaliste et défini dans le temps.",
+      "Pourquoi un objectif mesurable ? Parce qu'on ne peut contrôler que ce qu'on a chiffré. Dans l'administration ivoirienne, cette logique est au cœur du budget-programmes : selon le Gouvernement, cette approche privilégie « un cadre programmatique pluriannuel associé à des objectifs ».",
+      "~ Exemple résolu. Objectif vague : « améliorer l'état civil ». Objectif SMART : « Dans la mairie de X, ramener de 15 à 5 jours ouvrables le délai moyen de délivrance d'un extrait d'acte de naissance d'ici le 31 décembre ». On vérifie : spécifique (un acte, une mairie), mesurable (le délai en jours), atteignable et réaliste (si les moyens suivent), daté (31 décembre).",
+      "! Un objectif n'est pas une activité. « Organiser trois réunions » décrit un moyen ; « réduire le délai de traitement » décrit un résultat.",
+      "## Notion 3 : organiser, répartir le travail",
+      "Organiser, c'est construire la structure : découper le travail en tâches, les confier à des postes, fixer qui commande qui et qui fait quoi. Les outils sont l'organigramme, les fiches de poste et les procédures écrites.",
+      "Pourquoi ? Une même tâche confiée à deux agents est faite deux fois ou pas du tout. Fayol l'a formulé par l'unité de commandement, selon laquelle un agent ne reçoit d'ordres que d'un seul chef, et par la division du travail.",
+      "~ Exemple résolu. Dans une direction régionale, deux chefs de service donnent à la même secrétaire des priorités contradictoires ; les courriers urgents prennent du retard. Diagnostic : violation de l'unité de commandement, donc fonction « organiser » défaillante. Proposition : rattacher la secrétaire à un seul chef dans l'organigramme et rédiger sa fiche de poste.",
+      "? Un service reçoit les dossiers de bourse par trois guichets ; personne ne sait qui les enregistre et certains dossiers sont perdus. Quelle fonction est défaillante et que proposez-vous ? || La fonction « organiser » : la tâche d'enregistrement n'est attribuée à personne. Proposez un guichet unique d'enregistrement, un agent responsable nommé dans une note de service et un registre où chaque dossier reçoit un numéro.",
+      "## Notion 4 : diriger, animer les personnes",
+      "Diriger, c'est donner des instructions, motiver, coordonner et communiquer. Fayol parlait de « commander » et de « coordonner » ; le management moderne y ajoute la motivation et l'écoute.",
+      "Pourquoi ? Une structure bien dessinée reste inerte si les agents ne savent pas pourquoi ils travaillent ou ne se parlent pas. Le chef traduit les objectifs en consignes claires et fait circuler l'information.",
+      "~ Une réunion hebdomadaire de quinze minutes, où chaque agent dit ce qu'il a fait, ce qu'il va faire et ce qui le bloque, est un outil simple de coordination.",
+      "## Notion 5 : contrôler, mesurer et corriger",
+      "Contrôler, c'est comparer les résultats obtenus aux objectifs fixés, analyser les écarts et corriger. Ce n'est pas une sanction : c'est le moyen de piloter.",
+      "Le cycle PDCA, appelé aussi roue de Deming ou cycle de Shewhart, résume cette logique en quatre étapes : Planifier, Faire, Vérifier, Agir. L'étape « Agir » généralise ce qui marche, puis le cycle recommence : le contrôle nourrit la planification suivante.",
+      "~ Exemple résolu. Un service devait traiter 2 400 dossiers dans l'année ; il en a traité 1 800. Taux de réalisation = 1 800 ÷ 2 400 × 100 = 75 %. Vérification : 75 % de 2 400 = 1 800. L'écart est de 600 dossiers ; le chef en cherche la cause (effectif, procédure, matériel) avant de corriger.",
+      "! Distinguez efficacité et efficience : l'efficacité mesure l'atteinte de l'objectif, l'efficience rapporte le résultat aux moyens consommés.",
+      "? Un service a dépensé 3 000 000 F pour traiter 1 500 dossiers. Quel est le coût moyen par dossier, et quelle notion mesure-t-il ? || 3 000 000 ÷ 1 500 = 2 000 F par dossier. Ce coût unitaire mesure l'efficience : il rapporte les moyens consommés au résultat obtenu. Si l'an prochain le coût baisse à résultat égal, le service sera plus efficient."
+     ],
+     "retenir": [
+      "Les quatre fonctions du management sont planifier, organiser, diriger et contrôler ; elles forment un cycle.",
+      "Fayol (1916) : prévoir, organiser, commander, coordonner, contrôler ; Gulick (1937) : l'acronyme POSDCORB.",
+      "POSDCORB : planifier, organiser, pourvoir les postes, diriger, coordonner, rendre compte, budgétiser.",
+      "La direction par objectifs est attribuée à Peter Drucker (1954) ; la grille SMART vient d'un article de George T. Doran (1981).",
+      "Unité de commandement : un agent ne reçoit d'ordres que d'un seul chef ; sa violation révèle une organisation défaillante.",
+      "Contrôler, c'est comparer les résultats aux objectifs, analyser les écarts et corriger, selon le cycle PDCA.",
+      "Taux de réalisation = réalisé ÷ prévu × 100 ; efficience = résultat rapporté aux moyens consommés.",
+      "Depuis le 1er janvier 2020, l'État ivoirien gère son budget en mode budget-programmes, associé à des objectifs."
+     ],
+     "exo": {
+      "tag": "niv-mp03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Wikipedia – Henri Fayol",
+       "u": "https://en.wikipedia.org/wiki/Henri_Fayol"
+      },
+      {
+       "t": "Wikipedia – POSDCORB",
+       "u": "https://en.wikipedia.org/wiki/POSDCORB"
+      },
+      {
+       "t": "RapidBI – History of SMART objectives (Doran, 1981 ; Drucker, 1954)",
+       "u": "https://rapidbi.com/history-of-smart-objectives/"
+      },
+      {
+       "t": "Coursera – PDCA : le cycle Planifier-Faire-Vérifier-Agir",
+       "u": "https://coursera.org/fr-FR/articles/pdca"
+      },
+      {
+       "t": "Gouvernement de Côte d'Ivoire – Communiqué du Conseil des ministres du 2 octobre 2019",
+       "u": "https://www.gouv.ci/uploads/publications/1570054269COMMUNIQUE-DU-CONSEIL-DES-MINISTRES-DU-MERCREDI-02-OCTOBRE-2019.pdf"
+      },
+      {
+       "t": "Financial Afrik – Côte d'Ivoire : sensibilisation autour du budget-programme (4 décembre 2020)",
+       "u": "https://www.financialafrik.com/2020/12/04/cote-divoire-sensibilisation-autour-du-budget-programme/"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "cmc",
+     "src": "original",
+     "ref": "Entraînement · 23 oct. 2026",
+     "t": "« Le Conseil de sécurité est à la fois le cœur et la limite du multilatéralisme onusien. » Expliquez et discutez cette affirmation.",
+     "plan": [
+      "Introduction : définir le multilatéralisme et le Conseil de sécurité (article 24 de la Charte, 15 membres dont 5 permanents) ; problématique : le Conseil peut-il garantir la paix collective alors qu'il dépend de l'accord des grandes puissances ?",
+      "I. Le cœur du système : A. Une responsabilité principale et des décisions obligatoires (articles 24 et 25) ; B. Des moyens d'action gradués, du règlement pacifique (article 33) à la coercition (articles 41 et 42), et des opérations de paix comme l'ONUCI (2004-2017).",
+      "II. La limite du système : A. Le veto (article 27 § 3) peut paralyser le Conseil quand un membre permanent est en cause ; B. Une composition héritée de 1945, contestée par l'Afrique (consensus d'Ezulwini, 2005), et une réforme verrouillée par l'article 108.",
+      "Conclusion : le Conseil reste indispensable mais sa légitimité dépend de sa réforme ; ouverture sur l'encadrement du veto par la résolution 76/262 (2022) et sur la place de l'Afrique."
+     ]
+    }
+   ]
   }
  ]
 }
