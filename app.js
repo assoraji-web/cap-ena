@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "773ffecc du 15/10/2026";
+const APP_VERSION = "1396c0fd du 24/10/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -3218,14 +3218,35 @@ function vProfil(){
     h("p",{class:"note"},"Version de l'appli : " + APP_VERSION + ". ", h("button",{class:"link",type:"button",onclick:()=>{ if (state.exam) return; location.reload(); }},"Recharger"))
   );
 }
+// Sauvegarde et transfert de la progression entre appareils (téléphone ↔ ordinateur) : rien ne passe par un serveur.
+function parseBackup(text){ const o = JSON.parse(text); if (typeof o !== "object" || !o || o.v !== 3) throw 0; o.exam = null; o.interrupt = null; return o; }
+function restoreState(o){ state = Object.assign(defaults(), o); state.profile = Object.assign(defaults().profile, state.profile||{}); save(); }
+const backupName = ()=> "cap-ena-sauvegarde-" + today() + ".json";
+async function shareBackup(){
+  const file = new File([JSON.stringify(state)], backupName(), {type:"application/json"});
+  try { if (navigator.canShare && navigator.canShare({files:[file]})) { await navigator.share({files:[file], title:"Sauvegarde Cap ENA"}); return; } } catch(e){ if (e && e.name === "AbortError") return; }
+  download(backupName(), JSON.stringify(state), "application/json");
+  toast("Sauvegarde téléchargée : envoyez ce fichier sur votre autre appareil (WhatsApp, e-mail, câble).");
+}
+function backupFileInput(onDone){
+  return h("label",{class:"btn"}, "Restaurer depuis un fichier de sauvegarde", h("input",{type:"file",accept:".json,application/json",hidden:true,onchange:async(ev)=>{
+    const f = ev.target.files && ev.target.files[0]; if (!f) return;
+    try { onDone(parseBackup(await f.text())); } catch(e){ toast("Fichier invalide : choisissez un fichier « cap-ena-sauvegarde-….json »."); }
+    ev.target.value = ""; }}));
+}
 function backupCard(){
-  const imp = h("textarea",{id:"imp",rows:"3",placeholder:"Collez ici le contenu d'un fichier de sauvegarde"});
+  const imp = h("textarea",{id:"imp",rows:"3",placeholder:"…ou collez ici le contenu d'un fichier de sauvegarde"});
+  const restore = (o)=>{ restoreState(o); toast("Progression restaurée."); render(); };
   return card("stack",
-    h("h2",null,"Sauvegarde de ma progression"),
-    h("p",{class:"muted small"},"La progression est stockée dans le téléphone. Sauvegardez-la régulièrement, surtout avant de changer de téléphone. Les photos des copies manuscrites ne sont pas incluses dans la sauvegarde."),
-    h("button",{class:"btn primary",type:"button",onclick:()=>download("cap-ena-sauvegarde-"+today()+".json", JSON.stringify(state), "application/json")},"Télécharger une sauvegarde"),
+    h("h2",null,"Sauvegarde et transfert entre appareils"),
+    h("p",{class:"muted small"},"La progression est enregistrée dans chaque appareil séparément : le téléphone et l'ordinateur ne se synchronisent pas tout seuls. Pour continuer sur un autre appareil, envoyez-y une sauvegarde puis restaurez-la. Faites-le aussi régulièrement par sécurité. Les photos des copies manuscrites ne sont pas incluses."),
+    h("div",{class:"row"},
+      h("button",{class:"btn primary",type:"button",onclick:shareBackup},"Envoyer ma sauvegarde"),
+      h("button",{class:"btn",type:"button",onclick:()=>download(backupName(), JSON.stringify(state), "application/json")},"Télécharger")),
+    backupFileInput(restore),
     imp,
-    h("button",{class:"btn",type:"button",onclick:()=>{ try{ const o = JSON.parse(imp.value); if (typeof o!=="object"||o.v!==3) throw 0; o.exam = null; state = Object.assign(defaults(), o); save(); toast("Progression restaurée"); render(); } catch(e){ toast("Contenu invalide : collez le texte complet d'une sauvegarde de cette version."); } }},"Restaurer"));
+    h("button",{class:"btn small",type:"button",onclick:()=>{ try { restore(parseBackup(imp.value)); } catch(e){ toast("Contenu invalide : collez le texte complet d'une sauvegarde."); } }},"Restaurer le texte collé"),
+    h("p",{class:"muted small"},"Attention : restaurer remplace la progression de cet appareil par celle de la sauvegarde. Continuez ensuite sur un seul appareil, ou refaites un transfert à chaque changement."));
 }
 function download(name, text, type){ const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob([text],{type})); a.download = name; document.body.append(a); a.click(); setTimeout(()=>{URL.revokeObjectURL(a.href); a.remove();},1000); }
 
@@ -3361,7 +3382,10 @@ function vAccueil(){
       head("Bienvenue · étape 1 sur 3", "Votre profil de candidat"),
       h("p",{class:"muted"},"Cap ENA prépare aux concours administratifs de Côte d'Ivoire (ENA, INFJ, Fonction publique), quel que soit votre niveau. Votre diplôme, votre situation et votre âge permettent de vous montrer les concours auxquels vous pouvez vous présenter."),
       card("stack", h("div",{class:"grid2"}, f("nom","Nom"), f("prenoms","Prénoms"), f("naissance","Date de naissance","date")), profilFields(()=>drawAccueil())),
-      h("p",{class:"muted small"},"Ces informations restent dans votre téléphone."),
+      h("p",{class:"muted small"},"Ces informations restent dans votre appareil."),
+      card("stack tight soft", h("h3",null,"Vous utilisez déjà Cap ENA sur un autre appareil ?"),
+        h("p",{class:"small muted"},"Sur l'autre appareil : Profil > « Envoyer ma sauvegarde ». Ici, choisissez le fichier reçu : votre progression sera reprise, puis vous créerez le code d'accès de cet appareil."),
+        backupFileInput((o)=>{ o.onboarded = false; o.restoredPending = true; restoreState(o); toast("Progression reprise. Créez maintenant le code d'accès de cet appareil."); onbStep = 2; drawAccueil(true); })),
       h("button",{class:"btn primary big",type:"button",onclick:()=>{ if (!profilComplet()) return toast("Indiquez au moins votre diplôme et votre situation."); onbStep = 1; drawAccueil(true); }},"Suivant : mes concours"));
   }
   if (onbStep === 1){
@@ -3402,6 +3426,14 @@ function vAccueil(){
     h("button",{class:"btn ghost",type:"button",onclick:()=>{ onbStep = 1; drawAccueil(true); }},"Précédent"));
 }
 function finishOnboarding(remember){
+  if (state.restoredPending){
+    // progression reprise d'un autre appareil : on garde concours, emploi du temps et historique
+    delete state.restoredPending; state.onboarded = true;
+    if (!state.lastProc || state.lastProc > today()) state.lastProc = addDays(today(), -1);
+    save(); if (remember) setRemember(true);
+    document.body.classList.remove("locked"); view = "home";
+    startApp(); return;
+  }
   const ids = [...onbSel].filter(id=>concoursById(id));
   state.concours = ids;
   state.concoursPrin = ids[0] || null;
@@ -3416,6 +3448,7 @@ function finishOnboarding(remember){
 }
 function showAccueil(){
   clearTimers(); document.body.classList.add("locked");
+  if (state.restoredPending) onbStep = 2;
   view = "accueil"; drawAccueil(true);
 }
 function drawAccueil(top){ $("#view").replaceChildren(vAccueil()); if (top) window.scrollTo({top:0}); }
