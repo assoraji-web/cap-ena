@@ -17628,6 +17628,1238 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-24",
+   "questions": [
+    {
+     "id": "n20261024-sf04-01",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Selon l'article 8 de la loi n° 2023-892, quelle catégorie exerce les fonctions d'études générales, de conception, de direction et de supervision ?",
+     "o": [
+      "La catégorie B",
+      "La catégorie A",
+      "La catégorie C",
+      "La catégorie D"
+     ],
+     "a": 1,
+     "e": "L'article 8 réserve à la catégorie A les fonctions d'études générales, de conception, de direction et de supervision ; c'est le sommet de la hiérarchie des catégories.",
+     "ed": [
+      "La catégorie B exerce des fonctions d'application, pas de conception ni de direction.",
+      null,
+      "La catégorie C exerce des fonctions d'exécution.",
+      "La catégorie D exerce, comme la catégorie C, des fonctions d'exécution."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-02",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Comment l'article 10 du statut général définit-il le grade ?",
+     "o": [
+      "Le titre acquis par le fonctionnaire à l'intérieur de sa catégorie",
+      "La profession exercée en rapport avec une qualification",
+      "Le poste de travail précis occupé dans un service",
+      "Le niveau de rémunération fixé chaque année par le ministre"
+     ],
+     "a": 0,
+     "e": "L'article 10 définit le grade comme le titre acquis par le fonctionnaire à l'intérieur de sa catégorie, qui lui donne vocation à occuper un emploi de sa spécialité.",
+     "ed": [
+      null,
+      "C'est la définition de l'emploi (article 11), que la loi distingue expressément du grade.",
+      "Le poste occupé correspond à l'emploi, qui peut changer sans que le grade change.",
+      "La rémunération découle de l'échelle de traitement attachée au grade ; elle n'est pas le grade lui-même."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-03",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "D'après l'article 71, de quoi se compose l'avancement des fonctionnaires ?",
+     "o": [
+      "De la promotion et de la titularisation",
+      "Du détachement et de la disponibilité",
+      "De l'avancement d'échelon et de l'avancement de classe",
+      "Du recrutement et du stage probatoire"
+     ],
+     "a": 2,
+     "e": "L'article 71 précise que l'avancement comprend l'avancement d'échelon et l'avancement de classe ; il se déroule à l'intérieur de l'échelle de traitement du grade.",
+     "ed": [
+      "La promotion change de grade (article 77) et la titularisation intervient à l'entrée dans la carrière : ce ne sont pas des formes d'avancement.",
+      "Le détachement et la disponibilité sont des positions statutaires (article 53), pas des formes d'avancement.",
+      null,
+      "Le recrutement et le stage précèdent la carrière ; ils ne sont pas des formes d'avancement."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-04",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Laquelle de ces situations N'est PAS une position statutaire prévue par l'article 53 du statut général ?",
+     "o": [
+      "L'activité",
+      "La disponibilité",
+      "Le détachement",
+      "La mutation"
+     ],
+     "a": 3,
+     "e": "L'article 53 énumère quatre positions : l'activité, le détachement, la disponibilité et la position sous les drapeaux. La mutation est un changement d'affectation, pas une position.",
+     "ed": [
+      "L'activité est la première position citée par l'article 53.",
+      "La disponibilité figure parmi les quatre positions de l'article 53.",
+      "Le détachement figure parmi les quatre positions de l'article 53.",
+      null
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-05",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Selon l'article 77, comment se fait la promotion au grade immédiatement supérieur ?",
+     "o": [
+      "Automatiquement après dix ans d'ancienneté",
+      "Par voie de concours internes ou, exceptionnellement, par décret",
+      "Par simple décision du supérieur hiérarchique direct",
+      "Par l'inscription au tableau d'avancement d'échelon"
+     ],
+     "a": 1,
+     "e": "L'article 77 dispose que la promotion, passage au grade immédiatement supérieur, est faite par voie de concours internes ou exceptionnellement par décret.",
+     "ed": [
+      "Aucune promotion automatique à l'ancienneté n'est prévue : l'ancienneté joue pour l'avancement d'échelon, pas pour le changement de grade.",
+      null,
+      "Le supérieur hiérarchique évalue l'agent, mais il ne peut pas lui conférer un grade supérieur.",
+      "Le tableau sert à l'avancement de classe ; la promotion passe par un concours interne ou un décret."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-06",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "M. Traoré passe du 2e au 3e échelon sans changer de grade. Comment qualifier ce mouvement ?",
+     "o": [
+      "Une promotion",
+      "Une titularisation",
+      "Un avancement d'échelon",
+      "Un détachement"
+     ],
+     "a": 2,
+     "e": "Changer d'échelon à l'intérieur du même grade est un avancement d'échelon (article 71), qui tient compte de l'ancienneté et de l'évaluation.",
+     "ed": [
+      "La promotion suppose un changement de grade (article 77), ce qui n'est pas le cas ici.",
+      "La titularisation confère le grade à titre définitif à la fin du stage ; elle ne fait pas changer d'échelon.",
+      null,
+      "Le détachement est une position qui interrompt les fonctions ; il ne concerne pas l'échelon."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-07",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Mme Bamba, fonctionnaire, est élue à un mandat public national et doit interrompre temporairement ses fonctions. Dans quelle position est-elle placée ?",
+     "o": [
+      "En détachement",
+      "En disponibilité pour convenances personnelles",
+      "En activité",
+      "Sous les drapeaux"
+     ],
+     "a": 0,
+     "e": "L'article 55 prévoit le détachement du fonctionnaire autorisé à interrompre temporairement ses fonctions pour exercer un emploi ou un mandat public national ou international.",
+     "ed": [
+      null,
+      "La disponibilité sert un motif personnel ; un mandat public relève du détachement.",
+      "En activité, l'agent occupe effectivement son emploi ; or elle l'interrompt.",
+      "La position sous les drapeaux concerne le service militaire légal."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-08",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Un fonctionnaire en disponibilité pour convenances personnelles continue-t-il à acquérir des droits à l'avancement et à la retraite ?",
+     "o": [
+      "Oui, comme s'il était en activité",
+      "Oui, mais à moitié",
+      "Oui, si son ministre l'autorise",
+      "Non, il cesse d'en bénéficier et n'est pas rémunéré"
+     ],
+     "a": 3,
+     "e": "L'article 62 dispose que le fonctionnaire en disponibilité n'a droit à aucune rémunération et cesse de bénéficier de ses droits à la formation, à l'avancement, à la promotion et à la retraite.",
+     "ed": [
+      "C'est le régime du détachement, pas celui de la disponibilité.",
+      "La loi ne prévoit aucun maintien partiel des droits en disponibilité.",
+      "Aucune autorisation ministérielle ne permet de maintenir ces droits en disponibilité.",
+      null
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-09",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Un fonctionnaire veut suivre son épouse, qui n'est pas fonctionnaire, partie travailler dans une autre ville. Quelle est la durée de sa disponibilité selon l'article 63 ?",
+     "o": [
+      "Un an au plus, non renouvelable",
+      "Un an, renouvelable une seule fois",
+      "Cinq ans, renouvelables sans limite",
+      "Trois mois, renouvelables chaque trimestre"
+     ],
+     "a": 1,
+     "e": "L'article 63 prévoit, pour suivre un conjoint non fonctionnaire, une disponibilité d'un an renouvelable une seule fois.",
+     "ed": [
+      "Le plafond d'un an sans renouvellement vise la maladie grave du conjoint ou d'un enfant.",
+      null,
+      "Aucune disponibilité de cinq ans renouvelable sans limite n'est prévue par l'article 63.",
+      "L'article 63 raisonne en années, pas en trimestres."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-10",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Un fonctionnaire est muté d'une direction à une autre et devient chargé d'études au lieu de chef de service. Que devient son grade ?",
+     "o": [
+      "Il le conserve, car le grade est distinct de l'emploi",
+      "Il le perd et doit repasser un concours",
+      "Il est automatiquement promu au grade supérieur",
+      "Il est rétrogradé d'une classe"
+     ],
+     "a": 0,
+     "e": "L'article 10 pose que le grade est distinct de l'emploi, et l'article 15 permet au fonctionnaire de changer d'emploi selon les besoins de l'Administration : il garde donc son grade.",
+     "ed": [
+      null,
+      "Changer d'emploi n'enlève pas le grade ; c'est tout l'intérêt de la distinction entre grade et emploi.",
+      "La promotion exige un concours interne ou, exceptionnellement, un décret (article 77), pas une simple mutation.",
+      "Un changement d'emploi n'est pas une sanction et n'affecte ni la classe ni le grade."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-11",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Un agent a reçu, deux années consécutives, une note inférieure au niveau fixé par décret. Que prévoit l'article 72 ?",
+     "o": [
+      "Il est promu pour le motiver",
+      "Il est placé d'office en disponibilité",
+      "Il ne peut bénéficier d'avancement",
+      "Il est automatiquement licencié"
+     ],
+     "a": 2,
+     "e": "Selon l'article 72, le fonctionnaire qui reçoit pendant deux années consécutives une note inférieure à un niveau fixé par décret ne peut bénéficier d'avancement.",
+     "ed": [
+      "Une mauvaise évaluation ne peut conduire à une promotion, qui suppose concours ou décret.",
+      "La disponibilité est demandée par l'agent ; elle n'est pas une conséquence d'une note insuffisante.",
+      null,
+      "L'article 72 bloque l'avancement ; il ne prévoit pas de licenciement automatique."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-sf04-12",
+     "m": "sfp",
+     "tag": "niv-sf04",
+     "q": "Lequel de ces fonctionnaires est considéré comme étant en activité au sens de l'article 54 ?",
+     "o": [
+      "Un agent en disponibilité pour élever un enfant malade",
+      "Un agent incorporé pour son service militaire légal",
+      "Un agent détaché auprès d'une organisation internationale",
+      "Un agent en formation organisée par son administration"
+     ],
+     "a": 3,
+     "e": "L'article 54 précise que sont également considérés comme étant en activité les fonctionnaires en congé, en stage ou en formation.",
+     "ed": [
+      "La disponibilité est une position distincte de l'activité (article 53), dans laquelle l'activité est suspendue.",
+      "Le service militaire légal relève de la position sous les drapeaux (article 66).",
+      "Le détachement est une position distincte de l'activité (article 55).",
+      null
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-01",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Selon l'article 41 de la loi n° 2018-862 relative à l'état civil, dans quel délai la naissance doit-elle être déclarée ?",
+     "o": [
+      "Dans les huit jours de l'accouchement",
+      "Dans les trois mois de l'accouchement",
+      "Dans l'année de l'accouchement",
+      "Avant l'inscription de l'enfant à l'école"
+     ],
+     "a": 1,
+     "e": "L'article 41 de la loi n° 2018-862 impose de déclarer la naissance dans les trois mois de l'accouchement ; au-delà, un jugement du tribunal est nécessaire.",
+     "ed": [
+      "Huit jours n'est pas le délai prévu : la loi de 2018 retient trois mois.",
+      null,
+      "Un an dépasse le délai légal : passé trois mois, il faut un jugement.",
+      "L'inscription scolaire n'est pas un délai légal de déclaration."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2018-862 du 19 novembre 2018 relative à l'état civil",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2018/862/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-02",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Dans quel délai le décès doit-il être déclaré selon l'article 53 de la loi n° 2018-862 ?",
+     "o": [
+      "Dans les quinze jours du décès",
+      "Dans les trois mois du décès",
+      "Dans les quarante-huit heures, à peine de nullité",
+      "Au moment de l'ouverture de la succession devant le notaire"
+     ],
+     "a": 0,
+     "e": "L'article 53 de la loi n° 2018-862 fixe à quinze jours le délai de déclaration du décès, plus court que celui de la naissance (trois mois).",
+     "ed": [
+      null,
+      "Trois mois est le délai de déclaration de la naissance, pas du décès.",
+      "La loi ne fixe pas un délai de quarante-huit heures pour déclarer le décès.",
+      "La déclaration de décès est un acte d'état civil, indépendant des formalités notariales."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2018-862 du 19 novembre 2018 relative à l'état civil",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2018/862/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-03",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Selon l'article 1 de la loi n° 2020-490 relative au nom, le nom est :",
+     "o": [
+      "Librement modifiable par son titulaire à sa majorité",
+      "Cessible à un tiers par contrat écrit",
+      "Immuable, imprescriptible et inaliénable, sauf les cas prévus par la loi",
+      "Choisi par l'officier de l'état civil pour tout enfant"
+     ],
+     "a": 2,
+     "e": "L'article 1 de la loi n° 2020-490 énonce que le nom est immuable, imprescriptible et inaliénable, sauf les cas prévus par la loi ; il identifie durablement la personne.",
+     "ed": [
+      "Le nom est immuable : son changement exige une décision du tribunal dans les cas prévus par la loi.",
+      "Le nom est inaliénable : il ne peut être vendu ni cédé.",
+      null,
+      "L'officier n'attribue un nom qu'à l'enfant sans filiation légalement établie (article 9)."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2020-490 relative au nom (JO spécial du 29 mai 2020)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2020/490/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-04",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Un enfant naît pendant le mariage de ses parents. Quel nom porte-t-il selon l'article 2 de la loi n° 2020-490 ?",
+     "o": [
+      "Le nom de sa mère uniquement",
+      "Un nom choisi librement par les deux parents",
+      "Le nom de son grand-père maternel",
+      "Le nom de son père, celui de sa mère étant ajouté si elle le demande"
+     ],
+     "a": 3,
+     "e": "L'article 2 de la loi n° 2020-490 dispose que l'enfant né pendant le mariage porte le nom de son père et que le nom de la mère y est ajouté si elle le demande.",
+     "ed": [
+      "Le nom de la mère seul n'est pas la règle pour l'enfant né pendant le mariage ; il peut seulement être ajouté.",
+      "La loi ne laisse pas un libre choix du nom : elle fixe la règle du nom du père.",
+      "Le nom d'un ascendant ne s'obtient que sur demande au tribunal (article 18), pas à la naissance.",
+      null
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2020-490 relative au nom (JO spécial du 29 mai 2020)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2020/490/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-05",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "D'après l'article 32 de la loi n° 2019-572, quelle est la situation du mineur non émancipé ?",
+     "o": [
+      "Il est incapable d'accomplir seul les actes de la vie civile",
+      "Il est pleinement capable dès l'âge de quinze ans",
+      "Il peut tout faire seul si ses actes sont écrits",
+      "Il ne peut acquérir aucun bien, même par succession"
+     ],
+     "a": 0,
+     "e": "L'article 32 de la loi n° 2019-572 pose que le mineur est incapable d'accomplir seul les actes de la vie civile ; il est représenté par un administrateur légal ou un tuteur (article 33).",
+     "ed": [
+      null,
+      "La pleine capacité s'acquiert à dix-huit ans ou par émancipation, pas à quinze ans.",
+      "L'écrit ne supprime pas l'incapacité : la protection vise la personne, pas la forme de l'acte.",
+      "Le mineur peut être titulaire de droits, par exemple hériter ; c'est l'exercice seul qui lui est interdit."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2019-572 du 26 juin 2019 relative à la minorité",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-06",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Quels actes le mineur peut-il accomplir seul sur son patrimoine selon l'article 34 de la loi n° 2019-572 ?",
+     "o": [
+      "Les ventes d'immeubles",
+      "Les donations",
+      "Les actes conservatoires",
+      "Les emprunts bancaires"
+     ],
+     "a": 2,
+     "e": "L'article 34 de la loi n° 2019-572 permet au mineur d'accomplir seul tous les actes conservatoires sur son patrimoine, c'est-à-dire ceux qui le préservent sans l'engager.",
+     "ed": [
+      "Vendre un immeuble engage gravement le patrimoine : ce n'est pas un acte conservatoire.",
+      "Donner appauvrit le patrimoine : le mineur ne peut le faire seul.",
+      null,
+      "Emprunter engage le patrimoine : c'est l'inverse d'un acte conservatoire."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2019-572 du 26 juin 2019 relative à la minorité",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-07",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Un enfant naît vivant cinq mois après le décès de son père. Peut-il hériter de lui ?",
+     "o": [
+      "Non, car il n'existait pas encore comme personne au jour du décès",
+      "Oui, car il était conçu au jour du décès et il est né vivant",
+      "Oui, mais seulement s'il est déclaré dans les huit jours",
+      "Non, sauf testament exprès en sa faveur"
+     ],
+     "a": 1,
+     "e": "L'article 7 de la loi n° 2019-573 n'exclut que celui qui n'est pas encore conçu et l'enfant non né vivant ; conçu au décès et né vivant, l'enfant succède.",
+     "ed": [
+      "L'enfant conçu au jour du décès et né vivant n'est pas exclu par l'article 7 : il succède.",
+      null,
+      "La déclaration de naissance n'est pas une condition pour succéder ; son délai est d'ailleurs de trois mois.",
+      "Aucun testament n'est nécessaire : il hérite en vertu de la loi."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2019-573 du 26 juin 2019 relative aux successions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/573/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-08",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Un enfant né en janvier n'a pas été déclaré à l'état civil en mai. Comment régulariser sa situation ?",
+     "o": [
+      "Par une simple déclaration à la mairie, sans délai",
+      "Par une décision du chef de quartier",
+      "Par un acte notarié",
+      "Par un jugement du tribunal, le délai de trois mois étant dépassé"
+     ],
+     "a": 3,
+     "e": "Le délai de déclaration de trois mois (article 41 de la loi n° 2018-862) est expiré : la naissance ne peut plus être enregistrée que sur jugement du tribunal.",
+     "ed": [
+      "Passé trois mois, la simple déclaration ne suffit plus.",
+      "Le chef de quartier n'a aucune compétence pour établir un acte de l'état civil.",
+      "Le notaire n'établit pas les actes de naissance ; seul un jugement peut suppléer la déclaration tardive.",
+      null
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2018-862 du 19 novembre 2018 relative à l'état civil",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2018/862/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-09",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Selon l'article 120 de la loi n° 2019-572, qui prononce l'émancipation demandée par les parents d'un mineur de seize ans révolus ?",
+     "o": [
+      "Le juge des tutelles, s'il y a de justes motifs",
+      "Le maire, sur simple déclaration",
+      "Le notaire de la famille",
+      "Le chef de famille par acte sous seing privé"
+     ],
+     "a": 0,
+     "e": "L'article 120 confie l'émancipation au juge des tutelles, saisi par la déclaration des parents ; il entend le mineur et ne la prononce que s'il y a de justes motifs.",
+     "ed": [
+      null,
+      "Le maire n'a aucune compétence en matière d'émancipation.",
+      "Le notaire n'intervient pas : l'émancipation est une décision judiciaire.",
+      "Un acte privé ne peut pas modifier la capacité d'une personne ; il faut une décision du juge."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2019-572 du 26 juin 2019 relative à la minorité",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-10",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Kader, 17 ans, est émancipé. Peut-il ouvrir seul un commerce, sans autre formalité ?",
+     "o": [
+      "Oui, l'émancipation suffit pour tous les actes",
+      "Non, il doit attendre sa majorité, sans exception",
+      "Non, il lui faut une autorisation inscrite au registre du commerce et du crédit mobilier",
+      "Oui, s'il ouvre un compte bancaire professionnel"
+     ],
+     "a": 2,
+     "e": "Selon l'article 125 de la loi n° 2019-572, le mineur émancipé ne peut faire le commerce que s'il y a été autorisé, et l'autorisation doit être inscrite au registre du commerce et du crédit mobilier.",
+     "ed": [
+      "L'émancipation rend capable des actes de la vie civile, mais le commerce exige en plus une autorisation (article 125).",
+      "Le mineur émancipé peut faire le commerce avant sa majorité s'il est autorisé.",
+      null,
+      "Un compte bancaire ne remplace pas l'autorisation légale inscrite au registre."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2019-572 du 26 juin 2019 relative à la minorité",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-11",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "Un mineur de seize ans a vendu seul un terrain hérité. Qui peut invoquer la nullité de la vente ?",
+     "o": [
+      "N'importe quel tiers, car la nullité est absolue",
+      "Seul l'acheteur, qui a été trompé",
+      "Personne, la vente est définitive",
+      "Le mineur, par son représentant, car la nullité est relative et le protège"
+     ],
+     "a": 3,
+     "e": "La vente excède les actes que le mineur peut faire seul ; la loi n° 2019-572 en prévoit la nullité, qui est relative (article 38) : elle est établie dans l'intérêt du mineur protégé.",
+     "ed": [
+      "La nullité est relative, pas absolue : elle ne peut pas être invoquée par n'importe quel tiers.",
+      "La nullité protège le mineur, pas son cocontractant majeur.",
+      "La vente d'un terrain par un mineur seul n'est pas définitive : elle encourt la nullité.",
+      null
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2019-572 du 26 juin 2019 relative à la minorité",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-dv02-12",
+     "m": "dciv",
+     "tag": "niv-dv02",
+     "q": "M. Ouattara disparaît en mer ; sa famille veut ouvrir sa succession. À quelle date celle-ci s'ouvre-t-elle selon la loi n° 2019-573 ?",
+     "o": [
+      "Au jour de la disparition, automatiquement",
+      "Au jour du prononcé du jugement déclaratif de décès",
+      "Un an après la disparition, sans jugement",
+      "Au jour où la famille le décide en conseil"
+     ],
+     "a": 1,
+     "e": "En cas d'absence ou de disparition, la succession s'ouvre par la déclaration judiciaire de décès, et sa date est fixée au jour du prononcé du jugement déclaratif (articles 1 et 2).",
+     "ed": [
+      "Sans corps ni acte de décès, la disparition ne suffit pas : il faut un jugement.",
+      null,
+      "La loi exige un jugement déclaratif de décès ; aucun délai automatique ne le remplace.",
+      "La famille ne peut pas fixer elle-même la date d'ouverture de la succession."
+     ],
+     "src": {
+      "t": "Laws.Africa (CIVLII) – Loi n° 2019-573 du 26 juin 2019 relative aux successions",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/573/fra@2023-10-13/source"
+     }
+    },
+    {
+     "id": "n20261024-or03-01",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Dans la méthode DSAC de réponse à une question d'actualité, quel est l'ordre des quatre temps ?",
+     "o": [
+      "Conclure, analyser, situer, définir",
+      "Situer, conclure, définir, analyser",
+      "Définir, situer, analyser, conclure",
+      "Analyser, définir, conclure, situer"
+     ],
+     "a": 2,
+     "e": "On définit d'abord le sujet, on le situe par des repères sûrs, on analyse enjeux et limites, puis on conclut : c'est l'ordre logique d'une note présentée à un décideur.",
+     "ed": [
+      "Commencer par conclure prive le jury du raisonnement qui fonde la conclusion.",
+      "Situer avant de définir et conclure au milieu désorganise la réponse.",
+      null,
+      "Analyser avant de définir revient à commenter un sujet que l'on n'a pas encore cerné."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261024-or03-02",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Quelle durée viser pour une réponse à une question d'actualité devant le jury ?",
+     "o": [
+      "Une à deux minutes",
+      "Dix secondes",
+      "Dix minutes sans interruption",
+      "Le temps nécessaire pour réciter tout ce que l'on sait"
+     ],
+     "a": 0,
+     "e": "Une à deux minutes permettent de dérouler les quatre temps sans lasser le jury ; au-delà, il interrompt, en deçà, la réponse paraît superficielle.",
+     "ed": [
+      null,
+      "Dix secondes ne permettent ni de situer ni d'analyser le sujet.",
+      "Dix minutes monopolisent l'entretien : le jury interrompra bien avant.",
+      "Réciter sans limite montre un défaut de synthèse, qualité attendue d'un cadre."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261024-or03-03",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Vous hésitez sur la date exacte d'un événement cité par le jury. Que faire ?",
+     "o": [
+      "Inventer une date précise pour paraître sûr de soi",
+      "Refuser de répondre à la question",
+      "Changer de sujet pour parler d'un thème mieux maîtrisé",
+      "Donner un ordre de grandeur honnête, puis analyser"
+     ],
+     "a": 3,
+     "e": "Un ordre de grandeur honnête préserve votre crédibilité ; une date fausse met en doute votre rigueur, qualité essentielle d'un futur cadre.",
+     "ed": [
+      "Une date inventée, si elle est fausse, ruine votre crédibilité auprès d'un jury qui connaît souvent la réponse.",
+      "Refuser de répondre prive le jury de votre capacité de raisonnement.",
+      "Esquiver la question donne l'impression de fuir ; le jury ramène vers le sujet.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261024-or03-04",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Un juré vous demande pour quel parti vous voteriez. Quelle attitude adopter ?",
+     "o": [
+      "Répondre franchement pour montrer votre sincérité",
+      "Rappeler avec calme le secret du vote et l'obligation de réserve, puis dire ce que l'on attend d'une élection",
+      "Critiquer le gouvernement pour montrer votre indépendance",
+      "Quitter la salle en signe de protestation"
+     ],
+     "a": 1,
+     "e": "Le futur fonctionnaire est tenu à la neutralité et à la réserve : on respecte le secret du vote sans fuir la question, en parlant des valeurs d'une élection libre et apaisée.",
+     "ed": [
+      "Afficher une préférence partisane contredit la neutralité attendue d'un fonctionnaire.",
+      null,
+      "Une critique partisane du gouvernement viole l'obligation de réserve.",
+      "Quitter la salle est une faute d'attitude qui met fin à toute évaluation favorable."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261024-or03-05",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Quel est le meilleur deuxième temps (« situer ») pour une question sur la ZLECAf ?",
+     "o": [
+      "« C'est une très bonne chose pour tout le monde. »",
+      "« Je crois que c'est une organisation européenne. »",
+      "« Accord signé à Kigali le 21 mars 2018, en vigueur le 30 mai 2019, échanges lancés le 1er janvier 2021. »",
+      "« Je n'en ai jamais entendu parler. »"
+     ],
+     "a": 2,
+     "e": "Situer, c'est donner des repères sûrs et datés : l'accord sur la ZLECAf a été signé à Kigali le 21 mars 2018, est entré en vigueur le 30 mai 2019, et les échanges ont démarré le 1er janvier 2021.",
+     "ed": [
+      "Un jugement de valeur n'est pas un repère : il relève de l'analyse et doit être nuancé.",
+      "La ZLECAf est une zone de libre-échange continentale africaine, pas une organisation européenne.",
+      null,
+      "Avouer une ignorance totale sur un sujet majeur du programme est à éviter ; il faut le préparer."
+     ],
+     "src": {
+      "t": "OMC – La Zone de libre-échange continentale africaine (ZLECAf), présentation d'octobre 2022",
+      "u": "https://www.wto.org/french/news_f/news22_f/ldevc_21oct22_afcfta_f.pdf"
+     }
+    },
+    {
+     "id": "n20261024-or03-06",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Lors de la finale de la CAN 2023, disputée le 11 février 2024 à Ebimpé, quel adversaire la Côte d'Ivoire a-t-elle battu ?",
+     "o": [
+      "Le Nigeria",
+      "Le Sénégal",
+      "L'Égypte",
+      "Le Cameroun"
+     ],
+     "a": 0,
+     "e": "Selon l'AIP, les Éléphants ont battu les Super Eagles du Nigeria 2 à 1 au stade olympique Alassane Ouattara d'Ebimpé, remportant leur troisième titre continental.",
+     "ed": [
+      null,
+      "Le Sénégal n'était pas le finaliste : la finale opposait la Côte d'Ivoire au Nigeria.",
+      "L'Égypte n'a pas disputé cette finale, jouée contre le Nigeria.",
+      "Le Cameroun n'a pas disputé cette finale, jouée contre le Nigeria."
+     ],
+     "src": {
+      "t": "AIP – CAN 2023 : la Côte d'Ivoire pour la troisième fois sur le toit de l'Afrique",
+      "u": "https://www.aip.ci/aip-can-2023-la-cote-divoire-pour-la-troisieme-fois-sur-le-toit-de-lafrique/"
+     }
+    },
+    {
+     "id": "n20261024-or03-07",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Avant la CAN 2023, en quelles années la Côte d'Ivoire avait-elle déjà remporté la Coupe d'Afrique des nations ?",
+     "o": [
+      "1984 et 2006",
+      "1992 et 2015",
+      "1992 et 2012",
+      "2002 et 2015"
+     ],
+     "a": 1,
+     "e": "L'AIP rappelle qu'« après 1992 et 2015, la Côte d'Ivoire est pour la troisième fois championne d'Afrique » avec la victoire du 11 février 2024.",
+     "ed": [
+      "Ni 1984 ni 2006 ne sont des années de titre ivoirien : les titres datent de 1992 et 2015.",
+      null,
+      "En 2012, la Côte d'Ivoire n'a pas gagné la CAN ; ses deux premiers titres datent de 1992 et 2015.",
+      "La Côte d'Ivoire n'a pas gagné en 2002 ; son premier titre remonte à 1992."
+     ],
+     "src": {
+      "t": "AIP – CAN 2023 : la Côte d'Ivoire pour la troisième fois sur le toit de l'Afrique",
+      "u": "https://www.aip.ci/aip-can-2023-la-cote-divoire-pour-la-troisieme-fois-sur-le-toit-de-lafrique/"
+     }
+    },
+    {
+     "id": "n20261024-or03-08",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Selon le Premier ministre (séminaire du 17 février 2025), quel objectif de taux de pauvreté le PND 2026-2030 fixe-t-il pour 2030 ?",
+     "o": [
+      "Un taux inférieur à 50 %",
+      "Un taux de 37,5 %",
+      "Un taux nul",
+      "Un taux inférieur à 20 %"
+     ],
+     "a": 3,
+     "e": "Le discours du Premier ministre au séminaire sur le PND 2026-2030 retient l'objectif d'un taux de pauvreté inférieur à 20 % en 2030.",
+     "ed": [
+      "50 % serait un recul : le taux était déjà estimé à 37,5 % en 2021.",
+      "37,5 % est le taux estimé en 2021, point de départ et non objectif.",
+      "Aucun plan ne fixe une pauvreté nulle ; l'objectif chiffré est inférieur à 20 %.",
+      null
+     ],
+     "src": {
+      "t": "Primature de Côte d'Ivoire – Mot introductif du Premier ministre au séminaire gouvernemental sur le PND 2026-2030 (17 février 2025)",
+      "u": "https://primature.ci/docs/1739818620250217DiscoursPMSEMINAIREGOUVERNEMENTALSURLEPND20262030.pdf"
+     }
+    },
+    {
+     "id": "n20261024-or03-09",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Après avoir exposé les faits sur un sujet international, quelle relance du jury devez-vous anticiper en priorité ?",
+     "o": [
+      "« Quel est votre plat préféré ? »",
+      "« Et pour la Côte d'Ivoire, qu'est-ce que cela change ? »",
+      "« Pouvez-vous répéter la question ? »",
+      "« Quel est le salaire d'un ministre ? »"
+     ],
+     "a": 1,
+     "e": "Le jury recrute des cadres de l'État : il veut savoir si vous reliez l'actualité aux enjeux ivoiriens et à l'action de l'administration.",
+     "ed": [
+      "Une question personnelle sans lien avec le sujet n'est pas une relance typique sur l'actualité.",
+      null,
+      "C'est vous, et non le jury, qui pouvez demander à faire répéter une question.",
+      "Cette question est hors sujet et n'évalue aucune compétence attendue."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261024-or03-10",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Vous voulez évoquer un ministre dont vous n'êtes pas sûr qu'il soit toujours en poste. Que faire ?",
+     "o": [
+      "Citer son nom quand même",
+      "Parler de la fonction plutôt que de la personne",
+      "Inventer le nom de son successeur",
+      "Éviter tout sujet lié au Gouvernement"
+     ],
+     "a": 1,
+     "e": "Nommer la fonction (« le ministre chargé de la Fonction publique ») évite une erreur sur un titulaire qui a pu changer, tout en gardant une réponse précise.",
+     "ed": [
+      "Un nom périmé montre que vous ne suivez pas l'actualité et fait douter de votre rigueur.",
+      null,
+      "Inventer un nom est une faute grave de rigueur.",
+      "Fuir tout sujet gouvernemental est impossible à l'oral d'un concours administratif."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261024-or03-11",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Dans l'analyse d'un sujet d'actualité, que doit contenir au minimum le troisième temps ?",
+     "o": [
+      "Un enjeu, une limite et un lien avec la Côte d'Ivoire",
+      "Une liste de dates sans commentaire",
+      "Une opinion partisane tranchée",
+      "Une anecdote personnelle sans rapport"
+     ],
+     "a": 0,
+     "e": "Analyser, c'est montrer un enjeu, une difficulté ou une limite, puis le lien avec le pays : c'est cet équilibre qui prouve votre maturité d'administrateur.",
+     "ed": [
+      null,
+      "Les dates appartiennent au temps « situer » ; une liste sans commentaire n'est pas une analyse.",
+      "Une opinion partisane viole la réserve attendue d'un futur fonctionnaire.",
+      "Une anecdote sans rapport éloigne du sujet au lieu de l'analyser."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261024-or03-12",
+     "m": "oral",
+     "tag": "niv-or03",
+     "q": "Quelle conclusion convient le mieux à une réponse sur l'organisation de la CAN 2023 par la Côte d'Ivoire ?",
+     "o": [
+      "« Voilà, c'est tout ce que je sais. »",
+      "« Le football ne concerne pas l'administration. »",
+      "« Seuls les joueurs méritent d'être félicités. »",
+      "« L'événement prouve une capacité d'organisation, qui engage à valoriser durablement les équipements. »"
+     ],
+     "a": 3,
+     "e": "Une bonne conclusion synthétise l'analyse et ouvre sur l'action publique : ici, la capacité d'organisation et la valorisation des infrastructures après le tournoi.",
+     "ed": [
+      "Cette formule clôt sans synthèse et donne une impression d'épuisement.",
+      "L'organisation d'une CAN mobilise l'administration (sécurité, transports, infrastructures) : l'affirmation est fausse.",
+      "Réduire l'événement aux joueurs ignore les enjeux d'organisation qui intéressent le jury.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261024-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Les traités de Westphalie de 1648, qui mettent fin à la guerre de Trente Ans, ont été signés à :",
+     "o": [
+      "Vienne et Prague",
+      "Münster et Osnabrück",
+      "Utrecht et Ryswick",
+      "Paris et Londres"
+     ],
+     "a": 1,
+     "e": "Selon l'Encyclopædia Universalis, les traités de Westphalie, signés à Münster et Osnabrück en 1648, mettent fin à la guerre de Trente Ans dans l'espace germanique.",
+     "ed": [
+      "Vienne et Prague ne sont pas les villes de signature : ce sont Münster et Osnabrück, en Westphalie.",
+      null,
+      "Utrecht et Ryswick ne sont pas les villes des traités de Westphalie, signés à Münster et Osnabrück.",
+      "Paris et Londres ne sont pas en Westphalie ; les traités y portent leur nom."
+     ],
+     "src": {
+      "t": "Encyclopædia Universalis – Westphalie, traités de (1648)",
+      "u": "https://www.universalis.fr/encyclopedie/traites-de-westphalie/"
+     }
+    },
+    {
+     "id": "n20261024-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La doctrine Monroe, qui refuse toute nouvelle colonisation européenne des Amériques, a été énoncée :",
+     "o": [
+      "Le 4 juillet 1776, dans la Déclaration d'indépendance",
+      "En 1898, après la guerre hispano-américaine",
+      "Le 2 décembre 1823, dans le message annuel du président Monroe au Congrès",
+      "En 1947, lors du lancement du plan Marshall"
+     ],
+     "a": 2,
+     "e": "Le 2 décembre 1823, dans son septième message annuel au Congrès, James Monroe déclare que les continents américains ne doivent plus être considérés comme sujets à une future colonisation européenne.",
+     "ed": [
+      "La Déclaration d'indépendance de 1776 précède la présidence de Monroe et ne contient pas cette doctrine.",
+      "En 1898, la doctrine existait déjà depuis 75 ans.",
+      null,
+      "1947 est postérieur de plus d'un siècle : la doctrine date du message du 2 décembre 1823."
+     ],
+     "src": {
+      "t": "Avalon Project (Yale Law School) – Monroe Doctrine; December 2 1823",
+      "u": "https://avalon.law.yale.edu/19th_century/monroe.asp"
+     }
+    },
+    {
+     "id": "n20261024-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO), fondée le 16 octobre 1945 à Québec, a son siège à :",
+     "o": [
+      "Rome",
+      "Genève",
+      "New York",
+      "Nairobi"
+     ],
+     "a": 0,
+     "e": "La FAO a été fondée le 16 octobre 1945 à Québec ; son siège est à Rome, en Italie.",
+     "ed": [
+      null,
+      "Genève n'est pas le siège de la FAO, établi à Rome.",
+      "New York n'est pas le siège de la FAO, établi à Rome.",
+      "Nairobi n'est pas le siège de la FAO, établi à Rome."
+     ],
+     "src": {
+      "t": "Wikipédia (en) – Food and Agriculture Organization",
+      "u": "https://en.wikipedia.org/wiki/Food_and_Agriculture_Organization"
+     }
+    },
+    {
+     "id": "n20261024-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La Charte de l'Organisation des États américains (OEA) a été signée le 30 avril 1948 à :",
+     "o": [
+      "Washington",
+      "Bogota",
+      "Rio de Janeiro",
+      "Mexico"
+     ],
+     "a": 1,
+     "e": "Les archives du Département d'État américain mentionnent la « Charte de l'Organisation des États américains, signée à Bogota le 30 avril 1948 », lors de la neuvième conférence internationale américaine.",
+     "ed": [
+      "Washington est le siège de l'OEA, mais la Charte a été signée à Bogota.",
+      null,
+      "Rio de Janeiro n'est pas la ville où la Charte de 1948 a été signée.",
+      "Mexico n'est pas la ville de signature de la Charte de l'OEA."
+     ],
+     "src": {
+      "t": "Office of the Historian (U.S. Department of State) – Ninth International Conference of American States, Bogotá, 1948",
+      "u": "https://history.state.gov/historicaldocuments/frus1948v09/ch1"
+     }
+    },
+    {
+     "id": "n20261024-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le Secrétariat de l'Association sud-asiatique de coopération régionale (ASACR / SAARC), créée le 8 décembre 1985 ?",
+     "o": [
+      "New Delhi",
+      "Islamabad",
+      "Colombo",
+      "Katmandou"
+     ],
+     "a": 3,
+     "e": "La South Asia Foundation indique que l'ASACR a été créée le 8 décembre 1985 avec l'adoption de sa Charte et que son Secrétariat a son siège à Katmandou, au Népal.",
+     "ed": [
+      "New Delhi est la capitale de l'Inde, État membre, mais pas le siège du Secrétariat.",
+      "Islamabad est la capitale du Pakistan, pas le siège du Secrétariat de l'ASACR.",
+      "Colombo, au Sri Lanka, n'est pas le siège du Secrétariat de l'ASACR.",
+      null
+     ],
+     "src": {
+      "t": "South Asia Foundation – SAARC",
+      "u": "https://www.southasiafoundation.org/SAARC.htm"
+     }
+    },
+    {
+     "id": "n20261024-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'accord portant création de la Banque africaine de développement (BAD) a été conclu le 4 août 1963 à :",
+     "o": [
+      "Khartoum",
+      "Addis-Abeba",
+      "Abidjan",
+      "Lagos"
+     ],
+     "a": 0,
+     "e": "Le recueil des traités de l'ONU indique que l'accord portant création de la BAD a été conclu à Khartoum le 4 août 1963 et qu'il est entré en vigueur le 10 septembre 1964.",
+     "ed": [
+      null,
+      "Addis-Abeba n'est pas le lieu de conclusion de l'accord, signé à Khartoum.",
+      "Abidjan n'est pas la ville où l'accord du 4 août 1963 a été conclu.",
+      "Lagos n'est pas le lieu de conclusion de l'accord, signé à Khartoum."
+     ],
+     "src": {
+      "t": "Collection des traités des Nations unies – Accord portant création de la Banque africaine de développement (chapitre X-2)",
+      "u": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20I/Chapter%20X/X-2.fr.pdf"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261024sf04",
+     "niv": "sf04",
+     "m": "sfp",
+     "titre": "La carrière du fonctionnaire : catégories, grades, avancement, positions",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer un fonctionnaire dans la hiérarchie (catégorie, grade, classe, échelon) et distinguer le grade de l'emploi.",
+      "= Vous saurez aussi distinguer avancement et promotion, et identifier la position statutaire d'un agent (activité, détachement, disponibilité, sous les drapeaux) avec ses effets.",
+      "## Ce que demande l'épreuve",
+      "La carrière est le cœur du statut général : elle répond à la question « comment un agent évolue-t-il, de son recrutement à son départ ? ». Les sujets prennent trois formes. En QCM, on vous demande une définition (grade, emploi, promotion) ou le nom d'une position. En question de cours, on vous demande de comparer deux notions, par exemple le détachement et la disponibilité. En cas pratique, on vous décrit un agent qui veut suivre son conjoint, rejoindre une organisation internationale ou passer au grade supérieur, et l'on attend la position applicable et ses conséquences sur sa rémunération, son avancement et sa retraite.",
+      "! Piège habituel : confondre avancement et promotion. L'avancement se fait à l'intérieur du grade (classes, échelons) ; la promotion fait changer de grade.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez le texte : la loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique ; les détails chiffrés (grades, échelles, durées) sont renvoyés à des décrets.",
+      "- 2. Situez l'agent : catégorie, puis grade, puis classe et échelon.",
+      "- 3. Qualifiez le mouvement demandé : changement d'échelon ou de classe (avancement), changement de grade (promotion), changement de position (détachement, disponibilité).",
+      "- 4. Énoncez l'article, puis appliquez-le aux faits : rémunération, droits à l'avancement, à la promotion et à la retraite.",
+      "- 5. Concluez par une réponse nette à la question posée.",
+      "~ Exemple : « Mme Koné, fonctionnaire, veut suivre son mari, fonctionnaire affecté à l'étranger. » Position : disponibilité pour suivre un conjoint fonctionnaire (article 63). Effets : aucune rémunération et suspension des droits à l'avancement, à la promotion et à la retraite (article 62). Durée : un an, renouvelable à sa demande motivée."
+     ],
+     "fond": [
+      "## Notion 1 : la catégorie, première marche de la hiérarchie",
+      "Règle : l'article 7 de la loi n° 2023-892 classe les emplois en quatre catégories, « dans l'ordre hiérarchique décroissant : A, B, C et D ». Le fonctionnaire y est classé en fonction de ses diplômes, de ses qualifications et de son expérience.",
+      "Pourquoi ? La catégorie relie le niveau de recrutement au niveau de responsabilité. L'article 8 précise les fonctions : la catégorie A exerce les fonctions d'études générales, de conception, de direction et de supervision ; la catégorie B, des fonctions d'application ; les catégories C et D, des fonctions d'exécution.",
+      "~ Exemple : un administrateur civil qui conçoit une réforme et dirige un service relève de la catégorie A ; un agent qui applique une procédure déjà définie relève de la catégorie B ; un agent qui exécute des tâches matérielles relève de C ou D.",
+      "? Un sujet affirme : « La catégorie B exerce des fonctions de conception. » Vrai ou faux ? || Faux. Selon l'article 8, la conception, la direction et la supervision relèvent de la catégorie A. La catégorie B exerce des fonctions d'application, c'est-à-dire qu'elle met en œuvre des orientations déjà définies.",
+      "## Notion 2 : grade, classe, échelon et emploi",
+      "Règle : à chaque catégorie sont rattachés des grades (article 9). Le grade est le titre acquis par le fonctionnaire à l'intérieur de sa catégorie, qui lui donne vocation à occuper un emploi de sa spécialité (article 10). À chaque grade correspond une échelle de traitement composée de classes et d'échelons.",
+      "Règle : « le grade est distinct de l'emploi » (article 10). L'emploi est la profession exercée par le fonctionnaire en rapport avec une qualification acquise (article 11). Les emplois sont créés ou supprimés par décret pris en Conseil des ministres (article 12), et les grades et échelles de traitement sont fixés de la même manière (article 14).",
+      "Pourquoi distinguer grade et emploi ? Le grade appartient à l'agent : c'est sa garantie de carrière. L'emploi appartient à l'Administration : elle peut le modifier selon ses besoins. C'est pourquoi l'article 15 permet au fonctionnaire de changer d'emploi au cours de sa carrière, en fonction des besoins de l'Administration, sans perdre son grade.",
+      "~ Exemple : un fonctionnaire titulaire de son grade, chef de service dans une direction régionale, est nommé chargé d'études dans une autre direction. Il change d'emploi, mais il conserve son grade, sa classe et son échelon.",
+      "! Piège : la suppression d'un emploi par décret ne fait pas disparaître le grade de l'agent qui l'occupait ; c'est précisément l'intérêt de la distinction.",
+      "## Notion 3 : avancement et promotion",
+      "Règle : l'avancement comprend l'avancement d'échelon et l'avancement de classe (article 71). L'avancement d'échelon tient compte à la fois de l'ancienneté et de l'évaluation. L'avancement de classe a lieu uniquement au profit des fonctionnaires inscrits, en raison de leur mérite, à un tableau annuel d'avancement. L'ancienneté exigée et le nombre d'échelons sont fixés par décret.",
+      "Règle : la promotion est « le passage du fonctionnaire de son grade au grade immédiatement supérieur ». Elle se fait par voie de concours internes ou, exceptionnellement, par décret (article 77).",
+      "Pourquoi ce double mécanisme ? L'avancement récompense la durée et la qualité du service dans le même grade ; la promotion ouvre l'accès à des responsabilités supérieures, ce qui justifie une sélection par concours.",
+      "~ Exemple : M. Yao passe du 3e au 4e échelon de sa classe : c'est un avancement d'échelon. Il réussit ensuite un concours interne qui le fait accéder au grade immédiatement supérieur : c'est une promotion.",
+      "## Notion 4 : l'évaluation, moteur de la carrière",
+      "Règle : le fonctionnaire est soumis à un système d'évaluation permanent (article 68). Chaque année, tout fonctionnaire en activité ou en service détaché reçoit une note chiffrée, suivie d'une appréciation générale exprimant sa valeur professionnelle et son mérite (article 69).",
+      "Pourquoi ? La note relie la carrière au mérite. L'article 72 permet de réduire la durée moyenne d'avancement d'échelon pour les fonctionnaires particulièrement méritants et de la majorer pour ceux dont la note est inférieure à un niveau fixé par décret. Le fonctionnaire qui reçoit pendant deux années consécutives une telle note ne peut bénéficier d'avancement.",
+      "? Un agent a obtenu deux années de suite une note inférieure au niveau fixé par décret. Peut-il avancer d'échelon cette année ? || Non. L'article 72 prive d'avancement le fonctionnaire qui reçoit, pendant deux années consécutives, une note inférieure au niveau fixé par décret. On cite l'article, on qualifie (deux notes insuffisantes consécutives), puis on conclut.",
+      "## Notion 5 : les positions statutaires",
+      "Règle : tout fonctionnaire est placé dans l'une des quatre positions de l'article 53 : l'activité, le détachement, la disponibilité, et la position « sous les drapeaux ».",
+      "- Activité (article 54) : le fonctionnaire régulièrement titularisé occupe effectivement un emploi. Sont aussi en activité les fonctionnaires en congé, en stage ou en formation.",
+      "- Détachement (article 55) : le fonctionnaire est autorisé à interrompre temporairement ses fonctions, notamment pour exercer un emploi ou un mandat public national ou international, un mandat syndical ou une fonction ministérielle. Il conserve ses droits à la formation, à l'avancement, à la promotion et à la retraite.",
+      "- Disponibilité (articles 61 à 63) : l'activité est suspendue temporairement, à la demande du fonctionnaire, pour un motif prévu par la loi. Le fonctionnaire n'a droit à aucune rémunération et cesse de bénéficier de ses droits à la formation, à l'avancement, à la promotion et à la retraite (article 62).",
+      "- Sous les drapeaux (article 66) : le fonctionnaire incorporé pour accomplir son service militaire légal perd sa rémunération d'activité et ne perçoit que sa solde militaire.",
+      "Les durées de la disponibilité (article 63) : maladie grave du conjoint ou d'un enfant, un an au plus ; suivre un conjoint fonctionnaire affecté à l'étranger, un an renouvelable à la demande motivée ; suivre un conjoint non fonctionnaire, un an renouvelable une seule fois ; convenances personnelles, un an renouvelable une seule fois.",
+      "Pourquoi deux régimes si différents ? Le détachement sert un intérêt public (mandat, organisation internationale) : l'agent ne doit pas être pénalisé. La disponibilité sert un intérêt personnel : l'agent ne travaille pas pour l'Administration, il ne peut donc ni être payé ni progresser.",
+      "? Mme Aka veut prendre deux ans pour créer une entreprise familiale. Quelle position ? Pour combien de temps ? || Disponibilité pour convenances personnelles (article 63) : un an, renouvelable une seule fois, soit deux ans au maximum. Pendant ce temps, elle n'est pas rémunérée et ses droits à l'avancement, à la promotion et à la retraite cessent (article 62)."
+     ],
+     "retenir": [
+      "La loi n° 2023-892 classe les emplois en quatre catégories hiérarchiques décroissantes : A, B, C et D (article 7).",
+      "La catégorie A exerce la conception, la direction et la supervision ; la catégorie B, l'application ; C et D, l'exécution (article 8).",
+      "Le grade est le titre acquis dans la catégorie ; il est distinct de l'emploi, qui est la profession exercée (articles 10 et 11).",
+      "L'avancement (échelon, classe) se fait dans le grade ; la promotion fait passer au grade immédiatement supérieur (articles 71 et 77).",
+      "L'avancement d'échelon tient compte de l'ancienneté et de l'évaluation ; l'avancement de classe exige l'inscription au tableau pour mérite.",
+      "Les quatre positions : activité, détachement, disponibilité, sous les drapeaux (article 53).",
+      "En détachement, l'agent garde ses droits à l'avancement et à la retraite ; en disponibilité, il les perd et n'est pas rémunéré.",
+      "Disponibilité pour convenances personnelles : un an, renouvelable une seule fois (article 63)."
+     ],
+     "exo": {
+      "tag": "niv-sf04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+      }
+     ]
+    },
+    {
+     "id": "L20261024dv02",
+     "niv": "dv02",
+     "m": "dciv",
+     "titre": "Les personnes : personnalité juridique, état civil, nom et capacité",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dire quand commence et finit la personnalité juridique, comment l'état civil la constate, comment se transmet le nom et qui est capable d'agir seul.",
+      "= Vous saurez résoudre un petit cas pratique sur un mineur, un enfant à naître ou une déclaration de naissance tardive en citant le bon texte ivoirien.",
+      "## Ce que demande l'épreuve",
+      "Le droit des personnes ouvre tout programme de droit civil. Les questions portent sur des définitions (personne physique, personne morale, capacité), sur des délais et des âges (déclaration de naissance, majorité, émancipation) et sur des cas pratiques : un mineur a vendu un bien, un enfant n'a pas été déclaré, des parents veulent ajouter le nom de la mère. Le correcteur attend la règle exacte et son texte : depuis 2018-2020, le droit ivoirien des personnes a été largement réécrit par des lois nouvelles.",
+      "! Piège habituel : citer l'ancienne loi. Les textes de référence sont la loi n° 2018-862 du 19 novembre 2018 relative à l'état civil, la loi n° 2019-572 du 26 juin 2019 relative à la minorité, la loi n° 2020-490 relative au nom et la loi n° 2019-573 du 26 juin 2019 relative aux successions.",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez la personne en cause : personne physique (majeure, mineure, émancipée) ou personne morale.",
+      "- 2. Identifiez la question : existence de la personne, preuve de son état, nom, ou capacité d'agir.",
+      "- 3. Citez la règle et son texte, avec l'âge ou le délai exact.",
+      "- 4. Appliquez aux faits, puis tirez la conséquence : acte valable, nul, ou à régulariser (par exemple par un jugement supplétif).",
+      "~ Exemple : « Un mineur de 15 ans a vendu seul la moto que lui a léguée son oncle. » Règle : le mineur est incapable d'accomplir seul les actes de la vie civile (article 32 de la loi n° 2019-572), sauf les actes conservatoires (article 34). Une vente n'est pas un acte conservatoire : elle encourt la nullité, qui est relative (articles 37 et 38)."
+     ],
+     "fond": [
+      "## Notion 1 : la personnalité juridique",
+      "Règle : la personnalité juridique est l'aptitude à être titulaire de droits et d'obligations. Le droit reconnaît deux sortes de personnes : les personnes physiques (les êtres humains) et les personnes morales (des groupements auxquels la loi reconnaît cette aptitude, comme l'État, les communes, les sociétés ou les associations).",
+      "Pour la personne physique, la personnalité commence à la naissance d'un enfant né vivant et prend fin au décès. La loi n° 2019-573 relative aux successions l'illustre : « Pour succéder, il faut exister à l'instant de l'ouverture de la succession » (article 7). Sont donc incapables de succéder celui qui n'est pas encore conçu et l'enfant qui n'est pas né vivant.",
+      "Pourquoi cette précision sur l'enfant conçu ? A contrario, l'enfant déjà conçu au jour du décès, puis né vivant, peut hériter : la loi protège l'enfant à naître lorsque c'est dans son intérêt.",
+      "~ Exemple : M. Kouadio décède le 1er mars ; son fils naît vivant le 10 juillet suivant. L'enfant était conçu au jour du décès et il est né vivant : il succède à son père. S'il était mort-né, il ne succéderait pas.",
+      "La fin de la personnalité : la succession s'ouvre au jour de la mort (article 2) ; en cas d'absence ou de disparition, elle s'ouvre par la déclaration judiciaire de décès, au jour du prononcé du jugement (articles 1 et 2).",
+      "? Un enfant est conçu deux mois après le décès de M. Diallo. Peut-il hériter de lui ? || Non. L'article 7 de la loi n° 2019-573 exclut « celui qui n'est pas encore conçu » à l'ouverture de la succession. On vérifie toujours deux conditions : être conçu au jour du décès, puis naître vivant.",
+      "## Notion 2 : l'état civil, preuve de l'existence et de la situation",
+      "Règle : les actes de l'état civil sont des écrits dans lesquels l'officier ou l'agent de l'état civil constate de manière authentique les principaux événements de la vie d'une personne (article 1 de la loi n° 2018-862). On distingue notamment les actes de naissance, de mariage et de décès.",
+      "Les délais : la naissance doit être déclarée dans les trois mois de l'accouchement (article 41) ; le décès, dans les quinze jours (article 53). Peuvent déclarer la naissance le père ou la mère, un ascendant ou un proche parent, toute personne ayant assisté à l'accouchement ou, si la naissance a lieu hors du domicile, la personne chez qui la mère a accouché (article 43).",
+      "Pourquoi un délai ? Plus la déclaration est tardive, plus le risque d'erreur ou de fraude grandit. Passé le délai, la naissance ne peut plus être enregistrée sur simple déclaration : il faut un jugement du tribunal (article 41). De même, un acte manquant peut être suppléé par un jugement supplétif (article 83).",
+      "~ Exemple : un enfant né le 2 janvier n'a pas été déclaré au 2 avril. Le délai de trois mois est expiré : les parents doivent saisir le tribunal, qui ordonnera l'enregistrement.",
+      "! Piège : les mentions marginales. Le décès est mentionné en marge de l'acte de naissance du défunt (article 54) et le mariage en marge de l'acte de naissance de chaque époux (article 71) : l'acte de naissance suit la personne toute sa vie.",
+      "## Notion 3 : le nom",
+      "Règle : « Toute personne doit avoir un nom et un ou plusieurs prénoms » (article 1 de la loi n° 2020-490). Le nom est immuable, imprescriptible et inaliénable, sauf dans les cas prévus par la loi.",
+      "La transmission : l'enfant né pendant le mariage porte le nom de son père ; le nom de la mère y est ajouté si elle le demande (article 2). L'enfant né hors mariage porte le nom du parent à l'égard duquel sa filiation est établie ; si elle l'est simultanément à l'égard des deux, il porte le nom du père, et celui de la mère est ajouté si elle le demande (article 3).",
+      "Pourquoi l'immutabilité ? Le nom sert à identifier la personne de façon stable ; on ne peut donc pas en changer librement. Nul ne peut porter un autre nom que celui de son acte de naissance (article 15). Une demande de changement se porte devant le tribunal du domicile, qui statue après conclusions écrites du ministère public (article 20).",
+      "? Un couple marié veut que leur fils porte le nom du père et celui de la mère. Est-ce possible ? || Oui. L'article 2 de la loi n° 2020-490 donne à l'enfant né pendant le mariage le nom du père et permet d'y ajouter le nom de la mère si celle-ci le demande. Il suffit que la mère formule cette demande.",
+      "## Notion 4 : la capacité, de la minorité à l'émancipation",
+      "Règle : est mineure la personne qui n'a pas encore atteint l'âge de dix-huit ans accomplis (article 1 de la loi n° 2019-572). Le mineur est incapable d'accomplir seul les actes de la vie civile (article 32) ; il est représenté par un administrateur légal ou par un tuteur (article 33). Il peut cependant accomplir seul tous les actes conservatoires sur son patrimoine (article 34).",
+      "Pourquoi cette incapacité ? Ce n'est pas une sanction, c'est une protection : le mineur manque d'expérience, la loi l'empêche d'engager seul son patrimoine. C'est pourquoi la nullité de l'acte irrégulier est relative (article 38) : elle est établie dans l'intérêt du mineur.",
+      "L'émancipation libère le mineur de l'autorité parentale ou de la tutelle et le rend capable d'accomplir tous les actes de la vie civile (article 119). Les parents peuvent la demander lorsqu'il a seize ans révolus ; le juge des tutelles l'entend et ne la prononce que s'il y a de justes motifs (article 120). La décision est publiée dans un journal d'annonces légales (article 123).",
+      "! Exception : le mineur émancipé ne peut faire le commerce que s'il y a été autorisé, et cette autorisation doit être inscrite au registre du commerce et du crédit mobilier (article 125).",
+      "? Lina, 17 ans, émancipée, veut ouvrir une boutique de commerce. Que lui faut-il ? || Une autorisation de faire le commerce, donnée selon l'article 125 de la loi n° 2019-572 (par un parent, la personne qui exerce l'autorité parentale ou le conseil de famille) et inscrite au registre du commerce et du crédit mobilier. L'émancipation seule ne suffit pas pour le commerce."
+     ],
+     "retenir": [
+      "Pour succéder, il faut exister à l'ouverture de la succession : ni l'enfant non encore conçu ni l'enfant mort-né ne succèdent (loi n° 2019-573, article 7).",
+      "La naissance se déclare dans les trois mois de l'accouchement ; le décès, dans les quinze jours (loi n° 2018-862, articles 41 et 53).",
+      "Passé le délai, la naissance ne peut être enregistrée que sur jugement du tribunal.",
+      "Toute personne doit avoir un nom et un ou plusieurs prénoms ; le nom est immuable, imprescriptible et inaliénable (loi n° 2020-490, article 1).",
+      "L'enfant né pendant le mariage porte le nom du père ; celui de la mère est ajouté si elle le demande.",
+      "Est mineure la personne qui n'a pas dix-huit ans accomplis ; elle ne peut accomplir seule que des actes conservatoires.",
+      "L'émancipation, possible dès seize ans révolus pour justes motifs, rend capable de tous les actes de la vie civile.",
+      "Le mineur émancipé ne peut faire le commerce qu'avec une autorisation inscrite au registre du commerce et du crédit mobilier."
+     ],
+     "exo": {
+      "tag": "niv-dv02",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2019-573 du 26 juin 2019 relative aux successions",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2019/573/fra@2023-10-13/source"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2018-862 du 19 novembre 2018 relative à l'état civil",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2018/862/fra@2023-10-13/source"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2020-490 relative au nom (JO spécial du 29 mai 2020)",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2020/490/fra@2023-10-13/source"
+      },
+      {
+       "t": "Laws.Africa (CIVLII) – Loi n° 2019-572 du 26 juin 2019 relative à la minorité",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2019/572/fra@2023-10-13/source"
+      }
+     ]
+    },
+    {
+     "id": "L20261024or03",
+     "niv": "or03",
+     "m": "oral",
+     "titre": "Culture et actualité devant le jury",
+     "min": 40,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez répondre en deux minutes à une question d'actualité ou de culture générale par une réponse structurée : définir, situer, analyser, conclure.",
+      "= Vous saurez aussi relier un fait d'actualité à l'action publique ivoirienne et réagir quand vous ne savez pas.",
+      "## Ce que demande l'épreuve",
+      "Devant le jury, la question d'actualité ne teste pas une mémoire de journaliste. Elle teste trois qualités d'un futur cadre : la curiosité (suivez-vous la vie du pays et du monde ?), la capacité d'analyse (comprenez-vous les enjeux ?) et la réserve (savez-vous parler d'un sujet sensible avec mesure ?). Le jury relance souvent : « Et pour la Côte d'Ivoire, qu'est-ce que cela change ? » ou « Quelles limites voyez-vous ? ».",
+      "! Piège habituel : réciter un fait sans l'expliquer, ou donner son opinion partisane. Le jury attend une analyse équilibrée, datée et sourcée.",
+      "## La méthode DSAC, pas à pas",
+      "- 1. Définir : reformulez le sujet et définissez le mot clé en une phrase.",
+      "- 2. Situer : donnez deux ou trois repères sûrs (date, lieu, acteurs), seulement ceux dont vous êtes certain.",
+      "- 3. Analyser : un enjeu positif, une limite ou une difficulté, puis le lien avec la Côte d'Ivoire ou l'Afrique.",
+      "- 4. Conclure : une phrase de synthèse, éventuellement une ouverture sur l'action de l'administration.",
+      "> Durée cible : une à deux minutes. Au-delà, le jury vous interrompt ; en deçà, vous paraissez superficiel.",
+      "## Se préparer chaque semaine",
+      "- Tenez un carnet de dix fiches « actualité » : le fait, deux chiffres sûrs, un enjeu, une limite, un lien avec la Côte d'Ivoire.",
+      "- Lisez les sources officielles et la presse de référence : site du Gouvernement, Primature, AIP, Fraternité Matin.",
+      "- Entraînez-vous à voix haute, chronomètre en main, avec un camarade qui joue le jury."
+     ],
+     "fond": [
+      "## Notion 1 : la réponse structurée en quatre temps",
+      "Règle : toute réponse d'actualité suit le même fil : définir, situer, analyser, conclure. Ce fil vous évite deux défauts opposés : le silence gêné et le bavardage sans fin.",
+      "Pourquoi ? Le jury évalue un futur administrateur. Or l'administration attend de ses cadres qu'ils présentent un dossier à un ministre en quelques minutes : exposer les faits, les enjeux, puis une recommandation. L'oral d'actualité en est la répétition.",
+      "~ Exemple de question : « Que vous inspire la victoire de la Côte d'Ivoire à la CAN 2023 ? » Définir : la Coupe d'Afrique des nations, organisée par la Côte d'Ivoire. Situer : le 11 février 2024, au stade olympique Alassane Ouattara d'Ebimpé, les Éléphants battent le Nigeria 2 à 1 en finale ; c'est leur troisième titre, après 1992 et 2015. Analyser : une réussite sportive, mais aussi un test d'organisation (stades, transports, sécurité) et un enjeu de rayonnement ; limite : la question de l'entretien et de l'utilisation des infrastructures après le tournoi. Conclure : l'événement montre que la Côte d'Ivoire sait organiser un grand rendez-vous continental, ce qui l'engage à valoriser durablement ces équipements.",
+      "Commentaire : chaque fait cité est sûr et daté ; l'analyse dépasse le sport ; la conclusion relie le sujet à l'action publique.",
+      "? Un jury vous demande : « Qu'est-ce que la ZLECAf ? » Construisez les deux premiers temps de votre réponse. || Définir : la Zone de libre-échange continentale africaine vise à créer un grand marché africain en réduisant les droits de douane entre États. Situer : l'accord a été signé à Kigali le 21 mars 2018, il est entré en vigueur le 30 mai 2019 et les échanges ont démarré le 1er janvier 2021. Ces trois repères suffisent ; inutile d'en ajouter d'incertains.",
+      "## Notion 2 : relier l'actualité à la Côte d'Ivoire",
+      "Règle : après les faits, montrez toujours ce que le sujet change pour le pays : l'économie, l'emploi des jeunes, les services publics, la cohésion sociale.",
+      "Pourquoi ? Le jury recrute des cadres de l'État ivoirien, pas des commentateurs. Le lien avec les politiques publiques prouve que vous pensez déjà en administrateur.",
+      "~ Exemple : sur la ZLECAf, l'enjeu pour la Côte d'Ivoire est double : un marché plus vaste pour ses produits transformés, et une concurrence accrue pour ses entreprises. L'administration a donc un rôle d'accompagnement : information des PME, facilitation douanière, normes de qualité.",
+      "~ Exemple : sur la planification, vous pouvez rappeler que, selon le Premier ministre au séminaire du 17 février 2025, le taux de pauvreté est passé de 55 % en 2011 à 37,5 % estimé en 2021, et que le Plan national de développement 2026-2030 vise un taux inférieur à 20 % en 2030. Analyse : un progrès réel, mais un objectif exigeant qui suppose une croissance plus inclusive.",
+      "? Le jury demande : « En quoi le PND vous concerne-t-il comme futur administrateur ? » Proposez une réponse en trois phrases. || Le PND fixe les priorités de l'État pour cinq ans, donc les programmes que les ministères doivent exécuter. Comme administrateur, je traduirai ces priorités en actions, en budgets et en indicateurs dans mon service. Je rendrai compte des résultats, car un plan ne vaut que par sa mise en œuvre et son suivi.",
+      "## Notion 3 : la règle d'or des faits sûrs",
+      "Règle : ne citez que des faits dont vous êtes certain. Un chiffre faux fait perdre plus de points qu'un chiffre absent, car il met en doute votre rigueur.",
+      "Pourquoi ? Le jury connaît souvent la réponse et vérifie votre fiabilité. Un futur cadre qui invente un chiffre devant un jury en inventera un devant un ministre.",
+      "- Si vous hésitez sur une date, donnez l'ordre de grandeur (« au début des années 2020 ») plutôt qu'une date fausse.",
+      "- Si vous ignorez le sujet, dites-le simplement, puis raisonnez à partir de ce que vous savez : « Je ne connais pas le détail de cette mesure, mais, si elle vise à…, ses enjeux seraient… ».",
+      "! Piège : mentionner le nom d'un titulaire de fonction sans être sûr qu'il est toujours en poste. Parlez plutôt de la fonction (« le ministre chargé de la Fonction publique »).",
+      "## Notion 4 : les sujets sensibles et la réserve",
+      "Règle : sur un sujet politique, religieux ou communautaire, présentez les positions en présence, rappelez le cadre légal et les valeurs du service public, sans prendre parti.",
+      "Pourquoi ? Le fonctionnaire est tenu à la neutralité et à la réserve. Le jury vérifie que vous saurez servir l'État quel que soit le gouvernement en place.",
+      "~ Exemple : « Que pensez-vous des tensions qui entourent les élections ? » Réponse type : les élections sont un moment de choix démocratique ; elles exigent des institutions impartiales et des acteurs qui respectent les règles ; l'administration y contribue par l'organisation matérielle et la neutralité de ses agents ; comme futur fonctionnaire, mon rôle est de garantir l'égalité de traitement des citoyens.",
+      "? Un juré insiste : « Mais vous, personnellement, pour qui voteriez-vous ? » Que répondre ? || Avec calme et courtoisie : « Le vote est secret et, comme futur fonctionnaire, je suis tenu à la réserve. Je peux en revanche vous dire ce que j'attends d'une élection : qu'elle soit libre, transparente et apaisée. » On respecte la réserve sans fuir la question."
+     ],
+     "retenir": [
+      "Une réponse d'actualité suit quatre temps : définir, situer, analyser, conclure, en une à deux minutes.",
+      "Ne citez que des faits certains : un chiffre faux coûte plus cher qu'un chiffre absent.",
+      "Reliez toujours le sujet à la Côte d'Ivoire et à l'action de l'administration.",
+      "Sur un sujet sensible, exposez les positions et le cadre légal, sans prendre parti : c'est l'obligation de réserve.",
+      "La Côte d'Ivoire a remporté la CAN 2023 le 11 février 2024 contre le Nigeria (2-1), son troisième titre après 1992 et 2015.",
+      "La ZLECAf : accord signé à Kigali le 21 mars 2018, en vigueur le 30 mai 2019, échanges lancés le 1er janvier 2021.",
+      "Le PND 2026-2030 vise un taux de pauvreté inférieur à 20 % en 2030."
+     ],
+     "exo": {
+      "tag": "niv-or03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "AIP – CAN 2023 : la Côte d'Ivoire pour la troisième fois sur le toit de l'Afrique",
+       "u": "https://www.aip.ci/aip-can-2023-la-cote-divoire-pour-la-troisieme-fois-sur-le-toit-de-lafrique/"
+      },
+      {
+       "t": "OMC – La Zone de libre-échange continentale africaine (ZLECAf), présentation d'octobre 2022",
+       "u": "https://www.wto.org/french/news_f/news22_f/ldevc_21oct22_afcfta_f.pdf"
+      },
+      {
+       "t": "Primature de Côte d'Ivoire – Mot introductif du Premier ministre au séminaire gouvernemental sur le PND 2026-2030 (17 février 2025)",
+       "u": "https://primature.ci/docs/1739818620250217DiscoursPMSEMINAIREGOUVERNEMENTALSURLEPND20262030.pdf"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "sfp",
+     "src": "original",
+     "ref": "Entraînement · 24 oct. 2026",
+     "t": "« Le détachement protège le fonctionnaire, la disponibilité le laisse seul. » Commentez cette affirmation à la lumière de la loi n° 2023-892 portant statut général de la fonction publique.",
+     "plan": [
+      "Introduction : définir les positions statutaires (article 53 : activité, détachement, disponibilité, sous les drapeaux) ; problématique : la différence de régime traduit-elle une différence de finalité entre intérêt public et intérêt personnel ?",
+      "I. Le détachement, une interruption au service de l'intérêt public : A. des cas limitativement prévus (mandat public national ou international, mandat syndical, fonction ministérielle, article 55) ; B. le maintien des droits à la formation, à l'avancement, à la promotion et à la retraite, et une rémunération au moins égale (articles 55 et 59).",
+      "II. La disponibilité, une suspension à la demande de l'agent : A. des motifs et des durées encadrés (article 63 : maladie grave d'un proche, suivre un conjoint, convenances personnelles) ; B. des effets rigoureux mais logiques : aucune rémunération, droits suspendus (article 62), tempérés par les allocations familiales maintenues en cas de maladie d'un enfant (article 64).",
+      "Conclusion : l'affirmation est juste mais incomplète : la disponibilité ne « laisse pas seul » l'agent, elle lui garantit un retour encadré ; ouverture sur les décrets d'application fixant la réintégration (articles 60 et 65)."
+     ]
+    }
+   ]
   }
  ]
 }
