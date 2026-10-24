@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "1396c0fd du 24/10/2026";
+const APP_VERSION = "1f2cb3b6 du 24/10/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -2712,7 +2712,7 @@ function vRattrapages(){
   const due = dueMissed(), old = state.missed.filter(m=>m.st!=="due").slice(-10).reverse();
   return h("div",{class:"stack"},
     h("div",null, h("p",{class:"lbl"},"Séances manquées"), h("h1",null,"Rattrapages")),
-    h("p",{class:"muted"},"Chaque rattrapage est une épreuve en conditions d'examen dans la matière de la séance manquée. Réussi (12/20 au QCM, 10/20 à l'écrit ou à l'oral), il rend les points perdus. Délai : 14 jours."),
+    h("p",{class:"muted"},"Un rattrapage se fait en deux temps : d'abord la relecture complète du cours de la matière depuis le début (technique, cours, à retenir, avec les temps de lecture minimum), puis l'évaluation en conditions d'examen. Réussie (12/20 au QCM, 10/20 à l'écrit ou à l'oral), elle rend les points perdus. Délai : 14 jours."),
     due.length ? h("div",{class:"list"}, due.map(m=>h("div",{class:"item"},
       h("span",{class:"grow"}, h("b",null, kindLabel(m.k)), h("span",{class:"muted small block"}, JOURS[parseYmd(m.date).getDay()] + " " + frDate(m.date) + " · " + m.debut + "–" + m.fin + " · −" + m.pts + " XP · avant le " + frDate(m.limit))),
       h("button",{class:"btn small primary",type:"button",onclick:()=>startRattrapage(m)},"Rattraper")))) : card("soft", h("p",null,"Aucune séance à rattraper. Continuez ainsi.")),
@@ -2720,8 +2720,29 @@ function vRattrapages(){
     old.length ? card("stack", h("h2",null,"Historique"), h("div",{class:"list"}, old.map(m=>h("div",{class:"item"}, h("span",{class:"grow"}, kindLabel(m.k) + " · " + frDate(m.date)), h("span",{class:"meta"}, m.st==="ok" ? "rattrapé (+" + m.pts + ")" : "perdu (−" + m.pts + ")"))))) : null
   );
 }
-function startRattrapage(m){
-  if (TRACKS[m.k]) return startRevision(m.k, m.id);
+// Rattrapage : on reprend d'abord le cours depuis le début (technique, cours, à retenir, avec les temps de lecture),
+// puis seulement l'évaluation. Niveau repris : celui en cours dans la matière, sinon le dernier validé.
+function rattLevel(k){
+  const t = TRACKS[k]; if (!t) return null;
+  const cur = currentLevel(k);
+  if (cur && levelStatus(cur) === "cur" && lessonOf(cur)) return cur;
+  const done = t.levels.map(L=>LVMAP[L[0]]).filter(lv=>isValid(lv.id) && lessonOf(lv) && !lv.last);
+  return done.length ? done[done.length-1] : null;
+}
+function openRattLesson(lv, m, then){
+  lesson = {id:lv.id, review:false, ratt:m.id, rattThen:then, step:0, maxStep:0, stepStart:Date.now()};
+  go("lesson");
+}
+function rattEcritEpreuve(){ return activeTracks().map(k=>TRACKS[k].ecrit).filter(Boolean).find(x=>isValid(METHOD_LEVEL[x])) || "sog"; }
+function startRattrapage(m, afterLesson){
+  if (!afterLesson){
+    let lv = null;
+    if (TRACKS[m.k] && m.k !== "oral") lv = rattLevel(m.k);
+    else if (m.k === "oral") lv = LVMAP[TRACKS.oral.levels[0][0]];
+    else if (m.k === "ecrit") lv = LVMAP[METHOD_LEVEL[rattEcritEpreuve()]];
+    if (lv && lessonOf(lv)) return openRattLesson(lv, m, ()=>startRattrapage(m, true));
+  }
+  if (TRACKS[m.k] && m.k !== "oral") return startRevision(m.k, m.id);
   if (m.k === "blanc") return startBlanc(m.id);
   if (m.k === "oral") return startOral({ratt:m.id});
   if (m.k === "ecrit"){ const e = activeTracks().map(k=>TRACKS[k].ecrit).filter(Boolean).find(x=>isValid(METHOD_LEVEL[x])) || "sog"; const s = pickSujet(e); if (s) return startEcrit(s, {dur:3600, ratt:m.id}); }
@@ -2803,12 +2824,12 @@ function vLesson(){
   // durée minimale de lecture (sauf en révision d'un niveau validé)
   let nextBtn = null;
   if (st < 3){
-    const need = (lesson.review || st < (lesson.maxStep||0)) ? 0 : minRead(steps[st][1], steps[st][2]);
+    const need = ((lesson.review && !lesson.ratt) || st < (lesson.maxStep||0)) ? 0 : minRead(steps[st][1], steps[st][2]);
     const left = ()=> Math.ceil(need - (Date.now()-lesson.stepStart)/1000);
     nextBtn = h("button",{class:"btn primary",type:"button",id:"nextStep",onclick:()=>{
       if (left() > 0) return toast("Lisez encore " + left() + " s avant de continuer.");
       lesson.maxStep = Math.max(lesson.maxStep||0, st+1); lesson.step++; lesson.stepStart = Date.now();
-      if (lesson.step === 3 && !lesson.review){ const x = state.lv[lv.id] || (state.lv[lv.id] = {}); x.read = true; save(); }
+      if (lesson.step === 3 && !lesson.review && !lesson.ratt){ const x = state.lv[lv.id] || (state.lv[lv.id] = {}); x.read = true; save(); }
       render(); window.scrollTo({top:0});
     }}, "Suivant");
     if (left() > 0){
@@ -2817,7 +2838,7 @@ function vLesson(){
     }
   }
   return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"}, TRACKS[lv.track].court + " · niveau " + (lv.idx+1) + (lesson.review ? " · révision" : "")),h("h1",{class:"h-l"},l.titre || lv.t)),
+    h("div",null,h("p",{class:"lbl"}, TRACKS[lv.track].court + " · niveau " + (lv.idx+1) + (lesson.ratt ? " · rattrapage : relecture complète avant l'évaluation" : lesson.review ? " · révision" : "")),h("h1",{class:"h-l"},l.titre || lv.t)),
     dots,
     st < 3 ? ttsControls(st < 2 ? steps[st][1] : (l.retenir||[]), ttsKey) : null,
     body,
@@ -2829,6 +2850,7 @@ function vLesson(){
   );
 }
 function evalCard(lv, l, s){
+  if (lesson.ratt){ const then = lesson.rattThen; return card("stack", h("h2",null,"Évaluation de rattrapage"), h("p",null,"Vous avez relu le cours en entier : vous pouvez maintenant passer l'évaluation de rattrapage, en conditions d'examen. Réussie (12/20 au QCM, 10/20 à l'écrit ou à l'oral), elle rend les points perdus."), h("button",{class:"btn primary",type:"button",onclick:()=>{ lesson = null; then(); }},"Passer l'évaluation de rattrapage")); }
   if (lesson.review) return card("stack", h("p",null,"Niveau validé avec " + fr1(s.best||0) + "/20 le " + frDate(s.ok) + "."), h("p",{class:"muted small"},"Pour vous réentraîner sur cette matière, utilisez la révision de matière (Parcours) ou l'Entraînement."));
   const pool = poolOf(lv);
   const ec = ecritNeeded(lv);
@@ -4099,7 +4121,7 @@ const TUTO = [
   { t:"Séances manquées et rattrapages", lbl:"Assiduité",
     txt:["À minuit, chaque séance non faite retire 2 XP par minute prévue : 60 XP pour un créneau de 30 minutes, 240 XP pour 2 heures.",
          "- Votre assiduité baisse, votre indice aussi, et votre grade peut redescendre.",
-         "- Chaque séance manquée se rattrape dans les 14 jours : une épreuve en conditions dans la même matière.",
+         "- Chaque séance manquée se rattrape dans les 14 jours : relecture complète du cours de la matière depuis le début (avec les temps de lecture), puis épreuve en conditions d'examen.",
          "- Réussie (12/20 au QCM, 10/20 à l'écrit ou à l'oral), elle rend les points perdus.",
          "~ Le vendredi soir est réservé aux rattrapages et à la révision des erreurs."] },
   { t:"Votre dossier de candidature", lbl:"Candidature",
