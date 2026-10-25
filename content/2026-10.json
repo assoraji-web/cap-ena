@@ -18860,6 +18860,1328 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-25",
+   "questions": [
+    {
+     "id": "n20261025-dc04-01",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Quelle loi porte la première Constitution de la Côte d'Ivoire indépendante ?",
+     "o": [
+      "La loi n° 2000-513 du 1er août 2000",
+      "La loi n° 2016-886 du 8 novembre 2016",
+      "La loi n° 60-356 du 3 novembre 1960",
+      "La loi constitutionnelle n° 2020-348 du 19 mars 2020"
+     ],
+     "a": 2,
+     "e": "La Constitution de la République, adoptée par l'Assemblée nationale le 31 octobre 1960, a été promulguée par la loi n° 60-356 du 3 novembre 1960.",
+     "ed": [
+      "C'est la Constitution de la Deuxième République, née après le changement de régime de 1999.",
+      "C'est la Constitution de la Troisième République, approuvée par le référendum du 30 octobre 2016.",
+      null,
+      "C'est une loi de révision de la Constitution de 2016, pas une Constitution nouvelle."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Constitution du 3 novembre 1960 (loi n° 60-356)",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/constitution_du_3_novembre_1960.pdf"
+     }
+    },
+    {
+     "id": "n20261025-dc04-02",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Selon l'article 9 de la Constitution de 1960, le Président de la République était élu :",
+     "o": [
+      "Pour cinq ans au suffrage universel direct, et rééligible",
+      "Pour sept ans par l'Assemblée nationale",
+      "Pour cinq ans au suffrage universel direct, rééligible une seule fois",
+      "Pour quatre ans par un collège de grands électeurs"
+     ],
+     "a": 0,
+     "e": "L'article 9 du texte de 1960 prévoit une élection pour cinq ans au suffrage universel direct et une rééligibilité sans limitation du nombre de mandats.",
+     "ed": [
+      null,
+      "Le mandat était de cinq ans et l'élection se faisait au suffrage universel direct, non par l'Assemblée.",
+      "La limite d'une seule réélection n'apparaît qu'avec la Constitution de 2000 (article 35).",
+      "Ni la durée de quatre ans ni le collège de grands électeurs ne figurent dans le texte de 1960."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Constitution du 3 novembre 1960 (loi n° 60-356)",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/constitution_du_3_novembre_1960.pdf"
+     }
+    },
+    {
+     "id": "n20261025-dc04-03",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Quelle structure la Constitution de 1960 donnait-elle au Parlement ?",
+     "o": [
+      "Deux chambres : l'Assemblée nationale et le Sénat",
+      "Deux chambres : l'Assemblée nationale et le Conseil économique et social",
+      "Une chambre unique appelée Conseil national",
+      "Une chambre unique, l'Assemblée nationale"
+     ],
+     "a": 3,
+     "e": "L'article 27 du texte de 1960 institue un Parlement composé d'une assemblée unique, l'Assemblée nationale, dont les membres portent le titre de députés.",
+     "ed": [
+      "Le Sénat n'apparaît qu'avec la Constitution de 2016, qui rend le Parlement bicaméral.",
+      "Un conseil économique et social est un organe consultatif, pas une chambre du Parlement.",
+      "L'assemblée unique s'appelait l'Assemblée nationale, non le Conseil national.",
+      null
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Constitution du 3 novembre 1960 (loi n° 60-356)",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/constitution_du_3_novembre_1960.pdf"
+     }
+    },
+    {
+     "id": "n20261025-dc04-04",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Combien de chambres comptait la Cour suprême prévue par l'article 57 de la Constitution de 1960 ?",
+     "o": [
+      "Deux : judiciaire et administrative",
+      "Quatre : constitutionnelle, judiciaire, administrative et des comptes",
+      "Trois : judiciaire, administrative et des comptes",
+      "Cinq, dont une chambre électorale"
+     ],
+     "a": 1,
+     "e": "L'article 57 de 1960 organise une Cour suprême unique à quatre chambres : constitutionnelle, judiciaire, administrative et des comptes.",
+     "ed": [
+      "Il manque la chambre constitutionnelle et la chambre des comptes.",
+      null,
+      "Il manque la chambre constitutionnelle, qui jugeait alors de la constitutionnalité.",
+      "Le texte ne prévoit ni cinq chambres ni chambre électorale."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Constitution du 3 novembre 1960 (loi n° 60-356)",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/constitution_du_3_novembre_1960.pdf"
+     }
+    },
+    {
+     "id": "n20261025-dc04-05",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Quel événement est à l'origine de la Constitution du 1er août 2000 ?",
+     "o": [
+      "Le décès du président Félix Houphouët-Boigny",
+      "L'accord de Linas-Marcoussis",
+      "Le changement de régime du 24 décembre 1999",
+      "La réforme confiée à un comité d'experts en 2016"
+     ],
+     "a": 2,
+     "e": "Après le changement de régime du 24 décembre 1999, conduit par le général Robert Guéï, une commission prépare une nouvelle loi fondamentale, approuvée par référendum en juillet 2000.",
+     "ed": [
+      "Le décès du président, le 7 décembre 1993, a ouvert une succession dans le cadre de la Constitution de 1960, sans nouveau texte.",
+      "L'accord de Linas-Marcoussis date de janvier 2003 : il est postérieur à la Constitution de 2000.",
+      null,
+      "Le comité d'experts de 2016 a préparé la Constitution de la Troisième République, non celle de 2000."
+     ],
+     "src": {
+      "t": "Africa Research Institute – Constitution-making in Côte d'Ivoire",
+      "u": "https://africaresearchinstitute.org/briefing-notes/constitution-making-cote-divoire"
+     }
+    },
+    {
+     "id": "n20261025-dc04-06",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Lors du référendum constitutionnel des 23 et 24 juillet 2000, quelle proportion des suffrages exprimés le « oui » a-t-il recueillie ?",
+     "o": [
+      "Environ 86,5 %",
+      "Environ 52 %",
+      "Environ 99 %",
+      "Environ 42 %"
+     ],
+     "a": 0,
+     "e": "Le « oui » a obtenu 86,53 % des suffrages exprimés, avec une participation d'environ 56 % ; la Constitution a ensuite été promulguée le 1er août 2000.",
+     "ed": [
+      null,
+      "Le texte a été approuvé largement, non de justesse : 52 % est très loin du résultat (86,53 %).",
+      "Le résultat, net, n'a pas atteint un score quasi unanime : il s'élève à 86,53 %.",
+      "Environ 42 % correspond à la participation annoncée au référendum de 2016, non au score du « oui » en 2000."
+     ],
+     "src": {
+      "t": "Wikipedia – 2000 Ivorian constitutional referendum",
+      "u": "https://en.wikipedia.org/wiki/2000_Ivorian_constitutional_referendum"
+     }
+    },
+    {
+     "id": "n20261025-dc04-07",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "L'article 35 de la Constitution de 2000 exigeait du candidat à la présidence qu'il soit :",
+     "o": [
+      "Né de père ou de mère ivoirien d'origine, sans limite d'âge",
+      "Âgé de 35 ans au moins, sans âge maximal",
+      "Ivoirien depuis au moins dix ans, quelle que soit l'origine de ses parents",
+      "Ivoirien d'origine, né de père et de mère eux-mêmes ivoiriens d'origine, âgé de 40 à 75 ans"
+     ],
+     "a": 3,
+     "e": "L'article 35 de 2000 exigeait un candidat « ivoirien d'origine, né de père et de mère eux-mêmes ivoiriens d'origine », âgé de quarante ans au moins et de soixante-quinze ans au plus.",
+     "ed": [
+      "C'est la règle de la Constitution de 2016 (article 55) : un seul parent ivoirien d'origine suffit.",
+      "L'âge minimal de 35 ans sans plafond est celui de 2016 ; en 2000, il fallait avoir de 40 à 75 ans.",
+      "Le texte exigeait la nationalité d'origine et des parents ivoiriens d'origine, non une simple durée de nationalité.",
+      null
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+     }
+    },
+    {
+     "id": "n20261025-dc04-08",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Quelle date correspond à la promulgation de la Constitution de la Troisième République ?",
+     "o": [
+      "Le 30 octobre 2016",
+      "Le 8 novembre 2016",
+      "Le 11 octobre 2016",
+      "Le 19 mars 2020"
+     ],
+     "a": 1,
+     "e": "Approuvée par référendum le 30 octobre 2016, la Constitution a été promulguée le 8 novembre 2016 : c'est la loi n° 2016-886, publiée au Journal officiel le 9 novembre.",
+     "ed": [
+      "Le 30 octobre 2016 est la date du référendum, non celle de la promulgation.",
+      null,
+      "Le 11 octobre 2016, l'Assemblée nationale a approuvé le projet avant le référendum.",
+      "Le 19 mars 2020 est la date de la loi constitutionnelle de révision."
+     ],
+     "src": {
+      "t": "Library of Congress – Côte d'Ivoire: New Constitution Adopted (25 novembre 2016)",
+      "u": "https://www.loc.gov/item/global-legal-monitor/2016-11-25/cte-divoire-new-constitution-adopted/"
+     }
+    },
+    {
+     "id": "n20261025-dc04-09",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Parmi ces institutions, laquelle n'a PAS été créée par la Constitution de 2016 ?",
+     "o": [
+      "Le Sénat",
+      "La vice-présidence de la République",
+      "Le Conseil constitutionnel",
+      "La Chambre nationale des rois et chefs traditionnels"
+     ],
+     "a": 2,
+     "e": "Le Conseil constitutionnel existait déjà dans la Constitution de 2000 (articles 88 à 100) ; la Constitution de 2016 l'a conservé.",
+     "ed": [
+      "Le Sénat est une création de 2016 : il rend le Parlement bicaméral (article 85).",
+      "La vice-présidence est une innovation de 2016 (articles 78 et suivants).",
+      null,
+      "Cette Chambre est créée par la Constitution de 2016 (article 175)."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+     }
+    },
+    {
+     "id": "n20261025-dc04-10",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Lors des premières élections sénatoriales, le 24 mars 2018, combien de sénateurs ont été élus, les autres étant nommés ?",
+     "o": [
+      "66 sur 99",
+      "33 sur 99",
+      "99 sur 99",
+      "50 sur 100"
+     ],
+     "a": 0,
+     "e": "66 sénateurs ont été élus et 33 nommés, soit 99 au total : la proportion de deux tiers d'élus et d'un tiers de nommés prévue par la Constitution de 2016 est respectée.",
+     "ed": [
+      null,
+      "33 est le nombre de sénateurs nommés par le Président, non celui des élus.",
+      "Un tiers des sénateurs est nommé : tous ne sont pas élus.",
+      "Le Sénat de 2018 comptait 99 membres, et non 100, dont 66 élus."
+     ],
+     "src": {
+      "t": "Wikipedia – 2018 Ivorian senatorial election",
+      "u": "https://en.wikipedia.org/wiki/2018_Ivorian_senatorial_election"
+     }
+    },
+    {
+     "id": "n20261025-dc04-11",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Le Congrès qui a voté la révision de mars 2020 réunissait 344 députés et sénateurs, et la majorité des deux tiers était requise. Quel nombre minimal de voix fallait-il réunir ?",
+     "o": [
+      "172 voix",
+      "229 voix",
+      "258 voix",
+      "230 voix"
+     ],
+     "a": 3,
+     "e": "Deux tiers de 344 font 229,33 ; une voix ne se divise pas, il faut donc arrondir au nombre entier supérieur : 230 voix. Le texte en a obtenu 246.",
+     "ed": [
+      "172 voix correspondent à la moitié de 344, non aux deux tiers.",
+      "229 voix restent en dessous de 229,33 : le seuil des deux tiers ne serait pas atteint.",
+      "258 voix correspondent aux trois quarts de 344, seuil plus élevé que celui exigé.",
+      null
+     ],
+     "src": {
+      "t": "Le360 Afrique – La révision constitutionnelle adoptée par le Parlement (18 mars 2020)",
+      "u": "https://afrique.le360.ma/cote-divoire/politique/2020/03/18/29840-cote-divoire-la-revision-constitutionnelle-adoptee-par-le-parlement-29840/"
+     },
+     "verif": "calcul",
+     "calc": "(2*344+2)//3"
+    },
+    {
+     "id": "n20261025-dc04-12",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Pourquoi la loi constitutionnelle du 19 mars 2020 n'a-t-elle pas ouvert une Quatrième République ?",
+     "o": [
+      "Parce qu'elle a été approuvée par référendum",
+      "Parce qu'elle modifie la Constitution du 8 novembre 2016 au lieu de la remplacer",
+      "Parce que le Conseil constitutionnel l'a déclarée contraire à la Constitution",
+      "Parce qu'elle n'a jamais été promulguée"
+     ],
+     "a": 1,
+     "e": "La loi n° 2020-348 modifie la loi n° 2016-886 portant Constitution, selon la procédure de révision de l'article 177 : la Constitution de 2016 demeure, simplement révisée.",
+     "ed": [
+      "Elle a été votée par le Parlement réuni en Congrès, sans référendum.",
+      null,
+      "Le Conseil constitutionnel a rendu une décision de conformité avant la promulgation.",
+      "Elle a été promulguée le 19 mars 2020."
+     ],
+     "src": {
+      "t": "Fraternité Matin – La loi constitutionnelle n° 2020-348 du 19 mars 2020 promulguée",
+      "u": "https://www.fratmat.info/article/202808/politique/cote-divoire-la-loi-constitutionnelle-n2020-348-du-19-mars-2020-promulguee-le-code-electoral-modifie-par-ordonnance-communique"
+     }
+    },
+    {
+     "id": "n20261025-pn02-01",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Selon l'article 6 du Code pénal ivoirien, quel est le but de la peine ?",
+     "o": [
+      "La répression de l'infraction commise, la peine devant tendre à l'amendement de son auteur",
+      "La seule réparation du préjudice subi par la victime",
+      "L'élimination définitive des personnes dangereuses",
+      "La prévention des infractions d'une personne jugée dangereuse"
+     ],
+     "a": 0,
+     "e": "L'article 6 dispose que « la peine a pour but la répression de l'infraction commise et doit tendre à l'amendement de son auteur ».",
+     "ed": [
+      null,
+      "La réparation du préjudice n'est pas le but que l'article 6 assigne à la peine.",
+      "L'article 6 ne parle pas d'élimination : il vise la répression et l'amendement, donc le retour possible de l'auteur.",
+      "C'est le but que l'article 6 assigne à la mesure de sûreté, non à la peine."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261025-pn02-02",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Que vise la mesure de sûreté, selon l'article 6 du Code pénal ?",
+     "o": [
+      "À punir la faute passée de l'auteur",
+      "À indemniser la victime de l'infraction",
+      "À prévenir les infractions de la part d'une personne dangereuse",
+      "À accélérer le jugement du prévenu"
+     ],
+     "a": 2,
+     "e": "La mesure de sûreté a pour but de prévenir les infractions de la part d'une personne jugée dangereuse en raison de sa tendance à la délinquance : elle regarde l'avenir.",
+     "ed": [
+      "Punir la faute passée est le rôle de la peine (répression), non de la mesure de sûreté.",
+      "L'indemnisation de la victime n'est pas l'objet de la mesure de sûreté.",
+      null,
+      "La mesure de sûreté n'a aucun rapport avec la rapidité du procès."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261025-pn02-03",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Quelles sont les peines principales énumérées par l'article 36 du Code pénal ?",
+     "o": [
+      "La peine de mort, l'emprisonnement et l'amende",
+      "Les peines privatives de liberté, l'amende et le travail d'intérêt général",
+      "L'emprisonnement, la confiscation et l'interdiction de séjour",
+      "L'amende, le sursis et la libération conditionnelle"
+     ],
+     "a": 1,
+     "e": "L'article 36 range parmi les peines principales les peines privatives de liberté (perpétuelles ou jusqu'à 20 ans), l'amende et le travail d'intérêt général.",
+     "ed": [
+      "La peine de mort est abolie par l'article 3 de la Constitution de 2016 ; elle ne figure pas parmi les peines.",
+      null,
+      "La confiscation et l'interdiction de séjour ne figurent pas dans la liste des peines principales de l'article 36.",
+      "Le sursis et la libération conditionnelle sont des modalités d'exécution ou d'aménagement, pas des peines principales."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261025-pn02-04",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Comment la doctrine appelle-t-elle la fonction de la peine qui cherche à dissuader l'ensemble de la population de commettre l'infraction ?",
+     "o": [
+      "La prévention spéciale",
+      "La neutralisation",
+      "La rétribution",
+      "La prévention générale"
+     ],
+     "a": 3,
+     "e": "La prévention générale vise la population tout entière : la menace de la peine doit dissuader chacun de passer à l'acte.",
+     "ed": [
+      "La prévention spéciale vise le condamné lui-même, pour l'empêcher de récidiver.",
+      "La neutralisation écarte une personne dangereuse ; elle ne cherche pas à dissuader les autres.",
+      "La rétribution inflige un mal proportionné à la faute ; elle regarde le passé, non la dissuasion.",
+      null
+     ],
+     "src": {
+      "t": "Infoprisons – Bulletin n° 2 : se passer de la peine pénale ? (fonctions de la peine)",
+      "u": "https://infoprisons.ch/wp-content/uploads/2020/11/bulletin_2_se_passer_peine_penale.pdf"
+     }
+    },
+    {
+     "id": "n20261025-pn02-05",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Quelle durée l'article 55 du Code pénal autorise-t-il pour un travail d'intérêt général ?",
+     "o": [
+      "De 20 à 280 heures",
+      "De 40 à 400 heures",
+      "De 1 à 12 mois",
+      "De 10 à 120 heures"
+     ],
+     "a": 0,
+     "e": "L'article 55 permet d'ordonner un travail d'intérêt général non rémunéré d'une durée de 20 à 280 heures, à la place de l'emprisonnement.",
+     "ed": [
+      null,
+      "Ces bornes ne sont pas celles de l'article 55, qui fixe un minimum de 20 et un maximum de 280 heures.",
+      "Le travail d'intérêt général se compte en heures, non en mois.",
+      "Le maximum légal est de 280 heures, non de 120."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261025-pn02-06",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "M. Diallo, poursuivi pour un crime, demande à effectuer un travail d'intérêt général. Le juge peut-il le lui accorder ?",
+     "o": [
+      "Oui, s'il est présent à l'audience",
+      "Oui, à condition que le travail soit rémunéré",
+      "Non, car le travail d'intérêt général n'est applicable qu'aux délits et aux contraventions",
+      "Non, car le travail d'intérêt général est réservé aux mineurs"
+     ],
+     "a": 2,
+     "e": "L'article 38 du Code pénal précise que le travail d'intérêt général n'est applicable qu'aux délits et aux contraventions : un crime l'exclut.",
+     "ed": [
+      "La présence à l'audience est nécessaire, mais elle ne suffit pas : l'infraction doit être un délit ou une contravention.",
+      "Le travail d'intérêt général est par définition non rémunéré (article 55).",
+      null,
+      "Le Code pénal ne réserve pas le travail d'intérêt général aux mineurs ; la limite tient à la nature de l'infraction."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261025-pn02-07",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Mlle Konan, jugée en son absence pour un délit, peut-elle être condamnée à un travail d'intérêt général ?",
+     "o": [
+      "Oui, le travail d'intérêt général peut toujours remplacer l'emprisonnement",
+      "Non, l'article 56 interdit de le prononcer contre un prévenu absent à l'audience",
+      "Oui, si elle l'accepte ensuite par lettre",
+      "Non, car il ne s'applique qu'aux contraventions"
+     ],
+     "a": 1,
+     "e": "L'article 56 du Code pénal interdit de prononcer le travail d'intérêt général contre un prévenu qui n'est pas présent à l'audience.",
+     "ed": [
+      "Ce n'est pas toujours possible : il faut notamment un prévenu présent et une peine encourue de trois ans au plus.",
+      null,
+      "Une acceptation postérieure ne remplace pas la présence exigée à l'audience.",
+      "Il s'applique aussi aux délits (article 38) ; c'est l'absence qui fait obstacle ici."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261025-pn02-08",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Selon le décret n° 2023-239, quel établissement accueille les prévenus ?",
+     "o": [
+      "La maison pénale",
+      "La maison de correction",
+      "Le centre de réinsertion",
+      "La maison d'arrêt"
+     ],
+     "a": 3,
+     "e": "L'article 4 du décret n° 2023-239 dispose que les maisons d'arrêt accueillent les prévenus, c'est-à-dire les personnes non encore définitivement jugées.",
+     "ed": [
+      "La maison pénale accueille des condamnés, pour crimes ou délits graves, sous sécurité renforcée.",
+      "La maison de correction accueille des condamnés en régime fermé, avec un régime orienté vers la réinsertion.",
+      "Le centre de réinsertion accueille des condamnés en régime ouvert.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 portant réglementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261025-pn02-09",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Quels condamnés le décret n° 2023-239 oriente-t-il vers les maisons pénales ?",
+     "o": [
+      "Les condamnés pour crimes ou pour délits punis de plus de cinq ans d'emprisonnement",
+      "Tous les condamnés à moins d'un an",
+      "Les prévenus considérés comme dangereux",
+      "Les condamnés en régime ouvert qui préparent leur sortie"
+     ],
+     "a": 0,
+     "e": "L'article 7 réserve les maisons pénales aux condamnés pour crimes ou pour délits punis de plus de cinq ans, avec un régime de sécurité renforcée qui préserve la réinsertion.",
+     "ed": [
+      null,
+      "Les courtes peines ne relèvent pas des maisons pénales, réservées aux infractions les plus graves.",
+      "Les prévenus relèvent des maisons d'arrêt, quelle que soit leur dangerosité supposée.",
+      "Le régime ouvert est celui des centres de réinsertion (article 8)."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 portant réglementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261025-pn02-10",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Dans un établissement pénitentiaire, quel service veille à la formation et à la réinsertion sociale des détenus ?",
+     "o": [
+      "Le greffe",
+      "Le bureau de sécurité",
+      "Le bureau socio-éducatif",
+      "Le service médical"
+     ],
+     "a": 2,
+     "e": "L'article 26 du décret n° 2023-239 charge le bureau socio-éducatif de veiller à la formation et à la réinsertion sociale des détenus.",
+     "ed": [
+      "Le greffe veille à la légalité de la détention et suit la situation pénale (article 22).",
+      "Le bureau de sécurité veille à la sécurité des détenus et des installations (article 20).",
+      null,
+      "Le service médical assure les soins de santé et l'hygiène (article 25)."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 portant réglementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261025-pn02-11",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Selon la règle 4 des Règles Nelson Mandela, à quoi visent principalement les peines privatives de liberté ?",
+     "o": [
+      "À faire expier la faute par la souffrance",
+      "À protéger la société contre le crime et à prévenir la récidive",
+      "À réduire le coût de la justice pénale",
+      "À remplacer la réparation due à la victime"
+     ],
+     "a": 1,
+     "e": "La règle 4 fixe comme objectifs principaux la protection de la société contre le crime et la prévention de la récidive, ce qui suppose de préparer la réinsertion pendant la détention.",
+     "ed": [
+      "La règle 3 interdit au contraire d'aggraver les souffrances inhérentes à la détention.",
+      null,
+      "Les Règles Nelson Mandela ne fixent pas d'objectif budgétaire à la peine.",
+      "La règle 4 ne fait pas de la détention un substitut à la réparation due à la victime."
+     ],
+     "src": {
+      "t": "Ensemble de règles minima des Nations unies pour le traitement des détenus (Règles Nelson Mandela), texte français",
+      "u": "https://www.humanrights.ch/cms/upload/pdf/2023/230925_Nelson_Mandela_Rules_FR.pdf"
+     }
+    },
+    {
+     "id": "n20261025-pn02-12",
+     "m": "pen",
+     "tag": "niv-pn02",
+     "q": "Un établissement sert à la fois de maison d'arrêt et de maison de correction. Quelle règle de répartition des détenus s'impose ?",
+     "o": [
+      "Prévenus et condamnés peuvent être mélangés, puisqu'il s'agit d'un seul établissement",
+      "Seuls les mineurs doivent être séparés des majeurs",
+      "Les prévenus doivent être transférés dans une maison pénale",
+      "Les prévenus et les condamnés doivent être séparés"
+     ],
+     "a": 3,
+     "e": "L'article 38 du décret n° 2023-239 impose de séparer prévenus et condamnés lorsqu'un même établissement est maison d'arrêt et maison de correction ; l'article 10 du Pacte de 1966 l'exige aussi.",
+     "ed": [
+      "Le caractère unique de l'établissement ne dispense pas de la séparation : le prévenu est présumé innocent.",
+      "La séparation des mineurs et des majeurs s'ajoute à celle des prévenus et des condamnés ; elle ne la remplace pas.",
+      "La maison pénale accueille des condamnés, jamais des prévenus.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 portant réglementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261025-rd04-01",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Le conseil de gestion d'un établissement public adopte son budget par un vote. Quel document doit garder la trace officielle de cette décision ?",
+     "o": [
+      "Le procès-verbal",
+      "Le compte rendu",
+      "La note d'information",
+      "Le bordereau d'envoi"
+     ],
+     "a": 0,
+     "e": "Une instance qui délibère et vote doit conserver une trace officielle de sa décision, qui pourra servir de preuve : c'est le rôle du procès-verbal.",
+     "ed": [
+      null,
+      "Le compte rendu, plus informatif que juridique, convient aux réunions de travail, non à la trace officielle d'un vote.",
+      "La note d'information transmet une information ; elle ne relate pas une séance.",
+      "Le bordereau d'envoi accompagne la transmission de documents ; il ne relate rien."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22821/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-02",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Lequel de ces éléments distingue le compte rendu du procès-verbal ?",
+     "o": [
+      "Le compte rendu est soumis à l'approbation de la réunion suivante",
+      "Le compte rendu reproduit mot pour mot toutes les interventions",
+      "Le compte rendu n'est pas soumis à l'approbation d'une réunion ultérieure",
+      "Le compte rendu indique obligatoirement le résultat chiffré de chaque vote"
+     ],
+     "a": 2,
+     "e": "Le compte rendu est un aide-mémoire moins officiel et moins rigide que le procès-verbal ; contrairement à ce dernier, il n'est pas soumis à l'approbation d'une réunion ultérieure.",
+     "ed": [
+      "C'est le procès-verbal qui est approuvé, généralement à la séance suivante.",
+      "Le compte rendu est succinct : il résume, il ne reproduit pas mot pour mot.",
+      null,
+      "Le résultat chiffré des votes est une mention propre au procès-verbal."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un compte rendu",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22825/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-compte-rendu"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-03",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "À quel temps rédige-t-on de préférence un procès-verbal ou un compte rendu ?",
+     "o": [
+      "Au passé simple",
+      "Au présent",
+      "Au futur simple",
+      "À l'imparfait"
+     ],
+     "a": 1,
+     "e": "Les règles de rédaction recommandent le présent pour le procès-verbal comme pour le compte rendu : il rend le texte vivant et évite les difficultés de concordance des temps.",
+     "ed": [
+      "Le passé simple, temps du récit littéraire, ne convient pas aux écrits administratifs de réunion.",
+      null,
+      "La réunion a déjà eu lieu : le futur ne peut pas servir à la relater.",
+      "L'imparfait n'est pas le temps recommandé ; il alourdit le texte et brouille la succession des décisions."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22821/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-04",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Dans un procès-verbal, comment doivent être notées les décisions ?",
+     "o": [
+      "Résumées en quelques mots, comme les interventions",
+      "Omises lorsqu'elles ont été adoptées à l'unanimité",
+      "Renvoyées en annexe, sans le résultat du vote",
+      "Intégralement, avec le résultat du vote"
+     ],
+     "a": 3,
+     "e": "Les interventions sont résumées, mais les propositions et décisions sont notées intégralement et mises en évidence, avec le nombre de voix ou la mention de l'unanimité.",
+     "ed": [
+      "Seules les interventions sont résumées ; les décisions doivent figurer en entier.",
+      "Une décision unanime doit être notée comme les autres, avec la mention « à l'unanimité ».",
+      "Le résultat du vote fait partie des mentions attendues dans le corps du procès-verbal.",
+      null
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22821/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-05",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Qui rédige habituellement le procès-verbal d'une séance ?",
+     "o": [
+      "Le secrétaire de séance",
+      "Le président seul, de mémoire, après la séance",
+      "Chaque participant, pour sa propre intervention",
+      "Le premier agent disponible, sans désignation préalable"
+     ],
+     "a": 0,
+     "e": "Le procès-verbal est rédigé par le secrétaire de séance, désigné en début de réunion, puis approuvé par les membres.",
+     "ed": [
+      null,
+      "Le président signe, mais la rédaction revient au secrétaire, qui prend des notes pendant la séance.",
+      "Un procès-verbal rédigé par morceaux perdrait son unité et sa neutralité.",
+      "Le nom du secrétaire figure parmi les mentions : il est désigné, non improvisé."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22821/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-06",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Notes : « M. Yao : je suis contre, ce projet ne marchera jamais. » Quelle transcription convient dans un procès-verbal ?",
+     "o": [
+      "M. Yao dit qu'il est contre et que ça ne marchera jamais.",
+      "M. Yao pense que le projet est nul.",
+      "M. Yao marque son désaccord et doute de la réussite du projet.",
+      "Nous avons noté que M. Yao était contre."
+     ],
+     "a": 2,
+     "e": "Le style indirect, au présent, avec des verbes qui traduisent l'opposition et la réserve (« marquer son désaccord », « douter de »), rend fidèlement la position sans registre familier.",
+     "ed": [
+      "« Dit que » et « ça » relèvent d'un registre familier, contraire au ton administratif.",
+      "« Nul » est un jugement familier qui exagère le propos.",
+      null,
+      "Le « nous » est exclu hors citation, et l'imparfait n'est pas le temps recommandé."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Verbes utilisés pour la rédaction d'un compte rendu ou d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22870/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/verbes-utilises-pour-la-redaction-dun-compte-rendu-ou-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-07",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Mme Bamba déclare : « J'approuve entièrement la proposition du directeur. » Quelle transcription rend fidèlement sa position ?",
+     "o": [
+      "Mme Bamba conteste la proposition du directeur.",
+      "Mme Bamba approuve la proposition du directeur.",
+      "Mme Bamba s'inquiète de la proposition du directeur.",
+      "Mme Bamba réfute la proposition du directeur."
+     ],
+     "a": 1,
+     "e": "« Approuver » fait partie des verbes qui traduisent l'accord : il rend exactement la position exprimée par Mme Bamba.",
+     "ed": [
+      "« Contester » marque une opposition, l'inverse de ce qu'elle a dit.",
+      null,
+      "« S'inquiéter de » exprime une réserve, alors qu'elle donne un accord entier.",
+      "« Réfuter » marque une opposition argumentée, contraire à son propos."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Verbes utilisés pour la rédaction d'un compte rendu ou d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22870/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/verbes-utilises-pour-la-redaction-dun-compte-rendu-ou-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-08",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "M. Traoré : « Je crains que ce calendrier soit trop serré. » Quelle catégorie de verbe introducteur convient pour rapporter ce propos ?",
+     "o": [
+      "Un verbe d'opposition, comme « rejeter »",
+      "Un verbe d'accord, comme « adhérer à »",
+      "Un verbe d'exposé neutre, comme « préciser »",
+      "Un verbe de réserve, comme « s'inquiéter de »"
+     ],
+     "a": 3,
+     "e": "M. Traoré ne refuse pas le calendrier : il exprime une crainte. C'est une réserve, que traduisent des verbes comme « craindre » ou « s'inquiéter de ».",
+     "ed": [
+      "« Rejeter » marque une opposition, plus forte que la crainte exprimée.",
+      "M. Traoré n'exprime pas son accord avec le calendrier.",
+      "« Préciser » expose un fait ; il efface la crainte, donc la position réelle.",
+      null
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Verbes utilisés pour la rédaction d'un compte rendu ou d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22870/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/verbes-utilises-pour-la-redaction-dun-compte-rendu-ou-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-09",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Une réunion de travail n'avait pas d'ordre du jour. Comment organiser son compte rendu ?",
+     "o": [
+      "Énumérer les thèmes abordés, puis en faire la synthèse un à un",
+      "Reprendre les échanges mot pour mot, dans l'ordre exact des prises de parole",
+      "Ne retenir que les interventions du chef de service",
+      "Renoncer au compte rendu, faute d'ordre du jour"
+     ],
+     "a": 0,
+     "e": "Sans ordre du jour, on énumère d'abord les thèmes abordés, puis on les reprend un à un pour en faire la synthèse.",
+     "ed": [
+      null,
+      "Le compte rendu est succinct : il synthétise, il ne retranscrit pas.",
+      "Toutes les positions utiles doivent figurer, pas seulement celle du chef.",
+      "L'absence d'ordre du jour n'empêche pas de rédiger : on organise par thèmes."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un compte rendu",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22825/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-compte-rendu"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-10",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Laquelle de ces mentions est propre au procès-verbal et ne figure pas dans un compte rendu ?",
+     "o": [
+      "La date de la réunion",
+      "L'approbation du procès-verbal de la séance précédente",
+      "Le lieu de la réunion",
+      "Le nom des participants"
+     ],
+     "a": 1,
+     "e": "L'approbation du procès-verbal précédent est propre au procès-verbal : le compte rendu n'est pas soumis à l'approbation d'une réunion ultérieure.",
+     "ed": [
+      "La date figure aussi au début du compte rendu.",
+      null,
+      "Le lieu est rappelé aussi dans le compte rendu.",
+      "Le compte rendu rappelle également le nom des participants."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22821/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-11",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Par quoi se termine un compte rendu ?",
+     "o": [
+      "Par une formule de politesse adressée aux participants",
+      "Par l'avis personnel du rédacteur sur la réunion",
+      "Par l'heure de fin de la réunion et le nom du rédacteur",
+      "Par la signature de tous les participants"
+     ],
+     "a": 2,
+     "e": "Le compte rendu indique l'heure de fin de la réunion et porte au bas le nom de la personne qui l'a rédigé.",
+     "ed": [
+      "Le compte rendu n'est pas une lettre : il ne comporte pas de formule de politesse.",
+      "Le rédacteur s'en tient aux faits et n'exprime pas ses opinions.",
+      null,
+      "Le compte rendu porte le nom de son rédacteur ; il n'est pas signé par tous."
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un compte rendu",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22825/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-compte-rendu"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-rd04-12",
+     "m": "redac",
+     "tag": "niv-rd04",
+     "q": "Un rédacteur écrit dans un procès-verbal : « La discussion, très houleuse, a montré l'incompétence du trésorier. » Quelle est la faute principale ?",
+     "o": [
+      "L'emploi d'une phrase complète au lieu du style télégraphique",
+      "L'absence de verbe introducteur au présent",
+      "La mention du trésorier par sa fonction",
+      "Le jugement personnel, contraire à la neutralité exigée"
+     ],
+     "a": 3,
+     "e": "Le procès-verbal garde un ton précis, objectif et neutre, même si la discussion a été vive : « houleuse » et « l'incompétence du trésorier » sont des jugements du rédacteur.",
+     "ed": [
+      "Le procès-verbal s'écrit en phrases complètes : ce n'est pas une faute.",
+      "Le temps peut être corrigé, mais la faute principale est le jugement porté sur une personne.",
+      "Désigner un intervenant par sa fonction est correct et même courant.",
+      null
+     ],
+     "src": {
+      "t": "Office québécois de la langue française – Rédaction d'un procès-verbal",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22821/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-proces-verbal"
+     },
+     "verif": "methode"
+    },
+    {
+     "id": "n20261025-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville la charte de la Ligue des États arabes a-t-elle été signée, le 22 mars 1945 ?",
+     "o": [
+      "Damas",
+      "Le Caire",
+      "Bagdad",
+      "Riyad"
+     ],
+     "a": 1,
+     "e": "La charte de la Ligue arabe a été signée au Caire le 22 mars 1945 par sept États fondateurs ; le siège y a été fixé, transféré à Tunis en 1979, puis rétabli au Caire en 1990.",
+     "ed": [
+      "La Syrie est un État fondateur, mais la charte n'a pas été signée à Damas.",
+      null,
+      "L'Iraq est un État fondateur, mais la signature n'a pas eu lieu à Bagdad.",
+      "L'Arabie saoudite est un État fondateur, mais la charte a été signée au Caire."
+     ],
+     "src": {
+      "t": "Larousse – Ligue arabe ou Ligue des États arabes",
+      "u": "https://www.larousse.fr/encyclopedie/divers/Ligue_arabe/105875"
+     }
+    },
+    {
+     "id": "n20261025-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En quelle année l'Organisation du traité de Varsovie, alliance militaire du bloc de l'Est, a-t-elle été créée ?",
+     "o": [
+      "1955",
+      "1949",
+      "1961",
+      "1968"
+     ],
+     "a": 0,
+     "e": "Le pacte de Varsovie a été créé en mai 1955 ; ses activités militaires ont pris fin le 1er avril 1991, décision prise à Budapest le 25 février 1991.",
+     "ed": [
+      null,
+      "1949 est trop tôt : l'organisation a été créée en mai 1955.",
+      "1961 est trop tard : le pacte existait depuis mai 1955.",
+      "1968 est trop tard : le pacte existait depuis 1955."
+     ],
+     "src": {
+      "t": "Revue de l'OTAN (1991) – La fin du pacte de Varsovie",
+      "u": "https://www.nato.int/docu/revue/1991/9102-03.htm"
+     }
+    },
+    {
+     "id": "n20261025-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La révolution des Œillets du 25 avril 1974, menée par des officiers de l'armée, a mis fin à près de cinquante ans de dictature dans quel pays ?",
+     "o": [
+      "L'Espagne",
+      "La Grèce",
+      "L'Italie",
+      "Le Portugal"
+     ],
+     "a": 3,
+     "e": "La révolution des Œillets, conduite par des officiers le 25 avril 1974, a renversé au Portugal le régime né en 1926, qui avait isolé le pays du reste de l'Europe.",
+     "ed": [
+      "La révolution des Œillets désigne le soulèvement portugais du 25 avril 1974, non un événement espagnol.",
+      "La Grèce n'est pas le pays de la révolution des Œillets, qui s'est déroulée au Portugal.",
+      "L'Italie est une république démocratique depuis l'après-guerre ; la révolution des Œillets est portugaise.",
+      null
+     ],
+     "src": {
+      "t": "Vatican News – Révolution des Œillets : un héritage contesté (avril 2024)",
+      "u": "https://www.vaticannews.va/fr/monde/news/2024-04/revolution-des-oeillets-portugal-heritage-conteste-yves-leonard.print.html"
+     }
+    },
+    {
+     "id": "n20261025-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quelle est la capitale du Soudan du Sud, indépendant depuis le 9 juillet 2011 ?",
+     "o": [
+      "Khartoum",
+      "Malakal",
+      "Juba",
+      "Addis-Abeba"
+     ],
+     "a": 2,
+     "e": "Le Soudan du Sud, indépendant le 9 juillet 2011, a pour capitale Juba (ou Djouba) ; il est devenu le 193e État membre des Nations unies.",
+     "ed": [
+      "Khartoum n'est pas la capitale du Soudan du Sud ; c'est Juba.",
+      "Malakal est une ville du Soudan du Sud, mais pas sa capitale.",
+      null,
+      "Addis-Abeba est la capitale de l'Éthiopie et le siège de l'Union africaine."
+     ],
+     "src": {
+      "t": "Hérodote – 9 juillet 2011 : indépendance du Soudan du Sud",
+      "u": "https://www.herodote.net/9_juillet_2011-evenement-20110709.php?resume=1"
+     }
+    },
+    {
+     "id": "n20261025-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Sous quel nom le Burkina Faso était-il connu avant le 4 août 1984 ?",
+     "o": [
+      "La Haute-Volta",
+      "Le Dahomey",
+      "Le Soudan français",
+      "La Côte-de-l'Or"
+     ],
+     "a": 0,
+     "e": "Par une ordonnance du 2 août 1984 signée par le capitaine Thomas Sankara, la Haute-Volta devient le Burkina Faso le 4 août 1984 à 0 heure, avec un nouveau drapeau et l'hymne « Ditanyè ».",
+     "ed": [
+      null,
+      "Le Dahomey n'est pas l'ancien nom du Burkina Faso, qui s'appelait la Haute-Volta.",
+      "Le Soudan français n'est pas l'ancien nom du Burkina Faso.",
+      "La Côte-de-l'Or (Gold Coast) n'est pas l'ancien nom du Burkina Faso."
+     ],
+     "src": {
+      "t": "Burkina24 – Le 4 août 1984, Thomas Sankara rebaptisait la Haute-Volta en Burkina Faso",
+      "u": "https://burkina24.com/2021/08/04/le-4-aout-1984-thomas-sankara-rebaptisait-la-haute-volta-en-burkina-faso/"
+     }
+    },
+    {
+     "id": "n20261025-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "D'où Mao Zedong a-t-il proclamé la République populaire de Chine, le 1er octobre 1949 ?",
+     "o": [
+      "De Shanghai, sur le port",
+      "De Pékin, depuis la porte de la Paix céleste qui donne sur la place Tian'anmen",
+      "De Nankin, devant le palais présidentiel",
+      "De Taipei, sur l'île de Formose"
+     ],
+     "a": 1,
+     "e": "Le 1er octobre 1949, Mao Zedong proclame la République populaire de Chine à Pékin, depuis le balcon de la porte de la Paix céleste, face à la place Tian'anmen.",
+     "ed": [
+      "La proclamation a eu lieu à Pékin, non à Shanghai.",
+      null,
+      "La proclamation n'a pas eu lieu à Nankin, mais à Pékin.",
+      "Formose (Taïwan) est l'île où se replie Tchang Kaï-chek, adversaire de Mao."
+     ],
+     "src": {
+      "t": "Hérodote – 1er octobre 1949 : proclamation de la République populaire de Chine",
+      "u": "https://www.herodote.net/1er_octobre_1949-evenement-19491001.php"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261025dc04",
+     "niv": "dc04",
+     "m": "dc",
+     "titre": "Histoire constitutionnelle de la Côte d'Ivoire : 1960, 2000, 2016 et la révision de 2020",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dater et identifier les trois Constitutions de la Côte d'Ivoire indépendante (1960, 2000, 2016) et la révision du 19 mars 2020 : loi, mode d'adoption, innovations.",
+      "= Vous saurez aussi expliquer pourquoi chaque texte est né, et utiliser cette histoire dans une dissertation sur la stabilité des institutions.",
+      "## Ce que demande l'épreuve",
+      "L'histoire constitutionnelle sert à la fois en QCM et à l'écrit. En QCM, on vous demande une date, un numéro de loi, une institution créée ou supprimée, une condition d'éligibilité. À l'écrit, elle fournit l'introduction historique attendue dans presque tous les sujets de droit constitutionnel : le correcteur apprécie le candidat qui situe une règle actuelle dans son évolution.",
+      "! Piège habituel : confondre la date du référendum et la date de promulgation. Le peuple approuve le texte ; le Président le promulgue ensuite, et c'est la date de la loi de promulgation qui sert de référence (par exemple, loi n° 2016-886 du 8 novembre 2016).",
+      "## La méthode, pas à pas",
+      "- 1. Le contexte : quel événement a rendu un nouveau texte nécessaire (indépendance, changement de régime, réforme voulue) ?",
+      "- 2. Le mode d'adoption : vote de l'Assemblée, référendum ou Congrès du Parlement.",
+      "- 3. La référence : numéro et date de la loi.",
+      "- 4. Deux ou trois innovations, pas plus : ce sont elles que le correcteur attend.",
+      "- 5. Le lien avec le texte suivant : continuité ou rupture.",
+      "~ Exemple : « Constitution de la Troisième République ». Contexte : réforme annoncée par le Président et confiée à un comité d'experts. Adoption : référendum du 30 octobre 2016. Référence : loi n° 2016-886 du 8 novembre 2016. Innovations : vice-président, Sénat, Chambre nationale des rois et chefs traditionnels. Lien : elle remplace la Constitution de 2000."
+     ],
+     "fond": [
+      "## Notion 1 : 1959-1960, la naissance d'un État constitutionnel",
+      "Règle : le 26 mars 1959, l'assemblée territoriale, devenue constituante, adopte une première Constitution dans le cadre de la Communauté française. Après l'indépendance du 7 août 1960, l'Assemblée nationale adopte le 31 octobre 1960 la Constitution de la République, promulguée par la loi n° 60-356 du 3 novembre 1960.",
+      "Pourquoi un nouveau texte en 1960 ? Un État souverain doit fixer lui-même ses institutions. Le texte s'inspire largement de la Constitution française de 1958, mais il organise un pouvoir présidentiel fort.",
+      "Ce que contient le texte de 1960 : la devise « Union, Discipline, Travail », l'hymne « L'Abidjanaise » et le français comme langue officielle (article 1er) ; un Président élu pour cinq ans au suffrage universel direct et rééligible, sans limitation (article 9) ; un Parlement à chambre unique, l'Assemblée nationale (article 27) ; une Cour suprême à quatre chambres : constitutionnelle, judiciaire, administrative et des comptes (article 57).",
+      "La révision (articles 71 à 73) : le projet doit être voté à la majorité des trois quarts des députés, puis soumis au référendum, sauf s'il est approuvé à la majorité des quatre cinquièmes ; la forme républicaine de l'État ne peut être révisée.",
+      "? Une Assemblée de 100 députés vote un projet de révision par 78 voix. Le texte de 1960 permet-il d'éviter le référendum ? || Non. Le projet est bien adopté, car 78 dépasse les trois quarts (75 voix). Mais pour se passer du référendum, il faut les quatre cinquièmes, soit 80 voix. Avec 78 voix, le référendum reste obligatoire.",
+      "## Notion 2 : la question de la succession (1960-1993)",
+      "Règle : dans sa version de 1960, l'article 11 confie l'intérim, en cas de vacance, à une personnalité choisie au sein de l'Assemblée nationale par son président. Si le mandat restant est de douze mois au plus, cette personnalité devient Président de plein droit ; au-delà, de nouvelles élections sont organisées.",
+      "Pourquoi cette question a-t-elle tant compté ? Dans un régime centré sur un seul homme, la transition est le moment le plus fragile. Le dispositif a ensuite évolué : dès 1975, il est annoncé que le président de l'Assemblée nationale succéderait au Président mort en fonction. Le 7 décembre 1993, à la mort de Félix Houphouët-Boigny, Henri Konan Bédié, président de l'Assemblée nationale et premier dans l'ordre de succession, assume la présidence ; le Premier ministre Alassane Ouattara démissionne le 9 décembre.",
+      "~ Exemple de raisonnement : selon la version de 1960, un Président meurt alors qu'il reste huit mois de mandat. Étape 1 : il y a vacance. Étape 2 : l'intérim revient à la personnalité choisie au sein de l'Assemblée nationale par son président. Étape 3 : huit mois, c'est moins de douze mois. Conclusion : elle devient Président de plein droit, sans élection.",
+      "! Piège : ne confondez pas le texte initial de 1960 et ses versions révisées ; précisez toujours de quelle version vous parlez.",
+      "## Notion 3 : 2000, la Deuxième République née d'une rupture",
+      "Règle : après le changement de régime du 24 décembre 1999, conduit par le général Robert Guéï, une nouvelle Constitution est approuvée par le référendum des 23 et 24 juillet 2000 (environ 86,5 % de « oui », participation d'environ 56 %). Elle est promulguée par la loi n° 2000-513 du 1er août 2000.",
+      "Innovations : le Président, élu pour cinq ans, n'est rééligible qu'une fois (article 35) ; le Conseil constitutionnel juge la constitutionnalité des lois et le contentieux électoral ; un Médiateur de la République est nommé pour six ans non renouvelables ; la forme républicaine et la laïcité de l'État ne peuvent être révisées (article 127). L'article 132 accorde l'immunité aux auteurs du changement de régime du 24 décembre 1999.",
+      "Pourquoi le texte est-il resté controversé ? L'article 35 exigeait un candidat « ivoirien d'origine, né de père et de mère eux-mêmes ivoiriens d'origine », âgé de 40 à 75 ans. Le 6 octobre 2000, la Cour suprême écarte 14 candidats sur 19, dont Alassane Ouattara et Henri Konan Bédié. L'accord de Linas-Marcoussis de janvier 2003 prévoyait d'en retirer ces exigences.",
+      "? Comparez la rééligibilité du Président en 1960 et en 2000. || En 1960, le Président est rééligible sans limitation (article 9). En 2000, il n'est rééligible qu'une fois (article 35). La limitation vise à empêcher qu'un même dirigeant se maintienne indéfiniment au pouvoir.",
+      "## Notion 4 : 2016, la Troisième République",
+      "Règle : le projet, approuvé par l'Assemblée nationale le 11 octobre 2016, est soumis au référendum du 30 octobre 2016. Le « oui » l'emporte avec plus de 93 % des suffrages, pour une participation d'environ 42 % selon la Commission électorale, l'opposition ayant boycotté le vote. Le texte est promulgué le 8 novembre 2016 (loi n° 2016-886) et publié au Journal officiel le 9 novembre.",
+      "Innovations : un vice-président ; un Parlement à deux chambres, l'Assemblée nationale et le Sénat, dont deux tiers des membres sont élus au suffrage indirect et un tiers nommés par le Président ; une Chambre nationale des rois et chefs traditionnels ; l'abolition de la peine de mort (article 3). Pour être candidat, il suffit désormais d'avoir un père ou une mère ivoirien d'origine, avec un âge minimum de 35 ans et sans âge maximal (article 55).",
+      "~ Exemple chiffré : aux premières élections sénatoriales, le 24 mars 2018, 66 sénateurs sont élus et 33 sont nommés, soit 99 au total. Vérification : 66 ÷ 99 = 2/3 et 33 ÷ 99 = 1/3, conformément à la répartition prévue.",
+      "## Notion 5 : la révision du 19 mars 2020",
+      "Règle : le projet est adopté en Conseil des ministres extraordinaire le 6 mars 2020, voté par le Parlement réuni en Congrès le 17 mars (246 voix pour, 2 contre, l'opposition boycottant le scrutin), puis promulgué : c'est la loi constitutionnelle n° 2020-348 du 19 mars 2020.",
+      "Contenu : le vice-président n'est plus élu avec le Président ; il est désigné par le Président avec l'accord du Parlement. La Cour suprême disparaît : la Cour de cassation, le Conseil d'État et la Cour des comptes deviennent les juridictions représentant le pouvoir judiciaire. Si les élections législatives ne peuvent être organisées, le Parlement demeure en fonction jusqu'aux nouvelles élections.",
+      "Pourquoi n'est-ce pas une Quatrième République ? Parce que la loi de 2020 modifie la Constitution du 8 novembre 2016 selon la procédure de révision qu'elle prévoit (article 177) ; elle ne la remplace pas.",
+      "? Le Congrès réunit 344 parlementaires et doit statuer à la majorité des deux tiers. Combien de voix faut-il au minimum, et le vote de 2020 l'atteint-il ? || Deux tiers de 344 font 229,33. Une voix ne se divise pas : il faut donc 230 voix au minimum. Avec 246 voix pour, le seuil est dépassé de 16 voix.",
+      "> Pour la dissertation : la Côte d'Ivoire a connu trois Constitutions en un peu plus d'un demi-siècle. Argument de stabilité : chaque texte a conservé la forme républicaine et un exécutif fort. Argument de fragilité : deux textes sur trois ont été suscités par une crise ou une réforme contestée, et le boycott des scrutins de 2016 et de 2020 montre que le consensus reste à construire."
+     ],
+     "retenir": [
+      "La première Constitution de la Côte d'Ivoire indépendante est la loi n° 60-356 du 3 novembre 1960.",
+      "En 1960, le Président est élu pour cinq ans au suffrage universel direct et rééligible sans limitation.",
+      "La Constitution de la Deuxième République, approuvée par le référendum des 23 et 24 juillet 2000, est la loi n° 2000-513 du 1er août 2000.",
+      "L'article 35 de 2000 exigeait des parents tous deux ivoiriens d'origine ; l'article 55 de 2016 n'exige qu'un père ou une mère ivoirien d'origine.",
+      "La Constitution de la Troisième République, approuvée par le référendum du 30 octobre 2016, est la loi n° 2016-886 du 8 novembre 2016.",
+      "La Constitution de 2016 crée le vice-président, le Sénat et la Chambre nationale des rois et chefs traditionnels.",
+      "La loi constitutionnelle n° 2020-348 du 19 mars 2020 fait désigner le vice-président par le Président et supprime la Cour suprême."
+     ],
+     "exo": {
+      "tag": "niv-dc04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Conseil constitutionnel de Côte d'Ivoire – Constitution du 3 novembre 1960 (loi n° 60-356)",
+       "u": "https://www.conseil-constitutionnel.ci/sites/default/files/constitution_du_3_novembre_1960.pdf"
+      },
+      {
+       "t": "Wikipedia – Constitution of Ivory Coast",
+       "u": "https://en.wikipedia.org/wiki/Constitution_of_Ivory_Coast"
+      },
+      {
+       "t": "Africa Research Institute – Constitution-making in Côte d'Ivoire",
+       "u": "https://africaresearchinstitute.org/briefing-notes/constitution-making-cote-divoire"
+      },
+      {
+       "t": "Wikipedia – Henri Konan Bédié",
+       "u": "https://en.wikipedia.org/wiki/Henri_Konan_B%C3%A9di%C3%A9"
+      },
+      {
+       "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+       "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+      },
+      {
+       "t": "Wikipedia – 2000 Ivorian constitutional referendum",
+       "u": "https://en.wikipedia.org/wiki/2000_Ivorian_constitutional_referendum"
+      },
+      {
+       "t": "Library of Congress – Côte d'Ivoire: New Constitution Adopted (25 novembre 2016)",
+       "u": "https://www.loc.gov/item/global-legal-monitor/2016-11-25/cte-divoire-new-constitution-adopted/"
+      },
+      {
+       "t": "Wikipedia – 2018 Ivorian senatorial election",
+       "u": "https://en.wikipedia.org/wiki/2018_Ivorian_senatorial_election"
+      },
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire de 2016 (rév. 2020)",
+       "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+      },
+      {
+       "t": "Gouvernement de Côte d'Ivoire – Communiqué du Conseil des ministres extraordinaire du 6 mars 2020",
+       "u": "https://www.gouv.ci/uploads/publications/1583527164COMMUNIQUE-DU-CONSEIL-DES-MINISTRES-EXTRAORDINAIRE-DU-VENDREDI-06-MARS-2020.pdf"
+      },
+      {
+       "t": "Le360 Afrique – La révision constitutionnelle adoptée par le Parlement (18 mars 2020)",
+       "u": "https://afrique.le360.ma/cote-divoire/politique/2020/03/18/29840-cote-divoire-la-revision-constitutionnelle-adoptee-par-le-parlement-29840/"
+      },
+      {
+       "t": "Fraternité Matin – La loi constitutionnelle n° 2020-348 du 19 mars 2020 promulguée",
+       "u": "https://www.fratmat.info/article/202808/politique/cote-divoire-la-loi-constitutionnelle-n2020-348-du-19-mars-2020-promulguee-le-code-electoral-modifie-par-ordonnance-communique"
+      }
+     ]
+    },
+    {
+     "id": "L20261025pn02",
+     "niv": "pn02",
+     "m": "pen",
+     "titre": "Les finalités de la peine et de l'administration pénitentiaire : garde, sécurité, réinsertion",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez énoncer les fonctions de la peine (rétribution, intimidation, neutralisation, amendement et réinsertion) et les rattacher à l'article 6 du Code pénal ivoirien.",
+      "= Vous saurez aussi montrer comment l'administration pénitentiaire concilie garde, sécurité et réinsertion, à l'aide du décret n° 2023-239 et des Règles Nelson Mandela.",
+      "## Ce que demande l'épreuve",
+      "Ce thème est au cœur de l'épreuve sur le système pénitentiaire. Il prend trois formes : la dissertation (« La prison peut-elle réinsérer ? », « Punir ou réinsérer ? »), la question de cours (« Les finalités de la peine ») et le QCM (définition, article, catégorie d'établissement). Le correcteur attend un texte national cité exactement, une norme internationale et une réflexion sur la tension entre sécurité et réinsertion.",
+      "! Pièges habituels : confondre la peine, qui sanctionne une faute, et la mesure de sûreté, qui prévient le danger ; confondre la maison d'arrêt, qui reçoit les prévenus, et la maison de correction, qui reçoit des condamnés.",
+      "## La méthode, pas à pas",
+      "- 1. Définissez la peine : la sanction prévue par la loi et prononcée par le juge lorsque la responsabilité pénale est établie (articles 14 et 33 du Code pénal).",
+      "- 2. Citez la finalité légale : l'article 6 du Code pénal.",
+      "- 3. Classez les fonctions : morales (rétribution) et utilitaires (intimidation, neutralisation, resocialisation, réparation).",
+      "- 4. Montrez leur traduction concrète : individualisation, travail d'intérêt général, catégories d'établissements, services de la prison.",
+      "- 5. Ouvrez sur les normes internationales et sur le débat entre sécurité et réinsertion.",
+      "~ Exemple d'accroche : « L'article 6 du Code pénal assigne à la peine un double but : réprimer l'infraction et tendre à l'amendement de son auteur. Toute la difficulté de l'administration pénitentiaire est de tenir ces deux exigences à la fois. »"
+     ],
+     "fond": [
+      "## Notion 1 : la finalité légale de la peine en droit ivoirien",
+      "Règle : selon l'article 6 du Code pénal (loi n° 2019-574 du 26 juin 2019), « la peine a pour but la répression de l'infraction commise et doit tendre à l'amendement de son auteur ». Le même article assigne à la mesure de sûreté un autre but : prévenir les infractions de la part d'une personne dangereuse en raison de sa tendance à la délinquance.",
+      "Pourquoi deux formules différentes ? La répression est certaine : la peine « a pour but » de sanctionner. L'amendement est un objectif : la peine « doit tendre » à corriger l'auteur, sans garantie de résultat. La peine regarde la faute passée ; la mesure de sûreté regarde le danger futur.",
+      "Règle complémentaire : le principe de légalité interdit au juge de qualifier d'infraction et de punir un fait qui n'est pas légalement défini et puni comme tel (article 14).",
+      "~ Exemple : un jeune homme est condamné pour vol. La répression, c'est la sanction prononcée. L'amendement, c'est ce qui se passe ensuite : formation, travail, suivi, pour qu'il ne recommence pas.",
+      "! Piège : en vertu de l'article 35, aucune mesure de sûreté, hors la confiscation mesure de police, ne peut être ordonnée sans que le juge ait constaté, par une décision motivée, que l'intéressé est socialement dangereux.",
+      "? Dans l'article 6, distinguez ce qui est certain et ce qui est recherché. || La répression de l'infraction est le but certain de la peine (« a pour but »). L'amendement de l'auteur est l'objectif recherché (« doit tendre à ») : la loi l'impose comme direction, sans pouvoir en garantir le résultat.",
+      "## Notion 2 : les grandes fonctions de la peine selon la doctrine",
+      "Les fonctions morales : la rétribution inflige au coupable un mal proportionné au tort causé, pour rétablir l'équilibre. La loi du talion en est la forme ancienne ; elle a constitué un progrès, car elle limitait la vengeance.",
+      "Les fonctions utilitaires : l'intimidation, qui se dédouble en prévention générale (dissuader la population) et prévention spéciale (dissuader le condamné de récidiver) ; la neutralisation, qui écarte durablement la personne dangereuse ; la resocialisation, qui prépare le retour du condamné dans la société ; la réparation du dommage causé à la victime ; le maintien de la cohésion sociale, qui rappelle la limite entre le permis et l'interdit (Durkheim).",
+      "Pourquoi les distinguer ? Chaque fonction justifie des choix différents : la rétribution conduit à proportionner la peine à la faute, la neutralisation à l'allonger, la resocialisation à l'aménager.",
+      "~ Exemple : une campagne annonçant de lourdes amendes pour une infraction routière vise la prévention générale ; le suivi d'un condamné libéré, pour éviter qu'il recommence, relève de la prévention spéciale.",
+      "! Piège : la dissuasion n'est pas un effet automatique. La doctrine relève que la peine de mort n'a pas d'effet dissuasif démontré ; en Côte d'Ivoire, elle est abolie par l'article 3 de la Constitution.",
+      "? Classez : « Empêcher un condamné dangereux de nuire pendant toute la durée de sa détention. » || C'est la neutralisation (ou élimination) : on écarte la personne de la société pour l'empêcher de commettre de nouvelles infractions pendant ce temps, indépendamment de sa faute passée.",
+      "## Notion 3 : l'individualisation et le choix de la peine",
+      "Règle : les peines tiennent compte des circonstances de l'infraction, du danger pour l'ordre public, de la personnalité du condamné et de ses possibilités de reclassement (article 35). Les peines principales sont les peines privatives de liberté, perpétuelles ou temporaires jusqu'à 20 ans, l'amende et le travail d'intérêt général (article 36).",
+      "Le travail d'intérêt général (articles 55 à 57) : pour un délit ou une contravention puni d'un emprisonnement de trois ans au plus, le tribunal peut ordonner, à la place de l'emprisonnement, un travail non rémunéré de 20 à 280 heures, au profit d'une personne morale de droit public, d'un organisme privé chargé d'une mission de service public ou d'une association habilitée. Il ne peut être prononcé contre un prévenu absent à l'audience, ni cumulé avec une peine privative de liberté.",
+      "Pourquoi ? Le travail d'intérêt général sanctionne sans couper le condamné de sa famille et de son emploi : il sert à la fois la répression et la réinsertion.",
+      "~ Exemple : Koffi, 20 ans, présent à l'audience, est poursuivi pour un délit puni de deux ans d'emprisonnement. Étape 1 : c'est un délit, le travail d'intérêt général est possible. Étape 2 : la peine encourue ne dépasse pas trois ans. Étape 3 : il est présent. Le tribunal peut donc ordonner, par exemple, 150 heures au profit d'une mairie.",
+      "## Notion 4 : garde, sécurité, réinsertion dans l'administration pénitentiaire",
+      "Règle : le décret n° 2023-239 réglemente les établissements pénitentiaires. Ils comprennent les maisons d'arrêt, qui accueillent les prévenus, et les maisons de correction et maisons pénales, qui accueillent les condamnés en régime fermé (articles 3 à 5). La maison de correction suit un régime principalement orienté vers la réinsertion sociale ; elle peut comporter un quartier de semi-liberté. La maison pénale reçoit les condamnés pour crimes ou pour délits punis de plus de cinq ans d'emprisonnement, avec un régime de sécurité renforcée qui doit préserver les possibilités de réinsertion (article 7). Les centres de réinsertion accueillent des condamnés en régime ouvert (article 8).",
+      "Dans chaque établissement, les missions sont réparties : le bureau de sécurité veille à la sécurité des détenus et des installations (article 20) ; le greffe veille à la légalité de la détention (article 22) ; le service médical assure les soins (article 25) ; le bureau socio-éducatif veille à la formation et à la réinsertion sociale (article 26). Le détenu est traité dans le respect de la dignité humaine ; la torture est interdite (article 36). Les femmes et les hommes, les mineurs et les majeurs, et les prévenus et les condamnés lorsque l'établissement est mixte, sont séparés (article 38).",
+      "Pourquoi plusieurs catégories ? Chacune dose différemment la garde et la réinsertion, selon la situation pénale et la dangerosité.",
+      "? Un établissement sert à la fois de maison d'arrêt et de maison de correction. Que doit-il organiser ? || Il doit séparer les prévenus et les condamnés (article 38). Le prévenu n'est pas encore définitivement jugé : il ne doit pas subir le régime des condamnés.",
+      "## Notion 5 : les normes internationales",
+      "Le Pacte international relatif aux droits civils et politiques (1966) exige que toute personne privée de liberté soit traitée avec humanité et respect de sa dignité, que les prévenus soient séparés des condamnés, et que le régime pénitentiaire vise essentiellement l'amendement des condamnés (article 10). Les Règles Nelson Mandela (résolution 70/175 du 17 décembre 2015) précisent que la privation de liberté vise d'abord à protéger la société contre le crime et à prévenir la récidive (règle 4), et que le prévenu est présumé innocent et doit être traité comme tel (règle 111).",
+      "> Pour la dissertation : la sécurité protège les personnels, les détenus et la société, mais l'excès de contrainte isole et prépare mal la sortie. La réinsertion réduit la récidive, mais elle suppose des moyens et une confiance que la sécurité limite. La règle 4 Mandela réconcilie les deux : on protège durablement la société en préparant le retour du détenu."
+     ],
+     "retenir": [
+      "Selon l'article 6 du Code pénal, la peine a pour but la répression de l'infraction et doit tendre à l'amendement de son auteur.",
+      "La mesure de sûreté vise à prévenir les infractions d'une personne dangereuse : elle regarde le danger futur, non la faute passée.",
+      "Les peines principales sont les peines privatives de liberté, l'amende et le travail d'intérêt général (article 36 du Code pénal).",
+      "Le travail d'intérêt général, non rémunéré, dure de 20 à 280 heures et ne s'applique qu'aux délits et aux contraventions.",
+      "Les maisons d'arrêt accueillent les prévenus ; les maisons de correction et les maisons pénales accueillent les condamnés (décret n° 2023-239).",
+      "La maison pénale reçoit les condamnés pour crimes ou pour délits punis de plus de cinq ans, sous un régime de sécurité renforcée.",
+      "Selon la règle 4 des Règles Nelson Mandela, la privation de liberté vise à protéger la société contre le crime et à prévenir la récidive."
+     ],
+     "exo": {
+      "tag": "niv-pn02",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Gouvernement de Côte d'Ivoire – Loi n° 2019-574 du 26 juin 2019 portant Code pénal",
+       "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+      },
+      {
+       "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 portant réglementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+      },
+      {
+       "t": "Koaci – Nouvelle structuration des établissements pénitentiaires (6 avril 2023)",
+       "u": "https://www.koaci.com/article/2023/04/06/cote-divoire/societe/cote-divoire-nouvelle-structuration-des-etablissements-penitentiaires-creation-de-maisons-darret-de-maisons-de-correction-et-de-maisons-penales_168487.html"
+      },
+      {
+       "t": "Infoprisons – Bulletin n° 2 : se passer de la peine pénale ? (fonctions de la peine)",
+       "u": "https://infoprisons.ch/wp-content/uploads/2020/11/bulletin_2_se_passer_peine_penale.pdf"
+      },
+      {
+       "t": "Ensemble de règles minima des Nations unies pour le traitement des détenus (Règles Nelson Mandela), texte français",
+       "u": "https://www.humanrights.ch/cms/upload/pdf/2023/230925_Nelson_Mandela_Rules_FR.pdf"
+      },
+      {
+       "t": "Humanium – Pacte international relatif aux droits civils et politiques (texte intégral)",
+       "u": "https://www.humanium.org/fr/normes/pactes-internationaux-1966/texte-integral-pacte-international-droits-civils-politiques/"
+      },
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire de 2016 (rév. 2020)",
+       "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+      }
+     ]
+    },
+    {
+     "id": "L20261025rd04",
+     "niv": "rd04",
+     "m": "redac",
+     "titre": "Le compte rendu et le procès-verbal : différences, plan, temps et style",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir entre le compte rendu et le procès-verbal, puis rédiger l'un ou l'autre avec ses mentions, son plan, ses temps et son style.",
+      "= Vous saurez aussi rapporter fidèlement des propos au style indirect, avec le verbe introducteur qui traduit la position exacte de chaque intervenant.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de rédaction administrative fournit souvent des notes brutes prises pendant une réunion (réunion de service, commission, conseil) et demande le document adapté. Le correcteur vérifie quatre points : le bon choix de document, la présence des mentions, la fidélité aux faits et la neutralité du ton. L'épreuve de mise au net peut aussi vous demander de corriger un procès-verbal mal rédigé.",
+      "! Pièges habituels : donner son avis (« la discussion a été stérile ») ; écrire « je » ou « nous » ; employer le verbe « dire » à chaque phrase ; résumer une décision qui devait être notée intégralement.",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez la nature de la réunion : séance officielle d'une instance qui délibère et vote, ou réunion de travail.",
+      "- 2. Choisissez le document : procès-verbal pour la première, compte rendu pour la seconde.",
+      "- 3. Rédigez l'en-tête : lieu, date, heure, participants, président et secrétaire de séance.",
+      "- 4. Suivez l'ordre du jour : un paragraphe par point, la synthèse des échanges puis la décision.",
+      "- 5. Terminez : heure de clôture, puis signature ou nom du rédacteur.",
+      "- 6. Relisez : présent, forme impersonnelle, verbes introducteurs justes, aucun jugement.",
+      "~ Exemple : notes « Le DRH dit qu'il est pas d'accord avec le nouvel horaire ». Transcription : « Le directeur des ressources humaines marque son désaccord sur le nouvel horaire. » Le verbe traduit la position, le registre est administratif, le « dit que » familier disparaît."
+     ],
+     "fond": [
+      "## Notion 1 : deux documents, deux fonctions",
+      "Règle : le procès-verbal est un acte écrit qui relate officiellement les discussions et les décisions d'une séance ; il sert de référence et de témoin pour l'avenir. Il est souvent une obligation réglementaire et suit une présentation formelle. Rédigé par le secrétaire, il est approuvé par les membres, généralement à la séance suivante.",
+      "Règle : le compte rendu est un rapport complet mais succinct, à caractère plus informatif que juridique. Il est moins officiel, moins détaillé et moins rigide ; il n'est pas soumis à l'approbation d'une réunion ultérieure. C'est un aide-mémoire qui aide à poursuivre la réflexion ou à passer à l'action.",
+      "Pourquoi cette différence ? Le procès-verbal doit pouvoir prouver, des mois plus tard, qu'une décision a été prise régulièrement : il faut donc les présents, le quorum, le texte exact de la décision et le vote. Le compte rendu sert à informer et à faire agir : la synthèse compte plus que l'exhaustivité.",
+      "~ Exemple : le conseil de gestion d'un établissement public adopte son budget par un vote : procès-verbal. La réunion hebdomadaire du service courrier fait le point sur les retards : compte rendu.",
+      "? Une commission d'attribution de bourses arrête, par un vote, la liste des bénéficiaires. Quel document rédiger, et pourquoi ? || Un procès-verbal. La commission est une instance qui décide par un vote : sa décision crée des droits pour les bénéficiaires et peut être contestée. Il faut donc une trace officielle, avec les présents, le quorum, la liste adoptée et le résultat du vote.",
+      "## Notion 2 : les mentions et le plan du procès-verbal",
+      "Règle : le procès-verbal comporte en général le nom de l'instance et le titre de la réunion ; la date, l'heure et le lieu ; les personnes présentes, absentes et invitées ; la vérification du quorum s'il est requis ; les noms du président et du secrétaire ; l'adoption de l'ordre du jour et, s'il y a lieu, l'approbation du procès-verbal précédent ; pour chaque point, l'essentiel des discussions et les décisions ; les questions diverses ; la date de la prochaine réunion ; l'heure de clôture. Il est signé par le président et/ou le secrétaire.",
+      "Pourquoi suivre strictement l'ordre du jour ? Le procès-verbal est étroitement lié à l'ordre du jour : chacun doit retrouver, point par point, ce qui a été décidé.",
+      "~ Extrait modèle : « Point 2 : plan de formation 2027. Le président présente le projet. Le chef du personnel souligne le coût des formations à l'étranger. La proposition suivante est mise aux voix : « Le plan de formation 2027 est adopté. » Pour : 9 ; contre : 2 ; abstention : 1. La proposition est adoptée à la majorité. » Commentaire : le présent est employé partout ; les interventions sont résumées en une phrase ; la décision est reproduite intégralement et mise en évidence ; le vote est chiffré.",
+      "! Piège : omettre le quorum ou l'heure de clôture. Sans ces mentions, le procès-verbal ne permet plus de vérifier que la séance était régulière.",
+      "## Notion 3 : le plan du compte rendu",
+      "Règle : le compte rendu rappelle le lieu, la date et les participants ; il annonce l'ordre du jour ; il résume les discussions et les décisions, un paragraphe par sujet, selon un ordre chronologique ou thématique ; il indique l'heure de fin ; il porte au bas le nom de son rédacteur. Sans ordre du jour, on énumère d'abord les thèmes abordés, puis on les reprend un à un pour en faire la synthèse.",
+      "Pourquoi un ordre thématique est-il permis ? Parce que le compte rendu n'a pas à suivre les échanges aussi étroitement que le procès-verbal : regrouper ce qui a été dit sur un même sujet le rend plus utile au lecteur absent.",
+      "~ Paragraphe modèle : « Retards de traitement du courrier. Le chef de service indique que 120 lettres attendent une réponse depuis plus de deux semaines. Les agents proposent de réserver chaque matin une heure au courrier en souffrance. Cette organisation est retenue à compter du lundi suivant. » Commentaire : un titre de sujet, le constat, la proposition, la décision, au présent et sans jugement.",
+      "? Notes : « réunion sans ordre du jour ; on a parlé des congés, puis des badges, puis encore des congés ». Comment organiser le compte rendu ? || Énumérez d'abord les thèmes (les congés, les badges), puis traitez chacun dans un paragraphe unique : tout ce qui concerne les congés est regroupé, même si le sujet est revenu deux fois dans la réunion.",
+      "## Notion 4 : le temps, le style et les verbes introducteurs",
+      "Règle : compte rendu et procès-verbal se rédigent de préférence au présent et à la forme impersonnelle. Le « je » et le « nous » ne sont admis que dans une intervention citée entre guillemets. Le ton est précis, objectif et neutre, même si la discussion a été vive. Le compte rendu admet le style télégraphique lorsque le contenu s'y prête.",
+      "Règle : le verbe introducteur traduit la position exacte de l'intervenant. Pour exposer : indiquer, préciser, souligner, signaler. Pour donner son opinion : proposer, recommander, suggérer. Pour approuver : approuver, adhérer à, appuyer. Pour émettre une réserve : craindre, s'inquiéter de, déplorer. Pour s'opposer : contester, rejeter, s'élever contre.",
+      "Pourquoi tant de précision ? Une réserve et une opposition n'ont pas la même force : écrire « rejette » quand l'intervenant « s'inquiète » déforme sa position.",
+      "~ Exemple : « M. Kouassi : moi je pense que ce projet va échouer, c'est n'importe quoi ! » devient « M. Kouassi doute du bien-fondé du projet. » Le style indirect supprime le « je », le registre familier et l'excès, sans changer le sens.",
+      "? Réécrivez pour un procès-verbal : « Mme Bamba : je suis tout à fait d'accord avec la proposition du directeur. » || « Mme Bamba approuve la proposition du directeur. » Le verbe « approuver » exprime l'accord ; le présent et la troisième personne remplacent le « je »."
+     ],
+     "retenir": [
+      "Le procès-verbal relate officiellement les discussions et les décisions d'une séance ; il sert de référence et de preuve pour l'avenir.",
+      "Le compte rendu est un rapport complet mais succinct, plus informatif que juridique, qui n'est pas soumis à l'approbation d'une réunion ultérieure.",
+      "Le procès-verbal suit l'ordre du jour, reproduit intégralement les décisions et indique le résultat des votes.",
+      "Le procès-verbal, rédigé par le secrétaire, est signé par le président et/ou le secrétaire, puis approuvé généralement à la séance suivante.",
+      "Compte rendu et procès-verbal se rédigent de préférence au présent, à la forme impersonnelle, sans « je » ni « nous » hors citation.",
+      "Le verbe introducteur doit traduire la position exacte : exposer, proposer, approuver, émettre une réserve ou s'opposer.",
+      "Le compte rendu se termine par l'heure de fin de la réunion et le nom de son rédacteur."
+     ],
+     "exo": {
+      "tag": "niv-rd04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Office québécois de la langue française – Rédaction d'un procès-verbal",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22821/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-proces-verbal"
+      },
+      {
+       "t": "Office québécois de la langue française – Rédaction d'un compte rendu",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22825/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/redaction-dun-compte-rendu"
+      },
+      {
+       "t": "Office québécois de la langue française – Verbes utilisés pour la rédaction d'un compte rendu ou d'un procès-verbal",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22870/la-redaction-et-la-communication/redaction-administrative-et-commerciale/documents-relatifs-a-la-tenue-de-reunions/verbes-utilises-pour-la-redaction-dun-compte-rendu-ou-dun-proces-verbal"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "dc",
+     "src": "original",
+     "ref": "Entraînement · 25 oct. 2026",
+     "t": "« En Côte d'Ivoire, chaque Constitution est née d'une crise et a voulu en prévenir une autre. » Discutez cette affirmation à la lumière des Constitutions de 1960, 2000 et 2016.",
+     "plan": [
+      "Introduction : définir la Constitution et la crise ; rappeler les trois textes (loi n° 60-356 du 3 novembre 1960, loi n° 2000-513 du 1er août 2000, loi n° 2016-886 du 8 novembre 2016) ; problématique : les Constitutions ivoiriennes sont-elles des réponses aux crises ou des projets institutionnels ?",
+      "I. Des Constitutions nées de ruptures : A. 1960, la fondation d'un État souverain et d'un exécutif fort après l'indépendance ; B. 2000, un texte issu du changement de régime du 24 décembre 1999, dont l'article 35 a lui-même nourri la crise.",
+      "II. Des Constitutions conçues pour stabiliser : A. 2016, une réforme préparée par un comité d'experts (vice-président, Sénat, assouplissement de l'éligibilité) ; B. la révision de 2020, qui ajuste sans rompre (vice-président désigné, continuité du Parlement, organisation juridictionnelle).",
+      "Conclusion : l'affirmation vaut pour 2000 plus que pour 1960 et 2016 ; la stabilité dépend moins du texte que du consensus autour de son adoption, comme le montrent les boycotts de 2016 et de 2020."
+     ]
+    }
+   ]
   }
  ]
 }
