@@ -20182,6 +20182,1226 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-26",
+   "questions": [
+    {
+     "id": "n20261026-ct04-01",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Dans un résumé à « plus ou moins 10 % », sur quoi la tolérance de 10 % est-elle calculée ?",
+     "o": [
+      "Sur le nombre de mots du texte d'origine",
+      "Sur le nombre de mots imposé par le sujet",
+      "Sur le nombre de paragraphes du texte",
+      "Sur le nombre de lignes de la copie"
+     ],
+     "a": 1,
+     "e": "La tolérance s'applique au nombre de mots imposé par le sujet : le résumé doit compter entre 90 % et 110 % de ce nombre.",
+     "ed": [
+      "Le texte d'origine est beaucoup plus long : 10 % de sa longueur ne correspond à aucune contrainte du sujet.",
+      null,
+      "Le résumé se mesure en mots, pas en paragraphes.",
+      "Le nombre de lignes dépend de l'écriture du candidat ; il n'est pas une unité de mesure."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-ct04-02",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Un sujet demande un résumé de 220 mots, plus ou moins 10 %. Quel est le nombre maximal de mots autorisé ?",
+     "o": [
+      "230 mots",
+      "240 mots",
+      "242 mots",
+      "250 mots"
+     ],
+     "a": 2,
+     "e": "Le maximum vaut 110 % du nombre imposé : 220 × 1,1 = 242 mots. Au-delà, le résumé est hors fourchette.",
+     "ed": [
+      "230 correspond à 220 + 10 mots, pas à 220 + 10 %.",
+      "240 n'est pas 110 % de 220 : il manque 2 mots.",
+      null,
+      "250 dépasse de 8 mots le maximum de 242."
+     ],
+     "verif": "calcul",
+     "calc": "220 * 1.1"
+    },
+    {
+     "id": "n20261026-ct04-03",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Un sujet demande un résumé de 160 mots, plus ou moins 10 %. Quel est le nombre minimal de mots à atteindre ?",
+     "o": [
+      "144 mots",
+      "150 mots",
+      "140 mots",
+      "154 mots"
+     ],
+     "a": 0,
+     "e": "Le minimum vaut 90 % du nombre imposé : 160 × 0,9 = 144 mots. En dessous, le résumé est trop court.",
+     "ed": [
+      null,
+      "150 correspond à 160 − 10 mots, pas à 160 − 10 %.",
+      "140 est inférieur au minimum de 144 : ce résumé serait hors fourchette.",
+      "154 est dans la fourchette, mais ce n'est pas le minimum : on peut descendre jusqu'à 144."
+     ],
+     "verif": "calcul",
+     "calc": "160 * 0.9"
+    },
+    {
+     "id": "n20261026-ct04-04",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Selon la convention usuelle, combien de mots compte le sigle « UEMOA » dans un résumé ?",
+     "o": [
+      "Cinq mots, un par lettre",
+      "Deux mots",
+      "Un mot",
+      "Zéro : les sigles ne comptent pas"
+     ],
+     "a": 2,
+     "e": "Un sigle forme une seule unité typographique entre deux blancs : il compte pour un mot, comme « SNCF » ou « CEDEAO ».",
+     "ed": [
+      "On ne compte pas les lettres d'un sigle : il forme une seule unité entre deux blancs.",
+      "Rien ne justifie de compter un sigle pour deux mots.",
+      null,
+      "Tout ce qui figure dans le résumé est compté ; un sigle n'est pas un mot gratuit."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-ct04-05",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Combien de mots compte la phrase « Le Ghana devient indépendant en 1957. » selon la convention usuelle ?",
+     "o": [
+      "Six mots",
+      "Cinq mots",
+      "Sept mots",
+      "Quatre mots"
+     ],
+     "a": 0,
+     "e": "Le (1) Ghana (2) devient (3) indépendant (4) en (5) 1957 (6) : six mots. La date en chiffres compte pour un mot, le point ne compte pas.",
+     "ed": [
+      null,
+      "C'est oublier un mot : l'article « Le » et la date « 1957 » comptent chacun pour un mot.",
+      "Le point final n'est pas un mot : il ne se compte pas.",
+      "Les petits mots « Le » et « en » comptent comme les autres."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-ct04-06",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Pourquoi conseille-t-on d'écrire exactement dix mots par ligne au brouillon ?",
+     "o": [
+      "Parce que le jury l'impose sur la copie",
+      "Pour que le total se lise en multipliant le nombre de lignes pleines par dix",
+      "Pour écrire moins vite et mieux réfléchir",
+      "Pour que le résumé paraisse plus long"
+     ],
+     "a": 1,
+     "e": "Avec dix mots par ligne et des lignes numérotées, le total se calcule immédiatement : lignes pleines × 10, plus les mots de la dernière ligne.",
+     "ed": [
+      "C'est une technique de brouillon : le jury n'impose pas de nombre de mots par ligne sur la copie.",
+      null,
+      "La technique sert à compter sans erreur, pas à ralentir l'écriture.",
+      "La présentation du brouillon n'a aucun effet sur la longueur du résumé recopié."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-ct04-07",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Votre brouillon contient 21 lignes de dix mots et une dernière ligne de 6 mots. Combien de mots compte-t-il ?",
+     "o": [
+      "206 mots",
+      "210 mots",
+      "216 mots",
+      "226 mots"
+     ],
+     "a": 2,
+     "e": "21 lignes pleines font 21 × 10 = 210 mots, auxquels s'ajoutent les 6 mots de la dernière ligne : 216 mots.",
+     "ed": [
+      "206 revient à compter 20 lignes pleines au lieu de 21.",
+      "210 oublie les 6 mots de la dernière ligne.",
+      null,
+      "226 ajoute 10 mots de trop : il n'y a que 21 lignes pleines."
+     ],
+     "verif": "calcul",
+     "calc": "21 * 10 + 6"
+    },
+    {
+     "id": "n20261026-ct04-08",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Votre résumé compte 268 mots pour 240 demandés, plus ou moins 10 %. Combien de mots devez-vous retirer au minimum ?",
+     "o": [
+      "4 mots",
+      "28 mots",
+      "24 mots",
+      "12 mots"
+     ],
+     "a": 0,
+     "e": "Le maximum autorisé est 240 × 1,1 = 264 mots ; 268 − 264 = 4 mots à retirer au minimum. Viser un peu moins donne une marge de sécurité.",
+     "ed": [
+      null,
+      "28 ramène à 240 mots exactement : c'est plus que le minimum nécessaire.",
+      "24 revient à confondre la tolérance (24 mots) et l'excès à supprimer.",
+      "12 ne correspond à aucun calcul utile : 268 − 12 = 256 est permis, mais ce n'est pas le minimum."
+     ],
+     "verif": "calcul",
+     "calc": "268 - 240 * 1.1"
+    },
+    {
+     "id": "n20261026-ct04-09",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Votre résumé dépasse de quinze mots le maximum autorisé. Quelle correction est la plus juste ?",
+     "o": [
+      "Supprimer la dernière phrase, qui contient la conclusion de l'auteur",
+      "Supprimer les redites et les adjectifs superflus, puis fusionner deux phrases de même sujet",
+      "Déclarer un total conforme sans rien changer",
+      "Remplacer les connecteurs logiques par des virgules"
+     ],
+     "a": 1,
+     "e": "On réduit d'abord ce qui n'apporte aucune idée : redites, adjectifs non indispensables, phrases à fusionner. Les idées et la logique de l'auteur restent intactes.",
+     "ed": [
+      "Couper la conclusion supprime une idée essentielle du texte : le résumé devient infidèle.",
+      null,
+      "Déclarer un faux total est une faute grave, sanctionnée dès que le correcteur recompte.",
+      "Les connecteurs portent la logique du texte : les supprimer rend le résumé incohérent."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-ct04-10",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Votre résumé est trop court de douze mots. Que devez-vous faire ?",
+     "o": [
+      "Ajouter une phrase donnant votre avis sur le texte",
+      "Recopier un exemple chiffré du texte",
+      "Rechercher l'idée ou la concession oubliée et rétablir les connecteurs logiques",
+      "Répéter l'idée principale à la fin pour conclure"
+     ],
+     "a": 2,
+     "e": "Un résumé trop court a souvent omis une idée ou une nuance du texte. On la rétablit et on explicite les liens logiques ; on n'ajoute rien qui ne soit dans le texte.",
+     "ed": [
+      "L'avis personnel est interdit dans le résumé, qui parle à la place de l'auteur.",
+      "Les exemples se suppriment ou se généralisent : les recopier contredit la technique du résumé.",
+      null,
+      "Une répétition est du remplissage : le correcteur la sanctionne comme une maladresse."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-ct04-11",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Le texte emploie souvent « c'est-à-dire ». Pourquoi est-il prudent d'éviter cette locution dans votre résumé ?",
+     "o": [
+      "Parce qu'elle est fautive en français",
+      "Parce que son décompte varie selon les correcteurs : un ou quatre mots",
+      "Parce qu'elle compte toujours pour zéro mot",
+      "Parce que les locutions sont interdites dans un résumé"
+     ],
+     "a": 1,
+     "e": "Les mots à trait d'union ne sont pas comptés de la même façon partout : « c'est-à-dire » vaut un mot pour certains, quatre pour d'autres. « Soit » ou « autrement dit » évitent l'ambiguïté.",
+     "ed": [
+      "La locution est parfaitement correcte : le problème est seulement celui du décompte.",
+      null,
+      "Aucune convention ne compte une locution pour zéro mot.",
+      "Les locutions sont permises ; seule l'ambiguïté de décompte invite à la prudence."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-ct04-12",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Un candidat écrit 236 mots pour un résumé de 220 mots (± 10 %) et déclare « 220 mots ». Que risque-t-il ?",
+     "o": [
+      "Rien, puisque 236 est dans la fourchette",
+      "Rien, le total déclaré n'est jamais vérifié",
+      "Une sanction, car le total déclaré est faux, même si la longueur réelle est permise",
+      "Une bonification pour avoir visé le nombre exact"
+     ],
+     "a": 2,
+     "e": "236 mots est dans la fourchette (198 à 242), mais le total déclaré doit être exact : un chiffre faux, découvert au recomptage, est sanctionné comme une tentative de tromper le jury.",
+     "ed": [
+      "La longueur est permise, mais la déclaration fausse constitue une faute distincte.",
+      "Le correcteur recompte souvent tout ou partie du résumé : un écart se voit.",
+      null,
+      "Aucune bonification n'existe pour un total inexact ; c'est au contraire une faute."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-de03-01",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Par quelle résolution de l'Assemblée générale des Nations unies la Convention relative aux droits de l'enfant a-t-elle été adoptée, le 20 novembre 1989 ?",
+     "o": [
+      "La résolution 217 A (III)",
+      "La résolution 1386 (XIV)",
+      "La résolution 66/138",
+      "La résolution 44/25"
+     ],
+     "a": 3,
+     "e": "La Convention a été adoptée et ouverte à la signature par la résolution 44/25 de l'Assemblée générale du 20 novembre 1989, comme l'indique son en-tête.",
+     "ed": [
+      "La résolution 217 A (III) de 1948 proclame la Déclaration universelle des droits de l'homme.",
+      "La résolution 1386 (XIV) de 1959 proclame la Déclaration des droits de l'enfant du 20 novembre 1959, et non la Convention.",
+      "La résolution 66/138 de 2011 adopte le protocole facultatif sur la procédure de communications.",
+      null
+     ],
+     "src": {
+      "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+      "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-02",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "À quelle date la Convention relative aux droits de l'enfant est-elle entrée en vigueur ?",
+     "o": [
+      "Le 20 novembre 1989",
+      "Le 2 septembre 1990",
+      "Le 26 janvier 1990",
+      "Le 4 février 1991"
+     ],
+     "a": 1,
+     "e": "La Convention est entrée en vigueur le 2 septembre 1990, conformément à son article 49 : le trentième jour suivant le dépôt du vingtième instrument de ratification.",
+     "ed": [
+      "Le 20 novembre 1989 est la date d'adoption par l'Assemblée générale, non celle de l'entrée en vigueur.",
+      null,
+      "Le 26 janvier 1990 est la date de la signature par la Côte d'Ivoire.",
+      "Le 4 février 1991 est la date de la ratification par la Côte d'Ivoire."
+     ],
+     "src": {
+      "t": "Collection des traités des Nations unies – État de la Convention relative aux droits de l'enfant (IV-11)",
+      "u": "https://treaties.un.org/doc/publication/mtdsg/volume%20i/chapter%20iv/iv-11.en.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-03",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "À quelle date la Côte d'Ivoire a-t-elle ratifié la Convention relative aux droits de l'enfant ?",
+     "o": [
+      "Le 4 février 1991",
+      "Le 2 septembre 1990",
+      "Le 7 août 1990",
+      "Le 12 mars 2012"
+     ],
+     "a": 0,
+     "e": "Selon la Collection des traités des Nations unies, la Côte d'Ivoire a signé la Convention le 26 janvier 1990 et l'a ratifiée le 4 février 1991.",
+     "ed": [
+      null,
+      "Le 2 septembre 1990 est la date d'entrée en vigueur générale de la Convention.",
+      "Aucun acte de la Côte d'Ivoire relatif à la Convention ne porte cette date.",
+      "Le 12 mars 2012 est la date d'adhésion de la Côte d'Ivoire au protocole sur les enfants dans les conflits armés."
+     ],
+     "src": {
+      "t": "Collection des traités des Nations unies – État de la Convention relative aux droits de l'enfant (IV-11)",
+      "u": "https://treaties.un.org/doc/publication/mtdsg/volume%20i/chapter%20iv/iv-11.en.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-04",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Combien d'articles compte la Convention relative aux droits de l'enfant ?",
+     "o": [
+      "30 articles",
+      "41 articles",
+      "54 articles",
+      "48 articles"
+     ],
+     "a": 2,
+     "e": "La Convention compte 54 articles répartis en trois parties : les droits (articles 1 à 41), le suivi (42 à 45) et les dispositions finales (46 à 54).",
+     "ed": [
+      "30 articles, c'est la Déclaration universelle des droits de l'homme.",
+      "L'article 41 clôt seulement la première partie, consacrée aux droits.",
+      null,
+      "Ce nombre ne correspond à aucune division du texte, qui s'achève à l'article 54."
+     ],
+     "src": {
+      "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+      "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-05",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Combien de membres compte aujourd'hui le Comité des droits de l'enfant institué par l'article 43 ?",
+     "o": [
+      "Dix experts",
+      "Douze experts",
+      "Quinze experts",
+      "Dix-huit experts"
+     ],
+     "a": 3,
+     "e": "L'article 43 prévoit un Comité de dix-huit experts, élus pour quatre ans. Le texte initial en prévoyait dix ; l'amendement de 1995, en vigueur depuis le 18 novembre 2002, a porté ce nombre à dix-huit.",
+     "ed": [
+      "Dix était le nombre initial, remplacé par dix-huit par l'amendement entré en vigueur en 2002.",
+      "Aucune version de l'article 43 ne prévoit douze membres.",
+      "Aucune version de l'article 43 ne prévoit quinze membres.",
+      null
+     ],
+     "src": {
+      "t": "PacLII – Amendement à l'article 43 (2) de la Convention relative aux droits de l'enfant (1995)",
+      "u": "https://pacliirms.paclii.org/pits/en/treaty_database/1995/8.html"
+     }
+    },
+    {
+     "id": "n20261026-de03-06",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Selon l'article 44, à quel rythme un État partie présente-t-il ses rapports au Comité des droits de l'enfant ?",
+     "o": [
+      "Un rapport chaque année",
+      "Un premier rapport dans les deux ans, puis tous les cinq ans",
+      "Un rapport tous les quatre ans, dès la ratification",
+      "Un rapport unique, au moment de la ratification"
+     ],
+     "a": 1,
+     "e": "L'article 44 prévoit un premier rapport dans les deux ans à compter de l'entrée en vigueur de la Convention pour l'État, puis un rapport tous les cinq ans.",
+     "ed": [
+      "La Convention n'impose pas de rapport annuel au Comité.",
+      null,
+      "Quatre ans est la durée du mandat des experts du Comité, pas la périodicité des rapports.",
+      "Le suivi est périodique : un rapport unique ne permettrait aucun contrôle dans la durée."
+     ],
+     "src": {
+      "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+      "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-07",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Un adolescent de 17 ans risque la réclusion à perpétuité sans possibilité de libération pour un crime commis à 16 ans. Quel article de la CDE s'y oppose ?",
+     "o": [
+      "L'article 37",
+      "L'article 12",
+      "L'article 28",
+      "L'article 7"
+     ],
+     "a": 0,
+     "e": "L'article 37 interdit de prononcer la peine capitale ou l'emprisonnement à vie sans possibilité de libération pour une infraction commise avant 18 ans.",
+     "ed": [
+      null,
+      "L'article 12 garantit à l'enfant le droit d'exprimer son opinion, non l'interdiction de certaines peines.",
+      "L'article 28 porte sur le droit à l'éducation.",
+      "L'article 7 porte sur l'enregistrement à la naissance, le nom et la nationalité."
+     ],
+     "src": {
+      "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+      "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-08",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Selon l'article 38 de la Convention, en dessous de quel âge les États ne doivent-ils pas enrôler une personne dans leurs forces armées ?",
+     "o": [
+      "12 ans",
+      "15 ans",
+      "16 ans",
+      "21 ans"
+     ],
+     "a": 1,
+     "e": "L'article 38 interdit d'enrôler dans les forces armées les personnes qui n'ont pas atteint l'âge de quinze ans et de les faire participer directement aux hostilités.",
+     "ed": [
+      "L'article 38 vise un seuil plus élevé : 12 ans n'y figure pas.",
+      null,
+      "16 ans ne figure pas à l'article 38, qui retient quinze ans.",
+      "21 ans ne figure pas à l'article 38, qui retient quinze ans."
+     ],
+     "src": {
+      "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+      "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-09",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Une enfant de 12 ans travaille toute la journée dans une carrière au lieu d'aller à l'école. Quels articles de la CDE sont directement méconnus ?",
+     "o": [
+      "Les articles 13 et 43",
+      "Les articles 37 et 40",
+      "Les articles 32 et 28",
+      "Les articles 49 et 51"
+     ],
+     "a": 2,
+     "e": "L'article 32 protège l'enfant contre l'exploitation économique et les travaux dangereux ; l'article 28 rend l'enseignement primaire obligatoire et gratuit pour tous.",
+     "ed": [
+      "L'article 13 porte sur la liberté d'expression et l'article 43 sur le Comité : ni l'un ni l'autre ne règle ce cas.",
+      "Les articles 37 et 40 concernent la privation de liberté et la justice pour mineurs.",
+      null,
+      "Les articles 49 et 51 sont des dispositions finales sur l'entrée en vigueur et les réserves."
+     ],
+     "src": {
+      "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+      "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-10",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Un État veut ratifier la CDE en écartant, par une réserve, toute obligation de protéger les enfants contre la violence. Que prévoit la Convention ?",
+     "o": [
+      "Toute réserve est libre, puisque l'État est souverain",
+      "La réserve est interdite si elle est incompatible avec l'objet et le but de la Convention",
+      "Les réserves ne sont possibles que sur la deuxième partie",
+      "La réserve doit être approuvée par l'UNICEF"
+     ],
+     "a": 1,
+     "e": "L'article 51, paragraphe 2, dispose qu'aucune réserve incompatible avec l'objet et le but de la Convention n'est autorisée ; écarter toute protection contre la violence vide la Convention de son sens.",
+     "ed": [
+      "La Convention encadre les réserves : la souveraineté ne permet pas de vider le traité de son objet.",
+      null,
+      "L'article 51 ne limite pas les réserves à une partie du texte ; il pose un critère d'objet et de but.",
+      "L'UNICEF peut participer à l'examen des rapports (article 45), mais n'approuve pas les réserves."
+     ],
+     "src": {
+      "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+      "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-11",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Une loi ivoirienne accorde à l'enfant une protection plus large que la CDE. Laquelle de ces règles faut-il appliquer ?",
+     "o": [
+      "La CDE, car un traité prime toujours sur la loi",
+      "Aucune des deux, faute d'accord entre elles",
+      "La règle la plus protectrice, que la CDE préserve expressément (article 41)",
+      "La CDE, car la loi plus favorable doit être abrogée"
+     ],
+     "a": 2,
+     "e": "L'article 41 dispose que la Convention ne porte pas atteinte aux dispositions plus favorables à la réalisation des droits de l'enfant contenues dans la législation d'un État ou dans le droit international.",
+     "ed": [
+      "L'article 41 écarte précisément ce raisonnement : la Convention ne fait pas obstacle aux dispositions plus favorables.",
+      "Il n'y a pas de conflit à trancher : la Convention admet la règle plus protectrice.",
+      null,
+      "Rien n'oblige à abroger une loi plus protectrice : la Convention fixe un minimum."
+     ],
+     "src": {
+      "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+      "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+     }
+    },
+    {
+     "id": "n20261026-de03-12",
+     "m": "denf",
+     "tag": "niv-de03",
+     "q": "Quelle est la situation de la Côte d'Ivoire à l'égard du protocole facultatif de 2011 établissant une procédure de communications, selon la Collection des traités des Nations unies (consultée en octobre 2026) ?",
+     "o": [
+      "Elle l'a signé le 24 septembre 2013, sans y figurer comme partie",
+      "Elle y a adhéré le 12 mars 2012",
+      "Elle l'a ratifié dès son entrée en vigueur, le 14 avril 2014",
+      "Elle ne l'a jamais signé"
+     ],
+     "a": 0,
+     "e": "La Collection des traités des Nations unies indique une signature de la Côte d'Ivoire le 24 septembre 2013 et aucune ratification ni adhésion : elle est signataire, non partie.",
+     "ed": [
+      null,
+      "Le 12 mars 2012 est la date d'adhésion au protocole sur les enfants dans les conflits armés, pas à celui de 2011.",
+      "Le 14 avril 2014 est la date d'entrée en vigueur du protocole ; la Côte d'Ivoire n'y figure pas comme partie.",
+      "La Côte d'Ivoire a bien signé ce protocole, le 24 septembre 2013."
+     ],
+     "src": {
+      "t": "Collection des traités des Nations unies – Protocole facultatif établissant une procédure de présentation de communications (IV-11-d)",
+      "u": "https://treaties.un.org/doc/Publication/MTDSG/Volume I/Chapter IV/IV-11-d.en.pdf"
+     }
+    },
+    {
+     "id": "n20261026-mp04-01",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Quelle loi organique fonde le budget-programme en Côte d'Ivoire ?",
+     "o": [
+      "La loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+      "La loi n° 2023-892 du 23 novembre 2023 portant statut général de la fonction publique",
+      "La loi n° 2016-886 du 8 novembre 2016 portant Constitution",
+      "Le décret n° 2025-120 du 26 février 2025"
+     ],
+     "a": 0,
+     "e": "La loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances organise le vote des crédits par programme et les documents de performance (PAP, RAP).",
+     "ed": [
+      null,
+      "La loi n° 2023-892 est le statut général de la fonction publique : elle régit les agents, pas le budget.",
+      "La loi n° 2016-886 porte Constitution ; elle renvoie à une loi organique pour les lois de finances.",
+      "Le décret n° 2025-120 fixe les modalités communes d'application du statut général de la fonction publique, pas les règles budgétaires."
+     ],
+     "src": {
+      "t": "Institut des finances de Côte d'Ivoire – Guide de la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+      "u": "https://www.institutdesfinances-ci.com/media/filer_public/c2/d2/c2d220c0-f797-49d8-8ed4-c3a0ea50a588/guide_loi_organique.pdf"
+     }
+    },
+    {
+     "id": "n20261026-mp04-02",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Depuis quelle date l'État ivoirien gère-t-il son budget en mode budget-programme ?",
+     "o": [
+      "Le 5 juin 2014",
+      "Le 1er janvier 2017",
+      "Le 1er janvier 2020",
+      "Le 1er janvier 2023"
+     ],
+     "a": 2,
+     "e": "Le Gouvernement a annoncé le basculement en mode budget-programme au 1er janvier 2020 : le budget est désormais présenté sur trois ans et voté par programme et par dotation.",
+     "ed": [
+      "Le 5 juin 2014 est la date de la loi organique, non celle du basculement effectif.",
+      "Le 1er janvier 2017 était une échéance d'application de la loi organique, mais le budget n'a basculé qu'en 2020.",
+      null,
+      "En 2023, le budget-programme était déjà appliqué depuis trois exercices."
+     ],
+     "src": {
+      "t": "Abidjan.net (AIP) – La Côte d'Ivoire bascule en 2020 en mode budget-programme (21 mars 2019)",
+      "u": "https://news.abidjan.net/articles/654429/la-cote-divoire-bascule-en-2020-en-mode-budget-programme"
+     }
+    },
+    {
+     "id": "n20261026-mp04-03",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Dans la chaîne des résultats de la GAR, comment appelle-t-on les biens, équipements ou services produits directement par l'action ?",
+     "o": [
+      "Les intrants",
+      "Les impacts",
+      "Les effets",
+      "Les extrants"
+     ],
+     "a": 3,
+     "e": "Le guide GAR de l'UEMOA définit les extrants (ou produits) comme les biens, équipements ou services qui résultent de l'action de développement.",
+     "ed": [
+      "Les intrants sont les moyens financiers, humains et matériels mobilisés, en amont de l'action.",
+      "Les impacts sont les effets à long terme, en bout de chaîne.",
+      "Les effets sont les changements attribuables à l'action, pas les biens produits eux-mêmes.",
+      null
+     ],
+     "src": {
+      "t": "UEMOA – Guide de la gestion axée sur les résultats (2021), glossaire",
+      "u": "https://e-docucenter.uemoa.int/sites/default/files/2021-11/Tableau%20Annexe%2015%20GUIDE%20GAR%20UEMOA%202021.pdf"
+     }
+    },
+    {
+     "id": "n20261026-mp04-04",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Selon l'article 15 de la LOLF ivoirienne, comment les crédits sont-ils votés ?",
+     "o": [
+      "Par ministère, en une enveloppe unique",
+      "Par programme",
+      "Par titre, en distinguant fonctionnement et investissement",
+      "Par région administrative"
+     ],
+     "a": 1,
+     "e": "L'article 15 dispose que les crédits sont votés par programme ; chaque programme regroupe les crédits d'une action ou d'un ensemble cohérent d'actions, associé à des objectifs.",
+     "ed": [
+      "Le vote par enveloppe ministérielle unique ne permettrait aucun suivi de la performance.",
+      null,
+      "Le vote par titres caractérisait l'ancien budget de moyens, abandonné avec le budget-programme.",
+      "La LOLF ne prévoit aucun vote des crédits par région administrative."
+     ],
+     "src": {
+      "t": "Institut des finances de Côte d'Ivoire – Guide de la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+      "u": "https://www.institutdesfinances-ci.com/media/filer_public/c2/d2/c2d220c0-f797-49d8-8ed4-c3a0ea50a588/guide_loi_organique.pdf"
+     }
+    },
+    {
+     "id": "n20261026-mp04-05",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Comment est désigné le responsable de programme dans la LOLF ivoirienne ?",
+     "o": [
+      "Il est élu par les agents du ministère",
+      "Il est nommé par arrêté du ministre chargé des finances",
+      "Il est nommé par décret, sur proposition du ministre sectoriel",
+      "Il est désigné par l'Assemblée nationale lors du vote du budget"
+     ],
+     "a": 2,
+     "e": "L'article 16 de la LOLF prévoit que le responsable de programme est nommé par décret, sur proposition du ministre sectoriel dont il relève.",
+     "ed": [
+      "Aucune élection n'est prévue : il s'agit d'une nomination par l'autorité exécutive.",
+      "La nomination se fait par décret, et sur proposition du ministre sectoriel, non du ministre des finances.",
+      null,
+      "Le Parlement vote les crédits mais ne nomme pas les gestionnaires."
+     ],
+     "src": {
+      "t": "Institut des finances de Côte d'Ivoire – Guide de la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+      "u": "https://www.institutdesfinances-ci.com/media/filer_public/c2/d2/c2d220c0-f797-49d8-8ed4-c3a0ea50a588/guide_loi_organique.pdf"
+     }
+    },
+    {
+     "id": "n20261026-mp04-06",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Quel document, joint à la loi de règlement, rend compte de l'atteinte des objectifs fixés pour chaque programme ?",
+     "o": [
+      "Le projet annuel de performance (PAP)",
+      "Le rapport annuel de performance (RAP)",
+      "Le document de programmation budgétaire et économique pluriannuelle (DPBEP)",
+      "La loi de finances rectificative"
+     ],
+     "a": 1,
+     "e": "Selon l'article 50 de la LOLF, le rapport annuel de performance accompagne la loi de règlement et rend compte de l'atteinte des objectifs fixés dans le PAP.",
+     "ed": [
+      "Le PAP est annexé à la loi de finances de l'année : il présente les prévisions, pas l'exécution.",
+      null,
+      "Le DPBEP fixe le cadre pluriannuel des finances publiques ; il ne rend pas compte des objectifs de chaque programme.",
+      "Une loi de finances rectificative modifie le budget en cours d'année ; elle ne rend pas compte des résultats."
+     ],
+     "src": {
+      "t": "Institut des finances de Côte d'Ivoire – Guide de la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+      "u": "https://www.institutdesfinances-ci.com/media/filer_public/c2/d2/c2d220c0-f797-49d8-8ed4-c3a0ea50a588/guide_loi_organique.pdf"
+     }
+    },
+    {
+     "id": "n20261026-mp04-07",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Dans le budget de l'État ivoirien, à quoi correspondent les dotations, par opposition aux programmes ?",
+     "o": [
+      "Aux crédits des projets d'investissement financés par l'extérieur",
+      "Aux crédits de personnel de tous les ministères",
+      "Aux crédits qui ne sont pas assortis d'objectifs de performance directement associés",
+      "Aux crédits des collectivités territoriales"
+     ],
+     "a": 2,
+     "e": "L'article 17 de la LOLF regroupe en dotations les crédits sans objectifs de performance directement associés : institutions constitutionnelles, dépenses accidentelles et imprévisibles, appels en garantie, charges financières de la dette.",
+     "ed": [
+      "Les projets d'investissement s'inscrivent dans les programmes des ministères, avec des objectifs.",
+      "Les crédits de personnel figurent dans les programmes, où ils sont même fongibles vers d'autres dépenses.",
+      null,
+      "La LOLF ne définit pas les dotations comme les crédits des collectivités territoriales."
+     ],
+     "src": {
+      "t": "Institut des finances de Côte d'Ivoire – Guide de la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+      "u": "https://www.institutdesfinances-ci.com/media/filer_public/c2/d2/c2d220c0-f797-49d8-8ed4-c3a0ea50a588/guide_loi_organique.pdf"
+     }
+    },
+    {
+     "id": "n20261026-mp04-08",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Un gestionnaire veut transférer des crédits de personnel non consommés vers l'achat de fournitures, au sein du même programme. Que permet la LOLF ?",
+     "o": [
+      "C'est permis : les crédits de personnel peuvent abonder les autres natures de dépenses",
+      "C'est interdit : aucun crédit ne peut changer de nature",
+      "C'est permis seulement après un vote de l'Assemblée nationale",
+      "C'est interdit : seuls les crédits d'investissement sont fongibles"
+     ],
+     "a": 0,
+     "e": "La fongibilité est asymétrique : au sein d'un programme, les crédits de personnel peuvent abonder tous les autres crédits, mais l'inverse n'est pas possible.",
+     "ed": [
+      null,
+      "La LOLF admet une fongibilité, mais asymétrique : le transfert des crédits de personnel vers d'autres dépenses est permis.",
+      "Ce mouvement interne au programme relève du gestionnaire et ne requiert pas de vote parlementaire.",
+      "C'est l'inverse : les crédits d'investissement ne peuvent pas abonder les autres catégories."
+     ],
+     "src": {
+      "t": "Institut des finances de Côte d'Ivoire – Guide de la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+      "u": "https://www.institutdesfinances-ci.com/media/filer_public/c2/d2/c2d220c0-f797-49d8-8ed4-c3a0ea50a588/guide_loi_organique.pdf"
+     }
+    },
+    {
+     "id": "n20261026-mp04-09",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Lequel de ces indicateurs mesure un effet, et non une activité ou un extrant, pour un programme de vaccination ?",
+     "o": [
+      "Le nombre de campagnes de vaccination organisées",
+      "Le nombre de doses livrées aux centres de santé",
+      "Le montant des crédits consommés par le programme",
+      "La baisse du nombre de cas de rougeole chez les enfants"
+     ],
+     "a": 3,
+     "e": "Un effet est un changement dans la situation de la population attribuable à l'action : la baisse des cas de rougeole en est un ; les campagnes, doses et crédits mesurent l'effort ou la production.",
+     "ed": [
+      "Le nombre de campagnes décrit une activité, c'est-à-dire l'effort fourni.",
+      "Les doses livrées sont un extrant ou un moyen logistique, pas un changement de l'état de santé.",
+      "Les crédits consommés mesurent un intrant : ils disent ce que l'on dépense, pas ce que l'on obtient.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-mp04-10",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Le délai moyen de traitement d'un dossier était de 40 jours (référence). La cible est de 15 jours ; le délai réalisé est de 20 jours. Quel est le degré d'atteinte de la cible ?",
+     "o": [
+      "50 %",
+      "80 %",
+      "75 %",
+      "37,5 %"
+     ],
+     "a": 1,
+     "e": "Chemin à parcourir : 40 − 15 = 25 jours ; chemin parcouru : 40 − 20 = 20 jours. Degré d'atteinte : 20 ÷ 25 × 100 = 80 %.",
+     "ed": [
+      "50 % ne correspond pas au calcul : il faut rapporter le chemin parcouru au chemin à parcourir.",
+      null,
+      "75 % revient à calculer 15 ÷ 20, rapport qui ne mesure pas le progrès depuis la référence.",
+      "37,5 % revient à calculer 15 ÷ 40, sans tenir compte du délai réalisé."
+     ],
+     "verif": "calcul",
+     "calc": "(40 - 20) / (40 - 15) * 100"
+    },
+    {
+     "id": "n20261026-mp04-11",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Un service atteint sa cible de 1 000 dossiers traités, mais avec un coût moyen de 9 000 F par dossier, alors qu'un service comparable traite 1 000 dossiers à 6 000 F. Comment qualifier sa performance ?",
+     "o": [
+      "Efficace mais moins efficient que le service comparable",
+      "Efficient mais inefficace",
+      "Ni efficace ni efficient",
+      "Efficace et plus efficient que le service comparable"
+     ],
+     "a": 0,
+     "e": "Il atteint son objectif : il est efficace. Mais il convertit ses ressources en résultats à un coût de 50 % supérieur (9 000 F contre 6 000 F) : il est moins efficient.",
+     "ed": [
+      null,
+      "Il a atteint sa cible : on ne peut pas le dire inefficace.",
+      "L'objectif est atteint : le service est efficace, même s'il coûte cher.",
+      "Son coût par dossier est plus élevé : il est moins efficient, et non plus efficient."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261026-mp04-12",
+     "m": "mop",
+     "tag": "niv-mp04",
+     "q": "Selon le guide de la LOLF ivoirienne, quels sont les trois types d'objectifs associés aux programmes ?",
+     "o": [
+      "Rapidité, conformité, légalité",
+      "Efficacité socio-économique, qualité de service, efficience de la gestion",
+      "Rentabilité, croissance, part de marché",
+      "Discipline, hiérarchie, obéissance"
+     ],
+     "a": 1,
+     "e": "Le guide de la loi organique distingue trois types d'objectifs : l'efficacité socio-économique, la qualité de service rendu à l'usager et l'efficience de la gestion.",
+     "ed": [
+      "Ces notions relèvent du contrôle de régularité des procédures, pas des trois types d'objectifs de performance.",
+      null,
+      "Ce sont des objectifs d'entreprise marchande, étrangers au guide de la LOLF.",
+      "Ce sont des principes d'organisation hiérarchique, non des objectifs de performance."
+     ],
+     "src": {
+      "t": "Institut des finances de Côte d'Ivoire – Guide de la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+      "u": "https://www.institutdesfinances-ci.com/media/filer_public/c2/d2/c2d220c0-f797-49d8-8ed4-c3a0ea50a588/guide_loi_organique.pdf"
+     }
+    },
+    {
+     "id": "n20261026-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quels traités, signés le 25 mars 1957, créent la Communauté économique européenne (CEE) et Euratom ?",
+     "o": [
+      "Les traités de Maastricht",
+      "Les traités de Rome",
+      "Les traités de Paris",
+      "Les traités de Lisbonne"
+     ],
+     "a": 1,
+     "e": "Les traités de Rome, signés le 25 mars 1957 par l'Allemagne, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas, créent la CEE et la Communauté européenne de l'énergie atomique (Euratom).",
+     "ed": [
+      "Le traité de Maastricht, signé le 7 février 1992, fonde notamment l'union monétaire ; il ne crée ni la CEE ni Euratom.",
+      null,
+      "Le traité de Paris, signé le 18 avril 1951, est antérieur : il ne crée ni la CEE ni Euratom.",
+      "Le traité de Lisbonne a été signé le 13 décembre 2007, cinquante ans après les traités de Rome."
+     ],
+     "src": {
+      "t": "France Diplomatie – Les traités de Rome (infographie)",
+      "u": "https://www.diplomatie.gouv.fr/IMG/pdf/0816-0817-0818-traites_de_rome_infogr_3__cle0617bd-1.pdf"
+     }
+    },
+    {
+     "id": "n20261026-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel événement du 9 novembre 1989 symbolise la fin de la division de l'Europe, onze mois avant la réunification allemande ?",
+     "o": [
+      "La signature du traité de Maastricht",
+      "La dissolution du pacte de Varsovie",
+      "La chute du mur de Berlin",
+      "L'élection de Nelson Mandela"
+     ],
+     "a": 2,
+     "e": "Le mur de Berlin, construit dans la nuit du 12 au 13 août 1961, tombe le 9 novembre 1989 ; l'Allemagne est réunifiée le 3 octobre 1990.",
+     "ed": [
+      "Le traité de Maastricht a été signé le 7 février 1992, plus de deux ans après.",
+      "La dissolution du pacte de Varsovie n'a pas eu lieu le 9 novembre 1989.",
+      null,
+      "Aucune élection de Nelson Mandela n'a eu lieu le 9 novembre 1989, et l'événement ne concerne pas l'Europe."
+     ],
+     "src": {
+      "t": "SchoolMouv – Chute du mur de Berlin (9 novembre 1989)",
+      "u": "https://www.schoolmouv.fr/evenements-historiques/chute-du-mur-de-berlin-9-novembre-1989/evenement-historique"
+     }
+    },
+    {
+     "id": "n20261026-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lors de quel sommet l'Union africaine est-elle devenue membre permanent du G20, en septembre 2023 ?",
+     "o": [
+      "Le sommet de New Delhi, présidé par l'Inde",
+      "Le sommet de Johannesburg, présidé par l'Afrique du Sud",
+      "Le sommet de Rio de Janeiro, présidé par le Brésil",
+      "Le sommet de Bali, présidé par l'Indonésie"
+     ],
+     "a": 0,
+     "e": "Au sommet du G20 de New Delhi, le 9 septembre 2023, le Premier ministre indien Narendra Modi a invité le président en exercice de l'UA, Azali Assoumani, à prendre son siège de membre permanent.",
+     "ed": [
+      null,
+      "Le sommet de septembre 2023 ne s'est pas tenu à Johannesburg mais à New Delhi.",
+      "Le sommet de septembre 2023 ne s'est pas tenu à Rio de Janeiro mais à New Delhi.",
+      "Le sommet de Bali s'est tenu en 2022, avant l'admission de l'UA."
+     ],
+     "src": {
+      "t": "Ahram Online – African Union formally joins G20 at Delhi summit",
+      "u": "https://english.ahram.org.eg/News/508041.aspx"
+     }
+    },
+    {
+     "id": "n20261026-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le traité de Tlatelolco, ouvert à la signature le 14 février 1967 à Mexico, crée une zone exempte d'armes nucléaires dans quelle région ?",
+     "o": [
+      "L'Afrique",
+      "L'Asie du Sud-Est",
+      "Le Pacifique Sud",
+      "L'Amérique latine et les Caraïbes"
+     ],
+     "a": 3,
+     "e": "Le traité de Tlatelolco interdit les armes nucléaires en Amérique latine et dans les Caraïbes ; l'OPANAL en contrôle le respect, et le Mexicain Alfonso García Robles a reçu le prix Nobel de la paix 1982 pour son action.",
+     "ed": [
+      "Le traité de Tlatelolco ne couvre pas l'Afrique : il est limité au continent américain au sud du Rio Grande.",
+      "Le traité de Tlatelolco ne couvre pas l'Asie du Sud-Est mais l'Amérique latine.",
+      "Le traité de Tlatelolco ne couvre pas le Pacifique Sud mais l'Amérique latine et les Caraïbes.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Treaty of Tlatelolco",
+      "u": "https://en.wikipedia.org/wiki/Treaty_of_Tlatelolco"
+     }
+    },
+    {
+     "id": "n20261026-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville la Coopération économique pour l'Asie-Pacifique (APEC) a-t-elle été créée en 1989, avec douze économies membres ?",
+     "o": [
+      "Tokyo",
+      "Canberra",
+      "Singapour",
+      "Séoul"
+     ],
+     "a": 1,
+     "e": "L'APEC a été créée en 1989 à Canberra (Australie) par 12 économies, à l'initiative du Premier ministre australien Bob Hawke ; elle en compte aujourd'hui 21 et son secrétariat est à Singapour.",
+     "ed": [
+      "L'APEC n'a pas été fondée à Tokyo, mais à Canberra.",
+      null,
+      "Singapour accueille le secrétariat de l'APEC, mais l'organisation a été créée à Canberra.",
+      "C'est à Séoul que Bob Hawke a lancé l'idée en janvier 1989, mais la création a eu lieu à Canberra."
+     ],
+     "src": {
+      "t": "Wikipedia – Asia-Pacific Economic Cooperation",
+      "u": "https://en.wikipedia.org/wiki/Asia-Pacific_Economic_Cooperation"
+     }
+    },
+    {
+     "id": "n20261026-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel chef d'État a présenté, le 5 février 1967, la déclaration d'Arusha, fondée sur l'Ujamaa et l'autosuffisance ?",
+     "o": [
+      "Kwame Nkrumah, au Ghana",
+      "Jomo Kenyatta, au Kenya",
+      "Julius Nyerere, en Tanzanie",
+      "Léopold Sédar Senghor, au Sénégal"
+     ],
+     "a": 2,
+     "e": "Le président tanzanien Julius Nyerere a présenté la déclaration d'Arusha, adoptée par la TANU le 5 février 1967 : elle définit l'Ujamaa, socialisme africain fondé sur l'autosuffisance et le travail collectif.",
+     "ed": [
+      "Kwame Nkrumah n'est pas l'auteur de la déclaration d'Arusha, texte du parti tanzanien TANU.",
+      "Jomo Kenyatta n'a pas présenté la déclaration d'Arusha, texte tanzanien.",
+      null,
+      "Senghor n'est pas l'auteur de la déclaration d'Arusha, présentée en Tanzanie par Nyerere."
+     ],
+     "src": {
+      "t": "Wikipedia – Arusha Declaration",
+      "u": "https://en.wikipedia.org/wiki/Arusha_Declaration"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261026ct04",
+     "niv": "ct04",
+     "m": "ct",
+     "titre": "Compter les mots et tenir la fourchette",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez calculer la fourchette autorisée d'un résumé, compter vos mots sans erreur et selon une convention constante, et déclarer un total exact.",
+      "= Vous saurez aussi ajuster un brouillon trop long ou trop court sans trahir le texte ni perdre ses liens logiques.",
+      "## Ce que demande l'épreuve",
+      "Le sujet impose un nombre de mots, avec une tolérance de plus ou moins 10 %. Le correcteur vérifie d'abord ce point, avant même la qualité des idées : un résumé hors fourchette, ou un total déclaré faux, est sanctionné, parfois lourdement. C'est donc la partie la plus mécanique de l'épreuve, mais aussi celle qui ne pardonne pas.",
+      "! Piège habituel : compter « à l'œil », ligne par ligne, puis arrondir. Un total approximatif se voit au premier contrôle du correcteur, qui recompte souvent un passage pris au hasard.",
+      "## La méthode, pas à pas",
+      "- 1. Dès la lecture du sujet, calculez la fourchette : nombre imposé × 0,9 et nombre imposé × 1,1. Écrivez-la en haut du brouillon.",
+      "- 2. Fixez-vous une cible proche du haut de la fourchette, sans la toucher : vous gardez une marge si vous devez ajouter un connecteur au dernier moment.",
+      "- 3. Au brouillon, écrivez dix mots par ligne et numérotez les lignes : le total se lit alors immédiatement.",
+      "- 4. Recopiez, puis recomptez sur la copie elle-même, car la mise au propre ajoute ou supprime souvent un mot.",
+      "- 5. Si la consigne le demande, tracez une barre tous les 50 mots (ou tous les 20) dans la marge ou dans le texte.",
+      "- 6. Indiquez à la fin le nombre exact de mots, sans arrondir.",
+      "~ Exemple : sujet « Résumez ce texte en 180 mots ». Fourchette : 180 × 0,9 = 162 et 180 × 1,1 = 198. Cible raisonnable : environ 190 mots. Au brouillon, 19 lignes de dix mots."
+     ],
+     "fond": [
+      "## Notion 1 : calculer la fourchette",
+      "Règle : la tolérance de 10 % s'applique au nombre imposé, vers le bas comme vers le haut. Le minimum vaut 90 % du nombre imposé, le maximum 110 %.",
+      "Pourquoi cette tolérance ? Personne ne peut écrire un texte de 200 mots exactement en gardant un style naturel. Le jury laisse donc une marge, mais une marge étroite, pour que tous les candidats réduisent le texte dans la même proportion et puissent être comparés.",
+      "~ Exemple résolu : 250 mots demandés. 10 % de 250 = 25. Minimum : 250 − 25 = 225. Maximum : 250 + 25 = 275. Un résumé de 276 mots est hors fourchette ; un résumé de 275 mots est dans la fourchette.",
+      "Raccourci de calcul mental : 10 % d'un nombre, c'est ce nombre divisé par 10. Pour 120 mots : 12 ; fourchette de 108 à 132.",
+      "! Si le nombre imposé donne un résultat décimal (par exemple 10 % de 125 = 12,5), restez prudent : visez l'intérieur strict de la fourchette, entre 113 et 137, pour ne dépendre d'aucun arrondi.",
+      "? Un sujet demande un résumé de 300 mots, plus ou moins 10 %. Quelle est la fourchette, et quelle cible vous fixez-vous ? || 10 % de 300 = 30. La fourchette va de 270 à 330 mots. Une cible proche du haut, autour de 315 à 320 mots, laisse de la place pour toutes les idées et garde une marge de sécurité de dix mots.",
+      "## Notion 2 : ce qu'est un mot pour le correcteur",
+      "Règle de base : un mot est une unité typographique isolée par deux blancs. Les « petits mots » comptent comme les autres : un article (le, la, les, un), une préposition (de, à, par), une conjonction (et, mais, donc), un pronom.",
+      "Cas usuels : un sigle compte pour un mot (« UEMOA » = 1 mot) ; une date écrite en chiffres compte pour un mot (« 1960 » = 1 mot). Le mot élidé (« l'État », « d'abord », « qu'il ») est en général compté comme deux mots, l'apostrophe séparant deux unités.",
+      "Pourquoi cette convention ? Elle est simple et vérifiable par n'importe quel correcteur. Ce qui compte n'est pas la longueur des mots, mais le nombre d'unités que le candidat a choisies : écrire « la population » ou « les habitants » coûte deux mots dans les deux cas.",
+      "! Les mots à trait d'union ne font pas l'unanimité : selon les correcteurs et les manuels, « c'est-à-dire » compte pour un mot ou pour quatre. La parade est simple : évitez ces formes dans le résumé (« soit », « autrement dit ») et appliquez une seule convention à toute la copie.",
+      "~ Exemple résolu : « L'État doit investir dans l'éducation de base. » Décompte : L' (1) État (2) doit (3) investir (4) dans (5) l' (6) éducation (7) de (8) base (9). Total : 9 mots.",
+      "? Comptez les mots de la phrase : « La CEDEAO, créée en 1975, favorise l'intégration régionale. » || La (1) CEDEAO (2) créée (3) en (4) 1975 (5) favorise (6) l' (7) intégration (8) régionale (9). Total : 9 mots. Le sigle et la date comptent chacun pour un mot ; la virgule ne compte pas ; l'apostrophe sépare « l' » d'« intégration ».",
+      "## Notion 3 : déclarer un total exact",
+      "Règle : à la fin du résumé, on indique le nombre de mots réellement écrits, par exemple « (196 mots) ». Si la consigne demande une barre tous les 50 mots, on la place après le 50e, le 100e, le 150e mot.",
+      "Pourquoi l'exactitude ? Le total déclaré engage le candidat. Le correcteur recompte une partie, ou l'ensemble : un écart montre soit de la négligence, soit une tentative de tromper le jury, et les deux sont sanctionnés. Annoncer 200 mots pour un texte de 230 est la pire stratégie possible.",
+      "La technique des dix mots par ligne rend le comptage fiable : au brouillon, chaque ligne contient exactement dix mots, la dernière ligne seule est incomplète. Avec 18 lignes pleines et une ligne de 7 mots, vous avez 187 mots, sans recompter.",
+      "## Notion 4 : ajuster sans trahir",
+      "Trop long ? On ne coupe pas au hasard la fin du résumé : on perdrait la conclusion de l'auteur. On supprime d'abord les redites, puis les adjectifs non indispensables, puis on fusionne deux phrases qui partagent le même sujet, ou on remplace une proposition par un groupe nominal.",
+      "Trop court ? On n'ajoute ni remplissage ni opinion personnelle. On vérifie qu'aucune idée du texte n'a été oubliée, puis on rétablit un connecteur logique explicite (« en effet », « pourtant », « dès lors ») qui rend le raisonnement plus clair.",
+      "~ Exemple résolu : « Il est absolument nécessaire et urgent que les communes trouvent de nouvelles ressources financières. » (14 mots) devient « Les communes doivent d'urgence trouver de nouvelles ressources. » (9 mots). Gain : 5 mots, sans perte d'idée : « absolument » et « nécessaire » redisent « doivent », « financières » est implicite.",
+      "? Votre brouillon compte 238 mots pour un résumé demandé en 200 mots (± 10 %). Que faites-vous, et dans quel ordre ? || Le maximum est 220 mots : il faut retirer au moins 18 mots. On supprime d'abord les redites et les adjectifs superflus, puis on fusionne les phrases qui ont le même sujet et on nominalise. On ne supprime jamais la dernière idée du texte. On recompte ensuite et on vise environ 215 mots.",
+      "? Votre résumé compte 171 mots pour 200 demandés. Pourquoi est-il risqué, et comment le compléter ? || Le minimum est 180 mots : 171 est hors fourchette. On relit le plan du texte pour retrouver l'idée ou la concession oubliée, puis on rétablit les connecteurs logiques. On n'ajoute jamais un avis personnel ni un exemple."
+     ],
+     "retenir": [
+      "La fourchette d'un résumé va de 90 % à 110 % du nombre de mots imposé.",
+      "Pour 250 mots demandés à plus ou moins 10 %, le résumé doit compter entre 225 et 275 mots.",
+      "Un mot est une unité typographique isolée par deux blancs ; articles, prépositions et conjonctions comptent chacun pour un mot.",
+      "Un sigle compte pour un mot, et une date écrite en chiffres compte aussi pour un mot.",
+      "Le décompte des mots à trait d'union varie selon les correcteurs : évitez « c'est-à-dire » et gardez une seule convention.",
+      "Au brouillon, écrivez dix mots par ligne et numérotez les lignes : le total se lit sans recompter.",
+      "Le total déclaré à la fin doit être exact : un chiffre faux est sanctionné plus durement qu'un léger excès.",
+      "Pour raccourcir, supprimez les redites et fusionnez les phrases ; ne coupez jamais la conclusion de l'auteur."
+     ],
+     "exo": {
+      "tag": "niv-ct04",
+      "n": 12,
+      "ecrit": "ct"
+     },
+     "sources": [
+      {
+       "t": "Lycée Champollion – Méthode du résumé (G. Negrello) : décompte des mots, fourchette de 10 %",
+       "u": "https://www.lycee-champollion.fr/IMG/pdf/resume.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261026de03",
+     "niv": "de03",
+     "m": "denf",
+     "titre": "La Convention relative aux droits de l'enfant",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dater et situer la Convention relative aux droits de l'enfant (CDE) de 1989, décrire sa structure et ses principaux droits, et expliquer comment le Comité des droits de l'enfant en contrôle l'application.",
+      "= Vous saurez aussi citer l'article exact qui règle un cas pratique (âge, travail, peine, enrôlement) et préciser les engagements de la Côte d'Ivoire.",
+      "## Ce que demande l'épreuve",
+      "La CDE est le texte de référence de l'épreuve de droits de l'enfant. En dissertation, elle fournit le cadre international : le correcteur attend sa date, sa portée et ses mécanismes de suivi. En cas pratique, elle fournit la règle : un enfant de 14 ans enrôlé, un mineur menacé d'une peine perpétuelle, un enfant non déclaré à l'état civil. Les QCM portent sur les dates, les numéros d'articles, la composition du Comité et la périodicité des rapports.",
+      "! Piège habituel : confondre la date d'adoption (20 novembre 1989) et celle de l'entrée en vigueur (2 septembre 1990), ou attribuer à la Convention le seuil de 18 ans pour l'enrôlement, alors que son article 38 retient 15 ans.",
+      "## La méthode, pas à pas",
+      "- 1. Qualifiez la situation : quel droit de l'enfant est en cause (identité, protection, éducation, justice) ?",
+      "- 2. Citez l'article de la CDE qui le garantit, avec sa formule clé.",
+      "- 3. Vérifiez s'il existe une règle plus protectrice (article 41) : un protocole, la Charte africaine ou la loi ivoirienne.",
+      "- 4. Rappelez l'obligation de l'État et le contrôle exercé par le Comité.",
+      "- 5. Concluez par la solution, guidée par l'intérêt supérieur de l'enfant.",
+      "~ Exemple : un enfant de 13 ans n'a jamais été déclaré à la naissance. Droit en cause : l'identité. Règle : article 7, l'enfant est enregistré aussitôt sa naissance et a droit à un nom et à une nationalité. Solution : l'État doit organiser son enregistrement, même tardif."
+     ],
+     "fond": [
+      "## Notion 1 : l'adoption et l'entrée en vigueur",
+      "Règle : la Convention a été adoptée par l'Assemblée générale des Nations unies par la résolution 44/25 du 20 novembre 1989. Elle est entrée en vigueur le 2 septembre 1990, conformément à son article 49 : le trentième jour suivant le dépôt du vingtième instrument de ratification ou d'adhésion.",
+      "Pourquoi un traité, et non une simple déclaration ? Une déclaration exprime des principes sans obliger les États. Un traité ratifié les lie juridiquement : ils doivent adapter leur droit et rendre compte de leurs progrès. La CDE fait ainsi de l'enfant un titulaire de droits, et non plus seulement un objet de protection.",
+      "La Côte d'Ivoire a signé la Convention le 26 janvier 1990 et l'a ratifiée le 4 février 1991. La Collection des traités des Nations unies recense 196 États parties. Les États-Unis l'ont signée le 16 février 1995 sans la ratifier.",
+      "! La signature n'engage pas encore l'État : seule la ratification (ou l'adhésion) en fait un État partie. Les États-Unis sont signataires, mais non parties.",
+      "? La CDE a été adoptée le 20 novembre 1989. Pourquoi n'est-elle entrée en vigueur que le 2 septembre 1990 ? || L'article 49 subordonne l'entrée en vigueur à un nombre minimal d'engagements : le traité s'applique le trentième jour qui suit le dépôt du vingtième instrument de ratification ou d'adhésion. Il a fallu attendre que vingt États ratifient, ce qui explique le délai.",
+      "## Notion 2 : la structure du texte",
+      "Règle : la Convention compte un préambule et 54 articles répartis en trois parties. La première partie (articles 1 à 41) énonce les droits ; la deuxième (articles 42 à 45) organise le suivi ; la troisième (articles 46 à 54) règle la signature, la ratification, les réserves et l'entrée en vigueur.",
+      "Pourquoi cette architecture ? Elle sépare ce que l'enfant peut revendiquer (les droits), la manière de vérifier leur respect (le Comité), et les règles d'engagement des États. Pour un cas pratique, on cherche dans la première partie ; pour une question de contrôle, dans la deuxième.",
+      "Deux règles transversales sont à connaître. L'article 4 oblige les États à prendre toutes les mesures nécessaires et, pour les droits économiques, sociaux et culturels, à agir « dans toutes les limites des ressources dont ils disposent ». L'article 41 réserve les dispositions plus favorables à l'enfant, nationales ou internationales : la CDE est un minimum, jamais un plafond. Enfin, l'article 51 interdit toute réserve « incompatible avec l'objet et le but » de la Convention.",
+      "## Notion 3 : les principaux droits garantis",
+      "Identité et famille : l'enfant est enregistré aussitôt sa naissance et a droit à un nom et à une nationalité (article 7) ; il n'est pas séparé de ses parents contre leur gré, sauf décision des autorités prise dans son intérêt (article 9) ; les deux parents ont une responsabilité commune pour l'élever (article 18).",
+      "Libertés : liberté d'expression (article 13). Protection : contre toute forme de violence ou de négligence, y compris lorsqu'il est confié à des tiers (article 19) ; contre l'exploitation économique, avec un âge minimum d'admission à l'emploi fixé par l'État (article 32) ; contre l'exploitation et la violence sexuelles (article 34) ; contre l'enlèvement, la vente ou la traite (article 35).",
+      "Prestations : droit au meilleur état de santé possible (article 24) ; droit à un niveau de vie suffisant (article 27) ; enseignement primaire obligatoire et gratuit pour tous (article 28) ; droit au repos, aux loisirs et au jeu (article 31).",
+      "Justice et conflits : ni la peine capitale ni l'emprisonnement à vie sans possibilité de libération pour une infraction commise avant 18 ans ; la privation de liberté n'est qu'une mesure de dernier recours (article 37). Les États fixent un âge minimum au-dessous duquel l'enfant est présumé incapable d'enfreindre la loi pénale (article 40). Ils n'enrôlent pas dans leurs forces armées les personnes de moins de 15 ans et veillent à ce qu'elles ne participent pas directement aux hostilités (article 38).",
+      "~ Mini-cas résolu : un garçon de 16 ans est poursuivi pour un vol avec violence ; le parquet envisage une peine de prison à vie. Règle : article 37, aucune réclusion à perpétuité sans possibilité de libération pour une infraction commise avant 18 ans, et la détention doit rester un dernier recours. Solution : la peine envisagée est contraire à la Convention ; il faut privilégier une mesure éducative ou une peine limitée.",
+      "? Une fille de 14 ans est recrutée comme cuisinière dans une caserne de l'armée régulière, puis armée lors d'une offensive. Quels articles invoquer ? || L'article 38 interdit d'enrôler dans les forces armées les personnes de moins de 15 ans et de les faire participer directement aux hostilités : les deux faits sont contraires à la Convention. On invoque aussi l'article 32 (exploitation économique) pour le travail imposé, et l'article 41 pour appliquer une norme plus protectrice, comme le protocole facultatif de 2000.",
+      "## Notion 4 : le Comité des droits de l'enfant",
+      "Règle : l'article 43 institue un Comité de dix-huit experts, élus au scrutin secret pour quatre ans et rééligibles, qui siègent à titre personnel. Le texte initial prévoyait dix membres : un amendement adopté le 12 décembre 1995 a remplacé « dix » par « dix-huit » ; il est entré en vigueur le 18 novembre 2002.",
+      "Les États remettent au Comité un premier rapport dans les deux ans qui suivent l'entrée en vigueur de la Convention à leur égard, puis un rapport tous les cinq ans (article 44) ; ils assurent à leurs rapports une large diffusion dans leur propre pays. L'UNICEF et les institutions spécialisées peuvent participer à l'examen (article 45).",
+      "Pourquoi un contrôle par rapports ? Il n'existe pas de tribunal mondial des droits de l'enfant. Le dialogue périodique oblige l'État à faire le bilan de ses lois et de ses politiques, et à répondre publiquement aux recommandations du Comité.",
+      "! Les protocoles facultatifs ne lient que les États qui y adhèrent. La Côte d'Ivoire a adhéré le 12 mars 2012 au protocole concernant l'implication d'enfants dans les conflits armés (adopté le 25 mai 2000). Elle a signé le 24 septembre 2013 le protocole de 2011 établissant une procédure de communications, entré en vigueur le 14 avril 2014, mais n'y figure pas comme partie (état consulté en octobre 2026).",
+      "? Un article de presse affirme que la Côte d'Ivoire est liée par le protocole de 2011 et qu'une communication peut donc être présentée contre elle au Comité. Que répondez-vous ? || Un protocole facultatif ne lie que les États qui l'ont ratifié ou y ont adhéré. La Côte d'Ivoire a signé le protocole de 2011 le 24 septembre 2013, mais n'y figure pas comme partie : la signature ne l'engage pas encore. Le contrôle du Comité passe donc, pour elle, par les rapports périodiques de l'article 44."
+     ],
+     "retenir": [
+      "La CDE a été adoptée par la résolution 44/25 de l'Assemblée générale des Nations unies le 20 novembre 1989.",
+      "La CDE est entrée en vigueur le 2 septembre 1990, trente jours après le vingtième instrument de ratification (article 49).",
+      "La Côte d'Ivoire a signé la CDE le 26 janvier 1990 et l'a ratifiée le 4 février 1991.",
+      "La CDE compte 54 articles en trois parties : droits (1 à 41), suivi (42 à 45), dispositions finales (46 à 54).",
+      "Article 37 : ni peine capitale ni emprisonnement à vie sans possibilité de libération pour une infraction commise avant 18 ans.",
+      "Article 38 : les États n'enrôlent pas les moins de 15 ans et les tiennent à l'écart de la participation directe aux hostilités.",
+      "Le Comité des droits de l'enfant compte 18 experts élus pour quatre ans ; il en comptait 10 avant l'amendement entré en vigueur en 2002.",
+      "Article 44 : premier rapport au Comité dans les deux ans, puis un rapport tous les cinq ans."
+     ],
+     "exo": {
+      "tag": "niv-de03",
+      "n": 12,
+      "ecrit": "denf"
+     },
+     "sources": [
+      {
+       "t": "Convention relative aux droits de l'enfant – texte intégral (Amnesty International France)",
+       "u": "https://www.amnesty.fr/wp-content/uploads/2025/06/amnestyfr1fe749ec-ee3d-4547-93b5-f980f777b73d_convention-relative-aux-droits-de-l-enfant.pdf"
+      },
+      {
+       "t": "Collection des traités des Nations unies – État de la Convention relative aux droits de l'enfant (IV-11)",
+       "u": "https://treaties.un.org/doc/publication/mtdsg/volume%20i/chapter%20iv/iv-11.en.pdf"
+      },
+      {
+       "t": "Collection des traités des Nations unies – Amendement au paragraphe 2 de l'article 43 (IV-11-a)",
+       "u": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20I/Chapter%20IV/IV-11-a.en.xml"
+      },
+      {
+       "t": "PacLII – Amendement à l'article 43 (2) de la Convention relative aux droits de l'enfant (1995)",
+       "u": "https://pacliirms.paclii.org/pits/en/treaty_database/1995/8.html"
+      },
+      {
+       "t": "Collection des traités des Nations unies – Protocole facultatif concernant l'implication d'enfants dans les conflits armés (IV-11-b)",
+       "u": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20I/Chapter%20IV/iv-11-b.en.pdf"
+      },
+      {
+       "t": "Collection des traités des Nations unies – Protocole facultatif établissant une procédure de présentation de communications (IV-11-d)",
+       "u": "https://treaties.un.org/doc/Publication/MTDSG/Volume I/Chapter IV/IV-11-d.en.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261026mp04",
+     "niv": "mp04",
+     "m": "mop",
+     "titre": "La gestion axée sur les résultats et le budget-programme",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez expliquer la gestion axée sur les résultats (GAR), décrire la chaîne des résultats, et situer dans la loi organique ivoirienne de 2014 les outils du budget-programme : programme, responsable, PAP, RAP.",
+      "= Vous saurez aussi construire un indicateur avec sa valeur de référence et sa cible, et calculer le degré d'atteinte d'une cible.",
+      "## Ce que demande l'épreuve",
+      "En management des organisations publiques, la GAR revient sous deux formes. Le sujet de réflexion interroge la logique de la réforme : « Le budget-programme change-t-il la manière de diriger un service public ? ». Le cas pratique décrit un service qui consomme ses crédits sans atteindre ses objectifs, et l'on attend un diagnostic, puis des indicateurs et un dispositif de compte rendu.",
+      "! Piège habituel : confondre une activité (« organiser 20 sessions de formation ») avec un résultat (« porter à 80 % la part d'agents formés qui appliquent la procédure »). Le correcteur sanctionne un indicateur qui mesure l'effort et non l'effet.",
+      "## La méthode, pas à pas",
+      "- 1. Partez de la finalité d'intérêt général du service : à quoi sert-il pour l'usager ?",
+      "- 2. Remontez la chaîne des résultats : intrants, activités, extrants, effets, impact.",
+      "- 3. Formulez un objectif par niveau utile et associez-lui un indicateur, une valeur de référence et une cible datée.",
+      "- 4. Désignez le responsable et le document où il rend compte (PAP en prévision, RAP en exécution).",
+      "- 5. Prévoyez la correction : que faire si l'écart à la cible persiste ?",
+      "~ Exemple : un centre d'état civil délivre les extraits d'acte de naissance en 10 jours. Objectif : réduire le délai. Indicateur : délai moyen de délivrance. Référence : 10 jours. Cible : 3 jours à la fin de l'année. Compte rendu : rapport trimestriel au chef de service, puis contribution au rapport annuel de performance du programme."
+     ],
+     "fond": [
+      "## Notion 1 : de la logique de moyens à la logique de résultats",
+      "Règle : la gestion axée sur les résultats consiste à piloter une organisation publique d'après les résultats qu'elle obtient, et non d'après les moyens qu'elle consomme. Le guide de l'Institut des finances résume la réforme ivoirienne ainsi : l'État « bascule d'une logique de moyens à une logique de résultats », et la GAR en « constitue la pierre angulaire ».",
+      "Pourquoi ce changement ? Dans un budget de moyens, un service est jugé sur sa capacité à dépenser ses crédits. Rien ne dit si les usagers sont mieux servis. La GAR pose la question inverse : qu'a-t-on obtenu avec l'argent public, et à quel coût ?",
+      "En Côte d'Ivoire, cette logique repose sur la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances (LOLF), qui transpose les directives de l'UEMOA adoptées en 2009. Le pays a basculé en mode budget-programme le 1er janvier 2020 : le budget est présenté sur trois ans et voté par programme et par dotation, et non plus par titres.",
+      "## Notion 2 : la chaîne des résultats",
+      "Règle : le guide GAR de l'UEMOA distingue cinq maillons. Les intrants sont les « moyens financiers, humains et matériels » ; les activités sont les actions menées ; les extrants sont les « biens, équipements ou services » produits ; les effets sont les changements attribuables à l'action ; l'impact désigne les effets à long terme.",
+      "Pourquoi cette chaîne ? Elle oblige à relier chaque franc dépensé à un changement concret pour la population. Un service peut produire beaucoup d'extrants sans aucun effet : c'est le signe d'une action mal ciblée.",
+      "~ Exemple résolu : programme d'alphabétisation des femmes rurales. Intrants : 40 alphabétiseurs, des manuels, un budget. Activités : ouvrir des centres, tenir des séances. Extrants : 2 000 femmes inscrites et 1 500 ayant suivi le cycle complet. Effet : 1 200 femmes capables de lire un document simple. Impact : meilleure gestion des activités génératrices de revenus.",
+      "! L'efficacité mesure l'atteinte des objectifs ; l'efficience mesure la façon dont les ressources sont converties en résultats, de façon économique. Un service peut être efficace sans être efficient s'il atteint sa cible à un coût excessif.",
+      "? Classez dans la chaîne des résultats : « 500 kits scolaires distribués », « taux d'achèvement du primaire en hausse », « 30 millions de francs CFA de crédits ». || Les 30 millions de francs CFA sont un intrant, c'est-à-dire un moyen. Les 500 kits distribués sont un extrant, produit directement par l'action. La hausse du taux d'achèvement est un effet : un changement dans la situation des élèves, auquel l'action contribue.",
+      "## Notion 3 : programme, responsable et dotations dans la LOLF",
+      "Règle : selon l'article 15 de la LOLF, les crédits sont votés par programme. Un programme regroupe les crédits destinés à mettre en œuvre une action ou un ensemble cohérent d'actions ; il est associé à des objectifs précis, définis en fonction de finalités d'intérêt général, et ses résultats sont mesurés notamment par des indicateurs de performance. Un programme ne peut relever que d'un seul ministère.",
+      "Le responsable de programme est nommé par décret sur proposition du ministre sectoriel dont il relève (article 16). Il élabore la stratégie du programme, pilote sa mise en œuvre et prépare le rapport de performance.",
+      "Les crédits qui ne financent pas d'objectifs de performance directement associés forment des dotations (article 17) : crédits des institutions constitutionnelles, crédits globaux pour dépenses accidentelles et imprévisibles, appels en garantie, charges financières de la dette.",
+      "Pourquoi un responsable nommé ? La GAR exige qu'une personne identifiée réponde des résultats. Sans responsable, chacun peut accuser l'autre ; avec lui, la redevabilité a un visage.",
+      "## Notion 4 : prévoir, exécuter, rendre compte",
+      "Règle : chaque programme fait l'objet d'un projet annuel de performance (PAP), annexé à la loi de finances de l'année (article 45). Le PAP présente les actions, les coûts, les objectifs, les indicateurs et leurs cibles. Le rapport annuel de performance (RAP) accompagne la loi de règlement et rend compte de l'atteinte des objectifs fixés dans le PAP (article 50).",
+      "Chaque indicateur porte une valeur cible pour l'année du projet de loi de finances et une valeur cible de moyen terme. Les objectifs sont de trois types : efficacité socio-économique, qualité de service et efficience de la gestion.",
+      "En contrepartie de cette responsabilité, le gestionnaire reçoit une marge de manœuvre encadrée : la fongibilité asymétrique. À l'intérieur d'un programme, les crédits de personnel peuvent abonder les autres natures de dépenses, mais l'inverse n'est pas possible ; les crédits d'investissement ne peuvent pas abonder les autres catégories.",
+      "~ Calcul résolu : le délai moyen de délivrance d'un permis était de 30 jours (référence) ; la cible est 10 jours ; le délai réalisé est de 15 jours. Chemin à parcourir : 30 − 10 = 20 jours. Chemin parcouru : 30 − 15 = 15 jours. Degré d'atteinte : 15 ÷ 20 × 100 = 75 %. Vérification : il reste 5 jours à gagner, soit 25 % du chemin.",
+      "? Un taux de scolarisation était de 60 % (référence) ; la cible est de 80 % ; le taux réalisé est de 74 %. Quel est le degré d'atteinte de la cible ? || Chemin à parcourir : 80 − 60 = 20 points. Chemin parcouru : 74 − 60 = 14 points. Degré d'atteinte : 14 ÷ 20 × 100 = 70 %. On mesure le progrès depuis la référence, et non le simple rapport 74 ÷ 80, qui donnerait une image trop flatteuse.",
+      "? Un directeur veut transférer des crédits d'investissement de son programme vers ses dépenses de fonctionnement. Que lui répondez-vous ? || La fongibilité est asymétrique : les crédits d'investissement ne peuvent pas abonder les autres catégories de crédits. Ces crédits sont protégés pour éviter que les dépenses courantes absorbent l'investissement. Il doit plutôt rechercher des économies dans ses autres dépenses."
+     ],
+     "retenir": [
+      "La gestion axée sur les résultats fait passer l'État d'une logique de moyens à une logique de résultats.",
+      "La loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances fonde le budget-programme ivoirien.",
+      "La Côte d'Ivoire a basculé en mode budget-programme le 1er janvier 2020 : vote par programme et par dotation.",
+      "Chaîne des résultats : intrants, activités, extrants, effets, impact.",
+      "Article 15 de la LOLF : un programme regroupe les crédits d'une action ou d'un ensemble cohérent d'actions, avec objectifs et indicateurs.",
+      "Le responsable de programme est nommé par décret, sur proposition du ministre sectoriel (article 16).",
+      "Le PAP, annexé à la loi de finances, prévoit ; le RAP, joint à la loi de règlement, rend compte.",
+      "Fongibilité asymétrique : les crédits de personnel peuvent abonder les autres crédits, jamais l'inverse."
+     ],
+     "exo": {
+      "tag": "niv-mp04",
+      "n": 12,
+      "ecrit": "mop"
+     },
+     "sources": [
+      {
+       "t": "Institut des finances de Côte d'Ivoire – Guide de la loi organique n° 2014-336 du 5 juin 2014 relative aux lois de finances",
+       "u": "https://www.institutdesfinances-ci.com/media/filer_public/c2/d2/c2d220c0-f797-49d8-8ed4-c3a0ea50a588/guide_loi_organique.pdf"
+      },
+      {
+       "t": "Abidjan.net (AIP) – La Côte d'Ivoire bascule en 2020 en mode budget-programme (21 mars 2019)",
+       "u": "https://news.abidjan.net/articles/654429/la-cote-divoire-bascule-en-2020-en-mode-budget-programme"
+      },
+      {
+       "t": "UEMOA – Guide de la gestion axée sur les résultats (2021), glossaire",
+       "u": "https://e-docucenter.uemoa.int/sites/default/files/2021-11/Tableau%20Annexe%2015%20GUIDE%20GAR%20UEMOA%202021.pdf"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "denf",
+     "src": "original",
+     "ref": "Entraînement · 26 oct. 2026",
+     "t": "« La Convention relative aux droits de l'enfant a fait de l'enfant un sujet de droits ; il reste à en faire une réalité. » Discutez cette affirmation au regard des engagements de la Côte d'Ivoire.",
+     "plan": [
+      "Introduction : définir l'enfant (moins de 18 ans) et la Convention (résolution 44/25 du 20 novembre 1989, en vigueur le 2 septembre 1990, ratifiée par la Côte d'Ivoire le 4 février 1991) ; problématique : la reconnaissance juridique suffit-elle à garantir l'effectivité des droits ?",
+      "I. Une consécration juridique réelle : A. un catalogue complet de droits opposables (identité, article 7 ; protection, articles 19, 32 et 34 ; justice, articles 37 et 40) ; B. un engagement contrôlé : rapports au Comité de 18 experts (articles 43 et 44), règle plus favorable préservée (article 41).",
+      "II. Une effectivité encore inachevée : A. des droits sociaux dépendants des ressources disponibles (article 4 : santé, éducation, niveau de vie) ; B. des voies de recours à renforcer : protocole de 2011 sur les communications signé en 2013 mais non ratifié, diffusion des rapports (article 44, paragraphe 6).",
+      "Conclusion : la Convention a changé le statut de l'enfant ; son effectivité dépend de la loi nationale, des moyens budgétaires et des recours ouverts à l'enfant ; ouverture sur la Charte africaine des droits et du bien-être de l'enfant."
+     ]
+    }
+   ]
   }
  ]
 }
