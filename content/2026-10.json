@@ -21402,6 +21402,1227 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-27",
+   "questions": [
+    {
+     "id": "n20261027-oj03-01",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Quel titre de la Constitution ivoirienne est consacré au pouvoir judiciaire ?",
+     "o": [
+      "Le titre VII",
+      "Le titre X",
+      "Le titre IX, articles 139 à 155",
+      "Le titre XII"
+     ],
+     "a": 2,
+     "e": "Le pouvoir judiciaire fait l'objet du titre IX de la Constitution, qui va de l'article 139 (indépendance) à l'article 155 (autorité des décisions de justice).",
+     "ed": [
+      "Le titre VII ne porte pas sur le pouvoir judiciaire, qui occupe le titre IX.",
+      "Le titre X est consacré à la Haute Cour de justice, juridiction d'exception distincte du pouvoir judiciaire.",
+      null,
+      "Le titre XII ne porte pas sur le pouvoir judiciaire : celui-ci occupe les articles 139 à 155, au titre IX."
+     ],
+     "src": {
+      "t": "Digithèque MJP (copie NATLEX, OIT) – Constitution de la Côte d'Ivoire, version consolidée après la révision de 2020",
+      "u": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/105198/CIV-105198%20(CONSOLID).pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-02",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Selon l'article 140 de la Constitution, quels magistrats sont inamovibles ?",
+     "o": [
+      "Les magistrats du siège",
+      "Les magistrats du parquet",
+      "Tous les auxiliaires de justice",
+      "Les seuls présidents de juridiction"
+     ],
+     "a": 0,
+     "e": "L'article 140 dispose que les magistrats du siège, c'est-à-dire ceux qui jugent, sont inamovibles : ils ne peuvent être mutés sans leur accord, sauf nécessité de service.",
+     "ed": [
+      null,
+      "L'article 140 ne vise pas les magistrats du parquet : il ne mentionne que les magistrats du siège.",
+      "Les auxiliaires de justice (avocats, huissiers, greffiers) ne sont pas des magistrats ; l'inamovibilité ne les concerne pas.",
+      "L'inamovibilité bénéficie à tous les magistrats du siège, pas seulement aux présidents de juridiction."
+     ],
+     "src": {
+      "t": "Digithèque MJP (copie NATLEX, OIT) – Constitution de la Côte d'Ivoire, version consolidée après la révision de 2020",
+      "u": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/105198/CIV-105198%20(CONSOLID).pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-03",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Depuis la révision de 2020, quelles sont les institutions juridictionnelles représentatives du pouvoir judiciaire (article 144) ?",
+     "o": [
+      "La Cour suprême et la Cour des comptes",
+      "La Cour de cassation, le Conseil constitutionnel et la Haute Cour de justice",
+      "Le Conseil supérieur de la magistrature et la Cour de cassation",
+      "La Cour de cassation, le Conseil d'État et la Cour des comptes"
+     ],
+     "a": 3,
+     "e": "Dans sa rédaction issue de la révision de 2020, l'article 144 désigne la Cour de cassation, le Conseil d'État et la Cour des comptes comme institutions représentatives du pouvoir judiciaire.",
+     "ed": [
+      "C'était la rédaction initiale de 2016 ; la révision de 2020 a remplacé la Cour suprême par la Cour de cassation et le Conseil d'État.",
+      "Le Conseil constitutionnel et la Haute Cour de justice ne relèvent pas du titre IX consacré au pouvoir judiciaire.",
+      "Le CSM n'est pas une juridiction : il gère les carrières et la discipline des magistrats.",
+      null
+     ],
+     "src": {
+      "t": "Digithèque MJP (copie NATLEX, OIT) – Constitution de la Côte d'Ivoire, version consolidée après la révision de 2020",
+      "u": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/105198/CIV-105198%20(CONSOLID).pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-04",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Qui préside le Conseil supérieur de la magistrature selon l'article 145 de la Constitution ?",
+     "o": [
+      "Le Président de la République en personne",
+      "Une personnalité nommée par le Président de la République parmi les hauts magistrats, en fonction ou à la retraite",
+      "Le ministre de la Justice",
+      "Le Président de l'Assemblée nationale"
+     ],
+     "a": 1,
+     "e": "L'article 145 confie la présidence du CSM à une personnalité nommée par le Président de la République parmi les hauts magistrats en fonction ou à la retraite.",
+     "ed": [
+      "Le Président de la République est le garant de l'indépendance (article 139) mais il ne préside pas le CSM.",
+      null,
+      "Le ministre de la Justice n'est pas désigné par l'article 145 comme président du CSM.",
+      "Le Président de l'Assemblée nationale n'a aucun rôle dans la présidence du CSM."
+     ],
+     "src": {
+      "t": "Digithèque MJP (copie NATLEX, OIT) – Constitution de la Côte d'Ivoire, version consolidée après la révision de 2020",
+      "u": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/105198/CIV-105198%20(CONSOLID).pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-05",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Un magistrat du siège commet un manquement à ses obligations. Qui peut prononcer contre lui une sanction disciplinaire ?",
+     "o": [
+      "Le ministre de la Justice, par simple arrêté",
+      "Le président de la cour d'appel du ressort",
+      "Le Conseil supérieur de la magistrature, par une décision motivée",
+      "L'Assemblée nationale, par un vote"
+     ],
+     "a": 2,
+     "e": "Selon l'article 140, un magistrat du siège ne peut être révoqué, suspendu ou sanctionné que pour un manquement à ses obligations et par une décision motivée du CSM, qui statue en matière disciplinaire (article 146).",
+     "ed": [
+      "Un arrêté ministériel ne suffit pas : la Constitution réserve la sanction au CSM.",
+      "Le président de la cour d'appel n'a pas de pouvoir disciplinaire constitutionnel sur les juges.",
+      null,
+      "Le Parlement ne sanctionne pas les juges : ce serait contraire à la séparation des pouvoirs."
+     ],
+     "src": {
+      "t": "Digithèque MJP (copie NATLEX, OIT) – Constitution de la Côte d'Ivoire, version consolidée après la révision de 2020",
+      "u": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/105198/CIV-105198%20(CONSOLID).pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-06",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Un magistrat est soupçonné d'un délit, sans flagrant délit ni condamnation définitive. Que faut-il pour le poursuivre ?",
+     "o": [
+      "L'autorisation du ministre de la Justice",
+      "L'autorisation du Conseil supérieur de la magistrature",
+      "Un vote de l'Assemblée nationale",
+      "L'accord de la Haute Cour de justice"
+     ],
+     "a": 1,
+     "e": "L'article 142 dispose que, sauf flagrant délit ou condamnation définitive, aucun magistrat ne peut être poursuivi, arrêté, détenu ou jugé sans l'autorisation du Conseil supérieur de la magistrature.",
+     "ed": [
+      "L'article 142 ne confie pas cette autorisation au ministre, mais au CSM.",
+      null,
+      "L'Assemblée nationale n'intervient pas : l'autorisation relève du CSM.",
+      "La Haute Cour de justice juge le Président, le Vice-Président et les ministres, pas les magistrats."
+     ],
+     "src": {
+      "t": "Digithèque MJP (copie NATLEX, OIT) – Constitution de la Côte d'Ivoire, version consolidée après la révision de 2020",
+      "u": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/105198/CIV-105198%20(CONSOLID).pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-07",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Un fonctionnaire veut contester un acte administratif jusqu'au sommet de l'ordre administratif. Quelle est la plus haute juridiction de cet ordre ?",
+     "o": [
+      "La Cour de cassation",
+      "La Cour des comptes",
+      "Le Conseil constitutionnel",
+      "Le Conseil d'État"
+     ],
+     "a": 3,
+     "e": "L'article 149 dispose que le Conseil d'État est la plus haute juridiction de l'ordre administratif ; la Cour de cassation est, elle, au sommet de l'ordre judiciaire (article 148).",
+     "ed": [
+      "La Cour de cassation est la plus haute juridiction de l'ordre judiciaire, pas de l'ordre administratif.",
+      "La Cour des comptes contrôle les finances publiques ; elle ne juge pas les actes administratifs en dernier ressort.",
+      "Le Conseil constitutionnel contrôle la conformité des lois à la Constitution ; il ne relève pas du titre IX.",
+      null
+     ],
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-08",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Laquelle de ces juridictions n'est PAS citée à l'article 143, qui énumère les juridictions rendant la justice ?",
+     "o": [
+      "La Haute Cour de justice",
+      "Les chambres régionales des comptes",
+      "Les tribunaux administratifs",
+      "Les cours d'appel"
+     ],
+     "a": 0,
+     "e": "L'article 143 cite la Cour de cassation, le Conseil d'État, la Cour des comptes, les cours d'appel, les tribunaux de première instance, les tribunaux administratifs et les chambres régionales des comptes ; la Haute Cour de justice relève du titre X.",
+     "ed": [
+      null,
+      "Les chambres régionales des comptes figurent bien à l'article 143, dans sa rédaction de 2020.",
+      "Les tribunaux administratifs figurent bien dans l'énumération de l'article 143.",
+      "Les cours d'appel figurent bien dans l'énumération de l'article 143."
+     ],
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-09",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Laquelle de ces missions n'appartient PAS au Conseil supérieur de la magistrature (article 146) ?",
+     "o": [
+      "Examiner les questions relatives à l'indépendance et à la déontologie des magistrats",
+      "Proposer les nominations des magistrats de la Cour de cassation",
+      "Juger le Président de la République pour haute trahison",
+      "Statuer en matière disciplinaire"
+     ],
+     "a": 2,
+     "e": "Le jugement du Président de la République pour haute trahison relève de la Haute Cour de justice (titre X) ; l'article 146 confie au CSM l'indépendance, la déontologie, les propositions de nomination et la discipline.",
+     "ed": [
+      "L'article 146 confie bien au CSM l'examen des questions d'indépendance et de déontologie.",
+      "L'article 146 charge bien le CSM de proposer les nominations à la Cour de cassation.",
+      null,
+      "Le CSM statue bien en matière disciplinaire, selon l'article 146."
+     ],
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-10",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Une commune refuse d'exécuter un jugement définitif rendu contre elle. Que prévoit l'article 155 de la Constitution ?",
+     "o": [
+      "Les pouvoirs publics peuvent s'en dispenser pour un motif d'intérêt général",
+      "Les décisions de justice sont exécutoires et s'imposent aux pouvoirs publics, à toute autorité et à toute personne",
+      "Le jugement ne s'impose à la commune qu'après approbation du ministre de la Justice",
+      "Les décisions de justice ne s'imposent qu'aux particuliers"
+     ],
+     "a": 1,
+     "e": "L'article 155 dispose que les décisions de justice sont exécutoires et s'imposent aux pouvoirs publics, à toute autorité et à toute personne : la commune doit exécuter.",
+     "ed": [
+      "L'article 155 ne prévoit aucune dispense pour motif d'intérêt général.",
+      null,
+      "Aucune approbation ministérielle n'est exigée : ce serait contraire à l'indépendance du pouvoir judiciaire.",
+      "L'article 155 vise expressément les pouvoirs publics et toute autorité, pas seulement les particuliers."
+     ],
+     "src": {
+      "t": "Digithèque MJP (copie NATLEX, OIT) – Constitution de la Côte d'Ivoire, version consolidée après la révision de 2020",
+      "u": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/105198/CIV-105198%20(CONSOLID).pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-11",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Dans la version initiale de la Constitution de 2016, quelles institutions représentaient le pouvoir judiciaire ?",
+     "o": [
+      "La Cour de cassation, le Conseil d'État et la Cour des comptes",
+      "Le Conseil constitutionnel et la Cour suprême",
+      "La Haute Cour de justice et la Cour des comptes",
+      "La Cour suprême et la Cour des comptes"
+     ],
+     "a": 3,
+     "e": "Dans la version publiée au Journal officiel du 9 novembre 2016, l'article 144 nommait la Cour suprême et la Cour des comptes ; la Cour de cassation et le Conseil d'État étaient alors des formations de la Cour suprême.",
+     "ed": [
+      "C'est la rédaction issue de la révision de 2020, pas la version initiale de 2016.",
+      "Le Conseil constitutionnel n'a jamais figuré parmi les institutions représentatives du pouvoir judiciaire.",
+      "La Haute Cour de justice relève d'un titre distinct et n'était pas une institution représentative.",
+      null
+     ],
+     "src": {
+      "t": "FAOLEX – Journal officiel du 9 novembre 2016 (numéro spécial) : Constitution de 2016, version initiale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc160760.pdf"
+     }
+    },
+    {
+     "id": "n20261027-oj03-12",
+     "m": "oj",
+     "tag": "niv-oj03",
+     "q": "Un candidat présente la Haute Cour de justice comme une juridiction du titre IX. Pourquoi a-t-il tort ?",
+     "o": [
+      "Parce qu'elle est régie par un titre distinct, le titre X, comme juridiction d'exception",
+      "Parce qu'elle a été supprimée par la révision de 2020",
+      "Parce qu'elle fait partie du Conseil supérieur de la magistrature",
+      "Parce qu'elle n'est prévue que par une loi ordinaire"
+     ],
+     "a": 0,
+     "e": "L'article 156, placé au titre X, fait de la Haute Cour de justice une juridiction d'exception qui juge le Président de la République, le Vice-Président et les membres du Gouvernement ; elle n'appartient pas au titre IX.",
+     "ed": [
+      null,
+      "La Haute Cour de justice existe toujours : le titre X de la version consolidée de 2020 la maintient.",
+      "Le CSM gère les carrières des magistrats ; il n'inclut aucune juridiction.",
+      "Elle est prévue par la Constitution elle-même (article 156), pas seulement par la loi."
+     ],
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261027-cg04-01",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "À quelle date la Côte d'Ivoire a-t-elle accédé à la pleine indépendance vis-à-vis de la France ?",
+     "o": [
+      "Le 1er janvier 1960",
+      "Le 7 août 1960",
+      "Le 20 août 1958",
+      "Le 28 octobre 1960"
+     ],
+     "a": 1,
+     "e": "La Côte d'Ivoire a obtenu sa pleine indépendance vis-à-vis de la France le 7 août 1960 ; Félix Houphouët-Boigny dirige alors le pays jusqu'à sa mort en 1993.",
+     "ed": [
+      "Le 1er janvier 1960 n'est pas la date de l'indépendance ivoirienne, intervenue le 7 août 1960.",
+      null,
+      "En 1958, la Côte d'Ivoire n'est pas encore indépendante : l'indépendance date du 7 août 1960.",
+      "Le 28 octobre 1960 n'est pas la date de l'indépendance, proclamée le 7 août 1960."
+     ],
+     "src": {
+      "t": "Wikipedia – History of Ivory Coast (1960–1999)",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast_(1960%E2%80%931999)"
+     }
+    },
+    {
+     "id": "n20261027-cg04-02",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Entre 1960 et 1990, quel était le seul parti politique autorisé en Côte d'Ivoire ?",
+     "o": [
+      "Le FPI",
+      "Le RDR",
+      "Le PDCI",
+      "Le PIT"
+     ],
+     "a": 2,
+     "e": "De 1960 à 1990, tous les partis étaient interdits sauf le PDCI, le parti de Félix Houphouët-Boigny ; le multipartisme n'est rétabli qu'en 1990.",
+     "ed": [
+      "Le FPI, parti fondé par Laurent Gbagbo, était un parti d'opposition, non autorisé avant 1990.",
+      "Le RDR n'était pas le parti unique : seul le PDCI était autorisé avant 1990.",
+      null,
+      "Le PIT n'était pas le parti unique : seul le PDCI était autorisé avant 1990."
+     ],
+     "src": {
+      "t": "Wikipedia – History of Ivory Coast (1960–1999)",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast_(1960%E2%80%931999)"
+     }
+    },
+    {
+     "id": "n20261027-cg04-03",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Qui fut l'adversaire de Félix Houphouët-Boigny lors de la présidentielle du 28 octobre 1990, la première à plusieurs candidats ?",
+     "o": [
+      "Henri Konan Bédié",
+      "Robert Guéï",
+      "Alassane Ouattara",
+      "Laurent Gbagbo"
+     ],
+     "a": 3,
+     "e": "Le 28 octobre 1990, Laurent Gbagbo, candidat du FPI, a obtenu 18,32 % des voix face à Félix Houphouët-Boigny, réélu avec 81,68 %.",
+     "ed": [
+      "Henri Konan Bédié présidait alors l'Assemblée nationale ; le scrutin de 1990 n'opposait que Houphouët-Boigny et Gbagbo.",
+      "Robert Guéï n'était pas candidat en 1990 : le scrutin n'opposait que Houphouët-Boigny et Gbagbo.",
+      "Alassane Ouattara n'était pas candidat en 1990 : le scrutin n'opposait que Houphouët-Boigny et Gbagbo.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – 1990 Ivorian presidential election",
+      "u": "https://en.wikipedia.org/wiki/1990_Ivorian_presidential_election"
+     }
+    },
+    {
+     "id": "n20261027-cg04-04",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "En décembre 1993, à la mort d'Houphouët-Boigny, qui lui succède comme le prévoit la Constitution ?",
+     "o": [
+      "Henri Konan Bédié, président de l'Assemblée nationale",
+      "Laurent Gbagbo, chef de l'opposition",
+      "Robert Guéï, chef d'état-major",
+      "Guillaume Soro, Premier ministre"
+     ],
+     "a": 0,
+     "e": "Henri Konan Bédié, président de l'Assemblée nationale depuis 1980, assume la présidence quelques heures après la mort d'Houphouët-Boigny, le 7 décembre 1993, conformément à la Constitution.",
+     "ed": [
+      null,
+      "Laurent Gbagbo était un opposant ; il ne devient président qu'en octobre 2000.",
+      "Robert Guéï ne prend le pouvoir qu'en décembre 1999, par un coup d'État.",
+      "Guillaume Soro ne devient Premier ministre qu'en mars 2007."
+     ],
+     "src": {
+      "t": "Wikipedia – Henri Konan Bédié",
+      "u": "https://en.wikipedia.org/wiki/Henri_Konan_B%C3%A9di%C3%A9"
+     }
+    },
+    {
+     "id": "n20261027-cg04-05",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Qui prend la tête du pays après le coup d'État du 24 décembre 1999 qui renverse Henri Konan Bédié ?",
+     "o": [
+      "Laurent Gbagbo",
+      "Robert Guéï",
+      "Guillaume Soro",
+      "Alassane Ouattara"
+     ],
+     "a": 1,
+     "e": "Le coup d'État du 24 décembre 1999 renverse Henri Konan Bédié ; le général à la retraite Robert Guéï devient alors chef de l'État.",
+     "ed": [
+      "Laurent Gbagbo n'arrive au pouvoir qu'après l'élection du 22 octobre 2000.",
+      null,
+      "Guillaume Soro n'est pas l'auteur du coup d'État de 1999 ; il dirigera plus tard la rébellion de 2002.",
+      "Alassane Ouattara ne devient président qu'en 2011."
+     ],
+     "src": {
+      "t": "Wikipedia – Henri Konan Bédié",
+      "u": "https://en.wikipedia.org/wiki/Henri_Konan_B%C3%A9di%C3%A9"
+     }
+    },
+    {
+     "id": "n20261027-cg04-06",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Que les Ivoiriens ont-ils approuvé par référendum les 23 et 24 juillet 2000, avec 86,53 % de oui ?",
+     "o": [
+      "L'accord de Linas-Marcoussis",
+      "Le retour au multipartisme",
+      "Une nouvelle Constitution",
+      "La création du Sénat"
+     ],
+     "a": 2,
+     "e": "Les 23 et 24 juillet 2000, une nouvelle Constitution est approuvée par référendum avec 86,53 % de oui, quelques mois avant l'élection présidentielle du 22 octobre 2000.",
+     "ed": [
+      "L'accord de Linas-Marcoussis date de janvier 2003 et n'a pas été soumis à référendum.",
+      "Le multipartisme a été rétabli en 1990, par la légalisation des partis d'opposition.",
+      null,
+      "Le Sénat est créé par la Constitution de 2016, pas par le référendum de 2000."
+     ],
+     "src": {
+      "t": "Wikipedia – History of Ivory Coast (1999–present)",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast_(1999%E2%80%93present)"
+     }
+    },
+    {
+     "id": "n20261027-cg04-07",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Dans quel pays a été signé, le 24 janvier 2003, l'accord de Linas-Marcoussis sur la crise ivoirienne ?",
+     "o": [
+      "En France",
+      "Au Burkina Faso",
+      "Au Ghana",
+      "Au Togo"
+     ],
+     "a": 0,
+     "e": "L'accord de Linas-Marcoussis a été conclu en France, à Linas-Marcoussis, et signé le 24 janvier 2003 ; il prévoyait un gouvernement de réconciliation nationale.",
+     "ed": [
+      null,
+      "Le Burkina Faso a accueilli l'accord de Ouagadougou en 2007, pas celui de Linas-Marcoussis.",
+      "Linas-Marcoussis est une localité française, pas ghanéenne.",
+      "Linas-Marcoussis est une localité française, pas togolaise."
+     ],
+     "src": {
+      "t": "The New Humanitarian – « Implement peace agreement, Security Council urges » (5 février 2003)",
+      "u": "https://www.thenewhumanitarian.org/news/2003/02/05/implement-peace-agreement-security-council-urges"
+     }
+    },
+    {
+     "id": "n20261027-cg04-08",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Quel chef d'État a été le médiateur de l'accord politique de Ouagadougou, signé le 4 mars 2007 ?",
+     "o": [
+      "Abdoulaye Wade",
+      "Thabo Mbeki",
+      "Olusegun Obasanjo",
+      "Blaise Compaoré"
+     ],
+     "a": 3,
+     "e": "L'accord de Ouagadougou a été signé le 4 mars 2007 par Laurent Gbagbo et Guillaume Soro sous la médiation du président burkinabè Blaise Compaoré.",
+     "ed": [
+      "Abdoulaye Wade n'a pas été le médiateur de l'accord de Ouagadougou.",
+      "Thabo Mbeki n'a pas été le médiateur de l'accord de Ouagadougou, conduit par Blaise Compaoré.",
+      "Olusegun Obasanjo n'a pas été le médiateur de l'accord de Ouagadougou.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Ouagadougou Agreement",
+      "u": "https://en.wikipedia.org/wiki/Ouagadougou_Agreement"
+     }
+    },
+    {
+     "id": "n20261027-cg04-09",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "À la suite de l'accord de Ouagadougou, qui est nommé Premier ministre le 29 mars 2007 ?",
+     "o": [
+      "Guillaume Soro",
+      "Alassane Ouattara",
+      "Henri Konan Bédié",
+      "Robert Guéï"
+     ],
+     "a": 0,
+     "e": "En application de l'accord de Ouagadougou, Guillaume Soro, chef des Forces nouvelles, est nommé Premier ministre le 29 mars 2007, dans un gouvernement de transition.",
+     "ed": [
+      null,
+      "Alassane Ouattara n'est pas nommé Premier ministre en 2007 ; il devient président en 2011.",
+      "Henri Konan Bédié, ancien président, n'est pas nommé Premier ministre en 2007.",
+      "Robert Guéï n'est pas Premier ministre en 2007."
+     ],
+     "src": {
+      "t": "Wikipedia – Ouagadougou Agreement",
+      "u": "https://en.wikipedia.org/wiki/Ouagadougou_Agreement"
+     }
+    },
+    {
+     "id": "n20261027-cg04-10",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Lors de la crise postélectorale de 2010, quelle institution a proclamé Alassane Ouattara vainqueur ?",
+     "o": [
+      "Le Conseil constitutionnel",
+      "La Commission électorale indépendante",
+      "La Cour suprême",
+      "L'Assemblée nationale"
+     ],
+     "a": 1,
+     "e": "La Commission électorale indépendante (CEI) a proclamé Alassane Ouattara vainqueur, tandis que le président du Conseil constitutionnel a invalidé ces résultats et proclamé Laurent Gbagbo : c'est l'origine de la crise.",
+     "ed": [
+      "Le Conseil constitutionnel a au contraire proclamé Laurent Gbagbo vainqueur.",
+      null,
+      "La Cour suprême n'a pas proclamé les résultats de 2010.",
+      "L'Assemblée nationale ne proclame pas les résultats de l'élection présidentielle."
+     ],
+     "src": {
+      "t": "Wikipedia – History of Ivory Coast (1999–present)",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast_(1999%E2%80%93present)"
+     }
+    },
+    {
+     "id": "n20261027-cg04-11",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Laquelle de ces nouveautés n'a PAS été introduite par la Constitution de 2016 ?",
+     "o": [
+      "La création d'un vice-président",
+      "La création d'un Sénat",
+      "La suppression de la limite d'âge de 75 ans pour les candidats",
+      "Le retour au multipartisme"
+     ],
+     "a": 3,
+     "e": "Le multipartisme a été rétabli en 1990. La Constitution de 2016 crée le vice-président et le Sénat et supprime la limite d'âge de 75 ans pour les candidats à la présidence.",
+     "ed": [
+      "La Constitution de 2016 crée bien un vice-président, élu avec le Président.",
+      "La Constitution de 2016 crée bien un Sénat, rendant le Parlement bicaméral.",
+      "La Constitution de 2016 supprime bien la limite d'âge de 75 ans prévue auparavant.",
+      null
+     ],
+     "src": {
+      "t": "Library of Congress (Global Legal Monitor) – Côte d'Ivoire: New Constitution Adopted (25 novembre 2016)",
+      "u": "https://www.loc.gov/item/global-legal-monitor/2016-11-25/cte-divoire-new-constitution-adopted/"
+     }
+    },
+    {
+     "id": "n20261027-cg04-12",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Selon les résultats définitifs proclamés le 4 novembre 2025 par le Conseil constitutionnel, Alassane Ouattara a été élu le 25 octobre 2025 :",
+     "o": [
+      "au second tour, avec 59 % des voix",
+      "au premier tour, avec 51 % des voix",
+      "au premier tour, avec 89,77 % des voix",
+      "au second tour, face à Laurent Gbagbo"
+     ],
+     "a": 2,
+     "e": "Le Conseil constitutionnel a confirmé, le 4 novembre 2025, l'élection d'Alassane Ouattara au premier tour du scrutin du 25 octobre 2025, avec 89,77 % des suffrages.",
+     "ed": [
+      "Il n'y a pas eu de second tour en 2025 ; 59 % est le score de Laurent Gbagbo en 2000.",
+      "Le score proclamé est de 89,77 %, pas 51 %.",
+      null,
+      "Il n'y a pas eu de second tour en 2025 : l'élection a été acquise au premier tour."
+     ],
+     "src": {
+      "t": "AllAfrica / Fraternité Matin – Présidentielle 2025 : le Conseil constitutionnel confirme l'élection d'Alassane Ouattara au premier tour (4 novembre 2025)",
+      "u": "https://fr.allafrica.com/stories/202511040549.html"
+     }
+    },
+    {
+     "id": "n20261027-so04-01",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Dans un paragraphe argumentatif, quel est le rôle de la première phrase ?",
+     "o": [
+      "Raconter un fait historique pour capter l'attention",
+      "Énoncer, sous forme d'affirmation, l'idée que le paragraphe va démontrer",
+      "Poser une question au lecteur",
+      "Rappeler le plan général du devoir"
+     ],
+     "a": 1,
+     "e": "La première phrase est l'idée directrice : une affirmation qui annonce ce que le paragraphe démontre, pour que le correcteur lise la suite comme une preuve.",
+     "ed": [
+      "Un fait isolé est un exemple ; placé en tête, il ne dit pas ce que le paragraphe veut prouver.",
+      null,
+      "Une question n'affirme rien : le paragraphe doit démontrer une idée, pas la chercher.",
+      "Le plan s'annonce dans l'introduction et dans les chapeaux, pas en tête de chaque argument."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-02",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Combien d'idées directrices un paragraphe argumentatif doit-il développer ?",
+     "o": [
+      "Deux, pour gagner du temps",
+      "Autant que d'exemples cités",
+      "Une seule",
+      "Trois au minimum"
+     ],
+     "a": 2,
+     "e": "Un paragraphe défend une seule idée : c'est ce qui permet au correcteur de savoir précisément ce qu'il démontre.",
+     "ed": [
+      "Deux idées mêlées brouillent la démonstration : chacune mérite son propre paragraphe.",
+      "Le nombre d'exemples ne fixe pas le nombre d'idées : plusieurs exemples peuvent servir une même idée.",
+      null,
+      "Trois idées dans un paragraphe produisent une liste, pas une démonstration."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-03",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Quelle est la fonction de l'explication, placée après l'idée directrice ?",
+     "o": [
+      "Montrer pourquoi ou comment l'idée est vraie, en décrivant un mécanisme",
+      "Répéter l'idée avec d'autres mots",
+      "Donner l'avis personnel du candidat",
+      "Annoncer la partie suivante"
+     ],
+     "a": 0,
+     "e": "L'explication répond à « pourquoi ? » ou « comment ? » : elle décrit le mécanisme qui rend l'idée vraie et fait le pont entre l'idée et l'exemple.",
+     "ed": [
+      null,
+      "Répéter l'idée est une paraphrase : le raisonnement tourne en rond.",
+      "L'argumentation repose sur des raisons et des faits, pas sur une opinion non justifiée.",
+      "Annoncer la suite est le rôle de la transition, en fin de partie."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-04",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Que doit faire la mini-conclusion d'un paragraphe argumentatif ?",
+     "o": [
+      "Introduire un exemple nouveau",
+      "Relier l'argument au sujet en disant ce qu'il a établi",
+      "Poser une nouvelle problématique",
+      "Citer un auteur célèbre"
+     ],
+     "a": 1,
+     "e": "La mini-conclusion revient au sujet : elle formule ce que l'argument a établi et prépare l'argument suivant.",
+     "ed": [
+      "Un exemple nouveau en fin de paragraphe resterait sans explication ni analyse.",
+      null,
+      "La problématique est unique et posée dans l'introduction ; on ne la change pas en cours de route.",
+      "Une citation n'est pas une conclusion : elle ne dit pas ce que l'argument a démontré."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-05",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Pour illustrer l'idée « le dialogue permet de sortir d'un conflit armé », quel exemple est le meilleur ?",
+     "o": [
+      "Depuis toujours, les Africains règlent leurs conflits par la palabre.",
+      "Beaucoup de pays ont signé des accords de paix.",
+      "On dit souvent que le dialogue est l'arme des forts.",
+      "L'accord politique de Ouagadougou, signé le 4 mars 2007, a supprimé la zone qui coupait la Côte d'Ivoire en deux."
+     ],
+     "a": 3,
+     "e": "Le meilleur exemple est précis, daté et vérifiable, et il prouve directement l'idée : l'accord de Ouagadougou du 4 mars 2007 est un résultat concret de la négociation.",
+     "ed": [
+      "« Depuis toujours » est une généralité invérifiable : ce n'est pas un exemple.",
+      "« Beaucoup de pays » ne nomme aucun accord : l'exemple reste vague.",
+      "Un « on dit » n'est ni un fait ni une preuve.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-06",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Complétez : « Le dialogue rétablit la confiance entre les camps ; ……, les armes peuvent se taire. »",
+     "o": [
+      "pourtant",
+      "en revanche",
+      "par conséquent",
+      "bien que"
+     ],
+     "a": 2,
+     "e": "La seconde proposition est l'effet de la première : il faut un connecteur de conséquence comme « par conséquent ».",
+     "ed": [
+      "« Pourtant » marque une opposition, alors que la phrase exprime une conséquence.",
+      "« En revanche » oppose deux idées ; ici, la seconde découle de la première.",
+      null,
+      "« Bien que » exprime la concession, exige le subjonctif et ne peut pas introduire cette conséquence."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-07",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Un paragraphe contient une idée directrice, une explication et une mini-conclusion. Que lui manque-t-il ?",
+     "o": [
+      "Une problématique",
+      "Un exemple précis et analysé",
+      "Une annonce de plan",
+      "Une accroche"
+     ],
+     "a": 1,
+     "e": "Un argument complet comprend l'idée, l'explication, l'exemple analysé et la mini-conclusion : sans exemple, la démonstration reste abstraite.",
+     "ed": [
+      "La problématique appartient à l'introduction, pas à chaque paragraphe.",
+      null,
+      "L'annonce du plan se fait dans l'introduction.",
+      "L'accroche est le premier temps de l'introduction, pas un élément du paragraphe argumentatif."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-08",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Pour le sujet « La démocratie suppose-t-elle le pluralisme politique ? », laquelle de ces phrases peut servir d'idée directrice ?",
+     "o": [
+      "Le pluralisme donne aux citoyens un véritable choix, sans lequel le vote perd son sens.",
+      "Le 28 octobre 1990 s'est tenue la première présidentielle à plusieurs candidats.",
+      "La démocratie suppose-t-elle vraiment le pluralisme ?",
+      "« La démocratie, c'est le peuple », dit-on souvent."
+     ],
+     "a": 0,
+     "e": "Une idée directrice est une affirmation générale qui répond au sujet et appelle une démonstration : c'est le cas de la phrase sur le choix offert par le pluralisme.",
+     "ed": [
+      null,
+      "C'est un fait daté : il servira d'exemple, pas d'idée directrice.",
+      "Une question ne démontre rien : l'idée directrice doit affirmer.",
+      "Une formule rapportée par « dit-on » n'est ni une idée claire ni une preuve."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-09",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Complétez : « …… le dialogue soit lent, il produit des accords plus durables. »",
+     "o": [
+      "Parce que",
+      "Donc",
+      "Ainsi",
+      "Bien que"
+     ],
+     "a": 3,
+     "e": "La phrase reconnaît un défaut (la lenteur) avant d'affirmer une qualité : c'est une concession, introduite par « bien que », suivi du subjonctif « soit ».",
+     "ed": [
+      "« Parce que » exprime la cause ; or la lenteur n'est pas la cause de la durabilité.",
+      "« Donc » exprime une conséquence et ne peut pas ouvrir une subordonnée au subjonctif.",
+      "« Ainsi » introduit une conséquence ou un exemple, pas une concession.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-10",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Un candidat aligne cinq exemples dans un paragraphe sans jamais les commenter. Quel est le défaut ?",
+     "o": [
+      "Aucun : plus il y a d'exemples, meilleure est la note",
+      "Les exemples devraient tous être étrangers",
+      "C'est un catalogue : des exemples non analysés ne démontrent rien",
+      "Il aurait fallu les placer dans la conclusion"
+     ],
+     "a": 2,
+     "e": "Un exemple ne prouve que s'il est relié à l'idée par une analyse : une liste d'exemples sans commentaire est un catalogue, que le correcteur sanctionne.",
+     "ed": [
+      "La quantité ne remplace pas l'analyse : un seul exemple bien exploité vaut mieux qu'une liste.",
+      "Les exemples ivoiriens ou africains sont au contraire recommandés.",
+      null,
+      "La conclusion ne développe pas d'exemples : ceux-ci appartiennent aux paragraphes."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-11",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "En rédigeant, vous doutez de la date exacte d'un événement que vous voulez citer. Que faire ?",
+     "o": [
+      "Écrire une date approximative avec assurance",
+      "Ne garder que ce dont vous êtes certain, ou choisir un autre exemple",
+      "Inventer une source pour rassurer le correcteur",
+      "Écrire la date suivie d'un point d'interrogation"
+     ],
+     "a": 1,
+     "e": "Un fait faux ruine la crédibilité de la copie : on n'écrit que ce que l'on sait avec certitude, quitte à être moins précis ou à changer d'exemple.",
+     "ed": [
+      "Une date fausse écrite avec assurance est une erreur de fait, sanctionnée.",
+      null,
+      "Inventer une source est malhonnête et se repère facilement.",
+      "Un point d'interrogation montre l'ignorance et affaiblit l'argument."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-so04-12",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Pour illustrer l'idée « le dialogue fonde la paix », un candidat cite le coup d'État du 24 décembre 1999. Quel est le problème ?",
+     "o": [
+      "L'exemple illustre une prise de pouvoir par la force : il ne prouve pas l'idée et servirait plutôt une autre partie",
+      "La date est trop ancienne pour un sujet d'ordre général",
+      "Il est interdit de citer des événements ivoiriens",
+      "Il aurait fallu citer l'événement sans sa date"
+     ],
+     "a": 0,
+     "e": "Un exemple doit prouver l'idée qu'il illustre. Un coup d'État relève de la force, pas du dialogue : il peut servir dans une partie sur les limites ou les échecs, pas ici.",
+     "ed": [
+      null,
+      "L'ancienneté n'est pas un problème : un fait historique daté est un bon exemple s'il prouve l'idée.",
+      "Les exemples ivoiriens sont au contraire recommandés.",
+      "Supprimer la date rendrait l'exemple moins précis sans corriger le contresens."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261027-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "À quel État le Royaume-Uni a-t-il rétrocédé Hong Kong le 1er juillet 1997 ?",
+     "o": [
+      "Le Japon",
+      "Singapour",
+      "La République populaire de Chine",
+      "Taïwan"
+     ],
+     "a": 2,
+     "e": "Le 1er juillet 1997, le Royaume-Uni a transféré la souveraineté de Hong Kong à la République populaire de Chine, selon la déclaration conjointe sino-britannique de 1984 et le principe « un pays, deux systèmes ».",
+     "ed": [
+      "Le Japon n'a pas reçu Hong Kong en 1997 : la rétrocession s'est faite au profit de la Chine populaire.",
+      "Singapour est un État indépendant distinct ; il n'a pas reçu Hong Kong.",
+      null,
+      "Taïwan n'a pas reçu Hong Kong : la déclaration de 1984 a été signée avec la République populaire de Chine."
+     ],
+     "src": {
+      "t": "Wikipedia – Handover of Hong Kong",
+      "u": "https://en.wikipedia.org/wiki/Handover_of_Hong_Kong"
+     }
+    },
+    {
+     "id": "n20261027-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lors de la mission Apollo 11 (alunissage du 20 juillet 1969), quel astronaute est resté en orbite à bord du module de commande Columbia ?",
+     "o": [
+      "Neil Armstrong",
+      "Michael Collins",
+      "Edwin « Buzz » Aldrin",
+      "Youri Gagarine"
+     ],
+     "a": 1,
+     "e": "Michael Collins, pilote du module de commande, est resté en orbite lunaire à bord de Columbia pendant que Neil Armstrong et Buzz Aldrin se posaient sur la Lune avec le module Eagle.",
+     "ed": [
+      "Neil Armstrong, commandant, a été le premier homme à marcher sur la Lune : il n'est pas resté en orbite.",
+      null,
+      "Buzz Aldrin, pilote du module lunaire Eagle, est descendu sur la Lune environ 20 minutes après Armstrong.",
+      "Youri Gagarine, cosmonaute soviétique, n'a jamais participé à Apollo 11."
+     ],
+     "src": {
+      "t": "Encyclopædia Britannica – Apollo 11",
+      "u": "https://britannica.com/topic/Apollo-11"
+     }
+    },
+    {
+     "id": "n20261027-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le secrétariat de la Communauté des Caraïbes (CARICOM), créée par le traité de Chaguaramas signé le 4 juillet 1973 ?",
+     "o": [
+      "Kingston",
+      "Port-d'Espagne",
+      "Bridgetown",
+      "Georgetown"
+     ],
+     "a": 3,
+     "e": "Le secrétariat de la CARICOM est établi à Georgetown, au Guyana ; l'organisation a été fondée par le traité de Chaguaramas, signé à Trinité-et-Tobago le 4 juillet 1973.",
+     "ed": [
+      "Kingston, capitale de la Jamaïque, n'accueille pas le secrétariat de la CARICOM.",
+      "Port-d'Espagne, capitale de Trinité-et-Tobago, n'accueille pas le secrétariat de la CARICOM.",
+      "Bridgetown, capitale de la Barbade, n'accueille pas le secrétariat de la CARICOM.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Caribbean Community",
+      "u": "https://en.wikipedia.org/wiki/Caribbean_Community"
+     }
+    },
+    {
+     "id": "n20261027-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "De quel État l'Érythrée a-t-elle proclamé son indépendance le 24 mai 1993, après un référendum organisé sous l'égide de l'ONU ?",
+     "o": [
+      "L'Éthiopie",
+      "Le Soudan",
+      "La Somalie",
+      "Djibouti"
+     ],
+     "a": 0,
+     "e": "L'Érythrée a proclamé officiellement son indépendance vis-à-vis de l'Éthiopie le 24 mai 1993, après le référendum d'avril 1993 où 99,8 % des votants l'ont approuvée.",
+     "ed": [
+      null,
+      "L'Érythrée ne s'est pas séparée du Soudan, mais de l'Éthiopie.",
+      "L'Érythrée ne s'est pas séparée de la Somalie, mais de l'Éthiopie.",
+      "Djibouti est un État voisin indépendant depuis 1977 ; l'Érythrée s'est séparée de l'Éthiopie."
+     ],
+     "src": {
+      "t": "Bundeszentrale für politische Bildung – Unabhängigkeit Eritreas",
+      "u": "https://www.bpb.de/politik/hintergrund-aktuell/269599/unabhaengigkeit-eritreas"
+     }
+    },
+    {
+     "id": "n20261027-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Qui a été le premier président de la Namibie, devenue indépendante de l'Afrique du Sud en 1990 ?",
+     "o": [
+      "Nelson Mandela",
+      "Robert Mugabe",
+      "Sam Nujoma",
+      "Kenneth Kaunda"
+     ],
+     "a": 2,
+     "e": "Sam Nujoma, fondateur et premier président de la SWAPO, a prêté serment comme premier président de la Namibie le 21 mars 1990 et a exercé trois mandats, jusqu'en 2005.",
+     "ed": [
+      "Nelson Mandela a été président de l'Afrique du Sud, pas de la Namibie.",
+      "Robert Mugabe a dirigé le Zimbabwe, pas la Namibie.",
+      null,
+      "Kenneth Kaunda a été le premier président de la Zambie, pas de la Namibie."
+     ],
+     "src": {
+      "t": "Wikipedia – Sam Nujoma",
+      "u": "https://en.wikipedia.org/wiki/Sam_Nujoma"
+     }
+    },
+    {
+     "id": "n20261027-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La première convention conclue en février 1975 entre la Communauté économique européenne et les pays ACP (Afrique, Caraïbes, Pacifique) a été signée dans quel pays ?",
+     "o": [
+      "Au Bénin",
+      "Au Togo",
+      "Au Ghana",
+      "Au Sénégal"
+     ],
+     "a": 1,
+     "e": "La première convention CEE-ACP a été signée en février 1975 à Lomé, capitale du Togo, d'où son nom de convention de Lomé.",
+     "ed": [
+      "La convention porte le nom de Lomé, capitale du Togo, et non d'une ville béninoise.",
+      null,
+      "La convention a été signée à Lomé, au Togo, et non au Ghana.",
+      "La convention a été signée à Lomé, au Togo, et non au Sénégal."
+     ],
+     "src": {
+      "t": "Wikipedia – Lomé Convention",
+      "u": "https://en.wikipedia.org/wiki/Lom%C3%A9_Convention"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261027so04",
+     "niv": "so04",
+     "m": "sog",
+     "titre": "Argumenter : idée, explication, exemple",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez construire un paragraphe argumentatif complet : une idée directrice, une explication qui la justifie, un exemple précis et analysé, une mini-conclusion qui revient au sujet.",
+      "= Vous saurez aussi choisir le bon connecteur logique et repérer, dans votre propre brouillon, l'élément qui manque.",
+      "## Ce que demande l'épreuve",
+      "Le développement d'un sujet d'ordre général est une suite d'arguments. Le correcteur ne note pas des opinions : il note des démonstrations. Un argument réussi lui permet de suivre un raisonnement du début à la fin ; un argument raté se reconnaît vite : une affirmation sans preuve, ou une liste d'exemples sans lien entre eux.",
+      "! Piège habituel : confondre l'exemple et l'argument. Citer un fait n'est pas argumenter ; il faut dire ce que ce fait démontre.",
+      "## La méthode, pas à pas",
+      "- 1. Écrivez l'idée directrice en une phrase affirmative, qui répond en partie à la problématique.",
+      "- 2. Expliquez : pourquoi cette idée est-elle vraie ? Quel mécanisme la rend vraie ? Une ou deux phrases introduites par un connecteur de cause.",
+      "- 3. Illustrez par un exemple précis : un fait daté, un texte, un événement, de préférence ivoirien ou africain, que vous êtes certain de connaître exactement.",
+      "- 4. Analysez l'exemple : une phrase qui montre en quoi il prouve l'idée.",
+      "- 5. Concluez le paragraphe par une mini-conclusion qui relie l'argument au sujet.",
+      "- 6. Au total, visez 5 à 7 phrases, puis passez à la ligne pour l'argument suivant.",
+      "~ Exemple : sujet « Le dialogue est-il la voie la plus sûre vers la paix ? ». Idée directrice : « Le dialogue permet de sortir d'un conflit armé en redonnant une place à chaque camp. » Elle est affirmative, elle répond à la question posée et elle peut être prouvée."
+     ],
+     "fond": [
+      "## Notion 1 : l'idée directrice",
+      "Règle : chaque paragraphe défend une seule idée, énoncée dès la première phrase. Cette phrase est une affirmation générale, pas un fait isolé, pas une question, pas une citation.",
+      "Pourquoi ? Le correcteur lit vite. S'il comprend dès la première phrase ce que vous allez démontrer, il lit la suite comme une preuve. Si l'idée n'apparaît qu'à la fin, ou si deux idées se mêlent, il ne sait plus ce que le paragraphe prouve.",
+      "~ Exemple résolu : pour le sujet « La démocratie suppose-t-elle le pluralisme politique ? », comparez deux débuts. (a) « Le 3 mai 1990, les partis d'opposition sont légalisés. » C'est un fait : il servira d'exemple. (b) « Le pluralisme donne aux citoyens un véritable choix, sans lequel le vote perd son sens. » C'est une idée directrice : elle affirme, elle répond au sujet, elle appelle une démonstration.",
+      "! Une idée trop large (« La démocratie est importante ») ne démontre rien. Une bonne idée directrice contient un lien : une cause, une condition, une conséquence.",
+      "? Laquelle de ces phrases peut ouvrir un paragraphe : « La jeunesse est l'avenir du pays » ou « La formation professionnelle rapproche les jeunes des emplois disponibles » ? || La seconde. Elle affirme un lien précis (formation → accès à l'emploi) que l'on peut expliquer et illustrer. La première est une formule générale, vraie pour tous les sujets, qui ne démontre rien.",
+      "## Notion 2 : l'explication",
+      "Règle : l'explication répond à la question « pourquoi ? » ou « comment ? ». Elle décrit le mécanisme qui rend l'idée vraie. Elle commence souvent par un connecteur de cause : car, en effet, puisque.",
+      "Pourquoi ? Sans explication, l'exemple paraît choisi au hasard. L'explication est le pont entre l'idée générale et le fait concret.",
+      "! Ne paraphrasez pas l'idée directrice. « Le dialogue favorise la paix ; en effet, le dialogue est favorable à la paix » tourne en rond. Une vraie explication ajoute un mécanisme : « en effet, il oblige chaque camp à reconnaître l'autre comme interlocuteur, ce qui rend possible un compromis ».",
+      "## Notion 3 : l'exemple, précis et analysé",
+      "Règle : l'exemple est un fait exact, daté ou situé, que le correcteur peut vérifier. Il est suivi d'une phrase d'analyse qui montre ce qu'il prouve. Un seul exemple bien exploité vaut mieux que trois exemples cités en liste.",
+      "Pourquoi ? Un exemple précis prouve que vous connaissez le sujet ; un exemple vague (« dans de nombreux pays… ») ne prouve rien. Un exemple faux, lui, ruine la crédibilité de toute la copie.",
+      "! Si vous doutez d'une date ou d'un chiffre, ne l'écrivez pas : formulez seulement ce dont vous êtes certain (« au début des années 2000 » plutôt qu'une date inventée).",
+      "~ Exemple résolu : pour l'idée « le dialogue permet de sortir d'un conflit armé », l'exemple « l'accord politique de Ouagadougou, signé le 4 mars 2007 par Laurent Gbagbo et Guillaume Soro, a supprimé la zone qui coupait le pays en deux » est précis. L'analyse ajoute : « c'est la négociation directe entre les deux camps, et non une victoire militaire, qui a permis cette réunification ».",
+      "? Rendez précis cet exemple vague : « Il y a eu des accords en Côte d'Ivoire pendant la crise. » || « L'accord de Linas-Marcoussis, signé en France le 24 janvier 2003, a prévu un gouvernement de réconciliation nationale. » On ajoute le nom de l'accord, sa date, son lieu et son contenu : le correcteur peut vérifier chaque élément.",
+      "## Notion 4 : la mini-conclusion et les connecteurs",
+      "Règle : la dernière phrase du paragraphe revient au sujet : elle dit ce que l'argument a établi et prépare l'argument suivant. Les connecteurs rendent visibles les relations logiques : addition (de plus, en outre), cause (car, en effet), conséquence (ainsi, par conséquent, donc), opposition (cependant, en revanche), concession (certes… mais, bien que + subjonctif).",
+      "Pourquoi ? Un paragraphe sans mini-conclusion laisse le correcteur faire le lien à votre place ; il ne le fera pas toujours. Un connecteur mal choisi, lui, dit le contraire de ce que vous pensez.",
+      "! « Pourtant » et « en revanche » annoncent une opposition : les employer pour ajouter une idée de même sens est un contresens logique.",
+      "? Complétez : « Le dialogue rétablit la confiance entre les camps ; ……, les armes peuvent se taire. » || « Par conséquent » (ou « ainsi », « dès lors »). La seconde proposition est l'effet de la première : il faut un connecteur de conséquence, pas d'opposition.",
+      "## Notion 5 : un paragraphe modèle, commenté",
+      "> « Le dialogue permet de sortir d'un conflit armé en redonnant une place à chaque camp. En effet, il oblige les adversaires à se reconnaître mutuellement comme interlocuteurs, ce qui rend possible un compromis que la force seule n'impose jamais durablement. Ainsi, l'accord politique de Ouagadougou, signé le 4 mars 2007 par Laurent Gbagbo et Guillaume Soro sous la médiation de Blaise Compaoré, a supprimé la zone qui séparait le nord et le sud ; Guillaume Soro est devenu Premier ministre le 29 mars 2007. Cet accord montre que la négociation directe peut réunir ce que les armes avaient divisé. Le dialogue apparaît donc comme une condition de la paix, même s'il reste à savoir s'il suffit à la rendre durable. »",
+      "Commentaire : phrase 1, l'idée directrice ; phrase 2, l'explication (« en effet » + mécanisme) ; phrase 3, l'exemple daté et vérifiable ; phrase 4, l'analyse de l'exemple ; phrase 5, la mini-conclusion, qui ouvre déjà vers la partie suivante (les limites du dialogue). Cinq phrases : le format attendu est respecté."
+     ],
+     "retenir": [
+      "Un paragraphe argumentatif défend une seule idée, énoncée dès la première phrase sous forme d'affirmation.",
+      "L'explication répond à « pourquoi ? » : elle décrit le mécanisme qui rend l'idée vraie, sans la répéter.",
+      "Un bon exemple est précis, daté, vérifiable, et suivi d'une phrase qui dit ce qu'il prouve.",
+      "Un exemple dont vous doutez ne s'écrit pas : mieux vaut un fait moins précis mais certain.",
+      "La mini-conclusion relie l'argument au sujet et prépare l'argument suivant.",
+      "Connecteurs : cause (car, en effet), conséquence (donc, ainsi), opposition (cependant), concession (certes… mais, bien que + subjonctif)."
+     ],
+     "exo": {
+      "tag": "niv-so04",
+      "n": 12
+     }
+    },
+    {
+     "id": "L20261027oj03",
+     "niv": "oj03",
+     "m": "oj",
+     "titre": "Le pouvoir judiciaire dans la Constitution",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer le titre IX de la Constitution (articles 139 à 155), citer les garanties d'indépendance des magistrats et expliquer le rôle du Conseil supérieur de la magistrature (CSM).",
+      "= Vous saurez aussi distinguer l'organisation issue de la révision de 2020 de la version initiale de 2016, et éviter de confondre le pouvoir judiciaire avec la Haute Cour de justice.",
+      "## Ce que demande le concours",
+      "L'épreuve d'organisation judiciaire de l'INFJ pose des sujets de cours ou de dissertation sur l'indépendance de la justice, le statut des magistrats et les hautes juridictions. Les QCM, eux, vérifient la précision : quel article, quelle institution, quel magistrat est inamovible. Le correcteur attend que chaque affirmation soit rattachée à un article.",
+      "! Piège habituel : citer la « Cour suprême » comme institution actuelle. Depuis la révision de 2020, l'article 144 nomme la Cour de cassation, le Conseil d'État et la Cour des comptes.",
+      "## La méthode, pas à pas",
+      "- 1. Situez le texte : le pouvoir judiciaire occupe le titre IX, du statut du magistrat (chapitre 1) à l'autorité des décisions de justice (chapitre 6).",
+      "- 2. Identifiez la garantie en cause : indépendance de l'institution (article 139), protection du juge (articles 140 à 142), gestion des carrières (articles 145 et 146).",
+      "- 3. Citez l'article exact, puis expliquez sa raison d'être : pourquoi le constituant a-t-il voulu cette règle ?",
+      "- 4. Vérifiez la version : pour l'organisation des juridictions (articles 143, 144 et 147 à 150), seule la rédaction issue de 2020 est en vigueur.",
+      "- 5. Dans une dissertation, montrez la tension : une indépendance proclamée, mais dont le garant et le nommeur des présidents est le chef de l'exécutif.",
+      "~ Exemple : à la question « Quelles juridictions représentent le pouvoir judiciaire ? », la bonne réponse cite l'article 144 : la Cour de cassation, le Conseil d'État et la Cour des comptes. Répondre « la Cour suprême et la Cour des comptes » reprend la version de 2016, abrogée sur ce point."
+     ],
+     "fond": [
+      "## Notion 1 : un pouvoir indépendant, et son garant",
+      "Règle : « Le pouvoir judiciaire est indépendant » (article 139). Le Président de la République en est le garant ; il est assisté du Conseil supérieur de la magistrature.",
+      "Pourquoi ? C'est la séparation des pouvoirs : celui qui fait la loi (le Parlement) ou qui l'exécute (le Gouvernement) ne doit pas aussi trancher les litiges. Sans juge indépendant, le citoyen n'a aucun recours sérieux contre l'État.",
+      "! Garant ne veut pas dire chef. Le Président de la République ne rend pas la justice et ne donne pas d'ordre aux juges : il protège leur indépendance, avec l'aide du CSM.",
+      "## Notion 2 : le statut du magistrat (chapitre 1, articles 140 à 142)",
+      "Règle : les magistrats du siège, ceux qui jugent, sont inamovibles (article 140). Ils ne peuvent être mutés sans leur accord, sauf nécessité de service. Ils ne peuvent être révoqués, suspendus ou sanctionnés que pour un manquement à leurs obligations, par une décision motivée du CSM. Dans leurs fonctions, ils n'obéissent qu'à la loi.",
+      "L'article 141 fixe leurs devoirs : le magistrat doit être compétent et faire preuve d'impartialité, de neutralité et de probité. L'article 142 les protège contre les injures, provocations et menaces ; sauf flagrant délit ou condamnation définitive, un magistrat ne peut être poursuivi, arrêté, détenu ou jugé sans l'autorisation du CSM.",
+      "Pourquoi ? Un juge que l'on peut déplacer après un jugement qui déplaît n'est plus libre. L'inamovibilité protège donc le justiciable autant que le juge.",
+      "! L'article 140 vise les magistrats du siège. Ne l'étendez pas aux magistrats du parquet : le texte ne les mentionne pas.",
+      "~ Exemple résolu : un juge du tribunal de première instance rend une décision contre une administration. Peut-on le muter d'office pour le sanctionner ? Non : la mutation exige son accord, sauf nécessité de service, et toute sanction suppose un manquement constaté par décision motivée du CSM (article 140).",
+      "? Un magistrat est soupçonné d'un délit, sans flagrant délit et sans condamnation définitive. Le procureur peut-il l'arrêter librement ? || Non. L'article 142 exige l'autorisation du Conseil supérieur de la magistrature pour poursuivre, arrêter, détenir ou juger un magistrat, sauf flagrant délit ou condamnation définitive. Cette règle évite les poursuites destinées à intimider le juge.",
+      "## Notion 3 : l'organisation de la justice (chapitre 2, articles 143 et 144)",
+      "Règle : depuis la révision de 2020, la justice est rendue par la Cour de cassation, le Conseil d'État, la Cour des comptes, les cours d'appel, les tribunaux de première instance, les tribunaux administratifs et les chambres régionales des comptes (article 143). Les trois premières sont les institutions juridictionnelles représentatives du pouvoir judiciaire (article 144).",
+      "Pourquoi cette réforme ? La version initiale de 2016 plaçait la Cour de cassation et le Conseil d'État à l'intérieur d'une Cour suprême ; les institutions représentatives étaient alors la Cour suprême et la Cour des comptes. La révision de 2020 a fait de chaque ordre de juridiction un sommet autonome.",
+      "~ Exemple résolu : un candidat écrit que « la Cour suprême veille à l'application de la loi par les juridictions judiciaires ». Correction : depuis 2020, c'est la Cour de cassation qui joue ce rôle (article 147) ; elle est la plus haute juridiction de l'ordre judiciaire (article 148).",
+      "? Citez, dans l'ordre de l'article 143, les quatre juridictions qui ne sont pas des institutions représentatives. || Les cours d'appel, les tribunaux de première instance, les tribunaux administratifs et les chambres régionales des comptes. On les obtient en retirant de la liste de l'article 143 les trois institutions représentatives de l'article 144.",
+      "## Notion 4 : le Conseil supérieur de la magistrature (chapitre 3, articles 145 et 146)",
+      "Règle : le CSM est présidé par une personnalité nommée par le Président de la République parmi les hauts magistrats, en fonction ou à la retraite (article 145). Il examine les questions d'indépendance et de déontologie, propose les nominations à la Cour de cassation, au Conseil d'État et à la Cour des comptes ainsi que celles des premiers présidents de cour d'appel et des présidents de tribunal de première instance, donne un avis conforme sur les nominations, mutations et promotions de magistrats, et statue en matière disciplinaire (article 146). Une loi organique fixe sa composition.",
+      "Pourquoi ? Confier la carrière des juges à un organe où siègent des magistrats limite le pouvoir de l'exécutif sur ceux qui le jugent.",
+      "! « Avis conforme » signifie que l'autorité de nomination ne peut pas passer outre : un avis simple, lui, ne lie pas.",
+      "## Notion 5 : les hautes juridictions et l'autorité des décisions (articles 147 à 155)",
+      "Règle : la Cour de cassation est la plus haute juridiction de l'ordre judiciaire ; le Conseil d'État, la plus haute de l'ordre administratif (articles 148 et 149). La Cour des comptes est l'institution suprême de contrôle des finances publiques (article 152). Leurs présidents sont nommés par le Président de la République. Enfin, les décisions de justice sont exécutoires et s'imposent aux pouvoirs publics, à toute autorité et à toute personne (article 155).",
+      "Pourquoi l'article 155 ? Un jugement que l'administration pourrait ignorer ne protégerait personne : l'exécution est le dernier maillon de l'indépendance.",
+      "! La Haute Cour de justice n'appartient pas au titre IX : elle fait l'objet du titre X (article 156), comme juridiction d'exception chargée de juger le Président, le Vice-Président et les membres du Gouvernement.",
+      "? Une commune refuse d'exécuter un jugement définitif au motif qu'il gêne son budget. Quel article lui opposer ? || L'article 155 : les décisions de justice sont exécutoires et s'imposent aux pouvoirs publics, à toute autorité et à toute personne. L'intérêt budgétaire de la commune ne la dispense pas d'exécuter."
+     ],
+     "retenir": [
+      "Le pouvoir judiciaire fait l'objet du titre IX de la Constitution, articles 139 à 155.",
+      "Article 139 : le pouvoir judiciaire est indépendant ; le Président de la République en est le garant, assisté du CSM.",
+      "Article 140 : les magistrats du siège sont inamovibles ; ils ne sont sanctionnés que par décision motivée du CSM.",
+      "Sauf flagrant délit ou condamnation définitive, un magistrat n'est poursuivi qu'avec l'autorisation du CSM (article 142).",
+      "Article 144 depuis 2020 : Cour de cassation, Conseil d'État et Cour des comptes représentent le pouvoir judiciaire.",
+      "Le CSM est présidé par une personnalité nommée par le Président parmi les hauts magistrats, en fonction ou retraités.",
+      "Article 155 : les décisions de justice sont exécutoires et s'imposent aux pouvoirs publics, à toute autorité et à toute personne."
+     ],
+     "exo": {
+      "tag": "niv-oj03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Digithèque MJP (copie NATLEX, OIT) – Constitution de la Côte d'Ivoire, version consolidée après la révision de 2020",
+       "u": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/105198/CIV-105198%20(CONSOLID).pdf"
+      },
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire (2016, révisée en 2020)",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      },
+      {
+       "t": "FAOLEX – Journal officiel du 9 novembre 2016 (numéro spécial) : Constitution de 2016, version initiale",
+       "u": "https://faolex.fao.org/docs/pdf/ivc160760.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261027cg04",
+     "niv": "cg04",
+     "m": "cg",
+     "titre": "Côte d'Ivoire : de l'indépendance à nos jours",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez placer dans l'ordre les cinq chefs de l'État depuis 1960, dater les grandes étapes politiques (multipartisme, coup d'État, crises, accords de paix, constitutions) et expliquer leurs causes.",
+      "= Vous saurez aussi mobiliser ces repères comme exemples précis dans une dissertation sur la paix, la démocratie ou la cohésion sociale.",
+      "## Ce que demande le concours",
+      "En présélection, les questions de culture générale portent souvent sur une date, un accord, un lieu ou un acteur de l'histoire politique nationale. À l'écrit, ces repères servent d'exemples : un fait daté et exact pèse plus qu'une généralité. Le piège habituel est la confusion des dates proches (le coup d'État du 24 décembre 1999 et l'élection d'octobre 2000) ou des accords (Linas-Marcoussis en 2003, Ouagadougou en 2007).",
+      "## La méthode, pas à pas",
+      "- 1. Mémorisez d'abord la chaîne des chefs de l'État : Houphouët-Boigny, Bédié, Guéï, Gbagbo, Ouattara.",
+      "- 2. Accrochez à chacun deux ou trois dates clés, pas davantage.",
+      "- 3. Pour chaque événement, retenez une cause et une conséquence : c'est ce qui rend la date utilisable à l'écrit.",
+      "- 4. Distinguez les lieux : les accords de paix ivoiriens portent le nom de la ville où ils ont été conclus, souvent hors du pays.",
+      "- 5. En QCM, éliminez d'abord les options anachroniques (un acteur qui n'était pas encore au pouvoir, une institution qui n'existait pas).",
+      "~ Exemple : « Qui était l'adversaire d'Houphouët-Boigny à la présidentielle du 28 octobre 1990 ? » La chaîne des présidents ne suffit pas : il faut savoir que Laurent Gbagbo, fondateur du FPI, a obtenu 18,32 % des voix lors de ce premier scrutin à plusieurs candidats."
+     ],
+     "fond": [
+      "## Notion 1 : 1960-1990, l'indépendance et le parti unique",
+      "Faits : la Côte d'Ivoire accède à la pleine indépendance vis-à-vis de la France le 7 août 1960. Félix Houphouët-Boigny la dirige jusqu'à sa mort, en 1993. Pendant trente ans, tous les partis sont interdits, sauf le sien, le PDCI. En 1983, Yamoussoukro remplace Abidjan comme capitale.",
+      "Pourquoi ce régime a-t-il duré ? Le parti unique concentre le pouvoir autour du chef de l'État, et la croissance, portée par les exportations agricoles comme le café et le cacao, lui assure une large légitimité : au début des années 1980, le revenu par habitant est élevé et l'on parle de « miracle ivoirien ».",
+      "~ Exemple de réutilisation : dans un sujet sur « développement et démocratie », la période 1960-1990 illustre une croissance forte sans pluralisme politique, ce qui permet de discuter l'idée que le développement précède la démocratie.",
+      "## Notion 2 : la crise des années 1980 et le retour au multipartisme (1990)",
+      "Faits : dans les années 1980, les cours des matières premières chutent, la caisse de stabilisation des prix s'épuise et la dette extérieure augmente. En 1990, des manifestations de fonctionnaires et d'étudiants conduisent à l'ouverture : les partis d'opposition sont légalisés le 3 mai 1990. Le 28 octobre 1990 se tient la première élection présidentielle à plusieurs candidats : Houphouët-Boigny obtient 81,68 % des voix, Laurent Gbagbo (FPI) 18,32 %.",
+      "Pourquoi ce lien ? La crise économique prive le régime de ses moyens de redistribution ; la contestation sociale devient politique.",
+      "? Expliquez en deux phrases pourquoi la chute des cours du cacao a contribué au retour du multipartisme. || La baisse des cours a vidé les caisses publiques et accru la dette, ce qui a imposé des sacrifices aux fonctionnaires et aux étudiants. Leur contestation, en 1990, a transformé une crise économique en revendication politique, d'où la légalisation des partis d'opposition le 3 mai 1990.",
+      "## Notion 3 : succession, ivoirité et coup d'État (1993-2000)",
+      "Faits : Houphouët-Boigny meurt le 7 décembre 1993. Henri Konan Bédié, président de l'Assemblée nationale, lui succède comme le prévoit la Constitution. Sous sa présidence, le concept d'« ivoirité » est promu ; ses critiques le jugent source d'exclusion. Bédié est réélu en octobre 1995 avec 96 % des voix, lors d'un scrutin boycotté par les principaux partis d'opposition. Il est renversé par le coup d'État du 24 décembre 1999 ; le général Robert Guéï prend le pouvoir. Une nouvelle Constitution est approuvée par référendum les 23 et 24 juillet 2000, avec 86,53 % de oui ; Laurent Gbagbo devient président après l'élection du 22 octobre 2000, Guéï ayant été chassé du pouvoir par des manifestations.",
+      "! Ne confondez pas : 24 décembre 1999 (coup d'État, Guéï) et 22 octobre 2000 (élection, Gbagbo).",
+      "## Notion 4 : la décennie de crise (2002-2011)",
+      "Faits : le 19 septembre 2002, des militaires se mutinent ; la rébellion du MPCI deviendra les Forces nouvelles et le pays est coupé en deux. L'accord de Linas-Marcoussis, signé en France le 24 janvier 2003, prévoit un gouvernement de réconciliation nationale. L'accord politique de Ouagadougou, signé le 4 mars 2007 par Laurent Gbagbo et Guillaume Soro sous la médiation du président burkinabè Blaise Compaoré, supprime la zone tampon ; Guillaume Soro devient Premier ministre le 29 mars 2007. L'élection présidentielle (31 octobre et 28 novembre 2010) débouche sur une crise : la Commission électorale indépendante proclame Alassane Ouattara vainqueur, le Conseil constitutionnel proclame Laurent Gbagbo. La crise fait environ 3 000 morts ; Laurent Gbagbo est arrêté le 11 avril 2011, puis transféré à la Cour pénale internationale en novembre 2011. Alassane Ouattara est investi à Yamoussoukro en mai 2011.",
+      "~ Exemple résolu (QCM) : « Quel accord a fait de Guillaume Soro le Premier ministre ? » Raisonnement : Linas-Marcoussis (2003) crée un gouvernement de réconciliation, mais c'est l'accord de Ouagadougou (2007) qui aboutit à la nomination de Soro, le 29 mars 2007. Réponse : Ouagadougou.",
+      "? Classez dans l'ordre : accord de Ouagadougou, rébellion de septembre 2002, arrestation de Laurent Gbagbo, accord de Linas-Marcoussis. || Rébellion du 19 septembre 2002, puis Linas-Marcoussis (24 janvier 2003), puis Ouagadougou (4 mars 2007), enfin l'arrestation de Laurent Gbagbo (11 avril 2011). Chaque accord répond à l'étape précédente de la crise.",
+      "## Notion 5 : depuis 2011, la IIIe République",
+      "Faits : une nouvelle Constitution est approuvée par référendum le 30 octobre 2016 (plus de 93 % de oui selon la Commission électorale indépendante, environ 42 % de participation) et promulguée le 8 novembre 2016. Elle crée un vice-président et un Sénat, et supprime la limite d'âge de 75 ans pour les candidats à la présidence. Elle est révisée en 2020. Alassane Ouattara est réélu le 31 octobre 2020, lors d'un scrutin boycotté par l'opposition, puis le 25 octobre 2025 : le Conseil constitutionnel confirme, le 4 novembre 2025, son élection au premier tour avec 89,77 % des voix.",
+      "Débat pour la dissertation : partisans de la stabilité, on souligne la paix retrouvée et la continuité de l'État ; critiques, on relève les boycotts et la faible participation. Un bon devoir présente les deux lectures, faits datés à l'appui.",
+      "? Citez deux innovations institutionnelles de la Constitution de 2016. || Le poste de vice-président et le Sénat, qui rend le Parlement bicaméral. On peut ajouter la suppression de la limite d'âge de 75 ans pour les candidats à la présidence."
+     ],
+     "retenir": [
+      "La Côte d'Ivoire devient pleinement indépendante de la France le 7 août 1960, sous Félix Houphouët-Boigny.",
+      "Les partis d'opposition sont légalisés le 3 mai 1990 ; la présidentielle du 28 octobre 1990 oppose Houphouët-Boigny à Laurent Gbagbo.",
+      "Bédié, président de l'Assemblée nationale, succède à Houphouët-Boigny en décembre 1993 ; il est renversé le 24 décembre 1999.",
+      "Robert Guéï dirige le pays après le coup d'État de 1999 ; Laurent Gbagbo devient président après l'élection du 22 octobre 2000.",
+      "Rébellion le 19 septembre 2002 ; accords de Linas-Marcoussis (24 janvier 2003) et de Ouagadougou (4 mars 2007).",
+      "Crise postélectorale de 2010-2011 : environ 3 000 morts ; Laurent Gbagbo est arrêté le 11 avril 2011.",
+      "Constitution de 2016 : référendum le 30 octobre, promulgation le 8 novembre ; elle crée le vice-président et le Sénat."
+     ],
+     "exo": {
+      "tag": "niv-cg04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Wikipedia – History of Ivory Coast (1960–1999)",
+       "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast_(1960%E2%80%931999)"
+      },
+      {
+       "t": "Wikipedia – History of Ivory Coast (1999–present)",
+       "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast_(1999%E2%80%93present)"
+      },
+      {
+       "t": "Wikipedia – 1990 Ivorian presidential election",
+       "u": "https://en.wikipedia.org/wiki/1990_Ivorian_presidential_election"
+      },
+      {
+       "t": "Wikipedia – Henri Konan Bédié",
+       "u": "https://en.wikipedia.org/wiki/Henri_Konan_B%C3%A9di%C3%A9"
+      },
+      {
+       "t": "The New Humanitarian – « Implement peace agreement, Security Council urges » (5 février 2003)",
+       "u": "https://www.thenewhumanitarian.org/news/2003/02/05/implement-peace-agreement-security-council-urges"
+      },
+      {
+       "t": "Wikipedia – Ouagadougou Agreement",
+       "u": "https://en.wikipedia.org/wiki/Ouagadougou_Agreement"
+      },
+      {
+       "t": "Al Jazeera – « Ouattara sworn in as Ivorian president » (22 mai 2011)",
+       "u": "https://www.aljazeera.com/news/2011/5/22/ouattara-sworn-in-as-ivorian-president"
+      },
+      {
+       "t": "Library of Congress (Global Legal Monitor) – Côte d'Ivoire: New Constitution Adopted (25 novembre 2016)",
+       "u": "https://www.loc.gov/item/global-legal-monitor/2016-11-25/cte-divoire-new-constitution-adopted/"
+      },
+      {
+       "t": "AllAfrica / Fraternité Matin – Présidentielle 2025 : le Conseil constitutionnel confirme l'élection d'Alassane Ouattara au premier tour (4 novembre 2025)",
+       "u": "https://fr.allafrica.com/stories/202511040549.html"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "sog",
+     "src": "original",
+     "ref": "Entraînement · 27 oct. 2026",
+     "t": "« Le dialogue est l'arme la plus sûre de la paix durable. » Commentez et discutez cette affirmation en vous appuyant notamment sur l'expérience ivoirienne.",
+     "plan": [
+      "Introduction : accroche sur l'accord politique de Ouagadougou du 4 mars 2007 ; définir le dialogue (négociation entre parties qui se reconnaissent) et la paix durable (absence de violence et cohésion dans le temps) ; problématique : le dialogue suffit-il à fonder une paix qui dure ?",
+      "I. Le dialogue, condition de la paix : A. il oblige les adversaires à se reconnaître et rend le compromis possible (Linas-Marcoussis, 24 janvier 2003 : gouvernement de réconciliation nationale) ; B. il produit des résultats concrets (Ouagadougou, 2007 : suppression de la zone de séparation, Guillaume Soro Premier ministre le 29 mars 2007).",
+      "II. Un dialogue qui ne suffit pas toujours : A. des accords peuvent échouer à prévenir la violence (crise postélectorale de 2010-2011, environ 3 000 morts) ; B. la paix durable exige aussi des institutions acceptées par tous et la justice.",
+      "Conclusion : le dialogue est une arme nécessaire mais non suffisante ; il doit s'appuyer sur des institutions crédibles et sur la réconciliation ; ouverture sur le rôle de la jeunesse dans la cohésion sociale."
+     ]
+    }
+   ]
   }
  ]
 }
