@@ -22623,6 +22623,1223 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-28",
+   "questions": [
+    {
+     "id": "n20261028-pe04-01",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "En comptabilité nationale, comment obtient-on la valeur ajoutée d'un producteur ?",
+     "o": [
+      "Production moins salaires versés",
+      "Chiffre d'affaires moins impôts",
+      "Production moins consommations intermédiaires",
+      "Production plus subventions reçues"
+     ],
+     "a": 2,
+     "e": "La valeur ajoutée est égale à la production moins les consommations intermédiaires, c'est-à-dire les biens et services transformés ou détruits pour produire.",
+     "ed": [
+      "Les salaires ne se retirent pas : ils sont payés à partir de la valeur ajoutée, dont ils sont une part.",
+      "Les impôts ne définissent pas la valeur ajoutée ; ce sont les consommations intermédiaires que l'on retire.",
+      null,
+      "Les subventions ne s'ajoutent pas à la production pour calculer la valeur ajoutée d'un producteur."
+     ],
+     "src": {
+      "t": "Insee – Méthodes : les tableaux entrées-sorties et l'évaluation du PIB (chapitre 3)",
+      "u": "https://www.insee.fr/fr/statistiques/fichier/2571301/imet126_d_chapitre_3_tes_evaluation_pib.pdf"
+     }
+    },
+    {
+     "id": "n20261028-pe04-02",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Laquelle de ces méthodes n'est PAS l'une des trois approches de mesure du PIB ?",
+     "o": [
+      "L'approche par la production",
+      "L'approche par le patrimoine",
+      "L'approche par les dépenses finales",
+      "L'approche par les revenus"
+     ],
+     "a": 1,
+     "e": "Le PIB se mesure par la production, par les dépenses finales (demande) ou par les revenus ; le patrimoine est un stock, pas un flux de production.",
+     "ed": [
+      "L'approche production (somme des valeurs ajoutées) est bien l'une des trois approches.",
+      null,
+      "L'approche dépenses (emplois finals) est bien l'une des trois approches.",
+      "L'approche revenus (salaires, excédent d'exploitation, impôts) est bien l'une des trois approches."
+     ],
+     "src": {
+      "t": "Insee – Définition : Produit intérieur brut aux prix du marché",
+      "u": "https://insee.fr/fr/metadonnees/definition/c1365"
+     }
+    },
+    {
+     "id": "n20261028-pe04-03",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Que désigne le PIB « en volume » ?",
+     "o": [
+      "Le PIB à prix courants, inflation comprise",
+      "Le PIB divisé par le nombre d'habitants",
+      "Le PIB augmenté des revenus reçus de l'étranger",
+      "Le PIB à prix constants, corrigé de l'inflation"
+     ],
+     "a": 3,
+     "e": "Le PIB en volume, ou à prix constants, ou réel, est le PIB corrigé de l'inflation ; il mesure l'évolution des quantités produites.",
+     "ed": [
+      "Le PIB à prix courants est le PIB en valeur (nominal), pas en volume.",
+      "Le PIB divisé par la population est le PIB par habitant.",
+      "Le PIB augmenté du solde des revenus reçus de l'étranger conduit au revenu national brut.",
+      null
+     ],
+     "src": {
+      "t": "La finance pour tous – Fiche repère : le PIB",
+      "u": "https://www.lafinancepourtous.com/wp-content/uploads/2020/09/fiche_repere_pib.pdf"
+     }
+    },
+    {
+     "id": "n20261028-pe04-04",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Quelle institution établit les comptes nationaux de la Côte d'Ivoire et publie les comptes nationaux trimestriels ?",
+     "o": [
+      "L'Institut national de la statistique (INS)",
+      "La Banque centrale des États de l'Afrique de l'Ouest",
+      "La Cour des comptes",
+      "Le Conseil économique, social, environnemental et culturel"
+     ],
+     "a": 0,
+     "e": "L'Institut national de la statistique (INS) produit les comptes nationaux ivoiriens ; il publie des comptes nationaux trimestriels depuis le 9 novembre 2018.",
+     "ed": [
+      null,
+      "La BCEAO conduit la politique monétaire de l'UEMOA ; elle n'établit pas les comptes nationaux ivoiriens.",
+      "La Cour des comptes contrôle les finances publiques ; elle ne produit pas les comptes nationaux.",
+      "Le CESEC est une institution consultative ; il ne produit pas de statistiques nationales."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Communiqué de l'INS relatif aux comptes nationaux trimestriels (2e trimestre 2018)",
+      "u": "https://www.gouv.ci/uploads/publications/1544618050INSTITUT-NATIONAL-DE-LA-STATISTIQUE-COMMUNIQUE-RELATIF-AUX-COMPTES-NATIONAUX-TRIMESTRIELS-CNT-DU-DEUXIEME-TRIMESTRE-DE-2018.pdf"
+     }
+    },
+    {
+     "id": "n20261028-pe04-05",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Une usine de broyage de cacao produit pour 250 milliards de F en achetant 100 milliards de F de fèves. Quelle est sa valeur ajoutée ?",
+     "o": [
+      "350 milliards de F",
+      "250 milliards de F",
+      "100 milliards de F",
+      "150 milliards de F"
+     ],
+     "a": 3,
+     "e": "Valeur ajoutée = production − consommations intermédiaires = 250 − 100 = 150 milliards de F. Les fèves achetées ne sont pas une richesse créée par l'usine.",
+     "ed": [
+      "350 additionne production et consommations intermédiaires : c'est le contraire de la règle.",
+      "250 est la production totale, qui inclut la valeur des fèves créée par le planteur.",
+      "100 est la valeur des fèves consommées, pas la richesse créée par l'usine.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "250-100"
+    },
+    {
+     "id": "n20261028-pe04-06",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Consommation finale 32 000 ; formation brute de capital fixe 9 000 ; variation des stocks 500 ; exportations 10 000 ; importations 11 500 (milliards de F). Que vaut le PIB ?",
+     "o": [
+      "63 000 milliards de F",
+      "40 000 milliards de F",
+      "51 500 milliards de F",
+      "28 500 milliards de F"
+     ],
+     "a": 1,
+     "e": "Approche dépenses : 32 000 + 9 000 + 500 + 10 000 − 11 500 = 40 000 milliards de F. On retire les importations, produites hors du territoire.",
+     "ed": [
+      "63 000 additionne les importations au lieu de les retrancher.",
+      null,
+      "51 500 oublie de retrancher les importations.",
+      "28 500 retranche aussi les exportations, qui sont pourtant une production du territoire."
+     ],
+     "verif": "calcul",
+     "calc": "32000+9000+500+10000-11500"
+    },
+    {
+     "id": "n20261028-pe04-07",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Somme des valeurs ajoutées 45 200 ; impôts sur les produits 5 300 ; subventions sur les produits 700 (milliards de F). Que vaut le PIB aux prix du marché ?",
+     "o": [
+      "49 800 milliards de F",
+      "51 200 milliards de F",
+      "45 200 milliards de F",
+      "39 200 milliards de F"
+     ],
+     "a": 0,
+     "e": "Approche production : 45 200 + 5 300 − 700 = 49 800 milliards de F. On ajoute les impôts sur les produits et l'on retire les subventions sur les produits.",
+     "ed": [
+      null,
+      "51 200 ajoute les subventions au lieu de les retrancher.",
+      "45 200 oublie les impôts et les subventions sur les produits, nécessaires pour passer aux prix du marché.",
+      "39 200 retranche les impôts au lieu de les ajouter."
+     ],
+     "verif": "calcul",
+     "calc": "45200+5300-700"
+    },
+    {
+     "id": "n20261028-pe04-08",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Le PIB en valeur d'un pays passe de 50 000 à 54 000 milliards de F en un an. Quel est le taux de croissance nominal ?",
+     "o": [
+      "4 %",
+      "7,4 %",
+      "8 %",
+      "40 %"
+     ],
+     "a": 2,
+     "e": "Taux de croissance = (54 000 − 50 000) / 50 000 × 100 = 8 %. On divise la variation par la valeur de départ.",
+     "ed": [
+      "4 % confond la hausse de 4 000 avec un taux ; il faut la rapporter à 50 000.",
+      "7,4 % divise la hausse par la valeur d'arrivée (54 000) au lieu de la valeur de départ.",
+      null,
+      "40 % est une erreur d'ordre de grandeur : 4 000 représente moins d'un dixième de 50 000, pas deux cinquièmes."
+     ],
+     "verif": "calcul",
+     "calc": "(54000-50000)/50000*100"
+    },
+    {
+     "id": "n20261028-pe04-09",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Le PIB en valeur vaut 60 000 et le PIB en volume 48 000 milliards de F. Que vaut le déflateur du PIB (base 100) ?",
+     "o": [
+      "80",
+      "112",
+      "120",
+      "125"
+     ],
+     "a": 3,
+     "e": "Déflateur = PIB en valeur / PIB en volume × 100 = 60 000 / 48 000 × 100 = 125 : les prix ont augmenté de 25 % depuis l'année de référence.",
+     "ed": [
+      "80 est le rapport inverse (volume sur valeur), qui ne mesure pas les prix.",
+      "112 ne résulte d'aucun calcul correct à partir de ces deux chiffres.",
+      "120 correspond à une hausse de 12 000 rapportée à 60 000, ce qui n'est pas le déflateur.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "60000/48000*100"
+    },
+    {
+     "id": "n20261028-pe04-10",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Le PIB en valeur augmente de 8 % et les prix (déflateur) de 3 %. Quelle est, en calcul rapide, la croissance réelle ?",
+     "o": [
+      "Environ 11 %",
+      "Environ 2,7 %",
+      "Environ 5 % (8 − 3)",
+      "Exactement 8 %"
+     ],
+     "a": 2,
+     "e": "La croissance réelle retire la hausse des prix : environ 8 − 3 = 5 %. Le calcul exact donne 1,08 / 1,03 − 1 ≈ 4,85 %.",
+     "ed": [
+      "11 % ajoute l'inflation au lieu de la retirer.",
+      "2,7 % divise 8 par 3 : ce rapport n'a pas de sens économique ici.",
+      null,
+      "8 % est la croissance nominale ; elle inclut la hausse des prix."
+     ],
+     "verif": "calcul",
+     "calc": "8-3"
+    },
+    {
+     "id": "n20261028-pe04-11",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "PIB 40 000 ; revenus primaires reçus du reste du monde 300 ; revenus primaires versés au reste du monde 1 500 (milliards de F). Que vaut le revenu national brut ?",
+     "o": [
+      "41 800 milliards de F",
+      "38 800 milliards de F",
+      "41 200 milliards de F",
+      "38 200 milliards de F"
+     ],
+     "a": 1,
+     "e": "RNB = PIB + revenus primaires reçus − revenus primaires versés = 40 000 + 300 − 1 500 = 38 800 milliards de F.",
+     "ed": [
+      "41 800 ajoute les revenus versés au lieu de les retrancher.",
+      null,
+      "41 200 inverse les deux flux : il retranche les revenus reçus et ajoute les revenus versés.",
+      "38 200 retranche les deux flux, alors que les revenus reçus s'ajoutent."
+     ],
+     "verif": "calcul",
+     "calc": "40000+300-1500"
+    },
+    {
+     "id": "n20261028-pe04-12",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Laquelle de ces activités n'entre PAS dans le PIB ?",
+     "o": [
+      "Le ménage fait soi-même dans son propre logement",
+      "Les soins d'un hôpital public",
+      "Les cours dispensés par une école privée",
+      "Le transport de marchandises par un camionneur"
+     ],
+     "a": 0,
+     "e": "Le PIB exclut le travail domestique réalisé pour soi-même, comme le ménage ou le jardinage, ainsi que le bénévolat : ce sont des limites connues de l'indicateur.",
+     "ed": [
+      null,
+      "Les services publics non marchands, comme les soins d'un hôpital public, sont comptés dans le PIB.",
+      "Les cours d'une école privée sont un service vendu : ils entrent dans le PIB.",
+      "Le transport de marchandises est un service marchand inclus dans le PIB."
+     ],
+     "src": {
+      "t": "La finance pour tous – Fiche repère : le PIB",
+      "u": "https://www.lafinancepourtous.com/wp-content/uploads/2020/09/fiche_repere_pib.pdf"
+     }
+    },
+    {
+     "id": "n20261028-ec03-01",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Que dispose l'article 3 de la Constitution ivoirienne au sujet de la peine de mort ?",
+     "o": [
+      "Elle est réservée aux crimes de sang",
+      "Elle est abolie",
+      "Elle ne peut être prononcée qu'en temps de guerre",
+      "Elle relève de la décision du Président de la République"
+     ],
+     "a": 1,
+     "e": "L'article 3 proclame l'inviolabilité du droit à la vie et dispose que « la peine de mort est abolie », sans exception.",
+     "ed": [
+      "Aucun crime, même de sang, ne permet la peine de mort : elle est abolie.",
+      null,
+      "L'article 3 ne prévoit aucune exception pour le temps de guerre.",
+      "Le Président ne peut pas décider de la peine de mort, qui est abolie par la Constitution."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-02",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Par quelle formule s'ouvre l'article 2 de la Constitution ivoirienne ?",
+     "o": [
+      "« La souveraineté appartient au peuple »",
+      "« Nul n'est au-dessus de la loi »",
+      "« La famille est la cellule de base de la société »",
+      "« La personne humaine est sacrée »"
+     ],
+     "a": 3,
+     "e": "L'article 2 s'ouvre par « La personne humaine est sacrée » : c'est le principe de dignité, sur lequel reposent tous les autres droits.",
+     "ed": [
+      "La souveraineté du peuple n'est pas l'objet de l'article 2, qui porte sur la dignité de la personne.",
+      "Cette formule n'ouvre pas l'article 2, consacré au caractère sacré de la personne humaine.",
+      "C'est l'article 31 qui fait de la famille la cellule de base de la société.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-03",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Quel est l'objet du chapitre 2 du Titre I de la Constitution (articles 28 à 47) ?",
+     "o": [
+      "Les devoirs",
+      "Le Président de la République",
+      "Les collectivités territoriales",
+      "Les traités internationaux"
+     ],
+     "a": 0,
+     "e": "Le Titre I comprend un chapitre 1 « Des droits et des libertés » (articles 2 à 27) et un chapitre 2 « Des devoirs » (articles 28 à 47).",
+     "ed": [
+      null,
+      "Le Président de la République est traité dans un titre distinct, consacré au pouvoir exécutif.",
+      "Les collectivités territoriales ne relèvent pas du Titre I.",
+      "Les traités internationaux font l'objet d'un autre titre de la Constitution."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-04",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Quel texte africain de 1981 le préambule de la Constitution ivoirienne cite-t-il parmi ceux auxquels le peuple proclame son attachement ?",
+     "o": [
+      "L'Acte constitutif de l'Union africaine",
+      "Le traité de la CEDEAO",
+      "La Charte africaine des droits de l'homme et des peuples",
+      "La Charte africaine des droits et du bien-être de l'enfant"
+     ],
+     "a": 2,
+     "e": "Le préambule cite la Charte africaine des droits de l'homme et des peuples de 1981 et ses protocoles additionnels, aux côtés de la Déclaration universelle de 1948.",
+     "ed": [
+      "L'Acte constitutif de l'Union africaine est aussi cité, mais il date de 2001, non de 1981.",
+      "Le traité de la CEDEAO n'est pas le texte de 1981 cité par le préambule.",
+      null,
+      "La Charte africaine de l'enfant n'est pas le texte de 1981 mentionné par le préambule."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-05",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Un agent de l'administration publique veut faire grève. Que prévoit l'article 17 de la Constitution ?",
+     "o": [
+      "La grève est interdite à tous les agents publics",
+      "Le droit de grève lui est reconnu, dans les limites fixées par la loi",
+      "Il ne peut faire grève qu'avec l'accord de son ministre",
+      "Le droit de grève est réservé au secteur privé"
+     ],
+     "a": 1,
+     "e": "L'article 17 reconnaît le droit syndical et le droit de grève aux travailleurs du secteur privé et aux agents de l'administration publique, dans les limites fixées par la loi.",
+     "ed": [
+      "L'article 17 vise expressément les agents de l'administration publique : la grève ne leur est pas interdite en bloc.",
+      null,
+      "La Constitution ne subordonne pas la grève à l'accord d'un ministre ; c'est la loi qui en fixe les limites.",
+      "L'article 17 vise aussi les agents publics, pas seulement le secteur privé."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-06",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Des citoyens veulent créer un parti politique ouvert aux seuls ressortissants d'une région. Que dit la Constitution ?",
+     "o": [
+      "C'est permis si le parti respecte l'ordre public",
+      "C'est permis après autorisation du préfet",
+      "C'est interdit, l'article 25 proscrit les partis fondés sur une base régionale",
+      "C'est permis pour les élections locales seulement"
+     ],
+     "a": 2,
+     "e": "L'article 25 interdit les partis et groupements politiques créés sur une base régionale, confessionnelle, tribale, ethnique ou raciale.",
+     "ed": [
+      "Le respect de l'ordre public ne suffit pas : la base régionale est interdite en elle-même.",
+      "Aucune autorisation ne peut couvrir une base régionale, interdite par la Constitution.",
+      null,
+      "L'interdiction de l'article 25 vaut pour tous les partis, quelle que soit l'élection visée."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-07",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Un commerçant de nationalité étrangère réside et travaille à Abidjan. Doit-il remplir des obligations fiscales selon la Constitution ?",
+     "o": [
+      "Non, l'impôt est un devoir des seuls citoyens ivoiriens",
+      "Oui, mais seulement s'il le souhaite",
+      "Non, sauf convention internationale",
+      "Oui, l'article 43 impose ce devoir à tout résident"
+     ],
+     "a": 3,
+     "e": "L'article 43 fait de l'accomplissement des obligations fiscales un devoir pour tout résident, conformément à la loi ; la nationalité n'entre pas en compte.",
+     "ed": [
+      "L'article 43 vise « tout résident », et non les seuls citoyens ivoiriens.",
+      "L'impôt est un devoir constitutionnel, pas un choix laissé au contribuable.",
+      "La Constitution n'exige aucune convention : la résidence suffit à créer le devoir fiscal.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-08",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Des parents refusent d'inscrire leur fille à l'école en disant que l'instruction est surtout utile aux garçons. Quel article méconnaissent-ils ?",
+     "o": [
+      "L'article 10, qui rend l'école obligatoire pour les enfants des deux sexes",
+      "L'article 39, sur la défense de la Nation",
+      "L'article 46, sur le cumul des mandats",
+      "L'article 29, sur l'opposition politique"
+     ],
+     "a": 0,
+     "e": "L'article 10 dispose que l'école est obligatoire pour les enfants des deux sexes, dans les conditions fixées par la loi : refuser l'école à une fille le méconnaît.",
+     "ed": [
+      null,
+      "L'article 39 porte sur la défense de la Nation, sans lien avec la scolarisation.",
+      "L'article 46 encadre le cumul des mandats électifs, sans lien avec l'école.",
+      "L'article 29 garantit l'opposition démocratique, sans lien avec l'école."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-09",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Un agent public traite plus vite les dossiers de ses proches que ceux des autres usagers. Quel devoir constitutionnel enfreint-il ?",
+     "o": [
+      "Le devoir de défendre la Nation (article 39)",
+      "Le devoir d'impartialité de celui qui exerce un emploi public (article 45)",
+      "Le devoir de protéger l'environnement (article 40)",
+      "Le devoir fiscal (article 43)"
+     ],
+     "a": 1,
+     "e": "L'article 45 impose à tout citoyen investi d'un emploi ou d'une mission de service public d'agir avec compétence, conscience et loyauté, et d'être intègre, impartial et neutre.",
+     "ed": [
+      "La défense de la Nation ne concerne pas le traitement des dossiers des usagers.",
+      null,
+      "La protection de l'environnement n'est pas en cause dans ce favoritisme.",
+      "Le devoir fiscal concerne le paiement de l'impôt, pas l'impartialité de l'agent."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-10",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Selon l'article 39, laquelle de ces affirmations sur la défense de la Nation est exacte ?",
+     "o": [
+      "Elle est un devoir réservé aux seuls militaires de carrière",
+      "Elle peut être assurée par des milices de quartier",
+      "Elle est un devoir pour tout Ivoirien et elle est assurée exclusivement par les forces de défense et de sécurité",
+      "Elle relève des collectivités territoriales"
+     ],
+     "a": 2,
+     "e": "L'article 39 fait de la défense de la Nation un devoir pour tout Ivoirien, tout en précisant qu'elle est assurée exclusivement par les forces de défense et de sécurité nationales.",
+     "ed": [
+      "Le devoir pèse sur tout Ivoirien, pas sur les seuls militaires ; seule son exécution est réservée aux forces de défense et de sécurité.",
+      "Le mot « exclusivement » exclut toute milice : seules les forces de défense et de sécurité assurent la défense.",
+      null,
+      "L'article 39 ne confie pas la défense aux collectivités territoriales."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-11",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Un animateur de radio tient des propos appelant à la haine contre une tribu. Que prévoit l'article 19 ?",
+     "o": [
+      "Ces propos sont protégés par la liberté d'expression",
+      "Ces propos sont permis en dehors des périodes électorales",
+      "Seule une plainte de la tribu visée peut les rendre illicites",
+      "Toute propagande incitant à la haine tribale est interdite"
+     ],
+     "a": 3,
+     "e": "L'article 19 garantit la liberté d'expression dans le respect de la loi, des droits d'autrui et de l'ordre public, et interdit toute propagande incitant à la haine raciale, tribale ou religieuse.",
+     "ed": [
+      "La liberté d'expression ne couvre pas la propagande de haine, expressément interdite par l'article 19.",
+      "L'interdiction de l'article 19 vaut en tout temps, pas seulement en période électorale.",
+      "L'interdiction est posée par la Constitution elle-même ; elle ne dépend pas d'une plainte.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261028-ec03-12",
+     "m": "ecm",
+     "tag": "niv-ec03",
+     "q": "Selon l'article 47, qui est tenu de respecter la Constitution, les lois et les règlements de la République ?",
+     "o": [
+      "Toute personne vivant sur le territoire national",
+      "Les seuls citoyens ivoiriens majeurs",
+      "Les seuls agents de l'État",
+      "Les seuls électeurs inscrits"
+     ],
+     "a": 0,
+     "e": "L'article 47 oblige toute personne vivant sur le territoire national, ivoirienne ou étrangère, à respecter la Constitution, les lois et les règlements.",
+     "ed": [
+      null,
+      "L'article 47 ne se limite pas aux citoyens majeurs : il vise toute personne vivant sur le territoire.",
+      "Le devoir ne pèse pas sur les seuls agents de l'État, mais sur toute personne vivant sur le territoire.",
+      "L'inscription électorale est sans effet : toute personne vivant sur le territoire est concernée."
+     ],
+     "src": {
+      "t": "Constitute Project – Côte d'Ivoire 2016 (rév. 2020)",
+      "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "n20261028-lo05-01",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "5 kg de riz coûtent 3 250 F. Combien coûtent 8 kg du même riz ?",
+     "o": [
+      "5 200 F",
+      "4 800 F",
+      "5 850 F",
+      "6 500 F"
+     ],
+     "a": 0,
+     "e": "Le prix est proportionnel à la masse : 3 250 / 5 = 650 F le kilo, puis 650 × 8 = 5 200 F.",
+     "ed": [
+      null,
+      "4 800 F correspond à un prix de 600 F le kilo, alors qu'il vaut 3 250 / 5 = 650 F.",
+      "5 850 F correspond à 9 kg (9 × 650), pas à 8 kg.",
+      "6 500 F correspond à 10 kg, soit le double de 5 kg, pas à 8 kg."
+     ],
+     "verif": "calcul",
+     "calc": "3250/5*8"
+    },
+    {
+     "id": "n20261028-lo05-02",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Dans un tableau de proportionnalité, 4 correspond à 10 et 6 correspond à 15. Quel est le coefficient de proportionnalité ?",
+     "o": [
+      "2",
+      "2,5",
+      "4",
+      "6"
+     ],
+     "a": 1,
+     "e": "Le coefficient est le quotient constant : 10 / 4 = 2,5 et 15 / 6 = 2,5. On passe de la première ligne à la seconde en multipliant par 2,5.",
+     "ed": [
+      "2 ne convient pas : 4 × 2 = 8, et non 10.",
+      null,
+      "4 est une valeur du tableau, pas le coefficient qui relie les deux lignes.",
+      "6 est une valeur du tableau, pas le coefficient (6 × 2,5 = 15)."
+     ],
+     "verif": "calcul",
+     "calc": "10/4"
+    },
+    {
+     "id": "n20261028-lo05-03",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "6 ouvriers construisent un mur en 15 jours. Au même rythme, combien de jours faut-il à 9 ouvriers ?",
+     "o": [
+      "22,5 jours",
+      "12 jours",
+      "10 jours",
+      "18 jours"
+     ],
+     "a": 2,
+     "e": "Les grandeurs sont inversement proportionnelles : 6 × 15 = 90 journées de travail ; 90 / 9 = 10 jours.",
+     "ed": [
+      "22,5 jours applique une règle de trois directe : avec plus d'ouvriers, il faut moins de jours, pas plus.",
+      "12 jours retire seulement 3 jours, comme si chaque ouvrier en plus faisait gagner un jour : ce n'est pas le raisonnement inverse.",
+      null,
+      "18 jours augmente la durée alors que l'effectif augmente : le sens est faux."
+     ],
+     "verif": "calcul",
+     "calc": "6*15/9"
+    },
+    {
+     "id": "n20261028-lo05-04",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Sur une carte au 1/50 000, deux villages sont séparés de 4 cm. Quelle est la distance réelle ?",
+     "o": [
+      "20 km",
+      "200 m",
+      "500 m",
+      "2 km"
+     ],
+     "a": 3,
+     "e": "4 × 50 000 = 200 000 cm ; comme 1 km = 100 000 cm, la distance réelle est de 2 km.",
+     "ed": [
+      "20 km résulte d'une conversion fausse : 200 000 cm valent 2 km, pas 20 km.",
+      "200 m résulte d'une conversion fausse : 200 000 cm valent 2 000 m.",
+      "500 m est la distance représentée par 1 cm seulement, pas par 4 cm.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "4*50000/100000"
+    },
+    {
+     "id": "n20261028-lo05-05",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Sur un plan, 1 km réel est représenté par 4 cm. Quelle est l'échelle de ce plan ?",
+     "o": [
+      "1/4 000",
+      "1/25 000",
+      "1/250 000",
+      "1/40 000"
+     ],
+     "a": 1,
+     "e": "1 km = 100 000 cm ; échelle = 4 / 100 000 = 1 / 25 000 : 1 cm sur le plan représente 25 000 cm, soit 250 m.",
+     "ed": [
+      "1/4 000 ne tient pas compte de la conversion : 1 km vaut 100 000 cm, et non 1 000 cm.",
+      null,
+      "1/250 000 donnerait 0,4 cm pour 1 km, dix fois moins que les 4 cm indiqués.",
+      "1/40 000 multiplie au lieu de diviser : il faut 100 000 / 4 = 25 000."
+     ],
+     "verif": "calcul",
+     "calc": "100000/4"
+    },
+    {
+     "id": "n20261028-lo05-06",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Un véhicule consomme 7 litres aux 100 km. Combien de litres consomme-t-il pour 340 km ?",
+     "o": [
+      "21 litres",
+      "24,5 litres",
+      "23,8 litres",
+      "34 litres"
+     ],
+     "a": 2,
+     "e": "La consommation est proportionnelle à la distance : 7 × 340 / 100 = 23,8 litres.",
+     "ed": [
+      "21 litres correspond à 300 km, pas à 340 km.",
+      "24,5 litres correspond à 350 km (3,5 × 7), pas à 340 km.",
+      null,
+      "34 litres confond la distance et la consommation : il faut multiplier par 7 / 100."
+     ],
+     "verif": "calcul",
+     "calc": "7*340/100"
+    },
+    {
+     "id": "n20261028-lo05-07",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Un trajet dure 3 heures à 80 km/h. Combien de temps dure-t-il à 120 km/h ?",
+     "o": [
+      "4 heures 30",
+      "2 heures 30",
+      "1 heure 30",
+      "2 heures"
+     ],
+     "a": 3,
+     "e": "La distance est constante : 3 × 80 = 240 km ; à 120 km/h, il faut 240 / 120 = 2 heures. Vitesse et durée sont inversement proportionnelles.",
+     "ed": [
+      "4 h 30 applique une règle de trois directe : plus vite, le trajet doit être plus court, pas plus long.",
+      "2 h 30 ne correspond à aucun calcul juste : à 120 km/h, 2 h 30 feraient 300 km, pas 240.",
+      "1 h 30 à 120 km/h ne ferait que 180 km, moins que les 240 km du trajet.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "3*80/120"
+    },
+    {
+     "id": "n20261028-lo05-08",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Une recette prévoit 600 g de farine pour 4 personnes. Quelle quantité faut-il pour 10 personnes ?",
+     "o": [
+      "1 500 g",
+      "1 200 g",
+      "2 400 g",
+      "1 000 g"
+     ],
+     "a": 0,
+     "e": "Pour une personne : 600 / 4 = 150 g ; pour 10 personnes : 150 × 10 = 1 500 g.",
+     "ed": [
+      null,
+      "1 200 g correspond à 8 personnes (le double de 4), pas à 10.",
+      "2 400 g correspond à 16 personnes, soit quatre fois 4.",
+      "1 000 g ajoute 400 g sans raisonnement proportionnel : il faut 150 g par personne."
+     ],
+     "verif": "calcul",
+     "calc": "600/4*10"
+    },
+    {
+     "id": "n20261028-lo05-09",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Sur un plan au 1/200, une pièce mesure 2,5 cm de long. Quelle est sa longueur réelle ?",
+     "o": [
+      "50 m",
+      "0,5 m",
+      "5 m",
+      "25 m"
+     ],
+     "a": 2,
+     "e": "2,5 × 200 = 500 cm, soit 5 m : 1 cm sur le plan représente 200 cm dans la réalité.",
+     "ed": [
+      "50 m résulte d'une erreur de conversion : 500 cm valent 5 m.",
+      "0,5 m résulte d'une erreur de conversion : 500 cm valent 5 m, pas 50 cm.",
+      null,
+      "25 m résulte d'un calcul faux : 2,5 × 200 = 500 cm, soit 5 m."
+     ],
+     "verif": "calcul",
+     "calc": "2.5*200/100"
+    },
+    {
+     "id": "n20261028-lo05-10",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Un taxi facture une prise en charge de 500 F plus 200 F par kilomètre. Une course de 5 km coûte donc 1 500 F. Combien coûte une course de 10 km ?",
+     "o": [
+      "3 000 F",
+      "2 500 F",
+      "2 000 F",
+      "3 500 F"
+     ],
+     "a": 1,
+     "e": "La situation n'est pas proportionnelle, à cause de la partie fixe : 500 + 200 × 10 = 2 500 F, et non le double de 1 500 F.",
+     "ed": [
+      "3 000 F double aussi la prise en charge, qui est fixe : c'est le piège de la fausse proportionnalité.",
+      null,
+      "2 000 F oublie la prise en charge de 500 F.",
+      "3 500 F ajoute 2 000 F (10 km à 200 F) au prix de la course de 5 km : la prise en charge ne se paie qu'une fois et les 10 km ne s'ajoutent pas aux 5 premiers."
+     ],
+     "verif": "calcul",
+     "calc": "500+200*10"
+    },
+    {
+     "id": "n20261028-lo05-11",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "4 pompes identiques vident un bassin en 9 heures. Combien de temps mettent 6 pompes identiques ?",
+     "o": [
+      "13 heures 30",
+      "7 heures",
+      "4 heures",
+      "6 heures"
+     ],
+     "a": 3,
+     "e": "Le nombre de pompes et la durée sont inversement proportionnels : 4 × 9 = 36 heures-pompe ; 36 / 6 = 6 heures.",
+     "ed": [
+      "13 h 30 applique une règle de trois directe : plus de pompes, la durée doit diminuer.",
+      "7 heures retire seulement 2 heures, comme si chaque pompe ajoutée faisait gagner 1 heure : ce n'est pas le raisonnement inverse.",
+      "4 heures correspondrait à 9 pompes (36 / 9), pas à 6.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "4*9/6"
+    },
+    {
+     "id": "n20261028-lo05-12",
+     "m": "log",
+     "tag": "niv-lo05",
+     "q": "Cinq machines identiques produisent 400 pièces en 4 heures. Combien de pièces produisent 8 de ces machines en 6 heures ?",
+     "o": [
+      "960",
+      "640",
+      "600",
+      "1 200"
+     ],
+     "a": 0,
+     "e": "Une machine produit 400 / (5 × 4) = 20 pièces par heure ; 8 machines pendant 6 heures produisent 20 × 8 × 6 = 960 pièces.",
+     "ed": [
+      null,
+      "640 tient compte du nombre de machines (400 × 8 / 5) mais oublie le passage de 4 à 6 heures.",
+      "600 tient compte des heures (400 × 6 / 4) mais oublie le passage de 5 à 8 machines.",
+      "1 200 ne correspond à aucun raisonnement exact : le calcul ramené à une machine et une heure donne 960."
+     ],
+     "verif": "calcul",
+     "calc": "400/(5*4)*8*6"
+    },
+    {
+     "id": "n20261028-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Avant son indépendance proclamée en 1971, le Bangladesh faisait partie de quel État, sous le nom de Pakistan oriental ?",
+     "o": [
+      "L'Inde",
+      "La Birmanie",
+      "Le Pakistan",
+      "Le Népal"
+     ],
+     "a": 2,
+     "e": "Le Bangladesh, alors Pakistan oriental, a obtenu son indépendance du Pakistan en 1971 ; les forces pakistanaises ont capitulé le 16 décembre 1971.",
+     "ed": [
+      "Le Bangladesh n'appartenait pas à l'Inde en 1971 : il formait la partie orientale du Pakistan.",
+      "La Birmanie n'a jamais englobé le territoire du Bangladesh, qui relevait du Pakistan.",
+      null,
+      "Le Népal n'a jamais administré le Bangladesh, partie orientale du Pakistan jusqu'en 1971."
+     ],
+     "src": {
+      "t": "The National Archives (Royaume-Uni) – The independence of Bangladesh in 1971",
+      "u": "https://www.nationalarchives.gov.uk/education/resources/the-independence-of-bangladesh-in-1971/"
+     }
+    },
+    {
+     "id": "n20261028-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le siège du Programme des Nations unies pour l'environnement (PNUE), créé après la conférence de Stockholm de 1972 ?",
+     "o": [
+      "Genève",
+      "Nairobi",
+      "New York",
+      "Stockholm"
+     ],
+     "a": 1,
+     "e": "Le siège du PNUE est à Nairobi, au Kenya ; le programme a été créé à la suite de la conférence des Nations unies sur l'environnement humain de Stockholm, en 1972.",
+     "ed": [
+      "Genève accueille de nombreuses agences, mais pas le siège du PNUE, établi à Nairobi.",
+      null,
+      "New York abrite le siège de l'ONU, pas celui du PNUE.",
+      "Stockholm a accueilli la conférence de 1972, mais le siège du PNUE est à Nairobi."
+     ],
+     "src": {
+      "t": "Wikipedia – United Nations Environment Programme",
+      "u": "https://en.wikipedia.org/wiki/United_Nations_Environment_Programme"
+     }
+    },
+    {
+     "id": "n20261028-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Où se trouve le siège de l'Autorité intergouvernementale pour le développement (IGAD), organisation régionale de la Corne de l'Afrique ?",
+     "o": [
+      "À Djibouti",
+      "À Addis-Abeba",
+      "À Nairobi",
+      "À Kampala"
+     ],
+     "a": 0,
+     "e": "Le secrétariat de l'IGAD siège à Djibouti ; l'organisation a succédé en 1996 à l'IGADD, créée en janvier 1986.",
+     "ed": [
+      null,
+      "Addis-Abeba accueille le siège de l'Union africaine, pas celui de l'IGAD.",
+      "Nairobi accueille le siège du PNUE, pas celui de l'IGAD.",
+      "Kampala n'est pas le siège de l'IGAD, établi à Djibouti."
+     ],
+     "src": {
+      "t": "Wikipedia – Intergovernmental Authority on Development",
+      "u": "https://en.wikipedia.org/wiki/Intergovernmental_Authority_on_Development"
+     }
+    },
+    {
+     "id": "n20261028-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le traité qui a créé la Communauté économique des États de l'Afrique de l'Ouest (CEDEAO), le 28 mai 1975, a été signé dans quelle ville ?",
+     "o": [
+      "Abuja",
+      "Accra",
+      "Dakar",
+      "Lagos"
+     ],
+     "a": 3,
+     "e": "La CEDEAO a été créée le 28 mai 1975 par le traité de Lagos, signé dans cette ville du Nigeria par 16 États.",
+     "ed": [
+      "Abuja accueille aujourd'hui la Commission de la CEDEAO, mais le traité fondateur a été signé à Lagos.",
+      "Le traité fondateur de la CEDEAO n'a pas été signé à Accra, mais à Lagos.",
+      "Le traité fondateur de la CEDEAO n'a pas été signé à Dakar, mais à Lagos.",
+      null
+     ],
+     "src": {
+      "t": "Policy Center for the New South – La CEDEAO souffle sa 50e bougie",
+      "u": "https://www.policycenter.ma/publications/la-cedeao-souffle-sa-50eme-bougie-une-commemoration-sous-la-menace-declatement"
+     }
+    },
+    {
+     "id": "n20261028-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel accord l'accord Canada–États-Unis–Mexique (ACEUM, ou USMCA), entré en vigueur le 1er juillet 2020, a-t-il remplacé ?",
+     "o": [
+      "Le Mercosur",
+      "L'Accord de libre-échange nord-américain (ALENA)",
+      "L'Organisation des États américains",
+      "Le Partenariat transpacifique"
+     ],
+     "a": 1,
+     "e": "Entré en vigueur le 1er juillet 2020, l'ACEUM (USMCA) a remplacé l'Accord de libre-échange nord-américain (ALENA, ou NAFTA).",
+     "ed": [
+      "Le Mercosur est une union douanière sud-américaine, toujours en place, sans lien avec l'ACEUM.",
+      null,
+      "L'OEA est une organisation politique régionale, pas un accord commercial remplacé par l'ACEUM.",
+      "Le Partenariat transpacifique n'a pas été remplacé par l'ACEUM, qui a succédé à l'ALENA."
+     ],
+     "src": {
+      "t": "U.S. Customs and Border Protection – USMCA FAQs",
+      "u": "https://cbp.gov/trade/priority-issues/trade-agreements/free-trade-agreements/USMCA/FAQs"
+     }
+    },
+    {
+     "id": "n20261028-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'accord de Schengen du 14 juin 1985 a été signé à bord d'un bateau amarré sur la Moselle, près du village de Schengen. Dans quel pays se trouve ce village ?",
+     "o": [
+      "En France",
+      "En Allemagne",
+      "En Belgique",
+      "Au Luxembourg"
+     ],
+     "a": 3,
+     "e": "Schengen est un village du Luxembourg ; l'accord y a été signé le 14 juin 1985, à bord du MS Princesse Marie-Astrid, par la Belgique, la France, l'Allemagne, le Luxembourg et les Pays-Bas.",
+     "ed": [
+      "La France est l'un des signataires, mais le village de Schengen se trouve au Luxembourg.",
+      "L'Allemagne est l'un des signataires, mais le village de Schengen se trouve au Luxembourg.",
+      "La Belgique est l'un des signataires, mais le village de Schengen se trouve au Luxembourg.",
+      null
+     ],
+     "src": {
+      "t": "Luxembourg.public.lu – Schengen: 40 years of European history on a ship",
+      "u": "https://luxembourg.public.lu/en/society-and-culture/international-openness/schengen-40-years-european-history-ship.html"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261028pe04",
+     "niv": "pe04",
+     "m": "pes",
+     "titre": "Comptabilité nationale : PIB et agrégats",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir le PIB et la valeur ajoutée, calculer le PIB par les trois approches et distinguer croissance nominale et croissance réelle.",
+      "= Vous saurez aussi passer du PIB au revenu national brut et dire ce que le PIB ne mesure pas, pour nourrir une dissertation de PES.",
+      "## Ce que demande le concours",
+      "Le PIB revient partout en PES : dans les sujets sur la croissance, l'emploi, la dette ou le développement, le correcteur attend que vous sachiez ce que mesure ce chiffre et ce qu'il ne mesure pas. En QCM, les questions portent sur les définitions (valeur ajoutée, consommations intermédiaires, prix constants) et sur de petits calculs.",
+      "! Piège habituel : additionner les chiffres d'affaires des entreprises. On compte alors plusieurs fois la même matière première : c'est le double comptage.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez ce que l'on vous donne : des productions et des consommations intermédiaires, des dépenses finales, ou des revenus.",
+      "- 2. Choisissez la formule correspondante : approche production, approche dépenses ou approche revenus.",
+      "- 3. Pour l'approche production, calculez d'abord chaque valeur ajoutée (production moins consommations intermédiaires), puis faites la somme.",
+      "- 4. Pour comparer deux années, demandez-vous si les chiffres sont en valeur (prix courants) ou en volume (prix constants).",
+      "- 5. Vérifiez l'ordre de grandeur : le PIB est toujours inférieur à la somme des productions, puisque l'on retire les consommations intermédiaires.",
+      "- 6. Dans une copie, ne citez un chiffre réel de l'économie ivoirienne que si vous en êtes certain ; sinon, raisonnez sur le mécanisme.",
+      "~ Exemple : on vous donne la production (250) et les consommations intermédiaires (100) d'une usine de broyage de cacao. Sa valeur ajoutée vaut 250 − 100 = 150. C'est sa contribution au PIB, et non 250."
+     ],
+     "fond": [
+      "## Notion 1 : la valeur ajoutée, brique de base du PIB",
+      "Règle : la valeur ajoutée d'un producteur est égale à sa production moins ses consommations intermédiaires, c'est-à-dire les biens et services détruits ou transformés pour produire (matières premières, énergie, transport).",
+      "Pourquoi ? On veut mesurer la richesse que chaque producteur crée lui-même. Le broyeur de cacao ne crée pas la fève : il l'achète ; il crée la différence entre ce qu'il vend et ce qu'il consomme.",
+      "~ Exemple résolu (chiffres fictifs, en milliards de F CFA) : un planteur produit des fèves pour 100 en utilisant 10 d'engrais ; valeur ajoutée 100 − 10 = 90. Un broyeur achète ces fèves 100 et vend des produits pour 250 ; valeur ajoutée 250 − 100 = 150. Un chocolatier achète ces produits 250 et vend du chocolat pour 400 ; valeur ajoutée 400 − 250 = 150. Somme des valeurs ajoutées : 90 + 150 + 150 = 390. Ajoutez la valeur ajoutée du fabricant d'engrais (10, s'il ne consomme rien) : on retrouve 400, la valeur du produit final.",
+      "! Additionner les productions (100 + 250 + 400 = 750) compterait trois fois la fève : c'est le double comptage, l'erreur que la valeur ajoutée permet d'éviter.",
+      "? Une imprimerie produit pour 80 millions de F en consommant 30 millions de papier et d'encre et 5 millions d'électricité. Quelle est sa valeur ajoutée ? || Les consommations intermédiaires sont 30 + 5 = 35 millions. Valeur ajoutée = 80 − 35 = 45 millions de F. Les salaires ne se retirent pas.",
+      "## Notion 2 : les trois approches du PIB",
+      "Règle : selon l'Insee, le PIB aux prix du marché se mesure de trois façons qui donnent le même résultat. Approche production : somme des valeurs ajoutées, plus les impôts sur les produits, moins les subventions sur les produits. Approche dépenses (ou demande) : consommation finale, plus formation brute de capital (investissement et variation des stocks), plus exportations, moins importations. Approche revenus : rémunération des salariés, plus excédent brut d'exploitation et revenu mixte, plus impôts sur la production et les importations, moins subventions.",
+      "Pourquoi trois approches ? Toute richesse produite est soit vendue à un utilisateur final, soit distribuée en revenus à ceux qui l'ont produite. Production, dépense et revenu sont trois regards sur le même flux.",
+      "~ Exemple résolu (chiffres fictifs) : consommation finale 32 000 ; formation brute de capital fixe 9 000 ; variation des stocks 500 ; exportations 10 000 ; importations 11 500. PIB = 32 000 + 9 000 + 500 + 10 000 − 11 500 = 40 000 milliards de F.",
+      "! On retire les importations : produites à l'étranger, elles sont comptées dans la consommation ou l'investissement sans être une production du territoire.",
+      "? Somme des valeurs ajoutées : 45 200 ; impôts sur les produits : 5 300 ; subventions sur les produits : 700. Calculez le PIB. || Approche production : 45 200 + 5 300 − 700 = 49 800. Le PIB est évalué aux prix payés par l'acheteur : on ajoute les impôts sur les produits et l'on retire les subventions.",
+      "## Notion 3 : valeur et volume, croissance nominale et réelle",
+      "Règle : le PIB à prix courants est dit « en valeur » ou nominal ; corrigé de l'inflation, il est dit « à prix constants », « en volume » ou réel. Le déflateur du PIB mesure l'évolution des prix : il s'obtient en divisant le PIB en valeur par le PIB en volume.",
+      "Pourquoi ? Si tous les prix doublent, le PIB en valeur double sans un sac de riz de plus. La croissance économique est la hausse du PIB en volume.",
+      "~ Exemple résolu : le PIB en valeur passe de 50 000 à 54 000. Croissance nominale : (54 000 − 50 000) / 50 000 = 8 %. Si les prix ont augmenté de 3 %, la croissance réelle vaut 1,08 / 1,03 − 1 ≈ 4,85 %, soit environ 8 − 3 = 5 % en calcul rapide.",
+      "? Le PIB en valeur vaut 60 000 et le PIB en volume 48 000. Quel est le déflateur (base 100) ? || 60 000 / 48 000 × 100 = 125. Les prix ont donc augmenté de 25 % par rapport à l'année de référence des prix constants.",
+      "## Notion 4 : du PIB au revenu national brut",
+      "Règle : le PIB mesure ce qui est produit sur le territoire, par des résidents ou non. Le revenu national brut (RNB) part du PIB, retire les revenus primaires versés au reste du monde (dividendes, intérêts, salaires) et ajoute ceux reçus du reste du monde.",
+      "Pourquoi ? Une partie des profits d'une mine exploitée par une société étrangère quitte le pays : le RNB mesure ce qui revient aux résidents.",
+      "~ Exemple résolu : PIB 40 000 ; revenus primaires reçus du reste du monde 300 ; versés au reste du monde 1 500. RNB = 40 000 + 300 − 1 500 = 38 800.",
+      "## Notion 5 : qui mesure, et les limites du PIB",
+      "En Côte d'Ivoire, les comptes nationaux sont produits par l'Institut national de la statistique (INS). Depuis le 9 novembre 2018, l'INS publie aussi des comptes nationaux trimestriels, avec l'appui technique d'AFRITAC de l'Ouest, centre régional du FMI ; les comptes annuels paraissent avec environ deux ans de décalage. La Direction générale de l'Économie présente le PIB du côté de l'offre (secteurs) et de la demande.",
+      "Limites : le PIB ne compte pas le travail domestique fait pour soi-même ni le bénévolat, et il n'intègre ni les données sociales et environnementales ni le bien-être. C'est pourquoi on le complète par d'autres indicateurs, comme l'indice de développement humain, qui associe espérance de vie, niveau d'éducation et PIB par habitant.",
+      "> Pour la dissertation : la croissance du PIB est une condition du développement (elle crée des revenus et des recettes fiscales), mais elle n'en est pas la preuve (elle ne dit rien de la répartition, de l'environnement ni de l'accès aux services)."
+     ],
+     "retenir": [
+      "La valeur ajoutée d'un producteur est égale à sa production moins ses consommations intermédiaires.",
+      "Additionner les productions de toute une filière conduit au double comptage ; on additionne les valeurs ajoutées.",
+      "Approche production : PIB = somme des valeurs ajoutées + impôts sur les produits − subventions sur les produits.",
+      "Approche dépenses : PIB = consommation finale + formation brute de capital + exportations − importations.",
+      "Le PIB en volume (prix constants) mesure la croissance réelle ; le PIB en valeur inclut la hausse des prix.",
+      "Le déflateur du PIB est le rapport du PIB en valeur au PIB en volume.",
+      "RNB = PIB + revenus primaires reçus du reste du monde − revenus primaires versés au reste du monde.",
+      "En Côte d'Ivoire, l'Institut national de la statistique (INS) établit les comptes nationaux."
+     ],
+     "exo": {
+      "tag": "niv-pe04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Insee – Définition : Produit intérieur brut aux prix du marché",
+       "u": "https://insee.fr/fr/metadonnees/definition/c1365"
+      },
+      {
+       "t": "Insee – Méthodes : les tableaux entrées-sorties et l'évaluation du PIB (chapitre 3)",
+       "u": "https://www.insee.fr/fr/statistiques/fichier/2571301/imet126_d_chapitre_3_tes_evaluation_pib.pdf"
+      },
+      {
+       "t": "Insee – Définition : Déflateur",
+       "u": "https://www.insee.fr/fr/metadonnees/definition/c1715"
+      },
+      {
+       "t": "Insee – Définition : Solde des revenus primaires bruts / revenu national brut",
+       "u": "https://www.insee.fr/fr/metadonnees/definition/c2271"
+      },
+      {
+       "t": "La finance pour tous – Fiche repère : le PIB",
+       "u": "https://www.lafinancepourtous.com/wp-content/uploads/2020/09/fiche_repere_pib.pdf"
+      },
+      {
+       "t": "Gouvernement de Côte d'Ivoire – Communiqué de l'INS relatif aux comptes nationaux trimestriels (2e trimestre 2018)",
+       "u": "https://www.gouv.ci/uploads/publications/1544618050INSTITUT-NATIONAL-DE-LA-STATISTIQUE-COMMUNIQUE-RELATIF-AUX-COMPTES-NATIONAUX-TRIMESTRIELS-CNT-DU-DEUXIEME-TRIMESTRE-DE-2018.pdf"
+      },
+      {
+       "t": "Direction générale de l'Économie – Comptes nationaux annuels (source : INS)",
+       "u": "https://economie-ivoirienne.ci/comptes-nationaux-annuels"
+      }
+     ]
+    },
+    {
+     "id": "L20261028ec03",
+     "niv": "ec03",
+     "m": "ecm",
+     "titre": "La Constitution, les droits et les devoirs du citoyen",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez présenter le Titre I de la Constitution ivoirienne : ses grands droits et libertés, ses limites et les devoirs qu'il impose à chacun.",
+      "= Vous saurez citer l'article exact qui fonde un droit ou un devoir, et l'appliquer à une situation concrète.",
+      "## Ce que demande l'épreuve",
+      "En éducation civique et morale, les questions de cours demandent de citer un droit, une liberté ou un devoir et son fondement ; les sujets de réflexion demandent d'expliquer pourquoi la liberté a des limites et pourquoi un droit va avec un devoir. Le correcteur valorise la référence précise à la Constitution et l'exemple tiré de la vie quotidienne.",
+      "! Piège habituel : présenter une liberté comme absolue. Presque toutes les libertés de la Constitution s'exercent « dans les limites fixées par la loi » ou dans le respect de l'ordre public et des droits d'autrui.",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez le droit ou le devoir en cause dans la question ou le cas.",
+      "- 2. Rattachez-le à son article : chapitre 1 du Titre I pour les droits et libertés (articles 2 à 27), chapitre 2 pour les devoirs (articles 28 à 47).",
+      "- 3. Énoncez la règle, puis sa limite éventuelle (loi, ordre public, droits d'autrui).",
+      "- 4. Appliquez au cas : qui est titulaire du droit ou débiteur du devoir (tout Ivoirien, tout résident, toute personne, l'État) ?",
+      "- 5. Concluez par une phrase qui relie droit et devoir : le respect de mes droits suppose que je respecte ceux des autres.",
+      "~ Exemple : « Un commerçant étranger installé à Daloa doit-il payer l'impôt ? » Droit en cause : aucun ; devoir : obligations fiscales. Article 43 : ce devoir pèse sur « tout résident ». Réponse : oui, la nationalité ne compte pas, seule la résidence."
+     ],
+     "fond": [
+      "## Notion 1 : la Constitution, texte fondateur des droits",
+      "Règle : la Constitution de la Troisième République, adoptée en 2016 et révisée notamment par la loi constitutionnelle n° 2020-348 du 19 mars 2020, consacre son Titre I aux « droits, libertés et devoirs ». L'article 1er engage l'État à reconnaître ces droits et à en assurer l'application effective.",
+      "Pourquoi ? Placer les droits dans la Constitution, la norme la plus élevée, les protège contre une loi ordinaire qui voudrait les supprimer. Dans son préambule, le peuple ivoirien proclame son attachement à la Charte des Nations unies de 1945, à la Déclaration universelle des droits de l'homme de 1948 et à la Charte africaine des droits de l'homme et des peuples de 1981.",
+      "> Plan du Titre I : article 1er (engagement de l'État) ; chapitre 1, « Des droits et des libertés » (articles 2 à 27) ; chapitre 2, « Des devoirs » (articles 28 à 47).",
+      "## Notion 2 : la dignité, la vie et l'égalité",
+      "Règle : « La personne humaine est sacrée » (article 2). Le droit à la vie est inviolable et la peine de mort est abolie (article 3). L'article 5 interdit notamment l'esclavage, la traite des êtres humains, le travail forcé, la torture et les mutilations génitales féminines. L'article 4 pose que tous les Ivoiriens naissent et demeurent libres et égaux en droit, et interdit toute discrimination fondée notamment sur la race, l'ethnie, la tribu, le sexe, la région, la religion, les opinions ou l'état physique ou mental.",
+      "Pourquoi ? Ces règles protègent ce que la personne a de plus essentiel ; elles sont la base de toutes les autres libertés.",
+      "~ Exemple résolu : un recruteur écarte un candidat en raison de sa région d'origine. Droit en cause : l'égalité (article 4), qui interdit la discrimination fondée sur la région ; l'article 14 précise que l'accès aux emplois publics et privés se fait selon le mérite. La décision est donc contraire à la Constitution.",
+      "? Une personne affirme que la Constitution ivoirienne permet encore de condamner à mort un auteur de crime grave. A-t-elle raison ? || Non. L'article 3 dispose que « la peine de mort est abolie ». Aucun juge ne peut la prononcer.",
+      "## Notion 3 : les libertés et leurs limites",
+      "Règle : l'article 19 garantit la liberté de pensée, d'expression, de conscience et de culte, dans le respect de la loi, des droits d'autrui, de la sécurité nationale et de l'ordre public ; il interdit toute propagande qui incite à la haine raciale, tribale ou religieuse. L'article 20 garantit les libertés d'association, de réunion et de manifestation pacifiques. L'article 17 reconnaît le droit syndical et le droit de grève aux travailleurs du secteur privé et aux agents de l'administration publique, dans les limites fixées par la loi. L'article 25 interdit les partis fondés sur une base régionale, confessionnelle, tribale, ethnique ou raciale.",
+      "Pourquoi ces limites ? Une liberté sans limite détruit la liberté des autres : un discours de haine menace la sécurité de ceux qu'il vise.",
+      "? Un groupe veut créer un parti réservé aux membres d'une seule religion. Est-ce possible ? || Non. L'article 25 interdit les partis ou groupements politiques créés sur une base confessionnelle.",
+      "## Notion 4 : les droits de l'enfant, l'éducation et l'environnement",
+      "Règle : l'article 9 reconnaît le droit à l'éducation, à la formation professionnelle et à l'accès aux services de santé. Selon l'article 10, l'école est obligatoire pour les enfants des deux sexes, dans les conditions fixées par la loi. L'article 16 interdit le travail des enfants et l'emploi d'un enfant à une activité dangereuse pour sa santé ou sa croissance. L'article 27 reconnaît à chacun le droit à un environnement sain et fait du déversement illégal de déchets toxiques un crime imprescriptible.",
+      "Pourquoi ? L'enfant ne peut pas défendre seul ses droits ; la Constitution oblige donc l'État et les parents à le protéger, et l'école est le premier outil de l'égalité des chances.",
+      "~ Exemple résolu : des parents retirent leur fille de l'école pour l'occuper aux travaux du marché. Deux articles sont en cause : l'article 10 (école obligatoire pour les enfants des deux sexes) et l'article 16 (interdiction du travail des enfants). Le comportement est contraire à la Constitution.",
+      "## Notion 5 : les devoirs, contrepartie des droits",
+      "Règle : la défense de la Nation est un devoir pour tout Ivoirien, mais elle est assurée exclusivement par les forces de défense et de sécurité (article 39). La protection de l'environnement est un devoir de chacun (article 40). Tout résident doit remplir ses obligations fiscales (article 43). Les biens publics sont inviolables et chacun doit les respecter et les protéger (article 44). Celui qui exerce un mandat ou un emploi public doit l'accomplir avec compétence, conscience et loyauté, et être intègre, impartial et neutre (article 45). Toute personne vivant sur le territoire doit respecter la Constitution, les lois et les règlements (article 47).",
+      "Pourquoi ? Les droits ont un coût et supposent la coopération de tous : sans impôt, pas d'école gratuite ; sans respect des biens publics, pas de services publics. L'État a lui aussi des devoirs : l'article 28 l'oblige à faire connaître la Constitution et les libertés publiques.",
+      "? Un agent de mairie accorde en priorité les actes d'état civil à ses parents et amis. Quel devoir méconnaît-il ? || Le devoir d'impartialité de l'article 45 : tout citoyen investi d'un emploi public doit l'exercer avec loyauté et rester intègre, impartial et neutre. Favoriser ses proches rompt l'égalité des usagers.",
+      "> Pour un sujet de réflexion : « Il n'y a pas de droits sans devoirs. » Pour : les droits des uns n'existent que si les autres respectent leurs devoirs (impôt, biens publics). Contre (ou nuance) : certains droits, comme la dignité, appartiennent à chacun sans condition, même à celui qui manque à ses devoirs."
+     ],
+     "retenir": [
+      "Le Titre I de la Constitution traite des droits et libertés (articles 2 à 27) puis des devoirs (articles 28 à 47).",
+      "Article 2 : « La personne humaine est sacrée » ; article 3 : la peine de mort est abolie.",
+      "L'article 4 interdit toute discrimination, notamment fondée sur la race, l'ethnie, le sexe, la région ou la religion.",
+      "Le droit syndical et le droit de grève s'exercent dans les limites fixées par la loi (article 17).",
+      "Les partis fondés sur une base régionale, confessionnelle, tribale, ethnique ou raciale sont interdits (article 25).",
+      "L'école est obligatoire pour les enfants des deux sexes et le travail des enfants est interdit (articles 10 et 16).",
+      "Tout résident doit remplir ses obligations fiscales (article 43) ; les biens publics sont inviolables (article 44).",
+      "Toute personne vivant sur le territoire doit respecter la Constitution, les lois et les règlements (article 47)."
+     ],
+     "exo": {
+      "tag": "niv-ec03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "CIVLII (Laws.Africa) – Loi portant Constitution de la République de Côte d'Ivoire, 2016, version consolidée (révisions de 2020 et 2023)",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+      },
+      {
+       "t": "Constitute Project – Côte d'Ivoire 2016 (rév. 2020)",
+       "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+      }
+     ]
+    },
+    {
+     "id": "L20261028lo05",
+     "niv": "lo05",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Proportionnalité, règle de trois, échelles",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez reconnaître deux grandeurs proportionnelles ou inversement proportionnelles, résoudre un problème par la règle de trois et utiliser une échelle de carte ou de plan.",
+      "= Vous saurez aussi repérer les situations qui ne sont PAS proportionnelles, source des pièges les plus fréquents.",
+      "## Ce que demande le concours",
+      "Les tests d'aptitude numérique proposent des problèmes courts : prix d'une quantité, consommation d'un véhicule, nombre d'ouvriers et durée d'un chantier, distance sur une carte. Avec un barème qui retire des points en cas d'erreur, il faut une méthode sûre et une vérification rapide.",
+      "! Piège habituel : appliquer la règle de trois « directe » à des grandeurs inversement proportionnelles (plus d'ouvriers, donc MOINS de jours), ou à une situation qui comporte une partie fixe (un forfait).",
+      "## La méthode, pas à pas",
+      "- 1. Posez la question : si l'une des grandeurs double, l'autre double-t-elle (proportionnelle), est-elle divisée par deux (inversement proportionnelle), ou ni l'un ni l'autre ?",
+      "- 2. Proportionnelle : passez par l'unité (valeur pour 1), puis multipliez ; ou faites le produit en croix.",
+      "- 3. Inversement proportionnelle : le produit des deux grandeurs reste constant ; calculez ce produit, puis divisez.",
+      "- 4. Échelle : convertissez les deux longueurs dans la même unité avant de comparer.",
+      "- 5. Vérifiez le sens : le résultat doit augmenter ou diminuer comme le prévoit l'étape 1.",
+      "~ Exemple : 3 cahiers coûtent 1 200 F. Combien coûtent 7 cahiers ? Un cahier coûte 1 200 / 3 = 400 F ; 7 cahiers coûtent 7 × 400 = 2 800 F. Vérification : plus de cahiers, prix plus élevé, le sens est bon."
+     ],
+     "fond": [
+      "## Notion 1 : reconnaître deux grandeurs proportionnelles",
+      "Règle : deux grandeurs sont proportionnelles quand on passe de l'une à l'autre en multipliant toujours par le même nombre, appelé coefficient de proportionnalité. Dans un tableau, tous les quotients « deuxième ligne / première ligne » sont égaux.",
+      "Pourquoi ? Chaque unité de la première grandeur « apporte » toujours la même quantité de la seconde : chaque kilo de riz coûte le même prix, chaque litre d'essence fait parcourir la même distance.",
+      "~ Exemple résolu : quantités 4, 6, 10 ; prix 10, 15, 25. Quotients : 10 / 4 = 2,5 ; 15 / 6 = 2,5 ; 25 / 10 = 2,5. Le tableau est proportionnel, de coefficient 2,5.",
+      "! L'âge et la taille d'un enfant ne sont pas proportionnels : un enfant de 10 ans ne mesure pas deux fois la taille qu'il avait à 5 ans. Il faut toujours tester avant d'appliquer la règle.",
+      "? Le tableau « 2 → 7 ; 5 → 17,5 ; 8 → 26 » est-il proportionnel ? || Quotients : 7 / 2 = 3,5 ; 17,5 / 5 = 3,5 ; 26 / 8 = 3,25. Le dernier quotient diffère : le tableau n'est pas proportionnel (il faudrait 8 × 3,5 = 28).",
+      "## Notion 2 : la règle de trois",
+      "Règle : pour trouver une quatrième valeur, on passe par l'unité : on divise pour obtenir la valeur pour 1, puis on multiplie par la quantité demandée. Le produit en croix donne le même résultat : si a correspond à b, alors c correspond à b × c / a.",
+      "Pourquoi ? Passer par l'unité rend le raisonnement visible et limite les erreurs ; le produit en croix est plus rapide une fois la situation reconnue comme proportionnelle.",
+      "~ Exemple résolu : un véhicule consomme 7 litres pour 100 km. Pour 340 km : 7 / 100 = 0,07 litre par kilomètre ; 0,07 × 340 = 23,8 litres. Produit en croix : 7 × 340 / 100 = 23,8 litres.",
+      "> Astuce de calcul mental : choisissez l'ordre des opérations qui donne des nombres simples. Pour 5 kg à 3 250 F et 8 kg cherchés : 3 250 / 5 = 650, puis 650 × 8 = 5 200 F.",
+      "? Une recette prévoit 600 g de farine pour 4 personnes. Quelle quantité pour 10 personnes ? || Pour 1 personne : 600 / 4 = 150 g. Pour 10 personnes : 150 × 10 = 1 500 g, soit 1,5 kg. Le nombre de personnes augmente, la quantité aussi : le sens est bon.",
+      "## Notion 3 : les grandeurs inversement proportionnelles",
+      "Règle : deux grandeurs sont inversement proportionnelles quand leur produit reste constant : si l'une est multipliée par 2, l'autre est divisée par 2. C'est le cas du nombre d'ouvriers et de la durée d'un même chantier, ou de la vitesse et de la durée d'un même trajet.",
+      "Pourquoi ? Le « travail total » ou la distance ne change pas : plus on est nombreux ou rapide, moins il faut de temps.",
+      "~ Exemple résolu : 6 ouvriers construisent un mur en 15 jours. Travail total : 6 × 15 = 90 journées de travail. Avec 9 ouvriers : 90 / 9 = 10 jours. Vérification : plus d'ouvriers, moins de jours.",
+      "! L'erreur classique consiste à écrire 15 × 9 / 6 = 22,5 jours : c'est une règle de trois directe appliquée à une situation inverse.",
+      "? Un trajet dure 3 heures à 80 km/h. Combien de temps dure-t-il à 120 km/h ? || La distance est constante : 3 × 80 = 240 km. À 120 km/h : 240 / 120 = 2 heures. La vitesse augmente, la durée diminue.",
+      "## Notion 4 : les échelles",
+      "Règle : l'échelle d'une carte ou d'un plan est le rapport entre une distance sur le document et la distance réelle correspondante, exprimées dans la même unité. Une échelle de 1/50 000 signifie que 1 cm sur la carte représente 50 000 cm, soit 500 m, dans la réalité.",
+      "Pourquoi ? Une carte est une reproduction proportionnelle du terrain : toutes les distances sont divisées par le même nombre.",
+      "~ Exemple résolu : sur une carte au 1/50 000, deux villages sont à 4 cm. Distance réelle : 4 × 50 000 = 200 000 cm. Comme 1 km = 100 000 cm, la distance vaut 2 km.",
+      "? Sur un plan, 1 km réel est représenté par 4 cm. Quelle est l'échelle ? || 1 km = 100 000 cm. Échelle = 4 / 100 000 = 1 / 25 000. On convertit toujours dans la même unité avant de diviser.",
+      "## Notion 5 : les pièges des situations non proportionnelles",
+      "Règle : une situation avec une partie fixe n'est pas proportionnelle. Un taxi qui facture une prise en charge de 500 F plus 200 F par kilomètre demande 1 500 F pour 5 km, mais 2 500 F pour 10 km, et non 3 000 F.",
+      "Pourquoi ? La partie fixe ne se double pas quand la distance double. Il faut écrire le calcul complet : partie fixe + prix unitaire × quantité.",
+      "? Cinq machines produisent 400 pièces en 4 heures. Combien de pièces produisent 8 machines en 6 heures ? || Une machine produit en une heure 400 / (5 × 4) = 20 pièces. 8 machines pendant 6 heures : 20 × 8 × 6 = 960 pièces. Dans une règle de trois composée, on ramène tout à « une machine, une heure »."
+     ],
+     "retenir": [
+      "Deux grandeurs sont proportionnelles si l'on passe de l'une à l'autre en multipliant toujours par le même coefficient.",
+      "Règle de trois : si a correspond à b, alors c correspond à b × c / a.",
+      "Deux grandeurs sont inversement proportionnelles si leur produit reste constant, comme ouvriers × jours.",
+      "Avant tout calcul, demandez-vous si la seconde grandeur augmente ou diminue quand la première augmente.",
+      "Une échelle de 1/50 000 signifie que 1 cm sur la carte représente 500 m dans la réalité.",
+      "On convertit les deux longueurs dans la même unité avant de calculer une échelle ; 1 km vaut 100 000 cm.",
+      "Une situation avec une partie fixe, comme un forfait, n'est pas proportionnelle."
+     ],
+     "exo": {
+      "tag": "niv-lo05",
+      "n": 12
+     }
+    }
+   ],
+   "sujets": [
+    {
+     "e": "pes",
+     "src": "original",
+     "ref": "Entraînement · 28 oct. 2026",
+     "t": "« Une croissance forte du PIB ne suffit pas à garantir le bien-être des populations. » Analysez cette affirmation à la lumière de l'économie ivoirienne.",
+     "plan": [
+      "Introduction : définir le PIB (somme des valeurs ajoutées produites sur le territoire) et le bien-être (revenus, accès aux services, qualité de vie) ; problématique : la croissance du PIB est-elle une condition suffisante du bien-être ?",
+      "I. La croissance du PIB, condition nécessaire du bien-être : A. elle crée des revenus et des emplois (approche revenus du PIB) ; B. elle élargit les recettes fiscales qui financent écoles, centres de santé et infrastructures.",
+      "II. Une condition qui ne suffit pas : A. le PIB ignore la répartition des revenus et le travail non marchand ; B. il n'intègre ni l'environnement ni le bien-être ; C. une part des revenus peut quitter le pays (écart entre PIB et RNB).",
+      "Conclusion : la croissance est un moyen, non une fin ; compléter le PIB par l'IDH et des indicateurs d'inclusion ; ouverture sur le rôle des politiques d'emploi des jeunes."
+     ]
+    }
+   ]
   }
  ]
 }
