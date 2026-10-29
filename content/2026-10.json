@@ -23840,6 +23840,1206 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-29",
+   "questions": [
+    {
+     "id": "n20261029-ns04-01",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Dans une note de synthèse, d'où doivent provenir les informations exposées ?",
+     "o": [
+      "Du dossier et des connaissances personnelles du candidat",
+      "Des connaissances personnelles, le dossier servant d'illustration",
+      "Uniquement des documents du dossier",
+      "Du dossier et de l'actualité la plus récente"
+     ],
+     "a": 2,
+     "e": "La note de synthèse expose uniquement le contenu du dossier : aucune information extérieure, même exacte, ne doit y figurer.",
+     "ed": [
+      "Les connaissances personnelles sont exclues : la note restitue le dossier, rien d'autre.",
+      "C'est l'inverse : le dossier est la seule source, il n'illustre pas des connaissances personnelles.",
+      null,
+      "L'actualité absente du dossier est une information extérieure, donc interdite."
+     ]
+    },
+    {
+     "id": "n20261029-ns04-02",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Où place-t-on la référence d'une information dans le corps de la note ?",
+     "o": [
+      "Entre parenthèses, à la suite de l'information : (doc. 3)",
+      "En note de bas de page numérotée",
+      "Dans une liste de documents placée en fin de note",
+      "Elle est inutile si l'information est connue"
+     ],
+     "a": 0,
+     "e": "On indique la référence entre parenthèses juste après l'idée ou la phrase concernée, pour que le correcteur vérifie immédiatement la source.",
+     "ed": [
+      null,
+      "La note de synthèse n'utilise pas de notes de bas de page : la référence suit l'information dans le texte.",
+      "Une liste finale ne dit pas d'où vient chaque information : la référence accompagne chaque idée.",
+      "Toute information du dossier se référence, qu'elle soit connue ou non."
+     ]
+    },
+    {
+     "id": "n20261029-ns04-03",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Dans une note de synthèse, quand les guillemets sont-ils justifiés ?",
+     "o": [
+      "Pour reproduire un paragraphe entier jugé important",
+      "Pour signaler une idée personnelle du rédacteur",
+      "Jamais : toute citation est interdite",
+      "Pour une formule courte et significative d'un document"
+     ],
+     "a": 3,
+     "e": "Les guillemets se réservent à une formule brève et marquante ; le reste du dossier est reformulé, ce qui prouve la compréhension et économise la place.",
+     "ed": [
+      "Recopier un paragraphe entier gaspille la place et montre qu'on n'a pas synthétisé.",
+      "Le rédacteur n'exprime aucune idée personnelle, entre guillemets ou non.",
+      "La citation brève est permise ; c'est la citation longue qui est à éviter.",
+      null
+     ]
+    },
+    {
+     "id": "n20261029-ns04-04",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Quels éléments composent l'introduction d'une note de synthèse ?",
+     "o": [
+      "Une citation d'auteur, l'avis du rédacteur et le plan",
+      "Le contexte, la définition du sujet, la problématique et l'annonce du plan",
+      "Le résumé de chaque document dans l'ordre du dossier",
+      "La conclusion anticipée et les recommandations du rédacteur"
+     ],
+     "a": 1,
+     "e": "L'introduction pose le contexte tiré du dossier, délimite le sujet, formule la problématique et annonce le plan en reprenant le sens des deux titres.",
+     "ed": [
+      "Ni citation extérieure ni avis personnel : l'introduction part du dossier.",
+      null,
+      "Résumer les documents un à un n'est pas une introduction de synthèse.",
+      "La note ne formule pas de recommandation personnelle, et l'introduction n'anticipe pas la conclusion."
+     ]
+    },
+    {
+     "id": "n20261029-ns04-05",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Laquelle de ces phrases respecte l'exigence de neutralité de la note ?",
+     "o": [
+      "Les communes font heureusement des efforts remarquables.",
+      "Nous pensons que la réforme est indispensable.",
+      "Les communes ont multiplié les points de collecte (doc. 3).",
+      "Il faut absolument former tous les agents."
+     ],
+     "a": 2,
+     "e": "La phrase rapporte un fait, sans jugement, et l'attribue à son document : c'est la forme attendue dans une note objective.",
+     "ed": [
+      "« Heureusement » et « remarquables » expriment le jugement du rédacteur.",
+      "Le « nous » et l'opinion personnelle sont exclus de la note.",
+      null,
+      "L'injonction « il faut » n'est attribuée à personne : c'est un avis du rédacteur."
+     ]
+    },
+    {
+     "id": "n20261029-ns04-06",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Le document 5 écrit : « Le dispositif pourrait réduire le chômage des jeunes. » Quelle reformulation est fidèle ?",
+     "o": [
+      "Le document 5 estime que le dispositif pourrait réduire le chômage des jeunes.",
+      "Le dispositif réduit le chômage des jeunes, comme le prouve le document 5.",
+      "Le document 5 démontre l'efficacité du dispositif contre le chômage.",
+      "Le dispositif a mis fin au chômage des jeunes (doc. 5)."
+     ],
+     "a": 0,
+     "e": "Le verbe « estime » et le conditionnel conservent le caractère prudent du texte : la reformulation garde la force exacte de la position.",
+     "ed": [
+      null,
+      "« Prouve » transforme une hypothèse au conditionnel en certitude.",
+      "« Démontre » affirme une efficacité que le document présente comme possible.",
+      "Le document parle d'une réduction possible, pas d'une fin du chômage : c'est une déformation."
+     ]
+    },
+    {
+     "id": "n20261029-ns04-07",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Les documents 1, 4 et 6 signalent la même difficulté. Comment la référencer ?",
+     "o": [
+      "En ne citant que le document le plus récent",
+      "En consacrant une phrase distincte à chaque document",
+      "En omettant la référence, puisque l'idée est partagée",
+      "En regroupant l'idée et la référence (doc. 1, 4 et 6)"
+     ],
+     "a": 3,
+     "e": "Une idée commune à plusieurs documents s'écrit une seule fois, suivie de toutes ses références : c'est une idée forte du dossier.",
+     "ed": [
+      "Ne citer qu'un document cache que l'idée est partagée par trois sources.",
+      "Trois phrases pour une même idée créent des répétitions et un résumé document par document.",
+      "Une idée partagée se référence aussi : la convergence est précisément une information utile.",
+      null
+     ]
+    },
+    {
+     "id": "n20261029-ns04-08",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Un syndicat (doc. 7) rejette la réforme. Quel verbe rend fidèlement sa position ?",
+     "o": [
+      "Le syndicat suggère la réforme (doc. 7).",
+      "Le syndicat conteste la réforme (doc. 7).",
+      "Le syndicat reconnaît l'intérêt de la réforme (doc. 7).",
+      "Le syndicat démontre la réforme (doc. 7)."
+     ],
+     "a": 1,
+     "e": "« Contester » exprime une opposition, ce qui correspond exactement à un rejet ; le verbe introducteur doit garder la force de la position.",
+     "ed": [
+      "« Suggérer » marque une proposition prudente, l'inverse d'un rejet.",
+      null,
+      "« Reconnaître l'intérêt » exprime une concession favorable, contraire à la position du syndicat.",
+      "« Démontrer la réforme » n'a pas de sens et ne traduit pas une opposition."
+     ]
+    },
+    {
+     "id": "n20261029-ns04-09",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Laquelle de ces phrases convient le mieux à la conclusion d'une note de synthèse ?",
+     "o": [
+      "À mon avis, seule la dématérialisation sauvera les finances publiques.",
+      "Cette note a présenté les documents 1 à 7 dans l'ordre.",
+      "Les retards de paiement fragilisent les fournisseurs (doc. 1 et 6) ; la dématérialisation est présentée comme un remède (doc. 3 et 5).",
+      "Il est urgent que le gouvernement agisse enfin."
+     ],
+     "a": 2,
+     "e": "La conclusion rappelle les idées majeures du dossier, référencées, sans avis personnel : c'est ce que fait cette phrase.",
+     "ed": [
+      "« À mon avis » introduit une opinion du rédacteur, exclue de la note.",
+      "Annoncer qu'on a suivi l'ordre des documents avoue un résumé document par document.",
+      null,
+      "« Il est urgent… enfin » est une injonction et un jugement du rédacteur."
+     ]
+    },
+    {
+     "id": "n20261029-ns04-10",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Vous connaissez un chiffre officiel récent sur le sujet, absent du dossier. Que faites-vous ?",
+     "o": [
+      "Vous ne l'utilisez pas : la note s'en tient au dossier.",
+      "Vous l'ajoutez en précisant sa source entre parenthèses.",
+      "Vous l'ajoutez en conclusion seulement.",
+      "Vous remplacez le chiffre du dossier par le vôtre, plus récent."
+     ],
+     "a": 0,
+     "e": "Aucune information extérieure ne figure dans la note, même exacte et sourcée : le correcteur évalue l'exploitation du dossier, pas les connaissances du candidat.",
+     "ed": [
+      null,
+      "Citer sa source ne change rien : l'information reste extérieure au dossier.",
+      "La conclusion obéit à la même règle que le reste de la note.",
+      "Remplacer un chiffre du dossier revient à le trahir ; on reprend les chiffres tels quels."
+     ]
+    },
+    {
+     "id": "n20261029-ns04-11",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Deux documents donnent des appréciations opposées d'une même mesure. Que doit écrire la note ?",
+     "o": [
+      "L'avis du document le plus officiel, en omettant l'autre",
+      "L'opinion du rédacteur pour départager les deux documents",
+      "Rien : les points controversés sont écartés",
+      "Les deux positions, chacune attribuée à son document, sans trancher"
+     ],
+     "a": 3,
+     "e": "La note expose loyalement les divergences en attribuant chaque position à son document ; c'est au décideur, non au rédacteur, de trancher.",
+     "ed": [
+      "Omettre un document fausse l'image du dossier et le laisse inexploité.",
+      "Le rédacteur ne départage pas : il ne donne pas d'opinion.",
+      "Une divergence est une information utile : l'écarter appauvrit la note.",
+      null
+     ]
+    },
+    {
+     "id": "n20261029-ns04-12",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "verif": "methode",
+     "q": "Le ministre écrit (doc. 2) : « Il faut augmenter le budget de la formation. » Comment l'intégrer dans la note ?",
+     "o": [
+      "« Il faut augmenter le budget de la formation. »",
+      "« Le ministre appelle à augmenter le budget de la formation (doc. 2). »",
+      "Il ne faut pas l'intégrer, car c'est une opinion.",
+      "« Comme chacun sait, il faut augmenter le budget de la formation. »"
+     ],
+     "a": 1,
+     "e": "Une opinion présente dans le dossier se rapporte en l'attribuant à son auteur et en la référençant ; la neutralité porte sur le rédacteur, pas sur les documents.",
+     "ed": [
+      "Sans attribution, l'injonction semble venir du rédacteur et rompt la neutralité.",
+      null,
+      "Les opinions du dossier font partie de son contenu : on les rapporte en les attribuant.",
+      "« Comme chacun sait » présente l'opinion comme une évidence partagée par le rédacteur."
+     ]
+    },
+    {
+     "id": "n20261029-in03-01",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Qu'est-ce qu'un système d'exploitation ?",
+     "o": [
+      "Un logiciel de traitement de texte livré avec l'ordinateur",
+      "Un logiciel qui sert d'interface entre le matériel et l'utilisateur et gère l'exécution des programmes",
+      "Le composant matériel qui exécute les calculs",
+      "Un dossier qui contient tous les fichiers de l'utilisateur"
+     ],
+     "a": 1,
+     "e": "Le système d'exploitation est le logiciel qui sert d'interface entre les composants et l'utilisateur ; il gère l'exécution des programmes, les ressources et les entrées-sorties.",
+     "ed": [
+      "Un traitement de texte est une application, pas le logiciel qui fait fonctionner l'ordinateur.",
+      null,
+      "Le composant qui calcule est le processeur, un élément matériel ; le système d'exploitation est un logiciel.",
+      "Un dossier sert à ranger des fichiers ; ce n'est pas un logiciel."
+     ],
+     "src": {
+      "t": "OQLF, Grand dictionnaire terminologique – « système d'exploitation »",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358548/systeme-dexploitation"
+     }
+    },
+    {
+     "id": "n20261029-in03-02",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Lequel de ces logiciels n'est PAS un système d'exploitation ?",
+     "o": [
+      "Android",
+      "macOS",
+      "Microsoft Word",
+      "Ubuntu"
+     ],
+     "a": 2,
+     "e": "Microsoft Word est un logiciel d'application (traitement de texte) ; Android, macOS et Ubuntu sont cités comme systèmes d'exploitation.",
+     "ed": [
+      "Android est le système d'exploitation de nombreux téléphones.",
+      "macOS est le système d'exploitation des ordinateurs Apple.",
+      null,
+      "Ubuntu est un système d'exploitation pour ordinateur."
+     ],
+     "src": {
+      "t": "OQLF, Grand dictionnaire terminologique – « système d'exploitation »",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358548/systeme-dexploitation"
+     }
+    },
+    {
+     "id": "n20261029-in03-03",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Quel type de fichier désigne l'extension .pptx ?",
+     "o": [
+      "Une présentation Microsoft PowerPoint",
+      "Une image au format portable",
+      "Un fichier compressé",
+      "Un document Word d'une version antérieure à 2007"
+     ],
+     "a": 0,
+     "e": "Selon la liste des extensions courantes de Windows, .pptx désigne une présentation Microsoft PowerPoint.",
+     "ed": [
+      null,
+      "L'image au format Portable Network Graphics porte l'extension .png.",
+      "Un fichier compressé porte l'extension .zip.",
+      "Un document Word antérieur à Word 2007 porte l'extension .doc."
+     ],
+     "src": {
+      "t": "Microsoft Support – Extensions de nom de fichier courantes dans Windows",
+      "u": "https://support.microsoft.com/fr-fr/windows/extensions-de-nom-de-fichier-courantes-dans-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01"
+     }
+    },
+    {
+     "id": "n20261029-in03-04",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Sous Windows, quel caractère sépare les dossiers dans un chemin d'accès ?",
+     "o": [
+      "Le point « . »",
+      "Le tiret « - »",
+      "Le point-virgule « ; »",
+      "La barre oblique inverse « \\ »"
+     ],
+     "a": 3,
+     "e": "Sous Windows, la barre oblique inverse « \\ » sépare les éléments d'un chemin (lecteur, dossiers, fichier), comme dans C:\\Courrier\\lettre.docx.",
+     "ed": [
+      "Le point sépare le nom du fichier de son extension, pas les dossiers.",
+      "Le tiret est un caractère ordinaire, autorisé dans les noms.",
+      "Le point-virgule ne sert pas de séparateur de chemin.",
+      null
+     ],
+     "src": {
+      "t": "Microsoft Learn – Naming Files, Paths, and Namespaces (Nommer les fichiers, chemins et espaces de noms)",
+      "u": "https://learn.microsoft.com/nl-nl/windows/win32/fileio/naming-a-file"
+     }
+    },
+    {
+     "id": "n20261029-in03-05",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Lequel de ces noms de fichier Windows refusera-t-il ?",
+     "o": [
+      "Budget 2026.xlsx",
+      "Rapport_final.docx",
+      "Point: réunion.docx",
+      "PV-conseil-mars.pdf"
+     ],
+     "a": 2,
+     "e": "Le deux-points fait partie des caractères réservés (\\ / : * ? \" < > |) qu'un nom de fichier ne peut pas contenir sous Windows.",
+     "ed": [
+      "Les espaces et les chiffres sont autorisés dans un nom de fichier.",
+      "Le tiret bas est autorisé.",
+      null,
+      "Les tirets sont autorisés dans un nom de fichier."
+     ],
+     "src": {
+      "t": "Microsoft Learn – Naming Files, Paths, and Namespaces (Nommer les fichiers, chemins et espaces de noms)",
+      "u": "https://learn.microsoft.com/nl-nl/windows/win32/fileio/naming-a-file"
+     }
+    },
+    {
+     "id": "n20261029-in03-06",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Quelle extension désigne un fichier texte brut, sans aucune mise en forme ?",
+     "o": [
+      "Elle est notée .rtf",
+      "Elle est notée .txt",
+      "Elle est notée .docx",
+      "Elle est notée .pdf"
+     ],
+     "a": 1,
+     "e": "L'extension .txt désigne un fichier texte brut, sans mise en forme : ni gras, ni police, ni mise en page.",
+     "ed": [
+      "L'extension .rtf désigne un texte enrichi (Rich Text Format), qui conserve une mise en forme.",
+      null,
+      "L'extension .docx désigne un document Word, avec mise en forme.",
+      "L'extension .pdf désigne un document au format portable, qui fige la mise en page."
+     ],
+     "src": {
+      "t": "Microsoft Support – Extensions de nom de fichier courantes dans Windows",
+      "u": "https://support.microsoft.com/fr-fr/windows/extensions-de-nom-de-fichier-courantes-dans-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01"
+     }
+    },
+    {
+     "id": "n20261029-in03-07",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Dans le chemin C:\\Courrier\\2026\\Arrivee\\lettre_ministere.pdf, dans quel dossier se trouve directement le fichier ?",
+     "o": [
+      "Arrivee",
+      "Courrier",
+      "2026",
+      "C:"
+     ],
+     "a": 0,
+     "e": "On lit le chemin de gauche à droite : le fichier est placé dans le dernier dossier cité avant son nom, ici Arrivee.",
+     "ed": [
+      null,
+      "Courrier est le dossier de premier niveau, qui contient 2026.",
+      "2026 contient le sous-dossier Arrivee, pas directement le fichier.",
+      "C: désigne le lecteur, à la racine du chemin."
+     ],
+     "src": {
+      "t": "Techno-Science.net – Fichier informatique",
+      "u": "https://www.techno-science.net/fr/definitions/fichier-informatique"
+     }
+    },
+    {
+     "id": "n20261029-in03-08",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Quel raccourci supprime un fichier définitivement, sans l'envoyer à la Corbeille ?",
+     "o": [
+      "Ctrl+Z",
+      "Suppr",
+      "Ctrl+X",
+      "Maj+Suppr"
+     ],
+     "a": 3,
+     "e": "Maj+Suppr supprime l'élément sélectionné sans le déplacer d'abord vers la Corbeille : la suppression est définitive.",
+     "ed": [
+      "Ctrl+Z annule la dernière action ; il ne supprime rien.",
+      "Suppr envoie l'élément à la Corbeille, d'où il peut être restauré.",
+      "Ctrl+X coupe l'élément pour le déplacer ; il ne le supprime pas.",
+      null
+     ],
+     "src": {
+      "t": "Journal du Net – Raccourcis clavier Windows : voici les plus utiles",
+      "u": "https://www.journaldunet.com/web-tech/guide-de-l-entreprise-digitale/1195383-raccourcis-clavier-windows/"
+     }
+    },
+    {
+     "id": "n20261029-in03-09",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Que fait le raccourci Ctrl+X ?",
+     "o": [
+      "Il copie la sélection en la laissant en place",
+      "Il coupe la sélection, pour la coller ailleurs",
+      "Il annule la dernière action",
+      "Il renomme le fichier sélectionné"
+     ],
+     "a": 1,
+     "e": "Ctrl+X coupe la sélection : elle disparaît de son emplacement et peut être collée ailleurs avec Ctrl+V, ce qui revient à la déplacer.",
+     "ed": [
+      "Copier en laissant en place, c'est Ctrl+C.",
+      null,
+      "Annuler la dernière action, c'est Ctrl+Z.",
+      "Renommer l'élément sélectionné se fait avec F2."
+     ],
+     "src": {
+      "t": "Blog du Modérateur – Windows : la liste des raccourcis clavier à connaître",
+      "u": "https://www.blogdumoderateur.com/raccourcis-clavier-windows/"
+     }
+    },
+    {
+     "id": "n20261029-in03-10",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Un agent renomme « rapport.docx » en « rapport.pdf ». Que se passe-t-il ?",
+     "o": [
+      "Le fichier est converti en PDF",
+      "Le fichier est compressé",
+      "Le contenu n'est pas converti : Windows l'ouvrira avec le logiciel des PDF, qui risque de ne pas le lire",
+      "Windows refuse tout changement d'extension"
+     ],
+     "a": 2,
+     "e": "Changer l'extension ne transforme pas le contenu : le système utilise alors le logiciel associé à la nouvelle extension, qui n'est pas forcément conçu pour ce format.",
+     "ed": [
+      "Renommer ne convertit pas : il faut « Enregistrer sous » ou « Exporter » au format PDF.",
+      "La compression produit un fichier .zip ; renommer n'en crée pas.",
+      null,
+      "On peut modifier l'extension comme le reste du nom ; Windows ne l'interdit pas."
+     ],
+     "src": {
+      "t": "Techno-Science.net – Extension de nom de fichier",
+      "u": "https://www.techno-science.net/fr/definitions/extension-de-nom-de-fichier"
+     }
+    },
+    {
+     "id": "n20261029-in03-11",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Que recommande la règle de sauvegarde « 3-2-1 » de l'ANSSI ?",
+     "o": [
+      "Trois copies des données, sur des supports différents, dont une hors ligne",
+      "Trois sauvegardes par jour, pendant deux semaines, sur un seul disque",
+      "Trois mots de passe, deux antivirus, un pare-feu",
+      "Trois dossiers, deux sous-dossiers, un fichier par dossier"
+     ],
+     "a": 0,
+     "e": "L'ANSSI recommande trois copies des données (les données en service et deux sauvegardes), réparties sur des supports différents, dont une hors ligne.",
+     "ed": [
+      null,
+      "Un seul disque contredit l'exigence de supports différents, et la règle ne fixe pas de fréquence.",
+      "La règle porte sur les copies de données, pas sur les mots de passe ou les logiciels de sécurité.",
+      "La règle ne concerne pas le rangement des dossiers mais les copies de sauvegarde."
+     ],
+     "src": {
+      "t": "ANSSI – Fondamentaux de la sauvegarde des systèmes d'information (v1.1)",
+      "u": "https://messervices.cyber.gouv.fr/documents-guides/anssi_fondamentaux_sauvegarde_systemes_dinformation_v1.1.pdf"
+     }
+    },
+    {
+     "id": "n20261029-in03-12",
+     "m": "info",
+     "tag": "niv-in03",
+     "q": "Une pièce jointe s'affiche « facture.pdf », mais son nom complet est « facture.pdf.exe ». De quoi s'agit-il ?",
+     "o": [
+      "D'un document PDF ordinaire",
+      "D'un fichier compressé contenant un PDF",
+      "D'une image au format JPEG",
+      "D'un programme exécutable camouflé en document, car l'extension réelle est masquée"
+     ],
+     "a": 3,
+     "e": "L'extension réelle est celle qui suit le dernier point : .exe désigne un programme exécutable ; Windows peut masquer l'extension, ce qui permet de camoufler un fichier.",
+     "ed": [
+      "Le type est donné par la dernière extension, .exe, et non par « .pdf » placé au milieu du nom.",
+      "Un fichier compressé porte l'extension .zip.",
+      "Une photo JPEG porte l'extension .jpg.",
+      null
+     ],
+     "src": {
+      "t": "Techno-Science.net – Extension de nom de fichier",
+      "u": "https://www.techno-science.net/fr/definitions/extension-de-nom-de-fichier"
+     }
+    },
+    {
+     "id": "n20261029-rd05-01",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Quelle est la finalité principale d'un rapport administratif ?",
+     "o": [
+      "Relater fidèlement le déroulement d'une réunion",
+      "Transmettre une consigne obligatoire à tous les agents",
+      "Inviter des partenaires à une cérémonie",
+      "Exposer une situation, l'analyser et proposer des solutions pour éclairer une décision"
+     ],
+     "a": 3,
+     "e": "Le rapport prépare une décision : il expose les faits, les explique et propose des solutions argumentées au destinataire.",
+     "ed": [
+      "Relater une réunion est le rôle du compte rendu ou du procès-verbal.",
+      "Une consigne obligatoire passe par une note de service.",
+      "Une invitation relève de la lettre ou du carton d'invitation.",
+      null
+     ]
+    },
+    {
+     "id": "n20261029-rd05-02",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Qu'est-ce qui distingue le rapport du compte rendu ?",
+     "o": [
+      "L'auteur du rapport prend position et formule des propositions",
+      "Le rapport ne comporte jamais de chiffres",
+      "Le compte rendu est toujours plus long que le rapport",
+      "Le rapport est réservé aux réunions officielles"
+     ],
+     "a": 0,
+     "e": "Contrairement au compte rendu, qui relate fidèlement sans juger, le rapport contient l'avis de son auteur et des propositions.",
+     "ed": [
+      null,
+      "Le constat d'un rapport s'appuie au contraire sur des faits chiffrés.",
+      "La longueur ne distingue pas les deux documents ; leur fonction, si.",
+      "Le document des séances officielles est le procès-verbal."
+     ]
+    },
+    {
+     "id": "n20261029-rd05-03",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Que doit contenir l'introduction d'un rapport ?",
+     "o": [
+      "Uniquement la formule « J'ai l'honneur de vous rendre compte »",
+      "Le détail des chiffres et tous les tableaux",
+      "L'objet, l'origine de la demande, l'enjeu et l'annonce du contenu des parties",
+      "La solution préconisée, sans annonce de plan"
+     ],
+     "a": 2,
+     "e": "L'introduction situe le rapport (objet, demande, enjeu) et annonce le contenu précis de chaque partie, pas seulement leur ordre.",
+     "ed": [
+      "Une formule d'ouverture ne suffit pas : il faut l'objet, l'origine, l'enjeu et l'annonce.",
+      "Les chiffres détaillés appartiennent au constat ou aux annexes.",
+      null,
+      "La solution préconisée se développe dans les propositions et se rappelle en conclusion ; l'introduction annonce le plan."
+     ]
+    },
+    {
+     "id": "n20261029-rd05-04",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Comment doit être rédigé le constat d'un rapport ?",
+     "o": [
+      "En mêlant faits et appréciations personnelles",
+      "De façon objective et factuelle : faits datés, chiffres, procédures",
+      "Sous forme de propositions",
+      "En style télégraphique, pour gagner du temps"
+     ],
+     "a": 1,
+     "e": "Le constat décrit l'existant objectivement ; l'interprétation est réservée à l'analyse, ce qui permet au décideur de distinguer l'établi de l'interprété.",
+     "ed": [
+      "Mêler faits et jugements empêche de vérifier le raisonnement.",
+      null,
+      "Les propositions viennent après le constat et l'analyse.",
+      "Le rapport est entièrement rédigé ; le style télégraphique est sanctionné."
+     ]
+    },
+    {
+     "id": "n20261029-rd05-05",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Laquelle de ces propositions est la plus opérationnelle ?",
+     "o": [
+      "Conclure avant la fin du mois un contrat d'entretien trimestriel du groupe électrogène, imputé sur la ligne de maintenance",
+      "Il faut mieux s'occuper du groupe électrogène",
+      "Le groupe électrogène mérite davantage d'attention",
+      "Chacun devrait faire des efforts pour éviter les pannes"
+     ],
+     "a": 0,
+     "e": "Une proposition opérationnelle précise l'action, le délai et le moyen de financement : le supérieur peut la décider telle quelle.",
+     "ed": [
+      null,
+      "« Mieux s'occuper » ne dit ni quoi faire, ni quand, ni avec quels moyens.",
+      "C'est un vœu général, pas une mesure applicable.",
+      "L'appel aux efforts de chacun ne désigne ni action ni responsable."
+     ]
+    },
+    {
+     "id": "n20261029-rd05-06",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Laquelle de ces phrases relève de l'analyse, et non du constat ?",
+     "o": [
+      "150 des 400 demandes de septembre ont été satisfaites en plus de deux semaines.",
+      "Le centre dispose de deux agents de saisie.",
+      "Le retard tient d'abord au manque de personnel, aggravé par la recherche manuelle dans les registres.",
+      "Un agent est absent depuis le 1er septembre."
+     ],
+     "a": 2,
+     "e": "Cette phrase interprète les faits en avançant des causes : c'est le propre de l'analyse, alors que le constat se limite à ce qui est vérifiable.",
+     "ed": [
+      "C'est un fait chiffré et daté : il relève du constat.",
+      "C'est une donnée sur les moyens existants : elle relève du constat.",
+      null,
+      "C'est un fait daté : il relève du constat."
+     ]
+    },
+    {
+     "id": "n20261029-rd05-07",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Que doit faire la conclusion d'un rapport ?",
+     "o": [
+      "Résumer de nouveau chaque partie dans le détail",
+      "Ajouter une proposition oubliée dans le développement",
+      "Remercier le destinataire de sa confiance",
+      "Répondre à la question posée et rappeler la solution préconisée"
+     ],
+     "a": 3,
+     "e": "La conclusion répond à la question du destinataire et met en avant la solution préconisée, sans résumer tout le développement ni ajouter d'élément nouveau.",
+     "ed": [
+      "La conclusion n'est pas un résumé détaillé du développement.",
+      "Elle n'introduit aucun élément nouveau : une proposition oubliée devait figurer dans le développement.",
+      "Les remerciements ne répondent pas à la question posée.",
+      null
+     ]
+    },
+    {
+     "id": "n20261029-rd05-08",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Votre chef vous demande un document qui expose les pannes répétées du groupe électrogène et propose des solutions. Lequel rédigez-vous ?",
+     "o": [
+      "Un procès-verbal",
+      "Un rapport",
+      "Une note d'information",
+      "Un compte rendu"
+     ],
+     "a": 1,
+     "e": "Exposer une situation et proposer des solutions pour une décision, c'est la fonction du rapport.",
+     "ed": [
+      "Le procès-verbal relate officiellement les délibérations d'une séance.",
+      null,
+      "La note d'information informe sans proposer de solution argumentée.",
+      "Le compte rendu relate sans prendre position ni proposer."
+     ]
+    },
+    {
+     "id": "n20261029-rd05-09",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Où placer les tableaux détaillés et les explications techniques longues d'un rapport ?",
+     "o": [
+      "En annexe, en y renvoyant dans le texte",
+      "Dans l'introduction",
+      "Dans la conclusion",
+      "Nulle part : un rapport ne contient pas de tableau"
+     ],
+     "a": 0,
+     "e": "Les explications complémentaires et les tableaux détaillés vont en annexe, pour garder un corps de rapport court, clair et lisible.",
+     "ed": [
+      null,
+      "L'introduction présente l'objet et annonce le plan ; elle n'accueille pas de détails techniques.",
+      "La conclusion répond à la question posée ; elle n'ajoute pas de données.",
+      "Un rapport peut intégrer des tableaux ; les plus détaillés sont simplement renvoyés en annexe."
+     ]
+    },
+    {
+     "id": "n20261029-rd05-10",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Un candidat termine son rapport par : « Par ailleurs, il conviendrait aussi de recruter un gardien. », idée absente du développement. Quel est le défaut ?",
+     "o": [
+      "Aucun : la conclusion sert à ajouter des idées",
+      "La phrase est trop courte",
+      "La conclusion introduit un élément nouveau, ce qui est proscrit",
+      "Le recrutement ne peut jamais être proposé"
+     ],
+     "a": 2,
+     "e": "La conclusion ne doit pas introduire d'élément nouveau : une proposition doit être exposée et argumentée dans la partie consacrée aux propositions.",
+     "ed": [
+      "C'est l'inverse : la conclusion n'ajoute rien de nouveau.",
+      "La longueur n'est pas en cause ; c'est la nouveauté de l'idée.",
+      null,
+      "Un recrutement peut être proposé, mais dans le développement, argumenté et chiffré."
+     ]
+    },
+    {
+     "id": "n20261029-rd05-11",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Un rapport contient : « Pannes répétées. Coût élevé. Achat urgent. » Pourquoi est-ce sanctionné ?",
+     "o": [
+      "Parce que les pannes ne doivent pas être mentionnées",
+      "Parce que le rapport doit être écrit au passé simple",
+      "Parce qu'il faut toujours écrire au conditionnel",
+      "Parce que le rapport doit être entièrement rédigé, sans style télégraphique"
+     ],
+     "a": 3,
+     "e": "Le rapport est entièrement rédigé, en phrases complètes : le style télégraphique supprime les liens logiques dont le décideur a besoin.",
+     "ed": [
+      "Les pannes sont le cœur du constat : il faut les mentionner, mais en phrases complètes.",
+      "Aucun temps unique n'est imposé ; le défaut est l'absence de phrases.",
+      "Le conditionnel n'est pas obligatoire ; le défaut est le style télégraphique.",
+      null
+     ]
+    },
+    {
+     "id": "n20261029-rd05-12",
+     "m": "redac",
+     "tag": "niv-rd05",
+     "verif": "methode",
+     "q": "Un rapport énumère trois mesures sans préciser ni moyens, ni étapes, ni délais. Que lui manque-t-il ?",
+     "o": [
+      "Une introduction plus longue",
+      "Les conditions de mise en œuvre qui rendent les propositions applicables",
+      "Une formule de politesse finale",
+      "Un rappel de la réglementation sur les rapports"
+     ],
+     "a": 1,
+     "e": "Des propositions opérationnelles précisent, si nécessaire, les moyens, les étapes et les contraintes de réalisation ; sans eux, le décideur ne peut pas trancher.",
+     "ed": [
+      "Allonger l'introduction ne rend pas les mesures applicables.",
+      null,
+      "Une formule de politesse n'apporte rien à la qualité des propositions.",
+      "Le défaut porte sur le contenu des propositions, pas sur un rappel réglementaire."
+     ]
+    },
+    {
+     "id": "n20261029-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville siège la Cour africaine des droits de l'homme et des peuples ?",
+     "o": [
+      "Addis-Abeba (Éthiopie)",
+      "Banjul (Gambie)",
+      "Arusha (Tanzanie)",
+      "Midrand (Afrique du Sud)"
+     ],
+     "a": 2,
+     "e": "La Cour africaine des droits de l'homme et des peuples, créée par un protocole adopté en 1998 et entré en vigueur le 25 janvier 2004, siège à Arusha, en Tanzanie.",
+     "ed": [
+      "Addis-Abeba n'est pas le siège de la Cour africaine, établie à Arusha.",
+      "Banjul n'est pas le siège de la Cour africaine, établie à Arusha.",
+      null,
+      "Midrand n'est pas le siège de la Cour africaine, établie à Arusha."
+     ],
+     "src": {
+      "t": "Wikipedia – African Court on Human and Peoples' Rights",
+      "u": "https://en.wikipedia.org/wiki/African_Court_on_Human_and_Peoples%27_Rights"
+     }
+    },
+    {
+     "id": "n20261029-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le Conseil de l'Europe, dont le siège est à Strasbourg, a été fondé le 5 mai 1949 par :",
+     "o": [
+      "Le traité de Londres, signé par 10 États",
+      "Le traité de Rome, signé par 6 États",
+      "Le traité de Maastricht, signé par 12 États",
+      "La Charte de San Francisco, signée par 50 États"
+     ],
+     "a": 0,
+     "e": "Le Conseil de l'Europe a été fondé le 5 mai 1949 par dix États signataires du traité de Londres, qui établit son statut ; Strasbourg en est le siège depuis sa fondation.",
+     "ed": [
+      null,
+      "Les traités de Rome de 1957 ont créé la CEE et l'Euratom, pas le Conseil de l'Europe.",
+      "Le traité de Maastricht (1992) a créé l'Union européenne, organisation distincte du Conseil de l'Europe.",
+      "La Charte de San Francisco (1945) a fondé l'Organisation des Nations unies."
+     ],
+     "src": {
+      "t": "Ville de Strasbourg – Strasbourg, ville siège d'institutions européennes",
+      "u": "https://www.strasbourg.eu/fr/siege-institutions-europeennes"
+     }
+    },
+    {
+     "id": "n20261029-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En 1979, après l'exclusion de l'Égypte, le siège de la Ligue des États arabes a été transféré à :",
+     "o": [
+      "Damas",
+      "Riyad",
+      "Beyrouth",
+      "Tunis"
+     ],
+     "a": 3,
+     "e": "Fondée par un pacte signé au Caire le 22 mars 1945, la Ligue arabe a déplacé son siège à Tunis en 1979, après l'exclusion de l'Égypte, avant de revenir au Caire en 1990.",
+     "ed": [
+      "Damas n'a pas accueilli le siège de la Ligue après 1979 : c'est Tunis.",
+      "Riyad n'a pas été le siège de la Ligue arabe.",
+      "Beyrouth n'a pas accueilli le siège transféré en 1979.",
+      null
+     ],
+     "src": {
+      "t": "Larousse – Ligue arabe ou Ligue des États arabes",
+      "u": "https://www.larousse.fr/encyclopedie/divers/Ligue_arabe/105875"
+     }
+    },
+    {
+     "id": "n20261029-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La Constitution de l'Organisation mondiale de la santé, adoptée à New York en 1946, est entrée en vigueur le :",
+     "o": [
+      "24 octobre 1945",
+      "7 avril 1948",
+      "10 décembre 1948",
+      "22 juillet 1946"
+     ],
+     "a": 1,
+     "e": "La Constitution de l'OMS, adoptée par la Conférence internationale de la santé tenue à New York en 1946, est entrée en vigueur le 7 avril 1948, date aujourd'hui célébrée comme Journée mondiale de la santé.",
+     "ed": [
+      "La Constitution de l'OMS n'existait pas encore en octobre 1945 : elle a été adoptée en 1946.",
+      null,
+      "Au 10 décembre 1948, la Constitution de l'OMS était déjà en vigueur depuis le 7 avril.",
+      "Le 22 juillet 1946 est la date de signature de la Constitution, pas de son entrée en vigueur."
+     ],
+     "src": {
+      "t": "OMS – Constitution de l'Organisation mondiale de la santé (Documents fondamentaux)",
+      "u": "https://apps.who.int/gb/EDG/pdf_files/Ref-docs/constitution-fr.pdf"
+     }
+    },
+    {
+     "id": "n20261029-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Adopté à Rome le 17 juillet 1998, le Statut de la Cour pénale internationale est entré en vigueur en :",
+     "o": [
+      "1998",
+      "2000",
+      "2002",
+      "2005"
+     ],
+     "a": 2,
+     "e": "Le Statut de Rome, adopté le 17 juillet 1998 lors d'une conférence diplomatique à Rome, est entré en vigueur le 1er juillet 2002.",
+     "ed": [
+      "1998 est l'année d'adoption du Statut, pas de son entrée en vigueur.",
+      "Le Statut n'était pas encore en vigueur en 2000 : il l'est devenu le 1er juillet 2002.",
+      null,
+      "En 2005, le Statut était en vigueur depuis déjà trois ans."
+     ],
+     "src": {
+      "t": "Cour pénale internationale – Statut de Rome de la Cour pénale internationale",
+      "u": "https://www.icc-cpi.int/fr/publications/textes-juridiques-fondamentaux/statut-de-rome-de-la-cour-penale-internationale"
+     }
+    },
+    {
+     "id": "n20261029-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La Charte de l'Organisation des États américains (OEA), dont le siège est à Washington, a été signée en 1948 à :",
+     "o": [
+      "Bogotá",
+      "Mexico",
+      "Rio de Janeiro",
+      "Buenos Aires"
+     ],
+     "a": 0,
+     "e": "La Charte de l'OEA a été signée à Bogotá en 1948 et est entrée en vigueur en décembre 1951 ; le Secrétariat général siège à Washington.",
+     "ed": [
+      null,
+      "Mexico n'est pas la ville de signature de la Charte de l'OEA.",
+      "Rio de Janeiro n'est pas la ville de signature de la Charte de l'OEA.",
+      "Buenos Aires n'est pas la ville de signature de la Charte de l'OEA."
+     ],
+     "src": {
+      "t": "OEA – Organization of American States (publication du Département du développement durable)",
+      "u": "https://www.oas.org/dsd/publications/Unit/oea78e/ch14.htm"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261029ns04",
+     "niv": "ns04",
+     "m": "ns",
+     "verif": "methode",
+     "titre": "Rédiger une note objective : neutralité et citation des documents",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez rédiger l'introduction, les parties et la conclusion d'une note de synthèse sur un ton neutre, en rattachant chaque information à son document.",
+      "= Vous saurez reformuler sans trahir, citer avec mesure et remplacer toute marque d'opinion personnelle par une formulation objective.",
+      "## Ce que demande l'épreuve",
+      "Une fois le plan arrêté vient la rédaction directe au propre : dans la méthode des 5 heures, c'est la phase la plus longue, environ deux heures et demie. Le correcteur lit votre note comme un décideur pressé. Il doit y trouver tout l'essentiel du dossier, rien d'autre, et pouvoir vérifier d'où vient chaque information. La neutralité et le référencement font partie des règles d'or de l'épreuve vues au premier niveau.",
+      "! Pièges habituels : glisser son avis (« cette mesure, heureusement… »), ajouter une connaissance personnelle, recopier de longs passages, oublier les références, ou prêter à un document ce qu'il ne dit pas.",
+      "## La méthode, pas à pas",
+      "- 1. Rédigez l'introduction : contexte tiré du dossier, définition du sujet, problématique, annonce du plan.",
+      "- 2. Ouvrez chaque partie par un chapeau d'une ou deux phrases qui annonce ses deux sous-parties.",
+      "- 3. Pour chaque idée : une phrase qui énonce l'idée, puis les informations précises, suivies de leur référence entre parenthèses (doc. 2) ou (doc. 2 et 5).",
+      "- 4. Attribuez chaque opinion à son auteur avec un verbe exact : « estime », « souligne », « reconnaît », « conteste ».",
+      "- 5. Reliez les sous-parties et les parties par des transitions courtes.",
+      "- 6. Concluez brièvement : rappel des deux idées majeures, sans prise de position personnelle.",
+      "- 7. Relisez en traquant les adjectifs de jugement, les « je » et « nous », et toute information sans référence.",
+      "~ Exemple : vos notes portent « doc. 4 : retards de paiement, fournisseurs découragés ». Dans la note : « Les retards de paiement de l'administration découragent les fournisseurs, selon le rapport d'audit (doc. 4). » L'idée est reformulée, attribuée et référencée."
+     ],
+     "fond": [
+      "## Notion 1 : l'introduction de la note",
+      "Règle : l'introduction comprend quatre éléments, dans cet ordre : le contexte, tiré du dossier ; la définition ou la délimitation du sujet ; la problématique ; l'annonce du plan, qui reprend le sens des deux titres.",
+      "Pourquoi ? Le lecteur doit comprendre en quelques lignes de quoi parle la note, pourquoi la question se pose et comment la réponse est organisée.",
+      "~ Introduction modèle (dossier fictif sur le paiement des fournisseurs de l'État, 7 documents). « Les entreprises qui travaillent pour l'administration se plaignent de délais de paiement jugés trop longs (doc. 1 et 6). » → contexte, référencé. « Le délai de paiement désigne le temps qui sépare la livraison du règlement de la facture (doc. 2). » → définition, empruntée au dossier. « Comment concilier le contrôle de la dépense publique et le règlement rapide des fournisseurs ? » → problématique, qui met en tension deux exigences du dossier. « Si les retards fragilisent les entreprises et le service public (I), des réformes de procédure ouvrent la voie à des paiements plus rapides (II). » → annonce du plan, qui dit le contenu des parties et non seulement leur ordre.",
+      "? Un candidat ouvre sa note par : « Depuis toujours, l'argent est le nerf de la guerre. » Pourquoi cette phrase est-elle à proscrire ? || Elle ne vient pas du dossier : c'est une formule générale, extérieure, qui ne porte aucune information. L'introduction d'une note de synthèse part du contexte que présentent les documents, avec leur référence.",
+      "## Notion 2 : la neutralité du vocabulaire",
+      "Règle : l'auteur de la note n'apparaît pas. On bannit le « je » et le « nous », les adjectifs et adverbes de jugement (« excellent », « scandaleux », « malheureusement », « heureusement ») et les injonctions personnelles (« il faut », « on doit ») qui ne sont pas attribuées à un document.",
+      "Pourquoi ? La note sert à un décideur qui tranchera lui-même. Son rédacteur est un intermédiaire fidèle : s'il colore l'information, il prive le décideur d'un exposé loyal.",
+      "~ Fautif : « Les communes font heureusement des efforts remarquables. » Correct : « Les communes ont multiplié les points de collecte (doc. 3). »",
+      "! Neutralité ne veut pas dire effacer les opinions du dossier. Une critique, un regret, une proposition présents dans un document doivent figurer dans la note : on les rapporte en les attribuant à leur auteur.",
+      "? Rendez neutre la phrase : « Le gouvernement a eu raison de lancer ce programme, qui est une réussite. » (doc. 2 : un rapport d'évaluation relève une hausse du nombre de bénéficiaires.) || « Selon le rapport d'évaluation, le programme a vu augmenter le nombre de ses bénéficiaires (doc. 2). » On supprime le jugement (« a eu raison », « réussite ») et on ne garde que le fait, attribué et référencé.",
+      "## Notion 3 : citer et référencer les documents",
+      "Règle : chaque information porte sa référence entre parenthèses, à la fin de la phrase ou de l'idée : (doc. 3). Quand plusieurs documents convergent, on les cite ensemble : (doc. 1, 4 et 6). Les guillemets sont réservés à une formule courte et significative ; pour le reste, on reformule.",
+      "Pourquoi ? La référence permet au correcteur de vérifier la fidélité et l'exploitation du dossier.",
+      "~ Recopié : « Le document 6 indique que “les délais moyens de règlement atteignent fréquemment plusieurs mois, ce qui pèse lourdement sur la trésorerie des petites entreprises”. » Synthétisé : « Des délais de règlement de plusieurs mois pèsent sur la trésorerie des petites entreprises (doc. 6). » Même information, moitié moins de mots.",
+      "! La référence ne remplace pas la synthèse. Écrire « Le document 1 dit… Le document 2 dit… » revient à résumer les documents l'un après l'autre : c'est l'idée qui commande la phrase, la référence la suit.",
+      "## Notion 4 : rapporter fidèlement les positions et les chiffres",
+      "Règle : le verbe introducteur doit avoir la force exacte de la position rapportée. « Affirmer » et « souligner » marquent une certitude ; « estimer » ou « juger » un avis ; « reconnaître » une concession ; « contester » ou « rejeter » une opposition ; « suggérer » une piste prudente. Les chiffres se reprennent tels quels, avec leur unité, leur date et leur document.",
+      "Pourquoi ? Un verbe trop fort transforme une hypothèse en certitude ; un chiffre arrondi ou recalculé peut ne plus correspondre au dossier.",
+      "~ Le document 5 écrit : « La dématérialisation pourrait réduire les délais. » Fidèle : « Le document 5 estime que la dématérialisation pourrait réduire les délais. » Infidèle : « La dématérialisation réduit les délais, comme le démontre le document 5. » Le conditionnel du texte a disparu.",
+      "? Un syndicat (doc. 7) s'oppose à la réforme ; un ministre (doc. 2) la défend. Rédigez une phrase qui présente ces deux positions. || « Défendue par le ministre (doc. 2), la réforme est contestée par le syndicat (doc. 7). » Chaque position est attribuée, les deux verbes en traduisent la force, et le rédacteur ne tranche pas.",
+      "## Notion 5 : transitions et conclusion",
+      "Règle : une transition courte fait le bilan de ce qui précède et annonce la suite. La conclusion rappelle en deux ou trois phrases les idées majeures ; elle peut s'ouvrir sur une question que soulève le dossier lui-même, jamais sur un avis personnel.",
+      "Pourquoi ? Le décideur qui ne lit que l'introduction et la conclusion doit déjà disposer de l'essentiel.",
+      "~ Transition : « Ces retards ont donc un coût pour les entreprises comme pour l'administration ; plusieurs réformes cherchent à les réduire. » Conclusion : « Les retards de paiement fragilisent les fournisseurs et renchérissent les achats publics (doc. 1, 4 et 6). La dématérialisation et le suivi des délais sont présentés comme des remèdes (doc. 3 et 5), dont l'efficacité reste discutée par les syndicats (doc. 7). »"
+     ],
+     "retenir": [
+      "L'introduction de la note comprend le contexte, la définition du sujet, la problématique et l'annonce du plan.",
+      "Dans une note de synthèse, l'auteur n'apparaît pas : ni « je », ni « nous », ni adjectif de jugement.",
+      "Une opinion du dossier se rapporte en l'attribuant à son auteur, avec sa référence.",
+      "Chaque information porte sa référence entre parenthèses : (doc. 3) ou (doc. 1, 4 et 6).",
+      "Les guillemets se limitent à une formule courte et significative ; sinon, on reformule.",
+      "Le verbe introducteur garde la force exacte de la position : estimer n'est pas démontrer.",
+      "Les chiffres se reprennent tels quels, avec leur unité, leur date et leur document.",
+      "La conclusion rappelle les idées majeures sans aucune prise de position personnelle."
+     ],
+     "exo": {
+      "tag": "niv-ns04",
+      "n": 12
+     }
+    },
+    {
+     "id": "L20261029in03",
+     "niv": "in03",
+     "m": "info",
+     "titre": "Systèmes d'exploitation et gestion des fichiers",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dire ce qu'est un système d'exploitation, lire un chemin d'accès, reconnaître un fichier à son extension et nommer correctement un fichier sous Windows.",
+      "= Vous saurez aussi copier, déplacer, supprimer et sauvegarder vos fichiers sans perdre de données.",
+      "## Ce que demande le concours",
+      "L'épreuve d'informatique et de bureautique pose des questions concrètes : citer un système d'exploitation, identifier le type d'un fichier d'après son extension, choisir un nom de fichier valide, connaître un raccourci clavier, savoir où va un fichier supprimé. Les pièges portent sur la confusion entre système d'exploitation et logiciel d'application, entre dossier et fichier, et sur l'idée fausse qu'il suffit de renommer l'extension pour convertir un fichier.",
+      "## La méthode, pas à pas",
+      "- 1. Devant un logiciel, demandez-vous : fait-il fonctionner l'appareil lui-même (système d'exploitation) ou sert-il à une tâche précise (application : traitement de texte, tableur) ?",
+      "- 2. Devant un chemin, lisez de gauche à droite : lecteur, puis chaque dossier, puis le fichier, séparés par une barre oblique inverse « \\ » sous Windows.",
+      "- 3. Devant un nom de fichier, regardez ce qui suit le dernier point : c'est l'extension, qui indique le type.",
+      "- 4. Devant un nom à créer, éliminez les caractères interdits : \\ / : * ? \" < > |.",
+      "- 5. Devant une suppression, demandez-vous si le fichier passe par la Corbeille (récupérable) ou non.",
+      "~ Exemple : « C:\\Courrier\\2026\\note_DRH.docx ». Lecteur C, dossier Courrier, sous-dossier 2026, fichier note_DRH de type document Word (.docx)."
+     ],
+     "fond": [
+      "## Notion 1 : le système d'exploitation",
+      "Règle : le système d'exploitation est un logiciel qui sert d'interface entre les composants de l'ordinateur et l'utilisateur. Il gère l'exécution des programmes, répartit les ressources matérielles et contrôle les entrées-sorties des périphériques. On l'abrège SE en français et OS (operating system) en anglais. Exemples : Windows, macOS, Ubuntu pour les ordinateurs ; Android et iOS pour les téléphones.",
+      "Pourquoi ? Sans lui, chaque logiciel devrait savoir piloter lui-même l'écran, le disque ou l'imprimante. Le système d'exploitation offre ce service commun à toutes les applications.",
+      "~ Exemple résolu : un agent clique sur « Imprimer » dans son traitement de texte. Le traitement de texte prépare le document ; le système d'exploitation transmet la tâche à l'imprimante et gère la file d'attente. Le premier est une application, le second un système d'exploitation.",
+      "? Microsoft Word et Excel sont-ils des systèmes d'exploitation ? || Non. Ce sont des logiciels d'application : ils servent à une tâche précise (rédiger, calculer) et fonctionnent grâce au système d'exploitation installé, par exemple Windows.",
+      "## Notion 2 : fichiers, dossiers et arborescence",
+      "Règle : un fichier est un lot d'informations portant un nom et conservé dans une mémoire ; sa taille s'exprime en octets. Un dossier, appelé répertoire dans les anciens systèmes, sert à ranger les fichiers de façon cohérente. Un dossier peut contenir d'autres dossiers : l'ensemble forme une arborescence, hiérarchie en forme d'arbre où chaque élément, sauf le premier, dépend d'un seul autre.",
+      "Pourquoi ? Comme dans une armoire de bureau, les chemises (dossiers) évitent de mélanger les pièces (fichiers). L'icône du dossier imite d'ailleurs une chemise cartonnée.",
+      "~ Exemple résolu : un secrétariat crée sur le lecteur C un dossier « Courrier », contenant « 2025 » et « 2026 » ; dans « 2026 », deux sous-dossiers : « Arrivee » et « Depart ». Chaque lettre scannée est rangée dans un seul de ces sous-dossiers.",
+      "## Notion 3 : le chemin d'accès",
+      "Règle : le chemin d'accès est le parcours que le système d'exploitation suit pour atteindre une donnée. Sous Windows, il commence par la lettre du lecteur suivie de « :\\ » (par exemple C:\\), et la barre oblique inverse « \\ » sépare les dossiers et le nom du fichier. Windows ne distingue pas les majuscules des minuscules : OSCAR, Oscar et oscar désignent le même nom.",
+      "~ Exemple résolu : C:\\Courrier\\2026\\Arrivee\\lettre_ministere.pdf. On lit : lecteur C ; dossier Courrier ; sous-dossier 2026 ; sous-dossier Arrivee ; fichier lettre_ministere, au format PDF. Le fichier se trouve directement dans le dossier Arrivee.",
+      "? Écrivez le chemin du fichier « budget.xlsx » rangé dans le dossier « Finances », lui-même dans « Direction » sur le lecteur D. || D:\\Direction\\Finances\\budget.xlsx. On part du lecteur, on descend dossier par dossier en séparant chaque niveau par « \\ », et l'on termine par le nom complet du fichier avec son extension.",
+      "## Notion 4 : les extensions",
+      "Règle : un nom de fichier Windows comprend deux parties séparées par un point : le nom, puis l'extension, de trois ou quatre caractères, qui indique le type de fichier. Elle permet à Windows de savoir quelle application ouvre le fichier et quelle icône afficher. À connaître : .docx (Word), .xlsx (Excel), .pptx (PowerPoint), .pdf (document portable), .txt (texte brut sans mise en forme), .csv (données séparées par des virgules), .jpg et .png (images), .mp3 (audio), .mp4 (vidéo), .zip (fichier compressé), .exe (programme exécutable).",
+      "! Renommer l'extension ne convertit pas le fichier : Windows l'ouvrira avec le logiciel associé à la nouvelle extension, qui risque de ne pas le lire. Pour changer de format, on utilise « Enregistrer sous » ou « Exporter ».",
+      "! Windows masque souvent les extensions des types connus. Un fichier « facture.pdf.exe » peut alors s'afficher « facture.pdf » : c'est un programme, camouflé en document. Affichez les extensions dans les options de l'Explorateur.",
+      "## Notion 5 : nommer, copier, déplacer, supprimer",
+      "Règle : un nom de fichier ne peut pas contenir les caractères réservés \\ / : * ? \" < > |, et certains noms sont réservés par Windows (CON, PRN, AUX, NUL). Raccourcis utiles : F2 renomme ; Ctrl+C copie ; Ctrl+X coupe ; Ctrl+V colle ; Ctrl+Z annule la dernière action ; Suppr envoie l'élément à la Corbeille ; Maj+Suppr le supprime définitivement, sans passer par la Corbeille.",
+      "Pourquoi ces caractères sont-ils interdits ? Parce qu'ils ont déjà un rôle : « \\ » sépare les dossiers, « : » suit la lettre du lecteur.",
+      "? Proposez un nom valide pour « Compte rendu : réunion du 3/11 ». || Par exemple « Compte rendu - reunion du 03-11.docx ». Les deux-points et la barre oblique sont interdits ; on les remplace par un tiret. Garder une date au format chiffré facilite le classement.",
+      "## Notion 6 : sauvegarder",
+      "Règle : l'ANSSI, agence française de sécurité informatique, recommande la règle « 3-2-1 » : trois copies des données (les données en service et deux sauvegardes), sur des supports différents, dont une hors ligne, c'est-à-dire sur un support déconnecté. Les sauvegardes doivent être testées régulièrement.",
+      "~ Exemple résolu : un service garde ses rapports sur l'ordinateur (copie 1), sur un serveur du ministère (copie 2) et sur un disque externe débranché après chaque sauvegarde (copie 3, hors ligne). Si un virus chiffre l'ordinateur et le serveur, le disque débranché reste intact."
+     ],
+     "retenir": [
+      "Le système d'exploitation sert d'interface entre le matériel et l'utilisateur ; exemples : Windows, macOS, Ubuntu, Android, iOS.",
+      "Word et Excel sont des logiciels d'application, qui fonctionnent grâce au système d'exploitation.",
+      "Une arborescence range dossiers et fichiers de façon hiérarchique, comme les branches d'un arbre.",
+      "Sous Windows, la barre oblique inverse « \\ » sépare les dossiers dans un chemin : C:\\Courrier\\lettre.docx.",
+      "L'extension, après le dernier point, indique le type de fichier ; la renommer ne convertit pas le fichier.",
+      "Caractères interdits dans un nom de fichier Windows : \\ / : * ? \" < > |.",
+      "Suppr envoie à la Corbeille ; Maj+Suppr supprime définitivement, sans passer par la Corbeille.",
+      "Règle 3-2-1 de l'ANSSI : trois copies, supports différents, dont une hors ligne."
+     ],
+     "exo": {
+      "tag": "niv-in03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "OQLF, Grand dictionnaire terminologique – « système d'exploitation »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358548/systeme-dexploitation"
+      },
+      {
+       "t": "OQLF, Grand dictionnaire terminologique – « dossier »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8393768/dossier"
+      },
+      {
+       "t": "OQLF, Grand dictionnaire terminologique – « arborescence »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8369503/arborescence"
+      },
+      {
+       "t": "OQLF, Grand dictionnaire terminologique – « chemin d'accès »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8364314/chemin-dacces"
+      },
+      {
+       "t": "Techno-Science.net – Fichier informatique",
+       "u": "https://www.techno-science.net/fr/definitions/fichier-informatique"
+      },
+      {
+       "t": "Microsoft Support – Extensions de nom de fichier courantes dans Windows",
+       "u": "https://support.microsoft.com/fr-fr/windows/extensions-de-nom-de-fichier-courantes-dans-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01"
+      },
+      {
+       "t": "Techno-Science.net – Extension de nom de fichier",
+       "u": "https://www.techno-science.net/fr/definitions/extension-de-nom-de-fichier"
+      },
+      {
+       "t": "Microsoft Learn – Naming Files, Paths, and Namespaces (Nommer les fichiers, chemins et espaces de noms)",
+       "u": "https://learn.microsoft.com/nl-nl/windows/win32/fileio/naming-a-file"
+      },
+      {
+       "t": "Journal du Net – Raccourcis clavier Windows : voici les plus utiles",
+       "u": "https://www.journaldunet.com/web-tech/guide-de-l-entreprise-digitale/1195383-raccourcis-clavier-windows/"
+      },
+      {
+       "t": "Blog du Modérateur – Windows : la liste des raccourcis clavier à connaître",
+       "u": "https://www.blogdumoderateur.com/raccourcis-clavier-windows/"
+      },
+      {
+       "t": "ANSSI – Fondamentaux de la sauvegarde des systèmes d'information (v1.1)",
+       "u": "https://messervices.cyber.gouv.fr/documents-guides/anssi_fondamentaux_sauvegarde_systemes_dinformation_v1.1.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261029rd05",
+     "niv": "rd05",
+     "m": "redac",
+     "verif": "methode",
+     "titre": "Le rapport administratif : constat, analyse, propositions",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez reconnaître une situation qui appelle un rapport et rédiger un rapport complet : présentation, introduction, constat, analyse, propositions et conclusion.",
+      "= Vous saurez formuler des propositions réalistes, argumentées et accompagnées de leurs moyens de mise en œuvre.",
+      "## Ce que demande l'épreuve",
+      "Le sujet décrit une situation de service (retards, pannes, plaintes d'usagers, projet à lancer) et demande d'en rendre compte à un supérieur en proposant des solutions. Le correcteur vérifie que vous avez compris la demande, que le constat est exact et objectif, que l'analyse dégage des causes, que les propositions sont réalistes et applicables, et que la présentation est soignée.",
+      "! Pièges habituels : écrire un compte rendu, qui relate sans proposer ; aligner des propositions vagues (« il faut mieux s'organiser ») ; mélanger faits et opinions dans le constat ; ajouter en conclusion une idée nouvelle ; adopter le style télégraphique.",
+      "## La méthode, pas à pas",
+      "- 1. Lisez la commande : qui demande, à qui, sur quoi, pour quelle décision ?",
+      "- 2. Classez les informations en trois colonnes : faits (constat), causes et effets (analyse), pistes (propositions).",
+      "- 3. Posez la présentation : timbre, lieu et date, titre « RAPPORT », destinataire, objet, référence de la demande.",
+      "- 4. Rédigez l'introduction : objet, origine de la demande, enjeu, annonce du contenu des parties.",
+      "- 5. Développez : constat factuel, analyse, puis propositions argumentées avec leurs moyens.",
+      "- 6. Concluez en répondant à la question posée et en rappelant la solution préconisée.",
+      "- 7. Relisez : phrases complètes, titres parlants, aucune information inventée.",
+      "~ Exemple de commande : « Le directeur vous demande un rapport sur les retards de délivrance des actes d'état civil, avec des propositions. » Destinataire : le directeur. Objet : les retards. Décision attendue : le choix de mesures. Le document attendu est bien un rapport, puisqu'il faut proposer."
+     ],
+     "fond": [
+      "## Notion 1 : le rapport, un document qui prépare une décision",
+      "Règle : le rapport expose une situation, l'analyse et propose des solutions afin de permettre à son destinataire de décider. Il répond en général à la demande d'un supérieur, mais un agent peut aussi le rédiger de sa propre initiative, par exemple pour proposer une réorganisation ou l'achat d'un matériel.",
+      "Pourquoi ? Le décideur ne connaît pas toujours le terrain. Le rapport lui apporte, en un seul document, les faits, leur explication et les options possibles.",
+      "! Différence essentielle : contrairement au compte rendu, l'auteur du rapport prend position et donne son avis. Le compte rendu relate fidèlement ; le rapport relate, juge et propose.",
+      "~ Exemple résolu : le chef du service courrier constate que des plis restent plusieurs jours sans être distribués. S'il raconte seulement la réunion où le problème a été évoqué, il rédige un compte rendu. S'il expose les retards, en cherche les causes et propose une nouvelle organisation des tournées, il rédige un rapport.",
+      "? Votre directeur vous demande « de lui faire connaître votre avis sur l'acquisition d'un nouveau photocopieur ». Quel document rédigez-vous ? || Un rapport : on vous demande un avis argumenté qui éclairera une décision d'achat. Un compte rendu se bornerait à relater des faits, sans prendre position.",
+      "## Notion 2 : la présentation et l'introduction",
+      "Règle : le rapport porte le timbre du service, le lieu et la date, le titre, le destinataire et l'objet, avec, le cas échéant, la référence de la demande. L'introduction présente l'objet du rapport, son origine, son enjeu, puis annonce le contenu précis de chaque partie, pas seulement leur ordre.",
+      "Pourquoi ? Le rapport est classé et peut être relu des mois plus tard : l'introduction doit permettre à tout lecteur de comprendre pourquoi il a été rédigé.",
+      "~ Introduction modèle, commentée : « Par note du 6 octobre, vous m'avez demandé d'examiner les causes des retards de délivrance des actes de naissance au centre d'état civil et de proposer des mesures. » → origine de la demande. « Ces retards, qui atteignent parfois trois semaines, suscitent les plaintes des usagers et retardent leurs démarches scolaires et administratives. » → enjeu. « Après avoir exposé la situation et ses causes (I), je présenterai trois mesures pour ramener le délai à une semaine (II). » → annonce du contenu des parties. Les chiffres sont ceux d'un cas fictif.",
+      "## Notion 3 : le constat, puis l'analyse",
+      "Règle : le constat décrit l'existant de façon objective et factuelle : faits datés, chiffres, procédures en vigueur. L'analyse vient ensuite : elle interprète, met en balance les points positifs et négatifs, et remonte aux causes.",
+      "Pourquoi les séparer ? Un décideur doit pouvoir distinguer ce qui est établi de ce qui est interprété. Si le constat contient déjà des jugements, il ne peut plus vérifier la solidité du raisonnement.",
+      "~ Constat : « Sur les 400 demandes reçues en septembre, 150 ont été satisfaites en plus de deux semaines. Le centre dispose de deux agents de saisie, dont un est absent depuis le 1er septembre. » Analyse : « Le retard tient d'abord au manque de personnel : un seul agent ne peut absorber le flux. La procédure manuelle de recherche dans les registres l'aggrave. » Le constat dit ce qui est ; l'analyse dit pourquoi.",
+      "? Classez ces phrases en constat ou en analyse : (a) « Le groupe électrogène est tombé en panne quatre fois en août. » (b) « Ces pannes s'expliquent par l'absence d'entretien régulier. » || (a) relève du constat : c'est un fait daté et chiffré, vérifiable. (b) relève de l'analyse : elle interprète les faits en avançant une cause.",
+      "## Notion 4 : les propositions",
+      "Règle : les propositions sont réalistes, adaptées au contexte et argumentées. Pour chacune, on précise si nécessaire les avantages, les inconvénients, les moyens nécessaires et les étapes. On les hiérarchise et l'on met en avant la solution préconisée.",
+      "Pourquoi ? Une proposition sans moyens ni calendrier ne peut pas être décidée : le supérieur devrait refaire le travail.",
+      "~ Vague : « Il faut améliorer l'accueil des usagers. » Opérationnelle : « Affecter, du 1er au 30 novembre, un agent du service courrier au guichet de l'état civil les matins de forte affluence. Avantage : délai réduit sans recrutement. Limite : le courrier devra être traité l'après-midi. »",
+      "? Transformez en proposition opérationnelle : « Il faudrait mieux entretenir le groupe électrogène. » || Par exemple : « Conclure avant la fin du mois un contrat d'entretien trimestriel avec un prestataire, imputé sur la ligne budgétaire de maintenance ; désigner un agent chargé de tenir le carnet d'entretien. » On précise l'action, le délai, le moyen financier et le responsable.",
+      "## Notion 5 : la conclusion et le style",
+      "Règle : la conclusion répond à la question posée et rappelle la solution préconisée. Elle ne résume pas tout le développement et n'ajoute aucun élément nouveau. Le texte est entièrement rédigé, en phrases courtes et claires, sans style télégraphique ; les parties portent des titres parlants ; les explications longues et les tableaux détaillés vont en annexe.",
+      "~ Conclusion : « Le retard de délivrance résulte surtout du manque de personnel. Je préconise en priorité le renfort temporaire du guichet, qui peut être décidé immédiatement, puis la numérisation progressive des registres. »"
+     ],
+     "retenir": [
+      "Le rapport expose une situation, l'analyse et propose des solutions pour permettre au destinataire de décider.",
+      "Contrairement au compte rendu, l'auteur du rapport prend position et donne son avis.",
+      "L'introduction présente l'objet, l'origine de la demande, l'enjeu, et annonce le contenu de chaque partie.",
+      "Le constat est objectif et factuel ; l'analyse interprète et remonte aux causes.",
+      "Une proposition opérationnelle précise l'action, les moyens, les étapes et ses limites.",
+      "La conclusion répond à la question posée et rappelle la solution préconisée, sans élément nouveau.",
+      "Le rapport est entièrement rédigé, sans style télégraphique ; les détails techniques vont en annexe."
+     ],
+     "exo": {
+      "tag": "niv-rd05",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Université de Batna 2 – Cours de rédaction administrative (le rapport)",
+       "u": "https://staff.univ-batna2.dz/sites/default/files/lemouchi_halima/files/la_redaction_administrative.pdf"
+      },
+      {
+       "t": "CIG Grande Couronne – Note de cadrage : le rapport avec propositions opérationnelles (2025)",
+       "u": "https://www.agirhe-concours.fr/docs/37/brochures/NOT_CadrageEpreuveEcrite_EP-RP2_202506.pdf"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "redac",
+     "src": "original",
+     "ref": "Entraînement · 29 oct. 2026",
+     "t": "Vous êtes chef du service administratif et financier d'une direction régionale. Depuis six mois, les factures des fournisseurs sont réglées avec retard et deux prestataires menacent de suspendre leurs livraisons de fournitures. Le directeur régional vous demande un rapport qui expose la situation, en analyse les causes et propose des mesures. Rédigez ce rapport (deux pages au maximum).",
+     "plan": [
+      "Présentation et introduction : timbre, lieu et date, « RAPPORT », destinataire (le directeur régional), objet ; rappel de la demande, enjeu (continuité du service, crédibilité de l'administration), annonce du contenu des deux parties.",
+      "I. Une situation qui menace la continuité du service : A. constat factuel (nombre de factures en retard, délais observés, prestataires concernés) ; B. analyse des causes (circuit de validation trop long, pièces manquantes, absence de suivi des délais).",
+      "II. Des mesures pour régler les fournisseurs dans les délais : A. mesures immédiates (traitement prioritaire des factures en souffrance, échange avec les deux prestataires) ; B. mesures durables (registre de suivi des factures, délai cible par étape, agent référent), avec moyens et calendrier.",
+      "Conclusion : réponse à la question posée et solution préconisée en priorité ; signature avec la fonction, les prénoms et le nom."
+     ]
+    }
+   ]
   }
  ]
 }
