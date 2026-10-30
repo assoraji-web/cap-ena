@@ -25040,6 +25040,992 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-30",
+   "questions": [
+    {
+     "id": "n20261030-so05-01",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Quels sont les deux temps d'une transition entre deux grandes parties ?",
+     "o": [
+      "Une citation, puis une question",
+      "Le bilan de la partie achevée, puis l'annonce de la suivante",
+      "L'annonce du plan complet, puis la problématique",
+      "Un exemple chiffré, puis une définition"
+     ],
+     "a": 1,
+     "e": "La transition dresse le bilan de ce qui vient d'être établi, puis annonce la partie suivante en montrant pourquoi elle s'impose : elle rend visible la progression du raisonnement.",
+     "ed": [
+      "Une citation suivie d'une question ne fait ni bilan ni annonce : ce n'est pas une transition.",
+      null,
+      "L'annonce du plan et la problématique appartiennent à l'introduction, pas à la transition.",
+      "Exemples et définitions relèvent de l'argumentation ou de l'introduction, non de la liaison entre parties."
+     ]
+    },
+    {
+     "id": "n20261030-so05-02",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Entre deux sous-parties d'une même partie, que suffit-il en général d'écrire ?",
+     "o": [
+      "Un paragraphe détaché de bilan et d'annonce",
+      "Une nouvelle problématique",
+      "Une phrase de liaison ou un connecteur logique",
+      "Rien du tout : les sous-parties se suivent sans liaison"
+     ],
+     "a": 2,
+     "e": "Entre sous-parties, une phrase de liaison ou un connecteur logique (« De surcroît », « Pourtant ») suffit ; le paragraphe complet de transition est réservé au passage d'une grande partie à l'autre.",
+     "ed": [
+      "Le paragraphe détaché de bilan et d'annonce est réservé aux transitions entre grandes parties.",
+      "La problématique est unique et posée en introduction ; on n'en crée pas une nouvelle en cours de copie.",
+      null,
+      "Supprimer toute liaison donne une copie juxtaposée : le lien entre les idées doit rester visible."
+     ]
+    },
+    {
+     "id": "n20261030-so05-03",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Par quoi la conclusion d'une dissertation doit-elle commencer ?",
+     "o": [
+      "Par une citation d'auteur",
+      "Par l'ouverture",
+      "Par un argument nouveau",
+      "Par un bilan qui répond à la problématique"
+     ],
+     "a": 3,
+     "e": "La conclusion commence par le bilan : elle répond nettement à la question posée en introduction, en reprenant l'apport du développement. L'ouverture vient ensuite.",
+     "ed": [
+      "Une citation n'est pas obligatoire et ne remplace jamais la réponse à la problématique.",
+      "L'ouverture vient après le bilan, jamais avant : elle prolonge une réponse déjà donnée.",
+      "Un argument nouveau n'a pas sa place en conclusion : tout doit avoir été démontré dans le développement.",
+      null
+     ]
+    },
+    {
+     "id": "n20261030-so05-04",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Quel élément est interdit dans une conclusion ?",
+     "o": [
+      "Un argument nouveau, non développé dans la copie",
+      "Une réponse nuancée à la problématique",
+      "Une ouverture en lien avec le sujet",
+      "Une reformulation de l'apport de chaque partie"
+     ],
+     "a": 0,
+     "e": "La conclusion clôt une démonstration : elle ne peut affirmer ce qui n'a pas été démontré. Un argument nouveau montre au contraire qu'il manquait quelque chose au développement.",
+     "ed": [
+      null,
+      "Une réponse nuancée est permise et souvent attendue, pourvu qu'elle tranche.",
+      "Une ouverture liée au sujet est l'élément normal de la fin de conclusion.",
+      "Reformuler l'apport de chaque partie constitue précisément le bilan."
+     ]
+    },
+    {
+     "id": "n20261030-so05-05",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Laquelle de ces phrases constitue une véritable transition ?",
+     "o": [
+      "« Passons maintenant à la deuxième partie. »",
+      "« Nous allons voir dans une deuxième partie d'autres idées. »",
+      "« Si la décentralisation rapproche l'administration des citoyens, elle se heurte encore à l'insuffisance des moyens locaux. »",
+      "« Deuxième partie : les limites. »"
+     ],
+     "a": 2,
+     "e": "Cette phrase fait le bilan (la décentralisation rapproche l'administration des citoyens) et annonce la suite en la justifiant par une limite : ce sont les deux temps de la transition.",
+     "ed": [
+      "Cette formule annonce sans relier : elle ne rappelle rien de ce qui a été établi.",
+      "« D'autres idées » n'annonce aucun contenu précis et ne fait aucun bilan.",
+      null,
+      "Un intertitre n'est pas une transition, et il n'a d'ailleurs pas sa place dans une dissertation rédigée."
+     ]
+    },
+    {
+     "id": "n20261030-so05-06",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Complétez avec le connecteur juste : « Le numérique facilite l'accès aux services publics. ___, il exclut ceux qui ne disposent pas d'un équipement. »",
+     "o": [
+      "En effet",
+      "Donc",
+      "De plus",
+      "Toutefois"
+     ],
+     "a": 3,
+     "e": "La seconde phrase oppose une limite à l'avantage énoncé : il faut un connecteur d'opposition ou de concession, comme « Toutefois ».",
+     "ed": [
+      "« En effet » introduit une justification, alors que la phrase énonce une limite.",
+      "« Donc » introduit une conséquence : l'exclusion ne découle pas de la facilité d'accès.",
+      "« De plus » ajoute un avantage, alors que la phrase énonce un inconvénient.",
+      null
+     ]
+    },
+    {
+     "id": "n20261030-so05-07",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Sur le sujet « La jeunesse est-elle une chance pour le développement ? », quelle ouverture est pertinente ?",
+     "o": [
+      "« La conquête spatiale est-elle une chance pour l'humanité ? »",
+      "« Reste à savoir si les jeunes seront davantage associés à l'élaboration des politiques qui les concernent. »",
+      "« Mais la jeunesse est-elle vraiment une chance pour le développement ? »",
+      "« Voilà pourquoi j'aime ce sujet. »"
+     ],
+     "a": 1,
+     "e": "Cette ouverture prolonge le sujet vers une question voisine, la participation des jeunes aux politiques publiques, sans remettre en cause la réponse donnée.",
+     "ed": [
+      "Cette ouverture n'a aucun lien avec le raisonnement mené : elle est artificielle.",
+      null,
+      "Reformuler la problématique annule le bilan : le correcteur croira que vous n'avez pas répondu.",
+      "Un jugement personnel sur le sujet n'est pas une ouverture et n'a pas sa place dans la copie."
+     ]
+    },
+    {
+     "id": "n20261030-so05-08",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Pourquoi est-il conseillé de rédiger la conclusion au brouillon avant de commencer la copie ?",
+     "o": [
+      "Pour être sûr d'en disposer même si le temps vient à manquer",
+      "Pour pouvoir y placer les arguments écartés du plan",
+      "Parce que la conclusion doit être plus longue que l'introduction",
+      "Parce que le correcteur lit la conclusion en premier"
+     ],
+     "a": 0,
+     "e": "Une copie sans conclusion paraît inachevée. La rédiger au brouillon dès le plan arrêté garantit qu'elle existera et qu'elle répondra bien à la problématique.",
+     "ed": [
+      null,
+      "Les arguments écartés du plan ne doivent pas resurgir en conclusion : elle n'admet aucun argument nouveau.",
+      "Rien n'impose une conclusion plus longue que l'introduction ; elle doit rester brève et dense.",
+      "Aucune règle ne dit que le correcteur lit la conclusion en premier ; la raison est d'éviter une copie inachevée."
+     ]
+    },
+    {
+     "id": "n20261030-so05-09",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Que reproche-t-on à une conclusion qui se contente de reprendre mot pour mot les titres des parties ?",
+     "o": [
+      "D'être trop originale",
+      "D'introduire une idée nouvelle",
+      "De contenir une ouverture",
+      "De ne pas répondre nettement à la problématique"
+     ],
+     "a": 3,
+     "e": "Réciter les titres revient à décrire le chemin parcouru sans dire où il mène. Le bilan doit reformuler l'apport des parties pour trancher la question posée.",
+     "ed": [
+      "Une récitation des titres est tout sauf originale : c'est son manque de réponse qui est reproché.",
+      "Reprendre les titres n'introduit justement rien de nouveau.",
+      "Le défaut décrit porte sur le bilan, pas sur la présence d'une ouverture.",
+      null
+     ]
+    },
+    {
+     "id": "n20261030-so05-10",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Dans une transition, quel connecteur introduit le mieux le bilan de la partie qui s'achève ?",
+     "o": [
+      "« Pourtant »",
+      "« Ainsi »",
+      "« En outre »",
+      "« Car »"
+     ],
+     "a": 1,
+     "e": "« Ainsi » marque la conclusion tirée de ce qui précède : il convient au bilan de la partie achevée, avant l'annonce de la suivante.",
+     "ed": [
+      "« Pourtant » marque une opposition : il sert plutôt à annoncer la limite qui ouvre la partie suivante.",
+      null,
+      "« En outre » ajoute un argument : il prolonge la partie au lieu d'en tirer le bilan.",
+      "« Car » introduit une justification, non un bilan."
+     ]
+    },
+    {
+     "id": "n20261030-so05-11",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Un candidat conclut : « En définitive, la mondialisation présente des avantages et des inconvénients. » Quel est le principal défaut de ce bilan ?",
+     "o": [
+      "Il est trop long",
+      "Il contient un connecteur",
+      "Il ne tranche pas : il n'apporte pas de réponse argumentée à la problématique",
+      "Il emploie le mot « mondialisation »"
+     ],
+     "a": 2,
+     "e": "Constater des avantages et des inconvénients est une évidence, non une réponse. Le bilan doit dire comment ils s'articulent et quelle réponse le développement permet de donner.",
+     "ed": [
+      "La phrase est au contraire très courte : son défaut est d'être creuse, pas d'être longue.",
+      "Employer un connecteur comme « En définitive » est normal en conclusion.",
+      null,
+      "Reprendre les termes du sujet est légitime ; le défaut est l'absence de réponse."
+     ]
+    },
+    {
+     "id": "n20261030-so05-12",
+     "m": "sog",
+     "tag": "niv-so05",
+     "verif": "methode",
+     "q": "Pourquoi une ouverture qui reformule la problématique (« Mais la jeunesse est-elle vraiment une chance ? ») est-elle maladroite ?",
+     "o": [
+      "Parce qu'une ouverture doit toujours être une citation",
+      "Parce qu'elle laisse penser que le candidat n'a pas répondu à la question",
+      "Parce qu'une conclusion ne doit jamais comporter de question",
+      "Parce qu'elle est trop courte"
+     ],
+     "a": 1,
+     "e": "Reposer la question du sujet juste après le bilan annule la réponse donnée : le correcteur en déduit que la copie n'a pas tranché. L'ouverture doit porter sur une question voisine.",
+     "ed": [
+      "Une citation n'est jamais obligatoire dans une ouverture.",
+      null,
+      "Une ouverture peut prendre la forme d'une question, si celle-ci porte sur un sujet voisin et pertinent.",
+      "La brièveté n'est pas en cause : le problème est qu'elle remet en doute la réponse."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-01",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Elles se sont ___ de leurs fautes devant le conseil. » (repentir)",
+     "o": [
+      "repenties",
+      "repenti",
+      "repentie",
+      "repentis"
+     ],
+     "a": 0,
+     "e": "« Se repentir » n'existe qu'à la forme pronominale : le participe s'accorde avec le sujet « elles », féminin pluriel, d'où « repenties ».",
+     "ed": [
+      null,
+      "Le verbe est essentiellement pronominal : il faut accorder avec le sujet féminin pluriel, pas laisser invariable.",
+      "Le sujet « elles » est au pluriel : le singulier « repentie » est fautif.",
+      "« Repentis » est masculin alors que le sujet « elles » est féminin."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-02",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Lequel de ces verbes est essentiellement pronominal ?",
+     "o": [
+      "se laver",
+      "se parler",
+      "s'évanouir",
+      "se vendre"
+     ],
+     "a": 2,
+     "e": "« S'évanouir » n'existe pas sans « se » : on ne dit pas « évanouir quelqu'un ». C'est la marque d'un verbe essentiellement pronominal.",
+     "ed": [
+      "« Laver » existe sans « se » (laver un vêtement) : « se laver » est un pronominal réfléchi.",
+      "« Parler » existe sans « se » (parler à quelqu'un) : « se parler » est un pronominal réciproque.",
+      null,
+      "« Vendre » existe sans « se » : « se vendre » est un pronominal de sens passif."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-03",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Après le match, elle s'est ___ les mains. » (laver)",
+     "o": [
+      "lavée",
+      "lavés",
+      "lavé",
+      "lavées"
+     ],
+     "a": 2,
+     "e": "Avec « avoir » : elle a lavé quoi ? « les mains », COD placé après le participe. « S' » est COI (à elle-même) : le participe reste invariable.",
+     "ed": [
+      "« Lavée » accorderait avec « s' », qui n'est pas COD ici : le COD est « les mains », placé après.",
+      "Le COD « les mains » est placé après le participe : aucun accord avec lui, et il est d'ailleurs féminin.",
+      null,
+      "Le COD « les mains » est placé après le participe : l'accord au féminin pluriel est fautif."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-04",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Trois directeurs se sont ___ à la tête du service en cinq ans. » (succéder)",
+     "o": [
+      "succédés",
+      "succédées",
+      "succédée",
+      "succédé"
+     ],
+     "a": 3,
+     "e": "On succède « à » quelqu'un : « se » est un COI et le verbe n'a pas de COD. Le participe « succédé » reste donc invariable.",
+     "ed": [
+      "Accorder avec « directeurs » revient à traiter « se » comme un COD, alors qu'on succède à quelqu'un.",
+      "Aucun accord n'est possible faute de COD, et le féminin ne correspond même pas au sujet.",
+      "Aucun accord n'est possible faute de COD : le participe reste au masculin singulier.",
+      null
+     ]
+    },
+    {
+     "id": "n20261030-fr08-05",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Quelle phrase est correctement orthographiée ?",
+     "o": [
+      "Ces terrains se sont vendu en une semaine.",
+      "Ces terrains se sont vendus en une semaine.",
+      "Ces parcelles se sont vendu en une semaine.",
+      "Ces parcelles se sont vendue en une semaine."
+     ],
+     "a": 1,
+     "e": "« Se vendre » a ici un sens passif (« ont été vendus ») : le participe s'accorde avec le sujet « ces terrains », masculin pluriel.",
+     "ed": [
+      "Au sens passif, le participe s'accorde avec le sujet : « vendu » sans « s » est fautif.",
+      null,
+      "Au sens passif, il faut accorder avec « parcelles » : « vendues ».",
+      "Le sujet « ces parcelles » est au pluriel : « vendue » au singulier est fautif."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-06",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Les deux chefs se sont ___ des pouvoirs exceptionnels. » (arroger)",
+     "o": [
+      "arrogés",
+      "arrogé",
+      "arrogées",
+      "arrogée"
+     ],
+     "a": 1,
+     "e": "« S'arroger » est la seule exception des essentiellement pronominaux : il s'accorde avec le COD placé avant. Ici le COD « des pouvoirs » est placé après, donc « arrogé ».",
+     "ed": [
+      "Accorder avec le sujet est la faute classique : « s'arroger » suit la règle du COD, placé ici après.",
+      null,
+      "Le COD « des pouvoirs » est après le participe et il est masculin : aucun accord féminin pluriel.",
+      "Le COD est placé après le participe : aucun accord, a fortiori pas au féminin singulier."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-07",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « La lettre qu'ils se sont ___ a été rendue publique. » (écrire)",
+     "o": [
+      "écrit",
+      "écrits",
+      "écrite",
+      "écrites"
+     ],
+     "a": 2,
+     "e": "Ils ont écrit quoi ? « que », mis pour « la lettre », COD féminin singulier placé avant le participe : accord, « écrite ». « Se » est COI (écrire à quelqu'un).",
+     "ed": [
+      "Le COD « que » (la lettre) est placé avant : l'accord est obligatoire.",
+      "« Écrits » accorderait avec « ils », qui n'est pas le COD : le COD est « la lettre ».",
+      null,
+      "Le COD « la lettre » est au singulier : le pluriel « écrites » est fautif."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-08",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « La candidate s'est ___ appeler par le président du jury. » (entendre)",
+     "o": [
+      "entendue",
+      "entendus",
+      "entendues",
+      "entendu"
+     ],
+     "a": 3,
+     "e": "Devant un infinitif, on accorde seulement si le sujet fait l'action. Ici, la candidate n'appelle pas : on l'appelle. Le participe reste invariable.",
+     "ed": [
+      "L'accord supposerait que la candidate fasse l'action d'appeler, ce qui n'est pas le cas.",
+      "Le sujet est féminin singulier et aucun accord n'est dû : « entendus » est doublement fautif.",
+      "Le sujet est au singulier et l'accord n'est pas dû : « entendues » est fautif.",
+      null
+     ]
+    },
+    {
+     "id": "n20261030-fr08-09",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Les deux jeunes gens se sont ___ dès leur première rencontre. » (plaire)",
+     "o": [
+      "plu",
+      "plus",
+      "plue",
+      "plues"
+     ],
+     "a": 0,
+     "e": "On plaît « à » quelqu'un : « se » est COI. « Se plaire » fait partie des participes toujours invariables, comme « se sont succédé » ou « se sont souri ».",
+     "ed": [
+      null,
+      "Aucun accord n'est possible : « se » est un COI et le verbe n'a pas de COD.",
+      "Le participe de « se plaire » est invariable ; de plus le sujet est masculin pluriel.",
+      "Le participe de « se plaire » est invariable : l'accord au féminin pluriel est fautif."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-10",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Elles se sont ___ trop tard de la supercherie. » (apercevoir)",
+     "o": [
+      "aperçu",
+      "aperçue",
+      "aperçues",
+      "aperçus"
+     ],
+     "a": 2,
+     "e": "« S'apercevoir de » change de sens à la forme pronominale (se rendre compte) ; son « se » n'est pas analysable et l'on accorde avec le sujet « elles » : aperçues.",
+     "ed": [
+      "Le participe s'accorde avec le sujet « elles » : la forme invariable est fautive.",
+      "Le sujet « elles » est pluriel : le singulier est fautif.",
+      null,
+      "« Aperçus » est masculin alors que le sujet « elles » est féminin."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-11",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Les deux équipes se sont ___ en finale. » (rencontrer)",
+     "o": [
+      "rencontré",
+      "rencontrées",
+      "rencontrés",
+      "rencontrée"
+     ],
+     "a": 1,
+     "e": "Pronominal réciproque : on rencontre quelqu'un, donc « se » (les équipes l'une l'autre) est COD, placé avant le participe. Accord au féminin pluriel : rencontrées.",
+     "ed": [
+      "« Se » est ici COD placé avant : le participe doit s'accorder.",
+      null,
+      "Le COD « se » représente « les équipes », féminin : « rencontrés » est fautif.",
+      "Le COD représente deux équipes : il faut le pluriel."
+     ]
+    },
+    {
+     "id": "n20261030-fr08-12",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Les associées se sont ___ de nombreux reproches. » (faire)",
+     "o": [
+      "faites",
+      "faits",
+      "fait",
+      "faite"
+     ],
+     "a": 2,
+     "e": "Elles ont fait quoi ? « de nombreux reproches », COD placé après le participe. « Se » est COI (l'une à l'autre) : le participe reste invariable.",
+     "ed": [
+      "Accorder avec le sujet est le piège : le COD « reproches » est placé après le participe.",
+      "Le COD « reproches » est placé après : aucun accord avec lui n'est possible.",
+      null,
+      "Ni le sujet ni le COD placé après ne commandent l'accord ici."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-01",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "90*2.5",
+     "q": "Un minibus roule à 90 km/h pendant 2 h 30 min. Quelle distance parcourt-il ?",
+     "o": [
+      "180 km",
+      "207 km",
+      "225 km",
+      "250 km"
+     ],
+     "a": 2,
+     "e": "2 h 30 min = 2,5 h. Distance = vitesse × temps = 90 × 2,5 = 225 km.",
+     "ed": [
+      "180 km correspond à 2 h seulement : les 30 minutes ont été oubliées.",
+      "207 km provient de 90 × 2,3 : 2 h 30 min a été lu comme 2,3 h.",
+      null,
+      "250 km supposerait une vitesse de 100 km/h ou une durée de 2 h 47 min environ."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-02",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "72/3.6",
+     "q": "Exprimée en mètres par seconde, une vitesse de 72 km/h vaut :",
+     "o": [
+      "20 m/s",
+      "7,2 m/s",
+      "25 m/s",
+      "72 m/s"
+     ],
+     "a": 0,
+     "e": "Pour passer des km/h aux m/s, on divise par 3,6 : 72 ÷ 3,6 = 20 m/s. Vérification : 20 m/s × 3 600 s = 72 000 m par heure.",
+     "ed": [
+      null,
+      "7,2 m/s provient d'une division par 10 : le bon diviseur est 3,6.",
+      "25 m/s correspond à 90 km/h (90 ÷ 3,6).",
+      "72 m/s reprend le nombre sans convertir : 72 m/s font environ 259 km/h."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-03",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "150/(100/60)",
+     "q": "Une voiture parcourt 150 km en 1 h 40 min. Quelle est sa vitesse moyenne ?",
+     "o": [
+      "88 km/h",
+      "90 km/h",
+      "107 km/h",
+      "100 km/h"
+     ],
+     "a": 1,
+     "e": "1 h 40 min = 100 min = 100/60 h. Vitesse = 150 ÷ (100/60) = 150 × 60 ÷ 100 = 90 km/h.",
+     "ed": [
+      "88 km/h environ provient de 150 ÷ 1,7 : on a pris 1 h 40 min pour 1,7 h.",
+      null,
+      "107 km/h environ provient de 150 ÷ 1,4 : 40 minutes ont été lues comme 0,4 h.",
+      "100 km/h supposerait un trajet de 1 h 30 min."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-04",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "210/84*60",
+     "q": "Combien de temps faut-il pour parcourir 210 km à la vitesse constante de 84 km/h ?",
+     "o": [
+      "125 minutes",
+      "170 minutes",
+      "24 minutes",
+      "150 minutes"
+     ],
+     "a": 3,
+     "e": "Temps = distance ÷ vitesse = 210 ÷ 84 = 2,5 h, soit 2,5 × 60 = 150 minutes (2 h 30 min).",
+     "ed": [
+      "125 minutes correspond à 2 h 05 min : 2,5 h a été lu comme « 2 h 5 ».",
+      "170 minutes correspond à 2 h 50 min : 2,5 h a été lu comme « 2 h 50 ».",
+      "24 minutes provient de la division inversée 84 ÷ 210 = 0,4 h : c'est la distance qu'on divise par la vitesse.",
+      null
+     ]
+    },
+    {
+     "id": "n20261030-lo06-05",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "300/(70+80)",
+     "q": "Deux villes sont distantes de 300 km. Une voiture part de chaque ville au même moment, l'une vers l'autre, à 70 km/h et 80 km/h. Au bout de combien de temps se croisent-elles ?",
+     "o": [
+      "4 heures",
+      "2 heures",
+      "3 heures",
+      "20 heures"
+     ],
+     "a": 1,
+     "e": "Face à face, les voitures se rapprochent à 70 + 80 = 150 km/h. Temps = 300 ÷ 150 = 2 heures.",
+     "ed": [
+      "4 heures correspond à 300 ÷ 75 : on a pris la moyenne des vitesses au lieu de leur somme.",
+      null,
+      "3 heures supposerait une vitesse de rapprochement de 100 km/h.",
+      "20 heures provient de 300 ÷ (80 − 70) : on soustrait les vitesses seulement quand les mobiles vont dans le même sens."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-06",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "70*300/(70+80)",
+     "q": "Même situation : 300 km, départs simultanés à 70 km/h (depuis A) et 80 km/h (depuis B). À quelle distance de A se croisent-elles ?",
+     "o": [
+      "150 km",
+      "160 km",
+      "140 km",
+      "130 km"
+     ],
+     "a": 2,
+     "e": "La rencontre a lieu au bout de 300 ÷ 150 = 2 h. La voiture partie de A a parcouru 70 × 2 = 140 km. Vérification : 80 × 2 = 160 km, et 140 + 160 = 300 km.",
+     "ed": [
+      "150 km est le milieu du trajet : il ne convient que si les deux vitesses sont égales.",
+      "160 km est la distance parcourue par la voiture partie de B, donc la distance à B.",
+      null,
+      "130 km ne correspond à aucun calcul cohérent : 130 + 170 supposerait des vitesses de 65 et 85 km/h."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-07",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "15/(45-15)*60",
+     "q": "Un cycliste part à 8 h à 15 km/h. Une moto part du même point à 9 h, sur la même route, à 45 km/h. Combien de minutes après son départ la moto rattrape-t-elle le cycliste ?",
+     "o": [
+      "30 minutes",
+      "20 minutes",
+      "60 minutes",
+      "15 minutes"
+     ],
+     "a": 0,
+     "e": "À 9 h, le cycliste a 15 km d'avance. La moto gagne 45 − 15 = 30 km par heure. Temps = 15 ÷ 30 = 0,5 h = 30 minutes, soit à 9 h 30.",
+     "ed": [
+      null,
+      "20 minutes provient de 15 ÷ 45 : on a oublié que le cycliste continue d'avancer.",
+      "60 minutes suppose que la moto gagne seulement 15 km par heure.",
+      "15 minutes provient de 15 ÷ (45 + 15) : on additionne les vitesses seulement pour des mobiles face à face."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-08",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "2*60*40/(60+40)",
+     "q": "Un agent fait l'aller à 60 km/h et le retour, sur la même route, à 40 km/h. Quelle est sa vitesse moyenne sur l'ensemble du trajet ?",
+     "o": [
+      "50 km/h",
+      "45 km/h",
+      "52 km/h",
+      "48 km/h"
+     ],
+     "a": 3,
+     "e": "Vitesse moyenne d'un aller-retour = 2 × v1 × v2 ÷ (v1 + v2) = 2 × 60 × 40 ÷ 100 = 48 km/h. Le retour, plus lent, dure plus longtemps et pèse davantage.",
+     "ed": [
+      "50 km/h est la moyenne arithmétique des vitesses : c'est le piège classique, car le temps passé à 40 km/h est plus long.",
+      "45 km/h ne correspond à aucun calcul valable : sur 120 km aller-retour, le temps total est de 2,5 h, d'où 48 km/h.",
+      "52 km/h est supérieur à la moyenne arithmétique, alors que la vraie vitesse moyenne lui est inférieure.",
+      null
+     ]
+    },
+    {
+     "id": "n20261030-lo06-09",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "6*3/(6+3)",
+     "q": "Le robinet A remplit une cuve en 6 heures, le robinet B en 3 heures. Ouverts ensemble, en combien d'heures la remplissent-ils ?",
+     "o": [
+      "4,5 heures",
+      "2 heures",
+      "9 heures",
+      "3 heures"
+     ],
+     "a": 1,
+     "e": "Par heure : 1/6 + 1/3 = 1/6 + 2/6 = 1/2 de la cuve. Ensemble, ils la remplissent en 2 heures (raccourci : 6 × 3 ÷ 9 = 2).",
+     "ed": [
+      "4,5 heures est la moyenne des temps : deux robinets ensemble vont plus vite que le plus rapide seul.",
+      null,
+      "9 heures additionne les temps, ce qui n'a aucun sens : ce sont les débits qui s'additionnent.",
+      "3 heures est le temps du robinet B seul : l'apport de A est oublié."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-10",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "4*6/(6-4)",
+     "q": "Un robinet remplit un bassin en 4 heures ; une vidange ouverte le vide en 6 heures. Les deux étant ouverts, en combien d'heures le bassin vide est-il rempli ?",
+     "o": [
+      "2 heures",
+      "2,4 heures",
+      "10 heures",
+      "12 heures"
+     ],
+     "a": 3,
+     "e": "Par heure : 1/4 − 1/6 = 3/12 − 2/12 = 1/12 du bassin. Il faut donc 12 heures (raccourci : 4 × 6 ÷ (6 − 4) = 12).",
+     "ed": [
+      "2 heures est la différence des temps : ce sont les fractions remplies par heure qu'il faut soustraire.",
+      "2,4 heures est le temps obtenu si les deux appareils remplissaient : la vidange retire de l'eau.",
+      "10 heures additionne les temps, ce qui n'a aucun sens.",
+      null
+     ]
+    },
+    {
+     "id": "n20261030-lo06-11",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "1200/15",
+     "q": "Une pompe débite 15 litres par minute. Combien de minutes faut-il pour remplir une cuve de 1 200 litres ?",
+     "o": [
+      "80 minutes",
+      "18 minutes",
+      "120 minutes",
+      "800 minutes"
+     ],
+     "a": 0,
+     "e": "Temps = volume ÷ débit = 1 200 ÷ 15 = 80 minutes, soit 1 h 20 min. Vérification : 15 × 80 = 1 200 litres.",
+     "ed": [
+      null,
+      "18 minutes ne correspond à aucun calcul valable : 15 × 18 ne donne que 270 litres.",
+      "120 minutes supposerait un débit de 10 litres par minute.",
+      "800 minutes provient d'une erreur de division (1 200 ÷ 1,5)."
+     ]
+    },
+    {
+     "id": "n20261030-lo06-12",
+     "m": "log",
+     "tag": "niv-lo06",
+     "verif": "calcul",
+     "calc": "(200+400)/(72/3.6)",
+     "q": "Un train de 200 m roule à 72 km/h. Combien de secondes lui faut-il pour franchir entièrement un pont de 400 m ?",
+     "o": [
+      "20 secondes",
+      "10 secondes",
+      "30 secondes",
+      "33 secondes"
+     ],
+     "a": 2,
+     "e": "72 km/h = 72 ÷ 3,6 = 20 m/s. Le train doit parcourir 400 + 200 = 600 m pour sortir entièrement du pont : 600 ÷ 20 = 30 secondes.",
+     "ed": [
+      "20 secondes ne tient compte que du pont (400 ÷ 20) : la longueur du train est oubliée.",
+      "10 secondes ne tient compte que de la longueur du train (200 ÷ 20).",
+      null,
+      "33 secondes environ provient d'une conversion fautive de la vitesse (600 ÷ 18)."
+     ]
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261030so05",
+     "niv": "so05",
+     "m": "sog",
+     "verif": "methode",
+     "titre": "Transitions et conclusion",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez rédiger des transitions qui font le bilan d'une partie et annoncent la suivante, et relier vos sous-parties sans rupture.",
+      "= Vous saurez écrire une conclusion qui répond nettement à la problématique, puis l'ouvrir sur une perspective pertinente.",
+      "## Ce que demande l'épreuve",
+      "Le correcteur lit des dizaines de copies. Il juge d'abord la cohérence : l'argumentation progresse-t-elle, les parties s'enchaînent-elles, la copie répond-elle à la question posée ? Les transitions rendent ce fil visible ; la conclusion en est la preuve finale. Une copie sans transitions ressemble à une juxtaposition de fiches ; une copie sans conclusion paraît inachevée, quelle que soit la qualité du développement.",
+      "! Pièges habituels : passer d'une partie à l'autre sans aucune phrase de liaison ; conclure par un simple résumé des titres ; introduire en conclusion un argument nouveau ; terminer par une question vague, sans lien avec le sujet.",
+      "## La méthode, pas à pas",
+      "- 1. Au brouillon, dès que le plan est arrêté, écrivez la réponse à la problématique en une ou deux phrases : ce sera le cœur de la conclusion.",
+      "- 2. Rédigez aussi au brouillon la conclusion entière, avant de commencer la copie : vous ne serez jamais pris de court.",
+      "- 3. Entre deux grandes parties, écrivez une transition en deux temps : bilan de la partie achevée, puis annonce de la suivante, en montrant pourquoi elle est nécessaire.",
+      "- 4. Entre deux sous-parties, une phrase ou un connecteur logique suffit (« De surcroît », « Pourtant », « Dès lors »).",
+      "- 5. Conclusion : bilan qui répond à la problématique, puis ouverture qui prolonge la réflexion.",
+      "- 6. Relisez : chaque transition annonce-t-elle bien ce qui suit ? la conclusion répond-elle à la question de l'introduction ?",
+      "~ Repère : relisez votre problématique puis votre conclusion à la suite. Si la seconde ne répond pas à la première, la copie manque son but."
+     ],
+     "fond": [
+      "## Notion 1 : la transition entre deux grandes parties",
+      "Règle : la transition est un court paragraphe, détaché, placé entre deux parties. Elle comporte deux temps : un bilan de la partie qui s'achève, puis l'annonce de la partie suivante.",
+      "Pourquoi ? Elle montre au correcteur que votre raisonnement avance : la deuxième partie ne s'ajoute pas à la première, elle en découle ou la nuance.",
+      "~ Exemple commenté, sur le sujet « La jeunesse est-elle une chance pour le développement ? » : « Ainsi, par son dynamisme et sa capacité d'innovation, la jeunesse constitue un atout considérable pour le développement. » → bilan de la première partie. « Encore faut-il que cette énergie trouve à s'employer : faute de formation et d'emplois, cet atout peut se muer en source de tensions. » → annonce de la deuxième partie, justifiée par une limite de la première.",
+      "! Une transition n'est pas un simple « Passons maintenant à la deuxième partie ». Cette formule annonce sans relier : elle ne dit ni ce qui a été établi, ni pourquoi la suite s'impose.",
+      "? Remettez dans l'ordre les deux phrases de cette transition : (a) « Mais ces textes ne suffisent pas si leur application reste défaillante. » (b) « Le cadre juridique de la protection de l'environnement est donc désormais étoffé. » || L'ordre est (b) puis (a). La transition commence par le bilan de la partie achevée (b, introduit par « donc »), puis annonce la partie suivante en montrant une limite (a, introduite par « Mais »).",
+      "## Notion 2 : les transitions internes et les connecteurs",
+      "Règle : entre deux sous-parties, une phrase de liaison ou un connecteur logique suffit. Le connecteur doit exprimer le vrai rapport entre les idées.",
+      "Pourquoi ? Un connecteur mal choisi trahit une pensée confuse : écrire « En effet » devant une objection, c'est dire le contraire de ce que l'on veut dire.",
+      "- Addition : de plus, en outre, de surcroît, par ailleurs.",
+      "- Opposition ou concession : cependant, pourtant, toutefois, certes… mais.",
+      "- Conséquence : donc, ainsi, dès lors, par conséquent.",
+      "- Cause ou justification : en effet, car, puisque.",
+      "~ « La décentralisation rapproche l'administration des citoyens. Pourtant, sans ressources suffisantes, les collectivités peinent à exercer leurs compétences. » « Pourtant » marque bien l'opposition entre un avantage et une limite.",
+      "? Quel connecteur convient : « Le numérique facilite l'accès aux services publics. ___, il exclut ceux qui ne disposent ni d'un équipement ni d'une formation. » || « Cependant » ou « Toutefois » : la seconde phrase oppose une limite à l'avantage énoncé dans la première. « En effet » (justification) ou « Donc » (conséquence) fausseraient le raisonnement.",
+      "## Notion 3 : le bilan de la conclusion",
+      "Règle : la conclusion commence par un bilan qui répond clairement à la problématique posée en introduction. Elle reformule l'apport de chaque partie en une phrase et tranche.",
+      "Pourquoi ? Le sujet pose une question ; le correcteur attend une réponse. Une conclusion qui se contente de réciter les titres montre que le candidat a parcouru le sujet sans le dominer.",
+      "~ Bilan modèle sur le même sujet : « La jeunesse est bien une chance pour le développement, par son nombre, son énergie et sa créativité. Mais cette chance n'est pas acquise : elle ne se réalise que si l'État et ses partenaires investissent dans la formation, l'emploi et la participation des jeunes. » → réponse nuancée mais nette à la question « est-elle une chance ? ».",
+      "! La conclusion n'introduit aucun argument nouveau : tout ce qui y figure a été démontré dans le développement.",
+      "## Notion 4 : l'ouverture",
+      "Règle : l'ouverture prolonge la réflexion vers une question voisine, plus large ou à venir, en lien direct avec le sujet traité.",
+      "Pourquoi ? Elle montre que le candidat situe le sujet dans un ensemble plus vaste. Mais elle n'est utile que si elle est pertinente ; une ouverture artificielle affaiblit la fin de la copie.",
+      "~ Ouverture pertinente : « Reste à savoir si les jeunes, au-delà de l'emploi, seront davantage associés à l'élaboration des politiques qui les concernent. » → elle prolonge le sujet vers la participation citoyenne.",
+      "~ Ouverture artificielle : « Et la conquête spatiale, est-elle une chance pour l'humanité ? » → aucun lien avec le raisonnement mené.",
+      "! Une ouverture qui reformule la problématique elle-même (« Mais la jeunesse est-elle vraiment une chance ? ») annule le bilan : elle laisse croire que le candidat n'a pas répondu.",
+      "? Proposez une ouverture pour une dissertation qui conclut que « l'emploi des jeunes passe d'abord par une formation adaptée aux besoins de l'économie ». || Par exemple : « Cette adaptation suppose un dialogue durable entre l'école et l'entreprise ; reste à en définir les formes. » L'ouverture prolonge la conclusion vers une question voisine (les relations école-entreprise) sans remettre en cause la réponse donnée."
+     ],
+     "retenir": [
+      "Une transition entre deux parties comprend deux temps : le bilan de la partie achevée, puis l'annonce justifiée de la partie suivante.",
+      "Entre deux sous-parties, une phrase de liaison ou un connecteur logique exact suffit.",
+      "« Pourtant », « cependant », « toutefois » opposent ; « donc », « ainsi », « dès lors » concluent ; « en effet » justifie.",
+      "La conclusion commence par un bilan qui répond clairement à la problématique posée en introduction.",
+      "La conclusion n'introduit jamais d'argument nouveau : tout ce qu'elle affirme a été démontré dans le développement.",
+      "L'ouverture prolonge la réflexion vers une question voisine, en lien direct avec le sujet ; elle ne reformule pas la problématique.",
+      "Rédigez la conclusion au brouillon avant de commencer la copie, pour ne jamais en être privé faute de temps."
+     ],
+     "exo": {
+      "tag": "niv-so05",
+      "n": 12
+     }
+    },
+    {
+     "id": "L20261030fr08",
+     "niv": "fr08",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Le participe passé des verbes pronominaux",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez accorder sans hésiter le participe passé de tout verbe pronominal : « elles se sont lavées », « elles se sont lavé les mains », « ils se sont succédé ».",
+      "= Vous saurez reconnaître en quelques secondes les quatre familles de verbes pronominaux et appliquer à chacune la bonne règle.",
+      "## Ce que demande le concours",
+      "Les QCM de français de la présélection proposent souvent une phrase à trou avec quatre graphies du même participe : « se sont succédé / succédés / succédées / succédée ». Une seule est juste. Le piège habituel consiste à accorder par réflexe avec le sujet, parce que l'auxiliaire est « être ». Or, pour la plupart des verbes pronominaux, ce réflexe est faux. Avec un barème qui retire un point par erreur, il faut une méthode sûre plutôt qu'une impression.",
+      "## La méthode, pas à pas",
+      "- 1. Le verbe existe-t-il sans « se » avec le même sens ? Si non (s'évanouir, se souvenir, s'enfuir), il est essentiellement pronominal : accordez avec le sujet.",
+      "- 2. La phrase a-t-elle un sens passif (« ces maisons se sont vendues » = ont été vendues) ? Accordez avec le sujet.",
+      "- 3. Sinon, remplacez mentalement « être » par « avoir » : « elle s'est lavée » devient « elle a lavé elle-même ».",
+      "- 4. Cherchez le COD en posant la question « quoi ? » ou « qui ? » après le participe.",
+      "- 5. Si le COD est placé avant le participe (souvent le pronom « se » lui-même, ou « que »), accordez avec lui. S'il est placé après, ou s'il n'y a pas de COD, laissez le participe invariable.",
+      "- 6. Vérifiez les verbes qui se construisent avec « à » (parler à, plaire à, succéder à) : leur « se » n'est jamais COD, le participe reste invariable."
+     ],
+     "fond": [
+      "## Notion 1 : les verbes essentiellement pronominaux",
+      "Règle : un verbe essentiellement pronominal n'existe qu'à la forme pronominale. On ne peut pas dire « évanouir quelqu'un » ni « souvenir quelque chose ». Son participe passé s'accorde avec le sujet.",
+      "Pourquoi ? Le pronom « se » fait corps avec le verbe ; il n'a pas de fonction propre. Le participe se comporte donc comme avec l'auxiliaire « être » ordinaire.",
+      "Exemples courants : s'abstenir, s'absenter, s'écrier, s'emparer, s'empresser, s'enfuir, s'évanouir, se méfier, se repentir, se souvenir.",
+      "~ « Les témoins se sont enfuis. » « S'enfuir » n'existe pas sans « se » : accord avec le sujet « les témoins », masculin pluriel → enfuis. « Les candidates se sont abstenues de répondre » → abstenues.",
+      "! Exception unique : « s'arroger » (s'attribuer un droit). Il suit la règle du COD : « Ils se sont arrogé des pouvoirs » (COD « des pouvoirs » après → invariable), mais « les pouvoirs qu'ils se sont arrogés » (COD « que » avant → accord).",
+      "? Accordez : « Les élèves se sont (souvenir) de la consigne. » || Souvenus. « Se souvenir » n'existe pas sans « se » : il est essentiellement pronominal, on accorde avec le sujet « les élèves », masculin pluriel.",
+      "## Notion 2 : les verbes réfléchis et réciproques",
+      "Règle : quand le verbe existe aussi sans « se » (laver, blesser, regarder, écrire, rencontrer), on remplace « être » par « avoir » et on applique la règle du participe avec avoir : accord avec le COD seulement s'il est placé avant.",
+      "Pourquoi ? Dans « elle s'est lavée », le pronom « se » a une vraie fonction : il représente la personne qui subit l'action. C'est lui qui joue le rôle de COD.",
+      "~ « Elle s'est lavée. » Elle a lavé qui ? « s' » (elle-même), placé avant → lavée.",
+      "~ « Elle s'est lavé les mains. » Elle a lavé quoi ? « les mains », placé après. « S' » signifie « à elle-même » : c'est un COI → lavé, invariable.",
+      "~ « Les mains qu'elle s'est lavées. » Elle a lavé quoi ? « que », mis pour « les mains », placé avant → lavées.",
+      "~ Réciproque : « Les deux délégations se sont rencontrées. » On rencontre quelqu'un : « se » est COD, placé avant → rencontrées.",
+      "! Correct ou fautif côte à côte : « Elles se sont fait des reproches » (correct : COD après) / « Elles se sont faites des reproches » (fautif).",
+      "? Accordez : « Les lettres qu'ils se sont (écrire) étaient longues. » || Écrites. Ils ont écrit quoi ? « que », mis pour « les lettres » (féminin pluriel), placé avant. « Se » est ici COI (écrire à quelqu'un).",
+      "## Notion 3 : les verbes construits avec « à » : se sont succédé, se sont plu",
+      "Règle : certains verbes ne peuvent pas avoir de COD ; ils se construisent avec « à » (succéder à, plaire à, parler à, nuire à, sourire à, mentir à, ressembler à, suffire à, téléphoner à). À la forme pronominale, « se » signifie « à soi » ou « l'un à l'autre » : c'est un COI. Le participe reste toujours invariable.",
+      "Pourquoi ? Sans COD, la règle de l'auxiliaire avoir ne permet aucun accord.",
+      "~ « Les présidents se sont succédé à la tête de l'institution. » On succède à quelqu'un : « se » est COI → succédé.",
+      "~ « Ils se sont plu dès leur rencontre » ; « elles se sont souri » ; « ils se sont nui » ; « elles se sont ressemblé ». Tous invariables.",
+      "! « Se plaire », « se déplaire » et « se complaire » restent invariables même au sens de « trouver du plaisir » : « Elles se sont plu à Bouaké. »",
+      "? Accordez : « Les deux ministres se sont (parler) longuement. » || Parlé. On parle à quelqu'un : « se » est COI et il n'y a pas de COD, donc le participe reste invariable.",
+      "## Notion 4 : sens passif, verbes subjectifs et verbes suivis d'un infinitif",
+      "Règle 1 : au sens passif, le participe s'accorde avec le sujet. « Ces terrains se sont vendus rapidement » signifie « ont été vendus ».",
+      "Règle 2 : certains verbes changent de sens à la forme pronominale (s'apercevoir de, se douter de, se taire, se servir de) ; leur « se » n'est pas analysable. On accorde avec le sujet : « Elles se sont aperçues de leur erreur. »",
+      "Règle 3 : devant un infinitif, on accorde seulement si le sujet fait l'action de l'infinitif. « Elle s'est sentie mourir » (c'est elle qui meurt) ; « elle s'est entendu appeler » (elle n'appelle pas, on l'appelle).",
+      "! « Fait » suivi d'un infinitif reste toujours invariable : « elle s'est fait opérer ». Depuis les rectifications orthographiques de 1990, « laissé » suivi d'un infinitif peut aussi rester invariable.",
+      "~ « La réunion s'est tenue à Abidjan. » Sens passif (« a été tenue ») : accord avec « la réunion » → tenue."
+     ],
+     "retenir": [
+      "Verbe essentiellement pronominal (s'enfuir, se souvenir, s'évanouir) : le participe passé s'accorde avec le sujet.",
+      "Seule exception : « s'arroger » s'accorde avec le COD placé avant : « les droits qu'ils se sont arrogés ».",
+      "Verbe réfléchi ou réciproque : remplacez « être » par « avoir » et accordez avec le COD seulement s'il est placé avant.",
+      "« Elle s'est lavée » mais « elle s'est lavé les mains » : dans la seconde phrase, le COD « les mains » est placé après.",
+      "Succéder, plaire, parler, nuire, sourire, ressembler, téléphoner : se construisent avec « à », donc participe invariable (« ils se sont succédé »).",
+      "Pronominal de sens passif (« ces maisons se sont vendues ») : accord avec le sujet.",
+      "Devant un infinitif, accord seulement si le sujet fait l'action ; « fait » + infinitif reste toujours invariable."
+     ],
+     "exo": {
+      "tag": "niv-fr08",
+      "n": 12
+     }
+    },
+    {
+     "id": "L20261030lo06",
+     "niv": "lo06",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Vitesse, distance, temps et débits",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez résoudre les problèmes de mouvement (trajet simple, croisement, rattrapage, vitesse moyenne) et de débit (robinets qui remplissent ou vident un bassin).",
+      "= Vous saurez convertir les heures et minutes, les km/h et les m/s, et contrôler votre résultat en quelques secondes.",
+      "## Ce que demande le concours",
+      "Les épreuves de logique et d'aptitude numérique proposent des énoncés courts : un véhicule, un train, deux personnes qui partent l'une vers l'autre, deux robinets. Les quatre propositions contiennent presque toujours le résultat d'une erreur classique : moyenne arithmétique au lieu de la vraie vitesse moyenne, minutes prises pour des centièmes d'heure, longueur du train oubliée. Avec un barème négatif, reconnaître ces pièges vaut autant que savoir calculer.",
+      "## La méthode, pas à pas",
+      "- 1. Notez les données avec leurs unités : distance d, vitesse v, temps t.",
+      "- 2. Mettez tout dans des unités cohérentes : heures et km/h, ou secondes et m/s. Convertissez les minutes en heures (30 min = 0,5 h ; 20 min = 1/3 h).",
+      "- 3. Choisissez la formule : d = v × t, v = d ÷ t, t = d ÷ v.",
+      "- 4. Deux mobiles ? Face à face, additionnez les vitesses ; dans le même sens, soustrayez-les.",
+      "- 5. Robinets ? Raisonnez sur la fraction du bassin remplie en une heure, puis additionnez ou soustrayez ces fractions.",
+      "- 6. Contrôlez : ordre de grandeur réaliste, unité de la réponse, recalcul inverse (v × t redonne-t-il d ?).",
+      "~ Contrôle express : on trouve qu'un piéton parcourt 12 km en 20 minutes. Cela fait 36 km/h : impossible pour un piéton. Il y a une erreur de conversion à chercher."
+     ],
+     "fond": [
+      "## Notion 1 : la relation fondamentale d = v × t",
+      "Règle : la distance parcourue est égale à la vitesse multipliée par le temps. On en tire v = d ÷ t et t = d ÷ v.",
+      "Pourquoi ? Une vitesse de 60 km/h signifie que l'on parcourt 60 km en une heure. En deux heures, on en parcourt deux fois plus : la distance est proportionnelle au temps.",
+      "~ Exemple résolu : un car roule à 80 km/h pendant 2 h 15 min. Étape 1 : 15 min = 15 ÷ 60 = 0,25 h, donc t = 2,25 h. Étape 2 : d = 80 × 2,25 = 180 km. Vérification : 180 ÷ 80 = 2,25 h, soit bien 2 h 15 min.",
+      "! Piège : 2 h 15 min ne vaut pas 2,15 h. Une heure compte 60 minutes, pas 100.",
+      "Conversion utile : pour passer des km/h aux m/s, divisez par 3,6 (1 km/h = 1 000 m ÷ 3 600 s) : 90 km/h = 25 m/s. Pour l'inverse, multipliez par 3,6.",
+      "? Une moto parcourt 105 km en 1 h 10 min. Quelle est sa vitesse ? || 1 h 10 min = 70 min = 70/60 h. v = 105 ÷ (70/60) = 105 × 60 ÷ 70 = 90 km/h. Vérification : à 90 km/h, on fait 1,5 km par minute, donc 105 km en 70 minutes.",
+      "## Notion 2 : la vitesse moyenne",
+      "Règle : la vitesse moyenne est la distance totale divisée par le temps total. Ce n'est pas, en général, la moyenne des vitesses.",
+      "Pourquoi ? On roule plus longtemps à la vitesse la plus faible. Celle-ci pèse donc davantage dans la moyenne.",
+      "~ Exemple résolu : aller de 120 km à 60 km/h, retour à 40 km/h. Aller : 120 ÷ 60 = 2 h. Retour : 120 ÷ 40 = 3 h. Vitesse moyenne : 240 km ÷ 5 h = 48 km/h, et non 50 km/h.",
+      "> Raccourci pour un aller-retour à v1 puis v2 : vitesse moyenne = 2 × v1 × v2 ÷ (v1 + v2). Ici : 2 × 60 × 40 ÷ 100 = 48 km/h.",
+      "! La proposition « 50 km/h » figure presque toujours parmi les réponses : c'est le piège de la moyenne arithmétique.",
+      "## Notion 3 : croisement et rattrapage",
+      "Règle du croisement : deux mobiles partent en même temps l'un vers l'autre. Ils se rapprochent à la somme de leurs vitesses. Temps de rencontre = distance qui les sépare ÷ (v1 + v2).",
+      "Règle du rattrapage : deux mobiles vont dans le même sens. Le plus rapide gagne chaque heure la différence des vitesses. Temps de rattrapage = avance du premier ÷ (v2 − v1).",
+      "Pourquoi ? L'écart entre les deux mobiles diminue chaque heure de la somme (face à face) ou de la différence (même sens) des vitesses.",
+      "~ Croisement : deux villes A et B sont distantes de 360 km. Un camion part de A à 70 km/h, une voiture part de B à 110 km/h, au même moment. Temps : 360 ÷ (70 + 110) = 2 h. Lieu : le camion a parcouru 70 × 2 = 140 km depuis A. Vérification : la voiture a fait 110 × 2 = 220 km, et 140 + 220 = 360 km.",
+      "~ Rattrapage : un cycliste part à 8 h à 18 km/h. Une moto part du même point à 9 h à 54 km/h. À 9 h, le cycliste a 18 km d'avance. La moto gagne 54 − 18 = 36 km par heure. Temps : 18 ÷ 36 = 0,5 h, soit 30 minutes : rattrapage à 9 h 30.",
+      "? Deux marcheurs distants de 15 km partent l'un vers l'autre à 4 km/h et 6 km/h. Au bout de combien de temps se croisent-ils ? || Ils se rapprochent de 4 + 6 = 10 km par heure. Temps : 15 ÷ 10 = 1,5 h, soit 1 h 30 min. Vérification : 4 × 1,5 + 6 × 1,5 = 6 + 9 = 15 km.",
+      "## Notion 4 : la longueur des trains et des convois",
+      "Règle : pour qu'un train franchisse entièrement un pont ou un tunnel, il doit parcourir la longueur de l'ouvrage plus sa propre longueur.",
+      "Pourquoi ? Le passage commence quand l'avant du train entre et ne s'achève que quand l'arrière sort.",
+      "~ Un train de 150 m roule à 54 km/h, soit 54 ÷ 3,6 = 15 m/s. Il franchit un pont de 300 m. Distance : 300 + 150 = 450 m. Temps : 450 ÷ 15 = 30 s.",
+      "## Notion 5 : les débits et les robinets",
+      "Règle : si un robinet remplit un bassin en t heures, il en remplit 1/t par heure. Deux robinets ensemble remplissent 1/t1 + 1/t2 par heure. Une vidange retire sa fraction : on soustrait.",
+      "Pourquoi ? Les quantités d'eau versées en une heure s'additionnent ; les temps, eux, ne s'additionnent pas.",
+      "~ Exemple résolu : le robinet A remplit une citerne en 3 h, le robinet B en 6 h. Par heure : 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2. Ensemble, ils remplissent la citerne en 2 h. Raccourci : t = t1 × t2 ÷ (t1 + t2) = 18 ÷ 9 = 2 h.",
+      "! Piège : additionner ou faire la moyenne des temps (9 h ou 4,5 h). Ensemble, deux robinets vont toujours plus vite que le plus rapide des deux.",
+      "? Un robinet remplit un bassin en 3 h ; une fuite le vide en 12 h. Combien de temps faut-il pour le remplir, fuite ouverte ? || Par heure : 1/3 − 1/12 = 4/12 − 1/12 = 3/12 = 1/4. Le bassin se remplit en 4 h. Raccourci : 3 × 12 ÷ (12 − 3) = 36 ÷ 9 = 4 h. Vérification : c'est plus long que 3 h, ce qui est logique avec une fuite."
+     ],
+     "retenir": [
+      "Distance = vitesse × temps ; vitesse = distance ÷ temps ; temps = distance ÷ vitesse.",
+      "Une heure compte 60 minutes : 2 h 15 min = 2,25 h, et non 2,15 h.",
+      "Pour convertir des km/h en m/s, on divise par 3,6 ; pour l'inverse, on multiplie par 3,6.",
+      "Vitesse moyenne = distance totale ÷ temps total ; aller-retour à v1 et v2 : 2 × v1 × v2 ÷ (v1 + v2).",
+      "Deux mobiles face à face se rapprochent à la somme de leurs vitesses ; dans le même sens, à leur différence.",
+      "Un train franchit entièrement un pont en parcourant la longueur du pont plus sa propre longueur.",
+      "Deux robinets de durées t1 et t2 remplissent ensemble le bassin en t1 × t2 ÷ (t1 + t2)."
+     ],
+     "exo": {
+      "tag": "niv-lo06",
+      "n": 12
+     }
+    }
+   ],
+   "sujets": [
+    {
+     "e": "sog",
+     "src": "original",
+     "ref": "Entraînement · 30 oct. 2026",
+     "t": "« Le service public n'a de sens que s'il est proche du citoyen. » Commentez et discutez cette affirmation.",
+     "plan": [
+      "Introduction : définir « service public » (activité d'intérêt général assurée ou contrôlée par une personne publique) et « proximité » (géographique, mais aussi accessibilité et écoute) ; problématique : la proximité est-elle la condition même du service public, ou une exigence parmi d'autres ?",
+      "I. La proximité, raison d'être du service public : A. un service qui n'atteint pas l'usager manque son but d'intérêt général ; B. la proximité garantit l'égalité d'accès et la confiance des citoyens envers l'administration. Transition : bilan sur la proximité comme exigence, annonce de ses limites.",
+      "II. Une condition nécessaire mais non suffisante : A. la proximité sans qualité, continuité ni moyens ne satisfait pas l'usager ; B. certaines missions supposent au contraire une organisation centralisée (défense, régulation, grands équipements).",
+      "Conclusion : bilan nuancé (la proximité est indispensable mais doit s'accompagner de qualité, de continuité et d'égalité) ; ouverture sur la place du numérique dans une proximité renouvelée."
+     ]
+    }
+   ]
   }
  ]
 }
