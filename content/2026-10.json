@@ -26026,6 +26026,1320 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-10-31",
+   "questions": [
+    {
+     "id": "n20261031-cm04-01",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Dans quelle ville l'Acte constitutif de l'Union africaine a-t-il été adopté le 11 juillet 2000 ?",
+     "o": [
+      "Durban",
+      "Syrte",
+      "Lomé",
+      "Addis-Abeba"
+     ],
+     "a": 2,
+     "e": "L'Acte constitutif de l'Union africaine a été adopté à Lomé (Togo) le 11 juillet 2000, puis est entré en vigueur le 26 mai 2001.",
+     "ed": [
+      "Durban est la ville du lancement officiel de l'UA, le 9 juillet 2002, pas de l'adoption de l'Acte.",
+      "Syrte est liée à la déclaration de septembre 1999 qui a décidé de créer l'UA, non à l'adoption de l'Acte.",
+      null,
+      "Addis-Abeba est le siège de l'UA et le lieu de création de l'OUA en 1963."
+     ],
+     "src": {
+      "t": "Country Reports – Union africaine (faits essentiels)",
+      "u": "https://www.countryreports.org/fr/global/african-union"
+     }
+    },
+    {
+     "id": "n20261031-cm04-02",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "À quelle date l'Acte constitutif de l'Union africaine est-il entré en vigueur ?",
+     "o": [
+      "Le 26 mai 2001",
+      "Le 25 mai 1963",
+      "Le 9 juillet 2002",
+      "Le 11 juillet 2000"
+     ],
+     "a": 0,
+     "e": "L'Acte constitutif est entré en vigueur le 26 mai 2001, après sa ratification par les deux tiers des États signataires.",
+     "ed": [
+      null,
+      "Le 25 mai 1963 est la date de création de l'OUA, l'organisation que l'UA a remplacée.",
+      "Le 9 juillet 2002 est la date du lancement de l'UA à Durban, postérieure à l'entrée en vigueur de l'Acte.",
+      "Le 11 juillet 2000 est la date d'adoption de l'Acte à Lomé, non celle de son entrée en vigueur."
+     ],
+     "src": {
+      "t": "Wikipedia – Constitutive Act of the African Union",
+      "u": "https://en.wikipedia.org/wiki/Constitutive_Act_of_the_African_Union"
+     }
+    },
+    {
+     "id": "n20261031-cm04-03",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Dans quelle ville siège aujourd'hui le Parlement panafricain ?",
+     "o": [
+      "Addis-Abeba (Éthiopie)",
+      "Midrand (Afrique du Sud)",
+      "Accra (Ghana)",
+      "Lomé (Togo)"
+     ],
+     "a": 1,
+     "e": "Le Parlement panafricain, qui a tenu sa session inaugurale en mars 2004, a d'abord été installé à Addis-Abeba avant d'être transféré à Midrand, en Afrique du Sud.",
+     "ed": [
+      "Addis-Abeba a été le siège initial du Parlement panafricain, mais il a ensuite été transféré à Midrand.",
+      null,
+      "Accra accueille le Secrétariat de la ZLECAf, pas le Parlement panafricain.",
+      "Lomé est la ville où le protocole du Parlement a été adopté en 2000, pas son siège."
+     ],
+     "src": {
+      "t": "Wikipedia – Pan-African Parliament",
+      "u": "https://en.wikipedia.org/wiki/Pan-African_Parliament"
+     }
+    },
+    {
+     "id": "n20261031-cm04-04",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Combien d'aspirations l'Agenda 2063 de l'Union africaine comporte-t-il ?",
+     "o": [
+      "Cinq",
+      "Dix-sept",
+      "Douze",
+      "Sept"
+     ],
+     "a": 3,
+     "e": "L'Agenda 2063, « l'Afrique que nous voulons », s'organise autour de sept aspirations, de la prospérité inclusive à une Afrique partenaire influente sur la scène mondiale.",
+     "ed": [
+      "Cinq est le nombre de plans décennaux prévus pour réaliser l'Agenda, pas celui des aspirations.",
+      "Dix-sept est le nombre des Objectifs de développement durable de l'ONU, à ne pas confondre avec l'Agenda 2063.",
+      "Douze ne correspond à aucun élément structurant de l'Agenda 2063.",
+      null
+     ],
+     "src": {
+      "t": "Union africaine – Agenda 2063 (OAU 60)",
+      "u": "https://oau60.au.int/index.php/en/agenda-2063"
+     }
+    },
+    {
+     "id": "n20261031-cm04-05",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Quelle période couvrait le premier plan décennal de mise en œuvre de l'Agenda 2063 ?",
+     "o": [
+      "2015-2025",
+      "2014-2023",
+      "2002-2012",
+      "2020-2030"
+     ],
+     "a": 1,
+     "e": "Le premier plan décennal de mise en œuvre couvrait 2014-2023 ; il est le premier d'une série de cinq plans décennaux pour atteindre la vision de 2063.",
+     "ed": [
+      "2015 est l'année d'adoption du document-cadre, mais le plan décennal ne couvre pas 2015-2025.",
+      null,
+      "2002-2012 commence avec le lancement de l'UA, bien avant l'adoption de l'Agenda 2063.",
+      "2020-2030 ne correspond pas au premier plan décennal, qui s'achevait en 2023."
+     ],
+     "src": {
+      "t": "Union africaine – L'UA en bref, Agenda 2063 et projets phares",
+      "u": "https://au.int/fr/node/31845"
+     }
+    },
+    {
+     "id": "n20261031-cm04-06",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Lequel de ces projets figure parmi les projets phares de l'Agenda 2063 ?",
+     "o": [
+      "Le barrage du Grand Inga",
+      "Le canal de Suez",
+      "Le pont de la Lagune Ébrié",
+      "Le port autonome de Dakar"
+     ],
+     "a": 0,
+     "e": "Le barrage du Grand Inga, qui doit produire environ 43 200 MW selon l'UA, figure parmi les projets phares de l'Agenda 2063, avec la ZLECAf et le train à grande vitesse.",
+     "ed": [
+      null,
+      "Le canal de Suez est un ouvrage égyptien du XIXe siècle, sans lien avec les projets phares de l'Agenda 2063.",
+      "Ce pont est un ouvrage national ivoirien, non un projet phare continental de l'UA.",
+      "Le port de Dakar est une infrastructure nationale sénégalaise, pas un projet phare de l'Agenda 2063."
+     ],
+     "src": {
+      "t": "Union africaine – L'UA en bref, Agenda 2063 et projets phares",
+      "u": "https://au.int/fr/node/31845"
+     }
+    },
+    {
+     "id": "n20261031-cm04-07",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "À quelle date les échanges commerciaux ont-ils commencé dans le cadre de la ZLECAf ?",
+     "o": [
+      "Le 21 mars 2018",
+      "Le 30 mai 2019",
+      "Le 7 juillet 2019",
+      "Le 1er janvier 2021"
+     ],
+     "a": 3,
+     "e": "Après la signature (2018), l'entrée en vigueur (30 mai 2019) et le lancement (7 juillet 2019), le début effectif des échanges dans le cadre de la ZLECAf date du 1er janvier 2021.",
+     "ed": [
+      "Le 21 mars 2018 est la date de signature de l'accord à Kigali, pas du début des échanges.",
+      "Le 30 mai 2019 est la date d'entrée en vigueur juridique de l'accord.",
+      "Le 7 juillet 2019 correspond au lancement officiel de la ZLECAf à Niamey.",
+      null
+     ],
+     "src": {
+      "t": "Secrétariat de la ZLECAf – Fiches d'information (novembre 2023)",
+      "u": "https://au-afcfta.org/wp-content/uploads/2023/11/FRENCH-FACTSHEET-BOOKLET-.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cm04-08",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Dans quelle ville la ZLECAf a-t-elle été officiellement lancée le 7 juillet 2019, lors d'un sommet extraordinaire de l'UA ?",
+     "o": [
+      "Kigali",
+      "Niamey",
+      "Accra",
+      "Johannesburg"
+     ],
+     "a": 1,
+     "e": "Selon le Secrétariat de la ZLECAf, la zone a été officiellement lancée le 7 juillet 2019 à Niamey, lors du 12e sommet extraordinaire de l'Union africaine.",
+     "ed": [
+      "Kigali est la ville de la signature de l'accord, le 21 mars 2018.",
+      null,
+      "Accra abrite le Secrétariat de la ZLECAf, inauguré en août 2020.",
+      "Johannesburg est associée au début des échanges en janvier 2021, pas au lancement de 2019."
+     ],
+     "src": {
+      "t": "Secrétariat de la ZLECAf – Fiches d'information (novembre 2023)",
+      "u": "https://au-afcfta.org/wp-content/uploads/2023/11/FRENCH-FACTSHEET-BOOKLET-.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cm04-09",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "En novembre 2023, la ZLECAf comptait 54 États signataires et 47 États parties. Que signifie cet écart ?",
+     "o": [
+      "Que 7 États ont quitté l'Union africaine",
+      "Que 7 États ont été exclus de l'accord",
+      "Que 7 États avaient signé l'accord sans l'avoir encore ratifié",
+      "Que 7 États n'avaient ni signé ni ratifié"
+     ],
+     "a": 2,
+     "e": "Un État signataire exprime son engagement politique ; il ne devient État partie, juridiquement lié, qu'après ratification. 54 − 47 = 7 États avaient donc signé sans ratifier.",
+     "ed": [
+      "Aucun État n'a quitté l'UA : l'écart tient à la différence entre signature et ratification.",
+      "L'accord ne prévoit pas d'exclusion ; ces États sont simplement en attente de ratification.",
+      null,
+      "Ces 7 États figurent parmi les 54 signataires : ils ont donc bien signé."
+     ],
+     "src": {
+      "t": "Secrétariat de la ZLECAf – Fiches d'information (novembre 2023)",
+      "u": "https://au-afcfta.org/wp-content/uploads/2023/11/FRENCH-FACTSHEET-BOOKLET-.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cm04-10",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Depuis le retrait du Burkina Faso, du Mali et du Niger, effectif le 29 janvier 2025, combien d'États compte la CEDEAO ?",
+     "o": [
+      "Douze",
+      "Quinze",
+      "Huit",
+      "Quatorze"
+     ],
+     "a": 0,
+     "e": "La CEDEAO comptait quinze membres ; le retrait des trois États de l'AES, effectif le 29 janvier 2025, la ramène à douze États.",
+     "ed": [
+      null,
+      "Quinze était l'effectif avant le retrait des trois pays de l'AES.",
+      "Huit est le nombre de membres de l'UEMOA, et non de la CEDEAO.",
+      "Quatorze supposerait le départ d'un seul État, alors que trois se sont retirés."
+     ],
+     "src": {
+      "t": "AllAfrica / RFI – Les pays de l'AES ne sont officiellement plus membres de la Cédéao (29 janvier 2025)",
+      "u": "https://fr.allafrica.com/stories/202501290287.html"
+     }
+    },
+    {
+     "id": "n20261031-cm04-11",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Un candidat écrit : « En quittant la CEDEAO, le Niger a quitté l'UEMOA. » Que faut-il répondre ?",
+     "o": [
+      "C'est exact, les deux organisations ayant fusionné en 2025",
+      "C'est inexact : les pays de l'AES ont quitté la CEDEAO mais pas l'UEMOA",
+      "C'est exact, car l'UEMOA est un organe de la CEDEAO",
+      "C'est inexact, car le Niger n'a jamais été membre de l'UEMOA"
+     ],
+     "a": 1,
+     "e": "La CEDEAO et l'UEMOA sont deux organisations distinctes. Les pays de l'AES ont quitté la CEDEAO le 29 janvier 2025 mais restent membres de l'UEMOA, union monétaire du franc CFA.",
+     "ed": [
+      "La CEDEAO et l'UEMOA n'ont pas fusionné : elles restent deux organisations distinctes.",
+      null,
+      "L'UEMOA n'est pas un organe de la CEDEAO : elle a son propre traité, signé à Dakar en 1994.",
+      "Le Niger est un membre fondateur de l'UEMOA, signataire du traité de Dakar de 1994."
+     ],
+     "src": {
+      "t": "AllAfrica / RFI – Les pays de l'AES ne sont officiellement plus membres de la Cédéao (29 janvier 2025)",
+      "u": "https://fr.allafrica.com/stories/202501290287.html"
+     }
+    },
+    {
+     "id": "n20261031-cm04-12",
+     "m": "cmc",
+     "tag": "niv-cm04",
+     "q": "Le 10 janvier 1994, le traité de l'UEMOA est signé à Dakar. Pourquoi la Guinée-Bissau n'en est-elle pas signataire ?",
+     "o": [
+      "Parce qu'elle a refusé le franc CFA jusqu'en 2010",
+      "Parce qu'elle n'était pas encore indépendante",
+      "Parce qu'elle était membre de la zone euro",
+      "Parce qu'elle n'a rejoint l'Union que le 2 mai 1997"
+     ],
+     "a": 3,
+     "e": "Le traité de Dakar est signé par sept États ; la Guinée-Bissau, ancienne colonie portugaise, devient le huitième membre, et le seul non francophone, le 2 mai 1997.",
+     "ed": [
+      "Elle n'a pas attendu 2010 : elle a adhéré à l'UEMOA dès 1997.",
+      "La Guinée-Bissau était indépendante bien avant 1994 : son absence s'explique par une adhésion plus tardive.",
+      "Aucun État africain n'est membre de la zone euro ; l'affirmation est sans fondement.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – West African Economic and Monetary Union",
+      "u": "https://en.wikipedia.org/wiki/West_African_Economic_and_Monetary_Union"
+     }
+    },
+    {
+     "id": "n20261031-op03-01",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Selon l'article 53 de la Constitution, quels organes composent le pouvoir exécutif ?",
+     "o": [
+      "Le Président, le Parlement et le Gouvernement",
+      "Le Président de la République, le Vice-Président et le Gouvernement",
+      "Le Président, le Premier ministre et le Conseil constitutionnel",
+      "Le Gouvernement seul, sous l'autorité du Premier ministre"
+     ],
+     "a": 1,
+     "e": "L'article 53 dispose que le pouvoir exécutif est composé du Président de la République, du Vice-Président de la République et du Gouvernement.",
+     "ed": [
+      "Le Parlement exerce le pouvoir législatif : il ne fait pas partie de l'exécutif.",
+      null,
+      "Le Conseil constitutionnel est une juridiction, extérieure à l'exécutif ; et le Vice-Président est omis.",
+      "Le Gouvernement n'est qu'une des trois composantes ; le Président est le détenteur exclusif du pouvoir exécutif (article 63)."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-02",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Quel âge minimum la Constitution exige-t-elle du candidat à l'élection présidentielle ?",
+     "o": [
+      "30 ans",
+      "40 ans",
+      "35 ans",
+      "18 ans"
+     ],
+     "a": 2,
+     "e": "L'article 55 exige notamment du candidat qu'il soit âgé de 35 ans au moins, qu'il jouisse de ses droits civils et politiques et soit exclusivement de nationalité ivoirienne.",
+     "ed": [
+      "30 ans est inférieur au minimum de 35 ans fixé par l'article 55.",
+      "40 ans n'est pas le seuil retenu : l'article 55 fixe 35 ans au moins.",
+      null,
+      "18 ans est l'âge de la majorité électorale, non celui de l'éligibilité à la présidence."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-03",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Selon l'article 56, quand a lieu le premier tour de l'élection présidentielle ?",
+     "o": [
+      "Le dernier samedi d'octobre de la cinquième année du mandat",
+      "Le premier dimanche de décembre de la cinquième année du mandat",
+      "À une date librement fixée par l'Assemblée nationale",
+      "Le 7 août, jour de la fête de l'indépendance"
+     ],
+     "a": 0,
+     "e": "L'article 56 fixe le premier tour au dernier samedi d'octobre de la cinquième année du mandat en cours ; un éventuel second tour a lieu le dernier samedi de novembre.",
+     "ed": [
+      null,
+      "Décembre ne correspond à aucun tour de scrutin dans l'article 56, qui retient octobre puis novembre.",
+      "La date n'est pas laissée à l'Assemblée : elle est fixée par la Constitution elle-même.",
+      "La Constitution ne lie pas l'élection à la fête de l'indépendance ; elle fixe le dernier samedi d'octobre."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-04",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Qui préside le Conseil de gouvernement, réunion préparatoire au Conseil des ministres ?",
+     "o": [
+      "Le Président de la République",
+      "Le Vice-Président",
+      "Le président de l'Assemblée nationale",
+      "Le Premier ministre"
+     ],
+     "a": 3,
+     "e": "Selon l'article 82, le Premier ministre anime et coordonne l'action gouvernementale et préside le Conseil de gouvernement, qui prépare le Conseil des ministres.",
+     "ed": [
+      "Le Président préside le Conseil des ministres (article 71), non le Conseil de gouvernement.",
+      "Le Vice-Président ne préside le Conseil des ministres que par délégation ; le Conseil de gouvernement revient au Premier ministre.",
+      "Le président de l'Assemblée nationale appartient au pouvoir législatif et ne dirige aucune réunion gouvernementale.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-05",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Une loi est transmise au Président de la République le 10 mai, sans urgence déclarée. Quel est le dernier jour pour la promulguer ?",
+     "o": [
+      "Le 15 mai",
+      "Le 9 juin",
+      "Le 10 juillet",
+      "Le 10 août"
+     ],
+     "a": 1,
+     "e": "L'article 74 impose de promulguer dans les trente jours suivant la transmission : 10 mai + 30 jours mène au 9 juin (21 jours restants en mai, puis 9 en juin).",
+     "ed": [
+      "Le 15 mai correspond au délai d'urgence de cinq jours, inapplicable ici.",
+      null,
+      "Le 10 juillet correspondrait à deux mois, soit le double du délai constitutionnel.",
+      "Le 10 août correspondrait à trois mois, bien au-delà des trente jours de l'article 74."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-06",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Selon l'article 73, avant d'exercer les pouvoirs exceptionnels, le Président doit consulter :",
+     "o": [
+      "Les présidents de l'Assemblée nationale, du Sénat et du Conseil constitutionnel",
+      "Le peuple par référendum",
+      "Le Conseil de sécurité des Nations unies",
+      "Le seul Premier ministre"
+     ],
+     "a": 0,
+     "e": "L'article 73 impose la consultation des présidents de l'Assemblée nationale, du Sénat et du Conseil constitutionnel ; le Président informe ensuite la Nation par un message et le Parlement se réunit de plein droit.",
+     "ed": [
+      null,
+      "Un référendum serait incompatible avec l'urgence de la crise ; l'article 73 prévoit une simple consultation de trois présidents d'institutions.",
+      "Les pouvoirs exceptionnels relèvent du droit interne : aucune consultation d'une instance internationale n'est prévue.",
+      "Le Premier ministre n'est pas cité par l'article 73 parmi les autorités à consulter."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-07",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Comment le Vice-Président de la République est-il désigné depuis la révision constitutionnelle de 2020 ?",
+     "o": [
+      "Il est élu par le Sénat parmi ses membres",
+      "Il est élu au suffrage universel direct sur un ticket distinct",
+      "Il est désigné par le Conseil constitutionnel",
+      "Il est choisi par le Président de la République, avec l'accord du Parlement"
+     ],
+     "a": 3,
+     "e": "Selon l'article 55 tel que révisé en 2020, le Président choisit un Vice-Président avec l'accord du Parlement ; celui-ci prête ensuite serment devant le Conseil constitutionnel (article 79).",
+     "ed": [
+      "Le Sénat ne désigne pas le Vice-Président ; le Parlement donne seulement son accord au choix présidentiel.",
+      "Le Vice-Président n'est pas élu par le peuple : il est choisi par le Président.",
+      "Le Conseil constitutionnel reçoit son serment mais ne le désigne pas.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-08",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Le Président est hors du territoire national. Selon l'article 80, quel est le rôle du Vice-Président ?",
+     "o": [
+      "Il devient Président de la République jusqu'au retour du titulaire",
+      "Il supplée le Président et peut présider le Conseil des ministres si un décret le lui délègue",
+      "Il n'a aucun rôle : le Premier ministre assure seul l'intérim",
+      "Il convoque le Parlement en session extraordinaire"
+     ],
+     "a": 1,
+     "e": "L'article 80 prévoit que le Vice-Président supplée le Président hors du territoire ; la présidence du Conseil des ministres ne lui revient que par décret de délégation, pour un ordre du jour précis.",
+     "ed": [
+      "L'absence temporaire n'est pas une vacance : le Vice-Président ne devient pas Président.",
+      null,
+      "Le Premier ministre n'intervient que si le Président et le Vice-Président sont tous deux absents (article 82).",
+      "L'article 80 ne confère pas ce pouvoir au Vice-Président suppléant."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-09",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Le Président de la République décède en cours de mandat. Le Vice-Président est en fonction. Que prévoit l'article 62 ?",
+     "o": [
+      "Une élection présidentielle anticipée dans les 90 jours",
+      "L'intérim du président du Sénat",
+      "Le Vice-Président devient Président après serment et achève le mandat",
+      "Le Premier ministre devient Président de la République"
+     ],
+     "a": 2,
+     "e": "En cas de vacance par décès, démission ou empêchement absolu, l'article 62 fait du Vice-Président le Président de la République, après serment devant le Conseil constitutionnel, jusqu'au terme du mandat.",
+     "ed": [
+      "L'article 62 n'organise pas d'élection anticipée : le Vice-Président achève le mandat.",
+      "Le président du Sénat n'a aucun rôle dans la succession prévue par l'article 62.",
+      null,
+      "Le Premier ministre n'intervient que si la vice-présidence est elle-même vacante."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-10",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Qui constate l'empêchement absolu du Président de la République ?",
+     "o": [
+      "Le Conseil constitutionnel, saisi par le Gouvernement statuant à la majorité de ses membres",
+      "L'Assemblée nationale, à la majorité des deux tiers",
+      "La Cour suprême, sur requête du Premier ministre",
+      "Le Vice-Président, par décret"
+     ],
+     "a": 0,
+     "e": "L'article 62 confie au Conseil constitutionnel le soin de constater sans délai l'empêchement absolu, sur saisine du Gouvernement approuvée à la majorité de ses membres.",
+     "ed": [
+      null,
+      "L'Assemblée nationale n'intervient pas dans le constat de l'empêchement.",
+      "La Cour suprême n'est pas compétente : c'est le juge constitutionnel qui constate l'empêchement.",
+      "Le Vice-Président, premier bénéficiaire de la vacance, ne peut pas la constater lui-même."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-11",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Un député est nommé ministre. Que prévoit l'article 84 ?",
+     "o": [
+      "Il peut cumuler les deux fonctions sans restriction",
+      "Il perd définitivement son siège et devient inéligible",
+      "Il doit démissionner du Gouvernement dans les huit jours",
+      "Il ne peut pas siéger au Parlement tant qu'il est membre du Gouvernement"
+     ],
+     "a": 3,
+     "e": "L'article 84 pose l'incompatibilité entre fonctions gouvernementales et mandat parlementaire : le député nommé au Gouvernement ne peut siéger au Parlement pendant la durée de ses fonctions.",
+     "ed": [
+      "L'article 84 interdit précisément ce cumul : il y a incompatibilité.",
+      "L'incompatibilité est temporaire et n'entraîne aucune inéligibilité définitive.",
+      "C'est l'inverse : il conserve sa fonction ministérielle mais ne siège pas au Parlement.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-op03-12",
+     "m": "opaj",
+     "tag": "niv-op03",
+     "q": "Le Président et le Vice-Président participent ensemble à un sommet à l'étranger. Qui supplée le Président ?",
+     "o": [
+      "Le président de l'Assemblée nationale",
+      "Le ministre de la Défense",
+      "Le Premier ministre",
+      "Le président du Conseil constitutionnel"
+     ],
+     "a": 2,
+     "e": "Selon l'article 82, le Premier ministre supplée le Président lorsque le Président et le Vice-Président sont tous deux hors du territoire national.",
+     "ed": [
+      "Le président de l'Assemblée nationale n'a pas de rôle de suppléance dans l'exécutif.",
+      "Aucun ministre autre que le Premier ministre n'est désigné par l'article 82.",
+      null,
+      "Le président du Conseil constitutionnel est consulté pour les pouvoirs exceptionnels mais ne supplée pas le Président."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg05-01",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Lequel de ces pays n'a PAS de frontière commune avec la Côte d'Ivoire ?",
+     "o": [
+      "Le Liberia",
+      "Le Sénégal",
+      "Le Burkina Faso",
+      "La Guinée"
+     ],
+     "a": 1,
+     "e": "La Côte d'Ivoire est bordée par la Guinée et le Liberia à l'ouest, le Mali et le Burkina Faso au nord, le Ghana à l'est. Le Sénégal n'en fait pas partie.",
+     "ed": [
+      "Le Liberia borde la Côte d'Ivoire à l'ouest.",
+      null,
+      "Le Burkina Faso borde la Côte d'Ivoire au nord.",
+      "La Guinée borde la Côte d'Ivoire au nord-ouest."
+     ],
+     "src": {
+      "t": "FAO AQUASTAT – Profil de pays : Côte d'Ivoire",
+      "u": "https://www.fao.org/fileadmin/user_upload/aquastat/pdf_files/CIV_cotedivoire_cp.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg05-02",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Quelle est, selon la FAO, la superficie de la Côte d'Ivoire ?",
+     "o": [
+      "Environ 32 246 km²",
+      "Environ 1 240 000 km²",
+      "Environ 196 000 km²",
+      "Environ 322 460 km²"
+     ],
+     "a": 3,
+     "e": "Le profil de pays de la FAO indique une superficie de 322 460 km², soit 32 246 000 hectares.",
+     "ed": [
+      "Ce chiffre est dix fois trop faible : 32 246 000 est la superficie exprimée en hectares, pas en km².",
+      "Environ 1 240 000 km² est l'ordre de grandeur d'un très grand pays sahélien, près de quatre fois la Côte d'Ivoire.",
+      "196 000 km² est très inférieur à la superficie réelle du pays.",
+      null
+     ],
+     "src": {
+      "t": "FAO AQUASTAT – Profil de pays : Côte d'Ivoire",
+      "u": "https://www.fao.org/fileadmin/user_upload/aquastat/pdf_files/CIV_cotedivoire_cp.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg05-03",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Lequel des quatre grands fleuves ivoiriens est le plus long ?",
+     "o": [
+      "La Comoé",
+      "Le Bandama",
+      "Le Sassandra",
+      "Le Cavally"
+     ],
+     "a": 0,
+     "e": "La Comoé, qui prend sa source au Burkina Faso, parcourt 1 160 km, devant le Bandama (1 050 km), le Cavally (700 km) et le Sassandra (650 km).",
+     "ed": [
+      null,
+      "Le Bandama (1 050 km) a le plus vaste bassin, mais il est moins long que la Comoé.",
+      "Le Sassandra (650 km) est le plus court des quatre.",
+      "Le Cavally mesure 700 km, bien moins que la Comoé."
+     ],
+     "src": {
+      "t": "FAO AQUASTAT – Profil de pays : Côte d'Ivoire",
+      "u": "https://www.fao.org/fileadmin/user_upload/aquastat/pdf_files/CIV_cotedivoire_cp.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg05-04",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Quels cours d'eau forment le Bandama ?",
+     "o": [
+      "La Comoé, le Cavally et la Bia",
+      "Le Bandama blanc, le Bandama rouge (ou Marahoué) et le N'Zi",
+      "Le Niger, la Volta et le Sassandra",
+      "Le Bandama noir, le Sassandra et l'Agnéby"
+     ],
+     "a": 1,
+     "e": "Selon la FAO, le Bandama est formé du Bandama blanc, du Bandama rouge (ou Marahoué) et du N'Zi ; il atteint 1 050 km et draine un bassin de 97 000 km².",
+     "ed": [
+      "La Comoé et le Cavally sont deux autres grands fleuves, distincts du Bandama.",
+      null,
+      "Le Niger et la Volta n'appartiennent pas au système du Bandama ; le Sassandra est un fleuve distinct.",
+      "Le Sassandra est un fleuve distinct ; la FAO ne cite pas ces cours d'eau parmi les composantes du Bandama."
+     ],
+     "src": {
+      "t": "FAO AQUASTAT – Profil de pays : Côte d'Ivoire",
+      "u": "https://www.fao.org/fileadmin/user_upload/aquastat/pdf_files/CIV_cotedivoire_cp.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg05-05",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Dans quel pays la Comoé prend-elle sa source ?",
+     "o": [
+      "En Guinée",
+      "Au Ghana",
+      "Au Burkina Faso",
+      "Au Mali"
+     ],
+     "a": 2,
+     "e": "La FAO précise que la Comoé prend sa source au Burkina Faso, puis draine 78 000 km² en Côte d'Ivoire sur 1 160 km.",
+     "ed": [
+      "C'est le Sassandra, non la Comoé, qui prend sa source en Guinée.",
+      "Le Ghana est le voisin oriental, mais la Comoé n'y prend pas sa source.",
+      null,
+      "Le Mali n'est pas le pays d'origine de la Comoé."
+     ],
+     "src": {
+      "t": "FAO AQUASTAT – Profil de pays : Côte d'Ivoire",
+      "u": "https://www.fao.org/fileadmin/user_upload/aquastat/pdf_files/CIV_cotedivoire_cp.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg05-06",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Combien de saisons connaît la zone climatique du sud de la Côte d'Ivoire ?",
+     "o": [
+      "Quatre : deux saisons sèches et deux saisons des pluies",
+      "Deux : une saison sèche et une saison des pluies",
+      "Une seule saison humide toute l'année",
+      "Trois : une saison sèche, une saison des pluies et l'harmattan"
+     ],
+     "a": 0,
+     "e": "Le sud subéquatorial connaît quatre saisons : grande saison sèche (décembre-mars), grande saison des pluies (mars-juin), petite saison sèche (juillet-août), petite saison des pluies (septembre-novembre).",
+     "ed": [
+      null,
+      "Le régime à une seule saison des pluies caractérise le nord soudanien, pas le sud.",
+      "Le sud connaît bien des saisons sèches ; il n'est pas humide toute l'année.",
+      "Ce découpage ne correspond pas au climat subéquatorial du sud, qui compte quatre saisons."
+     ],
+     "src": {
+      "t": "FAO AQUASTAT – Profil de pays : Côte d'Ivoire",
+      "u": "https://www.fao.org/fileadmin/user_upload/aquastat/pdf_files/CIV_cotedivoire_cp.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg05-07",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Quelles précipitations annuelles reçoit la zone soudanienne du nord ivoirien ?",
+     "o": [
+      "Plus de 2 500 mm",
+      "Plus de 1 500 mm",
+      "Moins de 300 mm",
+      "Entre 900 et 1 200 mm"
+     ],
+     "a": 3,
+     "e": "Selon la FAO, la zone soudanienne, savane à une seule saison des pluies, reçoit entre 900 et 1 200 mm par an, contre plus de 1 500 mm dans le sud.",
+     "ed": [
+      "Plus de 2 500 mm dépasse largement les valeurs indiquées pour toutes les zones ivoiriennes par la FAO.",
+      "Plus de 1 500 mm correspond à la zone guinéenne du sud, non au nord.",
+      "Moins de 300 mm caractérise un désert, non la savane du nord ivoirien.",
+      null
+     ],
+     "src": {
+      "t": "FAO AQUASTAT – Profil de pays : Côte d'Ivoire",
+      "u": "https://www.fao.org/fileadmin/user_upload/aquastat/pdf_files/CIV_cotedivoire_cp.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg05-08",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "À quelle altitude culmine le massif du Nimba, aux confins de la Côte d'Ivoire, de la Guinée et du Liberia ?",
+     "o": [
+      "1 060 m",
+      "2 210 m",
+      "1 752 m",
+      "860 m"
+     ],
+     "a": 2,
+     "e": "Le massif du Nimba s'élève à 1 752 m ; la réserve naturelle intégrale du mont Nimba est inscrite au patrimoine mondial de l'UNESCO et figure sur la liste en péril depuis 1992.",
+     "ed": [
+      "1 060 m est très inférieur au sommet du Nimba ; la FAO parle seulement de sommets de plus de 1 000 m à l'ouest.",
+      "2 210 m dépasse de plus de 450 m l'altitude réelle du Nimba.",
+      null,
+      "860 m est bien en dessous du sommet du Nimba, qui dépasse 1 700 m."
+     ],
+     "src": {
+      "t": "Natural World Heritage Sites – Mount Nimba Strict Nature Reserve",
+      "u": "https://www.naturalworldheritagesites.org/sites/mount-nimba-strict-nature-reserve"
+     }
+    },
+    {
+     "id": "n20261031-cg05-09",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Depuis quelle année la réserve naturelle intégrale du mont Nimba figure-t-elle sur la liste du patrimoine mondial en péril ?",
+     "o": [
+      "1981",
+      "1992",
+      "2002",
+      "2014"
+     ],
+     "a": 1,
+     "e": "Inscrite au patrimoine mondial en 1981, la réserve du mont Nimba figure sur la liste du patrimoine mondial en péril depuis 1992 en raison des menaces qui pèsent sur elle.",
+     "ed": [
+      "1981 est l'année de l'inscription au patrimoine mondial, non de l'inscription sur la liste en péril.",
+      null,
+      "2002 ne correspond à aucune étape du classement du mont Nimba.",
+      "2014 ne correspond pas à l'inscription sur la liste en péril, intervenue en 1992."
+     ],
+     "src": {
+      "t": "Natural World Heritage Sites – Mount Nimba Strict Nature Reserve",
+      "u": "https://www.naturalworldheritagesites.org/sites/mount-nimba-strict-nature-reserve"
+     }
+    },
+    {
+     "id": "n20261031-cg05-10",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Combien de districts autonomes la Côte d'Ivoire compte-t-elle depuis le décret n° 2026-05/2 du 7 janvier 2026 ?",
+     "o": [
+      "Quatorze",
+      "Douze",
+      "Trente et un",
+      "Deux"
+     ],
+     "a": 3,
+     "e": "Le décret du 7 janvier 2026 abroge le décret de 2021 créant douze districts autonomes et les supprime ; seuls demeurent les districts d'Abidjan et de Yamoussoukro.",
+     "ed": [
+      "Quatorze était le nombre de districts entre 2021 et 2026 ; douze ont été supprimés en 2026.",
+      "Douze est le nombre de districts supprimés, non de ceux qui demeurent.",
+      "Trente et un est le nombre de régions, pas de districts autonomes.",
+      null
+     ],
+     "src": {
+      "t": "Afrik Soir – Alassane Ouattara tourne la page des districts autonomes (18 mars 2026)",
+      "u": "https://afriksoir.net/cote-divoire-alassane-ouattara-tourne-la-page-des-districts-autonomes/"
+     }
+    },
+    {
+     "id": "n20261031-cg05-11",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Le communiqué du Conseil des ministres du 9 juin 2021 précise que chacun des douze districts autonomes alors créés couvre :",
+     "o": [
+      "Au moins deux régions",
+      "Une seule commune",
+      "Un seul département",
+      "L'ensemble d'une ancienne colonie"
+     ],
+     "a": 0,
+     "e": "Le communiqué du 9 juin 2021 indique que chacun des douze districts autonomes créés regroupe au moins deux régions ; ces districts ont été supprimés en janvier 2026.",
+     "ed": [
+      null,
+      "Le district était un échelon supérieur à la région, et non un échelon communal.",
+      "Un district regroupait des régions entières, pas un seul département.",
+      "Cette formule n'a aucun sens administratif dans l'organisation ivoirienne de 2021."
+     ],
+     "src": {
+      "t": "Fraternité Matin – Communiqué du Conseil des ministres du 9 juin 2021",
+      "u": "https://www.fratmat.info/article/213369/politique/communique-du-conseil-des-ministres-du-mercredi-09-juin-2021"
+     }
+    },
+    {
+     "id": "n20261031-cg05-12",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Un candidat écrit, fin 2026 : « Abengourou est le chef-lieu du district autonome de la Comoé. » Que faut-il corriger ?",
+     "o": [
+      "Rien : le district de la Comoé reste en place",
+      "Le chef-lieu du district était Bondoukou",
+      "Ce district a été supprimé par le décret du 7 janvier 2026",
+      "La Comoé n'a jamais été un district, seulement une région"
+     ],
+     "a": 2,
+     "e": "Le district de la Comoé (chef-lieu Abengourou) faisait partie des douze districts créés en 2021 ; le décret n° 2026-05/2 du 7 janvier 2026 les a supprimés. Seuls Abidjan et Yamoussoukro demeurent.",
+     "ed": [
+      "Le district de la Comoé n'existe plus depuis le décret du 7 janvier 2026.",
+      "Bondoukou était le chef-lieu du district du Zanzan, non de celui de la Comoé.",
+      null,
+      "La Comoé figurait bien parmi les douze districts autonomes créés en 2021."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire – Revue de presse nationale du 19 mars 2026",
+      "u": "https://www.gouv.ci/uploads/publications/177391418881.pdf"
+     }
+    },
+    {
+     "id": "n20261031-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le Secrétariat de l'Organisation de coopération de Shanghai (OCS), créée le 15 juin 2001 ?",
+     "o": [
+      "Shanghai",
+      "Moscou",
+      "Pékin",
+      "Tachkent"
+     ],
+     "a": 2,
+     "e": "Le Secrétariat de l'OCS, principal organe exécutif de l'organisation, a son siège à Pékin ; Tachkent accueille le comité exécutif de la structure antiterroriste régionale.",
+     "ed": [
+      "Shanghai est la ville où l'organisation a été annoncée en 2001, pas le siège du Secrétariat.",
+      "Moscou n'abrite pas le Secrétariat de l'OCS.",
+      null,
+      "Tachkent accueille la structure antiterroriste régionale, non le Secrétariat."
+     ],
+     "src": {
+      "t": "Wikipedia – Shanghai Cooperation Organisation",
+      "u": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+     }
+    },
+    {
+     "id": "n20261031-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quels pays sont devenus membres de l'Organisation de coopération de Shanghai en juin 2017 ?",
+     "o": [
+      "L'Inde et le Pakistan",
+      "L'Iran et la Biélorussie",
+      "La Turquie et l'Égypte",
+      "La Mongolie et l'Afghanistan"
+     ],
+     "a": 0,
+     "e": "En juin 2017, l'OCS s'est élargie à huit membres avec l'adhésion de l'Inde et du Pakistan ; l'Iran l'a rejointe en 2023 et la Biélorussie en 2024.",
+     "ed": [
+      null,
+      "L'Iran a adhéré en juillet 2023 et la Biélorussie en juillet 2024, non en 2017.",
+      "Ni la Turquie ni l'Égypte ne figurent parmi les dix États membres de l'OCS.",
+      "Ni la Mongolie ni l'Afghanistan ne sont membres de l'OCS."
+     ],
+     "src": {
+      "t": "Wikipedia – Shanghai Cooperation Organisation",
+      "u": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+     }
+    },
+    {
+     "id": "n20261031-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville le Conseil de coopération du Golfe (CCG) a-t-il été officiellement lancé le 25 mai 1981 ?",
+     "o": [
+      "Riyad",
+      "Koweït",
+      "Mascate",
+      "Abou Dhabi"
+     ],
+     "a": 3,
+     "e": "Les chefs d'État de six pays du Golfe ont officiellement lancé le CCG le 25 mai 1981 à Abou Dhabi ; sa charte avait été préparée à Riyad puis finalisée à Mascate.",
+     "ed": [
+      "Riyad est la ville où la charte a d'abord été discutée en février 1981, non celle du lancement.",
+      "Koweït n'a pas accueilli le sommet de lancement du 25 mai 1981.",
+      "Mascate est la ville où la charte a été finalisée en mars 1981, non celle du lancement.",
+      null
+     ],
+     "src": {
+      "t": "Khaleej Times – When GCC was born in Abu Dhabi (25 mai 1981)",
+      "u": "https://www.khaleejtimes.com/world/gulf/gcc-formal-launch-44-years-ago"
+     }
+    },
+    {
+     "id": "n20261031-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville est établi le Secrétariat du Marché commun de l'Afrique orientale et australe (COMESA) ?",
+     "o": [
+      "Nairobi",
+      "Lusaka",
+      "Gaborone",
+      "Addis-Abeba"
+     ],
+     "a": 1,
+     "e": "Le Secrétariat du COMESA est basé à Lusaka, en Zambie, au COMESA Centre ; le COMESA a succédé à la Zone d'échanges préférentiels créée en 1981.",
+     "ed": [
+      "Nairobi n'accueille pas le Secrétariat du COMESA.",
+      null,
+      "Gaborone est le siège du Secrétariat de la SADC, une autre organisation.",
+      "Addis-Abeba est le siège de l'Union africaine, non du COMESA."
+     ],
+     "src": {
+      "t": "COMESA – Le Secrétariat",
+      "u": "https://www.comesa.int/secretariat/?lang=fr"
+     }
+    },
+    {
+     "id": "n20261031-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quels États ont fondé le Conseil de l'Entente en mai 1959, aux côtés de la Côte d'Ivoire ?",
+     "o": [
+      "Le Niger, la Haute-Volta et le Dahomey",
+      "Le Sénégal, le Mali et la Guinée",
+      "Le Ghana, le Togo et le Nigeria",
+      "Le Cameroun, le Gabon et le Congo"
+     ],
+     "a": 0,
+     "e": "Le Conseil de l'Entente a été fondé en mai 1959 par la Côte d'Ivoire, le Niger, la Haute-Volta (Burkina Faso) et le Dahomey (Bénin) ; le Togo l'a rejoint en 1966. Son secrétariat est à Abidjan.",
+     "ed": [
+      null,
+      "Le Sénégal, le Mali et la Guinée n'ont jamais été membres du Conseil de l'Entente.",
+      "Le Togo n'a rejoint le Conseil qu'en 1966 ; le Ghana et le Nigeria n'en sont pas membres.",
+      "Ces États d'Afrique centrale ne font pas partie du Conseil de l'Entente."
+     ],
+     "src": {
+      "t": "Wikipedia – Conseil de l'Entente",
+      "u": "https://en.wikipedia.org/wiki/Conseil_de_l%27Entente"
+     }
+    },
+    {
+     "id": "n20261031-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lors du référendum britannique du 23 juin 2016, quelle part des électeurs s'est prononcée pour la sortie de l'Union européenne ?",
+     "o": [
+      "48,1 %",
+      "72,2 %",
+      "51,9 %",
+      "55,0 %"
+     ],
+     "a": 2,
+     "e": "Le 23 juin 2016, 51,9 % des électeurs britanniques ont voté pour la sortie de l'UE, contre 48,1 % pour le maintien ; le Royaume-Uni a quitté l'Union le 31 janvier 2020.",
+     "ed": [
+      "48,1 % est la part des voix pour le maintien dans l'Union européenne.",
+      "72,2 % est le taux de participation au référendum, pas le score de la sortie.",
+      null,
+      "55,0 % ne correspond pas au résultat officiel, qui était de 51,9 %."
+     ],
+     "src": {
+      "t": "Maison de l'Europe de Strasbourg – Brexit, les étapes historiques (2021)",
+      "u": "https://www.strasbourg-europe.eu/images/2021/05/Brexit-etapes-historique-2021.pdf"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261031cm04",
+     "niv": "cm04",
+     "m": "cmc",
+     "titre": "L'Afrique dans le monde : Union africaine et intégration régionale",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez présenter l'Union africaine (origine, organes, Agenda 2063) et les trois cercles de l'intégration qui concernent la Côte d'Ivoire : ZLECAf, CEDEAO, UEMOA.",
+      "= Vous saurez mobiliser des dates exactes et un débat argumenté dans une dissertation de monde contemporain.",
+      "## Ce que demande l'épreuve",
+      "Les sujets de monde contemporain et de culture générale interrogent souvent l'Afrique comme acteur : « L'Union africaine a-t-elle tenu les promesses de l'OUA ? », « L'intégration régionale, réponse aux défis africains ? ». En QCM, les pièges portent sur les dates (1963, 2000, 2002), les sièges et la confusion entre organisations (CEDEAO et UEMOA, UA et ZLECAf).",
+      "! Piège habituel : confondre l'adoption d'un texte, son entrée en vigueur et le lancement effectif de l'institution. Pour l'UA comme pour la ZLECAf, ce sont trois dates différentes.",
+      "## La méthode, pas à pas",
+      "- 1. Pour chaque organisation, retenez une fiche en quatre cases : création (lieu et date), membres, siège ou organes, objectif.",
+      "- 2. Distinguez trois échelles : continentale (UA, ZLECAf), régionale (CEDEAO), monétaire (UEMOA).",
+      "- 3. Dans une copie, illustrez chaque idée par un fait daté et localisé, puis tirez-en une conséquence.",
+      "- 4. Terminez toujours par le débat : acquis de l'intégration, puis limites (souveraineté, financement, crises politiques).",
+      "~ Exemple de phrase de copie : « Signé à Kigali le 21 mars 2018, l'accord sur la ZLECAf n'a permis les premiers échanges que le 1er janvier 2021 : l'intégration africaine avance, mais lentement. »"
+     ],
+     "fond": [
+      "## Notion 1 : de l'OUA à l'Union africaine",
+      "Règle : l'Organisation de l'unité africaine (OUA) est créée le 25 mai 1963 à Addis-Abeba. Elle est remplacée par l'Union africaine (UA), dont l'Acte constitutif est adopté à Lomé le 11 juillet 2000 et entre en vigueur le 26 mai 2001. L'UA est lancée à Durban (Afrique du Sud) le 9 juillet 2002.",
+      "Pourquoi ? L'OUA était née au temps des indépendances, pour rassembler les jeunes États. Au tournant des années 2000, les dirigeants ont voulu une organisation tournée vers l'intégration économique, la paix et la gouvernance.",
+      "Aujourd'hui, l'UA compte 55 États membres et siège à Addis-Abeba, en Éthiopie. Le Maroc l'a réintégrée en janvier 2017, après 33 ans d'absence.",
+      "~ Exemple résolu : un sujet demande « Quand l'Union africaine est-elle née ? ». Raisonnez en trois temps : texte adopté à Lomé (2000), texte en vigueur (26 mai 2001), institution lancée à Durban (9 juillet 2002). La réponse attendue pour la « naissance » de l'institution est 2002, à Durban.",
+      "! Ne confondez pas les lieux : Addis-Abeba est le siège de l'UA (et le berceau de l'OUA), Lomé la ville de l'Acte constitutif, Durban celle du lancement.",
+      "? Une copie affirme : « L'Union africaine a été fondée à Addis-Abeba en 1963. » Corrigez. || La phrase confond deux organisations. Addis-Abeba en 1963 est la création de l'OUA. L'UA est fondée par l'Acte constitutif adopté à Lomé en 2000 et lancée à Durban le 9 juillet 2002 ; Addis-Abeba est seulement son siège.",
+      "## Notion 2 : les organes de l'Union africaine",
+      "Règle : la Conférence de l'Union, qui réunit les chefs d'État et de gouvernement, est l'organe suprême. Le Conseil exécutif réunit les ministres des Affaires étrangères. La Commission est l'organe permanent. S'y ajoutent notamment le Conseil de paix et de sécurité, le Parlement panafricain, le Conseil économique, social et culturel (ECOSOCC) et la Cour de justice.",
+      "Pourquoi ? Cette architecture s'inspire des organisations régionales intégrées : un organe politique qui décide, un organe ministériel qui prépare, une administration permanente qui exécute.",
+      "Le Parlement panafricain a tenu sa session inaugurale en mars 2004. Installé d'abord à Addis-Abeba, il siège désormais à Midrand, en Afrique du Sud. Son protocole a été adopté en 2000, lors du sommet de l'OUA à Lomé.",
+      "! Le Parlement panafricain n'est pas élu au suffrage universel direct : ses représentants sont élus par les parlements nationaux des États membres.",
+      "## Notion 3 : l'Agenda 2063, « l'Afrique que nous voulons »",
+      "Règle : l'Agenda 2063 est le cadre stratégique de l'UA pour les cinquante ans à venir. Son document-cadre a été adopté en janvier 2015 par la 24e Conférence des chefs d'État et de gouvernement. Il comporte sept aspirations, dont « une Afrique prospère fondée sur la croissance inclusive et le développement durable » et « une Afrique de bonne gouvernance, de démocratie, de respect des droits de l'homme, de justice et d'état de droit ».",
+      "Pourquoi ? 2063 marque le centenaire de l'OUA : l'Agenda fixe un horizon commun pour éviter que chaque État ne planifie isolément.",
+      "Sa mise en œuvre passe par des plans décennaux : le premier couvrait 2014-2023, premier d'une série de cinq. Les projets phares incluent la ZLECAf, un réseau intégré de trains à grande vitesse, le barrage du Grand Inga (environ 43 200 MW estimés), le marché unique du transport aérien africain et le passeport africain.",
+      "? Citez deux projets phares de l'Agenda 2063 utiles pour illustrer l'intégration physique du continent. || Le réseau intégré de trains à grande vitesse, qui doit relier capitales et centres commerciaux, et le marché unique du transport aérien africain, qui vise à connecter les capitales entre elles. Les deux répondent à la faiblesse des liaisons entre pays africains.",
+      "## Notion 4 : la ZLECAf, le marché continental",
+      "Règle : l'accord portant création de la Zone de libre-échange continentale africaine a été signé à Kigali le 21 mars 2018 par 44 États. Il est entré en vigueur le 30 mai 2019, après le seuil de 22 ratifications. La ZLECAf a été lancée à Niamey le 7 juillet 2019 et les échanges ont débuté le 1er janvier 2021. Son Secrétariat est installé à Accra.",
+      "Pourquoi ? Les économies africaines commercent peu entre elles. Créer un marché unique des biens et des services doit favoriser l'industrialisation et poser les bases d'une future union douanière continentale.",
+      "~ Exemple chiffré : en novembre 2023, le Secrétariat recensait 54 États signataires et 47 États parties. Écart : 54 − 47 = 7 États avaient signé sans encore ratifier. Signer, c'est s'engager politiquement ; ratifier, c'est être juridiquement lié.",
+      "! Kigali est la ville de la signature, Accra celle du Secrétariat, Niamey celle du lancement : ne les intervertissez pas.",
+      "## Notion 5 : CEDEAO et UEMOA, deux cercles ouest-africains",
+      "Règle : l'UEMOA a été créée par un traité signé à Dakar le 10 janvier 1994 par sept États ; la Guinée-Bissau l'a rejointe le 2 mai 1997, devenant le huitième membre et le seul non francophone. Ses membres partagent le franc CFA et une banque centrale, la BCEAO, établie à Dakar ; la Commission siège à Ouagadougou.",
+      "La CEDEAO, plus large, a perdu trois membres : le retrait du Burkina Faso, du Mali et du Niger a pris effet le 29 janvier 2025. Elle compte désormais douze États. Ces trois pays, réunis dans l'Alliance des États du Sahel (AES), n'ont pas quitté l'UEMOA.",
+      "Pourquoi ? La CEDEAO est une communauté économique et politique ; l'UEMOA est d'abord une union monétaire. Quitter la première ne fait pas sortir de la seconde.",
+      "~ Exemple résolu : un Burkinabè veut s'installer à Abidjan en février 2025. Le communiqué de la CEDEAO du 29 janvier 2025 maintient « jusqu'à nouvel ordre » le droit de circulation, de résidence et d'établissement sans visa pour les citoyens des trois pays. Il peut donc s'installer, en vertu de ces mesures transitoires.",
+      "? Vrai ou faux : « Depuis janvier 2025, le Mali n'utilise plus le franc CFA. » || Faux. Le Mali a quitté la CEDEAO, pas l'UEMOA. Or la monnaie commune, le franc CFA émis par la BCEAO, relève de l'UEMOA. Le retrait de la CEDEAO n'a donc pas d'effet monétaire direct.",
+      "## Le débat pour la dissertation",
+      "Pour : l'UA a doté le continent d'une vision commune (Agenda 2063) et d'un marché en construction (ZLECAf) ; les communautés régionales facilitent la libre circulation. Contre : les retraits de 2025 montrent la fragilité des organisations face aux crises politiques ; l'écart entre signatures et ratifications révèle la lenteur de l'intégration. Pour la Côte d'Ivoire, membre des trois cercles, l'enjeu est de tirer profit du marché continental tout en préservant la cohésion ouest-africaine."
+     ],
+     "retenir": [
+      "L'OUA est créée le 25 mai 1963 à Addis-Abeba ; l'Union africaine est lancée à Durban le 9 juillet 2002.",
+      "L'Acte constitutif de l'UA est adopté à Lomé le 11 juillet 2000 et entre en vigueur le 26 mai 2001.",
+      "L'UA compte 55 États membres ; son siège est à Addis-Abeba, son Parlement panafricain à Midrand (Afrique du Sud).",
+      "L'Agenda 2063, adopté en janvier 2015, compte sept aspirations et un premier plan décennal 2014-2023.",
+      "ZLECAf : signée à Kigali le 21 mars 2018, en vigueur le 30 mai 2019, échanges depuis le 1er janvier 2021, Secrétariat à Accra.",
+      "UEMOA : traité de Dakar du 10 janvier 1994 ; huit membres depuis l'adhésion de la Guinée-Bissau en 1997.",
+      "Le retrait du Burkina Faso, du Mali et du Niger de la CEDEAO a pris effet le 29 janvier 2025 ; ils restent dans l'UEMOA."
+     ],
+     "exo": {
+      "tag": "niv-cm04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Country Reports – Union africaine (faits essentiels)",
+       "u": "https://www.countryreports.org/fr/global/african-union"
+      },
+      {
+       "t": "Wikipedia – Constitutive Act of the African Union",
+       "u": "https://en.wikipedia.org/wiki/Constitutive_Act_of_the_African_Union"
+      },
+      {
+       "t": "Wikipedia – Pan-African Parliament",
+       "u": "https://en.wikipedia.org/wiki/Pan-African_Parliament"
+      },
+      {
+       "t": "Union africaine – Agenda 2063 (OAU 60)",
+       "u": "https://oau60.au.int/index.php/en/agenda-2063"
+      },
+      {
+       "t": "Union africaine – L'UA en bref, Agenda 2063 et projets phares",
+       "u": "https://au.int/fr/node/31845"
+      },
+      {
+       "t": "Secrétariat de la ZLECAf – Fiches d'information (novembre 2023)",
+       "u": "https://au-afcfta.org/wp-content/uploads/2023/11/FRENCH-FACTSHEET-BOOKLET-.pdf"
+      },
+      {
+       "t": "OMC – Présentation de la ZLECAf (2022)",
+       "u": "https://www.wto.org/french/news_f/news22_f/ldevc_21oct22_afcfta_f.pdf"
+      },
+      {
+       "t": "CEDEAO – Communiqué sur le retrait du Burkina Faso, du Mali et du Niger (29 janvier 2025)",
+       "u": "https://ecowas.int/wp-content/uploads/2025/01/FINAL_Communique-de-Presse_CEDEAO_Retrait-BURKINA_MALI_NIGER.pdf"
+      },
+      {
+       "t": "AllAfrica / RFI – Les pays de l'AES ne sont officiellement plus membres de la Cédéao (29 janvier 2025)",
+       "u": "https://fr.allafrica.com/stories/202501290287.html"
+      },
+      {
+       "t": "Wikipedia – West African Economic and Monetary Union",
+       "u": "https://en.wikipedia.org/wiki/West_African_Economic_and_Monetary_Union"
+      }
+     ]
+    },
+    {
+     "id": "L20261031op03",
+     "niv": "op03",
+     "m": "opaj",
+     "titre": "Le pouvoir exécutif",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez décrire les trois composantes de l'exécutif ivoirien (Président, Vice-Président, Gouvernement), leurs pouvoirs et leurs rapports, articles de la Constitution à l'appui.",
+      "= Vous saurez résoudre un cas pratique de vacance ou d'absence du Président.",
+      "## Ce que demande l'épreuve",
+      "En OPAJ, le pouvoir exécutif revient sous forme de sujet de cours (« Le Président de la République dans la Constitution de 2016 »), de question de cours ou de cas pratique (« le Président est à l'étranger : qui préside le Conseil des ministres ? »). Le correcteur attend des articles exacts et une organisation claire.",
+      "! Pièges habituels : faire du Premier ministre un chef de l'exécutif autonome ; croire que le Vice-Président est élu séparément ; oublier que la vacance et la simple absence obéissent à des règles différentes.",
+      "## La méthode, pas à pas",
+      "- 1. Partez de l'article 53 : l'exécutif comprend le Président, le Vice-Président et le Gouvernement.",
+      "- 2. Pour chaque organe, retenez : désignation, conditions, attributions, responsabilité.",
+      "- 3. Pour un cas pratique, demandez-vous d'abord s'il s'agit d'une absence temporaire (hors du territoire) ou d'une vacance (décès, démission, empêchement absolu).",
+      "- 4. Citez l'article, puis appliquez-le aux faits, puis concluez par une phrase nette.",
+      "~ Exemple de conclusion de cas pratique : « En application de l'article 80, le Vice-Président supplée le Président absent du territoire ; il présidera le Conseil des ministres si un décret lui délègue cette présidence pour un ordre du jour précis. »"
+     ],
+     "fond": [
+      "## Notion 1 : le Président de la République, clé de voûte de l'exécutif",
+      "Règle : selon l'article 54, le Président est le Chef de l'État ; il incarne l'unité nationale et veille au respect de la Constitution. L'article 63 en fait le détenteur exclusif du pouvoir exécutif.",
+      "Il est élu pour cinq ans au suffrage universel direct et n'est rééligible qu'une fois (article 55). Le scrutin est majoritaire à deux tours : le premier tour a lieu le dernier samedi d'octobre de la cinquième année du mandat ; à défaut de majorité absolue, un second tour oppose les deux premiers le dernier samedi de novembre (article 56).",
+      "Conditions (article 55) : jouir de ses droits civils et politiques, être âgé de 35 ans au moins, être exclusivement de nationalité ivoirienne et né de père ou de mère ivoirien d'origine.",
+      "Pourquoi ? Le régime ivoirien est présidentiel : l'élection directe donne au Président une légitimité propre, qui justifie la concentration du pouvoir exécutif entre ses mains.",
+      "~ Exemple résolu : un candidat de 34 ans peut-il se présenter ? Étape 1 : l'article 55 exige 35 ans au moins. Étape 2 : 34 < 35. Conclusion : la candidature est irrecevable, quel que soit le reste du dossier.",
+      "## Notion 2 : les pouvoirs du Président",
+      "Règle : le Président nomme aux emplois civils et militaires et dirige l'Administration (article 67) ; il est chef suprême des armées (article 68) ; il dispose du droit de grâce (article 66) ; il préside le Conseil des ministres (article 71). Il promulgue les lois dans les trente jours de leur transmission, délai réduit à cinq jours en cas d'urgence (article 74), et peut soumettre au référendum tout projet ou toute question (article 75).",
+      "Il dispose enfin de pouvoirs exceptionnels (article 73) : en cas de menace grave et immédiate sur les institutions, l'indépendance, l'intégrité du territoire ou les engagements internationaux, et d'interruption du fonctionnement des pouvoirs publics, il prend les mesures exigées, après consultation des présidents de l'Assemblée nationale, du Sénat et du Conseil constitutionnel. Le Parlement se réunit alors de plein droit.",
+      "Pourquoi ? Ces garde-fous (consultations, réunion de droit du Parlement, message à la Nation) encadrent un pouvoir de crise qui, sans eux, menacerait les libertés.",
+      "! Le Président peut demander une seconde délibération d'une loi : elle ne peut lui être refusée (article 74). Ce n'est pas un veto définitif.",
+      "? Une loi est transmise au Président le 1er mars, sans procédure d'urgence. Jusqu'à quand doit-il la promulguer, au plus tard ? || L'article 74 fixe un délai de trente jours à compter de la transmission. Du 1er mars, on compte trente jours : la promulgation doit intervenir au plus tard le 31 mars. En cas d'urgence, le délai serait réduit à cinq jours.",
+      "## Notion 3 : le Vice-Président",
+      "Règle : le Vice-Président n'est pas élu au suffrage universel. Le Président le choisit, avec l'accord du Parlement (article 55). Il doit remplir les mêmes conditions d'âge et de nationalité que le Président (article 78) et prête serment devant le Conseil constitutionnel (article 79).",
+      "Il agit par délégation du Président et le supplée lorsqu'il est hors du territoire national ; le Président peut alors, par décret, lui déléguer la présidence du Conseil des ministres sur un ordre du jour précis (article 80).",
+      "Pourquoi ? La révision du 19 mars 2020 (loi n° 2020-348) a modifié les articles 55 et 78 à 79 : le Vice-Président, dépendant du Président, garantit la continuité de l'exécutif sans créer un second pôle de légitimité populaire.",
+      "## Notion 4 : la vacance de la présidence",
+      "Règle (article 62) : en cas de vacance par décès, démission ou empêchement absolu, le Vice-Président devient Président de la République après avoir prêté serment ; il achève le mandat en cours. L'empêchement absolu est constaté sans délai par le Conseil constitutionnel, saisi par le Gouvernement statuant à la majorité de ses membres.",
+      "Si la vice-présidence est elle-même vacante au moment où la présidence le devient, les fonctions présidentielles sont exercées par le Premier ministre jusqu'au terme du mandat. Le Président intérimaire ne peut pas recourir à certaines prérogatives, notamment le référendum de l'article 75 alinéa 1.",
+      "~ Cas pratique résolu : le Président démissionne ; le Vice-Président est en fonction. Étape 1 : il s'agit d'une vacance (démission), non d'une absence. Étape 2 : l'article 62 désigne le Vice-Président. Étape 3 : il prête serment et achève le mandat, sans élection anticipée.",
+      "? Le Président est en voyage officiel à l'étranger. Le Vice-Président peut-il présider le Conseil des ministres de plein droit ? || Non. L'absence du territoire n'est pas une vacance. L'article 80 permet au Vice-Président de suppléer le Président, mais il ne préside le Conseil des ministres que si un décret du Président lui en délègue la présidence pour un ordre du jour déterminé.",
+      "## Notion 5 : le Gouvernement et le Premier ministre",
+      "Règle : le Gouvernement comprend le Premier ministre, chef du Gouvernement, et les ministres ; il conduit la politique de la Nation définie par le Président (article 81). Le Premier ministre anime et coordonne l'action gouvernementale et préside le Conseil de gouvernement, réunion préparatoire au Conseil des ministres (article 82). Il supplée le Président lorsque celui-ci et le Vice-Président sont tous deux hors du territoire.",
+      "Les fonctions de membre du Gouvernement sont incompatibles avec tout emploi public et toute activité professionnelle ; le député nommé au Gouvernement ne peut siéger au Parlement pendant ses fonctions (article 84).",
+      "Pourquoi ? Dans un régime présidentiel, le Gouvernement est l'instrument du Président : il exécute un programme défini au sommet de l'État.",
+      "? Le Président et le Vice-Président assistent ensemble à un sommet à l'étranger. Qui assure la suppléance au pays ? || Le Premier ministre. L'article 82 prévoit qu'il supplée le Président lorsque le Président et le Vice-Président sont tous deux hors du territoire national. Il s'agit d'une absence temporaire, non d'une vacance."
+     ],
+     "retenir": [
+      "Article 53 : le pouvoir exécutif comprend le Président de la République, le Vice-Président et le Gouvernement.",
+      "Le Président est élu pour cinq ans au suffrage universel direct et n'est rééligible qu'une fois (article 55).",
+      "Le candidat à la présidence doit avoir 35 ans au moins et être exclusivement de nationalité ivoirienne (article 55).",
+      "Le Président promulgue les lois dans les trente jours de leur transmission, cinq jours en cas d'urgence (article 74).",
+      "Le Vice-Président est choisi par le Président avec l'accord du Parlement ; il supplée le Président hors du territoire (articles 55 et 80).",
+      "En cas de vacance, le Vice-Président devient Président et achève le mandat (article 62).",
+      "Le Premier ministre coordonne l'action gouvernementale et préside le Conseil de gouvernement (article 82)."
+     ],
+     "exo": {
+      "tag": "niv-op03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      },
+      {
+       "t": "Refworld – Loi n° 2016-886 du 8 novembre 2016 portant Constitution (références et révisions)",
+       "u": "https://www.refworld.org/node/20384"
+      }
+     ]
+    },
+    {
+     "id": "L20261031cg05",
+     "niv": "cg05",
+     "m": "cg",
+     "titre": "Côte d'Ivoire : géographie et organisation du territoire",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer la Côte d'Ivoire, décrire son relief, ses quatre grands fleuves et ses zones climatiques, chiffres vérifiés à l'appui.",
+      "= Vous saurez présenter l'organisation actuelle du territoire : 31 régions et deux districts autonomes depuis la suppression de douze districts en 2026.",
+      "## Ce que demande le concours",
+      "La géographie nationale revient chaque année dans les QCM de culture générale et sert d'exemple dans les dissertations (aménagement du territoire, décentralisation, agriculture, climat). On attend des repères sûrs : voisins, fleuves, saisons, découpage administratif.",
+      "! Pièges habituels : confondre le fleuve le plus long (Comoé) et le bassin le plus vaste (Bandama) ; inverser les régimes de pluies du nord et du sud ; réciter le chiffre de « 14 districts autonomes », devenu faux en 2026.",
+      "## La méthode, pas à pas",
+      "- 1. Retenez la carte d'ouest en est : Cavally, Sassandra, Bandama, Comoé.",
+      "- 2. Retenez le climat du sud au nord : quatre saisons au sud, une seule saison des pluies au nord.",
+      "- 3. Pour l'organisation du territoire, vérifiez toujours la date : les textes ont changé en 2011, 2014, 2021 et 2026.",
+      "- 4. En QCM, éliminez d'abord les voisins impossibles et les ordres de grandeur absurdes.",
+      "~ Repère mnémotechnique : « Ca-Sa-Ba-Co » donne les quatre fleuves d'ouest en est : Cavally, Sassandra, Bandama, Comoé."
+     ],
+     "fond": [
+      "## Notion 1 : situation, frontières et superficie",
+      "Règle : la Côte d'Ivoire couvre environ 322 460 km². Elle est bordée au sud par le golfe de Guinée, sur une côte d'environ 550 km ; à l'ouest par la Guinée et le Liberia ; au nord par le Mali et le Burkina Faso ; à l'est par le Ghana.",
+      "Pourquoi ? Cette ouverture maritime, avec cinq voisins, fait du pays une porte d'entrée vers les États sahéliens enclavés : c'est l'un des fondements de son rôle économique régional.",
+      "~ Exemple : quels voisins n'ont pas d'accès à la mer ? Parmi les cinq, le Mali et le Burkina Faso sont enclavés ; la Guinée, le Liberia et le Ghana ont une façade atlantique. Les ports ivoiriens servent donc de débouché aux deux premiers.",
+      "? Citez les voisins de la Côte d'Ivoire en tournant de l'ouest vers l'est par le nord. || À l'ouest : le Liberia et la Guinée ; au nord : le Mali et le Burkina Faso ; à l'est : le Ghana. Soit cinq pays, auxquels s'ajoute le golfe de Guinée au sud.",
+      "## Notion 2 : un relief modeste, des montagnes à l'ouest",
+      "Règle : le relief est peu prononcé ; il est surtout fait de plateaux de 100 à 400 m d'altitude. À l'ouest, quelques sommets dépassent 1 000 m. Le massif du Nimba, aux confins de la Guinée, du Liberia et de la Côte d'Ivoire, culmine à 1 752 m.",
+      "Pourquoi est-ce utile ? Ce relief de plateaux facilite les communications et l'agriculture ; les reliefs vigoureux sont concentrés dans l'Ouest montagneux, autour des montagnes de Man.",
+      "La réserve naturelle intégrale du mont Nimba, partagée avec la Guinée, est inscrite au patrimoine mondial de l'UNESCO depuis 1981 et figure sur la liste du patrimoine mondial en péril depuis 1992.",
+      "! Le Nimba est transfrontalier : en QCM, ne le placez ni au nord du pays ni sur la côte.",
+      "## Notion 3 : quatre grands fleuves orientés nord-sud",
+      "Règle : quatre fleuves s'écoulent du nord vers le sud. Le Cavally (700 km) marque l'ouest ; le Sassandra (650 km) naît en Guinée ; le Bandama (1 050 km), formé du Bandama blanc, du Bandama rouge (ou Marahoué) et du N'Zi, draine le plus vaste bassin, 97 000 km² ; la Comoé (1 160 km), née au Burkina Faso, est le plus long.",
+      "Pourquoi ? Leur pente vers le golfe de Guinée explique leur orientation commune ; le pays compte de grands barrages et lacs de retenue, comme ceux de Kossou, de Buyo ou d'Ayamé.",
+      "~ Exemple résolu : quel fleuve a le plus long cours ? Comparez : Comoé 1 160 km > Bandama 1 050 km > Cavally 700 km > Sassandra 650 km. Réponse : la Comoé. Mais pour le bassin, le Bandama l'emporte (97 000 km² contre 78 000 km² pour la Comoé en territoire ivoirien).",
+      "Le littoral est bordé d'un réseau de lagunes reliées entre elles, qui s'étend sur environ 322 km depuis la frontière ghanéenne vers l'ouest ; Abidjan est bâtie sur la lagune Ébrié.",
+      "? Un candidat affirme : « Le Bandama est le plus long fleuve ivoirien. » Corrigez. || L'affirmation confond longueur et bassin. Le plus long fleuve est la Comoé (1 160 km). Le Bandama (1 050 km) a en revanche le plus vaste bassin versant, 97 000 km².",
+      "## Notion 4 : trois zones climatiques",
+      "Règle : au sud, la zone guinéenne (la moitié du territoire) connaît un climat subéquatorial à quatre saisons : grande saison sèche (décembre à mars), grande saison des pluies (mars à juin), petite saison sèche (juillet-août), petite saison des pluies (septembre à novembre). Il y tombe plus de 1 500 mm par an.",
+      "Au centre, une zone de transition reçoit 1 200 à 1 500 mm, de façon irrégulière. Au nord, la zone soudanienne (31 % du territoire), domaine de la savane, n'a qu'une seule saison des pluies et reçoit 900 à 1 200 mm.",
+      "Pourquoi ? Plus on s'éloigne de l'océan, plus l'influence humide diminue : les pluies baissent et se concentrent sur une seule saison. La forêt dense domine donc au sud, la savane au nord.",
+      "! Ne dites pas que le sud a « deux saisons » : il en a quatre, dont deux saisons des pluies.",
+      "## Notion 5 : l'organisation du territoire",
+      "Règle : le territoire compte 31 régions ; les districts autonomes d'Abidjan et de Yamoussoukro ne sont pas découpés en régions.",
+      "Historique des districts : créés en 2011, supprimés en 2014 sauf Abidjan et Yamoussoukro, ils sont rétablis par un décret du 9 juin 2021, qui crée douze districts autonomes couvrant chacun au moins deux régions, par exemple le district de la Comoé (chef-lieu Abengourou). Le décret n° 2026-05/2 du 7 janvier 2026 abroge ce décret de 2021 et supprime ces douze districts. Seuls demeurent les districts autonomes d'Abidjan et de Yamoussoukro.",
+      "Pourquoi ? Le personnel et le patrimoine des districts supprimés sont transférés aux circonscriptions administratives et aux collectivités territoriales concernées : l'État simplifie l'échelon intermédiaire entre régions et pouvoir central.",
+      "? En novembre 2026, combien la Côte d'Ivoire compte-t-elle de districts autonomes ? || Deux : Abidjan et Yamoussoukro. Les douze districts créés en 2021 ont été supprimés par le décret n° 2026-05/2 du 7 janvier 2026, publié au Journal officiel du 17 février 2026."
+     ],
+     "retenir": [
+      "La Côte d'Ivoire couvre environ 322 460 km² et possède une côte d'environ 550 km sur le golfe de Guinée.",
+      "Cinq voisins : Liberia et Guinée à l'ouest, Mali et Burkina Faso au nord, Ghana à l'est.",
+      "Le massif du Nimba, partagé avec la Guinée et le Liberia, culmine à 1 752 m.",
+      "Fleuves d'ouest en est : Cavally, Sassandra, Bandama, Comoé ; la Comoé est le plus long (1 160 km).",
+      "Le Bandama, formé du Bandama blanc, de la Marahoué et du N'Zi, draine le plus vaste bassin (97 000 km²).",
+      "Le sud a quatre saisons, dont deux saisons des pluies ; le nord soudanien n'a qu'une saison des pluies.",
+      "Depuis le décret du 7 janvier 2026, seuls Abidjan et Yamoussoukro restent districts autonomes ; le pays compte 31 régions."
+     ],
+     "exo": {
+      "tag": "niv-cg05",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "FAO AQUASTAT – Profil de pays : Côte d'Ivoire",
+       "u": "https://www.fao.org/fileadmin/user_upload/aquastat/pdf_files/CIV_cotedivoire_cp.pdf"
+      },
+      {
+       "t": "Country Reports – Côte d'Ivoire : géographie et environnement",
+       "u": "https://www.countryreports.org/fr/country/cotedivoire/geography"
+      },
+      {
+       "t": "Ministère français de l'Europe et des Affaires étrangères – Carte de la Côte d'Ivoire (mars 2025)",
+       "u": "https://www.diplomatie.gouv.fr/IMG/pdf/cote_d_ivoire_2025_web_cle066734.pdf"
+      },
+      {
+       "t": "Natural World Heritage Sites – Mount Nimba Strict Nature Reserve",
+       "u": "https://www.naturalworldheritagesites.org/sites/mount-nimba-strict-nature-reserve"
+      },
+      {
+       "t": "Wikipedia – Regions of Ivory Coast",
+       "u": "https://en.wikipedia.org/wiki/Regions_of_Ivory_Coast"
+      },
+      {
+       "t": "Wikipedia – Districts of Ivory Coast",
+       "u": "https://en.wikipedia.org/wiki/Districts_of_Ivory_Coast"
+      },
+      {
+       "t": "Fraternité Matin – Communiqué du Conseil des ministres du 9 juin 2021",
+       "u": "https://www.fratmat.info/article/213369/politique/communique-du-conseil-des-ministres-du-mercredi-09-juin-2021"
+      },
+      {
+       "t": "Gouvernement de Côte d'Ivoire – Revue de presse nationale du 19 mars 2026",
+       "u": "https://www.gouv.ci/uploads/publications/177391418881.pdf"
+      },
+      {
+       "t": "Afrik Soir – Alassane Ouattara tourne la page des districts autonomes (18 mars 2026)",
+       "u": "https://afriksoir.net/cote-divoire-alassane-ouattara-tourne-la-page-des-districts-autonomes/"
+      },
+      {
+       "t": "Le Mandat Express – Alassane Ouattara supprime les 12 nouveaux districts autonomes (18 mars 2026)",
+       "u": "https://www.lemandatexpress.net/2026/03/18/cote-divoire-alassane-ouattara-supprime-les-12-nouveaux-districts-autonomes/"
+      },
+      {
+       "t": "Ivoire-Juriste – Principaux textes publiés en février 2026 (JO n° 5 spécial du 17 février 2026)",
+       "u": "https://blog.ivoire-juriste.com/2026/06/httpsblog.ivoire-juriste.com202606actualite-juridique-2026-principaux-Textes-Publies-en-fevrier-2026.html"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "opaj",
+     "src": "original",
+     "ref": "Entraînement · 31 oct. 2026",
+     "t": "Le Président de la République, clé de voûte du pouvoir exécutif dans la Constitution ivoirienne de 2016.",
+     "plan": [
+      "Introduction : définir le pouvoir exécutif (article 53 : Président, Vice-Président, Gouvernement) ; rappeler la Constitution du 8 novembre 2016 révisée le 19 mars 2020 ; problématique : la prééminence du Président fait-elle des autres organes de simples relais ?",
+      "I. Un Président au cœur de l'exécutif : A. une légitimité directe (article 55 : élection au suffrage universel direct pour cinq ans) ; B. des pouvoirs étendus (articles 63 à 75 : détenteur exclusif du pouvoir exécutif, nominations, armées, promulgation, référendum, pouvoirs exceptionnels encadrés par l'article 73).",
+      "II. Des organes associés mais subordonnés : A. le Vice-Président, choisi par le Président avec l'accord du Parlement, garant de la continuité (articles 62 et 80) ; B. le Gouvernement, qui conduit la politique définie par le Président et en est responsable devant lui (articles 81 à 83).",
+      "Conclusion : la Constitution consacre un exécutif présidentiel cohérent, dont la continuité est assurée ; ouverture sur les contrepoids exercés par le Parlement et le Conseil constitutionnel."
+     ]
+    }
+   ]
   }
  ]
 }
