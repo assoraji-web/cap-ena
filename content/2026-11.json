@@ -1,0 +1,1298 @@
+{
+ "month": "2026-11",
+ "days": [
+  {
+   "date": "2026-11-01",
+   "questions": [
+    {
+     "id": "n20261101-dp03-01",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Selon l'article 3 du Code pénal ivoirien, sur quel critère les infractions sont-elles classées en crimes, délits et contraventions ?",
+     "o": [
+      "Leur gravité",
+      "Le lieu de leur commission",
+      "La qualité de la victime",
+      "Le mobile de l'auteur"
+     ],
+     "a": 0,
+     "e": "L'article 3 classe les infractions « suivant leur gravité », mesurée par la peine encourue : peine privative de liberté et amende.",
+     "ed": [
+      null,
+      "Le lieu de commission ne détermine pas la catégorie : seule la peine encourue, reflet de la gravité, compte.",
+      "La qualité de la victime peut aggraver une peine, mais elle n'est pas le critère de la classification tripartite.",
+      "Le mobile est sans conséquence sur la responsabilité (article 95) et ne sert pas à classer les infractions."
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-dp03-02",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Une infraction est passible de quinze ans d'emprisonnement. Comment est-elle classée par le Code pénal ivoirien ?",
+     "o": [
+      "Délit",
+      "Contravention",
+      "Crime",
+      "Infraction d'habitude"
+     ],
+     "a": 2,
+     "e": "Est un crime l'infraction passible d'une peine privative de liberté perpétuelle ou temporaire supérieure à dix ans (article 3) ; quinze ans dépasse ce seuil.",
+     "ed": [
+      "Le délit est plafonné à dix ans d'emprisonnement ; quinze ans excède ce plafond.",
+      "La contravention ne dépasse pas deux mois d'emprisonnement.",
+      null,
+      "L'infraction d'habitude est une catégorie fondée sur la répétition de l'acte, non sur la gravité de la peine."
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-dp03-03",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Un texte punit un fait de dix ans d'emprisonnement exactement. Selon l'article 3 du Code pénal, ce fait est :",
+     "o": [
+      "un crime, car la peine atteint dix ans",
+      "un délit",
+      "une contravention",
+      "un crime ou un délit au choix du juge"
+     ],
+     "a": 1,
+     "e": "Le crime suppose une peine « supérieure à dix ans » ; le délit couvre les peines supérieures à deux mois et « inférieures ou égales à dix ans ». Dix ans exactement relève donc du délit.",
+     "ed": [
+      "Le seuil du crime est strictement supérieur à dix ans : dix ans exactement n'y suffit pas.",
+      null,
+      "La contravention est limitée à deux mois d'emprisonnement au plus.",
+      "La catégorie découle de la peine encourue fixée par la loi, pas d'un choix du juge."
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-dp03-04",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Quel texte détermine les contraventions selon l'article 4 du Code pénal ivoirien ?",
+     "o": [
+      "La loi organique",
+      "L'arrêté préfectoral",
+      "La circulaire ministérielle",
+      "Le décret"
+     ],
+     "a": 3,
+     "e": "L'article 4 dispose que le décret détermine les contraventions et fixe les peines, dans les limites et selon les distinctions établies par l'article 3.",
+     "ed": [
+      "La loi organique sert à organiser les institutions ; le Code confie les contraventions au décret.",
+      "L'article 4 vise le décret, non l'arrêté d'une autorité locale.",
+      "Une circulaire n'a pas de valeur réglementaire suffisante pour créer une infraction.",
+      null
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-dp03-05",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Une infraction est punie de deux mois d'emprisonnement et de 100 000 francs d'amende. De quelle catégorie relève-t-elle ?",
+     "o": [
+      "Contravention",
+      "Délit",
+      "Crime",
+      "Délit, car il y a de l'emprisonnement"
+     ],
+     "a": 0,
+     "e": "La contravention est passible d'une peine privative de liberté inférieure ou égale à deux mois et d'une amende inférieure ou égale à 360 000 francs (article 3) : les deux bornes sont respectées.",
+     "ed": [
+      null,
+      "Le délit commence au-delà de deux mois d'emprisonnement ou au-delà de 360 000 francs d'amende.",
+      "Le crime suppose plus de dix ans de privation de liberté.",
+      "Une contravention peut comporter de l'emprisonnement, jusqu'à deux mois : la présence d'une peine de prison ne suffit pas à faire un délit."
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-dp03-06",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Une infraction n'est punie que d'une amende de 500 000 francs. Selon l'article 3 du Code pénal, il s'agit :",
+     "o": [
+      "d'une contravention, faute de peine de prison",
+      "d'un crime",
+      "d'un délit",
+      "d'une infraction non classée"
+     ],
+     "a": 2,
+     "e": "L'article 3 range parmi les délits l'infraction passible d'une amende supérieure à 360 000 francs, même si c'est la seule peine prévue (« ou de l'une de ces deux peines seulement »).",
+     "ed": [
+      "La contravention est plafonnée à 360 000 francs d'amende ; 500 000 francs dépasse ce plafond.",
+      "Le crime se définit par une peine privative de liberté supérieure à dix ans, non par une amende.",
+      null,
+      "Toute infraction entre dans l'une des trois catégories de l'article 3."
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-dp03-07",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Selon l'article 94-1 du Code pénal, issu de la loi du 21 décembre 2021, quelle circonstance fait disparaître une contravention ?",
+     "o": [
+      "L'absence d'intention",
+      "Le mobile honorable de l'auteur",
+      "L'ignorance de la loi pénale",
+      "La force majeure"
+     ],
+     "a": 3,
+     "e": "L'article 94-1 dispose qu'« il n'y a pas de contravention en cas de force majeure ». Pour les contraventions, l'intention n'est pas exigée.",
+     "ed": [
+      "L'intention n'est exigée que pour les crimes et délits : son absence n'efface pas la contravention.",
+      "Le mobile est sans conséquence sur la responsabilité pénale (article 95).",
+      "L'ignorance de la loi pénale est sans conséquence sur la responsabilité (article 95).",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Loi n°2021-893 du 21 décembre 2021 modifiant le Code pénal",
+      "u": "https://loidici.biz/?p=22836"
+     }
+    },
+    {
+     "id": "n20261101-dp03-08",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Un prévenu reconnaît avoir volé, mais explique qu'il voulait nourrir ses enfants. Quel est l'effet de ce mobile sur sa responsabilité pénale ?",
+     "o": [
+      "Aucun : le mobile est sans conséquence sur la responsabilité",
+      "Il supprime l'élément moral",
+      "Il transforme le délit en contravention",
+      "Il rend le texte d'incrimination inapplicable"
+     ],
+     "a": 0,
+     "e": "L'article 95 du Code pénal prévoit que le mobile est sans conséquence sur la responsabilité. L'intention, c'est-à-dire vouloir l'acte interdit, reste établie.",
+     "ed": [
+      null,
+      "L'élément moral est l'intention de commettre l'acte, distincte de la raison personnelle d'agir.",
+      "La catégorie dépend de la peine encourue fixée par le texte, non du mobile.",
+      "Le texte d'incrimination s'applique à tous ceux qui commettent l'acte, quel que soit leur mobile."
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-dp03-09",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Comment la doctrine qualifie-t-elle une infraction qui se prolonge dans le temps par la réitération constante de la volonté coupable ?",
+     "o": [
+      "Instantanée",
+      "Continue",
+      "Formelle",
+      "D'omission"
+     ],
+     "a": 1,
+     "e": "L'infraction continue se prolonge par la réitération de la volonté coupable ; l'article 26 du Code pénal la répute commise jusqu'au moment où les faits ont pris fin.",
+     "ed": [
+      "L'infraction instantanée se consomme en un trait de temps, sans durée.",
+      null,
+      "L'infraction formelle se définit par l'indifférence du résultat, non par sa durée.",
+      "L'infraction d'omission se définit par un défaut d'action, non par sa durée."
+     ],
+     "src": {
+      "t": "Gdroit – Les éléments constitutifs et les classifications de l'infraction",
+      "u": "https://gdroit.fr/?p=61950"
+     }
+    },
+    {
+     "id": "n20261101-dp03-10",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Une infraction est consommée par le seul comportement dangereux, même si le résultat redouté ne se produit pas. Elle est dite :",
+     "o": [
+      "matérielle",
+      "d'habitude",
+      "continue",
+      "formelle"
+     ],
+     "a": 3,
+     "e": "L'infraction est formelle lorsque la loi se contente du comportement dangereux sans exiger le résultat dommageable ; elle s'oppose à l'infraction matérielle.",
+     "ed": [
+      "L'infraction matérielle exige au contraire que le résultat dommageable se produise.",
+      "L'infraction d'habitude suppose la répétition d'actes, ce qui n'est pas en cause ici.",
+      "La continuité concerne la durée de l'infraction, non l'exigence d'un résultat.",
+      null
+     ],
+     "src": {
+      "t": "Gdroit – Les éléments constitutifs et les classifications de l'infraction",
+      "u": "https://gdroit.fr/?p=61950"
+     }
+    },
+    {
+     "id": "n20261101-dp03-11",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Un juge veut punir un comportement non prévu par la loi en appliquant un texte qui réprime un fait voisin. Que dit le Code pénal ivoirien ?",
+     "o": [
+      "C'est permis si le fait est aussi grave",
+      "C'est permis pour les seules contraventions",
+      "C'est interdit : l'application par analogie d'une disposition pénale est prohibée",
+      "C'est permis avec l'accord du ministère public"
+     ],
+     "a": 2,
+     "e": "L'article 16 interdit l'application par analogie d'une disposition pénale à un fait qu'elle n'a pas prévu, et l'article 14 interdit de punir un fait qui n'est pas légalement défini.",
+     "ed": [
+      "La gravité du fait ne remplace jamais le texte d'incrimination exigé par l'article 14.",
+      "L'interdiction de l'analogie vaut pour toutes les infractions, contraventions comprises.",
+      null,
+      "Le ministère public ne peut pas autoriser ce que le Code interdit."
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-dp03-12",
+     "m": "dpen",
+     "tag": "niv-dp03",
+     "q": "Selon l'article 26 du Code pénal ivoirien, quand une infraction est-elle commise ?",
+     "o": [
+      "Dès que l'auteur a formé le projet de la commettre",
+      "Lorsque tous ses éléments constitutifs sont réalisés et réunis",
+      "Dès que la victime porte plainte",
+      "Lorsque l'élément moral seul est établi"
+     ],
+     "a": 1,
+     "e": "L'article 26 dispose que l'infraction n'est commise que lorsque tous ses éléments constitutifs sont réalisés et réunis : texte, acte matériel et, s'il est exigé, élément moral.",
+     "ed": [
+      "Un simple projet n'est pas un acte extérieur : l'élément matériel manque.",
+      null,
+      "La plainte déclenche parfois les poursuites, mais elle n'est pas un élément constitutif de l'infraction.",
+      "L'élément moral seul ne suffit pas : il faut aussi le texte et l'acte matériel."
+     ],
+     "src": {
+      "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+     }
+    },
+    {
+     "id": "n20261101-mp05-01",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Selon l'article 47 du Statut général de la Fonction publique (loi n°2023-892), quelle est la voie normale de recrutement des fonctionnaires ?",
+     "o": [
+      "Le contrat à durée indéterminée",
+      "La cooptation par le chef de service",
+      "Le concours",
+      "L'entretien d'embauche"
+     ],
+     "a": 2,
+     "e": "L'article 47 dispose que les fonctionnaires sont recrutés par voie de concours ou, à titre dérogatoire, par décret ; les admis sont classés par ordre de mérite.",
+     "ed": [
+      "Le contrat relève des agents contractuels, non du recrutement des fonctionnaires.",
+      "La cooptation contredit l'égalité d'accès et le classement par mérite prévus par le statut.",
+      null,
+      "L'entretien n'est pas la voie de recrutement fixée par l'article 47."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261101-mp05-02",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Quelle est la durée du stage probatoire auquel est soumis un fonctionnaire nouvellement recruté (article 52 de la loi n°2023-892) ?",
+     "o": [
+      "Six mois",
+      "Une année",
+      "Deux années",
+      "Trois mois"
+     ],
+     "a": 1,
+     "e": "L'article 52 soumet toute personne admise à occuper un emploi public en qualité de fonctionnaire à un stage probatoire d'une année.",
+     "ed": [
+      "Six mois est inférieur à la durée fixée par l'article 52.",
+      null,
+      "Deux années ne correspondent qu'au cas d'une prolongation après un premier résultat insuffisant.",
+      "Trois mois ne correspond à aucune durée prévue par le statut."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261101-mp05-03",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "À l'issue de son stage probatoire, un agent obtient des résultats insuffisants. Que prévoit l'article 52 du Statut général ?",
+     "o": [
+      "Il est titularisé d'office",
+      "Il est immédiatement révoqué pour faute",
+      "Il est muté dans un autre ministère",
+      "Une seconde année de stage peut lui être accordée"
+     ],
+     "a": 3,
+     "e": "L'article 52 prévoit qu'en cas de résultats insuffisants une seconde année peut être accordée ; si les résultats restent insuffisants, il est mis fin à l'engagement.",
+     "ed": [
+      "La titularisation suppose des résultats satisfaisants : elle n'est pas automatique.",
+      "Un résultat insuffisant n'est pas une faute disciplinaire : le statut prévoit d'abord une prolongation.",
+      "La mutation n'est pas la conséquence prévue d'un stage insuffisant.",
+      null
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261101-mp05-04",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Lequel de ces éléments figure parmi les conditions d'accès à la Fonction publique fixées par l'article 48 de la loi n°2023-892 ?",
+     "o": [
+      "Avoir la nationalité ivoirienne",
+      "Être déjà agent contractuel de l'État",
+      "Être titulaire d'un permis de conduire",
+      "Résider à Abidjan"
+     ],
+     "a": 0,
+     "e": "L'article 48 exige notamment d'avoir la nationalité ivoirienne, de remplir les conditions d'âge, de jouir de ses droits civiques et d'être de bonne moralité, et d'être apte physiquement et mentalement.",
+     "ed": [
+      null,
+      "Le concours est ouvert à des candidats qui ne sont pas agents publics ; l'expérience contractuelle n'est pas exigée.",
+      "Le permis de conduire ne figure pas parmi les conditions générales d'accès.",
+      "Aucune condition de résidence à Abidjan n'est prévue ; une telle exigence serait discriminatoire."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261101-mp05-05",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Que reçoit chaque année le fonctionnaire en activité au titre de l'article 69 du Statut général ?",
+     "o": [
+      "Une prime de fin d'année fixe",
+      "Une note chiffrée suivie d'une appréciation générale",
+      "Un nouveau contrat de travail",
+      "Une attestation de présence"
+     ],
+     "a": 1,
+     "e": "L'article 69 prévoit chaque année une note chiffrée, suivie d'une appréciation générale exprimant la valeur professionnelle et le mérite du fonctionnaire, résultat qui lui est notifié.",
+     "ed": [
+      "L'article 69 organise l'évaluation, non le versement d'une prime.",
+      null,
+      "Le fonctionnaire est dans une situation statutaire, sans contrat à renouveler.",
+      "Une attestation de présence ne mesure pas la valeur professionnelle visée par l'évaluation."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261101-mp05-06",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Selon l'article 71 de la loi n°2023-892, de quoi tient compte l'avancement d'échelon ?",
+     "o": [
+      "De l'ancienneté seule",
+      "De l'âge et de la situation familiale",
+      "De l'ancienneté et de l'évaluation",
+      "Du seul avis du ministre"
+     ],
+     "a": 2,
+     "e": "L'article 71 dispose que l'avancement d'échelon tient compte à la fois de l'ancienneté et de l'évaluation ; l'avancement de classe, lui, récompense le mérite.",
+     "ed": [
+      "L'ancienneté ne suffit pas : l'évaluation est aussi prise en compte.",
+      "L'âge et la situation familiale ne sont pas des critères d'avancement d'échelon.",
+      null,
+      "L'avancement repose sur des critères statutaires, non sur la seule appréciation du ministre."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261101-mp05-07",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Comment l'article 76 du Statut général qualifie-t-il la formation continue ?",
+     "o": [
+      "Un droit pour le fonctionnaire, que l'État est tenu d'assurer",
+      "Une faveur laissée à la discrétion du chef de service",
+      "Une simple recommandation sans portée",
+      "Une sanction en cas de mauvaise note"
+     ],
+     "a": 0,
+     "e": "L'article 76 dispose que la formation continue est un droit pour le fonctionnaire et que l'État est tenu d'assurer une formation continue au fonctionnaire en activité.",
+     "ed": [
+      null,
+      "La formation n'est pas une faveur : l'État y est tenu par l'article 76.",
+      "L'article 76 crée un droit et une obligation, pas une simple recommandation.",
+      "La formation n'est pas une sanction ; elle relève des droits du fonctionnaire."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261101-mp05-08",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Selon l'article 83 de la loi n°2023-892, que récompensent les primes, par différence avec les indemnités ?",
+     "o": [
+      "Le nombre d'enfants à charge",
+      "La manière exemplaire de servir ou certaines sujétions particulières",
+      "Les frais de transport réellement engagés",
+      "L'ancienneté dans le grade"
+     ],
+     "a": 1,
+     "e": "L'article 83 précise que les primes récompensent la manière exemplaire de servir ou certaines sujétions ou conditions exigeantes, tandis que les indemnités compensent des charges ou aléas professionnels.",
+     "ed": [
+      "Les charges de famille ne sont pas l'objet des primes définies à l'article 83.",
+      null,
+      "Compenser des frais relève de l'indemnité, non de la prime.",
+      "L'ancienneté joue sur l'avancement d'échelon, pas sur la définition des primes."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+     }
+    },
+    {
+     "id": "n20261101-mp05-09",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Dans la hiérarchie des besoins d'Abraham Maslow (1943), quel besoin se situe au sommet ?",
+     "o": [
+      "La sécurité",
+      "L'appartenance",
+      "Les besoins physiologiques",
+      "L'accomplissement de soi"
+     ],
+     "a": 3,
+     "e": "Maslow classe cinq besoins : physiologiques, sécurité, appartenance (amour), estime et, au sommet, accomplissement de soi (self-actualization).",
+     "ed": [
+      "La sécurité est le deuxième niveau, juste au-dessus des besoins physiologiques.",
+      "L'appartenance est le troisième niveau, sous l'estime et l'accomplissement.",
+      "Les besoins physiologiques forment la base de la pyramide, non son sommet.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Maslow's hierarchy of needs",
+      "u": "https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs"
+     }
+    },
+    {
+     "id": "n20261101-mp05-10",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Selon la théorie des deux facteurs de Frederick Herzberg, un salaire raisonnable est :",
+     "o": [
+      "un facteur de motivation majeur",
+      "un facteur d'hygiène, dont l'absence démotive",
+      "un besoin d'accomplissement de soi",
+      "un élément de la théorie Y"
+     ],
+     "a": 1,
+     "e": "Pour Herzberg, un salaire raisonnable et la sécurité de l'emploi sont des facteurs d'hygiène : leur absence crée l'insatisfaction, mais leur présence ne suffit pas à motiver.",
+     "ed": [
+      "Les facteurs de motivation sont la reconnaissance, la promotion ou l'intérêt du travail, pas le salaire.",
+      null,
+      "L'accomplissement de soi est une notion de Maslow, non une catégorie de Herzberg.",
+      "La théorie Y appartient à McGregor et décrit une vision de l'agent, non le salaire."
+     ],
+     "src": {
+      "t": "Wikipedia – Frederick Herzberg",
+      "u": "https://en.wikipedia.org/wiki/Frederick_Herzberg"
+     }
+    },
+    {
+     "id": "n20261101-mp05-11",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Un directeur estime que ses agents aiment travailler et cherchent les responsabilités ; il délègue largement. À quelle théorie de Douglas McGregor (1960) se rattache sa vision ?",
+     "o": [
+      "La théorie X",
+      "La théorie des deux facteurs",
+      "La pyramide des besoins",
+      "La théorie Y"
+     ],
+     "a": 3,
+     "e": "Dans « The Human Side of Enterprise » (1960), McGregor oppose la théorie X, qui voit l'agent réticent, et la théorie Y, qui le voit motivé et prêt à prendre des responsabilités.",
+     "ed": [
+      "La théorie X suppose au contraire des agents qui fuient l'effort et les responsabilités.",
+      "La théorie des deux facteurs est celle de Herzberg, non de McGregor.",
+      "La pyramide des besoins est celle de Maslow, non de McGregor.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Douglas McGregor",
+      "u": "https://en.wikipedia.org/wiki/Douglas_McGregor"
+     }
+    },
+    {
+     "id": "n20261101-mp05-12",
+     "m": "mop",
+     "tag": "niv-mp05",
+     "q": "Après une formation à un nouveau logiciel, on vérifie si les agents l'utilisent réellement à leur poste. Quel niveau du modèle de Kirkpatrick est évalué ?",
+     "o": [
+      "La réaction",
+      "L'apprentissage",
+      "Le comportement",
+      "Les résultats"
+     ],
+     "a": 2,
+     "e": "Le modèle de Kirkpatrick compte quatre niveaux : réaction, apprentissage, comportement et résultats. Vérifier l'usage au poste de travail mesure le transfert dans le comportement.",
+     "ed": [
+      "La réaction mesure la satisfaction des stagiaires à la fin de la formation, pas l'usage au poste.",
+      "L'apprentissage mesure les connaissances acquises, non leur mise en pratique au travail.",
+      null,
+      "Les résultats mesurent l'effet sur l'organisation (délais, qualité), au-delà de l'usage individuel."
+     ],
+     "src": {
+      "t": "Devlin Peck – The Kirkpatrick Model of Evaluation",
+      "u": "https://devlinpeck.com/content/kirkpatrick-model-evaluation"
+     }
+    },
+    {
+     "id": "n20261101-or04-01",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Selon l'article 67 de la Constitution ivoirienne de 2016, qui est le chef de l'Administration ?",
+     "o": [
+      "Le Premier ministre",
+      "Le Président de la République",
+      "Le ministre de la Fonction publique",
+      "Le président de l'Assemblée nationale"
+     ],
+     "a": 1,
+     "e": "L'article 67 de la Constitution dispose que le Président de la République est le chef de l'Administration et qu'il nomme aux emplois civils et militaires.",
+     "ed": [
+      "Le Premier ministre est chef du Gouvernement (article 81), non chef de l'Administration.",
+      null,
+      "Ce ministre gère les agents publics, mais la Constitution confie la direction de l'Administration au Président.",
+      "Le président de l'Assemblée nationale dirige une chambre du Parlement, pas l'Administration."
+     ],
+     "src": {
+      "t": "CivLII – Constitution de la République de Côte d'Ivoire du 8 novembre 2016 (version révisée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261101-or04-02",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Devant qui le Premier ministre et les ministres sont-ils solidairement responsables selon l'article 83 de la Constitution ?",
+     "o": [
+      "Devant le Sénat",
+      "Devant le Conseil constitutionnel",
+      "Devant le Président de la République",
+      "Devant la Cour des comptes"
+     ],
+     "a": 2,
+     "e": "L'article 83 de la Constitution prévoit que le Premier ministre et les ministres sont solidairement responsables devant le Président de la République.",
+     "ed": [
+      "Le Sénat légifère et contrôle, mais l'article 83 vise le Président de la République.",
+      "Le Conseil constitutionnel juge la constitutionnalité des lois, non la responsabilité politique du Gouvernement.",
+      null,
+      "La Cour des comptes contrôle les finances publiques ; elle n'est pas l'organe devant lequel le Gouvernement est responsable."
+     ],
+     "src": {
+      "t": "CivLII – Constitution de la République de Côte d'Ivoire du 8 novembre 2016 (version révisée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261101-or04-03",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Quelles sont les collectivités territoriales de Côte d'Ivoire selon la Constitution et la loi n°2014-451 du 5 août 2014 ?",
+     "o": [
+      "Les régions et les communes",
+      "Les départements et les sous-préfectures",
+      "Les districts et les villages",
+      "Les préfectures et les mairies"
+     ],
+     "a": 0,
+     "e": "La loi n°2014-451 (article 32) et la Constitution (article 170) désignent les régions et les communes comme collectivités territoriales.",
+     "ed": [
+      null,
+      "Départements et sous-préfectures sont des circonscriptions administratives de la déconcentration, non des collectivités.",
+      "Le village est une circonscription administrative et le district autonome une entité territoriale particulière.",
+      "Préfecture et mairie désignent des sièges administratifs, non des catégories de collectivités."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2014/451/fra@2024-12-05/source"
+     }
+    },
+    {
+     "id": "n20261101-or04-04",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Selon l'article 31 de la loi n°2014-451 du 5 août 2014, quelle est la circonscription administrative de base du territoire national ?",
+     "o": [
+      "La commune",
+      "La sous-préfecture",
+      "Le département",
+      "Le village"
+     ],
+     "a": 3,
+     "e": "L'article 31 de la loi n°2014-451 dispose que le village est la circonscription administrative de base du territoire national.",
+     "ed": [
+      "La commune est une collectivité territoriale décentralisée, non une circonscription administrative.",
+      "La sous-préfecture est une circonscription, mais située au-dessus du village.",
+      "Le département se situe entre la région et la sous-préfecture, il n'est pas l'échelon de base.",
+      null
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2014/451/fra@2024-12-05/source"
+     }
+    },
+    {
+     "id": "n20261101-or04-05",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Un préfet, nommé par l'État, représente l'État dans sa circonscription. De quel principe d'organisation relève-t-il ?",
+     "o": [
+      "La décentralisation",
+      "La déconcentration",
+      "La séparation des pouvoirs",
+      "La libre administration"
+     ],
+     "a": 1,
+     "e": "La déconcentration s'exerce dans des circonscriptions administratives confiées à des agents nommés de l'État ; la Constitution précise que le préfet représente l'État (article 172).",
+     "ed": [
+      "La décentralisation confie des affaires locales à des collectivités administrées par des élus, comme le maire.",
+      null,
+      "La séparation des pouvoirs organise les rapports entre exécutif, législatif et judiciaire, non l'administration territoriale.",
+      "La libre administration est le principe des collectivités territoriales, non du représentant de l'État."
+     ],
+     "src": {
+      "t": "CivLII – Loi n°2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2014/451/fra@2024-12-05/source"
+     }
+    },
+    {
+     "id": "n20261101-or04-06",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Quelle institution est la plus haute juridiction de l'ordre administratif en Côte d'Ivoire (article 149 de la Constitution) ?",
+     "o": [
+      "La Cour de cassation",
+      "Le Conseil constitutionnel",
+      "Le Conseil d'État",
+      "La Cour des comptes"
+     ],
+     "a": 2,
+     "e": "L'article 149 de la Constitution dispose que le Conseil d'État est la plus haute juridiction de l'ordre administratif ; il a aussi un rôle consultatif.",
+     "ed": [
+      "La Cour de cassation est la plus haute juridiction de l'ordre judiciaire (article 148).",
+      "Le Conseil constitutionnel n'est pas la juridiction suprême de l'ordre administratif : l'article 149 désigne le Conseil d'État.",
+      null,
+      "La Cour des comptes contrôle les finances publiques (article 152)."
+     ],
+     "src": {
+      "t": "CivLII – Constitution de la République de Côte d'Ivoire du 8 novembre 2016 (version révisée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261101-or04-07",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Comment l'article 152 de la Constitution définit-il la Cour des comptes ?",
+     "o": [
+      "L'institution suprême de contrôle des finances publiques",
+      "La juridiction d'appel des tribunaux administratifs",
+      "L'organe chargé de préparer la loi de finances",
+      "La plus haute juridiction de l'ordre judiciaire"
+     ],
+     "a": 0,
+     "e": "L'article 152 dispose que la Cour des comptes est l'institution suprême de contrôle des finances publiques.",
+     "ed": [
+      null,
+      "Le contentieux administratif relève du Conseil d'État, non de la Cour des comptes.",
+      "La préparation de la loi de finances relève du Gouvernement ; la Cour des comptes contrôle l'exécution.",
+      "La plus haute juridiction de l'ordre judiciaire est la Cour de cassation (article 148)."
+     ],
+     "src": {
+      "t": "CivLII – Constitution de la République de Côte d'Ivoire du 8 novembre 2016 (version révisée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261101-or04-08",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Quelle institution ivoirienne est chargée de recevoir les déclarations de patrimoine des assujettis ?",
+     "o": [
+      "Le Médiateur de la République",
+      "La Haute Autorité pour la Bonne Gouvernance (HABG)",
+      "Le Conseil économique, social, environnemental et culturel",
+      "La Chambre nationale des Rois et Chefs traditionnels"
+     ],
+     "a": 1,
+     "e": "La HABG, régie par l'ordonnance n°2013-661 du 20 septembre 2013, est chargée de recevoir les déclarations de patrimoine, en vertu de l'article 4 de cette ordonnance.",
+     "ed": [
+      "Le Médiateur de la République est une autorité de médiation ; la réception des déclarations de patrimoine revient à la HABG.",
+      null,
+      "Le CESEC est un organe consultatif qui donne des avis sur les projets de textes.",
+      "La Chambre représente la chefferie traditionnelle ; elle n'a pas de mission patrimoniale."
+     ],
+     "src": {
+      "t": "Fraternité Matin – Déclaration de patrimoine : la HABG enregistre un taux de 81,85 % des assujettis",
+      "u": "https://www.fratmat.info/article/230938/economie/bonne-gouvernance/declaration-de-patrimoine-la-habg-enregistre-un-taux-de-8185-des-assujettis"
+     }
+    },
+    {
+     "id": "n20261101-or04-09",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Pour quelle durée le Médiateur de la République est-il nommé selon la Constitution de 2016 ?",
+     "o": [
+      "Cinq ans renouvelables une fois",
+      "Quatre ans renouvelables",
+      "Sept ans non renouvelables",
+      "Six ans non renouvelables"
+     ],
+     "a": 3,
+     "e": "Selon l'article 166 de la Constitution, le Médiateur de la République est nommé par le Président de la République pour un mandat de six ans non renouvelable.",
+     "ed": [
+      "Cinq ans renouvelables une fois est la durée prévue pour les présidents de la Cour de cassation et du Conseil d'État (article 150).",
+      "Quatre ans renouvelables ne correspond pas au mandat fixé par la Constitution.",
+      "Sept ans n'est pas la durée prévue : le mandat est de six ans.",
+      null
+     ],
+     "src": {
+      "t": "Constitute Project – Côte d'Ivoire's Constitution of 2016 (rev. 2020)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261101-or04-10",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Combien de régions la Côte d'Ivoire compte-t-elle depuis le décret n°2013-294 du 2 mai 2013 ?",
+     "o": [
+      "14",
+      "19",
+      "31",
+      "201"
+     ],
+     "a": 2,
+     "e": "Le décret n°2013-294 du 2 mai 2013 a créé 31 régions, selon le profil pays de l'OCDE et de CGLU (mise à jour 2022).",
+     "ed": [
+      "14 est le nombre de districts autonomes depuis juin 2021, pas celui des régions.",
+      "19 ne correspond pas au découpage de 2013, qui compte 31 régions.",
+      null,
+      "201 est le nombre de communes depuis mai 2018."
+     ],
+     "src": {
+      "t": "OCDE/CGLU SNG-WOFI – Profil pays Côte d'Ivoire",
+      "u": "https://sng-wofi.org/country_profiles/cote_divoire.html"
+     }
+    },
+    {
+     "id": "n20261101-or04-11",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Un candidat affirme devant le jury : « Il n'existe que deux districts autonomes, Abidjan et Yamoussoukro. » Que faut-il répondre ?",
+     "o": [
+      "C'est exact depuis 2011",
+      "C'est inexact : depuis juin 2021, douze nouveaux districts autonomes portent leur nombre à quatorze",
+      "C'est inexact : les districts ont été supprimés en 2014",
+      "C'est inexact : chaque région est devenue un district"
+     ],
+     "a": 1,
+     "e": "Selon le profil OCDE-CGLU, douze nouveaux districts autonomes ont été créés par décret le 18 juin 2021, en plus d'Abidjan et de Yamoussoukro, soit quatorze au total.",
+     "ed": [
+      "Cette affirmation n'est plus vraie depuis la création de douze nouveaux districts en juin 2021.",
+      null,
+      "La loi n°2014-451 maintient le district autonome comme entité territoriale particulière (article 47).",
+      "Il y a 31 régions et 14 districts : toutes les régions ne sont pas devenues des districts."
+     ],
+     "src": {
+      "t": "OCDE/CGLU SNG-WOFI – Profil pays Côte d'Ivoire",
+      "u": "https://sng-wofi.org/country_profiles/cote_divoire.html"
+     }
+    },
+    {
+     "id": "n20261101-or04-12",
+     "m": "oral",
+     "tag": "niv-or04",
+     "q": "Selon l'article 110 de la Constitution, à quelle chambre sont soumis en premier les projets ou propositions de loi relatifs aux collectivités territoriales ?",
+     "o": [
+      "Au Sénat",
+      "À l'Assemblée nationale",
+      "Au Conseil économique, social, environnemental et culturel",
+      "Au Conseil d'État"
+     ],
+     "a": 0,
+     "e": "L'article 110 de la Constitution dispose que les projets ou propositions de loi relatifs aux collectivités territoriales sont soumis en premier au Sénat.",
+     "ed": [
+      null,
+      "L'Assemblée nationale examine ces textes, mais seulement après le Sénat selon l'article 110.",
+      "Le CESEC donne des avis ; il n'est pas une chambre du Parlement.",
+      "Le Conseil d'État est une juridiction, non une chambre parlementaire."
+     ],
+     "src": {
+      "t": "CivLII – Constitution de la République de Côte d'Ivoire du 8 novembre 2016 (version révisée)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261101-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel pays est devenu le 31e membre de l'OTAN le 4 avril 2023 ?",
+     "o": [
+      "La Suède",
+      "La Finlande",
+      "L'Ukraine",
+      "La Norvège"
+     ],
+     "a": 1,
+     "e": "La Finlande est officiellement devenue le 31e membre de l'Alliance atlantique le 4 avril 2023, lors d'une cérémonie à Bruxelles, après avoir renoncé à sa neutralité.",
+     "ed": [
+      "La Suède n'a rejoint l'OTAN que le 7 mars 2024, comme 32e membre.",
+      null,
+      "L'Ukraine n'est pas membre de l'OTAN.",
+      "La Norvège était déjà membre de l'OTAN bien avant 2023 ; le 31e membre est la Finlande."
+     ],
+     "src": {
+      "t": "Breaking Defense – Finland officially becomes 31st member of NATO (4 avril 2023)",
+      "u": "https://breakingdefense.com/2023/04/finland-officially-becomes-31st-member-of-nato-alliance/"
+     }
+    },
+    {
+     "id": "n20261101-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 7 mars 2024, la Suède est devenue membre de l'OTAN. Quel rang occupe-t-elle parmi les États membres ?",
+     "o": [
+      "30e",
+      "31e",
+      "33e",
+      "32e"
+     ],
+     "a": 3,
+     "e": "La Suède a été accueillie comme 32e membre de l'OTAN le 7 mars 2024, près d'un an après la Finlande, 31e membre.",
+     "ed": [
+      "Le 30e rang était déjà occupé avant l'entrée de la Finlande (31e) ; la Suède est arrivée après celle-ci.",
+      "Le 31e rang revient à la Finlande, entrée le 4 avril 2023.",
+      "Aucun 33e membre n'existait lors de l'entrée de la Suède.",
+      null
+     ],
+     "src": {
+      "t": "Janes – Milestone: Sweden joins NATO",
+      "u": "https://janes.com/defence-news/milestone-sweden-joins-nato"
+     }
+    },
+    {
+     "id": "n20261101-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La prise de Saïgon par le Nord-Vietnam, le 30 avril 1975, a mis fin à la guerre du Vietnam. Quel nom la ville a-t-elle reçu le 2 juillet 1976 ?",
+     "o": [
+      "Hanoï",
+      "Hué",
+      "Hô Chi Minh-Ville",
+      "Da Nang"
+     ],
+     "a": 2,
+     "e": "Saïgon, capturée le 30 avril 1975, a été rebaptisée Hô Chi Minh-Ville par l'Assemblée nationale vietnamienne le 2 juillet 1976, en hommage au dirigeant communiste.",
+     "ed": [
+      "Hanoï est une ville distincte, capitale du Nord-Vietnam puis du Vietnam réunifié.",
+      "Hué est l'ancienne capitale impériale, une autre ville.",
+      null,
+      "Da Nang est une ville côtière du centre du pays, distincte de Saïgon."
+     ],
+     "src": {
+      "t": "Wikipedia – Fall of Saigon",
+      "u": "https://en.wikipedia.org/wiki/Fall_of_Saigon"
+     }
+    },
+    {
+     "id": "n20261101-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Qui fut le premier président du Mozambique, indépendant du Portugal le 25 juin 1975 ?",
+     "o": [
+      "Samora Machel",
+      "Agostinho Neto",
+      "Joaquim Chissano",
+      "Amílcar Cabral"
+     ],
+     "a": 0,
+     "e": "Samora Machel, dirigeant du FRELIMO, a proclamé l'indépendance totale du Mozambique le 25 juin 1975 et en a été le premier président.",
+     "ed": [
+      null,
+      "Agostinho Neto n'a jamais présidé le Mozambique : le premier président fut Samora Machel.",
+      "Joaquim Chissano n'est pas le premier président du Mozambique : ce titre revient à Samora Machel.",
+      "Amílcar Cabral n'a jamais présidé le Mozambique ; le premier président fut Samora Machel."
+     ],
+     "src": {
+      "t": "Wikipedia – Samora Machel",
+      "u": "https://en.wikipedia.org/wiki/Samora_Machel"
+     }
+    },
+    {
+     "id": "n20261101-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville le traité instituant l'Union économique eurasiatique a-t-il été signé le 29 mai 2014 par la Russie, la Biélorussie et le Kazakhstan ?",
+     "o": [
+      "Moscou",
+      "Minsk",
+      "Saint-Pétersbourg",
+      "Astana"
+     ],
+     "a": 3,
+     "e": "Les dirigeants du Kazakhstan, de la Russie et de la Biélorussie se sont réunis à Astana, capitale kazakhe, le 29 mai 2014 pour signer le traité, entré en vigueur le 1er janvier 2015.",
+     "ed": [
+      "Moscou est la capitale russe, mais le traité n'y a pas été signé.",
+      "Minsk est la capitale biélorusse, mais la signature a eu lieu au Kazakhstan.",
+      "Saint-Pétersbourg n'est pas le lieu de la signature du 29 mai 2014.",
+      null
+     ],
+     "src": {
+      "t": "The Astana Times – Kazakhstan, Belarus, Russia sign treaty creating Eurasian Economic Union",
+      "u": "https://astanatimes.com/2014/05/kazakhstan-belarus-russia-sign-historic-treaty-creating-eurasian-economic-union/"
+     }
+    },
+    {
+     "id": "n20261101-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Adopté à Kyoto le 11 décembre 1997, en quelle année le Protocole de Kyoto sur le climat est-il entré en vigueur ?",
+     "o": [
+      "1997",
+      "2005",
+      "2015",
+      "2001"
+     ],
+     "a": 1,
+     "e": "Le Protocole de Kyoto, adopté lors de la COP 3 le 11 décembre 1997, est entré en vigueur le 16 février 2005, après un long processus de ratification.",
+     "ed": [
+      "1997 est l'année de son adoption, non de son entrée en vigueur.",
+      null,
+      "2015 est l'année de l'accord de Paris (COP21), un autre texte.",
+      "En 2001, le Protocole n'était pas encore entré en vigueur : il ne l'est qu'en février 2005."
+     ],
+     "src": {
+      "t": "CCNUCC – Le Protocole de Kyoto",
+      "u": "https://www.unfccc.int/es/node/402"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261101dp03",
+     "niv": "dp03",
+     "m": "dpen",
+     "titre": "L'infraction et ses éléments",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez vérifier, dans un cas pratique, les trois éléments constitutifs d'une infraction : l'élément légal, l'élément matériel et l'élément moral.",
+      "= Vous saurez classer une infraction en crime, délit ou contravention à partir de la peine prévue par le Code pénal ivoirien (loi n°2019-574 du 26 juin 2019, modifiée en 2021).",
+      "## Ce que demande l'épreuve",
+      "Le cas pratique de droit pénal commence presque toujours par une question de qualification : les faits constituent-ils une infraction, et laquelle ? Le correcteur attend que vous preniez les éléments dans l'ordre, sans en oublier un, et que vous citiez le texte. La dissertation, elle, porte souvent sur une notion générale : la place de l'intention, la légalité, la classification tripartite.",
+      "! Piège habituel : classer une infraction d'après la peine prononcée par le juge. Le Code classe d'après la peine dont l'infraction est « passible », c'est-à-dire la peine encourue prévue par le texte.",
+      "## La méthode, pas à pas",
+      "- 1. Élément légal : trouvez le texte qui définit et punit le comportement. Sans texte, pas d'infraction (article 14).",
+      "- 2. Élément matériel : décrivez l'acte ou l'omission, puis, si le texte l'exige, le résultat.",
+      "- 3. Élément moral : cherchez l'intention pour un crime ou un délit (article 94-1) ; pour une contravention, seule la force majeure fait disparaître l'infraction.",
+      "- 4. Classification : lisez la peine encourue et appliquez les seuils de l'article 3.",
+      "- 5. Conclusion : nommez l'infraction et sa catégorie, en une phrase.",
+      "~ Exemple de conclusion de copie : « Le texte d'incrimination existe, l'acte matériel est accompli et l'intention est établie : l'infraction est constituée. Passible de cinq ans d'emprisonnement, elle est un délit au sens de l'article 3 du Code pénal. »"
+     ],
+     "fond": [
+      "## Notion 1 : qu'est-ce qu'une infraction ?",
+      "Règle : selon l'article 2 du Code pénal ivoirien, constitue une infraction tout fait, action ou omission qui trouble ou est susceptible de troubler l'ordre public ou la paix sociale, en portant ou non atteinte aux droits des personnes, et qui est légalement sanctionné comme tel.",
+      "Pourquoi ? Le droit pénal ne protège pas des intérêts privés seulement : il défend la société. C'est pourquoi l'infraction peut exister même sans victime directe, dès que l'ordre public est menacé.",
+      "L'article 26 ajoute une règle de méthode : l'infraction n'est commise que lorsque tous ses éléments constitutifs sont réalisés et réunis. Il suffit qu'un seul manque pour qu'il n'y ait pas d'infraction consommée.",
+      "~ Exemple résolu : un commerçant d'Adjamé a seulement pensé à vendre de fausses marchandises, sans rien faire. Il n'y a pas d'acte extérieur : l'élément matériel manque, donc pas d'infraction. Une simple pensée n'est jamais punissable.",
+      "## Notion 2 : l'élément légal",
+      "Règle : l'élément légal est le texte d'incrimination qui prévoit et sanctionne le comportement interdit. L'article 14 dispose que le juge ne peut qualifier d'infraction et punir un fait qui n'est pas légalement défini et puni comme tel. L'article 16 interdit d'appliquer par analogie une disposition pénale à un fait qu'elle n'a pas prévu.",
+      "Pourquoi ? Le citoyen doit savoir à l'avance ce qui est interdit. Le principe de légalité protège la liberté contre l'arbitraire du juge ou de l'administration.",
+      "Qui fait le texte ? La loi définit les crimes et les délits. Pour les contraventions, l'article 4 confie au décret le soin de les déterminer, dans les limites fixées par l'article 3.",
+      "? Un juge constate qu'un comportement, non prévu par aucun texte, ressemble beaucoup à une infraction existante. Peut-il condamner sur la base de ce texte voisin ? || Non. L'article 16 interdit l'application par analogie d'une disposition pénale à un fait qu'elle n'a pas prévu, et l'article 14 interdit de punir un fait non légalement défini. Le juge doit relaxer, même si le comportement lui paraît blâmable.",
+      "## Notion 3 : l'élément matériel",
+      "Règle : l'élément matériel est la part visible et extériorisée de l'infraction. Il peut consister à agir (infraction de commission) ou à ne pas agir quand la loi l'impose (infraction d'omission).",
+      "Pourquoi ? Le droit pénal punit des actes, pas des intentions cachées : il faut un fait extérieur pour troubler l'ordre public.",
+      "La doctrine classe aussi les infractions selon leur durée. L'infraction instantanée se consomme en un trait de temps. L'infraction continue se prolonge par la réitération constante de la volonté coupable ; l'article 26 précise que, lorsque les faits se prolongent ou se renouvellent, l'infraction est réputée se commettre jusqu'au moment où ils ont pris fin. L'infraction d'habitude n'est punie que si l'acte est répété.",
+      "Enfin, selon le rôle du résultat : l'infraction est matérielle quand le résultat dommageable est un de ses éléments constitutifs ; elle est formelle quand la loi se contente du comportement dangereux, sans attendre le résultat ; l'infraction-obstacle frappe une conduite située en amont de tout dommage.",
+      "## Notion 4 : l'élément moral",
+      "Règle : l'élément moral est la faute pénale, la dimension psychologique qui traduit la culpabilité de l'auteur. Depuis la loi n°2021-893 du 21 décembre 2021, l'article 94-1 pose deux règles : il n'y a pas de crime ou de délit sans intention de le commettre, sauf si la loi en dispose autrement ; il n'y a pas de contravention en cas de force majeure.",
+      "Pourquoi ? Les crimes et délits sont graves : on ne les impute qu'à celui qui a voulu le résultat interdit. Les contraventions sont des infractions de discipline sociale : l'acte matériel suffit, sauf événement irrésistible.",
+      "L'article 94 rappelle que seule la personne responsable de ses actes, c'est-à-dire apte à comprendre et à vouloir, est soumise à une sanction pénale. L'article 95 précise que l'ignorance de la loi pénale, le mobile et l'erreur sur la personne de la victime sont sans conséquence sur la responsabilité.",
+      "! Ne confondez pas intention et mobile. L'intention, c'est vouloir l'acte interdit ; le mobile, c'est la raison personnelle qui pousse à agir. Voler pour nourrir sa famille reste un acte intentionnel : le mobile ne fait pas disparaître l'infraction.",
+      "? Un automobiliste commet une contravention et soutient qu'il n'avait aucune intention de violer la règle. Cet argument suffit-il ? || Non. Selon l'article 94-1, l'intention n'est exigée que pour les crimes et les délits. Pour une contravention, seule la force majeure exclut l'infraction ; l'absence d'intention est sans effet.",
+      "## Notion 5 : la classification tripartite",
+      "Règle : l'article 3 classe les infractions, suivant leur gravité, en crimes, délits et contraventions, d'après la peine encourue :",
+      "- crime : peine privative de liberté perpétuelle ou temporaire supérieure à dix ans ;",
+      "- délit : peine privative de liberté supérieure à deux mois et inférieure ou égale à dix ans, et (ou) amende supérieure à 360 000 francs ; depuis 2021, aussi toute infraction que la loi qualifie de délit ;",
+      "- contravention : peine privative de liberté inférieure ou égale à deux mois, et (ou) amende inférieure ou égale à 360 000 francs.",
+      "Pourquoi ? La gravité de la peine reflète la gravité du trouble. La catégorie sert ensuite de repère pour d'autres règles du droit pénal et de la procédure, que vous étudierez aux niveaux suivants.",
+      "~ Exemple résolu : un texte punit un fait de dix ans d'emprisonnement. Dix ans n'est pas « supérieur à dix ans » : c'est un délit, non un crime. Un fait puni de deux mois au plus et de 360 000 francs au plus est une contravention.",
+      "? Classez : a) peine encourue de quinze ans ; b) amende seule de 500 000 francs ; c) deux mois d'emprisonnement et 50 000 francs d'amende. || a) Crime : plus de dix ans. b) Délit : l'amende dépasse 360 000 francs. c) Contravention : deux mois au plus et amende d'au plus 360 000 francs. Appliquez toujours les bornes exactes de l'article 3."
+     ],
+     "retenir": [
+      "Une infraction suppose trois éléments réunis : un texte d'incrimination, un acte ou une omission extérieurs, et une faute pénale.",
+      "L'article 14 du Code pénal interdit de punir un fait qui n'est pas légalement défini et puni ; l'article 16 interdit l'analogie.",
+      "Les contraventions sont déterminées par décret (article 4), dans les limites fixées par l'article 3 du Code pénal.",
+      "Crime : peine privative de liberté perpétuelle ou supérieure à dix ans ; dix ans exactement relève du délit.",
+      "Contravention : au plus deux mois d'emprisonnement et au plus 360 000 francs d'amende.",
+      "Article 94-1 : pas de crime ni de délit sans intention, sauf loi contraire ; pas de contravention en cas de force majeure.",
+      "Le mobile, l'ignorance de la loi pénale et l'erreur sur la victime sont sans conséquence sur la responsabilité (article 95).",
+      "Infraction continue : elle est réputée se commettre jusqu'à ce que les faits prennent fin (article 26)."
+     ],
+     "exo": {
+      "tag": "niv-dp03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "CivLII – Code pénal ivoirien, loi n°2019-574 du 26 juin 2019 (version consolidée)",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2019/574/fra@2024-06-23/publication"
+      },
+      {
+       "t": "Loidici – Loi n°2021-893 du 21 décembre 2021 modifiant le Code pénal",
+       "u": "https://loidici.biz/?p=22836"
+      },
+      {
+       "t": "Gdroit – Les éléments constitutifs et les classifications de l'infraction",
+       "u": "https://gdroit.fr/?p=61950"
+      },
+      {
+       "t": "Cabinet ACI – Classification fondée sur l'élément matériel de l'infraction",
+       "u": "https://www.cabinetaci.com/classification-fondee-sur-lelement-materiel-de-linfraction/"
+      }
+     ]
+    },
+    {
+     "id": "L20261101mp05",
+     "niv": "mp05",
+     "m": "mop",
+     "titre": "La gestion des ressources humaines publiques",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez décrire les quatre temps de la gestion des ressources humaines publiques (recruter, évaluer, former, motiver) et leur fondement dans le Statut général de la Fonction publique (loi n°2023-892 du 23 novembre 2023).",
+      "= Vous saurez mobiliser trois théories de la motivation (Maslow, Herzberg, McGregor) pour analyser un cas pratique de service public.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de management des organisations publiques propose des sujets de réflexion (« Peut-on motiver un fonctionnaire sans augmenter son salaire ? ») et des cas pratiques (un chef de service face à des agents démotivés). Le correcteur attend deux choses : le cadre juridique exact, car le fonctionnaire est régi par un statut, et des outils de management pour proposer des solutions concrètes.",
+      "! Piège habituel : raisonner comme dans une entreprise privée. Dans la fonction publique, le recrutement, la notation et l'avancement obéissent à des règles statutaires ; le manager agit dans ce cadre.",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez le temps de la carrière concerné : recrutement, stage, évaluation, formation, avancement ou rémunération.",
+      "- 2. Citez la règle du statut qui s'applique (article de la loi n°2023-892).",
+      "- 3. Diagnostiquez la cause du problème avec une théorie : besoin non satisfait (Maslow), facteur d'hygiène défaillant (Herzberg), style de direction (McGregor).",
+      "- 4. Proposez des mesures réalistes, classées en mesures statutaires et en mesures managériales.",
+      "~ Exemple de phrase de copie : « La démotivation constatée ne tient pas au salaire, fixé par le statut, mais à l'absence de reconnaissance : selon Herzberg, c'est un facteur de motivation qu'il faut activer. »"
+     ],
+     "fond": [
+      "## Notion 1 : recruter par concours",
+      "Règle : selon l'article 47 du Statut général, les fonctionnaires sont recrutés par voie de concours ou, à titre dérogatoire, par décret. Les listes d'admis sont établies par ordre de mérite. L'article 48 fixe les conditions d'accès : avoir la nationalité ivoirienne, remplir les conditions d'âge, jouir de ses droits civiques et être de bonne moralité, remplir les conditions d'aptitude physique et mentale exigées pour l'emploi. Les conditions d'âge sont fixées par décret pris en Conseil des ministres (article 4).",
+      "Pourquoi ? Le concours garantit l'égalité d'accès aux emplois publics et la sélection par le mérite. L'article 17 interdit d'ailleurs toute discrimination entre les candidats.",
+      "~ Exemple résolu : un ministère veut pourvoir dix postes d'attachés. La voie normale est le concours ; le recrutement par décret reste une dérogation. Les dix premiers de la liste de mérite sont admis.",
+      "? Un candidat très compétent, mais qui n'a pas la nationalité ivoirienne, peut-il être recruté comme fonctionnaire ? || Non. L'article 48 du Statut général pose la nationalité ivoirienne comme condition d'accès à la Fonction publique ; la compétence ne remplace pas une condition légale.",
+      "## Notion 2 : le stage probatoire et la titularisation",
+      "Règle : toute personne admise à occuper un emploi public en qualité de fonctionnaire est soumise à un stage probatoire d'une année (article 52). Si les résultats sont satisfaisants, elle est titularisée, c'est-à-dire qu'elle est investie de son grade à titre définitif (article 51). Sinon, une seconde année peut être accordée ; en cas de nouvel échec, il est mis fin à l'engagement.",
+      "Pourquoi ? Le concours mesure des connaissances ; le stage vérifie l'aptitude réelle à servir. Pour le manager, c'est une période décisive d'accueil, d'encadrement et d'évaluation.",
+      "! Le stage n'est pas une formalité : un résultat insuffisant peut conduire à une prolongation, puis à la fin de l'engagement.",
+      "## Notion 3 : évaluer et faire progresser",
+      "Règle : le fonctionnaire est soumis à un système d'évaluation permanent (article 68). Chaque année, il reçoit une note chiffrée suivie d'une appréciation générale exprimant sa valeur professionnelle et son mérite, qui lui est notifiée (article 69). Les modalités sont fixées par décret (article 70).",
+      "L'évaluation commande la carrière. L'avancement d'échelon tient compte à la fois de l'ancienneté et de l'évaluation ; l'avancement de classe a lieu uniquement au profit des fonctionnaires inscrits, en raison de leur mérite, sur un tableau d'avancement annuel (article 71). La durée d'avancement d'échelon peut être réduite pour les agents particulièrement méritants et allongée pour ceux qui ont de faibles notes (article 72). La promotion, passage d'un grade au grade supérieur, se fait par concours interne ou, exceptionnellement, par décret (article 77).",
+      "Pourquoi ? Lier la carrière au mérite incite à l'effort et rend la gestion plus juste qu'un avancement à la seule ancienneté.",
+      "? Un agent a beaucoup d'ancienneté mais de mauvaises notes. Son avancement d'échelon sera-t-il le même que celui d'un collègue très bien noté ? || Non. L'article 71 fait dépendre l'avancement d'échelon de l'ancienneté et de l'évaluation, et l'article 72 permet d'allonger la durée d'avancement pour les agents faiblement notés et de la réduire pour les agents méritants.",
+      "## Notion 4 : former et anticiper",
+      "Règle : la formation continue est un droit pour le fonctionnaire, et l'État est tenu de l'assurer au fonctionnaire en activité (article 76). L'obtention d'un diplôme en cours de carrière peut ouvrir droit à promotion, dans des conditions fixées par décret (article 79).",
+      "Pour bien former, le manager s'appuie sur deux outils. La gestion prévisionnelle des emplois et des compétences (GPEC) consiste à prévoir, à moyen et long terme, les compétences dont l'organisation aura besoin, pour anticiper recrutements et formations. Le modèle de Donald Kirkpatrick, publié en 1959, évalue une formation à quatre niveaux : réaction, apprentissage, comportement, résultats.",
+      "~ Exemple résolu : une direction régionale numérise ses procédures. La GPEC révèle un manque de compétences informatiques ; on forme les agents, puis on vérifie, au niveau « comportement » de Kirkpatrick, qu'ils utilisent réellement le nouvel outil au poste de travail.",
+      "## Notion 5 : motiver",
+      "Règle : trois théories classiques éclairent la motivation. Abraham Maslow (1943, « A Theory of Human Motivation ») hiérarchise cinq besoins : physiologiques, sécurité, appartenance, estime, accomplissement de soi. Frederick Herzberg (1959, « The Motivation to Work ») distingue les facteurs d'hygiène, comme un salaire raisonnable et la sécurité de l'emploi, dont l'absence démotive sans que leur présence motive, et les facteurs de motivation : reconnaissance, perspectives de promotion, intérêt du travail. Douglas McGregor (1960, « The Human Side of Enterprise ») oppose la théorie X, qui voit l'agent comme réticent à l'effort et aux responsabilités, et la théorie Y, qui le voit motivé et prêt à assumer des responsabilités.",
+      "Pourquoi ? Dans le public, le salaire est fixé par des grilles : le manager agit surtout sur la reconnaissance, la responsabilité et la formation. Le statut prévoit aussi des primes qui récompensent la manière exemplaire de servir ou des sujétions particulières, tandis que les indemnités compensent des charges ou aléas professionnels (article 83).",
+      "! Ne confondez pas prime et indemnité : la prime récompense une manière de servir ou une sujétion, l'indemnité compense une charge.",
+      "? Un chef de service considère que ses agents « ne travaillent que sous contrôle ». Quel style décrit-il, et quel risque court-il ? || Il raisonne selon la théorie X de McGregor. Le risque est d'étouffer l'initiative des agents motivés ; la théorie Y invite plutôt à déléguer et à responsabiliser."
+     ],
+     "retenir": [
+      "Les fonctionnaires sont recrutés par concours ou, à titre dérogatoire, par décret (article 47 de la loi n°2023-892).",
+      "Conditions d'accès (article 48) : nationalité ivoirienne, conditions d'âge, droits civiques et bonne moralité, aptitude physique et mentale.",
+      "Le stage probatoire dure un an ; une seconde année peut être accordée avant la fin de l'engagement (article 52).",
+      "Chaque année, le fonctionnaire reçoit une note chiffrée et une appréciation générale sur sa valeur professionnelle (article 69).",
+      "L'avancement d'échelon tient compte de l'ancienneté et de l'évaluation ; l'avancement de classe récompense le mérite (article 71).",
+      "La formation continue est un droit pour le fonctionnaire et une obligation pour l'État (article 76).",
+      "Herzberg : le salaire est un facteur d'hygiène ; la reconnaissance et l'intérêt du travail sont des facteurs de motivation.",
+      "Kirkpatrick évalue une formation à quatre niveaux : réaction, apprentissage, comportement, résultats."
+     ],
+     "exo": {
+      "tag": "niv-mp05",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "CivLII – Loi n°2023-892 du 23 novembre 2023 portant Statut général de la Fonction publique",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2023/892/fra@2024-09-17/source"
+      },
+      {
+       "t": "AIP – Nouveau statut général de la fonction publique : les décrets d'application (14 mars 2025)",
+       "u": "https://www.aip.ci/cote-divoire-aip-nouveau-statut-general-de-la-fonction-publique-le-gouvernement-renforce-les-droits-et-obligations-des-fonctionnaires/"
+      },
+      {
+       "t": "Wikipedia – Maslow's hierarchy of needs",
+       "u": "https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs"
+      },
+      {
+       "t": "Wikipedia – Frederick Herzberg",
+       "u": "https://en.wikipedia.org/wiki/Frederick_Herzberg"
+      },
+      {
+       "t": "Wikipedia – Douglas McGregor",
+       "u": "https://en.wikipedia.org/wiki/Douglas_McGregor"
+      },
+      {
+       "t": "Devlin Peck – The Kirkpatrick Model of Evaluation",
+       "u": "https://devlinpeck.com/content/kirkpatrick-model-evaluation"
+      },
+      {
+       "t": "Éditions Tissot – Définition de la GPEC",
+       "u": "https://www.editions-tissot.fr/guide/definition/gestion-previsionnelle-de-lemploi-et-des-competences-gpec"
+      }
+     ]
+    },
+    {
+     "id": "L20261101or04",
+     "niv": "or04",
+     "m": "oral",
+     "titre": "L'administration ivoirienne en questions",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez répondre avec précision aux questions du jury sur l'organisation de l'État ivoirien : sommet de l'exécutif, ministères, administration territoriale, juridictions et organes de contrôle.",
+      "= Vous saurez construire une réponse orale courte, exacte et reliée au métier que vous voulez exercer.",
+      "## Ce que demande l'oral",
+      "Le jury vérifie que le candidat connaît l'État qu'il veut servir. Les questions sont simples en apparence : « Qui est le chef de l'Administration ? », « Quelle différence entre préfet et maire ? », « À quoi sert la Cour des comptes ? ». Une erreur sur une notion de base pèse lourd, car elle révèle une préparation superficielle.",
+      "! Piège habituel : citer de mémoire des chiffres ou des noms de titulaires de fonctions. Les titulaires changent ; tenez-vous-en aux institutions et aux textes, et datez les chiffres que vous donnez.",
+      "## La méthode de réponse en quatre temps",
+      "- 1. Définir : une phrase qui nomme l'institution et son rôle.",
+      "- 2. Fonder : citer le texte (article de la Constitution, loi).",
+      "- 3. Illustrer : un exemple concret de son action.",
+      "- 4. Relier : dire en quoi cela concerne le futur administrateur.",
+      "~ Réponse modèle commentée : « La Cour des comptes est l'institution suprême de contrôle des finances publiques (définition), selon l'article 152 de la Constitution (fondement). Elle contrôle l'usage des deniers publics (illustration). Comme futur administrateur, je serai ordonnateur ou gestionnaire : je devrai rendre compte de chaque franc dépensé (lien). » En moins de trente secondes, le candidat a été exact et personnel."
+     ],
+     "fond": [
+      "## Notion 1 : le sommet de l'État et l'Administration",
+      "Règle : l'article 67 de la Constitution du 8 novembre 2016 dispose que le Président de la République est le chef de l'Administration et qu'il nomme aux emplois civils et militaires. Le Gouvernement comprend le Premier ministre, chef du Gouvernement, et les ministres (article 81). Le Premier ministre et les ministres sont solidairement responsables devant le Président de la République (article 83).",
+      "Pourquoi ? Le régime ivoirien est présidentiel : l'unité de l'Administration est garantie par un chef unique, et le Gouvernement exécute la politique définie par le Président.",
+      "? Le jury demande : « Devant qui le Gouvernement est-il responsable ? » Répondez en deux phrases. || « Selon l'article 83 de la Constitution, le Premier ministre et les ministres sont solidairement responsables devant le Président de la République. C'est la logique d'un régime présidentiel, où le Président est aussi chef de l'Administration (article 67). »",
+      "## Notion 2 : comment est organisé un ministère",
+      "Règle : un ministère est organisé par décret. Le décret n°2016-600 du 3 août 2016 sur le ministère de l'Économie et des Finances en donne le modèle : un Cabinet, des directions et services rattachés au Cabinet, des directions générales, qui comprennent des directions centrales, et des services extérieurs.",
+      "Pourquoi ? Le Cabinet entoure le ministre pour la décision politique ; les directions générales et centrales assurent la continuité technique ; les services extérieurs portent l'action du ministère sur le territoire.",
+      "~ Exemple : un dossier de financement d'un projet de jeunes part d'une direction régionale (service extérieur), remonte à une direction centrale pour instruction, puis au Cabinet pour décision. Savoir décrire ce circuit montre au jury que l'on comprend le fonctionnement réel de l'Administration.",
+      "## Notion 3 : l'administration territoriale, déconcentration et décentralisation",
+      "Règle : la loi n°2014-451 du 5 août 2014 structure l'administration territoriale selon deux principes. La déconcentration s'exerce dans des circonscriptions administratives hiérarchisées : régions, départements, sous-préfectures, villages ; le village est la circonscription administrative de base (article 31). La décentralisation s'exerce dans des collectivités territoriales : les régions et les communes (article 32), dotées de la personnalité juridique et de l'autonomie financière. La Constitution confirme que les collectivités territoriales sont les régions et les communes (article 170), et que le préfet représente l'État (article 172). Le district autonome est une entité territoriale particulière (article 47 de la loi de 2014).",
+      "Pourquoi ? La déconcentration rapproche l'État des citoyens par ses agents nommés (préfet, sous-préfet) ; la décentralisation confie des affaires locales à des élus (conseil régional, conseil municipal).",
+      "Chiffres datés (profil OCDE-CGLU, 2022) : 31 régions créées par le décret n°2013-294 du 2 mai 2013 ; 201 communes depuis mai 2018 ; 14 districts autonomes depuis juin 2021, avec Abidjan et Yamoussoukro.",
+      "! Le mot « région » désigne à la fois une circonscription administrative (dirigée par un préfet de région) et une collectivité territoriale (administrée par un conseil régional élu). Précisez toujours lequel des deux sens vous employez.",
+      "? « Quelle différence entre un préfet et un maire ? » || Le préfet est un agent de l'État nommé, qui représente l'État dans une circonscription administrative : c'est la déconcentration. Le maire est un élu qui administre une collectivité territoriale, la commune : c'est la décentralisation (loi n°2014-451, articles 2 et 32).",
+      "## Notion 4 : les juridictions suprêmes et les organes de contrôle",
+      "Règle : la Cour de cassation est la plus haute juridiction de l'ordre judiciaire (article 148) ; le Conseil d'État est la plus haute juridiction de l'ordre administratif (article 149) ; la Cour des comptes est l'institution suprême de contrôle des finances publiques (article 152). Les compétences de l'ancienne Cour suprême leur ont été transférées (article 181) ; les présidents de la Cour de cassation et du Conseil d'État ont été nommés en avril 2020. Le Médiateur de la République, autorité administrative indépendante, est nommé pour six ans non renouvelables (articles 165 et 166).",
+      "La Haute Autorité pour la Bonne Gouvernance (HABG) est régie par l'ordonnance n°2013-661 du 20 septembre 2013 ; elle reçoit notamment les déclarations de patrimoine des assujettis. L'ordonnance n°2013-660 du même jour porte sur la prévention et la lutte contre la corruption.",
+      "Pourquoi ? Un État de droit suppose que l'Administration soit jugée, contrôlée et redevable : c'est la garantie du citoyen.",
+      "## Notion 5 : les institutions consultatives",
+      "Règle : le Conseil économique, social, environnemental et culturel donne son avis sur les projets de loi, d'ordonnance ou de décret (articles 163 et 164). La Chambre nationale des Rois et Chefs traditionnels représente la chefferie traditionnelle (articles 175 et 176). Enfin, les projets ou propositions de loi relatifs aux collectivités territoriales sont soumis en premier au Sénat (article 110).",
+      "? Pourquoi un futur administrateur doit-il connaître la Chambre nationale des Rois et Chefs traditionnels ? || Parce que, sur le terrain, la chefferie traditionnelle, représentée par cette Chambre (article 175 de la Constitution), est un relais essentiel de la cohésion sociale et du règlement des conflits locaux : l'administrateur travaille avec elle."
+     ],
+     "retenir": [
+      "Le Président de la République est le chef de l'Administration et nomme aux emplois civils et militaires (article 67 de la Constitution).",
+      "Le Premier ministre et les ministres sont solidairement responsables devant le Président de la République (article 83).",
+      "Les collectivités territoriales sont les régions et les communes (article 170 de la Constitution ; article 32 de la loi n°2014-451).",
+      "Le village est la circonscription administrative de base du territoire national (article 31 de la loi n°2014-451).",
+      "Le Conseil d'État est la plus haute juridiction administrative ; la Cour de cassation, la plus haute juridiction judiciaire.",
+      "La Cour des comptes est l'institution suprême de contrôle des finances publiques (article 152 de la Constitution).",
+      "La HABG, régie par l'ordonnance n°2013-661 du 20 septembre 2013, reçoit les déclarations de patrimoine.",
+      "Le Médiateur de la République est nommé pour six ans non renouvelables."
+     ],
+     "exo": {
+      "tag": "niv-or04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "CivLII – Constitution de la République de Côte d'Ivoire du 8 novembre 2016 (version révisée)",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+      },
+      {
+       "t": "Constitute Project – Côte d'Ivoire's Constitution of 2016 (rev. 2020)",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      },
+      {
+       "t": "CivLII – Loi n°2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2014/451/fra@2024-12-05/source"
+      },
+      {
+       "t": "OCDE/CGLU SNG-WOFI – Profil pays Côte d'Ivoire",
+       "u": "https://sng-wofi.org/country_profiles/cote_divoire.html"
+      },
+      {
+       "t": "Décret n°2016-600 du 3 août 2016 portant organisation du ministère de l'Économie et des Finances",
+       "u": "https://igt.tresor.gouv.ci/t/wp-content/uploads/2019/05/Decret-n-2016-600-du-3-aout-2016-portant-organisation-du-MPMEF.pdf"
+      },
+      {
+       "t": "Gouv.ci – Communiqué de la HABG du 12 décembre 2024",
+       "u": "https://www.gouv.ci/uploads/publications/1734091030haute-autroite-pour-la-bonne-gouvrnance-communique-12-decembre-2024.pdf"
+      },
+      {
+       "t": "Fraternité Matin – Déclaration de patrimoine : la HABG enregistre un taux de 81,85 % des assujettis",
+       "u": "https://www.fratmat.info/article/230938/economie/bonne-gouvernance/declaration-de-patrimoine-la-habg-enregistre-un-taux-de-8185-des-assujettis"
+      },
+      {
+       "t": "Abidjan.net – Nomination des présidents de la Cour de cassation et du Conseil d'État (avril 2020)",
+       "u": "https://news.abidjan.net/articles/671060/cote-d8217ivoire-nomination-des-presidents-de-la-cour-de-cassation-et-du-conseil-d8217etat"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "dpen",
+     "src": "original",
+     "ref": "Entraînement · 1er nov. 2026",
+     "t": "L'intention, condition de la responsabilité pénale en droit ivoirien ?",
+     "plan": [
+      "Introduction : définir l'intention (vouloir l'acte interdit) et la distinguer du mobile ; rappeler l'article 94-1 issu de la loi n°2021-893 du 21 décembre 2021 ; problématique : l'intention est-elle toujours exigée pour engager la responsabilité pénale ?",
+      "I. Le principe : pas de crime ni de délit sans intention. A. Une exigence posée par l'article 94-1, fondée sur la responsabilité de celui qui est apte à comprendre et à vouloir (article 94). B. Une intention distincte du mobile, de l'ignorance de la loi et de l'erreur sur la victime, sans conséquence sur la responsabilité (article 95).",
+      "II. Les tempéraments : une intention parfois écartée. A. La réserve « sauf si la loi en dispose autrement » de l'article 94-1. B. Les contraventions, punies sans intention et effacées seulement par la force majeure.",
+      "Conclusion : l'intention reste la règle pour les infractions graves, mais la discipline sociale justifie une responsabilité plus objective pour les contraventions ; ouverture sur les causes d'irresponsabilité (niveau dp05)."
+     ]
+    }
+   ]
+  }
+ ]
+}
