@@ -1293,6 +1293,654 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-02",
+   "questions": [
+    {
+     "id": "n20261102-an05-01",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"When I got to the office, the meeting ___.\"",
+     "o": [
+      "has already started",
+      "had already started",
+      "already starts",
+      "have already started"
+     ],
+     "a": 1,
+     "e": "Le repère est passé (got) et le début de la réunion lui est antérieur : on emploie le past perfect, had + participe passé (had already started).",
+     "ed": [
+      "Le present perfect se rattache au présent : il ne peut pas exprimer une antériorité par rapport à un repère passé.",
+      null,
+      "Le présent simple ne convient pas dans un récit au passé.",
+      "« Have » ne s'accorde pas avec le sujet singulier the meeting, et le present perfect est de toute façon exclu ici."
+     ]
+    },
+    {
+     "id": "n20261102-an05-02",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"By the time the minister arrived, the journalists ___.\"",
+     "o": [
+      "have left",
+      "leave",
+      "will leave",
+      "had left"
+     ],
+     "a": 3,
+     "e": "By the time + past simple (arrived) fixe un repère passé ; le départ des journalistes est antérieur : past perfect, had left.",
+     "ed": [
+      "Le present perfect est impossible avec un repère passé exprimé par arrived.",
+      "Le présent simple ne s'accorde pas avec le récit au passé.",
+      "Will exprime le futur, alors que toute la phrase se situe dans le passé.",
+      null
+     ]
+    },
+    {
+     "id": "n20261102-an05-03",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "What is the past perfect of \"they go\"?",
+     "o": [
+      "they had gone",
+      "they had went",
+      "they have gone",
+      "they were gone"
+     ],
+     "a": 0,
+     "e": "Le past perfect se forme avec had + participe passé ; le participe passé de go est gone : they had gone.",
+     "ed": [
+      null,
+      "Went est le prétérit de go, pas son participe passé : « had went » est fautif.",
+      "They have gone est le present perfect, pas le past perfect.",
+      "They were gone emploie be au lieu de have : ce n'est pas le past perfect de go."
+     ]
+    },
+    {
+     "id": "n20261102-an05-04",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"The phone is ringing. — Don't worry, I ___ it.\"",
+     "o": [
+      "answered",
+      "'ll answer",
+      "had answered",
+      "answers"
+     ],
+     "a": 1,
+     "e": "La décision est prise au moment où l'on parle, en réaction à la situation : on emploie will (I'll answer it).",
+     "ed": [
+      "Le prétérit renvoie au passé, alors que l'action est à venir.",
+      null,
+      "Le past perfect exprime l'antériorité dans le passé, sans rapport avec une décision immédiate.",
+      "« I answers » est fautif : le -s ne s'emploie qu'à la troisième personne du singulier, et le présent ne convient pas ici."
+     ]
+    },
+    {
+     "id": "n20261102-an05-05",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"Look at those dark clouds! It ___ rain.\"",
+     "o": [
+      "rained",
+      "had rained",
+      "is going to",
+      "rains"
+     ],
+     "a": 2,
+     "e": "La prédiction repose sur un indice visible dans le présent (les nuages noirs) : on emploie be going to (It is going to rain).",
+     "ed": [
+      "Le prétérit renvoie au passé, alors que la pluie est à venir.",
+      "Le past perfect exprime une antériorité dans le passé.",
+      null,
+      "« It rains rain » est agrammatical : rains ne peut pas être suivi de la base verbale rain."
+     ]
+    },
+    {
+     "id": "n20261102-an05-06",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"I ___ the director tomorrow at ten; it's in my diary.\"",
+     "o": [
+      "met",
+      "am meeting",
+      "had met",
+      "have met"
+     ],
+     "a": 1,
+     "e": "Rendez-vous déjà fixé (it's in my diary) avec une date future : on emploie le present continuous à valeur de futur (I am meeting).",
+     "ed": [
+      "Le prétérit renvoie au passé, ce qui contredit tomorrow.",
+      null,
+      "Le past perfect exprime l'antériorité dans le passé, incompatible avec tomorrow.",
+      "Le present perfect relie le passé au présent ; il est incompatible avec tomorrow."
+     ]
+    },
+    {
+     "id": "n20261102-an05-07",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"I will call you when I ___ in Abidjan.\"",
+     "o": [
+      "will arrive",
+      "would arrive",
+      "arrive",
+      "had arrived"
+     ],
+     "a": 2,
+     "e": "Après when renvoyant au futur, on emploie le présent ; will reste dans la principale (I will call you when I arrive).",
+     "ed": [
+      "Will est interdit dans une subordonnée de temps introduite par when qui renvoie au futur : c'est un calque du français.",
+      "Would est le conditionnel ; il ne convient pas avec une principale au futur.",
+      null,
+      "Le past perfect renvoie au passé, alors que l'arrivée est future."
+     ]
+    },
+    {
+     "id": "n20261102-an05-08",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"According to the timetable, the bus to Bouaké ___ at 6:30 tomorrow.\"",
+     "o": [
+      "leaves",
+      "left",
+      "has left",
+      "had left"
+     ],
+     "a": 0,
+     "e": "Un horaire officiel (timetable) qui concerne le futur s'exprime au present simple : the bus leaves at 6:30 tomorrow.",
+     "ed": [
+      null,
+      "Le prétérit renvoie au passé, ce qui contredit tomorrow.",
+      "Le present perfect est incompatible avec un complément de temps futur comme tomorrow.",
+      "Le past perfect exprime l'antériorité dans le passé, incompatible avec tomorrow."
+     ]
+    },
+    {
+     "id": "n20261102-an05-09",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"I think the new reform ___ the public service.\"",
+     "o": [
+      "improved",
+      "had improved",
+      "improving",
+      "will improve"
+     ],
+     "a": 3,
+     "e": "Prédiction fondée sur une opinion (I think) : on emploie will + base verbale (will improve).",
+     "ed": [
+      "Le prétérit présenterait la réforme comme passée, alors qu'on fait une prédiction.",
+      "Le past perfect exprime une antériorité dans le passé, sans rapport avec une prédiction.",
+      "Le participe présent seul ne peut pas être le verbe d'une proposition : il manque l'auxiliaire.",
+      null
+     ]
+    },
+    {
+     "id": "n20261102-an05-10",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"Before he joined the agency in 2020, he ___ in a bank for five years.\"",
+     "o": [
+      "has worked",
+      "had worked",
+      "works",
+      "is working"
+     ],
+     "a": 1,
+     "e": "L'expérience bancaire est antérieure à un repère passé (joined in 2020) : on emploie le past perfect, had worked.",
+     "ed": [
+      "Le present perfect est impossible avec un repère passé daté (2020).",
+      null,
+      "Le présent simple ne peut pas décrire une période révolue avant 2020.",
+      "Le present continuous décrit une action en cours maintenant, pas avant 2020."
+     ]
+    },
+    {
+     "id": "n20261102-an05-11",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Which sentence correctly translates: « Je l'appellerai dès qu'il arrivera » ?",
+     "o": [
+      "I'll call him as soon as he will arrive.",
+      "I'll call him as soon as he arrived.",
+      "I'll call him as soon as he arrives.",
+      "I'll call him as soon as he had arrive."
+     ],
+     "a": 2,
+     "e": "Après as soon as renvoyant au futur, l'anglais emploie le présent (he arrives), et will reste dans la principale (I'll call him).",
+     "ed": [
+      "Will après as soon as est un calque fautif du futur français.",
+      "Le prétérit arrived renvoie au passé et ne s'accorde pas avec la principale au futur.",
+      null,
+      "« Had arrive » est mal formé (il faudrait le participe arrived) et le past perfect ne convient pas ici."
+     ]
+    },
+    {
+     "id": "n20261102-an05-12",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"I had never seen the Basilica of Yamoussoukro ___ I visited it in 2015.\"",
+     "o": [
+      "since",
+      "for",
+      "until",
+      "yet"
+     ],
+     "a": 2,
+     "e": "Avec le past perfect au négatif, until (jusqu'à ce que) marque la fin de la période antérieure : je ne l'avais jamais vue jusqu'à ma visite de 2015.",
+     "ed": [
+      "Since introduit un point de départ, alors qu'ici 2015 marque la fin de la période où je ne l'avais pas vue.",
+      "For introduit une durée (for ten years), pas une proposition au prétérit.",
+      null,
+      "Yet se place en fin de phrase négative ou interrogative ; il ne peut pas introduire une proposition."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-01",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "600000*0.05*3",
+     "q": "Un capital de 600 000 F est placé à 5 % d'intérêts simples pendant 3 ans. Quel intérêt rapporte-t-il ?",
+     "o": [
+      "30 000 F",
+      "90 000 F",
+      "94 575 F",
+      "690 000 F"
+     ],
+     "a": 1,
+     "e": "Intérêt simple : I = C × t × n = 600 000 × 0,05 × 3 = 90 000 F. Chaque année rapporte 30 000 F, trois fois de suite.",
+     "ed": [
+      "30 000 F est l'intérêt d'une seule année : la durée de 3 ans est oubliée.",
+      null,
+      "94 575 F est l'intérêt à intérêts composés (600 000 × 1,05³ − 600 000) : l'énoncé parle d'intérêts simples.",
+      "690 000 F est la valeur acquise (capital + intérêts), pas l'intérêt demandé."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-02",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "800000*(1+0.06*4)",
+     "q": "Quelle est la valeur acquise par 800 000 F placés à 6 % d'intérêts simples pendant 4 ans ?",
+     "o": [
+      "192 000 F",
+      "848 000 F",
+      "1 040 000 F",
+      "992 000 F"
+     ],
+     "a": 3,
+     "e": "Valeur acquise = C × (1 + t × n) = 800 000 × (1 + 0,06 × 4) = 800 000 × 1,24 = 992 000 F.",
+     "ed": [
+      "192 000 F est l'intérêt seul (800 000 × 0,24) : la question demande la valeur acquise.",
+      "848 000 F est la valeur acquise au bout d'un an seulement.",
+      "1 040 000 F correspond à 800 000 × 1,30, soit 5 ans à 6 % : la durée est fausse.",
+      null
+     ]
+    },
+    {
+     "id": "n20261102-lo07-03",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "1200000*0.09*8/12",
+     "q": "Un capital de 1 200 000 F est placé à 9 % l'an, à intérêts simples, pendant 8 mois. Quel est l'intérêt ?",
+     "o": [
+      "72 000 F",
+      "108 000 F",
+      "864 000 F",
+      "7 200 F"
+     ],
+     "a": 0,
+     "e": "Le taux est annuel : 8 mois = 8/12 an. I = 1 200 000 × 0,09 × 8 / 12 = 108 000 × 8 / 12 = 72 000 F (9 000 F par mois).",
+     "ed": [
+      null,
+      "108 000 F est l'intérêt d'une année entière, pas de 8 mois.",
+      "864 000 F provient de 1 200 000 × 0,09 × 8 : la durée en mois n'a pas été divisée par 12.",
+      "7 200 F est dix fois trop petit : erreur de virgule sur le taux ou le résultat."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-04",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "1800000*0.08*90/360",
+     "q": "Quel intérêt rapportent 1 800 000 F placés à 8 % l'an, à intérêts simples, pendant 90 jours (année commerciale de 360 jours) ?",
+     "o": [
+      "144 000 F",
+      "360 000 F",
+      "36 000 F",
+      "environ 35 507 F"
+     ],
+     "a": 2,
+     "e": "I = C × t × j / 360 = 1 800 000 × 0,08 × 90 / 360. L'intérêt d'un an vaut 144 000 F ; 90 jours font un quart d'année : 144 000 ÷ 4 = 36 000 F.",
+     "ed": [
+      "144 000 F est l'intérêt d'une année complète.",
+      "360 000 F ne correspond à aucune conversion valable de la durée : c'est 2,5 fois l'intérêt annuel.",
+      null,
+      "Environ 35 507 F résulte d'une année de 365 jours, alors que l'énoncé impose l'année commerciale de 360 jours."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-05",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "45000/(500000*1.5)*100",
+     "q": "Un placement de 500 000 F à intérêts simples a rapporté 45 000 F en 18 mois. Quel est le taux annuel ?",
+     "o": [
+      "9 %",
+      "6 %",
+      "4 %",
+      "0,6 %"
+     ],
+     "a": 1,
+     "e": "18 mois = 1,5 an. t = I / (C × n) = 45 000 / (500 000 × 1,5) = 45 000 / 750 000 = 0,06, soit 6 % par an.",
+     "ed": [
+      "9 % est le rapport 45 000 / 500 000 : c'est le taux sur 18 mois, pas le taux annuel.",
+      null,
+      "4 % ne donnerait que 30 000 F en 18 mois (500 000 × 0,04 × 1,5).",
+      "0,6 % est dix fois trop faible : erreur de conversion du décimal 0,06 en pourcentage."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-06",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "36000/(300000*0.04)",
+     "q": "Pendant combien d'années faut-il placer 300 000 F à 4 % d'intérêts simples pour obtenir 36 000 F d'intérêts ?",
+     "o": [
+      "2 ans",
+      "12 ans",
+      "4 ans",
+      "3 ans"
+     ],
+     "a": 3,
+     "e": "n = I / (C × t) = 36 000 / (300 000 × 0,04) = 36 000 / 12 000 = 3 ans. Vérification : 12 000 F par an pendant 3 ans donnent 36 000 F.",
+     "ed": [
+      "2 ans ne rapportent que 24 000 F (2 × 12 000).",
+      "12 ans rapporteraient 144 000 F : on a divisé 36 000 par 3 000 au lieu de 12 000.",
+      "4 ans rapportent 48 000 F, soit plus que les 36 000 F demandés.",
+      null
+     ]
+    },
+    {
+     "id": "n20261102-lo07-07",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "2000000*1.05**2",
+     "q": "Quelle est la valeur acquise par 2 000 000 F placés à 5 % d'intérêts composés pendant 2 ans ?",
+     "o": [
+      "2 200 000 F",
+      "2 205 000 F",
+      "2 100 000 F",
+      "2 315 250 F"
+     ],
+     "a": 1,
+     "e": "À intérêts composés : C2 = 2 000 000 × 1,05² = 2 000 000 × 1,1025 = 2 205 000 F. La deuxième année rapporte 5 % de 2 100 000 F, soit 105 000 F.",
+     "ed": [
+      "2 200 000 F est la valeur acquise à intérêts simples : les intérêts de la première année n'ont pas produit d'intérêts.",
+      null,
+      "2 100 000 F est la valeur acquise au bout d'un an seulement.",
+      "2 315 250 F est la valeur acquise au bout de 3 ans (2 000 000 × 1,05³)."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-08",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "500000*1.1**3-500000",
+     "q": "Un capital de 500 000 F est placé à 10 % d'intérêts composés pendant 3 ans. Quel est le montant total des intérêts ?",
+     "o": [
+      "150 000 F",
+      "665 500 F",
+      "165 500 F",
+      "155 000 F"
+     ],
+     "a": 2,
+     "e": "Valeur acquise : 500 000 × 1,1³ = 500 000 × 1,331 = 665 500 F. Intérêts = 665 500 − 500 000 = 165 500 F.",
+     "ed": [
+      "150 000 F est l'intérêt simple (500 000 × 0,10 × 3) : il ignore les intérêts sur les intérêts.",
+      "665 500 F est la valeur acquise, pas le montant des intérêts.",
+      null,
+      "155 000 F ne correspond à aucun calcul cohérent : les intérêts annuels sont 50 000, 55 000 puis 60 500 F."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-09",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "1210000/1.1**2",
+     "q": "Quelle somme faut-il placer aujourd'hui à 10 % d'intérêts composés pour disposer de 1 210 000 F dans 2 ans ?",
+     "o": [
+      "1 000 000 F",
+      "1 100 000 F",
+      "968 000 F",
+      "environ 1 008 333 F"
+     ],
+     "a": 0,
+     "e": "Valeur actuelle : C = 1 210 000 / 1,1² = 1 210 000 / 1,21 = 1 000 000 F. Vérification : 1 000 000 × 1,1 × 1,1 = 1 210 000 F.",
+     "ed": [
+      null,
+      "1 100 000 F est la valeur actuelle à un an seulement (1 210 000 / 1,1).",
+      "968 000 F retire 20 % de la somme future : on ne retranche pas un pourcentage, on divise par (1 + t)².",
+      "Environ 1 008 333 F résulte d'une division par 1,2, c'est-à-dire d'un calcul à intérêts simples."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-10",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "1000000*1.1**2-1000000*(1+0.1*2)",
+     "q": "1 000 000 F sont placés 2 ans à 10 %. Quelle est la différence entre la valeur acquise à intérêts composés et celle à intérêts simples ?",
+     "o": [
+      "0 F",
+      "100 000 F",
+      "21 000 F",
+      "10 000 F"
+     ],
+     "a": 3,
+     "e": "Composés : 1 000 000 × 1,21 = 1 210 000 F. Simples : 1 000 000 × 1,2 = 1 200 000 F. Écart : 10 000 F, soit 10 % des 100 000 F d'intérêts de la première année.",
+     "ed": [
+      "0 F est faux dès que la durée dépasse un an : les intérêts composés produisent des intérêts sur les intérêts.",
+      "100 000 F est l'intérêt d'une année, pas l'écart entre les deux régimes.",
+      "21 000 F ne correspond à aucun calcul : il confond 1,21 et l'écart recherché.",
+      null
+     ]
+    },
+    {
+     "id": "n20261102-lo07-11",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "1/0.08",
+     "q": "À intérêts simples, au taux de 8 % l'an, au bout de combien d'années un capital double-t-il ?",
+     "o": [
+      "9 ans",
+      "12,5 ans",
+      "8 ans",
+      "25 ans"
+     ],
+     "a": 1,
+     "e": "Le capital double quand l'intérêt égale le capital : C × 0,08 × n = C, donc n = 1 / 0,08 = 12,5 ans.",
+     "ed": [
+      "9 ans est le temps de doublement approximatif à intérêts composés (1,08⁹ ≈ 2) : l'énoncé parle d'intérêts simples.",
+      null,
+      "8 ans ne donnent que 64 % d'intérêts (0,08 × 8).",
+      "25 ans correspondent à un quadruplement à 12 %, ou à un taux de 4 % pour doubler : c'est deux fois trop long."
+     ]
+    },
+    {
+     "id": "n20261102-lo07-12",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "1150000/(1+0.05*3)",
+     "q": "Un capital placé 3 ans à 5 % d'intérêts simples est devenu 1 150 000 F. Quel était le capital de départ ?",
+     "o": [
+      "977 500 F",
+      "1 092 500 F",
+      "1 000 000 F",
+      "1 135 000 F"
+     ],
+     "a": 2,
+     "e": "C = A / (1 + t × n) = 1 150 000 / (1 + 0,05 × 3) = 1 150 000 / 1,15 = 1 000 000 F. Vérification : 1 000 000 × 0,15 = 150 000 F d'intérêts.",
+     "ed": [
+      "977 500 F retire 15 % de 1 150 000 F : on calcule alors 15 % de la valeur acquise, pas du capital.",
+      "1 092 500 F retire 5 % de la valeur acquise, comme si le placement avait duré un an.",
+      null,
+      "1 135 000 F retranche 15 000 F, ce qui ne correspond à aucun calcul d'intérêt."
+     ]
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261102an05",
+     "niv": "an05",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "Past perfect et expression du futur",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez employer le past perfect pour marquer qu'une action passée est antérieure à une autre.",
+      "= Vous saurez aussi choisir entre will, be going to, le present continuous et le present simple pour parler du futur, et éviter will après when, as soon as ou before.",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), les questions de temps prennent la forme d'une phrase à trous : « By the time we arrived, the meeting ___ . » Quatre formes verbales sont proposées, souvent toutes grammaticalement possibles isolément ; seul l'indice de la phrase (by the time, already, before, tomorrow, look!) permet de trancher. Le piège le plus rentable pour le correcteur est le calque du français : « quand il arrivera » se traduit par when he arrives, et non when he will arrive.",
+      "! Piège habituel : employer le present perfect (has done) pour une antériorité dans le passé. Quand le repère est passé, l'antériorité s'exprime par le past perfect (had done).",
+      "## La méthode, pas à pas",
+      "- 1. Cherchez le repère de temps : passé (yesterday, when I arrived), présent ou futur (tomorrow, next week).",
+      "- 2. Repère passé et action encore plus ancienne : past perfect (had + participe passé).",
+      "- 3. Futur : demandez-vous s'il s'agit d'une décision prise à l'instant (will), d'une intention ou d'un indice visible (going to), d'un rendez-vous fixé (present continuous) ou d'un horaire officiel (present simple).",
+      "- 4. Après when, as soon as, before, after, until, if : présent, jamais will.",
+      "- 5. Éliminez les formes mal construites (had went, will to go) avant de choisir parmi les formes correctes.",
+      "~ Exemple : « When the inspector came, the agents ___ the files. » (avaient déjà rangé). Repère passé (came), action antérieure : had already filed. Traduction : « Quand l'inspecteur est venu, les agents avaient déjà classé les dossiers. »"
+     ],
+     "fond": [
+      "## Notion 1 : former et employer le past perfect",
+      "Règle : le past perfect se forme avec had + participe passé, à toutes les personnes : I had finished, she had gone, they had not (hadn't) seen. Il exprime une action achevée avant un autre moment du passé. C'est le « passé du passé », l'équivalent du plus-que-parfait français.",
+      "Pourquoi ? Dans un récit au passé, il faut pouvoir remonter plus loin encore. Le past simple raconte les événements dans l'ordre ; le past perfect signale un retour en arrière.",
+      "~ Exemple résolu : « The train had left when we reached the station. » (Le train était parti quand nous sommes arrivés à la gare.) Étape 1 : repère passé, reached (past simple). Étape 2 : le départ du train est antérieur. Étape 3 : had left. Comparez : « The train left when we reached the station » signifie que le train est parti au moment de notre arrivée.",
+      "! Piège : had went est faux. Le participe passé de go est gone : had gone. Pour les verbes irréguliers, vérifiez toujours la troisième forme (go, went, gone ; see, saw, seen ; write, wrote, written).",
+      "? Complétez : « She was happy because she ___ (pass) the exam the week before. » || had passed. Le repère est passé (was happy) et la réussite à l'examen est antérieure (the week before) : past perfect, had + passed. Traduction : « Elle était heureuse parce qu'elle avait réussi l'examen la semaine précédente. »",
+      "## Notion 2 : les indices du past perfect",
+      "Règle : certains mots appellent souvent le past perfect dans un récit au passé : by the time (le temps que, quand), before, after, already, just, never… before, when.",
+      "Pourquoi ? Ces mots organisent une chronologie entre deux actions passées. By the time + past simple indique le moment repère ; l'action déjà accomplie à ce moment se met au past perfect.",
+      "~ Exemple : « By the time the minister arrived, the journalists had left. » (Le temps que le ministre arrive, les journalistes étaient partis.)",
+      "! Contraste avec le français : « Je n'avais jamais vu Yamoussoukro avant 2010 » se dit I had never seen Yamoussoukro before 2010. Le present perfect (I have never seen) est impossible, car le repère (2010) est passé.",
+      "## Notion 3 : will et be going to",
+      "Règle : will + base verbale exprime une prédiction fondée sur une opinion (I think, probably), une décision prise au moment où l'on parle, une promesse ou une offre. Be going to + base verbale exprime une intention déjà formée ou une prédiction fondée sur un indice présent.",
+      "Pourquoi ? Going to relie le futur au présent : l'intention existe déjà dans l'esprit, ou l'indice est déjà visible. Will exprime un futur que l'on décide ou que l'on suppose à l'instant.",
+      "~ Exemples : « The phone is ringing. — I'll answer it. » (décision immédiate). « Look at those clouds! It is going to rain. » (indice visible). « I think the new road will help farmers. » (opinion). « I'm going to apply for the ENA competition this year. » (intention déjà prise).",
+      "? Choisissez : « I have bought the paint; I ___ repaint my office this weekend. » (will / am going to) || am going to. L'achat de la peinture montre que la décision a été prise avant le moment où l'on parle : c'est une intention déjà formée, donc be going to.",
+      "## Notion 4 : le présent pour parler du futur",
+      "Règle : le present continuous exprime un futur arrangé à l'avance, souvent avec une date et des personnes engagées (rendez-vous, voyage réservé). Le present simple exprime un futur fixé par un horaire ou un calendrier officiel (trains, cours, séances).",
+      "Pourquoi ? Dans les deux cas, l'événement est déjà organisé au moment présent : le présent suffit, et le complément de temps (tomorrow, at 9) indique qu'il s'agit du futur.",
+      "~ Exemples : « I'm meeting the director tomorrow at ten. » (rendez-vous pris). « The bus to Abengourou leaves at 6:30 tomorrow. » (horaire).",
+      "## Notion 5 : pas de will après when, as soon as, before, if",
+      "Règle : dans une subordonnée de temps (when, as soon as, before, after, until) ou de condition (if, unless) qui renvoie au futur, on emploie le présent, et will reste dans la principale.",
+      "Pourquoi ? La principale porte déjà la marque du futur ; l'anglais ne la répète pas. C'est une différence majeure avec le français, qui met le futur dans les deux propositions.",
+      "~ Exemple : « Je vous appellerai quand j'arriverai à Abidjan » → I will call you when I arrive in Abidjan. Et non when I will arrive.",
+      "? Traduisez : « Nous commencerons dès que le président sera là. » || We will start as soon as the president is here (ou arrives). As soon as introduit une subordonnée de temps : le présent remplace le futur français, et will reste dans la principale (we will start)."
+     ],
+     "retenir": [
+      "Le past perfect se forme avec had + participe passé : il exprime une action antérieure à un autre moment passé.",
+      "By the time + past simple appelle le past perfect dans la proposition principale : the meeting had started.",
+      "Will exprime une décision prise sur le moment, une promesse ou une prédiction d'opinion.",
+      "Be going to exprime une intention déjà formée ou une prédiction fondée sur un indice présent.",
+      "Present continuous : futur arrangé (rendez-vous) ; present simple : futur d'horaire officiel (the bus leaves at six).",
+      "Après when, as soon as, before, until ou if renvoyant au futur, on met le présent, jamais will."
+     ],
+     "exo": {
+      "tag": "niv-an05",
+      "n": 12
+     }
+    },
+    {
+     "id": "L20261102lo07",
+     "niv": "lo07",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Intérêts simples et composés",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez calculer un intérêt simple sur une durée en années, en mois ou en jours, et retrouver le capital, le taux ou la durée.",
+      "= Vous saurez aussi calculer une valeur acquise à intérêts composés, une valeur actuelle, et distinguer sans hésiter les deux régimes.",
+      "## Ce que demande l'épreuve",
+      "Les questions d'intérêts appartiennent aux problèmes de calcul de la présélection, notés +2 / 0 / −2 en logique. L'énoncé donne trois des quatre grandeurs (capital, taux, durée, intérêt) et demande la quatrième. Les distracteurs sont construits sur des erreurs prévisibles : durée en mois non divisée par 12, intérêt confondu avec la valeur acquise, intérêts composés calculés comme des intérêts simples. Une erreur coûte deux points : mieux vaut poser le calcul que deviner.",
+      "! Piège habituel : la question demande-t-elle l'intérêt (le gain) ou la valeur acquise (capital + intérêt) ? Les deux nombres figurent presque toujours parmi les propositions.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez le régime : « intérêts simples » ou « intérêts composés ».",
+      "- 2. Écrivez le taux en nombre décimal : 6 % = 0,06.",
+      "- 3. Exprimez la durée dans l'unité du taux : 8 mois = 8/12 an ; 90 jours = 90/360 an (année commerciale de 360 jours, sauf indication contraire de l'énoncé).",
+      "- 4. Appliquez la formule : I = C × t × n (simples) ou Cn = C × (1 + t)^n (composés).",
+      "- 5. Relisez la question : intérêt ou valeur acquise ? Puis vérifiez l'ordre de grandeur.",
+      "~ Exemple : 400 000 F placés à 5 % d'intérêts simples pendant 3 ans. I = 400 000 × 0,05 × 3 = 60 000 F. Valeur acquise = 400 000 + 60 000 = 460 000 F. Vérification : 5 % de 400 000 = 20 000 F par an, et 3 × 20 000 = 60 000 F."
+     ],
+     "fond": [
+      "## Notion 1 : l'intérêt simple",
+      "Règle : à intérêts simples, l'intérêt est calculé chaque période sur le seul capital de départ. Il vaut I = C × t × n, où C est le capital, t le taux annuel en décimal et n la durée en années. La valeur acquise est A = C + I = C × (1 + t × n).",
+      "Pourquoi ? Les intérêts ne sont pas réinvestis : chaque année rapporte exactement la même somme, C × t. L'intérêt est donc proportionnel à la durée.",
+      "~ Exemple résolu : une coopérative maraîchère place 750 000 F à 4 % pendant 2 ans. Étape 1 : intérêt annuel = 750 000 × 0,04 = 30 000 F. Étape 2 : I = 30 000 × 2 = 60 000 F. Étape 3 : valeur acquise = 750 000 + 60 000 = 810 000 F.",
+      "? Une association place 2 500 000 F à 3 % d'intérêts simples pendant 4 ans. Quelle est la valeur acquise ? || Intérêt annuel : 2 500 000 × 0,03 = 75 000 F. Sur 4 ans : 75 000 × 4 = 300 000 F. Valeur acquise : 2 500 000 + 300 000 = 2 800 000 F. On vérifie : 1 + 0,03 × 4 = 1,12 et 2 500 000 × 1,12 = 2 800 000 F.",
+      "## Notion 2 : durées en mois et en jours",
+      "Règle : le taux est annuel, donc la durée doit être exprimée en années. Pour m mois : I = C × t × m / 12. Pour j jours, en année commerciale : I = C × t × j / 360.",
+      "Pourquoi 360 jours ? C'est la convention de l'« année commerciale », qui simplifie les calculs (douze mois de 30 jours). Si l'énoncé impose 365 jours, on suit l'énoncé.",
+      "~ Exemple résolu : 900 000 F placés à 8 % pendant 5 mois. I = 900 000 × 0,08 × 5 / 12 = 72 000 × 5 / 12 = 30 000 F. Raccourci : l'intérêt d'un an (72 000 F) donne 6 000 F par mois, donc 30 000 F pour 5 mois.",
+      "! Piège : multiplier par le nombre de mois sans diviser par 12. Ici, on obtiendrait 360 000 F, soit douze fois trop.",
+      "? Calculez l'intérêt de 1 440 000 F placés à 5 % pendant 60 jours (année de 360 jours). || I = 1 440 000 × 0,05 × 60 / 360. L'intérêt d'un an vaut 72 000 F ; 60 jours représentent 1/6 d'année ; 72 000 ÷ 6 = 12 000 F.",
+      "## Notion 3 : retrouver le capital, le taux ou la durée",
+      "Règle : la formule I = C × t × n se retourne. t = I / (C × n) ; n = I / (C × t) ; C = I / (t × n). Si l'on connaît la valeur acquise A, le capital vaut C = A / (1 + t × n).",
+      "Pourquoi ? Les quatre grandeurs sont liées par une seule égalité : connaître trois d'entre elles suffit toujours pour déterminer la quatrième.",
+      "~ Exemple résolu : un placement de 600 000 F a rapporté 54 000 F d'intérêts simples en 3 ans. Taux : t = 54 000 / (600 000 × 3) = 54 000 / 1 800 000 = 0,03, soit 3 %. Vérification : 600 000 × 0,03 × 3 = 54 000 F.",
+      "! Piège : diviser l'intérêt par le capital sans tenir compte de la durée. Ici, 54 000 / 600 000 = 9 % : c'est le taux sur trois ans, pas le taux annuel.",
+      "## Notion 4 : l'intérêt composé",
+      "Règle : à intérêts composés, les intérêts de chaque période s'ajoutent au capital et produisent à leur tour des intérêts. La valeur acquise au bout de n années est Cn = C × (1 + t)^n. L'intérêt total est Cn − C.",
+      "Pourquoi ? Chaque année, le capital est multiplié par (1 + t). Après deux ans, on a multiplié deux fois : C × (1 + t) × (1 + t). L'écart avec les intérêts simples vient des « intérêts sur les intérêts ».",
+      "~ Exemple résolu : 1 000 000 F à 10 % composés pendant 3 ans. Année 1 : 1 000 000 × 1,1 = 1 100 000 F. Année 2 : 1 100 000 × 1,1 = 1 210 000 F. Année 3 : 1 210 000 × 1,1 = 1 331 000 F. Intérêt total : 331 000 F, contre 300 000 F à intérêts simples.",
+      "? Combien vaut, au bout de 2 ans, un capital de 4 000 000 F placé à 5 % d'intérêts composés ? || 1,05 × 1,05 = 1,1025. Valeur acquise : 4 000 000 × 1,1025 = 4 410 000 F. À intérêts simples, on aurait 4 400 000 F : la différence de 10 000 F correspond aux intérêts de la deuxième année calculés sur les 200 000 F d'intérêts de la première année (200 000 × 0,05).",
+      "## Notion 5 : la valeur actuelle",
+      "Règle : la valeur actuelle est la somme qu'il faut placer aujourd'hui pour obtenir une somme donnée plus tard. À intérêts composés : C = Cn / (1 + t)^n. À intérêts simples : C = A / (1 + t × n).",
+      "Pourquoi ? C'est l'opération inverse de la capitalisation : on divise au lieu de multiplier. Elle sert, par exemple, à comparer un paiement immédiat et un paiement différé dans un plan d'affaires.",
+      "~ Exemple résolu : un promoteur veut disposer de 2 420 000 F dans 2 ans, placement à 10 % composés. C = 2 420 000 / 1,21 = 2 000 000 F. Vérification : 2 000 000 × 1,1 = 2 200 000 F, puis 2 200 000 × 1,1 = 2 420 000 F.",
+      "? Quelle somme faut-il placer aujourd'hui à 4 % d'intérêts simples pour disposer de 1 120 000 F dans 3 ans ? || 1 + 0,04 × 3 = 1,12. C = 1 120 000 / 1,12 = 1 000 000 F. Vérification : 1 000 000 × 0,04 × 3 = 120 000 F d'intérêts, et 1 000 000 + 120 000 = 1 120 000 F."
+     ],
+     "retenir": [
+      "À intérêts simples, l'intérêt vaut capital × taux × durée en années : I = C × t × n.",
+      "Une durée en mois se divise par 12 ; une durée en jours se divise par 360 en année commerciale.",
+      "La valeur acquise est le capital augmenté des intérêts : ne la confondez pas avec l'intérêt seul.",
+      "À intérêts composés, la valeur acquise vaut C × (1 + t) puissance n : les intérêts produisent des intérêts.",
+      "Sur plus d'un an, au même taux, les intérêts composés rapportent davantage que les intérêts simples.",
+      "La valeur actuelle s'obtient en divisant la somme future par (1 + t)^n, ou par (1 + t × n) à intérêts simples.",
+      "À intérêts simples, un capital double quand t × n = 1 : à 8 %, il faut 12,5 ans."
+     ],
+     "exo": {
+      "tag": "niv-lo07",
+      "n": 12
+     }
+    }
+   ],
+   "sujets": []
   }
  ]
 }
