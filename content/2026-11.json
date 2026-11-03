@@ -1941,6 +1941,1083 @@
     }
    ],
    "sujets": []
+  },
+  {
+   "date": "2026-11-03",
+   "questions": [
+    {
+     "id": "n20261103-dc05-01",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Selon l'article 55 de la Constitution, quel âge minimal doit avoir un candidat à l'élection présidentielle ?",
+     "o": [
+      "30 ans",
+      "40 ans",
+      "35 ans",
+      "45 ans"
+     ],
+     "a": 2,
+     "e": "L'article 55 nouveau dispose que le candidat doit être âgé de trente-cinq (35) ans au moins, en plus de jouir de ses droits civils et politiques.",
+     "ed": [
+      "30 ans est inférieur au minimum constitutionnel de 35 ans.",
+      "40 ans n'est pas l'âge fixé par l'article 55, qui retient 35 ans.",
+      null,
+      "45 ans n'apparaît pas dans l'article 55 : le seuil est de 35 ans."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-02",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Selon l'article 63 de la Constitution, le Président de la République est :",
+     "o": [
+      "le détenteur exclusif du pouvoir exécutif",
+      "le chef du Gouvernement",
+      "responsable devant l'Assemblée nationale",
+      "le président du Congrès"
+     ],
+     "a": 0,
+     "e": "L'article 63 dispose : « Le Président de la République est le détenteur exclusif du pouvoir exécutif. » Le Gouvernement met en œuvre la politique qu'il définit.",
+     "ed": [
+      null,
+      "Le chef du Gouvernement est le Premier ministre (articles 70 et 81).",
+      "Ce sont le Premier ministre et les ministres qui sont responsables, et devant le Président (article 83).",
+      "Le Congrès est présidé par le Président de l'Assemblée nationale (article 98)."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-03",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Quand a lieu le premier tour de l'élection présidentielle selon l'article 56 ?",
+     "o": [
+      "Le premier dimanche de novembre",
+      "Le dernier samedi du mois d'octobre de la cinquième année du mandat",
+      "Le deuxième lundi de décembre",
+      "Le dernier samedi de novembre"
+     ],
+     "a": 1,
+     "e": "L'article 56 fixe le premier tour au dernier samedi d'octobre de la cinquième année du mandat du Président en fonction ; le second tour a lieu le dernier samedi de novembre.",
+     "ed": [
+      "Aucun scrutin présidentiel n'est fixé un dimanche par l'article 56.",
+      null,
+      "Le deuxième lundi de décembre est la date de la prestation de serment (article 58).",
+      "Le dernier samedi de novembre est la date du second tour, non du premier."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-04",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Selon l'article 80, que fait le Vice-Président lorsque le Président est hors du territoire national ?",
+     "o": [
+      "Il dissout le Gouvernement",
+      "Il convoque le Congrès",
+      "Il exerce tous les pouvoirs propres du Président",
+      "Il supplée le Président"
+     ],
+     "a": 3,
+     "e": "L'article 80 dispose que le Vice-Président supplée le Président lorsque celui-ci est hors du territoire national ; le Président peut lui déléguer par décret la présidence du Conseil des ministres sur un ordre du jour précis.",
+     "ed": [
+      "La Constitution ne donne au Vice-Président aucun pouvoir de dissoudre le Gouvernement.",
+      "Le Congrès se réunit à la demande du Président de la République (article 98).",
+      "La suppléance n'est pas un transfert de tous les pouvoirs : la présidence du Conseil des ministres n'est déléguée que par décret, sur un ordre du jour précis.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Chapitre 3 : Du Vice-Président de la République (art. 78 à 80)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-3-du-vice-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/110/naty/"
+     }
+    },
+    {
+     "id": "n20261103-dc05-05",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Au second tour de l'élection présidentielle, les deux candidats obtiennent exactement le même nombre de voix. Qui est déclaré élu (article 56) ?",
+     "o": [
+      "Le candidat le plus âgé",
+      "Le candidat qui avait obtenu le plus grand nombre de suffrages exprimés au premier tour",
+      "Aucun : un troisième tour est organisé",
+      "Le candidat désigné par le Conseil constitutionnel par tirage au sort"
+     ],
+     "a": 1,
+     "e": "L'article 56 prévoit qu'en cas d'égalité au second tour est déclaré élu le candidat ayant obtenu le plus grand nombre de suffrages exprimés au premier tour.",
+     "ed": [
+      "L'âge n'est pas un critère de départage dans l'article 56.",
+      null,
+      "La Constitution ne prévoit aucun troisième tour.",
+      "Aucun tirage au sort n'est prévu : le départage se fait par les résultats du premier tour."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-06",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Un candidat retenu par le Conseil constitutionnel décède avant le premier tour. Que prévoit l'article 57 ?",
+     "o": [
+      "L'élection a lieu à la date prévue sans changement",
+      "Le parti du candidat le remplace d'office",
+      "Le Conseil constitutionnel peut reporter l'élection ; le scrutin se tient dans un délai de 30 jours au plus",
+      "Le Parlement fixe une nouvelle date dans les six mois"
+     ],
+     "a": 2,
+     "e": "L'article 57 permet au Conseil constitutionnel, saisi par la Commission indépendante chargée des élections, de prononcer le report dans les 72 heures ; l'élection se tient alors dans un délai ne pouvant excéder 30 jours.",
+     "ed": [
+      "L'article 57 ouvre justement la possibilité d'un report en cas de décès d'un candidat.",
+      "La Constitution ne prévoit aucun remplacement d'office par le parti.",
+      null,
+      "Le report est décidé par le Conseil constitutionnel et non par le Parlement, et le délai est de 30 jours."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-07",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Une loi définitivement adoptée est transmise au Président de la République ; l'urgence a été déclarée. Dans quel délai doit-il la promulguer (article 74) ?",
+     "o": [
+      "5 jours",
+      "15 jours",
+      "30 jours",
+      "8 jours"
+     ],
+     "a": 0,
+     "e": "L'article 74 fixe le délai de promulgation à 30 jours après la transmission de la loi ; ce délai est réduit à cinq (5) jours en cas d'urgence.",
+     "ed": [
+      null,
+      "15 jours n'est pas le délai de promulgation de l'article 74.",
+      "30 jours est le délai normal, réduit à 5 jours en cas d'urgence.",
+      "8 jours n'est pas prévu par l'article 74."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-08",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Avant de prendre des mesures exceptionnelles en vertu de l'article 73, le Président doit obligatoirement consulter :",
+     "o": [
+      "le Premier ministre et le Vice-Président",
+      "les présidents de l'Assemblée nationale, du Sénat et du Conseil constitutionnel",
+      "le Conseil d'État et la Cour des comptes",
+      "le bureau du Congrès seulement"
+     ],
+     "a": 1,
+     "e": "L'article 73 impose la consultation obligatoire du Président de l'Assemblée nationale, du Président du Sénat et du Président du Conseil constitutionnel ; le Parlement se réunit de plein droit.",
+     "ed": [
+      "Le Premier ministre et le Vice-Président ne sont pas cités par l'article 73.",
+      null,
+      "Le Conseil d'État et la Cour des comptes ne sont pas consultés au titre de l'article 73.",
+      "Le bureau du Congrès est consulté avant un référendum (article 75), non avant les mesures exceptionnelles."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-09",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Le Président de la République et le Vice-Président sont tous deux en déplacement à l'étranger. Qui supplée le Président selon l'article 82 ?",
+     "o": [
+      "Le Président de l'Assemblée nationale",
+      "Le Président du Sénat",
+      "Le ministre le plus ancien",
+      "Le Premier ministre"
+     ],
+     "a": 3,
+     "e": "L'article 82 dispose que le Premier ministre supplée le Président de la République lorsque celui-ci et le Vice-Président sont hors du territoire national.",
+     "ed": [
+      "Le Président de l'Assemblée nationale préside le Congrès mais n'assure pas cette suppléance.",
+      "Le Président du Sénat n'est pas désigné par l'article 82.",
+      "L'ancienneté d'un ministre n'est pas un critère prévu par la Constitution.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Chapitre 4 : Du Gouvernement (art. 81 à 84)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-4-du-gouvernement/lois-article-par-article/codes/la-constitution-ivoirienne/108/naty/"
+     }
+    },
+    {
+     "id": "n20261103-dc05-10",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Le Vice-Président est décédé et le poste est vacant ; le Président de la République démissionne ensuite. Qui exerce alors les fonctions de Président (article 62) ?",
+     "o": [
+      "Le Premier ministre, qui achève le mandat",
+      "Le Président du Sénat, jusqu'à une nouvelle élection",
+      "Le Président du Conseil constitutionnel",
+      "Le Président de l'Assemblée nationale, pendant 90 jours"
+     ],
+     "a": 0,
+     "e": "L'article 62 prévoit que, si la vacance de la Présidence survient alors que le Vice-Président est décédé, démissionnaire ou empêché, les fonctions de Président sont exercées par le Premier ministre, qui achève le mandat.",
+     "ed": [
+      null,
+      "La Constitution révisée ne confie pas l'intérim au Président du Sénat.",
+      "Le Conseil constitutionnel constate l'empêchement mais son président n'exerce pas les fonctions présidentielles.",
+      "Aucun intérim de 90 jours par le Président de l'Assemblée nationale n'est prévu par l'article 62."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-11",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Le Vice-Président devient Président de la République à la suite du décès du Président. Laquelle de ces affirmations est exacte (article 62) ?",
+     "o": [
+      "Il doit organiser une élection présidentielle dans les 90 jours",
+      "Il peut nommer librement un nouveau Vice-Président",
+      "Il achève le mandat et ne peut pas nommer de Vice-Président",
+      "Il exerce les fonctions sans prêter serment"
+     ],
+     "a": 2,
+     "e": "Selon l'article 62, le Vice-Président devenu Président prête serment devant le Conseil constitutionnel, achève le mandat du Président élu et ne peut pas nommer de Vice-Président pendant le mandat restant à courir.",
+     "ed": [
+      "L'article 62 ne prévoit pas d'élection anticipée : le nouveau Président achève le mandat.",
+      "L'article 62 lui interdit expressément de nommer un Vice-Président.",
+      null,
+      "Il prête serment devant le Conseil constitutionnel avant son entrée en fonction."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-dc05-12",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Laquelle de ces activités est compatible avec les fonctions de Président de la République selon l'article 61 ?",
+     "o": [
+      "Un mandat de député",
+      "Aucune des trois autres",
+      "Un emploi public d'enseignant",
+      "La direction d'une entreprise privée"
+     ],
+     "a": 1,
+     "e": "L'article 61 déclare les fonctions de Président incompatibles avec tout mandat parlementaire, tout emploi public et toute activité professionnelle : aucune des activités proposées n'est permise.",
+     "ed": [
+      "Le mandat parlementaire est expressément incompatible avec la fonction présidentielle.",
+      null,
+      "Tout emploi public est incompatible avec la fonction présidentielle.",
+      "Diriger une entreprise est une activité professionnelle, incompatible selon l'article 61."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+      "u": "https://loidici.biz/?p=112"
+     }
+    },
+    {
+     "id": "n20261103-op04-01",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Selon l'article 85 de la Constitution, le Parlement ivoirien est composé :",
+     "o": [
+      "de l'Assemblée nationale seule",
+      "de l'Assemblée nationale et du Conseil économique",
+      "de l'Assemblée nationale et du Sénat",
+      "du Sénat et du Conseil constitutionnel"
+     ],
+     "a": 2,
+     "e": "L'article 85 dispose : « Le pouvoir législatif est exercé par le Parlement. Le Parlement est composé de l'Assemblée nationale et du Sénat. »",
+     "ed": [
+      "Le Parlement est bicaméral depuis la Constitution de 2016 : le Sénat en fait partie.",
+      "Le Conseil économique n'est pas une chambre du Parlement.",
+      null,
+      "Le Conseil constitutionnel est une juridiction, pas une chambre du Parlement, et l'Assemblée nationale manque."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre premier : De la composition du pouvoir législatif (art. 85)",
+      "u": "https://loidici.biz/2018/08/18/titre-iv-du-pouvoir-legislatif-chapitre-premier-de-la-composition-du-pouvoir-legislatif/lois-article-par-article/codes/la-constitution-ivoirienne/106/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-02",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Pour quelle durée les députés à l'Assemblée nationale sont-ils élus (article 86) ?",
+     "o": [
+      "Cinq ans",
+      "Quatre ans",
+      "Six ans",
+      "Sept ans"
+     ],
+     "a": 0,
+     "e": "L'article 86 dispose que les députés sont élus au suffrage universel direct pour cinq (5) ans ; la législature dure aussi cinq ans (article 89).",
+     "ed": [
+      null,
+      "Quatre ans ne correspond pas à la durée fixée par l'article 86.",
+      "Six ans n'est pas la durée du mandat des députés, qui est de cinq ans.",
+      "Sept ans n'est prévu pour aucun mandat parlementaire dans la Constitution."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre 2 : Du statut des parlementaires (art. 86 à 92)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-statut-des-parlementaires/lois-article-par-article/codes/la-constitution-ivoirienne/104/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-03",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Selon l'article 93, quelles sont les missions du Parlement ?",
+     "o": [
+      "Nommer le Premier ministre et les ministres",
+      "Juger les membres du Gouvernement",
+      "Promulguer les lois et prendre les règlements",
+      "Voter la loi, consentir l'impôt, contrôler l'action du Gouvernement et évaluer les politiques publiques"
+     ],
+     "a": 3,
+     "e": "L'article 93 dispose : « Le Parlement vote la loi et consent l'impôt. Il contrôle l'action du Gouvernement et évalue les politiques publiques. »",
+     "ed": [
+      "La nomination du Gouvernement appartient au Président de la République (article 70).",
+      "Juger n'est pas une mission du Parlement selon l'article 93.",
+      "La promulgation et le pouvoir réglementaire appartiennent au Président de la République (articles 65 et 74).",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre 3 : Des pouvoirs du Parlement (art. 93)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-3-des-pouvoirs-du-parlement/lois-article-par-article/codes/la-constitution-ivoirienne/102/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-04",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Qui préside le Congrès, réunion de l'Assemblée nationale et du Sénat (article 98) ?",
+     "o": [
+      "Le Président de la République",
+      "Le Président de l'Assemblée nationale",
+      "Le Président du Sénat",
+      "Le doyen d'âge des parlementaires"
+     ],
+     "a": 1,
+     "e": "L'article 98 dispose que le Président de l'Assemblée nationale préside le Congrès, assisté du Président du Sénat, qui en est le vice-président.",
+     "ed": [
+      "Le Président de la République demande la réunion du Congrès mais ne le préside pas.",
+      null,
+      "Le Président du Sénat est le vice-président du Congrès, pas son président.",
+      "Le doyen d'âge n'est pas mentionné par l'article 98."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre 4 : Du mode d'organisation et de fonctionnement du Parlement (art. 94 à 100)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-4-du-mode-dorganisation-et-de-fonctionnement-du-parlement/lois-article-par-article/codes/la-constitution-ivoirienne/97/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-05",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Pendant une session, un député est poursuivi pour un délit sans flagrant délit. Que faut-il pour l'arrêter (article 92) ?",
+     "o": [
+      "L'autorisation de l'Assemblée nationale",
+      "Une simple décision du procureur",
+      "L'accord du Président de la République",
+      "Rien : les députés ne peuvent jamais être arrêtés"
+     ],
+     "a": 0,
+     "e": "L'article 92 prévoit que, pendant les sessions, un parlementaire ne peut être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de la chambre dont il est membre, sauf flagrant délit.",
+     "ed": [
+      null,
+      "L'inviolabilité impose l'autorisation de la chambre : le procureur seul ne suffit pas.",
+      "Le Président de la République n'intervient pas dans la levée de l'inviolabilité.",
+      "L'inviolabilité n'est pas absolue : l'arrestation est possible avec autorisation ou en cas de flagrant délit."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre 2 : Du statut des parlementaires (art. 86 à 92)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-statut-des-parlementaires/lois-article-par-article/codes/la-constitution-ivoirienne/104/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-06",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Selon l'article 94, quand commence la session ordinaire de l'Assemblée nationale ?",
+     "o": [
+      "Le premier jour ouvrable du mois de janvier",
+      "Le premier jour ouvrable du mois d'octobre",
+      "Le premier jour ouvrable du mois d'avril",
+      "Le dernier samedi d'octobre"
+     ],
+     "a": 2,
+     "e": "L'article 94 nouveau dispose que la session de l'Assemblée nationale commence le premier jour ouvrable d'avril et prend fin le dernier jour ouvrable de décembre.",
+     "ed": [
+      "Janvier n'est pas le début de la session fixé par l'article 94.",
+      "Octobre n'est pas le mois d'ouverture de la session ordinaire.",
+      null,
+      "Le dernier samedi d'octobre est la date du premier tour de la présidentielle (article 56)."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre 4 : Du mode d'organisation et de fonctionnement du Parlement (art. 94 à 100)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-4-du-mode-dorganisation-et-de-fonctionnement-du-parlement/lois-article-par-article/codes/la-constitution-ivoirienne/97/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-07",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Un projet de loi relatif aux collectivités territoriales est déposé. Devant quelle chambre est-il soumis en premier (article 110) ?",
+     "o": [
+      "Devant l'Assemblée nationale",
+      "Devant le Congrès",
+      "Indifféremment devant l'une ou l'autre",
+      "Devant le Sénat"
+     ],
+     "a": 3,
+     "e": "L'article 110 prévoit que les projets ou propositions de loi relatifs aux collectivités territoriales sont soumis en premier au Sénat, qui représente ces collectivités (article 87).",
+     "ed": [
+      "C'est le projet de loi de finances qui est soumis en premier à l'Assemblée nationale.",
+      "Le Congrès n'examine pas les lois ordinaires en première lecture.",
+      "Pour ces textes, l'article 110 impose un ordre : le Sénat d'abord.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre 2 : De la procédure législative (art. 107 à 113)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-procedure-legislative/lois-article-par-article/codes/la-constitution-ivoirienne/93/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-08",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Après deux lectures par chaque chambre sans accord sur un projet non urgent, qui peut provoquer la réunion d'une commission mixte paritaire (article 110) ?",
+     "o": [
+      "Le Président de l'Assemblée nationale",
+      "Le Président de la République",
+      "Le Conseil constitutionnel",
+      "Un dixième des députés"
+     ],
+     "a": 1,
+     "e": "L'article 110 donne au Président de la République le pouvoir de provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion.",
+     "ed": [
+      "Le Président de l'Assemblée nationale n'a pas ce pouvoir selon l'article 110.",
+      null,
+      "Le Conseil constitutionnel contrôle la conformité des lois, il n'intervient pas dans la navette.",
+      "Un dixième des députés peut saisir le Conseil constitutionnel (article 113), non réunir la commission mixte paritaire."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre 2 : De la procédure législative (art. 107 à 113)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-procedure-legislative/lois-article-par-article/codes/la-constitution-ivoirienne/93/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-09",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Une loi organique n'obtient pas d'accord entre les deux chambres. À quelle majorité l'Assemblée nationale peut-elle l'adopter en dernière lecture (article 102) ?",
+     "o": [
+      "La majorité simple des suffrages exprimés",
+      "La majorité absolue des suffrages exprimés",
+      "La majorité des trois cinquièmes des membres en fonction",
+      "La majorité des deux tiers de ses membres en fonction"
+     ],
+     "a": 3,
+     "e": "L'article 102 prévoit que, faute d'accord entre les deux chambres, une loi organique ne peut être adoptée par l'Assemblée nationale en dernière lecture qu'à la majorité des deux tiers de ses membres en fonction.",
+     "ed": [
+      "La majorité simple est insuffisante pour une loi organique.",
+      "La majorité absolue des membres en fonction est exigée de chaque chambre en temps normal ; sans accord, il faut les deux tiers.",
+      "Les trois cinquièmes ne sont pas prévus par l'article 102.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre premier : Des domaines de la loi et du règlement (art. 101 à 106)",
+      "u": "https://loidici.biz/2018/08/18/titre-v-des-rapports-entre-le-pouvoir-legislatif-et-le-pouvoir-executif-chapitre-premier-des-domaines-de-la-loi-et-du-reglement/lois-article-par-article/codes/la-constitution-ivoirienne/95/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-10",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Un député dépose un amendement qui crée une dépense publique nouvelle, sans prévoir de recette ni d'économie. Que dit l'article 107 ?",
+     "o": [
+      "L'amendement est irrecevable",
+      "L'amendement est recevable s'il est voté à la majorité absolue",
+      "L'amendement est transmis au Sénat pour avis",
+      "L'amendement devient une loi organique"
+     ],
+     "a": 0,
+     "e": "L'article 107 déclare irrecevables les propositions et amendements des parlementaires qui créent ou aggravent une charge publique, sauf s'ils sont accompagnés d'une augmentation de recettes ou d'économies équivalentes.",
+     "ed": [
+      null,
+      "L'irrecevabilité financière joue avant tout vote : aucune majorité ne la couvre.",
+      "Aucun avis du Sénat n'est prévu : l'article 107 frappe l'amendement d'irrecevabilité.",
+      "Le caractère organique dépend de l'objet du texte (article 102), non de son coût."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre 2 : De la procédure législative (art. 107 à 113)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-procedure-legislative/lois-article-par-article/codes/la-constitution-ivoirienne/93/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-11",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Le Parlement ne s'est pas prononcé sur le projet de loi de finances dans un délai de 70 jours. Que prévoit l'article 112 ?",
+     "o": [
+      "Le budget de l'année précédente s'applique automatiquement",
+      "Le Gouvernement doit démissionner",
+      "Le projet peut être mis en vigueur par ordonnance",
+      "Le Conseil constitutionnel adopte le budget"
+     ],
+     "a": 2,
+     "e": "L'article 112 dispose que, si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, le projet de loi de finances peut être mis en vigueur par ordonnance, puis soumis à ratification.",
+     "ed": [
+      "Les douzièmes provisoires concernent le projet qui n'a pu être déposé à temps, et exigent l'autorisation du Parlement.",
+      "La Constitution ne prévoit pas de démission du Gouvernement dans ce cas.",
+      null,
+      "Le Conseil constitutionnel n'a aucun pouvoir budgétaire."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre 2 : De la procédure législative (art. 107 à 113)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-procedure-legislative/lois-article-par-article/codes/la-constitution-ivoirienne/93/naty/"
+     }
+    },
+    {
+     "id": "n20261103-op04-12",
+     "m": "opaj",
+     "tag": "niv-op04",
+     "q": "Lequel de ces moyens n'est PAS cité par l'article 117 parmi les moyens d'information du Parlement sur l'action gouvernementale ?",
+     "o": [
+      "La question écrite",
+      "La motion de censure",
+      "La commission d'enquête",
+      "La mission d'évaluation"
+     ],
+     "a": 1,
+     "e": "L'article 117 cite quatre moyens : la question orale, la question écrite, la commission d'enquête et la mission d'évaluation. La motion de censure n'y figure pas : le Gouvernement est responsable devant le Président (article 83).",
+     "ed": [
+      "La question écrite figure expressément à l'article 117.",
+      null,
+      "La commission d'enquête figure expressément à l'article 117.",
+      "La mission d'évaluation figure expressément à l'article 117."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre 4 : Du contrôle de l'action gouvernementale et de l'évaluation des politiques publiques (art. 116 à 118)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-4-du-controle-de-laction-gouvernementale-et-de-levaluation-des-politiques-publiques/lois-article-par-article/codes/la-constitution-ivoirienne/86/naty/"
+     }
+    },
+    {
+     "id": "n20261103-rd06-01",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Quel acte administratif sert à donner aux services des instructions sur l'application d'un texte ?",
+     "o": [
+      "L'arrêté",
+      "La décision",
+      "Le procès-verbal",
+      "La circulaire"
+     ],
+     "a": 3,
+     "e": "La circulaire est le document par lequel un supérieur hiérarchique adresse aux services placés sous son autorité des instructions sur l'interprétation et l'application des textes.",
+     "ed": [
+      "L'arrêté prend une mesure (règle ou mesure individuelle) ; il n'est pas un document d'instructions.",
+      "La décision règle une situation particulière.",
+      "Le procès-verbal relate des faits ou une réunion ; il n'ordonne rien.",
+      null
+     ]
+    },
+    {
+     "id": "n20261103-rd06-02",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Par quel mot commence chaque visa d'un arrêté ?",
+     "o": [
+      "Considérant",
+      "Attendu",
+      "Vu",
+      "Article"
+     ],
+     "a": 2,
+     "e": "Chaque visa commence par « Vu » (Vu la Constitution ; Vu la loi n° … ;) et se termine par un point-virgule : il cite un texte qui fonde l'acte.",
+     "ed": [
+      "« Considérant » introduit les motifs, après les visas.",
+      "« Attendu » appartient au style des décisions de justice, pas aux visas d'un arrêté.",
+      null,
+      "« Article » introduit le dispositif, après la formule d'autorité."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-03",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Dans un arrêté, quel est le rôle des considérants ?",
+     "o": [
+      "Exposer les motifs de fait ou d'opportunité de la mesure",
+      "Citer les textes qui fondent l'acte",
+      "Désigner l'autorité chargée de l'exécution",
+      "Indiquer les destinataires de l'acte"
+     ],
+     "a": 0,
+     "e": "Les considérants expliquent pourquoi l'autorité agit (« Considérant la nécessité d'assurer la continuité du service ; »), alors que les visas indiquent sur quels textes elle se fonde.",
+     "ed": [
+      null,
+      "Citer les textes est le rôle des visas.",
+      "L'autorité chargée de l'exécution est désignée dans le dernier article du dispositif.",
+      "Les destinataires figurent dans une circulaire ou une lettre, non dans les considérants d'un arrêté."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-04",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Quelle formule d'autorité précède le dispositif d'un arrêté ?",
+     "o": [
+      "DÉCIDE :",
+      "ARRÊTE :",
+      "ORDONNE :",
+      "CERTIFIE :"
+     ],
+     "a": 1,
+     "e": "Après les visas et les considérants, l'arrêté porte au centre et en capitales la formule « ARRÊTE : », suivie des articles ; la décision porte « DÉCIDE : ».",
+     "ed": [
+      "« DÉCIDE : » est la formule de la décision, non de l'arrêté.",
+      null,
+      "« ORDONNE » n'est pas la formule d'un arrêté administratif.",
+      "« CERTIFIE » s'emploie dans une attestation ou un certificat, pas dans un arrêté."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-05",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Dans quel ordre faut-il placer ces visas ?",
+     "o": [
+      "Décret, loi, Constitution",
+      "Loi, Constitution, décret",
+      "Constitution, décret, loi",
+      "Constitution, loi, décret"
+     ],
+     "a": 3,
+     "e": "Les visas suivent la hiérarchie des normes, du texte le plus élevé au moins élevé : Constitution, puis loi, puis décret ; à rang égal, on suit l'ordre chronologique.",
+     "ed": [
+      "C'est l'ordre inverse de la hiérarchie des normes.",
+      "La Constitution se place toujours avant la loi.",
+      "La loi est supérieure au décret et doit donc le précéder.",
+      null
+     ]
+    },
+    {
+     "id": "n20261103-rd06-06",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Un chef de service doit confier l'intérim de son adjoint à un agent pour trois semaines, dans le cadre de ses compétences. Quel acte rédige-t-il ?",
+     "o": [
+      "Une circulaire",
+      "Une note d'information",
+      "Une décision",
+      "Un rapport"
+     ],
+     "a": 2,
+     "e": "Il s'agit de régler une situation individuelle (un agent, une période) : c'est l'objet de la décision, avec la formule « DÉCIDE : » et des articles précis.",
+     "ed": [
+      "La circulaire donne des instructions générales aux services, elle ne règle pas un cas individuel.",
+      "La note d'information informe ; elle n'a pas de force de décision.",
+      null,
+      "Le rapport analyse et propose ; il ne décide rien."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-07",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Quelle rédaction convient à l'article d'un dispositif ?",
+     "o": [
+      "« Les bureaux sont ouverts au public de 7 h 30 à 16 h 30. »",
+      "« Il serait bon que les bureaux ouvrent vers 7 h 30. »",
+      "« Nous souhaiterions que les bureaux ouvrent tôt. »",
+      "« Les bureaux pourraient éventuellement ouvrir à 7 h 30. »"
+     ],
+     "a": 0,
+     "e": "Le dispositif s'écrit au présent de l'indicatif, qui a valeur d'obligation, avec une mesure précise : jours, heures, personnes concernées.",
+     "ed": [
+      null,
+      "Le conditionnel « il serait bon » n'a aucune force obligatoire et « vers » manque de précision.",
+      "Le « nous » et le souhait sont étrangers au style de l'arrêté, qui ordonne.",
+      "« Pourraient éventuellement » rend la mesure facultative : elle ne s'impose plus."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-08",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Que contient en principe le dernier article d'un arrêté ?",
+     "o": [
+      "La liste des textes visés",
+      "La désignation de l'autorité chargée de l'exécution et le mode de publication",
+      "Les motifs de la mesure",
+      "La formule de politesse"
+     ],
+     "a": 1,
+     "e": "Le dernier article indique qui exécute l'acte et comment il est publié : « Le Directeur … est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel. »",
+     "ed": [
+      "Les textes visés figurent en tête, dans les visas.",
+      null,
+      "Les motifs figurent dans les considérants, avant la formule ARRÊTE.",
+      "Un arrêté ne comporte pas de formule de politesse."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-09",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Quel intitulé est correctement rédigé ?",
+     "o": [
+      "« Arrêté concernant un peu l'organisation de la direction »",
+      "« Arrêté sur le fait d'organiser la direction »",
+      "« ARRÊTÉ N° … portant organisation de la Direction des ressources humaines »",
+      "« Proposition d'arrêté au sujet de la direction »"
+     ],
+     "a": 2,
+     "e": "L'intitulé donne le numéro puis l'objet, introduit par « portant » : « ARRÊTÉ N° … portant organisation de … ». Il est bref et précis.",
+     "ed": [
+      "« Concernant un peu » est familier et imprécis.",
+      "La périphrase « sur le fait d'organiser » est lourde : on écrit « portant organisation ».",
+      null,
+      "Un acte signé n'est pas une proposition, et l'objet reste vague."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-10",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Un directeur rédige une circulaire et y écrit : « Article premier : les dossiers sont déposés avant le 15. Article 2 : … ». Quelle est l'erreur ?",
+     "o": [
+      "La circulaire ne se rédige pas en articles numérotés : elle expose des instructions en paragraphes",
+      "Il manque la formule ARRÊTE",
+      "Il faut écrire au conditionnel",
+      "Une circulaire doit commencer par des considérants"
+     ],
+     "a": 0,
+     "e": "La circulaire n'est pas un arrêté : elle rappelle le texte, explique et donne des instructions en paragraphes, avec objet, références et destinataires, sans articles numérotés.",
+     "ed": [
+      null,
+      "La formule ARRÊTE appartient à l'arrêté ; l'ajouter transformerait l'acte.",
+      "Les instructions se donnent au présent ou à l'impératif administratif, jamais au conditionnel.",
+      "Les considérants ne sont pas une partie de la circulaire."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-11",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Un directeur rédige une circulaire qui ajoute une condition non prévue par le décret qu'elle commente. Qu'en penser ?",
+     "o": [
+      "C'est normal : la circulaire peut compléter librement le décret",
+      "C'est une erreur : la circulaire précise l'application du texte sans en modifier le contenu",
+      "C'est obligatoire : toute circulaire crée des règles",
+      "C'est sans importance si la circulaire est signée"
+     ],
+     "a": 1,
+     "e": "La circulaire explique et organise l'application d'un texte ; elle ne doit pas lui ajouter de règle nouvelle, sinon elle excède son rôle et l'autorité qui la signe.",
+     "ed": [
+      "La circulaire est subordonnée au décret : elle ne peut pas le compléter librement.",
+      null,
+      "Une circulaire ne crée pas de règle ; elle en organise l'application.",
+      "La signature ne donne pas à la circulaire le pouvoir de modifier un décret."
+     ]
+    },
+    {
+     "id": "n20261103-rd06-12",
+     "m": "redac",
+     "tag": "niv-rd06",
+     "verif": "methode",
+     "q": "Le correcteur reçoit une copie qui, pour fixer le règlement intérieur d'un ministère, propose une note d'information. Quelle critique doit-il faire ?",
+     "o": [
+      "Aucune : la note d'information convient",
+      "Il fallait une lettre administrative",
+      "Il fallait un procès-verbal",
+      "Il fallait un arrêté, car il s'agit de poser des règles générales"
+     ],
+     "a": 3,
+     "e": "Fixer un règlement intérieur, c'est poser des règles générales et obligatoires : l'acte adapté est l'arrêté, avec visas, formule ARRÊTE et articles.",
+     "ed": [
+      "La note d'information informe ; elle ne peut pas imposer un règlement.",
+      "La lettre s'adresse à un correspondant et ne pose pas de règles générales.",
+      "Le procès-verbal relate des faits ; il n'édicte aucune règle.",
+      null
+     ]
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261103dc05",
+     "niv": "dc05",
+     "m": "dc",
+     "titre": "Le Président de la République et le Vice-Président",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez exposer comment le Président de la République est élu, quels pouvoirs la Constitution lui donne et comment la continuité de l'État est assurée en cas de vacance.",
+      "= Vous saurez aussi situer le Vice-Président : choisi par le Président, il supplée, reçoit des délégations et succède en cas de vacance.",
+      "## Ce que demande l'épreuve",
+      "En présélection, les questions portent sur des règles précises : durée du mandat, âge minimal, tours de scrutin, autorité qui constate l'empêchement, ordre de suppléance. À l'écrit de droit constitutionnel, on vous demande de qualifier le régime : un exécutif fort, dont le Président est « le détenteur exclusif du pouvoir exécutif » (article 63), avec un Vice-Président qui lui est subordonné.",
+      "! Piège habituel : confondre suppléance et succession. Le Vice-Président supplée le Président absent du territoire (article 80) ; il ne devient Président qu'en cas de vacance (article 62).",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez la situation : élection, exercice normal du pouvoir, absence temporaire ou vacance définitive.",
+      "- 2. Retrouvez l'article : 55 à 59 pour l'élection, 63 à 77 pour les pouvoirs, 62 pour la vacance, 78 à 80 pour le Vice-Président.",
+      "- 3. Cherchez l'autorité qui intervient : Conseil constitutionnel (proclamation, serment, constat d'empêchement), Gouvernement (requête), Parlement.",
+      "- 4. Vérifiez les conditions cumulatives (âge, nationalité, droits civiques) et les délais (72 heures, 30 jours).",
+      "- 5. À l'écrit, citez l'article puis expliquez sa raison d'être : stabilité, continuité de l'État, légitimité du suffrage.",
+      "~ Exemple : « Qui constate l'empêchement absolu du Président ? » Situation : vacance. Article 62. Autorité : le Conseil constitutionnel, saisi par une requête du Gouvernement approuvée à la majorité de ses membres."
+     ],
+     "fond": [
+      "## Notion 1 : l'élection du Président de la République",
+      "Règle : le Président est élu pour cinq ans au suffrage universel direct et n'est rééligible qu'une fois (article 55 nouveau). Le candidat doit jouir de ses droits civils et politiques, avoir trente-cinq ans au moins et être exclusivement de nationalité ivoirienne, né de père ou de mère ivoirien d'origine.",
+      "Le scrutin est majoritaire à deux tours (article 56). Au premier tour, il faut la majorité absolue des suffrages exprimés. Sinon, seuls les deux candidats arrivés en tête s'affrontent au second tour, où est élu celui qui recueille le plus grand nombre de voix. En cas d'égalité, l'emporte celui qui avait obtenu le plus de suffrages au premier tour.",
+      "Pourquoi ? Le suffrage direct donne au Président une légitimité propre, indépendante du Parlement ; la majorité absolue au premier tour garantit qu'un élu dès ce tour a réuni plus de la moitié des votants.",
+      "~ Exemple résolu : au premier tour, A obtient 46 % des suffrages exprimés, B 31 %, C 23 %. Étape 1 : personne n'atteint plus de 50 %. Étape 2 : second tour entre A et B, les deux premiers. Étape 3 : C est éliminé, même s'il se désiste ensuite au profit de l'un d'eux.",
+      "Le calendrier est fixé par la Constitution : premier tour le dernier samedi d'octobre, second tour le dernier samedi de novembre de la cinquième année du mandat en cours (article 56). Le Président élu prête serment devant le Conseil constitutionnel le deuxième lundi de décembre (article 58), et les pouvoirs du Président sortant expirent à la prise de fonction de son successeur (article 59).",
+      "! Piège : si un candidat retenu décède ou est empêché avant le premier tour, le Conseil constitutionnel peut reporter l'élection dans les 72 heures de sa saisine ; le scrutin doit alors se tenir dans un délai de 30 jours au plus (article 57).",
+      "? Un candidat de 34 ans, ivoirien d'origine et jouissant de ses droits civiques, peut-il se présenter ? || Non. L'article 55 exige trente-cinq ans au moins. Les conditions sont cumulatives : il suffit qu'une seule manque pour que la candidature soit irrecevable.",
+      "## Notion 2 : le statut du Président",
+      "Règle : le Président est le Chef de l'État ; il incarne l'unité nationale, veille au respect de la Constitution et assure la continuité de l'État (article 54). Il déclare son patrimoine devant la Cour des comptes à son entrée en fonction et à la fin de son mandat (article 60). Sa fonction est incompatible avec tout mandat parlementaire, tout emploi public et toute activité professionnelle (article 61).",
+      "Pourquoi ? La déclaration de patrimoine et les incompatibilités protègent la fonction contre les conflits d'intérêts : le Président ne peut pas non plus soumissionner aux marchés de l'État (article 60).",
+      "## Notion 3 : les pouvoirs du Président",
+      "Règle : le Président est le détenteur exclusif du pouvoir exécutif (article 63) et détermine et conduit la politique de la Nation (article 64). Il assure l'exécution des lois, prend les règlements (article 65), a le droit de grâce (article 66), nomme aux emplois civils et militaires (article 67), est Chef suprême des Armées (article 68). Il nomme le Premier ministre et, sur sa proposition, les autres ministres (article 70). Il préside le Conseil des ministres (article 71).",
+      "Dans ses rapports avec le Parlement, il a l'initiative des lois et promulgue la loi dans les 30 jours de sa transmission, 5 jours en cas d'urgence (article 74). Il peut demander une seconde délibération, qui ne peut être refusée. Après consultation du bureau du Congrès, il peut soumettre un texte au référendum (article 75).",
+      "Pourquoi ? Le constituant a choisi un exécutif concentré : le Gouvernement met en œuvre la politique « telle que définie par le Président » (article 81) et il est responsable devant lui (article 83).",
+      "~ Exemple résolu : une crise grave menace l'intégrité du territoire et interrompt le fonctionnement régulier des pouvoirs publics. Étape 1 : article 73. Étape 2 : le Président consulte obligatoirement les présidents de l'Assemblée nationale, du Sénat et du Conseil constitutionnel. Étape 3 : il informe la Nation par message ; le Parlement se réunit de plein droit.",
+      "? Une loi a été transmise au Président il y a 35 jours, sans urgence, et n'est pas promulguée. Que peut-il se passer ? || Le délai de 30 jours de l'article 74 est dépassé. Le Conseil constitutionnel, saisi par le Président de l'une des deux chambres, peut déclarer la loi exécutoire si elle est conforme à la Constitution.",
+      "## Notion 4 : le Vice-Président de la République",
+      "Règle : depuis la révision du 19 mars 2020, le Président choisit un Vice-Président, en accord avec le Parlement (article 55). Le Vice-Président remplit les mêmes conditions d'âge et de nationalité (article 78), prête serment devant le Conseil constitutionnel en présence du Président (article 79) et agit sur délégation du Président (article 80).",
+      "Il supplée le Président lorsque celui-ci est hors du territoire national ; le Président peut alors lui déléguer, par décret, la présidence du Conseil des ministres sur un ordre du jour précis (article 80). Si le Président et le Vice-Président sont tous deux à l'étranger, c'est le Premier ministre qui supplée (article 82).",
+      "! Piège : le Vice-Président n'a aucun pouvoir propre. Hors suppléance et vacance, il n'exerce que les pouvoirs que le Président lui délègue par décret (article 76).",
+      "## Notion 5 : la vacance de la Présidence",
+      "Règle : en cas de décès, de démission ou d'empêchement absolu du Président, le Vice-Président devient Président de la République, après avoir prêté serment devant le Conseil constitutionnel (article 62). L'empêchement absolu est constaté par le Conseil constitutionnel, saisi par une requête du Gouvernement approuvée à la majorité de ses membres. Le nouveau Président achève le mandat en cours et ne peut pas nommer de Vice-Président.",
+      "Si le Vice-Président disparaît seul, le Président en nomme un nouveau. Si la vacance de la Présidence survient alors que le poste de Vice-Président est vacant, les fonctions de Président sont exercées par le Premier ministre, qui achève le mandat.",
+      "Pourquoi ? Ce mécanisme évite une élection anticipée et garantit la continuité de l'État sans interruption.",
+      "? Le Président démissionne. Le Vice-Président, en fonction, devient Président. Peut-il choisir un nouveau Vice-Président ? || Non. L'article 62 interdit au Vice-Président devenu Président de nommer un Vice-Président pendant la durée du mandat restant à courir. Il achève simplement le mandat du Président élu."
+     ],
+     "retenir": [
+      "Le Président est élu pour cinq ans au suffrage universel direct et n'est rééligible qu'une fois (article 55).",
+      "Le candidat à la présidence doit avoir trente-cinq ans au moins et être exclusivement ivoirien, né de père ou de mère ivoirien d'origine.",
+      "Au second tour, est élu le candidat qui a le plus de voix ; en cas d'égalité, celui qui menait au premier tour.",
+      "Le Président est le détenteur exclusif du pouvoir exécutif et promulgue la loi dans les 30 jours, 5 en urgence.",
+      "Le Vice-Président est choisi par le Président en accord avec le Parlement et supplée le Président hors du territoire.",
+      "En cas de vacance de la Présidence, le Vice-Président devient Président et achève le mandat sans pouvoir nommer de Vice-Président.",
+      "L'empêchement absolu est constaté par le Conseil constitutionnel, saisi par le Gouvernement à la majorité de ses membres."
+     ],
+     "exo": {
+      "tag": "niv-dc05",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République (art. 54 à 77)",
+       "u": "https://loidici.biz/?p=112"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Chapitre 3 : Du Vice-Président de la République (art. 78 à 80)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-3-du-vice-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/110/naty/"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Chapitre 4 : Du Gouvernement (art. 81 à 84)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-4-du-gouvernement/lois-article-par-article/codes/la-constitution-ivoirienne/108/naty/"
+      }
+     ]
+    },
+    {
+     "id": "L20261103op04",
+     "niv": "op04",
+     "m": "opaj",
+     "titre": "Le pouvoir législatif",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez décrire la composition du Parlement ivoirien, le statut de ses membres et son fonctionnement (sessions, Congrès).",
+      "= Vous saurez aussi suivre un texte de son dépôt à son adoption : domaine de la loi, navette, commission mixte paritaire, loi de finances et contrôle du Gouvernement.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve d'organisation politique et administrative demande de connaître les institutions avec précision : qui vote la loi, dans quel ordre, avec quels délais, et qui tranche en cas de désaccord. Les questions de cours portent sur des chiffres (durée du mandat, nombre de jours) et sur des mécanismes (immunités, commission mixte paritaire). En dissertation, on attend une appréciation : le Parlement est-il un véritable contre-pouvoir face à un exécutif fort ?",
+      "! Piège habituel : croire que les deux chambres sont égales. En cas de désaccord persistant, c'est l'Assemblée nationale qui statue définitivement (article 110).",
+      "## La méthode, pas à pas",
+      "- 1. Situez la question : composition (titre IV) ou rapports avec l'exécutif (titre V).",
+      "- 2. Pour une procédure, suivez l'ordre : dépôt, examen en commission, vote par chaque chambre, navette, éventuelle commission mixte paritaire, dernier mot de l'Assemblée nationale.",
+      "- 3. Repérez les délais : 15 jours (loi organique, état de siège, Conseil constitutionnel), 40 et 70 jours (loi de finances).",
+      "- 4. Distinguez la loi ordinaire, la loi organique et l'ordonnance.",
+      "- 5. À l'écrit, citez l'article, expliquez sa logique et terminez par une appréciation (équilibre des pouvoirs).",
+      "~ Exemple : « Quelle chambre examine en premier le projet de loi de finances ? » Titre V, article 110 : l'Assemblée nationale. Les textes relatifs aux collectivités territoriales vont d'abord au Sénat."
+     ],
+     "fond": [
+      "## Notion 1 : un Parlement bicaméral",
+      "Règle : le pouvoir législatif est exercé par le Parlement, composé de l'Assemblée nationale et du Sénat (article 85). Les députés sont élus au suffrage universel direct pour cinq ans (article 86). Le Sénat représente les collectivités territoriales et les Ivoiriens établis hors de Côte d'Ivoire ; deux tiers des sénateurs sont élus au suffrage universel indirect et un tiers est désigné par le Président de la République parmi des personnalités reconnues pour leur expertise (article 87).",
+      "La législature dure cinq ans pour chaque chambre, le mandat est renouvelable, et les présidents des deux chambres sont élus pour la durée de la législature (article 89).",
+      "Pourquoi ? Le bicamérisme fait examiner chaque texte deux fois : l'Assemblée exprime la volonté des citoyens, le Sénat apporte le regard des territoires et des compétences.",
+      "! Piège : tous les sénateurs ne sont pas élus. Un tiers est nommé par le Président de la République.",
+      "## Notion 2 : le statut des parlementaires",
+      "Règle : chaque parlementaire représente la Nation entière et tout mandat impératif est nul (article 96). Il bénéficie de deux protections. L'irresponsabilité : aucun parlementaire ne peut être poursuivi, arrêté ou jugé pour les opinions ou votes émis dans l'exercice de ses fonctions (article 91). L'inviolabilité : pendant les sessions, il ne peut être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de sa chambre, sauf flagrant délit ; hors session, l'arrestation exige l'autorisation du bureau de la chambre (article 92).",
+      "Pourquoi ? Ces garanties protègent la liberté du débat contre les pressions, et non la personne du parlementaire pour ses affaires privées.",
+      "~ Exemple résolu : un député est surpris en train de commettre un délit pendant la session. Étape 1 : il s'agit d'inviolabilité, article 92. Étape 2 : la règle exige l'autorisation de la chambre. Étape 3 : exception du flagrant délit, l'arrestation est possible sans autorisation.",
+      "? Un sénateur reçoit de son parti l'ordre écrit de voter contre un projet de loi, sous peine de perdre son siège. Cet ordre l'oblige-t-il juridiquement ? || Non. L'article 96 dispose que tout mandat impératif est nul : le parlementaire représente la Nation entière et vote librement. Le droit de vote est personnel.",
+      "## Notion 3 : le fonctionnement du Parlement",
+      "Règle : le Parlement se réunit de plein droit en une session ordinaire par an. Celle de l'Assemblée nationale va du premier jour ouvrable d'avril au dernier jour ouvrable de décembre ; celle du Sénat commence sept jours ouvrables après et finit sept jours ouvrables avant (article 94). Une session extraordinaire est convoquée par le président de chaque chambre, sur un ordre du jour déterminé, à la demande du Président de la République ou de la majorité absolue des membres (article 95).",
+      "Les séances sont publiques (article 97). Les deux chambres se réunissent en Congrès à la demande du Président de la République ; le Congrès est présidé par le Président de l'Assemblée nationale, assisté du Président du Sénat (article 98).",
+      "## Notion 4 : le domaine de la loi et la procédure législative",
+      "Règle : l'article 101 énumère les matières où la loi fixe les règles (nationalité, crimes et délits, statut général de la Fonction publique, impôts…) et celles où elle fixe les principes fondamentaux (enseignement, droit du travail…). Tout le reste relève du règlement (article 103). Les lois organiques précisent l'organisation des institutions : elles exigent un délai de 15 jours avant le vote, la majorité absolue des membres de chaque chambre et un contrôle obligatoire du Conseil constitutionnel (article 102).",
+      "Le Président peut aussi, par une loi d'habilitation, être autorisé à prendre par ordonnance des mesures du domaine de la loi ; elles deviennent caduques si le projet de loi de ratification n'est pas déposé à temps (article 106).",
+      "La procédure : le texte est examiné successivement par les deux chambres en vue d'un texte identique (article 110). Après deux lectures par chambre sans accord (une seule en cas d'urgence), le Président peut réunir une commission mixte paritaire. Si le désaccord persiste, le Président demande à l'Assemblée nationale de statuer définitivement.",
+      "~ Exemple résolu : un projet de loi sur la décentralisation, non urgent, est adopté par le Sénat mais rejeté par l'Assemblée, deux fois chacun. Étape 1 : il a été déposé d'abord au Sénat, car il concerne les collectivités territoriales. Étape 2 : deux lectures sans accord, le Président peut convoquer la commission mixte paritaire. Étape 3 : si elle échoue, l'Assemblée nationale a le dernier mot.",
+      "? Un député dépose un amendement qui supprime une taxe sans prévoir de recette de remplacement. Est-il recevable ? || Non. L'article 107 rend irrecevables les amendements des parlementaires qui diminuent les ressources publiques, sauf s'ils proposent une augmentation de recettes ou des économies équivalentes.",
+      "## Notion 5 : le budget et le contrôle du Gouvernement",
+      "Règle : le projet de loi de finances est déposé avant la fin de la session ordinaire et le budget est voté en équilibre (article 112). Si l'Assemblée ne s'est pas prononcée en 40 jours, le Sénat est saisi et statue en 15 jours ; si le Parlement ne s'est pas prononcé en 70 jours, le budget peut être mis en vigueur par ordonnance. Le Parlement contrôle l'action du Gouvernement par la question orale, la question écrite, la commission d'enquête et la mission d'évaluation (article 117), et vote la loi de règlement, déposée un an au plus tard après l'exécution du budget (article 118).",
+      "Pourquoi ? Le consentement à l'impôt est la raison d'être historique des parlements : « Le Parlement vote la loi et consent l'impôt » (article 93). Les délais empêchent toutefois un blocage du budget.",
+      "? Le Parlement ne s'est pas prononcé sur le projet de loi de finances au bout de 70 jours. Que peut faire le Président de la République ? || Mettre le projet en vigueur par ordonnance (article 112). Il saisit ensuite, pour ratification, le Parlement convoqué en session extraordinaire dans un délai de 15 jours ; si le budget n'est pas voté à la fin de cette session, il est établi définitivement par ordonnance."
+     ],
+     "retenir": [
+      "Le Parlement ivoirien comprend l'Assemblée nationale et le Sénat ; il vote la loi, consent l'impôt et contrôle le Gouvernement.",
+      "Les députés sont élus au suffrage universel direct pour cinq ans ; un tiers des sénateurs est désigné par le Président.",
+      "Tout mandat impératif est nul : chaque parlementaire représente la Nation entière et son vote est personnel.",
+      "Le Congrès est convoqué par le Président de la République et présidé par le Président de l'Assemblée nationale.",
+      "En cas de désaccord persistant entre les chambres, le Président demande à l'Assemblée nationale de statuer définitivement.",
+      "Le projet de loi de finances va d'abord à l'Assemblée ; les textes sur les collectivités territoriales vont d'abord au Sénat.",
+      "Sans vote du budget en 70 jours, le projet de loi de finances peut être mis en vigueur par ordonnance.",
+      "Les moyens d'information du Parlement sont la question orale, la question écrite, la commission d'enquête et la mission d'évaluation."
+     ],
+     "exo": {
+      "tag": "niv-op04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre premier : De la composition du pouvoir législatif (art. 85)",
+       "u": "https://loidici.biz/2018/08/18/titre-iv-du-pouvoir-legislatif-chapitre-premier-de-la-composition-du-pouvoir-legislatif/lois-article-par-article/codes/la-constitution-ivoirienne/106/naty/"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre 2 : Du statut des parlementaires (art. 86 à 92)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-2-du-statut-des-parlementaires/lois-article-par-article/codes/la-constitution-ivoirienne/104/naty/"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre 3 : Des pouvoirs du Parlement (art. 93)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-3-des-pouvoirs-du-parlement/lois-article-par-article/codes/la-constitution-ivoirienne/102/naty/"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Titre IV, Chapitre 4 : Du mode d'organisation et de fonctionnement du Parlement (art. 94 à 100)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-4-du-mode-dorganisation-et-de-fonctionnement-du-parlement/lois-article-par-article/codes/la-constitution-ivoirienne/97/naty/"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre premier : Des domaines de la loi et du règlement (art. 101 à 106)",
+       "u": "https://loidici.biz/2018/08/18/titre-v-des-rapports-entre-le-pouvoir-legislatif-et-le-pouvoir-executif-chapitre-premier-des-domaines-de-la-loi-et-du-reglement/lois-article-par-article/codes/la-constitution-ivoirienne/95/naty/"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre 2 : De la procédure législative (art. 107 à 113)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-procedure-legislative/lois-article-par-article/codes/la-constitution-ivoirienne/93/naty/"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Titre V, Chapitre 4 : Du contrôle de l'action gouvernementale et de l'évaluation des politiques publiques (art. 116 à 118)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-4-du-controle-de-laction-gouvernementale-et-de-levaluation-des-politiques-publiques/lois-article-par-article/codes/la-constitution-ivoirienne/86/naty/"
+      }
+     ]
+    },
+    {
+     "id": "L20261103rd06",
+     "niv": "rd06",
+     "m": "redac",
+     "verif": "methode",
+     "titre": "Décision, arrêté et circulaire",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez distinguer la décision, l'arrêté et la circulaire, et choisir le bon acte selon la situation.",
+      "= Vous saurez rédiger chacun d'eux avec ses parties obligatoires : intitulé, visas, considérants, formule d'autorité, articles et formule d'exécution.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de rédaction administrative donne une situation (une nomination, une réorganisation de service, l'application d'un nouveau texte) et demande l'acte qui convient. Le correcteur vérifie d'abord le choix de l'acte, puis l'ordre des parties, la précision du dispositif et la sobriété du style. Un acte bien rédigé mais mal choisi perd l'essentiel des points.",
+      "! Piège habituel : rédiger une circulaire comme un arrêté, avec des visas et des articles. La circulaire explique et ordonne ; elle ne se présente pas en articles numérotés.",
+      "## La méthode, pas à pas",
+      "- 1. Qualifiez la situation : faut-il créer une règle générale, régler un cas individuel, ou expliquer aux services comment appliquer un texte ?",
+      "- 2. Choisissez l'acte : arrêté pour une règle ou une mesure prise par un ministre, un préfet ou un maire ; décision pour un cas individuel relevant d'un chef de service ; circulaire pour des instructions d'application.",
+      "- 3. Rassemblez les textes à viser, du plus élevé au moins élevé, puis par date.",
+      "- 4. Rédigez les considérants, s'il en faut, en une phrase chacun : ils donnent les motifs.",
+      "- 5. Écrivez le dispositif en articles courts, une mesure par article, au présent de l'indicatif.",
+      "- 6. Terminez par l'article d'exécution, la date, la signature et la qualité du signataire.",
+      "~ Exemple : le ministre veut fixer les horaires d'ouverture de ses services au public. C'est une règle générale prise par un ministre : un arrêté. S'il veut seulement rappeler aux directeurs comment appliquer ces horaires, il signe une circulaire."
+     ],
+     "fond": [
+      "## Notion 1 : trois actes, trois fonctions",
+      "Règle : l'arrêté est un acte par lequel une autorité administrative (ministre, préfet, maire) prend une mesure générale ou individuelle. La décision est un acte par lequel une autorité règle une situation particulière (affectation d'un agent, octroi d'un congé, attribution d'un marché). La circulaire est un document par lequel un supérieur hiérarchique adresse aux services placés sous son autorité des instructions sur l'interprétation et l'application des textes.",
+      "Pourquoi ? Chaque acte répond à un besoin différent : créer une règle, appliquer une règle à une personne, ou faire appliquer une règle de manière uniforme sur tout le territoire.",
+      "~ Exemple résolu : trois situations. 1. Fixer la composition d'une commission de recrutement : arrêté. 2. Affecter Mme Koné au service courrier : décision (ou arrêté si le texte l'exige de l'autorité ministérielle). 3. Expliquer aux directeurs régionaux la nouvelle procédure de congé : circulaire.",
+      "! Piège : une circulaire ne doit pas ajouter de règle nouvelle au texte qu'elle commente. Son rôle est d'en préciser l'application, jamais d'en modifier le contenu.",
+      "## Notion 2 : l'intitulé et les visas",
+      "Règle : l'acte commence par le timbre (ministère, direction), le numéro et la date, puis l'intitulé : « ARRÊTÉ N° … portant organisation de la Direction des ressources humaines ». Le mot « portant » annonce l'objet en quelques mots.",
+      "Les visas suivent. Chacun commence par « Vu » et se termine par un point-virgule : « Vu la Constitution ; Vu la loi n° … portant … ; Vu le décret n° … portant … ; ». On les range dans l'ordre de la hiérarchie des normes (Constitution, traités, lois, ordonnances, décrets, arrêtés), puis, à rang égal, dans l'ordre chronologique.",
+      "Pourquoi ? Les visas montrent la base juridique de l'acte : ils prouvent que l'autorité agit dans le cadre des textes qui l'habilitent. C'est l'application concrète du principe de légalité.",
+      "? Remettez dans l'ordre ces trois visas : (a) Vu le décret n° … portant attributions du ministre ; (b) Vu la Constitution ; (c) Vu la loi n° … portant statut général de la Fonction publique. || Ordre correct : (b), (c), (a). On suit la hiérarchie des normes : la Constitution, puis la loi, puis le décret. Chaque visa commence par « Vu » et finit par un point-virgule.",
+      "## Notion 3 : les considérants et la formule d'autorité",
+      "Règle : les considérants exposent les motifs de fait ou d'opportunité : « Considérant la nécessité d'assurer la continuité du service ; ». Ils sont facultatifs dans un arrêté réglementaire simple, mais utiles quand la mesure doit être justifiée. Après les visas et les considérants vient, au centre et en capitales, la formule d'autorité : « ARRÊTE : » pour un arrêté, « DÉCIDE : » pour une décision.",
+      "Pourquoi ? Les visas disent sur quel fondement on agit ; les considérants disent pourquoi on agit ; la formule d'autorité marque le passage à ce que l'on ordonne.",
+      "! Piège : écrire « Arrêtons » ou « Il est arrêté ce qui suit » dans un acte moderne. La formule en usage est le verbe au présent, à la troisième personne : ARRÊTE, DÉCIDE.",
+      "## Notion 4 : le dispositif en articles",
+      "Règle : le dispositif est découpé en articles : « Article premier », puis « Article 2 », « Article 3 ». Chaque article contient une seule mesure, au présent de l'indicatif, qui a valeur d'obligation : « Les bureaux sont ouverts au public de 7 h 30 à 16 h 30. » Le dernier article désigne qui exécute l'acte et comment il est publié : « Le Directeur des ressources humaines est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République de Côte d'Ivoire. »",
+      "Pourquoi ? Des articles courts et numérotés permettent de citer, de modifier ou d'abroger une mesure précise sans toucher au reste de l'acte.",
+      "~ Exemple résolu : dispositif d'une décision d'intérim. « DÉCIDE : Article premier : M. Yao Kouassi, attaché administratif, est chargé de l'intérim du Chef du service du courrier, du 3 au 28 novembre. Article 2 : La présente décision prend effet à compter de sa date de signature. Article 3 : Le Chef du service du personnel est chargé de l'exécution de la présente décision. » Commentaire : article 1, la mesure (qui, quoi, combien de temps) ; article 2, l'entrée en vigueur ; article 3, l'exécution.",
+      "? Que manque-t-il à ce dispositif : « Article premier : Il serait souhaitable que les agents arrivent à l'heure. » ? || Le ton et la précision. Le conditionnel « il serait souhaitable » n'a pas de force obligatoire : il faut le présent de l'indicatif et une mesure précise, par exemple « Les agents prennent leur service à 7 h 30. » Il manque aussi l'article d'exécution.",
+      "## Notion 5 : la circulaire",
+      "Règle : la circulaire porte le timbre, le numéro, la date, l'autorité signataire, les destinataires (« à Mesdames et Messieurs les Directeurs régionaux »), l'objet et les références du texte appliqué. Le corps suit un ordre simple : rappel du texte et de son objectif, explication des points délicats, instructions précises (qui fait quoi, dans quel délai), demande de compte rendu. Elle se termine par une formule d'insistance : « J'attache du prix à la stricte application des présentes instructions. »",
+      "Pourquoi ? La circulaire garantit que tous les services appliquent le texte de la même manière : elle est un outil de cohérence de l'action administrative.",
+      "? Un ministre veut que tous les directeurs régionaux appliquent de la même façon une nouvelle procédure de dépôt des dossiers. Quel acte choisir, et quelle formule finale utiliser ? || Une circulaire, car il s'agit d'instructions d'application adressées aux services placés sous son autorité, sans création de règle nouvelle. Formule finale possible : « J'attache du prix à la stricte application des présentes instructions et vous demande de me rendre compte des difficultés rencontrées. »"
+     ],
+     "retenir": [
+      "L'arrêté est pris par un ministre, un préfet ou un maire pour une mesure générale ou individuelle.",
+      "La décision règle une situation particulière ; la circulaire donne aux services des instructions d'application des textes.",
+      "Les visas commencent par « Vu », finissent par un point-virgule et suivent la hiérarchie des normes, puis l'ordre chronologique.",
+      "Les visas donnent le fondement juridique de l'acte ; les considérants en donnent les motifs.",
+      "La formule d'autorité s'écrit au centre et en capitales : ARRÊTE ou DÉCIDE, suivie de deux-points.",
+      "Le dispositif se rédige en articles courts, une mesure par article, au présent de l'indicatif.",
+      "Le dernier article désigne l'autorité chargée de l'exécution et le mode de publication.",
+      "Une circulaire ne crée pas de règle nouvelle et ne se rédige pas en articles numérotés."
+     ],
+     "exo": {
+      "tag": "niv-rd06",
+      "n": 12
+     }
+    }
+   ],
+   "sujets": [
+    {
+     "e": "dc",
+     "src": "original",
+     "ref": "Entraînement · 3 nov. 2026",
+     "t": "Le Parlement est-il maître de la loi dans la Constitution ivoirienne du 8 novembre 2016 ?",
+     "plan": [
+      "Introduction : définir la loi et le Parlement bicaméral (article 85) ; rappeler l'article 93 (« Le Parlement vote la loi et consent l'impôt ») ; problématique : un législateur encadré par un exécutif fort.",
+      "I. Un Parlement législateur : A. Un domaine de la loi étendu (article 101) et le droit d'amendement (article 107) ; B. La navette entre les deux chambres et le dernier mot de l'Assemblée nationale (article 110).",
+      "II. Un Parlement encadré : A. Un domaine limité par le pouvoir réglementaire (article 103) et les ordonnances (articles 106 et 112) ; B. Une procédure dominée par le Président : initiative, commission mixte paritaire, seconde délibération (articles 74 et 110).",
+      "Conclusion : le Parlement vote la loi, mais l'exécutif maîtrise largement son élaboration ; ouverture sur le renforcement du contrôle et de l'évaluation des politiques publiques (article 117)."
+     ]
+    }
+   ]
   }
  ]
 }
