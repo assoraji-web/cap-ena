@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "1f2cb3b6 du 24/10/2026";
+const APP_VERSION = "579c1aee du 03/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -2656,6 +2656,7 @@ function vHome(){
     (()=>{ const redo = LEVELS.filter(lv=>lvState(lv.id).ecritRedo && activeTracks().includes(lv.track)); return redo.length ? card("stack warnc", h("h2",null, redo.length + " écrit(s) à refaire"), h("p",{class:"small"},"Un correcteur a jugé insuffisante une copie qui avait validé un niveau. Refaites l'écrit, puis faites-le corriger."), h("button",{class:"btn accent",type:"button",onclick:()=>go("copies")},"Voir")) : null; })(),
     profilComplet() ? null : card("stack tight soft", h("h2",null,"Complétez votre profil"), h("p",{class:"small"},"Indiquez votre diplôme le plus élevé et votre situation (fonctionnaire ou non) : l'appli vous montrera tous les concours auxquels vous pouvez vous présenter, du BEPC au doctorat."), h("button",{class:"btn primary",type:"button",onclick:()=>go("concours")},"Compléter et voir mes concours")),
     veilleBanner(),
+    echBanner(),
     due.length ? card("warnc stack",
       h("h2",null, due.length + " séance" + (due.length>1?"s":"") + " à rattraper"),
       h("p",null, due.reduce((a,x)=>a+x.pts,0) + " XP perdus, récupérables. Prochaine échéance : " + frDate(due[0].limit) + "."),
@@ -3545,6 +3546,7 @@ function vCandidature(){
     h("div",null, h("p",{class:"lbl"}, myConcours().length + " concours préparé" + (myConcours().length>1?"s":"")), h("h1",null,"Ma candidature")),
     card("feature stack", h("div",{class:"row spread"}, h("h2",null,"Dossier prêt à " + dp.pct + " %"), h("b",null, dp.ok + "/" + dp.total)), bar(dp.pct, dp.pct<50),
       h("p",{class:"muted small"},"Se préparer ne sert à rien sans pouvoir s'inscrire : à l'ENA en 2026, les admissibles n'avaient que deux jours pour déposer leur dossier physique. Touchez une pièce pour changer son état et noter sa date de délivrance.")),
+    echCard(),
     veilleCard(),
     myConcours().map(c=>concoursCard(c, true)),
     infjDossierCard(),
@@ -3557,7 +3559,7 @@ function vCandidature(){
         const date = h("input",{type:"date",value:s.date||"","aria-label":"Date de délivrance",onchange:(ev)=>{ const x = state.dossier[it.id] || (state.dossier[it.id] = {st:0}); x.date = ev.target.value; save(); render(); }});
         return h("div",{class:"ditem"},
           h("button",{class:"dst s"+s.st,type:"button","aria-label":"État : " + DST[s.st],onclick:()=>{ const x = state.dossier[it.id] || (state.dossier[it.id] = {st:0}); x.st = (x.st+1)%3; save(); render(); }}, DST[s.st]),
-          h("div",{class:"grow"}, h("b",null,it.t), h("p",{class:"muted small"}, it.d), w ? h("p",{class:"small bad"}, w) : null,
+          h("div",{class:"grow"}, h("b",null,it.t), h("p",{class:"muted small"}, it.d), s.st!==2 ? echNote(it, "ENA") : null, w ? h("p",{class:"small bad"}, w) : null,
             h("div",{class:"row"}, h("span",{class:"muted small"},"Délivré le"), date),
             h("p",{class:"src"}, "Source : ", h("a",{href:DSRC[it.s].u,target:"_blank",rel:"noopener"}, DSRC[it.s].t))));
       })))),
@@ -3837,7 +3839,7 @@ function infjDossierCard(){
       const s = dInfj(it.id), w = infjWarn(it);
       return h("div",{class:"ditem"},
         h("button",{class:"dst s"+s.st,type:"button",onclick:()=>{ const d = state.dossierInfj || (state.dossierInfj = {}); const x = d[it.id] || (d[it.id] = {st:0}); x.st = (x.st+1)%3; save(); render(); }}, DST[s.st]),
-        h("div",{class:"grow"}, h("b",null,it.t), w ? h("p",{class:"small bad"}, w) : null,
+        h("div",{class:"grow"}, h("b",null,it.t), s.st!==2 ? echNote(it, "INFJ") : null, w ? h("p",{class:"small bad"}, w) : null,
           it.check ? h("div",{class:"row"}, h("span",{class:"muted small"},"Délivré le"), h("input",{type:"date",value:s.date||"",onchange:(ev)=>{ const d = state.dossierInfj || (state.dossierInfj = {}); const x = d[it.id] || (d[it.id] = {st:0}); x.date = ev.target.value; save(); render(); }})) : null));
     })),
     h("p",{class:"src"},"Source : ", h("a",{href:CSRC.agp.u,target:"_blank",rel:"noopener"}, CSRC.agp.t), ". Les arrêtés des autres concours de l'INFJ peuvent différer : vérifiez celui de votre concours."));
@@ -3869,10 +3871,128 @@ function fpDossierCard(){
       const s = dFp(it.id), w = fpWarn(it);
       return h("div",{class:"ditem"},
         h("button",{class:"dst s"+s.st,type:"button",onclick:()=>upd(it.id, x=>{ x.st = (x.st+1)%3; })}, DST[s.st]),
-        h("div",{class:"grow"}, h("b",null,it.t), w ? h("p",{class:"small bad"}, w) : null,
+        h("div",{class:"grow"}, h("b",null,it.t), s.st!==2 ? echNote(it, "FP") : null, w ? h("p",{class:"small bad"}, w) : null,
           it.check ? h("div",{class:"row"}, h("span",{class:"muted small"},"Délivré le"), h("input",{type:"date",value:s.date||"",onchange:(ev)=>upd(it.id, x=>{ x.date = ev.target.value; })})) : null));
     })),
     h("p",{class:"src"},"Source : ", h("a",{href:FP_SRC.u,target:"_blank",rel:"noopener"}, FP_SRC.t), "."));
+}
+
+
+// ---------- Échéances des pièces du dossier ----------
+// Chaque pièce est rattachée à la date où elle sera exigée. Tant que le communiqué de la session n'est pas publié,
+// la date est estimée en reportant d'un an le calendrier de 2026 (à vérifier). Dès que la veille passe une étape
+// en « officiel » avec une date, c'est cette date qui est utilisée.
+const ALERTE_JOURS = 30;
+const ECHEANCES = {
+  "ena-insc":   {lbl:"l'ouverture des inscriptions à l'ENA", est:"2027-03-16", ref:"16 mars 2026", veille:[null, /^Inscriptions/i, "debut"]},
+  "ena-inscf":  {lbl:"la clôture des inscriptions à l'ENA", est:"2027-04-30", ref:"30 avril 2026", veille:[null, /^Inscriptions/i, "fin"]},
+  "ena-photo":  {lbl:"la fin des prises de vue de l'ENA", est:"2027-05-06", ref:"6 mai 2026", veille:[null, /^Prise de vue/i, "fin"]},
+  "ena-presel": {lbl:"la présélection de l'ENA", est:"2027-06-29", ref:"29 juin 2026", veille:[null, /^Présélection/i, "debut"]},
+  "ena-phys":   {lbl:"le dépôt du dossier physique des admissibles à l'ENA", est:"2027-07-08", ref:"8 juillet 2026", veille:[null, /^Dépôt du dossier physique/i, "debut"]},
+  "ena-ecrits": {lbl:"les écrits d'admissibilité de l'ENA", est:"2027-07-23", ref:"23 juillet 2026", veille:[null, /^Écrits/i, "debut"]},
+  "infj-insc":  {lbl:"l'ouverture des inscriptions à l'INFJ", est:"2027-01-19", ref:"19 janvier 2026", veille:["infj", /^Inscriptions/i, "debut"]},
+  "infj-depot": {lbl:"le dépôt des dossiers à l'INFJ", est:"2027-03-02", ref:"2 mars 2026", veille:["infj", /^Dépôt des dossiers/i, "debut"]},
+  "fp-insc":    {lbl:"l'ouverture des inscriptions de la Fonction publique", est:"2027-03-16", ref:"16 mars 2026", veille:["fp", /^Inscriptions/i, "debut"]},
+  "fp-inscf":   {lbl:"la clôture des inscriptions de la Fonction publique", est:"2027-04-30", ref:"30 avril 2026", veille:["fp", /^Inscriptions/i, "fin"]}
+};
+// pièce -> échéance (les pièces non listées suivent leur source : inscription ou dossier physique)
+const ECH_ITEM = {
+  insc:"ena-inscf", frais:"ena-inscf", photo:"ena-photo", prepa:"ena-presel", comm:"ena-insc",
+  fiche:"ena-phys", recus:"ena-phys", poch:"ena-phys", depot:"ena-phys", conv:"ena-ecrits", kit:"ena-ecrits",
+  "i-fiche":"infj-insc", "i-frais":"infj-insc", "f-vue":"fp-inscf"
+};
+// Pièces dont la validité impose une date de délivrance au plus tôt
+const ECH_VALID = {
+  casier: (d)=>"2027-01-01",                        // règle 2026 : délivré après le 1er janvier de l'année
+  "i-nais": (d)=>addDays(d, -182),                   // moins de 6 mois au dépôt
+  "i-casier": (d)=>addDays(d, -91),                  // moins de 3 mois au dépôt
+  "f-nais": (d)=>d.slice(0,4) + "-01-01"             // de l'année du concours
+};
+function echDate(key){
+  const e = ECHEANCES[key];
+  const [src, re, champ] = e.veille;
+  let cal = null;
+  if (VEILLE){
+    if (!src) cal = VEILLE.calendrier;
+    else { const a = (VEILLE.autres||[]).find(x=>x.id===src); cal = a && a.calendrier; }
+  }
+  const c = Array.isArray(cal) ? cal.find(x=>re.test(x.etape||"")) : null;
+  if (c && c.statut === "officiel" && (c[champ] || c.debut)) return {d: c[champ] || c.debut, officiel:true, lbl:e.lbl};
+  return {d: e.est, officiel:false, lbl:e.lbl, ref:e.ref};
+}
+function echKey(it, org){
+  if (ECH_ITEM[it.id]) return ECH_ITEM[it.id];
+  if (org === "INFJ") return "infj-depot";
+  if (org === "FP") return "fp-insc";
+  return it.s === "phys" ? "ena-phys" : "ena-insc";
+}
+// Toutes les pièces des concours choisis, avec leur échéance
+function echeancesPieces(){
+  const cs = (typeof myConcours === "function") ? myConcours() : [];
+  const out = [];
+  const add = (org, list, st)=>{ for (const it of list){ const s = st(it.id); const e = echDate(echKey(it, org)); out.push({it, org, st:s.st, date:s.date, e}); } };
+  if (cs.some(c=>c.org==="ENA")) add("ENA", DITEMS, dState);
+  if (cs.some(c=>c.org==="INFJ")) add("INFJ", DOSSIER_INFJ, dInfj);
+  if (cs.some(c=>c.org==="Fonction publique")) add("FP", DOSSIER_FP, dFp);
+  const td = today();
+  for (const x of out){
+    x.n = Math.round((parseYmd(x.e.d) - parseYmd(td))/86400000);
+    const v = ECH_VALID[x.it.id]; x.auPlusTot = v ? v(x.e.d) : null;
+  }
+  return out;
+}
+// Pièces non prêtes dont l'échéance arrive dans 30 jours au plus (ou est passée depuis moins de 30 jours)
+function echAlertes(){
+  return echeancesPieces().filter(x=>x.st !== 2 && x.n <= ALERTE_JOURS && x.n >= -ALERTE_JOURS).sort((a,b)=>a.n-b.n);
+}
+function echTexte(x){
+  const quand = x.n > 1 ? "dans " + x.n + " jours" : x.n === 1 ? "demain" : x.n === 0 ? "aujourd'hui" : "date passée depuis " + (-x.n) + " jour" + (x.n<-1?"s":"");
+  return (x.e.officiel ? "le " : "vers le ") + frDate(x.e.d) + " (" + quand + ")";
+}
+const ucf = (t)=>t.charAt(0).toUpperCase() + t.slice(1);
+// Regroupe les pièces par échéance : une ligne par date, avec la liste des pièces à réunir
+function echGroupes(al){
+  const g = new Map();
+  for (const x of al){ const k = x.org + "|" + x.e.lbl; if (!g.has(k)) g.set(k, {e:x.e, n:x.n, xs:[]}); g.get(k).xs.push(x); }
+  return [...g.values()].sort((a,b)=>a.n-b.n);
+}
+function echGroupe(gr){
+  return h("div",{class:"ech"},
+    h("b",null, ucf(gr.e.lbl) + " : " + echTexte(gr)),
+    h("ul",{class:"pts small"}, gr.xs.map(x=>{
+      const lim = x.auPlusTot && x.auPlusTot > today() ? " (à demander à partir du " + frDate(x.auPlusTot) + " pour rester valable)" : "";
+      return h("li",null, x.it.t + (x.st===1 ? " · en cours" : "") + lim);
+    })),
+    !gr.e.officiel ? h("p",{class:"muted small"},"Date estimée d'après la session 2026 (" + gr.e.ref + ") : à vérifier dans le communiqué officiel.") : null);
+}
+function echBanner(){
+  const al = echAlertes(); if (!al.length) return null;
+  const gs = echGroupes(al);
+  return card("warnc stack tight",
+    h("h2",null, "Dossier : " + al.length + " pièce" + (al.length>1?"s":"") + " à réunir dans moins d'un mois"),
+    gs.slice(0, 2).map(echGroupe),
+    gs.length > 2 ? h("p",{class:"small"}, "Et " + (gs.length-2) + " autre" + (gs.length>3?"s":"") + " échéance" + (gs.length>3?"s":"") + " dans le mois.") : null,
+    h("button",{class:"btn accent",type:"button",onclick:()=>go("candidature")},"Voir mon dossier"));
+}
+function echCard(){
+  const al = echAlertes();
+  const prochaine = echeancesPieces().filter(x=>x.st !== 2 && x.n > ALERTE_JOURS).sort((a,b)=>a.n-b.n)[0];
+  if (!al.length && !prochaine) return null;
+  if (!al.length) return card("soft stack tight",
+    h("h2",null,"Prochaine échéance du dossier"),
+    h("p",{class:"small"}, ucf(prochaine.e.lbl) + " : " + echTexte(prochaine) + ". Les pièces à réunir pour cette date seront signalées sur l'écran d'accueil à partir du " + frDate(addDays(prochaine.e.d, -ALERTE_JOURS)) + "." + (prochaine.e.officiel ? "" : " Date estimée d'après la session 2026, à vérifier dans le communiqué officiel.")));
+  return card("warnc stack tight",
+    h("h2",null,"Pièces à réunir dans moins d'un mois"),
+    echGroupes(al).map(echGroupe),
+    h("p",{class:"muted small"},"Marquez une pièce « Prêt » ci-dessous pour retirer son alerte."));
+}
+// Rappel affiché sous chaque pièce non prête
+function echNote(it, org){
+  const e = echDate(echKey(it, org));
+  const n = Math.round((parseYmd(e.d) - parseYmd(today()))/86400000);
+  if (n < -ALERTE_JOURS) return null;
+  const v = ECH_VALID[it.id], tot = v ? v(e.d) : null;
+  return h("p",{class:"small " + (n <= ALERTE_JOURS ? "bad" : "muted")}, "À réunir pour " + e.lbl + (e.officiel ? ", le " : ", estimé au ") + frDate(e.d) + "." + (tot && tot > today() ? " À demander à partir du " + frDate(tot) + "." : ""));
 }
 
 
