@@ -4278,6 +4278,1246 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-05",
+   "questions": [
+    {
+     "id": "n20261105-pe05-01",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Quelle définition de la dette publique la Banque de France donne-t-elle ?",
+     "o": [
+      "L'excédent des dépenses sur les recettes d'une année",
+      "La somme des emprunts contractés, année après année, par les administrations publiques et non encore remboursés",
+      "Le montant annuel des intérêts versés aux prêteurs",
+      "La différence entre recettes et dépenses hors intérêts"
+     ],
+     "a": 1,
+     "e": "La dette publique est un stock : la somme des emprunts contractés année après année et non encore remboursés. Le déficit, lui, est l'écart annuel entre dépenses et recettes.",
+     "ed": [
+      "C'est la définition du déficit budgétaire, qui est un flux annuel.",
+      null,
+      "Les intérêts sont la charge de la dette, pas la dette elle-même.",
+      "C'est la définition du solde primaire."
+     ],
+     "src": {
+      "t": "Banque de France – ABC de l'économie : La dette publique (juin 2025)",
+      "u": "https://www.banque-france.fr/system/files/2025-06/Eco-Bref_Dette-publique.%20DEFpdf.pdf"
+     }
+    },
+    {
+     "id": "n20261105-pe05-02",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Le solde primaire d'un État se définit comme :",
+     "o": [
+      "Le solde global augmenté des dons extérieurs",
+      "Le déficit de la seule première année d'un programme",
+      "La différence entre recettes et dépenses hors paiement des intérêts de la dette",
+      "Le rapport entre la dette et le PIB"
+     ],
+     "a": 2,
+     "e": "Selon la Banque de France, le solde primaire est la différence entre recettes et dépenses hors paiement d'intérêts. Il mesure l'effort budgétaire du moment, sans la charge des dettes passées.",
+     "ed": [
+      "Les dons ne définissent pas le solde primaire ; c'est l'exclusion des intérêts qui le caractérise.",
+      "Le mot « primaire » ne renvoie pas à une première année.",
+      null,
+      "Le rapport dette/PIB est le ratio d'endettement, non un solde."
+     ],
+     "src": {
+      "t": "Banque de France – ABC de l'économie : La dette publique (juin 2025)",
+      "u": "https://www.banque-france.fr/system/files/2025-06/Eco-Bref_Dette-publique.%20DEFpdf.pdf"
+     }
+    },
+    {
+     "id": "n20261105-pe05-03",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Selon la Banque de France, quand parle-t-on d'effet « boule de neige » de la dette ?",
+     "o": [
+      "Quand le taux d'intérêt payé sur la dette est supérieur au taux de croissance du PIB nominal",
+      "Quand l'État rembourse sa dette plus vite que prévu",
+      "Quand l'inflation est nulle",
+      "Quand le solde primaire est excédentaire"
+     ],
+     "a": 0,
+     "e": "Si le taux d'intérêt payé sur la dette dépasse le taux de croissance du PIB nominal, la part de la dette dans le PIB augmente mécaniquement : c'est l'effet boule de neige.",
+     "ed": [
+      null,
+      "Un remboursement accéléré réduit la dette ; il ne crée pas d'effet boule de neige.",
+      "L'effet dépend de l'écart entre taux d'intérêt et croissance nominale, pas d'une inflation nulle.",
+      "Un excédent primaire freine au contraire la hausse du ratio."
+     ],
+     "src": {
+      "t": "Banque de France – ABC de l'économie : La dette publique (juin 2025)",
+      "u": "https://www.banque-france.fr/system/files/2025-06/Eco-Bref_Dette-publique.%20DEFpdf.pdf"
+     }
+    },
+    {
+     "id": "n20261105-pe05-04",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Quel est le plafond du ratio dette/PIB retenu comme critère de premier rang par le pacte de convergence de l'UEMOA ?",
+     "o": [
+      "60 % du PIB",
+      "50 % du PIB",
+      "100 % du PIB",
+      "70 % du PIB"
+     ],
+     "a": 3,
+     "e": "Les critères de premier rang de l'UEMOA comprennent un ratio dette/PIB inférieur ou égal à 70 %, avec un déficit limité à 3 % du PIB et une inflation au plus égale à 3 %.",
+     "ed": [
+      "60 % est le plafond de dette de l'Union européenne, non celui de l'UEMOA.",
+      "50 % n'est pas le seuil retenu par l'UEMOA.",
+      "100 % n'est pas un critère de l'UEMOA.",
+      null
+     ],
+     "src": {
+      "t": "Connectionivoirienne (repris du Soleil, Dakar) – Suspension du pacte de 3 % de déficit budgétaire dans l'UEMOA (7 mai 2020)",
+      "u": "https://connectionivoirienne.net/2020/05/07/suspension-du-pacte-de-3-de-deficit-budgetaire-dans-luemoa-une-decision-saluee-par-les-economistes/"
+     }
+    },
+    {
+     "id": "n20261105-pe05-05",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Un État a des recettes de 10 000 milliards, des dépenses hors intérêts de 10 300 milliards et des intérêts de 400 milliards. Quel est le montant de son déficit primaire ?",
+     "o": [
+      "700 milliards",
+      "400 milliards",
+      "300 milliards",
+      "100 milliards"
+     ],
+     "a": 2,
+     "e": "Le solde primaire exclut les intérêts : 10 000 − 10 300 = −300, soit un déficit primaire de 300 milliards. Avec les intérêts, le déficit global atteindrait 700 milliards.",
+     "ed": [
+      "700 milliards est le déficit global, intérêts compris.",
+      "400 milliards correspond aux seuls intérêts.",
+      null,
+      "100 milliards ne correspond à aucune différence correcte entre ces montants."
+     ],
+     "verif": "calcul",
+     "calc": "10300-10000"
+    },
+    {
+     "id": "n20261105-pe05-06",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Un État dont le PIB nominal vaut 50 000 milliards enregistre un déficit de 1 500 milliards. Quel est son déficit rapporté au PIB ?",
+     "o": [
+      "1,5 %",
+      "3 %",
+      "5 %",
+      "33 %"
+     ],
+     "a": 1,
+     "e": "Le ratio se calcule ainsi : 1 500 / 50 000 = 0,03, soit 3 % du PIB. Ce niveau correspond exactement au plafond de déficit de l'UEMOA.",
+     "ed": [
+      "1,5 % prend le montant du déficit, exprimé en milliers de milliards, pour un pourcentage.",
+      null,
+      "5 % suppose un déficit de 2 500 milliards.",
+      "33 % inverse le rapport (50 000 / 1 500)."
+     ],
+     "verif": "calcul",
+     "calc": "1500/50000*100"
+    },
+    {
+     "id": "n20261105-pe05-07",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "La dette d'un État vaut 20 000 milliards au 1er janvier. Il finance par l'emprunt un déficit de 1 200 milliards dans l'année. Quelle est sa dette au 31 décembre ?",
+     "o": [
+      "18 800 milliards",
+      "20 000 milliards",
+      "24 000 milliards",
+      "21 200 milliards"
+     ],
+     "a": 3,
+     "e": "Le déficit de l'année s'ajoute au stock de dette : 20 000 + 1 200 = 21 200 milliards. Un déficit fait toujours augmenter la dette en montant.",
+     "ed": [
+      "Soustraire le déficit revient à le traiter comme un excédent.",
+      "La dette ne reste stable que si le budget est à l'équilibre.",
+      "24 000 milliards correspond à une hausse de 20 %, sans rapport avec le déficit de 1 200 milliards.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "20000+1200"
+    },
+    {
+     "id": "n20261105-pe05-08",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Une dette publique de 35 000 milliards pour un PIB de 50 000 milliards représente quel ratio d'endettement ?",
+     "o": [
+      "70 % du PIB",
+      "35 % du PIB",
+      "143 % du PIB",
+      "50 % du PIB"
+     ],
+     "a": 0,
+     "e": "Ratio d'endettement = dette / PIB = 35 000 / 50 000 = 0,7, soit 70 % du PIB : c'est exactement le plafond du critère de l'UEMOA.",
+     "ed": [
+      null,
+      "35 % confond le montant de la dette avec un pourcentage.",
+      "143 % inverse le rapport (PIB / dette).",
+      "50 % ne correspond à aucun des deux montants rapportés."
+     ],
+     "verif": "calcul",
+     "calc": "35000/50000*100"
+    },
+    {
+     "id": "n20261105-pe05-09",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Dette : 50 % du PIB ; taux d'intérêt apparent : 6 % ; croissance nominale : 4 %. Avec l'approximation (r − g) × d, de combien l'effet boule de neige augmente-t-il le ratio d'endettement en un an ?",
+     "o": [
+      "De 0,5 point de PIB",
+      "De 5 points de PIB",
+      "De 1 point de PIB",
+      "De 2 points de PIB"
+     ],
+     "a": 2,
+     "e": "Effet boule de neige ≈ (r − g) × d = (0,06 − 0,04) × 50 = 1 point de PIB. Sans excédent primaire, le ratio passe d'environ 50 % à 51 %.",
+     "ed": [
+      "0,5 point résulte d'une erreur sur l'écart de taux.",
+      "5 points multiplie la dette par la somme des taux, non par leur écart.",
+      null,
+      "2 points est l'écart des taux, non encore multiplié par le ratio de dette."
+     ],
+     "verif": "calcul",
+     "calc": "(6-4)/100*50"
+    },
+    {
+     "id": "n20261105-pe05-10",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Dette : 60 % du PIB ; taux d'intérêt : 5 % ; croissance nominale : 3 %. Quel solde primaire faut-il, environ, pour stabiliser le ratio d'endettement ?",
+     "o": [
+      "Un déficit primaire de 1,2 point de PIB",
+      "Un excédent primaire de 1,2 point de PIB",
+      "Un solde primaire nul",
+      "Un excédent primaire de 8 points de PIB"
+     ],
+     "a": 1,
+     "e": "L'effet boule de neige vaut environ (0,05 − 0,03) × 60 = 1,2 point de PIB. Comme r > g, il faut un excédent primaire du même montant pour le compenser.",
+     "ed": [
+      "Un déficit primaire aggraverait la hausse du ratio au lieu de la compenser.",
+      null,
+      "Un solde nul laisserait jouer l'effet boule de neige : le ratio monterait de 1,2 point.",
+      "8 points résulte de l'addition des taux, sans rapport avec la formule."
+     ],
+     "verif": "calcul",
+     "calc": "(5-3)/100*60"
+    },
+    {
+     "id": "n20261105-pe05-11",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Un État ramène son déficit de 5 % à 3 % du PIB. Un journaliste titre : « La dette publique diminue ». Que faut-il en penser ?",
+     "o": [
+      "Il a raison, car le déficit a baissé de deux points",
+      "Il a raison, car 3 % est le plafond de l'UEMOA",
+      "Il a raison si l'inflation reste sous 3 %",
+      "Il a tort : tant qu'il y a un déficit, l'État emprunte et la dette continue d'augmenter en montant"
+     ],
+     "a": 3,
+     "e": "Un déficit, même réduit, doit être financé par l'emprunt : la somme des emprunts non remboursés s'accroît. La dette augmente donc moins vite, mais elle augmente.",
+     "ed": [
+      "La baisse du déficit ralentit la hausse de la dette sans l'inverser.",
+      "Respecter le critère de 3 % ne fait pas baisser le montant de la dette.",
+      "L'inflation ne transforme pas un déficit en remboursement de dette.",
+      null
+     ],
+     "src": {
+      "t": "Banque de France – ABC de l'économie : La dette publique (juin 2025)",
+      "u": "https://www.banque-france.fr/system/files/2025-06/Eco-Bref_Dette-publique.%20DEFpdf.pdf"
+     }
+    },
+    {
+     "id": "n20261105-pe05-12",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "En avril 2020, quelle disposition la Conférence des chefs d'État de l'UEMOA a-t-elle invoquée pour suspendre provisoirement le pacte de convergence ?",
+     "o": [
+      "L'article 22 de l'Acte additionnel de 2015, qui prévoit des circonstances exceptionnelles",
+      "Le traité de Maastricht de 1992",
+      "La clause de sortie de la zone franc",
+      "Une décision du Fonds monétaire international"
+     ],
+     "a": 0,
+     "e": "Les chefs d'État ont rappelé l'article 22 de l'Acte additionnel de 2015, qui prévoit des circonstances exceptionnelles empêchant de respecter les critères, notamment celui du déficit budgétaire.",
+     "ed": [
+      null,
+      "Le traité de Maastricht concerne l'Union européenne, non l'UEMOA.",
+      "Aucune clause de sortie de la zone franc n'a été invoquée : il s'agissait d'une suspension provisoire du pacte.",
+      "La décision relève de la Conférence des chefs d'État de l'UEMOA, non du FMI."
+     ],
+     "src": {
+      "t": "Connectionivoirienne (repris du Soleil, Dakar) – Suspension du pacte de 3 % de déficit budgétaire dans l'UEMOA (7 mai 2020)",
+      "u": "https://connectionivoirienne.net/2020/05/07/suspension-du-pacte-de-3-de-deficit-budgetaire-dans-luemoa-une-decision-saluee-par-les-economistes/"
+     }
+    },
+    {
+     "id": "n20261105-pn03-01",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Selon l'article 10 du décret n° 2023-239, sous l'autorité et le contrôle de qui le chef d'établissement pénitentiaire dirige-t-il l'établissement ?",
+     "o": [
+      "Du préfet de région",
+      "Du procureur de la République",
+      "Du maire de la commune",
+      "Du président du tribunal"
+     ],
+     "a": 1,
+     "e": "L'article 10 dispose que chaque établissement pénitentiaire est dirigé par un chef d'établissement « sous l'autorité et le contrôle du procureur de la République ».",
+     "ed": [
+      "Le préfet peut visiter l'établissement (article 123), mais le chef n'est pas placé sous son autorité.",
+      null,
+      "Le maire n'a aucune autorité sur l'établissement pénitentiaire.",
+      "Le texte vise le procureur de la République, non le président du tribunal."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-02",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Combien de composantes l'article 13 du décret n° 2023-239 prévoit-il dans chaque établissement pénitentiaire, direction comprise ?",
+     "o": [
+      "Quatre",
+      "Cinq",
+      "Six",
+      "Sept"
+     ],
+     "a": 3,
+     "e": "L'article 13 énumère sept composantes : la direction, le bureau de sécurité, le bureau de la comptabilité, le bureau du greffe, le bureau des vivres et de la cuisine, le service médical et le bureau socio-éducatif.",
+     "ed": [
+      "Quatre est trop peu : l'article 13 énumère sept composantes.",
+      "Cinq oublie deux composantes de la liste de l'article 13.",
+      "Six correspond aux bureaux et services sans la direction ; avec elle, on en compte sept.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-03",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Qui nomme le chef d'un établissement pénitentiaire ?",
+     "o": [
+      "Le Président de la République, par décret",
+      "Le procureur de la République, par réquisition",
+      "Le ministre de la Justice, par arrêté",
+      "Le directeur de l'Administration pénitentiaire, par note de service"
+     ],
+     "a": 2,
+     "e": "L'article 14 prévoit que le chef est nommé parmi les administrateurs ou les attachés des établissements pénitentiaires, « par arrêté du ministre de la Justice ».",
+     "ed": [
+      "Le texte ne prévoit pas de décret présidentiel pour cette nomination.",
+      "Le procureur contrôle le chef (article 10) mais ne le nomme pas.",
+      null,
+      "La nomination se fait par arrêté du ministre, non par note de service."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-04",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Quel bureau d'un établissement pénitentiaire veille à la légalité et à la régularité de la mise en détention des personnes incarcérées ?",
+     "o": [
+      "Le bureau du greffe",
+      "Le bureau de sécurité",
+      "Le bureau socio-éducatif",
+      "Le bureau de la comptabilité"
+     ],
+     "a": 0,
+     "e": "Selon l'article 22, le bureau du greffe veille à la légalité et à la régularité de la mise en détention et assure le suivi de la situation pénale des détenus jusqu'à leur libération.",
+     "ed": [
+      null,
+      "Le bureau de sécurité veille à la sécurité des détenus, des installations et du périmètre (article 20).",
+      "Le bureau socio-éducatif s'occupe de la formation et de la réinsertion (article 26).",
+      "La comptabilité prépare l'exécution du budget et achète vivres et non-vivres (article 21)."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-05",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Par qui sont nommés les agents de santé qui animent le service médical d'un établissement pénitentiaire ?",
+     "o": [
+      "Par le chef d'établissement",
+      "Par arrêté du ministre de la Justice",
+      "Par le procureur de la République",
+      "Par arrêté du ministre chargé de la Santé"
+     ],
+     "a": 3,
+     "e": "L'article 25 précise que le service médical est animé par des agents de santé « nommés par arrêté du ministre chargé de la Santé ». C'est l'une des rares exceptions à la compétence du ministre de la Justice.",
+     "ed": [
+      "Le chef d'établissement nomme le commandant de compagnie (article 20), pas les agents de santé.",
+      "Le ministre de la Justice nomme les greffiers et le travailleur social, mais pas les agents de santé.",
+      "Le procureur ne nomme aucun agent de l'établissement.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-06",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Qui dirige le bureau de sécurité d'un établissement pénitentiaire, et qui le nomme ?",
+     "o": [
+      "Un commandant de compagnie, nommé par le chef d'établissement parmi les agents les plus élevés en grade",
+      "Un officier de gendarmerie, nommé par le ministre de la Défense",
+      "Le chef adjoint, nommé par le procureur",
+      "Un greffier, nommé par le ministre de la Justice"
+     ],
+     "a": 0,
+     "e": "L'article 20 confie le bureau de sécurité à un commandant de compagnie, « nommé par le chef de l'établissement pénitentiaire parmi les agents pénitentiaires les plus élevés dans le grade ».",
+     "ed": [
+      null,
+      "Le bureau de sécurité est dirigé par un agent pénitentiaire, non par un gendarme.",
+      "Le chef adjoint supplée le chef ; il ne dirige pas le bureau de sécurité.",
+      "Le greffier relève du bureau du greffe (article 22)."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-07",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Un agent pénitentiaire accepte de transmettre une lettre d'un détenu à sa famille, en dehors des voies réglementaires. Quelle est la qualification de ce comportement ?",
+     "o": [
+      "Un geste humanitaire permis",
+      "Une faute disciplinaire, car l'article 121 interdit de faciliter toute transmission irrégulière de correspondance",
+      "Une simple maladresse sans conséquence",
+      "Un acte permis s'il en informe le greffe ensuite"
+     ],
+     "a": 1,
+     "e": "L'article 121 interdit au personnel de faciliter ou de tolérer toute transmission de correspondance ou moyen de communication irrégulière ; l'article 122 fait de toute violation une faute disciplinaire.",
+     "ed": [
+      "Le texte interdit ce geste, quelle qu'en soit l'intention.",
+      null,
+      "L'article 122 qualifie toute violation de l'article 121 de faute disciplinaire.",
+      "Informer le greffe après coup ne régularise pas une transmission irrégulière."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-08",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Selon l'article 124, à quelle fréquence minimale le juge de l'application des peines visite-t-il les établissements pénitentiaires de son ressort ?",
+     "o": [
+      "Une fois par an",
+      "Une fois par trimestre",
+      "Deux fois par mois",
+      "Une fois par semaine"
+     ],
+     "a": 2,
+     "e": "L'article 124 impose au juge de l'application des peines au moins deux visites par mois ; c'est la fréquence la plus élevée parmi les magistrats visiteurs.",
+     "ed": [
+      "Une fois par an est la fréquence du président de la chambre d'instruction.",
+      "Une fois par trimestre est la fréquence du procureur de la République.",
+      null,
+      "Le texte ne prévoit pas de visite hebdomadaire."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-09",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Une ONG de défense des droits de l'homme souhaite visiter une maison d'arrêt. Que prévoit le décret n° 2023-239 ?",
+     "o": [
+      "Elle peut entrer à tout moment, sans formalité",
+      "Elle doit obtenir l'accord du maire",
+      "Elle ne peut jamais visiter un établissement",
+      "Elle peut visiter sur autorisation accordée par le ministre de la Justice"
+     ],
+     "a": 3,
+     "e": "L'article 126 permet aux organisations internationales, publiques et non gouvernementales œuvrant pour les droits de l'homme d'effectuer des visites « sur autorisation accordée par le ministre de la Justice ».",
+     "ed": [
+      "La visite à tout moment est réservée aux parlementaires, au CESEC et au CNDH (article 123).",
+      "Le maire n'intervient pas dans cette autorisation.",
+      "Le texte prévoit au contraire ces visites, sous autorisation.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-10",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Hors cas de légitime défense, comment le décret n° 2023-239 encadre-t-il le tir des armes à feu par le personnel pénitentiaire ?",
+     "o": [
+      "Le tir doit toujours être orienté vers les jambes",
+      "Le tir en l'air est seul autorisé",
+      "Le tir est libre dès qu'un détenu s'enfuit",
+      "Le tir exige l'accord préalable du procureur"
+     ],
+     "a": 0,
+     "e": "L'article 105 limite l'usage des armes à feu à des cas précis et précise que, « hors le cas de légitime défense, le tir des armes à feu doit toujours être orienté vers les jambes ».",
+     "ed": [
+      null,
+      "Le texte ne parle pas de tir en l'air ; il impose de viser les jambes.",
+      "Le tir n'est jamais libre : il est encadré par l'article 105 et doit rester proportionné.",
+      "Le texte n'exige pas l'accord préalable du procureur pour le tir."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-11",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Un candidat écrit : « Dans l'enceinte de la prison, les agents portent en permanence leur arme à feu. » Que lui opposez-vous ?",
+     "o": [
+      "Rien, c'est la règle",
+      "Seuls les gradés portent une arme dans l'enceinte",
+      "L'article 103 interdit le port d'armes à feu au cours du service normal dans l'enceinte ; le ministre ne peut l'autoriser que pour certaines missions à l'extérieur",
+      "Le port d'arme dépend du règlement intérieur de chaque prison"
+     ],
+     "a": 2,
+     "e": "L'article 103 dispose que le personnel « ne doit pas porter d'armes à feu au cours du service normal dans l'enceinte de l'établissement » ; le ministre peut autoriser certains agents à en porter pour surveiller des détenus à l'extérieur.",
+     "ed": [
+      "C'est l'inverse : le port d'armes dans l'enceinte est interdit en service normal.",
+      "L'interdiction vise tout le personnel, sans exception pour les gradés.",
+      null,
+      "La règle est fixée par le décret, non par chaque règlement intérieur."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+     }
+    },
+    {
+     "id": "n20261105-pn03-12",
+     "m": "pen",
+     "tag": "niv-pn03",
+     "q": "Selon l'annuaire des statistiques judiciaires et pénitentiaires 2024-2025 du ministère de la Justice, quel était l'effectif du personnel pénitentiaire en 2025 ?",
+     "o": [
+      "1 230 agents",
+      "3 230 agents",
+      "13 238 agents",
+      "30 273 agents"
+     ],
+     "a": 1,
+     "e": "Le tableau de synthèse de l'annuaire 2024-2025 indique 3 230 agents pour le personnel pénitentiaire en 2025, contre 2 810 en 2021, soit environ neuf détenus par agent.",
+     "ed": [
+      "Ce chiffre ne figure pas dans l'annuaire : l'effectif de 2025 est de 3 230 agents.",
+      null,
+      "13 238 correspond à la capacité d'accueil en mètres carrés en 2025, non au personnel.",
+      "30 273 est une population carcérale moyenne indiquée par l'annuaire, non un effectif de personnel."
+     ],
+     "src": {
+      "t": "Ministère de la Justice et des Droits de l'Homme – Annuaire des statistiques judiciaires et pénitentiaires 2024-2025",
+      "u": "https://www.justice.ci/wp-content/uploads/2026/07/ANNUAIRE-ANNEE-JUDICIAIRE-2024-2025.pdf"
+     }
+    },
+    {
+     "id": "n20261105-sf06-01",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Selon l'article 32 de la loi n° 2023-892, avec quelles qualités le fonctionnaire doit-il servir l'État ?",
+     "o": [
+      "Rapidité, efficacité, rentabilité et discipline",
+      "Neutralité, compétence, ponctualité et courtoisie",
+      "Loyauté, dignité, intégrité et dévouement",
+      "Obéissance, silence, assiduité et modestie"
+     ],
+     "a": 2,
+     "e": "L'article 32 dispose que « le fonctionnaire doit servir l'État avec loyauté, dignité, intégrité et dévouement » et consacrer l'intégralité de son temps de travail à ses tâches.",
+     "ed": [
+      "Ces termes relèvent du vocabulaire de la gestion ; ils ne figurent pas dans l'article 32.",
+      "Ces qualités ne sont pas celles que l'article 32 énumère.",
+      null,
+      "L'article 32 ne cite ni le silence ni la modestie ; il cite loyauté, dignité, intégrité et dévouement."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-02",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Quel acte peut autoriser un fonctionnaire à exercer, à titre professionnel, une activité privée lucrative ?",
+     "o": [
+      "Une dérogation accordée par décret pris en Conseil des ministres",
+      "Une autorisation écrite de son chef de service",
+      "Un arrêté du ministre chargé de la Fonction publique",
+      "Une simple déclaration préalable à la DRH"
+     ],
+     "a": 0,
+     "e": "L'article 32 interdit toute activité privée lucrative exercée à titre professionnel, « sauf dérogation accordée par décret pris en Conseil des ministres ».",
+     "ed": [
+      null,
+      "Le chef de service n'a pas ce pouvoir : l'article 32 exige un décret pris en Conseil des ministres.",
+      "Un arrêté ministériel ne suffit pas : le texte exige un décret pris en Conseil des ministres.",
+      "La déclaration concerne l'activité du conjoint (article 33), pas celle du fonctionnaire lui-même."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-03",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Que doit faire le fonctionnaire dont le conjoint exerce, à titre professionnel, une activité privée lucrative ?",
+     "o": [
+      "Démissionner de la fonction publique",
+      "Demander sa mise en disponibilité",
+      "Obtenir un décret de dérogation",
+      "En faire la déclaration à l'Administration ou au service dont il relève"
+     ],
+     "a": 3,
+     "e": "L'article 33 prévoit que, dans ce cas, « déclaration doit en être faite à l'Administration ou au service dont relève le fonctionnaire », l'autorité prenant au besoin des mesures pour sauvegarder les intérêts de l'État.",
+     "ed": [
+      "La loi n'impose pas la démission : elle impose une déclaration.",
+      "La disponibilité n'est pas exigée par l'article 33.",
+      "Le décret de dérogation concerne l'activité du fonctionnaire lui-même (article 32), non celle du conjoint.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-04",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Selon l'article 38, que constitue le manquement à l'une des obligations du fonctionnaire ?",
+     "o": [
+      "Une simple irrégularité sans conséquence",
+      "Une faute disciplinaire",
+      "Obligatoirement un délit pénal",
+      "Une cause automatique de radiation"
+     ],
+     "a": 1,
+     "e": "L'article 38 dispose que le manquement à l'une des obligations de la section « constitue une faute disciplinaire », sans préjudice d'autres manquements non énumérés.",
+     "ed": [
+      "La loi attache une conséquence précise au manquement : la faute disciplinaire.",
+      null,
+      "L'article 38 parle de faute disciplinaire ; une poursuite pénale n'est pas automatique.",
+      "La loi ne prévoit pas de radiation automatique ; elle qualifie le manquement de faute disciplinaire."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-05",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Un agent de l'état civil reçoit d'un usager, après la délivrance rapide d'un acte, une somme « pour le remercier ». Quelle règle est violée ?",
+     "o": [
+      "L'article 34, qui interdit de solliciter ou de recevoir des dons ou gratifications en raison des fonctions",
+      "Aucune, car l'acte a déjà été délivré",
+      "L'article 36 sur l'information du public",
+      "L'article 37 sur l'obéissance hiérarchique"
+     ],
+     "a": 0,
+     "e": "L'article 34 interdit de solliciter ou de recevoir, dans l'exercice des fonctions ou en raison de celles-ci, des dons, gratifications ou avantages quelconques. Le moment du versement ne change rien.",
+     "ed": [
+      null,
+      "L'interdiction vaut même après le service rendu : la somme est reçue « en raison » des fonctions.",
+      "L'article 36 impose de renseigner le public ; il ne traite pas des dons.",
+      "Aucune instruction hiérarchique n'est en cause ici."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-06",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Un contrôleur des prix achète, au nom de son cousin, des parts d'une boulangerie industrielle qu'il contrôle. Comment qualifier ce comportement ?",
+     "o": [
+      "Il est permis, car les parts ne sont pas à son nom",
+      "C'est une activité privée lucrative autorisée",
+      "C'est une prise d'intérêts par personne interposée, interdite par l'article 33",
+      "C'est seulement un manquement à l'obligation de réserve"
+     ],
+     "a": 2,
+     "e": "L'article 33 interdit au fonctionnaire de prendre des intérêts, « par lui-même ou par personne interposée », dans une entreprise soumise au contrôle de son Administration. Le cousin sert de prête-nom.",
+     "ed": [
+      "L'expression « par personne interposée » vise précisément ce contournement.",
+      "Aucune autorisation n'existe : il s'agit d'une prise d'intérêts interdite.",
+      null,
+      "La réserve concerne l'expression des opinions ; ici, c'est la probité (article 33) qui est en cause."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-07",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Qui peut délier un fonctionnaire de son obligation de discrétion professionnelle, en dehors des cas prévus par les textes ?",
+     "o": [
+      "Son chef de service direct",
+      "Le Ministre dont il relève, par décision expresse",
+      "Le juge administratif",
+      "Le syndicat auquel il appartient"
+     ],
+     "a": 1,
+     "e": "L'article 35 précise qu'en dehors des cas prévus par les textes, notamment l'accès à l'information d'intérêt public, le fonctionnaire ne peut être délié de la discrétion professionnelle « que par décision expresse du Ministre dont il relève ».",
+     "ed": [
+      "Le chef de service n'a pas ce pouvoir : la loi le réserve au Ministre.",
+      null,
+      "Le texte ne confie pas ce pouvoir au juge administratif.",
+      "Un syndicat ne peut délier un agent d'une obligation statutaire."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-08",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Un agent affirme qu'il n'est pas responsable de l'erreur commise par son subordonné dans un dossier qu'il lui avait confié. Que prévoit l'article 37 ?",
+     "o": [
+      "Seul le subordonné répond de l'erreur",
+      "La responsabilité est transférée au Ministre",
+      "La responsabilité est partagée par moitié",
+      "Il n'est dégagé d'aucune de ses responsabilités par la responsabilité propre de ses subordonnés"
+     ],
+     "a": 3,
+     "e": "L'article 37 dispose que le fonctionnaire « n'est dégagé d'aucune des responsabilités qui lui incombent par la responsabilité propre de ses subordonnés ». Le chef répond de ce qu'il a confié.",
+     "ed": [
+      "Le texte dit l'inverse : la faute du subordonné ne dégage pas le chef.",
+      "Aucun transfert vers le Ministre n'est prévu par l'article 37.",
+      "La loi ne fixe aucun partage par moitié.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-09",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Un agent refuse de répondre à un usager qui demande quelles pièces fournir pour un dossier, au motif qu'il est « tenu au secret ». A-t-il raison ?",
+     "o": [
+      "Oui, car tout ce qui concerne le service est secret",
+      "Non, car l'article 36 lui impose de satisfaire aux demandes d'information du public, dans le respect du secret et de la discrétion",
+      "Oui, sauf autorisation écrite du Ministre",
+      "Non, car le secret professionnel a été supprimé par la loi de 2023"
+     ],
+     "a": 1,
+     "e": "L'article 36 impose au fonctionnaire de satisfaire aux demandes d'information du public dans le respect des règles de l'article 35. La liste des pièces d'un dossier n'est pas couverte par le secret.",
+     "ed": [
+      "Le secret et la discrétion ne couvrent pas les informations utiles au public sur les démarches.",
+      null,
+      "Aucune autorisation n'est nécessaire pour informer le public sur une démarche.",
+      "Le secret professionnel existe toujours : l'article 35 le maintient."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-10",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Quelle affirmation sur l'article 35 est exacte ?",
+     "o": [
+      "Le secret professionnel s'applique « sauf dispositions légales contraires », et l'obligation de réserve figure dans le même article",
+      "La discrétion professionnelle ne vise que les documents classés secrets",
+      "L'obligation de réserve ne s'applique qu'aux fonctionnaires de catégorie A",
+      "Le Ministre peut lever le secret professionnel par simple note de service"
+     ],
+     "a": 0,
+     "e": "L'article 35 pose le secret professionnel « sauf dispositions légales contraires », la discrétion pour tous les faits et documents connus au service, et ajoute que le fonctionnaire « est également tenu à l'obligation de réserve ».",
+     "ed": [
+      null,
+      "La discrétion couvre « tous les faits, informations ou documents » connus au service, pas seulement les documents classés.",
+      "L'article 35 vise le fonctionnaire sans distinction de catégorie.",
+      "Le Ministre peut délier de la discrétion par décision expresse ; le secret ne cède que devant des dispositions légales contraires."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-11",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Un fonctionnaire milite activement dans un parti politique le week-end, sans en parler au service. Au regard de la loi n° 2023-892, que faut-il conclure ?",
+     "o": [
+      "Il viole l'obligation de réserve, car tout engagement politique est interdit",
+      "Il doit obtenir un décret de dérogation",
+      "Son comportement est conforme : l'opinion est libre et s'exprime hors du service, avec la réserve appropriée aux fonctions",
+      "Il doit déclarer son engagement à l'Administration (article 33)"
+     ],
+     "a": 2,
+     "e": "L'article 21 reconnaît la liberté d'opinion ; l'expression des opinions ne peut avoir lieu qu'en dehors du service, avec la réserve appropriée aux fonctions. Militer le week-end, sans incidence sur le service, est permis.",
+     "ed": [
+      "La loi ne prohibe pas l'engagement politique ; elle en encadre l'expression.",
+      "Le décret de dérogation concerne une activité privée lucrative, pas un engagement politique.",
+      null,
+      "La déclaration de l'article 33 vise l'activité lucrative du conjoint, non les opinions."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-sf06-12",
+     "m": "sfp",
+     "tag": "niv-sf06",
+     "q": "Un comportement indigne d'un agent ne figure dans aucun des articles 32 à 37. Peut-il malgré tout constituer une faute disciplinaire ?",
+     "o": [
+      "Non, car tout ce qui n'est pas interdit par la loi est permis",
+      "Oui, car l'article 38 vise aussi d'autres manquements non énumérés dans la loi mais constitutifs de faute disciplinaire",
+      "Non, sauf si le juge pénal l'a condamné",
+      "Oui, mais seulement s'il est commis pendant les heures de service"
+     ],
+     "a": 1,
+     "e": "L'article 38 précise que la faute disciplinaire existe « sans préjudice, le cas échéant, d'autres manquements non énumérés dans la présente loi mais constitutifs de faute disciplinaire ». La liste n'est donc pas limitative.",
+     "ed": [
+      "Cette maxime ne s'applique pas en matière disciplinaire : l'article 38 laisse la liste ouverte.",
+      null,
+      "La faute disciplinaire ne dépend pas d'une condamnation pénale.",
+      "L'article 38 ne limite pas la faute aux heures de service."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261105-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville l'acte constitutif de l'UNESCO a-t-il été signé, le 16 novembre 1945 ?",
+     "o": [
+      "Paris",
+      "Genève",
+      "Londres",
+      "New York"
+     ],
+     "a": 2,
+     "e": "L'acte constitutif de l'UNESCO a été signé à Londres le 16 novembre 1945 ; il est entré en vigueur le 4 novembre 1946. Le siège de l'organisation est à Paris.",
+     "ed": [
+      "Paris est la ville du siège de l'UNESCO, non celle de la signature de son acte constitutif.",
+      "Genève n'est pas le lieu de signature de l'acte constitutif de l'UNESCO.",
+      null,
+      "New York accueille le siège de l'ONU, non la signature de l'acte constitutif de l'UNESCO."
+     ],
+     "src": {
+      "t": "Commission nationale d'Azerbaïdjan pour l'UNESCO – About UNESCO",
+      "u": "https://unesco.az/en/pages/about_unesco"
+     }
+    },
+    {
+     "id": "n20261105-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Après le référendum du 1er juillet 1962, quel jour les Algériens fêtent-ils leur indépendance ?",
+     "o": [
+      "Le 5 juillet 1962",
+      "Le 18 mars 1962",
+      "Le 1er novembre 1962",
+      "Le 19 juin 1962"
+     ],
+     "a": 0,
+     "e": "Les accords d'Évian sont signés le 18 mars 1962 ; le 1er juillet, plus de 91 % des électeurs votent oui au référendum ; l'indépendance est reconnue par la France le 3 juillet et fêtée le 5 juillet 1962.",
+     "ed": [
+      null,
+      "Le 18 mars 1962 est la date de signature des accords d'Évian, avant le référendum.",
+      "Le 1er novembre 1962 ne correspond pas à la fête de l'indépendance, qui a lieu le 5 juillet.",
+      "Le 19 juin 1962 précède le référendum du 1er juillet : ce n'est pas la date de l'indépendance."
+     ],
+     "src": {
+      "t": "Musée de l'Armée – L'Algérie indépendante",
+      "u": "https://www.musee-armee.fr/ExpositionAlgerie/pdf/pdf-l-algerie-independante.pdf"
+     }
+    },
+    {
+     "id": "n20261105-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 1er janvier 2002, les billets et pièces en euros entrent en circulation. Dans combien d'États membres de l'Union monétaire européenne l'euro a-t-il alors cours légal ?",
+     "o": [
+      "Quinze",
+      "Six",
+      "Vingt",
+      "Douze"
+     ],
+     "a": 3,
+     "e": "Selon le ministère français de l'Économie, le 1er janvier 2002 l'euro a cours légal en France et dans les douze États membres de l'Union monétaire européenne.",
+     "ed": [
+      "La source indique douze États membres de l'Union monétaire européenne en 2002, non quinze.",
+      "La source indique douze États membres de l'Union monétaire européenne en 2002, non six.",
+      "La source indique douze États membres de l'Union monétaire européenne en 2002, non vingt.",
+      null
+     ],
+     "src": {
+      "t": "Ministère de l'Économie (France) – 20 ans de l'euro : les dates clés de l'histoire de la monnaie unique européenne",
+      "u": "https://www.economie.gouv.fr/20-ans-euro-dates-cles-histoire-monnaie-unique-europeenne"
+     }
+    },
+    {
+     "id": "n20261105-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'explosion du réacteur n° 4 de la centrale de Tchernobyl, le 26 avril 1986, s'est produite dans quelle république, qui faisait alors partie de l'URSS ?",
+     "o": [
+      "La Biélorussie",
+      "L'Ukraine",
+      "La Russie",
+      "La Lituanie"
+     ],
+     "a": 1,
+     "e": "Le 26 avril 1986, le réacteur n° 4 de la centrale de Tchernobyl explose en Ukraine, qui fait alors partie de l'URSS.",
+     "ed": [
+      "La Biélorussie voisine a été touchée par les retombées, mais la centrale se trouve en Ukraine.",
+      null,
+      "La centrale n'est pas située en Russie mais en Ukraine.",
+      "La Lituanie n'abrite pas la centrale de Tchernobyl."
+     ],
+     "src": {
+      "t": "Connaissance des Énergies – Tchernobyl (fiche pédagogique)",
+      "u": "https://www.connaissancedesenergies.org/node/285"
+     }
+    },
+    {
+     "id": "n20261105-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Adopté à Montréal le 16 septembre 1987 et entré en vigueur le 1er janvier 1989, le Protocole de Montréal porte sur :",
+     "o": [
+      "Les émissions de gaz à effet de serre des pays industrialisés",
+      "La protection des zones humides",
+      "Les substances qui appauvrissent la couche d'ozone",
+      "Les mouvements transfrontières de déchets dangereux"
+     ],
+     "a": 2,
+     "e": "Le Protocole de Montréal, adopté le 16 septembre 1987 et entré en vigueur le 1er janvier 1989, vise les substances qui appauvrissent la couche d'ozone.",
+     "ed": [
+      "Le Protocole de Montréal ne vise pas les gaz à effet de serre en tant que tels, mais les substances qui appauvrissent la couche d'ozone.",
+      "Le Protocole de Montréal ne porte pas sur les zones humides.",
+      null,
+      "Le Protocole de Montréal ne porte pas sur les déchets dangereux."
+     ],
+     "src": {
+      "t": "ECOLEX – Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone",
+      "u": "https://www.ecolex.org/fr/details/treaty/montreal-protocol-on-substances-that-deplete-the-ozone-layer-tre-000953/"
+     }
+    },
+    {
+     "id": "n20261105-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quelle convention, ouverte à la signature lors du Sommet de la Terre de Rio de Janeiro (juin 1992), est entrée en vigueur le 21 mars 1994 ?",
+     "o": [
+      "La Convention-cadre des Nations unies sur les changements climatiques",
+      "L'Accord de Paris",
+      "Le Protocole de Kyoto",
+      "La Convention de Ramsar"
+     ],
+     "a": 0,
+     "e": "La Convention-cadre des Nations unies sur les changements climatiques a été ouverte à la signature à Rio ; le 14 juin 1992, 154 États l'avaient signée. Elle est entrée en vigueur le 21 mars 1994.",
+     "ed": [
+      null,
+      "L'Accord de Paris n'a pas été ouvert à la signature au Sommet de Rio de 1992.",
+      "Le Protocole de Kyoto n'a pas été ouvert à la signature au Sommet de Rio de 1992.",
+      "La Convention de Ramsar, consacrée aux zones humides, n'est pas issue du Sommet de Rio de 1992."
+     ],
+     "src": {
+      "t": "Nations unies, Bibliothèque audiovisuelle de droit international – Convention-cadre des Nations unies sur les changements climatiques",
+      "u": "https://legal.un.org/avl/pdf/ha/ccc/ccc_ph_f.pdf"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261105pe05",
+     "niv": "pe05",
+     "m": "pes",
+     "titre": "Politique budgétaire et dette publique : déficit, dette, soutenabilité",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir et calculer le solde budgétaire, le solde primaire et le ratio d'endettement, et expliquer comment un déficit annuel alimente la dette.",
+      "= Vous saurez aussi expliquer l'effet « boule de neige », la notion de soutenabilité et les seuils de l'UEMOA, pour les mobiliser dans une dissertation de PES.",
+      "## Ce que demande l'épreuve",
+      "Les sujets de PES de l'ENA portent sur les politiques publiques ivoiriennes : le financement du développement, l'endettement, la marge de manœuvre de l'État. Un correcteur attend que vous maniiez sans erreur trois distinctions : le déficit (un écart sur une année) et la dette (le cumul des emprunts non remboursés) ; le solde global et le solde primaire ; le niveau de la dette et sa soutenabilité. En QCM, on vous demande un seuil (UEMOA ou zone euro) ou un petit calcul de ratio.",
+      "! Piège habituel : écrire que « la dette a baissé » parce que le déficit a baissé. Tant qu'il y a un déficit, l'État emprunte : la dette continue d'augmenter, seulement moins vite.",
+      "## La méthode, pas à pas",
+      "- 1. Posez les définitions dès l'introduction : déficit, dette, solde primaire.",
+      "- 2. Mesurez en pourcentage du PIB : un montant brut ne dit rien sans la richesse produite.",
+      "- 3. Comparez deux taux : le taux d'intérêt payé sur la dette (r) et le taux de croissance du PIB nominal (g).",
+      "- 4. Concluez sur la soutenabilité : la dette est-elle stabilisable, et à quel prix pour le budget ?",
+      "~ Exemple : « Un État a un PIB de 50 000 milliards et une dette de 30 000 milliards. » Ratio d'endettement : 30 000 / 50 000 = 0,6, soit 60 % du PIB, en dessous du plafond de 70 % retenu par l'UEMOA."
+     ],
+     "fond": [
+      "## Notion 1 : le déficit est un flux, la dette est un stock",
+      "Règle : si, au cours d'une année, les dépenses publiques sont supérieures aux recettes, il y a un déficit budgétaire ; les administrations publiques doivent alors emprunter pour le financer. La dette publique est la somme des emprunts contractés, année après année, et non encore remboursés (Banque de France).",
+      "Pourquoi cette distinction ? Le déficit se mesure sur une période, comme l'eau qui coule d'un robinet ; la dette se mesure à une date, comme l'eau accumulée dans la baignoire. Chaque déficit vient s'ajouter au stock.",
+      "~ Exemple résolu : dette au 1er janvier : 20 000 milliards ; déficit de l'année : 1 200 milliards. Si l'État finance tout le déficit par l'emprunt, la dette au 31 décembre vaut 20 000 + 1 200 = 21 200 milliards. Vérification : la dette n'aurait baissé que si le solde avait été excédentaire.",
+      "! Piège : un déficit qui passe de 5 % à 3 % du PIB reste un déficit. La dette continue de croître en montant.",
+      "## Notion 2 : solde global et solde primaire",
+      "Règle : le solde primaire est la différence entre recettes et dépenses hors paiement des intérêts de la dette (Banque de France). Le solde global, lui, inclut les intérêts.",
+      "Pourquoi deux soldes ? Les intérêts paient les dettes du passé. Le solde primaire montre si l'État couvre ses dépenses courantes et d'investissement avec ses recettes du moment ; c'est l'indicateur de l'effort budgétaire actuel.",
+      "~ Exemple résolu : recettes 10 000 ; dépenses hors intérêts 10 300 ; intérêts 400 (en milliards). Étape 1 : solde primaire = 10 000 − 10 300 = −300, soit un déficit primaire de 300. Étape 2 : solde global = 10 000 − (10 300 + 400) = −700. Vérification : l'écart entre les deux soldes (400) est bien égal aux intérêts.",
+      "? Recettes : 8 000 ; dépenses hors intérêts : 7 600 ; intérêts : 600 (en milliards). Calculez les deux soldes et commentez. || Solde primaire = 8 000 − 7 600 = +400 (excédent). Solde global = 8 000 − 8 200 = −200 (déficit). L'État dégage un excédent sur ses dépenses du moment, mais la charge des intérêts hérités le fait basculer en déficit.",
+      "## Notion 3 : l'effet « boule de neige »",
+      "Règle : si le taux d'intérêt payé sur la dette est supérieur au taux de croissance du PIB nominal, la part de la dette dans le PIB tend mécaniquement à augmenter : c'est l'effet « boule de neige » (Banque de France). À l'inverse, si le taux d'intérêt est plus faible que la croissance nominale, le ratio peut se stabiliser même avec un léger déficit primaire.",
+      "Pourquoi ? La dette grossit au rythme des intérêts ; le PIB, au rythme de la croissance. Si le numérateur grandit plus vite que le dénominateur, le ratio monte, même sans nouvelle dépense.",
+      "L'IFRAP formalise cet effet par l'expression (r − g)/(1 + g) × d, où d est le ratio de dette de l'année précédente, r le taux d'intérêt apparent et g la croissance nominale. Pour des taux faibles, on l'approche par (r − g) × d.",
+      "~ Exemple résolu : d = 50 % du PIB, r = 6 %, g = 4 %. Approximation : (0,06 − 0,04) × 50 = 1 point de PIB. Sans excédent primaire, le ratio passe d'environ 50 % à 51 % du PIB en un an.",
+      "? Avec d = 60 % du PIB, r = 5 % et g = 3 %, quel solde primaire faut-il, environ, pour stabiliser le ratio d'endettement ? || L'effet boule de neige vaut environ (0,05 − 0,03) × 60 = 1,2 point de PIB. Pour le compenser, il faut un excédent primaire d'environ 1,2 point de PIB. Lorsque r > g, le solde primaire stabilisant est un excédent.",
+      "## Notion 4 : la soutenabilité de la dette",
+      "Règle : il n'existe pas de seuil unique de non-soutenabilité ; la soutenabilité dépend de la situation économique du pays et de la qualité de ses dépenses publiques (Banque de France). Le Japon avait une dette de 249,7 % du PIB en 2023, quand la Grèce, avec 146 % du PIB en 2010, a connu une crise grave.",
+      "Pourquoi ? Ce qui compte n'est pas seulement le niveau, mais la capacité à payer les intérêts et à refinancer la dette sans perdre la confiance des prêteurs. Une accumulation non maîtrisée peut rendre les finances publiques insoutenables. Mais la dette peut aussi soutenir l'économie dans les périodes de faiblesse de l'activité ou financer des dépenses utiles pour l'avenir.",
+      "## Notion 5 : les règles budgétaires, UEMOA et zone euro",
+      "Règle : le pacte de convergence de l'UEMOA retient trois critères de premier rang : un déficit budgétaire limité à 3 % du PIB, une inflation inférieure ou égale à 3 % et un ratio dette/PIB inférieur ou égal à 70 %. Les critères de second rang portent sur la masse salariale (au plus 35 % des recettes fiscales) et la pression fiscale (au moins 20 %). L'Acte additionnel de 2015 fixait l'horizon de convergence à 2019. Le 27 avril 2020, face à la Covid-19, la Conférence des chefs d'État et de gouvernement a suspendu provisoirement le pacte, en invoquant l'article 22 de cet acte sur les circonstances exceptionnelles.",
+      "Dans l'Union européenne, les plafonds sont de 3 % du PIB pour le déficit public et de 60 % du PIB pour la dette publique (Banque de France).",
+      "Pourquoi des règles communes ? Dans une union monétaire, le laxisme budgétaire d'un État peut peser sur la monnaie commune de tous. Les critiques jugent toutefois ces seuils peu fondés économiquement.",
+      "? Un État de l'UEMOA a une dette de 66 % du PIB. Respecte-t-il le critère de l'UEMOA ? Respecterait-il celui de la zone euro ? || UEMOA : oui, 66 % est inférieur au plafond de 70 %. Zone euro : non, 66 % dépasse le plafond de 60 %. La même dette est jugée différemment selon la règle de l'union."
+     ],
+     "retenir": [
+      "Le déficit est l'excédent des dépenses sur les recettes d'une année ; la dette est la somme des emprunts passés non encore remboursés.",
+      "Tant qu'un déficit subsiste, la dette augmente en montant, même si le déficit diminue.",
+      "Le solde primaire est la différence entre recettes et dépenses hors paiement des intérêts de la dette.",
+      "Effet boule de neige : si le taux d'intérêt dépasse la croissance du PIB nominal, le ratio dette/PIB augmente mécaniquement.",
+      "Quand le taux d'intérêt dépasse la croissance nominale, un excédent primaire est nécessaire pour stabiliser le ratio d'endettement.",
+      "Critères de premier rang de l'UEMOA : déficit au plus 3 % du PIB, inflation au plus 3 %, dette au plus 70 % du PIB.",
+      "Dans l'Union européenne, les plafonds sont de 3 % du PIB pour le déficit et de 60 % du PIB pour la dette.",
+      "Il n'existe pas de seuil unique de non-soutenabilité : elle dépend de la situation économique et de la qualité des dépenses."
+     ],
+     "exo": {
+      "tag": "niv-pe05",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Banque de France – ABC de l'économie : La dette publique (juin 2025)",
+       "u": "https://www.banque-france.fr/system/files/2025-06/Eco-Bref_Dette-publique.%20DEFpdf.pdf"
+      },
+      {
+       "t": "Fondation IFRAP – L'effet « boule de neige » de la dette publique : formalisation, décomposition et enjeux de soutenabilité (juillet 2026)",
+       "u": "https://www.ifrap.org/budget-et-fiscalite/leffet-boule-de-neige-de-la-dette-publique-formalisation-decomposition-et-enjeux-de-soutenabilite"
+      },
+      {
+       "t": "Connectionivoirienne (repris du Soleil, Dakar) – Suspension du pacte de 3 % de déficit budgétaire dans l'UEMOA (7 mai 2020)",
+       "u": "https://connectionivoirienne.net/2020/05/07/suspension-du-pacte-de-3-de-deficit-budgetaire-dans-luemoa-une-decision-saluee-par-les-economistes/"
+      }
+     ]
+    },
+    {
+     "id": "L20261105pn03",
+     "niv": "pn03",
+     "m": "pen",
+     "titre": "L'organisation de l'administration pénitentiaire : direction, services, personnels",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez décrire l'administration pénitentiaire ivoirienne à deux étages : le niveau central, au ministère de la Justice et des Droits de l'Homme, et le niveau de l'établissement, avec ses sept composantes.",
+      "= Vous saurez aussi dire qui nomme chaque responsable, ce qui est interdit au personnel et qui contrôle les prisons, en citant les articles du décret n° 2023-239.",
+      "## Ce que demande l'épreuve",
+      "Le sujet d'organisation tombe sous deux formes. En question de cours, on vous demande « l'organisation d'un établissement pénitentiaire » ou « les obligations du personnel pénitentiaire » : il faut un plan clair et des articles exacts. En QCM, on vous interroge sur un détail : qui dirige le bureau socio-éducatif, qui nomme le chef d'établissement, à quelle fréquence le juge de l'application des peines visite la prison. Les candidats perdent des points en inventant des services ou en confondant les autorités de nomination.",
+      "! Piège habituel : croire que tout le personnel d'une prison est nommé par le ministre de la Justice. Les agents du service médical sont nommés par arrêté du ministre chargé de la Santé (article 25), et le commandant de compagnie est nommé par le chef d'établissement (article 20).",
+      "## La méthode, pas à pas",
+      "- 1. Partez du haut : le ministère et ses structures (direction centrale, délégations régionales, inspection).",
+      "- 2. Descendez à l'établissement : la direction, puis les six bureaux et services de l'article 13, chacun avec sa mission et son autorité de nomination.",
+      "- 3. Traitez le personnel : usage de la force, armes, interdictions de l'article 121, sanction de l'article 122.",
+      "- 4. Terminez par les contrôles : visites des magistrats (article 124) et des autres autorités (articles 123 et 126).",
+      "~ Exemple de mini-plan pour « Le chef d'établissement pénitentiaire » : I. Un responsable nommé et placé sous contrôle (articles 10 et 14) ; II. Un responsable aux pouvoirs étendus et à la responsabilité personnelle (articles 14, 15, 16 et 101)."
+     ],
+     "fond": [
+      "## Notion 1 : le niveau central, au sein du ministère de la Justice",
+      "Règle : l'administration pénitentiaire relève du ministère de la Justice et des Droits de l'Homme (MJDH). Le décret n° 2021-451 du 8 septembre 2021 portant organisation du MJDH prévoit, outre le Cabinet, des directions et services rattachés au Cabinet, des directions centrales et des services extérieurs. L'annuaire statistique du ministère cite parmi les directions centrales la Direction de l'Administration pénitentiaire (DAP) et, au niveau territorial, les Délégations régionales de l'Administration pénitentiaire (DRAP). L'Inspection générale des services judiciaires et pénitentiaires (IGSJP) contrôle à la fois les juridictions et les prisons.",
+      "Pourquoi ce rattachement à la Justice ? La détention exécute une décision de justice : mandat de dépôt ou condamnation. Il est logique que l'autorité qui fait exécuter les peines organise aussi les lieux où elles s'exécutent.",
+      "Le personnel est géré avec l'appui d'autres directions : la Direction des services judiciaires et des ressources humaines compte une sous-direction des professions judiciaires et du personnel pénitentiaire, et la Direction des affaires financières gère les baux administratifs du personnel pénitentiaire. Selon l'annuaire 2024-2025, le personnel pénitentiaire comptait 3 230 agents en 2025.",
+      "~ Exemple : un candidat écrit « la DAP relève du ministère de l'Intérieur ». C'est faux : la DAP est une direction centrale du ministère de la Justice et des Droits de l'Homme.",
+      "## Notion 2 : l'établissement, une direction et six bureaux (articles 10, 13 et 14)",
+      "Règle : chaque établissement pénitentiaire est dirigé par un chef d'établissement « sous l'autorité et le contrôle du procureur de la République » (article 10). Selon l'article 13, il comprend : 1° une direction ; 2° un bureau de sécurité ; 3° un bureau de la comptabilité ; 4° un bureau du greffe ; 5° un bureau des vivres et de la cuisine ; 6° un service médical ; 7° un bureau socio-éducatif.",
+      "Le chef est nommé parmi les administrateurs ou les attachés des établissements pénitentiaires, par arrêté du ministre de la Justice (article 14). Il est personnellement responsable de la sécurité, de la discipline intérieure, du traitement des détenus et de la formation du personnel ; il exerce ou provoque l'action disciplinaire envers le personnel. Un chef adjoint, nommé de la même façon, exerce les pouvoirs délégués et le supplée en cas d'empêchement.",
+      "Pourquoi le procureur ? Personne ne peut être détenu sans titre légal. Placer le chef sous le contrôle du parquet garantit que la prison reste au service de la loi.",
+      "Le chef rend compte : il adresse à la Chancellerie un compte rendu mensuel du fonctionnement, un état mensuel des prévenus et condamnés et un rapport annuel (article 15). En cas d'évasion, il avise le ministre de la Justice, le procureur de la République, la police et la gendarmerie (article 16).",
+      "? Un chef d'établissement est absent pour une mission de deux semaines. Qui dirige la prison ? || Le chef adjoint. L'article 14 prévoit qu'il exerce les pouvoirs que lui délègue le chef et le supplée en cas d'empêchement. Il est lui aussi nommé, parmi les administrateurs ou les attachés, par arrêté du ministre de la Justice.",
+      "## Notion 3 : les bureaux et services, qui fait quoi (articles 20 à 26)",
+      "- Bureau de sécurité (article 20) : veille à la sécurité des détenus, des installations et du périmètre ; il est dirigé par un commandant de compagnie, nommé par le chef d'établissement parmi les agents les plus élevés en grade.",
+      "- Bureau de la comptabilité (article 21) : prépare l'exécution du budget, gère l'équipement et achète vivres et non-vivres.",
+      "- Bureau du greffe (articles 22 et 23) : veille à la légalité et à la régularité de la mise en détention et suit la situation pénale des détenus jusqu'à leur libération ; les greffiers sont nommés par arrêté du ministre de la Justice.",
+      "- Bureau des vivres et de la cuisine (article 24) : gère le magasin de vivres, prépare et distribue les rations.",
+      "- Service médical (article 25) : assure les soins de santé et d'hygiène ; il est animé par des agents de santé nommés par arrêté du ministre chargé de la Santé.",
+      "- Bureau socio-éducatif (articles 26 à 28) : veille à la formation et à la réinsertion sociale des détenus ; il est dirigé par un travailleur social nommé par arrêté du ministre de la Justice, qui adresse chaque semestre un rapport au ministre.",
+      "Pourquoi le greffe est-il central ? C'est lui qui vérifie le titre de détention. Une erreur de greffe, c'est une personne gardée sans droit ou libérée trop tôt.",
+      "? Un détenu atteint de paludisme demande à voir « le médecin de la Justice ». Quel service est compétent et de quel ministère relèvent ses agents ? || Le service médical de l'établissement (article 25). Ses agents de santé sont nommés par arrêté du ministre chargé de la Santé, et non par le ministre de la Justice.",
+      "## Notion 4 : le personnel, entre force maîtrisée et interdictions (articles 102 à 105, 121 et 122)",
+      "Règle : le personnel ne peut utiliser la force qu'en cas de légitime défense, de tentative d'évasion ou de résistance par la violence ou par inertie physique aux ordres ; la force doit être proportionnelle et faire l'objet d'un rapport immédiat au chef (article 102). Il ne porte pas d'armes à feu en service normal dans l'enceinte, sauf autorisation du ministre de la Justice pour certaines missions à l'extérieur (article 103). Hors légitime défense, le tir est orienté vers les jambes (article 105).",
+      "L'article 121 interdit notamment au personnel les violences sur les détenus, le langage injurieux, la familiarité avec les détenus ou leurs proches, l'emploi des détenus à son service particulier, la réception de dons, prêts ou avantages, les commissions et le commerce pour leur compte, la transmission irrégulière de correspondance, l'influence sur leur défense et les relations intimes. Toute violation est une faute disciplinaire, sans préjudice de poursuites judiciaires (article 122).",
+      "Pourquoi ? Le détenu dépend entièrement de ceux qui le gardent. Ces interdictions empêchent l'abus de pouvoir et la corruption, qui ruinent la sécurité de l'établissement.",
+      "~ Exemple résolu : un agent achète du crédit téléphonique pour un détenu contre une commission. Étape 1 : se charger d'une commission et vendre pour un détenu est interdit (article 121, 6°). Étape 2 : recevoir un avantage l'est aussi (5°). Conclusion : faute disciplinaire (article 122), sans préjudice de poursuites.",
+      "## Notion 5 : les contrôles extérieurs (articles 123 à 126)",
+      "Règle : les membres du Parlement, du Conseil économique, social, culturel et environnemental et du Conseil national des droits de l'homme peuvent visiter les établissements à tout moment, dans le cadre de leur mandat ; les préfets et sous-préfets visitent ceux de leur circonscription (article 123). Les magistrats visitent les établissements de leur ressort : le juge de l'application des peines au moins deux fois par mois ; le juge d'instruction et le juge des enfants au moins une fois par mois ; le procureur de la République au moins une fois par trimestre ; le président de la chambre d'instruction au moins une fois par an (article 124). Ils peuvent ouvrir tous les locaux, s'entretenir avec tous les détenus et adressent un rapport au ministre (article 125). Les organisations de défense des droits de l'homme visitent sur autorisation du ministre de la Justice (article 126).",
+      "? Classez par fréquence décroissante les visites obligatoires : procureur, juge de l'application des peines, président de la chambre d'instruction, juge des enfants. || Juge de l'application des peines (au moins deux fois par mois), juge des enfants (au moins une fois par mois), procureur (au moins une fois par trimestre), président de la chambre d'instruction (au moins une fois par an), selon l'article 124."
+     ],
+     "retenir": [
+      "L'administration pénitentiaire relève du ministère de la Justice et des Droits de l'Homme ; sa direction centrale est la Direction de l'Administration pénitentiaire (DAP).",
+      "Chaque établissement est dirigé par un chef d'établissement, sous l'autorité et le contrôle du procureur de la République (article 10 du décret n° 2023-239).",
+      "Le chef d'établissement est nommé parmi les administrateurs ou attachés des établissements pénitentiaires, par arrêté du ministre de la Justice (article 14).",
+      "Un établissement comprend une direction, un bureau de sécurité, un bureau de la comptabilité, un greffe, un bureau des vivres, un service médical et un bureau socio-éducatif.",
+      "Le greffe veille à la légalité et à la régularité de la mise en détention et suit la situation pénale jusqu'à la libération (article 22).",
+      "Les agents du service médical sont nommés par arrêté du ministre chargé de la Santé (article 25).",
+      "Toute violation des interdictions de l'article 121 par le personnel constitue une faute disciplinaire, sans préjudice de poursuites judiciaires (article 122).",
+      "Le juge de l'application des peines visite chaque établissement de son ressort au moins deux fois par mois (article 124)."
+     ],
+     "exo": {
+      "tag": "niv-pn03",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "CIVLII (Laws.Africa) – Décret n° 2023-239 du 5 avril 2023 portant règlementation des établissements pénitentiaires et fixant les modalités d'exécution de la détention",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/decree/2023/239/fra@2025-03-28/source"
+      },
+      {
+       "t": "Ministère de la Justice et des Droits de l'Homme – Annuaire des statistiques judiciaires et pénitentiaires 2024-2025",
+       "u": "https://www.justice.ci/wp-content/uploads/2026/07/ANNUAIRE-ANNEE-JUDICIAIRE-2024-2025.pdf"
+      },
+      {
+       "t": "Ministère de la Justice et des Droits de l'Homme – Annuaire des statistiques judiciaires et pénitentiaires 2018-2019",
+       "u": "https://www.ceja.ch/images/CEJA/DOCS/Bib/Pays/cotedivoire/Annuaire_Statistiques_judiciaires_penitentiaires_Cote_Ivoire_2018-2019.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261105sf06",
+     "niv": "sf06",
+     "m": "sfp",
+     "titre": "Les obligations du fonctionnaire : servir, obéir, se taire, rester intègre",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez énoncer les sept articles (32 à 38) que la loi n° 2023-892 consacre aux obligations du fonctionnaire et dire, pour chacun, ce qu'il interdit ou impose.",
+      "= Vous saurez aussi distinguer le secret professionnel, la discrétion professionnelle et l'obligation de réserve, et résoudre un cas pratique de manquement.",
+      "## Ce que demande l'épreuve",
+      "Les obligations sont le pendant des droits étudiés au niveau précédent. En QCM, on vous demande qui peut délier un agent de la discrétion professionnelle, ce que l'agent doit déclarer quand son conjoint exerce une activité privée lucrative, ou quelle est la conséquence d'un manquement. En question de cours, on attend un plan clair : les obligations liées au service (servir, obéir, être responsable) et les obligations liées à la probité et à la parole (ne pas cumuler, ne pas prendre d'intérêts, ne rien recevoir, se taire). En cas pratique, il faut qualifier le comportement d'un agent, citer l'article violé et conclure à la faute disciplinaire (article 38).",
+      "! Piège habituel : confondre le secret professionnel, la discrétion professionnelle et la réserve. Les trois figurent dans le même article 35, mais ils ne protègent pas la même chose.",
+      "## La méthode, pas à pas",
+      "- 1. Décrivez le comportement en une phrase neutre : « l'agent a reçu un cadeau d'un usager ».",
+      "- 2. Rattachez-le à l'obligation en cause et à son article (ici, l'article 34 : ni solliciter ni recevoir des dons).",
+      "- 3. Vérifiez s'il existe une exception prévue par le texte : dérogation par décret en Conseil des ministres (article 32), dispositions légales contraires (article 35), décision expresse du Ministre (article 35).",
+      "- 4. Concluez : sans exception, le manquement constitue une faute disciplinaire (article 38).",
+      "~ Exemple : « Mme Koné, agent du Trésor, ouvre un cabinet de conseil fiscal payant le soir. » Obligation : article 32, interdiction d'exercer à titre professionnel une activité privée lucrative. Exception : seulement une dérogation par décret pris en Conseil des ministres. Sans elle, faute disciplinaire (article 38)."
+     ],
+     "fond": [
+      "## Notion 1 : servir l'État et lui consacrer son temps (article 32)",
+      "Règle : « Le fonctionnaire doit servir l'État avec loyauté, dignité, intégrité et dévouement. » Il doit consacrer l'intégralité de son temps de travail aux tâches qui lui sont confiées. Il ne peut exercer, à titre professionnel, une activité privée lucrative de quelque nature que ce soit, sauf dérogation accordée par décret pris en Conseil des ministres.",
+      "Pourquoi ? L'État rémunère l'agent pour un service complet. Si l'agent travaille à côté pour son compte, il divise son énergie et risque de faire passer ses clients avant les usagers. La dérogation existe, mais elle est exceptionnelle : elle exige un décret pris en Conseil des ministres, et non une simple autorisation du chef de service.",
+      "~ Exemple résolu : un professeur de lycée tient chaque soir, contre rémunération, un atelier de couture qu'il gère lui-même. Étape 1 : c'est une activité privée lucrative exercée à titre professionnel. Étape 2 : l'article 32 l'interdit. Étape 3 : aucune dérogation par décret n'est signalée. Conclusion : manquement à l'article 32.",
+      "! Piège : l'accord verbal du supérieur hiérarchique ne vaut pas dérogation. Seul un décret pris en Conseil des ministres peut l'accorder.",
+      "## Notion 2 : la probité, ne pas prendre d'intérêts et ne rien recevoir (articles 33 et 34)",
+      "Règle : le fonctionnaire ne peut prendre des intérêts, par lui-même ou par personne interposée, dans une entreprise soumise au contrôle de son Administration ou en relation avec elle (article 33). Lorsque son conjoint exerce à titre professionnel une activité privée lucrative, une déclaration doit en être faite à l'Administration ou au service dont relève le fonctionnaire ; l'autorité compétente prend, s'il y a lieu, des mesures propres à sauvegarder les intérêts de l'État.",
+      "Règle : le fonctionnaire ne peut solliciter ni recevoir, directement ou par personne interposée, dans l'exercice de ses fonctions ou en raison de celles-ci, des dons, des gratifications ou avantages quelconques (article 34).",
+      "Pourquoi ? Un agent qui possède des parts dans l'entreprise qu'il contrôle, ou qui reçoit un cadeau d'un usager, n'est plus impartial. La loi coupe le lien d'intérêt avant même toute corruption avérée : elle protège la confiance du public. La formule « par personne interposée » empêche de contourner l'interdiction en passant par un parent ou un ami.",
+      "~ Exemple : un inspecteur des transports fait acheter, au nom de son frère, des parts d'une compagnie de cars qu'il contrôle. Le recours au frère ne change rien : c'est une prise d'intérêts par personne interposée, interdite par l'article 33.",
+      "? Un agent des douanes refuse une enveloppe que lui tend un importateur, mais accepte qu'elle soit remise à son épouse. Est-il en règle ? || Non. L'article 34 interdit de recevoir des dons « directement ou par personne interposée ». L'épouse joue ici le rôle de personne interposée : le don est reçu en raison des fonctions de l'agent. C'est un manquement à l'article 34, donc une faute disciplinaire (article 38).",
+      "## Notion 3 : se taire à bon escient, secret, discrétion et réserve (article 35)",
+      "Règle : sauf dispositions légales contraires, le fonctionnaire est tenu au secret professionnel. Il doit faire preuve de discrétion professionnelle pour tous les faits, informations ou documents dont il a connaissance dans l'exercice ou à l'occasion de ses fonctions. En dehors des cas prévus par les textes, notamment l'accès à l'information d'intérêt public, il ne peut être délié de cette discrétion que par décision expresse du Ministre dont il relève. Il est également tenu à l'obligation de réserve.",
+      "Les trois notions se distinguent ainsi. Le secret professionnel est la règle la plus stricte : il ne cède que devant des « dispositions légales contraires ». La discrétion couvre tout ce que l'agent apprend au service, même sans caractère secret ; le Ministre peut l'en délier. La réserve vise la manière de s'exprimer : l'article 21 précise que l'expression des opinions ne peut avoir lieu qu'en dehors du service, « avec la réserve appropriée aux fonctions ».",
+      "Pourquoi ? L'usager confie à l'Administration des informations qu'il ne donnerait à personne d'autre. L'agent qui les divulgue trahit cette confiance et peut nuire à l'action publique.",
+      "Mais se taire n'est pas tout cacher : l'article 36 impose au fonctionnaire de satisfaire aux demandes d'information du public, dans le respect des règles de l'article 35.",
+      "? Une secrétaire de mairie publie sur un réseau social la liste des candidats retenus à un recrutement avant sa proclamation officielle. Quelle obligation viole-t-elle ? || La discrétion professionnelle (article 35) : la liste est une information connue à l'occasion de ses fonctions. Elle n'a pas été déliée par décision expresse du Ministre, et aucun texte ne l'autorisait. C'est une faute disciplinaire (article 38).",
+      "## Notion 4 : obéir et répondre de ses actes (article 37)",
+      "Règle : tout fonctionnaire, quel que soit son rang dans la hiérarchie, est responsable de l'exécution des tâches qui lui sont confiées. Il doit se conformer aux instructions de son supérieur hiérarchique. Il n'est dégagé d'aucune de ses responsabilités par la responsabilité propre de ses subordonnés.",
+      "Pourquoi ? L'Administration est une chaîne : chaque maillon doit exécuter les ordres pour que la décision publique soit appliquée partout de la même façon. Le chef reste responsable de ce qu'il a confié : il ne peut pas se cacher derrière l'erreur d'un collaborateur.",
+      "~ Exemple résolu : un directeur régional laisse un chef de bureau délivrer des attestations sans contrôle ; des faux circulent. Étape 1 : le chef de bureau est responsable de ses tâches. Étape 2 : le directeur n'est pas dégagé par la faute de son subordonné (article 37). Les deux peuvent répondre du manquement.",
+      "? Un agent affirme : « Je ne suis que chef de section, la responsabilité incombe au directeur. » Que lui répondez-vous ? || L'article 37 dit que tout fonctionnaire, « quel que soit son rang dans la hiérarchie administrative », est responsable de l'exécution des tâches qui lui sont confiées. Le rang modeste ne supprime pas la responsabilité.",
+      "## Notion 5 : la sanction du manquement (article 38)",
+      "Règle : le manquement à l'une des obligations de la section constitue une faute disciplinaire, sans préjudice d'autres manquements non énumérés dans la loi mais constitutifs de faute disciplinaire.",
+      "Pourquoi cette formule ouverte ? Le législateur ne peut pas tout prévoir. La liste des articles 32 à 37 n'est donc pas limitative : un comportement indigne non décrit peut aussi être une faute. Le régime des sanctions sera étudié au niveau consacré à la discipline."
+     ],
+     "retenir": [
+      "Article 32 : le fonctionnaire sert l'État avec loyauté, dignité, intégrité et dévouement, et consacre l'intégralité de son temps de travail à ses tâches.",
+      "Une activité privée lucrative exercée à titre professionnel est interdite, sauf dérogation accordée par décret pris en Conseil des ministres (article 32).",
+      "Si le conjoint exerce une activité privée lucrative, le fonctionnaire doit la déclarer à son Administration (article 33).",
+      "Le fonctionnaire ne peut ni solliciter ni recevoir, même par personne interposée, des dons, gratifications ou avantages liés à ses fonctions (article 34).",
+      "Seule une décision expresse du Ministre dont il relève peut délier le fonctionnaire de la discrétion professionnelle, hors cas prévus par les textes (article 35).",
+      "Le fonctionnaire doit satisfaire aux demandes d'information du public, dans le respect du secret et de la discrétion (article 36).",
+      "Quel que soit son rang, le fonctionnaire est responsable de ses tâches et n'est pas dégagé par la responsabilité de ses subordonnés (article 37).",
+      "Tout manquement aux obligations des articles 32 à 37 constitue une faute disciplinaire (article 38)."
+     ],
+     "exo": {
+      "tag": "niv-sf06",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+       "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+      },
+      {
+       "t": "Loidici – Le statut de la fonction publique (2023), loi n° 2023-892 du 23 novembre 2023",
+       "u": "https://loidici.biz/2024/01/06/le-statut-de-la-fonction-publique-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48649/naty/"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "pes",
+     "src": "original",
+     "ref": "Entraînement · 5 nov. 2026",
+     "t": "« S'endetter aujourd'hui, c'est appauvrir les générations de demain. » Discutez cette affirmation à la lumière de la situation des États de l'UEMOA.",
+     "plan": [
+      "Introduction : définir la dette publique (stock d'emprunts non remboursés) et le déficit (flux annuel) ; rappeler les seuils de l'UEMOA (déficit 3 % du PIB, dette 70 % du PIB) ; problématique : la dette est-elle une charge transmise ou un investissement transmis ?",
+      "I. Une charge réelle pour l'avenir : A. l'effet boule de neige quand le taux d'intérêt dépasse la croissance nominale ; B. la charge des intérêts qui réduit la marge budgétaire (écart entre solde primaire et solde global).",
+      "II. Un levier possible de développement : A. la dette peut soutenir l'activité en période de faiblesse et financer des dépenses utiles pour l'avenir (infrastructures, capital humain) ; B. la soutenabilité dépend moins du niveau que de la croissance et de la qualité de la dépense.",
+      "Conclusion : tout dépend de l'usage de l'emprunt et de l'écart entre taux d'intérêt et croissance ; ouverture sur la suspension du pacte de convergence en 2020 et sur la discipline budgétaire commune."
+     ]
+    }
+   ]
   }
  ]
 }
