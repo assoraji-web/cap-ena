@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "87f248b0 du 05/11/2026";
+const APP_VERSION = "ea4b9967 du 05/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1675,9 +1675,12 @@ if (!state.lastProc) state.lastProc = addDays(today(), -1);   // les séances ne
 function save(){ try { localStorage.setItem(KEY, JSON.stringify(state)); } catch(e){ toast("Impossible d'enregistrer : mémoire du téléphone pleine."); } }
 function allQ(){ return BANK.concat(state.custom.map(q=>Object.assign({src:"Mes annales"},q))); }
 
-const NIVEAUX = [[0,"Candidat inscrit"],[300,"Présélectionné"],[900,"Admissible"],[2000,"Admis"],[4000,"Élève fonctionnaire"],[7000,"Major de promotion"]];
+// Grade : palier de l'indice de préparation (programme acquis, qualité, assiduité, dossier), et non de l'XP.
+// L'XP mesure l'activité ; le grade doit refléter le niveau réellement atteint.
+const NIVEAUX = [[0,"Candidat inscrit"],[25,"Présélectionné"],[50,"Admissible"],[70,"Admis"],[85,"Élève fonctionnaire"],[95,"Major de promotion"]];
 function niveau(xp){ let cur=NIVEAUX[0], next=NIVEAUX[1]; for (let i=0;i<NIVEAUX.length;i++){ if (xp>=NIVEAUX[i][0]) { cur=NIVEAUX[i]; next=NIVEAUX[i+1]||null; } } return {cur, next}; }
-function addXP(n){ const b = niveau(state.xp).cur[1]; state.xp = Math.max(0, state.xp + n); const a = niveau(state.xp).cur[1]; if (a!==b) toast((n>0?"Nouveau grade : ":"Rétrogradé : ") + a); }
+function grade(ind){ return niveau((ind || indice()).total); }
+function addXP(n){ state.xp = Math.max(0, state.xp + n); }
 function markDay(){ const d = today(); state.days[d] = (state.days[d]||0) + 1; }
 function precision(){ let ok=0,n=0; for (const k in state.stats){ ok+=state.stats[k].ok; n+=state.stats[k].n; } return n ? Math.round(ok/n*100) : null; }
 
@@ -2675,7 +2678,10 @@ function renderNav(){
   const parent = PARENT[view] || view;
   for (const [k,l] of TABS) n.append(h("button",{type:"button","aria-current":parent===k?"page":null,onclick:()=>go(k)}, h("span",{class:"ic ic-"+k,"aria-hidden":"true"}), h("span",null,l)));
   $("#chipLevel").textContent = state.xp + " XP";
-  $("#chipStreak").textContent = "Indice " + indice().total;
+  const ind = indice(), g = grade(ind).cur[1];
+  $("#chipStreak").textContent = "Indice " + ind.total;
+  if (state.gradeVu && state.gradeVu !== g && state.onboarded){ const up = NIVEAUX.findIndex(x=>x[1]===g) > NIVEAUX.findIndex(x=>x[1]===state.gradeVu); toast((up ? "Nouveau grade : " : "Grade en baisse : ") + g); }
+  if (state.gradeVu !== g){ state.gradeVu = g; save(); }
 }
 function render(){
   if (document.body.classList.contains("locked")) return;
@@ -2762,7 +2768,7 @@ function startErreurs(){
 // ---------- Aujourd'hui ----------
 function vHome(){
   const td = today(), slots = slotsOn(td), m = nowMin();
-  const ind = indice(), due = dueMissed(), nv = niveau(state.xp);
+  const ind = indice(), due = dueMissed(), nv = grade(ind);
   const hr = new Date().getHours();
   const dp = dossierProgress();
   const p = state.profile;
@@ -3326,8 +3332,8 @@ function ttsControls(arr, key){
 
 // ---------- Profil ----------
 function vProfil(){
-  const p = state.profile, nv = niveau(state.xp), ind = indice();
-  const pct = nv.next ? Math.round((state.xp-nv.cur[0])/(nv.next[0]-nv.cur[0])*100) : 100;
+  const p = state.profile, ind = indice(), nv = grade(ind);
+  const pct = nv.next ? Math.round((ind.total-nv.cur[0])/(nv.next[0]-nv.cur[0])*100) : 100;
   const f = (k, label, type, ph)=>h("label",{class:"field"}, h("span",{class:"lbl"},label), h("input",{type:type||"text",value:p[k]||"",placeholder:ph||"",onchange:(ev)=>{ p[k]=ev.target.value.trim(); save(); render(); }}));
   const ms = PROGRAMME.map(t=>t.k).filter(k=>state.stats[k]);
   const rows = ms.map(k=>{ const st=state.stats[k]; const v = st.n?Math.round(st.ok/st.n*100):0; return h("div",{class:"mrow"}, h("span",null,kindLabel(k)), bar(v, v<50), h("span",null,v+" %")); });
@@ -3335,9 +3341,10 @@ function vProfil(){
     h("div",null,h("p",{class:"lbl"},"Candidat"),h("h1",null, ((p.nom||"") + " " + (p.prenoms||"")).trim() || "Mon profil")),
     card("stack", photoCard()),
     card("stack",
-      h("div",{class:"row spread"}, h("div",null,h("p",{class:"lbl"},"Grade"),h("h2",null,nv.cur[1])), h("b",{class:"big-n"}, state.xp + " XP")),
+      h("div",{class:"row spread"}, h("div",null,h("p",{class:"lbl"},"Grade"),h("h2",null,nv.cur[1])), h("b",{class:"big-n"}, "Indice " + ind.total)),
       bar(pct),
-      h("p",{class:"muted small"}, nv.next ? "Encore " + (nv.next[0]-state.xp) + " XP pour « " + nv.next[1] + " ». Bonne réponse en épreuve +10, niveau validé +60, copie +50, oral +30, présélection blanche +40. Séance manquée : −2 par minute ; sortie pendant une épreuve : −150." : "Grade maximal atteint.")),
+      h("p",{class:"muted small"}, (nv.next ? "Indice " + nv.next[0] + " pour « " + nv.next[1] + " » (encore " + (nv.next[0]-ind.total) + " points). " : "Grade maximal atteint. ") + "Le grade suit l'indice de préparation : programme acquis, qualité, assiduité et dossier."),
+      h("p",{class:"muted small"}, state.xp + " XP : l'XP mesure votre activité. Bonne réponse en épreuve +10, niveau validé +60, copie +50, oral +30, présélection blanche +40. Séance manquée : −2 par minute ; sortie pendant une épreuve : −150.")),
     card("stack",
       h("h2",null,"Indice de préparation : " + ind.total + " / 100"),
       h("div",{class:"mrow"}, h("span",null,"Programme validé"), bar(ind.parts.couverture/40*100), h("span",null, ind.parts.couverture + "/40")),
