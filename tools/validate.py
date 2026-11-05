@@ -19,6 +19,7 @@ def norm(s):
 errors, warns = [], []
 def err(where, msg): errors.append(f"{where} : {msg}")
 STANDARD = "2026-10-15"   # contenus publiés à partir de cette date : standard pédagogique renforcé (voir GENERATION.md)
+QMIN_DATE = "2026-11-06"   # à partir de cette date : 20 questions par nouveau niveau
 
 base = json.loads((C / "base.json").read_text(encoding="utf-8"))
 seen_q = {norm(t) for t in base.get("questions", [])}
@@ -94,7 +95,8 @@ for pk in index.get("packs", []):
                 niv_used.add(nv)
                 tg = (l.get("exo") or {}).get("tag")
                 nq = sum(1 for dd in data.get("days", []) for qq in dd.get("questions", []) if qq.get("tag") == tg)
-                if nq < 6 and not lrev: err(w, f"niveau {nv} : il faut au moins 6 questions avec le tag {tg} (trouvées : {nq})")
+                qmin = 20 if d >= QMIN_DATE else 6
+                if nq < qmin and not lrev: err(w, f"niveau {nv} : il faut au moins {qmin} questions avec le tag {tg} (trouvées : {nq})")
             if d >= STANDARD:
                 wc = lambda arr: len(" ".join(x for x in (arr or []) if isinstance(x, str)).split())
                 tech, fond, ret = l.get("tech") or [], l.get("fond") or [], l.get("retenir") or []
@@ -156,6 +158,15 @@ if vp.exists():
         err("veille.json", f"JSON invalide : {e}")
 
 for x in warns: print("Avertissement :", x)
+ai = C / "annales_index.json"
+if ai.exists():
+    try:
+        A = json.loads(ai.read_text(encoding="utf-8"))
+        for i, t in enumerate(A.get("traites", [])):
+            if not isinstance(t, dict) or not t.get("fichier") or not re.match(r"^\d{4}-\d{2}-\d{2}$", str(t.get("date",""))):
+                err(f"annales_index.json #{i}", "entrée invalide (fichier, date AAAA-MM-JJ, resultat)")
+    except Exception as e:
+        err("annales_index.json", f"JSON illisible : {e}")
 if errors:
     print(f"ÉCHEC : {len(errors)} erreur(s)")
     for e in errors: print(" -", e)

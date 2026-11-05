@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "579c1aee du 03/11/2026";
+const APP_VERSION = "87f248b0 du 05/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1529,7 +1529,7 @@ function toast(msg){ const t=$("#toast"); t.textContent=msg; t.hidden=false; cle
 const TRACKS = Object.fromEntries(PROGRAMME.map(t=>[t.k,t]));
 const LEVELS = []; const LVMAP = {};
 PROGRAMME.forEach(t=>t.levels.forEach((L,i)=>{ const lv={id:L[0],t:L[1],obj:L[2],lesson:L[3]||null,track:t.k,idx:i,last:i===t.levels.length-1}; LEVELS.push(lv); LVMAP[lv.id]=lv; }));
-const SLOT_KINDS = { blanc:{court:"Présélection blanche", label:"Présélection blanche (45 questions, 45 min)"}, revision:{court:"Rattrapages et révision", label:"Rattrapages, puis révision des erreurs"}, ecrit:{court:"Écrit en conditions", label:"Copie complète en conditions d'examen"} };
+const SLOT_KINDS = { blanc:{court:"Présélection blanche", label:"Présélection blanche (45 questions, 45 min)"}, revision:{court:"Rattrapages et révision", label:"Rattrapages, puis révision des erreurs"}, ecrit:{court:"Écrit en conditions", label:"Copie complète en conditions d'examen"}, "rot-ecrit":{court:"Matières écrites (en alternance)", label:"Une matière écrite par semaine, à tour de rôle"} };
 const kindLabel = (k)=> TRACKS[k] ? TRACKS[k].court : (SLOT_KINDS[k] ? SLOT_KINDS[k].court : k);
 const METHOD_LEVEL = {sog:"so02", pes:"pe01", ct:"ct01", dc:"dc02", da:"da02", ns:"ns01", oj:"oj01", denf:"de01", sfp:"sf01", opaj:"op01", pen:"pn01", dciv:"dv01", cmc:"cm01", redac:"rd01", mop:"mp01", dpen:"dp01", ecm:"ec01"};
 const CMAP = Object.fromEntries(CONCOURS.map(c=>[c.id,c]));
@@ -1627,22 +1627,23 @@ function reportUrl(it){
 const KEY = "capena.v3";
 const DEFAULT_PLANNING = [
   {id:"lun-m", jour:1, debut:"12:30", fin:"13:00", k:"fr"},
-  {id:"lun-s", jour:1, debut:"21:00", fin:"22:00", k:"pes"},
-  {id:"mar-m", jour:2, debut:"12:30", fin:"13:00", k:"ang"},
-  {id:"mar-s", jour:2, debut:"21:00", fin:"22:00", k:"dc"},
-  {id:"mer-m", jour:3, debut:"12:30", fin:"13:00", k:"cg"},
-  {id:"mer-s", jour:3, debut:"21:00", fin:"22:00", k:"da"},
-  {id:"jeu-m", jour:4, debut:"12:30", fin:"13:00", k:"log"},
-  {id:"jeu-s", jour:4, debut:"21:00", fin:"22:00", k:"ct"},
+  {id:"lun-s", jour:1, debut:"21:00", fin:"22:00", k:"ang"},
+  {id:"mar-m", jour:2, debut:"12:30", fin:"13:00", k:"cg"},
+  {id:"mar-s", jour:2, debut:"21:00", fin:"22:00", k:"log"},
+  {id:"mer-m", jour:3, debut:"12:30", fin:"13:00", k:"fr"},
+  {id:"mer-s", jour:3, debut:"21:00", fin:"22:00", k:"ang"},
+  {id:"jeu-m", jour:4, debut:"12:30", fin:"13:00", k:"cg"},
+  {id:"jeu-s", jour:4, debut:"21:00", fin:"22:00", k:"log"},
   {id:"ven-m", jour:5, debut:"12:30", fin:"13:00", k:"fr"},
   {id:"ven-s", jour:5, debut:"21:00", fin:"22:00", k:"revision"},
-  {id:"sam-m", jour:6, debut:"08:00", fin:"10:00", k:"sog"},
+  // week-end : les matières écrites, de 10 h à 12 h
+  {id:"sam-m", jour:6, debut:"10:00", fin:"12:00", k:"rot-ecrit"},
   {id:"sam-a", jour:6, debut:"16:00", fin:"17:30", k:"blanc"},
-  {id:"dim-m", jour:0, debut:"08:00", fin:"10:00", k:"ecrit"},
+  {id:"dim-m", jour:0, debut:"10:00", fin:"12:00", k:"ecrit"},
   {id:"dim-a", jour:0, debut:"17:00", fin:"18:00", k:"oral"}
 ];
 const defaults = ()=>({v:3, xp:0, stats:{}, wrong:{}, seen:{}, lv:{}, valHist:[], copies:[], oral:0, custom:[], cycle:"CMS",
-  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null, interrupt:null, jokers:[], urgences:[], veilleSeen:null, concours:["ena-cms"], concoursPrin:"ena-cms", ttsRate:1, dossierInfj:{}, catSel:{}, dossierFp:{}, rev:{}, mentors:[], questions:[], ecritMode:"clavier", onboarded:false,
+  planning: DEFAULT_PLANNING.map(s=>Object.assign({},s)), done:{}, missed:[], lastProc:null, sanctions:[], exam:null, blockUntil:0, pendingSanction:null, interrupt:null, jokers:[], urgences:[], veilleSeen:null, concours:["ena-cms"], concoursPrin:"ena-cms", ttsRate:1, dossierInfj:{}, catSel:{}, dossierFp:{}, rev:{}, mentors:[], questions:[], annales:[], ecritMode:"clavier", onboarded:false,
   profile:{nom:"", prenoms:"", naissance:"", niv:"", domaine:"", statutAdm:"", grade:"", anciennete:"", ville:"", email:""}, dossier:{}, days:{}, created:today(), tuto3:null, blancs:0});
 let state = defaults();
 (function load(){
@@ -1731,11 +1732,25 @@ function trackPool(k, withCurrent){
 }
 
 // ---------- Emploi du temps et séances ----------
-const slotsOn = (date)=>{ const wd = parseYmd(date).getDay(); return state.planning.filter(s=>s.jour===wd).sort((a,b)=>toMin(a.debut)-toMin(b.debut)); };
+// Créneau « matières écrites en alternance » : une matière écrite différente chaque semaine (résumé, SOG, puis les autres)
+const ROT = "rot-ecrit";
+const isEcritTrack = (k)=> !!(TRACKS[k] && TRACKS[k].ecrit && EPREUVES[TRACKS[k].ecrit]);
+function rotTracks(){
+  const pri = ["ct","sog"], rk = (k)=> pri.includes(k) ? pri.indexOf(k) : 9, pk = (k)=> PROGRAMME.findIndex(t=>t.k===k);
+  const all = activeTracks().filter(isEcritTrack).sort((a,b)=>rk(a)-rk(b) || pk(a)-pk(b));
+  const open = all.filter(k=>currentLevel(k));
+  return open.length ? open : all;
+}
+function rotTrack(date){
+  const l = rotTracks(); if (!l.length) return "revision";
+  const w = Math.floor(Math.round((parseYmd(date) - parseYmd("2026-11-02"))/86400000)/7);   // semaines comptées à partir du lundi 2 novembre 2026 (résumé en premier)
+  return l[((w % l.length) + l.length) % l.length];
+}
+const slotsOn = (date)=>{ const wd = parseYmd(date).getDay(); return state.planning.filter(s=>s.jour===wd).map(s=>s.k===ROT ? Object.assign({}, s, {k:rotTrack(date), rot:true}) : s).sort((a,b)=>toMin(a.debut)-toMin(b.debut)); };
 const slotMin = (s)=> Math.max(0, toMin(s.fin)-toMin(s.debut));
 const doneOn = (date)=> state.done[date] || [];
 function slotDone(date, s){ return doneOn(date).includes(s.id); }
-function slotLabel(s){ return kindLabel(s.k); }
+function slotLabel(s){ return kindLabel(s.k) + (s.rot ? " (écrit de la semaine)" : ""); }
 function slotDetail(s){
   if (TRACKS[s.k]){ const cur = currentLevel(s.k); if (!cur) return "Matière terminée : révision"; return (levelStatus(cur)==="prep" ? "Révision (niveau suivant en préparation)" : "Niveau " + (cur.idx+1) + " : " + cur.t); }
   return SLOT_KINDS[s.k] ? SLOT_KINDS[s.k].label : "";
@@ -2546,9 +2561,115 @@ function corrCard(c, x){
 }
 
 
+// ---------- Anciens sujets : dépôt de fichiers (images, PDF, Word) ----------
+// Les fichiers restent dans l'appareil (IndexedDB). Pour enrichir les cours, ils sont partagés vers le dossier
+// Google Drive de mise à jour, que la production de nuit lit : elle transcrit les énoncés, les ajoute à la banque
+// de sujets et s'en sert pour les leçons et les exercices. content/annales_index.json liste les fichiers traités.
+const ANN_DRIVE = "https://drive.google.com/drive/folders/14fMAuS7_sm3onbo5agp_MZThDgsqni-l";
+const ANN_MAX = 25 * 1024 * 1024;
+const ANN_ACCEPT = "image/*,.pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document";
+let ANN_INDEX = null;
+function annDb(){ return new Promise((res, rej)=>{ const r = indexedDB.open("capena-annales", 1); r.onupgradeneeded = ()=>r.result.createObjectStore("files"); r.onsuccess = ()=>res(r.result); r.onerror = ()=>rej(r.error); }); }
+async function annPut(id, blob){ const db = await annDb(); return new Promise((res, rej)=>{ const t = db.transaction("files","readwrite"); t.objectStore("files").put(blob, id); t.oncomplete = ()=>res(true); t.onerror = ()=>rej(t.error); }); }
+async function annGet(id){ try { const db = await annDb(); return await new Promise((res)=>{ const r = db.transaction("files").objectStore("files").get(id); r.onsuccess = ()=>res(r.result || null); r.onerror = ()=>res(null); }); } catch(e){ return null; } }
+async function annDel(id){ try { const db = await annDb(); await new Promise((res)=>{ const t = db.transaction("files","readwrite"); t.objectStore("files").delete(id); t.oncomplete = res; t.onerror = res; }); } catch(e){} }
+async function annLoadIndex(){
+  if (ANN_INDEX) return ANN_INDEX;
+  try { ANN_INDEX = await fetch("content/annales_index.json", {cache:"no-cache"}).then(r=>{ if (!r.ok) throw 0; return r.json(); }); } catch(e){ ANN_INDEX = {traites:[]}; }
+  return ANN_INDEX;
+}
+const annSlug = (s)=> String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^A-Za-z0-9.]+/g,"-").replace(/^-+|-+$/g,"");
+// Nom du fichier envoyé : il porte le concours, l'année et l'épreuve, que la production de nuit relit
+function annNom(a){ const c = concoursById(a.concours); return [annSlug(c ? (c.court||c.nom) : "concours"), a.annee || "annee-inconnue", a.epreuve || "epreuve-inconnue", annSlug(a.name)].join("_"); }
+function annTraite(a){ const l = (ANN_INDEX && ANN_INDEX.traites) || []; return l.find(x=>x.fichier === annNom(a)) || null; }
+async function annAjouter(files, meta){
+  state.annales = state.annales || [];
+  let n = 0;
+  for (const f of files){
+    if (f.size > ANN_MAX){ toast("« " + f.name + " » dépasse 25 Mo : non ajouté."); continue; }
+    const id = "a" + Date.now().toString(36) + Math.random().toString(36).slice(2,6);
+    try { await annPut(id, f); } catch(e){ toast("Mémoire du téléphone insuffisante pour « " + f.name + " »."); continue; }
+    state.annales.push(Object.assign({id, name:f.name, type:f.type || "", size:f.size, added:today(), envoye:null}, meta));
+    n++;
+  }
+  save(); if (n) toast(n + " fichier" + (n>1?"s":"") + " ajouté" + (n>1?"s":"") + ".");
+  render();
+}
+async function annEnvoyer(list){
+  const files = [];
+  for (const a of list){ const b = await annGet(a.id); if (b) files.push(new File([b], annNom(a), {type: a.type || b.type || "application/octet-stream"})); }
+  if (!files.length) return toast("Fichiers introuvables sur cet appareil.");
+  if (navigator.canShare && navigator.canShare({files})){
+    try {
+      await navigator.share({files, title:"Anciens sujets Cap ENA", text:"À enregistrer dans le dossier Google Drive « Cap ENA - Anciens sujets »."});
+      for (const a of list) a.envoye = today(); save(); render();
+      toast("Choisissez Google Drive, puis le dossier « Cap ENA - Anciens sujets ».");
+    } catch(e){ if (e && e.name !== "AbortError") toast("Partage impossible : utilisez « Ouvrir le dossier Drive »."); }
+    return;
+  }
+  // ordinateur sans partage de fichiers : téléchargement, puis dépôt dans le dossier Drive
+  for (const f of files){ const u = URL.createObjectURL(f); const x = h("a",{href:u,download:f.name}); document.body.append(x); x.click(); x.remove(); setTimeout(()=>URL.revokeObjectURL(u), 4000); }
+  for (const a of list) a.envoye = today(); save(); render();
+  window.open(ANN_DRIVE, "_blank", "noopener");
+  toast("Fichiers téléchargés : glissez-les dans le dossier Drive qui vient de s'ouvrir.");
+}
+async function annOuvrir(a){ const b = await annGet(a.id); if (!b) return toast("Fichier introuvable sur cet appareil."); const u = URL.createObjectURL(b); window.open(u, "_blank", "noopener"); setTimeout(()=>URL.revokeObjectURL(u), 60000); }
+function annStats(){ const l = state.annales || []; return {n:l.length, env:l.filter(a=>a.envoye).length, ok:l.filter(a=>annTraite(a)).length}; }
+function annalesCard(){
+  const s = annStats();
+  return card("stack", h("h2",null,"Anciens sujets"),
+    h("p",{class:"muted small"}, s.n ? s.n + " fichier" + (s.n>1?"s":"") + " déposé" + (s.n>1?"s":"") + " · " + s.env + " envoyé" + (s.env>1?"s":"") + " pour la mise à jour · " + s.ok + " intégré" + (s.ok>1?"s":"") + " aux cours." : "Déposez vos anciens sujets (photos, PDF, Word) : ils serviront à enrichir les cours, les exercices et la banque de sujets d'écrit."),
+    h("button",{class:"btn",type:"button",onclick:()=>go("annales")},"Mes anciens sujets"));
+}
+function vAnnales(){
+  state.annales = state.annales || [];
+  annLoadIndex().then(()=>{ if (view === "annales" && !vAnnales.ok){ vAnnales.ok = true; render(); } });
+  const tracks = PROGRAMME.filter(t=>activeTracks().includes(t.k));
+  const fAnnee = h("input",{type:"number",min:"1990",max:"2030",placeholder:"Année (ex. 2019)",class:"fld"});
+  const fEp = h("select",{class:"fld","aria-label":"Épreuve"}, h("option",{value:""},"Épreuve : plusieurs ou non précisée"), tracks.map(t=>h("option",{value:t.k}, t.court)));
+  const fCo = h("select",{class:"fld","aria-label":"Concours"}, myConcours().map(c=>h("option",{value:c.id}, c.court || c.nom)), h("option",{value:""},"Autre concours"));
+  const fFile = h("input",{type:"file",multiple:true,accept:ANN_ACCEPT,class:"fld"});
+  const list = state.annales.slice().reverse();
+  const aEnvoyer = state.annales.filter(a=>!a.envoye);
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Entraînement"), h("h1",null,"Mes anciens sujets")),
+    card("stack",
+      h("h2",null,"Ajouter des fichiers"),
+      h("p",{class:"muted small"},"Photos, PDF ou Word (25 Mo au plus par fichier). Indiquez l'année et l'épreuve : elles aident à classer le sujet. Les fichiers restent dans cet appareil tant que vous ne les envoyez pas."),
+      h("div",{class:"grid2"}, fAnnee, fEp), fCo, fFile,
+      h("button",{class:"btn primary",type:"button",onclick:()=>{ const fs = [...(fFile.files||[])]; if (!fs.length) return toast("Choisissez au moins un fichier."); annAjouter(fs, {annee:(fAnnee.value||"").trim(), epreuve:fEp.value, concours:fCo.value}); }},"Ajouter")),
+    card("stack tight soft",
+      h("h2",null,"Comment vos sujets enrichissent l'appli"),
+      h("ul",{class:"pts small"},
+        h("li",null,"1. Touchez « Envoyer pour la mise à jour » puis choisissez Google Drive et le dossier « Cap ENA - Anciens sujets » (sur ordinateur, les fichiers se téléchargent et le dossier s'ouvre : glissez-les dedans)."),
+        h("li",null,"2. Chaque nuit, la mise à jour lit les nouveaux fichiers, transcrit les énoncés et les ajoute à la banque de sujets d'écrit, avec un plan corrigé rédigé pour l'appli."),
+        h("li",null,"3. Elle repère les thèmes et les types de questions qui reviennent, puis renforce les leçons et les exercices des niveaux concernés."),
+        h("li",null,"4. Un fichier traité apparaît ici comme « Intégré ».")),
+      h("p",{class:"muted small"},"Le dossier Drive appartient au compte de l'administrateur de l'appli. Les corrigés rédigés par des centres de préparation ne sont pas recopiés : seuls les énoncés officiels sont repris."),
+      h("div",{class:"row"},
+        h("button",{class:"btn primary",type:"button",disabled:!aEnvoyer.length||null,onclick:()=>annEnvoyer(aEnvoyer)}, aEnvoyer.length ? "Envoyer pour la mise à jour (" + aEnvoyer.length + ")" : "Tout est envoyé"),
+        h("a",{class:"btn ghost",href:ANN_DRIVE,target:"_blank",rel:"noopener"},"Ouvrir le dossier Drive"))),
+    list.length ? card("stack", h("h2",null, list.length + " fichier" + (list.length>1?"s":"")),
+      h("div",{class:"list"}, list.map(a=>{
+        const t = annTraite(a), c = concoursById(a.concours);
+        const st = t ? ["Intégré","ok"] : a.envoye ? ["Envoyé, en attente","cur"] : ["Pas encore envoyé",""];
+        return h("div",{class:"item"},
+          h("span",{class:"grow"}, h("b",null, a.name),
+            h("span",{class:"muted small block"}, [c ? (c.court||c.nom) : null, a.annee || null, a.epreuve && TRACKS[a.epreuve] ? TRACKS[a.epreuve].court : null, Math.max(1, Math.round(a.size/1024)) + " Ko"].filter(Boolean).join(" · ")),
+            h("span",{class:"pill " + st[1]}, st[0]),
+            t && t.resultat ? h("span",{class:"muted small block"}, t.resultat) : null),
+          h("button",{class:"link",type:"button",onclick:()=>annOuvrir(a)},"Ouvrir"),
+          a.envoye && !t ? h("button",{class:"link",type:"button",onclick:()=>annEnvoyer([a])},"Renvoyer") : null,
+          h("button",{class:"link",type:"button",onclick:async()=>{ await annDel(a.id); state.annales = state.annales.filter(x=>x.id!==a.id); save(); render(); }},"Retirer"));
+      }))) : null,
+    h("p",{class:"note"},"Les fichiers ne font pas partie de la sauvegarde envoyée vers un autre appareil : seule leur liste y figure. Gardez vos originaux.")
+  );
+}
+
+
 // ---------- Rendu ----------
 const TABS = [["home","Aujourd'hui"],["parcours","Parcours"],["train","Entraînement"],["candidature","Candidature"],["profil","Profil"]];
-const PARENT = {copies:"train", copie:"train", mentors:"train", question:"train", questions:"train", fiches:"train", concours:"parcours", quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
+const PARENT = {annales:"train", copies:"train", copie:"train", mentors:"train", question:"train", questions:"train", fiches:"train", concours:"parcours", quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
 function renderNav(){
   const n = $("#nav"); n.replaceChildren();
   const parent = PARENT[view] || view;
@@ -2566,7 +2687,7 @@ function render(){
   const lo = $("#logoutBtn"); if (lo) lo.onclick = logout;
   if (canGoBack() && !(view==="quiz" && quiz && !quiz.done) && !(view==="ecrit" && ecrit && ecrit.phase==="write")) v.append(h("button",{class:"backbtn",type:"button",onclick:backClick}, "← Retour"));
   const fn = {home:vHome, parcours:vParcours, track:vTrack, lesson:vLesson, quiz:vQuiz, train:vTrain, ecrit:vEcrit, oral:vOral, conditions:vConditions,
-    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, concours:vConcours, fiches:vFiches, copies:vCopies, copie:vCopie, mentors:vMentors, question:vQuestion, questions:vQuestions, interruption:vInterruption, urgence:vUrgence}[view] || vHome;
+    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, concours:vConcours, fiches:vFiches, copies:vCopies, copie:vCopie, mentors:vMentors, question:vQuestion, questions:vQuestions, interruption:vInterruption, annales:vAnnales, urgence:vUrgence}[view] || vHome;
   v.append(fn());
 }
 const card = (cls, ...kids)=>h("section",{class:"card "+(cls||"")}, ...kids);
@@ -2592,8 +2713,8 @@ function blocks(arr){
   return out;
 }
 const bar = (pct, warn)=>h("div",{class:"bar"+(warn?" o":"")}, h("i",{style:"width:"+Math.max(0,Math.min(100,pct))+"%"}));
-const trackOrder = ()=>{ const act = activeTracks(); const seen = []; for (const d of [1,2,3,4,5,6,0]) for (const s of state.planning.filter(x=>x.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut))) if (TRACKS[s.k] && act.includes(s.k) && !seen.includes(s.k)) seen.push(s.k); for (const t of PROGRAMME) if (act.includes(t.k) && !seen.includes(t.k)) seen.push(t.k); return seen; };
-const slotless = ()=>{ const inPlan = new Set(state.planning.map(s=>s.k)); return activeTracks().filter(k=>!inPlan.has(k)); };
+const trackOrder = ()=>{ const act = activeTracks(); const seen = []; for (const d of [1,2,3,4,5,6,0]) for (const s of state.planning.filter(x=>x.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut))) { for (const k of (s.k===ROT ? rotTracks() : [s.k])) if (TRACKS[k] && act.includes(k) && !seen.includes(k)) seen.push(k); } for (const t of PROGRAMME) if (act.includes(t.k) && !seen.includes(t.k)) seen.push(t.k); return seen; };
+const slotless = ()=>{ const inPlan = new Set(state.planning.flatMap(s=>s.k===ROT ? activeTracks().filter(isEcritTrack) : [s.k])); return activeTracks().filter(k=>!inPlan.has(k)); };
 
 // ---------- Démarrer une séance ----------
 function runSlot(s){
@@ -2656,6 +2777,7 @@ function vHome(){
     (()=>{ const redo = LEVELS.filter(lv=>lvState(lv.id).ecritRedo && activeTracks().includes(lv.track)); return redo.length ? card("stack warnc", h("h2",null, redo.length + " écrit(s) à refaire"), h("p",{class:"small"},"Un correcteur a jugé insuffisante une copie qui avait validé un niveau. Refaites l'écrit, puis faites-le corriger."), h("button",{class:"btn accent",type:"button",onclick:()=>go("copies")},"Voir")) : null; })(),
     profilComplet() ? null : card("stack tight soft", h("h2",null,"Complétez votre profil"), h("p",{class:"small"},"Indiquez votre diplôme le plus élevé et votre situation (fonctionnaire ou non) : l'appli vous montrera tous les concours auxquels vous pouvez vous présenter, du BEPC au doctorat."), h("button",{class:"btn primary",type:"button",onclick:()=>go("concours")},"Compléter et voir mes concours")),
     veilleBanner(),
+    planV2Card(),
     echBanner(),
     due.length ? card("warnc stack",
       h("h2",null, due.length + " séance" + (due.length>1?"s":"") + " à rattraper"),
@@ -3053,6 +3175,7 @@ function vTrain(){
     h("div",null,h("p",{class:"lbl"},"En plus du parcours"),h("h1",null,"Entraînement")),
     card("stack", h("h2",null,"Présélection blanche"), h("p",{class:"muted small"},"45 questions en 45 minutes, barème officiel, conditions d'examen. Questions tirées des niveaux débloqués (" + pre + " disponibles)."),
       h("button",{class:"btn accent",type:"button",disabled:pre<30,onclick:()=>startBlanc()}, pre<30 ? "S'ouvre à 30 questions débloquées" : "Lancer la présélection blanche")),
+    annalesCard(),
     card("stack", h("h2",null,"Mes copies et corrections"), h("p",{class:"muted small"}, (()=>{ const cs = state.copies||[]; const corr = cs.filter(c=>humanCorr(c).length).length, att = cs.filter(c=>c.sent && !humanCorr(c).length).length; return cs.length + " copie(s) · " + corr + " corrigée(s) par un correcteur · " + att + " en attente"; })()),
       h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>go("copies")},"Mes copies"), h("button",{class:"btn",type:"button",onclick:()=>askQuestion(null)},"Poser une question"), h("button",{class:"btn ghost",type:"button",onclick:()=>go("mentors")},"Mes correcteurs"))),
     card("stack", h("h2",null,"Rappels espacés et fiches"), h("p",{class:"muted small"}, (()=>{ const m = memStats(); return m.dus + " niveau(x) à rappeler aujourd'hui · " + m.ancres + "/" + m.valides + " niveaux ancrés" + (m.taux != null ? " · " + m.taux + " % de rappels réussis (90 j)" : ""); })()),
@@ -3275,7 +3398,7 @@ function download(name, text, type){ const a = document.createElement("a"); a.hr
 
 // ---------- Emploi du temps modifiable ----------
 let planDraft = null;
-const KIND_OPTIONS = ()=>[...PROGRAMME.map(t=>[t.k, t.court]), ["blanc","Présélection blanche"], ["revision","Rattrapages et révision"], ["ecrit","Écrit en conditions"]];
+const KIND_OPTIONS = ()=>[...PROGRAMME.map(t=>[t.k, t.court]), ["blanc","Présélection blanche"], ["revision","Rattrapages et révision"], ["ecrit","Écrit en conditions"], ["rot-ecrit","Matières écrites (une par semaine, en alternance)"]];
 function vPlanning(){
   if (!planDraft) planDraft = state.planning.map(s=>Object.assign({},s));
   const rows = [1,2,3,4,5,6,0].flatMap(d=>planDraft.filter(s=>s.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut)));
@@ -3370,6 +3493,26 @@ function photoCard(){
       h("span",{class:"muted small"},"Galerie ou appareil photo. La photo reste dans le téléphone.")));
 }
 
+// ---------- Nouvel emploi du temps (écrits le week-end de 10 h à 12 h), proposé une fois aux utilisateurs existants ----------
+function planV2Card(){
+  if (state.planV2 || !state.onboarded) return null;
+  const decide = (apply)=>{
+    if (apply){ processMissed(); state.planning = buildPlanning(); toast("Nouvel emploi du temps appliqué. Mettez à jour vos rappels."); }
+    state.planV2 = apply ? "ok" : "non"; save(); render();
+  };
+  return card("feature stack tight",
+    h("h2",null,"Nouvel emploi du temps : les écrits le week-end"),
+    h("ul",{class:"pts small"},
+      h("li",null,"Samedi de 10 h à 12 h : une matière écrite par semaine, à tour de rôle (résumé de texte, puis SOG, puis les autres épreuves écrites de vos concours)."),
+      h("li",null,"Dimanche de 10 h à 12 h : écrit en conditions (copie complète)."),
+      h("li",null,"Soirs de semaine : français, anglais, culture générale et logique (QCM)."),
+      h("li",null,"Présélection blanche le samedi à 16 h et oral le dimanche à 17 h : inchangés.")),
+    h("p",{class:"muted small"},"Vos horaires personnalisés seront remplacés ; les séances passées restent comptées selon l'ancien emploi du temps. Vous pourrez tout modifier dans Profil > Modifier mes horaires."),
+    h("div",{class:"row"},
+      h("button",{class:"btn primary",type:"button",onclick:()=>decide(true)},"Appliquer"),
+      h("button",{class:"btn ghost",type:"button",onclick:()=>decide(false)},"Garder mes horaires")));
+}
+
 
 // ---------- Premier lancement : profil, concours, code personnel ----------
 // L'appli sert à tout candidat : du BEPC au doctorat, fonctionnaire ou non.
@@ -3378,15 +3521,17 @@ const onbSel = new Set();
 // Emploi du temps de départ : les créneaux types, répartis entre les matières des concours choisis
 function buildPlanning(){
   const act = activeTracks().filter(k=>k!=="oral");
-  const order = PROGRAMME.map(t=>t.k).filter(k=>act.includes(k));
-  const specials = {"ven-s":"revision", "sam-a":"blanc", "dim-m":"ecrit", "dim-a":"oral"};
-  const hasQcm = act.some(k=>["fr","cg","ang","log"].includes(k)), hasEcrit = act.some(k=>TRACKS[k].ecrit && EPREUVES[TRACKS[k].ecrit]), hasOral = activeTracks().includes("oral");
+  const hasQcm = act.some(k=>["fr","cg","ang","log"].includes(k)), hasEcrit = act.some(isEcritTrack), hasOral = activeTracks().includes("oral");
+  // en semaine : les matières hors écrit (QCM, informatique…) ; les matières écrites tournent le samedi de 10 h à 12 h
+  const autres = PROGRAMME.map(t=>t.k).filter(k=>act.includes(k) && !isEcritTrack(k));
+  const pool = autres.length ? autres : PROGRAMME.map(t=>t.k).filter(k=>act.includes(k));
+  const specials = {"ven-s":"revision", "sam-m":ROT, "sam-a":"blanc", "dim-m":"ecrit", "dim-a":"oral"};
   let i = 0;
   return DEFAULT_PLANNING.map(s=>{
     const o = Object.assign({}, s);
     const sp = specials[s.id];
-    if (sp === "revision" || (sp === "blanc" && hasQcm) || (sp === "ecrit" && hasEcrit) || (sp === "oral" && hasOral)) o.k = sp;
-    else { o.k = order.length ? order[i % order.length] : "revision"; i++; }
+    if (sp === "revision" || (sp === "blanc" && hasQcm) || ((sp === ROT || sp === "ecrit") && hasEcrit) || (sp === "oral" && hasOral)) o.k = sp;
+    else { o.k = pool.length ? pool[i % pool.length] : "revision"; i++; }
     return o;
   });
 }
@@ -3462,7 +3607,7 @@ function finishOnboarding(remember){
   state.concoursPrin = ids[0] || null;
   for (const id of Object.keys(state.catSel||{})) if (!ids.includes(id)) delete state.catSel[id];
   state.planning = buildPlanning();
-  state.onboarded = true; state.created = today(); state.lastProc = addDays(today(), -1);
+  state.onboarded = true; state.planV2 = "ok"; state.created = today(); state.lastProc = addDays(today(), -1);
   save();
   if (remember) setRemember(true);
   document.body.classList.remove("locked");
