@@ -5518,6 +5518,1811 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-06",
+   "questions": [
+    {
+     "id": "n20261106-ct05-01",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Dans quel ordre la plupart des textes économiques présentent-ils leur raisonnement ?",
+     "o": [
+      "Solution, constat, mécanisme, conséquences",
+      "Constat, mécanisme, conséquences, solution ou nuance",
+      "Conséquences, solution, constat, mécanisme",
+      "Mécanisme, solution, conséquences, constat"
+     ],
+     "a": 1,
+     "e": "Un texte d'économie est un raisonnement : il part d'un constat, explique le mécanisme qui le produit, en tire les conséquences et propose une solution ou une nuance.",
+     "ed": [
+      "La solution vient à la fin, une fois le problème expliqué ; on ne commence pas par elle.",
+      null,
+      "On ne peut tirer de conséquences d'un phénomène qui n'a pas encore été constaté.",
+      "Le mécanisme explique un constat : il ne peut pas précéder ce qu'il explique."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-02",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Dans un texte économique, qu'appelle-t-on une « chaîne causale » ?",
+     "o": [
+      "Une suite de causes et d'effets qui s'enchaînent, chaque effet devenant la cause du suivant",
+      "Une liste de chiffres classés par ordre croissant",
+      "Une série d'exemples tirés de pays différents",
+      "Une suite de citations d'économistes"
+     ],
+     "a": 0,
+     "e": "Une chaîne causale relie plusieurs faits par des liens de cause à effet : A provoque B, qui provoque C. Le résumé doit garder le point de départ, l'arrivée et le sens du lien.",
+     "ed": [
+      null,
+      "Une liste de chiffres est une série de données, pas un enchaînement de causes.",
+      "Des exemples juxtaposés illustrent une idée ; ils ne forment pas une chaîne de causes.",
+      "Les citations sont des autorités invoquées ; elles ne constituent pas un mécanisme causal."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-03",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Que fait-on, dans le résumé, d'une série de chiffres qui illustre une idée ?",
+     "o": [
+      "On la recopie entièrement pour prouver sa fidélité",
+      "On la supprime avec l'idée qu'elle illustre",
+      "On la remplace par la tendance qu'elle montre",
+      "On la place entre parenthèses à la fin du résumé"
+     ],
+     "a": 2,
+     "e": "Un chiffre est un exemple chiffré : on garde l'idée et l'on exprime la tendance (hausse, baisse, doublement). Recopier les chiffres coûte des mots sans prouver la compréhension.",
+     "ed": [
+      "Recopier des chiffres consomme des mots et ne montre pas que l'on a compris l'idée.",
+      "L'idée doit rester : seuls les chiffres de détail disparaissent.",
+      null,
+      "Le résumé est un texte suivi ; on n'y ajoute pas d'annexe chiffrée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-04",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Le texte emploie l'expression « valeur ajoutée ». Dans votre résumé, vous devez :",
+     "o": [
+      "La remplacer par « bénéfice », plus simple",
+      "La remplacer par « richesse en plus »",
+      "La supprimer, car c'est un terme technique",
+      "La conserver, car c'est une notion de l'auteur"
+     ],
+     "a": 3,
+     "e": "Les notions techniques de l'auteur se conservent : chercher un équivalent approximatif gauchit le texte. On reformule les tournures, jamais les concepts.",
+     "ed": [
+      "« Bénéfice » est une autre notion (un profit), ce serait un contresens.",
+      "Une périphrase approximative déforme le concept et coûte plus de mots.",
+      "Supprimer la notion clé ferait disparaître une idée du texte.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-05",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Le texte commence par « On présente souvent la dette comme un fardeau… ». Que signale probablement cette tournure ?",
+     "o": [
+      "La conclusion du texte",
+      "Une thèse adverse que l'auteur va discuter",
+      "Un exemple chiffré",
+      "La thèse définitive de l'auteur"
+     ],
+     "a": 1,
+     "e": "« On présente souvent », « on croit que » introduisent une idée reçue que l'auteur rapporte pour la nuancer ou la réfuter ; sa propre thèse vient ensuite.",
+     "ed": [
+      "Une conclusion ne s'ouvre pas sur l'opinion commune ; elle tranche.",
+      null,
+      "Aucun chiffre n'est donné : c'est une opinion rapportée, non une donnée.",
+      "L'auteur attribue cette idée à « on » : il s'en distancie, ce n'est pas sa thèse."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-06",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Dans un résumé, que fait-on des connaissances personnelles du candidat sur le sujet ?",
+     "o": [
+      "On les ajoute si elles sont exactes",
+      "On les met en conclusion",
+      "On ne les ajoute jamais : le résumé ne contient que le texte",
+      "On les ajoute à la place des exemples supprimés"
+     ],
+     "a": 2,
+     "e": "Le résumé condense la pensée de l'auteur et rien d'autre : un ajout, même exact, est une infidélité au texte et coûte des mots.",
+     "ed": [
+      "L'exactitude ne compte pas ici : seul le contenu du texte doit figurer.",
+      "Le résumé n'a pas de conclusion personnelle ; il suit celle de l'auteur.",
+      null,
+      "Un exemple supprimé ne se remplace pas par un autre : on garde l'idée seule."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-07",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Quelle est la meilleure réduction de : « La sécheresse a fait chuter la production de riz ; le riz est devenu rare ; son prix a donc fortement augmenté » ?",
+     "o": [
+      "« La sécheresse, en réduisant la production, a fait flamber le prix du riz. »",
+      "« Le prix du riz a augmenté, puis la production a chuté. »",
+      "« Le riz est devenu rare. »",
+      "« La sécheresse et le prix du riz sont des problèmes. »"
+     ],
+     "a": 0,
+     "e": "On garde la cause de départ (la sécheresse), la conséquence finale (la hausse du prix) et le lien ; l'étape intermédiaire (la rareté) est contenue dans le mécanisme.",
+     "ed": [
+      null,
+      "L'ordre est inversé : la hausse du prix devient antérieure à la chute de production, ce qui est un contresens.",
+      "On ne garde qu'une étape intermédiaire : la cause et la conséquence finale disparaissent.",
+      "Les deux faits sont juxtaposés sans le lien de cause à effet, qui est l'idée même."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-08",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Comment réduire : « En 2015, 25 % des communes avaient un plan de développement ; en 2025, elles étaient 50 %. » ?",
+     "o": [
+      "« Les communes ont un plan. »",
+      "« Entre 2015 et 2025, 25 % puis 50 % des communes ont eu un plan. »",
+      "« Les plans de développement communaux sont inutiles. »",
+      "« La part des communes dotées d'un plan de développement a doublé en dix ans. »"
+     ],
+     "a": 3,
+     "e": "On exprime la tendance : de 25 % à 50 %, la part double en dix ans. L'idée est conservée, les chiffres de détail disparaissent.",
+     "ed": [
+      "La progression, qui est l'idée, a disparu.",
+      "C'est une recopie des chiffres, presque aussi longue que l'original.",
+      "Le texte ne porte aucun jugement d'inutilité : c'est un ajout et un contresens.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-09",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Le texte dit : « Le chômage des jeunes a progressé en même temps que l'urbanisation. » Quelle réduction est fidèle ?",
+     "o": [
+      "« L'urbanisation a causé le chômage des jeunes. »",
+      "« Chômage des jeunes et urbanisation ont progressé ensemble. »",
+      "« Le chômage des jeunes a provoqué l'urbanisation. »",
+      "« L'urbanisation fait reculer le chômage des jeunes. »"
+     ],
+     "a": 1,
+     "e": "« En même temps » exprime une simultanéité, pas une cause. Le résumé ne doit pas transformer une coïncidence en lien causal que l'auteur n'affirme pas.",
+     "ed": [
+      "L'auteur ne dit pas que l'un cause l'autre : c'est un ajout de causalité.",
+      null,
+      "C'est aussi une causalité inventée, de surcroît inversée.",
+      "Le texte dit que les deux progressent ; un recul du chômage est un contresens."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-10",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Le texte dit : « Le pays transforme seulement 20 % de son coton et exporte le reste brut ; il perd ainsi l'essentiel de la valeur ajoutée. » Quelle réduction est la meilleure ?",
+     "o": [
+      "« Exportant surtout du coton brut, le pays perd l'essentiel de la valeur ajoutée. »",
+      "« Le pays transforme 20 % de son coton. »",
+      "« Le coton est une richesse nationale. »",
+      "« Le pays devrait interdire l'exportation du coton. »"
+     ],
+     "a": 0,
+     "e": "On garde l'idée (peu de transformation locale) et sa conséquence (perte de valeur ajoutée) ; le pourcentage, qui illustre, se généralise en « surtout du coton brut ».",
+     "ed": [
+      null,
+      "On garde le chiffre mais on perd la conséquence, qui est l'idée principale.",
+      "C'est une généralité absente du texte, qui ne résume ni l'idée ni la conséquence.",
+      "Le texte ne propose aucune interdiction : c'est un ajout personnel."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-11",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Quel connecteur, dans un texte économique, annonce le plus souvent la solution proposée par l'auteur ?",
+     "o": [
+      "« Certes »",
+      "« De plus »",
+      "« Il faut donc »",
+      "« Par exemple »"
+     ],
+     "a": 2,
+     "e": "« Il faut donc » tire la conséquence pratique du raisonnement : il introduit la mesure que l'auteur recommande, à conserver dans le résumé.",
+     "ed": [
+      "« Certes » introduit une concession, une idée accordée avant d'être nuancée.",
+      "« De plus » ajoute un argument du même ordre, il n'annonce pas de solution.",
+      null,
+      "« Par exemple » introduit une illustration, qu'on supprime ou généralise."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-12",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Un paragraphe énumère : « stocker les récoltes, réduire les pertes, entretenir les pistes rurales, diversifier l'approvisionnement ». Comment le résumer ?",
+     "o": [
+      "En recopiant les quatre mesures",
+      "En ne gardant que la première mesure",
+      "En supprimant entièrement le paragraphe",
+      "En le généralisant : « agir sur l'offre agricole »"
+     ],
+     "a": 3,
+     "e": "Une énumération se remplace par un mot ou un groupe englobant qui couvre tous ses éléments : ici, ces quatre mesures visent toutes l'offre agricole.",
+     "ed": [
+      "Recopier l'énumération ne réduit pas le texte.",
+      "Garder un seul élément fausse l'idée : l'auteur propose un ensemble de mesures.",
+      "Le paragraphe porte la solution de l'auteur : le supprimer ampute le raisonnement.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-13",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Le texte de 600 mots consacre 300 mots à la critique d'une politique et 100 mots à la solution. Dans un résumé de 150 mots, quelle répartition est la plus fidèle ?",
+     "o": [
+      "Environ 75 mots pour la critique et 25 mots pour la solution",
+      "Environ 25 mots pour la critique et 75 mots pour la solution",
+      "Autant de mots pour chaque partie",
+      "Toute la place pour la solution, qui est l'essentiel"
+     ],
+     "a": 0,
+     "e": "Le résumé respecte les proportions du texte : la moitié du texte (300 sur 600) appelle à peu près la moitié du résumé (75 sur 150), le sixième (100 sur 600) environ 25 mots.",
+     "ed": [
+      null,
+      "La répartition est inversée : on gonfle une partie brève et l'on écrase la principale.",
+      "Des parts égales trahissent l'importance que l'auteur donne à chaque partie.",
+      "Supprimer la critique fait disparaître la moitié du raisonnement."
+     ],
+     "verif": "calcul",
+     "calc": "150*300/600"
+    },
+    {
+     "id": "n20261106-ct05-14",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Un candidat remplace « inflation » par « vie chère » dans son résumé. Que lui reprochera le correcteur ?",
+     "o": [
+      "Rien, les deux expressions sont strictement équivalentes",
+      "D'avoir remplacé une notion technique par un équivalent approximatif",
+      "D'avoir employé un mot trop court",
+      "D'avoir recopié le texte"
+     ],
+     "a": 1,
+     "e": "L'inflation est une hausse générale et durable des prix ; « vie chère » est une impression populaire plus floue. On conserve les notions de l'auteur : un synonyme approximatif gauchit le texte.",
+     "ed": [
+      "Les deux expressions ne se recouvrent pas : la notion technique est plus précise.",
+      null,
+      "La longueur du mot n'est pas en cause, c'est la perte de précision.",
+      "Il a justement changé le mot : on ne peut pas lui reprocher une recopie."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-15",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Quel est le principal défaut de ce résumé : « Le texte parle de l'inflation, des ménages, des taux d'intérêt et de l'agriculture. » ?",
+     "o": [
+      "Il est trop long",
+      "Il contient une faute d'accord",
+      "Il énumère des thèmes sans restituer la thèse ni les liens logiques",
+      "Il recopie une phrase du texte"
+     ],
+     "a": 2,
+     "e": "Le résumé doit restituer le raisonnement de l'auteur (sa thèse et les liens entre ses idées), pas une liste de sujets. Cette phrase dit de quoi parle le texte, pas ce qu'il soutient.",
+     "ed": [
+      "Il est au contraire très court ; sa longueur n'est pas le problème.",
+      "La phrase est grammaticalement correcte.",
+      null,
+      "Il ne recopie rien : il remplace le texte par une table des matières."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-16",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Le texte affirme : « La hausse des taux d'intérêt freine le crédit, ce qui ralentit l'investissement. » Un candidat écrit : « Le ralentissement de l'investissement fait monter les taux. » Quelle faute a-t-il commise ?",
+     "o": [
+      "Une inversion de la cause et de la conséquence",
+      "Une simple répétition sans gravité",
+      "Un ajout d'exemple",
+      "Un dépassement de la fourchette"
+     ],
+     "a": 0,
+     "e": "Dans le texte, la hausse des taux est la cause et le ralentissement de l'investissement la conséquence. Le candidat a inversé la flèche : c'est un contresens.",
+     "ed": [
+      null,
+      "Ce n'est pas une répétition : le sens du raisonnement est changé, ce qui est grave.",
+      "Aucun exemple n'est ajouté ; c'est le lien logique qui est faussé.",
+      "Une phrase courte ne fait pas dépasser la fourchette ; la faute porte sur le sens."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-17",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Le texte dit : « Au-delà de 70 % du PIB, la dette devient, selon nous, dangereuse. » Faut-il garder ce chiffre dans le résumé ?",
+     "o": [
+      "Non, car tous les chiffres doivent disparaître",
+      "Oui, car c'est un seuil qui porte lui-même l'argument de l'auteur",
+      "Non, il faut le remplacer par « une dette élevée »",
+      "Oui, mais en ajoutant la source officielle de ce seuil"
+     ],
+     "a": 1,
+     "e": "On ne garde un chiffre que s'il porte l'argument. Ici, le seuil est la thèse même de l'auteur : le supprimer rendrait l'idée floue.",
+     "ed": [
+      "La règle n'est pas de supprimer tout chiffre, mais ceux qui ne font qu'illustrer.",
+      null,
+      "« Une dette élevée » perd la précision qui fait l'argument de l'auteur.",
+      "Ajouter une source est un apport personnel : le résumé ne contient que le texte."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-18",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Le texte compte cinq paragraphes ; le troisième n'est qu'un long exemple illustrant l'idée du deuxième. Comment le traiter ?",
+     "o": [
+      "Le résumer à part, comme une idée nouvelle",
+      "Le recopier en partie, car il est concret",
+      "Le placer à la fin du résumé",
+      "Le regrouper avec le deuxième paragraphe, dont il illustre l'idée"
+     ],
+     "a": 3,
+     "e": "On regroupe les paragraphes qui servent la même idée, par exemple un paragraphe d'exemple avec l'idée qu'il illustre (Lycée Champollion). L'exemple disparaît ou se généralise.",
+     "ed": [
+      "Un exemple n'est pas une idée nouvelle : le traiter à part gonfle le résumé.",
+      "Recopier un exemple coûte des mots et n'apporte aucune idée.",
+      "Le résumé suit l'ordre du texte : on ne déplace pas un passage à la fin.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-19",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Quelle phrase de résumé respecte le système d'énonciation d'un texte écrit à la première personne du pluriel (« nous devons… ») ?",
+     "o": [
+      "« L'auteur pense que nous devons investir dans l'agriculture. »",
+      "« Selon le texte, il faudrait investir dans l'agriculture. »",
+      "« Nous devons investir dans l'agriculture. »",
+      "« Ils doivent investir dans l'agriculture, d'après l'auteur. »"
+     ],
+     "a": 2,
+     "e": "Le résumé parle à la place de l'auteur, avec ses pronoms et ses temps : si le texte dit « nous », le résumé dit « nous », sans « l'auteur pense que ».",
+     "ed": [
+      "« L'auteur pense que » est une formule à proscrire dans le résumé.",
+      "« Selon le texte » met le texte à distance : c'est aussi à proscrire.",
+      null,
+      "Le pronom est changé et la formule « d'après l'auteur » est à proscrire."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261106-ct05-20",
+     "m": "ct",
+     "tag": "niv-ct05",
+     "q": "Un texte de 400 mots doit être réduit au quart, plus ou moins 10 %. Quel est le nombre maximal de mots autorisé ?",
+     "o": [
+      "100 mots",
+      "105 mots",
+      "110 mots",
+      "120 mots"
+     ],
+     "a": 2,
+     "e": "Le quart de 400 est 100 mots ; 10 % de 100 font 10 ; le maximum vaut 100 + 10 = 110 mots. Le minimum serait 90 mots.",
+     "ed": [
+      "100 mots est le nombre imposé, pas le maximum.",
+      "105 mots est dans la fourchette, mais ce n'est pas le maximum.",
+      null,
+      "120 mots dépasse le maximum de 110 mots."
+     ],
+     "verif": "calcul",
+     "calc": "400/4*1.1"
+    },
+    {
+     "id": "n20261106-de04-01",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Par quelle instance la Charte africaine des droits et du bien-être de l'enfant a-t-elle été adoptée en juillet 1990 ?",
+     "o": [
+      "La 26e conférence des chefs d'État et de gouvernement de l'OUA",
+      "L'Assemblée générale des Nations unies",
+      "La Commission africaine des droits de l'homme et des peuples",
+      "Le Conseil de paix et de sécurité de l'Union africaine"
+     ],
+     "a": 0,
+     "e": "La Charte a été adoptée en juillet 1990, à Addis-Abeba, par la 26e conférence des chefs d'État et de gouvernement de l'Organisation de l'unité africaine.",
+     "ed": [
+      null,
+      "La Charte est un traité régional africain ; elle n'a pas été adoptée par un organe des Nations unies.",
+      "La Charte a été adoptée par les chefs d'État et de gouvernement de l'OUA, non par une commission.",
+      "La Charte a été adoptée par la conférence des chefs d'État de l'OUA, non par un conseil spécialisé."
+     ],
+     "src": {
+      "t": "UNICEF République centrafricaine – Charte africaine des droits et du bien-être de l'enfant",
+      "u": "https://www.unicef.org/car/rapports/charte-africaine-des-droits-et-du-bien-%C3%AAtre-de-lenfant"
+     }
+    },
+    {
+     "id": "n20261106-de04-02",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "À quelle date la Charte africaine des droits et du bien-être de l'enfant est-elle entrée en vigueur ?",
+     "o": [
+      "Le 2 septembre 1990",
+      "Le 29 novembre 1999",
+      "Le 11 juillet 2000",
+      "Le 16 juin 1991"
+     ],
+     "a": 1,
+     "e": "Selon l'UNICEF, la Charte est entrée en vigueur le 29 novembre 1999, après avoir reçu la ratification de 15 États, conformément à son article 47.",
+     "ed": [
+      "En septembre 1990, la Charte venait d'être adoptée ; elle n'a réuni ses 15 ratifications qu'en 1999.",
+      null,
+      "Cette date est postérieure à l'entrée en vigueur, intervenue le 29 novembre 1999.",
+      "1991 est l'année où l'OUA a institué la Journée de l'enfant africain."
+     ],
+     "src": {
+      "t": "UNICEF République centrafricaine – Charte africaine des droits et du bien-être de l'enfant",
+      "u": "https://www.unicef.org/car/rapports/charte-africaine-des-droits-et-du-bien-%C3%AAtre-de-lenfant"
+     }
+    },
+    {
+     "id": "n20261106-de04-03",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Combien d'instruments de ratification ou d'adhésion l'article 47 exigeait-il pour l'entrée en vigueur de la Charte ?",
+     "o": [
+      "10",
+      "20",
+      "15",
+      "30"
+     ],
+     "a": 2,
+     "e": "Article 47 § 3 : la Charte entre en vigueur dans les 30 jours suivant la réception des instruments de ratification ou d'adhésion de 15 États membres de l'OUA.",
+     "ed": [
+      "Dix n'est pas le seuil fixé par l'article 47.",
+      "Vingt n'est pas le seuil de l'article 47, qui en exige quinze.",
+      null,
+      "Trente est le délai en jours après le dépôt du 15e instrument, non le nombre d'États."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-04",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Selon l'article 2 de la Charte, qui est un enfant ?",
+     "o": [
+      "Tout être humain âgé de moins de 18 ans",
+      "Tout être humain âgé de moins de 18 ans, sauf si la majorité est atteinte plus tôt selon la loi nationale",
+      "Tout être humain âgé de moins de 15 ans",
+      "Toute personne non mariée âgée de moins de 21 ans"
+     ],
+     "a": 0,
+     "e": "L'article 2 définit l'enfant comme « tout être humain âgé de moins de 18 ans », sans réserve tirée d'une majorité anticipée par la loi nationale.",
+     "ed": [
+      null,
+      "C'est la définition de la CDE (article 1) ; la Charte ne reprend pas l'exception.",
+      "Quinze ans est le seuil d'enrôlement de la CDE, pas la définition de l'enfant.",
+      "Ni le mariage ni l'âge de 21 ans n'entrent dans la définition de l'article 2."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-05",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Combien de membres compte le Comité africain d'experts sur les droits et le bien-être de l'enfant ?",
+     "o": [
+      "Dix-huit",
+      "Sept",
+      "Quinze",
+      "Onze"
+     ],
+     "a": 3,
+     "e": "Article 33 § 1 : le Comité est composé de onze membres ayant les plus hautes qualités de moralité, d'intégrité, d'impartialité et de compétence.",
+     "ed": [
+      "Dix-huit est le nombre d'experts du Comité des droits de l'enfant de l'ONU (article 43 de la CDE).",
+      "Sept est le quorum du Comité (article 38), non son effectif.",
+      "Quinze est le nombre de ratifications exigé pour l'entrée en vigueur.",
+      null
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-06",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "À quel rythme un État partie doit-il présenter ses rapports au Comité africain d'experts, après le premier ?",
+     "o": [
+      "Chaque année",
+      "Tous les trois ans",
+      "Tous les cinq ans",
+      "Tous les dix ans"
+     ],
+     "a": 1,
+     "e": "Article 43 : premier rapport dans les deux ans qui suivent l'entrée en vigueur pour l'État partie, ensuite tous les trois ans.",
+     "ed": [
+      "La Charte ne prévoit pas de rapport annuel des États ; c'est le Comité qui fait un rapport d'activité à chaque session ordinaire de la Conférence.",
+      null,
+      "Cinq ans est la périodicité de la CDE (article 44).",
+      "Aucune périodicité de dix ans n'est prévue."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-07",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Dans quelle ville se trouve le secrétariat du Comité africain d'experts depuis décembre 2020 ?",
+     "o": [
+      "Addis-Abeba (Éthiopie)",
+      "Banjul (Gambie)",
+      "Maseru (Lesotho)",
+      "Arusha (Tanzanie)"
+     ],
+     "a": 2,
+     "e": "Le secrétariat du Comité africain d'experts est installé à Maseru, dans le Royaume du Lesotho, depuis décembre 2020.",
+     "ed": [
+      "Le Comité se réunit souvent à Addis-Abeba, mais son secrétariat est installé à Maseru depuis décembre 2020.",
+      "Le secrétariat du Comité n'est pas à Banjul : il est à Maseru, au Lesotho.",
+      null,
+      "Le secrétariat du Comité n'est pas à Arusha : il est à Maseru, au Lesotho."
+     ],
+     "src": {
+      "t": "Wikipedia – African Committee of Experts on the Rights and Welfare of the Child",
+      "u": "https://en.wikipedia.org/wiki/African_Committee_of_Experts_on_the_Rights_and_Welfare_of_the_Child"
+     }
+    },
+    {
+     "id": "n20261106-de04-08",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Quelle formulation de l'intérêt de l'enfant distingue la Charte africaine (article 4 § 1) de la CDE (article 3 § 1) ?",
+     "o": [
+      "La Charte en fait « une considération parmi d'autres »",
+      "La Charte ne mentionne pas l'intérêt de l'enfant",
+      "La Charte réserve l'intérêt de l'enfant aux décisions des tribunaux",
+      "La Charte en fait « la considération primordiale », la CDE « une considération primordiale »"
+     ],
+     "a": 3,
+     "e": "Article 4 § 1 de la Charte : l'intérêt de l'enfant sera « la considération primordiale » ; l'article 3 § 1 de la CDE dit « une considération primordiale ». L'article défini renforce la priorité.",
+     "ed": [
+      "Cette formule affaiblirait le principe ; la Charte le renforce au contraire.",
+      "L'article 4 consacre expressément l'intérêt de l'enfant.",
+      "L'article 4 vise toute action entreprise par une quelconque personne ou autorité.",
+      null
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-09",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Une adolescente de 16 ans est promise en mariage par sa famille selon la coutume. Quel article de la Charte est directement violé ?",
+     "o": [
+      "L'article 21 § 2",
+      "L'article 31",
+      "L'article 43",
+      "L'article 47"
+     ],
+     "a": 0,
+     "e": "L'article 21 § 2 interdit les mariages d'enfants et la promesse de jeunes filles et garçons en mariage, et demande de fixer l'âge minimal du mariage à 18 ans.",
+     "ed": [
+      null,
+      "L'article 31 énonce les responsabilités de l'enfant ; il ne règle pas le mariage.",
+      "L'article 43 organise les rapports des États au Comité.",
+      "L'article 47 règle la signature, la ratification et l'entrée en vigueur."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-10",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Un garçon de 17 ans est enrôlé dans une force armée. Que dit la Charte africaine ?",
+     "o": [
+      "C'est permis, car il a plus de 15 ans",
+      "C'est permis s'il ne participe pas aux combats",
+      "C'est interdit : il a moins de 18 ans, c'est un enfant, et aucun enfant ne doit être enrôlé",
+      "C'est permis avec l'accord écrit de ses parents"
+     ],
+     "a": 2,
+     "e": "Articles 2 et 22 § 2 : l'enfant est toute personne de moins de 18 ans, et les États veillent à ce qu'aucun enfant ne prenne directement part aux hostilités ni ne soit enrôlé.",
+     "ed": [
+      "Le seuil de 15 ans est celui de la CDE (article 38), non celui de la Charte.",
+      "L'article 22 § 2 interdit à la fois la participation directe et l'enrôlement.",
+      null,
+      "La Charte ne prévoit aucune dérogation par accord parental."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-11",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Une femme enceinte est condamnée à une peine de prison. Quelle mesure l'article 30 de la Charte exige-t-il en premier lieu ?",
+     "o": [
+      "La placer dans une prison ordinaire avec son enfant après la naissance",
+      "Envisager d'abord une peine non privative de liberté",
+      "Retirer l'enfant à sa naissance et le confier à l'État",
+      "Reporter la peine jusqu'aux 18 ans de l'enfant"
+     ],
+     "a": 1,
+     "e": "L'article 30 demande aux États de veiller à ce qu'une peine autre qu'une peine d'emprisonnement soit envisagée d'abord pour les femmes enceintes et les mères de jeunes enfants.",
+     "ed": [
+      "L'article 30 interdit au contraire d'emprisonner une mère avec son enfant.",
+      null,
+      "La Charte vise la réintégration de la mère dans sa famille, non le retrait systématique de l'enfant.",
+      "L'article 30 ne prévoit aucun report de peine jusqu'à la majorité de l'enfant."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-12",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Que prévoit l'article 11 § 6 de la Charte pour les filles qui deviennent enceintes avant d'avoir achevé leur éducation ?",
+     "o": [
+      "Leur exclusion de l'école publique",
+      "Leur orientation obligatoire vers l'apprentissage",
+      "Leur scolarisation dans des établissements séparés",
+      "La possibilité de poursuivre leur éducation, compte tenu de leurs aptitudes"
+     ],
+     "a": 3,
+     "e": "Article 11 § 6 : les États prennent toutes les mesures appropriées pour que les filles enceintes avant d'avoir achevé leur éducation aient la possibilité de la poursuivre compte tenu de leurs aptitudes individuelles.",
+     "ed": [
+      "L'exclusion est exactement ce que l'article veut empêcher.",
+      "L'article ne prévoit aucune orientation obligatoire.",
+      "L'article ne prévoit pas d'établissements séparés.",
+      null
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-13",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Selon l'article 37 du texte de 1990, les membres du Comité africain d'experts étaient élus :",
+     "o": [
+      "Pour cinq ans, sans possibilité de réélection",
+      "Pour quatre ans, renouvelables une fois",
+      "Pour deux ans, renouvelables indéfiniment",
+      "À vie"
+     ],
+     "a": 0,
+     "e": "L'article 37 § 1 du texte de 1990 prévoit un mandat de cinq ans, les membres ne pouvant être réélus ; un amendement de janvier 2015 a depuis permis une réélection.",
+     "ed": [
+      null,
+      "L'article 37 fixe un mandat de cinq ans, et le texte de 1990 excluait toute réélection.",
+      "Deux ans est la durée du mandat du Bureau du Comité (article 38).",
+      "Aucun mandat à vie n'est prévu par la Charte."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-14",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Qui peut adresser une communication au Comité africain d'experts, selon l'article 44 ?",
+     "o": [
+      "Seuls les États parties",
+      "Seuls les enfants âgés de plus de 15 ans",
+      "Tout individu, groupe ou organisation non gouvernementale reconnue par l'OUA, un État membre ou l'ONU",
+      "Seul le Secrétaire général de l'Union africaine"
+     ],
+     "a": 2,
+     "e": "L'article 44 § 1 habilite le Comité à recevoir des communications de tout individu, groupe ou ONG reconnue par l'OUA, par un État membre ou par l'ONU ; elles sont examinées de façon confidentielle.",
+     "ed": [
+      "L'article 44 ouvre la communication bien au-delà des États.",
+      "Aucune condition d'âge n'est fixée pour l'auteur d'une communication.",
+      null,
+      "Le Secrétaire général n'est pas l'unique auteur possible ; l'article vise les individus et les ONG."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-15",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Laquelle de ces affirmations sur la Charte africaine est FAUSSE ?",
+     "o": [
+      "Elle interdit de prononcer la peine de mort pour les crimes commis par des enfants",
+      "Elle interdit expressément l'emprisonnement à vie des mineurs",
+      "Elle interdit l'utilisation des enfants dans la mendicité",
+      "Elle impose d'enregistrer tous les mariages dans un registre officiel"
+     ],
+     "a": 1,
+     "e": "La Charte ne mentionne pas l'emprisonnement à vie ; c'est la CDE (article 37 a) qui interdit l'emprisonnement à vie sans possibilité de libération pour les moins de 18 ans.",
+     "ed": [
+      "C'est exact : article 5 § 3.",
+      null,
+      "C'est exact : article 29 b.",
+      "C'est exact : article 21 § 2."
+     ],
+     "src": {
+      "t": "Wikipedia – African Charter on the Rights and Welfare of the Child",
+      "u": "https://en.wikipedia.org/wiki/African_Charter_on_the_Rights_and_Welfare_of_the_Child"
+     }
+    },
+    {
+     "id": "n20261106-de04-16",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Que prévoit l'article 1 § 3 de la Charte au sujet des coutumes et traditions ?",
+     "o": [
+      "Elles l'emportent sur la Charte en cas de conflit",
+      "Elles doivent être consacrées par la loi",
+      "Elles sont hors du champ de la Charte",
+      "Celles qui sont incompatibles avec la Charte doivent être découragées dans la mesure de cette incompatibilité"
+     ],
+     "a": 3,
+     "e": "L'article 1 § 3 dispose que toute coutume, tradition, pratique culturelle ou religieuse incompatible avec les droits, devoirs et obligations de la Charte doit être découragée dans la mesure de cette incompatibilité.",
+     "ed": [
+      "C'est l'inverse : la Charte prime sur les coutumes qui lui sont contraires.",
+      "L'article ne demande pas de consacrer les coutumes, mais de décourager celles qui sont incompatibles.",
+      "L'article vise expressément les coutumes : elles sont dans le champ de la Charte.",
+      null
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-17",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Quelle disposition est propre à la Charte africaine et ne figure pas sous cette forme dans la CDE ?",
+     "o": [
+      "Un article entier consacré aux responsabilités de l'enfant envers sa famille, la société et l'État",
+      "Le droit de l'enfant à l'éducation",
+      "La création d'un comité d'experts",
+      "L'obligation pour les États de présenter des rapports"
+     ],
+     "a": 0,
+     "e": "L'article 31 de la Charte énonce les responsabilités de l'enfant, selon son âge et ses capacités : cohésion de la famille, service de la communauté nationale, solidarité, unité africaine.",
+     "ed": [
+      null,
+      "Le droit à l'éducation figure aussi dans la CDE.",
+      "La CDE crée aussi un comité, le Comité des droits de l'enfant (article 43).",
+      "La CDE prévoit aussi des rapports des États (article 44)."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-18",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "En mémoire de quel événement la Journée de l'enfant africain du 16 juin a-t-elle été instituée par l'OUA en 1991 ?",
+     "o": [
+      "L'indépendance du Ghana",
+      "La création de l'OUA à Addis-Abeba",
+      "L'adoption de la Charte africaine",
+      "Le soulèvement des élèves de Soweto du 16 juin 1976"
+     ],
+     "a": 3,
+     "e": "La Journée de l'enfant africain a été instituée en 1991 par la Conférence des chefs d'État de l'OUA en mémoire du soulèvement des élèves de Soweto (Afrique du Sud) du 16 juin 1976.",
+     "ed": [
+      "Cette journée ne commémore pas une indépendance, mais le soulèvement des élèves de Soweto.",
+      "Cette journée ne commémore pas la création de l'OUA, mais le soulèvement de Soweto.",
+      "La Charte a été adoptée en juillet 1990, non un 16 juin.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – African Committee of Experts on the Rights and Welfare of the Child",
+      "u": "https://en.wikipedia.org/wiki/African_Committee_of_Experts_on_the_Rights_and_Welfare_of_the_Child"
+     }
+    },
+    {
+     "id": "n20261106-de04-19",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Un État partie veut faire préciser le sens d'un article de la Charte. Quel organe peut l'interpréter à sa demande ?",
+     "o": [
+      "Le Comité des droits de l'enfant de l'ONU",
+      "Le Comité africain d'experts",
+      "La Cour internationale de Justice exclusivement",
+      "Le Parlement panafricain"
+     ],
+     "a": 1,
+     "e": "L'article 42 c confie au Comité africain d'experts la mission d'interpréter les dispositions de la Charte à la demande des États parties ou des institutions de l'organisation continentale.",
+     "ed": [
+      "Le Comité de l'ONU contrôle la CDE, non la Charte africaine.",
+      null,
+      "La Charte ne confie pas cette interprétation à la Cour internationale de Justice.",
+      "Le Parlement panafricain n'a pas cette mission dans la Charte."
+     ],
+     "src": {
+      "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+     }
+    },
+    {
+     "id": "n20261106-de04-20",
+     "m": "denf",
+     "tag": "niv-de04",
+     "q": "Selon le deuxième rapport de la Côte d'Ivoire au Comité des droits de l'enfant de l'ONU, quand ont été déposés ses instruments de ratification de la Charte africaine ?",
+     "o": [
+      "Le 29 novembre 1999",
+      "Le 11 juillet 1990",
+      "Le 18 juin 2007",
+      "Le 16 juin 1976"
+     ],
+     "a": 2,
+     "e": "Le rapport CRC/C/CIV/2 cite, parmi les conventions ratifiées, la Charte africaine des droits et du bien-être de l'enfant, « dont les instruments de ratification ont été déposés le 18 juin 2007 ».",
+     "ed": [
+      "Le 29 novembre 1999 est la date d'entrée en vigueur de la Charte elle-même.",
+      "Le 11 juillet 1990 correspond à l'adoption de la Charte, non à un dépôt de ratification ivoirien.",
+      null,
+      "Le 16 juin 1976 est la date du soulèvement de Soweto."
+     ],
+     "src": {
+      "t": "Nations Unies – Deuxième rapport périodique de la Côte d'Ivoire au Comité des droits de l'enfant (CRC/C/CIV/2)",
+      "u": "https://digitallibrary.un.org/record/3791645/files/CRC_C_CIV_2-FR.pdf"
+     }
+    },
+    {
+     "id": "n20261106-mp06-01",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Quels sont les trois styles de direction étudiés par Lewin, Lippitt et White en 1939 ?",
+     "o": [
+      "Directif, persuasif, délégatif",
+      "Autoritaire, démocratique, laisser-faire",
+      "Compétition, collaboration, évitement",
+      "Indifférent, intermédiaire, intégrateur"
+     ],
+     "a": 1,
+     "e": "L'étude de 1939 confie des groupes d'enfants à des animateurs autoritaires, démocratiques ou adeptes du laisser-faire, qui réalisent le même travail manuel.",
+     "ed": [
+      "Ce sont des styles du leadership situationnel de Hersey et Blanchard (1969).",
+      null,
+      "Ce sont des modes de gestion des conflits de Thomas et Kilmann.",
+      "Ce sont des styles de la grille de Blake et Mouton."
+     ],
+     "src": {
+      "t": "Simply Psychology – Leadership Styles (Lewin, Lippitt et White, 1939)",
+      "u": "https://www.simplypsychology.org/leadership-styles.html"
+     }
+    },
+    {
+     "id": "n20261106-mp06-02",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Selon l'étude de Lewin, qu'est-ce qui distinguait le groupe dirigé de façon démocratique du groupe autoritaire ?",
+     "o": [
+      "Il produisait davantage et de meilleure qualité",
+      "Il ne produisait rien",
+      "Il produisait moins, mais un travail de meilleure qualité",
+      "Il produisait autant, mais plus vite"
+     ],
+     "a": 2,
+     "e": "Le groupe démocratique produisait moins que le groupe autoritaire, mais un travail de meilleure qualité : aucun style ne l'emportait sur tous les plans.",
+     "ed": [
+      "Le groupe autoritaire produisait davantage ; le démocratique ne gagnait que sur la qualité.",
+      "Le groupe démocratique produisait, simplement moins que le groupe autoritaire.",
+      null,
+      "Il produisait moins, et l'étude ne lui attribue pas plus de rapidité."
+     ],
+     "src": {
+      "t": "Simply Psychology – Leadership Styles (Lewin, Lippitt et White, 1939)",
+      "u": "https://www.simplypsychology.org/leadership-styles.html"
+     }
+    },
+    {
+     "id": "n20261106-mp06-03",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Quels sont les deux axes de la grille managériale de Blake et Mouton ?",
+     "o": [
+      "L'intérêt pour la production et l'intérêt pour les personnes",
+      "La compétence et la motivation du collaborateur",
+      "L'affirmation de soi et la coopération",
+      "Le salaire et la reconnaissance"
+     ],
+     "a": 0,
+     "e": "Blake et Mouton (1964) croisent l'intérêt pour la production (les résultats) et l'intérêt pour les personnes, chacun noté de 1 à 9.",
+     "ed": [
+      null,
+      "Ce sont les critères de maturité du leadership situationnel de Hersey et Blanchard.",
+      "Ce sont les deux dimensions du modèle des conflits de Thomas et Kilmann.",
+      "Ce sont des facteurs de motivation, non les axes de la grille."
+     ],
+     "src": {
+      "t": "Wikipedia – Managerial grid model (Blake et Mouton)",
+      "u": "https://en.wikipedia.org/wiki/Managerial_grid_model"
+     }
+    },
+    {
+     "id": "n20261106-mp06-04",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Sur la grille de Blake et Mouton, quel style correspond aux coordonnées (9,9) ?",
+     "o": [
+      "Le style indifférent",
+      "Le style accommodant, dit « club social »",
+      "Le style intermédiaire de compromis",
+      "Le style intégrateur, ou d'équipe"
+     ],
+     "a": 3,
+     "e": "Le style (9,9) allie un intérêt maximal pour la production et pour les personnes : il fait contribuer et engager chacun ; c'est le style présenté comme idéal.",
+     "ed": [
+      "Le style indifférent correspond à (1,1).",
+      "Le style « club social » correspond à (1,9).",
+      "Le style intermédiaire correspond à (5,5).",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Managerial grid model (Blake et Mouton)",
+      "u": "https://en.wikipedia.org/wiki/Managerial_grid_model"
+     }
+    },
+    {
+     "id": "n20261106-mp06-05",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Qui sont les auteurs de la théorie du leadership situationnel, présentée en 1969 ?",
+     "o": [
+      "Kurt Lewin et Ronald Lippitt",
+      "Paul Hersey et Ken Blanchard",
+      "Kenneth Thomas et Ralph Kilmann",
+      "Robert Blake et Jane Mouton"
+     ],
+     "a": 1,
+     "e": "Paul Hersey et Ken Blanchard ont présenté en 1969 la théorie, d'abord appelée « théorie du cycle de vie du leadership », puis « leadership situationnel ».",
+     "ed": [
+      "Lewin et Lippitt ont étudié en 1939 les styles autoritaire, démocratique et laisser-faire.",
+      null,
+      "Thomas et Kilmann ont décrit en 1974 cinq modes de gestion des conflits.",
+      "Blake et Mouton ont conçu la grille managériale."
+     ],
+     "src": {
+      "t": "Wikipedia – Situational leadership theory (Hersey et Blanchard)",
+      "u": "https://en.wikipedia.org/wiki/Situational_leadership_theory"
+     }
+    },
+    {
+     "id": "n20261106-mp06-06",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Dans le leadership situationnel, quel style combine beaucoup de directives et peu de relationnel ?",
+     "o": [
+      "S1, « diriger »",
+      "S2, « persuader »",
+      "S3, « participer »",
+      "S4, « déléguer »"
+     ],
+     "a": 0,
+     "e": "Le style S1 (telling, directing) est fort en comportement de tâche et faible en relationnel : le chef dit quoi faire et comment le faire.",
+     "ed": [
+      null,
+      "S2 combine beaucoup de directives et beaucoup de relationnel.",
+      "S3 combine peu de directives et beaucoup de relationnel.",
+      "S4 combine peu de directives et peu de relationnel."
+     ],
+     "src": {
+      "t": "Wikipedia – Situational leadership theory (Hersey et Blanchard)",
+      "u": "https://en.wikipedia.org/wiki/Situational_leadership_theory"
+     }
+    },
+    {
+     "id": "n20261106-mp06-07",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Quels sont les cinq modes de gestion des conflits décrits par Thomas et Kilmann ?",
+     "o": [
+      "Autoritaire, démocratique, laisser-faire, paternaliste, opportuniste",
+      "Diriger, persuader, participer, déléguer, contrôler",
+      "Compétition, collaboration, compromis, évitement, accommodation",
+      "Négociation, médiation, arbitrage, conciliation, jugement"
+     ],
+     "a": 2,
+     "e": "Thomas et Kilmann (1974) classent cinq modes selon l'affirmation de soi et la coopération : compétition, collaboration, compromis, évitement, accommodation.",
+     "ed": [
+      "Ces termes mêlent les styles de Lewin et des styles ajoutés à la grille de Blake et Mouton.",
+      "Ce sont, pour quatre d'entre eux, les styles de Hersey et Blanchard.",
+      null,
+      "Ce sont des procédés de règlement des litiges, non les modes du modèle."
+     ],
+     "src": {
+      "t": "Wikipedia – Thomas–Kilmann Conflict Mode Instrument",
+      "u": "https://en.wikipedia.org/wiki/Thomas%E2%80%93Kilmann_Conflict_Mode_Instrument"
+     }
+    },
+    {
+     "id": "n20261106-mp06-08",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Dans le modèle de Thomas et Kilmann, quel mode associe une forte affirmation de soi et une faible coopération ?",
+     "o": [
+      "La collaboration",
+      "L'accommodation",
+      "L'évitement",
+      "La compétition"
+     ],
+     "a": 3,
+     "e": "La compétition consiste à défendre ses intérêts sans chercher à satisfaire ceux de l'autre : affirmation forte, coopération faible.",
+     "ed": [
+      "La collaboration est forte sur les deux dimensions.",
+      "L'accommodation est l'inverse : faible affirmation, forte coopération.",
+      "L'évitement est faible sur les deux dimensions.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Thomas–Kilmann Conflict Mode Instrument",
+      "u": "https://en.wikipedia.org/wiki/Thomas%E2%80%93Kilmann_Conflict_Mode_Instrument"
+     }
+    },
+    {
+     "id": "n20261106-mp06-09",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Selon la définition citée par le CEDIP, déléguer consiste pour un responsable à :",
+     "o": [
+      "Confier un dossier dont il ne veut plus entendre parler",
+      "Confier des objectifs élaborés en commun, avec une autonomie réelle et des limites précisées",
+      "Transférer définitivement sa responsabilité à un collaborateur",
+      "Donner une consigne détaillée à exécuter sans initiative"
+     ],
+     "a": 1,
+     "e": "La délégation confie à un collaborateur la réalisation d'objectifs élaborés en commun, en lui laissant une autonomie réelle sur les moyens et méthodes, dans un cadre défini.",
+     "ed": [
+      "Déléguer n'est pas se défaire d'une tâche : le délégant suit et contrôle.",
+      null,
+      "Le délégant reste co-responsable : il n'y a pas de perte de responsabilité.",
+      "Une consigne détaillée sans initiative n'est pas une délégation : celle-ci laisse l'autonomie sur les moyens."
+     ],
+     "src": {
+      "t": "CEDIP (ministère français de la Transition écologique) – Fiche mémo : la délégation au cœur du management (août 2020)",
+      "u": "https://www.cedip.developpement-durable.gouv.fr/IMG/pdf/fichememo-la_delegation.pdf"
+     }
+    },
+    {
+     "id": "n20261106-mp06-10",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Après avoir délégué un dossier, que reste-t-il au chef de service selon la fiche du CEDIP ?",
+     "o": [
+      "Rien : la responsabilité est entièrement transférée",
+      "Seulement le droit de signer à la place du délégataire",
+      "Une co-responsabilité et un contrôle adapté à la délégation",
+      "L'obligation de refaire lui-même le travail"
+     ],
+     "a": 2,
+     "e": "Le délégant confie une partie de ses pouvoirs tout en restant co-responsable ; la confiance n'excluant pas le contrôle, les modalités de suivi sont prévues dès le départ.",
+     "ed": [
+      "La fiche précise que la délégation n'est ni une perte de responsabilité ni une perte de pouvoir.",
+      "La délégation porte sur des objectifs et une autonomie de moyens, pas sur une simple signature.",
+      null,
+      "Refaire le travail reviendrait à s'ingérer, ce que la fiche déconseille."
+     ],
+     "src": {
+      "t": "CEDIP (ministère français de la Transition écologique) – Fiche mémo : la délégation au cœur du management (août 2020)",
+      "u": "https://www.cedip.developpement-durable.gouv.fr/IMG/pdf/fichememo-la_delegation.pdf"
+     }
+    },
+    {
+     "id": "n20261106-mp06-11",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Un agent compétent et très motivé demande plus d'autonomie. Selon Hersey et Blanchard, quel style lui convient ?",
+     "o": [
+      "S4, « déléguer »",
+      "S1, « diriger »",
+      "S2, « persuader »",
+      "Le style autoritaire de Lewin"
+     ],
+     "a": 0,
+     "e": "Un collaborateur capable et confiant a besoin de peu de directives et de peu de soutien : le chef lui confie l'essentiel de la responsabilité (style S4).",
+     "ed": [
+      null,
+      "S1 convient à un débutant ; il étoufferait un agent autonome.",
+      "S2 apporte beaucoup de directives dont cet agent n'a plus besoin.",
+      "Un style autoritaire priverait cet agent de l'autonomie qu'il est capable d'assumer."
+     ],
+     "src": {
+      "t": "Wikipedia – Situational leadership theory (Hersey et Blanchard)",
+      "u": "https://en.wikipedia.org/wiki/Situational_leadership_theory"
+     }
+    },
+    {
+     "id": "n20261106-mp06-12",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Un agent expérimenté maîtrise ses dossiers mais doute de lui depuis une réforme. Quel style situationnel adopter ?",
+     "o": [
+      "S1, avec des consignes détaillées",
+      "S3, participatif, avec peu de directives et beaucoup de soutien",
+      "S4, en le laissant seul",
+      "Le style indifférent (1,1)"
+     ],
+     "a": 1,
+     "e": "Il est compétent mais peu confiant : il a peu besoin de directives et beaucoup de soutien. Le style S3, participatif, l'aide à retrouver confiance.",
+     "ed": [
+      "Des consignes détaillées seraient inutiles et vexantes pour un agent compétent.",
+      null,
+      "Le laisser seul ne répond pas à son manque de confiance.",
+      "Le style indifférent ne s'intéresse ni aux résultats ni aux personnes : il aggraverait la situation."
+     ],
+     "src": {
+      "t": "Wikipedia – Situational leadership theory (Hersey et Blanchard)",
+      "u": "https://en.wikipedia.org/wiki/Situational_leadership_theory"
+     }
+    },
+    {
+     "id": "n20261106-mp06-13",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Un directeur obtient de bons chiffres mais n'écoute jamais ses agents, qui sont épuisés. Où le situer sur la grille de Blake et Mouton ?",
+     "o": [
+      "(1,9)",
+      "(5,5)",
+      "(1,1)",
+      "(9,1)"
+     ],
+     "a": 3,
+     "e": "Intérêt maximal pour la production et minimal pour les personnes : c'est le style (9,1), autoritaire, que la grille appelait autrefois « produire ou périr ».",
+     "ed": [
+      "(1,9) est l'inverse : fort intérêt pour les personnes, faible pour la production.",
+      "(5,5) est un équilibre moyen, non un intérêt exclusif pour les résultats.",
+      "(1,1) traduit un faible intérêt pour les deux, or ce directeur vise fortement les résultats.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Managerial grid model (Blake et Mouton)",
+      "u": "https://en.wikipedia.org/wiki/Managerial_grid_model"
+     }
+    },
+    {
+     "id": "n20261106-mp06-14",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Deux collègues s'opposent sur un détail sans importance de la présentation d'un rapport, la veille de sa remise. Quel mode de Thomas et Kilmann est ici le plus raisonnable ?",
+     "o": [
+      "La compétition, pour imposer une version",
+      "La collaboration, avec une longue réunion de travail",
+      "L'évitement, ou un compromis rapide",
+      "L'accommodation systématique de toute l'équipe"
+     ],
+     "a": 2,
+     "e": "Aucun mode n'est mauvais en soi : pour un enjeu mineur et sans temps disponible, éviter le débat ou trancher par un compromis rapide est adapté.",
+     "ed": [
+      "Imposer une version pour un détail risque de créer un conflit plus grave que l'enjeu.",
+      "La collaboration convient aux problèmes importants ; elle coûte un temps qui manque ici.",
+      null,
+      "Une accommodation systématique sacrifie toujours les mêmes intérêts et n'est pas une méthode."
+     ],
+     "src": {
+      "t": "Wikipedia – Thomas–Kilmann Conflict Mode Instrument",
+      "u": "https://en.wikipedia.org/wiki/Thomas%E2%80%93Kilmann_Conflict_Mode_Instrument"
+     }
+    },
+    {
+     "id": "n20261106-mp06-15",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Laquelle de ces affirmations est FAUSSE ?",
+     "o": [
+      "Le style démocratique est toujours le plus productif",
+      "Le leadership situationnel fait dépendre le style de la maturité du collaborateur",
+      "La grille de Blake et Mouton note chaque axe de 1 à 9",
+      "Le modèle de Thomas et Kilmann repose sur deux dimensions"
+     ],
+     "a": 0,
+     "e": "L'étude de Lewin montre que le groupe démocratique produisait moins que le groupe autoritaire, mais un travail de meilleure qualité : il n'est donc pas « toujours le plus productif ».",
+     "ed": [
+      null,
+      "C'est exact : Hersey et Blanchard règlent le style sur la compétence et la motivation.",
+      "C'est exact : chaque axe va de 1 (faible) à 9 (fort).",
+      "C'est exact : l'affirmation de soi et la coopération."
+     ],
+     "src": {
+      "t": "Simply Psychology – Leadership Styles (Lewin, Lippitt et White, 1939)",
+      "u": "https://www.simplypsychology.org/leadership-styles.html"
+     }
+    },
+    {
+     "id": "n20261106-mp06-16",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Quelle est la première étape d'une délégation selon la fiche du CEDIP ?",
+     "o": [
+      "Faire le bilan et reconnaître le travail",
+      "Contrôler chaque jour le délégataire",
+      "Annoncer la délégation à toute la direction",
+      "Préparer : que déléguer, à qui, comment"
+     ],
+     "a": 3,
+     "e": "La fiche du CEDIP décrit quatre étapes : préparer et organiser la délégation, conduire l'entretien, mettre en œuvre et suivre, puis faire le bilan.",
+     "ed": [
+      "Le bilan est la quatrième et dernière étape.",
+      "Un contrôle quotidien serait une ingérence ; le suivi se définit lors de l'entretien.",
+      "Cette annonce ne figure pas parmi les étapes de la fiche.",
+      null
+     ],
+     "src": {
+      "t": "CEDIP (ministère français de la Transition écologique) – Fiche mémo : la délégation au cœur du management (août 2020)",
+      "u": "https://www.cedip.developpement-durable.gouv.fr/IMG/pdf/fichememo-la_delegation.pdf"
+     }
+    },
+    {
+     "id": "n20261106-mp06-17",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Pendant une délégation, le chef reprend sans cesse le travail de son agent pour le corriger. Quelle règle viole-t-il ?",
+     "o": [
+      "Il ne viole aucune règle : c'est le contrôle normal",
+      "Ne pas s'ingérer dans le travail du délégataire et lui reconnaître le droit à l'erreur",
+      "Annoncer les résultats attendus",
+      "Faire le bilan à la fin"
+     ],
+     "a": 1,
+     "e": "La fiche du CEDIP recommande, pendant la mise en œuvre, de ne pas s'ingérer dans le travail du délégataire, de respecter son autonomie et de lui donner le droit à l'erreur.",
+     "ed": [
+      "Le contrôle se fait selon des modalités prévues, non par une reprise permanente du travail.",
+      null,
+      "Le cas ne dit rien des résultats attendus ; la faute porte sur l'ingérence.",
+      "Le bilan n'est pas en cause : c'est le suivi qui est mal conduit."
+     ],
+     "src": {
+      "t": "CEDIP (ministère français de la Transition écologique) – Fiche mémo : la délégation au cœur du management (août 2020)",
+      "u": "https://www.cedip.developpement-durable.gouv.fr/IMG/pdf/fichememo-la_delegation.pdf"
+     }
+    },
+    {
+     "id": "n20261106-mp06-18",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Dans le modèle de Thomas et Kilmann, quel mode se situe à un niveau intermédiaire sur les deux dimensions ?",
+     "o": [
+      "La collaboration",
+      "L'évitement",
+      "Le compromis",
+      "La compétition"
+     ],
+     "a": 2,
+     "e": "Le compromis est intermédiaire en affirmation de soi comme en coopération : chacun renonce à une partie de ce qu'il voulait.",
+     "ed": [
+      "La collaboration est forte sur les deux dimensions, non intermédiaire.",
+      "L'évitement est faible sur les deux dimensions.",
+      null,
+      "La compétition est forte en affirmation et faible en coopération."
+     ],
+     "src": {
+      "t": "Wikipedia – Thomas–Kilmann Conflict Mode Instrument",
+      "u": "https://en.wikipedia.org/wiki/Thomas%E2%80%93Kilmann_Conflict_Mode_Instrument"
+     }
+    },
+    {
+     "id": "n20261106-mp06-19",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Quelle chronologie des modèles de direction est exacte ?",
+     "o": [
+      "Lewin (1939), Blake et Mouton (1964), Hersey et Blanchard (1969), Thomas et Kilmann (1974)",
+      "Blake et Mouton (1939), Lewin (1964), Thomas et Kilmann (1969), Hersey et Blanchard (1974)",
+      "Hersey et Blanchard (1939), Lewin (1969), Blake et Mouton (1974), Thomas et Kilmann (1964)",
+      "Thomas et Kilmann (1939), Hersey et Blanchard (1964), Lewin (1969), Blake et Mouton (1974)"
+     ],
+     "a": 0,
+     "e": "L'étude de Lewin date de 1939, la grille de Blake et Mouton de 1964, le leadership situationnel de 1969 et le modèle des conflits de Thomas et Kilmann de 1974.",
+     "ed": [
+      null,
+      "Lewin est le plus ancien (1939), non Blake et Mouton.",
+      "Hersey et Blanchard datent de 1969, non de 1939.",
+      "Thomas et Kilmann datent de 1974, ce qui en fait le modèle le plus récent des quatre."
+     ],
+     "src": {
+      "t": "Wikipedia – Thomas–Kilmann Conflict Mode Instrument",
+      "u": "https://en.wikipedia.org/wiki/Thomas%E2%80%93Kilmann_Conflict_Mode_Instrument"
+     }
+    },
+    {
+     "id": "n20261106-mp06-20",
+     "m": "mop",
+     "tag": "niv-mp06",
+     "q": "Selon la fiche du CEDIP, sur quoi le chef et le délégataire doivent-ils s'accorder lors de l'entretien de délégation ?",
+     "o": [
+      "Uniquement sur la date de fin",
+      "Sur le salaire du délégataire",
+      "Sur la liste des erreurs interdites",
+      "Sur les résultats attendus, le calendrier et les modalités de suivi et de contrôle"
+     ],
+     "a": 3,
+     "e": "L'entretien de délégation sert à négocier et à convenir des résultats attendus, du calendrier, ainsi que des modalités de suivi et de contrôle, adaptées à l'objet de la délégation.",
+     "ed": [
+      "La date de fin seule ne suffit pas : les résultats attendus et le suivi doivent aussi être fixés.",
+      "La rémunération ne fait pas partie de l'entretien de délégation décrit par la fiche.",
+      "La fiche recommande au contraire de reconnaître au délégataire le droit à l'erreur.",
+      null
+     ],
+     "src": {
+      "t": "CEDIP (ministère français de la Transition écologique) – Fiche mémo : la délégation au cœur du management (août 2020)",
+      "u": "https://www.cedip.developpement-durable.gouv.fr/IMG/pdf/fichememo-la_delegation.pdf"
+     }
+    },
+    {
+     "id": "n20261106-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Entre quelles puissances le traité de Tordesillas, signé le 7 juin 1494, partage-t-il les terres à découvrir hors d'Europe ?",
+     "o": [
+      "La France et l'Angleterre",
+      "L'Espagne et le Portugal",
+      "Venise et Gênes",
+      "Les Provinces-Unies et l'Espagne"
+     ],
+     "a": 1,
+     "e": "Le traité de Tordesillas, conclu entre les monarques d'Espagne et du Portugal, fixe une ligne de partage à 370 lieues à l'ouest des îles du Cap-Vert.",
+     "ed": [
+      "La France et l'Angleterre ne sont pas parties à ce traité, qui ne concerne que les deux royaumes ibériques.",
+      null,
+      "Les cités italiennes ne sont pas parties à ce partage entre royaumes ibériques.",
+      "Le traité est conclu entre les seuls monarques d'Espagne et du Portugal."
+     ],
+     "src": {
+      "t": "World History Encyclopedia – Le traité de Tordesillas",
+      "u": "https://www.worldhistory.org/trans/fr/1-19935/le-traite-de-tordesillas/"
+     }
+    },
+    {
+     "id": "n20261106-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel souverain conduit l'armée éthiopienne victorieuse de l'armée italienne à Adoua, le 1er mars 1896 ?",
+     "o": [
+      "Hailé Sélassié",
+      "Téwodros II",
+      "Ménélik II",
+      "Yohannes IV"
+     ],
+     "a": 2,
+     "e": "Le 1er mars 1896, environ 100 000 Éthiopiens répondent à l'appel de leur empereur, le négus Ménélik II, et écrasent une armée italienne près d'Adoua.",
+     "ed": [
+      "Ce n'est pas lui : l'empereur qui appelle les Éthiopiens aux armes en 1896 est Ménélik II.",
+      "Téwodros II n'est pas l'empereur qui commande à Adoua en 1896 ; c'est Ménélik II.",
+      null,
+      "Yohannes IV n'est pas l'empereur qui commande à Adoua en 1896 ; c'est Ménélik II."
+     ],
+     "src": {
+      "t": "Hérodote.net – 1er mars 1896 : victoire éthiopienne d'Adoua",
+      "u": "https://www.herodote.net/1er_mars_1896-evenement-18960301.php"
+     }
+    },
+    {
+     "id": "n20261106-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel traité, signé le 26 octobre 1896 après la défaite italienne d'Adoua, reconnaît formellement l'indépendance de l'Éthiopie ?",
+     "o": [
+      "Le traité d'Addis-Abeba",
+      "Le traité de Wuchale",
+      "Le traité de Berlin",
+      "Le traité de Versailles"
+     ],
+     "a": 0,
+     "e": "Après Adoua, l'Italie reconnaît formellement l'indépendance de l'Éthiopie par le traité d'Addis-Abeba du 26 octobre 1896.",
+     "ed": [
+      null,
+      "Ce n'est pas lui : la reconnaissance du 26 octobre 1896 résulte du traité d'Addis-Abeba.",
+      "L'acte de Berlin date de 1885 et porte sur le bassin du Congo, non sur l'Éthiopie.",
+      "Le traité de Versailles date de 1919 et règle la paix avec l'Allemagne."
+     ],
+     "src": {
+      "t": "Hérodote.net – 1er mars 1896 : victoire éthiopienne d'Adoua",
+      "u": "https://www.herodote.net/1er_mars_1896-evenement-18960301.php"
+     }
+    },
+    {
+     "id": "n20261106-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Que proclame notamment l'Acte général de la conférence de Berlin, signé le 26 février 1885 ?",
+     "o": [
+      "L'indépendance de l'Éthiopie",
+      "La liberté de navigation sur le Niger et le Congo",
+      "La création de la Société des Nations",
+      "Le partage du monde entre l'Espagne et le Portugal"
+     ],
+     "a": 1,
+     "e": "L'Acte général de la conférence de Berlin (15 novembre 1884 - 26 février 1885) proclame la liberté de navigation sur les grands fleuves africains, le Niger et le Congo.",
+     "ed": [
+      "L'indépendance de l'Éthiopie est reconnue en 1896 par le traité d'Addis-Abeba.",
+      null,
+      "La Société des Nations est prévue par le traité de Versailles de 1919.",
+      "Ce partage est l'objet du traité de Tordesillas de 1494."
+     ],
+     "src": {
+      "t": "Hérodote.net – 15 novembre 1884 - 26 février 1885 : conférence de Berlin",
+      "u": "https://www.herodote.net/15_novembre_1884_26_fevrier_1885-evenement-18850226.php"
+     }
+    },
+    {
+     "id": "n20261106-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle salle du château de Versailles le traité de paix avec l'Allemagne est-il signé le 28 juin 1919 ?",
+     "o": [
+      "Le salon d'Hercule",
+      "La chapelle royale",
+      "La salle du Jeu de paume",
+      "La galerie des Glaces"
+     ],
+     "a": 3,
+     "e": "Le traité de Versailles est signé dans la galerie des Glaces, là même où l'Empire allemand avait été proclamé le 18 janvier 1871.",
+     "ed": [
+      "Le salon d'Hercule n'est pas le lieu de la signature.",
+      "La chapelle royale n'est pas le lieu de la signature.",
+      "Le Jeu de paume n'est pas le lieu de la signature du traité de 1919.",
+      null
+     ],
+     "src": {
+      "t": "Hérodote.net – 28 juin 1919 : traité de Versailles",
+      "u": "https://www.herodote.net/28_juin_1919-evenement-19190628.php"
+     }
+    },
+    {
+     "id": "n20261106-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel régime la restauration de Meiji renverse-t-elle au Japon en 1868 ?",
+     "o": [
+      "Le shogunat Tokugawa",
+      "L'empire mongol",
+      "La dynastie Qing",
+      "Le protectorat britannique"
+     ],
+     "a": 0,
+     "e": "En 1868, la restauration de Meiji renverse le shogunat Tokugawa, dont la domination s'achève après 268 ans ; l'empereur Mutsuhito adopte le nom de règne Meiji.",
+     "ed": [
+      null,
+      "Ce n'est pas le régime renversé : la restauration met fin au shogunat Tokugawa.",
+      "Ce n'est pas le régime renversé : la dynastie Qing est chinoise ; au Japon, c'est le shogunat Tokugawa qui tombe.",
+      "Ce n'est pas le régime renversé : la restauration met fin au shogunat Tokugawa."
+     ],
+     "src": {
+      "t": "World History Encyclopedia – Restauration de Meiji",
+      "u": "https://www.worldhistory.org/trans/fr/1-19836/restauration-de-meiji/"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261106ct05",
+     "niv": "ct05",
+     "m": "ct",
+     "verif": "methode",
+     "titre": "Résumer un texte économique : entraînement guidé",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez reconnaître le squelette d'un texte économique (constat, mécanisme, conséquences, solution) et le réduire sans casser ses liens de cause à effet.",
+      "= Vous saurez aussi traiter les chiffres, les exemples et le vocabulaire technique, puis rédiger, sur un texte d'entraînement complet, un résumé dans la fourchette imposée.",
+      "## Ce que demande l'épreuve",
+      "Les textes proposés au résumé sont souvent des textes d'idées sur l'économie, l'emploi ou le développement. Ils contiennent trois difficultés propres : des chaînes de causes et de conséquences, des chiffres, et un vocabulaire technique. Le correcteur vérifie que vous avez gardé le raisonnement de l'auteur dans son ordre, que vous n'avez pas inversé une cause et une conséquence, et que vous n'avez ni recopié le texte ni ajouté vos propres connaissances.",
+      "! Piège habituel : résumer le sujet (« le texte parle de l'inflation ») au lieu de résumer la thèse (« l'inflation n'est pas seulement monétaire »). Un résumé qui énumère des thèmes sans relier les idées perd l'essentiel des points.",
+      "## La méthode, pas à pas",
+      "- 1. Lisez une première fois pour trouver le thème et la thèse ; écrivez-les en haut du brouillon.",
+      "- 2. Pour chaque paragraphe, notez son idée en une phrase-étiquette, avec des flèches : « offre agricole faible → prix alimentaires en hausse ».",
+      "- 3. Encadrez les connecteurs (certes, mais, ainsi, donc, or) : ils donnent le mouvement du raisonnement.",
+      "- 4. Repérez la thèse adverse que l'auteur rapporte pour la contester, et ne la confondez pas avec sa propre thèse.",
+      "- 5. Remplacez chaque série de chiffres par la tendance qu'elle prouve ; ne gardez un chiffre que s'il porte l'argument.",
+      "- 6. Rédigez en suivant l'ordre du texte, avec le vocabulaire technique de l'auteur, puis comptez vos mots.",
+      "~ Exemple : « Les recettes fiscales sont passées de 12 % à 15 % du PIB en cinq ans, grâce à la numérisation des déclarations. » Phrase-étiquette : numérisation → hausse des recettes fiscales. Dans le résumé : « La numérisation a accru les recettes fiscales. »"
+     ],
+     "fond": [
+      "## Notion 1 : le squelette d'un texte économique",
+      "Règle : la plupart des textes économiques suivent un même mouvement. L'auteur pose un constat, explique un mécanisme, en tire des conséquences, puis propose une solution ou une nuance. Repérer ces quatre temps, c'est déjà avoir le plan du résumé.",
+      "Pourquoi ? Un texte d'économie est un raisonnement : il cherche à expliquer pourquoi un phénomène se produit et ce qu'il faut faire. Le paragraphe est « la véritable unité de pensée » : chacun porte en général un de ces temps (Lycée Champollion).",
+      "~ Exemple résolu : un texte sur le chômage des jeunes diplômés. Constat : beaucoup de diplômés ne trouvent pas d'emploi. Mécanisme : les formations ne correspondent pas aux besoins des entreprises. Conséquence : les jeunes se tournent vers l'informel. Solution : rapprocher écoles et entreprises. Le résumé suit ces quatre temps, dans cet ordre.",
+      "! Piège : la thèse est souvent une nuance contre une idée reçue (« on croit que… ; en réalité… »). Le constat d'ouverture n'est alors que la thèse adverse.",
+      "## Notion 2 : condenser une chaîne causale sans la casser",
+      "Règle : quand le texte enchaîne plusieurs causes et effets, on peut supprimer les étapes intermédiaires de détail, mais on garde le point de départ, le point d'arrivée et le sens de la flèche.",
+      "Pourquoi ? Dans un texte économique, l'idée n'est pas « A » ni « B », c'est le lien « A provoque B ». Couper le lien, ou l'inverser, fait un contresens, même si tous les mots justes sont présents.",
+      "~ Exemple résolu : « La hausse du prix du carburant renchérit le transport ; les commerçants répercutent ce coût sur leurs prix ; le pouvoir d'achat des ménages recule. » Étape 1 : départ = carburant plus cher ; arrivée = recul du pouvoir d'achat. Étape 2 : l'intermédiaire (transport, répercussion) se dit en un mot. Résultat : « Le renchérissement du carburant, répercuté sur les prix, ampute le pouvoir d'achat. » (12 mots au lieu de 26.)",
+      "? Condensez sans casser la chaîne : « Les pluies tardives ont réduit la récolte de maïs. Le maïs se fait rare sur les marchés. Son prix augmente donc fortement. » || « Les pluies tardives, en réduisant la récolte, ont fait flamber le prix du maïs. » On garde la cause première (les pluies), la conséquence finale (la hausse du prix) et le lien ; la rareté sur les marchés est contenue dans le mécanisme.",
+      "! Piège : transformer une simple coïncidence en cause. Si l'auteur écrit « en même temps », n'écrivez pas « à cause de ».",
+      "## Notion 3 : chiffres et exemples",
+      "Règle : un chiffre est un exemple chiffré. Comme tout exemple, il illustre une idée ; dans le résumé, on garde l'idée et l'on remplace la série de chiffres par la tendance qu'elle montre (hausse, baisse, doublement, stagnation). On garde un chiffre seulement s'il porte lui-même l'argument, par exemple un seuil que l'auteur juge décisif.",
+      "Pourquoi ? Les méthodes de résumé distinguent les exemples qui illustrent, que l'on supprime, de ceux qui font avancer le raisonnement, que l'on garde (Lycée Champollion). Recopier des chiffres coûte des mots sans prouver que l'on a compris.",
+      "~ Exemple résolu : « En 2010, 30 % des ménages avaient un compte de monnaie électronique ; en 2020, ils étaient 60 %. » Étape 1 : 30 → 60, c'est un doublement. Étape 2 : l'idée est la diffusion rapide de la monnaie électronique. Résumé : « L'usage de la monnaie électronique a doublé en dix ans. »",
+      "? Réduisez : « Le pays exporte 80 % de son cacao sous forme de fèves brutes et n'en transforme que 20 % ; il perd ainsi l'essentiel de la valeur ajoutée. » || « Exportant surtout des fèves brutes, le pays perd l'essentiel de la valeur ajoutée du cacao. » Les pourcentages illustrent l'idée « peu de transformation locale » ; on garde l'idée et sa conséquence, pas les chiffres.",
+      "## Notion 4 : garder le vocabulaire technique",
+      "Règle : les notions économiques de l'auteur (inflation, pouvoir d'achat, valeur ajoutée, secteur informel, politique monétaire) se conservent telles quelles. On reformule les tournures, jamais les concepts.",
+      "Pourquoi ? Pour les mots-clés, il est inutile de chercher des équivalents approximatifs qui gauchiraient le texte (Lycée Champollion). « Inflation » ne veut pas dire « vie chère » ; « croissance » ne veut pas dire « développement ». Un synonyme approximatif est un contresens.",
+      "! Piège : ajouter ce que l'on sait. Si le texte parle d'inflation sans nommer la banque centrale de votre zone, ne la nommez pas : le résumé ne contient que le texte.",
+      "## Notion 5 : entraînement guidé complet",
+      "> Texte d'entraînement original (environ 260 mots). Consigne : résumez-le en 80 mots, plus ou moins 10 %.",
+      "> § 1. On présente souvent l'inflation comme un mal purement monétaire, qu'il suffirait de combattre en relevant les taux d'intérêt. Cette vision, commode, est incomplète.",
+      "> § 2. Certes, lorsque la monnaie en circulation augmente plus vite que la production, les prix montent, et la banque centrale a raison de renchérir le crédit. Mais dans les économies où l'alimentation pèse lourd dans les dépenses des ménages, la hausse des prix vient d'abord des marchés agricoles et des coûts de transport. Une mauvaise récolte, un carburant plus cher, une route coupée suffisent à faire flamber le prix du riz ou de l'igname, sans que la quantité de monnaie ait changé.",
+      "> § 3. Les conséquences sont inégales. Un ménage qui consacre la moitié de son revenu à se nourrir perd beaucoup plus de pouvoir d'achat, quand les denrées renchérissent de 10 %, qu'un ménage aisé pour qui la nourriture ne représente qu'une faible part du budget. L'inflation agit ainsi comme un impôt silencieux, qui frappe d'abord les plus pauvres.",
+      "> § 4. Or relever les taux d'intérêt ne fait pas pousser le riz. Une telle mesure freine le crédit aux entreprises et peut ralentir l'activité, alors même que la cause de la hausse des prix est ailleurs. Il faut donc agir sur l'offre : stocker les récoltes, réduire les pertes après la récolte, entretenir les pistes rurales, diversifier les sources d'approvisionnement.",
+      "> § 5. La politique monétaire reste nécessaire, mais elle ne peut pas tout. Contre une inflation née des champs et des routes, la réponse la plus durable est une politique agricole.",
+      "? Étape 1 : quelle est la thèse adverse, et quelle est la thèse de l'auteur ? || Thèse adverse (§ 1) : l'inflation serait purement monétaire et se combattrait par la hausse des taux. Thèse de l'auteur (§ 5) : la politique monétaire ne suffit pas ; contre une inflation d'origine agricole, il faut une politique agricole. « Cette vision… est incomplète » signale la réfutation.",
+      "? Étape 2 : rédigez la phrase-étiquette de chaque paragraphe. || § 1 : idée reçue = inflation monétaire → hausse des taux. § 2 : certes excès de monnaie → prix ; mais là où l'alimentation domine → prix dus aux récoltes et transports. § 3 : inflation → appauvrit surtout les pauvres. § 4 : hausse des taux → freine l'activité sans traiter la cause ; donc agir sur l'offre. § 5 : politique monétaire nécessaire mais insuffisante → politique agricole. Les exemples (riz, igname, route coupée, 10 %) et la liste des mesures se généralisent.",
+      "? Étape 3 : rédigez le résumé en 80 mots (de 72 à 88), puis comparez au corrigé. || Corrigé (83 mots, apostrophe comptée comme séparation) : « L'inflation n'est pas seulement un phénomène monétaire que la hausse des taux d'intérêt suffirait à combattre. Certes, un excès de monnaie fait monter les prix ; mais là où l'alimentation domine les dépenses, la hausse naît surtout des récoltes et des transports. Elle appauvrit d'abord les ménages modestes. Renchérir le crédit freinerait alors l'activité sans traiter la cause : il faut accroître et sécuriser l'offre agricole. Nécessaire, la politique monétaire doit donc s'accompagner d'une politique agricole. » Commentaire : l'ordre des cinq paragraphes est respecté ; la concession (« certes… mais ») est gardée ; les exemples et le chiffre de 10 % sont généralisés ; les notions techniques (inflation, taux d'intérêt, offre, politique monétaire) sont conservées ; aucune formule « l'auteur dit que »."
+     ],
+     "retenir": [
+      "Un texte économique suit souvent quatre temps : constat, mécanisme, conséquences, solution ou nuance.",
+      "Dans une chaîne causale, on garde la cause de départ, la conséquence finale et le sens du lien.",
+      "Inverser une cause et une conséquence est un contresens, même avec les bons mots.",
+      "Une série de chiffres se remplace par la tendance qu'elle prouve : hausse, baisse, doublement, stagnation.",
+      "On ne garde un chiffre que s'il porte lui-même l'argument de l'auteur.",
+      "Les notions techniques de l'auteur (inflation, valeur ajoutée, pouvoir d'achat) se conservent sans synonyme approximatif.",
+      "Le résumé ne contient que le texte : aucune connaissance personnelle ajoutée, aucun « l'auteur dit que ».",
+      "La thèse est souvent une nuance contre une idée reçue annoncée par « on croit souvent… »."
+     ],
+     "exo": {
+      "tag": "niv-ct05",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Lycée Champollion – Méthodologie : le résumé ou contraction de texte (G. Negrello)",
+       "u": "https://www.lycee-champollion.fr/IMG/pdf/resume.pdf"
+      },
+      {
+       "t": "Les Sherpas – Méthode du résumé de texte en prépa scientifique",
+       "u": "https://sherpas.com/blog/methode-resume-francais-prepa/"
+      }
+     ]
+    },
+    {
+     "id": "L20261106de04",
+     "niv": "de04",
+     "m": "denf",
+     "titre": "La Charte africaine des droits et du bien-être de l'enfant",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dater et situer la Charte africaine des droits et du bien-être de l'enfant (1990), expliquer en quoi elle protège davantage que la Convention de 1989, et citer l'article qui règle un cas pratique.",
+      "= Vous saurez aussi décrire le Comité africain d'experts : composition, mandat, rapports, communications et enquêtes.",
+      "## Ce que demande l'épreuve",
+      "En dissertation, la Charte africaine fournit le cadre régional : le correcteur attend que vous montriez ce qu'elle ajoute à la Convention relative aux droits de l'enfant (CDE), et pourquoi l'Afrique a voulu son propre texte. En cas pratique, elle fournit la règle : une fille de 16 ans promise en mariage, un garçon de 17 ans enrôlé, une mère détenue avec son nourrisson. Les QCM portent sur les dates, les seuils d'âge, les numéros d'articles et la composition du Comité.",
+      "! Piège habituel : prêter à la Charte les seuils de la CDE. La CDE fixe à 15 ans l'interdiction d'enrôlement (article 38) ; la Charte vise tout enfant, c'est-à-dire toute personne de moins de 18 ans (articles 2 et 22).",
+      "## La méthode, pas à pas",
+      "- 1. Qualifiez la personne : a-t-elle moins de 18 ans ? Si oui, c'est un enfant au sens de l'article 2, sans exception.",
+      "- 2. Identifiez le droit en cause et l'article de la Charte qui le protège.",
+      "- 3. Comparez avec la CDE : la Charte est-elle plus protectrice sur ce point ?",
+      "- 4. Indiquez le mécanisme de contrôle : rapport de l'État, communication au Comité, enquête.",
+      "- 5. Concluez en rappelant que l'intérêt de l'enfant est « la considération primordiale » (article 4).",
+      "~ Exemple : un chef de village veut marier une adolescente de 16 ans selon la coutume. Article 2 : elle est un enfant. Article 21 § 2 : les mariages d'enfants sont interdits et l'âge minimal du mariage est fixé à 18 ans. Article 1 § 3 : la coutume incompatible avec la Charte doit être découragée."
+     ],
+     "fond": [
+      "## Notion 1 : un texte africain, adopté en 1990",
+      "Règle : la Charte a été adoptée en juillet 1990 à Addis-Abeba par la 26e conférence des chefs d'État et de gouvernement de l'Organisation de l'unité africaine (OUA). Elle est entrée en vigueur le 29 novembre 1999, après la ratification de 15 États, conformément à son article 47 (UNICEF).",
+      "Article 47 § 3 : la Charte entre en vigueur dans les 30 jours suivant la réception, par le Secrétaire général de l'OUA, des instruments de ratification ou d'adhésion de 15 États membres.",
+      "Pourquoi un texte régional, un an après la CDE ? Les États africains voulaient un instrument qui tienne compte des réalités du continent : mariages précoces, enfants soldats, apartheid, enfants déplacés. Le préambule rappelle d'ailleurs la Déclaration sur les droits et le bien-être de l'enfant africain adoptée par l'OUA à Monrovia en juillet 1979.",
+      "La Côte d'Ivoire : son deuxième rapport au Comité des droits de l'enfant de l'ONU indique que les instruments de ratification de la Charte ont été déposés le 18 juin 2007.",
+      "~ Exemple résolu de calcul de délai : un État dépose son instrument de ratification ; la Charte est déjà en vigueur. Son premier rapport au Comité africain est dû dans les deux ans qui suivent l'entrée en vigueur pour lui (article 43), puis tous les trois ans.",
+      "## Notion 2 : une protection plus forte que la CDE",
+      "Règle : sur plusieurs points, la Charte va plus loin que la CDE.",
+      "- Définition de l'enfant (article 2) : « tout être humain âgé de moins de 18 ans ». La CDE (article 1) ajoute « sauf si la majorité est atteinte plus tôt en vertu de la législation qui lui est applicable ». La Charte n'admet pas cette exception.",
+      "- Intérêt de l'enfant (article 4 § 1) : il est « la considération primordiale » ; pour la CDE (article 3), il est « une considération primordiale ».",
+      "- Mariage (article 21 § 2) : les mariages d'enfants et la promesse de jeunes filles et garçons en mariage sont interdits ; l'âge minimal est de 18 ans et l'enregistrement des mariages est obligatoire.",
+      "- Conflits armés (article 22 § 2) : aucun enfant ne doit prendre directement part aux hostilités ni être enrôlé. La CDE (article 38) fixe le seuil à 15 ans.",
+      "- Coutumes (article 1 § 3) : toute coutume ou pratique culturelle ou religieuse incompatible avec la Charte doit être découragée.",
+      "Pourquoi ? En supprimant l'exception de la majorité anticipée, la Charte empêche un État d'abaisser l'âge de la protection par sa loi nationale. En plaçant le seuil à 18 ans partout, elle répond aux réalités du continent.",
+      "? Un garçon de 17 ans est recruté par une force armée pour servir à un poste de contrôle. Les textes sont-ils violés ? || Selon la CDE (article 38), l'interdiction d'enrôlement vise les moins de 15 ans : à 17 ans, l'État doit seulement enrôler en priorité les plus âgés. Selon la Charte (articles 2 et 22 § 2), il a moins de 18 ans, c'est donc un enfant, et aucun enfant ne doit être enrôlé : la Charte est violée.",
+      "## Notion 3 : des protections propres à l'Afrique",
+      "Règle : la Charte contient des dispositions que la CDE n'a pas sous cette forme.",
+      "- Filles enceintes (article 11 § 6) : les États veillent à ce qu'elles puissent poursuivre leur éducation.",
+      "- Mères détenues (article 30) : peines non privatives de liberté envisagées d'abord ; interdiction d'emprisonner une mère avec son enfant ; interdiction de prononcer la peine de mort contre ces mères.",
+      "- Peine de mort (article 5 § 3) : elle n'est pas prononcée pour les crimes commis par des enfants.",
+      "- Enfants réfugiés et déplacés internes (article 23) ; enfants vivant sous l'apartheid ou un régime discriminatoire (article 26).",
+      "- Vente, traite, enlèvement et utilisation des enfants dans la mendicité (article 29).",
+      "! Piège : la Charte ne mentionne pas l'emprisonnement à vie, alors que la CDE (article 37) interdit l'emprisonnement à vie sans possibilité de libération pour les moins de 18 ans. Sur ce point précis, c'est la CDE qui protège davantage.",
+      "? Une femme enceinte est condamnée pour vol. Quelles mesures l'article 30 demande-t-il à l'État ? || Envisager d'abord une peine non privative de liberté ; prévoir, si la détention est inévitable, des mesures et établissements adaptés ; ne pas emprisonner la mère avec son enfant ; ne jamais prononcer la peine de mort contre elle ; orienter la peine vers la réinsertion de la mère dans sa famille.",
+      "## Notion 4 : les responsabilités de l'enfant",
+      "Règle : l'article 31 énonce que tout enfant a des responsabilités envers sa famille, la société, l'État et la communauté internationale, « selon son âge et ses capacités ». Il doit notamment œuvrer pour la cohésion de sa famille, respecter ses parents et les personnes âgées, servir sa communauté nationale, préserver les valeurs culturelles africaines et contribuer à l'unité africaine.",
+      "Pourquoi ? La Charte s'inscrit dans la tradition de la Charte africaine des droits de l'homme et des peuples, qui associe droits et devoirs. Certains auteurs y voient un risque : ces devoirs pourraient entrer en conflit avec le droit de l'enfant à participer et à s'exprimer. C'est un bon thème de discussion en dissertation.",
+      "## Notion 5 : le Comité africain d'experts",
+      "Règle : l'article 32 crée un Comité africain d'experts sur les droits et le bien-être de l'enfant. Il compte onze membres, siégeant à titre personnel, sans plus d'un ressortissant du même État (article 33). Ils sont élus au scrutin secret par la Conférence des chefs d'État et de gouvernement (article 34), pour cinq ans (article 37). Le texte de 1990 les déclarait non rééligibles ; un amendement de janvier 2015 permet une réélection. Le Bureau est élu pour deux ans et le quorum est de sept membres (article 38).",
+      "Le Comité a été formé en juillet 2001 et est devenu opérationnel en 2003 ; son secrétariat est installé à Maseru, au Lesotho, depuis décembre 2020.",
+      "Ses outils : examen des rapports des États, dus dans les deux ans de l'entrée en vigueur puis tous les trois ans (article 43), alors que la CDE prévoit un rapport tous les cinq ans (article 44) ; communications de tout individu, groupe ou ONG reconnue (article 44) ; enquêtes (article 45) ; interprétation de la Charte (article 42).",
+      "Le Comité s'inspire du droit international des droits de l'homme, dont la CDE, et des valeurs du patrimoine traditionnel et culturel africain (article 46). La Journée de l'enfant africain, le 16 juin, a été instituée en 1991 par l'OUA en mémoire du soulèvement des élèves de Soweto du 16 juin 1976.",
+      "? Une ONG reconnue par l'Union africaine constate que des enfants d'un État partie sont contraints à mendier. Que peut-elle faire, et sur quel fondement ? || Elle peut adresser une communication au Comité africain d'experts (article 44), en indiquant son nom et son adresse ; la communication est examinée de façon confidentielle. Le fond du grief est l'article 29 b, qui demande aux États d'empêcher l'utilisation des enfants dans la mendicité."
+     ],
+     "retenir": [
+      "La Charte africaine des droits et du bien-être de l'enfant a été adoptée en juillet 1990 par la 26e conférence des chefs d'État de l'OUA.",
+      "Elle est entrée en vigueur le 29 novembre 1999, après 15 ratifications (article 47).",
+      "Article 2 : l'enfant est tout être humain âgé de moins de 18 ans, sans l'exception de majorité anticipée prévue par la CDE.",
+      "Article 4 : l'intérêt de l'enfant est « la considération primordiale », et non « une » considération primordiale.",
+      "Article 21 : mariages et promesses de mariage d'enfants sont interdits ; l'âge minimal du mariage est 18 ans.",
+      "Article 22 : aucun enfant de moins de 18 ans ne doit être enrôlé ni prendre directement part aux hostilités.",
+      "Le Comité africain d'experts compte onze membres élus pour cinq ans ; son secrétariat est à Maseru (Lesotho).",
+      "Article 43 : premier rapport dans les deux ans, puis un rapport tous les trois ans."
+     ],
+     "exo": {
+      "tag": "niv-de04",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "AfricanLII – Charte africaine des droits et du bien-être de l'enfant (texte français, 1990)",
+       "u": "https://africanlii.org/akn/aa-au/act/charter/1990/rights-and-welfare-of-the-child/fra@1990-07-01/source"
+      },
+      {
+       "t": "UNICEF République centrafricaine – Charte africaine des droits et du bien-être de l'enfant",
+       "u": "https://www.unicef.org/car/rapports/charte-africaine-des-droits-et-du-bien-%C3%AAtre-de-lenfant"
+      },
+      {
+       "t": "Wikipedia – African Committee of Experts on the Rights and Welfare of the Child",
+       "u": "https://en.wikipedia.org/wiki/African_Committee_of_Experts_on_the_Rights_and_Welfare_of_the_Child"
+      },
+      {
+       "t": "Wikipedia – African Charter on the Rights and Welfare of the Child",
+       "u": "https://en.wikipedia.org/wiki/African_Charter_on_the_Rights_and_Welfare_of_the_Child"
+      },
+      {
+       "t": "UNICEF – Texte de la Convention relative aux droits de l'enfant",
+       "u": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention"
+      },
+      {
+       "t": "Nations Unies – Deuxième rapport périodique de la Côte d'Ivoire au Comité des droits de l'enfant (CRC/C/CIV/2)",
+       "u": "https://digitallibrary.un.org/record/3791645/files/CRC_C_CIV_2-FR.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261106mp06",
+     "niv": "mp06",
+     "m": "mop",
+     "titre": "Leadership, motivation et conduite d'équipe : styles de direction, délégation, conflits",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez présenter les grands modèles de styles de direction (Lewin, Blake et Mouton, Hersey et Blanchard) et choisir le style adapté à une situation de service public.",
+      "= Vous saurez aussi conduire une délégation en quatre étapes et analyser un conflit d'équipe avec les cinq modes de Thomas et Kilmann.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de management des organisations publiques mêle questions de cours et cas pratiques : un chef de service nouvellement nommé face à une équipe démotivée, un conflit entre deux agents, une mission urgente à confier. Le correcteur attend deux qualités : connaître exactement les modèles (auteurs, années, contenu) et les appliquer au cas, sans réciter. Une copie qui affirme qu'il existe « un bon style de direction » valable partout passe à côté de l'idée centrale des théories modernes : le style dépend de la situation et des collaborateurs.",
+      "! Piège habituel : confondre déléguer et se décharger. Le chef qui délègue reste co-responsable du résultat ; il fixe le cadre et contrôle.",
+      "## La méthode, pas à pas",
+      "- 1. Diagnostiquez l'équipe : compétence des agents, motivation, urgence de la tâche.",
+      "- 2. Choisissez le style : directif pour un débutant, persuasif ou participatif pour un agent qui progresse, délégatif pour un agent autonome et motivé.",
+      "- 3. Si vous déléguez, fixez objectif, moyens, limites, échéances et modalités de contrôle.",
+      "- 4. En cas de conflit, situez chaque partie sur deux axes : défense de ses intérêts et prise en compte de ceux de l'autre ; choisissez le mode de résolution.",
+      "- 5. Justifiez chaque choix par le modèle et par les faits du cas.",
+      "~ Exemple : un chef de bureau reçoit deux agents recrutés par concours, compétents en droit mais nouveaux dans le service. Diagnostic : motivés, mais sans maîtrise des procédures. Style : directif d'abord (consignes précises, suivi rapproché), puis persuasif à mesure qu'ils progressent."
+     ],
+     "fond": [
+      "## Notion 1 : les trois styles de Lewin",
+      "Règle : en 1939, Kurt Lewin et ses collègues Lippitt et White ont confié des groupes d'enfants à des animateurs adoptant trois styles : autoritaire (ou autocratique), démocratique et laisser-faire. Tous les groupes réalisaient le même travail manuel. Résultat : le groupe dirigé de façon autoritaire produisait davantage, le groupe démocratique produisait moins mais un travail de meilleure qualité ; aucun style ne l'emportait sur tous les plans.",
+      "Pourquoi ce modèle compte ? C'est la première démonstration expérimentale que la manière de diriger change le comportement et les résultats d'un groupe. Le style laisser-faire, où le chef se met en retrait et laisse l'équipe travailler seule, n'est pas une absence de choix : c'est un style à part entière.",
+      "~ Exemple résolu : dans une mairie, la veille d'une élection, il faut préparer les bureaux de vote en quelques heures. Le style autoritaire (consignes claires, répartition imposée) se justifie par l'urgence. Pour réorganiser durablement l'accueil des usagers, le style démocratique, qui associe les agents, donnera un travail de meilleure qualité et mieux accepté.",
+      "! Piège : écrire que le style démocratique « est toujours le plus productif ». L'étude a montré qu'il produisait moins, mais mieux.",
+      "## Notion 2 : la grille de Blake et Mouton",
+      "Règle : Robert Blake et Jane Mouton (The Managerial Grid, 1964) croisent deux axes notés de 1 à 9 : l'intérêt pour la production (les résultats) et l'intérêt pour les personnes. Cinq styles en ressortent : (1,1) le style indifférent, qui évite et se dérobe ; (9,1) le style autoritaire, centré sur la production ; (1,9) le style accommodant, dit « club social », centré sur le bien-être ; (5,5) le style intermédiaire, qui cherche l'équilibre et le compromis ; (9,9) le style intégrateur, ou « d'équipe », qui fait contribuer et engager chacun.",
+      "Pourquoi deux axes ? Le modèle montre que résultats et personnes ne s'opposent pas : un chef peut s'intéresser fortement aux deux. Le style (9,9) est présenté comme l'idéal, parce que l'engagement des agents nourrit la performance.",
+      "? Un chef de service obtient d'excellents résultats chiffrés mais son équipe se plaint de pressions constantes et l'absentéisme augmente. Situez-le sur la grille et proposez une évolution. || Intérêt fort pour la production, faible pour les personnes : style (9,1), autoritaire. L'évolution visée est le style (9,9) : garder l'exigence de résultats, mais associer les agents aux objectifs, reconnaître leur travail et écouter leurs difficultés.",
+      "## Notion 3 : le leadership situationnel de Hersey et Blanchard",
+      "Règle : Paul Hersey et Ken Blanchard (1969) soutiennent qu'il n'existe pas de style idéal : le chef adapte son comportement au degré de maturité, c'est-à-dire de compétence et de motivation, de chaque collaborateur. Quatre styles combinent comportement de tâche (directives) et comportement relationnel (soutien) : S1 « diriger » (beaucoup de directives, peu de relationnel) ; S2 « persuader » ou « coacher » (beaucoup des deux) ; S3 « participer » ou « soutenir » (peu de directives, beaucoup de relationnel) ; S4 « déléguer » (peu des deux).",
+      "Pourquoi ? Un débutant a besoin de consignes ; un agent compétent mais hésitant a besoin d'encouragement ; un agent compétent et motivé a besoin d'autonomie. Appliquer le même style à tous démotive les uns et désoriente les autres.",
+      "~ Exemple résolu : Awa, agent expérimentée, maîtrise parfaitement la gestion des dossiers de pension mais doute d'elle depuis une réforme. Étape 1 : compétente (oui), confiante (non). Étape 2 : peu besoin de directives, beaucoup besoin de soutien. Étape 3 : style S3, participatif. Vérification : un style S1 la vexerait, un style S4 la laisserait seule avec son doute.",
+      "? Koffi vient d'être affecté au service ; il est enthousiaste mais ne connaît aucune procédure. Quel style adopter ? || Style S1, « diriger » : il manque de compétence, pas de motivation. Il faut des consignes précises, des étapes claires et un contrôle rapproché. On passera au style S2 dès qu'il commencera à maîtriser les procédures.",
+      "## Notion 4 : déléguer sans se décharger",
+      "Règle : la délégation est une méthode d'organisation par laquelle un responsable confie à un collaborateur la réalisation d'objectifs élaborés en commun, en lui laissant une autonomie réelle sur les moyens et les méthodes, et en précisant les limites (définition de Pierre Morin citée par le CEDIP). Le délégant confie une partie de ses pouvoirs tout en restant co-responsable : ce n'est ni une perte de responsabilité ni une perte de pouvoir.",
+      "Les quatre étapes recommandées : préparer (que déléguer, à qui, comment) ; conduire l'entretien de délégation (objectifs, résultats attendus, calendrier, suivi) ; mettre en œuvre et suivre, sans s'ingérer dans le travail du délégataire et en lui reconnaissant le droit à l'erreur ; faire le bilan, évaluer et reconnaître le travail accompli.",
+      "Pourquoi ? Déléguer libère le chef pour les tâches de pilotage et fait progresser les agents : c'est un outil de motivation. Mais la confiance n'exclut pas le contrôle : les modalités du suivi se décident dès l'entretien.",
+      "! Piège : déléguer n'est pas donner une consigne. Une consigne dit quoi faire et comment ; la délégation fixe l'objectif et le cadre, puis laisse l'agent choisir ses moyens.",
+      "## Notion 5 : gérer les conflits avec Thomas et Kilmann",
+      "Règle : Kenneth Thomas et Ralph Kilmann (1974) décrivent cinq façons de réagir à un conflit, selon deux dimensions : l'affirmation de soi (défendre ses propres intérêts) et la coopération (satisfaire ceux de l'autre). La compétition : affirmation forte, coopération faible. La collaboration : forte et forte. Le compromis : intermédiaire sur les deux. L'évitement : faible et faible. L'accommodation : affirmation faible, coopération forte.",
+      "Pourquoi ce modèle aide le chef ? Aucun mode n'est mauvais en soi : l'évitement convient à un désaccord mineur, la compétition à une décision urgente de sécurité, la collaboration à un problème important où chacun détient une partie de la solution.",
+      "? Deux agents se disputent le seul véhicule de service : l'un pour une inspection, l'autre pour livrer des dossiers. Quel mode le chef doit-il favoriser ? || La collaboration : chercher ensemble une solution qui satisfait les deux (inspection le matin, livraison l'après-midi, ou trajet commun). Si le temps manque, un compromis (partage du créneau) est acceptable. L'évitement laisserait le conflit s'envenimer."
+     ],
+     "retenir": [
+      "Lewin, Lippitt et White (1939) distinguent trois styles : autoritaire, démocratique, laisser-faire.",
+      "Dans l'étude de Lewin, le groupe autoritaire produisait davantage, le groupe démocratique produisait un travail de meilleure qualité.",
+      "La grille de Blake et Mouton (1964) croise l'intérêt pour la production et l'intérêt pour les personnes, notés de 1 à 9.",
+      "Le style (9,9) de Blake et Mouton, dit intégrateur ou d'équipe, allie exigence de résultats et engagement des personnes.",
+      "Hersey et Blanchard (1969) : le style se règle sur la compétence et la motivation du collaborateur ; S1 diriger, S2 persuader, S3 participer, S4 déléguer.",
+      "Déléguer, c'est confier des objectifs avec autonomie et limites ; le délégant reste co-responsable et contrôle.",
+      "Thomas et Kilmann (1974) : compétition, collaboration, compromis, évitement, accommodation, selon l'affirmation de soi et la coopération.",
+      "La collaboration combine forte affirmation de soi et forte coopération ; l'évitement, faible affirmation et faible coopération."
+     ],
+     "exo": {
+      "tag": "niv-mp06",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Simply Psychology – Leadership Styles (Lewin, Lippitt et White, 1939)",
+       "u": "https://www.simplypsychology.org/leadership-styles.html"
+      },
+      {
+       "t": "Wikipedia – Managerial grid model (Blake et Mouton)",
+       "u": "https://en.wikipedia.org/wiki/Managerial_grid_model"
+      },
+      {
+       "t": "Wikipedia – Situational leadership theory (Hersey et Blanchard)",
+       "u": "https://en.wikipedia.org/wiki/Situational_leadership_theory"
+      },
+      {
+       "t": "CEDIP (ministère français de la Transition écologique) – Fiche mémo : la délégation au cœur du management (août 2020)",
+       "u": "https://www.cedip.developpement-durable.gouv.fr/IMG/pdf/fichememo-la_delegation.pdf"
+      },
+      {
+       "t": "Wikipedia – Thomas–Kilmann Conflict Mode Instrument",
+       "u": "https://en.wikipedia.org/wiki/Thomas%E2%80%93Kilmann_Conflict_Mode_Instrument"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "mop",
+     "src": "original",
+     "ref": "Entraînement · 6 nov. 2026",
+     "t": "Cas pratique : vous êtes nommé chef du service des examens d'une direction régionale. L'équipe compte un agent ancien et démotivé, deux jeunes agents compétents mais inexpérimentés, et deux agents en conflit sur la répartition des tâches. La session d'examens commence dans six semaines. Quelle conduite d'équipe adoptez-vous ?",
+     "plan": [
+      "Introduction : présenter le contexte (échéance de six semaines, équipe hétérogène) et annoncer la thèse : il n'y a pas de style unique, le chef adapte sa conduite à chaque agent (leadership situationnel).",
+      "I. Diagnostiquer et adapter le style : style directif (S1) puis persuasif (S2) pour les jeunes agents ; style participatif (S3) pour l'agent ancien, en valorisant son expérience ; viser à terme un style intégrateur (9,9) de Blake et Mouton.",
+      "II. Organiser par la délégation : confier à l'agent ancien un dossier précis avec objectifs, moyens, limites et calendrier fixés en entretien ; suivre sans s'ingérer, reconnaître le travail lors du bilan.",
+      "III. Traiter le conflit : réunir les deux agents, rechercher une répartition qui satisfait chacun (collaboration de Thomas et Kilmann), à défaut un compromis ; trancher en dernier recours si l'échéance l'exige.",
+      "Conclusion : évaluer l'équipe à l'issue de la session et faire évoluer les styles à mesure que les agents gagnent en compétence et en confiance."
+     ]
+    }
+   ]
   }
  ]
 }
