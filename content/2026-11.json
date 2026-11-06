@@ -7047,6 +7047,400 @@
       "t": "World History Encyclopedia – Restauration de Meiji",
       "u": "https://www.worldhistory.org/trans/fr/1-19836/restauration-de-meiji/"
      }
+    },
+    {
+     "id": "c20261106-strat-01",
+     "m": "fr",
+     "tag": "strat",
+     "q": "En culture générale (barème +1 / 0 / −1), un candidat obtient 40 bonnes réponses, 8 mauvaises et laisse 12 questions sans réponse. Quelle est sa note brute ?",
+     "o": [
+      "40 points",
+      "28 points",
+      "32 points",
+      "20 points"
+     ],
+     "a": 2,
+     "e": "Chaque bonne réponse rapporte 1 point, chaque erreur en retire 1, l'abstention vaut 0 : 40 − 8 = 32 points. Les 12 blancs ne coûtent rien.",
+     "ed": [
+      "40 points oublie de retirer les 8 points perdus sur les erreurs.",
+      "28 points retire les 12 abstentions, alors qu'une question laissée vide vaut 0.",
+      null,
+      "20 points retire deux fois chaque erreur, comme au barème de logique."
+     ],
+     "verif": "calcul",
+     "calc": "40-8"
+    },
+    {
+     "id": "c20261106-strat-02",
+     "m": "fr",
+     "tag": "strat",
+     "q": "En logique (barème +2 / 0 / −2), un candidat a 15 bonnes réponses et 5 mauvaises. Quelle est sa note brute ?",
+     "o": [
+      "20 points",
+      "30 points",
+      "25 points",
+      "10 points"
+     ],
+     "a": 0,
+     "e": "15 × 2 = 30 points gagnés, 5 × 2 = 10 points perdus : 30 − 10 = 20 points. En logique, chaque erreur annule une bonne réponse entière.",
+     "ed": [
+      null,
+      "30 points ne compte que les bonnes réponses, sans déduire les 10 points perdus.",
+      "25 points ne retire qu'un point par erreur, comme si le barème était +2 / −1.",
+      "10 points correspond à 15 − 5 : on a oublié que chaque réponse vaut 2 points."
+     ],
+     "verif": "calcul",
+     "calc": "15*2-5*2"
+    },
+    {
+     "id": "c20261106-strat-03",
+     "m": "fr",
+     "tag": "strat",
+     "q": "Au barème +1 / 0 / −1, vous estimez avoir 3 chances sur 4 de tomber juste. Que rapporte cette réponse en moyenne ?",
+     "o": [
+      "0 point",
+      "+0,25 point",
+      "+1 point",
+      "+0,5 point"
+     ],
+     "a": 3,
+     "e": "Espérance = 3/4 × (+1) + 1/4 × (−1) = 0,75 − 0,25 = +0,5 point : avec une vraie préférence, répondre est rentable.",
+     "ed": [
+      "0 point est l'espérance à chances égales (1 sur 2), pas à 3 chances sur 4.",
+      "0,25 est la probabilité de se tromper, pas le gain moyen.",
+      "+1 point suppose une certitude totale, que vous n'avez pas.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "3/4-1/4"
+    },
+    {
+     "id": "c20261106-strat-04",
+     "m": "fr",
+     "tag": "strat",
+     "q": "En logique (barème +2 / 0 / −2), vous pensez avoir 60 % de chances de tomber juste. Quelle est l'espérance de votre réponse ?",
+     "o": [
+      "+0,4 point",
+      "+1,2 point",
+      "−0,8 point",
+      "0 point"
+     ],
+     "a": 0,
+     "e": "Espérance = 0,6 × (+2) + 0,4 × (−2) = 1,2 − 0,8 = +0,4 point : la réponse reste favorable, mais de peu.",
+     "ed": [
+      null,
+      "+1,2 point oublie les 0,8 point perdus dans les 40 % de cas d'erreur.",
+      "−0,8 point ne compte que les pertes (0,4 × 2) en oubliant les gains de 1,2 point.",
+      "L'espérance n'est nulle qu'à 50 % de chances de réussite."
+     ],
+     "verif": "calcul",
+     "calc": "0.6*2-0.4*2"
+    },
+    {
+     "id": "c20261106-strat-05",
+     "m": "fr",
+     "tag": "strat",
+     "q": "Au barème +1 / 0 / −1, à partir de quelle probabilité de réussite répondre devient-il rentable en moyenne ?",
+     "o": [
+      "Plus de 25 %",
+      "Plus de 50 %",
+      "Plus de 75 %",
+      "Seulement à 100 %"
+     ],
+     "a": 1,
+     "e": "Espérance = p × 1 − (1 − p) × 1 = 2p − 1, positive dès que p dépasse 1/2 : il faut pencher réellement vers une proposition.",
+     "ed": [
+      "À 25 % (hasard sur quatre propositions), l'espérance vaut −0,5 point : c'est perdant.",
+      null,
+      "75 % est très favorable, mais le seuil de rentabilité est atteint bien avant.",
+      "Une certitude n'est pas nécessaire : dès 51 %, répondre rapporte en moyenne."
+     ],
+     "verif": "calcul",
+     "calc": "100/2"
+    },
+    {
+     "id": "c20261106-strat-06",
+     "m": "fr",
+     "tag": "strat",
+     "q": "En culture générale, toutes vos réponses données sont notées +1 ou −1. Vous avez répondu à 50 questions et obtenu 44 points. Combien d'erreurs avez-vous commises ?",
+     "o": [
+      "6 erreurs",
+      "4 erreurs",
+      "3 erreurs",
+      "5 erreurs"
+     ],
+     "a": 2,
+     "e": "Bonnes réponses B et erreurs E : B + E = 50 et B − E = 44, donc 2E = 6 et E = 3 (47 justes, 3 fausses : 47 − 3 = 44).",
+     "ed": [
+      "6 est l'écart entre 50 et 44 : chaque erreur coûte 2 points d'écart (1 non gagné, 1 perdu).",
+      "4 erreurs donneraient 46 − 4 = 42 points, pas 44.",
+      null,
+      "5 erreurs donneraient 45 − 5 = 40 points, pas 44."
+     ],
+     "verif": "calcul",
+     "calc": "(50-44)/2"
+    },
+    {
+     "id": "c20261106-strat-07",
+     "m": "fr",
+     "tag": "strat",
+     "q": "En logique (barème +2 / 0 / −2), combien de bonnes réponses faut-il pour compenser exactement 7 erreurs ?",
+     "o": [
+      "14 bonnes réponses",
+      "7 bonnes réponses",
+      "4 bonnes réponses",
+      "21 bonnes réponses"
+     ],
+     "a": 1,
+     "e": "7 erreurs coûtent 7 × 2 = 14 points ; chaque bonne réponse rapporte 2 points : 14 / 2 = 7 bonnes réponses ramènent la note à zéro.",
+     "ed": [
+      "14 est le nombre de points perdus, pas le nombre de bonnes réponses nécessaires.",
+      null,
+      "4 bonnes réponses ne rapportent que 8 points, moins que les 14 perdus.",
+      "21 suppose qu'une erreur coûte trois bonnes réponses, ce qui n'est pas le barème."
+     ],
+     "verif": "calcul",
+     "calc": "7*2/2"
+    },
+    {
+     "id": "c20261106-strat-08",
+     "m": "fr",
+     "tag": "strat",
+     "q": "Vous ignorez tout de 20 questions de culture générale à 4 propositions (barème +1 / 0 / −1). Si vous les cochez toutes au hasard au lieu de les laisser vides, combien de points perdez-vous en moyenne ?",
+     "o": [
+      "5 points",
+      "15 points",
+      "Aucun",
+      "10 points"
+     ],
+     "a": 3,
+     "e": "Au hasard, chaque réponse vaut en moyenne 1/4 − 3/4 = −0,5 point ; sur 20 questions, la perte moyenne est de 20 × 0,5 = 10 points.",
+     "ed": [
+      "5 points correspond à 20 × 1/4 : c'est le nombre moyen de bonnes réponses, pas la perte.",
+      "15 points est le nombre moyen d'erreurs, sans déduire les 5 points gagnés.",
+      "Le hasard n'est pas neutre sur quatre propositions : il coûte en moyenne 0,5 point par question.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "20*(3/4-1/4)"
+    },
+    {
+     "id": "c20261106-calc-01",
+     "m": "log",
+     "tag": "calc",
+     "q": "Quel nombre suit : 1, 2, 6, 24, 120, … ?",
+     "o": [
+      "240",
+      "600",
+      "720",
+      "144"
+     ],
+     "a": 2,
+     "e": "On multiplie successivement par 2, 3, 4, 5 : le terme suivant est 120 × 6 = 720 (suite des factorielles).",
+     "ed": [
+      "240 multiplie encore par 2 : la raison augmente d'une unité à chaque terme.",
+      "600 multiplie encore par 5 : il faut passer au multiplicateur suivant, 6.",
+      null,
+      "144 ajoute 24 : la suite n'est pas additive mais multiplicative."
+     ],
+     "verif": "calcul",
+     "calc": "120*6"
+    },
+    {
+     "id": "c20261106-calc-02",
+     "m": "log",
+     "tag": "calc",
+     "q": "Un prix baisse de 20 %, puis augmente de 25 %. Par rapport au prix initial, il est :",
+     "o": [
+      "en hausse de 5 %",
+      "inchangé (100 % du prix initial)",
+      "en baisse de 5 %",
+      "en hausse de 25 %"
+     ],
+     "a": 1,
+     "e": "Les coefficients se multiplient : 0,8 × 1,25 = 1. Une baisse de 20 % se compense exactement par une hausse de 25 %, car celle-ci porte sur une base plus petite.",
+     "ed": [
+      "+5 % additionne les taux (−20 + 25), alors qu'il faut multiplier les coefficients.",
+      null,
+      "Une baisse de 5 % supposerait une hausse de 18,75 % seulement après la baisse.",
+      "+25 % ignore complètement la baisse initiale de 20 %."
+     ],
+     "verif": "calcul",
+     "calc": "0.8*1.25*100"
+    },
+    {
+     "id": "c20261106-calc-03",
+     "m": "log",
+     "tag": "calc",
+     "q": "Quel nombre suit : 5, 8, 14, 26, 50, … ?",
+     "o": [
+      "74",
+      "96",
+      "100",
+      "98"
+     ],
+     "a": 3,
+     "e": "Les écarts doublent : +3, +6, +12, +24, donc le suivant est +48 : 50 + 48 = 98 (chaque terme vaut aussi le double du précédent moins 2).",
+     "ed": [
+      "74 ajoute de nouveau 24 : l'écart double à chaque étape.",
+      "96 ajoute 46 : l'écart suivant est 24 × 2 = 48.",
+      "100 double 50 sans retirer 2 : la règle est « × 2 − 2 ».",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "50+48"
+    },
+    {
+     "id": "c20261106-calc-04",
+     "m": "log",
+     "tag": "calc",
+     "q": "Un effectif de 1 200 agents compte 45 % de femmes. Combien y a-t-il d'hommes ?",
+     "o": [
+      "660",
+      "540",
+      "600",
+      "755"
+     ],
+     "a": 0,
+     "e": "Les hommes représentent 100 − 45 = 55 % de l'effectif : 1 200 × 0,55 = 660 hommes (et 540 femmes).",
+     "ed": [
+      null,
+      "540 est le nombre de femmes (45 %), pas celui des hommes.",
+      "600 correspondrait à 50 % de l'effectif.",
+      "755 retranche 45 de 800 sans rapport avec le calcul de pourcentage."
+     ],
+     "verif": "calcul",
+     "calc": "1200*55/100"
+    },
+    {
+     "id": "c20261106-orga-01",
+     "m": "log",
+     "tag": "orga",
+     "q": "Nous sommes jeudi. Quel jour serons-nous dans 45 jours ?",
+     "o": [
+      "Samedi",
+      "Dimanche",
+      "Lundi",
+      "Vendredi"
+     ],
+     "a": 1,
+     "e": "45 = 6 × 7 + 3 : six semaines pleines ramènent au jeudi, puis 3 jours de plus mènent au dimanche (vendredi, samedi, dimanche).",
+     "ed": [
+      "Samedi ne compte que 2 jours de reste : 45 − 42 = 3.",
+      null,
+      "Lundi compte 4 jours de reste au lieu de 3.",
+      "Vendredi ne compte qu'un jour de reste."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261106-orga-02",
+     "m": "log",
+     "tag": "orga",
+     "q": "Quel angle forment les aiguilles d'une horloge à 2 h 20 ?",
+     "o": [
+      "40°",
+      "60°",
+      "50°",
+      "70°"
+     ],
+     "a": 2,
+     "e": "Grande aiguille : 20 × 6° = 120°. Petite aiguille : 2 × 30° + 20 × 0,5° = 70°. Écart : 120° − 70° = 50°.",
+     "ed": [
+      "40° est faux : la grande aiguille est à 120° et la petite à 70°, soit 50° d’écart.",
+      "60° suppose que la petite aiguille est restée sur le 2 sans avancer.",
+      null,
+      "70° est la position de la petite aiguille, pas l'écart entre les deux."
+     ],
+     "verif": "calcul",
+     "calc": "20*6-(2*30+20*0.5)"
+    },
+    {
+     "id": "c20261106-orga-03",
+     "m": "log",
+     "tag": "orga",
+     "q": "Huit équipes se rencontrent toutes une seule fois. Combien de matchs faut-il organiser ?",
+     "o": [
+      "56",
+      "28",
+      "32",
+      "16"
+     ],
+     "a": 1,
+     "e": "Chaque équipe affronte les 7 autres : 8 × 7 = 56, mais chaque match est compté deux fois, d'où 56 / 2 = 28 matchs.",
+     "ed": [
+      "56 compte chaque match deux fois (A contre B et B contre A).",
+      null,
+      "32 ne correspond à aucun raisonnement valable : la formule est n × (n − 1) / 2.",
+      "16 serait 8 × 2 : sans rapport avec le nombre de paires."
+     ],
+     "verif": "calcul",
+     "calc": "8*7/2"
+    },
+    {
+     "id": "c20261106-orga-04",
+     "m": "log",
+     "tag": "orga",
+     "q": "Une mère a 34 ans et sa fille 4 ans. Dans combien d'années la mère aura-t-elle le triple de l'âge de sa fille ?",
+     "o": [
+      "11 ans",
+      "10 ans",
+      "15 ans",
+      "22 ans"
+     ],
+     "a": 0,
+     "e": "34 + x = 3 × (4 + x), soit 34 + x = 12 + 3x, donc 2x = 22 et x = 11. Vérification : 45 ans = 3 × 15 ans.",
+     "ed": [
+      null,
+      "Dans 10 ans : 44 et 14 ans, et 3 × 14 = 42, pas 44.",
+      "Dans 15 ans : 49 et 19 ans, et 3 × 19 = 57, pas 49.",
+      "22 est la valeur de 2x : il faut encore diviser par 2."
+     ],
+     "verif": "calcul",
+     "calc": "(34-3*4)/2"
+    },
+    {
+     "id": "c20261106-orga-05",
+     "m": "log",
+     "tag": "orga",
+     "q": "« Aucun magistrat n'est commerçant. Certains Ivoiriens sont magistrats. » Que peut-on affirmer avec certitude ?",
+     "o": [
+      "Aucun Ivoirien n'est commerçant",
+      "Certains commerçants sont magistrats",
+      "Tous les magistrats sont ivoiriens",
+      "Certains Ivoiriens ne sont pas commerçants"
+     ],
+     "a": 3,
+     "e": "Les Ivoiriens qui sont magistrats ne peuvent pas être commerçants, puisque aucun magistrat ne l'est : certains Ivoiriens ne sont donc pas commerçants.",
+     "ed": [
+      "Rien n'interdit aux Ivoiriens qui ne sont pas magistrats d'être commerçants.",
+      "Cela contredit la première prémisse : aucun magistrat n'est commerçant.",
+      "Les prémisses ne disent rien de la nationalité de tous les magistrats.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261106-orga-06",
+     "m": "log",
+     "tag": "orga",
+     "q": "Sur 40 candidats, 25 ont choisi l'anglais, 18 la logique et 7 les deux. Combien n'ont choisi aucune des deux options ?",
+     "o": [
+      "11",
+      "0",
+      "7",
+      "4"
+     ],
+     "a": 3,
+     "e": "Au moins une option : 25 + 18 − 7 = 36 candidats (on retire les 7 comptés deux fois). Aucune : 40 − 36 = 4 candidats.",
+     "ed": [
+      "11 est le nombre de candidats qui ont choisi seulement la logique (18 − 7).",
+      "0 suppose 25 + 18 = 43 ≥ 40, en oubliant de retirer les doubles comptes.",
+      "7 est le nombre de candidats inscrits aux deux options.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "40-(25+18-7)"
     }
    ],
    "lessons": [
