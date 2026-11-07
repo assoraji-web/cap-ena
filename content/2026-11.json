@@ -9260,6 +9260,582 @@
       "t": "21 avril 1960 : Brasilia, capitale de l'espoir (Herodote.net)",
       "u": "https://www.herodote.net/21_avril_1960-evenement-19600421.php"
      }
+    },
+    {
+     "id": "c20261107-fr04-01",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Le projet a été validé par le conseil municipal », quelle est la fonction de « par le conseil municipal » ?",
+     "o": [
+      "Complément d'objet indirect",
+      "Complément circonstanciel de moyen",
+      "Complément d'agent",
+      "Complément du nom"
+     ],
+     "a": 2,
+     "e": "Dans une phrase passive, le groupe introduit par « par » (ou « de ») désigne celui qui fait l'action : c'est le complément d'agent. À l'actif : « Le conseil municipal a validé le projet ».",
+     "ed": [
+      "Un COI est appelé par la préposition d'un verbe actif (parler à) ; ici le verbe est au passif et « par » introduit l'auteur de l'action.",
+      "Le conseil n'est pas un instrument : il est l'auteur de la validation, ce qui définit le complément d'agent.",
+      null,
+      "Le groupe ne complète pas un nom (« projet ») mais le verbe passif « a été validé »."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "Schoolmouv – Les fonctions grammaticales autour du verbe (fiche de cours)",
+      "u": "https://www.schoolmouv.fr/cours/les-fonctions-grammaticales-autour-du-verbe/fiche-de-cours"
+     }
+    },
+    {
+     "id": "c20261107-fr04-02",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Le préfet a remis une médaille à la lauréate », quelle est la fonction de « à la lauréate » ?",
+     "o": [
+      "Complément d'objet second (COS)",
+      "Complément d'objet direct",
+      "Attribut du sujet",
+      "Complément d'agent"
+     ],
+     "a": 0,
+     "e": "« Remettre quelque chose à quelqu'un » : le verbe a déjà un COD (« une médaille ») ; le complément introduit par « à » qui s'y ajoute est un complément d'objet second (COS), forme particulière du COI.",
+     "ed": [
+      null,
+      "Le COD est construit sans préposition : c'est « une médaille », pas « à la lauréate ».",
+      "Il n'y a pas de verbe d'état : « remettre » est un verbe d'action.",
+      "La phrase est active ; le complément d'agent n'existe que dans une phrase passive."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "Schoolmouv – Les fonctions grammaticales autour du verbe (fiche de cours)",
+      "u": "https://www.schoolmouv.fr/cours/les-fonctions-grammaticales-autour-du-verbe/fiche-de-cours"
+     }
+    },
+    {
+     "id": "c20261107-fr04-03",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Malgré la fatigue, le chef de service demeure optimiste », quelle est la fonction de « optimiste » ?",
+     "o": [
+      "Épithète du nom « chef »",
+      "Attribut du sujet",
+      "Complément circonstanciel de manière",
+      "Complément d'objet direct"
+     ],
+     "a": 1,
+     "e": "« Demeurer » est un verbe d'état, comme être, paraître, sembler, devenir ou rester : l'adjectif qui le suit qualifie le sujet par son intermédiaire, c'est un attribut du sujet.",
+     "ed": [
+      "Une épithète est collée au nom sans verbe (« un chef optimiste ») ; ici le verbe « demeure » sépare les deux.",
+      null,
+      "Un complément circonstanciel se supprime sans changer le sens du verbe ; sans « optimiste », la phrase est incomplète.",
+      "Un verbe d'état n'a pas de COD : « demeurer » ne se construit pas avec un objet."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "Kartable – La fonction grammaticale d'un mot",
+      "u": "https://kartable.fr/ressources/francais/cours/la-fonction-grammaticale-dun-mot/60029"
+     }
+    },
+    {
+     "id": "c20261107-fr04-04",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Quelle est la nature du mot « dans » ?",
+     "o": [
+      "Adverbe",
+      "Conjonction de subordination",
+      "Déterminant",
+      "Préposition"
+     ],
+     "a": 3,
+     "e": "« Dans » est une préposition : mot invariable qui introduit un complément (« dans la salle »). Il ne peut jamais s'employer seul, à la différence d'un adverbe.",
+     "ed": [
+      "Un adverbe peut s'employer seul (« il travaille dedans ») ; « dans » doit toujours être suivi d'un complément.",
+      "Une conjonction de subordination introduit une proposition avec un verbe (« quand il vient ») ; « dans » introduit un groupe nominal.",
+      "Un déterminant s'accorde avec le nom qu'il précède ; « dans » est invariable.",
+      null
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "Kartable – La fonction grammaticale d'un mot",
+      "u": "https://kartable.fr/ressources/francais/cours/la-fonction-grammaticale-dun-mot/60029"
+     }
+    },
+    {
+     "id": "c20261107-fr04-05",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Ce rapport est apprécié de tous les agents », quelle est la fonction de « de tous les agents » ?",
+     "o": [
+      "Complément du nom « rapport »",
+      "Complément d'agent",
+      "Complément d'objet indirect",
+      "Complément circonstanciel de cause"
+     ],
+     "a": 1,
+     "e": "Le verbe est au passif (« est apprécié ») et le groupe désigne ceux qui apprécient : c'est un complément d'agent, introduit ici par « de » au lieu de « par », comme souvent avec les verbes de sentiment.",
+     "ed": [
+      "Le groupe ne précise pas le nom « rapport » ; il dit qui apprécie, donc il dépend du verbe passif.",
+      null,
+      "Un COI dépend d'un verbe actif qui impose sa préposition ; ici on peut retourner la phrase à l'actif : « Tous les agents apprécient ce rapport ».",
+      "Les agents ne sont pas la cause : ils sont les auteurs de l'appréciation."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "Schoolmouv – Les fonctions grammaticales autour du verbe (fiche de cours)",
+      "u": "https://www.schoolmouv.fr/cours/les-fonctions-grammaticales-autour-du-verbe/fiche-de-cours"
+     }
+    },
+    {
+     "id": "c20261107-fr04-06",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans laquelle de ces phrases le verbe « rester » est-il suivi d'un attribut du sujet ?",
+     "o": [
+      "Le maire reste à Abengourou jusqu'à lundi.",
+      "Le maire reste avec ses conseillers.",
+      "Le maire reste calme face aux critiques.",
+      "Le maire reste dans son bureau."
+     ],
+     "a": 2,
+     "e": "Un attribut du sujet exprime une qualité du sujet par l'intermédiaire d'un verbe d'état : « calme » qualifie le maire. Dans les autres phrases, « rester » signifie « demeurer quelque part » et est suivi d'un complément circonstanciel.",
+     "ed": [
+      "« À Abengourou » indique un lieu et « jusqu'à lundi » un temps : ce sont des compléments circonstanciels, pas des qualités du maire.",
+      "« Avec ses conseillers » indique l'accompagnement : c'est un complément circonstanciel.",
+      null,
+      "« Dans son bureau » répond à la question « où ? » : complément circonstanciel de lieu."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "Kartable – La fonction grammaticale d'un mot",
+      "u": "https://kartable.fr/ressources/francais/cours/la-fonction-grammaticale-dun-mot/60029"
+     }
+    },
+    {
+     "id": "c20261107-fr04-07",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Dans « Hier, le secrétaire a envoyé le dossier à la direction régionale », lequel de ces groupes est un complément circonstanciel ?",
+     "o": [
+      "le dossier",
+      "Hier",
+      "à la direction régionale",
+      "le secrétaire"
+     ],
+     "a": 1,
+     "e": "« Hier » répond à la question « quand ? » et peut être déplacé ou supprimé (« Le secrétaire a envoyé le dossier à la direction régionale ») : c'est un complément circonstanciel de temps.",
+     "ed": [
+      "« Le dossier » répond à « a envoyé quoi ? » sans préposition : c'est le COD.",
+      null,
+      "« À la direction régionale » est appelé par le verbe (envoyer quelque chose à quelqu'un) : c'est un COS.",
+      "« Le secrétaire » fait l'action et commande l'accord du verbe : c'est le sujet."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "Kartable – La fonction grammaticale d'un mot",
+      "u": "https://kartable.fr/ressources/francais/cours/la-fonction-grammaticale-dun-mot/60029"
+     }
+    },
+    {
+     "id": "c20261107-fr04-08",
+     "m": "fr",
+     "tag": "niv-fr04",
+     "q": "Quelle affirmation sur la phrase « Les jeunes du quartier deviennent des entrepreneurs » est fausse ?",
+     "o": [
+      "« Des entrepreneurs » est un attribut du sujet.",
+      "« Du quartier » est complément du nom « jeunes ».",
+      "« Les jeunes du quartier » est le groupe sujet.",
+      "« Des entrepreneurs » est un complément d'objet direct."
+     ],
+     "a": 3,
+     "e": "« Devenir » est un verbe d'état : il n'a jamais de COD. « Des entrepreneurs » désigne ce que deviennent les jeunes, c'est un attribut du sujet ; l'affirmation qui en fait un COD est donc fausse.",
+     "ed": [
+      "Affirmation juste : après le verbe d'état « devenir », le groupe nominal qualifie le sujet.",
+      "Affirmation juste : « du quartier » précise le nom « jeunes ».",
+      "Affirmation juste : c'est lui qui répond à « qui est-ce qui deviennent ? » et commande le pluriel du verbe.",
+      null
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "Schoolmouv – Les fonctions grammaticales autour du verbe (fiche de cours)",
+      "u": "https://www.schoolmouv.fr/cours/les-fonctions-grammaticales-autour-du-verbe/fiche-de-cours"
+     }
+    },
+    {
+     "id": "c20261107-an03-01",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"I ___ that this reform is necessary.\" (opinion)",
+     "o": [
+      "am thinking",
+      "think",
+      "thinks",
+      "am think"
+     ],
+     "a": 1,
+     "e": "« Think » exprimant une opinion (« je pense que… ») est un emploi d'état : on utilise le present simple, « I think that… ». Le present continuous est réservé à la réflexion en cours.",
+     "ed": [
+      "« I am thinking » décrit une réflexion en train de se faire, pas une opinion suivie de « that ».",
+      null,
+      "« Thinks » prend un -s à la 3e personne du singulier seulement ; le sujet est « I ».",
+      "« Am think » est agrammatical : après « am », il faut la forme en -ing."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Stative verbs",
+      "u": "https://learnenglish.britishcouncil.org/fr/quick-grammar/stative-verbs"
+     }
+    },
+    {
+     "id": "c20261107-an03-02",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"Please be quiet: I ___ about my answer.\"",
+     "o": [
+      "think",
+      "thinks",
+      "am thinking",
+      "thinking"
+     ],
+     "a": 2,
+     "e": "Ici « think » décrit une activité mentale en cours au moment où l'on parle (réfléchir) : on emploie le present continuous, « I am thinking ».",
+     "ed": [
+      "Le present simple « I think » exprime une opinion ; la phrase décrit au contraire une réflexion en cours.",
+      "« Thinks » ne s'emploie qu'avec he, she, it.",
+      null,
+      "Il manque l'auxiliaire « am » : « thinking » seul n'est pas un verbe conjugué."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Stative verbs",
+      "u": "https://learnenglish.britishcouncil.org/fr/quick-grammar/stative-verbs"
+     }
+    },
+    {
+     "id": "c20261107-an03-03",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"My uncle ___ two shops in Abengourou.\"",
+     "o": [
+      "owns",
+      "is owning",
+      "own",
+      "are owning"
+     ],
+     "a": 0,
+     "e": "« Own » (posséder) est un verbe d'état (stative verb) : il ne s'emploie pas normalement à la forme continue. Avec « my uncle » (3e personne du singulier), on écrit « owns ».",
+     "ed": [
+      null,
+      "Les verbes de possession comme « own » ne se mettent pas à la forme continue.",
+      "Il manque le -s de la 3e personne du singulier (« my uncle » = he).",
+      "« Are » ne s'emploie pas avec un sujet singulier, et « own » refuse la forme continue."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Stative verbs",
+      "u": "https://learnenglish.britishcouncil.org/fr/quick-grammar/stative-verbs"
+     }
+    },
+    {
+     "id": "c20261107-an03-04",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"We ___ lunch with the delegation right now.\"",
+     "o": [
+      "have",
+      "has",
+      "are having",
+      "are have"
+     ],
+     "a": 2,
+     "e": "« Have » désignant une action (prendre un repas) peut se mettre à la forme continue ; « right now » indique l'action en cours : « we are having lunch ».",
+     "ed": [
+      "Le present simple « we have » ne décrit pas une action en cours ; « right now » l'exclut.",
+      "« Has » ne s'emploie qu'avec he, she, it.",
+      null,
+      "Après « are », le verbe doit prendre la forme en -ing : « having »."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Stative verbs",
+      "u": "https://learnenglish.britishcouncil.org/fr/quick-grammar/stative-verbs"
+     }
+    },
+    {
+     "id": "c20261107-an03-05",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"The population of Abidjan ___ fast these days.\"",
+     "o": [
+      "grow",
+      "are growing",
+      "growing",
+      "is growing"
+     ],
+     "a": 3,
+     "e": "Le present continuous sert à décrire une situation qui change, grandit ou se développe (« The climate is changing »). Le sujet « the population » est singulier : « is growing ».",
+     "ed": [
+      "« Grow » sans -s ne convient pas à un sujet singulier, et la phrase décrit une évolution en cours.",
+      "Le sujet est « the population » (singulier) : il faut « is », pas « are ».",
+      "Il manque l'auxiliaire « is » devant la forme en -ing.",
+      null
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Present continuous",
+      "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous"
+     }
+    },
+    {
+     "id": "c20261107-an03-06",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"I ___ in Bouaké for the next three weeks.\" (temporary job)",
+     "o": [
+      "am working",
+      "work",
+      "works",
+      "am work"
+     ],
+     "a": 0,
+     "e": "Une situation que l'on considère comme temporaire s'exprime au present continuous : « I'm working in London for the next two weeks », dit le British Council. D'où « I am working in Bouaké for the next three weeks ».",
+     "ed": [
+      null,
+      "Le present simple présente la situation comme permanente, ce qui contredit « for the next three weeks ».",
+      "« Works » ne s'emploie qu'à la 3e personne du singulier.",
+      "« Am work » est agrammatical : il faut « working » après « am »."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Present continuous",
+      "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous"
+     }
+    },
+    {
+     "id": "c20261107-an03-07",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct question: \"What ___ next Saturday? — We're visiting our parents.\"",
+     "o": [
+      "you are doing",
+      "are you doing",
+      "do you doing",
+      "does you do"
+     ],
+     "a": 1,
+     "e": "Pour un projet déjà organisé (arrangement), on emploie le present continuous, y compris à la question : « What are you doing next week? ». À l'interrogatif, l'auxiliaire « are » se place avant le sujet.",
+     "ed": [
+      "L'ordre sujet-auxiliaire est celui de l'affirmation : à la question, « are » passe devant « you ».",
+      null,
+      "« Do » ne se combine pas avec la forme en -ing.",
+      "« Does » ne s'emploie pas avec « you », et la réponse montre un projet organisé (present continuous)."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Present continuous",
+      "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-continuous"
+     }
+    },
+    {
+     "id": "c20261107-an03-08",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Which sentence is INCORRECT?",
+     "o": [
+      "She prefers tea to coffee.",
+      "This file belongs to the director.",
+      "They seem tired after the exam.",
+      "I am knowing the answer to this question."
+     ],
+     "a": 3,
+     "e": "« Know » est un verbe d'état (stative verb) : il ne s'emploie pas normalement à la forme continue. On dit « I know the answer », jamais « I am knowing ».",
+     "ed": [
+      "Phrase correcte : « prefer » est un verbe d'état, employé ici au present simple.",
+      "Phrase correcte : « belong » est un verbe d'état, au present simple avec un sujet singulier.",
+      "Phrase correcte : « seem » est un verbe d'état, au present simple avec « they ».",
+      null
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Stative verbs",
+      "u": "https://learnenglish.britishcouncil.org/fr/quick-grammar/stative-verbs"
+     }
+    },
+    {
+     "id": "c20261107-lo03-01",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien font les 5/8 de 320 ?",
+     "o": [
+      "160",
+      "200",
+      "240",
+      "180"
+     ],
+     "a": 1,
+     "e": "On divise d'abord par le dénominateur puis on multiplie par le numérateur : 320 ÷ 8 = 40, puis 40 × 5 = 200.",
+     "ed": [
+      "160 est la moitié de 320, soit les 4/8 et non les 5/8.",
+      null,
+      "240 correspond aux 6/8 (3/4) de 320.",
+      "180 ne correspond à aucun nombre entier de huitièmes de 320 (un huitième vaut 40)."
+     ],
+     "verif": "calcul",
+     "calc": "320*5/8"
+    },
+    {
+     "id": "c20261107-lo03-02",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Une commune compte 4 800 habitants, dont les 3/8 ont moins de 25 ans. Combien d'habitants ont moins de 25 ans ?",
+     "o": [
+      "1 600",
+      "1 800",
+      "2 400",
+      "1 200"
+     ],
+     "a": 1,
+     "e": "Un huitième de 4 800 vaut 4 800 ÷ 8 = 600 ; trois huitièmes valent donc 3 × 600 = 1 800 habitants.",
+     "ed": [
+      "1 600 est le tiers de 4 800 : on a confondu 3/8 et 1/3.",
+      null,
+      "2 400 est la moitié (4/8) de la population.",
+      "1 200 est le quart (2/8) de la population."
+     ],
+     "verif": "calcul",
+     "calc": "4800*3/8"
+    },
+    {
+     "id": "c20261107-lo03-03",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Calcul mental : combien font 48 × 25 ?",
+     "o": [
+      "1 000",
+      "1 250",
+      "1 200",
+      "960"
+     ],
+     "a": 2,
+     "e": "Multiplier par 25 revient à multiplier par 100 puis diviser par 4 : 48 × 100 = 4 800, puis 4 800 ÷ 4 = 1 200.",
+     "ed": [
+      "1 000 vaut 40 × 25 : il manque 8 × 25 = 200.",
+      "1 250 vaut 50 × 25 : on a arrondi 48 à 50.",
+      null,
+      "960 vaut 48 × 20 : il manque 48 × 5 = 240."
+     ],
+     "verif": "calcul",
+     "calc": "48*25"
+    },
+    {
+     "id": "c20261107-lo03-04",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien vaut 1/4 + 1/2 + 1/8 en écriture décimale ?",
+     "o": [
+      "0,875",
+      "0,75",
+      "0,625",
+      "1,125"
+     ],
+     "a": 0,
+     "e": "Au dénominateur commun 8 : 2/8 + 4/8 + 1/8 = 7/8, et 7 ÷ 8 = 0,875. Vérification : 0,25 + 0,5 + 0,125 = 0,875.",
+     "ed": [
+      null,
+      "0,75 vaut 1/4 + 1/2 : on a oublié 1/8.",
+      "0,625 vaut 5/8 : erreur dans la mise au même dénominateur.",
+      "1,125 vaut 9/8 : la somme dépasserait 1, ce qui est impossible puisque 7/8 < 1."
+     ],
+     "verif": "calcul",
+     "calc": "1/4+1/2+1/8"
+    },
+    {
+     "id": "c20261107-lo03-05",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Un réservoir rempli aux 2/5 contient 160 litres. Quelle est sa capacité totale ?",
+     "o": [
+      "320 L",
+      "64 L",
+      "400 L",
+      "800 L"
+     ],
+     "a": 2,
+     "e": "Si 2/5 correspondent à 160 L, 1/5 correspond à 160 ÷ 2 = 80 L, et la capacité totale (5/5) vaut 5 × 80 = 400 L.",
+     "ed": [
+      "320 L est le double de 160 : cela supposerait que 160 L soient la moitié du réservoir.",
+      "64 L est 2/5 de 160 : on a appliqué la fraction au lieu de remonter au tout.",
+      null,
+      "800 L vaut 5 × 160 : on a oublié de diviser par 2."
+     ],
+     "verif": "calcul",
+     "calc": "160*5/2"
+    },
+    {
+     "id": "c20261107-lo03-06",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Calcul mental : combien font 36 × 1,5 ?",
+     "o": [
+      "48",
+      "72",
+      "54",
+      "52"
+     ],
+     "a": 2,
+     "e": "Multiplier par 1,5, c'est ajouter la moitié du nombre : 36 + 18 = 54.",
+     "ed": [
+      "48 vaut 36 + 12 : on a ajouté le tiers au lieu de la moitié.",
+      "72 vaut 36 × 2 : on a multiplié par 2 au lieu de 1,5.",
+      null,
+      "52 ne correspond à aucun calcul juste : 36 + 18 = 54."
+     ],
+     "verif": "calcul",
+     "calc": "36*1.5"
+    },
+    {
+     "id": "c20261107-lo03-07",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Combien valent les 3/4 des 2/3 de 900 ?",
+     "o": [
+      "450",
+      "600",
+      "675",
+      "300"
+     ],
+     "a": 0,
+     "e": "On multiplie les fractions : 3/4 × 2/3 = 6/12 = 1/2. La moitié de 900 vaut 450. Vérification : 2/3 de 900 = 600, puis 3/4 de 600 = 450.",
+     "ed": [
+      null,
+      "600 vaut seulement les 2/3 de 900 : on a oublié d'appliquer les 3/4.",
+      "675 vaut seulement les 3/4 de 900 : on a oublié d'appliquer les 2/3.",
+      "300 vaut le tiers de 900 : erreur dans le produit des fractions."
+     ],
+     "verif": "calcul",
+     "calc": "900*2/3*3/4"
+    },
+    {
+     "id": "c20261107-lo03-08",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Un budget de 2 400 000 F est consacré pour 1/3 aux salaires et pour 1/4 aux équipements. Quel montant reste-t-il ?",
+     "o": [
+      "1 400 000 F",
+      "1 000 000 F",
+      "600 000 F",
+      "1 200 000 F"
+     ],
+     "a": 1,
+     "e": "Part dépensée : 1/3 + 1/4 = 4/12 + 3/12 = 7/12. Il reste 5/12 : 2 400 000 ÷ 12 = 200 000, puis 5 × 200 000 = 1 000 000 F.",
+     "ed": [
+      "1 400 000 F correspond aux 7/12 dépensés, et non au reste.",
+      null,
+      "600 000 F est seulement le quart du budget (les équipements).",
+      "1 200 000 F est la moitié du budget : on a cru que 1/3 + 1/4 faisaient 1/2."
+     ],
+     "verif": "calcul",
+     "calc": "2400000*5/12"
     }
    ],
    "lessons": [
@@ -9571,6 +10147,102 @@
       {
        "t": "Word : comment créer un sommaire automatique (Blog du Modérateur, 2024)",
        "u": "https://www.blogdumoderateur.com/word-comment-creer-sommaire-automatique/"
+      }
+     ]
+    },
+    {
+     "id": "L20261030fr08",
+     "niv": "fr08",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Le participe passé des verbes pronominaux",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez accorder sans hésiter le participe passé de tout verbe pronominal : « elles se sont lavées », « elles se sont lavé les mains », « ils se sont succédé ».",
+      "= Vous saurez reconnaître en quelques secondes les quatre familles de verbes pronominaux et appliquer à chacune la bonne règle.",
+      "## Ce que demande le concours",
+      "Les QCM de français de la présélection proposent souvent une phrase à trou avec quatre graphies du même participe : « se sont succédé / succédés / succédées / succédée ». Une seule est juste. Le piège habituel consiste à accorder par réflexe avec le sujet, parce que l'auxiliaire est « être ». Or, pour la plupart des verbes pronominaux, ce réflexe est faux. Avec un barème qui retire un point par erreur, il faut une méthode sûre plutôt qu'une impression.",
+      "> Astuce de vérification : avant de choisir, lisez la phrase en remplaçant « être » par « avoir » et posez la question « quoi ? » ou « qui ? ». Si la réponse est le pronom « se » placé avant, accordez ; si c'est un groupe placé après, n'accordez pas.",
+      "## La méthode, pas à pas",
+      "- 1. Le verbe existe-t-il sans « se » avec le même sens ? Si non (s'évanouir, se souvenir, s'enfuir), il est essentiellement pronominal : accordez avec le sujet.",
+      "- 2. La phrase a-t-elle un sens passif (« ces maisons se sont vendues » = ont été vendues) ? Accordez avec le sujet.",
+      "- 3. Sinon, remplacez mentalement « être » par « avoir » : « elle s'est lavée » devient « elle a lavé elle-même ».",
+      "- 4. Cherchez le COD en posant la question « quoi ? » ou « qui ? » après le participe.",
+      "- 5. Si le COD est placé avant le participe (souvent le pronom « se » lui-même, ou « que »), accordez avec lui. S'il est placé après, ou s'il n'y a pas de COD, laissez le participe invariable.",
+      "- 6. Vérifiez les verbes qui se construisent avec « à » (parler à, plaire à, succéder à) : leur « se » n'est jamais COD, le participe reste invariable.",
+      "~ Application rapide : « Elles se sont coupé le doigt. » Le verbe « couper » existe sans « se » ; on lit « elles ont coupé quoi ? le doigt », COD placé après : « coupé » reste invariable. « Se » signifie ici « à elles-mêmes »."
+     ],
+     "fond": [
+      "## Notion 1 : les verbes essentiellement pronominaux",
+      "Règle : un verbe essentiellement pronominal n'existe qu'à la forme pronominale. On ne peut pas dire « évanouir quelqu'un » ni « souvenir quelque chose ». Son participe passé s'accorde avec le sujet.",
+      "Pourquoi ? Le pronom « se » fait corps avec le verbe ; il n'a pas de fonction propre. Le participe se comporte donc comme avec l'auxiliaire « être » ordinaire.",
+      "Exemples courants : s'abstenir, s'absenter, s'écrier, s'emparer, s'empresser, s'enfuir, s'évanouir, se méfier, se repentir, se souvenir.",
+      "~ « Les témoins se sont enfuis. » « S'enfuir » n'existe pas sans « se » : accord avec le sujet « les témoins », masculin pluriel → enfuis. « Les candidates se sont abstenues de répondre » → abstenues.",
+      "! Exception unique : « s'arroger » (s'attribuer un droit). Il suit la règle du COD : « Ils se sont arrogé des pouvoirs » (COD « des pouvoirs » après → invariable), mais « les pouvoirs qu'ils se sont arrogés » (COD « que » avant → accord).",
+      "? Accordez : « Les élèves se sont (souvenir) de la consigne. » || Souvenus. « Se souvenir » n'existe pas sans « se » : il est essentiellement pronominal, on accorde avec le sujet « les élèves », masculin pluriel.",
+      "Comment reconnaître un verbe essentiellement pronominal ? Essayez de le conjuguer sans « se » avec le même sens : « je souviens », « il méfie », « elle évanouit » sont impossibles. Si le test échoue, le verbe est essentiellement pronominal.",
+      "~ « Les parents d'élèves se sont méfiés des faux recruteurs. » « Méfier » n'existe pas seul : accord avec le sujet « les parents d'élèves », masculin pluriel → méfiés.",
+      "? Accordez : « Sous la chaleur, plusieurs spectatrices se sont (évanouir). » || Évanouies. On ne peut pas « évanouir quelqu'un » : le verbe est essentiellement pronominal, il s'accorde avec le sujet « plusieurs spectatrices », féminin pluriel.",
+      "## Notion 2 : les verbes réfléchis et réciproques",
+      "Règle : quand le verbe existe aussi sans « se » (laver, blesser, regarder, écrire, rencontrer), on remplace « être » par « avoir » et on applique la règle du participe avec avoir : accord avec le COD seulement s'il est placé avant.",
+      "Pourquoi ? Dans « elle s'est lavée », le pronom « se » a une vraie fonction : il représente la personne qui subit l'action. C'est lui qui joue le rôle de COD.",
+      "~ « Elle s'est lavée. » Elle a lavé qui ? « s' » (elle-même), placé avant → lavée.",
+      "~ « Elle s'est lavé les mains. » Elle a lavé quoi ? « les mains », placé après. « S' » signifie « à elle-même » : c'est un COI → lavé, invariable.",
+      "~ « Les mains qu'elle s'est lavées. » Elle a lavé quoi ? « que », mis pour « les mains », placé avant → lavées.",
+      "~ Réciproque : « Les deux délégations se sont rencontrées. » On rencontre quelqu'un : « se » est COD, placé avant → rencontrées.",
+      "! Correct ou fautif côte à côte : « Elles se sont fait des reproches » (correct : COD après) / « Elles se sont faites des reproches » (fautif).",
+      "? Accordez : « Les lettres qu'ils se sont (écrire) étaient longues. » || Écrites. Ils ont écrit quoi ? « que », mis pour « les lettres » (féminin pluriel), placé avant. « Se » est ici COI (écrire à quelqu'un).",
+      "Le cas de « se dire » montre que tout dépend de la fonction de « se ». « Elles se sont dit que le délai était trop court » : elles ont dit quoi ? « que le délai était trop court », placé après ; « se » signifie « à elles-mêmes » (COI) → dit, invariable. En revanche, « La présidente s'est dite ouverte au dialogue » : elle a dit qui ouverte ? « s' » (elle-même), COD placé avant → dite.",
+      "? Accordez : « Les deux candidates se sont (envoyer) leurs fiches de révision. » || Envoyé. Elles ont envoyé quoi ? « leurs fiches », placé après le participe. « Se » veut dire « l'une à l'autre » (on envoie quelque chose à quelqu'un) : c'est un COI, donc pas d'accord.",
+      "## Notion 3 : les verbes construits avec « à » : se sont succédé, se sont plu",
+      "Règle : certains verbes ne peuvent pas avoir de COD ; ils se construisent avec « à » (succéder à, plaire à, parler à, nuire à, sourire à, mentir à, ressembler à, suffire à, téléphoner à). À la forme pronominale, « se » signifie « à soi » ou « l'un à l'autre » : c'est un COI. Le participe reste toujours invariable.",
+      "Pourquoi ? Sans COD, la règle de l'auxiliaire avoir ne permet aucun accord.",
+      "~ « Les présidents se sont succédé à la tête de l'institution. » On succède à quelqu'un : « se » est COI → succédé.",
+      "~ « Ils se sont plu dès leur rencontre » ; « elles se sont souri » ; « ils se sont nui » ; « elles se sont ressemblé ». Tous invariables.",
+      "! « Se plaire », « se déplaire » et « se complaire » restent invariables même au sens de « trouver du plaisir » : « Elles se sont plu à Bouaké. »",
+      "? Accordez : « Les deux ministres se sont (parler) longuement. » || Parlé. On parle à quelqu'un : « se » est COI et il n'y a pas de COD, donc le participe reste invariable.",
+      "Quatre verbes forment un petit groupe à part : se plaire, se déplaire, se complaire et se rire de. Leur « se » n'est pas analysable, mais leur participe reste invariable, contrairement aux autres verbes de ce type.",
+      "~ « Les stagiaires se sont déplu dans ce service et ont demandé leur mutation. » « Se déplaire » appartient à ce petit groupe : déplu, invariable, malgré le sujet pluriel.",
+      "? Accordez : « Ces deux associés se sont (mentir) pendant des années. » || Menti. On ment à quelqu'un : « se » est COI (« l'un à l'autre ») et il n'y a pas de COD, donc le participe reste invariable.",
+      "## Notion 4 : sens passif, verbes subjectifs et verbes suivis d'un infinitif",
+      "Règle 1 : au sens passif, le participe s'accorde avec le sujet. « Ces terrains se sont vendus rapidement » signifie « ont été vendus ».",
+      "Règle 2 : certains verbes changent de sens à la forme pronominale (s'apercevoir de, se douter de, se taire, se servir de) ; leur « se » n'est pas analysable. On accorde avec le sujet : « Elles se sont aperçues de leur erreur. »",
+      "Règle 3 : devant un infinitif, on accorde seulement si le sujet fait l'action de l'infinitif. « Elle s'est sentie mourir » (c'est elle qui meurt) ; « elle s'est entendu appeler » (elle n'appelle pas, on l'appelle).",
+      "! « Fait » suivi d'un infinitif reste toujours invariable : « elle s'est fait opérer ». Depuis les rectifications orthographiques de 1990, « laissé » suivi d'un infinitif peut aussi rester invariable.",
+      "~ « La réunion s'est tenue à Abidjan. » Sens passif (« a été tenue ») : accord avec « la réunion » → tenue.",
+      "~ « Les portes du centre d'examen se sont fermées à 8 heures. » Personne n'est désigné comme auteur de l'action : le sens est passif (« ont été fermées »), on accorde avec le sujet « les portes » → fermées.",
+      "## Notion 5 : synthèse, l'ordre des questions à poser",
+      "Le jour du concours, vous n'avez pas le temps de réciter toutes les règles. Posez ces questions dans l'ordre, et arrêtez-vous à la première réponse positive.",
+      "- 1. Le verbe peut-il s'employer sans « se » avec le même sens ? Non → accord avec le sujet (sauf « s'arroger »).",
+      "- 2. Le sens est-il passif (« a été… ») ? Oui → accord avec le sujet.",
+      "- 3. Est-ce se plaire, se déplaire, se complaire ou se rire de ? Oui → invariable.",
+      "- 4. Sinon, remplacez « être » par « avoir », cherchez le COD : placé avant → accord avec lui ; placé après ou absent → invariable.",
+      "? Corrigez si nécessaire : « Les deux sœurs se sont téléphonées puis se sont données rendez-vous. » || Il faut écrire « se sont téléphoné » et « se sont donné rendez-vous ». On téléphone à quelqu'un : « se » est COI, pas de COD, donc invariable. Pour « donner », on se demande : elles ont donné quoi ? « rendez-vous », COD placé après : invariable.",
+      "! Le piège le plus fréquent reste l'accord automatique avec le sujet parce que l'auxiliaire est « être ». Ce réflexe n'est juste que pour les cas 1 et 2 de la liste ci-dessus."
+     ],
+     "retenir": [
+      "Verbe essentiellement pronominal (s'enfuir, se souvenir, s'évanouir) : le participe passé s'accorde avec le sujet.",
+      "Seule exception : « s'arroger » s'accorde avec le COD placé avant : « les droits qu'ils se sont arrogés ».",
+      "Verbe réfléchi ou réciproque : remplacez « être » par « avoir » et accordez avec le COD seulement s'il est placé avant.",
+      "« Elle s'est lavée » mais « elle s'est lavé les mains » : dans la seconde phrase, le COD « les mains » est placé après.",
+      "Succéder, plaire, parler, nuire, sourire, ressembler, téléphoner : se construisent avec « à », donc participe invariable (« ils se sont succédé »).",
+      "Pronominal de sens passif (« ces maisons se sont vendues ») : accord avec le sujet.",
+      "Devant un infinitif, accord seulement si le sujet fait l'action ; « fait » + infinitif reste toujours invariable.",
+      "Se plaire, se déplaire, se complaire et se rire de ont un participe toujours invariable : « ils se sont déplu »."
+     ],
+     "exo": {
+      "tag": "niv-fr08",
+      "n": 12
+     },
+     "rev": 2,
+     "sources": [
+      {
+       "t": "La langue française – Accord du participe passé des verbes pronominaux",
+       "u": "https://www.lalanguefrancaise.com/orthographe/participe-passe-verbe-pronominal-accord"
+      },
+      {
+       "t": "Schoolmouv – L'accord du participe passé des verbes pronominaux (fiche de cours)",
+       "u": "https://www.schoolmouv.fr/cours/l-accord-du-participe-passe-des-verbes-pronominaux/fiche-de-cours"
       }
      ]
     }
