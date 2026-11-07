@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "1d9fa487 du 05/11/2026";
+const APP_VERSION = "fbdf13c7 du 07/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1683,6 +1683,9 @@ function grade(ind){ return niveau((ind || indice()).total); }
 function addXP(n){ state.xp = Math.max(0, state.xp + n); }
 function markDay(){ const d = today(); state.days[d] = (state.days[d]||0) + 1; }
 function precision(){ let ok=0,n=0; for (const k in state.stats){ ok+=state.stats[k].ok; n+=state.stats[k].n; } return n ? Math.round(ok/n*100) : null; }
+
+// Remise à zéro des séances à rattraper (demandée le 7 novembre 2026), appliquée une seule fois
+if (!state.rattReset){ for (const m of (state.missed||[])) if (m.st === "due") m.st = "annule"; if (state.onboarded && (!state.lastProc || state.lastProc < addDays(today(), -1))) state.lastProc = addDays(today(), -1); state.rattReset = today(); save(); }
 
 
 // ---------- Concours choisis et matières actives ----------
@@ -2514,7 +2517,7 @@ function vCopies(){
 }
 function redoEcrit(lv){
   const t = TRACKS[lv.track], s = pickSujet(t.ecrit); if (!s) return toast("Aucun sujet disponible.");
-  const nd = ecritNeeded(lv); startEcrit(s, {lv:lv.id, redo:true, dur: nd ? nd.dur : EPREUVES[t.ecrit].duree*60});
+  const nd = ecritNeeded(lv); avecLecon(lv, "copie à refaire", ()=>startEcrit(s, {lv:lv.id, redo:true, dur: nd ? nd.dur : EPREUVES[t.ecrit].duree*60}));
 }
 function vCopie(){
   const c = copyById(copieView); if (!c) return vCopies();
@@ -2635,7 +2638,7 @@ function vAnnales(){
   const list = state.annales.slice().reverse();
   const aEnvoyer = state.annales.filter(a=>!a.envoye);
   return h("div",{class:"stack"},
-    h("div",null, h("p",{class:"lbl"},"Entraînement"), h("h1",null,"Mes anciens sujets")),
+    h("div",null, h("p",{class:"lbl"},"Entraînement"), h("h1",null,"Anciens sujets et liens")),
     card("stack",
       h("h2",null,"Ajouter des fichiers"),
       h("p",{class:"muted small"},"Photos, PDF ou Word (25 Mo au plus par fichier). Indiquez l'année et l'épreuve : elles aident à classer le sujet. Les fichiers restent dans cet appareil tant que vous ne les envoyez pas."),
@@ -2665,8 +2668,41 @@ function vAnnales(){
           a.envoye && !t ? h("button",{class:"link",type:"button",onclick:()=>annEnvoyer([a])},"Renvoyer") : null,
           h("button",{class:"link",type:"button",onclick:async()=>{ await annDel(a.id); state.annales = state.annales.filter(x=>x.id!==a.id); save(); render(); }},"Retirer"));
       }))) : null,
+    liensCard(),
     h("p",{class:"note"},"Les fichiers ne font pas partie de la sauvegarde envoyée vers un autre appareil : seule leur liste y figure. Gardez vos originaux.")
   );
+}
+
+// ---------- Liens à suivre (sites, pages Facebook) ----------
+// Les mises à jour lisent le document Google « Cap ENA - Liens à suivre » : l'appli prépare les liens,
+// les copie et ouvre le document, où il suffit de coller.
+const LIENS_DOC = "https://docs.google.com/document/d/1P1Qm3v6iQbXvqjuz2RGYrqmnipBP-81qsUo-1ivHu78/edit";
+function lienValide(u){ try { const x = new URL(u); return /^https?:$/.test(x.protocol) && x.hostname.includes("."); } catch(e){ return false; } }
+async function liensTransmettre(list){
+  const txt = list.map(l=>l.u + (l.note ? " : " + l.note : "")).join("\n");
+  let ok = false;
+  try { await navigator.clipboard.writeText(txt); ok = true; } catch(e){}
+  for (const l of list) l.envoye = today(); save(); render();
+  window.open(LIENS_DOC, "_blank", "noopener");
+  toast(ok ? "Liens copiés : collez-les sous « LIENS » dans le document qui s'ouvre." : "Copie impossible : recopiez les liens affichés dans le document.");
+}
+function liensCard(){
+  state.liens = state.liens || [];
+  const fu = h("input",{type:"url",class:"fld",placeholder:"Adresse (https://…)",autocomplete:"off"});
+  const fn = h("input",{type:"text",class:"fld",placeholder:"Note (facultatif) : ce qu'on y trouve"});
+  const att = state.liens.filter(l=>!l.envoye);
+  return card("stack",
+    h("h2",null,"Sites et pages à suivre"),
+    h("p",{class:"muted small"},"Ajoutez l'adresse d'un site ou d'une page Facebook utile (communiqués, annales, méthodes, actualité des concours). La veille, la production de nuit et les compléments de l'après-midi visitent ces liens à chaque passage."),
+    fu, fn,
+    h("button",{class:"btn",type:"button",onclick:()=>{ let u = fu.value.trim(); if (u && !/^https?:\/\//i.test(u)) u = "https://" + u; if (!lienValide(u)) return toast("Adresse invalide."); if (state.liens.some(l=>l.u===u)) return toast("Ce lien est déjà dans la liste."); state.liens.push({u, note:fn.value.trim(), added:today(), envoye:null}); save(); render(); }},"Ajouter le lien"),
+    state.liens.length ? h("div",{class:"list"}, state.liens.slice().reverse().map(l=>h("div",{class:"item"},
+      h("span",{class:"grow"}, h("b",{class:"small"}, l.u), l.note ? h("span",{class:"muted small block"}, l.note) : null, h("span",{class:"pill " + (l.envoye ? "ok" : "")}, l.envoye ? "Transmis le " + frDate(l.envoye) : "À transmettre")),
+      h("button",{class:"link",type:"button",onclick:()=>{ state.liens = state.liens.filter(x=>x!==l); save(); render(); }},"Retirer")))) : null,
+    h("div",{class:"row"},
+      h("button",{class:"btn primary",type:"button",disabled:!att.length||null,onclick:()=>liensTransmettre(att)}, att.length ? "Transmettre (" + att.length + ")" : "Tout est transmis"),
+      h("a",{class:"btn ghost",href:LIENS_DOC,target:"_blank",rel:"noopener"},"Ouvrir le document")),
+    h("p",{class:"muted small"},"Une information n'entre dans l'appli que si elle est confirmée par une page réellement lue. Beaucoup de pages Facebook demandent une connexion et peuvent rester illisibles pour les mises à jour : dans ce cas, elles servent seulement de piste de recherche."));
 }
 
 
@@ -2737,7 +2773,8 @@ function openTrackSession(k, ratt, skipRappel){
   if (cur && levelStatus(cur) === "cur" && !ratt) return openLevel(cur.id);
   return startRevision(k, ratt);
 }
-function startRevision(k, ratt){
+function startRevision(k, ratt, lu){
+  if (!lu) return avecLecon(rattLevel(k) || leconFaible([k]), "révision · " + TRACKS[k].court, ()=>startRevision(k, ratt, true));
   const t = TRACKS[k];
   const pool = trackPool(k, !!ratt);
   if (pool.length < 5){
@@ -2749,7 +2786,8 @@ function startRevision(k, ratt){
   conditions({title: (ratt ? "Rattrapage · " : "Révision · ") + t.court, desc: n + " questions des niveaux déjà travaillés, " + n + " minutes, barème officiel." + (ratt ? " Note minimale pour récupérer les points : 12/20." : ""),
     start: ()=>startQCM({items: pick(pool, n), title:(ratt ? "Rattrapage · " : "Révision · ") + t.court, kind: ratt ? "ratt" : "revision", ratt, track:k, chrono: n*60})});
 }
-function startBlanc(ratt){
+function startBlanc(ratt, lu){
+  if (!lu && ["fr","ang","cg","log"].flatMap(k=>trackPool(k, true)).length >= 30) return avecLecon(leconFaible(QCM_TRACKS), "présélection blanche", ()=>startBlanc(ratt, true));
   const pool = ["fr","ang","cg","log"].flatMap(k=>trackPool(k, true));
   if (pool.length < 30){ toast("La présélection blanche s'ouvre quand 30 questions de présélection sont débloquées (" + pool.length + " aujourd'hui). Avancez dans le parcours."); return; }
   const by = (k)=>pick(pool.filter(q=>trackOfQ(q)===k), k==="fr"||k==="cg" ? 12 : 11);
@@ -2757,7 +2795,8 @@ function startBlanc(ratt){
   conditions({title:"Présélection blanche", desc: items.length + " questions mêlant français, culture générale, anglais et logique, en " + items.length + " minutes, barème officiel (+1/0/−1, logique +2/0/−2).",
     start: ()=>startQCM({items, title:"Présélection blanche", kind:"blanc", ratt, chrono: items.length*60})});
 }
-function startErreurs(){
+function startErreurs(lu){
+  if (!lu && allQ().filter(q=>state.wrong[q.id]>0).length >= 5) return avecLecon(leconFaible(activeTracks()), "révision des erreurs", ()=>startErreurs(true));
   const items = allQ().filter(q=>state.wrong[q.id]>0);
   if (items.length < 5){ toast("Moins de 5 erreurs à revoir : faites plutôt une révision de matière."); return; }
   const n = Math.min(20, items.length);
@@ -2781,8 +2820,8 @@ function vHome(){
     clockBack() ? card("stack warnc", h("h2",null,"Date du téléphone incorrecte"), h("p",{class:"small"},"La date du téléphone (" + frDate(today()) + ") est antérieure à votre dernière utilisation (" + frDate(state.maxDate) + "). Tant qu'elle n'est pas corrigée, aucune séance n'est comptée. Réglez la date et l'heure automatiques dans les paramètres du téléphone.")) : null,
     memCard(),
     card("soft stack tight", h("div",{class:"row spread"}, h("h2",null,"Anciens sujets"), h("span",{class:"muted small"}, (state.annales||[]).length + " déposé" + ((state.annales||[]).length>1?"s":""))),
-      h("p",{class:"small"},"Déposez vos anciens sujets (photos, PDF, Word) : ils enrichissent les cours, les exercices et la banque de sujets."),
-      h("button",{class:"btn primary",type:"button",onclick:()=>go("annales")},"Déposer des anciens sujets")),
+      h("p",{class:"small"},"Déposez vos anciens sujets (photos, PDF, Word) et les sites ou pages Facebook à suivre : ils enrichissent les cours, les exercices et la banque de sujets."),
+      h("button",{class:"btn primary",type:"button",onclick:()=>go("annales")},"Déposer des sujets ou des liens")),
     (()=>{ const redo = LEVELS.filter(lv=>lvState(lv.id).ecritRedo && activeTracks().includes(lv.track)); return redo.length ? card("stack warnc", h("h2",null, redo.length + " écrit(s) à refaire"), h("p",{class:"small"},"Un correcteur a jugé insuffisante une copie qui avait validé un niveau. Refaites l'écrit, puis faites-le corriger."), h("button",{class:"btn accent",type:"button",onclick:()=>go("copies")},"Voir")) : null; })(),
     profilComplet() ? null : card("stack tight soft", h("h2",null,"Complétez votre profil"), h("p",{class:"small"},"Indiquez votre diplôme le plus élevé et votre situation (fonctionnaire ou non) : l'appli vous montrera tous les concours auxquels vous pouvez vous présenter, du BEPC au doctorat."), h("button",{class:"btn primary",type:"button",onclick:()=>go("concours")},"Compléter et voir mes concours")),
     veilleBanner(),
@@ -2848,8 +2887,8 @@ function vRattrapages(){
     due.length ? h("div",{class:"list"}, due.map(m=>h("div",{class:"item"},
       h("span",{class:"grow"}, h("b",null, kindLabel(m.k)), h("span",{class:"muted small block"}, JOURS[parseYmd(m.date).getDay()] + " " + frDate(m.date) + " · " + m.debut + "–" + m.fin + " · −" + m.pts + " XP · avant le " + frDate(m.limit))),
       h("button",{class:"btn small primary",type:"button",onclick:()=>startRattrapage(m)},"Rattraper")))) : card("soft", h("p",null,"Aucune séance à rattraper. Continuez ainsi.")),
-    card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s) à retravailler."), h("button",{class:"btn",type:"button",onclick:startErreurs},"Lancer la révision des erreurs")),
-    old.length ? card("stack", h("h2",null,"Historique"), h("div",{class:"list"}, old.map(m=>h("div",{class:"item"}, h("span",{class:"grow"}, kindLabel(m.k) + " · " + frDate(m.date)), h("span",{class:"meta"}, m.st==="ok" ? "rattrapé (+" + m.pts + ")" : "perdu (−" + m.pts + ")"))))) : null
+    card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s) à retravailler."), h("button",{class:"btn",type:"button",onclick:()=>startErreurs()},"Lancer la révision des erreurs")),
+    old.length ? card("stack", h("h2",null,"Historique"), h("div",{class:"list"}, old.map(m=>h("div",{class:"item"}, h("span",{class:"grow"}, kindLabel(m.k) + " · " + frDate(m.date)), h("span",{class:"meta"}, m.st==="ok" ? "rattrapé (+" + m.pts + ")" : m.st==="annule" ? "remis à zéro" : "perdu (−" + m.pts + ")"))))) : null
   );
 }
 // Rattrapage : on reprend d'abord le cours depuis le début (technique, cours, à retenir, avec les temps de lecture),
@@ -2865,6 +2904,27 @@ function openRattLesson(lv, m, then){
   lesson = {id:lv.id, review:false, ratt:m.id, rattThen:then, step:0, maxStep:0, stepStart:Date.now()};
   go("lesson");
 }
+// Avant tout exercice (révision, présélection blanche, erreurs, série libre, écrit, oral, rattrapage) :
+// relecture complète d'une leçon, avec ses temps de lecture. Seuls les rappels espacés font exception
+// (se tester avant de relire est ce qui ancre la mémoire).
+const QCM_TRACKS = ["fr","cg","ang","log"];
+function avecLecon(lv, lbl, then){
+  if (!lv || !lessonOf(lv)) return then();
+  lesson = {id:lv.id, review:false, ratt:"pre", preLbl:lbl, rattThen:()=>{ state.preLu = state.preLu || {}; state.preLu[lv.id] = today(); save(); then(); }, step:0, maxStep:0, stepStart:Date.now()};
+  go("lesson");
+}
+// Leçon à relire : parmi les niveaux travaillés de ces matières, celui où vous avez le plus d'erreurs ;
+// à égalité, celui relu le moins récemment (pour ne pas relire toujours la même).
+function leconFaible(tracks){
+  const c = [];
+  for (const k of tracks.filter(k=>activeTracks().includes(k))){ const t = TRACKS[k]; if (!t) continue;
+    for (const L of t.levels){ const lv = LVMAP[L[0]]; if (!lv || lv.last || !lessonOf(lv)) continue;
+      const st = levelStatus(lv); if (!(isValid(lv.id) || st === "cur")) continue;
+      c.push({lv, n: poolOf(lv).reduce((a,q)=>a+(state.wrong[q.id]||0),0), d: (state.preLu||{})[lv.id] || ""}); } }
+  c.sort((a,b)=>b.n-a.n || (a.d<b.d?-1:a.d>b.d?1:0));
+  return c.length ? c[0].lv : null;
+}
+function oralLecon(){ const t = TRACKS.oral; if (!t) return null; const cur = currentLevel("oral"); if (cur && lessonOf(cur) && !cur.last) return cur; const v = t.levels.map(L=>LVMAP[L[0]]).filter(lv=>isValid(lv.id) && lessonOf(lv) && !lv.last); return v.length ? v[v.length-1] : null; }
 function rattEcritEpreuve(){ return activeTracks().map(k=>TRACKS[k].ecrit).filter(Boolean).find(x=>isValid(METHOD_LEVEL[x])) || "sog"; }
 function startRattrapage(m, afterLesson){
   if (!afterLesson){
@@ -2872,10 +2932,11 @@ function startRattrapage(m, afterLesson){
     if (TRACKS[m.k] && m.k !== "oral") lv = rattLevel(m.k);
     else if (m.k === "oral") lv = LVMAP[TRACKS.oral.levels[0][0]];
     else if (m.k === "ecrit") lv = LVMAP[METHOD_LEVEL[rattEcritEpreuve()]];
+    else if (m.k === "blanc" || m.k === "revision") lv = leconFaible(QCM_TRACKS);
     if (lv && lessonOf(lv)) return openRattLesson(lv, m, ()=>startRattrapage(m, true));
   }
-  if (TRACKS[m.k] && m.k !== "oral") return startRevision(m.k, m.id);
-  if (m.k === "blanc") return startBlanc(m.id);
+  if (TRACKS[m.k] && m.k !== "oral") return startRevision(m.k, m.id, true);
+  if (m.k === "blanc") return startBlanc(m.id, true);
   if (m.k === "oral") return startOral({ratt:m.id});
   if (m.k === "ecrit"){ const e = activeTracks().map(k=>TRACKS[k].ecrit).filter(Boolean).find(x=>isValid(METHOD_LEVEL[x])) || "sog"; const s = pickSujet(e); if (s) return startEcrit(s, {dur:3600, ratt:m.id}); }
   if (m.k === "revision"){
@@ -2970,7 +3031,7 @@ function vLesson(){
     }
   }
   return h("div",{class:"stack"},
-    h("div",null,h("p",{class:"lbl"}, TRACKS[lv.track].court + " · niveau " + (lv.idx+1) + (lesson.ratt ? " · rattrapage : relecture complète avant l'évaluation" : lesson.review ? " · révision" : "")),h("h1",{class:"h-l"},l.titre || lv.t)),
+    h("div",null,h("p",{class:"lbl"}, TRACKS[lv.track].court + " · niveau " + (lv.idx+1) + (lesson.ratt === "pre" ? " · relecture avant l'exercice (" + lesson.preLbl + ")" : lesson.ratt ? " · rattrapage : relecture complète avant l'évaluation" : lesson.review ? " · révision" : "")),h("h1",{class:"h-l"},l.titre || lv.t)),
     dots,
     st < 3 ? ttsControls(st < 2 ? steps[st][1] : (l.retenir||[]), ttsKey) : null,
     body,
@@ -2982,6 +3043,7 @@ function vLesson(){
   );
 }
 function evalCard(lv, l, s){
+  if (lesson.ratt === "pre"){ const then = lesson.rattThen; return card("stack", h("h2",null,"Leçon relue"), h("p",null,"Vous avez relu la leçon en entier : vous pouvez maintenant passer à l'exercice (" + lesson.preLbl + ")."), h("button",{class:"btn primary",type:"button",onclick:()=>{ lesson = null; then(); }},"Passer à l'exercice")); }
   if (lesson.ratt){ const then = lesson.rattThen; return card("stack", h("h2",null,"Évaluation de rattrapage"), h("p",null,"Vous avez relu le cours en entier : vous pouvez maintenant passer l'évaluation de rattrapage, en conditions d'examen. Réussie (12/20 au QCM, 10/20 à l'écrit ou à l'oral), elle rend les points perdus."), h("button",{class:"btn primary",type:"button",onclick:()=>{ lesson = null; then(); }},"Passer l'évaluation de rattrapage")); }
   if (lesson.review) return card("stack", h("p",null,"Niveau validé avec " + fr1(s.best||0) + "/20 le " + frDate(s.ok) + "."), h("p",{class:"muted small"},"Pour vous réentraîner sur cette matière, utilisez la révision de matière (Parcours) ou l'Entraînement."));
   const pool = poolOf(lv);
@@ -3144,7 +3206,7 @@ function vChoixEcrit(){
       const E = EPREUVES[e], open = isValid(METHOD_LEVEL[e]), sj = pickSujet(e);
       if (!sj) return null;
       return card("stack tight"+(open?"":" dim"), h("p",{class:"lbl"}, E.duree/60 + " h · coef. " + E.coef), h("h2",null,E.label),
-        open && sj ? h("div",{class:"row"}, h("button",{class:"btn primary small",type:"button",onclick:()=>startEcrit(sj,{dur:E.duree*60})},"Durée réelle (" + E.duree/60 + " h)"), h("button",{class:"btn small",type:"button",onclick:()=>startEcrit(sj,{dur:7200})},"2 heures"))
+        open && sj ? h("div",{class:"row"}, h("button",{class:"btn primary small",type:"button",onclick:()=>avecLecon(LVMAP[METHOD_LEVEL[e]], "écrit en conditions", ()=>startEcrit(sj,{dur:E.duree*60}))},"Durée réelle (" + E.duree/60 + " h)"), h("button",{class:"btn small",type:"button",onclick:()=>avecLecon(LVMAP[METHOD_LEVEL[e]], "écrit en conditions", ()=>startEcrit(sj,{dur:7200}))},"2 heures"))
           : h("p",{class:"muted small"}, "🔒 Validez d'abord « " + LVMAP[METHOD_LEVEL[e]].t + " »."));
     }));
 }
@@ -3189,11 +3251,11 @@ function vTrain(){
       h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>go("copies")},"Mes copies"), h("button",{class:"btn",type:"button",onclick:()=>askQuestion(null)},"Poser une question"), h("button",{class:"btn ghost",type:"button",onclick:()=>go("mentors")},"Mes correcteurs"))),
     card("stack", h("h2",null,"Rappels espacés et fiches"), h("p",{class:"muted small"}, (()=>{ const m = memStats(); return m.dus + " niveau(x) à rappeler aujourd'hui · " + m.ancres + "/" + m.valides + " niveaux ancrés" + (m.taux != null ? " · " + m.taux + " % de rappels réussis (90 j)" : ""); })()),
       h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",disabled:!dueLevels().length||null,onclick:()=>startRappel(null)},"Rappel du jour"), h("button",{class:"btn",type:"button",onclick:()=>go("fiches")},"Mes fiches"))),
-    card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s)."), h("button",{class:"btn",type:"button",onclick:startErreurs},"Lancer")),
+    card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s)."), h("button",{class:"btn",type:"button",onclick:()=>startErreurs()},"Lancer")),
     card("stack", h("h2",null,"Séries libres (correction immédiate)"), h("p",{class:"muted small"},"Uniquement sur les niveaux déjà validés. Sans enjeu : elles ne valident ni niveau ni séance."),
-      h("div",{class:"list"}, PROGRAMME.filter(t=>t.k!=="oral" && activeTracks().includes(t.k)).map(t=>{ const pool = trackPool(t.k,false); return h("button",{class:"item",type:"button",disabled:pool.length<5,onclick:()=>startQCM({items:pick(pool,Math.min(10,pool.length)), title:"Série libre · " + t.court, kind:"train", mode:"train"})}, h("span",{class:"grow"}, t.court), h("span",{class:"meta"}, pool.length<5 ? "🔒" : pool.length + " q.")); }))),
+      h("div",{class:"list"}, PROGRAMME.filter(t=>t.k!=="oral" && activeTracks().includes(t.k)).map(t=>{ const pool = trackPool(t.k,false); return h("button",{class:"item",type:"button",disabled:pool.length<5,onclick:()=>avecLecon(leconFaible([t.k]), "série libre · " + t.court, ()=>startQCM({items:pick(pool,Math.min(10,pool.length)), title:"Série libre · " + t.court, kind:"train", mode:"train"}))}, h("span",{class:"grow"}, t.court), h("span",{class:"meta"}, pool.length<5 ? "🔒" : pool.length + " q.")); }))),
     card("stack", h("h2",null,"Écrits en conditions"), h("p",{class:"muted small"},"Sujets officiels et sujets d'entraînement ; chaque épreuve s'ouvre avec son niveau de méthode."), h("button",{class:"btn",type:"button",onclick:()=>go("choixecrit")},"Choisir une épreuve")),
-    card("stack", h("h2",null,"Simulation d'oral"), h("p",{class:"muted small"},"Deux questions de jury, préparation et réponse chronométrées."), h("button",{class:"btn",type:"button",disabled:!isValid("or01"),onclick:()=>startOral()}, isValid("or01") ? "Passer un oral" : "🔒 Après le niveau 1 de l'oral")),
+    card("stack", h("h2",null,"Simulation d'oral"), h("p",{class:"muted small"},"Deux questions de jury, préparation et réponse chronométrées."), h("button",{class:"btn",type:"button",disabled:!isValid("or01"),onclick:()=>avecLecon(oralLecon(), "simulation d'oral", ()=>startOral())}, isValid("or01") ? "Passer un oral" : "🔒 Après le niveau 1 de l'oral")),
     annalesSection()
   );
 }

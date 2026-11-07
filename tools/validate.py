@@ -25,6 +25,7 @@ base = json.loads((C / "base.json").read_text(encoding="utf-8"))
 seen_q = {norm(t) for t in base.get("questions", [])}
 seen_l = set(base.get("lessons", []))
 seen_s = {norm(t) for t in base.get("sujets", [])}
+seen_ex = {}   # exemples (~) et exercices (?) des leçons publiées
 ids = set()
 prog = json.loads((C / "programme.json").read_text(encoding="utf-8"))
 NIVS = {lv["id"]: lv for t in prog for lv in t["levels"]}
@@ -80,6 +81,17 @@ for pk in index.get("packs", []):
                         err(w, f"calcul : la bonne réponse ne vaut pas {val}")
         for i, l in enumerate(day.get("lessons", [])):
             w = f"{pk['file']} {d} leçon {i+1}"
+            # jamais deux fois le même exemple ou le même exercice d'une leçon à l'autre
+            def _lignes(v):
+                if isinstance(v, list):
+                    for x in v: yield from _lignes(x)
+                elif isinstance(v, str): yield from v.split("\n")
+            for ln in _lignes([l.get("tech"), l.get("fond")]):
+                if ln.startswith(("~ ", "? ")):
+                    n = norm(ln[2:].split("||")[0])
+                    if len(n) < 25: continue
+                    if n in seen_ex and seen_ex[n] != l.get("id") and d >= "2026-11-07": err(w, f"exemple ou exercice déjà utilisé dans la leçon {seen_ex[n]} : {ln[:70]}")
+                    seen_ex.setdefault(n, l.get("id"))
             for k in ("id","m","titre","min","tech","fond","retenir","exo"):
                 if k not in l: err(w, f"champ manquant {k}")
             lrev = l.get("rev", 0)

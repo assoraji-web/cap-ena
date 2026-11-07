@@ -16,6 +16,12 @@ Cette tâche enrichit Cap ENA sans produire de nouveaux niveaux (c'est le rôle 
 ## 2. Compléments de questions sur les niveaux existants
 Objectif : 20 questions par niveau. Choisis **3 niveaux** déjà pourvus d'une leçon qui ont moins de 20 questions (compte les questions portant le tag `exo.tag` de leur leçon dans `content/base.json` et les packs). Priorité : les niveaux des matières de la présélection et des écrits de l'ENA (cycle moyen supérieur), du plus ancien au plus récent ; puis INFJ et Fonction publique. Pour chacun, ajoute 8 questions au plus (sans dépasser 20 au total), sur le même tag, de difficulté progressive, en t'appuyant sur la leçon du niveau et sur les anciens sujets de la matière. Aucune question ne doit répéter un énoncé existant.
 
-## 3. Publication
+## 3. Enrichir une leçon déjà publiée
+Chaque jour, choisis **une** leçon déjà publiée (de préférence un niveau que l'utilisateur est en train de travailler : les premiers niveaux non terminés des matières de l'ENA) et republie-la enrichie, avec le même `id`, le même `niv` et un `"rev"` supérieur (voir GENERATION.md) : explications plus détaillées, plus claires et plus faciles à comprendre, nouveaux exemples et nouveaux exercices (jamais déjà utilisés ailleurs), appui sur les anciens sujets et sur les liens à suivre. Garde les faits vérifiés de l'ancienne version et n'en ajoute que de vérifiés.
+
+## 4. Liens à suivre
+Applique la section « Liens à suivre » de GENERATION.md : visite les liens du document et sers-t'en pour les anciens sujets, les compléments et l'enrichissement.
+
+## 5. Publication
 - Écris dans le fichier du mois `content/AAAA-MM.json` (date du jour à Abidjan). Si un jour de même date existe déjà (production de nuit), ajoute tes questions et sujets à ce jour au lieu d'en créer un second.
 - `git pull --rebase` avant de commencer et avant de pousser, puis `python3 tools/build_index.py` et `python3 tools/validate.py --nuit` jusqu'à « OK ». Commit « Compléments et anciens sujets du AAAA-MM-JJ », push sur main.
