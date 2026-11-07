@@ -7717,6 +7717,1865 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-07",
+   "questions": [
+    {
+     "id": "n20261107-cg06-01",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Quel rang la Côte d'Ivoire occupe-t-elle dans la production mondiale de fèves de cacao ?",
+     "o": [
+      "Deuxième, derrière le Ghana",
+      "Premier",
+      "Troisième, derrière le Ghana et l'Indonésie",
+      "Premier en Afrique seulement, cinquième dans le monde"
+     ],
+     "a": 1,
+     "e": "La DGE présente la Côte d'Ivoire comme le premier producteur et le premier exportateur mondial de cacao fèves, avec 1 890,4 milliers de tonnes en 2024.",
+     "ed": [
+      "Le Ghana est un grand producteur voisin, mais il vient derrière la Côte d'Ivoire.",
+      null,
+      "La Côte d'Ivoire n'est pas troisième : elle est en tête du classement mondial.",
+      "Son rang de premier producteur vaut pour le monde entier, pas seulement pour l'Afrique."
+     ],
+     "src": {
+      "t": "DGE – Agriculture industrielle et d'exportation (economie-ivoirienne.ci)",
+      "u": "https://economie-ivoirienne.ci/index.php/activites-sectorielles/agriculture-industrielle-et-dexportation.html"
+     }
+    },
+    {
+     "id": "n20261107-cg06-02",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Quel texte a créé le Conseil du Café-Cacao ?",
+     "o": [
+      "La loi n°2014-451 du 5 août 2014",
+      "Le décret n°2016-600 du 3 août 2016",
+      "L'ordonnance n°2011-481 du 28 décembre 2011",
+      "L'ordonnance n°2013-661 du 20 septembre 2013"
+     ],
+     "a": 2,
+     "e": "Le portail de la DGE indique que le Conseil du Café-Cacao a été mis en place par l'ordonnance n°2011-481 du 28 décembre 2011, cœur de la réforme de la filière.",
+     "ed": [
+      "La loi n°2014-451 porte sur l'organisation de l'administration territoriale, pas sur le cacao.",
+      "Le décret n°2016-600 organise un ministère ; il ne crée pas le Conseil du Café-Cacao.",
+      null,
+      "L'ordonnance n°2013-661 concerne la Haute Autorité pour la bonne gouvernance."
+     ],
+     "src": {
+      "t": "DGE – Cacao (economie-ivoirienne.ci)",
+      "u": "https://economie-ivoirienne.ci/index.php/cadre-macroeconomique/cacao.html"
+     }
+    },
+    {
+     "id": "n20261107-cg06-03",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Selon la réforme de la filière café-cacao, quel pourcentage minimum du prix CAF est garanti aux producteurs ?",
+     "o": [
+      "60 %",
+      "40 %",
+      "50 %",
+      "75 %"
+     ],
+     "a": 0,
+     "e": "La réforme présentée à l'ICCO en 2012 prévoit qu'un prix minimum représentant 60 % du prix CAF est garanti aux producteurs de café et de cacao.",
+     "ed": [
+      null,
+      "40 % est trop bas : la réforme garantit au moins 60 %.",
+      "50 % ne correspond pas au texte de la réforme, qui retient 60 %.",
+      "75 % dépasse le minimum fixé par la réforme, qui est de 60 %."
+     ],
+     "src": {
+      "t": "Réforme de la filière café-cacao de Côte d'Ivoire (ICCO, 2012)",
+      "u": "https://www.icco.org/wp-content/uploads/2019/07/Cafe-Cacao-reforme.pdf"
+     }
+    },
+    {
+     "id": "n20261107-cg06-04",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Depuis quelle année la Côte d'Ivoire est-elle le premier producteur mondial de noix de cajou ?",
+     "o": [
+      "2005",
+      "2010",
+      "2020",
+      "2015"
+     ],
+     "a": 3,
+     "e": "La DGE indique que la Côte d'Ivoire est devenue le premier producteur mondial de noix de cajou (anacarde) depuis 2015.",
+     "ed": [
+      "En 2005, la Côte d'Ivoire n'occupait pas encore la première place mondiale du cajou.",
+      "2010 est trop tôt : la première place est acquise en 2015.",
+      "2020 est trop tard : le pays est premier depuis 2015.",
+      null
+     ],
+     "src": {
+      "t": "DGE – Agriculture industrielle et d'exportation (economie-ivoirienne.ci)",
+      "u": "https://economie-ivoirienne.ci/index.php/activites-sectorielles/agriculture-industrielle-et-dexportation.html"
+     }
+    },
+    {
+     "id": "n20261107-cg06-05",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Pour le caoutchouc naturel, quelle affirmation est exacte ?",
+     "o": [
+      "La Côte d'Ivoire est le premier producteur mondial",
+      "La Côte d'Ivoire est le premier producteur africain",
+      "La Côte d'Ivoire ne produit pas de caoutchouc",
+      "La Côte d'Ivoire est deuxième en Afrique, derrière le Nigeria"
+     ],
+     "a": 1,
+     "e": "La DGE classe la Côte d'Ivoire premier producteur africain de caoutchouc ; en 2023, elle assurait près de 80 % de la production du continent et le troisième rang mondial.",
+     "ed": [
+      "Elle est troisième mondiale en 2023, pas première : c'est la confusion classique mondial/africain.",
+      null,
+      "L'hévéa est au contraire une grande culture ivoirienne : plus de 1,6 million de tonnes en 2023.",
+      "Elle est première en Afrique, avec près de 80 % de la production africaine."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : leader émergent dans la production mondiale de caoutchouc naturel (DGE, 5 juin 2024)",
+      "u": "https://economie-ivoirienne.ci/actualites/cote-divoire-leader-emergent-dans-la-production-mondiale-de-caoutchouc-naturel.html"
+     }
+    },
+    {
+     "id": "n20261107-cg06-06",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Quelle entreprise exploite le champ pétrolier Baleine avec Petroci ?",
+     "o": [
+      "TotalEnergies",
+      "Shell",
+      "Eni",
+      "ExxonMobil"
+     ],
+     "a": 2,
+     "e": "Le champ Baleine est exploité par le groupe énergétique italien Eni avec son partenaire ivoirien Petroci Holding ; la production a démarré le 27 août 2023.",
+     "ed": [
+      "TotalEnergies n'est pas l'opérateur de Baleine.",
+      "Shell n'est pas l'opérateur de Baleine.",
+      null,
+      "ExxonMobil n'est pas l'opérateur de Baleine : c'est le groupe italien Eni."
+     ],
+     "src": {
+      "t": "Démarrage de la production du champ Baleine (AllAfrica, 28 août 2023)",
+      "u": "https://fr.allafrica.com/stories/202308280194.html"
+     }
+    },
+    {
+     "id": "n20261107-cg06-07",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "À quelle date la production a-t-elle démarré sur le champ Baleine ?",
+     "o": [
+      "Le 27 août 2023",
+      "Le 7 août 2020",
+      "Le 1er janvier 2022",
+      "Le 28 décembre 2025"
+     ],
+     "a": 0,
+     "e": "La production de pétrole et de gaz du champ Baleine a démarré le dimanche 27 août 2023, moins de deux ans après la première découverte de septembre 2021.",
+     "ed": [
+      null,
+      "Le 7 août est la date de la fête de l'Indépendance ; en 2020, Baleine n'était pas encore découvert.",
+      "Au 1er janvier 2022, Baleine venait d'être découvert (septembre 2021) et ne produisait pas.",
+      "Le 28 décembre est la date de démarrage de la phase 2, en 2024, pas du début de la production."
+     ],
+     "src": {
+      "t": "Démarrage de la production du champ Baleine (AllAfrica, 28 août 2023)",
+      "u": "https://fr.allafrica.com/stories/202308280194.html"
+     }
+    },
+    {
+     "id": "n20261107-cg06-08",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Qui a inauguré officiellement le port d'Abidjan le 5 février 1951 ?",
+     "o": [
+      "Félix Houphouët-Boigny, président de la République",
+      "Charles de Gaulle, chef du gouvernement provisoire",
+      "Henri Konan Bédié, président de l'Assemblée nationale",
+      "François Mitterrand, ministre de la France d'outre-mer"
+     ],
+     "a": 3,
+     "e": "Le Port autonome d'Abidjan rappelle que le port a été inauguré officiellement le 5 février 1951 par François Mitterrand, alors ministre français de la France d'outre-mer.",
+     "ed": [
+      "En 1951, la Côte d'Ivoire n'est pas indépendante : il n'y a pas encore de président de la République.",
+      "Charles de Gaulle n'est pas au pouvoir en 1951 et n'a pas inauguré le port.",
+      "Bédié ne présidera l'Assemblée nationale qu'après l'indépendance ; en 1951, l'inauguration revient au ministre français.",
+      null
+     ],
+     "src": {
+      "t": "Port autonome d'Abidjan – Historique",
+      "u": "https://portabidjan.ci/en/autorite-portuaire/historique"
+     }
+    },
+    {
+     "id": "n20261107-cg06-09",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Quel ouvrage, achevé en 1950, a permis aux navires d'accéder à la lagune Ébrié et au port d'Abidjan ?",
+     "o": [
+      "Le canal de Panama",
+      "Le canal de Vridi",
+      "Le wharf de Grand-Bassam",
+      "Le pont Félix-Houphouët-Boigny"
+     ],
+     "a": 1,
+     "e": "Le canal de Vridi, achevé en 1950, relie la lagune Ébrié à l'océan et rend possible le port en eau profonde inauguré en 1951.",
+     "ed": [
+      "Le canal de Panama relie l'Atlantique au Pacifique en Amérique centrale ; il ne dessert pas Abidjan.",
+      null,
+      "Un wharf est une jetée de chargement en mer, pas un canal ouvrant la lagune sur l'océan.",
+      "Un pont relie les rives de la lagune ; il ne donne pas accès à l'océan."
+     ],
+     "src": {
+      "t": "Autonomous Port of Abidjan (Wikipedia)",
+      "u": "https://en.wikipedia.org/wiki/Autonomous_Port_of_Abidjan"
+     }
+    },
+    {
+     "id": "n20261107-cg06-10",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Quel est le deuxième port de Côte d'Ivoire, achevé en 1970 ?",
+     "o": [
+      "San-Pédro",
+      "Sassandra",
+      "Grand-Lahou",
+      "Tabou"
+     ],
+     "a": 0,
+     "e": "Selon l'Encyclopaedia Britannica, la construction du port de San-Pédro a commencé en 1968 ; achevé en 1970, il est devenu le deuxième port du pays après Abidjan.",
+     "ed": [
+      null,
+      "Sassandra est une ville côtière ancienne, mais ce n'est pas le deuxième port du pays.",
+      "Grand-Lahou est une ville côtière à l'embouchure du Bandama, sans grand port.",
+      "Tabou est une ville côtière du sud-ouest, pas le deuxième port national."
+     ],
+     "src": {
+      "t": "San-Pédro (Encyclopaedia Britannica)",
+      "u": "https://www.britannica.com/place/San-Pedro-Cote-dIvoire"
+     }
+    },
+    {
+     "id": "n20261107-cg06-11",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Quelle part du PIB nominal de l'UEMOA la Côte d'Ivoire représentait-elle en 2023, selon la DGE ?",
+     "o": [
+      "Environ 10 %",
+      "Environ 25 %",
+      "Environ 40 %",
+      "Environ 60 %"
+     ],
+     "a": 2,
+     "e": "La DGE donne 47 790,9 milliards de FCFA sur 120 469,6 milliards pour l'Union en 2023, soit 39,7 % du PIB nominal : près de 40 %.",
+     "ed": [
+      "10 % sous-estime fortement le poids ivoirien : c'est la première économie de l'Union.",
+      "25 % reste trop faible ; le calcul donne 39,7 %.",
+      null,
+      "60 % surestime : les sept autres États pèsent ensemble environ 60 %."
+     ],
+     "src": {
+      "t": "Poids de la Côte d'Ivoire dans l'UEMOA (DGE)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/poids-de-la-cote-divoire-dans-luemoa.html"
+     }
+    },
+    {
+     "id": "n20261107-cg06-12",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "En 2023, l'UEMOA a un PIB nominal de 120 469,6 milliards de FCFA, dont 47 790,9 pour la Côte d'Ivoire. Quel est le PIB nominal cumulé des autres États ?",
+     "o": [
+      "72 678,7 milliards de FCFA",
+      "168 260,5 milliards de FCFA",
+      "73 678,7 milliards de FCFA",
+      "62 678,7 milliards de FCFA"
+     ],
+     "a": 0,
+     "e": "On soustrait la part ivoirienne du total : 120 469,6 − 47 790,9 = 72 678,7 milliards de FCFA, soit environ 60 % du PIB de l'Union.",
+     "ed": [
+      null,
+      "168 260,5 est la somme des deux nombres : on a additionné au lieu de soustraire.",
+      "73 678,7 contient une erreur de retenue sur le chiffre des milliers.",
+      "62 678,7 contient une erreur sur le chiffre des dizaines de milliers."
+     ],
+     "verif": "calcul",
+     "calc": "120469.6-47790.9"
+    },
+    {
+     "id": "n20261107-cg06-13",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Quel est le montant total des investissements prévus par le PND 2026-2030 ?",
+     "o": [
+      "11 483,8 milliards de FCFA",
+      "59 000 milliards de FCFA",
+      "114 838,5 milliards de FCFA",
+      "209 000 milliards de FCFA"
+     ],
+     "a": 2,
+     "e": "Le PND 2026-2030 prévoit 114 838,5 milliards de FCFA d'investissements, apportés à 70,2 % par le secteur privé et à 29,8 % par le secteur public.",
+     "ed": [
+      "11 483,8 milliards : la virgule est mal placée, le montant réel est dix fois plus élevé.",
+      "59 000 milliards ne correspond à aucun chiffre du PND 2026-2030.",
+      null,
+      "209 est le montant en milliards de DOLLARS donné par la presse, pas en FCFA."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire unveils ambitious 7.2% growth target for 2026-2030 (APA News)",
+      "u": "https://apanews.net/cote-divoire-unveils-ambitious-7-2-growth-target-for-2026-2030/"
+     }
+    },
+    {
+     "id": "n20261107-cg06-14",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Quel taux de croissance annuel moyen le PND 2026-2030 vise-t-il ?",
+     "o": [
+      "4,5 %",
+      "5,4 %",
+      "10 %",
+      "7,2 %"
+     ],
+     "a": 3,
+     "e": "Le PND 2026-2030 table sur une croissance annuelle moyenne de 7,2 %, avec un PIB par habitant porté de 3 148 à 4 500 dollars.",
+     "ed": [
+      "4,5 % est trop faible : c'est l'ordre du PIB par habitant visé (4 500 dollars), pas la croissance.",
+      "5,4 % est la croissance moyenne de l'UEMOA entre 2015 et 2023, pas l'objectif du PND.",
+      "10 % n'est pas l'objectif retenu par le PND.",
+      null
+     ],
+     "src": {
+      "t": "Un PND de 209 milliards de dollars d'ici 2030 (Financial Afrik, 23 mai 2026)",
+      "u": "https://www.financialafrik.com/2026/05/23/cote-divoire-un-pnd-de-209-milliards-de-dollars-pour-accelerer-la-transformation-de-leconomie-dici-2030/"
+     }
+    },
+    {
+     "id": "n20261107-cg06-15",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Dans le financement du PND 2026-2030, quelle est la part attendue du secteur privé ?",
+     "o": [
+      "29,8 %",
+      "70,2 %",
+      "50 %",
+      "91,6 %"
+     ],
+     "a": 1,
+     "e": "Le PND attend 70,2 % du financement du secteur privé et 29,8 % du secteur public : l'État compte d'abord sur l'investissement privé.",
+     "ed": [
+      "29,8 % est la part du secteur PUBLIC : on a inversé les deux parts.",
+      null,
+      "Le partage n'est pas égal : le privé apporte plus des deux tiers.",
+      "91,6 % est la part régionale des emprunts sur les marchés, pas la part du secteur privé."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire unveils ambitious 7.2% growth target for 2026-2030 (APA News)",
+      "u": "https://apanews.net/cote-divoire-unveils-ambitious-7-2-growth-target-for-2026-2030/"
+     }
+    },
+    {
+     "id": "n20261107-cg06-16",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Le 1er septembre 2026, quel prix bord champ a été annoncé pour le kg de cacao de la campagne 2026-2027 ?",
+     "o": [
+      "2 800 FCFA",
+      "1 800 FCFA",
+      "1 300 FCFA",
+      "1 200 FCFA"
+     ],
+     "a": 3,
+     "e": "Le 1er septembre 2026, le ministre de l'Agriculture Bruno Koné a annoncé pour 2026-2027 un prix de 1 200 FCFA le kg de cacao et de 1 300 FCFA le kg de café.",
+     "ed": [
+      "2 800 FCFA était le prix de la campagne 2025-2026, avant la chute des cours.",
+      "1 800 FCFA ne correspond à aucune annonce de 2026.",
+      "1 300 FCFA est le prix du CAFÉ pour 2026-2027, pas celui du cacao.",
+      null
+     ],
+     "src": {
+      "t": "Prix bord champ du café et du cacao 2026-2027 (Fraternité Matin, 1er sept. 2026)",
+      "u": "https://www.fratmat.info/article/2644240/economie/prix-bord-champ-du-kg-du-cafe-et-du-cacao-2026-2027-1300-fcfa-et-1200-fcfa"
+     }
+    },
+    {
+     "id": "n20261107-cg06-17",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Parmi ces rangs attribués à la Côte d'Ivoire, lequel est FAUX ?",
+     "o": [
+      "La Côte d'Ivoire est le premier exportateur africain de mangue",
+      "La Côte d'Ivoire est le premier producteur africain de banane dessert",
+      "La Côte d'Ivoire est le premier producteur mondial de caoutchouc naturel",
+      "La Côte d'Ivoire est le premier producteur mondial de noix de cajou"
+     ],
+     "a": 2,
+     "e": "Pour le caoutchouc, la Côte d'Ivoire est première en Afrique et troisième mondiale en 2023 ; les trois autres rangs sont confirmés par la DGE.",
+     "ed": [
+      "Exact : la DGE la présente comme premier exportateur africain de mangue.",
+      "Exact : la DGE la présente comme premier producteur africain de banane dessert.",
+      null,
+      "Exact : elle est premier producteur mondial de cajou depuis 2015."
+     ],
+     "src": {
+      "t": "DGE – Agriculture industrielle et d'exportation (economie-ivoirienne.ci)",
+      "u": "https://economie-ivoirienne.ci/index.php/activites-sectorielles/agriculture-industrielle-et-dexportation.html"
+     }
+    },
+    {
+     "id": "n20261107-cg06-18",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Entre 2016 et 2023, la part de noix de cajou transformée localement est passée de 6,22 % à 21 %. Quel était l'objectif fixé pour 2030 ?",
+     "o": [
+      "30 %",
+      "50 %",
+      "80 %",
+      "100 %"
+     ],
+     "a": 1,
+     "e": "La DGE indique que l'objectif est de transformer localement 50 % de la production de noix de cajou à l'horizon 2030, pour garder la valeur ajoutée et les emplois.",
+     "ed": [
+      "30 % est le taux de transformation cité par la presse pour 2024 ; l'objectif 2030 est plus élevé.",
+      null,
+      "80 % n'est pas l'objectif officiel, qui est de 50 %.",
+      "Transformer toute la production n'est pas l'objectif fixé ; il est de 50 %."
+     ],
+     "src": {
+      "t": "Filière anacarde : la Côte d'Ivoire renforce sa position de leader mondial (DGE, 21 janv. 2025)",
+      "u": "https://economie-ivoirienne.ci/index.php/actualites/filiere-anacarde-la-cote-divoire-renforce-sa-position-de-leader-mondial-avec-une"
+     }
+    },
+    {
+     "id": "n20261107-cg06-19",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "Pourquoi le prix bord champ du cacao est-il passé de 2 800 FCFA (campagne 2025-2026) à 1 200 FCFA (campagne intermédiaire de mars 2026) ?",
+     "o": [
+      "Parce que la production ivoirienne avait disparu",
+      "Parce que le Conseil du Café-Cacao a été supprimé",
+      "Parce que les cours internationaux du cacao ont chuté",
+      "Parce que le franc CFA a été dévalué de moitié"
+     ],
+     "a": 2,
+     "e": "Le prix garanti est calculé à partir du prix obtenu sur le marché mondial ; Financial Afrik explique le tarif de 1 200 FCFA par la chute des cours internationaux.",
+     "ed": [
+      "La production n'a pas disparu : une campagne intermédiaire a bien été ouverte en mars 2026.",
+      "Le Conseil du Café-Cacao existe toujours et a fixé ce prix.",
+      null,
+      "Aucune dévaluation du franc CFA n'a eu lieu en 2026 ; la baisse vient des cours mondiaux."
+     ],
+     "src": {
+      "t": "Prix de la campagne intermédiaire de cacao fixé à 1 200 FCFA/kg (Financial Afrik, 5 mars 2026)",
+      "u": "https://www.financialafrik.com/2026/03/05/cote-divoire-le-prix-de-la-campagne-intermediaire-de-cacao-fixe-a-1-200-fcfa-kg/"
+     }
+    },
+    {
+     "id": "n20261107-cg06-20",
+     "m": "cg",
+     "tag": "niv-cg06",
+     "q": "En janvier 2025, quel gisement découvert en 2024 est cité comme la nouvelle découverte pétrolière ivoirienne après Baleine ?",
+     "o": [
+      "Calao",
+      "Nimba",
+      "Comoé",
+      "Ébrié"
+     ],
+     "a": 0,
+     "e": "L'AFP, reprise par Connaissance des Énergies en janvier 2025, signale qu'après Baleine la Côte d'Ivoire a découvert l'année précédente un autre gisement baptisé Calao.",
+     "ed": [
+      null,
+      "Le Nimba est un massif montagneux de l'ouest, pas un gisement pétrolier.",
+      "La Comoé est le plus long fleuve du pays, pas un gisement pétrolier.",
+      "Ébrié est le nom de la lagune d'Abidjan, pas d'un gisement pétrolier."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : la production de pétrole et gaz dépasse les prévisions (Connaissance des Énergies, 15 janv. 2025)",
+      "u": "https://www.connaissancedesenergies.org/afp/cote-divoire-la-production-de-petrole-et-gaz-depasse-les-previsions-250115"
+     }
+    },
+    {
+     "id": "n20261107-or05-01",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Le jury vous accueille dans la salle. Quand devez-vous vous asseoir ?",
+     "o": [
+      "Dès l'entrée, pour montrer votre assurance",
+      "Lorsque le jury vous y invite",
+      "Après avoir posé vos documents sur la table du jury",
+      "Jamais : l'oral se passe debout"
+     ],
+     "a": 1,
+     "e": "On s'assoit lorsque le jury y invite : c'est une marque de politesse et cela montre que vous respectez le cadre de l'épreuve.",
+     "ed": [
+      "S'asseoir sans y être invité passe pour un manque de savoir-vivre, pas pour de l'assurance.",
+      null,
+      "On ne pose rien sur la table du jury ; et l'on attend toujours l'invitation pour s'asseoir.",
+      "La plupart des oraux d'entretien se passent assis ; une chaise est prévue pour le candidat."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-02",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Quelle posture assise est recommandée devant un jury ?",
+     "o": [
+      "Adossé au fond de la chaise, jambes croisées",
+      "Penché en arrière, bras croisés",
+      "Droit, sur la première moitié de la chaise, buste légèrement vers le jury",
+      "Coudes posés sur la table, menton dans les mains"
+     ],
+     "a": 2,
+     "e": "Se tenir droit sur la première moitié de la chaise, buste légèrement penché vers le jury, signale l'écoute et laisse la respiration libre.",
+     "ed": [
+      "S'adosser et croiser les jambes donne une impression de familiarité ou de désintérêt.",
+      "Bras croisés et corps en arrière traduisent le retrait ou la défense.",
+      null,
+      "Les coudes sur la table et le menton dans les mains font avachi et peu respectueux."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-03",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Un membre du jury vous pose une question. Où devez-vous regarder pendant votre réponse ?",
+     "o": [
+      "Uniquement la personne qui a posé la question",
+      "Vos notes, pour ne rien oublier",
+      "Le plafond, pour vous concentrer",
+      "Tour à tour chaque membre du jury"
+     ],
+     "a": 3,
+     "e": "Le regard circulaire inclut tout le jury : chacun note, et chacun doit se sentir concerné par la réponse.",
+     "ed": [
+      "Fixer une seule personne exclut les autres membres, qui notent aussi.",
+      "Lire ses notes coupe le contact avec le jury ; on ne les consulte qu'en cas de nécessité.",
+      "Regarder le plafond donne l'impression de fuir l'échange.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-04",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Lequel de ces gestes est un « geste parasite » à éviter ?",
+     "o": [
+      "Jouer avec son stylo pendant la réponse",
+      "Compter sur ses doigts « premièrement, deuxièmement »",
+      "Ouvrir les mains pour présenter un argument",
+      "Garder les mains posées et visibles sur la table"
+     ],
+     "a": 0,
+     "e": "Jouer avec un stylo, une bague ou ses cheveux n'apporte rien au propos et trahit la nervosité : c'est un geste parasite.",
+     "ed": [
+      null,
+      "Énumérer sur ses doigts soutient la structure de la réponse : c'est un bon geste.",
+      "La main ouverte accompagne utilement la présentation d'un argument.",
+      "Des mains posées et visibles sont une position neutre et recommandée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-05",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Pourquoi le stress pousse-t-il souvent à parler trop vite ?",
+     "o": [
+      "Parce que le jury impose un débit rapide",
+      "Parce que le candidat veut se débarrasser de la question et que sa respiration s'accélère",
+      "Parce qu'un débit rapide est mieux noté",
+      "Parce que les pauses sont interdites à l'oral"
+     ],
+     "a": 1,
+     "e": "Sous l'effet du stress, la respiration s'accélère et l'on veut en finir : le débit devient rapide et haché, et le jury suit mal.",
+     "ed": [
+      "Le jury n'impose pas de débit ; il attend une réponse claire.",
+      null,
+      "Un débit rapide nuit à la compréhension ; il n'est pas mieux noté.",
+      "Les pauses sont au contraire recommandées entre deux idées."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-06",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Que conseille-t-on de faire juste après avoir entendu une question difficile ?",
+     "o": [
+      "Répondre immédiatement, pour ne pas paraître hésitant",
+      "Demander à passer à la question suivante",
+      "Prendre quelques secondes, voire reformuler la question, avant de répondre",
+      "Répondre par une autre question au jury"
+     ],
+     "a": 2,
+     "e": "Quelques secondes de pause valent mieux qu'une réponse précipitée ; la reformulation vérifie la compréhension et fait gagner du temps.",
+     "ed": [
+      "Une réponse immédiate mais désordonnée paraît plus hésitante qu'un court silence réfléchi.",
+      "Refuser d'emblée une question montre qu'on renonce ; il faut au moins tenter une réponse structurée.",
+      null,
+      "Retourner la question au jury paraît esquiver ; on peut seulement demander une précision."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-07",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Combien de respirations par minute la cohérence cardiaque propose-t-elle ?",
+     "o": [
+      "2",
+      "12",
+      "20",
+      "6"
+     ],
+     "a": 3,
+     "e": "La cohérence cardiaque repose sur 6 respirations par minute : 5 secondes d'inspiration puis 5 secondes d'expiration, pendant 5 minutes.",
+     "ed": [
+      "2 respirations par minute est bien plus lent que la technique décrite (6 par minute).",
+      "12 respirations par minute correspond à un rythme ordinaire, pas à la respiration lente proposée.",
+      "20 respirations par minute est un rythme accéléré, à l'opposé de l'exercice.",
+      null
+     ],
+     "src": {
+      "t": "La cohérence cardiaque contre le stress (CESI, fiche)",
+      "u": "https://cesi.be/content/uploads/2024/06/la-coherence-cardiaque-contre-le-stress.pdf"
+     }
+    },
+    {
+     "id": "n20261107-or05-08",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Dans la cohérence cardiaque, quelle est la durée d'une séance ?",
+     "o": [
+      "5 minutes",
+      "30 secondes",
+      "20 minutes",
+      "1 heure"
+     ],
+     "a": 0,
+     "e": "La fiche consacrée à la cohérence cardiaque indique qu'une séance dure 5 minutes, à raison de 6 respirations par minute.",
+     "ed": [
+      null,
+      "30 secondes ne permettent que trois respirations : c'est trop court pour une séance.",
+      "20 minutes est quatre fois la durée d'une séance indiquée (5 minutes).",
+      "1 heure n'est pas la durée proposée : une séance dure 5 minutes."
+     ],
+     "src": {
+      "t": "La cohérence cardiaque contre le stress (CESI, fiche)",
+      "u": "https://cesi.be/content/uploads/2024/06/la-coherence-cardiaque-contre-le-stress.pdf"
+     }
+    },
+    {
+     "id": "n20261107-or05-09",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Quel type de respiration est le plus conseillé pour se détendre avant l'oral ?",
+     "o": [
+      "La respiration thoracique haute et rapide",
+      "La respiration ventrale, lente et profonde",
+      "Retenir sa respiration le plus longtemps possible",
+      "Respirer uniquement par la bouche, par petites saccades"
+     ],
+     "a": 1,
+     "e": "La respiration ventrale, lente et profonde, est la plus conseillée : elle favorise la concentration et la détente.",
+     "ed": [
+      "Une respiration haute et rapide est justement celle du stress.",
+      null,
+      "Bloquer sa respiration augmente la tension au lieu de la réduire.",
+      "Des saccades accélèrent le rythme et entretiennent la nervosité."
+     ],
+     "src": {
+      "t": "Techniques d'expression à l'oral (Université Batna 2)",
+      "u": "https://staff.univ-batna2.dz/sites/default/files/bouguerne_ammar/files/chapitre_ii._techniques_dexpression_a_loral_1.pdf"
+     }
+    },
+    {
+     "id": "n20261107-or05-10",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Que mesuraient réellement les expériences d'Albert Mehrabian à l'origine de la « règle des 7-38-55 » ?",
+     "o": [
+      "La part du non-verbal dans toute conversation",
+      "L'efficacité des orateurs politiques",
+      "La perception de sentiments et d'attitudes à partir de mots isolés",
+      "La mémorisation d'un discours par un auditoire"
+     ],
+     "a": 2,
+     "e": "Les expériences de la fin des années 1960 portaient sur des mots isolés et la perception de sentiments ; Mehrabian précise que ses équations ne valent pas au-delà.",
+     "ed": [
+      "C'est la généralisation abusive : Mehrabian ne l'a pas mesurée et la récuse.",
+      "Les expériences ne portaient pas sur des discours politiques.",
+      null,
+      "La mémorisation d'un discours n'était pas l'objet de ces expériences."
+     ],
+     "src": {
+      "t": "The 7-38-55 rule: Debunking the golden ratio of conversation (Big Think)",
+      "u": "https://bigthink.com/the-learning-curve/the-7-38-55-rule-debunking-the-golden-ratio-of-conversation"
+     }
+    },
+    {
+     "id": "n20261107-or05-11",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Un candidat affirme au jury : « 93 % de la communication est non verbale ». Quelle est la meilleure appréciation ?",
+     "o": [
+      "C'est une loi scientifique universelle",
+      "C'est un chiffre officiel de l'ENA",
+      "C'est exact pour toute épreuve orale",
+      "C'est une généralisation abusive d'expériences limitées aux sentiments et attitudes"
+     ],
+     "a": 3,
+     "e": "Le chiffre additionne 38 % et 55 % de la « règle » de Mehrabian, qui ne s'applique selon lui qu'à la communication de sentiments et d'attitudes.",
+     "ed": [
+      "Aucune loi universelle ne fixe la part du non-verbal ; Mehrabian lui-même limite la portée de ses résultats.",
+      "Aucun texte de l'ENA n'avance ce chiffre.",
+      "À l'oral d'un concours, c'est le contenu qui est noté : le chiffre ne s'y applique pas.",
+      null
+     ],
+     "src": {
+      "t": "The 7-38-55 rule: Debunking the golden ratio of conversation (Big Think)",
+      "u": "https://bigthink.com/the-learning-curve/the-7-38-55-rule-debunking-the-golden-ratio-of-conversation"
+     }
+    },
+    {
+     "id": "n20261107-or05-12",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Quel tic de langage faut-il chercher à remplacer par un vrai mot de liaison ?",
+     "o": [
+      "« En effet »",
+      "« Donc » répété en début et en fin de phrase",
+      "« Premièrement »",
+      "« En conclusion »"
+     ],
+     "a": 1,
+     "e": "Un « donc » répété sans valeur logique est un tic ; on le remplace par de vrais connecteurs comme « en effet », « ensuite », « enfin ».",
+     "ed": [
+      "« En effet » est un connecteur utile, qui introduit une justification.",
+      null,
+      "« Premièrement » annonce une structure : c'est un bon repère pour le jury.",
+      "« En conclusion » signale clairement la fin de la réponse."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-13",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Un membre du jury vous fixe sans sourire et cela vous déstabilise. Que faire ?",
+     "o": [
+      "Regarder son front et continuer à balayer tout le jury du regard",
+      "Ne plus le regarder du tout",
+      "Lui demander pourquoi il ne sourit pas",
+      "Fermer les yeux pour vous concentrer"
+     ],
+     "a": 0,
+     "e": "Regarder le front donne l'impression d'un contact visuel sans la gêne du regard direct ; on continue à inclure tous les membres du jury.",
+     "ed": [
+      null,
+      "L'ignorer l'exclut de l'échange, alors qu'il note aussi.",
+      "Commenter l'attitude d'un membre du jury est déplacé et familier.",
+      "Fermer les yeux coupe tout contact et paraît étrange."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-14",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Vous avez un trou de mémoire en pleine réponse. Quelle est la réaction la plus adaptée ?",
+     "o": [
+      "Inventer un chiffre pour combler le silence",
+      "Se taire jusqu'à la question suivante",
+      "Dire calmement que l'on reprend, reformuler la question et partir d'un exemple concret",
+      "S'excuser longuement de sa nervosité"
+     ],
+     "a": 2,
+     "e": "Reformuler la question et repartir d'un exemple concret permet de retrouver le fil ; le calme compte plus que la rapidité.",
+     "ed": [
+      "Un chiffre inventé est une faute grave : un fait faux coûte plus cher qu'un fait absent.",
+      "Un silence prolongé laisse l'impression d'un abandon.",
+      null,
+      "De longues excuses attirent l'attention sur le stress au lieu de revenir au fond."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-15",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Quelle tenue est la plus adaptée à l'oral d'un concours de la fonction publique ?",
+     "o": [
+      "Un jean déchiré et des baskets, pour paraître naturel",
+      "Une tenue sobre et soignée, ni trop habillée ni négligée",
+      "Une tenue de soirée très habillée",
+      "Un uniforme de sport"
+     ],
+     "a": 1,
+     "e": "Une tenue sobre et soignée montre le respect du jury et de la fonction ; une tenue négligée est relevée défavorablement par les jurys.",
+     "ed": [
+      "Le rapport de jury cité relève défavorablement les tenues négligées comme le jean déchiré.",
+      null,
+      "Une tenue de soirée détonne et détourne l'attention du propos.",
+      "Une tenue de sport ne convient pas à un entretien de recrutement administratif."
+     ],
+     "src": {
+      "t": "Rapport du jury du concours d'adjoint administratif principal, session 2019 (ministère de l'Intérieur, France)",
+      "u": "https://interieur.gouv.fr/sites/minint/files/medias/documents/rh/2019-rapport-jury_2.pdf"
+     }
+    },
+    {
+     "id": "n20261107-or05-16",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Pourquoi marquer une pause après une idée importante ?",
+     "o": [
+      "Pour montrer au jury qu'on a fini de parler",
+      "Pour réduire la durée de l'épreuve",
+      "Parce que le règlement l'impose",
+      "Pour laisser au jury le temps d'enregistrer l'idée et préparer la suivante"
+     ],
+     "a": 3,
+     "e": "La pause rend la structure audible : le jury enregistre l'idée, et le candidat respire et prépare la suite.",
+     "ed": [
+      "Une pause entre deux idées ne signifie pas la fin de la réponse ; la conclusion se signale par une formule.",
+      "La pause ne vise pas à raccourcir l'épreuve, dont la durée est fixée.",
+      "Aucun règlement n'impose de pause ; c'est une technique d'expression.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-17",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Lequel de ces comportements est le plus susceptible d'être mal jugé par un jury ?",
+     "o": [
+      "Saluer en entrant",
+      "Sourire légèrement",
+      "Reformuler une question complexe",
+      "Adopter un ton familier et des jugements de valeur"
+     ],
+     "a": 3,
+     "e": "La familiarité, les jugements de valeur et les attitudes hautaines sont à bannir ; saluer, sourire et reformuler sont au contraire appréciés.",
+     "ed": [
+      "Le salut en entrant donne une bonne première impression.",
+      "Un sourire, même léger, est relevé positivement par les jurys.",
+      "La reformulation montre que l'on structure sa pensée.",
+      null
+     ],
+     "src": {
+      "t": "Rapport du jury du concours d'adjoint administratif principal, session 2019 (ministère de l'Intérieur, France)",
+      "u": "https://interieur.gouv.fr/sites/minint/files/medias/documents/rh/2019-rapport-jury_2.pdf"
+     }
+    },
+    {
+     "id": "n20261107-or05-18",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Pourquoi les bras croisés sont-ils déconseillés pendant l'oral ?",
+     "o": [
+      "Parce qu'ils signalent le repli et gênent la respiration",
+      "Parce qu'ils sont interdits par le règlement du concours",
+      "Parce qu'ils fatiguent le jury",
+      "Parce qu'ils empêchent de lire ses notes"
+     ],
+     "a": 0,
+     "e": "Les bras croisés traduisent la défense ou le retrait, et le repli des gestes bloque la respiration, ce qui entretient le stress.",
+     "ed": [
+      null,
+      "Aucun règlement n'interdit cette posture ; elle est simplement défavorable.",
+      "Le jury n'est pas fatigué par la posture : il en tire une impression de fermeture.",
+      "La lecture des notes n'est pas l'enjeu ; c'est l'impression de fermeture."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-or05-19",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Quelle méthode d'entraînement rapproche le plus des conditions réelles de l'oral ?",
+     "o": [
+      "Relire ses fiches en silence",
+      "S'entraîner devant un miroir, puis répondre à une autre personne qui joue le jury",
+      "Apprendre des réponses par cœur mot à mot",
+      "Écouter des vidéos d'autres candidats sans parler"
+     ],
+     "a": 1,
+     "e": "S'exercer devant un miroir puis devant une personne qui pose les questions reproduit le regard d'autrui et les imprévus de l'échange.",
+     "ed": [
+      "La lecture silencieuse ne travaille ni la voix ni la posture.",
+      null,
+      "Les réponses apprises par cœur sonnent récitées et résistent mal aux relances du jury.",
+      "Regarder sans pratiquer ne corrige pas son propre débit ni ses gestes."
+     ],
+     "src": {
+      "t": "Comment se préparer à un oral de concours de la fonction publique ? (Emploi Public, 2025)",
+      "u": "https://infos.emploipublic.fr/article/comment-se-preparer-a-un-oral-de-concours-de-la-fonction-publique-eea-12382"
+     }
+    },
+    {
+     "id": "n20261107-or05-20",
+     "m": "oral",
+     "tag": "niv-or05",
+     "q": "Un candidat répond toujours très vite, sans silence, en enchaînant les « euh ». Quel diagnostic et quelle correction ?",
+     "o": [
+      "Diagnostic : excès de connaissances ; correction : en dire moins",
+      "Diagnostic : débit normal ; aucune correction",
+      "Diagnostic : débit précipité dû au stress ; correction : ralentir, marquer des pauses et remplacer les tics par des connecteurs",
+      "Diagnostic : manque de vocabulaire ; correction : utiliser des mots rares"
+     ],
+     "a": 2,
+     "e": "Le débit précipité et les tics sont des signes de stress ; on ralentit, on marque une pause entre les idées et on utilise de vrais connecteurs.",
+     "ed": [
+      "La vitesse et les « euh » ne viennent pas d'un excès de connaissances mais du stress.",
+      "Un débit sans pause et ponctué de « euh » gêne la compréhension : il faut le corriger.",
+      null,
+      "Des mots rares n'aident pas ; c'est le rythme et la structure qu'il faut corriger."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-in04-01",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Dans la version française de Microsoft Word, quel raccourci met le texte sélectionné en gras ?",
+     "o": [
+      "Ctrl+B",
+      "Ctrl+G",
+      "Ctrl+E",
+      "Ctrl+M"
+     ],
+     "a": 1,
+     "e": "Dans Word en français, Ctrl+G met en gras ; Ctrl+B est le raccourci de la version anglaise (B pour « bold »).",
+     "ed": [
+      "Ctrl+B est le raccourci du gras dans la version anglaise, pas dans la version française.",
+      null,
+      "Ctrl+E centre le paragraphe ; il ne met pas en gras.",
+      "Ctrl+M n'est pas le raccourci du gras."
+     ],
+     "src": {
+      "t": "20 astuces Word pour les débutants (Blog du Modérateur)",
+      "u": "https://www.blogdumoderateur.com/astuces-word-debutants/"
+     }
+    },
+    {
+     "id": "n20261107-in04-02",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Quel raccourci annule la dernière action dans Word ?",
+     "o": [
+      "Ctrl+Z",
+      "Ctrl+Y",
+      "Ctrl+A",
+      "Ctrl+P"
+     ],
+     "a": 0,
+     "e": "Ctrl+Z annule la dernière action ; Ctrl+Y permet au contraire de la rétablir ou de répéter une action.",
+     "ed": [
+      null,
+      "Ctrl+Y rétablit ou répète une action : c'est l'inverse de l'annulation.",
+      "Ctrl+A sélectionne tout le document ; il n'annule rien.",
+      "Ctrl+P ouvre l'impression."
+     ],
+     "src": {
+      "t": "20 astuces Word pour les débutants (Blog du Modérateur)",
+      "u": "https://www.blogdumoderateur.com/astuces-word-debutants/"
+     }
+    },
+    {
+     "id": "n20261107-in04-03",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Quel raccourci ouvre l'impression du document ?",
+     "o": [
+      "Ctrl+S",
+      "Ctrl+O",
+      "Ctrl+N",
+      "Ctrl+P"
+     ],
+     "a": 3,
+     "e": "Ctrl+P (pour « print ») ouvre la fenêtre d'impression du document.",
+     "ed": [
+      "Ctrl+S enregistre le document.",
+      "Ctrl+O ouvre un document existant.",
+      "Ctrl+N crée un nouveau document.",
+      null
+     ],
+     "src": {
+      "t": "20 astuces Word pour les débutants (Blog du Modérateur)",
+      "u": "https://www.blogdumoderateur.com/astuces-word-debutants/"
+     }
+    },
+    {
+     "id": "n20261107-in04-04",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Laquelle de ces mises en forme est une mise en forme de PARAGRAPHE ?",
+     "o": [
+      "La police",
+      "La taille des caractères",
+      "L'interligne",
+      "L'italique"
+     ],
+     "a": 2,
+     "e": "L'interligne règle l'espace entre les lignes d'un paragraphe entier : c'est une mise en forme de paragraphe, comme l'alignement et les retraits.",
+     "ed": [
+      "La police s'applique aux caractères sélectionnés.",
+      "La taille est une mise en forme de caractères.",
+      null,
+      "L'italique s'applique aux caractères sélectionnés."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-in04-05",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Qu'est-ce qu'un texte « justifié » ?",
+     "o": [
+      "Un texte centré sur la page",
+      "Un texte aligné à la fois sur la marge gauche et sur la marge droite",
+      "Un texte aligné uniquement à droite",
+      "Un texte dont chaque ligne commence par un retrait"
+     ],
+     "a": 1,
+     "e": "La justification aligne le texte sur les deux marges en ajustant les espaces entre les mots ; le bloc de texte forme un rectangle régulier.",
+     "ed": [
+      "Le centrage place chaque ligne au milieu, sans aligner les bords.",
+      null,
+      "L'alignement à droite n'aligne que le bord droit.",
+      "Le retrait décale le début des lignes ; il ne concerne pas les deux marges."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261107-in04-06",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Dans quel onglet de Word insère-t-on une table des matières automatique ?",
+     "o": [
+      "Accueil",
+      "Insertion",
+      "Références",
+      "Publipostage"
+     ],
+     "a": 2,
+     "e": "La table des matières s'insère depuis l'onglet Références, bouton Table des matières, en choisissant un style automatique.",
+     "ed": [
+      "L'onglet Accueil sert à appliquer les styles de titre, mais pas à insérer la table.",
+      "L'onglet Insertion sert aux tableaux et sauts de page, pas à la table des matières.",
+      null,
+      "L'onglet Publipostage sert aux lettres types."
+     ],
+     "src": {
+      "t": "Insérer une table des matières (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-fr/office/ins%C3%A9rer-une-table-des-mati%C3%A8res-882e8564-0edb-435e-84b5-1d8552ccf0c0"
+     }
+    },
+    {
+     "id": "n20261107-in04-07",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Sur quoi s'appuie la table des matières automatique de Word ?",
+     "o": [
+      "Sur les styles de titre (Titre 1, Titre 2…) appliqués au document",
+      "Sur les mots écrits en gras",
+      "Sur les numéros de page saisis à la main",
+      "Sur la première ligne de chaque page"
+     ],
+     "a": 0,
+     "e": "La table des matières de Word est basée sur les titres du document, c'est-à-dire sur les paragraphes portant un style de titre.",
+     "ed": [
+      null,
+      "Le gras seul ne fait pas d'un paragraphe un titre pour Word.",
+      "Word calcule lui-même les numéros de page ; on ne les saisit pas.",
+      "La première ligne d'une page n'est pas forcément un titre."
+     ],
+     "src": {
+      "t": "Insérer une table des matières (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-fr/office/ins%C3%A9rer-une-table-des-mati%C3%A8res-882e8564-0edb-435e-84b5-1d8552ccf0c0"
+     }
+    },
+    {
+     "id": "n20261107-in04-08",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Un titre de votre rapport n'apparaît pas dans la table des matières. Quelle est la bonne correction ?",
+     "o": [
+      "Le mettre en majuscules",
+      "Augmenter sa taille de police",
+      "Le souligner",
+      "Lui appliquer le style Titre 1 puis mettre à jour la table"
+     ],
+     "a": 3,
+     "e": "Un titre absent de la table n'a pas de style de titre ; on lui applique Titre 1 dans Accueil > Styles, puis on met la table à jour.",
+     "ed": [
+      "Les majuscules ne changent pas la nature du paragraphe pour Word.",
+      "Une police plus grande reste une mise en forme manuelle, ignorée par la table.",
+      "Le soulignement est une mise en forme de caractères, sans effet sur la table.",
+      null
+     ],
+     "src": {
+      "t": "Insérer une table des matières (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-fr/office/ins%C3%A9rer-une-table-des-mati%C3%A8res-882e8564-0edb-435e-84b5-1d8552ccf0c0"
+     }
+    },
+    {
+     "id": "n20261107-in04-09",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Quel est le principal avantage d'un style par rapport à une mise en forme manuelle ?",
+     "o": [
+      "Il rend le fichier plus léger à imprimer",
+      "Modifier le style met à jour d'un coup tous les paragraphes qui le portent",
+      "Il empêche toute modification du texte",
+      "Il traduit automatiquement le document"
+     ],
+     "a": 1,
+     "e": "Un style est une mise en forme nommée : en le modifiant, on modifie tous les paragraphes qui le portent, et Word reconnaît les titres.",
+     "ed": [
+      "Le style n'a pas pour but d'alléger l'impression.",
+      null,
+      "Un style ne protège pas le texte contre les modifications.",
+      "Un style ne traduit rien ; il ne concerne que la mise en forme."
+     ],
+     "src": {
+      "t": "Word : comment créer un sommaire automatique (Blog du Modérateur, 2024)",
+      "u": "https://www.blogdumoderateur.com/word-comment-creer-sommaire-automatique/"
+     }
+    },
+    {
+     "id": "n20261107-in04-10",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Quel raccourci insère un saut de page dans Word ?",
+     "o": [
+      "Entrée appuyée plusieurs fois",
+      "Tab",
+      "Ctrl+Entrée",
+      "Ctrl+Tab"
+     ],
+     "a": 2,
+     "e": "Ctrl+Entrée insère un saut de page : la suite commence toujours en haut d'une nouvelle page, même si l'on ajoute du texte avant.",
+     "ed": [
+      "Plusieurs Entrée créent des paragraphes vides qui se décalent dès qu'on modifie le texte.",
+      "Tab insère une tabulation ou passe à la cellule suivante dans un tableau.",
+      null,
+      "Ctrl+Tab n'est pas le raccourci du saut de page."
+     ],
+     "src": {
+      "t": "Raccourcis clavier Word (Cours et fiches)",
+      "u": "https://cours-et-fiches.com/raccourcis-clavier-word/"
+     }
+    },
+    {
+     "id": "n20261107-in04-11",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Dans un tableau Word, quelle touche fait passer à la cellule suivante ?",
+     "o": [
+      "Tab",
+      "Entrée",
+      "Échap",
+      "Suppr"
+     ],
+     "a": 0,
+     "e": "Dans un tableau, Tab fait passer à la cellule suivante et Maj+Tab à la cellule précédente.",
+     "ed": [
+      null,
+      "Entrée crée un nouveau paragraphe à l'intérieur de la même cellule.",
+      "Échap ne déplace pas le curseur dans le tableau.",
+      "Suppr efface du contenu ; il ne change pas de cellule."
+     ],
+     "src": {
+      "t": "20 astuces Word pour les débutants (Blog du Modérateur)",
+      "u": "https://www.blogdumoderateur.com/astuces-word-debutants/"
+     }
+    },
+    {
+     "id": "n20261107-in04-12",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Quels sont les deux éléments nécessaires à un publipostage ?",
+     "o": [
+      "Un tableau et une image",
+      "Un document principal et une source de données",
+      "Un modèle Excel et une macro",
+      "Une table des matières et un index"
+     ],
+     "a": 1,
+     "e": "Le publipostage fusionne un document principal (la lettre type) et une source de données (la liste des destinataires) pour produire des documents personnalisés.",
+     "ed": [
+      "Un tableau et une image ne suffisent pas : il faut une liste de destinataires.",
+      null,
+      "Aucune macro n'est nécessaire au publipostage.",
+      "La table des matières et l'index servent aux longs documents, pas au publipostage."
+     ],
+     "src": {
+      "t": "Utiliser le publipostage pour personnaliser des lettres (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-FR/Word/use-mail-merge-to-personalize-letters"
+     }
+    },
+    {
+     "id": "n20261107-in04-13",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "D'où proviennent les champs de fusion d'un publipostage ?",
+     "o": [
+      "Des en-têtes de colonnes de la source de données",
+      "Des styles de titre du document",
+      "Des numéros de page",
+      "Des commentaires du document"
+     ],
+     "a": 0,
+     "e": "Selon l'aide de Microsoft, les champs de fusion proviennent des en-têtes de colonnes de la source de données ; Word les remplace par la valeur de chaque ligne.",
+     "ed": [
+      null,
+      "Les styles de titre servent à la table des matières, pas au publipostage.",
+      "Les numéros de page ne sont pas des champs de la liste des destinataires.",
+      "Les commentaires ne fournissent aucune donnée à fusionner."
+     ],
+     "src": {
+      "t": "Insérer des champs de fusion et publipostage (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-fr/word/insert-mail-merge-fields"
+     }
+    },
+    {
+     "id": "n20261107-in04-14",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Laquelle de ces sources NE figure PAS parmi les sources de données citées par Microsoft pour un publipostage ?",
+     "o": [
+      "Une feuille de calcul Excel",
+      "Une table Access",
+      "Les contacts Outlook",
+      "Une image scannée de la liste des destinataires"
+     ],
+     "a": 3,
+     "e": "Microsoft cite Excel, Access, les contacts Outlook et une nouvelle liste saisie dans Word ; une image scannée n'est pas une source de données exploitable.",
+     "ed": [
+      "Excel est la source la plus courante d'un publipostage.",
+      "Une table ou une requête Access peut servir de source.",
+      "La liste de contacts Outlook peut servir de source.",
+      null
+     ],
+     "src": {
+      "t": "Sources de données que vous pouvez utiliser pour un publipostage (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-FR/Word/data-sources-you-can-use-for-a-mail-merge"
+     }
+    },
+    {
+     "id": "n20261107-in04-15",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Dans le publipostage, à quoi sert le bouton « Aperçu des résultats » ?",
+     "o": [
+      "À imprimer tous les documents",
+      "À vérifier, destinataire par destinataire, le document fusionné avant de terminer",
+      "À supprimer la liste des destinataires",
+      "À créer la table des matières"
+     ],
+     "a": 1,
+     "e": "L'aperçu des résultats affiche le document avec les données de chaque destinataire, que l'on fait défiler avec Suivant et Précédent, avant de terminer la fusion.",
+     "ed": [
+      "L'impression se fait à l'étape Terminer & fusionner.",
+      null,
+      "L'aperçu ne supprime rien.",
+      "La table des matières relève de l'onglet Références."
+     ],
+     "src": {
+      "t": "Utiliser le publipostage pour personnaliser des lettres (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-FR/Word/use-mail-merge-to-personalize-letters"
+     }
+    },
+    {
+     "id": "n20261107-in04-16",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Les boutons d'insertion de champs de fusion sont grisés. Quelle est la cause la plus probable ?",
+     "o": [
+      "Le document n'a pas de titre",
+      "L'imprimante est déconnectée",
+      "Aucune liste de destinataires n'a été sélectionnée",
+      "Le texte est en italique"
+     ],
+     "a": 2,
+     "e": "Microsoft conseille d'utiliser Sélectionner les destinataires lorsque les champs de fusion sont grisés : sans source de données, il n'y a pas de champ à insérer.",
+     "ed": [
+      "Le titre du document n'a aucun effet sur les champs de fusion.",
+      "L'imprimante n'intervient qu'à la fin, à l'impression.",
+      null,
+      "La mise en forme du texte n'agit pas sur ces boutons."
+     ],
+     "src": {
+      "t": "Utiliser le publipostage pour personnaliser des lettres (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-FR/Word/use-mail-merge-to-personalize-letters"
+     }
+    },
+    {
+     "id": "n20261107-in04-17",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Quelle est la dernière étape d'un publipostage ?",
+     "o": [
+      "Sélectionner les destinataires",
+      "Insérer le bloc d'adresse",
+      "Démarrer la fusion et publipostage",
+      "Terminer & fusionner"
+     ],
+     "a": 3,
+     "e": "Terminer & fusionner produit les documents finaux : on peut les modifier individuellement, les imprimer ou les envoyer par courriel.",
+     "ed": [
+      "La sélection des destinataires intervient au début, juste après le démarrage.",
+      "Le bloc d'adresse s'insère au milieu de la procédure.",
+      "Démarrer la fusion est la première étape.",
+      null
+     ],
+     "src": {
+      "t": "Utiliser le publipostage pour personnaliser des lettres (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-FR/Word/use-mail-merge-to-personalize-letters"
+     }
+    },
+    {
+     "id": "n20261107-in04-18",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Un agent sélectionne un seul mot puis fait Ctrl+E. Que se passe-t-il ?",
+     "o": [
+      "Tout le paragraphe contenant le mot est centré",
+      "Seul le mot est centré",
+      "Le mot passe en gras",
+      "Le document est enregistré"
+     ],
+     "a": 0,
+     "e": "Le centrage est une mise en forme de paragraphe : Ctrl+E centre le paragraphe entier qui contient le curseur ou la sélection.",
+     "ed": [
+      null,
+      "On ne peut pas centrer un mot isolé à l'intérieur d'une ligne : l'alignement vaut pour le paragraphe.",
+      "Le gras s'obtient par Ctrl+G, pas par Ctrl+E.",
+      "L'enregistrement se fait par Ctrl+S."
+     ],
+     "src": {
+      "t": "Raccourcis clavier Word (Cours et fiches)",
+      "u": "https://cours-et-fiches.com/raccourcis-clavier-word/"
+     }
+    },
+    {
+     "id": "n20261107-in04-19",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Un agent doit envoyer la même lettre à 150 associations de jeunesse, chacune avec son nom et son adresse. Quelle est la méthode la plus fiable ?",
+     "o": [
+      "Copier-coller 150 fois la lettre et modifier chaque nom à la main",
+      "Faire un publipostage à partir d'une liste Excel des associations",
+      "Écrire une seule lettre sans nom et l'imprimer 150 fois",
+      "Créer 150 styles différents"
+     ],
+     "a": 1,
+     "e": "Le publipostage produit automatiquement 150 lettres personnalisées à partir d'une seule lettre type et d'une liste : moins d'erreurs, gain de temps.",
+     "ed": [
+      "Le copier-coller multiplie les risques d'erreur de nom ou d'adresse et prend beaucoup de temps.",
+      null,
+      "Une lettre anonyme ne répond pas à la consigne de personnalisation.",
+      "Les styles règlent la mise en forme ; ils ne personnalisent pas le contenu."
+     ],
+     "src": {
+      "t": "Utiliser le publipostage pour personnaliser des lettres (Microsoft Support)",
+      "u": "https://support.microsoft.com/fr-FR/Word/use-mail-merge-to-personalize-letters"
+     }
+    },
+    {
+     "id": "n20261107-in04-20",
+     "m": "info",
+     "tag": "niv-in04",
+     "q": "Lequel de ces raccourcis de Word en français est INCORRECTEMENT associé à son action ?",
+     "o": [
+      "Ctrl+I : italique",
+      "Ctrl+U : souligné",
+      "Ctrl+S : enregistrer",
+      "Ctrl+G : imprimer"
+     ],
+     "a": 3,
+     "e": "Dans la version française, Ctrl+G met en gras ; l'impression se fait par Ctrl+P.",
+     "ed": [
+      "Ctrl+I met bien en italique.",
+      "Ctrl+U souligne bien le texte.",
+      "Ctrl+S enregistre bien le document.",
+      null
+     ],
+     "src": {
+      "t": "20 astuces Word pour les débutants (Blog du Modérateur)",
+      "u": "https://www.blogdumoderateur.com/astuces-word-debutants/"
+     }
+    },
+    {
+     "id": "n20261107-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "À quelle date la Croatie est-elle devenue le 28e État membre de l'Union européenne ?",
+     "o": [
+      "Le 1er mai 2004",
+      "Le 1er janvier 2007",
+      "Le 1er juillet 2013",
+      "Le 31 janvier 2020"
+     ],
+     "a": 2,
+     "e": "La Croatie est devenue le 28e État membre de l'Union européenne le 1er juillet 2013 ; c'est la dernière adhésion à ce jour.",
+     "ed": [
+      "Le 1er mai 2004 est la date du grand élargissement à dix pays d'Europe centrale et méditerranéenne.",
+      "Le 1er janvier 2007 est la date d'adhésion de la Bulgarie et de la Roumanie.",
+      null,
+      "Le 31 janvier 2020 est la date de sortie du Royaume-Uni, pas d'une adhésion."
+     ],
+     "src": {
+      "t": "Élargissement de l'Union européenne : Croatie (CLEISS, 2013)",
+      "u": "https://www.cleiss.fr/actu/2013/1307croatie.html"
+     }
+    },
+    {
+     "id": "n20261107-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "À quelle date le Royaume-Uni a-t-il quitté l'Union européenne, après le référendum du 23 juin 2016 ?",
+     "o": [
+      "Le 31 janvier 2020",
+      "Le 23 juin 2016",
+      "Le 29 mars 2019",
+      "Le 1er janvier 2016"
+     ],
+     "a": 0,
+     "e": "Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020 à minuit (heure de Bruxelles) ; une période de transition a duré jusqu'au 31 décembre 2020.",
+     "ed": [
+      null,
+      "Le 23 juin 2016 est la date du référendum, pas celle de la sortie effective.",
+      "La sortie prévue en mars 2019 a été reportée ; elle n'a pas eu lieu à cette date.",
+      "Au 1er janvier 2016, le référendum n'avait pas encore eu lieu."
+     ],
+     "src": {
+      "t": "Le Royaume-Uni quitte l'Union européenne le 31 janvier (La finance pour tous, 2020)",
+      "u": "https://www.lafinancepourtous.com/2020/01/31/le-royaume-uni-quitte-lunion-europeenne-le-31-janvier/"
+     }
+    },
+    {
+     "id": "n20261107-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Sur quel fleuve l'Éthiopie a-t-elle inauguré, en septembre 2025, le Grand barrage de la Renaissance (GERD), contesté par l'Égypte ?",
+     "o": [
+      "Le Congo",
+      "Le Niger",
+      "Le Zambèze",
+      "Le Nil Bleu"
+     ],
+     "a": 3,
+     "e": "Le Grand barrage de la Renaissance, inauguré le 9 septembre 2025, est situé sur le Nil Bleu ; l'Égypte invoque ses droits historiques sur les eaux du Nil.",
+     "ed": [
+      "Le Congo coule en Afrique centrale, loin de l'Éthiopie.",
+      "Le Niger coule en Afrique de l'Ouest ; il ne traverse pas l'Éthiopie.",
+      "Le Zambèze coule en Afrique australe (barrages de Kariba et de Cahora Bassa).",
+      null
+     ],
+     "src": {
+      "t": "L'Éthiopie inaugure le plus grand barrage du continent (AllAfrica, 9 sept. 2025)",
+      "u": "https://fr.allafrica.com/stories/202509090620.html"
+     }
+    },
+    {
+     "id": "n20261107-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 4 avril 2023, l'OTAN a accueilli son 31e État membre. Lequel ?",
+     "o": [
+      "La Suède",
+      "La Finlande",
+      "L'Ukraine",
+      "La Suisse"
+     ],
+     "a": 1,
+     "e": "La Finlande est devenue le 31e pays membre de l'OTAN le 4 avril 2023 ; la Suède l'a suivie le 7 mars 2024, comme 32e membre.",
+     "ed": [
+      "La Suède est devenue membre le 7 mars 2024, comme 32e allié.",
+      null,
+      "L'Ukraine n'est pas membre de l'OTAN.",
+      "La Suisse, neutre, n'est pas membre de l'OTAN."
+     ],
+     "src": {
+      "t": "La Finlande devient le 31e pays membre de l'OTAN (OTAN, 4 avril 2023)",
+      "u": "https://www.nato.int/cps/fr/natohq/news_213448.htm"
+     }
+    },
+    {
+     "id": "n20261107-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En 2023, selon les estimations des Nations unies, quel pays a dépassé la Chine comme pays le plus peuplé du monde ?",
+     "o": [
+      "Les États-Unis",
+      "L'Indonésie",
+      "L'Inde",
+      "Le Nigeria"
+     ],
+     "a": 2,
+     "e": "Selon les Nations unies (DESA et UNFPA), l'Inde est devenue en 2023 le pays le plus peuplé du monde, devant la Chine, avec plus de 1,42 milliard d'habitants.",
+     "ed": [
+      "Les États-Unis comptent bien moins d'habitants que la Chine et l'Inde.",
+      "L'Indonésie est très peuplée mais loin derrière l'Inde et la Chine.",
+      null,
+      "Le Nigeria est le pays le plus peuplé d'Afrique, pas du monde."
+     ],
+     "src": {
+      "t": "L'Inde devient le pays le plus peuplé du monde (Futura, 25 avril 2023)",
+      "u": "https://www.futura-sciences.com/planete/actualites/population-mondiale-inde-devient-pays-plus-peuple-monde-104955/"
+     }
+    },
+    {
+     "id": "n20261107-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Brasilia devient la capitale du Brésil le 21 avril 1960. Quelle ville remplace-t-elle ?",
+     "o": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador",
+      "Belo Horizonte"
+     ],
+     "a": 0,
+     "e": "Voulue par le président Juscelino Kubitschek, dessinée par Lúcio Costa avec les bâtiments d'Oscar Niemeyer, Brasilia remplace Rio de Janeiro le 21 avril 1960.",
+     "ed": [
+      null,
+      "São Paulo est la plus grande ville du Brésil, mais elle n'était pas la capitale.",
+      "Salvador fut la première capitale, remplacée par Rio de Janeiro dès 1763.",
+      "Belo Horizonte n'a jamais été la capitale fédérale du Brésil."
+     ],
+     "src": {
+      "t": "21 avril 1960 : Brasilia, capitale de l'espoir (Herodote.net)",
+      "u": "https://www.herodote.net/21_avril_1960-evenement-19600421.php"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261107cg06",
+     "niv": "cg06",
+     "m": "cg",
+     "titre": "Côte d'Ivoire : économie — cacao, café, anacarde, pétrole, ports, PND 2026-2030",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer la Côte d'Ivoire dans l'économie mondiale et régionale : ses premiers rangs agricoles, son pétrole, ses ports et son poids dans l'UEMOA.",
+      "= Vous saurez aussi expliquer le mécanisme du prix bord champ du cacao et présenter les grands objectifs du Plan national de développement (PND) 2026-2030.",
+      "## Ce que demande le concours",
+      "En présélection, les questions d'économie ivoirienne sont des QCM courts : un rang mondial (« premier producteur de… »), une date (mise en production d'un champ pétrolier, inauguration d'un port), un organisme (Conseil du Café-Cacao), un ordre de grandeur (part dans le PIB de l'UEMOA). À l'écrit et à l'oral, les mêmes faits servent d'exemples dans une dissertation sur l'emploi, la transformation locale ou la dépendance aux matières premières.",
+      "! Piège habituel : confondre les rangs. La Côte d'Ivoire est premier producteur MONDIAL de cacao et de noix de cajou, mais premier producteur AFRICAIN (et non mondial) de caoutchouc naturel et de banane dessert.",
+      "## La méthode, pas à pas",
+      "- 1. Classez chaque produit dans un tableau à trois colonnes : rang mondial, rang africain, chiffre clé avec son année.",
+      "- 2. Retenez toujours l'année d'un chiffre : une production varie d'une campagne à l'autre, et le correcteur sanctionne un chiffre daté faussement.",
+      "- 3. Pour un prix bord champ, retenez la campagne (principale ou intermédiaire) et la date d'annonce.",
+      "- 4. Pour une question « laquelle est fausse », cherchez d'abord la confusion mondial/africain.",
+      "- 5. À l'écrit, reliez chaque fait à un enjeu : valeur ajoutée, revenu des producteurs, emploi des jeunes, dépendance aux cours mondiaux.",
+      "~ Exemple : « La Côte d'Ivoire est le premier producteur mondial de caoutchouc naturel. » Étape 1 : je consulte ma colonne hévéa. Étape 2 : en 2023, elle est troisième mondiale et première africaine. Conclusion : l'affirmation est fausse."
+     ],
+     "fond": [
+      "## Notion 1 : le cacao, premier pilier de l'économie",
+      "Règle : la Côte d'Ivoire est le premier producteur et le premier exportateur mondial de fèves de cacao. Selon la Direction générale de l'économie (DGE), la production a atteint 1 890,4 milliers de tonnes en 2024. Le portail de la DGE évalue sa part à environ 41 % de l'offre mondiale.",
+      "Pourquoi ce rang ? Le cacao est la première richesse agricole du pays. Cette force est aussi une fragilité : quand les cours mondiaux chutent, ce sont les recettes de l'État et le revenu de centaines de milliers de familles qui baissent.",
+      "Le Conseil du Café-Cacao, créé par l'ordonnance n°2011-481 du 28 décembre 2011, gère la filière. La réforme garantit aux producteurs un prix minimum représentant au moins 60 % du prix CAF (le prix de la fève rendue au port de destination). C'est l'origine du « prix bord champ » annoncé chaque campagne.",
+      "~ Exemple résolu : la campagne 2025-2026, ouverte le 1er octobre 2025, a fixé le cacao à 2 800 FCFA le kg. Le 4 mars 2026, la campagne intermédiaire l'a ramené à 1 200 FCFA, en raison de la chute des cours internationaux. Le 1er septembre 2026, le ministre de l'Agriculture Bruno Koné a annoncé pour 2026-2027 : 1 200 FCFA le kg de cacao et 1 300 FCFA le kg de café. Leçon : le prix garanti suit le prix mondial.",
+      "! Piège : le prix bord champ n'est pas un prix libre fixé par chaque acheteur ; c'est un prix minimum garanti, fixé et contrôlé par le Conseil du Café-Cacao.",
+      "? Pourquoi le prix bord champ du cacao a-t-il baissé entre la campagne 2025-2026 et la campagne intermédiaire de 2026 ? || Le prix garanti est un pourcentage (au moins 60 %) du prix CAF obtenu sur le marché mondial. Les cours internationaux ayant chuté, la base de calcul a baissé, et le prix garanti avec elle : 2 800 FCFA puis 1 200 FCFA le kg.",
+      "## Notion 2 : les autres premiers rangs agricoles",
+      "Règle : la Côte d'Ivoire est le premier producteur mondial de noix de cajou (anacarde) depuis 2015. La DGE donne 944 673 tonnes pour la campagne 2024 et projetait 1 150 000 tonnes pour 2025. Elle est aussi premier producteur africain de caoutchouc naturel et de banane dessert, et premier exportateur africain de mangue.",
+      "Pour l'hévéa, la DGE indique qu'en 2023 le pays a produit plus de 1,6 million de tonnes de caoutchouc naturel : troisième rang mondial, devant le Vietnam, et près de 80 % de la production africaine. Le café a fortement reculé : 126,1 milliers de tonnes en 2015, 72,21 milliers de tonnes en 2024.",
+      "Pourquoi l'enjeu de la transformation ? Exporter la noix brute laisse la valeur ajoutée et les emplois aux pays qui la décortiquent. La part de cajou transformée localement est passée de 6,22 % en 2016 à 21 % en 2023 (344 000 tonnes), et l'objectif est d'en transformer 50 % à l'horizon 2030.",
+      "? Un candidat écrit : « La Côte d'Ivoire est premier producteur mondial de cacao, de cajou et de caoutchouc. » Corrigez. || Les deux premiers rangs mondiaux sont exacts (cacao ; cajou depuis 2015). Pour le caoutchouc, le pays est premier en Afrique et troisième mondial en 2023 : il faut écrire « premier producteur africain de caoutchouc naturel ».",
+      "## Notion 3 : le pétrole et le gaz, le nouveau pilier",
+      "Règle : le champ Baleine, découvert en septembre 2021 en eaux profondes au large du sud-est du pays par le groupe italien Eni avec son partenaire Petroci, est entré en production le 27 août 2023, moins de deux ans après sa découverte. La phase 1 traitait 15 000 barils de pétrole par jour et environ 25 millions de pieds cubes de gaz associé. La phase 2 a démarré le 28 décembre 2024. Un autre gisement, Calao, a été découvert en 2024.",
+      "Pourquoi cela compte ? Les recettes pétrolières et gazières diversifient une économie très dépendante des produits agricoles et de leurs cours mondiaux.",
+      "! Piège : ne confondez pas la date de découverte (septembre 2021), la mise en production (27 août 2023) et le démarrage de la phase 2 (28 décembre 2024).",
+      "## Notion 4 : les ports, portes de l'Afrique de l'Ouest",
+      "Règle : le port d'Abidjan a été inauguré officiellement le 5 février 1951 par François Mitterrand, alors ministre de la France d'outre-mer, après l'achèvement du canal de Vridi en 1950, qui ouvre la lagune Ébrié sur l'océan. Le Port autonome d'Abidjan est une société d'État depuis le 23 décembre 1992. Le port de San-Pédro, dont la construction commence en 1968 et s'achève en 1970, est le deuxième port du pays.",
+      "Pourquoi le canal ? Il relie la lagune Ébrié à l'océan : le port s'installe dans la lagune, à l'abri, tout en recevant les navires de haute mer.",
+      "## Notion 5 : poids régional et PND 2026-2030",
+      "Règle : la Côte d'Ivoire est la première économie de l'UEMOA. En 2023, selon la DGE, elle représentait 39,7 % du PIB nominal de l'Union, 21 % de sa population et 43,6 % de ses exportations. De 2015 à 2023, sa croissance annuelle moyenne a été de 6,2 %, contre 5,4 % pour l'Union.",
+      "Le PND 2026-2030, adopté par les députés en avril 2026, prévoit 114 838,5 milliards de FCFA d'investissements, apportés à 70,2 % par le secteur privé et à 29,8 % par le secteur public. Il vise une croissance annuelle moyenne de 7,2 %, un taux de pauvreté inférieur à 20 % et un PIB par habitant porté de 3 148 dollars en 2025 à 4 500 dollars en 2030. Il repose sur six piliers, du premier (paix, sécurité et stabilité) à la transition écologique et à la bonne gouvernance.",
+      "? Calculez la part de la Côte d'Ivoire dans le PIB de l'UEMOA en 2023 : 47 790,9 milliards de FCFA sur 120 469,6 milliards. || 47 790,9 ÷ 120 469,6 ≈ 0,397, soit 39,7 %. Raccourci mental : 48 sur 120 font 40 %, d'où la formule de la DGE : « près de 40 % du PIB nominal de l'UEMOA ».",
+      "> Pour la dissertation : la richesse agricole donne des rangs mondiaux, mais la valeur ajoutée vient de la transformation. Argument pour : les filières font vivre des centaines de milliers de familles. Argument contre : la dépendance aux cours expose l'État et les producteurs aux chocs, comme la baisse du prix du cacao en 2026."
+     ],
+     "retenir": [
+      "La Côte d'Ivoire est le premier producteur et exportateur mondial de cacao ; production de 1 890,4 milliers de tonnes en 2024 selon la DGE.",
+      "Le Conseil du Café-Cacao, créé par l'ordonnance n°2011-481 du 28 décembre 2011, garantit au producteur au moins 60 % du prix CAF.",
+      "Prix bord champ 2026-2027 : 1 200 FCFA le kg de cacao et 1 300 FCFA le kg de café, annoncés le 1er septembre 2026.",
+      "Premier producteur mondial de noix de cajou depuis 2015 ; premier producteur africain de caoutchouc naturel et de banane dessert.",
+      "Le champ Baleine (Eni et Petroci), découvert en septembre 2021, produit depuis le 27 août 2023.",
+      "Le port d'Abidjan a été inauguré le 5 février 1951, après l'achèvement du canal de Vridi en 1950 ; San-Pédro est le deuxième port.",
+      "En 2023, la Côte d'Ivoire pèse 39,7 % du PIB nominal de l'UEMOA.",
+      "PND 2026-2030 : 114 838,5 milliards de FCFA, 70,2 % privés, croissance moyenne visée de 7,2 %."
+     ],
+     "exo": {
+      "tag": "niv-cg06",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "DGE – Agriculture industrielle et d'exportation (economie-ivoirienne.ci)",
+       "u": "https://economie-ivoirienne.ci/index.php/activites-sectorielles/agriculture-industrielle-et-dexportation.html"
+      },
+      {
+       "t": "DGE – Cacao (economie-ivoirienne.ci)",
+       "u": "https://economie-ivoirienne.ci/index.php/cadre-macroeconomique/cacao.html"
+      },
+      {
+       "t": "Réforme de la filière café-cacao de Côte d'Ivoire (ICCO, 2012)",
+       "u": "https://www.icco.org/wp-content/uploads/2019/07/Cafe-Cacao-reforme.pdf"
+      },
+      {
+       "t": "Café-Cacao 2025-2026 : le cacao payé à 2 800 FCFA/kg (Connectionivoirienne, 2 oct. 2025)",
+       "u": "https://connectionivoirienne.net/2025/10/02/cafe-cacao-2025-2026-le-cacao-paye-a-2-800-fcfa-kg-le-cafe-a-1-700-fcfa-kg/"
+      },
+      {
+       "t": "Prix de la campagne intermédiaire de cacao fixé à 1 200 FCFA/kg (Financial Afrik, 5 mars 2026)",
+       "u": "https://www.financialafrik.com/2026/03/05/cote-divoire-le-prix-de-la-campagne-intermediaire-de-cacao-fixe-a-1-200-fcfa-kg/"
+      },
+      {
+       "t": "Prix bord champ du café et du cacao 2026-2027 (Fraternité Matin, 1er sept. 2026)",
+       "u": "https://www.fratmat.info/article/2644240/economie/prix-bord-champ-du-kg-du-cafe-et-du-cacao-2026-2027-1300-fcfa-et-1200-fcfa"
+      },
+      {
+       "t": "Filière anacarde : la Côte d'Ivoire renforce sa position de leader mondial (DGE, 21 janv. 2025)",
+       "u": "https://economie-ivoirienne.ci/index.php/actualites/filiere-anacarde-la-cote-divoire-renforce-sa-position-de-leader-mondial-avec-une"
+      },
+      {
+       "t": "Côte d'Ivoire : leader émergent dans la production mondiale de caoutchouc naturel (DGE, 5 juin 2024)",
+       "u": "https://economie-ivoirienne.ci/actualites/cote-divoire-leader-emergent-dans-la-production-mondiale-de-caoutchouc-naturel.html"
+      },
+      {
+       "t": "Démarrage de la production du champ Baleine (AllAfrica, 28 août 2023)",
+       "u": "https://fr.allafrica.com/stories/202308280194.html"
+      },
+      {
+       "t": "Côte d'Ivoire : la production de pétrole et gaz dépasse les prévisions (Connaissance des Énergies, 15 janv. 2025)",
+       "u": "https://www.connaissancedesenergies.org/afp/cote-divoire-la-production-de-petrole-et-gaz-depasse-les-previsions-250115"
+      },
+      {
+       "t": "Port autonome d'Abidjan – Historique",
+       "u": "https://portabidjan.ci/en/autorite-portuaire/historique"
+      },
+      {
+       "t": "Autonomous Port of Abidjan (Wikipedia)",
+       "u": "https://en.wikipedia.org/wiki/Autonomous_Port_of_Abidjan"
+      },
+      {
+       "t": "San-Pédro (Encyclopaedia Britannica)",
+       "u": "https://www.britannica.com/place/San-Pedro-Cote-dIvoire"
+      },
+      {
+       "t": "Poids de la Côte d'Ivoire dans l'UEMOA (DGE)",
+       "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/poids-de-la-cote-divoire-dans-luemoa.html"
+      },
+      {
+       "t": "Un PND de 209 milliards de dollars d'ici 2030 (Financial Afrik, 23 mai 2026)",
+       "u": "https://www.financialafrik.com/2026/05/23/cote-divoire-un-pnd-de-209-milliards-de-dollars-pour-accelerer-la-transformation-de-leconomie-dici-2030/"
+      },
+      {
+       "t": "Côte d'Ivoire unveils ambitious 7.2% growth target for 2026-2030 (APA News)",
+       "u": "https://apanews.net/cote-divoire-unveils-ambitious-7-2-growth-target-for-2026-2030/"
+      },
+      {
+       "t": "Un plan à 114 838 milliards FCFA adopté : le PND 2026-2030 (Bénin Web TV, 9 avril 2026)",
+       "u": "https://beninwebtv.bj/cote-divoire-un-plan-a-114-838-milliards-fcfa-adopte-le-pari-colossal-du-pnd-2026-2030/"
+      }
+     ]
+    },
+    {
+     "id": "L20261107or05",
+     "niv": "or05",
+     "m": "oral",
+     "titre": "Posture, voix et gestion du stress : la communication non verbale devant le jury",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez vous tenir, regarder et bouger devant un jury de façon à soutenir votre propos au lieu de le contredire.",
+      "= Vous saurez aussi régler votre voix (débit, volume, pauses) et appliquer deux techniques simples de gestion du stress : la respiration lente et la reformulation de la question.",
+      "## Ce que le jury observe",
+      "Le jury ne note pas votre corps : il note vos réponses. Mais une attitude fermée, un regard fuyant ou un débit précipité brouillent le fond et donnent une impression d'insécurité. Un rapport de jury de concours administratif le dit simplement : un bonjour en entrant et un sourire, même léger, donnent déjà une bonne impression ; le stress « que l'on peut comprendre n'explique pas tout ».",
+      "! Piège habituel : réciter une « règle des 7-38-55 » pour dire que les mots ne comptent que pour 7 %. C'est une erreur que le jury peut relever ; vous verrez pourquoi dans le cours.",
+      "## La méthode, pas à pas",
+      "- 1. Avant d'entrer : trois à cinq minutes de respiration lente pour faire baisser la tension.",
+      "- 2. En entrant : saluer, attendre l'invitation à s'asseoir, s'installer droit sur la chaise, mains visibles.",
+      "- 3. À chaque question : écouter jusqu'au bout, prendre quelques secondes, reformuler si besoin, puis répondre en deux ou trois idées.",
+      "- 4. Pendant la réponse : regarder tour à tour chaque membre du jury, accompagner les idées d'un geste sobre, marquer une pause entre deux idées.",
+      "- 5. En cas de trou : le dire calmement, reformuler la question, partir d'un exemple concret.",
+      "~ Exemple : un candidat reçoit une question inattendue sur la décentralisation. Au lieu de répondre aussitôt, il respire, dit « Si je comprends bien, vous me demandez… », puis annonce deux idées. Les trois secondes de silence ont paru réfléchies, pas embarrassées."
+     ],
+     "fond": [
+      "## Notion 1 : la posture, assise et ancrée",
+      "Règle : tenez-vous droit sans raideur, épaules basses, buste légèrement penché vers l'avant. Asseyez-vous seulement quand le jury vous y invite, sur la première moitié de la chaise, sans vous affaler ni poser les coudes sur la table. Pendant les questions, ne vous appuyez pas sur la table et ne croisez pas les jambes.",
+      "Pourquoi ? La posture est le premier message, avant même la première phrase. Un corps droit et légèrement tourné vers le jury signale l'écoute et la disponibilité ; un corps affalé ou reculé signale le désintérêt ou la défense. La posture agit aussi sur vous : un buste ouvert laisse la respiration se faire, alors que le repli des bras et des épaules la bloque.",
+      "~ Exemple résolu : Aya s'assoit au fond de sa chaise, dos contre le dossier, bras croisés. Diagnostic : position de retrait, respiration gênée. Correction : s'avancer sur la première moitié de l'assise, poser les mains sur les cuisses ou sur la table devant elle, buste légèrement vers le jury.",
+      "! Piège : vouloir paraître décontracté en s'adossant ou en croisant les jambes. Devant un jury de concours administratif, la familiarité est sanctionnée autant que la raideur.",
+      "## Notion 2 : le regard et les gestes",
+      "Règle : regardez les membres du jury dans les yeux, en passant de l'un à l'autre, y compris celui qui ne vous a pas posé la question. Ne lisez pas vos notes sauf nécessité. Si un regard vous gêne, regardez le front de la personne : l'effet reste celui d'un contact visuel.",
+      "Les gestes accompagnent la parole sans la mimer : mains ouvertes, paumes vers le haut pour présenter un argument, doigts pour énumérer « premièrement, deuxièmement ». Évitez les gestes parasites : jouer avec un stylo, une bague, une mèche de cheveux, se frotter les mains. Ne pointez jamais le doigt vers un membre du jury.",
+      "Pourquoi ? Le regard circulaire inclut tout le jury dans l'échange : chacun se sent concerné et vous gardez le contact avec celui qui va noter. Un geste qui ponctue une idée aide l'auditeur à suivre la structure ; un geste parasite attire l'attention sur votre nervosité.",
+      "? Pendant sa réponse, Koffi ne regarde que le président du jury, qui lui a posé la question, et triture son stylo. Quels sont les deux défauts et comment les corriger ? || Premier défaut : un regard réservé à une seule personne exclut les autres membres, qui notent aussi. Correction : balayer tout le jury, en revenant au président en conclusion. Second défaut : un geste parasite qui trahit le stress. Correction : poser le stylo, garder les mains visibles et les utiliser pour scander les idées.",
+      "## Notion 3 : la voix, le débit et les silences",
+      "Règle : parlez distinctement et suffisamment fort pour être entendu du membre du jury le plus éloigné. Sous l'effet du stress, le débit devient trop rapide et haché : ralentissez volontairement et placez une pause entre deux idées. Remplacez les tics de langage (« donc », « euh ») par de vrais mots de liaison : « en effet », « ensuite », « enfin ».",
+      "Pourquoi ? Le jury ne peut noter que ce qu'il a compris. Une pause après une idée importante lui laisse le temps de l'enregistrer ; elle vous laisse le temps de respirer et de préparer la suite. Un silence de quelques secondes avant de répondre vaut mieux qu'une réponse précipitée.",
+      "~ Exemple résolu : phrase dite d'un trait : « donc euh la décentralisation c'est donc le transfert de compétences aux collectivités donc ». Version corrigée : « La décentralisation est le transfert de compétences de l'État aux collectivités territoriales. [pause] J'en vois deux avantages. [pause] Le premier… ». Même contenu, mais structure audible.",
+      "? Comment s'entraîner seul à corriger un débit trop rapide ? || Lire un texte à voix haute en marquant une pause à chaque point, puis s'enregistrer en répondant à une question type et réécouter : on repère le débit, les tics et les phrases trop longues. L'entraînement devant un miroir, puis devant une personne, rapproche des conditions réelles.",
+      "## Notion 4 : le mythe des « 7-38-55 »",
+      "Règle : la formule selon laquelle 7 % du message passerait par les mots, 38 % par la voix et 55 % par le visage vient d'expériences menées par Albert Mehrabian à la fin des années 1960 et popularisées dans son livre Silent Messages (1971). Ces expériences portaient sur des mots isolés et sur la perception de sentiments et d'attitudes, auprès de petits groupes de participantes. Mehrabian lui-même précise que ces équations ne s'appliquent pas hors de la communication de sentiments ou d'attitudes.",
+      "Pourquoi le rappeler ? À l'oral d'un concours, c'est le contenu de votre réponse qui est évalué. Le non-verbal ne remplace pas le fond : il le rend audible et crédible, ou il le brouille.",
+      "! Piège : citer un pourcentage précis de « communication non verbale » devant le jury. Ces chiffres circulent sans fondement établi ; dites plutôt que l'attitude doit être cohérente avec le propos.",
+      "## Notion 5 : gérer le stress avant et pendant l'épreuve",
+      "Règle : la cohérence cardiaque est une technique de respiration lente : 6 respirations par minute, soit 5 secondes d'inspiration et 5 secondes d'expiration, pendant 5 minutes, assis le dos droit. La fiche qui la présente conseille 3 séances par jour. Privilégiez la respiration ventrale, qui favorise la concentration et la détente. Le jour même, arrivez en avance et prenez quelques secondes avant chaque réponse.",
+      "Pourquoi ? Le stress accélère la respiration et le débit ; ralentir volontairement la respiration aide à retrouver le calme. Reformuler la question gagne du temps, vérifie que vous l'avez comprise et montre au jury que vous structurez votre pensée.",
+      "? La veille de l'oral, Fatou dort mal et se sent paniquée. Proposez-lui un plan en trois temps : la veille, juste avant l'épreuve, pendant l'épreuve. || La veille : une séance de respiration lente (5 secondes / 5 secondes pendant 5 minutes) et l'écran éteint avant de dormir. Juste avant : arriver en avance, refaire une courte séance de respiration. Pendant : écouter la question jusqu'au bout, prendre quelques secondes, reformuler, puis répondre en deux ou trois idées.",
+      "> L'essentiel : le jury comprend le trac ; il attend que vous le maîtrisiez assez pour rester clair, poli et réfléchi."
+     ],
+     "retenir": [
+      "Asseyez-vous seulement sur invitation du jury, droit, sur la première moitié de la chaise, sans croiser les jambes ni vous affaler.",
+      "Regardez tour à tour chaque membre du jury, et pas seulement celui qui vous interroge.",
+      "Le geste ponctue une idée sans la mimer ; on évite stylo trituré, bague, cheveux et doigt pointé vers le jury.",
+      "Sous le stress, le débit s'accélère : ralentissez et marquez une pause entre deux idées.",
+      "Quelques secondes de silence avant de répondre valent mieux qu'une réponse précipitée ; reformuler la question fait gagner du temps.",
+      "La règle des 7-38-55 de Mehrabian ne vaut que pour la communication de sentiments et d'attitudes : ne la présentez pas comme une loi.",
+      "Cohérence cardiaque : 6 respirations par minute, 5 secondes d'inspiration et 5 secondes d'expiration, pendant 5 minutes."
+     ],
+     "exo": {
+      "tag": "niv-or05",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "The 7-38-55 rule: Debunking the golden ratio of conversation (Big Think)",
+       "u": "https://bigthink.com/the-learning-curve/the-7-38-55-rule-debunking-the-golden-ratio-of-conversation"
+      },
+      {
+       "t": "La gestuelle – préparation à l'oral (Nomad Education)",
+       "u": "https://www.nomadeducation.fr/revisions/adjoint-administratif-territorial-categorie-c-lb8a5067/la-gestuelle-cye97888"
+      },
+      {
+       "t": "Comment se préparer à un oral de concours de la fonction publique ? (Emploi Public, 2025)",
+       "u": "https://infos.emploipublic.fr/article/comment-se-preparer-a-un-oral-de-concours-de-la-fonction-publique-eea-12382"
+      },
+      {
+       "t": "10 conseils essentiels pour la préparation à l'oral d'un concours (L'Étudiant, 2022)",
+       "u": "https://www.letudiant.fr/etudes/10-conseils-essentiels-pour-la-preparation-a-l-oral-d-un-concours.html"
+      },
+      {
+       "t": "La cohérence cardiaque contre le stress (CESI, fiche)",
+       "u": "https://cesi.be/content/uploads/2024/06/la-coherence-cardiaque-contre-le-stress.pdf"
+      },
+      {
+       "t": "Rapport du jury du concours d'adjoint administratif principal, session 2019 (ministère de l'Intérieur, France)",
+       "u": "https://interieur.gouv.fr/sites/minint/files/medias/documents/rh/2019-rapport-jury_2.pdf"
+      },
+      {
+       "t": "Techniques d'expression à l'oral (Université Batna 2)",
+       "u": "https://staff.univ-batna2.dz/sites/default/files/bouguerne_ammar/files/chapitre_ii._techniques_dexpression_a_loral_1.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261107in04",
+     "niv": "in04",
+     "m": "info",
+     "titre": "Le traitement de texte : mise en forme, styles, tableaux et publipostage",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez distinguer mise en forme des caractères et mise en forme des paragraphes, utiliser les styles pour produire une table des matières automatique et manipuler un tableau.",
+      "= Vous saurez aussi décrire les étapes d'un publipostage dans Microsoft Word et reconnaître les raccourcis clavier les plus demandés.",
+      "## Ce que demande l'épreuve",
+      "Les questions de bureautique sont surtout des QCM pratiques : « quel raccourci met en gras ? », « dans quel onglet trouve-t-on la table des matières ? », « qu'est-ce qu'un champ de fusion ? ». Elles visent l'agent qui rédige chaque jour courriers, rapports et convocations. Les cas pratiques demandent souvent la bonne démarche : envoyer la même convocation à cent destinataires, numéroter les titres d'un rapport.",
+      "! Piège habituel : les raccourcis de la version française de Word diffèrent parfois de la version anglaise. En français, le gras est Ctrl+G (Ctrl+B en anglais, B pour « bold »).",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez l'objet de la question : un caractère, un paragraphe, une page, un tableau ou tout le document.",
+      "- 2. Associez l'objet à son onglet : Accueil (police, paragraphe, styles), Insertion (tableau, saut de page), Références (table des matières), Publipostage (lettres types).",
+      "- 3. Pour un raccourci, partez de l'initiale française : G comme gras, I comme italique, U comme « underline » (souligné).",
+      "- 4. Pour un cas pratique, choisissez l'outil qui évite de refaire la même tâche : style plutôt que mise en forme manuelle, publipostage plutôt que copier-coller.",
+      "~ Exemple : « Un agent doit envoyer la même invitation à 80 maires, chacun avec son nom et sa commune. » Objet : tout un lot de documents. Outil : le publipostage, avec une liste Excel des 80 destinataires comme source de données."
+     ],
+     "fond": [
+      "## Notion 1 : mettre en forme les caractères et les paragraphes",
+      "Règle : la mise en forme des caractères s'applique au texte sélectionné : police, taille, gras, italique, souligné, couleur. La mise en forme des paragraphes s'applique au paragraphe entier : alignement (gauche, centré, droite, justifié), interligne, retraits, espacement avant et après. Dans l'onglet Accueil, les deux familles occupent deux groupes distincts : Police et Paragraphe.",
+      "Pourquoi cette distinction ? Un paragraphe, pour Word, est tout ce qui se termine par un appui sur Entrée. On n'a pas besoin de sélectionner un paragraphe pour le centrer : il suffit d'y placer le curseur. En revanche, pour mettre un mot en gras, il faut sélectionner ce mot.",
+      "Raccourcis de la version française : Ctrl+G met en gras, Ctrl+I en italique, Ctrl+U souligne. Ctrl+E centre le paragraphe et Ctrl+J le justifie. Ctrl+Z annule la dernière action et Ctrl+Y la rétablit ou la répète.",
+      "~ Exemple résolu : vous voulez centrer le titre « NOTE DE SERVICE » et le mettre en gras. Étape 1 : placez le curseur dans le titre et faites Ctrl+E (le paragraphe est centré). Étape 2 : sélectionnez le mot et faites Ctrl+G (les caractères passent en gras). Vérification : le titre est centré même si vous ajoutez un mot, car l'alignement appartient au paragraphe.",
+      "! Piège : un texte « justifié » est aligné à la fois sur la marge gauche et sur la marge droite ; ce n'est pas un texte centré.",
+      "? Un agent sélectionne un mot et fait Ctrl+J : que se passe-t-il ? || Ctrl+J justifie le paragraphe qui contient le mot, et non le mot seul : l'alignement est une mise en forme de paragraphe. Pour agir sur le seul mot, il faudrait une mise en forme de caractères (gras, italique, taille…).",
+      "## Notion 2 : les styles et la table des matières automatique",
+      "Règle : un style est un ensemble de mises en forme enregistré sous un nom (Normal, Titre 1, Titre 2…), que l'on applique d'un clic depuis le groupe Styles de l'onglet Accueil. La table des matières de Word est construite à partir des titres du document, c'est-à-dire des paragraphes auxquels on a appliqué les styles Titre 1, Titre 2, etc. On l'insère depuis l'onglet Références, bouton Table des matières, puis on la met à jour après chaque modification (clic droit sur la table, mise à jour).",
+      "Pourquoi utiliser les styles ? Modifier le style Titre 1 modifie d'un coup tous les titres de ce niveau : le rapport reste homogène. Et Word sait quels paragraphes sont des titres : il peut les numéroter et en faire une table des matières.",
+      "! Piège : un titre mis en forme « à la main » (gras, taille 16) n'apparaît pas dans la table des matières. Si un titre manque, appliquez-lui le style Titre 1 et mettez la table à jour.",
+      "? Dans un rapport de 40 pages, la table des matières n'affiche pas la partie « Recommandations ». Quelle est la cause probable et la solution ? || Cause : le titre « Recommandations » n'a pas reçu un style de titre (Titre 1 ou Titre 2) ; il est seulement en gras. Solution : sélectionner ce titre, lui appliquer le style Titre 1 dans Accueil > Styles, puis mettre à jour la table des matières.",
+      "## Notion 3 : les tableaux et les sauts de page",
+      "Règle : on insère un tableau depuis l'onglet Insertion, bouton Tableau, en choisissant le nombre de colonnes et de lignes. Dans un tableau, la touche Tab fait passer à la cellule suivante et Maj+Tab à la cellule précédente. Quand le curseur est dans le tableau, des onglets propres au tableau apparaissent pour le mettre en forme et ajouter ou supprimer des lignes et des colonnes.",
+      "Pour commencer une nouvelle page, on n'appuie pas plusieurs fois sur Entrée : on insère un saut de page, par le raccourci Ctrl+Entrée ou par Insertion > Saut de page.",
+      "Pourquoi ? Les retours à la ligne répétés se décalent dès que l'on ajoute du texte plus haut ; le saut de page, lui, garantit que la suite commence toujours en haut d'une nouvelle page.",
+      "~ Exemple résolu : vous dressez la liste des participants à un atelier : nom, structure, téléphone. Étape 1 : Insertion > Tableau, 3 colonnes. Étape 2 : saisissez « Nom », puis Tab, « Structure », Tab, « Téléphone ». Étape 3 : en fin de ligne, Tab dans la dernière cellule crée une nouvelle ligne. Vérification : chaque information est dans sa colonne, et le tableau s'agrandit sans mise en page manuelle.",
+      "## Notion 4 : le publipostage",
+      "Règle : le publipostage (fusion et publipostage) produit une série de documents identiques personnalisés, à partir de deux éléments : le document principal (la lettre type) et une source de données (la liste des destinataires). Les sources possibles sont notamment une feuille Excel, une table Access, les contacts Outlook ou une nouvelle liste saisie dans Word.",
+      "Les étapes, dans l'onglet Publipostage : 1) Démarrer la fusion et publipostage, puis choisir Lettres ; 2) Sélectionner les destinataires ; 3) insérer les champs de fusion (Bloc d'adresse, Ligne d'accueil, ou un champ précis par Insérer un champ de fusion) ; 4) vérifier avec Aperçu des résultats ; 5) Terminer & fusionner, pour modifier les documents individuels, les imprimer ou les envoyer par courriel.",
+      "Pourquoi ? Les champs de fusion proviennent des en-têtes de colonnes de la source de données : la colonne « Commune » devient un champ que Word remplace, document par document, par la valeur de chaque ligne.",
+      "? Vous devez convoquer 120 candidats à un oral, chacun avec son nom, son jour et son heure. Décrivez la démarche. || Préparer une feuille Excel avec une colonne par information (Nom, Jour, Heure) et une ligne par candidat. Dans Word, rédiger la convocation type, puis Publipostage > Démarrer la fusion et publipostage > Lettres, Sélectionner les destinataires > Utiliser une liste existante (le fichier Excel), insérer les champs Nom, Jour et Heure, vérifier avec Aperçu des résultats, puis Terminer & fusionner.",
+      "! Piège : si les boutons de champs de fusion sont grisés, c'est qu'aucune liste de destinataires n'a encore été sélectionnée."
+     ],
+     "retenir": [
+      "La mise en forme des caractères (police, gras, taille) vise le texte sélectionné ; celle des paragraphes (alignement, interligne, retraits) vise tout le paragraphe.",
+      "Version française de Word : Ctrl+G gras, Ctrl+I italique, Ctrl+U souligné, Ctrl+Z annuler, Ctrl+Y rétablir.",
+      "Un texte justifié est aligné à la fois sur la marge gauche et sur la marge droite.",
+      "La table des matières automatique s'appuie sur les styles de titre (Titre 1, Titre 2) et s'insère depuis l'onglet Références.",
+      "Ctrl+Entrée insère un saut de page ; dans un tableau, Tab passe à la cellule suivante et Maj+Tab à la précédente.",
+      "Le publipostage fusionne un document principal et une source de données (Excel, Access, contacts Outlook, nouvelle liste).",
+      "Les champs de fusion proviennent des en-têtes de colonnes de la source de données.",
+      "Publipostage : démarrer, sélectionner les destinataires, insérer les champs, aperçu des résultats, terminer et fusionner."
+     ],
+     "exo": {
+      "tag": "niv-in04",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Utiliser le publipostage pour personnaliser des lettres (Microsoft Support)",
+       "u": "https://support.microsoft.com/fr-FR/Word/use-mail-merge-to-personalize-letters"
+      },
+      {
+       "t": "Insérer des champs de fusion et publipostage (Microsoft Support)",
+       "u": "https://support.microsoft.com/fr-fr/word/insert-mail-merge-fields"
+      },
+      {
+       "t": "Sources de données que vous pouvez utiliser pour un publipostage (Microsoft Support)",
+       "u": "https://support.microsoft.com/fr-FR/Word/data-sources-you-can-use-for-a-mail-merge"
+      },
+      {
+       "t": "Insérer une table des matières (Microsoft Support)",
+       "u": "https://support.microsoft.com/fr-fr/office/ins%C3%A9rer-une-table-des-mati%C3%A8res-882e8564-0edb-435e-84b5-1d8552ccf0c0"
+      },
+      {
+       "t": "20 astuces Word pour les débutants (Blog du Modérateur)",
+       "u": "https://www.blogdumoderateur.com/astuces-word-debutants/"
+      },
+      {
+       "t": "Raccourcis clavier Word (Cours et fiches)",
+       "u": "https://cours-et-fiches.com/raccourcis-clavier-word/"
+      },
+      {
+       "t": "Word : comment créer un sommaire automatique (Blog du Modérateur, 2024)",
+       "u": "https://www.blogdumoderateur.com/word-comment-creer-sommaire-automatique/"
+      }
+     ]
+    }
+   ],
+   "sujets": []
   }
  ]
 }
