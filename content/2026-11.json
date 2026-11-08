@@ -11791,6 +11791,574 @@
       "t": "OSCE – Helsinki Final Act (1975)",
       "u": "https://www.osce.org/mc/58376"
      }
+    },
+    {
+     "id": "c20261108-fr05-01",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "verif": "regle",
+     "q": "Complétez : « C'est toi qui ___ signer le registre ce matin. »",
+     "o": [
+      "doit",
+      "dois",
+      "doivent",
+      "devez"
+     ],
+     "a": 1,
+     "e": "Après « qui », le verbe prend la personne de l'antécédent : « qui » remplace « toi », donc 2e personne du singulier : tu dois → c'est toi qui dois.",
+     "ed": [
+      "« Doit » est la 3e personne : l'erreur classique qui accorde par défaut après « qui ».",
+      null,
+      "« Doivent » est un pluriel, alors que l'antécédent « toi » est singulier.",
+      "« Devez » correspond à « vous », pas à « toi »."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord et emploi de c'est et ce sont",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21603/la-grammaire/le-verbe/accord-du-verbe-avec-le-sujet/cas-particuliers-daccord-du-verbe/accord-et-emploi-de-cest-et-ce-sont"
+     }
+    },
+    {
+     "id": "c20261108-fr05-02",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "verif": "regle",
+     "q": "Complétez : « Vous et votre adjoint ___ assister à la réunion de coordination. »",
+     "o": [
+      "doit",
+      "doivent",
+      "devez",
+      "devons"
+     ],
+     "a": 2,
+     "e": "Quand les sujets sont de personnes différentes, la 2e personne l'emporte sur la 3e : « vous et votre adjoint » = vous, donc « devez ».",
+     "ed": [
+      "« Doit » est un singulier de 3e personne, alors que le sujet compte deux personnes, dont « vous ».",
+      "« Doivent » applique la 3e personne, mais « vous » l'emporte sur la 3e personne.",
+      null,
+      "« Devons » suppose « nous » : aucun sujet de 1re personne dans la phrase."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : sujets coordonnés de personnes différentes",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/25402/la-grammaire/le-verbe/accord-du-verbe-avec-le-sujet/sujets-joints-par-une-conjonction/sujets-coordonnes-de-personnes-differentes"
+     }
+    },
+    {
+     "id": "c20261108-fr05-03",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "verif": "regle",
+     "q": "Complétez : « Les résultats du concours, attendus depuis plusieurs semaines par les candidats de la région, ___ publiés hier. »",
+     "o": [
+      "a été",
+      "ont été",
+      "est",
+      "avons été"
+     ],
+     "a": 1,
+     "e": "Le sujet est « les résultats » (qui est-ce qui a été publié ?) ; les compléments intercalés ne changent pas l'accord : 3e personne du pluriel, « ont été ».",
+     "ed": [
+      "« A été » s'accorde à tort avec « le concours » ou « la région », simples compléments.",
+      null,
+      "« Est publiés » mélange un singulier et un participe pluriel, et le sujet « les résultats » est pluriel.",
+      "« Avons été » suppose « nous », absent de la phrase."
+     ]
+    },
+    {
+     "id": "c20261108-fr05-04",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "verif": "regle",
+     "q": "Complétez : « Ainsi ___ les travaux de la commission régionale. »",
+     "o": [
+      "se termine",
+      "se terminons",
+      "se terminent",
+      "se terminez"
+     ],
+     "a": 2,
+     "e": "Après « ainsi » en tête de phrase, le sujet est souvent inversé : qui est-ce qui se termine ? « les travaux », pluriel : « se terminent ».",
+     "ed": [
+      "« Se termine » s'accorde à tort avec « la commission », complément du nom « travaux ».",
+      "« Se terminons » suppose le sujet « nous », absent de la phrase.",
+      null,
+      "« Se terminez » suppose le sujet « vous », absent de la phrase."
+     ]
+    },
+    {
+     "id": "c20261108-fr05-05",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "verif": "regle",
+     "q": "Complétez : « Ni le maire ni son adjoint ne ___ informés de la décision. »",
+     "o": [
+      "sont",
+      "est",
+      "sommes",
+      "soit"
+     ],
+     "a": 0,
+     "e": "Avec des sujets unis par « ni… ni », on met en général le verbe au pluriel même si chaque sujet est singulier ; ici le participe pluriel « informés » l'impose.",
+     "ed": [
+      null,
+      "« Est » est un singulier qui ne peut pas aller avec le participe pluriel « informés ».",
+      "« Sommes » suppose un sujet de 1re personne (moi, nous), absent de la phrase.",
+      "« Soit » est un subjonctif singulier sans raison dans cette phrase affirmative de constat."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord du verbe avec des sujets unis par ni",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21490/la-grammaire/le-verbe/accord-du-verbe-avec-le-sujet/sujets-joints-par-une-conjonction/accord-du-verbe-avec-des-sujets-unis-par-ni"
+     }
+    },
+    {
+     "id": "c20261108-fr05-06",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "verif": "regle",
+     "q": "Complétez : « Les deux tiers des candidats ___ admis à l'oral. »",
+     "o": [
+      "a été",
+      "fut",
+      "ont été",
+      "est"
+     ],
+     "a": 2,
+     "e": "Quand une fraction est précédée d'un déterminant pluriel (les, ces), le verbe se met obligatoirement au pluriel : « les deux tiers… ont été admis ».",
+     "ed": [
+      "« A été » est un singulier, exclu ici à cause du déterminant pluriel « les ».",
+      "« Fut » est un singulier, exclu à cause du déterminant pluriel « les ».",
+      null,
+      "« Est » est un singulier, exclu à cause du déterminant pluriel « les »."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord du verbe avec une fraction ou un pourcentage",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21597/la-grammaire/le-verbe/accord-du-verbe-avec-le-sujet/sujet-qui-est-une-expression-de-quantite/accord-du-verbe-avec-une-fraction-ou-un-pourcentage"
+     }
+    },
+    {
+     "id": "c20261108-fr05-07",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "verif": "regle",
+     "q": "Complétez : « Ni toi ni moi ne ___ convoqués à cette séance. »",
+     "o": [
+      "sont",
+      "êtes",
+      "est",
+      "sommes"
+     ],
+     "a": 3,
+     "e": "Les sujets unis par « ni » qu'on peut remplacer par « nous » demandent la 1re personne du pluriel : toi + moi = nous, donc « sommes ».",
+     "ed": [
+      "« Sont » applique la 3e personne, alors que « moi » (1re personne) l'emporte.",
+      "« Êtes » applique la 2e personne, mais la 1re personne l'emporte sur la 2e.",
+      "« Est » est un singulier de 3e personne, doublement faux ici.",
+      null
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord du verbe avec des sujets unis par ni",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21490/la-grammaire/le-verbe/accord-du-verbe-avec-le-sujet/sujets-joints-par-une-conjonction/accord-du-verbe-avec-des-sujets-unis-par-ni"
+     }
+    },
+    {
+     "id": "c20261108-fr05-08",
+     "m": "fr",
+     "tag": "niv-fr05",
+     "verif": "regle",
+     "q": "Laquelle de ces phrases est FAUTIVE ?",
+     "o": [
+      "C'est nous qui avons préparé la salle.",
+      "Ce sont les délégués qui ont voté.",
+      "Ce sont vous qui avez gagné.",
+      "C'était vous qui aviez raison."
+     ],
+     "a": 2,
+     "e": "Devant les pronoms « nous » et « vous », le présentatif reste au singulier : on écrit « c'est vous », jamais « ce sont vous ». La phrase 3 est donc fautive.",
+     "ed": [
+      "Phrase correcte : « c'est nous » reste au singulier, et « qui avons » s'accorde avec « nous ».",
+      "Phrase correcte : devant un nom pluriel, on emploie généralement « ce sont ».",
+      null,
+      "Phrase correcte : « c'était vous » reste au singulier devant « vous »."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord et emploi de c'est et ce sont",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21603/la-grammaire/le-verbe/accord-du-verbe-avec-le-sujet/cas-particuliers-daccord-du-verbe/accord-et-emploi-de-cest-et-ce-sont"
+     }
+    },
+    {
+     "id": "c20261108-fr06-01",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "verif": "regle",
+     "q": "Couleur composée « vert pomme » : quelle orthographe est correcte ?",
+     "o": [
+      "des pagnes vert pomme",
+      "des pagnes verts pommes",
+      "des pagnes verts pomme",
+      "des pagnes vert pommes"
+     ],
+     "a": 0,
+     "e": "Une couleur composée d'un adjectif et d'un nom (vert pomme, bleu marine, jaune citron) est entièrement invariable : « des pagnes vert pomme ».",
+     "ed": [
+      null,
+      "Les deux éléments d'une couleur composée restent invariables : ni « verts » ni « pommes ».",
+      "« Verts » ne doit pas s'accorder : la couleur composée est invariable.",
+      "« Pommes » ne doit pas prendre de s : la couleur composée est invariable."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord des adjectifs de couleur de forme composée",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21724/la-grammaire/ladjectif/accord-de-ladjectif/adjectifs-de-couleur/accord-des-adjectifs-de-couleur-de-forme-composee"
+     }
+    },
+    {
+     "id": "c20261108-fr06-02",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "verif": "regle",
+     "q": "Couleur « turquoise » : quelle orthographe est correcte ?",
+     "o": [
+      "des fleurs turquoises",
+      "des fleur turquoise",
+      "des fleurs turquoise",
+      "des fleurs turquoisées"
+     ],
+     "a": 2,
+     "e": "« Turquoise » est un nom (une pierre) employé comme adjectif de couleur : il reste invariable, « des fleurs turquoise ».",
+     "ed": [
+      "Un nom employé comme couleur ne prend pas la marque du pluriel.",
+      "Le nom « fleurs » doit, lui, prendre le s du pluriel.",
+      null,
+      "« Turquoisées » n'est pas la forme attendue : le mot de couleur reste « turquoise »."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord des adjectifs de couleur de forme simple",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21721/la-grammaire/ladjectif/accord-de-ladjectif/adjectifs-de-couleur/accord-des-adjectifs-de-couleur-de-forme-simple"
+     }
+    },
+    {
+     "id": "c20261108-fr06-03",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "verif": "regle",
+     "q": "Couleur « beige » : quelle orthographe est correcte ?",
+     "o": [
+      "des gants beige",
+      "des gants beiges",
+      "des gant beiges",
+      "des gants beigeux"
+     ],
+     "a": 1,
+     "e": "« Beige » est un véritable adjectif de couleur de forme simple : il s'accorde en genre et en nombre, « des gants beiges ».",
+     "ed": [
+      "« Beige » n'est pas un nom de chose employé comme couleur : il s'accorde.",
+      null,
+      "Le nom « gants » doit prendre le s du pluriel.",
+      "« Beigeux » n'existe pas ; le pluriel de « beige » est « beiges »."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord des adjectifs de couleur de forme simple",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21721/la-grammaire/ladjectif/accord-de-ladjectif/adjectifs-de-couleur/accord-des-adjectifs-de-couleur-de-forme-simple"
+     }
+    },
+    {
+     "id": "c20261108-fr06-04",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "verif": "regle",
+     "q": "Couleur « écarlate » : quelle orthographe est correcte ?",
+     "o": [
+      "des foulards écarlate",
+      "des foulard écarlates",
+      "des foulards écarlats",
+      "des foulards écarlates"
+     ],
+     "a": 3,
+     "e": "« Écarlate » fait partie des exceptions (avec rose, mauve, fauve, pourpre, incarnat, vermeil) qui s'accordent comme de vrais adjectifs : « des foulards écarlates ».",
+     "ed": [
+      "« Écarlate » est une exception qui s'accorde : il prend un s au pluriel.",
+      "Le nom « foulards » doit prendre le s du pluriel.",
+      "« Écarlats » n'existe pas : l'adjectif est « écarlate », pluriel « écarlates ».",
+      null
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord des adjectifs de couleur de forme simple",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21721/la-grammaire/ladjectif/accord-de-ladjectif/adjectifs-de-couleur/accord-des-adjectifs-de-couleur-de-forme-simple"
+     }
+    },
+    {
+     "id": "c20261108-fr06-05",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "verif": "regle",
+     "q": "Couleur « noisette » : quelle orthographe est correcte ?",
+     "o": [
+      "des yeux noisettes",
+      "des yeux noisette",
+      "des yeux noisettées",
+      "des yeu noisette"
+     ],
+     "a": 1,
+     "e": "« Noisette » est un nom (le fruit) employé comme couleur : il reste invariable, « des yeux noisette » (de la couleur de la noisette).",
+     "ed": [
+      "Un nom employé comme couleur ne prend pas la marque du pluriel.",
+      null,
+      "« Noisettées » n'existe pas : la couleur s'écrit « noisette », invariable.",
+      "Le pluriel de « œil » est « yeux », avec un x."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord des adjectifs de couleur de forme simple",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21721/la-grammaire/ladjectif/accord-de-ladjectif/adjectifs-de-couleur/accord-des-adjectifs-de-couleur-de-forme-simple"
+     }
+    },
+    {
+     "id": "c20261108-fr06-06",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "verif": "regle",
+     "q": "Complétez : « Les baigneurs se promenaient à ___ sur la plage de Grand-Bassam. »",
+     "o": [
+      "demis nus",
+      "demie nue",
+      "demi nus",
+      "demi nu"
+     ],
+     "a": 2,
+     "e": "« À demi » est un adverbe toujours invariable, sans trait d'union devant un adjectif ; l'adjectif « nus » s'accorde, lui, avec « baigneurs ».",
+     "ed": [
+      "« À demi » est invariable : jamais de s à « demi ».",
+      "« À demi » est invariable, et « nue » ne s'accorde pas avec « baigneurs » (masculin pluriel).",
+      null,
+      "« Nu » doit s'accorder avec « baigneurs » : masculin pluriel, « nus »."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : emploi de demi selon sa classe de mots",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21752/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/emploi-adjectival-et-adverbial-de-demi"
+     }
+    },
+    {
+     "id": "c20261108-fr06-07",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "verif": "regle",
+     "q": "« Demi » placé devant un nom au pluriel : quelle orthographe est correcte ?",
+     "o": [
+      "les demies-finales",
+      "les demis-finales",
+      "les demi-finale",
+      "les demi-finales"
+     ],
+     "a": 3,
+     "e": "Placé devant un nom, « demi » est invariable et relié par un trait d'union ; seul le nom prend la marque du pluriel : « les demi-finales ».",
+     "ed": [
+      "Devant le nom, « demi » est invariable : ni e ni s.",
+      "Devant le nom, « demi » ne prend jamais de s.",
+      "Le nom « finales » doit prendre le s du pluriel après « les ».",
+      null
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : emploi de demi selon sa classe de mots",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21752/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/emploi-adjectival-et-adverbial-de-demi"
+     }
+    },
+    {
+     "id": "c20261108-fr06-08",
+     "m": "fr",
+     "tag": "niv-fr06",
+     "verif": "regle",
+     "q": "Complétez : « Pour la cérémonie, il portait un pagne et une chemise ___. »",
+     "o": [
+      "neufs",
+      "neuves",
+      "neuf",
+      "neuve"
+     ],
+     "a": 0,
+     "e": "Un adjectif qui qualifie un nom masculin et un nom féminin se met au masculin pluriel : « un pagne et une chemise neufs » (de préférence avec le masculin près de l'adjectif).",
+     "ed": [
+      null,
+      "Le féminin pluriel est exclu : un des noms (« pagne ») est masculin.",
+      "L'adjectif qualifie deux noms : il se met au pluriel.",
+      "L'adjectif qualifie deux noms dont un masculin : ni singulier ni féminin."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : accord de l'adjectif avec des noms joints par et",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21740/la-grammaire/ladjectif/accord-de-ladjectif/accord-de-ladjectif-employe-avec-des-noms-coordonnes/accord-de-ladjectif-avec-des-noms-joints-par-et"
+     }
+    },
+    {
+     "id": "c20261108-lo04-01",
+     "m": "log",
+     "tag": "niv-lo04",
+     "verif": "calcul",
+     "q": "Dans un centre d'examen, 180 candidats sont admis sur 1 200 inscrits. Quel est le taux de réussite ?",
+     "o": [
+      "18 %",
+      "12 %",
+      "15 %",
+      "1,5 %"
+     ],
+     "a": 2,
+     "e": "Taux = admis ÷ inscrits × 100 = 180 ÷ 1 200 × 100 = 15 %. Astuce : 120 = 10 % de 1 200, et 60 = 5 %.",
+     "ed": [
+      "18 % confond le nombre d'admis (180) avec un pourcentage.",
+      "12 % ne correspond à aucun calcul correct : 12 % de 1 200 font 144.",
+      null,
+      "1,5 % oublie un facteur 10 : 1,5 % de 1 200 font 18."
+     ],
+     "calc": "180/1200*100"
+    },
+    {
+     "id": "c20261108-lo04-02",
+     "m": "log",
+     "tag": "niv-lo04",
+     "verif": "calcul",
+     "q": "Un bien vaut 75 000 F hors taxe. Quel est le montant de la TVA à 18 % ?",
+     "o": [
+      "13 500 F",
+      "88 500 F",
+      "11 441 F",
+      "18 000 F"
+     ],
+     "a": 0,
+     "e": "Montant de la TVA = prix HT × taux = 75 000 × 0,18 = 13 500 F. (Le prix TTC serait 88 500 F.)",
+     "ed": [
+      null,
+      "88 500 F est le prix TTC (HT + TVA), pas le montant de la TVA.",
+      "11 441 F applique à tort le taux au prix comme s'il était TTC (75 000 − 75 000 ÷ 1,18).",
+      "18 000 F confond le taux (18) avec un montant en milliers de francs."
+     ],
+     "calc": "75000*0.18"
+    },
+    {
+     "id": "c20261108-lo04-03",
+     "m": "log",
+     "tag": "niv-lo04",
+     "verif": "calcul",
+     "q": "Le prix d'un sac de riz passe de 25 000 F à 21 000 F. Quel est le taux de baisse ?",
+     "o": [
+      "4 %",
+      "16 %",
+      "19 %",
+      "84 %"
+     ],
+     "a": 1,
+     "e": "Taux = (25 000 − 21 000) ÷ 25 000 × 100 = 4 000 ÷ 25 000 × 100 = 16 %. On divise toujours par la valeur de départ.",
+     "ed": [
+      "4 % confond l'écart en milliers de francs (4) avec un pourcentage.",
+      null,
+      "19 % divise l'écart par la valeur d'arrivée (4 000 ÷ 21 000 ≈ 19 %), au lieu de la valeur de départ.",
+      "84 % est le coefficient restant (21 000 ÷ 25 000), pas le taux de baisse."
+     ],
+     "calc": "(25000-21000)/25000*100"
+    },
+    {
+     "id": "c20261108-lo04-04",
+     "m": "log",
+     "tag": "niv-lo04",
+     "verif": "calcul",
+     "q": "Après une remise de 30 %, un téléphone est vendu 42 000 F. Quel était son prix avant remise ?",
+     "o": [
+      "54 600 F",
+      "72 000 F",
+      "60 000 F",
+      "55 000 F"
+     ],
+     "a": 2,
+     "e": "Une remise de 30 % multiplie par 0,7 ; pour revenir au prix initial, on divise : 42 000 ÷ 0,7 = 60 000 F. Vérification : 60 000 × 0,7 = 42 000.",
+     "ed": [
+      "54 600 F ajoute 30 % au prix remisé (42 000 × 1,3) : on n'annule pas une baisse en ajoutant le même taux.",
+      "72 000 F ajoute 30 000 F sans aucun raisonnement en pourcentage.",
+      null,
+      "55 000 F ne correspond à aucun calcul : 55 000 × 0,7 = 38 500 F."
+     ],
+     "calc": "42000/0.7"
+    },
+    {
+     "id": "c20261108-lo04-05",
+     "m": "log",
+     "tag": "niv-lo04",
+     "verif": "calcul",
+     "q": "Une facture s'élève à 35 400 F TTC, TVA de 18 % comprise. Quel est le montant de la TVA qu'elle contient ?",
+     "o": [
+      "6 372 F",
+      "5 400 F",
+      "30 000 F",
+      "4 800 F"
+     ],
+     "a": 1,
+     "e": "Prix HT = 35 400 ÷ 1,18 = 30 000 F ; TVA = 35 400 − 30 000 = 5 400 F. La TVA se calcule sur le HT : 30 000 × 0,18 = 5 400 F.",
+     "ed": [
+      "6 372 F applique à tort les 18 % au prix TTC (35 400 × 0,18).",
+      null,
+      "30 000 F est le prix hors taxe, pas le montant de la TVA.",
+      "4 800 F ne correspond à aucun calcul correct."
+     ],
+     "calc": "35400-35400/1.18"
+    },
+    {
+     "id": "c20261108-lo04-06",
+     "m": "log",
+     "tag": "niv-lo04",
+     "verif": "calcul",
+     "q": "Un loyer augmente de 10 % trois années de suite. Quelle est la hausse totale, en pourcentage ?",
+     "o": [
+      "30 %",
+      "33,1 %",
+      "31 %",
+      "21 %"
+     ],
+     "a": 1,
+     "e": "Les coefficients se multiplient : 1,1 × 1,1 × 1,1 = 1,331, soit une hausse de 33,1 %. Chaque hausse s'applique au loyer déjà augmenté.",
+     "ed": [
+      "30 % additionne les taux, ce qui est faux pour des hausses successives.",
+      null,
+      "31 % ne correspond à aucun calcul : il faut multiplier les trois coefficients.",
+      "21 % est la hausse sur deux années seulement (1,1 × 1,1)."
+     ],
+     "calc": "(1.1*1.1*1.1-1)*100"
+    },
+    {
+     "id": "c20261108-lo04-07",
+     "m": "log",
+     "tag": "niv-lo04",
+     "verif": "calcul",
+     "q": "Un prix baisse de 40 %, puis augmente de 50 %. Quelle est la variation totale ?",
+     "o": [
+      "hausse de 10 %",
+      "aucune variation",
+      "baisse de 10 %",
+      "baisse de 20 %"
+     ],
+     "a": 2,
+     "e": "Coefficient global : 0,6 × 1,5 = 0,9, soit une baisse de 10 %. Exemple : 1 000 F → 600 F → 900 F.",
+     "ed": [
+      "« Hausse de 10 % » additionne −40 et +50 : on n'additionne jamais des taux successifs.",
+      "« Aucune variation » est faux : 0,6 × 1,5 = 0,9, et non 1.",
+      null,
+      "« Baisse de 20 % » ne correspond à aucun calcul : le coefficient global est 0,9."
+     ],
+     "calc": "(1-0.6*1.5)*100"
+    },
+    {
+     "id": "c20261108-lo04-08",
+     "m": "log",
+     "tag": "niv-lo04",
+     "verif": "calcul",
+     "q": "Le taux de chômage d'une ville passe de 20 % à 25 %. De combien de pour cent ce taux a-t-il augmenté ?",
+     "o": [
+      "5 %",
+      "45 %",
+      "20 %",
+      "25 %"
+     ],
+     "a": 3,
+     "e": "Le taux gagne 5 points de pourcentage, mais sa hausse relative est (25 − 20) ÷ 20 × 100 = 25 %. Il ne faut pas confondre points et pour cent.",
+     "ed": [
+      "5 est l'écart en points de pourcentage, pas le taux de variation du taux.",
+      "45 % additionne les deux taux, ce qui n'a aucun sens.",
+      "20 % est la valeur de départ du taux, pas sa variation.",
+      null
+     ],
+     "calc": "(25-20)/20*100"
     }
    ],
    "lessons": [
@@ -12034,6 +12602,94 @@
       {
        "t": "OQLF, Vitrine linguistique – Présentation du bordereau de transmission",
        "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/25128/la-redaction-et-la-communication/redaction-administrative-et-commerciale/formulaires-administratifs-et-commerciaux/presentation-du-bordereau-de-transmission"
+      }
+     ]
+    },
+    {
+     "id": "L20261028lo05",
+     "rev": 2,
+     "niv": "lo05",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Proportionnalité, règle de trois, échelles",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez reconnaître deux grandeurs proportionnelles ou inversement proportionnelles, résoudre un problème par la règle de trois et utiliser une échelle de carte ou de plan.",
+      "= Vous saurez aussi repérer les situations qui ne sont PAS proportionnelles, source des pièges les plus fréquents.",
+      "## Ce que demande le concours",
+      "Les tests d'aptitude numérique proposent des problèmes courts : prix d'une quantité, consommation d'un véhicule, nombre d'ouvriers et durée d'un chantier, distance sur une carte. Avec un barème qui retire des points en cas d'erreur, il faut une méthode sûre et une vérification rapide.",
+      "! Piège habituel : appliquer la règle de trois « directe » à des grandeurs inversement proportionnelles (plus d'ouvriers, donc MOINS de jours), ou à une situation qui comporte une partie fixe (un forfait).",
+      "## La méthode, pas à pas",
+      "- 1. Posez la question : si l'une des grandeurs double, l'autre double-t-elle (proportionnelle), est-elle divisée par deux (inversement proportionnelle), ou ni l'un ni l'autre ?",
+      "- 2. Proportionnelle : passez par l'unité (valeur pour 1), puis multipliez ; ou faites le produit en croix.",
+      "- 3. Inversement proportionnelle : le produit des deux grandeurs reste constant ; calculez ce produit, puis divisez.",
+      "- 4. Échelle : convertissez les deux longueurs dans la même unité avant de comparer.",
+      "- 5. Vérifiez le sens : le résultat doit augmenter ou diminuer comme le prévoit l'étape 1.",
+      "~ Exemple : 3 cahiers coûtent 1 200 F. Combien coûtent 7 cahiers ? Un cahier coûte 1 200 / 3 = 400 F ; 7 cahiers coûtent 7 × 400 = 2 800 F. Vérification : plus de cahiers, prix plus élevé, le sens est bon.",
+      "> Le jour du concours, choisissez la procédure qui donne les calculs les plus simples : passage par l'unité, linéarité (additionner ou multiplier des lignes connues) ou produit en croix. Les trois mènent au même résultat."
+     ],
+     "fond": [
+      "## Notion 1 : reconnaître deux grandeurs proportionnelles",
+      "Une grandeur est ce que l'on peut mesurer ou compter : un prix, une masse, une durée, une distance. Deux grandeurs sont proportionnelles quand on passe de l'une à l'autre en multipliant toujours par le même nombre, appelé coefficient de proportionnalité. Dans un tableau, tous les quotients « deuxième ligne / première ligne » sont égaux.",
+      "Pourquoi ? Chaque unité de la première grandeur « apporte » toujours la même quantité de la seconde : chaque kilo de riz coûte le même prix, chaque litre d'essence fait parcourir la même distance.",
+      "~ Exemple résolu : quantités 4, 6, 10 ; prix 10, 15, 25. Quotients : 10 / 4 = 2,5 ; 15 / 6 = 2,5 ; 25 / 10 = 2,5. Le tableau est proportionnel, de coefficient 2,5.",
+      "! « Les deux grandeurs augmentent ensemble » ne suffit pas. L'âge et la taille d'un enfant augmentent ensemble, mais un enfant de 10 ans ne mesure pas deux fois la taille qu'il avait à 5 ans. Testez toujours avec au moins trois couples de valeurs.",
+      "? Le tableau « 2 → 7 ; 5 → 17,5 ; 8 → 26 » est-il proportionnel ? || Quotients : 7 / 2 = 3,5 ; 17,5 / 5 = 3,5 ; 26 / 8 = 3,25. Le dernier quotient diffère : le tableau n'est pas proportionnel (il faudrait 8 × 3,5 = 28).",
+      "## Notion 2 : les propriétés de linéarité",
+      "Règle : dans une situation proportionnelle, on peut additionner deux colonnes connues, ou multiplier une colonne par un même nombre, sans passer par l'unité. C'est souvent le calcul mental le plus rapide.",
+      "Pourquoi ? Si chaque unité coûte le même prix, le prix de 4 sacs plus le prix de 3 sacs donne forcément le prix de 7 sacs ; et trois fois plus de litres coûtent trois fois plus cher.",
+      "~ Exemple résolu : 4 sacs de ciment coûtent 22 000 F et 3 sacs coûtent 16 500 F. Prix de 7 sacs (4 + 3) : 22 000 + 16 500 = 38 500 F. Vérification par l'unité : 22 000 / 4 = 5 500 F le sac, et 7 × 5 500 = 38 500 F.",
+      "~ Exemple résolu : 12 litres d'huile coûtent 18 000 F. 36 litres, c'est 3 fois 12 litres : 3 × 18 000 = 54 000 F.",
+      "? 15 cartons identiques pèsent 270 kg. Combien pèsent 20 cartons ? Utilisez la linéarité. || 5 cartons, c'est le tiers de 15 : 270 / 3 = 90 kg. 20 cartons = 15 + 5 cartons : 270 + 90 = 360 kg. Contrôle : un carton pèse 270 / 15 = 18 kg, et 20 × 18 = 360 kg.",
+      "## Notion 3 : la règle de trois",
+      "Règle : pour trouver une quatrième valeur, on passe par l'unité : on divise pour obtenir la valeur pour 1, puis on multiplie par la quantité demandée. Le produit en croix donne le même résultat : si a correspond à b, alors c correspond à b × c / a.",
+      "Pourquoi ? Passer par l'unité rend le raisonnement visible et limite les erreurs ; le produit en croix est plus rapide une fois la situation reconnue comme proportionnelle. Ne l'utilisez jamais sans avoir d'abord vérifié la proportionnalité.",
+      "~ Exemple résolu : un véhicule consomme 7 litres pour 100 km. Pour 340 km : 7 / 100 = 0,07 litre par kilomètre ; 0,07 × 340 = 23,8 litres. Produit en croix : 7 × 340 / 100 = 23,8 litres.",
+      "> Astuce de calcul mental : choisissez l'ordre des opérations qui donne des nombres simples. Pour 5 kg à 3 250 F et 8 kg cherchés : 3 250 / 5 = 650, puis 650 × 8 = 5 200 F.",
+      "? Une recette prévoit 600 g de farine pour 4 personnes. Quelle quantité pour 10 personnes ? || Pour 1 personne : 600 / 4 = 150 g. Pour 10 personnes : 150 × 10 = 1 500 g, soit 1,5 kg. Le nombre de personnes augmente, la quantité aussi : le sens est bon.",
+      "## Notion 4 : les grandeurs inversement proportionnelles",
+      "Règle : deux grandeurs sont inversement proportionnelles quand leur produit reste constant : si l'une est multipliée par 2, l'autre est divisée par 2. C'est le cas du nombre d'ouvriers et de la durée d'un même chantier, ou de la vitesse et de la durée d'un même trajet.",
+      "Pourquoi ? Le « travail total » ou la distance ne change pas : plus on est nombreux ou rapide, moins il faut de temps.",
+      "~ Exemple résolu : 6 ouvriers construisent un mur en 15 jours. Travail total : 6 × 15 = 90 journées de travail. Avec 9 ouvriers : 90 / 9 = 10 jours. Vérification : plus d'ouvriers, moins de jours.",
+      "! L'erreur classique consiste à écrire 15 × 9 / 6 = 22,5 jours : c'est une règle de trois directe appliquée à une situation inverse.",
+      "? Une réserve de riz nourrit 120 élèves d'un internat pendant 30 jours. Combien de jours nourrira-t-elle 150 élèves, avec la même ration ? || La réserve totale vaut 120 × 30 = 3 600 rations journalières. Pour 150 élèves : 3 600 / 150 = 24 jours. Plus d'élèves, moins de jours : le sens est bon.",
+      "## Notion 5 : la règle de trois composée",
+      "Règle : quand trois grandeurs ou plus interviennent (machines, heures, pièces ; agents, jours, dossiers), on ramène tout à une seule unité de chaque grandeur, puis on reconstruit la situation demandée.",
+      "? Cinq machines produisent 400 pièces en 4 heures. Combien de pièces produisent 8 machines en 6 heures ? || Une machine produit en une heure 400 / (5 × 4) = 20 pièces. 8 machines pendant 6 heures : 20 × 8 × 6 = 960 pièces. Dans une règle de trois composée, on ramène tout à « une machine, une heure ».",
+      "? 8 agents saisissent 2 400 fiches en 5 jours. Combien de jours faut-il à 10 agents pour saisir 4 500 fiches ? || Un agent saisit par jour 2 400 / (8 × 5) = 60 fiches. 10 agents saisissent 600 fiches par jour. Pour 4 500 fiches : 4 500 / 600 = 7,5 jours. Plus de fiches allonge la durée, plus d'agents la réduit : on vérifie chaque sens séparément.",
+      "## Notion 6 : les échelles",
+      "Règle : l'échelle d'une carte ou d'un plan est le rapport entre une distance sur le document et la distance réelle correspondante, exprimées dans la même unité. Une échelle de 1/50 000 signifie que 1 cm sur la carte représente 50 000 cm, soit 500 m, dans la réalité.",
+      "Pourquoi ? Une carte est une reproduction proportionnelle du terrain : toutes les distances sont divisées par le même nombre.",
+      "~ Exemple résolu : sur une carte au 1/50 000, deux villages sont à 4 cm. Distance réelle : 4 × 50 000 = 200 000 cm. Comme 1 km = 100 000 cm, la distance vaut 2 km.",
+      "~ Exemple résolu dans l'autre sens : deux localités sont distantes de 3,6 km. Sur une carte au 1/20 000 : 3,6 km = 360 000 cm, et 360 000 / 20 000 = 18 cm. Du réel vers la carte, on divise ; de la carte vers le réel, on multiplie.",
+      "? Sur un plan au 1/250, quelle longueur représente une salle de réunion de 12 m ? || 12 m = 1 200 cm. 1 200 / 250 = 4,8 cm. On convertit d'abord en centimètres, puis on divise par 250.",
+      "## Notion 7 : les situations non proportionnelles",
+      "Règle : une situation avec une partie fixe n'est pas proportionnelle. Un taxi qui facture une prise en charge de 500 F plus 200 F par kilomètre demande 1 500 F pour 5 km, mais 2 500 F pour 10 km, et non 3 000 F.",
+      "Pourquoi ? La partie fixe ne se double pas quand la distance double. Il faut écrire le calcul complet : partie fixe + prix unitaire × quantité. Sur un graphique, deux grandeurs proportionnelles donnent une droite qui passe par l'origine ; une partie fixe donne une droite qui coupe l'axe ailleurs qu'en zéro.",
+      "~ Exemple résolu : un réparateur facture 3 000 F pour 1 heure et 5 000 F pour 2 heures. Le prix ne double pas : chaque heure supplémentaire coûte 2 000 F, et il reste une partie fixe de 3 000 − 2 000 = 1 000 F. Pour 4 heures : 1 000 + 4 × 2 000 = 9 000 F, et non 4 × 3 000 = 12 000 F."
+     ],
+     "retenir": [
+      "Deux grandeurs sont proportionnelles si l'on passe de l'une à l'autre en multipliant toujours par le même coefficient.",
+      "Règle de trois : si a correspond à b, alors c correspond à b × c / a.",
+      "En situation proportionnelle, on peut additionner deux colonnes connues ou multiplier une colonne par un même nombre.",
+      "Deux grandeurs sont inversement proportionnelles si leur produit reste constant, comme ouvriers × jours.",
+      "Avant tout calcul, demandez-vous si la seconde grandeur augmente ou diminue quand la première augmente.",
+      "Une échelle de 1/50 000 signifie que 1 cm sur la carte représente 500 m ; 1 km vaut 100 000 cm.",
+      "Une situation avec une partie fixe, comme un forfait, n'est pas proportionnelle.",
+      "Le graphique de deux grandeurs proportionnelles est une droite qui passe par l'origine."
+     ],
+     "exo": {
+      "tag": "niv-lo05",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Académie de Nancy-Metz, Notions mathématiques et didactiques pour l'enseignant : la proportionnalité",
+       "u": "https://sites.ac-nancy-metz.fr/ia57sciences/IMG/pdf/Connaissances_pour_l_enseignant_proportionnalite_.pdf"
+      },
+      {
+       "t": "Circonscription d'Andolsheim (académie de Strasbourg), Enseigner la proportionnalité au cycle 3",
+       "u": "https://circ-ien-andolsheim.site.ac-strasbourg.fr/IMG/pdf/enseigner_la_proportionnalite_au_cycle_3_cle03a2f4.pdf"
       }
      ]
     }
