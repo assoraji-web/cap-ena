@@ -10248,6 +10248,1810 @@
     }
    ],
    "sujets": []
+  },
+  {
+   "date": "2026-11-08",
+   "questions": [
+    {
+     "id": "n20261108-ns05-01",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Selon la méthode de la note chronométrée, que faut-il écrire en haut du brouillon dès la première minute ?",
+     "o": [
+      "Le titre de la note",
+      "La liste des documents à éliminer",
+      "Les heures butoirs réelles de chaque étape",
+      "La conclusion de la note"
+     ],
+     "a": 2,
+     "e": "On écrit d'emblée les heures d'horloge auxquelles chaque étape doit être terminée : elles permettent de repérer tout retard au moment où il se produit.",
+     "ed": [
+      "Le titre se décide après la lecture du dossier, pas à la première minute.",
+      "On n'élimine aucun document : tous doivent être exploités dans la note.",
+      null,
+      "La conclusion ne peut pas s'écrire avant d'avoir lu le dossier."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-02",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Que doit-on rédiger au brouillon pendant une note de synthèse chronométrée ?",
+     "o": [
+      "Le plan détaillé et l'introduction",
+      "Uniquement la conclusion",
+      "Toute la note, puis la recopier",
+      "Rien : tout s'écrit directement au propre"
+     ],
+     "a": 0,
+     "e": "Les guides de préparation recommandent d'établir le plan détaillé et de rédiger entièrement l'introduction au brouillon, puis d'écrire la copie directement au propre.",
+     "ed": [
+      null,
+      "La conclusion n'est pas la partie à préparer au brouillon ; plusieurs guides la jugent même inutile.",
+      "Recopier une note entière coûte environ une heure, qui manque ensuite pour la rédaction.",
+      "Sans plan détaillé écrit, la rédaction hésite et la note se déséquilibre."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-03",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Pourquoi une copie de note de synthèse inachevée est-elle lourdement sanctionnée ?",
+     "o": [
+      "Parce qu'elle oublie l'introduction",
+      "Parce qu'elle dépasse la limite de pages",
+      "Parce qu'elle contient forcément des fautes",
+      "Parce qu'elle ne peut pas servir à l'autorité qui doit décider"
+     ],
+     "a": 3,
+     "e": "La note doit pouvoir être utilisée par un décideur : une note qui s'arrête en cours de développement ne l'informe pas complètement, d'où la pénalité relevée par les guides.",
+     "ed": [
+      "Une copie peut avoir une introduction et rester inachevée : c'est la fin qui manque.",
+      "Une copie inachevée est au contraire souvent trop courte, pas trop longue.",
+      "Une copie inachevée peut être correctement écrite ; la sanction vient de son caractère incomplet.",
+      null
+     ]
+    },
+    {
+     "id": "n20261108-ns05-04",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Comment calcule-t-on le budget de lecture par page d'un dossier ?",
+     "o": [
+      "Nombre de pages multiplié par le temps de rédaction",
+      "Temps de lecture divisé par le nombre de pages",
+      "Temps total de l'épreuve divisé par le nombre de documents",
+      "Nombre de documents divisé par le temps de lecture"
+     ],
+     "a": 1,
+     "e": "On divise le temps réservé à la lecture par le nombre de pages : on obtient un nombre de minutes par page, applicable quelle que soit la longueur de chaque document.",
+     "ed": [
+      "Ce produit ne donne aucun budget de temps utile.",
+      null,
+      "Le temps total inclut la rédaction et la relecture, et les documents n'ont pas la même longueur.",
+      "Ce rapport donne des documents par minute, une mesure inutilisable."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-05",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Au plus tard à quel moment la rédaction au propre doit-elle commencer, selon la règle de sécurité ?",
+     "o": [
+      "À la fin de la première heure",
+      "À la fin de la troisième heure",
+      "Trente minutes avant la fin",
+      "Quand tous les documents sont parfaitement compris"
+     ],
+     "a": 1,
+     "e": "Passé la troisième heure, toute préparation s'arrête : il reste alors au moins deux heures pour rédiger quatre pages, ce qui est le minimum raisonnable.",
+     "ed": [
+      "À la fin de la première heure, le dossier n'est pas encore dépouillé : le plan serait improvisé.",
+      null,
+      "Trente minutes ne suffisent pas pour rédiger quatre pages de note.",
+      "Attendre une compréhension parfaite est le piège qui fait déborder la lecture."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-06",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Quelle liste de contrôle convient à la relecture finale d'une note de synthèse ?",
+     "o": [
+      "Ajouter son avis personnel en conclusion",
+      "Recopier les passages les plus longs du dossier",
+      "Ajouter des informations personnelles récentes",
+      "Vérifier que chaque document est cité et que les chiffres sont conformes"
+     ],
+     "a": 3,
+     "e": "La relecture vérifie la complétude et l'exactitude : chaque document cité, chiffres conformes au dossier, limite de pages, titres informatifs et orthographe.",
+     "ed": [
+      "La note reste objective : aucun avis personnel, même en conclusion.",
+      "La note reformule ; les longues citations la rallongent sans la rendre plus claire.",
+      "La note ne s'appuie que sur le dossier : on n'ajoute pas de connaissances extérieures.",
+      null
+     ]
+    },
+    {
+     "id": "n20261108-ns05-07",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "calcul",
+     "q": "Une épreuve de 5 heures commence à 8 h 00. Combien de minutes la méthode réserve-t-elle au total à la lecture active et au plan (1 h 45 et 45 minutes) ?",
+     "o": [
+      "150 minutes",
+      "120 minutes",
+      "135 minutes",
+      "165 minutes"
+     ],
+     "a": 0,
+     "e": "1 h 45 vaut 105 minutes ; on ajoute les 45 minutes du plan : 105 + 45 = 150 minutes, soit 2 h 30 de préparation après le survol.",
+     "ed": [
+      null,
+      "120 minutes correspondent au temps de rédaction, pas à la lecture et au plan.",
+      "135 minutes oublieraient un quart d'heure : 105 + 45 font 150.",
+      "165 minutes ajouteraient à tort le survol et une partie de la relecture."
+     ],
+     "calc": "105+45"
+    },
+    {
+     "id": "n20261108-ns05-08",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "calcul",
+     "q": "Dossier de 14 pages, 105 minutes de lecture active. Quel est le budget de lecture par page ?",
+     "o": [
+      "5 minutes",
+      "10 minutes",
+      "7,5 minutes",
+      "6 minutes"
+     ],
+     "a": 2,
+     "e": "On divise le temps de lecture par le nombre de pages : 105 ÷ 14 = 7,5 minutes par page, soit 7 minutes et demie.",
+     "ed": [
+      "5 minutes par page ne couvriraient que 70 minutes pour 14 pages.",
+      "10 minutes par page exigeraient 140 minutes, plus que le temps prévu.",
+      null,
+      "6 minutes par page ne feraient que 84 minutes sur les 105 disponibles."
+     ],
+     "calc": "105/14"
+    },
+    {
+     "id": "n20261108-ns05-09",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Une épreuve commence à 14 h 00. Avec le découpage proposé, à quelle heure la rédaction au propre doit-elle commencer ?",
+     "o": [
+      "15 h 45",
+      "16 h 00",
+      "16 h 40",
+      "17 h 00"
+     ],
+     "a": 2,
+     "e": "Survol (10 min), lecture (1 h 45) et plan (45 min) font 2 h 40 : 14 h 00 + 2 h 40 = 16 h 40. Il reste alors 2 heures de rédaction et 20 minutes de relecture.",
+     "ed": [
+      "15 h 45 oublierait le temps du plan : il faut 2 h 40 de préparation.",
+      "16 h 00 retirerait 40 minutes à la préparation prévue.",
+      null,
+      "17 h 00 dépasserait la règle de sécurité : ce serait la fin de la troisième heure."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-10",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "calcul",
+     "q": "La rédaction dure 2 heures pour une note de 4 pages. Combien de minutes compte-t-on en moyenne par page ?",
+     "o": [
+      "30 minutes",
+      "40 minutes",
+      "20 minutes",
+      "45 minutes"
+     ],
+     "a": 0,
+     "e": "2 heures font 120 minutes ; 120 ÷ 4 = 30 minutes par page. Ce rythme sert à placer le point de contrôle de mi-parcours.",
+     "ed": [
+      null,
+      "40 minutes par page demanderaient 160 minutes pour 4 pages.",
+      "20 minutes par page ne couvriraient que 80 minutes de rédaction.",
+      "45 minutes par page demanderaient 3 heures de rédaction."
+     ],
+     "calc": "120/4"
+    },
+    {
+     "id": "n20261108-ns05-11",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Votre rédaction va de 10 h 40 à 12 h 40. À quelle heure doit se situer le point de contrôle de mi-parcours ?",
+     "o": [
+      "11 h 00",
+      "11 h 10",
+      "12 h 10",
+      "11 h 40"
+     ],
+     "a": 3,
+     "e": "La mi-parcours d'une rédaction de 2 heures tombe une heure après le début : 10 h 40 + 1 h = 11 h 40. L'introduction et la partie I doivent alors être écrites.",
+     "ed": [
+      "11 h 00 n'est qu'à 20 minutes du début de la rédaction.",
+      "11 h 10 n'est qu'à 30 minutes du début, soit le quart du temps de rédaction.",
+      "12 h 10 est aux trois quarts du temps : trop tard pour rattraper un retard.",
+      null
+     ]
+    },
+    {
+     "id": "n20261108-ns05-12",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "À 9 h 30, il vous reste 4 pages à lire et votre heure butoir de fin de dépouillement est 9 h 55. Que faites-vous ?",
+     "o": [
+      "Vous repoussez l'heure butoir de 30 minutes",
+      "Vous lisez ces pages de façon ciblée et remplissez directement le tableau",
+      "Vous abandonnez ces 4 pages",
+      "Vous commencez immédiatement la rédaction au propre"
+     ],
+     "a": 1,
+     "e": "Il reste 25 minutes pour 4 pages, un léger retard : on garde l'heure butoir et l'on cible la lecture (titres, premières phrases, chiffres utiles) en complétant le tableau.",
+     "ed": [
+      "Repousser l'heure butoir reporte le retard sur la rédaction, qui commencerait trop tard.",
+      null,
+      "Tout document doit être exploité : abandonner 4 pages ferait oublier des documents.",
+      "Rédiger sans avoir fini le dépouillement ni le plan produirait une note incomplète."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-13",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "calcul",
+     "q": "Un candidat consacre 40 minutes au premier document, un rapport de 3 pages, dans un dossier de 14 pages lu en 105 minutes. Quel est son dépassement par rapport au budget de 7,5 minutes par page ?",
+     "o": [
+      "10 minutes",
+      "17,5 minutes",
+      "22,5 minutes",
+      "7,5 minutes"
+     ],
+     "a": 1,
+     "e": "Le budget du rapport est 3 × 7,5 = 22,5 minutes ; il en a pris 40, soit 40 − 22,5 = 17,5 minutes de dépassement, à rattraper sur les documents suivants.",
+     "ed": [
+      "10 minutes sous-estiment le dépassement : le budget n'était que de 22,5 minutes.",
+      null,
+      "22,5 minutes correspondent au budget du rapport, pas au dépassement.",
+      "7,5 minutes correspondent au budget d'une seule page."
+     ],
+     "calc": "40-3*7.5"
+    },
+    {
+     "id": "n20261108-ns05-14",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Quelle ligne de plan détaillé permet le mieux de rédiger directement au propre ?",
+     "o": [
+      "« II.A Financement »",
+      "« II.A Voir les documents »",
+      "« II.A Idées diverses à développer »",
+      "« II.A Un entretien freiné par le financement (doc. 2, 5, 8) : budgets faibles, coût des engins »"
+     ],
+     "a": 3,
+     "e": "Une ligne utile donne le titre informatif, les idées à développer et les numéros des documents : chaque élément devient une phrase référencée au propre.",
+     "ed": [
+      "Un seul mot ne dit ni l'idée ni les documents à citer.",
+      "Sans idées ni numéros, cette ligne oblige à relire le dossier pendant la rédaction.",
+      "Une mention vague ne guide pas la rédaction et fait perdre du temps.",
+      null
+     ]
+    },
+    {
+     "id": "n20261108-ns05-15",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Pendant l'entraînement, quelle progression les guides de préparation conseillent-ils ?",
+     "o": [
+      "Faire d'abord des sujets sans limite, puis en durée réelle, d'une traite",
+      "Ne jamais s'entraîner en temps réel pour éviter le stress",
+      "Lire des corrigés sans jamais rédiger",
+      "S'entraîner uniquement sur l'introduction"
+     ],
+     "a": 0,
+     "e": "On commence par des sujets complets sans limite de temps pour fixer la méthode, puis on compose en durée réelle, sans interruption, pour se mettre en situation.",
+     "ed": [
+      null,
+      "Sans entraînement chronométré, on découvre le jour de l'épreuve que le temps manque.",
+      "Lire des corrigés ne développe ni la vitesse de lecture ni la rédaction au propre.",
+      "L'introduction ne représente qu'une petite partie du temps ; c'est l'ensemble qu'il faut tenir."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-16",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Il est 12 h 35, la relecture doit commencer à 12 h 40 et votre dernière sous-partie n'est pas écrite. Quelle décision est la meilleure ?",
+     "o": [
+      "Écrire une liste à tirets des idées restantes",
+      "Laisser la sous-partie vide et relire",
+      "Écrire deux ou trois phrases complètes avec leurs références, puis relire",
+      "Supprimer la relecture et rédiger longuement"
+     ],
+     "a": 2,
+     "e": "La note doit être finie et rédigée : quelques phrases complètes et référencées livrent l'idée principale, et la relecture reste possible.",
+     "ed": [
+      "Les guides demandent des phrases rédigées : tirets et énumérations sont proscrits.",
+      "Une sous-partie vide laisse une note inachevée, ce qui est pénalisé.",
+      null,
+      "Sans relecture, documents oubliés, chiffres faux et fautes restent dans la copie."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-17",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Votre rédaction finit à 12 h 40. À 11 h 50, votre partie I occupe déjà 2 pages et demie sur une note limitée à 4 pages. Quelle est la bonne réaction ?",
+     "o": [
+      "Supprimer la partie II",
+      "Ajouter une cinquième page",
+      "Condenser la partie II pour tenir dans la page et demie restante",
+      "Réécrire la partie I depuis le début"
+     ],
+     "a": 2,
+     "e": "Il reste 50 minutes et une page et demie : on condense la partie II en regroupant les idées voisines, sans dépasser la limite de pages ni réécrire ce qui est fait.",
+     "ed": [
+      "Sans partie II, la note est déséquilibrée et inachevée.",
+      "Dépasser la limite de pages autorisée est sanctionné.",
+      null,
+      "Réécrire la partie I consommerait le temps nécessaire à la partie II."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-18",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Lequel de ces comportements fait perdre le plus de temps pendant l'épreuve ?",
+     "o": [
+      "Rédiger toute la note au brouillon avant de la recopier",
+      "Noter les numéros de documents dans le plan",
+      "Écrire les heures butoirs sur le brouillon",
+      "Remplir le tableau de dépouillement pendant la lecture"
+     ],
+     "a": 0,
+     "e": "Recopier une note entière double le travail de rédaction : les guides recommandent de ne préparer au brouillon que le plan détaillé et l'introduction.",
+     "ed": [
+      null,
+      "Noter les numéros dans le plan fait gagner du temps : on n'a plus à les rechercher en rédigeant.",
+      "Écrire les heures butoirs prend une minute et permet de piloter toute l'épreuve.",
+      "Remplir le tableau en lisant évite une seconde lecture du dossier."
+     ]
+    },
+    {
+     "id": "n20261108-ns05-19",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "À la relecture, vous constatez que le document 6 n'est cité nulle part. Que faites-vous ?",
+     "o": [
+      "Rien : la relecture ne sert qu'à l'orthographe",
+      "Vous ajoutez un paragraphe d'une page sur ce document",
+      "Vous signalez en marge que le document était inutile",
+      "Vous retrouvez l'idée qu'il confirme et ajoutez sa référence à la phrase concernée"
+     ],
+     "a": 3,
+     "e": "Une correction rapide suffit : on rattache le document à l'idée qu'il soutient en ajoutant « (doc. 6) », ce qui évite l'impression d'un document oublié.",
+     "ed": [
+      "La relecture vérifie aussi que chaque document est cité, pas seulement l'orthographe.",
+      "Une page supplémentaire déséquilibrerait la note et risquerait de dépasser la limite.",
+      "Juger un document inutile dans la copie est une appréciation personnelle à proscrire.",
+      null
+     ]
+    },
+    {
+     "id": "n20261108-ns05-20",
+     "m": "ns",
+     "tag": "niv-ns05",
+     "verif": "methode",
+     "q": "Un candidat consacre 3 h 15 à lire et à bâtir son plan, puis rédige jusqu'à la fin. Quelle erreur principale commet-il ?",
+     "o": [
+      "Il a lu trop vite",
+      "Il a dépassé la règle de sécurité : la rédaction devait commencer à la fin de la troisième heure",
+      "Il aurait dû supprimer la relecture",
+      "Il aurait dû rédiger toute la note au brouillon"
+     ],
+     "a": 1,
+     "e": "Après 3 h 15 de préparation, il ne reste que 1 h 45 pour rédiger et relire : la règle de sécurité impose de commencer la rédaction au plus tard à la fin de la troisième heure.",
+     "ed": [
+      "3 h 15 de préparation montrent au contraire une lecture trop longue.",
+      null,
+      "Supprimer la relecture aggraverait le problème au lieu de le résoudre.",
+      "Rédiger au brouillon puis recopier lui ferait perdre encore plus de temps."
+     ]
+    },
+    {
+     "id": "n20261108-ec04-01",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Selon l'article 53 de la Constitution, de quels organes l'exécutif est-il composé ?",
+     "o": [
+      "Du Président de la République, du vice-Président et du Gouvernement",
+      "Du Président de la République et du Parlement",
+      "Du Premier Ministre et du Conseil constitutionnel",
+      "Du Gouvernement et du Conseil d'État"
+     ],
+     "a": 0,
+     "e": "L'article 53 dispose que l'exécutif est composé du Président de la République, du vice-Président de la République et du Gouvernement.",
+     "ed": [
+      null,
+      "Le Parlement exerce le pouvoir législatif, pas le pouvoir exécutif (article 85).",
+      "Le Conseil constitutionnel est une juridiction constitutionnelle (titre VIII), pas un organe exécutif.",
+      "Le Conseil d'État est une juridiction de l'ordre administratif, pas un organe de l'exécutif."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-02",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Quelle institution vote la loi et consent l'impôt selon l'article 93 ?",
+     "o": [
+      "Le Gouvernement",
+      "Le Conseil économique, social, environnemental et culturel",
+      "Le Conseil constitutionnel",
+      "Le Parlement"
+     ],
+     "a": 3,
+     "e": "L'article 93 dispose que le Parlement vote la loi et consent l'impôt ; il contrôle aussi l'action du Gouvernement et évalue les politiques publiques.",
+     "ed": [
+      "Le Gouvernement met en œuvre la politique de la Nation ; il ne vote pas la loi.",
+      "Le CESEC donne des avis sur les projets et propositions de loi ; il ne les vote pas.",
+      "Le Conseil constitutionnel contrôle la conformité de la loi ; il ne la vote pas.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-03",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Qui nomme le Premier Ministre, chef du Gouvernement ?",
+     "o": [
+      "L'Assemblée nationale",
+      "Le Président de la République",
+      "Le Président du Sénat",
+      "Le Conseil constitutionnel"
+     ],
+     "a": 1,
+     "e": "L'article 70 dispose que le Président de la République nomme le Premier Ministre, chef du Gouvernement, et qu'il met fin à ses fonctions.",
+     "ed": [
+      "L'Assemblée nationale ne nomme pas le Premier Ministre : la Constitution confie cette nomination au Président.",
+      null,
+      "Le Président du Sénat désigne un conseiller du Conseil constitutionnel, pas le Premier Ministre.",
+      "Le Conseil constitutionnel est un juge ; il ne nomme aucun membre du Gouvernement."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-04",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Quel rôle l'article 82 confie-t-il au Premier Ministre ?",
+     "o": [
+      "Voter le budget de l'État",
+      "Animer et coordonner l'action gouvernementale",
+      "Juger les ministres",
+      "Désigner un tiers des sénateurs"
+     ],
+     "a": 1,
+     "e": "L'article 82 dispose que le Premier Ministre anime et coordonne l'action gouvernementale ; la politique de la Nation est déterminée par le Président.",
+     "ed": [
+      "Le vote des lois, dont les lois financières, revient au Parlement (article 93).",
+      null,
+      "Le jugement des membres du Gouvernement relève de la Haute Cour de Justice (article 156).",
+      "C'est le Président de la République qui désigne un tiers des sénateurs (article 87)."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-05",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Comment les députés à l'Assemblée nationale sont-ils élus, d'après l'article 86 ?",
+     "o": [
+      "Au suffrage universel indirect pour sept ans",
+      "Au suffrage universel direct pour six ans",
+      "Par les conseils régionaux pour cinq ans",
+      "Au suffrage universel direct pour cinq ans"
+     ],
+     "a": 3,
+     "e": "L'article 86 dispose que les députés à l'Assemblée nationale sont élus au suffrage universel direct pour cinq ans.",
+     "ed": [
+      "Le suffrage indirect concerne deux tiers des sénateurs, et le mandat n'est pas de sept ans.",
+      "Le mandat des députés est de cinq ans, non de six.",
+      "Les députés sont élus directement par les citoyens, non par des conseils.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-06",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Quelle institution l'article 165 présente-t-il comme l'intercesseur gracieux entre l'Administration et les administrés ?",
+     "o": [
+      "Le Médiateur de la République",
+      "Le Conseil d'État",
+      "La Cour des Comptes",
+      "Le Conseil supérieur de la Magistrature"
+     ],
+     "a": 0,
+     "e": "Selon l'article 165, le Médiateur de la République, autorité administrative indépendante, est l'intercesseur gracieux entre l'Administration et les administrés.",
+     "ed": [
+      null,
+      "Le Conseil d'État juge l'administration : c'est une juridiction, non un intercesseur gracieux.",
+      "La Cour des Comptes contrôle les finances publiques (article 152).",
+      "Le CSM assiste le Président pour garantir l'indépendance de la justice (article 139)."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-07",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Le Président de la République, élu une première fois, est réélu à l'issue de son mandat. Peut-il se présenter une troisième fois selon l'article 55 ?",
+     "o": [
+      "Oui, sans limite",
+      "Oui, si le Parlement l'autorise",
+      "Non, car il n'est rééligible qu'une fois",
+      "Oui, après avis du Conseil constitutionnel"
+     ],
+     "a": 2,
+     "e": "L'article 55 dispose que le Président est élu pour cinq ans au suffrage universel direct et qu'il n'est rééligible qu'une fois : deux mandats au total.",
+     "ed": [
+      "L'article 55 limite la rééligibilité à une seule fois.",
+      "Le Parlement ne peut pas lever la limite fixée par la Constitution.",
+      null,
+      "Le Conseil constitutionnel vérifie l'éligibilité ; il ne peut pas écarter la limite de l'article 55."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-08",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Depuis la révision constitutionnelle de 2020, comment le vice-Président de la République est-il désigné ?",
+     "o": [
+      "Il est élu au suffrage universel direct avec le Président",
+      "Il est élu par le Sénat seul",
+      "Il est choisi par le Président de la République en accord avec le Parlement",
+      "Il est nommé par le Conseil constitutionnel"
+     ],
+     "a": 2,
+     "e": "L'article 55 révisé dispose que le Président de la République choisit un vice-Président en accord avec le Parlement. L'élection simultanée prévue en 2016 a été supprimée.",
+     "ed": [
+      "L'élection en même temps que le Président était la règle du texte de 2016, modifiée en 2020.",
+      "Le Sénat seul ne désigne pas le vice-Président ; l'accord requis est celui du Parlement.",
+      null,
+      "Le Conseil constitutionnel est un juge ; la Constitution ne lui confie pas le choix du vice-Président."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-09",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "La présidence de la République devient vacante. Selon l'article 62 révisé, qui devient Président de la République ?",
+     "o": [
+      "Le vice-Président de la République",
+      "Le Premier Ministre",
+      "Le Président de l'Assemblée nationale",
+      "Le Président du Conseil constitutionnel"
+     ],
+     "a": 0,
+     "e": "L'article 62 révisé en 2020 dispose qu'en cas de vacance de la présidence, le vice-Président de la République devient Président de la République.",
+     "ed": [
+      null,
+      "Le Premier Ministre dirige le Gouvernement ; il ne succède pas au Président.",
+      "Le Président de l'Assemblée nationale ne succède pas au Président selon l'article 62.",
+      "Le Président du Conseil constitutionnel ne succède pas au Président de la République."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-10",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Un ministre conduit mal un programme. Devant qui est-il responsable d'après l'article 83 ?",
+     "o": [
+      "Devant l'Assemblée nationale seule",
+      "Devant le Médiateur de la République",
+      "Devant le Conseil constitutionnel",
+      "Devant le Président de la République"
+     ],
+     "a": 3,
+     "e": "L'article 83 dispose que le Premier Ministre et les ministres sont solidairement responsables devant le Président de la République.",
+     "ed": [
+      "Le Parlement contrôle l'action du Gouvernement, mais l'article 83 rend les ministres responsables devant le Président.",
+      "Le Médiateur règle les différends entre l'administration et les usagers ; les ministres ne répondent pas devant lui.",
+      "Le Conseil constitutionnel juge la constitutionnalité des lois et les élections, pas la gestion des ministres.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-11",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Deux villages voisins s'opposent sur l'usage d'un bas-fond et souhaitent une solution amiable, sans procès. Quelle institution la Constitution charge-t-elle de ce type de règlement ?",
+     "o": [
+      "Le tribunal de Première instance",
+      "La Chambre nationale des Rois et Chefs traditionnels",
+      "La Cour des Comptes",
+      "Le Sénat"
+     ],
+     "a": 1,
+     "e": "L'article 175 charge notamment la Chambre nationale des Rois et Chefs traditionnels du règlement non juridictionnel des conflits dans les villages et entre les communautés.",
+     "ed": [
+      "Le tribunal tranche par un jugement : ce n'est pas un règlement amiable non juridictionnel.",
+      null,
+      "La Cour des Comptes contrôle les finances publiques ; elle ne règle pas les conflits entre villages.",
+      "Le Sénat participe au vote de la loi ; il ne règle pas les conflits locaux."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-12",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Le Gouvernement veut l'avis des forces économiques et sociales sur un projet de décret. Quelle institution peut-il saisir ?",
+     "o": [
+      "La Haute Cour de Justice",
+      "Le Conseil économique, social, environnemental et culturel",
+      "Le Conseil supérieur de la Magistrature",
+      "La Cour de Cassation"
+     ],
+     "a": 1,
+     "e": "L'article 163 prévoit que le Conseil économique, social, environnemental et culturel donne son avis sur les projets de loi, d'ordonnances ou de décrets qui lui sont soumis.",
+     "ed": [
+      "La Haute Cour de Justice est une juridiction d'exception qui juge le Président, le vice-Président et les membres du Gouvernement.",
+      null,
+      "Le CSM traite de l'indépendance et de la déontologie des magistrats.",
+      "La Cour de Cassation est la plus haute juridiction de l'ordre judiciaire ; elle ne donne pas d'avis sur les décrets."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-13",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Combien de conseillers le Président de la République désigne-t-il parmi les six conseillers du Conseil constitutionnel (article 128) ?",
+     "o": [
+      "Deux",
+      "Six",
+      "Un",
+      "Trois"
+     ],
+     "a": 3,
+     "e": "L'article 128 prévoit six conseillers : trois désignés par le Président de la République, deux par le Président de l'Assemblée nationale et un par le Président du Sénat.",
+     "ed": [
+      "Deux conseillers sont désignés par le Président de l'Assemblée nationale, pas par le Président de la République.",
+      "Le Président de la République ne désigne pas les six conseillers : les présidents des chambres en désignent aussi.",
+      "Un conseiller est désigné par le Président du Sénat.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-14",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Selon l'article 143 révisé, laquelle de ces juridictions rend la justice au nom du peuple ivoirien ?",
+     "o": [
+      "La Chambre régionale des Comptes",
+      "Le Médiateur de la République",
+      "Le Conseil économique, social, environnemental et culturel",
+      "La Chambre nationale des Rois et Chefs traditionnels"
+     ],
+     "a": 0,
+     "e": "L'article 143 cite, parmi les juridictions qui rendent la justice au nom du peuple ivoirien, les tribunaux administratifs et les Chambres régionales des Comptes.",
+     "ed": [
+      null,
+      "Le Médiateur concilie l'Administration et les administrés ; il n'est pas une juridiction.",
+      "Le CESEC est une institution consultative : il donne des avis, il ne juge pas.",
+      "La Chambre nationale des Rois règle les conflits de façon non juridictionnelle."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-15",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Laquelle de ces affirmations sur le Conseil constitutionnel est FAUSSE ?",
+     "o": [
+      "Il est une juridiction indépendante et impartiale",
+      "Il juge la conformité de la loi au bloc de constitutionnalité",
+      "Il est la plus haute juridiction de l'ordre judiciaire",
+      "Il contrôle l'élection présidentielle et les élections parlementaires"
+     ],
+     "a": 2,
+     "e": "La plus haute juridiction de l'ordre judiciaire est la Cour de Cassation (article 148). Le Conseil constitutionnel est une juridiction constitutionnelle distincte (article 126, titre VIII).",
+     "ed": [
+      "Vrai : l'article 126 le dit indépendant et impartial.",
+      "Vrai : l'article 126 en fait le juge de la conformité de la loi au bloc de constitutionnalité.",
+      null,
+      "Vrai : l'article 126 lui confie le contrôle de l'élection présidentielle et des élections parlementaires."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-16",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Un candidat affirme : « Le Président de la République préside le Conseil supérieur de la Magistrature. » Que lui répondre ?",
+     "o": [
+      "Il a raison, d'après l'article 139",
+      "Il a tort : le CSM est présidé par le Premier Ministre",
+      "Il a tort : le CSM est présidé par une personnalité nommée par le Président parmi les hauts magistrats",
+      "Il a tort : le CSM est présidé par le Président du Sénat"
+     ],
+     "a": 2,
+     "e": "L'article 139 fait du Président le garant de l'indépendance de la justice, assisté par le CSM ; l'article 145 confie la présidence du CSM à une personnalité qu'il nomme parmi les Hauts magistrats en fonction ou à la retraite.",
+     "ed": [
+      "L'article 139 dit que le Président est assisté par le CSM, non qu'il le préside : l'article 145 règle la présidence.",
+      "Le Premier Ministre n'a aucun rôle dans la présidence du CSM.",
+      null,
+      "Le Président du Sénat ne préside pas le CSM."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-17",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Quelle condition d'âge l'article 78 révisé impose-t-il au vice-Président de la République ?",
+     "o": [
+      "Trente-cinq ans au moins",
+      "Quarante ans au moins",
+      "Vingt-cinq ans au moins",
+      "Aucune condition d'âge"
+     ],
+     "a": 0,
+     "e": "L'article 78 révisé dispose que le vice-Président doit jouir de ses droits civils et politiques et être âgé de trente-cinq ans au moins.",
+     "ed": [
+      null,
+      "Quarante ans n'est pas l'âge fixé par l'article 78 pour le vice-Président.",
+      "Vingt-cinq ans est inférieur au minimum fixé par l'article 78.",
+      "L'article 78 fixe bien une condition d'âge."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-18",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Pour quelle durée le Médiateur de la République est-il nommé, et son mandat est-il renouvelable ?",
+     "o": [
+      "Cinq ans, renouvelable une fois",
+      "Quatre ans, non renouvelable",
+      "Sept ans, renouvelable",
+      "Six ans, non renouvelable"
+     ],
+     "a": 3,
+     "e": "L'article 166 dispose que le Médiateur est nommé par le Président pour un mandat de six ans non renouvelable, après avis des Présidents de l'Assemblée nationale et du Sénat.",
+     "ed": [
+      "Cinq ans renouvelable une fois est la règle des présidents de la Cour de Cassation et du Conseil d'État, pas du Médiateur.",
+      "Le mandat est de six ans, non de quatre.",
+      "Le mandat du Médiateur n'est ni de sept ans ni renouvelable.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-19",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Dans une copie, on lit : « Le Conseil d'État et le Conseil constitutionnel sont la même institution. » Pourquoi est-ce faux ?",
+     "o": [
+      "Parce que le Conseil d'État vote les lois",
+      "Parce que le Conseil d'État est la plus haute juridiction de l'ordre administratif, alors que le Conseil constitutionnel juge la conformité des lois à la Constitution",
+      "Parce que le Conseil constitutionnel juge les litiges entre particuliers",
+      "Parce que le Conseil d'État est une institution consultative sans rôle juridictionnel"
+     ],
+     "a": 1,
+     "e": "Le Conseil d'État est la plus haute juridiction de l'ordre administratif (article 149), relevant du pouvoir judiciaire ; le Conseil constitutionnel, au titre VIII, juge la conformité de la loi au bloc de constitutionnalité (article 126).",
+     "ed": [
+      "Le vote des lois appartient au Parlement, pas au Conseil d'État.",
+      null,
+      "Les litiges entre particuliers relèvent de l'ordre judiciaire, couronné par la Cour de Cassation.",
+      "Le Conseil d'État exerce une fonction consultative en plus, mais il est d'abord une juridiction (article 149)."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-ec04-20",
+     "m": "ecm",
+     "tag": "niv-ec04",
+     "q": "Laquelle de ces propositions sur le Sénat est exacte selon l'article 87 ?",
+     "o": [
+      "Tous les sénateurs sont nommés par le Président de la République",
+      "Deux tiers des sénateurs sont élus au suffrage universel indirect et un tiers est désigné par le Président",
+      "Les sénateurs sont élus au suffrage universel direct pour sept ans",
+      "Les sénateurs sont désignés par les rois et chefs traditionnels"
+     ],
+     "a": 1,
+     "e": "L'article 87 dispose que les sénateurs sont élus pour deux tiers au suffrage universel indirect, qu'un tiers est désigné par le Président parmi les Ivoiriens reconnus pour leur expertise, et que leur mandat est de cinq ans.",
+     "ed": [
+      "Le Président ne désigne qu'un tiers des sénateurs ; les deux autres tiers sont élus.",
+      null,
+      "Le suffrage est indirect pour les sénateurs élus, et le mandat est de cinq ans.",
+      "La chefferie traditionnelle a sa propre Chambre ; elle ne désigne pas les sénateurs."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+     }
+    },
+    {
+     "id": "n20261108-rd07-01",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Dans quel cas utilise-t-on un bordereau d'envoi plutôt qu'une lettre d'accompagnement ?",
+     "o": [
+      "Quand on doit expliquer un retard",
+      "Quand on doit justifier un refus",
+      "Quand on écrit à un usager pour l'informer d'une décision",
+      "Quand la transmission des pièces n'appelle aucun commentaire"
+     ],
+     "a": 3,
+     "e": "Le bordereau sert à acheminer des pièces d'un service à un autre chaque fois que cette transmission n'implique pas de commentaires qui justifieraient une lettre d'accompagnement.",
+     "ed": [
+      "Expliquer un retard est un commentaire : il faut une lettre.",
+      "Justifier un refus exige une argumentation : c'est le rôle d'une lettre.",
+      "Informer un usager d'une décision se fait par lettre, pas par un tableau de pièces.",
+      null
+     ],
+     "src": {
+      "t": "Université d'Annaba (Faculté SEG) – Différents types et formes de lettres administratives : le bordereau d'envoi",
+      "u": "https://elearning-facsceg.univ-annaba.dz/mod/resource/view.php?id=21274"
+     }
+    },
+    {
+     "id": "n20261108-rd07-02",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Quelles sont les trois colonnes du bordereau d'envoi ?",
+     "o": [
+      "Date, objet, signature",
+      "Désignation des pièces, nombre de pièces, observations",
+      "Expéditeur, destinataire, référence",
+      "Visas, considérants, articles"
+     ],
+     "a": 1,
+     "e": "Le corps du bordereau est un cadre de trois colonnes : la désignation des pièces à gauche, leur nombre au milieu et les observations à droite.",
+     "ed": [
+      "La date et l'objet figurent dans l'en-tête ; la signature est en bas, pas en colonnes.",
+      null,
+      "Expéditeur et destinataire apparaissent dans l'en-tête, non dans le tableau.",
+      "Visas, considérants et articles sont les parties d'un arrêté ou d'une décision."
+     ],
+     "src": {
+      "t": "Université de Biskra – Polycopié de rédaction administrative (le bordereau d'envoi)",
+      "u": "https://elearning.univ-biskra.dz/moodle/mod/resource/view.php?id=84946"
+     }
+    },
+    {
+     "id": "n20261108-rd07-03",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Où se placent la signature et le cachet du service sur un bordereau d'envoi ?",
+     "o": [
+      "En haut à gauche, sous le timbre",
+      "Au bas de la colonne des observations",
+      "Au milieu de la colonne du nombre de pièces",
+      "Au verso de la dernière pièce transmise"
+     ],
+     "a": 1,
+     "e": "Le bordereau est signé et revêtu du cachet du service au bas de la colonne des observations, là où se lit l'instruction donnée au destinataire.",
+     "ed": [
+      "Le haut à gauche est réservé au timbre du service.",
+      null,
+      "La colonne du milieu ne contient que le nombre de chaque pièce.",
+      "On ne signe pas les pièces transmises à la place du bordereau."
+     ],
+     "src": {
+      "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+      "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+     }
+    },
+    {
+     "id": "n20261108-rd07-04",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Que signifie la mention « Pour information » portée sur un bordereau ?",
+     "o": [
+      "Le destinataire doit prendre une décision",
+      "Le destinataire doit renvoyer la pièce après lecture",
+      "Le destinataire doit signer la pièce",
+      "La pièce est envoyée à titre indicatif ; le destinataire n'a pas à intervenir"
+     ],
+     "a": 3,
+     "e": "Avec « Pour information », la pièce est envoyée à titre indicatif : le destinataire n'a pas à intervenir et peut conserver les pièces.",
+     "ed": [
+      "Prendre une décision correspond à « Pour attribution ».",
+      "Le renvoi après lecture correspond à « En communication ».",
+      "La signature est demandée par la mention « Pour signature ».",
+      null
+     ],
+     "src": {
+      "t": "Université de Biskra – Polycopié de rédaction administrative (le bordereau d'envoi)",
+      "u": "https://elearning.univ-biskra.dz/moodle/mod/resource/view.php?id=84946"
+     }
+    },
+    {
+     "id": "n20261108-rd07-05",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Que demande la mention « Pour avis » ?",
+     "o": [
+      "Que le destinataire donne un avis motivé",
+      "Que le destinataire conserve la pièce sans rien faire",
+      "Que le destinataire exécute et rende compte",
+      "Que le destinataire classe le dossier"
+     ],
+     "a": 0,
+     "e": "« Pour avis » demande au destinataire de donner un avis motivé sur l'affaire qui lui est soumise ; la décision reste à l'expéditeur.",
+     "ed": [
+      null,
+      "Conserver la pièce sans intervenir correspond à « Pour information ».",
+      "Exécuter et rendre compte correspond à « Pour exécution ».",
+      "Classer n'est pas donner un avis : la mention attend une appréciation motivée."
+     ],
+     "src": {
+      "t": "Université de Biskra – Polycopié de rédaction administrative (le bordereau d'envoi)",
+      "u": "https://elearning.univ-biskra.dz/moodle/mod/resource/view.php?id=84946"
+     }
+    },
+    {
+     "id": "n20261108-rd07-06",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Pour quelles transmissions le bordereau prend-il le titre de « SOIT TRANSMIS » ?",
+     "o": [
+      "Pour les envois à un usager",
+      "Pour les envois à une organisation internationale",
+      "Pour les transmissions au sein d'une même administration",
+      "Pour les envois entre deux États"
+     ],
+     "a": 2,
+     "e": "Le bordereau prend le titre de « SOIT TRANSMIS » pour les transmissions au sein d'une même administration, habituellement de supérieur à subordonné, avec des instructions sur le traitement des pièces.",
+     "ed": [
+      "Un usager reçoit une lettre, pas un soit-transmis.",
+      "Un envoi à une organisation internationale sort de l'administration : le soit-transmis ne convient pas.",
+      null,
+      "Les échanges entre États suivent la correspondance diplomatique, pas le soit-transmis."
+     ],
+     "src": {
+      "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+      "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+     }
+    },
+    {
+     "id": "n20261108-rd07-07",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Le chef du service courrier doit faire suivre à la Direction des affaires financières six factures, sans aucun commentaire. Quel document rédige-t-il ?",
+     "o": [
+      "Une circulaire",
+      "Un procès-verbal",
+      "Un bordereau d'envoi",
+      "Un arrêté"
+     ],
+     "a": 2,
+     "e": "Des pièces vont d'un service à un autre et n'appellent aucun commentaire : c'est exactement l'usage du bordereau d'envoi, qui dispense d'une lettre d'accompagnement.",
+     "ed": [
+      "La circulaire donne des instructions générales d'application des textes ; elle ne sert pas à transmettre des factures.",
+      "Le procès-verbal relate des faits ou une réunion ; il ne transmet pas de pièces.",
+      null,
+      "L'arrêté prend une mesure ; il ne sert pas à acheminer des documents."
+     ]
+    },
+    {
+     "id": "n20261108-rd07-08",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Vous transmettez à votre directeur un projet de décision qu'il doit signer puis vous renvoyer. Quelle mention portez-vous ?",
+     "o": [
+      "Pour signature et retour",
+      "À toutes fins utiles",
+      "Pour information",
+      "Pour attribution"
+     ],
+     "a": 0,
+     "e": "La mention « Pour signature » est souvent complétée par « et retour » quand la pièce doit revenir à l'expéditeur une fois signée.",
+     "ed": [
+      null,
+      "« À toutes fins utiles » laisse le destinataire libre d'agir ou non.",
+      "« Pour information » n'appelle aucune action, alors qu'une signature est attendue.",
+      "« Pour attribution » transfère l'affaire à titre définitif : la pièce ne reviendrait pas."
+     ],
+     "src": {
+      "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+      "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+     }
+    },
+    {
+     "id": "n20261108-rd07-09",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Une usagère se plaint au Directeur régional d'un retard de traitement. Le Directeur confie la réclamation au service compétent, qui devra la régler. Quelle mention convient sur le bordereau ?",
+     "o": [
+      "Pour signature",
+      "Pour information",
+      "En communication",
+      "Pour attribution"
+     ],
+     "a": 3,
+     "e": "« Pour attribution » envoie la pièce à titre définitif au service compétent, qui doit prendre une décision sur l'affaire.",
+     "ed": [
+      "La réclamation n'est pas à signer : elle est à traiter.",
+      "« Pour information » n'impose aucune action, alors que la réclamation doit être traitée.",
+      "« En communication » obligerait à renvoyer la pièce après lecture.",
+      null
+     ],
+     "src": {
+      "t": "Université de Biskra – Polycopié de rédaction administrative (le bordereau d'envoi)",
+      "u": "https://elearning.univ-biskra.dz/moodle/mod/resource/view.php?id=84946"
+     }
+    },
+    {
+     "id": "n20261108-rd07-10",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Vous prêtez à un autre service l'original d'un registre, qu'il doit vous rendre après consultation. Quelle mention choisissez-vous ?",
+     "o": [
+      "Pour attribution",
+      "En communication",
+      "Pour suite à donner",
+      "À toutes fins utiles"
+     ],
+     "a": 1,
+     "e": "« En communication » signifie que le destinataire doit retourner le document à l'expéditeur après en avoir pris connaissance.",
+     "ed": [
+      "« Pour attribution » transfère la pièce à titre définitif : le registre ne reviendrait pas.",
+      null,
+      "« Pour suite à donner » demande d'agir sur l'affaire, pas de rendre la pièce.",
+      "« À toutes fins utiles » n'impose aucun retour du document."
+     ],
+     "src": {
+      "t": "Université d'Annaba (Faculté SEG) – Différents types et formes de lettres administratives : le bordereau d'envoi",
+      "u": "https://elearning-facsceg.univ-annaba.dz/mod/resource/view.php?id=21274"
+     }
+    },
+    {
+     "id": "n20261108-rd07-11",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Laquelle de ces lignes de bordereau est correctement remplie ?",
+     "o": [
+      "« Pièces diverses | plusieurs | à voir »",
+      "« Demande de mutation de Mme Bamba Awa, secrétaire | 01 | Pour avis »",
+      "« Dossier | 1 | ok »",
+      "« Courrier | — | urgent »"
+     ],
+     "a": 1,
+     "e": "Une ligne correcte désigne précisément la pièce (nature, personne concernée), donne son nombre en chiffres et porte une mention d'observation reconnue.",
+     "ed": [
+      "Désignation vague, nombre non chiffré et mention imprécise : trois défauts.",
+      null,
+      "« Dossier » ne désigne rien de précis et « ok » n'est pas une mention d'observation.",
+      "Le nombre manque et « urgent » ne dit pas ce que le destinataire doit faire."
+     ]
+    },
+    {
+     "id": "n20261108-rd07-12",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Le Directeur reçoit la lettre d'un fournisseur et la transmet à son chef de service financier pour que celui-ci lui fournisse de quoi rédiger la réponse. Quelle mention porte le soit-transmis ?",
+     "o": [
+      "À toutes fins utiles",
+      "Pour information",
+      "Pour décision",
+      "Pour éléments de réponse"
+     ],
+     "a": 3,
+     "e": "« Pour éléments de réponse » demande au destinataire de fournir, sous forme de note ou de lettre, les informations qui permettront à l'expéditeur de répondre.",
+     "ed": [
+      "« À toutes fins utiles » laisse le destinataire libre de donner suite ou non.",
+      "« Pour information » n'appelle aucune contribution du destinataire.",
+      "« Pour décision » s'emploie quand un subordonné demande une décision à son supérieur, non l'inverse.",
+      null
+     ],
+     "src": {
+      "t": "Université de Biskra – Polycopié de rédaction administrative (le bordereau d'envoi)",
+      "u": "https://elearning.univ-biskra.dz/moodle/mod/resource/view.php?id=84946"
+     }
+    },
+    {
+     "id": "n20261108-rd07-13",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Quel élément ne figure PAS dans l'en-tête d'un bordereau d'envoi ?",
+     "o": [
+      "Une formule de politesse finale",
+      "Le numéro d'enregistrement",
+      "Le lieu et la date",
+      "Le timbre du service"
+     ],
+     "a": 0,
+     "e": "L'en-tête comprend le timbre, la désignation de l'État et sa devise, le numéro d'enregistrement, le lieu et la date, le titre et le destinataire ; le bordereau ne comporte pas de formule de politesse.",
+     "ed": [
+      null,
+      "Le numéro d'enregistrement fait partie des mentions de l'en-tête.",
+      "Le lieu et la date figurent dans l'en-tête, ou au-dessus de la signature.",
+      "Le timbre du service ouvre l'en-tête du bordereau."
+     ],
+     "src": {
+      "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+      "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+     }
+    },
+    {
+     "id": "n20261108-rd07-14",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Pourquoi l'expéditeur conserve-t-il un double du bordereau d'envoi ?",
+     "o": [
+      "Pour pouvoir annuler l'envoi plus tard",
+      "Pour le transmettre à l'usager",
+      "Pour garder la trace de ce qui a été envoyé et de qui détient les pièces",
+      "Pour remplacer la signature du destinataire"
+     ],
+     "a": 2,
+     "e": "Le double garde la trace de l'envoi : il prouve quelles pièces ont été transmises, à qui et quand, et montre qui détient une pièce originale.",
+     "ed": [
+      "Le double ne sert pas à annuler un envoi : il en prouve l'existence.",
+      "Le bordereau circule entre services ; il n'est pas destiné à l'usager.",
+      null,
+      "Le double ne remplace rien : l'accusé de réception éventuel est signé par le destinataire."
+     ],
+     "src": {
+      "t": "Université d'Annaba (Faculté SEG) – Différents types et formes de lettres administratives : le bordereau d'envoi",
+      "u": "https://elearning-facsceg.univ-annaba.dz/mod/resource/view.php?id=21274"
+     }
+    },
+    {
+     "id": "n20261108-rd07-15",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Le chef de service ordonne à un agent de mettre à jour un fichier et de lui rendre compte une fois le travail fait. Quelle mention porte-t-il sur le soit-transmis ?",
+     "o": [
+      "Pour information",
+      "En communication",
+      "Pour exécution",
+      "Pour avis"
+     ],
+     "a": 2,
+     "e": "« Pour exécution » s'emploie quand le supérieur ordonne au subordonné d'agir et d'en rendre compte.",
+     "ed": [
+      "« Pour information » n'impose aucun travail à l'agent.",
+      "« En communication » demande seulement de renvoyer la pièce après lecture.",
+      null,
+      "« Pour avis » demande une appréciation, pas l'exécution d'une tâche."
+     ],
+     "src": {
+      "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+      "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+     }
+    },
+    {
+     "id": "n20261108-rd07-16",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Quelle différence sépare « Pour suite à donner » de « Pour exécution » ?",
+     "o": [
+      "« Pour suite à donner » exige d'agir sans rendre compte ; « Pour exécution » exige d'agir et d'en rendre compte",
+      "Aucune, les deux mentions sont synonymes",
+      "« Pour suite à donner » impose de renvoyer la pièce",
+      "« Pour exécution » ne s'emploie qu'entre deux ministères"
+     ],
+     "a": 0,
+     "e": "Avec « Pour suite à donner », le destinataire doit donner une suite sans rendre compte ; avec « Pour exécution », le supérieur ordonne d'agir et d'en rendre compte.",
+     "ed": [
+      null,
+      "Les deux mentions diffèrent sur l'obligation de rendre compte.",
+      "Renvoyer la pièce correspond à « En communication ».",
+      "« Pour exécution » s'emploie de supérieur à subordonné, y compris au sein d'un même service."
+     ],
+     "src": {
+      "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+      "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+     }
+    },
+    {
+     "id": "n20261108-rd07-17",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Un agent veut adresser à une autre administration des pièces accompagnées d'une explication sur un écart budgétaire. Que lui conseillez-vous ?",
+     "o": [
+      "Un soit-transmis",
+      "Un bordereau d'envoi avec la mention « voir explication »",
+      "Une simple note manuscrite sans en-tête",
+      "Une lettre d'accompagnement"
+     ],
+     "a": 3,
+     "e": "Dès que la transmission appelle un commentaire, le bordereau ne suffit plus : on rédige une lettre d'accompagnement qui expose l'explication.",
+     "ed": [
+      "Le soit-transmis sert aux transmissions internes à une même administration.",
+      "Un bordereau ne porte pas de commentaire ; « voir explication » n'est pas une mention d'observation.",
+      "Une correspondance vers une autre administration porte toujours les mentions officielles.",
+      null
+     ],
+     "src": {
+      "t": "Université d'Annaba (Faculté SEG) – Différents types et formes de lettres administratives : le bordereau d'envoi",
+      "u": "https://elearning-facsceg.univ-annaba.dz/mod/resource/view.php?id=21274"
+     }
+    },
+    {
+     "id": "n20261108-rd07-18",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Un candidat écrit dans la colonne « Nombre » : « trois exemplaires environ ». Quelle est l'erreur ?",
+     "o": [
+      "Aucune, la formule est correcte",
+      "Le nombre doit être exact et écrit en chiffres",
+      "Le nombre doit figurer dans la colonne des observations",
+      "Le nombre ne doit jamais apparaître sur un bordereau"
+     ],
+     "a": 1,
+     "e": "La colonne du milieu indique en chiffres le nombre exact de chaque pièce, pour permettre au destinataire de vérifier immédiatement la réception.",
+     "ed": [
+      "« Environ » rend la vérification impossible : la formule est fautive.",
+      null,
+      "La colonne des observations porte la mention de traitement, pas le nombre.",
+      "Le nombre est l'une des trois colonnes obligatoires du bordereau."
+     ],
+     "src": {
+      "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+      "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+     }
+    },
+    {
+     "id": "n20261108-rd07-19",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Dans les juridictions, comment se présente le soit-transmis utilisé par les magistrats du Parquet ?",
+     "o": [
+      "Un acte de procédure civile signé par les parties",
+      "Un document de petit format, en partie imprimé, portant un message manuscrit signé par son auteur",
+      "Un jugement rendu en audience publique",
+      "Un registre tenu par le greffe"
+     ],
+     "a": 1,
+     "e": "Le soit-transmis est un document de petit format, imprimé en partie pour indiquer la juridiction ou le service d'origine, qui contient sous forme manuscrite le message que signe son auteur.",
+     "ed": [
+      "En matière civile, le soit-transmis n'est pas un acte de procédure mais une directive à valeur administrative.",
+      null,
+      "Un jugement tranche un litige ; le soit-transmis transmet documents ou instructions.",
+      "Un registre consigne des actes ; le soit-transmis est une feuille transmise."
+     ],
+     "src": {
+      "t": "Dictionnaire du droit privé (S. Braudo) – Soit-transmis",
+      "u": "https://dictionnaire-juridique.com/definition/soit-transmis.php"
+     }
+    },
+    {
+     "id": "n20261108-rd07-20",
+     "m": "redac",
+     "tag": "niv-rd07",
+     "verif": "methode",
+     "q": "Un chef de bureau utilise un soit-transmis pour envoyer des pièces à une entreprise privée. Qu'en pensez-vous ?",
+     "o": [
+      "C'est correct, le soit-transmis convient à tout destinataire",
+      "C'est incorrect : seul un arrêté peut être envoyé à une entreprise",
+      "C'est correct si la mention « Pour attribution » est portée",
+      "C'est incorrect : le soit-transmis sert aux transmissions au sein d'une même administration"
+     ],
+     "a": 3,
+     "e": "Le soit-transmis est réservé aux transmissions internes à une administration, habituellement de supérieur à subordonné ; vers l'extérieur, on emploie une lettre ou un bordereau d'envoi.",
+     "ed": [
+      "Le soit-transmis ne convient pas à un destinataire extérieur à l'administration.",
+      "On écrit à une entreprise par lettre ; l'arrêté est un acte qui prend une mesure.",
+      "La mention d'observation ne change pas la nature du document ni son destinataire.",
+      null
+     ],
+     "src": {
+      "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+      "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+     }
+    },
+    {
+     "id": "n20261108-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 26 avril 1964, deux États s'unissent pour former la République unie du Tanganyika et de Zanzibar, l'actuelle Tanzanie. Qui en devient le président ?",
+     "o": [
+      "Jomo Kenyatta",
+      "Julius Nyerere",
+      "Milton Obote",
+      "Kenneth Kaunda"
+     ],
+     "a": 1,
+     "e": "Le 26 avril 1964, le Tanganyika et Zanzibar fusionnent ; Julius Nyerere devient président et Abeid Karume premier vice-président de la nouvelle république.",
+     "ed": [
+      "Jomo Kenyatta n'a pas présidé la république née de l'union de 1964 : c'est Julius Nyerere qui en devient le président.",
+      null,
+      "Milton Obote n'a pas présidé la république unie de 1964 : son président est Julius Nyerere.",
+      "Kenneth Kaunda n'a pas dirigé la république unie du Tanganyika et de Zanzibar : Nyerere en est le président."
+     ],
+     "src": {
+      "t": "Encyclopaedia Britannica – Tanzania : Independence",
+      "u": "https://www.britannica.com/place/Tanzania/Independence"
+     }
+    },
+    {
+     "id": "n20261108-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le siège du Secrétariat général d'INTERPOL, inauguré le 27 novembre 1989 ?",
+     "o": [
+      "Genève",
+      "Lyon",
+      "Vienne",
+      "La Haye"
+     ],
+     "a": 1,
+     "e": "INTERPOL indique que son siège est basé à Lyon ; le nouveau siège du Secrétariat général y a été inauguré le 27 novembre 1989.",
+     "ed": [
+      "Le siège d'INTERPOL n'est pas à Genève : INTERPOL indique que son siège est basé à Lyon.",
+      null,
+      "Le Secrétariat général d'INTERPOL n'est pas installé à Vienne, mais à Lyon depuis 1989.",
+      "La Haye n'accueille pas le Secrétariat général d'INTERPOL, inauguré à Lyon en 1989."
+     ],
+     "src": {
+      "t": "INTERPOL – INTERPOL fête ses 30 ans à Lyon à l'approche de son centenaire (2019)",
+      "u": "https://www.interpol.int/fr/Actualites-et-evenements/Actualites/2019/INTERPOL-fete-ses-30-ans-a-Lyon-a-l-approche-de-son-centenaire"
+     }
+    },
+    {
+     "id": "n20261108-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le « cri d'Ipiranga », lancé le 7 septembre 1822 par le régent Pedro, futur empereur Pedro Ier, consacre l'indépendance de quel pays ?",
+     "o": [
+      "L'Argentine",
+      "Le Mexique",
+      "Le Pérou",
+      "Le Brésil"
+     ],
+     "a": 3,
+     "e": "Le 7 septembre 1822, le régent Pedro proclame l'indépendance du Brésil, jusque-là sous domination portugaise ; il devient ensuite empereur sous le nom de Pedro Ier.",
+     "ed": [
+      "Le cri d'Ipiranga ne concerne pas l'Argentine : il consacre l'indépendance du Brésil.",
+      "Le régent Pedro n'a pas proclamé l'indépendance du Mexique, mais celle du Brésil.",
+      "Pedro, futur empereur du Brésil, n'a pas proclamé l'indépendance du Pérou.",
+      null
+     ],
+     "src": {
+      "t": "Hérodote – 7 septembre-12 octobre 1822 : indépendance du Brésil",
+      "u": "https://www.herodote.net/7_septembre_12_octobre_1822-evenement-18220907.php"
+     }
+    },
+    {
+     "id": "n20261108-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Qui annonce à Delhi la naissance de l'Inde indépendante, dans la nuit du 14 au 15 août 1947, et devient Premier ministre de l'Union indienne ?",
+     "o": [
+      "Jawaharlal Nehru",
+      "Mohandas Gandhi",
+      "Muhammad Ali Jinnah",
+      "Indira Gandhi"
+     ],
+     "a": 0,
+     "e": "L'Inde indépendante naît à minuit, dans la nuit du 14 au 15 août 1947 ; sa naissance est annoncée à Delhi par le chef du gouvernement, Jawaharlal Nehru, Premier ministre de l'Union indienne.",
+     "ed": [
+      null,
+      "Ce n'est pas Gandhi qui annonce la naissance de l'Inde indépendante en tant que chef du gouvernement : c'est Nehru.",
+      "Jinnah n'est pas le chef du gouvernement de l'Union indienne en 1947 : c'est Jawaharlal Nehru.",
+      "En août 1947, le Premier ministre de l'Union indienne est Jawaharlal Nehru, pas Indira Gandhi."
+     ],
+     "src": {
+      "t": "Hérodote – 15 août 1947 : indépendance de l'Inde",
+      "u": "https://www.herodote.net/15_aout_1947-evenement-19470815.php?resume=1"
+     }
+    },
+    {
+     "id": "n20261108-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 6 mars 1957, la Gold Coast britannique accède à l'indépendance sous le nom de Ghana. Sous la direction de quel dirigeant ?",
+     "o": [
+      "Ahmed Sékou Touré",
+      "Félix Houphouët-Boigny",
+      "Kwame Nkrumah",
+      "Léopold Sédar Senghor"
+     ],
+     "a": 2,
+     "e": "Le Ghana, anciennement Gold Coast, obtient son indépendance de la Grande-Bretagne le 6 mars 1957 sous la direction de Kwame Nkrumah, figure du panafricanisme.",
+     "ed": [
+      "Sékou Touré n'a pas dirigé la Gold Coast : le Ghana accède à l'indépendance sous la direction de Kwame Nkrumah.",
+      "Houphouët-Boigny est un dirigeant ivoirien ; l'indépendance du Ghana est conduite par Kwame Nkrumah.",
+      null,
+      "Senghor n'a pas dirigé l'indépendance du Ghana, conduite par Kwame Nkrumah."
+     ],
+     "src": {
+      "t": "BusinessGhana – 5 Things To Know About Ghana's Independence Day",
+      "u": "https://businessghana.com/site/news/General/160756/5-Things-To-Know-About-Ghana-s-Independence-Day"
+     }
+    },
+    {
+     "id": "n20261108-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Combien d'États participants ont signé l'Acte final d'Helsinki de la Conférence sur la sécurité et la coopération en Europe, le 1er août 1975 ?",
+     "o": [
+      "27",
+      "15",
+      "35",
+      "51"
+     ],
+     "a": 2,
+     "e": "Au terme du sommet d'Helsinki, le 1er août 1975, 35 États participants ont signé l'Acte final, également appelé Accords d'Helsinki.",
+     "ed": [
+      "27 ne correspond pas au nombre des signataires d'Helsinki, qui étaient 35.",
+      "15 est bien inférieur au nombre des signataires : 35 États participants ont signé l'Acte final.",
+      null,
+      "51 dépasse le nombre des signataires : l'Acte final a été signé par 35 États participants."
+     ],
+     "src": {
+      "t": "OSCE – Helsinki Final Act (1975)",
+      "u": "https://www.osce.org/mc/58376"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261108ec04",
+     "niv": "ec04",
+     "m": "ecm",
+     "titre": "Les institutions de la République",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez nommer les institutions prévues par la Constitution de 2016, dire qui les compose et à quoi chacune sert.",
+      "= Vous saurez surtout orienter un citoyen ou un problème vers la bonne institution, ce que demandent les questions de cas pratique.",
+      "## Ce que demande l'épreuve",
+      "En éducation civique et morale, les institutions tombent sous deux formes : des questions de cours (qui élit le Président ? qui compose le Parlement ?) et des sujets de réflexion sur le rôle des institutions dans la vie du citoyen. Le correcteur attend des réponses exactes, rattachées au bon article, et des exemples concrets. Le piège habituel est de confondre les institutions entre elles : le Conseil constitutionnel et le Conseil d'État, le Médiateur et le juge, le CESEC et le Parlement.",
+      "## La méthode, pas à pas",
+      "- 1. Classez d'abord : à quel « étage » appartient l'institution ? Pouvoir exécutif, pouvoir législatif, pouvoir judiciaire, juge constitutionnel, ou institution consultative et de médiation.",
+      "- 2. Retenez pour chacune trois éléments : qui la compose, comment ses membres sont désignés, quelle est sa mission principale.",
+      "- 3. Dans un cas pratique, posez la question : faut-il faire une loi, gouverner, juger, contrôler la constitutionnalité, donner un avis ou concilier ?",
+      "- 4. Citez l'article quand vous le connaissez : c'est ce qui distingue une réponse précise d'une réponse vague.",
+      "~ Exemple : « Le Gouvernement est-il responsable devant l'Assemblée nationale ? » Classement : exécutif. Article 83 : le Premier Ministre et les ministres sont solidairement responsables devant le Président de la République. Réponse : non, il répond de son action devant le Président."
+     ],
+     "fond": [
+      "## Notion 1 : la carte des institutions",
+      "Règle : la Constitution du 8 novembre 2016, révisée en 2020 et en 2023, organise la République en plusieurs titres. Le titre III traite du pouvoir exécutif, le titre IV du pouvoir législatif, le titre VIII du Conseil constitutionnel, le titre IX du pouvoir judiciaire, le titre X de la Haute Cour de Justice. Viennent ensuite le Conseil économique, social, environnemental et culturel (titre XI), le Médiateur de la République (titre XII) et la chefferie traditionnelle (titre XIV).",
+      "Pourquoi ? Répartir le pouvoir entre plusieurs organes évite qu'une seule autorité fasse la loi, l'applique et juge en même temps. C'est le principe de la séparation des pouvoirs.",
+      "? Classez ces institutions selon le pouvoir ou la catégorie : Sénat, Cour de Cassation, Premier Ministre, Médiateur de la République. || Sénat : pouvoir législatif (titre IV). Cour de Cassation : pouvoir judiciaire (titre IX). Premier Ministre : pouvoir exécutif (titre III). Médiateur de la République : institution de médiation (titre XII), qui n'est ni un juge ni un organe du Gouvernement.",
+      "## Notion 2 : le Président et le Vice-Président",
+      "Règle : l'article 53 dispose que l'exécutif est composé du Président de la République, du vice-Président de la République et du Gouvernement. Le Président est le Chef de l'État (article 54) et le détenteur exclusif du pouvoir exécutif (article 63). Il est élu pour cinq ans au suffrage universel direct et n'est rééligible qu'une fois (article 55). Il détermine et conduit la politique de la Nation (article 64).",
+      "Depuis la révision de 2020, le Président choisit un vice-Président de la République en accord avec le Parlement (article 55). Le vice-Président doit être âgé de trente-cinq ans au moins (article 78) ; il agit sur délégation du Président (article 80). En cas de vacance de la présidence, il devient Président de la République (article 62).",
+      "Pourquoi ? Le suffrage universel direct donne au Président une légitimité nationale ; la limite d'un seul renouvellement empêche qu'une même personne garde indéfiniment le pouvoir.",
+      "! Piège : le vice-Président n'est plus élu en même temps que le Président, comme le prévoyait le texte de 2016. Depuis 2020, il est choisi par le Président, en accord avec le Parlement.",
+      "## Notion 3 : le Gouvernement",
+      "Règle : le Président nomme le Premier Ministre, chef du Gouvernement, et met fin à ses fonctions (article 70). Sur proposition du Premier Ministre, il nomme les autres membres du Gouvernement. Le Gouvernement comprend le Premier Ministre et les ministres ; il met en œuvre la politique de la Nation telle que définie par le Président (article 81). Le Premier Ministre anime et coordonne l'action gouvernementale (article 82).",
+      "Pourquoi ? Le Président fixe le cap ; le Gouvernement exécute. C'est pourquoi le Premier Ministre et les ministres sont solidairement responsables devant le Président de la République (article 83).",
+      "~ Exemple résolu : le Président décide de faire de l'emploi des jeunes une priorité. Qui prépare et applique les mesures ? Le Gouvernement, coordonné par le Premier Ministre, car il met en œuvre la politique définie par le Président (articles 81 et 82). Le ministre chargé du dossier en répond devant le Président (article 83).",
+      "## Notion 4 : le Parlement",
+      "Règle : le pouvoir législatif est exercé par le Parlement, composé de l'Assemblée nationale et du Sénat (article 85). Les députés sont élus au suffrage universel direct pour cinq ans (article 86). Les sénateurs sont élus pour deux tiers au suffrage universel indirect ; un tiers est désigné par le Président de la République parmi les Ivoiriens reconnus pour leur expertise ; leur mandat est de cinq ans (article 87). Le Parlement vote la loi et consent l'impôt ; il contrôle l'action du Gouvernement et évalue les politiques publiques (article 93).",
+      "Pourquoi ? Le consentement à l'impôt et le vote de la loi par des élus garantissent que les règles imposées aux citoyens viennent de leurs représentants.",
+      "? Un candidat écrit : « Tous les sénateurs sont élus au suffrage universel direct. » Corrigez. || Erreur double. D'après l'article 87, deux tiers des sénateurs sont élus au suffrage universel indirect, et non direct ; le dernier tiers est désigné par le Président de la République parmi les Ivoiriens reconnus pour leur expertise. Seuls les députés sont élus au suffrage universel direct (article 86).",
+      "## Notion 5 : la justice et le juge constitutionnel",
+      "Règle : le pouvoir judiciaire est indépendant ; le Président de la République en est le garant, assisté par le Conseil supérieur de la Magistrature (article 139). Le juge n'obéit qu'à l'autorité de la loi (article 140). La justice est rendue au nom du peuple ivoirien par la Cour de Cassation, le Conseil d'État, la Cour des Comptes, les Cours d'appel, les tribunaux de Première instance, les tribunaux administratifs et les Chambres régionales des Comptes (article 143). La Cour de Cassation est la plus haute juridiction de l'ordre judiciaire, le Conseil d'État la plus haute juridiction de l'ordre administratif (articles 148 et 149).",
+      "Le Conseil constitutionnel est une juridiction constitutionnelle, indépendante et impartiale ; il juge la conformité de la loi au bloc de constitutionnalité et contrôle l'élection présidentielle et les élections parlementaires (article 126). Il comprend un Président, les anciens Présidents de la République sauf renonciation expresse, et six conseillers : trois désignés par le Président de la République, deux par le Président de l'Assemblée nationale et un par le Président du Sénat (article 128).",
+      "Pourquoi ? Un juge indépendant protège le citoyen contre l'arbitraire ; un juge constitutionnel vérifie que même la loi respecte la Constitution.",
+      "! Piège : le Conseil constitutionnel ne fait pas partie du pouvoir judiciaire du titre IX : il a son propre titre (titre VIII). Le Conseil d'État, lui, juge l'administration.",
+      "## Notion 6 : avis, médiation et chefferie traditionnelle",
+      "Règle : le Conseil économique, social, environnemental et culturel donne son avis sur les projets de loi, d'ordonnances ou de décrets et sur les propositions de loi qui lui sont soumis (article 163). Le Médiateur de la République est une autorité administrative indépendante, intercesseur gracieux entre l'Administration et les administrés ; il est nommé par le Président pour un mandat de six ans non renouvelable, après avis des Présidents des deux chambres (articles 165 et 166). La Chambre nationale des Rois et Chefs traditionnels regroupe les rois et chefs traditionnels ; elle est notamment chargée de la valorisation des us et coutumes et du règlement non juridictionnel des conflits dans les villages et entre les communautés (article 175).",
+      "Pourquoi ? Ces institutions ne commandent pas et ne jugent pas : elles éclairent les décisions, rapprochent l'administration des citoyens et apaisent les conflits locaux.",
+      "~ Exemple résolu : à Abengourou, un retraité attend depuis des mois une réponse de l'administration sur son dossier, sans vouloir aller en justice. L'institution adaptée est le Médiateur de la République, intercesseur gracieux entre l'Administration et les administrés (article 165). Si deux villages voisins s'opposent sur une limite de terres et cherchent une solution amiable, on pense à la Chambre nationale des Rois et Chefs traditionnels, chargée du règlement non juridictionnel des conflits (article 175).",
+      "? Le Gouvernement prépare un projet de loi sur l'économie informelle et souhaite recueillir l'avis des forces économiques et sociales avant de le déposer. Quelle institution peut-il consulter ? || Le Conseil économique, social, environnemental et culturel, qui donne son avis sur les projets de loi qui lui sont soumis (article 163). Son avis éclaire la décision mais ne l'impose pas : c'est ensuite le Parlement qui vote la loi (article 93).",
+      "> Pour la réflexion : les institutions consultatives sont parfois jugées coûteuses parce que leurs avis ne lient pas le décideur. On leur reconnaît en retour l'avantage d'associer l'expertise, les forces sociales et les autorités coutumières à la vie publique, ce qui renforce la cohésion nationale."
+     ],
+     "retenir": [
+      "L'exécutif est composé du Président de la République, du vice-Président et du Gouvernement (article 53).",
+      "Le Président est élu pour cinq ans au suffrage universel direct et n'est rééligible qu'une fois (article 55).",
+      "Depuis 2020, le Président choisit le vice-Président en accord avec le Parlement ; en cas de vacance, celui-ci devient Président.",
+      "Le Premier Ministre et les ministres sont solidairement responsables devant le Président de la République (article 83).",
+      "Le Parlement comprend l'Assemblée nationale et le Sénat ; il vote la loi, consent l'impôt et contrôle le Gouvernement.",
+      "Deux tiers des sénateurs sont élus au suffrage universel indirect ; un tiers est désigné par le Président de la République.",
+      "Le Conseil constitutionnel juge la conformité de la loi au bloc de constitutionnalité et contrôle les élections présidentielle et parlementaires.",
+      "Le Médiateur concilie l'Administration et les administrés ; la Chambre des Rois et Chefs traditionnels règle à l'amiable les conflits communautaires."
+     ],
+     "exo": {
+      "tag": "niv-ec04",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Constitution de la République de Côte d'Ivoire (loi n° 2016-886 du 8 novembre 2016, texte consolidé au 24 octobre 2023) – CIVLII",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2016/886/fra@2023-10-24/source"
+      }
+     ]
+    },
+    {
+     "id": "L20261108ns05",
+     "niv": "ns05",
+     "m": "ns",
+     "verif": "methode",
+     "titre": "Note chronométrée : tenir les 5 heures de l'épreuve",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez découper les 5 heures de l'épreuve en étapes chronométrées et tenir ce découpage, montre en main.",
+      "= Vous saurez aussi réagir à un retard sans sacrifier la fin de la note ni la relecture.",
+      "## Ce que demande l'épreuve",
+      "La note de synthèse se compose en 5 heures, à partir d'un dossier de plusieurs documents. Le temps fait partie de l'épreuve : les guides de préparation constatent que de nombreux candidats ne finissent pas leur rédaction, et leur copie est alors pénalisée, même si les premières pages sont bonnes. Le piège habituel : une lecture qui s'éternise et une rédaction qui commence trop tard.",
+      "> Déjà tombé : cycle supérieur, juin 2025 (entrée 2026) : un dossier de 13 pages sur le financement de l'agriculture, une note de 4 pages maximum, sans intercalaire. Septembre 2024 (entrée 2025) : un dossier de 14 pages, même consigne.",
+      "## La méthode, pas à pas",
+      "- 1. Dès la première minute, écrivez en haut du brouillon vos heures butoirs réelles (des heures d'horloge, pas des durées) et posez votre montre sur la table.",
+      "- 2. Lecture de la consigne et survol du dossier : 10 minutes.",
+      "- 3. Lecture active et tableau de dépouillement : 1 h 45, soit environ 7 minutes et demie par page pour un dossier de 14 pages.",
+      "- 4. Plan détaillé et introduction rédigée au brouillon : 45 minutes.",
+      "- 5. Rédaction directe au propre : 2 heures, soit environ 30 minutes par page de note.",
+      "- 6. Relecture : 20 minutes, que l'on ne sacrifie pas.",
+      "! Règle de sécurité : quoi qu'il arrive, la rédaction au propre commence au plus tard à la fin de la troisième heure. Passé ce cap, on rédige avec ce que l'on a.",
+      "~ Exemple : l'épreuve commence à 8 h 00. Les heures butoirs sont 8 h 10 (fin du survol), 9 h 55 (fin du dépouillement), 10 h 40 (fin du plan), 12 h 40 (fin de la rédaction) et 13 h 00 (remise de la copie). Total : 300 minutes."
+     ],
+     "fond": [
+      "## Notion 1 : chronométrer chaque étape",
+      "Règle : on ne gère pas 5 heures « au jugé ». On fixe à chaque étape une heure butoir, on l'écrit, et on la respecte. Le découpage proposé ici est indicatif : les guides donnent des répartitions voisines, avec toujours la même logique, environ deux heures pour comprendre le dossier et deux heures pour écrire.",
+      "Pourquoi ? Chaque étape nourrit la suivante. Une lecture qui déborde de 30 minutes retire 30 minutes à la rédaction. Or une note inachevée est sanctionnée : le correcteur juge un document que l'autorité pourrait utiliser, et une note qui s'arrête au milieu de la partie II n'est pas utilisable.",
+      "~ Exemple résolu : Awa compose de 13 h 00 à 18 h 00. Elle ajoute les durées une à une à l'heure de début : 13 h 00 + 10 min = 13 h 10 ; + 1 h 45 = 14 h 55 ; + 45 min = 15 h 40 ; + 2 h = 17 h 40 ; + 20 min = 18 h 00. Elle recopie ces cinq heures en haut de sa première feuille de brouillon.",
+      "? Une épreuve de note de synthèse commence à 7 h 30. Calculez les cinq heures butoirs du découpage proposé. || On ajoute successivement 10 min, 1 h 45, 45 min, 2 h et 20 min : 7 h 40 (fin du survol), 9 h 25 (fin du dépouillement), 10 h 10 (fin du plan), 12 h 10 (fin de la rédaction), 12 h 30 (remise). Vérification : de 7 h 30 à 12 h 30, il y a bien 5 heures.",
+      "## Notion 2 : lire vite sans lire mal",
+      "Règle : le temps de lecture se répartit par page, et non par document. On divise le temps de lecture par le nombre de pages du dossier pour obtenir un budget par page.",
+      "Pourquoi ? Les documents n'ont pas la même longueur. Un budget par page évite de passer 40 minutes sur un long rapport, puis de survoler les trois derniers documents, qui contiennent parfois l'information décisive.",
+      "~ Exemple résolu : dossier de 13 pages, 105 minutes de lecture. 105 ÷ 13 ≈ 8 minutes par page. Un rapport de 4 pages dispose donc d'environ 32 minutes, un article d'une page d'environ 8 minutes.",
+      "! Piège : vouloir tout comprendre dès la première lecture. Un tableau statistique se lit pour sa tendance et pour les deux ou trois chiffres utiles au sujet, pas ligne par ligne.",
+      "? À 9 h 30, il vous reste 4 pages à lire sur 14 et votre heure butoir de fin de dépouillement est 9 h 55. Êtes-vous en retard, et que faites-vous ? || Il reste 25 minutes pour 4 pages, soit un peu plus de 6 minutes par page au lieu de 7 minutes et demie : c'est un léger retard. On ne déplace pas l'heure butoir. On lit ces pages de façon plus ciblée (titres, premières phrases des paragraphes, chiffres utiles) et l'on remplit directement le tableau de dépouillement.",
+      "## Notion 3 : le brouillon utile, et lui seul",
+      "Règle : au brouillon, on écrit le plan détaillé (parties, sous-parties, idées et numéros des documents) et l'introduction entièrement rédigée. On ne rédige jamais toute la note au brouillon : les guides consultés recommandent tous d'écrire ensuite la copie directement au propre.",
+      "Pourquoi ? Recopier 4 pages prend facilement une heure, qui manque ensuite. Un plan détaillé bien annoté suffit à rédiger au propre sans hésiter : chaque ligne du plan devient un paragraphe.",
+      "~ Exemple résolu : dossier fictif sur l'entretien des pistes rurales. Ligne de plan utile : « II.A Un entretien freiné par le financement (doc. 2, 5, 8) : budgets communaux faibles, coût des engins, retards de paiement des entreprises. » Au propre, cette ligne donne un paragraphe de trois phrases, chacune suivie de ses références.",
+      "! Piège : commencer la copie sans plan détaillé « pour gagner du temps ». Le temps gagné se perd en hésitations, et la note devient déséquilibrée.",
+      "## Notion 4 : rédiger au rythme de la page",
+      "Règle : 2 heures pour 4 pages, c'est environ 30 minutes par page. On fixe un point de contrôle à mi-parcours : à la moitié du temps de rédaction, l'introduction et la partie I doivent être écrites.",
+      "Pourquoi ? Un point de contrôle révèle le retard au moment où il est encore rattrapable, et non à dix minutes de la fin.",
+      "? Votre rédaction va de 10 h 40 à 12 h 40. À 11 h 50, votre partie I occupe déjà 2 pages et demie. Que concluez-vous et que faites-vous ? || Il reste 50 minutes et une page et demie pour toute la partie II : la partie I est trop longue. On condense le II : on regroupe les idées voisines, on garde l'essentiel avec ses références, et l'on respecte la limite de 4 pages au lieu de la dépasser.",
+      "## Notion 5 : le plan de secours",
+      "Règle : une note doit être finie. Si le temps manque, on raccourcit la dernière sous-partie, mais on garde des phrases complètes : les guides demandent que toutes les phrases soient rédigées, sans tirets ni énumérations.",
+      "Pourquoi ? Deux phrases bien construites qui livrent l'idée principale et ses références informent le lecteur ; une liste de mots ou une partie absente ne l'informent pas.",
+      "? Il est 12 h 35 et votre dernière sous-partie n'est pas écrite ; la relecture doit commencer à 12 h 40. Quelle est la meilleure décision ? || Écrire en cinq minutes deux ou trois phrases complètes qui donnent l'idée principale de cette sous-partie avec ses références, puis relire. On n'écrit pas une liste à tirets et l'on ne laisse pas la sous-partie vide.",
+      "## Notion 6 : la relecture et l'entraînement",
+      "Règle : relisez avec une liste fixe, toujours la même. Un : chaque document est-il cité au moins une fois ? Deux : les chiffres sont-ils conformes au dossier ? Trois : la note tient-elle dans la limite de pages ? Quatre : les titres apparents sont-ils informatifs ? Cinq : orthographe, accords et ponctuation sont-ils corrects ?",
+      "Pourquoi ? Une liste fixe évite de relire au hasard. Elle se pratique à l'entraînement : faites des sujets complets, d'abord sans limite de temps, puis en durée réelle, d'une seule traite, sans interruption.",
+      "~ Exemple résolu : à la relecture, Koffi constate que le document 6 n'apparaît nulle part. Il relit sa fiche de dépouillement, trouve que ce document confirme une idée du I.B et ajoute la référence « (doc. 6) » à la phrase concernée : une correction de dix secondes qui évite l'impression d'un document oublié."
+     ],
+     "retenir": [
+      "Écrivez vos heures butoirs réelles en haut du brouillon dès la première minute et posez une montre sur la table.",
+      "Découpage indicatif des 5 heures : 10 min de survol, 1 h 45 de lecture, 45 min de plan, 2 h de rédaction, 20 min de relecture.",
+      "Le budget de lecture se calcule par page : le temps de lecture divisé par le nombre de pages du dossier.",
+      "Au brouillon, on écrit seulement le plan détaillé et l'introduction ; la note se rédige directement au propre.",
+      "La rédaction au propre commence au plus tard à la fin de la troisième heure.",
+      "Une copie inachevée est pénalisée : en cas de retard, condensez la dernière partie en phrases complètes, sans tirets.",
+      "À mi-parcours de la rédaction, l'introduction et la partie I doivent être écrites.",
+      "Relecture : documents tous cités, chiffres conformes, limite de pages respectée, titres informatifs, orthographe."
+     ],
+     "exo": {
+      "tag": "niv-ns05",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "IFiP – Guide de préparation à l'épreuve de note de synthèse (2025)",
+       "u": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/concours/Guides/Guide_IFiP_NDS_renove.pdf"
+      },
+      {
+       "t": "Université de Strasbourg, IEJ – Méthodologie de la note de synthèse (janvier 2020)",
+       "u": "https://droit.unistra.fr/websites/droit/iej/CRFPA/2020/Methodologie_janvier_2020.pdf"
+      },
+      {
+       "t": "Carrières publiques – Note de synthèse : comment bien gérer son temps ?",
+       "u": "https://www.carrieres-publiques.com/actualite-fonction-publique-note-de-synthese-comment-bien-gerer-son-temps-d-3299"
+      },
+      {
+       "t": "JobPublic – Note de synthèse concours : méthode en 5 étapes",
+       "u": "https://jobpublic.fr/blog/note-de-synthese-concours-methode-en-5-etapes"
+      }
+     ]
+    },
+    {
+     "id": "L20261108rd07",
+     "niv": "rd07",
+     "m": "redac",
+     "verif": "methode",
+     "titre": "Le bordereau d'envoi et le soit-transmis",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dire quand un bordereau d'envoi remplace une lettre, et le présenter avec ses trois colonnes.",
+      "= Vous saurez choisir la bonne mention d'observation (pour attribution, pour information, pour avis…) et reconnaître un soit-transmis.",
+      "## Ce que demande l'épreuve",
+      "En rédaction administrative, le bordereau et le soit-transmis paraissent simples. C'est justement là que le correcteur attend la précision : choix du bon document, désignation exacte des pièces, nombre juste, mention d'observation adaptée, signature et cachet au bon endroit. Le sujet donne souvent une situation (des dossiers à transmettre à une autre direction, une pièce à faire signer, un avis à demander) et demande le document qui convient.",
+      "! Piège habituel : rédiger une lettre d'accompagnement de dix lignes pour transmettre des pièces qui n'appellent aucun commentaire. Le bordereau existe précisément pour éviter cette lettre.",
+      "## La méthode, pas à pas",
+      "- 1. Demandez-vous si la transmission appelle un commentaire. Si oui, une lettre ; si non, un bordereau.",
+      "- 2. Remplissez l'en-tête : timbre du service, désignation de l'État et sa devise, numéro d'enregistrement, lieu et date, titre, destinataire.",
+      "- 3. Listez les pièces dans la colonne de gauche, une ligne par pièce, avec une désignation précise.",
+      "- 4. Indiquez le nombre de chaque pièce, en chiffres, dans la colonne du milieu.",
+      "- 5. Portez dans la colonne de droite la mention d'observation qui dit ce que le destinataire doit faire.",
+      "- 6. Signez et apposez le cachet du service au bas de la colonne des observations, et gardez un double.",
+      "~ Exemple : la Direction régionale envoie à la Direction des ressources humaines trois procès-verbaux de prise de service, sans rien à expliquer. Un bordereau d'envoi suffit, avec la mention « Pour attribution »."
+     ],
+     "fond": [
+      "## Notion 1 : à quoi sert le bordereau d'envoi",
+      "Règle : le bordereau d'envoi (ou bordereau de transmission) est un document qui sert à acheminer des pièces d'un service administratif à un autre, chaque fois que cette transmission n'implique pas de commentaires qui justifieraient une lettre d'accompagnement. On l'appelle aussi « bordereau récapitulatif des pièces adressées ».",
+      "Pourquoi ? Il fait gagner du temps : un tableau remplace la lettre. Il laisse aussi une trace. Le double conservé par l'expéditeur prouve ce qui a été envoyé, quand et à qui, et il montre qui détient une pièce originale.",
+      "~ Exemple résolu : un chef de service doit envoyer à la direction du budget cinq factures et deux bons de commande, et il n'a rien à ajouter. Il choisit le bordereau. S'il devait expliquer pourquoi deux factures dépassent le crédit prévu, il écrirait une lettre, car la transmission appellerait un commentaire.",
+      "! Piège : croire que le bordereau est « moins officiel » qu'une lettre. Il porte les mentions habituelles de la correspondance administrative et engage le service qui le signe.",
+      "## Notion 2 : la présentation en trois colonnes",
+      "Règle : l'en-tête comprend le timbre du service, la désignation de l'État et sa devise, le numéro d'enregistrement, le lieu et la date, puis le titre en capitales, « BORDEREAU D'ENVOI », suivi du destinataire (« à Monsieur le Directeur… »). Le reste de la page est un cadre de trois colonnes : à gauche, la désignation des pièces ; au milieu, le nombre de pièces ; à droite, les observations. Le bordereau est signé et revêtu du cachet du service au bas de la colonne des observations.",
+      "Pourquoi ? Chaque colonne répond à une question du destinataire : quoi ? combien ? pour quoi faire ? La désignation doit être assez détaillée pour que la vérification soit immédiate à la réception.",
+      "~ Exemple résolu de lignes bien remplies : « Demande de congé annuel de M. Kouamé Yao, attaché administratif | 01 | Pour avis ». « Rapport d'activité du troisième trimestre du service des archives | 02 | Pour information ». Chaque ligne nomme précisément la pièce, donne son nombre en chiffres et dit ce qu'on attend du destinataire.",
+      "? Repérez les trois défauts de cette ligne de bordereau : « Documents divers | quelques | voir ». || 1. La désignation est vague : il faut nommer chaque pièce (nature, objet, personne concernée). 2. Le nombre doit être écrit en chiffres (« 03 »), jamais « quelques ». 3. « Voir » n'est pas une mention d'observation : il faut une mention précise comme « Pour attribution », « Pour information » ou « Pour avis ».",
+      "## Notion 3 : les mentions de la colonne « Observations »",
+      "Règle : la mention dit au destinataire ce qu'il doit faire des pièces. Les principales : « Pour attribution » (la pièce est envoyée à titre définitif ; le destinataire doit prendre une décision sur l'affaire) ; « Pour information » (envoi à titre indicatif ; le destinataire n'a pas à intervenir et peut conserver les pièces) ; « À toutes fins utiles » ; « En communication » (la pièce doit être retournée après lecture) ; « Pour suite à donner » (le destinataire doit donner une suite, sans rendre compte) ; « Pour avis » (il donne un avis motivé) ; « Pour éléments de réponse » (il fournit les informations qui permettront à l'expéditeur de répondre) ; « Pour exécution » (le supérieur ordonne d'agir et d'en rendre compte) ; « Pour signature », souvent complété par « et retour ».",
+      "Pourquoi ? Une même pièce peut appeler des traitements très différents. Sans mention précise, le destinataire ne sait pas s'il doit décider, conserver, répondre ou renvoyer.",
+      "! Piège : confondre « Pour attribution » et « Pour information ». Dans le premier cas, l'affaire passe au destinataire, qui doit la traiter ; dans le second, il est seulement tenu au courant.",
+      "? Quelle mention portez-vous dans chacun de ces cas ? (a) Vous envoyez à votre directeur un arrêté préparé par votre service pour qu'il le signe et vous le renvoie. (b) Vous transmettez au service compétent la réclamation d'un usager, qu'il devra traiter. (c) Vous adressez à un autre service le planning des congés, à simple titre indicatif. || (a) « Pour signature et retour » : la pièce doit revenir signée. (b) « Pour attribution » : l'affaire est confiée à titre définitif au service compétent, qui doit décider. (c) « Pour information » : le destinataire n'a rien à faire et peut conserver le document.",
+      "## Notion 4 : le soit-transmis",
+      "Règle : dans l'administration, le bordereau prend le titre de « SOIT TRANSMIS » pour les transmissions au sein d'une même administration. Il s'emploie habituellement de supérieur à subordonné, pour transmettre, avec les pièces, les instructions relatives à leur traitement. Dans les juridictions, le soit-transmis est aussi un document de petit format, imprimé en partie pour indiquer la juridiction ou le service d'origine, sur lequel l'auteur écrit à la main un message qu'il signe ; les magistrats du Parquet l'utilisent couramment.",
+      "Pourquoi ? À l'intérieur d'un même service, l'essentiel est la consigne : le soit-transmis joint aux pièces l'instruction du chef (« pour exécution », « pour suite à donner », « pour éléments de réponse ») sans le formalisme d'une lettre.",
+      "~ Exemple résolu : le Directeur reçoit la lettre d'un fournisseur qui réclame un paiement. Il la transmet au chef du service financier, son subordonné, par un soit-transmis portant la mention « Pour éléments de réponse ». Le chef de service lui fournit, dans une note, les informations nécessaires ; le Directeur pourra alors signer la réponse au fournisseur.",
+      "! Piège : utiliser un soit-transmis pour écrire à une autre administration ou à un usager. Hors de votre administration, on emploie le bordereau d'envoi ou la lettre.",
+      "## Notion 5 : choisir le bon document",
+      "Règle : trois questions suffisent. La transmission appelle-t-elle un commentaire ? Alors une lettre. Va-t-elle vers un autre service ou une autre administration, sans commentaire ? Alors un bordereau d'envoi. Reste-t-elle dans la même administration, avec une instruction du supérieur ? Alors un soit-transmis. Le bordereau peut en outre comporter un accusé de réception.",
+      "Pourquoi ? Le bon choix montre au correcteur que vous savez adapter la forme à la situation : c'est la première qualité attendue en rédaction administrative.",
+      "? Le chef du service des examens doit transmettre au Directeur des examens, dans une autre direction du ministère, quarante copies corrigées et les procès-verbaux de délibération, sans commentaire. Quel document choisit-il et comment remplit-il la colonne des observations ? || Un bordereau d'envoi, car les pièces vont vers une autre direction et n'appellent aucun commentaire. Deux lignes : « Copies corrigées de l'examen | 40 | Pour attribution » et « Procès-verbaux de délibération | 02 (nombre réel à indiquer) | Pour attribution ». Signature et cachet au bas de la colonne des observations, double conservé au service."
+     ],
+     "retenir": [
+      "Le bordereau d'envoi achemine des pièces d'un service à un autre quand la transmission n'appelle aucun commentaire.",
+      "Si la transmission demande une explication, on rédige une lettre d'accompagnement, pas un bordereau.",
+      "Le bordereau comporte trois colonnes : désignation des pièces, nombre de pièces en chiffres, observations.",
+      "Signature et cachet du service se placent au bas de la colonne des observations ; l'expéditeur garde un double.",
+      "« Pour attribution » confie l'affaire au destinataire, qui décide ; « Pour information » le tient seulement au courant.",
+      "« En communication » impose de retourner la pièce ; « Pour signature et retour » la fait revenir signée.",
+      "Le soit-transmis sert aux transmissions internes à une administration, de supérieur à subordonné, avec une instruction de traitement."
+     ],
+     "exo": {
+      "tag": "niv-rd07",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Université d'Annaba (Faculté SEG) – Différents types et formes de lettres administratives : le bordereau d'envoi",
+       "u": "https://elearning-facsceg.univ-annaba.dz/mod/resource/view.php?id=21274"
+      },
+      {
+       "t": "Université de Biskra – Polycopié de rédaction administrative (le bordereau d'envoi)",
+       "u": "https://elearning.univ-biskra.dz/moodle/mod/resource/view.php?id=84946"
+      },
+      {
+       "t": "AUF – La correspondance administrative (unité 10)",
+       "u": "https://apprendre.auf.org/wp-content/uploads/2021/08/ethique_et_deontologie_U10_correspondance-administrative.pdf"
+      },
+      {
+       "t": "Cabinet Ariel Assistance (Côte d'Ivoire) – Formation à la rédaction administrative",
+       "u": "https://fr.slideshare.net/impactjeunes/redaction-administrative"
+      },
+      {
+       "t": "Dictionnaire du droit privé (S. Braudo) – Soit-transmis",
+       "u": "https://dictionnaire-juridique.com/definition/soit-transmis.php"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique – Présentation du bordereau de transmission",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/25128/la-redaction-et-la-communication/redaction-administrative-et-commerciale/formulaires-administratifs-et-commerciaux/presentation-du-bordereau-de-transmission"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "redac",
+     "src": "original",
+     "ref": "Entraînement · 8 nov. 2026",
+     "t": "Vous êtes chef du service du personnel de la Direction régionale de l'Agriculture d'Abengourou. Vous devez transmettre au Directeur des ressources humaines du ministère, à Abidjan, les dossiers de titularisation de quatre agents stagiaires (un dossier par agent, avec rapport de stage et fiche d'évaluation) ; il doit statuer. Vous devez aussi faire parvenir à votre adjoint, dans votre service, la liste nominative des agents en congé pour qu'il la vérifie et vous rende compte. Rédigez les deux documents qui conviennent.",
+     "plan": [
+      "Choix des documents : vers la Direction des ressources humaines, autre direction et pièces sans commentaire, un bordereau d'envoi ; vers l'adjoint, transmission interne de supérieur à subordonné avec instruction, un soit-transmis.",
+      "Bordereau : timbre, devise, numéro, lieu et date, titre en capitales, destinataire ; trois colonnes ; une ligne par pièce et par agent (dossier, rapport de stage, fiche d'évaluation), nombre en chiffres, mention « Pour attribution ».",
+      "Soit-transmis : désignation précise de la liste nominative, nombre de pièces, mention « Pour exécution » (vérifier et rendre compte).",
+      "Pour les deux : signature et cachet au bas de la colonne des observations, pas de formule de politesse, double conservé au service."
+     ]
+    }
+   ]
   }
  ]
 }
