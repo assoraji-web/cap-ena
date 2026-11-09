@@ -12708,6 +12708,1983 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-09",
+   "questions": [
+    {
+     "id": "n20261109-oj04-01",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Selon l'article 27 de la loi n° 2025-219, quelles juridictions constituent le premier degré ?",
+     "o": [
+      "Les TPI, les cours d'appel et la Cour de cassation",
+      "Les TPI, les tribunaux administratifs et les chambres régionales des comptes",
+      "Les TPI, les sections détachées et les tribunaux de commerce",
+      "Les TPI et les tribunaux administratifs seulement"
+     ],
+     "a": 1,
+     "e": "L'article 27 dispose que les juridictions de premier degré sont constituées des tribunaux de première instance, des tribunaux administratifs et des chambres régionales des comptes.",
+     "ed": [
+      "Les cours d'appel et la Cour de cassation sont des juridictions de second degré et de cassation, non de premier degré.",
+      null,
+      "La loi n° 2025-219 supprime les sections détachées et son article 27 ne cite pas les tribunaux de commerce.",
+      "Cette liste oublie les chambres régionales des comptes, que l'article 27 range aussi au premier degré."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-02",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Lequel de ces magistrats appartient au ministère public d'un tribunal de première instance selon l'article 28 de la loi n° 2025-219 ?",
+     "o": [
+      "Le juge des tutelles",
+      "Le juge d'instruction",
+      "Le substitut du procureur de la République",
+      "Le vice-président du tribunal"
+     ],
+     "a": 2,
+     "e": "L'article 28 range parmi les magistrats du ministère public le procureur de la République, ses adjoints et ses substituts ; les autres magistrats cités sont du siège.",
+     "ed": [
+      "Le juge des tutelles figure dans la liste des magistrats du siège de l'article 28 (7°).",
+      "Le juge d'instruction figure parmi les magistrats du siège (4° de l'article 28), même s'il mène des enquêtes.",
+      null,
+      "Le vice-président est un magistrat du siège (2° de l'article 28) ; il remplace notamment le président."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-03",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Qui est « l'organisateur » du tribunal de première instance selon l'article 38 de la loi n° 2025-219 ?",
+     "o": [
+      "Le président du tribunal",
+      "Le procureur de la République",
+      "Le greffier en chef",
+      "Le ministre de la Justice"
+     ],
+     "a": 0,
+     "e": "L'article 38 dispose que le président du tribunal est l'organisateur de sa juridiction ; le procureur organise, lui, le parquet près le tribunal (article 39).",
+     "ed": [
+      null,
+      "Le procureur de la République est le chef et l'organisateur du parquet (article 39), pas de toute la juridiction.",
+      "Le greffier en chef dirige le greffe ; il n'organise pas la juridiction.",
+      "Le ministre de la Justice n'est pas l'organisateur interne d'un tribunal ; la loi confie ce rôle au président."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-04",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Selon l'article 5 du Code de procédure civile, commerciale et administrative, pourquoi dit-on que le tribunal de première instance est le juge de droit commun ?",
+     "o": [
+      "Parce qu'il juge seulement les affaires que la loi lui attribue expressément",
+      "Parce qu'il juge en appel les décisions des autres tribunaux",
+      "Parce que ses jugements ne peuvent jamais être frappés d'appel",
+      "Parce qu'il connaît de toutes les affaires qu'aucun texte n'attribue expressément à une autre juridiction"
+     ],
+     "a": 3,
+     "e": "L'article 5 donne au TPI compétence pour toutes les affaires civiles, commerciales, administratives et fiscales pour lesquelles compétence n'est pas attribuée expressément à une autre juridiction : c'est sa compétence de principe.",
+     "ed": [
+      "C'est l'inverse : un juge qui ne connaît que des affaires expressément attribuées est un juge d'exception.",
+      "L'appel des décisions des juridictions de première instance relève de la cour d'appel (article 8).",
+      "Ses jugements sont souvent susceptibles d'appel, notamment au-delà de 500 000 francs (article 6).",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative (version au 27 mai 2022)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-05",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "En audience ordinaire, combien de juges doit compter au moins un tribunal de première instance qui siège en formation collégiale ?",
+     "o": [
+      "Deux juges",
+      "Trois juges",
+      "Cinq juges",
+      "Tous les magistrats du siège"
+     ],
+     "a": 1,
+     "e": "L'article 35 de la loi n° 2025-219 dispose qu'en audience ordinaire le tribunal siège en nombre impair et comprend au moins trois juges.",
+     "ed": [
+      "Deux est un nombre pair ; l'article 35 exige un nombre impair et au moins trois juges.",
+      null,
+      "Cinq juges sont permis, mais le minimum fixé par l'article 35 est de trois.",
+      "L'ensemble des magistrats du siège ne se réunit qu'en audience solennelle (article 33)."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-06",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Dans quel texte se trouvent le siège, le ressort et le nombre des chambres d'un tribunal de première instance ?",
+     "o": [
+      "Dans la Constitution",
+      "Dans un arrêté du président du tribunal",
+      "Dans un décret pris en Conseil des ministres",
+      "Dans une ordonnance du procureur de la République"
+     ],
+     "a": 2,
+     "e": "L'article 2 de la loi n° 2025-219 renvoie à un décret pris en Conseil des ministres pour la création, le siège, le ressort et le nombre des chambres des juridictions autres que les hautes juridictions et le tribunal des conflits.",
+     "ed": [
+      "La Constitution ne fixe pas le siège de chaque tribunal ; la loi renvoie ce point au décret.",
+      "Le président organise le service de sa juridiction, mais il ne fixe ni son siège ni son ressort.",
+      null,
+      "Le procureur dirige le parquet ; il ne crée pas de juridiction et n'en fixe pas le ressort."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-07",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "M. Yao réclame 420 000 francs à un ancien associé dans un litige commercial. Comment statue le tribunal de première instance ?",
+     "o": [
+      "En premier ressort, à charge d'appel",
+      "En premier et dernier ressort",
+      "En dernier ressort seulement après avis du parquet",
+      "Il doit se déclarer incompétent au profit de la cour d'appel"
+     ],
+     "a": 1,
+     "e": "L'article 6 du Code de procédure civile prévoit qu'en matière civile et commerciale le TPI statue en premier et dernier ressort sur les demandes dont l'intérêt n'excède pas 500 000 francs ; 420 000 francs est en dessous du seuil.",
+     "ed": [
+      "Le premier ressort vise les demandes supérieures à 500 000 francs ou indéterminées ; 420 000 francs ne dépasse pas le seuil.",
+      null,
+      "Le texte ne subordonne pas le dernier ressort à un avis du parquet.",
+      "La cour d'appel n'est pas juge de premier degré : le TPI reste compétent."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative (version au 27 mai 2022)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-08",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Une commune est assignée devant le tribunal de première instance pour une demande de 200 000 francs. Le jugement sera-t-il rendu en dernier ressort ?",
+     "o": [
+      "Oui, car la somme n'excède pas 500 000 francs",
+      "Oui, car les personnes publiques ne peuvent jamais faire appel",
+      "Non, car les demandes mettant en cause une personne publique sont jugées en premier ressort",
+      "Non, car seule la cour d'appel peut juger une commune"
+     ],
+     "a": 2,
+     "e": "L'article 6 du Code de procédure civile range parmi les demandes jugées en premier ressort celles qui mettent en cause une personne publique, quel que soit leur montant ; l'appel reste donc possible.",
+     "ed": [
+      "Le seuil de 500 000 francs ne joue pas ici : la présence d'une personne publique entraîne le premier ressort.",
+      "Le texte prévoit au contraire le premier ressort, qui ouvre l'appel, pour les litiges mettant en cause une personne publique.",
+      null,
+      "La cour d'appel juge en second degré ; le TPI est compétent en premier degré."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative (version au 27 mai 2022)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-09",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Un créancier domicilié à Abengourou veut poursuivre son débiteur domicilié à Bondoukou dans un litige civil ordinaire. Quel tribunal est en principe territorialement compétent ?",
+     "o": [
+      "Celui dont relève le domicile du créancier, à Abengourou",
+      "Celui dont relève le domicile du débiteur, à Bondoukou",
+      "Celui d'Abidjan, siège des hautes juridictions",
+      "Celui que le créancier choisit librement"
+     ],
+     "a": 1,
+     "e": "L'article 11 du Code de procédure civile désigne en matière civile le tribunal du domicile réel ou élu du défendeur ; ici le défendeur est le débiteur, domicilié à Bondoukou.",
+     "ed": [
+      "Le domicile du demandeur n'est pas le critère de principe : la loi protège le défendeur.",
+      null,
+      "La présence des hautes juridictions à Abidjan ne donne aucune compétence de premier degré au tribunal d'Abidjan.",
+      "Le demandeur ne choisit pas librement : la règle de principe vise le domicile du défendeur."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative (version au 27 mai 2022)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-10",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Un tribunal de première instance compte trop peu de magistrats du siège pour former une collégialité. Que prévoit la loi n° 2025-219 ?",
+     "o": [
+      "Il doit renvoyer toutes ses affaires à la cour d'appel",
+      "Le procureur de la République complète la formation",
+      "Le tribunal est composé par un juge unique",
+      "Le greffier siège comme juge assesseur"
+     ],
+     "a": 2,
+     "e": "L'article 35 prévoit le juge unique lorsque le nombre de magistrats du siège d'une juridiction de premier degré est insuffisant pour constituer une formation collégiale.",
+     "ed": [
+      "Aucun renvoi à la cour d'appel n'est prévu : la loi organise le juge unique.",
+      "Le procureur est un magistrat du parquet ; il ne peut pas juger.",
+      null,
+      "Le greffier assiste le tribunal ; il ne juge pas."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-11",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Un TPI tient une audience foraine dans une localité de son ressort. Quelle affirmation est exacte ?",
+     "o": [
+      "Il n'y peut juger que les affaires pénales",
+      "Il y statue dans la plénitude de sa compétence",
+      "Il y siège obligatoirement à juge unique",
+      "Il lui faut l'autorisation de la Cour de cassation"
+     ],
+     "a": 1,
+     "e": "L'article 37 de la loi n° 2025-219 dispose que le tribunal tient des audiences foraines dans son ressort, dans la plénitude de sa compétence, toutes les fois que les besoins du service l'exigent.",
+     "ed": [
+      "L'article 37 ne limite pas l'audience foraine aux affaires pénales.",
+      null,
+      "L'article 37 n'impose pas de juge unique ; les règles ordinaires de composition s'appliquent.",
+      "Le texte lie l'audience foraine aux besoins du service, sans autorisation de la Cour de cassation."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-12",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Le président d'un TPI est empêché. Selon l'article 30 de la loi n° 2025-219, qui le remplace ?",
+     "o": [
+      "Le procureur de la République",
+      "Le juge le plus jeune",
+      "Le vice-président le plus ancien dans le grade le plus élevé",
+      "Le greffier en chef"
+     ],
+     "a": 2,
+     "e": "L'article 30 prévoit que le président du tribunal est remplacé par le vice-président le plus ancien dans le grade le plus élevé.",
+     "ed": [
+      "Le procureur appartient au parquet ; il ne peut pas présider une juridiction de jugement.",
+      "La loi retient l'ancienneté dans le grade le plus élevé, pas la jeunesse.",
+      null,
+      "Le greffier en chef dirige le greffe ; il ne remplace pas le président."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-13",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Deux plaideurs signent un accord pour soumettre leur litige commercial à une juridiction normalement incompétente pour cette matière. Cet accord est-il valable ?",
+     "o": [
+      "Oui, car la liberté contractuelle prime",
+      "Oui, si le procureur l'approuve",
+      "Non, car les règles de compétence d'attribution sont d'ordre public",
+      "Non, car seule la Cour de cassation peut juger les litiges commerciaux"
+     ],
+     "a": 2,
+     "e": "L'article 9 du Code de procédure civile dispose que les règles de compétence d'attribution sont d'ordre public : les parties ne peuvent pas y déroger par convention.",
+     "ed": [
+      "L'ordre public limite la liberté contractuelle : les parties ne peuvent pas écarter ces règles.",
+      "Aucune approbation du procureur ne peut valider un tel accord.",
+      null,
+      "La Cour de cassation ne juge pas les litiges commerciaux en premier degré."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative (version au 27 mai 2022)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-14",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Le tribunal de première instance siège en matière pénale. Quelle règle de la loi n° 2025-219 s'applique alors à l'audience ?",
+     "o": [
+      "La présence du ministère public est obligatoire",
+      "Le greffier peut être absent sans formalité",
+      "L'audience se tient toujours en chambre du conseil",
+      "Le tribunal doit réunir tous les magistrats du siège"
+     ],
+     "a": 0,
+     "e": "L'article 35 rend obligatoire la présence du ministère public devant le TPI lorsqu'il siège en matière pénale, ainsi que dans les matières obligatoirement communicables au ministère public.",
+     "ed": [
+      null,
+      "Le tribunal est assisté d'un greffier ; s'il manque, le président désigne un greffier ad hoc par ordonnance.",
+      "La chambre du conseil n'est utilisée que dans les cas prévus par la loi (article 36).",
+      "La réunion de tous les magistrats du siège caractérise l'audience solennelle, non l'audience pénale ordinaire."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-15",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Laquelle de ces affirmations sur les sections détachées est FAUSSE ?",
+     "o": [
+      "Le Code de procédure civile leur reconnaît un ressort territorial propre",
+      "Jusqu'à leur érection en TPI, elles conservent leur composition et leur fonctionnement",
+      "Un décret de juillet 2025 a érigé les trente-cinq sections existantes en TPI",
+      "La loi n° 2025-219 en fait une nouvelle catégorie de juridictions de premier degré"
+     ],
+     "a": 3,
+     "e": "La loi n° 2025-219 supprime les sections détachées : son article 27 ne les cite pas et son article 54 ne les maintient que jusqu'à leur érection en tribunaux de première instance.",
+     "ed": [
+      "C'est exact : l'article 10 du Code de procédure civile exclut du ressort du TPI le ressort propre des sections qui en sont détachées.",
+      "C'est exact : l'article 54 de la loi n° 2025-219 le prévoit à titre transitoire.",
+      "C'est exact : le Conseil des ministres du 30 juillet 2025 a adopté ce décret en application de la loi.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-16",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Une action relative à l'état d'une personne ne porte sur aucune somme d'argent. Comment le TPI statue-t-il ?",
+     "o": [
+      "En premier et dernier ressort, puisque l'enjeu financier est nul",
+      "En premier ressort, car l'état des personnes est expressément visé par l'article 6",
+      "Il est incompétent : l'état des personnes relève de la cour d'appel",
+      "Il statue en chambre du conseil, sans possibilité d'appel"
+     ],
+     "a": 1,
+     "e": "L'article 6 du Code de procédure civile range les demandes relatives à l'état des personnes parmi celles jugées en premier ressort, ce qui ouvre l'appel quel que soit l'enjeu financier.",
+     "ed": [
+      "L'absence de somme d'argent ne mène pas au dernier ressort : l'état des personnes est expressément jugé en premier ressort.",
+      null,
+      "La cour d'appel ne juge pas ces affaires en premier degré ; le TPI est compétent.",
+      "Statuer en chambre du conseil, dans les cas prévus par la loi, ne supprime pas l'appel."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative (version au 27 mai 2022)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-17",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Un candidat écrit : « L'organisation des tribunaux de première instance est régie par la loi n° 61-155 du 18 mai 1961. » Pourquoi a-t-il tort ?",
+     "o": [
+      "Parce que cette loi a été remplacée par la Constitution de 2016",
+      "Parce que cette loi ne concernait que les juridictions administratives",
+      "Parce que l'article 55 de la loi n° 2025-219 l'a abrogée",
+      "Parce que cette loi n'a jamais été publiée"
+     ],
+     "a": 2,
+     "e": "L'article 55 de la loi n° 2025-219 portant organisation des juridictions abroge la loi n° 61-155 du 18 mai 1961 portant organisation judiciaire, telle que modifiée.",
+     "ed": [
+      "La Constitution n'a pas abrogé cette loi : c'est la loi n° 2025-219 qui l'a fait.",
+      "La loi de 1961 portait organisation judiciaire en général, pas seulement administrative.",
+      null,
+      "Rien n'indique une absence de publication : elle a bien été appliquée puis abrogée en 2025."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-18",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Dans lequel de ces cas le tribunal de première instance ne siège-t-il PAS à juge unique, sauf autre disposition de la loi ?",
+     "o": [
+      "Le tribunal manque de magistrats du siège pour former une collégialité",
+      "Le tribunal correctionnel juge un délit de police de la circulation",
+      "Une disposition expresse de la loi prévoit le juge unique",
+      "Le tribunal juge en audience ordinaire un litige civil de 900 000 francs dans une juridiction aux effectifs complets"
+     ],
+     "a": 3,
+     "e": "Hors les trois cas de l'article 35 de la loi n° 2025-219, le tribunal siège en nombre impair avec au moins trois juges ; un litige civil ordinaire dans une juridiction complète relève de la collégialité.",
+     "ed": [
+      "C'est le premier cas de juge unique prévu par l'article 35.",
+      "C'est le deuxième cas prévu par l'article 35 : délits de police de la circulation et accidents de la voie publique.",
+      "C'est le troisième cas prévu par l'article 35.",
+      null
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-19",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Un justiciable demande 500 000 francs exactement dans un litige civil. Comment statue le TPI ?",
+     "o": [
+      "En premier et dernier ressort, car la demande n'excède pas 500 000 francs",
+      "En premier ressort, car la demande atteint 500 000 francs",
+      "En premier ressort, car toute demande chiffrée ouvre l'appel",
+      "Il doit renvoyer l'affaire devant la cour d'appel"
+     ],
+     "a": 0,
+     "e": "L'article 6 prévoit le premier ressort pour un intérêt supérieur à 500 000 francs, et le premier et dernier ressort pour un intérêt qui n'excède pas 500 000 francs : 500 000 francs exactement n'excède pas le seuil.",
+     "ed": [
+      null,
+      "Le premier ressort exige un intérêt supérieur à 500 000 francs ; atteindre le seuil ne suffit pas.",
+      "Le texte distingue selon le montant ; toute demande chiffrée n'ouvre pas l'appel.",
+      "La cour d'appel ne juge pas en premier degré ; le TPI est compétent."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative (version au 27 mai 2022)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+     }
+    },
+    {
+     "id": "n20261109-oj04-20",
+     "m": "oj",
+     "tag": "niv-oj04",
+     "q": "Un candidat affirme : « Le juge d'instruction, qui enquête, appartient au parquet du TPI. » Quelle correction est juste ?",
+     "o": [
+      "Il a raison, car le juge d'instruction dépend du procureur de la République",
+      "Il a tort, car l'article 28 range le juge d'instruction parmi les magistrats du siège",
+      "Il a tort, car le juge d'instruction relève de la cour d'appel",
+      "Il a raison, car l'article 39 fait du juge d'instruction le chef du parquet"
+     ],
+     "a": 1,
+     "e": "L'article 28 de la loi n° 2025-219 cite « le ou les juges d'instruction » dans la liste des magistrats du siège ; le parquet ne comprend que le procureur, ses adjoints et ses substituts.",
+     "ed": [
+      "L'article 28 ne range pas le juge d'instruction sous l'autorité du procureur : il figure parmi les magistrats du siège.",
+      null,
+      "L'article 28 place le juge d'instruction au sein du tribunal de première instance.",
+      "L'article 39 fait du procureur de la République, et non du juge d'instruction, le chef du parquet."
+     ],
+     "src": {
+      "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+      "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+     }
+    },
+    {
+     "id": "n20261109-cm05-01",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Dans quel ouvrage de 1990 Joseph Nye a-t-il popularisé la notion de soft power ?",
+     "o": [
+      "Le Choc des civilisations",
+      "Bound to Lead",
+      "La Fin de l'histoire",
+      "Le Grand Échiquier"
+     ],
+     "a": 1,
+     "e": "Joseph Nye a popularisé le terme de soft power dans son livre de 1990 « Bound to Lead: The Changing Nature of American Power ».",
+     "ed": [
+      "« Le Choc des civilisations » est l'œuvre de Samuel Huntington, pas de Joseph Nye.",
+      null,
+      "« La Fin de l'histoire » est associée à Francis Fukuyama, non à Joseph Nye.",
+      "« Le Grand Échiquier » est un livre de Zbigniew Brzezinski, pas l'ouvrage où Nye lance le soft power."
+     ],
+     "src": {
+      "t": "Wikipedia (miroir IPFS) – Soft power",
+      "u": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Soft_power"
+     }
+    },
+    {
+     "id": "n20261109-cm05-02",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Selon la définition de Joseph Nye, le soft power est :",
+     "o": [
+      "la capacité d'attirer et de convaincre plutôt que de contraindre",
+      "l'usage de la coercition et du paiement",
+      "la puissance nucléaire de dissuasion",
+      "la capacité de lever des sanctions économiques"
+     ],
+     "a": 0,
+     "e": "Le soft power désigne la capacité d'attirer et de coopter plutôt que de contraindre ; il s'oppose au hard power, fondé sur la coercition et le paiement.",
+     "ed": [
+      null,
+      "La coercition et le paiement définissent le hard power, l'inverse du soft power.",
+      "La dissuasion nucléaire relève de la force militaire, donc du hard power.",
+      "Les sanctions sont un instrument de contrainte, donc de hard power."
+     ],
+     "src": {
+      "t": "Wikipedia (miroir IPFS) – Soft power",
+      "u": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Soft_power"
+     }
+    },
+    {
+     "id": "n20261109-cm05-03",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Le traité qui fonde l'OTAN date du 4 avril 1949. Où se trouve aujourd'hui le siège de l'Alliance ?",
+     "o": [
+      "À Washington",
+      "À New York",
+      "À Bruxelles",
+      "À Genève"
+     ],
+     "a": 2,
+     "e": "L'OTAN, fondée le 4 avril 1949, a son siège à Bruxelles ; elle y est installée depuis 1967 et a inauguré un nouveau siège en 2017.",
+     "ed": [
+      "Washington n'abrite pas le siège de l'OTAN, installé à Bruxelles.",
+      "New York abrite le siège de l'ONU, pas celui de l'OTAN.",
+      null,
+      "Genève accueille plusieurs organisations des Nations unies, mais pas l'OTAN."
+     ],
+     "src": {
+      "t": "Focus on Belgium – 75 years of NATO",
+      "u": "https://focusonbelgium.be/en/facts/75-years-nato-alliance-firmly-rooted-belgium"
+     }
+    },
+    {
+     "id": "n20261109-cm05-04",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Quel rang la Chine occupe-t-elle parmi les membres de l'OMC lorsqu'elle y adhère le 11 décembre 2001 ?",
+     "o": [
+      "Le 100e",
+      "Le 128e",
+      "Le 143e",
+      "Le 164e"
+     ],
+     "a": 2,
+     "e": "L'OMC indique que la Chine est devenue son 143e membre le 11 décembre 2001, après la signature de son protocole d'accession à Doha.",
+     "ed": [
+      "Le chiffre 100 ne correspond pas au rang d'adhésion de la Chine, qui est le 143e.",
+      "128 n'est pas le rang de la Chine : l'OMC la présente comme son 143e membre.",
+      null,
+      "164 dépasse de loin le rang de la Chine en 2001, qui est le 143e."
+     ],
+     "src": {
+      "t": "OMC – China's accession (Doha, 11 novembre 2001)",
+      "u": "https://www.wto.org/english/theWTo_e/minist_e/min01_e/min01_11nov_e.htm"
+     }
+    },
+    {
+     "id": "n20261109-cm05-05",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "En quelle année Xi Jinping a-t-il proposé la ceinture économique de la route de la soie, point de départ des Nouvelles routes de la soie ?",
+     "o": [
+      "2008",
+      "2013",
+      "2017",
+      "2020"
+     ],
+     "a": 1,
+     "e": "Xi Jinping a proposé la ceinture économique de la route de la soie le 7 septembre 2013 au Kazakhstan, puis la route de la soie maritime le 3 octobre 2013 en Indonésie.",
+     "ed": [
+      "2008 est l'année des Jeux olympiques de Pékin, pas du lancement des Nouvelles routes de la soie.",
+      null,
+      "En 2017, l'initiative existait déjà depuis quatre ans.",
+      "En 2020, l'initiative avait déjà sept ans."
+     ],
+     "src": {
+      "t": "Our China Story – Xi Jinping first proposed the Belt and Road Initiative",
+      "u": "https://ourchinastory.com/en/12718/Xi-Jinping-first-proposed-Belt-and-Road-Initiative"
+     }
+    },
+    {
+     "id": "n20261109-cm05-06",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Qui a forgé le sigle BRIC en 2001 ?",
+     "o": [
+      "Joseph Nye, professeur à Harvard",
+      "Jim O'Neill, économiste de Goldman Sachs",
+      "Jeffrey Sachs, économiste du développement",
+      "Kofi Annan, secrétaire général de l'ONU"
+     ],
+     "a": 1,
+     "e": "Le sigle BRIC a été formulé en 2001 par l'économiste Jim O'Neill, de Goldman Sachs, dans une étude intitulée « The World Needs Better Economic BRICs ».",
+     "ed": [
+      "Joseph Nye a popularisé le soft power ; il n'est pas l'auteur du sigle BRIC.",
+      null,
+      "Jeffrey Sachs n'est pas l'auteur du sigle : c'est Jim O'Neill.",
+      "Kofi Annan n'a pas inventé ce sigle, qui vient d'un économiste de banque."
+     ],
+     "src": {
+      "t": "SABTT (Afrique du Sud) – About BRICS",
+      "u": "https://sabtt.org.za/brics/about-brics"
+     }
+    },
+    {
+     "id": "n20261109-cm05-07",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Où se tient le premier sommet des chefs d'État des BRIC, en 2009 ?",
+     "o": [
+      "À Brasília",
+      "À New Delhi",
+      "À Iekaterinbourg",
+      "À Sanya"
+     ],
+     "a": 2,
+     "e": "Après des réunions ministérielles à partir de 2006, le premier sommet des BRIC se tient à Iekaterinbourg, en Russie, en 2009.",
+     "ed": [
+      "Brasília n'a pas accueilli le premier sommet de 2009, tenu en Russie.",
+      "New Delhi n'a pas accueilli le sommet fondateur de 2009.",
+      null,
+      "Sanya a accueilli le sommet de 2011, le premier avec l'Afrique du Sud, et non celui de 2009."
+     ],
+     "src": {
+      "t": "SABTT (Afrique du Sud) – About BRICS",
+      "u": "https://sabtt.org.za/brics/about-brics"
+     }
+    },
+    {
+     "id": "n20261109-cm05-08",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Dans quelle ville se trouve le siège de la Nouvelle Banque de développement créée par les BRICS ?",
+     "o": [
+      "Shanghai",
+      "Fortaleza",
+      "Moscou",
+      "Johannesburg"
+     ],
+     "a": 0,
+     "e": "L'accord créant la Nouvelle Banque de développement a été signé à Fortaleza le 15 juillet 2014 ; la banque a son siège à Shanghai, en Chine.",
+     "ed": [
+      null,
+      "Fortaleza est la ville de signature de l'accord en 2014, pas celle du siège.",
+      "Moscou n'abrite pas le siège de la banque, installé à Shanghai.",
+      "Johannesburg n'est pas le siège de la banque, installé à Shanghai."
+     ],
+     "src": {
+      "t": "Wikipedia – New Development Bank",
+      "u": "https://en.wikipedia.org/wiki/New_Development_Bank"
+     }
+    },
+    {
+     "id": "n20261109-cm05-09",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Quels pays sont devenus membres des BRICS le 1er janvier 2024 ?",
+     "o": [
+      "Égypte, Éthiopie, Iran, Émirats arabes unis",
+      "Nigeria, Égypte, Turquie, Indonésie",
+      "Argentine, Mexique, Égypte, Iran",
+      "Algérie, Éthiopie, Arabie saoudite, Vietnam"
+     ],
+     "a": 0,
+     "e": "L'Iran, l'Égypte, l'Éthiopie et les Émirats arabes unis ont rejoint l'organisation le 1er janvier 2024 ; l'Indonésie est devenue membre en janvier 2025.",
+     "ed": [
+      null,
+      "Le Nigeria est pays partenaire, la Turquie n'est ni membre ni partenaire, et l'Indonésie n'est entrée qu'en 2025.",
+      "L'Argentine et le Mexique ne font pas partie de l'élargissement du 1er janvier 2024.",
+      "L'Algérie et le Vietnam ne sont pas devenus membres ; l'Arabie saoudite n'a pas confirmé son adhésion."
+     ],
+     "src": {
+      "t": "Wikiwand – BRICS",
+      "u": "https://wikiwand.com/EN/BRICS"
+     }
+    },
+    {
+     "id": "n20261109-cm05-10",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Un pays d'Afrique de l'Ouest figure parmi les pays partenaires des BRICS. Lequel ?",
+     "o": [
+      "La Côte d'Ivoire",
+      "Le Sénégal",
+      "Le Nigeria",
+      "Le Ghana"
+     ],
+     "a": 2,
+     "e": "La liste des dix pays partenaires des BRICS comprend le Nigeria, aux côtés notamment du Vietnam, de la Biélorussie, de la Bolivie, du Kazakhstan, de Cuba, de la Malaisie, de la Thaïlande, de l'Ouganda et de l'Ouzbékistan.",
+     "ed": [
+      "La Côte d'Ivoire ne figure ni parmi les membres ni parmi les partenaires des BRICS.",
+      "Le Sénégal n'apparaît pas dans la liste des dix pays partenaires.",
+      null,
+      "Le Ghana n'apparaît pas dans la liste des dix pays partenaires."
+     ],
+     "src": {
+      "t": "All India Radio (newsonair) – Vietnam officially joins BRICS as partner country",
+      "u": "https://newsonair.gov.in/vietnam-officially-joins-brics-as-partner-country/"
+     }
+    },
+    {
+     "id": "n20261109-cm05-11",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Remettez dans l'ordre chronologique : A. premier sommet des BRIC ; B. sigle BRIC ; C. accord de Fortaleza ; D. élargissement à l'Égypte et à l'Éthiopie.",
+     "o": [
+      "B, A, C, D",
+      "A, B, C, D",
+      "B, C, A, D",
+      "B, A, D, C"
+     ],
+     "a": 0,
+     "e": "Le sigle date de 2001, le premier sommet de 2009 à Iekaterinbourg, l'accord de Fortaleza créant la banque de 2014, et l'élargissement du 1er janvier 2024.",
+     "ed": [
+      null,
+      "Le sommet de 2009 ne peut pas précéder le sigle créé en 2001.",
+      "L'accord de Fortaleza (2014) est postérieur au premier sommet (2009).",
+      "L'élargissement de 2024 est postérieur à l'accord de Fortaleza de 2014."
+     ],
+     "src": {
+      "t": "SABTT (Afrique du Sud) – About BRICS",
+      "u": "https://sabtt.org.za/brics/about-brics"
+     }
+    },
+    {
+     "id": "n20261109-cm05-12",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Le traité de Maastricht a été signé le 7 février 1992. Quand est-il entré en application ?",
+     "o": [
+      "Le 1er janvier 1993",
+      "Le 1er novembre 1993",
+      "Le 1er janvier 1995",
+      "Le 1er janvier 1999"
+     ],
+     "a": 1,
+     "e": "Signé le 7 février 1992 par les douze États membres de la CEE, le traité de Maastricht entre en application le 1er novembre 1993.",
+     "ed": [
+      "Le 1er janvier 1993 n'est pas la date d'entrée en application du traité, retardée au 1er novembre.",
+      null,
+      "Le 1er janvier 1995 est postérieur à l'entrée en application du traité.",
+      "Le 1er janvier 1999 est la date de lancement de l'euro, pas celle du traité."
+     ],
+     "src": {
+      "t": "Schoolmouv – Le traité de Maastricht (7 février 1992)",
+      "u": "https://www.schoolmouv.fr/cours/traite-de-maastricht-7-fevrier-1992/"
+     }
+    },
+    {
+     "id": "n20261109-cm05-13",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Depuis quand les billets et les pièces en euros circulent-ils ?",
+     "o": [
+      "Le 1er janvier 1999",
+      "Le 1er novembre 1993",
+      "Le 1er janvier 2002",
+      "Le 31 janvier 2020"
+     ],
+     "a": 2,
+     "e": "L'euro est lancé le 1er janvier 1999 comme monnaie scripturale ; les billets et pièces entrent en circulation le 1er janvier 2002 dans douze États.",
+     "ed": [
+      "Le 1er janvier 1999 marque le lancement de l'euro scriptural, sans billets ni pièces.",
+      "Le 1er novembre 1993 est l'entrée en application du traité de Maastricht.",
+      null,
+      "Le 31 janvier 2020 est la date du Brexit."
+     ],
+     "src": {
+      "t": "Historia (Parlement européen) – The euro turns 20",
+      "u": "https://historia.europa.eu/en/our-work/news/euro-eu-turns-20"
+     }
+    },
+    {
+     "id": "n20261109-cm05-14",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Le 24 mars 2014, après l'annexion de la Crimée, quelle décision les pays du G7 prennent-ils à l'égard de la Russie ?",
+     "o": [
+      "Ils l'excluent de l'ONU",
+      "Ils la suspendent du G8",
+      "Ils lui retirent son siège permanent au Conseil de sécurité",
+      "Ils l'excluent de l'OMC"
+     ],
+     "a": 1,
+     "e": "Réunis à La Haye le 24 mars 2014, les pays du G7 suspendent la Russie du G8 et annulent le sommet prévu à Sotchi.",
+     "ed": [
+      "Aucun État ne peut exclure seul un membre de l'ONU ; la Russie est restée membre.",
+      null,
+      "Le siège permanent est fixé par la Charte ; le G7 n'a aucun pouvoir sur lui.",
+      "Le G7 n'a pas exclu la Russie de l'OMC ; il l'a suspendue du G8."
+     ],
+     "src": {
+      "t": "Al Jazeera – G7 nations suspend Russia and scrap G8 summit (24 mars 2014)",
+      "u": "https://www.aljazeera.com/news/2014/3/24/g7-nations-suspend-russia-and-scrap-g8-summit"
+     }
+    },
+    {
+     "id": "n20261109-cm05-15",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "À quelle date la Russie lance-t-elle l'invasion à grande échelle de l'Ukraine ?",
+     "o": [
+      "Le 18 mars 2014",
+      "Le 24 mars 2014",
+      "Le 24 février 2022",
+      "Le 9 mai 2022"
+     ],
+     "a": 2,
+     "e": "La guerre commence en 2014 avec la prise de la Crimée ; l'invasion à grande échelle de l'Ukraine débute le 24 février 2022.",
+     "ed": [
+      "Le 18 mars 2014 est la date de signature des traités d'annexion de la Crimée.",
+      "Le 24 mars 2014 est la date de la suspension de la Russie du G8.",
+      null,
+      "Le 9 mai 2022 n'est pas la date du début de l'invasion, lancée en février."
+     ],
+     "src": {
+      "t": "Encyclopaedia Britannica – When did the Russia-Ukraine War begin?",
+      "u": "https://britannica.com/question/When-did-the-Russia-Ukraine-War-begin"
+     }
+    },
+    {
+     "id": "n20261109-cm05-16",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Un diplomate veut combiner la pression militaire et l'attraction culturelle dans une même stratégie. Quel concept de Joseph Nye décrit cette démarche ?",
+     "o": [
+      "Le hard power",
+      "Le soft power",
+      "Le smart power",
+      "La realpolitik"
+     ],
+     "a": 2,
+     "e": "Joseph Nye appelle smart power la capacité de combiner le hard power et le soft power dans une stratégie efficace.",
+     "ed": [
+      "Le hard power ne désigne que la contrainte et le paiement, sans l'attraction.",
+      "Le soft power ne désigne que l'attraction, sans la pression militaire.",
+      null,
+      "La realpolitik est une politique fondée sur les rapports de force ; ce n'est pas le concept de Nye qui associe les deux formes de puissance."
+     ],
+     "src": {
+      "t": "Wikiwand – Joseph Nye",
+      "u": "https://www.wikiwand.com/en/Joseph_Nye"
+     }
+    },
+    {
+     "id": "n20261109-cm05-17",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Laquelle de ces affirmations sur le Forum sur la coopération sino-africaine (FOCAC) est FAUSSE ?",
+     "o": [
+      "Sa première conférence ministérielle s'est tenue à Pékin en octobre 2000",
+      "Il se réunit tous les trois ans",
+      "Ses réunions alternent entre la Chine et un pays africain",
+      "Il se réunit chaque année à Addis-Abeba, au siège de l'Union africaine"
+     ],
+     "a": 3,
+     "e": "Le FOCAC se réunit tous les trois ans, en alternance entre un pays africain et la Chine ; il n'a pas de réunion annuelle fixe à Addis-Abeba.",
+     "ed": [
+      "C'est exact : la première conférence ministérielle s'est tenue à Pékin du 10 au 12 octobre 2000.",
+      "C'est exact : le FOCAC se réunit tous les trois ans.",
+      "C'est exact : les réunions alternent entre la Chine et un pays africain.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Forum on China–Africa Cooperation",
+      "u": "https://en.wikipedia.org/wiki/Forum_on_China%E2%80%93Africa_Cooperation"
+     }
+    },
+    {
+     "id": "n20261109-cm05-18",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Un candidat écrit : « La Côte d'Ivoire a rejoint les BRICS lors de l'élargissement de 2024. » Que faut-il lui répondre ?",
+     "o": [
+      "Il a raison, avec l'Égypte et l'Éthiopie",
+      "Il a tort : les pays africains entrés en 2024 sont l'Égypte et l'Éthiopie",
+      "Il a raison, mais seulement comme membre observateur",
+      "Il a tort : aucun pays africain n'est membre des BRICS"
+     ],
+     "a": 1,
+     "e": "L'élargissement du 1er janvier 2024 concerne l'Égypte, l'Éthiopie, l'Iran et les Émirats arabes unis ; la Côte d'Ivoire n'est ni membre ni partenaire.",
+     "ed": [
+      "La Côte d'Ivoire ne fait pas partie des pays entrés le 1er janvier 2024.",
+      null,
+      "Les BRICS distinguent membres et pays partenaires ; la Côte d'Ivoire n'est dans aucune des deux catégories.",
+      "C'est faux : l'Afrique du Sud, l'Égypte et l'Éthiopie sont membres."
+     ],
+     "src": {
+      "t": "Wikiwand – BRICS",
+      "u": "https://wikiwand.com/EN/BRICS"
+     }
+    },
+    {
+     "id": "n20261109-cm05-19",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Pourquoi dit-on souvent que les puissances émergentes sont des « puissances incomplètes » ?",
+     "o": [
+      "Parce qu'elles n'ont aucune croissance économique",
+      "Parce que le soft power leur fait souvent défaut malgré leur poids économique",
+      "Parce qu'elles ne sont pas membres de l'ONU",
+      "Parce qu'elles n'ont pas de frontières reconnues"
+     ],
+     "a": 1,
+     "e": "L'émergence repose sur une forte croissance du PIB pendant plusieurs années ; mais les émergents manquent souvent de soft power, d'où l'expression « puissances incomplètes ».",
+     "ed": [
+      "L'émergence se définit au contraire par une croissance forte et durable.",
+      null,
+      "Les grands émergents, comme l'Inde ou le Brésil, sont membres de l'ONU.",
+      "Les émergents ont des frontières reconnues ; ce n'est pas le critère de l'incomplétude."
+     ],
+     "src": {
+      "t": "Major Prépa – Définition de l'émergence",
+      "u": "https://major-prepa.com/geopolitique/definition-emergence-ordre-mondial/"
+     }
+    },
+    {
+     "id": "n20261109-cm05-20",
+     "m": "cmc",
+     "tag": "niv-cm05",
+     "q": "Sujet : « L'Union européenne est-elle une grande puissance ? ». Quel argument nuance le mieux l'idée de puissance européenne ?",
+     "o": [
+      "Elle compte 27 États membres depuis le Brexit",
+      "Elle a créé une monnaie commune, l'euro",
+      "Sa défense reste surtout nationale ou assurée par l'OTAN, faute d'armée commune",
+      "Elle a signé l'accord de Samoa avec les pays de l'OEACP"
+     ],
+     "a": 2,
+     "e": "Une grande puissance réunit des moyens économiques, diplomatiques et militaires ; l'Union pèse par son marché et ses accords, mais sa défense reste nationale ou relève de l'OTAN, ce qui limite son hard power.",
+     "ed": [
+      "Le nombre de membres est un fait de poids, il ne nuance pas sa puissance.",
+      "L'euro est un atout de puissance économique ; il renforce l'idée au lieu de la nuancer.",
+      null,
+      "L'accord de Samoa illustre son influence diplomatique ; il ne nuance pas l'idée de puissance."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261109-mp07-01",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Dans le modèle de Shannon et Weaver, quel est l'ordre des cinq composantes de la communication ?",
+     "o": [
+      "Source, émetteur, canal, récepteur, destination",
+      "Émetteur, source, récepteur, canal, destination",
+      "Source, canal, émetteur, destination, récepteur",
+      "Destination, récepteur, canal, émetteur, source"
+     ],
+     "a": 0,
+     "e": "Le modèle de Shannon et Weaver décrit cinq composantes dans l'ordre du trajet du message : une source, un émetteur, un canal, un récepteur et une destination.",
+     "ed": [
+      null,
+      "La source précède l'émetteur : c'est elle qui produit le message que l'émetteur transforme en signal.",
+      "Le canal se situe entre l'émetteur et le récepteur, pas entre la source et l'émetteur.",
+      "Cet ordre est inversé : le message part de la source et arrive à la destination."
+     ],
+     "src": {
+      "t": "Wikipedia – Shannon–Weaver model",
+      "u": "https://en.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model"
+     }
+    },
+    {
+     "id": "n20261109-mp07-02",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Quelle formule résume le modèle de la communication de Harold Lasswell (1948) ?",
+     "o": [
+      "Planifier, organiser, diriger, contrôler",
+      "Qui dit quoi, par quel canal, à qui, avec quel effet ?",
+      "Intelligence, conception, choix",
+      "Forces, faiblesses, opportunités, menaces"
+     ],
+     "a": 1,
+     "e": "Lasswell résume la communication en cinq questions : qui dit quoi, par quel canal, à qui, avec quel effet ? Chacune renvoie à un champ d'étude.",
+     "ed": [
+      "Planifier, organiser, diriger, contrôler résume les fonctions du management, pas un modèle de communication.",
+      null,
+      "Intelligence, conception, choix sont les étapes de la décision selon Herbert Simon.",
+      "Forces, faiblesses, opportunités, menaces sont les quatre cases de l'analyse SWOT."
+     ],
+     "src": {
+      "t": "Wikipedia – Lasswell's model of communication",
+      "u": "https://en.wikipedia.org/wiki/Lasswell%27s_model_of_communication"
+     }
+    },
+    {
+     "id": "n20261109-mp07-03",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Un rapport d'activité rédigé par un agent et transmis à son directeur relève de quel type de communication interne ?",
+     "o": [
+      "Descendante",
+      "Horizontale",
+      "Ascendante",
+      "Externe"
+     ],
+     "a": 2,
+     "e": "La communication ascendante part des agents pour remonter vers la direction : un rapport transmis au supérieur en est l'exemple type.",
+     "ed": [
+      "La communication descendante va de la hiérarchie vers les agents, dans le sens inverse.",
+      "La communication horizontale relie des personnes de même niveau hiérarchique.",
+      null,
+      "Le rapport circule à l'intérieur de l'organisation : ce n'est pas de la communication externe."
+     ],
+     "src": {
+      "t": "Université de Béjaïa – Chapitre 5 : La communication organisationnelle (cours)",
+      "u": "https://elearning.univ-bejaia.dz/pluginfile.php/1516688/mod_resource/content/1/La%20communication%20organisationnelle.pdf"
+     }
+    },
+    {
+     "id": "n20261109-mp07-04",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "À quoi sert principalement une note de service ?",
+     "o": [
+      "À informer le public des décisions de l'administration",
+      "À fixer les règles de fonctionnement interne et tracer les directives",
+      "À répondre à la demande d'information d'un journaliste",
+      "À saisir la CAIDP d'un refus d'information"
+     ],
+     "a": 1,
+     "e": "La note de service est un outil de communication interne descendante : elle sert à fixer les règles de fonctionnement interne et à tracer les directives.",
+     "ed": [
+      "Informer le public relève de la communication externe (communiqué, avis), pas de la note de service.",
+      null,
+      "La réponse à un journaliste relève de la communication externe et de la loi n° 2013-867.",
+      "La saisine de la CAIDP est une démarche du demandeur d'information, pas l'objet d'une note de service."
+     ],
+     "src": {
+      "t": "Université de Béjaïa – Chapitre 5 : La communication organisationnelle (cours)",
+      "u": "https://elearning.univ-bejaia.dz/pluginfile.php/1516688/mod_resource/content/1/La%20communication%20organisationnelle.pdf"
+     }
+    },
+    {
+     "id": "n20261109-mp07-05",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Selon la loi ivoirienne n° 2013-867 du 23 décembre 2013, quelle est la nature de la CAIDP ?",
+     "o": [
+      "Une direction du ministère de la Communication",
+      "Une juridiction administrative",
+      "Une autorité administrative indépendante",
+      "Une association de journalistes"
+     ],
+     "a": 2,
+     "e": "L'article 19 de la loi n° 2013-867 institue la Commission d'accès à l'information d'intérêt public et aux documents publics, autorité administrative indépendante chargée de veiller à l'application de la loi.",
+     "ed": [
+      "La CAIDP n'est pas une direction ministérielle : la loi la qualifie d'autorité administrative indépendante.",
+      "Elle n'est pas une juridiction, même si elle dispose d'un pouvoir d'injonction et de sanction.",
+      null,
+      "La CAIDP est un organisme public créé par la loi, non une association professionnelle."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2013-867 du 23 décembre 2013 relative à l'accès à l'information d'intérêt public",
+      "u": "https://faolex.fao.org/docs/pdf/Ivc184741.pdf"
+     }
+    },
+    {
+     "id": "n20261109-mp07-06",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Qui a reçu le prix Nobel d'économie en 1978 pour ses recherches sur le processus de décision dans les organisations ?",
+     "o": [
+      "Herbert Simon",
+      "Charles Lindblom",
+      "Henri Fayol",
+      "Alex Osborn"
+     ],
+     "a": 0,
+     "e": "Herbert Simon a reçu le prix Nobel d'économie en 1978 pour ses recherches pionnières sur le processus de décision au sein des organisations économiques.",
+     "ed": [
+      null,
+      "Charles Lindblom est l'auteur de l'incrémentalisme (1959), il n'a pas reçu ce prix Nobel.",
+      "Henri Fayol est le théoricien des fonctions de l'administration (prévoir, organiser, commander, coordonner, contrôler), pas le lauréat de 1978.",
+      "Alex Osborn est le créateur du brainstorming, pas un lauréat du prix Nobel."
+     ],
+     "src": {
+      "t": "Econlib – Herbert A. Simon (biographie)",
+      "u": "https://www.econlib.org/library/Enc/bios/Simon.html"
+     }
+    },
+    {
+     "id": "n20261109-mp07-07",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Un usager dépose une demande écrite d'accès à un document public auprès d'une direction régionale. Il n'est ni journaliste ni chercheur. Quel est le délai maximal de réponse prévu par la loi n° 2013-867 ?",
+     "o": [
+      "Huit jours",
+      "Quinze jours",
+      "Trente jours",
+      "Soixante jours"
+     ],
+     "a": 2,
+     "e": "L'article 12 de la loi n° 2013-867 impose une réponse écrite dans un délai maximum de trente jours à compter de la réception de la demande ; le délai de quinze jours est réservé aux chercheurs et journalistes professionnels.",
+     "ed": [
+      "Huit jours ne correspond à aucun délai prévu par l'article 12.",
+      "Quinze jours est le délai réservé aux chercheurs et aux journalistes professionnels.",
+      null,
+      "Soixante jours dépasse le délai maximal de l'article 12, même si l'article 13 permet un renouvellement unique."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2013-867 du 23 décembre 2013 relative à l'accès à l'information d'intérêt public",
+      "u": "https://faolex.fao.org/docs/pdf/Ivc184741.pdf"
+     }
+    },
+    {
+     "id": "n20261109-mp07-08",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Un directeur veut que les deux chefs de bureau d'une même sous-direction coordonnent leurs plannings sans passer par lui. Quel flux de communication encourage-t-il ?",
+     "o": [
+      "La communication horizontale",
+      "La communication descendante",
+      "La communication ascendante",
+      "La communication externe"
+     ],
+     "a": 0,
+     "e": "La communication horizontale s'établit entre personnes de même niveau hiérarchique ; elle permet la coordination directe entre services.",
+     "ed": [
+      null,
+      "La descendante irait du directeur vers les chefs de bureau, ce qu'il veut justement éviter.",
+      "L'ascendante remonterait des chefs de bureau vers le directeur.",
+      "Les deux bureaux appartiennent à la même organisation : le flux reste interne."
+     ],
+     "src": {
+      "t": "Université de Béjaïa – Chapitre 5 : La communication organisationnelle (cours)",
+      "u": "https://elearning.univ-bejaia.dz/pluginfile.php/1516688/mod_resource/content/1/La%20communication%20organisationnelle.pdf"
+     }
+    },
+    {
+     "id": "n20261109-mp07-09",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Lors d'une séance de brainstorming, un participant critique aussitôt chaque idée émise. Quelle règle d'Alex Osborn est violée ?",
+     "o": [
+      "Viser la quantité",
+      "Suspendre la critique",
+      "Combiner et améliorer les idées",
+      "Désigner un responsable pour chaque action"
+     ],
+     "a": 1,
+     "e": "Les quatre règles du brainstorming d'Osborn sont : viser la quantité, suspendre la critique, accueillir les idées folles, combiner et améliorer les idées. Critiquer immédiatement viole la règle de la suspension de la critique.",
+     "ed": [
+      "Le participant ne freine pas directement la quantité ; la règle visée est la suspension du jugement.",
+      null,
+      "Combiner les idées est une règle positive ; le comportement décrit viole la règle sur la critique.",
+      "Désigner un responsable relève de la clôture d'une réunion de décision, pas des règles d'Osborn."
+     ],
+     "src": {
+      "t": "Wikipedia – Brainstorming",
+      "u": "https://en.wikipedia.org/wiki/Brainstorming"
+     }
+    },
+    {
+     "id": "n20261109-mp07-10",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Un chef de service doit choisir un prestataire. Faute de temps, il retient la première offre qui respecte le budget et le délai, sans comparer toutes les offres possibles. Quel concept de Herbert Simon décrit ce comportement ?",
+     "o": [
+      "L'incrémentalisme",
+      "La rationalité limitée et la recherche d'une solution satisfaisante",
+      "Le modèle de la poubelle",
+      "Le principe de Pareto"
+     ],
+     "a": 1,
+     "e": "Pour Simon, la rationalité est limitée car l'information coûte cher et l'avenir est incertain : le décideur retient une solution satisfaisante, qui atteint un niveau jugé suffisant, plutôt que la meilleure solution possible.",
+     "ed": [
+      "L'incrémentalisme de Lindblom décrit des ajustements par petits pas d'une politique existante, pas le choix d'une offre satisfaisante.",
+      null,
+      "Le modèle de la poubelle décrit une rencontre désordonnée de problèmes et de solutions, non un choix délibéré sous contrainte.",
+      "Le principe de Pareto concerne la concentration des effets sur quelques causes."
+     ],
+     "src": {
+      "t": "Econlib – Herbert A. Simon (biographie)",
+      "u": "https://www.econlib.org/library/Enc/bios/Simon.html"
+     }
+    },
+    {
+     "id": "n20261109-mp07-11",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Avant de proposer des solutions au retard des paiements dans son service, un gestionnaire collecte des données sur les causes du retard. Quelle étape du modèle de Simon accomplit-il ?",
+     "o": [
+      "L'intelligence",
+      "La conception",
+      "Le choix",
+      "Le contrôle"
+     ],
+     "a": 0,
+     "e": "Herbert Simon distingue trois étapes : l'intelligence, où l'on identifie et comprend le problème, la conception des solutions, puis le choix ; collecter des données sur les causes relève de l'intelligence.",
+     "ed": [
+      null,
+      "La conception consiste à imaginer des solutions ; ici le gestionnaire étudie encore le problème.",
+      "Le choix intervient après la conception, quand on retient une solution.",
+      "Le contrôle n'est pas l'une des trois étapes décrites par Simon, et rien n'est encore à contrôler."
+     ],
+     "src": {
+      "t": "UBS Nobel Perspectives – Herbert Simon : the stages of decision-making",
+      "u": "https://www.ubs.com/global/en/our-firm/what-we-do/our-brand/nobel-perspectives/laureates/behavioral-economics/stages-of-decision-making.html"
+     }
+    },
+    {
+     "id": "n20261109-mp07-12",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Chaque année, un ministère reconduit son budget en ne modifiant que quelques lignes par rapport à l'année précédente. Quel modèle de décision illustre cette pratique ?",
+     "o": [
+      "Le modèle rationnel exhaustif",
+      "L'incrémentalisme de Charles Lindblom",
+      "Le brainstorming",
+      "L'analyse SWOT"
+     ],
+     "a": 1,
+     "e": "Lindblom (1959) observe que les administrateurs comparent surtout des politiques qui diffèrent peu de la politique en vigueur : c'est l'incrémentalisme, le changement par petits pas.",
+     "ed": [
+      "Le modèle rationnel exhaustif reconstruirait toutes les options à partir de zéro, ce que le ministère ne fait pas.",
+      null,
+      "Le brainstorming est une technique de production d'idées, non un modèle de décision budgétaire.",
+      "L'analyse SWOT est un outil de diagnostic stratégique, pas une description de la reconduction budgétaire."
+     ],
+     "src": {
+      "t": "Wikipedia – Charles E. Lindblom",
+      "u": "https://en.wikipedia.org/wiki/Charles_E._Lindblom"
+     }
+    },
+    {
+     "id": "n20261109-mp07-13",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Dans une analyse SWOT d'une mairie, où classer la mise en service d'une nouvelle route nationale qui facilitera l'accès des usagers ?",
+     "o": [
+      "Une force",
+      "Une faiblesse",
+      "Une opportunité",
+      "Une menace"
+     ],
+     "a": 2,
+     "e": "Dans l'analyse SWOT, forces et faiblesses sont surtout internes, opportunités et menaces surtout externes ; une route construite par l'État est un facteur externe favorable, donc une opportunité.",
+     "ed": [
+      "Une force est un atout interne à la mairie ; la route ne dépend pas de son organisation.",
+      "Une faiblesse est un défaut interne ; la route est un facteur externe et favorable.",
+      null,
+      "Une menace est un facteur externe défavorable ; la route facilite au contraire l'accès des usagers."
+     ],
+     "src": {
+      "t": "Wikipedia (miroir IPFS) – SWOT analysis",
+      "u": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/SWOT_analysis"
+     }
+    },
+    {
+     "id": "n20261109-mp07-14",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Selon la loi n° 2013-867, quelle obligation pèse sur chaque organisme public pour organiser l'accès à l'information ?",
+     "o": [
+      "Publier chaque jour un communiqué de presse",
+      "Désigner en son sein un responsable de l'information",
+      "Créer son propre journal interne",
+      "Obtenir l'accord du CICG avant toute réponse"
+     ],
+     "a": 1,
+     "e": "L'article 10 de la loi n° 2013-867 impose aux organismes publics de désigner en leur sein un responsable de l'information, interlocuteur des demandeurs.",
+     "ed": [
+      "La loi n'impose aucun communiqué quotidien.",
+      null,
+      "Le journal interne est un outil de communication interne facultatif, non une obligation de la loi.",
+      "La loi ne subordonne pas les réponses à un accord du CICG."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2013-867 du 23 décembre 2013 relative à l'accès à l'information d'intérêt public",
+      "u": "https://faolex.fao.org/docs/pdf/Ivc184741.pdf"
+     }
+    },
+    {
+     "id": "n20261109-mp07-15",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Laquelle de ces affirmations sur la loi n° 2013-867 relative à l'accès à l'information d'intérêt public est FAUSSE ?",
+     "o": [
+      "Elle s'applique notamment à l'État et à ses démembrements",
+      "Les délais de réponse peuvent être renouvelés une seule fois",
+      "La CAIDP dispose d'un pouvoir d'injonction et de sanction",
+      "Les journalistes doivent attendre soixante jours une réponse"
+     ],
+     "a": 3,
+     "e": "L'article 12 réduit le délai à quinze jours pour les journalistes professionnels et les chercheurs ; aucun délai de soixante jours ne leur est imposé.",
+     "ed": [
+      "C'est exact : l'article 1 range l'État et ses démembrements parmi les organismes publics.",
+      "C'est exact : l'article 13 permet de renouveler les délais une seule fois.",
+      "C'est exact : la loi confère à la CAIDP un pouvoir d'injonction et de sanction.",
+      null
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2013-867 du 23 décembre 2013 relative à l'accès à l'information d'intérêt public",
+      "u": "https://faolex.fao.org/docs/pdf/Ivc184741.pdf"
+     }
+    },
+    {
+     "id": "n20261109-mp07-16",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Un candidat écrit : « Le modèle de la poubelle de Cohen, March et Olsen recommande de prendre les décisions au hasard. » Que faut-il corriger ?",
+     "o": [
+      "Rien, c'est sa recommandation centrale",
+      "Le modèle décrit les anarchies organisées où problèmes et solutions se rencontrent de façon désordonnée ; il ne recommande rien",
+      "Ce modèle est de Herbert Simon, pas de Cohen, March et Olsen",
+      "Le modèle porte sur la communication, non sur la décision"
+     ],
+     "a": 1,
+     "e": "Le modèle de la poubelle (1972) est descriptif : il explique comment, dans des anarchies organisées aux préférences floues et à la participation fluide, problèmes, solutions, participants et occasions de choix se rencontrent.",
+     "ed": [
+      "Le modèle n'est pas une recommandation : il décrit une réalité observée.",
+      null,
+      "Le modèle est bien de Cohen, March et Olsen, publié en 1972.",
+      "Le modèle porte sur le choix organisationnel, donc sur la décision."
+     ],
+     "src": {
+      "t": "Wikipedia – Garbage can model",
+      "u": "https://en.wikipedia.org/wiki/Garbage_can_model"
+     }
+    },
+    {
+     "id": "n20261109-mp07-17",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Des agents apprennent par des bruits de couloir la fermeture prochaine de leur antenne. Quelle réaction du chef de service est la plus adaptée ?",
+     "o": [
+      "Interdire aux agents de parler de la fermeture",
+      "Attendre la décision définitive sans rien dire",
+      "Organiser rapidement une réunion d'information, puis confirmer par une note de service",
+      "Démentir la rumeur même si elle est fondée"
+     ],
+     "a": 2,
+     "e": "Quand l'information officielle manque, l'informel prend le relais. Le remède est de rétablir une communication descendante formelle rapide, d'abord orale pour répondre aux questions, puis écrite pour fixer l'information.",
+     "ed": [
+      "Interdire de parler ne supprime pas l'inquiétude et renforce souvent la rumeur.",
+      "Le silence laisse la rumeur occuper tout l'espace et dégrade la confiance.",
+      null,
+      "Démentir une information exacte ruine la crédibilité du chef dès que la vérité apparaît."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261109-mp07-18",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Une réunion hebdomadaire de service dure deux heures et se termine sans décision. Quelle mesure corrige le plus directement ce défaut ?",
+     "o": [
+      "Inviter davantage de participants",
+      "Supprimer toute prise de parole des agents",
+      "Fixer et diffuser à l'avance un ordre du jour avec l'objectif de la réunion, puis consigner les décisions et leurs responsables",
+      "Remplacer la réunion par des courriels sans réponse attendue"
+     ],
+     "a": 2,
+     "e": "Une réunion utile a un objectif annoncé et un ordre du jour communiqué à l'avance ; elle se termine par des décisions écrites, chacune avec un responsable et une date.",
+     "ed": [
+      "Plus de participants allonge souvent les débats sans rendre la réunion plus décisive.",
+      "Faire taire les agents prive la décision de leurs informations et décourage l'équipe.",
+      null,
+      "Des courriels sans retour suppriment l'échange au lieu de le rendre efficace."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261109-mp07-19",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Un agent envoie le même message important par courrier, par affichage et par SMS pour être sûr de toucher tous les usagers d'un village sans réseau internet. Dans le modèle de Lasswell, sur quel élément agit-il ?",
+     "o": [
+      "Le « qui » : l'émetteur",
+      "Le « quoi » : le message",
+      "Le « par quel canal » : le média",
+      "Le « avec quel effet » : l'effet"
+     ],
+     "a": 2,
+     "e": "Lasswell distingue qui, quoi, par quel canal, à qui et avec quel effet ; multiplier les supports pour un même message revient à agir sur le canal.",
+     "ed": [
+      "L'émetteur reste le même : c'est l'agent.",
+      "Le message est identique sur les trois supports.",
+      null,
+      "L'effet est le résultat recherché ; l'agent agit sur le moyen, c'est-à-dire le canal."
+     ],
+     "src": {
+      "t": "Wikipedia – Lasswell's model of communication",
+      "u": "https://en.wikipedia.org/wiki/Lasswell%27s_model_of_communication"
+     }
+    },
+    {
+     "id": "n20261109-mp07-20",
+     "m": "mop",
+     "tag": "niv-mp07",
+     "q": "Dans une étude de cas de management, quelle démarche correspond à la méthode des cas recommandée par la Harvard Kennedy School ?",
+     "o": [
+      "Lire le cas une fois et rédiger directement la solution",
+      "Se mettre à la place du décideur, identifier ses objectifs, ses options et leurs conséquences probables",
+      "Recopier les modèles du cours sans les relier aux faits",
+      "Accepter toutes les informations du cas sans esprit critique"
+     ],
+     "a": 1,
+     "e": "La méthode des cas demande au moins deux lectures, de se mettre à la place du décideur, d'identifier ses objectifs et les options possibles, puis d'évaluer les conséquences de chaque option, en gardant un léger scepticisme.",
+     "ed": [
+      "Le guide recommande au moins deux lectures ; une seule lecture expose aux contresens.",
+      null,
+      "Un modèle cité sans application aux faits n'apporte aucun diagnostic.",
+      "Le guide invite à rester légèrement sceptique face aux informations du cas."
+     ],
+     "src": {
+      "t": "Harvard Kennedy School – Learning by the Case Method (Gomez-Ibañez et Kalt)",
+      "u": "https://htup.law.harvard.edu/wp-content/uploads/2023/08/learning_by_case-methon_ksg_0.pdf"
+     }
+    },
+    {
+     "id": "n20261109-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 1er janvier 2026, un pays est devenu le 21e membre de la zone euro. Lequel ?",
+     "o": [
+      "La Roumanie",
+      "La Bulgarie",
+      "La Croatie",
+      "La Pologne"
+     ],
+     "a": 1,
+     "e": "Le 1er janvier 2026, la Bulgarie a adopté l'euro et est devenue le 21e membre de la zone euro.",
+     "ed": [
+      "La Roumanie n'a pas adopté l'euro au 1er janvier 2026 ; c'est la Bulgarie qui est devenue le 21e membre.",
+      null,
+      "La Croatie avait déjà adopté l'euro avant 2026 ; le 21e membre est la Bulgarie.",
+      "La Pologne n'a pas adopté l'euro ; le 21e membre de la zone euro est la Bulgarie."
+     ],
+     "src": {
+      "t": "Commission européenne (Learning Corner) – Bulgaria joins the euro (1er janvier 2026)",
+      "u": "https://learning-corner.learning.europa.eu/news-and-competitions/bulgaria-joins-euro-new-chapter-begins-2026-01-01_en"
+     }
+    },
+    {
+     "id": "n20261109-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'accord qui succède à l'accord de Cotonou entre l'Union européenne et les pays de l'OEACP a été signé le 15 novembre 2023. Dans quelle ville ?",
+     "o": [
+      "Cotonou",
+      "Bruxelles",
+      "Apia",
+      "Lomé"
+     ],
+     "a": 2,
+     "e": "L'accord de Samoa, successeur de l'accord de Cotonou, a été signé à Apia, capitale du Samoa, le 15 novembre 2023 ; il s'applique à titre provisoire depuis le 1er janvier 2024.",
+     "ed": [
+      "Cotonou a donné son nom à l'accord de 2000, celui que l'accord de Samoa remplace.",
+      "Bruxelles n'est pas le lieu de signature de l'accord de 2023, signé à Apia.",
+      null,
+      "Lomé a donné son nom à la convention de 1975, bien antérieure."
+     ],
+     "src": {
+      "t": "OEACP – 50-year legacy timeline",
+      "u": "https://www.oacps.org/50-year-legacy-timeline-01"
+     }
+    },
+    {
+     "id": "n20261109-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Où s'est tenu le premier sommet Russie-Afrique, les 23 et 24 octobre 2019 ?",
+     "o": [
+      "À Moscou",
+      "À Saint-Pétersbourg",
+      "À Sotchi",
+      "À Addis-Abeba"
+     ],
+     "a": 2,
+     "e": "Le premier sommet Russie-Afrique s'est tenu à Sotchi, en Russie, les 23 et 24 octobre 2019, avec 43 chefs d'État ou de gouvernement ; le deuxième a eu lieu à Saint-Pétersbourg en juillet 2023.",
+     "ed": [
+      "Moscou n'a pas accueilli le premier sommet de 2019, tenu à Sotchi.",
+      "Saint-Pétersbourg a accueilli le deuxième sommet, en juillet 2023.",
+      null,
+      "Addis-Abeba, siège de l'Union africaine, n'a pas accueilli ce sommet organisé en Russie."
+     ],
+     "src": {
+      "t": "Wikipedia – 2019 Russia–Africa Summit",
+      "u": "https://en.wikipedia.org/wiki/2019_Russia%E2%80%93Africa_Summit"
+     }
+    },
+    {
+     "id": "n20261109-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Combien d'États ont signé le traité de Rome du 25 mars 1957 créant la Communauté économique européenne ?",
+     "o": [
+      "Quatre",
+      "Six",
+      "Neuf",
+      "Douze"
+     ],
+     "a": 1,
+     "e": "Le traité de Rome, signé le 25 mars 1957 par six États fondateurs, crée la Communauté économique européenne ; il entre en vigueur le 1er janvier 1958.",
+     "ed": [
+      "Quatre est inférieur au nombre de signataires : ils étaient six.",
+      null,
+      "Neuf correspond à une Communauté déjà élargie, pas aux fondateurs de 1957.",
+      "Douze est le nombre d'États membres de la CEE lors de la signature du traité de Maastricht en 1992."
+     ],
+     "src": {
+      "t": "Wikipedia (miroir IPFS) – European Economic Community",
+      "u": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/European_Economic_Community"
+     }
+    },
+    {
+     "id": "n20261109-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En 1971, quel État a remplacé la République de Chine (Taïwan) comme membre permanent du Conseil de sécurité de l'ONU ?",
+     "o": [
+      "Le Japon",
+      "L'Inde",
+      "La République populaire de Chine",
+      "L'Union soviétique"
+     ],
+     "a": 2,
+     "e": "Membre permanent d'origine, la République de Chine a été remplacée en 1971 par la République populaire de Chine au Conseil de sécurité.",
+     "ed": [
+      "Le Japon n'est pas membre permanent du Conseil de sécurité.",
+      "L'Inde n'est pas membre permanent du Conseil de sécurité.",
+      null,
+      "L'Union soviétique était déjà membre permanent depuis l'origine ; la Russie lui a succédé en 1991."
+     ],
+     "src": {
+      "t": "Encyclopaedia Britannica – United Nations Security Council",
+      "u": "https://britannica.com/topic/United-Nations-Security-Council"
+     }
+    },
+    {
+     "id": "n20261109-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville s'est tenue, en octobre 2000, la première conférence ministérielle du Forum sur la coopération sino-africaine (FOCAC) ?",
+     "o": [
+      "À Pékin",
+      "À Johannesburg",
+      "À Dakar",
+      "À Shanghai"
+     ],
+     "a": 0,
+     "e": "La première conférence ministérielle du FOCAC s'est tenue à Pékin du 10 au 12 octobre 2000 ; le forum se réunit ensuite tous les trois ans, en alternance entre la Chine et un pays africain.",
+     "ed": [
+      null,
+      "Johannesburg n'a pas accueilli la conférence fondatrice d'octobre 2000, tenue à Pékin.",
+      "Dakar n'a pas accueilli la réunion fondatrice de 2000, tenue à Pékin.",
+      "Shanghai n'a pas accueilli la conférence de 2000, réunie à Pékin."
+     ],
+     "src": {
+      "t": "Wikipedia – Forum on China–Africa Cooperation",
+      "u": "https://en.wikipedia.org/wiki/Forum_on_China%E2%80%93Africa_Cooperation"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261109oj04",
+     "niv": "oj04",
+     "m": "oj",
+     "titre": "Les juridictions du premier degré : tribunaux de première instance et sections de tribunal, compétences",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez nommer les trois juridictions du premier degré (article 27 de la loi n° 2025-219), décrire la composition d'un tribunal de première instance (TPI) et dire comment il siège.",
+      "= Vous saurez aussi déterminer si un TPI juge en premier ressort ou en premier et dernier ressort, choisir le tribunal territorialement compétent et expliquer ce que deviennent les sections détachées.",
+      "## Ce que demande le concours",
+      "L'épreuve d'organisation judiciaire de l'INFJ interroge sur la « porte d'entrée » de la justice : quel juge saisir en premier, comment il est composé, ce qu'il peut juger. Les QCM vérifient des listes (siège, parquet), les formations du tribunal et les règles de compétence. Le sujet de cours attend l'organisation, puis les compétences, chaque affirmation rattachée à un article.",
+      "! Piège habituel : raisonner avec l'ancienne loi n° 61-155 du 18 mai 1961, abrogée par l'article 55 de la loi n° 2025-219, ou présenter les sections détachées comme une catégorie d'avenir alors que la nouvelle loi les fait disparaître.",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez la matière du litige : civile, commerciale ou pénale (TPI), administrative (tribunal administratif), contrôle des finances publiques (chambre régionale des comptes).",
+      "- 2. Pour le TPI, rappelez qu'il est le juge de droit commun : il juge tout ce qu'aucun texte ne confie expressément à un autre juge (article 5 du Code de procédure civile).",
+      "- 3. Déterminez le ressort : premier ressort, donc appel possible, ou premier et dernier ressort, selon l'intérêt du litige (article 6 du même code).",
+      "- 4. Déterminez le tribunal territorialement compétent : en principe celui du domicile du défendeur (article 11).",
+      "- 5. Citez toujours le texte : la loi n° 2025-219 pour l'organisation, le Code de procédure civile pour la compétence.",
+      "~ Exemple : un commerçant de Daloa réclame 300 000 FCFA à un client domicilié à Gagnoa. Étape 1 : litige commercial, donc TPI. Étape 3 : l'intérêt du litige n'excède pas 500 000 francs, donc le jugement est rendu en premier et dernier ressort. Étape 4 : il faut saisir le tribunal dans le ressort duquel se trouve le domicile du défendeur, à Gagnoa, et non celui de Daloa."
+     ],
+     "fond": [
+      "## Notion 1 : trois juridictions de premier degré",
+      "Règle : « Les juridictions de premier degré sont constituées des tribunaux de première Instance, des tribunaux administratifs et des chambres régionales des Comptes » (article 27 de la loi n° 2025-219 du 28 mars 2025, publiée au Journal officiel du 21 avril 2025).",
+      "Le « premier degré » désigne le juge qui examine l'affaire pour la première fois. Chaque ordre a son juge de premier degré : selon l'article 1 de la même loi, la justice civile, commerciale et pénale est rendue par les TPI, les cours d'appel et la Cour de cassation ; la justice administrative par les tribunaux administratifs, les cours administratives d'appel et le Conseil d'État ; le contrôle des finances publiques par les chambres régionales des comptes et la Cour des comptes.",
+      "Pourquoi ? C'est le principe du double degré de juridiction : le perdant peut demander à un second juge de réexaminer l'affaire. L'article 8 du Code de procédure civile fait de la cour d'appel le juge d'appel des décisions rendues par toutes les juridictions de première instance, sauf disposition contraire.",
+      "~ Exemple résolu : trois dossiers arrivent au greffe. Un litige sur un loyer commercial impayé relève du TPI. Le recours d'un agent contre une décision administrative le concernant relève du tribunal administratif. Le contrôle des comptes d'une collectivité relève de la chambre régionale des comptes. Le réflexe : nommer la matière avant de nommer le juge.",
+      "## Notion 2 : la composition du tribunal de première instance",
+      "Règle : le TPI comprend des magistrats du siège et des magistrats du ministère public (article 28). Les magistrats du siège sont : le président, le ou les vice-présidents, les juges, le ou les juges d'instruction, le ou les juges de l'application des peines, le ou les juges des enfants et le ou les juges des tutelles. Le ministère public, appelé aussi parquet, comprend le procureur de la République, le ou les procureurs de la République adjoints et le ou les substituts.",
+      "Le tribunal comprend aussi un greffe (article 31). Le président est « l'organisateur de sa juridiction » (article 38) ; le procureur de la République est le chef et l'organisateur du parquet près le tribunal (article 39). En cas d'empêchement, le président est remplacé par le vice-président le plus ancien dans le grade le plus élevé (article 30).",
+      "Pourquoi deux catégories ? Les magistrats du siège jugent ; ceux du parquet défendent les intérêts de la société et requièrent l'application de la loi. Séparer celui qui accuse de celui qui juge garantit l'impartialité du jugement.",
+      "! Le procureur de la République n'est pas un juge du siège. Et le juge d'instruction, qui enquête à charge et à décharge, appartient bien au siège selon la liste de l'article 28.",
+      "? Classez ces magistrats entre le siège et le parquet : un juge des tutelles, un substitut du procureur, un juge de l'application des peines, un procureur adjoint. || Siège : le juge des tutelles et le juge de l'application des peines, cités aux 7° et 5° de la liste des magistrats du siège de l'article 28. Parquet : le substitut et le procureur de la République adjoint, cités dans la liste des magistrats du ministère public du même article.",
+      "## Notion 3 : comment le tribunal siège",
+      "Règle : le TPI peut se réunir en audience solennelle, en assemblée générale, en audience ordinaire ou en chambre du conseil (article 32). L'audience solennelle réunit l'ensemble des magistrats du siège (article 33). L'assemblée générale se tient à la demande du président (article 34). C'est en audience ordinaire que le tribunal juge : il siège en nombre impair, avec au moins trois juges, et ses jugements sont rendus après délibération des juges qui ont siégé (article 35).",
+      "Le juge unique est l'exception. L'article 35 le prévoit dans trois cas : magistrats du siège trop peu nombreux pour former une collégialité ; tribunal correctionnel saisi de délits de police de la circulation ou résultant d'accidents de la voie publique ; disposition expresse de la loi. À l'audience, le tribunal est assisté d'un greffier. La présence du ministère public est obligatoire en matière pénale et dans les matières obligatoirement communicables au ministère public.",
+      "Pourquoi la collégialité ? Plusieurs juges qui délibèrent se corrigent mutuellement et résistent mieux aux pressions. Le juge unique répond, lui, à un besoin de rapidité ou à un manque d'effectifs.",
+      "Règle complémentaire : le tribunal tient des audiences foraines dans son ressort, « dans la plénitude de sa compétence », toutes les fois que les besoins du service l'exigent (article 37). Une audience foraine est une audience tenue hors du siège habituel, au plus près des justiciables.",
+      "~ Exemple résolu : un TPI dont le siège est éloigné de plusieurs villages organise une audience dans une sous-préfecture de son ressort. A-t-il moins de pouvoirs qu'à son siège ? Non : l'article 37 précise qu'il y statue dans la plénitude de sa compétence. Il peut donc y juger toutes les affaires qu'il jugerait à son siège.",
+      "? Un tribunal correctionnel doit juger un conducteur poursuivi pour un délit lié à un accident de la voie publique. Faut-il trois juges ? || Non. L'article 35 de la loi n° 2025-219 prévoit le juge unique lorsque le tribunal correctionnel est saisi des délits résultant des accidents de la voie publique. La règle des trois juges au moins ne s'applique qu'en l'absence d'une telle exception. Le ministère public doit cependant être présent, puisqu'on est en matière pénale.",
+      "## Notion 4 : la compétence d'attribution et le ressort",
+      "Règle : selon l'article 5 du Code de procédure civile, commerciale et administrative, les TPI et leurs sections détachées connaissent de toutes les affaires civiles, commerciales, administratives et fiscales pour lesquelles compétence n'est pas attribuée expressément à une autre juridiction. C'est la définition du juge de droit commun.",
+      "L'article 6 (rédaction de la loi n° 93-670 du 9 août 1993) distingue deux régimes. En premier ressort, donc avec appel possible : les demandes dont l'intérêt dépasse 500 000 francs ou est indéterminé, celles relatives à l'état des personnes, celles qui mettent en cause une personne publique et celles qui portent sur la compétence. En premier et dernier ressort, sans appel : en matière civile et commerciale, les demandes dont l'intérêt n'excède pas 500 000 francs. L'intérêt du litige se détermine d'après le montant de la demande (article 7).",
+      "Pourquoi un seuil ? Un appel coûte du temps et de l'argent. Pour les petits litiges, le législateur préfère une décision rapide et définitive.",
+      "! Les règles de compétence d'attribution sont d'ordre public (article 9) : les parties ne peuvent pas décider, par simple accord, de soumettre leur affaire à un juge qui n'est pas compétent pour cette matière.",
+      "~ Exemple résolu : Mme Kouassi demande 450 000 francs à un voisin pour des dégâts causés à sa clôture. L'intérêt n'excède pas 500 000 francs et la matière est civile : le TPI statue en premier et dernier ressort. Si elle demandait 650 000 francs, le jugement serait rendu en premier ressort et pourrait être frappé d'appel.",
+      "? Une action en contestation de filiation ne porte sur aucune somme d'argent. Le TPI statue-t-il en dernier ressort ? || Non. La filiation touche à l'état des personnes ; l'article 6 du Code de procédure civile range expressément ces demandes parmi celles jugées en premier ressort, quel que soit l'enjeu financier. L'appel reste donc ouvert : l'état d'une personne est trop important pour être tranché par un seul degré de juridiction.",
+      "## Notion 5 : la compétence territoriale et la fin des sections détachées",
+      "Règle : en matière civile, le tribunal territorialement compétent est celui du domicile réel ou élu du défendeur, et, à défaut de domicile, celui de sa résidence (article 11, alinéa 1). L'article 12 prévoit des dérogations, par exemple pour les immeubles et les successions. Pourquoi le défendeur ? Celui qu'on attaque n'a pas choisi le procès : on lui évite de se déplacer.",
+      "Le mot « tribunal » désigne indifféremment les TPI et leurs sections détachées ; la compétence d'un TPI s'étend sur son ressort propre, à l'exclusion du ressort propre des sections qui en sont détachées (article 10). La section détachée était donc une juridiction de proximité rattachée à un TPI, mais dotée de son propre ressort.",
+      "La loi n° 2025-219 supprime cette catégorie. Son article 54 dispose que, jusqu'à leur érection en TPI, les sections détachées conservent leur composition, leur organisation et leur fonctionnement. En application de cette loi, le Conseil des ministres du 30 juillet 2025 a adopté un décret érigeant les trente-cinq sections détachées existantes en tribunaux de première instance. Le siège, le ressort et le nombre de chambres des TPI sont fixés par décret pris en Conseil des ministres (article 2)."
+     ],
+     "retenir": [
+      "Article 27 de la loi n° 2025-219 : les juridictions de premier degré sont les TPI, les tribunaux administratifs et les chambres régionales des comptes.",
+      "Le TPI comprend des magistrats du siège (président, vice-présidents, juges, juges d'instruction, de l'application des peines, des enfants, des tutelles) et un parquet dirigé par le procureur de la République.",
+      "En audience ordinaire, le TPI siège en nombre impair, avec au moins trois juges ; le juge unique n'existe que dans les cas prévus à l'article 35.",
+      "Les audiences foraines se tiennent dans le ressort du tribunal, qui y conserve la plénitude de sa compétence (article 37).",
+      "Le TPI est le juge de droit commun : il connaît de toutes les affaires qu'aucun texte n'attribue expressément à une autre juridiction (article 5 du Code de procédure civile).",
+      "Jusqu'à 500 000 francs d'intérêt, en matière civile et commerciale, le TPI juge en premier et dernier ressort ; au-delà, ou pour l'état des personnes, en premier ressort.",
+      "En matière civile, le tribunal territorialement compétent est en principe celui du domicile du défendeur (article 11 du Code de procédure civile).",
+      "La loi n° 2025-219 supprime les sections détachées ; un décret du 30 juillet 2025 a érigé les 35 sections existantes en TPI."
+     ],
+     "exo": {
+      "tag": "niv-oj04",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "CIVLII (Laws.Africa) – Loi n° 2025-219 portant organisation des juridictions (JO n° 32 du 21 avril 2025)",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/2025/219/fra@2025-06-11/source"
+      },
+      {
+       "t": "CIVLII (Laws.Africa) – Loi n° 72-833 portant Code de procédure civile, commerciale et administrative (version au 27 mai 2022)",
+       "u": "https://civlii.laws.africa/en/akn/ci/act/1972/833/fra@2022-05-27/source"
+      },
+      {
+       "t": "Fraternité Matin – Communiqué du Conseil des ministres du mercredi 30 juillet 2025",
+       "u": "https://www.fratmat.info/article/2635744/politique/communique-du-conseil-des-ministre-de-ce-mercredi-30-juillet-2025"
+      },
+      {
+       "t": "Koaci – 35 sections détachées érigées en tribunaux de première instance (30 juillet 2025)",
+       "u": "https://www.koaci.com/article/2025/07/30/cote-divoire/justice/cote-divoire-justice-de-proximite-35-nouvelles-juridictions-erigees-en-tribunaux-de-premiere-instance_189014.html"
+      },
+      {
+       "t": "Université Paris Nanterre (L. Sinopoli) – Exercices de lecture de dispositions des codes relatives à l'organisation juridictionnelle",
+       "u": "https://ufr-dsp.parisnanterre.fr/medias/fichier/exercices_lecture_dispositions_organisation_juridictionnelle_1331740897642.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261109cm05",
+     "niv": "cm05",
+     "m": "cmc",
+     "titre": "Les grandes puissances et les puissances émergentes : États-Unis, Chine, Union européenne, Russie, BRICS",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir la puissance (hard power, soft power, smart power) et évaluer un État avec une grille de critères.",
+      "= Vous saurez aussi situer les États-Unis, la Chine, l'Union européenne, la Russie et les BRICS par des faits datés, et en tirer les enjeux pour l'Afrique et la Côte d'Ivoire.",
+      "## Ce que demande le concours",
+      "L'épreuve de connaissance du monde contemporain attend une copie qui démontre, pas un catalogue. Le jury veut des définitions précises, des exemples datés et localisés, et une réponse nuancée à une question du type « Le monde est-il devenu multipolaire ? ». En présélection, les QCM de culture générale portent souvent sur les organisations : dates de création, membres, sièges.",
+      "! Piège habituel : confondre puissance et richesse. Un État riche sans armée ni influence n'est pas une grande puissance ; un État militairement fort mais peu attractif reste une puissance incomplète.",
+      "## La méthode, pas à pas",
+      "- 1. Définissez les termes du sujet : puissance, émergence, multipolarité. L'introduction comprend une accroche, les définitions, une problématique et l'annonce du plan.",
+      "- 2. Appliquez une grille à chaque acteur : économie, force militaire, poids diplomatique (siège au Conseil de sécurité), monnaie, attractivité culturelle.",
+      "- 3. Formulez un paradoxe à résoudre, par exemple : « Les émergents pèsent de plus en plus, mais l'ordre de 1945 tient encore. »",
+      "- 4. Appuyez chaque argument sur un fait vérifiable : une date, un traité, un sommet.",
+      "- 5. Terminez chaque partie par le lien avec l'Afrique : quels partenaires, quelles marges de manœuvre ?",
+      "~ Exemple : pour le sujet « La Chine est-elle une superpuissance ? », la grille donne : économie, deuxième PIB mondial selon le FMI ; diplomatie, membre permanent du Conseil de sécurité ; influence, Nouvelles routes de la soie depuis 2013 et Forum sur la coopération sino-africaine depuis 2000. Le paradoxe à discuter : une puissance déjà mondiale, mais qui se présente encore comme un pays en développement."
+     ],
+     "fond": [
+      "## Notion 1 : qu'est-ce que la puissance ?",
+      "Règle : la puissance est la capacité d'un acteur à obtenir des autres ce qu'il souhaite. L'Américain Joseph Nye a popularisé en 1990, dans son livre « Bound to Lead », la notion de soft power : la capacité d'attirer et de convaincre plutôt que de contraindre. Le hard power est l'usage de la coercition et du paiement. Le smart power est la capacité de combiner les deux dans une stratégie efficace.",
+      "Pourquoi cette distinction ? Après la guerre froide, la force militaire ne suffisait plus à expliquer l'influence : la culture, les universités ou l'image d'un pays comptent aussi.",
+      "L'émergence est le processus par lequel un État s'intègre à l'économie mondialisée grâce à une forte croissance de son PIB pendant plusieurs années. Les émergents sont souvent des « puissances incomplètes », car le soft power leur fait défaut. Il n'existe pas de seuil officiel qui fasse d'un pays une puissance émergente.",
+      "? Classez ces instruments en hard power ou soft power : un embargo commercial, l'octroi de bourses d'études à des étudiants étrangers, le déploiement d'une flotte militaire, la diffusion de séries télévisées. || Hard power : l'embargo (contrainte économique) et la flotte militaire (coercition). Soft power : les bourses d'études et les séries télévisées, qui agissent par l'attraction. Le critère est simple : contraindre ou payer, c'est du hard power ; séduire, c'est du soft power.",
+      "## Notion 2 : les États-Unis, une puissance globale contestée",
+      "Les États-Unis réunissent tous les critères. Ils sont l'un des cinq membres permanents du Conseil de sécurité de l'ONU, qui détiennent un droit de veto. Ils sont la première économie mondiale en PIB nominal selon les estimations du FMI, devant la Chine. Le dollar représente plus de la moitié des réserves de change mondiales selon les données COFER du FMI. Ils dirigent l'OTAN, alliance fondée le 4 avril 1949, dont le siège est à Bruxelles et qui compte aujourd'hui 32 membres.",
+      "Pourquoi « contestée » ? Leur part dans l'économie mondiale recule à mesure que les émergents progressent, et leurs interventions militaires ont parfois affaibli leur image.",
+      "! Le siège de l'OTAN est à Bruxelles, en Belgique, et non à Washington.",
+      "## Notion 3 : la Chine, de l'atelier du monde à la puissance mondiale",
+      "La Chine est devenue le 143e membre de l'Organisation mondiale du commerce (OMC) le 11 décembre 2001. Elle est aujourd'hui la deuxième économie mondiale en PIB nominal. En 2013, Xi Jinping a proposé la « ceinture économique de la route de la soie » (7 septembre, au Kazakhstan) puis la « route de la soie maritime du XXIe siècle » (3 octobre, en Indonésie) : ce sont les Nouvelles routes de la soie. Elle siège au Conseil de sécurité comme membre permanent : la République populaire de Chine y a remplacé la République de Chine (Taïwan) en 1971.",
+      "Le Forum sur la coopération sino-africaine (FOCAC) a tenu sa première conférence ministérielle à Pékin du 10 au 12 octobre 2000. Il se réunit tous les trois ans, en alternance entre la Chine et un pays africain ; son dernier sommet s'est tenu à Pékin du 4 au 6 septembre 2024.",
+      "~ Exemple résolu : un candidat doit montrer que l'Afrique compte pour la Chine. Il cite trois faits datés : le FOCAC depuis 2000, sa réunion triennale, alternativement en Afrique et en Chine, et le sommet de Pékin de septembre 2024. Il en tire l'idée : la Chine institutionnalise sa relation avec le continent. Puis il nuance : un partenariat n'est pas une dépendance si l'État africain négocie avec plusieurs partenaires.",
+      "## Notion 4 : l'Union européenne, une puissance économique sans armée commune",
+      "L'Union européenne naît d'une construction progressive. Le traité de Rome, signé le 25 mars 1957 par six États, crée la Communauté économique européenne. Le traité de Maastricht, signé le 7 février 1992 par les douze États membres de la CEE, entre en application le 1er novembre 1993. L'Union compte aujourd'hui 27 États membres, depuis la sortie du Royaume-Uni le 31 janvier 2020. L'euro est lancé le 1er janvier 1999 comme monnaie scripturale, puis les billets et pièces circulent dès le 1er janvier 2002. La Bulgarie est devenue le 21e pays de la zone euro le 1er janvier 2026.",
+      "Avec l'Afrique, l'Union a signé à Apia, le 15 novembre 2023, l'accord de Samoa avec les pays de l'Organisation des États d'Afrique, des Caraïbes et du Pacifique (OEACP) ; il succède à l'accord de Cotonou.",
+      "Pourquoi « sans armée commune » ? La défense reste d'abord nationale ou relève de l'OTAN : l'Union pèse surtout par son marché, ses normes et son aide.",
+      "? Remettez dans l'ordre : Brexit effectif, traité de Rome, introduction des billets en euros, entrée en application du traité de Maastricht. || Traité de Rome (1957), entrée en application du traité de Maastricht (1er novembre 1993), billets en euros (1er janvier 2002), Brexit effectif (31 janvier 2020). Pour retenir l'ordre, pensez à la logique de la construction : un marché, puis une union, puis une monnaie, puis un premier départ.",
+      "## Notion 5 : la Russie, une puissance de rupture",
+      "La Russie a succédé à l'URSS comme membre permanent du Conseil de sécurité en 1991. Après le référendum sécessionniste du 16 mars 2014, les traités d'annexion de la Crimée sont signés le 18 mars 2014. Le 24 mars 2014, les pays du G7 suspendent la Russie du G8. Le 24 février 2022, elle lance une invasion à grande échelle de l'Ukraine. Elle cultive ses relations africaines : le premier sommet Russie-Afrique s'est tenu à Sotchi les 23 et 24 octobre 2019, le deuxième à Saint-Pétersbourg en juillet 2023.",
+      "! On parle de suspension de la Russie du G8 en 2014, pas d'exclusion formelle : les sept autres membres ont continué à se réunir en G7.",
+      "## Notion 6 : les BRICS, le club des émergents",
+      "Le sigle BRIC a été forgé en 2001 par l'économiste Jim O'Neill, de la banque Goldman Sachs. Les ministres des Affaires étrangères des quatre pays se réunissent à partir de 2006 en marge de l'Assemblée générale de l'ONU ; le premier sommet se tient à Iekaterinbourg en 2009. L'Afrique du Sud, invitée en décembre 2010, participe au sommet de Sanya en avril 2011. La Nouvelle Banque de développement, créée par l'accord signé à Fortaleza le 15 juillet 2014, a son siège à Shanghai.",
+      "Le groupe s'élargit le 1er janvier 2024 à l'Égypte, l'Éthiopie, l'Iran et les Émirats arabes unis ; l'Indonésie devient membre à part entière en janvier 2025. L'Arabie saoudite, invitée, n'a pas tranché : en janvier 2025, son ministre de l'Économie disait que l'adhésion était encore à l'étude. Le groupe compte aussi des pays partenaires, dont le Nigeria. La Côte d'Ivoire ne figure ni parmi les membres ni parmi les partenaires.",
+      "Débat pour la dissertation : pour, les BRICS donnent une voix aux pays du Sud et créent leurs propres institutions ; contre, leurs membres ont des régimes et des intérêts très divers, parfois rivaux, comme la Chine et l'Inde.",
+      "~ Exemple résolu : sujet « Les BRICS menacent-ils l'ordre occidental ? ». Problématique : un groupe qui crée ses institutions, mais dont les membres restent intégrés aux institutions existantes. Argument 1 : la Nouvelle Banque de développement offre une alternative de financement. Argument 2 : la Chine et la Russie siègent aussi au Conseil de sécurité, au cœur de l'ordre de 1945. Conclusion : plutôt une contestation de l'intérieur qu'une rupture.",
+      "? Pourquoi l'élargissement de 2024 intéresse-t-il directement l'Afrique ? || Parce que deux des quatre nouveaux membres, l'Égypte et l'Éthiopie, sont africains et rejoignent l'Afrique du Sud. Le continent passe ainsi de un à trois membres. On peut ajouter que le Nigeria est pays partenaire : l'Afrique pèse davantage dans le groupe, ce qui renforce ses marges de négociation avec les puissances occidentales."
+     ],
+     "retenir": [
+      "Joseph Nye a popularisé en 1990 le soft power : la capacité d'attirer et de convaincre plutôt que de contraindre.",
+      "Le smart power combine hard power, fondé sur la contrainte et le paiement, et soft power, fondé sur l'attraction.",
+      "Les cinq membres permanents du Conseil de sécurité, détenteurs du veto, sont les États-Unis, la Chine, la Russie, la France et le Royaume-Uni.",
+      "La Chine est devenue le 143e membre de l'OMC le 11 décembre 2001 ; les Nouvelles routes de la soie ont été lancées en 2013.",
+      "Le FOCAC, créé en 2000 à Pékin, se réunit tous les trois ans, en alternance entre la Chine et un pays africain.",
+      "Le traité de Maastricht, signé le 7 février 1992, entre en application le 1er novembre 1993 ; le Brexit est effectif le 31 janvier 2020.",
+      "Le sigle BRIC date de 2001 (Jim O'Neill) ; premier sommet en 2009 à Iekaterinbourg ; élargissement le 1er janvier 2024.",
+      "La Nouvelle Banque de développement des BRICS, créée à Fortaleza en 2014, a son siège à Shanghai."
+     ],
+     "exo": {
+      "tag": "niv-cm05",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Wikipedia (miroir IPFS) – Soft power",
+       "u": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Soft_power"
+      },
+      {
+       "t": "Wikiwand – Joseph Nye",
+       "u": "https://www.wikiwand.com/en/Joseph_Nye"
+      },
+      {
+       "t": "Major Prépa – Définition de l'émergence",
+       "u": "https://major-prepa.com/geopolitique/definition-emergence-ordre-mondial/"
+      },
+      {
+       "t": "Major Prépa – Méthodologie de la dissertation de géopolitique",
+       "u": "https://major-prepa.com/geopolitique/methodologie-dissertation-geopolitique-bizuth-prepa-ecg/"
+      },
+      {
+       "t": "Encyclopaedia Britannica – United Nations Security Council",
+       "u": "https://britannica.com/topic/United-Nations-Security-Council"
+      },
+      {
+       "t": "Wikipedia (archive de mars 2026) – List of countries by nominal GDP (FMI)",
+       "u": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Countries_by_nominal_GDP"
+      },
+      {
+       "t": "Focus on Belgium – 75 years of NATO",
+       "u": "https://focusonbelgium.be/en/facts/75-years-nato-alliance-firmly-rooted-belgium"
+      },
+      {
+       "t": "OMC – China's accession (Doha, 11 novembre 2001)",
+       "u": "https://www.wto.org/english/theWTo_e/minist_e/min01_e/min01_11nov_e.htm"
+      },
+      {
+       "t": "Our China Story – Xi Jinping first proposed the Belt and Road Initiative",
+       "u": "https://ourchinastory.com/en/12718/Xi-Jinping-first-proposed-Belt-and-Road-Initiative"
+      },
+      {
+       "t": "Wikipedia – Forum on China–Africa Cooperation",
+       "u": "https://en.wikipedia.org/wiki/Forum_on_China%E2%80%93Africa_Cooperation"
+      },
+      {
+       "t": "Schoolmouv – Le traité de Maastricht (7 février 1992)",
+       "u": "https://www.schoolmouv.fr/cours/traite-de-maastricht-7-fevrier-1992/"
+      },
+      {
+       "t": "Douane française – Lexique : Union européenne",
+       "u": "https://www.douane.gouv.fr/lexique/union-europeenne-ue"
+      },
+      {
+       "t": "Historia (Parlement européen) – The euro turns 20",
+       "u": "https://historia.europa.eu/en/our-work/news/euro-eu-turns-20"
+      },
+      {
+       "t": "Eurasianet – Russia's Putin, Crimean leaders sign annexation treaty",
+       "u": "https://eurasianet.org/russias-putin-crimean-leaders-sign-annexation-treaty"
+      },
+      {
+       "t": "Encyclopaedia Britannica – When did the Russia-Ukraine War begin?",
+       "u": "https://britannica.com/question/When-did-the-Russia-Ukraine-War-begin"
+      },
+      {
+       "t": "Al Jazeera – G7 nations suspend Russia and scrap G8 summit (24 mars 2014)",
+       "u": "https://www.aljazeera.com/news/2014/3/24/g7-nations-suspend-russia-and-scrap-g8-summit"
+      },
+      {
+       "t": "Wikipedia – 2019 Russia–Africa Summit",
+       "u": "https://en.wikipedia.org/wiki/2019_Russia%E2%80%93Africa_Summit"
+      },
+      {
+       "t": "SABTT (Afrique du Sud) – About BRICS",
+       "u": "https://sabtt.org.za/brics/about-brics"
+      },
+      {
+       "t": "Wikipedia – 3rd BRICS summit (Sanya, 2011)",
+       "u": "https://en.wikipedia.org/wiki/3rd_BRICS_summit"
+      },
+      {
+       "t": "Wikipedia – New Development Bank",
+       "u": "https://en.wikipedia.org/wiki/New_Development_Bank"
+      },
+      {
+       "t": "Wikiwand – BRICS",
+       "u": "https://wikiwand.com/EN/BRICS"
+      },
+      {
+       "t": "Swissinfo – Saudi Arabia is still assessing BRICS membership (20 janvier 2025)",
+       "u": "https://www.swissinfo.ch/eng/saudi-arabia-is-still-assessing-brics-membership,-minister-says/88750888"
+      },
+      {
+       "t": "All India Radio (newsonair) – Vietnam officially joins BRICS as partner country",
+       "u": "https://newsonair.gov.in/vietnam-officially-joins-brics-as-partner-country/"
+      }
+     ]
+    },
+    {
+     "id": "L20261109mp07",
+     "niv": "mp07",
+     "m": "mop",
+     "titre": "Communication et prise de décision : communication interne et externe, réunion, décision",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez analyser une situation de communication avec les modèles de Shannon et Weaver et de Lasswell, et choisir le bon canal, interne ou externe.",
+      "= Vous saurez aussi préparer une réunion utile, appliquer les règles du droit d'accès à l'information (loi n° 2013-867) et justifier une décision avec les modèles de Simon, de Lindblom et de la « poubelle ».",
+      "## Ce que demande le concours",
+      "L'épreuve de management des organisations publiques propose des sujets de réflexion et des cas pratiques. Dans un cas, on vous place à la tête d'un service où l'information circule mal, où les réunions n'aboutissent pas ou où une décision doit être prise vite. Le correcteur attend un diagnostic, des solutions réalistes et la référence aux notions du cours.",
+      "! Piège habituel : réciter les modèles sans les appliquer. Un modèle cité doit servir à expliquer le problème du cas, puis à le résoudre.",
+      "## La méthode, pas à pas",
+      "- 1. Lisez le cas au moins deux fois et mettez-vous à la place du décideur : quels sont ses objectifs, ses contraintes, ses options ?",
+      "- 2. Diagnostiquez : où la communication échoue-t-elle (émetteur, message, canal, récepteur, bruit) ? À quelle étape la décision bloque-t-elle (information, conception, choix) ?",
+      "- 3. Proposez pour chaque option ses conséquences probables, puis choisissez en justifiant.",
+      "- 4. Terminez par un plan d'action : qui fait quoi, quand, avec quel support de communication.",
+      "- 5. Restez prudent face aux informations du cas : distinguez les faits des opinions des acteurs.",
+      "~ Exemple : dans un cas où les agents d'une direction régionale apprennent par la rumeur la réorganisation de leur service, le diagnostic est clair : la communication descendante formelle a manqué, et l'informel a pris le relais. La solution : une réunion d'information conduite par le directeur, suivie d'une note de service et d'un temps de questions, pour rétablir une source officielle."
+     ],
+     "fond": [
+      "## Notion 1 : comprendre un acte de communication",
+      "Règle : le modèle de Shannon et Weaver, publié par Claude Shannon en 1948 puis développé avec Warren Weaver dans un livre de 1949, décrit cinq composantes : une source, un émetteur (transmetteur), un canal, un récepteur et une destination. Le bruit est toute perturbation qui déforme le message en chemin.",
+      "Le modèle de Harold Lasswell (1948) pose cinq questions : qui dit quoi, par quel canal, à qui, avec quel effet ? Chaque question renvoie à un élément : l'émetteur, le message, le média, le public, l'effet.",
+      "Pourquoi ces modèles ? Ils transforment un malaise vague (« personne n'est au courant ») en diagnostic précis : le message était-il clair, le canal adapté, le public bien ciblé ?",
+      "~ Exemple résolu : une mairie annonce par une affiche placardée à l'hôtel de ville le changement des horaires d'ouverture de l'état civil, et les usagers des quartiers éloignés continuent de venir aux anciennes heures. Grille de Lasswell : qui ? la mairie ; quoi ? les nouveaux horaires ; quel canal ? une affiche visible seulement de ceux qui viennent déjà ; à qui ? tous les usagers ; quel effet ? nul pour les plus éloignés. Le défaut est dans le canal : il faut ajouter la radio de proximité, les chefs de quartier ou les réseaux sociaux de la commune.",
+      "? Un chef de service envoie par courriel une instruction urgente à des agents de terrain qui n'ont pas accès à internet. Selon le modèle de Shannon et Weaver, quel élément est défaillant ? || Le canal. La source et le message peuvent être corrects, mais le courriel n'atteint pas des récepteurs qui n'ont pas d'accès à internet. Il faut choisir un canal qui les touche réellement : un appel téléphonique, un message par SMS ou une réunion rapide de briefing.",
+      "## Notion 2 : la communication interne",
+      "Règle : la communication interne circule dans trois sens. Descendante, elle part du haut de la hiérarchie vers les agents (instructions, notes de service). Ascendante, elle remonte des agents vers la direction (rapports, suggestions, alertes). Horizontale, elle s'établit entre personnes de même niveau (coordination entre services). Elle est formelle lorsqu'elle est officielle, codifiée et prévue ; informelle lorsqu'elle s'établit hors des cadres fixés par l'organisation.",
+      "Les outils formels sont la note de service, qui fixe les règles de fonctionnement interne et trace les directives, la réunion, le journal interne et l'intranet, réseau interne qui utilise les techniques d'internet.",
+      "Pourquoi les trois sens ? Une administration qui ne fait que descendre l'information se prive des alertes du terrain : la communication ascendante est souvent la première victime d'une hiérarchie trop lourde.",
+      "! L'informel n'est pas un ennemi à supprimer : il est inévitable. Mais quand l'information officielle manque, la rumeur occupe la place. Le remède est d'informer vite et clairement, pas d'interdire de parler.",
+      "## Notion 3 : la communication externe et le droit d'accès à l'information",
+      "La communication externe s'adresse aux usagers, aux partenaires et aux médias. En Côte d'Ivoire, la loi n° 2013-867 du 23 décembre 2013 relative à l'accès à l'information d'intérêt public détermine les règles d'accès à l'information d'intérêt public et aux documents publics (article 2). Elle vise les organismes publics, notamment l'État et ses démembrements (article 1).",
+      "Les organismes publics doivent désigner en leur sein un responsable de l'information (article 10). Ils répondent par écrit dans un délai maximum de trente jours, ramené à quinze jours pour les chercheurs et les journalistes professionnels (article 12) ; ces délais ne peuvent être renouvelés qu'une fois (article 13). La Commission d'accès à l'information d'intérêt public et aux documents publics (CAIDP) est une autorité administrative indépendante qui veille à l'application de la loi (article 19) ; elle dispose d'un pouvoir d'injonction et de sanction.",
+      "Au niveau du Gouvernement, le Centre d'information et de communication gouvernementale (CICG), créé par le décret n° 2012-626 du 6 juillet 2012, organise l'information et la communication gouvernementale.",
+      "? Un journaliste professionnel demande par écrit à une direction centrale le rapport annuel d'activité d'un programme public. Dans quel délai maximal doit-elle répondre, et qui peut-il saisir en cas de refus injustifié ? || La direction doit répondre par écrit dans un délai de quinze jours, délai réduit prévu par l'article 12 de la loi n° 2013-867 pour les journalistes professionnels et les chercheurs, renouvelable une seule fois (article 13). En cas de refus injustifié, il peut saisir la CAIDP, autorité administrative indépendante chargée de veiller à l'application de la loi.",
+      "## Notion 4 : la réunion, un outil de décision à préparer",
+      "Règle de méthode : une réunion utile a un objectif annoncé (informer, consulter, résoudre un problème ou décider), un ordre du jour communiqué à l'avance, des participants choisis, une durée tenue et une trace écrite des décisions avec leurs responsables.",
+      "Pour produire des idées, le brainstorming a été mis au point par le publicitaire américain Alex Osborn à partir de 1939 et popularisé par son livre « Applied Imagination » (1953). Ses quatre règles : viser la quantité, suspendre la critique, accueillir les idées folles, combiner et améliorer les idées.",
+      "Pourquoi suspendre la critique ? La peur du jugement fait taire les plus jeunes ou les moins gradés ; or la bonne idée peut venir d'eux.",
+      "~ Exemple résolu : un chef de service réunit son équipe pour réduire l'attente au guichet. Il annonce l'objectif la veille, ouvre par dix minutes de brainstorming sans critique, regroupe ensuite les idées, fait choisir deux mesures et clôt en désignant un responsable et une date pour chacune. Le compte rendu, diffusé le lendemain, reprend ces décisions.",
+      "## Notion 5 : décider dans une organisation publique",
+      "Règle : selon Herbert Simon, prix Nobel d'économie en 1978, la rationalité du décideur est limitée, car l'information coûte cher et les conséquences sont incertaines ; le décideur retient donc une solution satisfaisante plutôt que la solution optimale. Simon décrit trois étapes : l'intelligence (comprendre le problème), la conception (imaginer les solutions) et le choix.",
+      "Charles Lindblom, dans « The Science of “Muddling Through” » (1959), montre que les administrateurs comparent surtout des politiques qui diffèrent peu de la politique en vigueur : c'est l'incrémentalisme, le changement par petits pas. Le modèle de la « poubelle » de Cohen, March et Olsen (1972) décrit les « anarchies organisées », où problèmes, solutions, participants et occasions de choix se rencontrent parfois par hasard.",
+      "Deux outils aident à décider. L'analyse SWOT confronte les forces et faiblesses, plutôt internes, aux opportunités et menaces, plutôt externes. Le principe de Pareto rappelle qu'environ 80 % des effets proviennent de 20 % des causes : on traite d'abord ces quelques causes décisives.",
+      "! Le modèle de la poubelle décrit une réalité, il ne recommande pas de décider au hasard. Le citer dans un cas sert à expliquer pourquoi une décision n'a pas suivi un ordre logique.",
+      "? Une direction reçoit 300 réclamations en un mois ; 240 portent sur deux causes, les délais de délivrance et les erreurs de saisie. Quel outil justifie de traiter ces deux causes en priorité, et pourquoi ? || Le principe de Pareto : 240 réclamations sur 300 représentent 80 % des cas, concentrés sur deux causes. En corrigeant ces deux causes, la direction supprime l'essentiel des plaintes avec un effort limité, puis elle traite les causes restantes."
+     ],
+     "retenir": [
+      "Le modèle de Shannon et Weaver (1948-1949) comprend une source, un émetteur, un canal, un récepteur et une destination ; le bruit perturbe le message.",
+      "Le modèle de Lasswell (1948) se résume en cinq questions : qui dit quoi, par quel canal, à qui, avec quel effet ?",
+      "La communication interne est descendante, ascendante ou horizontale ; formelle quand elle est officielle et prévue, informelle hors des cadres de l'organisation.",
+      "Loi n° 2013-867 : réponse écrite sous trente jours au plus, quinze jours pour les journalistes et chercheurs ; la CAIDP veille à son application.",
+      "Le brainstorming d'Alex Osborn repose sur quatre règles : la quantité, l'absence de critique, l'accueil des idées folles, la combinaison des idées.",
+      "Herbert Simon (Nobel 1978) : la rationalité est limitée ; la décision passe par l'intelligence, la conception et le choix.",
+      "L'incrémentalisme de Lindblom (1959) décrit une décision publique qui avance par petites modifications de la politique existante.",
+      "Principe de Pareto : environ 80 % des effets proviennent de 20 % des causes ; on traite d'abord les causes principales."
+     ],
+     "exo": {
+      "tag": "niv-mp07",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Wikipedia – Shannon–Weaver model",
+       "u": "https://en.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model"
+      },
+      {
+       "t": "Wikipedia – Lasswell's model of communication",
+       "u": "https://en.wikipedia.org/wiki/Lasswell%27s_model_of_communication"
+      },
+      {
+       "t": "Université de Béjaïa – Chapitre 5 : La communication organisationnelle (cours)",
+       "u": "https://elearning.univ-bejaia.dz/pluginfile.php/1516688/mod_resource/content/1/La%20communication%20organisationnelle.pdf"
+      },
+      {
+       "t": "FAOLEX – Loi n° 2013-867 du 23 décembre 2013 relative à l'accès à l'information d'intérêt public",
+       "u": "https://faolex.fao.org/docs/pdf/Ivc184741.pdf"
+      },
+      {
+       "t": "Abidjan.net – Note d'information relative à la création du Centre d'information et de communication gouvernementale (CICG)",
+       "u": "https://news.abidjan.net/articles/441838/note-dinformation-relative-a-la-creation-du-centre-dinformation-et-de-communication-gouvernementale-cicg"
+      },
+      {
+       "t": "Wikipedia – Brainstorming",
+       "u": "https://en.wikipedia.org/wiki/Brainstorming"
+      },
+      {
+       "t": "Econlib – Herbert A. Simon (biographie)",
+       "u": "https://www.econlib.org/library/Enc/bios/Simon.html"
+      },
+      {
+       "t": "UBS Nobel Perspectives – Herbert Simon : the stages of decision-making",
+       "u": "https://www.ubs.com/global/en/our-firm/what-we-do/our-brand/nobel-perspectives/laureates/behavioral-economics/stages-of-decision-making.html"
+      },
+      {
+       "t": "Wikipedia – Charles E. Lindblom",
+       "u": "https://en.wikipedia.org/wiki/Charles_E._Lindblom"
+      },
+      {
+       "t": "Wikipedia – Garbage can model",
+       "u": "https://en.wikipedia.org/wiki/Garbage_can_model"
+      },
+      {
+       "t": "Wikipedia (miroir IPFS) – SWOT analysis",
+       "u": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/SWOT_analysis"
+      },
+      {
+       "t": "Wikipedia – Pareto principle",
+       "u": "https://en.wikipedia.org/wiki/Pareto_principle"
+      },
+      {
+       "t": "Harvard Kennedy School – Learning by the Case Method (Gomez-Ibañez et Kalt)",
+       "u": "https://htup.law.harvard.edu/wp-content/uploads/2023/08/learning_by_case-methon_ksg_0.pdf"
+      },
+      {
+       "t": "Université Saint-Joseph – Manuel de pédagogie universitaire, B-11 : l'étude de cas",
+       "u": "https://www.usj.edu.lb/mpu/manuel/ressources/pdf/ManuelPU-USJ-B11.pdf"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "cmc",
+     "src": "original",
+     "ref": "Entraînement · 9 nov. 2026",
+     "t": "« L'élargissement des BRICS annonce la fin d'un ordre mondial dominé par l'Occident. » Commentez et discutez cette affirmation, en montrant ce qu'elle implique pour l'Afrique.",
+     "plan": [
+      "Introduction : définir ordre mondial, puissance émergente et multipolarité ; rappeler le sigle de 2001, le sommet de 2009 et l'élargissement du 1er janvier 2024 ; problématique : contestation ou remplacement de l'ordre de 1945 ?",
+      "I. Une contestation réelle : poids économique des émergents, institutions propres (Nouvelle Banque de développement, siège à Shanghai), entrée de l'Égypte et de l'Éthiopie, Nigeria pays partenaire.",
+      "II. Un ordre occidental qui résiste : États-Unis première économie et dollar dominant dans les réserves, OTAN à 32 membres, UE à 27 ; hétérogénéité des BRICS (rivalité Chine-Inde, hésitation saoudienne).",
+      "III. Pour l'Afrique, une chance de diversifier ses partenaires (FOCAC, sommets Russie-Afrique, accord de Samoa, Union africaine au G20) à condition de négocier en bloc.",
+      "Conclusion : plutôt une contestation de l'intérieur qu'une fin de l'ordre ; ouverture sur la place de la Côte d'Ivoire, ni membre ni partenaire."
+     ]
+    },
+    {
+     "e": "mop",
+     "src": "original",
+     "ref": "Entraînement · 9 nov. 2026",
+     "t": "Cas pratique : nommé chef du service de l'état civil d'une mairie de l'intérieur, vous constatez que les agents apprennent les décisions par la rumeur, que la réunion mensuelle se termine sans décision et que trois demandes écrites d'accès à des documents, dont une d'un journaliste, sont restées sans réponse depuis cinq semaines. Analysez la situation et proposez un plan d'action.",
+     "plan": [
+      "Diagnostic avec Lasswell et Shannon-Weaver : communication descendante formelle absente, rumeur comblant le vide, canal inadapté.",
+      "Réunion : objectif et ordre du jour diffusés à l'avance, temps de brainstorming, décisions consignées avec un responsable et une date.",
+      "Accès à l'information : délais dépassés (trente jours, quinze pour le journaliste, loi n° 2013-867) ; désigner le responsable de l'information, répondre sans délai, risque de saisine de la CAIDP.",
+      "Décision et suivi : hiérarchiser avec Pareto, choisir une solution satisfaisante (Simon), plan d'action daté, note de service et point d'étape à un mois."
+     ]
+    }
+   ]
   }
  ]
 }
