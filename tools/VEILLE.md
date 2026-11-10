@@ -35,6 +35,20 @@ Lis le document Google « Cap ENA - Liens à suivre » (identifiant `1P1Qm3v6iQb
 - Si les pièces à fournir changent par rapport à la liste de l'appli, ajoute une actu qui le dit clairement.
 - Section `autres` : même structure que le calendrier principal (`id`, `titre`, `concours` [identifiants], `statut`, `resume`, `calendrier`). Les arrêtés de l'INFJ sont des PDF scannés : si tu ne peux pas les lire, appuie-toi sur un article de presse qui les cite, ou ne change rien.
 
+## Analyse du jour : enjeux contemporains (chaque jour)
+Rédige **une** analyse d'un enjeu contemporain utile aux concours (sujet d'ordre général, culture générale, oral) : société, économie, développement, politiques publiques, environnement, numérique, sécurité, intégration régionale ; Côte d'Ivoire d'abord, puis Afrique de l'Ouest et monde. Ajoute-la au jour courant du fichier du mois `content/AAAA-MM.json` (date du jour à Abidjan ; si ce jour existe déjà, ajoute-la dans ce jour), champ `"analyses"` :
+```json
+{"id": "A20261117", "theme": "Emploi des jeunes", "titre": "…", "chapeau": "2 à 3 phrases qui posent l'enjeu",
+ "corps": ["## Le constat", "…", "## Les causes", "…", "## Les réponses publiques", "…", "## Les débats et les limites", "…", "## Ce qu'en attend un jury"],
+ "retenir": ["3 à 6 points"], "sujets": ["2 ou 3 sujets de dissertation ou d'oral possibles"],
+ "sources": [{"t": "Titre de la page lue", "u": "https://…"}]}
+```
+- 600 mots au moins dans `corps`, avec intertitres `## `, des phrases claires et chaque terme technique défini. Le même format de blocs que les leçons est accepté (`- `, `> `, `~ ` pour un exemple).
+- **Chaque chiffre, date ou fait est vérifié pendant la session** sur une source fiable (institutions, organisations internationales, presse reconnue), et cité dans `sources` (2 au moins, pages réellement lues). Un fait non confirmé est écarté.
+- **Neutralité** : sur un sujet débattu, présente les positions en présence et leurs arguments, sans prendre parti ; aucun jugement sur des personnalités ou des partis.
+- **Jamais deux fois le même sujet** : lis les analyses déjà publiées (tous les packs) et choisis un thème ou un angle nouveau ; le contrôleur refuse un titre déjà publié.
+- Appuie-toi aussi sur l'actualité trouvée pendant la veille et sur les liens du document « Liens à suivre ».
+
 ## Publication
 1. `python3 tools/validate.py --nuit` : corrige jusqu'à « OK ».
 2. Si le fichier a changé : `git add content/veille.json && git commit -m "Veille du concours AAAA-MM-JJ" && git push`.

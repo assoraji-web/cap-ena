@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "fbdf13c7 du 07/11/2026";
+const APP_VERSION = "v21 du 10/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1588,6 +1588,12 @@ function mergePack(p, isToday){
     l.date = p.date; l.fresh = true; LESSONS.push(l); LMAP[l.id] = l;
     if (l.niv && LVMAP[l.niv] && !NIV2L[l.niv]) NIV2L[l.niv] = l;
     CONTENT.added.l++; if (isToday) CONTENT.today.l++;
+  }
+  for (const a of (p.analyses||[])){
+    if (!a || !a.id || !a.titre || !Array.isArray(a.corps)) continue;
+    const i = ANALYSES.findIndex(x=>x.id===a.id);
+    if (i >= 0){ if ((a.rev||0) > (ANALYSES[i].rev||0)) ANALYSES[i] = Object.assign({date:p.date}, a); continue; }
+    ANALYSES.push(Object.assign({date:p.date}, a));
   }
   for (const s of (p.sujets||[])){
     if (!s || !EPREUVES[s.e] || SUJETS.some(x=>x.t===s.t)) continue;
@@ -1767,9 +1773,10 @@ function clockBack(){ return !!state.maxDate && today() < state.maxDate; }
 function noteDate(){ if (!state.maxDate || today() > state.maxDate){ state.maxDate = today(); save(); } }
 function creditSeance(kind){
   if (clockBack()){ toast("La date du téléphone a reculé : séance non comptée. Corrigez la date et l'heure du téléphone."); return false; }
-  const d = today(); const list = slotsOn(d); const done = state.done[d] || (state.done[d] = []);
+  if (anticip && anticip !== addDays(today(), 1)) anticip = null;
+  const d = anticip || today(); const list = slotsOn(d); const done = state.done[d] || (state.done[d] = []);
   const s = list.find(x=>x.k===kind && !done.includes(x.id));
-  if (s){ done.push(s.id); save(); toast("Séance « " + slotLabel(s) + " » validée pour aujourd'hui."); return true; }
+  if (s){ done.push(s.id); save(); toast("Séance « " + slotLabel(s) + " » validée pour " + (anticip ? "demain (" + frDate(d) + ")" : "aujourd'hui") + "."); if (anticip && list.every(x=>done.includes(x.id))) anticip = null; return true; }
   return false;
 }
 // Passage en revue des jours écoulés : chaque séance non faite retire des points (2 XP par minute prévue).
@@ -2706,9 +2713,155 @@ function liensCard(){
 }
 
 
+// ---------- Analyse du jour : enjeux contemporains (champ "analyses" des packs, publiée par la veille du matin) ----------
+let ANALYSES = [];
+function analyseDuJour(){
+  const td = today(), lu = state.analysesLues || {};
+  const dispo = ANALYSES.filter(a=>a.date <= td).sort((a,b)=>a.date<b.date?1:-1);
+  return dispo.find(a=>a.date === td) || dispo.find(a=>!lu[a.id]) || null;
+}
+function analyseCard(){
+  const a = analyseDuJour(); if (!a) return null;
+  const lu = (state.analysesLues||{})[a.id];
+  return card("stack tight " + (lu ? "soft" : "feature"),
+    h("p",{class:"lbl"}, "Analyse du jour · enjeux contemporains" + (a.theme ? " · " + a.theme : "")),
+    h("h2",null, a.titre),
+    a.chapeau ? h("p",{class:"small"}, a.chapeau) : null,
+    h("div",{class:"row"}, h("button",{class:"btn " + (lu ? "" : "primary"),type:"button",onclick:()=>{ analyseId = a.id; go("analyse"); }}, lu ? "Relire" : "Lire l'analyse"),
+      h("button",{class:"link",type:"button",onclick:()=>{ analyseId = null; go("analyses"); }},"Toutes les analyses")));
+}
+let analyseId = null;
+function vAnalyse(){
+  const a = ANALYSES.find(x=>x.id===analyseId) || analyseDuJour();
+  if (!a) return h("div",{class:"stack"}, h("h1",null,"Analyse du jour"), card("soft", h("p",null,"Aucune analyse publiée pour le moment.")));
+  const lu = (state.analysesLues||{})[a.id];
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"}, "Enjeux contemporains · " + frDate(a.date) + (a.theme ? " · " + a.theme : "")), h("h1",null, a.titre)),
+    a.chapeau ? h("p",{class:"lead"}, a.chapeau) : null,
+    card("stack lesson-body", blocks(a.corps)),
+    (a.retenir||[]).length ? card("stack", h("h2",null,"À retenir pour l'épreuve"), h("ul",{class:"pts"}, a.retenir.map(x=>h("li",null,x)))) : null,
+    (a.sujets||[]).length ? card("stack tight", h("h2",null,"Sujets possibles sur ce thème"), h("ul",{class:"pts"}, a.sujets.map(x=>h("li",null,x)))) : null,
+    (a.sources||[]).length ? card("stack tight soft", h("h2",null,"Sources"), h("ul",{class:"pts small"}, a.sources.map(s=>h("li",null, h("a",{href:s.u,target:"_blank",rel:"noopener"}, s.t))))) : null,
+    lu ? h("p",{class:"muted small"},"Lue le " + frDate(lu) + ".") : h("button",{class:"btn primary",type:"button",onclick:()=>{ state.analysesLues = state.analysesLues || {}; state.analysesLues[a.id] = today(); addXP(15); save(); toast("Analyse lue : +15 XP."); render(); }},"J'ai lu cette analyse"));
+}
+function vAnalyses(){
+  const lu = state.analysesLues || {};
+  const l = ANALYSES.filter(a=>a.date <= today()).sort((a,b)=>a.date<b.date?1:-1);
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Culture générale"), h("h1",null,"Analyses des enjeux contemporains")),
+    h("p",{class:"muted"},"Une analyse par jour sur un enjeu de société, d'économie ou de politique publique (Côte d'Ivoire, Afrique, monde), rédigée pour nourrir le sujet d'ordre général et l'oral. Chaque fait est sourcé."),
+    l.length ? h("div",{class:"list"}, l.map(a=>h("button",{class:"item",type:"button",onclick:()=>{ analyseId = a.id; go("analyse"); }},
+      h("span",{class:"grow"}, h("b",null, a.titre), h("span",{class:"muted small block"}, frDate(a.date) + (a.theme ? " · " + a.theme : ""))),
+      h("span",{class:"pill " + (lu[a.id] ? "ok" : "")}, lu[a.id] ? "Lue" : "À lire")))) : card("soft", h("p",null,"Aucune analyse publiée pour le moment : la première arrivera avec la prochaine veille du matin.")));
+}
+
+// ---------- Leçons spéciales : remédiation des questions ratées ----------
+// Pour chaque niveau où des questions ont été ratées : rappel du cours du niveau, puis chaque question ratée
+// expliquée (bonne réponse, pourquoi, pourquoi les autres réponses sont fausses), puis exercice ciblé.
+function remedNiveaux(){
+  const out = [];
+  for (const lv of LEVELS){
+    if (lv.last || !activeTracks().includes(lv.track)) continue;
+    const l = lessonOf(lv); if (!l || !l.exo || !l.exo.tag) continue;
+    const qs = allQ().filter(q=>q.tag===l.exo.tag && state.wrong[q.id] > 0);
+    if (qs.length) out.push({lv, l, qs, n: qs.reduce((a,q)=>a+state.wrong[q.id],0)});
+  }
+  return out.sort((a,b)=>b.n-a.n);
+}
+function remedCard(){
+  const r = remedNiveaux(); if (!r.length) return null;
+  const nq = r.reduce((a,x)=>a+x.qs.length,0);
+  return card("stack tight",
+    h("div",{class:"row spread"}, h("h2",null,"Leçons spéciales"), h("span",{class:"muted small"}, nq + " question" + (nq>1?"s":"") + " ratée" + (nq>1?"s":""))),
+    h("p",{class:"small"}, "Une leçon ciblée sur vos erreurs, en commençant par « " + r[0].lv.t + " » (" + TRACKS[r[0].lv.track].court + ")."),
+    h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>{ remedLv = r[0].lv.id; go("remed"); }},"Ouvrir la leçon spéciale"),
+      r.length > 1 ? h("button",{class:"link",type:"button",onclick:()=>{ remedLv = null; go("remeds"); }}, "Toutes (" + r.length + ")") : null));
+}
+let remedLv = null;
+function vRemeds(){
+  const r = remedNiveaux();
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"},"Remédiation"), h("h1",null,"Leçons spéciales")),
+    h("p",{class:"muted"},"Chaque leçon spéciale reprend le cours du niveau, explique une à une les questions que vous avez ratées, puis vous fait vous exercer dessus. Une question réussie sort de la liste."),
+    r.length ? h("div",{class:"list"}, r.map(x=>h("button",{class:"item",type:"button",onclick:()=>{ remedLv = x.lv.id; go("remed"); }},
+      h("span",{class:"grow"}, h("b",null, x.lv.t), h("span",{class:"muted small block"}, TRACKS[x.lv.track].court + " · niveau " + (x.lv.idx+1))),
+      h("span",{class:"pill late"}, x.qs.length + " erreur" + (x.qs.length>1?"s":""))))) : card("soft", h("p",null,"Aucune question ratée : rien à reprendre pour le moment.")));
+}
+function vRemed(){
+  const r = remedNiveaux(), x = r.find(y=>y.lv.id===remedLv) || r[0];
+  if (!x) return vRemeds();
+  const {lv, l, qs} = x;
+  const autres = shuffle(poolOf(lv).filter(q=>!state.wrong[q.id] && !state.seen[q.id])).concat(shuffle(poolOf(lv).filter(q=>!state.wrong[q.id] && state.seen[q.id])));
+  const items = qs.slice(0, 10).concat(autres.slice(0, Math.max(3, 12 - Math.min(10, qs.length))));
+  return h("div",{class:"stack"},
+    h("div",null, h("p",{class:"lbl"}, "Leçon spéciale · " + TRACKS[lv.track].court + " · niveau " + (lv.idx+1)), h("h1",null, lv.t)),
+    h("p",{class:"muted"}, qs.length + " question" + (qs.length>1?"s":"") + " ratée" + (qs.length>1?"s":"") + " sur ce niveau. Lisez d'abord le rappel du cours, puis l'explication de chaque erreur, et seulement ensuite l'exercice."),
+    card("stack", h("h2",null,"1. Rappel du cours"), blocks(l.tech || []), (l.retenir||[]).length ? h("div",{class:"box obj"}, h("b",null,"À retenir : "), h("ul",{class:"pts"}, l.retenir.map(t=>h("li",null,t)))) : null),
+    card("stack", h("h2",null,"2. Vos erreurs expliquées"),
+      qs.map((q, i)=>h("div",{class:"exo"},
+        h("p",null, h("b",null, (i+1) + ". "), q.q),
+        h("p",{class:"small"}, h("b",null,"Bonne réponse : "), q.o[q.a]),
+        q.e ? h("p",{class:"small"}, h("b",null,"Pourquoi : "), q.e) : null,
+        Array.isArray(q.ed) && q.ed.some(Boolean) ? h("ul",{class:"pts small"}, q.o.map((o, j)=> j !== q.a && q.ed[j] ? h("li",null, h("b",null, "« " + o + " » : "), q.ed[j]) : null)) : null,
+        h("p",{class:"muted small"}, "Ratée " + state.wrong[q.id] + " fois.")))),
+    card("stack", h("h2",null,"3. S'exercer"),
+      h("p",{class:"small"}, items.length + " questions : vos erreurs et d'autres questions du même niveau, avec correction immédiate. Une question réussie sort de la liste des erreurs."),
+      h("button",{class:"btn primary",type:"button",onclick:()=>startQCM({items: shuffle(items), title:"Leçon spéciale · " + lv.t, kind:"train", mode:"train"})},"Commencer l'exercice")),
+    h("button",{class:"btn ghost",type:"button",onclick:()=>openLevel(lv.id)},"Relire la leçon complète du niveau"));
+}
+
+// ---------- Anciens sujets : message unique après leur traitement par la mise à jour ----------
+let annNotice = null;
+async function annCheckNotice(){
+  const l = (state.annales||[]).filter(a=>a.envoye && !a.notifie);
+  if (!l.length) return;
+  ANN_INDEX = null; await annLoadIndex();
+  const traites = l.map(a=>({a, t: annTraite(a)})).filter(x=>x.t);
+  if (!traites.length) return;
+  const nonPris = (t)=> /^\s*non pris en compte|illisible/i.test(t.resultat || "");
+  annNotice = {ok: traites.filter(x=>!nonPris(x.t)), ko: traites.filter(x=>nonPris(x.t))};
+  for (const x of traites) x.a.notifie = today();
+  save();
+  if (view === "home" && !inExamView()) render();
+}
+function annNoticeCard(){
+  if (!annNotice) return null;
+  const {ok, ko} = annNotice;
+  const li = (x)=>h("li",null, h("b",null, x.a.name), x.t.resultat ? " : " + x.t.resultat : "");
+  return card("stack " + (ko.length && !ok.length ? "warnc" : "feature"),
+    h("h2",null,"Vos anciens sujets ont été traités"),
+    ok.length ? h("div",null, h("p",{class:"small"}, ok.length + " fichier" + (ok.length>1?"s":"") + " pris en compte par la mise à jour :"), h("ul",{class:"pts small"}, ok.map(li))) : null,
+    ko.length ? h("div",null, h("p",{class:"small"}, ko.length + " fichier" + (ko.length>1?"s":"") + " non pris en compte :"), h("ul",{class:"pts small"}, ko.map(li)), h("p",{class:"muted small"},"Vous pouvez renvoyer une version plus lisible (photo nette, PDF) depuis « Anciens sujets ».")) : null,
+    h("button",{class:"btn",type:"button",onclick:()=>{ annNotice = null; render(); }},"J'ai compris"));
+}
+
+// ---------- Anticiper la journée de demain ----------
+// Possible quand aucun rattrapage n'est en attente et que toutes les séances du jour sont faites.
+let anticip = null;   // date de demain pendant une séance anticipée
+function peutAnticiper(){
+  if (clockBack() || dueMissed().length) return false;
+  const td = today();
+  if (!slotsOn(td).every(s=>slotDone(td, s))) return false;
+  const dm = addDays(td, 1);
+  return slotsOn(dm).some(s=>!slotDone(dm, s));
+}
+function anticipCard(){
+  const dm = addDays(today(), 1), l = slotsOn(dm);
+  if (!l.length || !(peutAnticiper() || l.some(s=>slotDone(dm, s)))) return null;
+  const reste = l.filter(s=>!slotDone(dm, s));
+  return card("stack",
+    h("div",{class:"row spread"}, h("h2",null,"Anticiper demain"), h("span",{class:"muted small"}, JOURS[parseYmd(dm).getDay()] + " " + frDate(dm))),
+    h("p",{class:"small"}, reste.length ? "Tout est fait pour aujourd'hui et aucun rattrapage n'est en attente. Si une contrainte vous empêchera de travailler demain à l'heure prévue, faites dès maintenant les séances de demain : elles seront comptées pour demain." : "Toutes les séances de demain sont déjà faites : rien ne vous sera retiré demain."),
+    h("div",{class:"list"}, l.map(s=>{ const done = slotDone(dm, s);
+      return h("div",{class:"slotrow"},
+        h("div",{class:"tcol"}, h("time",null, s.debut), h("small",null, s.fin)),
+        h("div",{class:"grow"}, h("b",null, slotLabel(s)), h("span",{class:"muted small block"}, slotDetail(s)), h("span",{class:"pill " + (done ? "ok" : "")}, done ? "Fait en avance" : "Demain")),
+        done ? null : h("button",{class:"btn small primary",type:"button",onclick:()=>{ anticip = dm; toast("Séance de demain : elle sera comptée pour le " + frDate(dm) + "."); runSlot(s); }},"Faire maintenant")); })));
+}
+
 // ---------- Rendu ----------
 const TABS = [["home","Aujourd'hui"],["parcours","Parcours"],["train","Entraînement"],["candidature","Candidature"],["profil","Profil"]];
-const PARENT = {annales:"train", copies:"train", copie:"train", mentors:"train", question:"train", questions:"train", fiches:"train", concours:"parcours", quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
+const PARENT = {analyse:"home", analyses:"home", remed:"train", remeds:"train", annales:"train", copies:"train", copie:"train", mentors:"train", question:"train", questions:"train", fiches:"train", concours:"parcours", quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
 function renderNav(){
   const n = $("#nav"); n.replaceChildren();
   const parent = PARENT[view] || view;
@@ -2729,7 +2882,7 @@ function render(){
   const lo = $("#logoutBtn"); if (lo) lo.onclick = logout;
   if (canGoBack() && !(view==="quiz" && quiz && !quiz.done) && !(view==="ecrit" && ecrit && ecrit.phase==="write")) v.append(h("button",{class:"backbtn",type:"button",onclick:backClick}, "← Retour"));
   const fn = {home:vHome, parcours:vParcours, track:vTrack, lesson:vLesson, quiz:vQuiz, train:vTrain, ecrit:vEcrit, oral:vOral, conditions:vConditions,
-    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, concours:vConcours, fiches:vFiches, copies:vCopies, copie:vCopie, mentors:vMentors, question:vQuestion, questions:vQuestions, interruption:vInterruption, annales:vAnnales, urgence:vUrgence}[view] || vHome;
+    candidature:vCandidature, profil:vProfil, planning:vPlanning, rattrapages:vRattrapages, semaine:vSemaine, choixecrit:vChoixEcrit, tuto:vTuto, sanction:vSanction, concours:vConcours, fiches:vFiches, copies:vCopies, copie:vCopie, mentors:vMentors, question:vQuestion, questions:vQuestions, interruption:vInterruption, annales:vAnnales, analyse:vAnalyse, analyses:vAnalyses, remed:vRemed, remeds:vRemeds, urgence:vUrgence}[view] || vHome;
   v.append(fn());
 }
 const card = (cls, ...kids)=>h("section",{class:"card "+(cls||"")}, ...kids);
@@ -2806,6 +2959,7 @@ function startErreurs(lu){
 
 // ---------- Aujourd'hui ----------
 function vHome(){
+  anticip = null;
   const td = today(), slots = slotsOn(td), m = nowMin();
   const ind = indice(), due = dueMissed(), nv = grade(ind);
   const hr = new Date().getHours();
@@ -2818,7 +2972,10 @@ function vHome(){
       bar(ind.total, ind.total<40),
       h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. Chaque séance manquée fait baisser l'assiduité et retire des points.")),
     clockBack() ? card("stack warnc", h("h2",null,"Date du téléphone incorrecte"), h("p",{class:"small"},"La date du téléphone (" + frDate(today()) + ") est antérieure à votre dernière utilisation (" + frDate(state.maxDate) + "). Tant qu'elle n'est pas corrigée, aucune séance n'est comptée. Réglez la date et l'heure automatiques dans les paramètres du téléphone.")) : null,
+    annNoticeCard(),
+    analyseCard(),
     memCard(),
+    remedCard(),
     card("soft stack tight", h("div",{class:"row spread"}, h("h2",null,"Anciens sujets"), h("span",{class:"muted small"}, (state.annales||[]).length + " déposé" + ((state.annales||[]).length>1?"s":""))),
       h("p",{class:"small"},"Déposez vos anciens sujets (photos, PDF, Word) et les sites ou pages Facebook à suivre : ils enrichissent les cours, les exercices et la banque de sujets."),
       h("button",{class:"btn primary",type:"button",onclick:()=>go("annales")},"Déposer des sujets ou des liens")),
@@ -2842,6 +2999,7 @@ function vHome(){
           done ? null : h("button",{class: "btn small " + (cur||past ? "primary" : ""),type:"button",onclick:()=>runSlot(s)}, cur ? "Commencer" : "Faire"));
       })) : h("p",{class:"muted"},"Aucune séance prévue aujourd'hui. Vous pouvez avancer dans le parcours ou faire vos rattrapages."),
       h("p",{class:"note"},"Une séance est validée quand l'évaluation (ou la copie) de sa matière est terminée le jour même. Une séance non faite à minuit retire 2 XP par minute prévue ; elle se rattrape dans les 14 jours.")),
+    anticipCard(),
     card("stack",
       h("div",{class:"row spread"}, h("h2",null,"Mon dossier de candidature"), h("b",null, dp.ok + "/" + dp.total)),
       bar(dp.pct, dp.pct<50),
@@ -3251,6 +3409,7 @@ function vTrain(){
       h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>go("copies")},"Mes copies"), h("button",{class:"btn",type:"button",onclick:()=>askQuestion(null)},"Poser une question"), h("button",{class:"btn ghost",type:"button",onclick:()=>go("mentors")},"Mes correcteurs"))),
     card("stack", h("h2",null,"Rappels espacés et fiches"), h("p",{class:"muted small"}, (()=>{ const m = memStats(); return m.dus + " niveau(x) à rappeler aujourd'hui · " + m.ancres + "/" + m.valides + " niveaux ancrés" + (m.taux != null ? " · " + m.taux + " % de rappels réussis (90 j)" : ""); })()),
       h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",disabled:!dueLevels().length||null,onclick:()=>startRappel(null)},"Rappel du jour"), h("button",{class:"btn",type:"button",onclick:()=>go("fiches")},"Mes fiches"))),
+    remedCard(), card("stack tight", h("h2",null,"Analyses des enjeux contemporains"), h("p",{class:"muted small"}, ANALYSES.length + " analyse(s) publiée(s), une par jour."), h("button",{class:"btn",type:"button",onclick:()=>go("analyses")},"Lire les analyses")),
     card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s)."), h("button",{class:"btn",type:"button",onclick:()=>startErreurs()},"Lancer")),
     card("stack", h("h2",null,"Séries libres (correction immédiate)"), h("p",{class:"muted small"},"Uniquement sur les niveaux déjà validés. Sans enjeu : elles ne valident ni niveau ni séance."),
       h("div",{class:"list"}, PROGRAMME.filter(t=>t.k!=="oral" && activeTracks().includes(t.k)).map(t=>{ const pool = trackPool(t.k,false); return h("button",{class:"item",type:"button",disabled:pool.length<5,onclick:()=>avecLecon(leconFaible([t.k]), "série libre · " + t.court, ()=>startQCM({items:pick(pool,Math.min(10,pool.length)), title:"Série libre · " + t.court, kind:"train", mode:"train"}))}, h("span",{class:"grow"}, t.court), h("span",{class:"meta"}, pool.length<5 ? "🔒" : pool.length + " q.")); }))),
@@ -4518,7 +4677,7 @@ function startApp(){
   render();
   if (r.n && view !== "sanction" && view !== "interruption") toast(r.n + " séance(s) manquée(s) : −" + r.lost + " XP. Rattrapez-les dans les 14 jours.");
   if (!started){
-    started = true; loadContent();
+    started = true; loadContent(); setTimeout(()=>annCheckNotice(), 1500);
     // à minuit, l'appli ouverte compte aussi les séances manquées
     setInterval(()=>{ if (!state.exam && state.lastProc !== addDays(today(), -1)){ const x = processMissed(); if (x.n) { toast(x.n + " séance(s) manquée(s) : −" + x.lost + " XP."); if (!inExamView()) render(); } } }, 60000);
   }

@@ -25,7 +25,8 @@ base = json.loads((C / "base.json").read_text(encoding="utf-8"))
 seen_q = {norm(t) for t in base.get("questions", [])}
 seen_l = set(base.get("lessons", []))
 seen_s = {norm(t) for t in base.get("sujets", [])}
-seen_ex = {}   # exemples (~) et exercices (?) des leçons publiées
+seen_ex = {}
+seen_an, seen_at = set(), set()   # analyses : identifiants et titres déjà publiés   # exemples (~) et exercices (?) des leçons publiées
 ids = set()
 prog = json.loads((C / "programme.json").read_text(encoding="utf-8"))
 NIVS = {lv["id"]: lv for t in prog for lv in t["levels"]}
@@ -79,6 +80,21 @@ for pk in index.get("packs", []):
                     got = [float(x.replace(" ","").replace(" ","").replace(",", ".")) for x in nums]
                     if not any(abs(g - val) < 1e-6 * max(1, abs(val)) for g in got):
                         err(w, f"calcul : la bonne réponse ne vaut pas {val}")
+        for i, an in enumerate(day.get("analyses", [])):
+            w = f"{pk['file']} {d} analyse {i+1}"
+            for k in ("id","titre","theme","chapeau","corps","retenir","sources"):
+                if k not in an: err(w, f"champ manquant {k}")
+            if an.get("id") in seen_an and not an.get("rev"): err(w, "identifiant d'analyse déjà utilisé")
+            nt = norm(an.get("titre",""))
+            if nt in seen_at and not an.get("rev"): err(w, "analyse déjà publiée sur ce titre (pas de répétition)")
+            seen_an.add(an.get("id")); seen_at.add(nt)
+            corps = an.get("corps") if isinstance(an.get("corps"), list) else []
+            nw = sum(len(str(x).split()) for x in corps)
+            if nw < 600: err(w, f"analyse trop courte : {nw} mots (600 au moins)")
+            if not any(str(x).startswith("## ") for x in corps): err(w, "analyse sans intertitres (## …)")
+            if not (3 <= len(an.get("retenir", [])) <= 6): err(w, "3 à 6 points « à retenir »")
+            src = [x for x in an.get("sources", []) if isinstance(x, dict) and str(x.get("u","")).startswith("https://") and x.get("t")]
+            if len(src) < 2: err(w, "au moins 2 sources {t, u https} réellement lues")
         for i, l in enumerate(day.get("lessons", [])):
             w = f"{pk['file']} {d} leçon {i+1}"
             # jamais deux fois le même exemple ou le même exercice d'une leçon à l'autre
