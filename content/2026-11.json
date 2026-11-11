@@ -15545,6 +15545,606 @@
       "20 vient de 60 ÷ 3 : le coefficient restant est 4, pas 3."
      ],
      "calc": "(12*10-10*6)/4"
+    },
+    {
+     "id": "c20261111-fr07-01",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "verif": "regle",
+     "q": "Complétez : « Les agents que le directeur a ___ ont ensuite été promus. » (féliciter)",
+     "o": [
+      "félicité",
+      "félicités",
+      "félicitées",
+      "félicitée"
+     ],
+     "a": 1,
+     "e": "Avec avoir, le participe s'accorde avec le COD placé avant : le directeur a félicité qui ? « que », mis pour « les agents », masculin pluriel → félicités.",
+     "ed": [
+      "« Félicité » oublie l'accord avec le COD « que » (les agents) placé avant l'auxiliaire.",
+      null,
+      "« Félicitées » est au féminin, alors que « les agents » est masculin.",
+      "« Félicitée » est au féminin singulier : le COD est masculin pluriel."
+     ],
+     "src": {
+      "t": "La langue française, Le guide complet du participe passé",
+      "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+     }
+    },
+    {
+     "id": "c20261111-fr07-02",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "verif": "regle",
+     "q": "Complétez : « Les délégations sont ___ hier soir vers leurs régions. » (repartir)",
+     "o": [
+      "reparti",
+      "repartis",
+      "reparties",
+      "repartie"
+     ],
+     "a": 2,
+     "e": "Avec l'auxiliaire être, le participe s'accorde avec le sujet comme un adjectif : « les délégations » est féminin pluriel → reparties.",
+     "ed": [
+      "« Reparti » ignore l'accord avec le sujet, obligatoire avec être.",
+      "« Repartis » est masculin, alors que « délégations » est féminin.",
+      null,
+      "« Repartie » est au singulier, alors que le sujet est pluriel."
+     ],
+     "src": {
+      "t": "La langue française, Le guide complet du participe passé",
+      "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+     }
+    },
+    {
+     "id": "c20261111-fr07-03",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "verif": "regle",
+     "q": "Complétez : « Des propositions, la commission en a ___ plusieurs. » (retenir)",
+     "o": [
+      "retenu",
+      "retenues",
+      "retenue",
+      "retenus"
+     ],
+     "a": 0,
+     "e": "Quand le COD est le pronom « en », le participe passé reste invariable : « la commission en a retenu plusieurs ».",
+     "ed": [
+      null,
+      "« Retenues » accorde avec « propositions », mais le COD est « en » : pas d'accord.",
+      "« Retenue » accorde avec « commission », le sujet : jamais d'accord avec le sujet quand l'auxiliaire est avoir.",
+      "« Retenus » est masculin pluriel : aucun nom masculin pluriel n'est en jeu, et « en » interdit l'accord."
+     ],
+     "src": {
+      "t": "La langue française, Le guide complet du participe passé",
+      "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+     }
+    },
+    {
+     "id": "c20261111-fr07-04",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "verif": "regle",
+     "q": "Complétez : « La mission fut plus longue que nous ne l'avions ___. » (prévoir)",
+     "o": [
+      "prévue",
+      "prévues",
+      "prévus",
+      "prévu"
+     ],
+     "a": 3,
+     "e": "Ici « l' » ne remplace pas « la mission » mais toute une idée (« qu'elle serait longue ») : ce « l' » neutre n'entraîne pas d'accord → prévu.",
+     "ed": [
+      "« Prévue » accorde avec « la mission », mais « l' » reprend une idée entière, pas ce nom.",
+      "« Prévues » est au pluriel : aucun COD pluriel ne précède le verbe.",
+      "« Prévus » est masculin pluriel : aucun COD de ce genre ni de ce nombre.",
+      null
+     ],
+     "src": {
+      "t": "La langue française, Le guide complet du participe passé",
+      "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+     }
+    },
+    {
+     "id": "c20261111-fr07-05",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "verif": "regle",
+     "q": "Complétez : « La parcelle qu'il a ___ acheter était trop chère. » (vouloir)",
+     "o": [
+      "voulue",
+      "voulues",
+      "voulu",
+      "voulus"
+     ],
+     "a": 2,
+     "e": "« Que » (la parcelle) est le COD de l'infinitif « acheter », non de « vouloir » : il a voulu acheter quoi ? la parcelle. Le participe reste invariable → voulu.",
+     "ed": [
+      "« Voulue » suppose que « la parcelle » soit COD de « vouloir » ; elle est en réalité COD d'« acheter ».",
+      "« Voulues » est au pluriel, alors que « parcelle » est singulier, et l'accord ne se fait pas ici.",
+      null,
+      "« Voulus » est masculin pluriel : aucun COD de ce type, et le participe reste invariable."
+     ],
+     "src": {
+      "t": "La langue française, Le guide complet du participe passé",
+      "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+     }
+    },
+    {
+     "id": "c20261111-fr07-06",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "verif": "regle",
+     "q": "Complétez : « Les sacrifices que ce concours lui a ___ sont aujourd'hui oubliés. » (coûter)",
+     "o": [
+      "coûtés",
+      "coûté",
+      "coûtées",
+      "coûtée"
+     ],
+     "a": 0,
+     "e": "Au sens figuré (« causer, entraîner »), coûter a un vrai COD : le concours lui a coûté quoi ? « que », mis pour « les sacrifices », placé avant → coûtés.",
+     "ed": [
+      null,
+      "« Coûté » serait juste pour un prix au sens propre ; ici « sacrifices » est un vrai COD placé avant.",
+      "« Coûtées » est féminin, alors que « sacrifices » est masculin.",
+      "« Coûtée » est au féminin singulier : le COD est masculin pluriel."
+     ],
+     "src": {
+      "t": "La langue française, Le guide complet du participe passé",
+      "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+     }
+    },
+    {
+     "id": "c20261111-fr07-07",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "verif": "regle",
+     "q": "Complétez : « Les 80 kilos que ce sac a ___ ont surpris le porteur. » (peser)",
+     "o": [
+      "pesés",
+      "pesé",
+      "pesées",
+      "pesée"
+     ],
+     "a": 1,
+     "e": "« Les 80 kilos » indique combien pèse le sac : c'est une mesure, pas un COD. Le participe reste invariable → pesé.",
+     "ed": [
+      "« Pesés » traite la mesure comme un COD ; au sens propre de « avoir un poids de », il n'y a pas d'accord.",
+      null,
+      "« Pesées » est féminin pluriel, et aucun accord ne se fait avec une mesure.",
+      "« Pesée » est féminin singulier : le complément de mesure n'entraîne pas d'accord."
+     ],
+     "src": {
+      "t": "La langue française, Le guide complet du participe passé",
+      "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+     }
+    },
+    {
+     "id": "c20261111-fr07-08",
+     "m": "fr",
+     "tag": "niv-fr07",
+     "verif": "regle",
+     "q": "Laquelle de ces phrases contient une faute d'accord ?",
+     "o": [
+      "Les copies que le jury a corrigées sont rendues.",
+      "Elles se sont fait recruter l'an dernier.",
+      "La note que j'ai reçu est excellente.",
+      "Les dossiers qu'il a fait classer sont prêts."
+     ],
+     "a": 2,
+     "e": "J'ai reçu quoi ? « que », mis pour « la note », féminin singulier, placé avant l'auxiliaire avoir : il fallait écrire « la note que j'ai reçue ».",
+     "ed": [
+      "Phrase correcte : « que » (les copies) est COD placé avant → corrigées.",
+      "Phrase correcte : « fait » suivi d'un infinitif est toujours invariable.",
+      null,
+      "Phrase correcte : « fait » + infinitif (classer) reste invariable."
+     ],
+     "src": {
+      "t": "La langue française, Le guide complet du participe passé",
+      "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+     }
+    },
+    {
+     "id": "c20261111-an04-01",
+     "m": "ang",
+     "tag": "niv-an04",
+     "verif": "regle",
+     "q": "Choose the correct form: \"I ___ my keys, so I can't open the door.\"",
+     "o": [
+      "have lost",
+      "lose",
+      "am losing",
+      "has lost"
+     ],
+     "a": 0,
+     "e": "Le present perfect exprime une action passée dont le résultat est visible maintenant : les clés sont perdues, je ne peux pas ouvrir → I have lost.",
+     "ed": [
+      null,
+      "« Lose » (présent simple) décrit une habitude, pas une action passée au résultat présent.",
+      "« Am losing » (présent en -ing) décrit une action en cours, pas un résultat.",
+      "« Has » s'emploie avec he, she, it ; avec I, il faut « have »."
+     ],
+     "src": {
+      "t": "LearnEnglish.life, Present perfect vs past simple",
+      "u": "https://www.learnenglish.life/guides/present-perfect-vs-past-simple/"
+     }
+    },
+    {
+     "id": "c20261111-an04-02",
+     "m": "ang",
+     "tag": "niv-an04",
+     "verif": "regle",
+     "q": "Choose the correct form: \"She ___ in Bouaké for two years, then she moved to Abidjan.\"",
+     "o": [
+      "has lived",
+      "lives",
+      "lived",
+      "has been living"
+     ],
+     "a": 2,
+     "e": "La période est terminée (elle a ensuite déménagé) : « for » + durée accepte le past simple quand la période est close → she lived.",
+     "ed": [
+      "Le present perfect supposerait qu'elle habite encore à Bouaké, ce que dément « then she moved ».",
+      "Le présent simple ne convient pas à un passé terminé.",
+      null,
+      "Le present perfect continu implique que la situation dure encore ; elle est finie."
+     ],
+     "src": {
+      "t": "LearnEnglish.life, Present perfect vs past simple",
+      "u": "https://www.learnenglish.life/guides/present-perfect-vs-past-simple/"
+     }
+    },
+    {
+     "id": "c20261111-an04-03",
+     "m": "ang",
+     "tag": "niv-an04",
+     "verif": "regle",
+     "q": "Choose the correct word: \"Have you sent the invitations ___?\"",
+     "o": [
+      "ago",
+      "since",
+      "for",
+      "yet"
+     ],
+     "a": 3,
+     "e": "Dans une question au present perfect, « yet » signifie « déjà ? / jusqu'à maintenant » et se place en fin de phrase → Have you sent the invitations yet?",
+     "ed": [
+      "« Ago » se construit avec une durée et le past simple (two days ago).",
+      "« Since » doit être suivi d'un point de départ (since Monday).",
+      "« For » doit être suivi d'une durée (for a week).",
+      null
+     ],
+     "src": {
+      "t": "LearnEnglish.life, Present perfect vs past simple",
+      "u": "https://www.learnenglish.life/guides/present-perfect-vs-past-simple/"
+     }
+    },
+    {
+     "id": "c20261111-an04-04",
+     "m": "ang",
+     "tag": "niv-an04",
+     "verif": "regle",
+     "q": "Choose the correct word: \"I have ___ visited Korhogo, but I would like to go one day.\"",
+     "o": [
+      "ever",
+      "never",
+      "yet",
+      "ago"
+     ],
+     "a": 1,
+     "e": "« Never » signifie « à aucun moment » et rend la phrase négative : I have never visited Korhogo (je n'y suis jamais allé).",
+     "ed": [
+      "« Ever » s'emploie surtout dans les questions (Have you ever…?), pas dans une affirmation de ce type.",
+      null,
+      "« Yet » se place en fin de phrase négative ou interrogative, pas entre have et le participe.",
+      "« Ago » suit une durée et appelle le past simple."
+     ],
+     "src": {
+      "t": "LearnEnglish.life, Present perfect vs past simple",
+      "u": "https://www.learnenglish.life/guides/present-perfect-vs-past-simple/"
+     }
+    },
+    {
+     "id": "c20261111-an04-05",
+     "m": "ang",
+     "tag": "niv-an04",
+     "verif": "regle",
+     "q": "Choose the correct form: \"The minister ___ the new health centre last Monday.\"",
+     "o": [
+      "opened",
+      "has opened",
+      "opens",
+      "have opened"
+     ],
+     "a": 0,
+     "e": "« Last Monday » situe l'action à un moment passé précis et terminé : on emploie le past simple → opened.",
+     "ed": [
+      null,
+      "Le present perfect est incompatible avec un moment passé précis comme « last Monday ».",
+      "Le présent simple ne situe pas l'action dans le passé.",
+      "« Have » ne s'accorde pas avec « the minister » (3e personne), et le temps est faux."
+     ],
+     "src": {
+      "t": "LearnEnglish.life, Present perfect vs past simple",
+      "u": "https://www.learnenglish.life/guides/present-perfect-vs-past-simple/"
+     }
+    },
+    {
+     "id": "c20261111-an04-06",
+     "m": "ang",
+     "tag": "niv-an04",
+     "verif": "regle",
+     "q": "Choose the correct word: \"We have known each other ___ we were at university.\"",
+     "o": [
+      "for",
+      "ago",
+      "since",
+      "during"
+     ],
+     "a": 2,
+     "e": "« Since » introduit un point de départ, qui peut être une proposition entière (since we were at university) : on se connaît depuis cette époque.",
+     "ed": [
+      "« For » introduit une durée (for ten years), pas un point de départ.",
+      "« Ago » suit une durée et s'emploie avec le past simple.",
+      null,
+      "« During » signifie « pendant » et ne marque pas le point de départ d'une durée qui continue."
+     ],
+     "src": {
+      "t": "LearnEnglish.life, Present perfect vs past simple",
+      "u": "https://www.learnenglish.life/guides/present-perfect-vs-past-simple/"
+     }
+    },
+    {
+     "id": "c20261111-an04-07",
+     "m": "ang",
+     "tag": "niv-an04",
+     "verif": "regle",
+     "q": "Translate: « Je viens de signer le contrat. »",
+     "o": [
+      "I just have signed the contract.",
+      "I have just signed the contract.",
+      "I come to sign the contract.",
+      "I have signed just the contract."
+     ],
+     "a": 1,
+     "e": "« Venir de » + infinitif se traduit par « have just » + participe passé ; « just » se place entre l'auxiliaire et le participe → I have just signed.",
+     "ed": [
+      "« Just » se place après l'auxiliaire « have », pas avant.",
+      null,
+      "« I come to sign » est un calque du français et signifie « je viens pour signer ».",
+      "Placé après « signed », « just » signifie « seulement le contrat »."
+     ],
+     "src": {
+      "t": "LearnEnglish.life, Present perfect vs past simple",
+      "u": "https://www.learnenglish.life/guides/present-perfect-vs-past-simple/"
+     }
+    },
+    {
+     "id": "c20261111-an04-08",
+     "m": "ang",
+     "tag": "niv-an04",
+     "verif": "regle",
+     "q": "Translate: « Depuis combien de temps travaillez-vous ici ? »",
+     "o": [
+      "Since how long do you work here?",
+      "How long do you work here?",
+      "How long are you working here?",
+      "How long have you worked here?"
+     ],
+     "a": 3,
+     "e": "Une durée qui part du passé et continue aujourd'hui se dit au present perfect, avec « How long…? » → How long have you worked here?",
+     "ed": [
+      "« Since how long » est un calque du français et le présent simple est faux.",
+      "Le présent simple ne rend pas une durée qui commence dans le passé.",
+      "Le présent en -ing ne rend pas non plus cette durée commencée dans le passé.",
+      null
+     ],
+     "src": {
+      "t": "LearnEnglish.life, Present perfect vs past simple",
+      "u": "https://www.learnenglish.life/guides/present-perfect-vs-past-simple/"
+     }
+    },
+    {
+     "id": "c20261111-so03-01",
+     "m": "sog",
+     "tag": "niv-so03",
+     "verif": "methode",
+     "q": "Sujet : « La ville offre-t-elle plus de chances aux jeunes que le village ? » Quel est le défaut de la problématique « La ville offre-t-elle davantage de chances que le village ? »",
+     "o": [
+      "Elle répète le sujet sans faire apparaître de tension",
+      "Elle est trop longue",
+      "Elle contient une définition",
+      "Elle annonce déjà le plan"
+     ],
+     "a": 0,
+     "e": "Une problématique ne répète pas le sujet : elle fait émerger le problème caché derrière lui, par exemple la tension entre opportunités urbaines et précarité.",
+     "ed": [
+      null,
+      "Elle est au contraire très courte : son défaut est de recopier le sujet.",
+      "Elle ne définit aucun terme : ce n'est pas son défaut.",
+      "Elle n'annonce aucune partie : son défaut est la simple répétition du sujet."
+     ],
+     "src": {
+      "t": "Nomad Education, Introduction de dissertation : méthode et exemples",
+      "u": "https://www.nomadeducation.fr/blog/articles/2026-05-10/introduction-dissertation-methode-exemples"
+     }
+    },
+    {
+     "id": "c20261111-so03-02",
+     "m": "sog",
+     "tag": "niv-so03",
+     "verif": "methode",
+     "q": "Une accroche qui pourrait introduire n'importe quel sujet est :",
+     "o": [
+      "idéale, car elle sert à tout",
+      "probablement mauvaise, car elle n'ouvre pas la réflexion sur ce sujet précis",
+      "obligatoire en culture générale",
+      "à placer après la problématique"
+     ],
+     "a": 1,
+     "e": "L'accroche doit déjà ouvrir la réflexion sur le sujet posé ; une formule passe-partout ne montre pas au correcteur que vous avez compris ce sujet-là.",
+     "ed": [
+      "Une accroche « qui sert à tout » est justement générale et banale : elle ne prouve rien.",
+      null,
+      "Aucune règle n'impose une accroche passe-partout ; on attend une accroche liée au sujet.",
+      "L'accroche ouvre l'introduction : elle vient avant les définitions et la problématique."
+     ],
+     "src": {
+      "t": "Nomad Education, Introduction de dissertation : méthode et exemples",
+      "u": "https://www.nomadeducation.fr/blog/articles/2026-05-10/introduction-dissertation-methode-exemples"
+     }
+    },
+    {
+     "id": "c20261111-so03-03",
+     "m": "sog",
+     "tag": "niv-so03",
+     "verif": "methode",
+     "q": "Sujet : « Peut-on refuser d'obéir à la loi ? » Que doit examiner l'analyse des termes ?",
+     "o": [
+      "Uniquement le mot « loi »",
+      "Le nombre de mots du sujet",
+      "Le sens de « refuser d'obéir », de « loi » et de « peut-on » (possible ou légitime ?)",
+      "L'auteur probable du sujet"
+     ],
+     "a": 2,
+     "e": "On analyse chaque terme clé et la modalité : « peut-on » renvoie-t-il à la possibilité ou à la légitimité ? C'est souvent là que se joue la qualité de l'introduction.",
+     "ed": [
+      "Limiter l'analyse à « loi » laisse de côté le verbe et la modalité, qui orientent la problématique.",
+      "Le nombre de mots n'a aucun rôle dans l'analyse d'un sujet de dissertation.",
+      null,
+      "L'auteur du sujet est inconnu et sans intérêt : seul compte le sens des termes."
+     ],
+     "src": {
+      "t": "Nomad Education, Introduction de dissertation : méthode et exemples",
+      "u": "https://www.nomadeducation.fr/blog/articles/2026-05-10/introduction-dissertation-methode-exemples"
+     }
+    },
+    {
+     "id": "c20261111-so03-04",
+     "m": "sog",
+     "tag": "niv-so03",
+     "verif": "methode",
+     "q": "Réciter dans l'introduction tout ce que l'on sait du thème est :",
+     "o": [
+      "recommandé pour rassurer le correcteur",
+      "utile si le temps manque",
+      "obligatoire au cycle supérieur",
+      "une erreur : l'introduction ouvre la réflexion, ce n'est pas une fiche de révision"
+     ],
+     "a": 3,
+     "e": "L'introduction ouvre le sujet sans l'épuiser ; les connaissances servent dans le développement, au service des arguments.",
+     "ed": [
+      "Le correcteur est rassuré par une problématique claire, pas par une récitation.",
+      "Le manque de temps n'autorise pas une introduction-récitation : elle reste une erreur de méthode.",
+      "Aucune règle ne l'impose ; c'est une erreur fréquente et pénalisante.",
+      null
+     ],
+     "src": {
+      "t": "Nomad Education, Introduction de dissertation : méthode et exemples",
+      "u": "https://www.nomadeducation.fr/blog/articles/2026-05-10/introduction-dissertation-methode-exemples"
+     }
+    },
+    {
+     "id": "c20261111-so03-05",
+     "m": "sog",
+     "tag": "niv-so03",
+     "verif": "methode",
+     "q": "Laquelle n'est PAS une accroche recommandée ?",
+     "o": [
+      "Un constat précis et daté lié au sujet",
+      "« Selon un grand philosophe, … », sans auteur ni référence exacte",
+      "Un paradoxe lié au sujet",
+      "Une opposition entre deux faits"
+     ],
+     "a": 1,
+     "e": "« Selon un grand philosophe… » fait partie des formules usées et vagues : une citation ne vaut que si elle est exacte et éclaire vraiment le sujet.",
+     "ed": [
+      "Le constat précis et daté est une accroche recommandée.",
+      null,
+      "Le paradoxe est l'une des formes simples d'accroche recommandées.",
+      "L'opposition est aussi une forme simple et efficace d'accroche."
+     ],
+     "src": {
+      "t": "Nomad Education, Introduction de dissertation : méthode et exemples",
+      "u": "https://www.nomadeducation.fr/blog/articles/2026-05-10/introduction-dissertation-methode-exemples"
+     }
+    },
+    {
+     "id": "c20261111-so03-06",
+     "m": "sog",
+     "tag": "niv-so03",
+     "verif": "methode",
+     "q": "Sujet : « Le numérique rapproche-t-il l'administration des usagers ? » Quelle phrase annonce correctement un plan en deux parties ?",
+     "o": [
+      "Je pense que le numérique est une bonne chose.",
+      "Le numérique rapproche-t-il l'administration des usagers ? Telle est la question.",
+      "Nous verrons d'abord que le numérique simplifie l'accès aux services publics, puis qu'il peut créer de nouvelles exclusions.",
+      "Première partie : A, la dématérialisation des actes, avec trois exemples détaillés…"
+     ],
+     "a": 2,
+     "e": "L'annonce dit où va la copie, en une phrase, en découlant de la problématique : deux parties nettes, sans développer les arguments.",
+     "ed": [
+      "Une opinion n'annonce aucun plan.",
+      "Cette phrase répète le sujet ; elle n'annonce aucune partie.",
+      null,
+      "Cette annonce développe déjà les sous-parties et les exemples : elle empiète sur le développement."
+     ],
+     "src": {
+      "t": "Nomad Education, Introduction de dissertation : méthode et exemples",
+      "u": "https://www.nomadeducation.fr/blog/articles/2026-05-10/introduction-dissertation-methode-exemples"
+     }
+    },
+    {
+     "id": "c20261111-so03-07",
+     "m": "sog",
+     "tag": "niv-so03",
+     "verif": "methode",
+     "q": "Dans l'introduction d'une dissertation de culture générale, quel est le rôle propre de la problématique ?",
+     "o": [
+      "Reformuler le sujet avec des synonymes",
+      "Faire émerger le problème caché derrière le sujet",
+      "Donner déjà la réponse définitive",
+      "Énumérer cinq questions indépendantes"
+     ],
+     "a": 1,
+     "e": "La problématique met en lumière la tension contenue dans le sujet (ce qu'il semble affirmer, la limite qu'on peut lui opposer) : c'est elle qui justifie le plan.",
+     "ed": [
+      "Changer les mots du sujet n'en fait pas une problématique : c'est une répétition déguisée.",
+      null,
+      "La réponse se construit dans le développement et la conclusion, pas dans la problématique.",
+      "Une liste de questions disperse la copie : on attend une question centrale."
+     ],
+     "src": {
+      "t": "Nomad Education, Introduction de dissertation : méthode et exemples",
+      "u": "https://www.nomadeducation.fr/blog/articles/2026-05-10/introduction-dissertation-methode-exemples"
+     }
+    },
+    {
+     "id": "c20261111-so03-08",
+     "m": "sog",
+     "tag": "niv-so03",
+     "verif": "methode",
+     "q": "Pourquoi l'accroche « Depuis la nuit des temps, l'homme travaille » est-elle à éviter ?",
+     "o": [
+      "Elle est trop précise",
+      "Elle contient une date inexacte",
+      "C'est une formule usée et invérifiable, qui pourrait ouvrir n'importe quel sujet",
+      "Elle est trop courte"
+     ],
+     "a": 2,
+     "e": "« Depuis la nuit des temps » est une formule vue et revue : elle n'apporte aucun fait, ne se vérifie pas et ne montre pas la compréhension du sujet.",
+     "ed": [
+      "Elle n'est pas précise du tout : c'est justement son défaut.",
+      "Elle ne contient aucune date : c'est un des problèmes, elle reste vague.",
+      null,
+      "La longueur n'est pas en cause : une accroche courte et précise est bonne."
+     ],
+     "src": {
+      "t": "Nomad Education, Introduction de dissertation : méthode et exemples",
+      "u": "https://www.nomadeducation.fr/blog/articles/2026-05-10/introduction-dissertation-methode-exemples"
+     }
     }
    ],
    "lessons": [
@@ -15680,6 +16280,79 @@
       "tag": "niv-lo08",
       "n": 20
      }
+    },
+    {
+     "id": "L20261013fr07",
+     "rev": 3,
+     "niv": "fr07",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Le participe passé avec être et avec avoir",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez accorder sans hésiter le participe passé employé avec être et avec avoir.",
+      "= Vous saurez aussi traiter les cas piégés des QCM : le pronom « en », le « l' » neutre, les verbes de mesure et le participe suivi d'un infinitif.",
+      "## Ce que demande le concours",
+      "Le participe passé est la forme du verbe qui se combine avec un auxiliaire pour former les temps composés : « j'ai signé », « elle est partie ». Les QCM d'orthographe proposent souvent quatre fois le même participe, au masculin, au féminin, au singulier et au pluriel. Le candidat doit trouver la seule forme juste. Les pièges reviennent toujours : le COD placé avant, le sujet qui « attire » l'accord à tort, et les participes qui restent invariables malgré les apparences.",
+      "## La méthode en cinq questions (à poser dans cet ordre)",
+      "- 1. Quel est l'auxiliaire ? Avec être, accordez avec le sujet, et c'est fini.",
+      "- 2. Avec avoir, cherchez le COD (complément d'objet direct) : posez « qui ? » ou « quoi ? » juste après le verbe.",
+      "- 3. Ce COD est-il placé avant le verbe ? Il prend souvent la forme « que », « l' », « la », « les », « me », « nous ». Si oui, accordez avec lui ; sinon, le participe reste au masculin singulier.",
+      "- 4. Le COD est-il « en », ou un « l' » qui reprend une idée entière ? Alors, pas d'accord.",
+      "- 5. Le participe est-il suivi d'un infinitif ? Demandez-vous de quel verbe le COD dépend vraiment.",
+      "! Le piège numéro un : accorder avec le sujet quand l'auxiliaire est avoir. Avec avoir, le sujet ne commande jamais l'accord."
+     ],
+     "fond": [
+      "## Notion 1 : avec être, l'accord se fait avec le sujet",
+      "La règle : le participe passé employé avec l'auxiliaire être s'accorde en genre (masculin ou féminin) et en nombre (singulier ou pluriel) avec le sujet. C'est vrai à la voix active (« elles sont venues ») comme à la voix passive (« les résultats ont été publiés »).",
+      "Le pourquoi : avec être, le participe se comporte comme un adjectif attribut. On écrit « les routes sont praticables » ; de la même façon, on écrit « les routes sont ouvertes ».",
+      "~ « Les conseillères régionales sont rentrées d'Agnibilékrou. » Qui est rentré ? « les conseillères régionales » : féminin pluriel, donc « rentrées ».",
+      "~ « Le budget de la commune a été voté en décembre. » « A été » est la voix passive : l'auxiliaire réel est être. Qu'est-ce qui a été voté ? « le budget » : masculin singulier, donc « voté ».",
+      "! Ne vous laissez pas tromper par « a » dans « a été » : c'est le passif, donc la règle d'être s'applique.",
+      "? Accordez : « Les nouvelles salles de classe ont été (inaugurer) par le préfet. » || Inaugurées. « Ont été » est la voix passive : on accorde avec le sujet « les nouvelles salles de classe », féminin pluriel.",
+      "## Notion 2 : avec avoir, l'accord se fait avec le COD placé avant",
+      "La règle : avec l'auxiliaire avoir, le participe ne s'accorde jamais avec le sujet. Il s'accorde avec le COD, mais seulement si ce COD est placé avant le participe.",
+      "Le pourquoi : au moment où l'on écrit le participe, on connaît déjà le COD s'il a été annoncé avant ; on peut donc accorder. S'il vient après, on ne le connaît pas encore : le participe reste au masculin singulier, la forme neutre. Un test pratique consiste à se demander si l'on a déjà écrit « ce qui est » + participe : la circulaire qu'il a signée, c'est la circulaire qui est signée.",
+      "~ « Les cartes d'électeur que la mairie a distribuées. » La mairie a distribué quoi ? « que », mis pour « les cartes d'électeur », féminin pluriel, placé avant : « distribuées ».",
+      "~ « La mairie a distribué les cartes d'électeur. » Le COD vient après le participe : « distribué » reste invariable.",
+      "~ « Les stagiaires ont déjeuné à la cantine. » Pas de COD (on ne déjeune pas « quelque chose ») : « déjeuné » reste invariable, même avec un sujet pluriel.",
+      "? Accordez : « Cette circulaire, le directeur l'a (signer) ce matin. » || Signée. Le directeur a signé quoi ? « l' », mis pour « cette circulaire », féminin singulier, placé avant l'auxiliaire avoir.",
+      "## Notion 3 : « en » et le « l' » neutre ne commandent pas l'accord",
+      "La règle : quand le COD est le pronom « en », le participe reste invariable. De même, quand « l' » ne reprend pas un nom mais toute une idée, le participe reste invariable.",
+      "Le pourquoi : « en » désigne une quantité indéterminée (« de cela »), sans genre ni nombre précis ; le « l' » neutre signifie « cela », qui est masculin singulier.",
+      "~ « Des plaintes, le service en a reçu une dizaine. » COD : « en » → « reçu », invariable.",
+      "~ « L'épreuve fut plus facile que je ne l'avais craint. » « L' » reprend l'idée « qu'elle serait difficile », pas « l'épreuve » : « craint », invariable.",
+      "? Accordez : « Des bourses, le ministère en a (attribuer) cinquante. » || Attribué. Le COD est « en » : le participe reste invariable, même si le nom « bourses » est féminin pluriel.",
+      "## Notion 4 : les verbes de mesure (coûter, valoir, peser, mesurer, durer)",
+      "La règle : au sens propre, ces verbes sont suivis d'un complément de mesure (combien ça coûte, combien ça pèse), qui n'est pas un COD : pas d'accord. Au sens figuré, ils ont un vrai COD : l'accord se fait s'il est placé avant.",
+      "~ « Les cinq mille francs que ce manuel a coûté. » Combien a-t-il coûté ? C'est un prix : « coûté », invariable.",
+      "~ « Les nuits blanches que cette préparation m'a coûtées. » Au sens de « causer », les nuits blanches sont un vrai COD placé avant : « coûtées ».",
+      "! Les verbes impersonnels (il a fallu, il y a eu) ont un participe toujours invariable : « les pluies qu'il y a eu ».",
+      "## Notion 5 : le participe suivi d'un infinitif",
+      "La règle : cherchez de quel verbe dépend le COD placé avant. S'il fait l'action de l'infinitif, ou s'il est COD du participe, accordez. S'il est COD de l'infinitif, ne faites pas l'accord.",
+      "~ « Les élèves que j'ai vus sortir. » Ce sont les élèves qui sortent : accord, « vus ».",
+      "~ « Les mesures qu'il a voulu appliquer. » Il a voulu appliquer quoi ? les mesures : COD de l'infinitif « appliquer », donc « voulu », invariable.",
+      "! « Fait » suivi d'un infinitif est toujours invariable : « les puits qu'elle a fait creuser ».",
+      "? Accordez : « Les témoins qu'on a (entendre) déposer étaient sincères. » || Entendus. Ce sont les témoins qui déposent : le COD « que » fait l'action de l'infinitif, donc accord au masculin pluriel."
+     ],
+     "retenir": [
+      "Avec être, y compris au passif (a été, ont été), le participe s'accorde avec le sujet.",
+      "Avec avoir, jamais d'accord avec le sujet ; accord avec le COD seulement s'il est placé avant.",
+      "COD « en » ou « l' » reprenant une idée entière : participe invariable.",
+      "Coûter, valoir, peser au sens propre (prix, poids) : invariable ; au sens figuré, accord avec le COD placé avant.",
+      "Verbes impersonnels (il a fallu, il y a eu) et « fait » + infinitif : toujours invariables.",
+      "Participe + infinitif : accord si le COD placé avant fait l'action de l'infinitif, sinon invariable."
+     ],
+     "exo": {
+      "tag": "niv-fr07",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "La langue française, Le guide complet du participe passé",
+       "u": "https://www.lalanguefrancaise.com/general/le-guide-complet-du-participe-passe/"
+      }
+     ]
     }
    ],
    "sujets": [],
