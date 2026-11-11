@@ -15682,7 +15682,73 @@
      }
     }
    ],
-   "sujets": []
+   "sujets": [],
+   "analyses": [
+    {
+     "id": "A20261111",
+     "theme": "Protection sociale et santé",
+     "titre": "La Couverture maladie universelle en Côte d'Ivoire : de l'enrôlement massif à la couverture effective",
+     "chapeau": "Instituée par la loi du 24 mars 2014, la Couverture maladie universelle (CMU) compte désormais plus de 26 millions d'enrôlés. Mais être inscrit ne suffit pas à être soigné : le défi est aujourd'hui de transformer une carte en un accès réel aux soins, financé durablement.",
+     "corps": [
+      "## Le constat",
+      "La Couverture maladie universelle (CMU) est un système d'assurance maladie obligatoire pour toutes les personnes résidant en Côte d'Ivoire. Elle a été instituée par la loi n°2014-131 du 24 mars 2014 et est gérée par la Caisse nationale d'assurance maladie (CNAM), une institution de prévoyance sociale (IPS), c'est-à-dire un organisme public chargé de collecter des cotisations et de verser des prestations.",
+      "L'enrôlement, c'est-à-dire l'inscription d'une personne dans la base des assurés, a fortement progressé. Selon la CNAM, 22 747 908 personnes étaient enrôlées au 2 décembre 2025. Le ministère de tutelle annonçait plus de 23 millions d'enrôlés à fin 2025 et fixait l'objectif de 30 millions au 31 décembre 2026. Au 17 août 2026, la CNAM faisait état de plus de 26 millions d'enrôlés.",
+      "Le recours effectif aux soins reste toutefois bien plus modeste : à la même date, plus de 1,5 million d'assurés avaient bénéficié de soins pris en charge, pour plus de 7 millions d'actes. L'écart entre le nombre d'inscrits et le nombre de bénéficiaires résume l'enjeu actuel de la politique.",
+      "## Les causes",
+      "Plusieurs facteurs expliquent cet écart. Le premier tient à la structure de l'économie : une large part des actifs travaille dans le secteur informel, c'est-à-dire hors de tout contrat de travail déclaré. Pour ces personnes, il n'existe pas d'employeur qui prélève automatiquement la cotisation sur le salaire. Le paiement repose sur une démarche volontaire, souvent irrégulière, alors que l'accès aux prestations suppose d'être à jour de ses droits.",
+      "Le deuxième facteur est l'offre de soins conventionnée. Un établissement conventionné est une pharmacie ou un centre de santé qui a signé une convention avec la CNAM et accepte donc la carte CMU. Tant que ce réseau reste étroit, un assuré peut être inscrit sans trouver, près de chez lui, un lieu où faire valoir ses droits.",
+      "Le troisième facteur est l'identification. Une assurance universelle doit savoir qui est assuré, qui a cotisé et qui a été soigné. Les doublons, les usurpations d'identité et les fraudes sur les prestations fragilisent la confiance et les comptes. Le ministre de tutelle, Adama Kamara, a ainsi présenté la fraude comme la principale source de déséquilibre financier des IPS.",
+      "## Les réponses publiques",
+      "- Des mesures dérogatoires, décidées par le gouvernement à partir d'un 1er mai puis prolongées en septembre, ont assoupli l'accès aux prestations pour les personnes du secteur informel. Selon la CNAM, en décembre 2025, environ un million de personnes en bénéficiaient.",
+      "- Le réseau s'est élargi : les pharmacies délivrant des prestations CMU sont passées d'environ 400 à un peu plus de 700, et les centres de santé d'environ 700 à près de 2 400. Les prestations du mois d'octobre ont dépassé le milliard de francs CFA, contre 100 à 200 millions auparavant.",
+      "- L'accès a été simplifié : l'assuré peut se présenter avec sa carte CMU, ses empreintes digitales, la carte de planteur de café-cacao, son récépissé d'enrôlement ou une carte électronique téléchargeable.",
+      "- Pour 2026, le gouvernement veut rendre effectif le prélèvement à la source des cotisations dans le secteur informel, c'est-à-dire une retenue automatique au moment d'un paiement, plutôt qu'un versement laissé à l'initiative de l'assuré.",
+      "- Le ministre a aussi plaidé pour que le numéro d'enrôlement CMU, prévu à l'article 27 de la loi de 2014, devienne l'identifiant unique de sécurité sociale, sécurisé par la biométrie (reconnaissance par les empreintes ou le visage).",
+      "## Les débats et les limites",
+      "Le premier débat porte sur l'indicateur de réussite. Pour les uns, le nombre d'enrôlés mesure bien le chemin parcouru : sans inscription, pas d'assurance, et la progression vers 30 millions traduit une mobilisation réelle. Pour les autres, seuls comptent l'usage effectif, la qualité des soins et la baisse des dépenses de santé payées directement par les ménages ; un chiffre d'inscription élevé peut alors masquer une couverture encore partielle.",
+      "Le deuxième débat concerne le financement. Assouplir les conditions d'accès, comme l'ont fait les mesures dérogatoires, élargit le nombre de bénéficiaires mais augmente les dépenses avant que les recettes ne suivent. Le prélèvement à la source est présenté comme la solution ; il suppose cependant de repérer les revenus de l'informel, ce qui soulève des questions pratiques (par quels canaux prélever ?) et d'acceptabilité pour des travailleurs aux revenus irréguliers.",
+      "Le troisième débat touche à l'identification biométrique. Ses partisans y voient le meilleur rempart contre la fraude et les doublons. D'autres insistent sur la protection des données personnelles, la sécurité des fichiers et le risque d'exclure ceux dont l'identification échoue. Le ministre a d'ailleurs lui-même appelé les gestionnaires à rester ouverts aux critiques des usagers.",
+      "## Ce qu'en attend un jury",
+      "Un jury attend d'abord des définitions précises : CMU, enrôlement, cotisation, établissement conventionné, secteur informel. Il apprécie ensuite la capacité à distinguer les moyens (inscrire, conventionner, prélever) de la finalité (protéger les ménages contre le risque financier de la maladie). Il valorise enfin une analyse équilibrée, qui reconnaît les progrès chiffrés tout en identifiant les conditions de leur durabilité : financement, confiance des usagers, qualité de l'offre et lutte contre la fraude.",
+      "~ Plan possible : I. Une ambition universelle portée par un enrôlement massif ; II. Une couverture effective encore à consolider (financement, offre, identification).",
+      "> Formule utile : « La CMU a gagné la bataille de l'inscription ; elle doit maintenant gagner celle de l'usage. »"
+     ],
+     "retenir": [
+      "La CMU est instituée par la loi n°2014-131 du 24 mars 2014 et gérée par la CNAM.",
+      "Plus de 26 millions d'enrôlés au 17 août 2026, pour un objectif de 30 millions fin 2026.",
+      "À la même date, plus de 1,5 million d'assurés ont été soignés, pour plus de 7 millions d'actes : l'usage reste en deçà de l'enrôlement.",
+      "Le réseau conventionné s'est élargi (près de 2 400 centres de santé et plus de 700 pharmacies fin 2025).",
+      "Chantiers : prélèvement à la source dans l'informel, identifiant social unique biométrique, lutte contre la fraude."
+     ],
+     "sujets": [
+      "« Assurer tous les Ivoiriens contre la maladie : ambition réaliste ou défi financier ? » Discutez.",
+      "Le secteur informel est-il un obstacle insurmontable à la protection sociale universelle en Afrique de l'Ouest ?",
+      "Oral : comment mesurer la réussite d'une politique publique de santé ?"
+     ],
+     "sources": [
+      {
+       "t": "Africa24 TV, 27 août 2026 : plus de 26 millions de personnes enrôlées à la Couverture maladie universelle",
+       "u": "https://africa24tv.com/cote-divoire-plus-de-26-millions-de-personnes-enrolees-a-la-couverture-maladie-universelle/"
+      },
+      {
+       "t": "Fraternité Matin, 13 décembre 2025 : CNAM, un bilan positif pour les mesures dérogatoires",
+       "u": "https://www.fratmat.info/article/2638785/societe/cnam-un-bilan-positif-pour-les-mesures-derogatoires"
+      },
+      {
+       "t": "RTI Infos, 18 février 2026 : « En 2026, nous visons 30 millions d'enrôlés à la CMU » (Adama Kamara)",
+       "u": "https://rti.info/en-2026-nous-visons-30-millions-denroles-a-la-couverture-maladie-universelle-cmu-adama-kamara/"
+      },
+      {
+       "t": "Connectionivoirienne, 15 février 2026 : objectif de 30 millions d'enrôlés en 2026, contre plus de 23 millions à fin 2025",
+       "u": "https://connectionivoirienne.net/2026/02/15/couverture-maladie-universelle-cmu-le-ministre-adama-kamara-veut-atteindre-30-millions-denroles-en-2026-contre-plus-de-23-millions-a-fin-2025/"
+      },
+      {
+       "t": "AIP, 20 décembre 2025 : le gouvernement se fixe un objectif de 30 millions d'enrôlés à la CMU en 2026",
+       "u": "https://www.aip.ci/295533/cote-divoire-aip-le-gouvernement-se-fixe-un-objectif-de-30-millions-denroles-a-la-cmu-en-2026-ministere/"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
