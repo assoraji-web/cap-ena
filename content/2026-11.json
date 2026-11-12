@@ -16422,6 +16422,1012 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-12",
+   "questions": [
+    {
+     "id": "n20261112-fr09-01",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un festival » ?",
+     "o": [
+      "des festivaux",
+      "des festivals",
+      "des festivales",
+      "des festival"
+     ],
+     "a": 1,
+     "e": "Festival fait partie des exceptions des noms en -al qui prennent un « s » au pluriel, avec bal, carnaval, chacal, récital et régal : des festivals.",
+     "ed": [
+      "« Festivaux » applique la règle générale des noms en -al, alors que festival en est une exception.",
+      null,
+      "« Festivales » ajoute un « e » : le nom festival est masculin et ne prend jamais de « e ».",
+      "« Des festival » oublie toute marque de pluriel."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-02",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Lequel de ces noms en -ail fait son pluriel en -aux ?",
+     "o": [
+      "détail",
+      "éventail",
+      "portail",
+      "vitrail"
+     ],
+     "a": 3,
+     "e": "Vitrail appartient à la liste des sept noms en -ail qui font -aux (bail, corail, émail, soupirail, travail, vantail, vitrail) : des vitraux.",
+     "ed": [
+      "Détail suit la règle générale des noms en -ail : des détails.",
+      "Éventail suit la règle générale : des éventails.",
+      "Portail n'est pas dans la liste des sept : des portails.",
+      null
+     ]
+    },
+    {
+     "id": "n20261112-fr09-03",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Complétez : « Le garagiste a remplacé les quatre ___ du camion de ramassage. » (pneu)",
+     "o": [
+      "pneux",
+      "pneu",
+      "pneus",
+      "pneues"
+     ],
+     "a": 2,
+     "e": "Les noms en -eu prennent en principe un « x », mais pneu fait partie des exceptions (avec bleu et émeu) et prend un « s » : des pneus.",
+     "ed": [
+      "« Pneux » applique la règle générale des noms en -eu, dont pneu est justement une exception.",
+      "« Pneu » est le singulier ; après « les quatre », le nom doit être au pluriel.",
+      null,
+      "« Pneues » ajoute un « e » qui n'existe ni au singulier ni au pluriel."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-04",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Parmi ces pluriels de noms en -ou, une seule forme est fautive. Laquelle ?",
+     "o": [
+      "des joujoux",
+      "des matoux",
+      "des choux",
+      "des poux"
+     ],
+     "a": 1,
+     "e": "Matou n'appartient pas à la liste des sept noms en -ou qui prennent un « x » (bijou, caillou, chou, genou, hibou, joujou, pou) : il faut écrire des matous.",
+     "ed": [
+      "« Joujoux » est correct : joujou fait partie des sept noms en -oux.",
+      null,
+      "« Choux » est correct : chou fait partie des sept noms en -oux.",
+      "« Poux » est correct : pou fait partie des sept noms en -oux."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-05",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un album » ?",
+     "o": [
+      "des alba",
+      "des album",
+      "des albas",
+      "des albums"
+     ],
+     "a": 3,
+     "e": "Les noms d'origine étrangère entrés dans l'usage forment leur pluriel comme les noms français, avec un « s » : des albums.",
+     "ed": [
+      "« Alba » invente un pluriel latin qui n'existe pas pour ce mot français.",
+      "« Des album » oublie la marque du pluriel.",
+      "« Albas » modifie la terminaison du mot au lieu d'ajouter simplement un « s ».",
+      null
+     ]
+    },
+    {
+     "id": "n20261112-fr09-06",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un coffre-fort » ?",
+     "o": [
+      "des coffres-forts",
+      "des coffre-forts",
+      "des coffres-fort",
+      "des coffre-fort"
+     ],
+     "a": 0,
+     "e": "Coffre-fort associe un nom et un adjectif ; les noms et les adjectifs varient tous deux au pluriel : des coffres-forts.",
+     "ed": [
+      null,
+      "« Coffre-forts » oublie le pluriel du nom « coffre », qui varie comme l'adjectif.",
+      "« Coffres-fort » oublie l'accord de l'adjectif « fort » avec le nom pluriel.",
+      "« Coffre-fort » laisse invariables deux mots qui doivent varier."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-07",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un chef-lieu » ?",
+     "o": [
+      "des chef-lieux",
+      "des chefs-lieu",
+      "des chefs-lieux",
+      "des chef-lieu"
+     ],
+     "a": 2,
+     "e": "Chef-lieu associe deux noms en apposition (le lieu qui est chef) : les deux varient, et lieu fait lieux. On écrit donc des chefs-lieux.",
+     "ed": [
+      "« Chef-lieux » oublie le pluriel du premier nom, « chef ».",
+      "« Chefs-lieu » oublie le pluriel du second nom, « lieu ».",
+      null,
+      "« Chef-lieu » laisse les deux noms au singulier."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-08",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un procès-verbal » ?",
+     "o": [
+      "des procès-verbals",
+      "des procès-verbaux",
+      "des procès-verbales",
+      "des procès-verbal"
+     ],
+     "a": 1,
+     "e": "Procès est invariable car il finit par -s ; verbal est un adjectif en -al qui fait -aux au masculin pluriel : des procès-verbaux.",
+     "ed": [
+      "« Verbals » applique un « s » à un adjectif en -al qui fait régulièrement -aux.",
+      null,
+      "« Verbales » est un féminin, alors que procès est masculin.",
+      "« Procès-verbal » oublie d'accorder l'adjectif « verbal »."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-09",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Dans « des sous-préfets », pourquoi « sous » ne prend-il pas de « s » ?",
+     "o": [
+      "parce que c'est une préposition, et les prépositions sont invariables",
+      "parce que seul le dernier mot d'un nom composé varie toujours",
+      "parce que « sous » est un verbe",
+      "parce que « sous » est déjà au pluriel"
+     ],
+     "a": 0,
+     "e": "Dans un nom composé, seuls les noms et les adjectifs varient. « Sous » est une préposition, donc invariable ; seul le nom « préfet » prend le « s ».",
+     "ed": [
+      null,
+      "C'est faux : dans « des coffres-forts » ou « des chefs-lieux », le premier mot varie aussi.",
+      "« Sous » n'est pas un verbe mais une préposition.",
+      "« Sous » n'est pas un nom au pluriel : c'est une préposition."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-10",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un arc-en-ciel » ?",
+     "o": [
+      "des arc-en-ciels",
+      "des arcs-en-ciels",
+      "des arc-en-ciel",
+      "des arcs-en-ciel"
+     ],
+     "a": 3,
+     "e": "Dans un nom composé de la forme nom + préposition + complément, seul le premier nom varie : des arcs (de lumière) en ciel, soit des arcs-en-ciel.",
+     "ed": [
+      "« Arc-en-ciels » met le pluriel sur le complément au lieu du nom principal.",
+      "« Arcs-en-ciels » met à tort le complément « ciel » au pluriel.",
+      "« Arc-en-ciel » oublie le pluriel du nom principal « arc ».",
+      null
+     ]
+    },
+    {
+     "id": "n20261112-fr09-11",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un tire-bouchon » ?",
+     "o": [
+      "des tires-bouchons",
+      "des tire-bouchon",
+      "des tire-bouchons",
+      "des tires-bouchon"
+     ],
+     "a": 2,
+     "e": "Dans un composé verbe + nom, le verbe reste invariable et le nom prend la marque du pluriel : des tire-bouchons. Les deux orthographes, traditionnelle et rectifiée, s'accordent ici.",
+     "ed": [
+      "« Tires » met au pluriel le verbe « tirer », qui ne varie jamais dans un nom composé.",
+      "« Tire-bouchon » oublie le pluriel du nom « bouchon ».",
+      null,
+      "« Tires-bouchon » accorde le verbe et laisse le nom au singulier : c'est l'inverse de la règle."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-12",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un laissez-passer » ?",
+     "o": [
+      "des laissez-passer",
+      "des laissez-passers",
+      "des laissés-passer",
+      "des laissez-passés"
+     ],
+     "a": 0,
+     "e": "Laissez-passer est formé de deux verbes (laisser, passer) ; un verbe ne prend jamais la marque du pluriel dans un nom composé : des laissez-passer, invariable.",
+     "ed": [
+      null,
+      "« Passers » ajoute un « s » à un infinitif, qui ne varie pas.",
+      "« Laissés » transforme l'impératif en participe passé : ce n'est plus le même mot.",
+      "« Passés » transforme l'infinitif en participe : le nom composé n'est plus respecté."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-13",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un oiseau-mouche » ?",
+     "o": [
+      "des oiseau-mouches",
+      "des oiseaux-mouche",
+      "des oiseaux-mouches",
+      "des oiseaus-mouches"
+     ],
+     "a": 2,
+     "e": "Oiseau-mouche associe deux noms en apposition (un oiseau qui ressemble à une mouche) : les deux varient, et oiseau prend un « x » : des oiseaux-mouches.",
+     "ed": [
+      "« Oiseau-mouches » oublie le pluriel du premier nom.",
+      "« Oiseaux-mouche » oublie le pluriel du second nom, en apposition.",
+      null,
+      "« Oiseaus » donne un « s » à un nom en -eau, qui prend un « x »."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-14",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Parmi ces pluriels de noms en -ail, une seule forme est fautive. Laquelle ?",
+     "o": [
+      "des travaux",
+      "des émaux",
+      "des vitraux",
+      "des chandaux"
+     ],
+     "a": 3,
+     "e": "Chandail n'appartient pas à la liste des sept noms en -ail qui font -aux ; il suit la règle générale : des chandails. La forme « chandaux » est donc fautive.",
+     "ed": [
+      "« Travaux » est correct : travail fait partie des sept noms en -ail qui font -aux.",
+      "« Émaux » est correct : émail fait partie des sept noms en -ail qui font -aux.",
+      "« Vitraux » est correct : vitrail fait partie des sept noms en -ail qui font -aux.",
+      null
+     ]
+    },
+    {
+     "id": "n20261112-fr09-15",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Complétez : « Au village, nos ___ nous ont transmis les règles de la chefferie depuis des siècles. » (les ancêtres)",
+     "o": [
+      "aïeux",
+      "aïeules",
+      "aïeus",
+      "aïeuls"
+     ],
+     "a": 0,
+     "e": "Aïeul a deux pluriels : aïeuls désigne les grands-parents, aïeux les ancêtres lointains. « Depuis des siècles » impose le sens d'ancêtres : nos aïeux.",
+     "ed": [
+      null,
+      "« Aïeules » est le féminin pluriel au sens de grands-mères.",
+      "« Aïeus » n'existe pas : aucun pluriel d'aïeul ne se termine par « -us ».",
+      "« Aïeuls » désigne les grands-parents, pas les ancêtres de plusieurs siècles."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-16",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un œil-de-bœuf » (petite fenêtre ronde) ?",
+     "o": [
+      "des œils-de-bœuf",
+      "des yeux-de-bœufs",
+      "des œils-de-bœufs",
+      "des yeux-de-bœuf"
+     ],
+     "a": 0,
+     "e": "Œil fait yeux au sens propre, mais dans les noms composés techniques comme œil-de-bœuf il prend le pluriel régulier ; le complément reste au singulier : des œils-de-bœuf.",
+     "ed": [
+      null,
+      "« Yeux-de-bœufs » se trompe sur le premier élément et accorde à tort le complément.",
+      "« Bœufs » met à tort au pluriel le complément du nom.",
+      "« Yeux-de-bœuf » applique le pluriel du sens propre (les organes de la vue) à un nom composé technique."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-17",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un ciel de lit » (dais placé au-dessus d'un lit) ?",
+     "o": [
+      "des ciels de lit",
+      "des ciel de lits",
+      "des cieux de lits",
+      "des cieux de lit"
+     ],
+     "a": 0,
+     "e": "Ciel fait cieux au sens religieux ou poétique, mais ciels dans les sens techniques, dont le ciel de lit ; le complément reste au singulier : des ciels de lit.",
+     "ed": [
+      null,
+      "« Ciel de lits » laisse le nom principal au singulier et accorde le complément.",
+      "« Cieux de lits » cumule deux erreurs : mauvais pluriel de ciel et complément accordé.",
+      "« Cieux » est réservé au sens religieux ou poétique, pas à l'objet technique."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-18",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Complétez : « La commission a enquêté sur des ___ versés pour obtenir des marchés publics. » (pot-de-vin)",
+     "o": [
+      "pots-de-vins",
+      "pot-de-vins",
+      "pots-de-vin",
+      "pot-de-vin"
+     ],
+     "a": 2,
+     "e": "Pot-de-vin est formé d'un nom suivi d'un complément introduit par « de » : seul le premier nom varie, le complément « vin » reste au singulier : des pots-de-vin.",
+     "ed": [
+      "« Pots-de-vins » met à tort le complément « vin » au pluriel.",
+      "« Pot-de-vins » accorde le complément et laisse le nom principal au singulier.",
+      null,
+      "« Pot-de-vin » oublie le pluriel du nom principal « pot »."
+     ]
+    },
+    {
+     "id": "n20261112-fr09-19",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un va-et-vient » ?",
+     "o": [
+      "des vas-et-vients",
+      "des va-et-vients",
+      "des vas-et-vient",
+      "des va-et-vient"
+     ],
+     "a": 3,
+     "e": "Va-et-vient est formé de deux formes verbales (va, vient) reliées par « et » ; les verbes ne varient pas dans un nom composé : des va-et-vient.",
+     "ed": [
+      "« Vas-et-vients » accorde deux formes verbales, qui restent invariables.",
+      "« Vients » ajoute un « s » à une forme verbale invariable.",
+      "« Vas » ajoute un « s » à une forme verbale invariable.",
+      null
+     ]
+    },
+    {
+     "id": "n20261112-fr09-20",
+     "m": "fr",
+     "tag": "niv-fr09",
+     "verif": "regle",
+     "q": "Quel est le pluriel de « un avant-projet » ?",
+     "o": [
+      "des avants-projets",
+      "des avant-projets",
+      "des avants-projet",
+      "des avant-projet"
+     ],
+     "a": 1,
+     "e": "Avant est un mot invariable (adverbe ou préposition) ; seul le nom « projet » prend la marque du pluriel : des avant-projets.",
+     "ed": [
+      "« Avants » accorde un mot invariable.",
+      null,
+      "« Avants-projet » accorde le mot invariable et laisse le nom au singulier.",
+      "« Avant-projet » oublie le pluriel du nom « projet »."
+     ]
+    },
+    {
+     "id": "n20261112-lo09-01",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Aya a 12 ans et son oncle 41 ans. Quel sera l'écart d'âge entre eux dans 15 ans ?",
+     "o": [
+      "44 ans",
+      "29 ans",
+      "14 ans",
+      "56 ans"
+     ],
+     "a": 1,
+     "e": "L'écart d'âge ne change jamais : 41 − 12 = 29 ans aujourd'hui, et toujours 29 ans dans 15 ans (56 − 27 = 29).",
+     "ed": [
+      "44 ajoute 15 ans à l'écart : or les deux personnes vieillissent en même temps.",
+      null,
+      "14 retranche 15 ans à l'écart, ce qui n'a pas de sens : l'écart est constant.",
+      "56 est l'âge de l'oncle dans 15 ans, pas l'écart."
+     ],
+     "calc": "41-12"
+    },
+    {
+     "id": "n20261112-lo09-02",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Un père a 45 ans et sa fille 15 ans. Dans combien d'années le père aura-t-il le double de l'âge de sa fille ?",
+     "o": [
+      "30 ans",
+      "10 ans",
+      "15 ans",
+      "20 ans"
+     ],
+     "a": 2,
+     "e": "Écart : 45 − 15 = 30 ans. Au moment du double, la fille a 30 ans, donc dans 30 − 15 = 15 ans. Vérification : 60 = 2 × 30.",
+     "ed": [
+      "30 ans est l'écart d'âge, et aussi l'âge de la fille au moment du double, pas le délai.",
+      "Dans 10 ans, le père aura 55 ans et la fille 25 ans : 55 n'est pas le double de 25.",
+      null,
+      "Dans 20 ans, le père aura 65 ans et la fille 35 ans : 65 n'est pas le double de 35."
+     ],
+     "calc": "45-2*15"
+    },
+    {
+     "id": "n20261112-lo09-03",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Deux frères ont ensemble 46 ans et l'aîné a 8 ans de plus que le cadet. Quel est l'âge de l'aîné ?",
+     "o": [
+      "27 ans",
+      "23 ans",
+      "19 ans",
+      "31 ans"
+     ],
+     "a": 0,
+     "e": "Avec une somme et une différence, le plus grand vaut (S + D) ÷ 2 = (46 + 8) ÷ 2 = 27 ans ; le cadet a 19 ans, et 27 + 19 = 46.",
+     "ed": [
+      null,
+      "23 ans est la moitié de la somme : on a oublié l'écart de 8 ans.",
+      "19 ans est l'âge du cadet, pas celui de l'aîné.",
+      "31 ans ajoute l'écart à la moitié de la somme : 31 + 23 dépasserait 46."
+     ],
+     "calc": "(46+8)/2"
+    },
+    {
+     "id": "n20261112-lo09-04",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Une mère a trois fois l'âge de son fils ; ensemble, ils ont 52 ans. Quel âge a le fils ?",
+     "o": [
+      "17 ans",
+      "26 ans",
+      "13 ans",
+      "39 ans"
+     ],
+     "a": 2,
+     "e": "Le fils compte pour 1 part et la mère pour 3 parts, soit 4 parts pour 52 ans : 52 ÷ 4 = 13 ans. La mère a 39 ans, et 39 = 3 × 13.",
+     "ed": [
+      "17 vient de 52 ÷ 3 : on a oublié de compter la part du fils.",
+      "26 est la moitié de 52 : la mère n'a pas le même âge que son fils.",
+      null,
+      "39 ans est l'âge de la mère, pas celui du fils."
+     ],
+     "calc": "52/4"
+    },
+    {
+     "id": "n20261112-lo09-05",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Trois enfants ont aujourd'hui 30 ans à eux trois. Quelle sera la somme de leurs âges dans 5 ans ?",
+     "o": [
+      "35 ans",
+      "40 ans",
+      "50 ans",
+      "45 ans"
+     ],
+     "a": 3,
+     "e": "Chacun des trois enfants vieillit de 5 ans : la somme augmente de 3 × 5 = 15 ans. Dans 5 ans : 30 + 15 = 45 ans.",
+     "ed": [
+      "35 n'ajoute que 5 ans au total, comme si un seul enfant vieillissait.",
+      "40 n'ajoute que 10 ans : il manque les 5 années d'un enfant.",
+      "50 ajoute 20 ans, comme s'il y avait quatre enfants.",
+      null
+     ],
+     "calc": "30+3*5"
+    },
+    {
+     "id": "n20261112-lo09-06",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Il y a combien d'années un père, qui a aujourd'hui 38 ans, avait-il quatre fois l'âge de son fils, qui a aujourd'hui 14 ans ?",
+     "o": [
+      "6 ans",
+      "4 ans",
+      "8 ans",
+      "10 ans"
+     ],
+     "a": 0,
+     "e": "Écart : 38 − 14 = 24 ans. Au moment cherché, le fils avait 24 ÷ (4 − 1) = 8 ans, soit il y a 14 − 8 = 6 ans. Vérification : 32 = 4 × 8.",
+     "ed": [
+      null,
+      "Il y a 4 ans, le père avait 34 ans et le fils 10 ans : 34 n'est pas 4 × 10.",
+      "8 ans est l'âge du fils à ce moment-là, pas le nombre d'années écoulées.",
+      "Il y a 10 ans, le père avait 28 ans et le fils 4 ans : 28 = 7 × 4, pas 4 × 4."
+     ],
+     "calc": "14-(38-14)/3"
+    },
+    {
+     "id": "n20261112-lo09-07",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Dans 6 ans, Koffi aura le double de l'âge qu'il avait il y a 4 ans. Quel âge a-t-il aujourd'hui ?",
+     "o": [
+      "10 ans",
+      "12 ans",
+      "14 ans",
+      "20 ans"
+     ],
+     "a": 2,
+     "e": "On pose x + 6 = 2 × (x − 4), soit x + 6 = 2x − 8, donc x = 14 ans. Vérification : dans 6 ans il aura 20 ans, il y a 4 ans il en avait 10, et 20 = 2 × 10.",
+     "ed": [
+      "10 ans est l'âge qu'il avait il y a 4 ans, pas son âge actuel.",
+      "Avec 12 ans : dans 6 ans 18, il y a 4 ans 8 ; 18 n'est pas le double de 8.",
+      null,
+      "20 ans est l'âge qu'il aura dans 6 ans, pas son âge actuel."
+     ],
+     "calc": "6+2*4"
+    },
+    {
+     "id": "n20261112-lo09-08",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Un père et son fils ont ensemble 50 ans. Il y a 5 ans, le père avait quatre fois l'âge du fils. Quel âge a le fils aujourd'hui ?",
+     "o": [
+      "10 ans",
+      "13 ans",
+      "12,5 ans",
+      "8 ans"
+     ],
+     "a": 1,
+     "e": "Il y a 5 ans, leurs âges totalisaient 50 − 10 = 40 ans, partagés en 5 parts (1 + 4) : le fils avait 8 ans, il a donc 13 ans. Vérification : le père a 37 ans, et 32 = 4 × 8.",
+     "ed": [
+      "10 ans vient de 50 ÷ 5 : on a oublié que le rapport 4 valait il y a 5 ans.",
+      null,
+      "12,5 vient de 50 ÷ 4 : on confond le rapport 4 avec le nombre de parts (5).",
+      "8 ans est l'âge du fils il y a 5 ans, pas aujourd'hui."
+     ],
+     "calc": "(50-10)/5+5"
+    },
+    {
+     "id": "n20261112-lo09-09",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Trois associés partagent 120 000 F proportionnellement à leurs apports, dans le rapport 1 : 2 : 5. Combien reçoit le plus gros apporteur ?",
+     "o": [
+      "40 000 F",
+      "60 000 F",
+      "24 000 F",
+      "75 000 F"
+     ],
+     "a": 3,
+     "e": "Total des parts : 1 + 2 + 5 = 8 ; une part vaut 120 000 ÷ 8 = 15 000 F. Le plus gros apporteur a 5 parts : 5 × 15 000 = 75 000 F.",
+     "ed": [
+      "40 000 F est le tiers de la somme : c'est un partage égal, pas proportionnel.",
+      "60 000 F est la moitié de la somme, sans rapport avec 5 parts sur 8.",
+      "24 000 F vient de 120 000 ÷ 5 : on a divisé par la part au lieu du total des parts.",
+      null
+     ],
+     "calc": "120000*5/8"
+    },
+    {
+     "id": "n20261112-lo09-10",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Une prime de 50 000 F est partagée entre deux agents inversement proportionnellement à leurs jours d'absence, 2 et 3. Combien reçoit l'agent absent 2 jours ?",
+     "o": [
+      "20 000 F",
+      "30 000 F",
+      "25 000 F",
+      "33 333 F"
+     ],
+     "a": 1,
+     "e": "On partage selon 1/2 et 1/3, soit 3/6 et 2/6, donc selon 3 et 2 : 5 parts de 10 000 F. L'agent absent 2 jours reçoit 3 parts, soit 30 000 F.",
+     "ed": [
+      "20 000 F est la part du plus absent : on a partagé directement selon 2 et 3.",
+      null,
+      "25 000 F est un partage égal qui ne tient pas compte des absences.",
+      "33 333 F donne les deux tiers de la somme, soit un rapport 2 : 1 qui ne découle pas des absences 2 et 3."
+     ],
+     "calc": "50000*3/5"
+    },
+    {
+     "id": "n20261112-lo09-11",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Deux sœurs se partagent 85 000 F ; l'aînée reçoit 15 000 F de plus que la cadette. Combien reçoit la cadette ?",
+     "o": [
+      "35 000 F",
+      "42 500 F",
+      "50 000 F",
+      "27 500 F"
+     ],
+     "a": 0,
+     "e": "La cadette reçoit (S − D) ÷ 2 = (85 000 − 15 000) ÷ 2 = 35 000 F, et l'aînée 50 000 F. Vérification : 35 000 + 50 000 = 85 000.",
+     "ed": [
+      null,
+      "42 500 F est la moitié de la somme, sans tenir compte de l'écart.",
+      "50 000 F est la part de l'aînée.",
+      "27 500 F retranche l'écart à la moitié de la somme, ce qui le compte deux fois."
+     ],
+     "calc": "(85000-15000)/2"
+    },
+    {
+     "id": "n20261112-lo09-12",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "On partage 110 000 F entre A, B et C : A reçoit le double de B, et C reçoit 10 000 F de plus que B. Combien reçoit C ?",
+     "o": [
+      "25 000 F",
+      "50 000 F",
+      "35 000 F",
+      "30 000 F"
+     ],
+     "a": 2,
+     "e": "Avec B = x : 2x + x + (x + 10 000) = 110 000, donc 4x = 100 000 et x = 25 000 F. C reçoit 25 000 + 10 000 = 35 000 F ; contrôle : 50 000 + 25 000 + 35 000 = 110 000.",
+     "ed": [
+      "25 000 F est la part de B.",
+      "50 000 F est la part de A, le double de B.",
+      null,
+      "30 000 F ne vérifie pas le total : il faudrait alors B = 20 000 et A = 40 000, soit 90 000 F."
+     ],
+     "calc": "(110000-10000)/4+10000"
+    },
+    {
+     "id": "n20261112-lo09-13",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Un héritage est partagé : A reçoit les 3/8, B le tiers, et C le reste, soit 140 000 F. Quel est le montant total de l'héritage ?",
+     "o": [
+      "420 000 F",
+      "480 000 F",
+      "560 000 F",
+      "336 000 F"
+     ],
+     "a": 1,
+     "e": "A et B reçoivent 3/8 + 1/3 = 9/24 + 8/24 = 17/24 ; il reste 7/24 pour C. 7/24 valent 140 000 F, donc 1/24 vaut 20 000 F et le total 24 × 20 000 = 480 000 F.",
+     "ed": [
+      "420 000 F supposerait que C reçoive le tiers de l'héritage, alors qu'il reçoit 7/24.",
+      null,
+      "560 000 F correspond à C recevant le quart, ce qui ne découle pas des fractions données.",
+      "336 000 F vient de 140 000 × 24 ÷ 10 : la part de C n'est pas 10/24."
+     ],
+     "calc": "140000*24/7"
+    },
+    {
+     "id": "n20261112-lo09-14",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Deux associés réalisent 900 000 F de bénéfice. A a placé 2 millions de francs pendant 6 mois, B 3 millions pendant 4 mois. Partagé selon apport × durée, combien reçoit A ?",
+     "o": [
+      "360 000 F",
+      "540 000 F",
+      "600 000 F",
+      "450 000 F"
+     ],
+     "a": 3,
+     "e": "Apport × durée : A = 2 × 6 = 12 ; B = 3 × 4 = 12. Les deux poids sont égaux : chacun reçoit 900 000 × 12 ÷ 24 = 450 000 F.",
+     "ed": [
+      "360 000 F partage selon les seuls apports (2 et 3) et oublie la durée.",
+      "540 000 F partage selon les seules durées (6 et 4) et oublie les apports.",
+      "600 000 F ne correspond à aucun rapport tiré de l'énoncé.",
+      null
+     ],
+     "calc": "900000*12/24"
+    },
+    {
+     "id": "n20261112-lo09-15",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "On mélange 30 kg de riz à 400 F le kilo et 20 kg de riz à 650 F le kilo. Quel est le prix du kilo de mélange ?",
+     "o": [
+      "500 F",
+      "450 F",
+      "550 F",
+      "525 F"
+     ],
+     "a": 0,
+     "e": "Prix total : 30 × 400 + 20 × 650 = 12 000 + 13 000 = 25 000 F pour 50 kg, soit 25 000 ÷ 50 = 500 F le kilo.",
+     "ed": [
+      null,
+      "450 F est trop bas : le mélange contient 40 % de riz à 650 F.",
+      "550 F est trop haut : c'est le riz le moins cher qui domine le mélange.",
+      "525 F est la moyenne simple des deux prix : elle oublie que le riz à 400 F est en plus grande quantité."
+     ],
+     "calc": "(30*400+20*650)/50"
+    },
+    {
+     "id": "n20261112-lo09-16",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Un torréfacteur mélange 2 kg de café à 1 800 F le kilo et 6 kg à 2 200 F le kilo. Quel est le prix du kilo de mélange ?",
+     "o": [
+      "2 000 F",
+      "2 150 F",
+      "2 100 F",
+      "1 900 F"
+     ],
+     "a": 2,
+     "e": "Prix total : 2 × 1 800 + 6 × 2 200 = 3 600 + 13 200 = 16 800 F pour 8 kg, soit 16 800 ÷ 8 = 2 100 F le kilo.",
+     "ed": [
+      "2 000 F est la moyenne simple des prix : elle ignore les quantités (2 kg contre 6 kg).",
+      "Avec 2 150 F, le prix total serait 17 200 F au lieu de 3 600 + 13 200 = 16 800 F.",
+      null,
+      "1 900 F est plus proche du café le moins cher, alors que le plus cher est trois fois plus abondant."
+     ],
+     "calc": "(2*1800+6*2200)/8"
+    },
+    {
+     "id": "n20261112-lo09-17",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "On veut 100 kg de riz à 400 F le kilo en mélangeant du riz à 300 F et du riz à 550 F. Combien de kilos de riz à 300 F faut-il ?",
+     "o": [
+      "40 kg",
+      "60 kg",
+      "50 kg",
+      "75 kg"
+     ],
+     "a": 1,
+     "e": "Écarts au prix cible : 400 − 300 = 100 et 550 − 400 = 150. Les quantités sont dans le rapport inverse, 150 pour 100 : le riz à 300 F représente 150/250 de 100 kg, soit 60 kg. Contrôle : (60 × 300 + 40 × 550) ÷ 100 = 400.",
+     "ed": [
+      "40 kg est la quantité de riz à 550 F : on a inversé le rapport.",
+      null,
+      "50 kg à chaque prix donnerait 425 F le kilo, et non 400 F.",
+      "75 kg à 300 F donnerait 362,50 F le kilo."
+     ],
+     "calc": "100*150/250"
+    },
+    {
+     "id": "n20261112-lo09-18",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "On verse 30 litres d'eau dans 20 litres de jus contenant 15 % de sucre. Quel est le pourcentage de sucre du mélange ?",
+     "o": [
+      "6 %",
+      "9 %",
+      "7,5 %",
+      "10 %"
+     ],
+     "a": 0,
+     "e": "Sucre : 20 × 15 % = 3 litres, quantité qui ne change pas. Volume final : 20 + 30 = 50 litres. Concentration : 3 ÷ 50 = 0,06, soit 6 %.",
+     "ed": [
+      null,
+      "9 % vient de 15 % × 30/50 : on a pondéré par la part d'eau au lieu de la part de jus (20/50).",
+      "7,5 % est la moitié de 15 % : on a supposé que le volume doublait, alors qu'il est multiplié par 2,5.",
+      "10 % divise le sucre par 30 litres au lieu du volume total de 50 litres."
+     ],
+     "calc": "20*15/50"
+    },
+    {
+     "id": "n20261112-lo09-19",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "Une solution de 40 litres contient 25 % d'alcool. Combien de litres d'eau faut-il ajouter pour descendre à 20 % ?",
+     "o": [
+      "5 litres",
+      "8 litres",
+      "50 litres",
+      "10 litres"
+     ],
+     "a": 3,
+     "e": "Alcool : 40 × 25 % = 10 litres, quantité constante. Pour que 10 litres fassent 20 %, il faut 10 ÷ 0,20 = 50 litres au total : on ajoute 50 − 40 = 10 litres d'eau.",
+     "ed": [
+      "Avec 5 litres d'eau, 10 ÷ 45 ≈ 22,2 % : la concentration reste au-dessus de 20 %.",
+      "Avec 8 litres d'eau, 10 ÷ 48 ≈ 20,8 % : ce n'est pas encore 20 %.",
+      "50 litres est le volume final, pas la quantité d'eau à ajouter.",
+      null
+     ],
+     "calc": "40*25/20-40"
+    },
+    {
+     "id": "n20261112-lo09-20",
+     "m": "log",
+     "tag": "niv-lo09",
+     "verif": "calcul",
+     "q": "On mélange 10 litres d'une solution sucrée à 30 % et 15 litres d'une solution à 10 %. Quelle est la concentration du mélange ?",
+     "o": [
+      "20 %",
+      "18 %",
+      "22 %",
+      "15 %"
+     ],
+     "a": 1,
+     "e": "Sucre : 10 × 30 % + 15 × 10 % = 3 + 1,5 = 4,5 litres pour 25 litres de mélange : 4,5 ÷ 25 = 0,18, soit 18 %.",
+     "ed": [
+      "20 % est la moyenne simple de 30 % et 10 %, qui ignore les volumes.",
+      null,
+      "22 % pencherait vers la solution à 30 %, alors que la solution à 10 % est la plus abondante.",
+      "15 % est trop bas : 25 litres à 15 % ne contiendraient que 3,75 litres de sucre."
+     ],
+     "calc": "(10*30+15*10)/25"
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261112fr09",
+     "niv": "fr09",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Le pluriel des noms simples et composés",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez former sans hésiter le pluriel des noms en -al, -ail, -au, -eau, -eu et -ou, en connaissant par cœur les listes d'exceptions.",
+      "= Vous saurez aussi décider quel élément d'un nom composé prend la marque du pluriel, en analysant la nature de chaque mot.",
+      "## Ce que demande l'épreuve",
+      "Le pluriel des noms revient dans les QCM d'orthographe de la présélection : on vous donne un nom au singulier et quatre pluriels, ou quatre pluriels dont un seul est fautif. Les pièges portent presque toujours sur les mêmes points : les exceptions des noms en -al, -ail et -ou, les pluriels doubles (aïeuls et aïeux, ciels et cieux), et les noms composés, où le candidat met un « s » partout ou nulle part. Une réponse fausse retire un point : il vaut mieux raisonner que deviner.",
+      "## La méthode, pas à pas",
+      "- 1. Regardez la terminaison du nom : -s, -x ou -z (invariable), -al, -ail, -au, -eau, -eu, -ou (liste d'exceptions à vérifier).",
+      "- 2. Si le nom est composé, découpez-le et donnez la nature de chaque élément : nom, adjectif, verbe, préposition, adverbe.",
+      "- 3. Seuls les noms et les adjectifs peuvent prendre la marque du pluriel ; le verbe, la préposition et l'adverbe restent invariables.",
+      "- 4. Posez la question du sens : « des chefs-lieux » = des lieux qui sont des chefs (deux noms qui varient) ; « des pots-de-vin » = des pots de vin (le complément reste au singulier).",
+      "- 5. Relisez l'option choisie lettre par lettre : les distracteurs ne diffèrent souvent que d'un « s » ou d'un « x ».",
+      "! Piège habituel : croire que seul le dernier mot d'un nom composé varie. Dans « des coffres-forts », les deux mots prennent un « s »."
+     ],
+     "fond": [
+      "## Notion 1 : la règle générale et les noms invariables",
+      "Règle : on forme le pluriel d'un nom en ajoutant un « s » au singulier : un dossier, des dossiers ; une région, des régions.",
+      "Pourquoi ? Le « s » est la marque ordinaire du pluriel écrit en français ; il ne s'entend généralement pas, d'où les fautes.",
+      "Les noms terminés au singulier par -s, -x ou -z ne changent pas : un procès, des procès ; une voix, des voix ; un riz, des riz. Le mot porte déjà une lettre qui ressemble à une marque de pluriel.",
+      "~ Exemple résolu : « Les ___ de la commune ont été entendues. » (une voix). Le nom finit par -x : il est invariable → les voix.",
+      "## Notion 2 : les noms en -al et en -ail",
+      "Règle : les noms en -al font leur pluriel en -aux : un journal, des journaux ; un tribunal, des tribunaux ; un hôpital, des hôpitaux. Exceptions courantes en -als : bal, carnaval, chacal, festival, récital, régal.",
+      "Les noms en -ail prennent un « s » : un détail, des détails ; un éventail, des éventails ; un portail, des portails. Exceptions en -aux, à apprendre par cœur : bail, corail, émail, soupirail, travail, vantail, vitrail.",
+      "Pourquoi deux listes ? Les formes en -aux viennent d'une ancienne évolution de la prononciation (le « l » devenu « u ») ; les mots entrés plus tard dans la langue ont gardé le pluriel régulier.",
+      "~ Exemple résolu : « Les ___ de l'immeuble administratif ont été scellés. » (un portail). Portail n'est pas dans la liste bail, corail, émail, soupirail, travail, vantail, vitrail → des portails.",
+      "! Piège : « des travaux », mais « des chandails » et « des gouvernails ». Ne généralisez jamais une exception.",
+      "? Écrivez au pluriel : un récital, un canal, un bail, un rail. || Récital est une exception en -als → des récitals. Canal suit la règle des noms en -al → des canaux. Bail fait partie des sept noms en -ail qui prennent -aux → des baux. Rail n'en fait pas partie → des rails.",
+      "## Notion 3 : les noms en -au, -eau, -eu et -ou",
+      "Règle : les noms en -au, -eau et -eu prennent un « x » : un tuyau, des tuyaux ; un bureau, des bureaux ; un neveu, des neveux. Exceptions en « s » : landau, sarrau, bleu, pneu, émeu.",
+      "Les noms en -ou prennent un « s » : un clou, des clous ; un verrou, des verrous. Exceptions en « x », la célèbre liste de sept : bijou, caillou, chou, genou, hibou, joujou, pou.",
+      "Astuce de mémoire : récitez la phrase « Viens mon chou, mon bijou, mon joujou, sur mes genoux, et jette des cailloux à ce hibou plein de poux ».",
+      "~ Exemple résolu : « Les ___ du marché de Treichville ont été changés. » (un verrou). Verrou ne figure pas dans la liste des sept → des verrous.",
+      "? Une seule forme est fautive : des neveux, des landaux, des écrous, des hiboux. Laquelle ? || Landau fait partie des exceptions en -au qui prennent un « s » : il faut écrire des landaus. Neveux suit la règle des noms en -eu, écrous celle des noms en -ou, et hiboux appartient à la liste des sept noms en -oux.",
+      "## Notion 4 : les pluriels doubles et les noms étrangers",
+      "Certains noms ont deux pluriels selon le sens. Aïeul : des aïeuls (les grands-parents), des aïeux (les ancêtres). Ciel : des cieux (le ciel au sens religieux ou poétique), des ciels (en peinture, en climat, ou un ciel de lit). Œil : des yeux, mais des œils-de-bœuf (petites fenêtres rondes).",
+      "Pourquoi ? Le sens figuré ou technique est apparu plus tard et a reçu le pluriel régulier, tandis que le sens ancien a gardé sa forme d'origine.",
+      "Les noms étrangers entrés dans l'usage prennent un « s » comme les noms français : un album, des albums ; un visa, des visas ; un référendum, des référendums.",
+      "~ Exemple résolu : « Les ___ de ce peintre ivoirien sont d'un orange flamboyant. » (ciel). Il s'agit du ciel représenté dans des tableaux, un sens technique → les ciels. En revanche, on écrit « partir sous d'autres cieux » dans la langue soutenue ou poétique.",
+      "## Notion 5 : les noms composés",
+      "Règle de base : dans un nom composé, seuls les noms et les adjectifs peuvent varier, et seulement si le sens le permet. Le verbe, l'adverbe et la préposition restent invariables.",
+      "- Nom + nom en apposition : les deux varient. Un chef-lieu, des chefs-lieux ; un oiseau-mouche, des oiseaux-mouches.",
+      "- Nom + adjectif ou adjectif + nom : les deux varient. Un coffre-fort, des coffres-forts ; une basse-cour, des basses-cours ; un procès-verbal, des procès-verbaux (procès est déjà invariable).",
+      "- Nom + complément du nom : seul le premier varie. Un arc-en-ciel, des arcs-en-ciel ; un pot-de-vin, des pots-de-vin (des pots de vin, pas « des pots de vins »).",
+      "- Mot invariable + nom : seul le nom varie. Un sous-préfet, des sous-préfets ; un avant-projet, des avant-projets.",
+      "- Verbe + nom : le verbe ne varie jamais. Un tire-bouchon, des tire-bouchons.",
+      "- Verbes ou phrase : tout reste invariable. Un laissez-passer, des laissez-passer ; un va-et-vient, des va-et-vient.",
+      "~ Exemple résolu : « des contre-attaques ». Contre est une préposition (invariable) ; attaque est un nom → seul « attaque » prend un « s ».",
+      "! Exception de réforme : depuis les rectifications orthographiques de 1990, les composés verbe + nom et préposition + nom prennent la marque du pluriel sur le nom final au pluriel seulement (un pèse-lettre, des pèse-lettres). L'orthographe traditionnelle reste admise ; en QCM, l'option juste est celle qui respecte les deux usages.",
+      "? Mettez au pluriel : un sous-préfet, un garde-fou, une plate-bande, un savoir-faire. || Sous est une préposition et préfet un nom → des sous-préfets. Garde est ici le verbe garder et fou un nom : le verbe reste invariable, le nom varie → des garde-fous. Plate est un adjectif et bande un nom → des plates-bandes. Savoir-faire associe deux verbes → des savoir-faire, invariable."
+     ],
+     "retenir": [
+      "Les noms en -al font -aux, sauf bal, carnaval, chacal, festival, récital et régal, qui prennent un « s ».",
+      "Sept noms en -ail font -aux : bail, corail, émail, soupirail, travail, vantail, vitrail ; les autres prennent un « s ».",
+      "Sept noms en -ou prennent un « x » : bijou, caillou, chou, genou, hibou, joujou, pou.",
+      "Landau, sarrau, bleu, pneu et émeu prennent un « s » au pluriel, contrairement aux autres noms en -au et -eu.",
+      "Aïeuls désigne les grands-parents, aïeux les ancêtres ; ciel donne cieux au sens poétique, ciels au sens technique.",
+      "Dans un nom composé, seuls les noms et les adjectifs varient ; verbes, adverbes et prépositions restent invariables.",
+      "Avec un complément du nom, seul le premier nom varie : des arcs-en-ciel, des pots-de-vin, des chefs-d'œuvre."
+     ],
+     "exo": {
+      "tag": "niv-fr09",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261112lo09",
+     "niv": "lo09",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Âges, partages et mélanges",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez résoudre les problèmes d'âges en vous appuyant sur l'écart d'âge, qui ne change jamais.",
+      "= Vous saurez aussi partager une somme proportionnellement ou inversement proportionnellement à des nombres, et calculer le prix ou la concentration d'un mélange.",
+      "## Ce que demande l'épreuve",
+      "Ces trois familles de problèmes sont des classiques des tests de calcul de la présélection, notés +2 / 0 / −2 en logique. L'énoncé est court, mais il cache une inconnue : un nombre d'années, une part, une quantité à mélanger. Les mauvaises réponses proposées correspondent à des erreurs typiques : oublier que tout le monde vieillit en même temps, partager directement au lieu de partager à l'inverse, faire la moyenne simple de deux prix au lieu de la moyenne pondérée par les quantités.",
+      "## La méthode, pas à pas",
+      "- 1. Nommez l'inconnue (x années, la part de B, la quantité du produit à 300 F) et écrivez ce que chaque phrase de l'énoncé dit sur elle.",
+      "- 2. Âges : écrivez les âges à la date indiquée (aujourd'hui + x, ou aujourd'hui − x) pour toutes les personnes, puis posez l'égalité.",
+      "- 3. Partages : additionnez les parts (2 + 3 + 4…), divisez la somme par ce total pour obtenir la valeur d'une part, puis multipliez.",
+      "- 4. Mélanges : raisonnez sur les totaux (prix total, quantité de sucre) et non sur les prix ou les pourcentages, qui ne s'additionnent pas.",
+      "- 5. Vérifiez toujours en replaçant le résultat dans l'énoncé : c'est rapide et cela évite de perdre deux points.",
+      "! Piège habituel : dans les problèmes d'âges, ajouter les années à une seule personne. Dans 10 ans, le père ET l'enfant auront 10 ans de plus."
+     ],
+     "fond": [
+      "## Notion 1 : les âges et l'écart constant",
+      "Règle : l'écart d'âge entre deux personnes ne change jamais. Si une mère a 27 ans de plus que sa fille aujourd'hui, elle aura toujours 27 ans de plus.",
+      "Pourquoi ? Chaque année, les deux personnes vieillissent d'un an en même temps : la différence reste la même.",
+      "Raccourci : quand le parent a k fois l'âge de l'enfant, l'écart vaut (k − 1) fois l'âge de l'enfant. L'enfant a donc écart ÷ (k − 1) ans à ce moment-là.",
+      "~ Exemple résolu : Adjoua a 9 ans et sa mère 36 ans. Dans combien d'années la mère aura-t-elle le double de l'âge de sa fille ? Écart : 36 − 9 = 27 ans. Au moment du double (k = 2), la fille a 27 ÷ 1 = 27 ans. Cela arrive dans 27 − 9 = 18 ans. Vérification : 36 + 18 = 54 et 9 + 18 = 27 ; 54 = 2 × 27.",
+      "? Un grand-père a 70 ans et son petit-fils 10 ans. Dans combien d'années le grand-père aura-t-il cinq fois l'âge de son petit-fils ? || Écart : 70 − 10 = 60 ans. Au moment cherché (k = 5), le petit-fils a 60 ÷ 4 = 15 ans, donc dans 15 − 10 = 5 ans. Vérification : 75 = 5 × 15.",
+      "! Piège : la question peut porter sur le passé (« il y a combien d'années… »). On soustrait alors x aux deux âges ; si le calcul donne un résultat négatif, l'événement est dans le futur.",
+      "## Notion 2 : somme et différence connues",
+      "Règle : si l'on connaît la somme S et la différence D de deux nombres, le plus grand vaut (S + D) ÷ 2 et le plus petit (S − D) ÷ 2.",
+      "Pourquoi ? En retirant la différence au total, on obtient deux fois le plus petit nombre ; en l'ajoutant, deux fois le plus grand.",
+      "~ Exemple résolu : deux caisses d'un groupement de vivrières contiennent ensemble 230 000 F, la première a 40 000 F de plus que la seconde. Première : (230 000 + 40 000) ÷ 2 = 135 000 F. Seconde : (230 000 − 40 000) ÷ 2 = 95 000 F. Vérification : 135 000 + 95 000 = 230 000.",
+      "? Trois cousins ont des âges qui se suivent (par exemple 6, 7, 8) et la somme de leurs âges est 57 ans. Quel est l'âge de l'aîné ? || Le cousin du milieu a l'âge moyen : 57 ÷ 3 = 19 ans. Les âges sont donc 18, 19 et 20 ; l'aîné a 20 ans. Vérification : 18 + 19 + 20 = 57.",
+      "## Notion 3 : le partage proportionnel",
+      "Règle : partager une somme proportionnellement à des nombres (2, 3, 4), c'est donner à chacun un nombre de parts égal à son nombre. Valeur d'une part = somme ÷ total des parts.",
+      "Pourquoi ? C'est la règle de l'équité : celui qui a apporté deux fois plus reçoit deux fois plus.",
+      "~ Exemple résolu : un GIE maraîcher de Bouaké réalise un bénéfice de 1 800 000 F, à partager selon les apports de trois membres : 200 000, 300 000 et 400 000 F. Les apports sont dans le rapport 2 : 3 : 4, soit 9 parts. Une part vaut 1 800 000 ÷ 9 = 200 000 F. Parts : 400 000 F, 600 000 F et 800 000 F. Vérification : total 1 800 000 F.",
+      "Variante : quand les apports durent des temps différents, on partage proportionnellement au produit apport × durée.",
+      "## Notion 4 : le partage inversement proportionnel",
+      "Règle : partager inversement proportionnellement à 2, 3 et 6, c'est partager proportionnellement à 1/2, 1/3 et 1/6. On réduit au même dénominateur (6) : 3/6, 2/6, 1/6, puis on partage selon 3, 2 et 1.",
+      "Pourquoi ? On l'utilise quand une grandeur doit pénaliser : plus de retards ou d'absences donne une plus petite part.",
+      "~ Exemple résolu : une prime de 66 000 F est partagée entre trois livreurs inversement proportionnellement à leurs retards : 2, 3 et 6. Rapports : 3, 2 et 1, soit 6 parts de 11 000 F. Le livreur aux 2 retards reçoit 33 000 F, celui aux 3 retards 22 000 F, celui aux 6 retards 11 000 F.",
+      "! Piège : partager directement selon 2, 3, 6 donnerait la plus grosse part au moins ponctuel. Vérifiez que le classement des parts est bien inversé.",
+      "? Partagez 100 000 F entre deux agents inversement proportionnellement à leurs jours d'absence, 4 et 6. || On partage selon 1/4 et 1/6, soit 3/12 et 2/12, donc selon 3 et 2 : 5 parts de 20 000 F. L'agent aux 4 jours reçoit 60 000 F, l'agent aux 6 jours 40 000 F. Contrôle : le moins absent reçoit le plus.",
+      "## Notion 5 : le prix d'un mélange",
+      "Règle : le prix moyen d'un mélange est le prix total divisé par la quantité totale. C'est une moyenne pondérée par les quantités.",
+      "~ Exemple résolu : un commerçant d'Abengourou mélange 40 kg de riz à 450 F le kilo et 60 kg à 550 F. Prix total : 18 000 + 33 000 = 51 000 F pour 100 kg, soit 510 F le kilo, et non 500 F (moyenne simple).",
+      "Méthode des croix : pour obtenir un prix cible entre deux prix, les quantités sont dans le rapport inverse des écarts au prix cible. Pour 500 F à partir de 450 F et 600 F : écarts 50 et 100, donc 100 parts à 450 F pour 50 parts à 600 F, soit 2 pour 1.",
+      "? Combien de litres d'huile à 1 200 F et à 1 500 F faut-il mélanger pour obtenir 60 litres à 1 300 F le litre ? || Écarts au prix cible : 1 300 − 1 200 = 100 et 1 500 − 1 300 = 200. Les quantités sont dans le rapport inverse : 200 pour l'huile à 1 200 F et 100 pour l'huile à 1 500 F, soit 2 pour 1. Sur 60 litres : 40 litres à 1 200 F et 20 litres à 1 500 F. Vérification : (48 000 + 30 000) ÷ 60 = 1 300 F.",
+      "## Notion 6 : concentrations et dilutions",
+      "Règle : quand on ajoute de l'eau ou qu'on en fait évaporer, la quantité de produit dissous (sucre, sel, alcool) ne change pas. Seul le volume total change.",
+      "~ Exemple résolu : 50 litres de jus de bissap contiennent 12 % de sucre, soit 6 litres de sucre. On ajoute 10 litres d'eau : 6 ÷ 60 = 0,10, la concentration tombe à 10 %.",
+      "? Une cuve contient 60 litres de sirop à 10 % de sucre. Combien de litres d'eau faut-il faire évaporer pour atteindre 15 % ? || Quantité de sucre : 60 × 10 % = 6 litres, elle ne change pas. Pour que 6 litres représentent 15 %, le volume doit être 6 ÷ 0,15 = 40 litres. Il faut donc évaporer 60 − 40 = 20 litres d'eau."
+     ],
+     "retenir": [
+      "L'écart d'âge entre deux personnes reste constant : tout le monde vieillit du même nombre d'années.",
+      "Quand un parent a k fois l'âge de son enfant, l'enfant a exactement l'écart d'âge divisé par (k − 1).",
+      "Avec une somme S et une différence D, le plus grand nombre vaut (S + D) ÷ 2, le plus petit (S − D) ÷ 2.",
+      "Partage proportionnel : valeur d'une part = somme à partager ÷ total des parts, puis multiplier par les parts de chacun.",
+      "Partager inversement à 2 et 3, c'est partager proportionnellement à 1/2 et 1/3, donc à 3 et 2.",
+      "Le prix d'un mélange est une moyenne pondérée : prix total ÷ quantité totale, jamais la moyenne simple des prix.",
+      "Dans une dilution, la quantité de produit dissous ne change pas : nouvelle concentration = produit ÷ nouveau volume."
+     ],
+     "exo": {
+      "tag": "niv-lo09",
+      "n": 10
+     }
+    }
+   ],
+   "sujets": []
   }
  ]
 }
