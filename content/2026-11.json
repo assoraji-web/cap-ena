@@ -17285,6 +17285,253 @@
       "15 % est trop bas : 25 litres à 15 % ne contiendraient que 3,75 litres de sucre."
      ],
      "calc": "(10*30+15*10)/25"
+    },
+    {
+     "id": "c20261112-an03-01",
+     "m": "ang",
+     "tag": "niv-an03",
+     "q": "Choose the correct form: \"Taste this attiéké: it ___ delicious.\"",
+     "o": [
+      "is tasting",
+      "taste",
+      "tastes",
+      "is taste"
+     ],
+     "a": 2,
+     "e": "Ici « taste » décrit une perception (le goût qu'a le plat) : c'est un verbe d'état, employé au present simple, avec -s à la 3e personne : « it tastes delicious ».",
+     "ed": [
+      "Le present continuous (« is tasting ») ne s'emploie que pour l'action de goûter : « The chef is tasting the soup ».",
+      "Le sujet « it » est à la 3e personne du singulier : il faut le -s du present simple.",
+      null,
+      "« Is taste » est agrammatical : après « is », il faudrait la forme en -ing."
+     ],
+     "verif": "regle",
+     "src": {
+      "t": "British Council LearnEnglish – Stative verbs",
+      "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/stative-verbs"
+     }
+    },
+    {
+     "id": "c20261112-lo03-01",
+     "m": "log",
+     "tag": "niv-lo03",
+     "q": "Un agent parcourt les 2/7 d'un trajet de 63 km le matin et les 3/7 l'après-midi. Combien de kilomètres lui reste-t-il à parcourir ?",
+     "o": [
+      "45 km",
+      "27 km",
+      "36 km",
+      "18 km"
+     ],
+     "a": 3,
+     "e": "Fraction parcourue : 2/7 + 3/7 = 5/7 (même dénominateur, on additionne les numérateurs). Il reste 2/7 : 63 ÷ 7 = 9, puis 2 × 9 = 18 km.",
+     "ed": [
+      "45 km correspond aux 5/7 déjà parcourus, et non au reste.",
+      "27 km correspond aux 3/7 de l'après-midi seulement.",
+      "36 km correspond aux 4/7 : erreur sur la fraction restante (7 − 5 = 2, pas 4).",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "63*2/7"
+    },
+    {
+     "id": "c20261112-ct02-01",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Dans un texte, le connecteur « néanmoins » exprime :",
+     "o": [
+      "la cause",
+      "l'ajout d'un argument de même sens",
+      "une opposition ou une restriction",
+      "la conséquence"
+     ],
+     "a": 2,
+     "e": "« Néanmoins » (synonyme de « cependant », « toutefois ») marque une opposition ou une restriction : l'idée qui suit nuance ou contredit celle qui précède, et c'est souvent elle qui compte pour le résumé.",
+     "ed": [
+      "La cause s'exprime par « car », « parce que », « puisque ».",
+      "L'ajout s'exprime par « de plus », « en outre », « par ailleurs ».",
+      null,
+      "La conséquence s'exprime par « donc », « ainsi », « par conséquent »."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "Méthode du résumé de texte (blog pédagogique, académie de Normandie)",
+      "u": "https://blogs.ac-normandie.fr/milletlettres/public/Methodeduresume.pdf"
+     }
+    },
+    {
+     "id": "c20261112-ct02-02",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Dans « Puisque l'emploi formel stagne, les jeunes se tournent vers l'informel », la proposition introduite par « puisque » exprime :",
+     "o": [
+      "une cause présentée comme connue",
+      "une conséquence",
+      "une concession",
+      "un but"
+     ],
+     "a": 0,
+     "e": "« Puisque » introduit une cause présentée comme évidente ou déjà admise ; la principale (« les jeunes se tournent vers l'informel ») en est l'effet. Repérer ce lien permet de garder la logique du texte dans le résumé.",
+     "ed": [
+      null,
+      "La conséquence est la principale (se tourner vers l'informel), pas la proposition en « puisque ».",
+      "La concession s'exprime par « certes… mais », « bien que », « même si ».",
+      "Le but s'exprime par « pour que », « afin de »."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "Méthode du résumé de texte (blog pédagogique, académie de Normandie)",
+      "u": "https://blogs.ac-normandie.fr/milletlettres/public/Methodeduresume.pdf"
+     }
+    },
+    {
+     "id": "c20261112-ct02-03",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Quel terme générique (hyperonyme) peut remplacer, dans un résumé, l'énumération « le manioc, l'igname et la banane plantain » ?",
+     "o": [
+      "les cultures d'exportation",
+      "les cultures vivrières",
+      "les céréales",
+      "les produits forestiers"
+     ],
+     "a": 1,
+     "e": "Le manioc, l'igname et la banane plantain sont des cultures vivrières, destinées surtout à l'alimentation locale. Remplacer une énumération par un mot générique (hyperonyme) réduit le texte sans en trahir le sens.",
+     "ed": [
+      "Les cultures d'exportation désignent par exemple le cacao, le café ou l'anacarde, pas ces produits.",
+      null,
+      "Le manioc, l'igname et la banane ne sont pas des céréales (comme le riz ou le maïs).",
+      "Ces produits sont cultivés, non tirés de la forêt : le mot généralise mal."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "Méthode du résumé de texte (blog pédagogique, académie de Normandie)",
+      "u": "https://blogs.ac-normandie.fr/milletlettres/public/Methodeduresume.pdf"
+     }
+    },
+    {
+     "id": "c20261112-ct02-04",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Lors de la lecture « en tableau » d'un texte à résumer, que note-t-on pour chaque paragraphe ?",
+     "o": [
+      "Le nombre exact de mots du paragraphe",
+      "Les mots difficiles à recopier tels quels",
+      "L'idée principale (l'argument) et, à part, les exemples qui l'illustrent",
+      "Son avis personnel sur le paragraphe"
+     ],
+     "a": 2,
+     "e": "Le tableau sépare, paragraphe par paragraphe, l'argument (à garder et reformuler) des exemples (à supprimer ou généraliser). On voit ainsi la progression du texte, qu'il faudra respecter dans le résumé.",
+     "ed": [
+      "Le décompte des mots sert au contrôle final de votre résumé, pas à l'analyse des paragraphes.",
+      "Le résumé reformule : on ne cherche pas des passages à recopier.",
+      null,
+      "Le résumé ne commente pas le texte : votre avis n'y a pas sa place."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "Méthode du résumé de texte (blog pédagogique, académie de Normandie)",
+      "u": "https://blogs.ac-normandie.fr/milletlettres/public/Methodeduresume.pdf"
+     }
+    },
+    {
+     "id": "c20261112-ct02-05",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Le texte dit : « Nous devons protéger nos forêts avant qu'il ne soit trop tard. » Quelle reformulation convient dans un résumé ?",
+     "o": [
+      "L'auteur pense qu'il faut protéger les forêts.",
+      "Il nous faut préserver d'urgence notre couvert forestier.",
+      "Nous devons protéger nos forêts avant qu'il ne soit trop tard.",
+      "Selon moi, la forêt est un sujet très important."
+     ],
+     "a": 1,
+     "e": "Le résumé garde l'énonciation du texte (le « nous » de l'auteur) et reformule avec d'autres mots : « Il nous faut préserver d'urgence notre couvert forestier » conserve l'idée et l'urgence sans recopier.",
+     "ed": [
+      "« L'auteur pense que » met le texte à distance : on se met à la place de l'auteur, sans formule de commentaire.",
+      null,
+      "C'est une recopie mot pour mot, interdite dans un résumé.",
+      "Le résumé n'exprime jamais l'avis du candidat."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "Méthode du résumé de texte (blog pédagogique, académie de Normandie)",
+      "u": "https://blogs.ac-normandie.fr/milletlettres/public/Methodeduresume.pdf"
+     }
+    },
+    {
+     "id": "c20261112-ct02-06",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Un paragraphe dit : « Certes, la croissance est forte. Mais elle profite peu aux jeunes. » Quelle idée doit dominer dans le résumé ?",
+     "o": [
+      "La croissance est forte, sans autre précision",
+      "Les deux idées ont exactement le même poids",
+      "Aucune : un paragraphe concessif se supprime",
+      "La croissance profite peu aux jeunes, malgré sa vigueur"
+     ],
+     "a": 3,
+     "e": "Dans « certes… mais », la concession (« certes ») reconnaît un point que l'auteur dépasse ; l'idée qu'il défend suit « mais ». Le résumé met donc l'accent sur ce qui suit « mais », en gardant brièvement la concession.",
+     "ed": [
+      "C'est l'idée concédée, que l'auteur dépasse : la garder seule inverse sa pensée.",
+      "L'auteur hiérarchise : l'idée introduite par « mais » l'emporte.",
+      "Le paragraphe porte une idée de l'auteur : on le résume, on ne le supprime pas.",
+      null
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "Méthode du résumé de texte (blog pédagogique, académie de Normandie)",
+      "u": "https://blogs.ac-normandie.fr/milletlettres/public/Methodeduresume.pdf"
+     }
+    },
+    {
+     "id": "c20261112-ct02-07",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Un paragraphe s'organise en « D'abord… Ensuite… Enfin… ». Quelle relation logique structure ce paragraphe ?",
+     "o": [
+      "L'énumération d'arguments ou d'étapes",
+      "L'opposition",
+      "La concession",
+      "La cause"
+     ],
+     "a": 0,
+     "e": "« D'abord, ensuite, enfin » sont des connecteurs d'énumération : ils alignent des arguments ou des étapes. Dans le résumé, on peut les regrouper en une phrase (« plusieurs raisons… ») si l'espace manque.",
+     "ed": [
+      null,
+      "L'opposition s'exprime par « mais », « en revanche », « au contraire ».",
+      "La concession s'exprime par « certes… mais », « bien que ».",
+      "La cause s'exprime par « car », « parce que », « puisque »."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "Méthode du résumé de texte (blog pédagogique, académie de Normandie)",
+      "u": "https://blogs.ac-normandie.fr/milletlettres/public/Methodeduresume.pdf"
+     }
+    },
+    {
+     "id": "c20261112-ct02-08",
+     "m": "ct",
+     "tag": "niv-ct02",
+     "q": "Dans un résumé de texte, peut-on citer entre guillemets une formule de l'auteur ?",
+     "o": [
+      "Oui, et il faut citer au moins une phrase par paragraphe",
+      "Non, jamais, sous aucune forme",
+      "Oui, exceptionnellement, si elle est brève et particulièrement significative",
+      "Oui, à condition d'ajouter « comme le dit l'auteur »"
+     ],
+     "a": 2,
+     "e": "La règle est de reformuler. Une citation n'est admise qu'à titre exceptionnel : une expression courte et particulièrement pertinente, placée entre guillemets.",
+     "ed": [
+      "Citer régulièrement revient à recopier : le correcteur sanctionne l'absence de reformulation.",
+      "L'interdiction n'est pas absolue : une courte formule essentielle peut être reprise entre guillemets.",
+      null,
+      "« Comme le dit l'auteur » est une formule de commentaire, à proscrire dans le résumé."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "Méthode du résumé de texte (blog pédagogique, académie de Normandie)",
+      "u": "https://blogs.ac-normandie.fr/milletlettres/public/Methodeduresume.pdf"
+     }
     }
    ],
    "lessons": [
@@ -17425,6 +17672,84 @@
       "tag": "niv-lo09",
       "n": 10
      }
+    },
+    {
+     "id": "L20261102an05",
+     "niv": "an05",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "Past perfect et expression du futur",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez employer le past perfect pour montrer qu'une action passée a eu lieu avant une autre, à la forme affirmative, négative et interrogative.",
+      "= Vous saurez aussi choisir entre will, be going to, le present continuous et le present simple pour parler du futur, et vous ne mettrez plus will après when, as soon as, until ou if.",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), les questions de temps prennent la forme d'une phrase à trous : « By the time we arrived, the meeting ___ . » Quatre formes verbales sont proposées. Plusieurs sont possibles isolément ; seul l'indice de la phrase (by the time, already, before, tomorrow, look!) permet de trancher. Le piège le plus fréquent est le calque du français : « quand il arrivera » se traduit par when he arrives, et non when he will arrive.",
+      "! Piège habituel : employer le present perfect (has done) pour une antériorité dans le passé. Quand le repère est passé, l'antériorité s'exprime par le past perfect (had done).",
+      "## La méthode, pas à pas",
+      "- 1. Soulignez le repère de temps : passé (yesterday, when I arrived), présent ou futur (tomorrow, next week).",
+      "- 2. Deux actions passées ? Numérotez-les dans l'ordre où elles se sont produites. L'action n° 1, la plus ancienne, prend le past perfect (had + participe passé) ; l'action n° 2 reste au past simple.",
+      "- 3. Futur : demandez-vous s'il s'agit d'une décision prise à l'instant (will), d'un projet décidé avant de parler (going to), d'un rendez-vous fixé avec quelqu'un (present continuous) ou d'un horaire officiel (present simple).",
+      "- 4. Après when, as soon as, before, after, until, if ou unless renvoyant au futur : présent, jamais will.",
+      "~ Exemple : « When the inspector came, the agents ___ the files. » (avaient déjà rangé). Repère passé (came), action antérieure : had already filed. Traduction : « Quand l'inspecteur est venu, les agents avaient déjà classé les dossiers. »"
+     ],
+     "fond": [
+      "## Notion 1 : former le past perfect",
+      "Règle : le past perfect se forme avec had + participe passé, à toutes les personnes : I had finished, she had gone, they had not (hadn't) seen. À l'oral et dans les QCM, had est souvent contracté : she'd left. À la forme interrogative, had passe devant le sujet : Had you received the letter? C'est l'équivalent du plus-que-parfait français (« j'avais fini »).",
+      "Pourquoi ? Dans un récit au passé, il faut pouvoir remonter encore plus loin. Le past simple raconte les événements dans l'ordre ; le past perfect signale un retour en arrière.",
+      "~ Exemple résolu : « The train had left when we reached the station. » (Le train était parti quand nous sommes arrivés à la gare.) Étape 1 : repère passé, reached (past simple). Étape 2 : le départ du train est antérieur. Étape 3 : had left. Comparez : « The train left when we reached the station » signifie que le train est parti au moment de notre arrivée.",
+      "~ Exemple résolu (négation et question) : « Le préfet n'avait pas encore signé l'arrêté quand la délégation est arrivée. » → The prefect hadn't signed the order yet when the delegation arrived. Question : « Aviez-vous déjà travaillé dans une mairie avant ce poste ? » → Had you ever worked in a town hall before this job? Dans les deux cas, had porte la négation ou l'inversion ; le participe passé ne change pas.",
+      "! Piège : had went est faux. Le participe passé de go est gone : had gone. Vérifiez toujours la troisième forme des verbes irréguliers (take, took, taken ; write, wrote, written ; begin, began, begun).",
+      "? Complétez : « She was happy because she ___ (pass) the exam the week before. » || had passed. Le repère est passé (was happy) et la réussite à l'examen est antérieure (the week before) : past perfect, had + passed. Traduction : « Elle était heureuse parce qu'elle avait réussi l'examen la semaine précédente. »",
+      "## Notion 2 : quand faut-il vraiment le past perfect ?",
+      "Règle : le past perfect sert dans deux cas. Premier cas : deux actions passées liées, dont l'une est plus ancienne. Second cas : ce qui était déjà accompli à un moment du passé (by the time, by 2015). Il s'accompagne souvent de already, just, never, ever, still.",
+      "Pourquoi ? Sans repère passé, il n'y a pas d'antériorité à marquer. Un fait isolé du passé reste au past simple : « My grandfather built this house in 1975 », et non « had built ».",
+      "~ Exemple résolu : « By the time the rainy season started, the cooperative ___ (harvest) its cocoa. » Étape 1 : repère passé, started. Étape 2 : la récolte était terminée avant ce moment. Réponse : had harvested. Traduction : « Le temps que la saison des pluies commence, la coopérative avait récolté son cacao. »",
+      "! Avec before ou after, l'ordre est déjà clair : le past simple suffit souvent (« She left after she signed »). Mais avec before, le past perfect insiste sur ce qui n'était pas encore fait : « The bus left before I'd paid. » (le bus est parti alors que je n'avais pas encore payé).",
+      "? Repérez l'erreur : « It was the best speech I have ever heard. » || Il faut had ever heard. Le récit est au passé (was) : l'expérience est mesurée jusqu'à ce moment passé, donc past perfect. « Have ever heard » mesurerait l'expérience jusqu'à aujourd'hui, ce qui ne s'accorde pas avec was.",
+      "## Notion 3 : will et be going to",
+      "Règle : will + base verbale exprime une décision prise au moment où l'on parle, une promesse, une offre ou une prédiction fondée sur une opinion (I think, probably). Be going to + base verbale exprime un projet décidé avant le moment où l'on parle, ou une prédiction fondée sur un indice présent.",
+      "Pourquoi ? Going to relie le futur au présent : l'intention existe déjà, ou l'indice est déjà visible. Will exprime un futur que l'on décide ou que l'on suppose à l'instant.",
+      "~ Exemples : « You look tired. — Sit down, I'll make you some tea. » (offre décidée sur le moment). « We've saved enough money: we're going to open a second shop in Agnibilékrou. » (projet décidé avant de parler).",
+      "## Notion 4 : le présent pour parler du futur",
+      "Règle : le present continuous exprime un arrangement déjà convenu avec au moins une autre personne, dont on connaît le moment et souvent le lieu. Le present simple exprime un futur fixé par un horaire ou un calendrier officiel (transports, cours, séances).",
+      "Pourquoi ? Dans les deux cas, l'événement est déjà organisé au moment présent : le présent suffit, et le complément de temps indique le futur.",
+      "~ Exemple : « We're signing the agreement with the mayor on Friday at the town hall. » (arrangement convenu, jour et lieu connus). Comparez avec un simple projet personnel : « I'm going to learn Spanish next year. »",
+      "? Choisissez : « Our flight to Dakar ___ at 7:15 tomorrow morning, according to the timetable. » (leaves / is going to leave) || leaves. Il s'agit d'un horaire officiel (according to the timetable) : le present simple s'impose. Going to exprimerait une intention personnelle, ce qui ne convient pas à un horaire de compagnie aérienne.",
+      "## Notion 5 : pas de will après when, as soon as, until, if",
+      "Règle : dans une subordonnée de temps (when, as soon as, before, after, until) ou de condition (if, unless = if not) qui renvoie au futur, on emploie le présent ; will reste dans la principale.",
+      "Pourquoi ? La principale porte déjà la marque du futur ; l'anglais ne la répète pas. Le français, lui, met le futur dans les deux propositions : c'est la source du piège.",
+      "~ Exemple résolu : « Je ne signerai pas tant que je n'aurai pas lu le contrat. » Étape 1 : principale au futur → I won't sign. Étape 2 : until introduit la subordonnée → présent. Résultat : I won't sign until I read the contract.",
+      "? Traduisez : « Si tu ne révises pas, tu échoueras. » puis réécrivez avec unless. || If you don't revise, you will fail. Avec unless (= if not) : Unless you revise, you will fail. Dans les deux cas, la subordonnée reste au présent et will reste dans la principale ; avec unless, on supprime la négation, déjà contenue dans le mot."
+     ],
+     "retenir": [
+      "Le past perfect se forme avec had + participe passé : il exprime une action antérieure à un autre moment passé.",
+      "Pour deux actions passées, l'action la plus ancienne prend le past perfect, la plus récente le past simple.",
+      "Un fait passé isolé, sans autre repère passé, reste au past simple, jamais au past perfect.",
+      "Will : décision prise sur le moment, promesse, offre ou prédiction d'opinion.",
+      "Be going to : projet décidé avant de parler ou prédiction fondée sur un indice présent.",
+      "Present continuous : arrangement convenu avec quelqu'un ; present simple : horaire officiel (the bus leaves at six).",
+      "Après when, as soon as, until, if ou unless renvoyant au futur, on met le présent, jamais will."
+     ],
+     "exo": {
+      "tag": "niv-an05",
+      "n": 12
+     },
+     "rev": 2,
+     "sources": [
+      {
+       "t": "British Council LearnEnglish – Past perfect",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-perfect"
+      },
+      {
+       "t": "British Council LearnEnglish – Future forms: will, be going to and present continuous",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-forms-will-be-going-present-continuous"
+      },
+      {
+       "t": "Test-English – First conditional and future time clauses",
+       "u": "https://test-english.com/explanation/b1/first-conditional-future-time-clauses/"
+      }
+     ]
     }
    ],
    "sujets": []
