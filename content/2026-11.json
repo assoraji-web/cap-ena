@@ -17753,6 +17753,1052 @@
     }
    ],
    "sujets": []
+  },
+  {
+   "date": "2026-11-13",
+   "questions": [
+    {
+     "id": "n20261113-fr10-01",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Quelle graphie est correcte ?",
+     "o": [
+      "quatre-vingts candidats",
+      "quatre-vingt candidats",
+      "quatres-vingts candidats",
+      "quatre-vingtes candidats"
+     ],
+     "a": 0,
+     "e": "« Vingt » est multiplié par quatre et termine le nombre : il prend un « s ». Quatre, comme les autres numéraux, reste invariable.",
+     "ed": [
+      null,
+      "Il manque le « s » : vingt multiplié et placé en fin de nombre doit varier.",
+      "« Quatre » est un numéral invariable : il ne prend jamais de « s ».",
+      "Un numéral ne prend jamais la marque du féminin « e »."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-02",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « La nouvelle salle de conférences compte trois ___ places. »",
+     "o": [
+      "cent",
+      "cents",
+      "cens",
+      "centes"
+     ],
+     "a": 1,
+     "e": "« Cent » est multiplié par trois et aucun numéral ne le suit : il prend un « s ». On écrit donc trois cents places.",
+     "ed": [
+      "Sans « s », la règle de cent multiplié en fin de nombre n'est pas appliquée.",
+      null,
+      "« Cens » est un autre mot (ancien impôt, seuil électoral), sans rapport avec le nombre.",
+      "Le numéral « cent » ne prend jamais la marque du féminin."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-03",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Le budget de l'opération s'élève à deux ___ mille francs. »",
+     "o": [
+      "cents",
+      "cens",
+      "cent",
+      "centes"
+     ],
+     "a": 2,
+     "e": "« Mille » est un adjectif numéral : placé devant lui, « cent » n'est plus en fin de nombre et reste invariable. On écrit deux cent mille.",
+     "ed": [
+      "« Cents » serait juste à la fin du nombre ; ici « mille » suit, cent reste invariable.",
+      "« Cens » désigne un ancien impôt ou un seuil électoral, pas un nombre.",
+      null,
+      "Un numéral ne prend jamais de marque du féminin."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-04",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « L'État a mobilisé quatre ___ millions de francs pour ce programme. »",
+     "o": [
+      "cent",
+      "centes",
+      "cens",
+      "cents"
+     ],
+     "a": 3,
+     "e": "« Million » est un nom, pas un adjectif numéral : il ne compte pas comme un nombre qui suit. « Cent », multiplié par quatre, garde donc son « s ».",
+     "ed": [
+      "L'erreur vient de traiter « millions » comme « mille » : million est un nom, cent garde son « s ».",
+      "Le numéral « cent » ne prend jamais de « e ».",
+      "« Cens » est un mot différent (impôt, seuil électoral).",
+      null
+     ]
+    },
+    {
+     "id": "n20261113-fr10-05",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Ouvrez votre manuel à la page ___. » (le rang 80)",
+     "o": [
+      "quatres-vingts",
+      "quatre-vingts",
+      "quatre-vingt",
+      "quatre-vingtes"
+     ],
+     "a": 2,
+     "e": "Employé pour indiquer un rang (la page numéro quatre-vingt, c'est-à-dire la quatre-vingtième), « vingt » reste invariable : page quatre-vingt.",
+     "ed": [
+      "« Quatre » ne prend jamais de « s », et vingt est ici un ordinal invariable.",
+      "Le « s » ne s'emploie que pour une quantité ; ici le nombre indique un rang.",
+      null,
+      "Un numéral ne prend jamais la marque du féminin."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-06",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Ce programme d'insertion a déjà créé dix ___ emplois. »",
+     "o": [
+      "mille",
+      "milles",
+      "mil",
+      "miles"
+     ],
+     "a": 0,
+     "e": "« Mille » adjectif numéral est toujours invariable : dix mille emplois. La forme « mil » n'est admise que dans l'écriture des dates.",
+     "ed": [
+      null,
+      "« Mille » ne prend jamais de « s » quand il est numéral.",
+      "« Mil » n'est admis que dans les dates (l'an mil neuf cent…), pas pour un nombre d'emplois.",
+      "« Miles » est une unité de distance anglaise, pas le numéral."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-07",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Laquelle de ces écritures est fautive ?",
+     "o": [
+      "deux cent un",
+      "quatre-vingt-dix",
+      "trois cents",
+      "cinq cents trente"
+     ],
+     "a": 3,
+     "e": "Dans « cinq cent trente », un numéral suit « cent » : il reste invariable. Écrire « cinq cents trente » est donc une faute.",
+     "ed": [
+      "Correct : cent est suivi de « un », il reste invariable.",
+      "Correct : vingt est suivi de « dix », il reste invariable, avec traits d'union.",
+      "Correct : cent multiplié termine le nombre, il prend un « s ».",
+      null
+     ]
+    },
+    {
+     "id": "n20261113-fr10-08",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Écrivez 380 en lettres (orthographe traditionnelle) :",
+     "o": [
+      "trois cents quatre-vingts",
+      "trois cent quatre-vingts",
+      "trois cent quatre-vingt",
+      "trois-cents quatre-vingt"
+     ],
+     "a": 1,
+     "e": "« Cent » est suivi d'un autre numéral : invariable. « Vingt » est multiplié par quatre et termine le nombre : il prend un « s ». D'où trois cent quatre-vingts.",
+     "ed": [
+      "« Cent » est suivi de quatre-vingts : il ne doit pas prendre de « s ».",
+      null,
+      "Il manque le « s » de quatre-vingts, qui termine le nombre.",
+      "Les deux accords sont inversés, et le trait d'union isolé entre « trois » et « cents » ne correspond à aucune des deux orthographes admises."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-09",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Après la course, la jeune athlète est arrivée ___ essoufflée. »",
+     "o": [
+      "toute",
+      "tout",
+      "toutes",
+      "tous"
+     ],
+     "a": 1,
+     "e": "« Tout » signifie ici « entièrement » : c'est un adverbe, invariable devant un adjectif commençant par une voyelle, même féminin : tout essoufflée.",
+     "ed": [
+      "L'adverbe ne s'accorde que devant un adjectif féminin commençant par une consonne ou un h aspiré ; « essoufflée » commence par une voyelle.",
+      null,
+      "Le sujet est singulier : aucune forme plurielle n'est possible.",
+      "Le masculin pluriel ne convient ni au sens ni au sujet singulier."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-10",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « La présidente du conseil régional est ___ fière de ses équipes. »",
+     "o": [
+      "tout",
+      "toutes",
+      "tous",
+      "toute"
+     ],
+     "a": 3,
+     "e": "« Tout » adverbe (= très, entièrement) s'accorde devant un adjectif féminin commençant par une consonne : toute fière.",
+     "ed": [
+      "Invariable ici serait une faute : « fière » est féminin et commence par une consonne.",
+      "Le sujet est singulier : le pluriel est impossible.",
+      "Le masculin pluriel ne correspond ni au genre ni au nombre.",
+      null
+     ]
+    },
+    {
+     "id": "n20261113-fr10-11",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « ___ les candidats ont reçu leur convocation par message. »",
+     "o": [
+      "Tous",
+      "Tout",
+      "Toutes",
+      "Toute"
+     ],
+     "a": 0,
+     "e": "Devant un déterminant (les) et un nom, « tout » est adjectif : il s'accorde avec « candidats », masculin pluriel : tous les candidats.",
+     "ed": [
+      null,
+      "Le singulier ne s'accorde pas avec « les candidats », pluriel.",
+      "« Candidats » est masculin : le féminin pluriel est faux.",
+      "Le féminin singulier ne convient ni au genre ni au nombre."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-12",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « La stagiaire était ___ honteuse de son retard. »",
+     "o": [
+      "tout",
+      "tous",
+      "toute",
+      "toutes"
+     ],
+     "a": 2,
+     "e": "« Honteuse » commence par un h aspiré (on dit « la honte », sans élision) : l'adverbe « tout » s'accorde donc, comme devant une consonne : toute honteuse.",
+     "ed": [
+      "Ce serait juste devant un h muet ; ici le h de « honteuse » est aspiré.",
+      "Le masculin pluriel ne correspond pas au sujet féminin singulier.",
+      null,
+      "Le sujet est singulier : le pluriel est impossible."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-13",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Elle est ___ heureuse d'avoir réussi le concours. »",
+     "o": [
+      "toute",
+      "tous",
+      "toutes",
+      "tout"
+     ],
+     "a": 3,
+     "e": "Le h de « heureuse » est muet (on dit « l'heure », « l'heureuse élue ») : l'adverbe « tout » reste invariable, comme devant une voyelle.",
+     "ed": [
+      "L'accord ne se fait que devant une consonne ou un h aspiré ; le h de « heureuse » est muet.",
+      "Le masculin pluriel ne correspond pas au sujet.",
+      "Le sujet est singulier : le pluriel est exclu.",
+      null
+     ]
+    },
+    {
+     "id": "n20261113-fr10-14",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Quelle phrase est correcte ?",
+     "o": [
+      "C'est une toute autre affaire.",
+      "C'est une toutes autre affaire.",
+      "C'est une tout autre affaire.",
+      "C'est une tous autre affaire."
+     ],
+     "a": 2,
+     "e": "« Tout » signifie ici « complètement » (une affaire complètement différente) : c'est un adverbe, invariable devant la voyelle de « autre ».",
+     "ed": [
+      "« Toute » serait l'adjectif (= n'importe quelle) : on dirait « toute autre affaire », sans l'article « une ».",
+      "Aucun pluriel n'est possible : « affaire » est au singulier.",
+      null,
+      "Le masculin pluriel ne correspond à rien dans la phrase."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-15",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Le séminaire régional a réuni ___ trois cents participants. »",
+     "o": [
+      "quelques",
+      "quelque",
+      "quel que",
+      "quelle que"
+     ],
+     "a": 1,
+     "e": "Devant un nombre, « quelque » signifie « environ » : c'est un adverbe, invariable. Quelque trois cents participants = environ trois cents.",
+     "ed": [
+      "Le pluriel ne s'emploie que devant un nom (= plusieurs) ; ici « quelque » précède un nombre.",
+      null,
+      "« Quel que » en deux mots ne s'emploie que devant un verbe au subjonctif.",
+      "« Quelle que » s'emploie devant le verbe être, avec un sujet féminin singulier."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-16",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « ___ soient les difficultés, le projet sera livré à temps. »",
+     "o": [
+      "Quelles que",
+      "Quelques",
+      "Quels que",
+      "Quelque"
+     ],
+     "a": 0,
+     "e": "Devant le verbe être au subjonctif, on écrit « quel que » en deux mots, et « quel » s'accorde avec le sujet « les difficultés », féminin pluriel.",
+     "ed": [
+      null,
+      "« Quelques » adjectif précède un nom, pas un verbe.",
+      "Le masculin pluriel ne s'accorde pas avec « difficultés », qui est féminin.",
+      "« Quelque » en un mot ne se place pas devant un verbe."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-17",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « ___ soit votre décision, l'administration la respectera. »",
+     "o": [
+      "Quelle que",
+      "Quel que",
+      "Quelque",
+      "Quels que"
+     ],
+     "a": 0,
+     "e": "Devant « soit », on écrit « quel que » en deux mots ; « quel » s'accorde avec le sujet « votre décision », féminin singulier : quelle que soit votre décision.",
+     "ed": [
+      null,
+      "Le masculin ne s'accorde pas avec « décision », qui est féminin.",
+      "« Quelque » en un mot ne se place jamais devant un verbe.",
+      "Le pluriel ne correspond pas à « votre décision », singulier."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-18",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « ___ efforts que vous fassiez, la réforme prendra du temps. »",
+     "o": [
+      "Quelque",
+      "Quelles que",
+      "Quels que",
+      "Quelques"
+     ],
+     "a": 3,
+     "e": "Devant un nom (efforts), « quelque » est un adjectif qui signifie « plusieurs, un certain nombre de » : il s'accorde. Quelques efforts que vous fassiez.",
+     "ed": [
+      "Devant un nom, « quelque » est adjectif et s'accorde : le singulier est faux.",
+      "« Quelles que » se place devant un verbe et un sujet féminin.",
+      "« Quel que » en deux mots se place devant un verbe, pas devant un nom.",
+      null
+     ]
+    },
+    {
+     "id": "n20261113-fr10-19",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « ___ les plus sceptiques ont applaudi le projet. »",
+     "o": [
+      "Mêmes",
+      "Même",
+      "Eux-mêmes",
+      "Les mêmes"
+     ],
+     "a": 1,
+     "e": "« Même » signifie ici « jusqu'à, aussi » et se place devant le déterminant : c'est un adverbe, invariable. Même les plus sceptiques ont applaudi.",
+     "ed": [
+      "L'adverbe « même » ne prend jamais de « s ».",
+      null,
+      "« Eux-mêmes » se place après le nom ou s'emploie seul ; « Eux-mêmes les plus sceptiques » n'est pas une construction correcte.",
+      "« Les mêmes les plus sceptiques » n'a pas de sens : le déterminant est doublé."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-20",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Les deux frères ont construit ce poulailler ___. »",
+     "o": [
+      "eux-même",
+      "lui-même",
+      "eux-mêmes",
+      "leur-mêmes"
+     ],
+     "a": 2,
+     "e": "Après un pronom personnel pluriel, « même » est adjectif et s'accorde : eux-mêmes, avec un trait d'union.",
+     "ed": [
+      "« Même » doit s'accorder avec « eux », pluriel.",
+      "« Lui » ne reprend qu'une seule personne : il y a deux frères.",
+      null,
+      "« Leur » n'est pas un pronom personnel sujet ou tonique : la forme correcte est « eux »."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-21",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Pour ce marché, ils ont repris les ___ fournisseurs que l'an dernier. »",
+     "o": [
+      "même",
+      "mêmement",
+      "mêmes",
+      "memmes"
+     ],
+     "a": 2,
+     "e": "« Même » signifie ici « identique » et se place devant le nom : c'est un adjectif, il s'accorde avec « fournisseurs », pluriel.",
+     "ed": [
+      "L'adjectif doit prendre le pluriel de « fournisseurs ».",
+      "« Mêmement » est un adverbe (= de la même manière) : il ne peut pas se placer entre l'article et le nom.",
+      null,
+      "Graphie inventée : le mot s'écrit « même » avec un seul m central."
+     ]
+    },
+    {
+     "id": "n20261113-fr10-22",
+     "m": "fr",
+     "tag": "niv-fr10",
+     "verif": "regle",
+     "q": "Complétez : « Il a acheté deux kilos et ___ de riz au marché d'Adjamé. »",
+     "o": [
+      "demi",
+      "demie",
+      "demis",
+      "demies"
+     ],
+     "a": 0,
+     "e": "Placé après le nom, « demi » s'accorde en genre seulement avec ce nom : « kilo » est masculin, donc deux kilos et demi, sans « s ».",
+     "ed": [
+      null,
+      "« Kilo » est masculin : la marque du féminin est fausse.",
+      "« Demi » placé après le nom ne prend jamais la marque du pluriel.",
+      "Ni féminin ni pluriel : « demi » s'accorde seulement en genre avec « kilo », masculin."
+     ]
+    },
+    {
+     "id": "n20261113-lo10-01",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 3, 30, 6, 25, 9, 20, … ?",
+     "o": [
+      "12",
+      "15",
+      "10",
+      "18"
+     ],
+     "a": 0,
+     "e": "Suite croisée : les rangs impairs 3, 6, 9 augmentent de 3 et les rangs pairs 30, 25, 20 baissent de 5. Le 7e terme est de rang impair : 9 + 3 = 12.",
+     "ed": [
+      null,
+      "15 serait le 8e terme (20 − 5), pas le 7e : le terme demandé est de rang impair.",
+      "10 ne suit aucune des deux règles : ni 9 + 3 ni 20 − 5.",
+      "18 double le dernier terme impair, alors que la règle de cette suite est + 3."
+     ],
+     "calc": "9+3"
+    },
+    {
+     "id": "n20261113-lo10-02",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 4, 9, 16, 25, 36, … ?",
+     "o": [
+      "45",
+      "47",
+      "64",
+      "49"
+     ],
+     "a": 3,
+     "e": "Ce sont les carrés de 2, 3, 4, 5, 6. Le terme suivant est 7² = 49 ; vérification : les écarts 5, 7, 9, 11 se prolongent par 13, et 36 + 13 = 49.",
+     "ed": [
+      "45 suppose un écart de 9, déjà utilisé : l'écart suivant est 13.",
+      "47 reprend l'écart de 11 sans l'augmenter de 2.",
+      "64 est 8², le terme d'après, pas le suivant immédiat.",
+      null
+     ],
+     "calc": "7*7"
+    },
+    {
+     "id": "n20261113-lo10-03",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 1, 8, 27, 64, … ?",
+     "o": [
+      "100",
+      "125",
+      "81",
+      "128"
+     ],
+     "a": 1,
+     "e": "Ce sont les cubes de 1, 2, 3, 4. Le terme suivant est 5³ = 5 × 5 × 5 = 125.",
+     "ed": [
+      "100 est 10², un carré, sans rapport avec les cubes de la suite.",
+      null,
+      "81 est 9², et la suite est faite de cubes.",
+      "128 suppose un doublement (64 × 2), règle qui ne marche pas sur 1, 8, 27."
+     ],
+     "calc": "5*5*5"
+    },
+    {
+     "id": "n20261113-lo10-04",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 5, 7, 11, 17, 25, … ?",
+     "o": [
+      "33",
+      "35",
+      "31",
+      "37"
+     ],
+     "a": 1,
+     "e": "Les écarts valent 2, 4, 6, 8 : ils augmentent de 2. L'écart suivant est 10, donc le terme suivant est 25 + 10 = 35.",
+     "ed": [
+      "33 reprend l'écart de 8 : on oublie que l'écart augmente de 2 à chaque fois.",
+      null,
+      "31 utilise un écart de 6, déjà passé.",
+      "37 utilise un écart de 12, qui sauterait une étape."
+     ],
+     "calc": "25+10"
+    },
+    {
+     "id": "n20261113-lo10-05",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 2, 5, 10, 17, 26, … ?",
+     "o": [
+      "35",
+      "36",
+      "39",
+      "37"
+     ],
+     "a": 3,
+     "e": "Chaque terme vaut un carré plus 1 : 1 + 1, 4 + 1, 9 + 1, 16 + 1, 25 + 1. Le suivant est 36 + 1 = 37 ; les écarts 3, 5, 7, 9 se prolongent bien par 11.",
+     "ed": [
+      "35 utilise un écart de 9, déjà utilisé : l'écart suivant est 11.",
+      "36 est le carré lui-même : on oublie le + 1 de la règle.",
+      "39 utilise un écart de 13, qui saute une étape.",
+      null
+     ],
+     "calc": "6*6+1"
+    },
+    {
+     "id": "n20261113-lo10-06",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 10, 1, 20, 2, 40, 4, … ?",
+     "o": [
+      "80",
+      "60",
+      "8",
+      "50"
+     ],
+     "a": 0,
+     "e": "Suite croisée : rangs impairs 10, 20, 40 (× 2), rangs pairs 1, 2, 4 (× 2). Le 7e terme est de rang impair : 40 × 2 = 80.",
+     "ed": [
+      null,
+      "60 suppose un écart constant de 20, alors que 10, 20, 40 doublent.",
+      "8 serait le 8e terme (4 × 2), de rang pair : ce n'est pas le terme demandé.",
+      "50 suppose un écart de 10, qui ne marche pas entre 20 et 40."
+     ],
+     "calc": "40*2"
+    },
+    {
+     "id": "n20261113-lo10-07",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 4, 5, 8, 13, 20, … ?",
+     "o": [
+      "27",
+      "31",
+      "29",
+      "28"
+     ],
+     "a": 2,
+     "e": "Les écarts sont les nombres impairs 1, 3, 5, 7. L'écart suivant est 9, donc le terme suivant est 20 + 9 = 29.",
+     "ed": [
+      "27 reprend l'écart de 7 au lieu de passer à 9.",
+      "31 utilise un écart de 11, qui saute une étape.",
+      null,
+      "28 utilise un écart de 8, qui n'est pas un nombre impair de la série."
+     ],
+     "calc": "20+9"
+    },
+    {
+     "id": "n20261113-lo10-08",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 3, 6, 11, 18, 27, … ?",
+     "o": [
+      "36",
+      "35",
+      "40",
+      "38"
+     ],
+     "a": 3,
+     "e": "Chaque terme vaut un carré plus 2 (1 + 2, 4 + 2, 9 + 2, 16 + 2, 25 + 2). Le suivant est 36 + 2 = 38 ; les écarts 3, 5, 7, 9 donnent bien 11.",
+     "ed": [
+      "36 est le carré seul : on oublie le + 2.",
+      "35 utilise un écart de 8, qui n'est pas dans la série 3, 5, 7, 9, 11.",
+      "40 utilise un écart de 13, qui saute une étape.",
+      null
+     ],
+     "calc": "6*6+2"
+    },
+    {
+     "id": "n20261113-lo10-09",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 1, 3, 4, 12, 13, 39, … ?",
+     "o": [
+      "117",
+      "42",
+      "40",
+      "52"
+     ],
+     "a": 2,
+     "e": "Deux opérations alternent : × 3 puis + 1 (1 × 3 = 3, 3 + 1 = 4, 4 × 3 = 12, 12 + 1 = 13, 13 × 3 = 39). L'opération suivante est + 1 : 39 + 1 = 40.",
+     "ed": [
+      "117 multiplie encore par 3, alors que c'est au tour de l'addition.",
+      "42 ajoute 3 au lieu de 1 : l'alternance est × 3, + 1.",
+      null,
+      "52 ajoute 13, règle qui n'apparaît nulle part dans la suite."
+     ],
+     "calc": "39+1"
+    },
+    {
+     "id": "n20261113-lo10-10",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 7, 8, 10, 14, 22, … ?",
+     "o": [
+      "30",
+      "38",
+      "32",
+      "44"
+     ],
+     "a": 1,
+     "e": "Les écarts valent 1, 2, 4, 8 : ils doublent. L'écart suivant est 16, donc le terme suivant est 22 + 16 = 38.",
+     "ed": [
+      "30 reprend l'écart de 8 sans le doubler.",
+      null,
+      "32 utilise un écart de 10, comme si les écarts augmentaient de 2.",
+      "44 double le dernier terme, ce qui ne marche pas sur 7, 8, 10."
+     ],
+     "calc": "22+16"
+    },
+    {
+     "id": "n20261113-lo10-11",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 100, 81, 64, 49, … ?",
+     "o": [
+      "36",
+      "34",
+      "25",
+      "40"
+     ],
+     "a": 0,
+     "e": "Ce sont les carrés de 10, 9, 8, 7, pris en descendant. Le suivant est 6² = 36 ; les écarts −19, −17, −15 se prolongent par −13.",
+     "ed": [
+      null,
+      "34 suppose un écart constant de −15, alors que les écarts diminuent de 2.",
+      "25 est 5², le terme d'après, pas le suivant immédiat.",
+      "40 ne correspond ni à un carré ni à un écart régulier."
+     ],
+     "calc": "6*6"
+    },
+    {
+     "id": "n20261113-lo10-12",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 0, 7, 26, 63, … ?",
+     "o": [
+      "124",
+      "100",
+      "125",
+      "126"
+     ],
+     "a": 0,
+     "e": "Chaque terme vaut un cube moins 1 : 1 − 1, 8 − 1, 27 − 1, 64 − 1. Le suivant est 125 − 1 = 124.",
+     "ed": [
+      null,
+      "100 suppose un écart de 37, qui ne suit aucune règle de la série.",
+      "125 est le cube lui-même : on oublie le − 1.",
+      "126 applique + 1 au lieu de − 1 : la règle se lit sur 0 = 1 − 1."
+     ],
+     "calc": "5*5*5-1"
+    },
+    {
+     "id": "n20261113-lo10-13",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 2, 3, 6, 18, 108, … ?",
+     "o": [
+      "216",
+      "324",
+      "540",
+      "1 944"
+     ],
+     "a": 3,
+     "e": "Chaque terme est le produit des deux précédents : 2 × 3 = 6, 3 × 6 = 18, 6 × 18 = 108. Le suivant est 18 × 108 = 1 944.",
+     "ed": [
+      "216 double 108 : la règle × 2 ne marche pas sur 2, 3, 6.",
+      "324 multiplie 108 par 3, règle qui ne marche pas sur les premiers termes.",
+      "540 multiplie 108 par 5, sans rapport avec la règle de la suite.",
+      null
+     ],
+     "calc": "18*108"
+    },
+    {
+     "id": "n20261113-lo10-14",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 2, 3, 7, 14, 24, … ?",
+     "o": [
+      "34",
+      "37",
+      "36",
+      "38"
+     ],
+     "a": 1,
+     "e": "Les écarts valent 1, 4, 7, 10 : ils augmentent de 3 (second ordre constant). L'écart suivant est 13, donc le terme suivant est 24 + 13 = 37.",
+     "ed": [
+      "34 reprend l'écart de 10 sans l'augmenter.",
+      null,
+      "36 utilise un écart de 12, comme si les écarts augmentaient de 2.",
+      "38 utilise un écart de 14, qui ne suit pas la progression de 3 en 3."
+     ],
+     "calc": "24+13"
+    },
+    {
+     "id": "n20261113-lo10-15",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel est le 8e terme de la suite 12, 2, 15, 4, 18, 8, 21, … ?",
+     "o": [
+      "24",
+      "10",
+      "16",
+      "12"
+     ],
+     "a": 2,
+     "e": "Suite croisée : rangs impairs 12, 15, 18, 21 (+ 3), rangs pairs 2, 4, 8 (× 2). Le 8e terme est de rang pair : 8 × 2 = 16.",
+     "ed": [
+      "24 serait le 9e terme (21 + 3), de rang impair.",
+      "10 suppose que les rangs pairs augmentent de 2, mais 2, 4, 8 doublent.",
+      null,
+      "12 suppose un écart de 4 sur les rangs pairs, ce que contredisent 2, 4, 8."
+     ],
+     "calc": "8*2"
+    },
+    {
+     "id": "n20261113-lo10-16",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 1, 2, 5, 14, 41, … ?",
+     "o": [
+      "68",
+      "82",
+      "122",
+      "123"
+     ],
+     "a": 2,
+     "e": "Chaque terme vaut le triple du précédent moins 1 : 1 × 3 − 1 = 2, 2 × 3 − 1 = 5, 5 × 3 − 1 = 14, 14 × 3 − 1 = 41. Le suivant est 41 × 3 − 1 = 122.",
+     "ed": [
+      "68 ajoute 27, l'écart précédent, alors que les écarts triplent (1, 3, 9, 27, puis 81).",
+      "82 double 41 : la règle × 2 ne marche pas sur 2 et 5.",
+      null,
+      "123 triple 41 sans retirer 1."
+     ],
+     "calc": "41*3-1"
+    },
+    {
+     "id": "n20261113-lo10-17",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 6, 12, 20, 30, 42, … ?",
+     "o": [
+      "56",
+      "54",
+      "58",
+      "49"
+     ],
+     "a": 0,
+     "e": "Chaque terme est le produit de deux entiers consécutifs : 2 × 3, 3 × 4, 4 × 5, 5 × 6, 6 × 7. Le suivant est 7 × 8 = 56 ; les écarts 6, 8, 10, 12 donnent bien 14.",
+     "ed": [
+      null,
+      "54 reprend l'écart de 12 au lieu de 14.",
+      "58 utilise un écart de 16, qui saute une étape.",
+      "49 est 7², pas le produit 7 × 8."
+     ],
+     "calc": "7*8"
+    },
+    {
+     "id": "n20261113-lo10-18",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Dans la suite 4, 11, 18, 25, …, quel est le 30e terme ?",
+     "o": [
+      "207",
+      "214",
+      "210",
+      "200"
+     ],
+     "a": 0,
+     "e": "La raison est 7. Le 30e terme vaut premier terme + (30 − 1) × raison = 4 + 29 × 7 = 4 + 203 = 207.",
+     "ed": [
+      null,
+      "214 multiplie la raison par 30 au lieu de 29 : c'est le 31e terme.",
+      "210 vaut 30 × 7 : on oublie le premier terme 4 et l'on compte un écart de trop.",
+      "200 ne correspond à aucun calcul cohérent avec la raison 7."
+     ],
+     "calc": "4+29*7"
+    },
+    {
+     "id": "n20261113-lo10-19",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Dans la série 1, 4, 9, 15, 25, 36, un nombre ne respecte pas la règle. Lequel ?",
+     "o": [
+      "4",
+      "15",
+      "25",
+      "36"
+     ],
+     "a": 1,
+     "e": "La série est celle des carrés 1, 4, 9, 16, 25, 36 : 15 remplace 16, il ne respecte pas la règle. Les écarts confirment : 3, 5, puis 6 et 10 au lieu de 7 et 9.",
+     "ed": [
+      "4 est bien 2², à sa place dans la série des carrés.",
+      null,
+      "25 est bien 5², à sa place.",
+      "36 est bien 6², à sa place."
+     ],
+     "calc": "16-1"
+    },
+    {
+     "id": "n20261113-lo10-20",
+     "m": "log",
+     "tag": "niv-lo10",
+     "verif": "calcul",
+     "q": "Quel nombre suit : 1, 2, 4, 8, 15, 26, … ?",
+     "o": [
+      "37",
+      "52",
+      "42",
+      "41"
+     ],
+     "a": 2,
+     "e": "Écarts : 1, 2, 4, 7, 11 ; écarts des écarts : 1, 2, 3, 4. Le prochain écart de second ordre est 5, donc l'écart suivant vaut 11 + 5 = 16 et le terme suivant 26 + 16 = 42.",
+     "ed": [
+      "37 reprend l'écart de 11 sans le faire progresser.",
+      "52 double 26, comme si la suite doublait ; la règle du doublement s'arrête dès 8 → 15.",
+      null,
+      "41 utilise un écart de 15, qui suppose un second ordre de 4 au lieu de 5."
+     ],
+     "calc": "26+16"
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261113fr10",
+     "niv": "fr10",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Numéraux, tout, même, quelque, demi",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez écrire sans faute les nombres en lettres : quand « vingt » et « cent » prennent un « s », pourquoi « mille » ne change jamais, où placer les traits d'union.",
+      "= Vous saurez aussi accorder ou laisser invariables « tout », « même », « quelque » et « demi », en reconnaissant leur nature dans la phrase.",
+      "## Ce que demande l'épreuve",
+      "Ces mots reviennent dans les QCM d'orthographe et de grammaire de la présélection, sous forme de phrases à compléter (« Le budget atteint deux ___ mille francs ») ou de repérage de l'unique forme fautive. Le piège est toujours le même : ces mots changent de nature selon leur place. « Tout » peut être adjectif, pronom ou adverbe ; « quelque » peut être adjectif ou adverbe ; « même » peut être adjectif ou adverbe. Or l'accord dépend de la nature. Une réponse au hasard coûte un point : il faut une méthode.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez le mot qui suit : un nom, un adjectif, un nombre, un verbe ? C'est lui qui révèle la nature du mot à accorder.",
+      "- 2. Pour un nombre écrit en lettres, demandez-vous : « vingt » ou « cent » est-il multiplié (deux cents, quatre-vingts) et termine-t-il le nombre ? Est-il suivi de « mille » (adjectif) ou de « million » (nom) ?",
+      "- 3. Pour « tout » devant un adjectif, remplacez-le par « entièrement » : si le sens tient, c'est un adverbe, invariable sauf devant un adjectif féminin commençant par une consonne ou un h aspiré.",
+      "- 4. Pour « quelque », remplacez-le par « environ » devant un nombre (adverbe, invariable) ou par « plusieurs » devant un nom (adjectif, variable). Devant le verbe « être » au subjonctif, écrivez « quel que » en deux mots et accordez « quel ».",
+      "- 5. Pour « même », remplacez-le par « aussi » ou « jusqu'à » : si le sens tient, c'est un adverbe, invariable.",
+      "! Piège habituel : accorder par réflexe avec le nom le plus proche, sans avoir identifié la nature du mot."
+     ],
+     "fond": [
+      "## Notion 1 : « vingt » et « cent », deux numéraux qui peuvent prendre un « s »",
+      "Règle : les adjectifs numéraux cardinaux (ceux qui indiquent une quantité) sont invariables. Deux exceptions : « vingt » et « cent » prennent un « s » quand ils sont multipliés par un autre nombre et qu'ils terminent le nombre. On écrit quatre-vingts dossiers, trois cents agents.",
+      "Ils restent invariables dès qu'un autre numéral les suit : quatre-vingt-cinq dossiers, trois cent dix agents. Ils restent aussi invariables quand ils ne sont pas multipliés : cent élèves, vingt candidats.",
+      "Pourquoi ? Dans « trois cents », le mot « cent » est compté trois fois, comme un nom que l'on met au pluriel. Quand un autre nombre s'ajoute derrière, l'usage a fixé la forme invariable.",
+      "~ Exemple résolu : « La coopérative de Daloa a livré six ___ sacs. » « Cent » est multiplié par six et rien ne le suit : six cents sacs. Avec un nombre derrière, on écrirait six cent quarante sacs.",
+      "! Piège : « mille » est un adjectif numéral, alors que « millier », « million » et « milliard » sont des noms. Devant « mille », vingt et cent restent invariables : deux cent mille francs. Devant « millions », ils gardent leur « s » : deux cents millions de francs.",
+      "! Autre piège : employés pour indiquer un rang (le sens d'un ordinal comme « deuxième »), vingt et cent restent invariables : la page quatre-vingt, l'article trois cent, l'an huit cent.",
+      "? Complétez : « Le district a recruté quatre-vingt___ volontaires, puis quatre-vingt___-douze autres ; le marché porte sur trois cent___ millions de francs. » || Quatre-vingts volontaires : vingt est multiplié par quatre et termine le nombre, il prend un « s ». Quatre-vingt-douze : un numéral suit, vingt reste invariable. Trois cents millions : « million » est un nom, il ne compte pas comme un numéral qui suit, donc cent garde son « s ».",
+      "## Notion 2 : « mille » et les traits d'union",
+      "Règle : « mille » est toujours invariable : dix mille habitants, deux mille vingt-six. Dans les dates, on peut aussi écrire « mil » : l'an mil neuf cent soixante.",
+      "En revanche, « millier », « million » et « milliard » sont des noms : ils prennent un « s » au pluriel, comme tout nom (trois millions, des milliers).",
+      "Traits d'union, orthographe traditionnelle : on en met entre les éléments inférieurs à cent, sauf s'ils sont reliés par « et » : dix-huit, soixante-quatorze, mais vingt et un. Il n'y en a ni avant ni après « cent » et « mille » : deux cent trente.",
+      "Les rectifications de l'orthographe de 1990 permettent de relier tous les éléments par des traits d'union : deux-cent-trente, vingt-et-un. Les deux graphies sont admises : soyez simplement cohérent dans une même copie.",
+      "~ Exemple résolu : écrire 1 280 en lettres. Orthographe traditionnelle : mille deux cent quatre-vingts. « Mille » ne varie pas, « cent » est suivi d'un autre nombre (invariable), « vingt » est multiplié par quatre et termine le nombre (il prend un « s »).",
+      "## Notion 3 : « tout », adjectif, pronom ou adverbe",
+      "Adjectif : devant un déterminant et un nom, « tout » s'accorde : toute la région, tous les agents, toutes les sous-préfectures.",
+      "Pronom : employé seul, il représente des personnes ou des choses et s'accorde : « Les candidats sont tous arrivés. » Au masculin pluriel, on prononce alors le « s ».",
+      "Adverbe : devant un adjectif ou un adverbe, « tout » signifie « entièrement, tout à fait ». Il est en principe invariable : « Ils sont tout surpris », « Elle est tout étonnée ».",
+      "Exception, à connaître par cœur : devant un adjectif féminin qui commence par une consonne ou par un h aspiré, l'adverbe « tout » s'accorde, pour l'oreille : « Elle est toute surprise », « Elles sont toutes hardies ». Devant une voyelle ou un h muet, il ne change pas : « Elle est tout heureuse. »",
+      "Pourquoi ? L'accord permet de faire entendre la consonne finale avant une consonne ; devant une voyelle, la liaison suffit déjà à la prononciation.",
+      "! Piège : le h aspiré se reconnaît à l'absence d'élision : on dit « la honte », « la hardiesse », et non « l'honte ». Donc : toute honteuse. On dit « l'heure », « l'humeur » : h muet, donc tout heureuse.",
+      "! Nuance : « une tout autre affaire » (adverbe = complètement différente) s'oppose à « toute autre solution » (adjectif = n'importe quelle autre solution).",
+      "? Complétez : « La directrice régionale est ___ fière du résultat ; sa collègue est ___ émue ; leurs équipes sont ___ satisfaites. » || Toute fière : adverbe devant un adjectif féminin commençant par une consonne, il s'accorde. Tout émue : devant une voyelle, il reste invariable. Toutes satisfaites : adverbe devant un adjectif féminin pluriel commençant par une consonne, il s'accorde en genre et en nombre.",
+      "## Notion 4 : « quelque » et « quel que »",
+      "Adjectif : devant un nom, « quelque » signifie « un certain nombre de, plusieurs » et s'accorde : quelques semaines, quelques communes.",
+      "Adverbe : devant un nombre, il signifie « environ » et reste invariable : « La caravane a parcouru quelque six cents kilomètres. » Devant un adjectif suivi de « que », il signifie « si » et reste invariable : « Quelque prudents qu'ils soient, ils commettront des erreurs. »",
+      "« Quel que », en deux mots, se place devant un verbe au subjonctif, le plus souvent « être » : « quel » est alors un adjectif attribut qui s'accorde avec le sujet placé après le verbe. Quel que soit le tarif, quelle que soit la date, quels que soient les retards, quelles que soient les contraintes.",
+      "Pourquoi ? « Quel que soit le tarif » signifie « le tarif, qu'il soit tel ou tel » : « quel » qualifie le sujet, il prend donc son genre et son nombre.",
+      "~ Exemple résolu : « ___ soient les intempéries, la campagne de vaccination continuera. » Le verbe être suit : on écrit « quel que » en deux mots. Le sujet « les intempéries » est féminin pluriel : quelles que soient les intempéries.",
+      "? Écrivez correctement : « (quelque) raisons que vous donniez » ; « (quelque) deux mille candidats » ; « (quel que) soit l'enjeu ». || Quelques raisons : devant un nom, adjectif variable (= plusieurs raisons). Quelque deux mille candidats : devant un nombre, adverbe invariable (= environ). Quel que soit l'enjeu : devant le verbe être, en deux mots, accordé avec le sujet masculin singulier « l'enjeu ».",
+      "## Notion 5 : « même » et le rappel sur « demi »",
+      "Adjectif : « même » s'accorde quand il signifie « identique » (placé devant le nom : les mêmes erreurs) ou quand il insiste sur un nom ou un pronom (placé après : eux-mêmes, nous-mêmes). Avec un pronom personnel, il se lie par un trait d'union : elles-mêmes.",
+      "Adverbe : « même » est invariable quand il signifie « aussi, jusqu'à, de plus ». Il se place alors devant le déterminant ou porte sur un verbe : « Même les retraités ont voté », « Ils ont même proposé leur aide ».",
+      "~ Exemple résolu : « Les préfets ___ ont salué l'initiative. » Si l'on veut dire « les préfets eux-mêmes », c'est un adjectif : les préfets mêmes. « Même les préfets ont salué l'initiative » (jusqu'aux préfets) : adverbe placé devant le déterminant, invariable.",
+      "! Politesse : on écrit « vous-même » quand « vous » désigne une seule personne, « vous-mêmes » quand il en désigne plusieurs.",
+      "« Demi » : placé devant le nom, il est invariable et suivi d'un trait d'union (une demi-journée). Placé après le nom, il s'accorde en genre seulement (deux litres et demi, une semaine et demie). Dans la locution « à demi », il est invariable : une fenêtre à demi fermée."
+     ],
+     "retenir": [
+      "Vingt et cent prennent un « s » quand ils sont multipliés et terminent le nombre : quatre-vingts, trois cents, mais quatre-vingt-deux, trois cent cinq.",
+      "Devant « mille », vingt et cent restent invariables (deux cent mille) ; devant « million », qui est un nom, ils gardent le « s ».",
+      "« Mille » est toujours invariable ; « millier », « million » et « milliard » sont des noms qui prennent un « s » au pluriel.",
+      "« Tout » adverbe (= entièrement) est invariable, sauf devant un adjectif féminin commençant par une consonne ou un h aspiré : toute honteuse, mais tout heureuse.",
+      "« Quelque » devant un nombre signifie « environ » et reste invariable ; devant un nom, il signifie « plusieurs » et s'accorde.",
+      "Devant le verbe être au subjonctif, on écrit « quel que » en deux mots et « quel » s'accorde avec le sujet : quelles que soient les difficultés.",
+      "« Même » s'accorde quand il signifie « identique » ou suit un pronom (eux-mêmes) ; il est invariable quand il signifie « aussi, jusqu'à ».",
+      "« Demi » est invariable devant le nom (une demi-heure) et s'accorde en genre seulement après le nom (une heure et demie)."
+     ],
+     "exo": {
+      "tag": "niv-fr10",
+      "n": 10
+     }
+    },
+    {
+     "id": "L20261113lo10",
+     "niv": "lo10",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Suites numériques avancées",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez démêler une suite croisée, reconnaître une suite de carrés ou de cubes même déguisée, et trouver le terme suivant grâce aux différences de second ordre.",
+      "= Vous saurez aussi calculer directement un terme lointain d'une suite arithmétique et vérifier votre règle avant de cocher.",
+      "## Ce que demande l'épreuve",
+      "Les suites figurent parmi les aptitudes numériques de la présélection, notées +2 / 0 / −2. Les suites simples (écart constant, multiplication constante) ont été vues plus tôt dans le parcours ; les sujets plus sélectifs proposent des suites où la règle est cachée : deux suites mêlées, des carrés auxquels on a ajouté 1, des écarts qui augmentent eux-mêmes régulièrement. Le piège consiste à trouver une règle qui marche sur les deux premiers termes seulement. Une erreur coûte deux points : il vaut mieux vérifier sa règle que gagner trente secondes.",
+      "## La méthode, pas à pas",
+      "- 1. Écrivez sous la suite les écarts entre termes consécutifs (premier ordre).",
+      "- 2. Si ces écarts ne sont pas constants, écrivez les écarts des écarts (second ordre) : s'ils sont constants ou forment une suite simple, prolongez-les puis remontez.",
+      "- 3. Si les écarts changent de signe ou sautent sans logique, séparez les termes de rang impair et de rang pair : c'est peut-être une suite croisée.",
+      "- 4. Si les termes sont proches de 1, 4, 9, 16, 25… ou de 1, 8, 27, 64…, comparez-les aux carrés ou aux cubes (n², n² + 1, n³ − 1…).",
+      "- 5. Si les termes grandissent très vite, testez les rapports ou une alternance d'opérations (× 2 puis + 3).",
+      "- 6. Vérifiez la règle sur tous les termes donnés, puis calculez le terme demandé et contrôlez qu'il figure parmi les propositions.",
+      "! Piège habituel : oublier de quel rang est le terme demandé dans une suite croisée (rang impair ou rang pair)."
+     ],
+     "fond": [
+      "## Notion 1 : les suites croisées",
+      "Définition : une suite croisée (ou alternée) mélange deux suites indépendantes. Les termes de rang impair (1er, 3e, 5e…) obéissent à une règle, ceux de rang pair (2e, 4e, 6e…) à une autre.",
+      "Pourquoi ce piège ? Les écarts consécutifs paraissent chaotiques, ce qui décourage le candidat qui ne pense qu'aux écarts. Séparer les deux fils rend chaque suite très simple.",
+      "~ Exemple résolu : 2, 10, 4, 20, 6, 30, … Écarts : +8, −6, +16, −14, +24 : aucune logique. Rangs impairs : 2, 4, 6 (+2). Rangs pairs : 10, 20, 30 (+10). Le terme demandé est le 7e, de rang impair : 6 + 2 = 8.",
+      "! Piège : comptez le rang du terme demandé. Ici, le 8e terme appartiendrait à l'autre suite et vaudrait 40.",
+      "? Trouvez les deux termes suivants : 1, 50, 3, 45, 5, 40, … || Rangs impairs : 1, 3, 5 (+2), donc le 7e terme vaut 7. Rangs pairs : 50, 45, 40 (−5), donc le 8e terme vaut 35. Les deux termes suivants sont 7 et 35.",
+      "## Notion 2 : les carrés et les cubes, simples ou déguisés",
+      "Il faut connaître par cœur les carrés de 1 à 15 (1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225) et les cubes de 1 à 6 (1, 8, 27, 64, 125, 216).",
+      "Pourquoi ? Les concepteurs de sujets déguisent ces suites en ajoutant ou en retirant un nombre fixe : n² + 1 donne 2, 5, 10, 17… ; n³ − 1 donne 0, 7, 26, 63…",
+      "~ Exemple résolu : 0, 3, 8, 15, 24, … Chaque terme est inférieur de 1 à un carré : 1 − 1, 4 − 1, 9 − 1, 16 − 1, 25 − 1. Le terme suivant est 36 − 1 = 35. Vérification par les écarts : 3, 5, 7, 9, puis 11 ; 24 + 11 = 35.",
+      "? Trouvez le terme suivant : 2, 9, 28, 65, … || Les termes valent un de plus que les cubes : 1 + 1, 8 + 1, 27 + 1, 64 + 1. Le terme suivant est 5³ + 1 = 125 + 1 = 126.",
+      "## Notion 3 : les différences de second ordre",
+      "Règle : quand les écarts consécutifs ne sont pas constants, on calcule les écarts de ces écarts. Si ce second niveau est constant ou suit une règle simple, on le prolonge, puis on remonte jusqu'à la suite de départ.",
+      "Pourquoi ça marche ? Une suite dont les écarts augmentent régulièrement est une suite « qui accélère » : c'est ce que produisent les carrés (écarts 3, 5, 7…) et de nombreux problèmes concrets.",
+      "~ Exemple résolu : 4, 6, 11, 19, 30, … Premier ordre : +2, +5, +8, +11. Second ordre : +3, +3, +3. L'écart suivant est 11 + 3 = 14, donc le terme suivant est 30 + 14 = 44.",
+      "? Trouvez le terme suivant : 1, 3, 7, 13, 21, … || Écarts : 2, 4, 6, 8 ; ils augmentent de 2. L'écart suivant est 10, donc le terme suivant est 21 + 10 = 31.",
+      "? Trouvez le terme suivant : 1, 2, 6, 15, 31, … || Écarts : 1, 4, 9, 16, qui sont les carrés de 1, 2, 3, 4. L'écart suivant est 5² = 25, donc le terme suivant est 31 + 25 = 56.",
+      "## Notion 4 : les suites à opérations alternées ou croissantes",
+      "Certaines suites appliquent tour à tour deux opérations (× 2 puis + 3), ou multiplient par un nombre qui augmente (× 1, × 2, × 3…).",
+      "~ Exemple résolu : 3, 6, 9, 18, 21, 42, … On passe de 3 à 6 (× 2), de 6 à 9 (+ 3), de 9 à 18 (× 2), de 18 à 21 (+ 3), de 21 à 42 (× 2). L'opération suivante est + 3 : 42 + 3 = 45.",
+      "~ Exemple résolu : 2, 2, 4, 12, 48, … Rapports : × 1, × 2, × 3, × 4. Le suivant est × 5 : 48 × 5 = 240.",
+      "! Piège : une suite qui grandit très vite trahit souvent une multiplication. Ne perdez pas de temps sur les écarts.",
+      "## Notion 5 : calculer directement un terme lointain",
+      "Dans une suite arithmétique de premier terme u₁ et d'écart r (la raison), le terme de rang n vaut u₁ + (n − 1) × r. On ne compte que (n − 1) écarts, car le premier terme n'en demande aucun.",
+      "~ Exemple résolu : quel est le 20e terme de 7, 12, 17, 22, … ? La raison vaut 5. 20e terme = 7 + 19 × 5 = 7 + 95 = 102.",
+      "! Erreur fréquente : multiplier par n au lieu de n − 1 ; on trouverait ici 107, un terme trop loin."
+     ],
+     "retenir": [
+      "Dans une suite croisée, les termes de rang impair et ceux de rang pair suivent deux règles indépendantes : séparez-les avant de calculer.",
+      "Avant de répondre sur une suite croisée, vérifiez si le terme demandé est de rang impair ou de rang pair.",
+      "Sachez par cœur les carrés de 1 à 15 et les cubes de 1 à 6 : beaucoup de suites en dérivent, plus ou moins un nombre fixe.",
+      "Les écarts entre carrés consécutifs sont les nombres impairs 3, 5, 7, 9… : une suite d'écarts impairs signale souvent des carrés.",
+      "Si les écarts ne sont pas constants, calculez les écarts des écarts (second ordre), prolongez-les, puis remontez jusqu'au terme demandé.",
+      "Une suite qui grandit très vite cache souvent une multiplication : testez les rapports ou l'alternance de deux opérations.",
+      "Dans une suite arithmétique, le terme de rang n vaut premier terme + (n − 1) × raison."
+     ],
+     "exo": {
+      "tag": "niv-lo10",
+      "n": 10
+     }
+    }
+   ],
+   "sujets": []
   }
  ]
 }
