@@ -18658,6 +18658,517 @@
       "41 utilise un écart de 15, qui suppose un second ordre de 4 au lieu de 5."
      ],
      "calc": "26+16"
+    },
+    {
+     "id": "c20261113-fr08-01",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Les agents se sont ___ compte de l'erreur de saisie. » (rendre)",
+     "o": [
+      "rendus",
+      "rendu",
+      "rendues",
+      "rendue"
+     ],
+     "a": 1,
+     "e": "Dans « se rendre compte », le complément d'objet direct est « compte », placé après le participe : le participe « rendu » reste donc invariable.",
+     "ed": [
+      "Le participe ne s'accorde pas avec le sujet : le COD « compte » est placé après le verbe.",
+      null,
+      "Le féminin pluriel est doublement faux : le sujet est masculin et, surtout, aucun COD n'est placé avant.",
+      "Le féminin singulier ne correspond à rien : ni le sujet ni le COD « compte » n'imposent cet accord."
+     ]
+    },
+    {
+     "id": "c20261113-fr08-02",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Les deux ministres se sont ___ longuement au téléphone. » (parler)",
+     "o": [
+      "parlés",
+      "parlées",
+      "parlé",
+      "parlée"
+     ],
+     "a": 2,
+     "e": "On parle à quelqu'un : le pronom « se » est complément d'objet indirect et il n'y a pas de COD. Le participe « parlé » reste invariable.",
+     "ed": [
+      "« Se » est COI (parler à l'autre) : il ne peut pas commander l'accord.",
+      "Même faute, aggravée par un féminin que rien ne justifie.",
+      null,
+      "Aucun COD placé avant : le participe reste invariable."
+     ]
+    },
+    {
+     "id": "c20261113-fr08-03",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Ces terrains se sont ___ en moins d'une semaine. » (vendre)",
+     "o": [
+      "vendu",
+      "vendue",
+      "vendues",
+      "vendus"
+     ],
+     "a": 3,
+     "e": "« Se vendre » a ici un sens passif (les terrains ont été vendus) : le participe s'accorde avec le sujet « terrains », masculin pluriel, d'où « vendus ».",
+     "ed": [
+      "Au sens passif, le participe s'accorde avec le sujet pluriel : il manque le -s.",
+      "« Terrains » est masculin pluriel : le féminin singulier est faux.",
+      "« Terrains » est masculin : le -es du féminin est faux.",
+      null
+     ]
+    },
+    {
+     "id": "c20261113-fr08-04",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « La directrice s'est ___ opérer dans une clinique d'Abidjan. » (faire)",
+     "o": [
+      "fait",
+      "faite",
+      "faits",
+      "faites"
+     ],
+     "a": 0,
+     "e": "Le participe passé de « faire » suivi d'un infinitif est toujours invariable, y compris à la forme pronominale : « elle s'est fait opérer ».",
+     "ed": [
+      null,
+      "« Fait » suivi d'un infinitif ne s'accorde jamais, même avec un sujet féminin.",
+      "Le pluriel ne se justifie ni par le sujet (singulier) ni par la règle de « fait » + infinitif.",
+      "Ni pluriel ni féminin : « fait » suivi d'un infinitif est invariable."
+     ]
+    },
+    {
+     "id": "c20261113-fr08-05",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Les rebelles se sont ___ de la ville en une nuit. » (emparer)",
+     "o": [
+      "emparé",
+      "emparés",
+      "emparées",
+      "emparée"
+     ],
+     "a": 1,
+     "e": "« S'emparer » est essentiellement pronominal (« emparer » seul n'existe pas) : le participe s'accorde avec le sujet « rebelles », masculin pluriel.",
+     "ed": [
+      "Un verbe essentiellement pronominal s'accorde avec son sujet : il manque la marque du pluriel.",
+      null,
+      "« Rebelles » est ici repris au masculin pluriel : l'accord au féminin est faux.",
+      "Le sujet est pluriel : le singulier féminin est doublement faux."
+     ]
+    },
+    {
+     "id": "c20261113-fr08-06",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Ces deux associations se sont ___ pendant des années. » (nuire)",
+     "o": [
+      "nuies",
+      "nuie",
+      "nuis",
+      "nui"
+     ],
+     "a": 3,
+     "e": "On nuit à quelqu'un : « se » est COI. Le participe de « nuire » (nui) n'a jamais de COD et reste invariable, comme ceux de plaire, sourire ou succéder.",
+     "ed": [
+      "« Nui » est invariable : « se » est complément indirect (nuire à).",
+      "Aucun COD ne précède le verbe : l'accord au féminin singulier est impossible.",
+      "Le participe de nuire s'écrit « nui » et ne prend pas de -s ici.",
+      null
+     ]
+    },
+    {
+     "id": "c20261113-fr08-07",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Complétez : « Les libertés qu'elles se sont ___ ont choqué le conseil. » (permettre)",
+     "o": [
+      "permis",
+      "permises",
+      "permise",
+      "permisses"
+     ],
+     "a": 1,
+     "e": "On permet quelque chose à soi-même : « se » est COI et le COD est « que », mis pour « libertés » (féminin pluriel), placé avant le participe. D'où « permises ».",
+     "ed": [
+      "Le COD « que » (les libertés) est placé avant : le participe doit s'accorder au féminin pluriel.",
+      null,
+      "« Libertés » est au pluriel : il manque le -s.",
+      "« Permisses » n'est pas un participe passé : c'est une forme du subjonctif imparfait de permettre."
+     ]
+    },
+    {
+     "id": "c20261113-fr08-08",
+     "m": "fr",
+     "tag": "niv-fr08",
+     "verif": "regle",
+     "q": "Participe passé des verbes pronominaux : laquelle de ces phrases contient une faute d'accord ?",
+     "o": [
+      "Elles se sont souri en se croisant.",
+      "Ils se sont lavé les pieds avant la prière.",
+      "Les présidentes se sont succédées au micro.",
+      "Elles se sont évanouies de fatigue."
+     ],
+     "a": 2,
+     "e": "On succède à quelqu'un : « se » est COI et il n'y a pas de COD. Il faut écrire « se sont succédé », participe invariable.",
+     "ed": [
+      "Correct : on sourit à quelqu'un, « se » est COI, donc « souri » reste invariable.",
+      "Correct : le COD « les pieds » est placé après le participe, qui reste invariable.",
+      null,
+      "Correct : « s'évanouir » est essentiellement pronominal, le participe s'accorde avec « elles »."
+     ]
+    },
+    {
+     "id": "c20261113-an05-01",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "What is the past perfect of \"she writes\"?",
+     "o": [
+      "she has written",
+      "she had wrote",
+      "she had written",
+      "she was writing"
+     ],
+     "a": 2,
+     "e": "Le past perfect se forme avec had + participe passé. Le participe passé irrégulier de write est written : « she had written ».",
+     "ed": [
+      "« Has written » est un present perfect, pas un past perfect.",
+      "« Wrote » est le prétérit ; après had, il faut le participe passé written.",
+      null,
+      "« Was writing » est un past continuous."
+     ]
+    },
+    {
+     "id": "c20261113-an05-02",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"After the committee ___ the files, it published the results.\"",
+     "o": [
+      "had examined",
+      "has examined",
+      "examines",
+      "was examine"
+     ],
+     "a": 0,
+     "e": "L'examen des dossiers précède la publication, qui est au passé : l'action antérieure se met au past perfect (had examined).",
+     "ed": [
+      null,
+      "Le present perfect ne s'emploie pas dans un récit situé dans le passé, à côté de « published ».",
+      "Le présent simple ne convient pas à une action passée antérieure à une autre.",
+      "« Was examine » est agrammatical : be + base verbale n'existe pas."
+     ]
+    },
+    {
+     "id": "c20261113-an05-03",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"If it ___ tomorrow, the ceremony will be held indoors.\"",
+     "o": [
+      "will rain",
+      "rains",
+      "would rain",
+      "rained"
+     ],
+     "a": 1,
+     "e": "Dans une subordonnée de condition introduite par if, on emploie le présent pour exprimer le futur : « If it rains tomorrow, … will … » (premier conditionnel).",
+     "ed": [
+      "On ne met pas will après if dans ce type de condition : le présent suffit à exprimer le futur.",
+      null,
+      "« Would » appartient à la principale du deuxième conditionnel, pas à la subordonnée.",
+      "« Rained » appellerait « would be held » (deuxième conditionnel), pas « will be held »."
+     ]
+    },
+    {
+     "id": "c20261113-an05-04",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Which sentence is correct?",
+     "o": [
+      "I will to visit my aunt next Sunday.",
+      "I going to visit my aunt next Sunday.",
+      "I am go to visit my aunt next Sunday.",
+      "I am going to visit my aunt next Sunday."
+     ],
+     "a": 3,
+     "e": "L'intention s'exprime avec be going to + base verbale : « I am going to visit ». Le verbe be est obligatoire, conjugué avec le sujet.",
+     "ed": [
+      "Will se construit sans to : « I will visit ».",
+      "L'auxiliaire be manque : il faut « I am going to ».",
+      "Il faut la forme en -ing : « going », pas « go ».",
+      null
+     ]
+    },
+    {
+     "id": "c20261113-an05-05",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"When the inspector arrived, the staff had already ___ the office.\"",
+     "o": [
+      "leave",
+      "left",
+      "leaved",
+      "leaving"
+     ],
+     "a": 1,
+     "e": "Après had, on emploie le participe passé. Leave est irrégulier : leave, left, left. D'où « had already left ».",
+     "ed": [
+      "« Leave » est la base verbale ; après had, il faut le participe passé.",
+      null,
+      "« Leaved » n'existe pas : leave est un verbe irrégulier.",
+      "La forme en -ing ne suit pas directement had."
+     ]
+    },
+    {
+     "id": "c20261113-an05-06",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "What is the negative form of \"They had signed the contract\"?",
+     "o": [
+      "They didn't had signed the contract.",
+      "They hadn't sign the contract.",
+      "They had not signed the contract.",
+      "They didn't signed the contract."
+     ],
+     "a": 2,
+     "e": "Au past perfect, la négation se place après l'auxiliaire had : had not (hadn't) + participe passé. On n'ajoute pas did.",
+     "ed": [
+      "On n'ajoute pas did : had est déjà l'auxiliaire.",
+      "Le participe passé est obligatoire : signed, pas sign.",
+      null,
+      "Après didn't, on met la base verbale ; et le sens au past perfect est perdu."
+     ]
+    },
+    {
+     "id": "c20261113-an05-07",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Choose the correct form: \"Hurry up! The ceremony ___ start.\"",
+     "o": [
+      "is about to",
+      "is about",
+      "about to",
+      "is about starting"
+     ],
+     "a": 0,
+     "e": "Be about to + base verbale exprime un futur immédiat (« être sur le point de ») : « The ceremony is about to start ».",
+     "ed": [
+      null,
+      "Il manque to : la structure est be about to + verbe.",
+      "Le verbe be manque : « is about to ».",
+      "« About » ne se construit pas avec -ing dans ce sens : il faut about to start."
+     ]
+    },
+    {
+     "id": "c20261113-an05-08",
+     "m": "ang",
+     "tag": "niv-an05",
+     "verif": "regle",
+     "q": "Which is the correct translation of « Quand je suis arrivé, il était déjà parti » ?",
+     "o": [
+      "When I arrived, he has already left.",
+      "When I had arrived, he already left.",
+      "When I arrived, he was already leave.",
+      "When I arrived, he had already left."
+     ],
+     "a": 3,
+     "e": "Le départ est antérieur à l'arrivée, elle-même au passé : arrivée au prétérit (arrived), départ au past perfect (had already left).",
+     "ed": [
+      "Le present perfect ne s'accorde pas avec un récit au passé.",
+      "L'antériorité est inversée : c'est le départ, pas l'arrivée, qui est au past perfect.",
+      "« Was leave » est agrammatical.",
+      null
+     ]
+    },
+    {
+     "id": "c20261113-lo05-01",
+     "m": "log",
+     "tag": "niv-lo05",
+     "verif": "calcul",
+     "q": "Un carton de 12 cahiers coûte 4 200 F. Combien coûtent 30 cahiers au même prix unitaire ?",
+     "o": [
+      "9 000 F",
+      "12 600 F",
+      "10 500 F",
+      "11 000 F"
+     ],
+     "a": 2,
+     "e": "Prix d'un cahier : 4 200 ÷ 12 = 350 F. Pour 30 cahiers : 350 × 30 = 10 500 F. Vérification : 30 cahiers, c'est 2,5 cartons, et 4 200 × 2,5 = 10 500 F.",
+     "ed": [
+      "9 000 F correspond à 300 F le cahier, alors qu'il vaut 4 200 ÷ 12 = 350 F.",
+      "12 600 F correspond à 420 F le cahier : erreur de division.",
+      null,
+      "11 000 F ne résulte d'aucun calcul proportionnel : 350 × 30 = 10 500 F."
+     ],
+     "calc": "4200/12*30"
+    },
+    {
+     "id": "c20261113-lo05-02",
+     "m": "log",
+     "tag": "niv-lo05",
+     "verif": "calcul",
+     "q": "Sur une carte au 1/25 000, une route mesure 8 cm. Quelle est sa longueur réelle ?",
+     "o": [
+      "20 km",
+      "2 km",
+      "200 m",
+      "0,2 km"
+     ],
+     "a": 1,
+     "e": "1 cm sur la carte représente 25 000 cm. 8 × 25 000 = 200 000 cm. Or 1 km = 100 000 cm : la route mesure 2 km.",
+     "ed": [
+      "Erreur de conversion d'un facteur 10 : 200 000 cm = 2 km.",
+      null,
+      "200 m = 20 000 cm : il manque un zéro.",
+      "0,2 km = 200 m : même erreur de conversion."
+     ],
+     "calc": "8*25000/100000"
+    },
+    {
+     "id": "c20261113-lo05-03",
+     "m": "log",
+     "tag": "niv-lo05",
+     "verif": "calcul",
+     "q": "Deux villes distantes de 45 km sont représentées à 9 cm l'une de l'autre sur une carte. Quelle est l'échelle de la carte ?",
+     "o": [
+      "1/50 000",
+      "1/5 000 000",
+      "1/450 000",
+      "1/500 000"
+     ],
+     "a": 3,
+     "e": "On convertit dans la même unité : 45 km = 4 500 000 cm. Échelle = 9 ÷ 4 500 000 = 1/500 000 (1 cm représente 5 km).",
+     "ed": [
+      "Avec 1/50 000, 9 cm représenteraient seulement 4,5 km.",
+      "Avec 1/5 000 000, 9 cm représenteraient 450 km.",
+      "1/450 000 vient d'une division approximative : 4 500 000 ÷ 9 = 500 000.",
+      null
+     ],
+     "calc": "4500000/9"
+    },
+    {
+     "id": "c20261113-lo05-04",
+     "m": "log",
+     "tag": "niv-lo05",
+     "verif": "calcul",
+     "q": "Avec 8 tracteurs, une coopérative laboure ses champs en 15 jours. Combien de jours faut-il avec 12 tracteurs identiques ?",
+     "o": [
+      "10 jours",
+      "22,5 jours",
+      "12 jours",
+      "9 jours"
+     ],
+     "a": 0,
+     "e": "Plus il y a de tracteurs, moins il faut de jours : proportionnalité inverse. Travail total : 8 × 15 = 120 jours-tracteur ; 120 ÷ 12 = 10 jours.",
+     "ed": [
+      null,
+      "22,5 jours vient d'une règle de trois directe (15 × 12 ÷ 8) : plus de tracteurs ne peut pas allonger le travail.",
+      "12 jours ne correspond à aucun calcul : 120 ÷ 12 = 10.",
+      "9 jours supposerait 120 ÷ 9 ≈ 13,3 tracteurs."
+     ],
+     "calc": "8*15/12"
+    },
+    {
+     "id": "c20261113-lo05-05",
+     "m": "log",
+     "tag": "niv-lo05",
+     "verif": "calcul",
+     "q": "Un rouleau de tissu de 3,5 m coûte 1 400 F. Combien coûtent 5 m du même tissu ?",
+     "o": [
+      "1 900 F",
+      "2 100 F",
+      "2 500 F",
+      "2 000 F"
+     ],
+     "a": 3,
+     "e": "Prix du mètre : 1 400 ÷ 3,5 = 400 F. Pour 5 m : 400 × 5 = 2 000 F. Vérification : 1,5 m de plus coûte 600 F, et 1 400 + 600 = 2 000 F.",
+     "ed": [
+      "1 900 F ajoute 500 F au lieu de 1,5 × 400 = 600 F.",
+      "2 100 F correspond à 420 F le mètre : erreur de division.",
+      "2 500 F correspond à 500 F le mètre, alors qu'il vaut 400 F.",
+      null
+     ],
+     "calc": "1400/3.5*5"
+    },
+    {
+     "id": "c20261113-lo05-06",
+     "m": "log",
+     "tag": "niv-lo05",
+     "verif": "regle",
+     "q": "Dans lequel de ces cas la seconde grandeur est-elle proportionnelle à la première ?",
+     "o": [
+      "La taille d'un enfant en fonction de son âge",
+      "Le prix payé en fonction du nombre de litres d'essence achetés à prix fixe",
+      "La durée d'un trajet fixe en fonction de la vitesse",
+      "L'aire d'un carré en fonction de la longueur de son côté"
+     ],
+     "a": 1,
+     "e": "À prix fixe par litre, doubler la quantité double le prix : prix = prix du litre × nombre de litres. C'est une relation de proportionnalité directe.",
+     "ed": [
+      "La croissance n'est pas régulière : un enfant ne grandit pas d'autant chaque année.",
+      null,
+      "Sur une distance fixe, la durée diminue quand la vitesse augmente : proportionnalité inverse, pas directe.",
+      "Doubler le côté multiplie l'aire par 4 : l'aire n'est pas proportionnelle au côté."
+     ]
+    },
+    {
+     "id": "c20261113-lo05-07",
+     "m": "log",
+     "tag": "niv-lo05",
+     "verif": "calcul",
+     "q": "Un agent saisit 240 pages en 5 jours. Au même rythme, combien de pages saisit-il en 12 jours ?",
+     "o": [
+      "576 pages",
+      "480 pages",
+      "600 pages",
+      "528 pages"
+     ],
+     "a": 0,
+     "e": "Rythme : 240 ÷ 5 = 48 pages par jour. En 12 jours : 48 × 12 = 576 pages. Vérification : 576 ÷ 12 = 48.",
+     "ed": [
+      null,
+      "480 pages correspond à 10 jours seulement (48 × 10).",
+      "600 pages supposerait 50 pages par jour.",
+      "528 pages correspond à 11 jours (48 × 11)."
+     ],
+     "calc": "240/5*12"
+    },
+    {
+     "id": "c20261113-lo05-08",
+     "m": "log",
+     "tag": "niv-lo05",
+     "verif": "calcul",
+     "q": "Sur un plan au 1/250, une salle de réunion mesure 6 cm sur 4 cm. Quelle est sa surface réelle ?",
+     "o": [
+      "24 m²",
+      "60 m²",
+      "150 m²",
+      "1 500 m²"
+     ],
+     "a": 2,
+     "e": "On convertit chaque longueur avant de multiplier : 6 × 250 = 1 500 cm = 15 m et 4 × 250 = 1 000 cm = 10 m. Surface : 15 × 10 = 150 m².",
+     "ed": [
+      "24 m² multiplie les mesures du plan (6 × 4) sans appliquer l'échelle.",
+      "60 m² ne convertit qu'une seule dimension (15 × 4).",
+      null,
+      "1 500 m² vient d'une erreur de conversion des centimètres en mètres."
+     ],
+     "calc": "(6*250/100)*(4*250/100)"
     }
    ],
    "lessons": [
@@ -18796,6 +19307,96 @@
       "tag": "niv-lo10",
       "n": 10
      }
+    },
+    {
+     "id": "L20261030lo06",
+     "niv": "lo06",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Vitesse, distance, temps et débits",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez résoudre les problèmes de mouvement (trajet simple, croisement, rattrapage, vitesse moyenne) et de débit (robinets qui remplissent ou vident un bassin).",
+      "= Vous saurez convertir les heures et minutes, les km/h et les m/s, et contrôler votre résultat en quelques secondes.",
+      "## Ce que demande le concours",
+      "Les épreuves de logique et d'aptitude numérique proposent des énoncés courts : un véhicule, un train, deux personnes qui partent l'une vers l'autre, deux robinets. Les quatre propositions contiennent presque toujours le résultat d'une erreur classique : moyenne arithmétique au lieu de la vraie vitesse moyenne, minutes prises pour des centièmes d'heure, longueur du train oubliée. Avec un barème négatif, reconnaître ces pièges vaut autant que savoir calculer.",
+      "Dans ces exercices, le calcul lui-même est rarement difficile. Ce qui fait perdre des points, c'est la lecture trop rapide de l'énoncé et les unités mélangées. Prenez donc l'habitude de souligner les unités avant de calculer.",
+      "## La méthode, pas à pas",
+      "- 1. Notez les données avec leurs unités : distance d, vitesse v, temps t.",
+      "- 2. Mettez tout dans des unités cohérentes : heures et km/h, ou secondes et m/s. Convertissez les minutes en heures (30 min = 0,5 h ; 20 min = 1/3 h).",
+      "- 3. Choisissez la formule : d = v × t, v = d ÷ t, t = d ÷ v.",
+      "- 4. Deux mobiles ? Face à face, additionnez les vitesses ; dans le même sens, soustrayez-les.",
+      "- 5. Robinets ? Raisonnez sur la fraction du bassin remplie en une heure, puis additionnez ou soustrayez ces fractions.",
+      "- 5 bis. Mobile sur l'eau ? Ajoutez la vitesse du courant à la descente, retranchez-la à la remontée.",
+      "- 6. Contrôlez : ordre de grandeur réaliste, unité de la réponse, recalcul inverse (v × t redonne-t-il d ?).",
+      "~ Contrôle express : on trouve qu'un piéton parcourt 12 km en 20 minutes. Cela fait 36 km/h : impossible pour un piéton. Il y a une erreur de conversion à chercher.",
+      "> Repères de calcul mental : à 60 km/h, on fait 1 km par minute ; à 90 km/h, 1,5 km par minute ; à 120 km/h, 2 km par minute."
+     ],
+     "fond": [
+      "## Notion 1 : la relation fondamentale d = v × t",
+      "Règle : la distance parcourue est égale à la vitesse multipliée par le temps. On en tire v = d ÷ t et t = d ÷ v.",
+      "Pourquoi ? Une vitesse de 60 km/h signifie que l'on parcourt 60 km en une heure. En deux heures, on en parcourt deux fois plus : la distance est proportionnelle au temps.",
+      "~ Exemple résolu : un car roule à 80 km/h pendant 2 h 15 min. Étape 1 : 15 min = 15 ÷ 60 = 0,25 h, donc t = 2,25 h. Étape 2 : d = 80 × 2,25 = 180 km. Vérification : 180 ÷ 80 = 2,25 h, soit bien 2 h 15 min.",
+      "! Piège : 2 h 15 min ne vaut pas 2,15 h. Une heure compte 60 minutes, pas 100.",
+      "Conversion utile : pour passer des km/h aux m/s, divisez par 3,6 (1 km/h = 1 000 m ÷ 3 600 s) : 90 km/h = 25 m/s. Pour l'inverse, multipliez par 3,6.",
+      "Conversion inverse, d'heures décimales en heures et minutes : multipliez la partie décimale par 60. Ainsi 1,75 h = 1 h + 0,75 × 60 min = 1 h 45 min.",
+      "~ Exemple résolu : un car interurbain parcourt 210 km à 60 km/h. Étape 1 : t = 210 ÷ 60 = 3,5 h. Étape 2 : 0,5 h = 0,5 × 60 = 30 min. Durée : 3 h 30 min, et non 3 h 50 min.",
+      "? Une moto parcourt 105 km en 1 h 10 min. Quelle est sa vitesse ? || 1 h 10 min = 70 min = 70/60 h. v = 105 ÷ (70/60) = 105 × 60 ÷ 70 = 90 km/h. Vérification : à 90 km/h, on fait 1,5 km par minute, donc 105 km en 70 minutes.",
+      "? Un camion part à 6 h 40 et doit parcourir 250 km à 75 km/h. À quelle heure arrive-t-il ? || Durée : 250 ÷ 75 = 10/3 h, soit 3 h et 1/3 h ; 1/3 h = 20 min. Durée : 3 h 20 min. Arrivée : 6 h 40 + 3 h 20 = 10 h 00. Vérification : 75 × 10/3 = 250 km.",
+      "## Notion 2 : la vitesse moyenne",
+      "Règle : la vitesse moyenne est la distance totale divisée par le temps total. Ce n'est pas, en général, la moyenne des vitesses.",
+      "Pourquoi ? On roule plus longtemps à la vitesse la plus faible. Celle-ci pèse donc davantage dans la moyenne.",
+      "~ Exemple résolu : aller de 120 km à 60 km/h, retour à 40 km/h. Aller : 120 ÷ 60 = 2 h. Retour : 120 ÷ 40 = 3 h. Vitesse moyenne : 240 km ÷ 5 h = 48 km/h, et non 50 km/h.",
+      "> Raccourci pour un aller-retour à v1 puis v2 : vitesse moyenne = 2 × v1 × v2 ÷ (v1 + v2). Ici : 2 × 60 × 40 ÷ 100 = 48 km/h.",
+      "! La proposition « 50 km/h » figure presque toujours parmi les réponses : c'est le piège de la moyenne arithmétique.",
+      "! Exception : si l'on roule pendant des durées égales (et non sur des distances égales), la vitesse moyenne est bien la moyenne arithmétique des vitesses. Lisez donc l'énoncé : « 1 h à 60 puis 1 h à 40 » donne 50 km/h.",
+      "~ Durées inégales : un véhicule roule 2 h à 90 km/h puis 1 h à 60 km/h. Distance : 180 + 60 = 240 km. Temps : 3 h. Vitesse moyenne : 240 ÷ 3 = 80 km/h, et non 75 km/h, car la vitesse la plus forte a duré plus longtemps.",
+      "? Un livreur parcourt 30 km à 60 km/h, puis 30 km à 20 km/h. Quelle est sa vitesse moyenne ? || Temps : 30 ÷ 60 = 0,5 h, puis 30 ÷ 20 = 1,5 h, soit 2 h au total pour 60 km. Vitesse moyenne : 60 ÷ 2 = 30 km/h. Contrôle par la formule : 2 × 60 × 20 ÷ 80 = 30 km/h. La moyenne arithmétique (40 km/h) est le piège.",
+      "## Notion 3 : croisement et rattrapage",
+      "Règle du croisement : deux mobiles partent en même temps l'un vers l'autre. Ils se rapprochent à la somme de leurs vitesses. Temps de rencontre = distance qui les sépare ÷ (v1 + v2).",
+      "Règle du rattrapage : deux mobiles vont dans le même sens. Le plus rapide gagne chaque heure la différence des vitesses. Temps de rattrapage = avance du premier ÷ (v2 − v1).",
+      "Pourquoi ? L'écart entre les deux mobiles diminue chaque heure de la somme (face à face) ou de la différence (même sens) des vitesses.",
+      "~ Croisement : deux villes A et B sont distantes de 360 km. Un camion part de A à 70 km/h, une voiture part de B à 110 km/h, au même moment. Temps : 360 ÷ (70 + 110) = 2 h. Lieu : le camion a parcouru 70 × 2 = 140 km depuis A. Vérification : la voiture a fait 110 × 2 = 220 km, et 140 + 220 = 360 km.",
+      "~ Rattrapage : un cycliste part à 8 h à 18 km/h. Une moto part du même point à 9 h à 54 km/h. À 9 h, le cycliste a 18 km d'avance. La moto gagne 54 − 18 = 36 km par heure. Temps : 18 ÷ 36 = 0,5 h, soit 30 minutes : rattrapage à 9 h 30.",
+      "? Deux marcheurs distants de 15 km partent l'un vers l'autre à 4 km/h et 6 km/h. Au bout de combien de temps se croisent-ils ? || Ils se rapprochent de 4 + 6 = 10 km par heure. Temps : 15 ÷ 10 = 1,5 h, soit 1 h 30 min. Vérification : 4 × 1,5 + 6 × 1,5 = 6 + 9 = 15 km.",
+      "! Départs décalés : commencez par calculer la distance parcourue par le premier mobile seul, puis appliquez la règle du croisement à la distance restante.",
+      "? Deux villes sont distantes de 300 km. Un car part de la première à 8 h à 60 km/h ; une voiture part de la seconde à 9 h à 90 km/h, en sens inverse. À quelle heure se croisent-ils ? || De 8 h à 9 h, le car fait 60 km seul ; il reste 240 km. Ensuite, ils se rapprochent de 60 + 90 = 150 km/h : 240 ÷ 150 = 1,6 h = 1 h 36 min. Croisement à 10 h 36. Vérification : car 60 + 60 × 1,6 = 156 km ; voiture 90 × 1,6 = 144 km ; 156 + 144 = 300 km.",
+      "## Notion 4 : la longueur des trains et des convois",
+      "Règle : pour qu'un train franchisse entièrement un pont ou un tunnel, il doit parcourir la longueur de l'ouvrage plus sa propre longueur.",
+      "Pourquoi ? Le passage commence quand l'avant du train entre et ne s'achève que quand l'arrière sort.",
+      "~ Un train de 150 m roule à 54 km/h, soit 54 ÷ 3,6 = 15 m/s. Il franchit un pont de 300 m. Distance : 300 + 150 = 450 m. Temps : 450 ÷ 15 = 30 s.",
+      "! Devant un poteau ou une personne immobile, l'obstacle n'a pas de longueur : le convoi ne parcourt que sa propre longueur.",
+      "~ Un convoi de 120 m roule à 36 km/h, soit 36 ÷ 3,6 = 10 m/s. Pour passer devant un poteau, il parcourt 120 m : 120 ÷ 10 = 12 s.",
+      "? Un train de 200 m roule à 72 km/h et traverse un tunnel de 1 km. Combien de temps dure la traversée complète ? || Vitesse : 72 ÷ 3,6 = 20 m/s. Distance : 1 000 + 200 = 1 200 m. Temps : 1 200 ÷ 20 = 60 s, soit 1 minute. Oublier la longueur du train donnerait 50 s : c'est le piège.",
+      "## Notion 5 : les débits et les robinets",
+      "Règle : si un robinet remplit un bassin en t heures, il en remplit 1/t par heure. Deux robinets ensemble remplissent 1/t1 + 1/t2 par heure. Une vidange retire sa fraction : on soustrait.",
+      "Pourquoi ? Les quantités d'eau versées en une heure s'additionnent ; les temps, eux, ne s'additionnent pas.",
+      "~ Exemple résolu : le robinet A remplit une citerne en 3 h, le robinet B en 6 h. Par heure : 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2. Ensemble, ils remplissent la citerne en 2 h. Raccourci : t = t1 × t2 ÷ (t1 + t2) = 18 ÷ 9 = 2 h.",
+      "! Piège : additionner ou faire la moyenne des temps (9 h ou 4,5 h). Ensemble, deux robinets vont toujours plus vite que le plus rapide des deux.",
+      "~ La même méthode vaut pour deux équipes qui travaillent ensemble. Une équipe de nettoyage fait un bâtiment en 10 h, une autre en 15 h. Par heure : 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6. Ensemble : 6 h. Raccourci : 10 × 15 ÷ 25 = 6 h.",
+      "? Un robinet remplit un bassin en 3 h ; une fuite le vide en 12 h. Combien de temps faut-il pour le remplir, fuite ouverte ? || Par heure : 1/3 − 1/12 = 4/12 − 1/12 = 3/12 = 1/4. Le bassin se remplit en 4 h. Raccourci : 3 × 12 ÷ (12 − 3) = 36 ÷ 9 = 4 h. Vérification : c'est plus long que 3 h, ce qui est logique avec une fuite.",
+      "## Notion 6 : le courant et le vent",
+      "Règle : un bateau qui descend un cours d'eau avance à sa vitesse propre plus la vitesse du courant ; à la remontée, à sa vitesse propre moins celle du courant.",
+      "Pourquoi ? Le courant entraîne l'eau, et le bateau avec elle. Il aide à la descente et freine à la remontée. Le vent agit de la même façon sur un avion.",
+      "~ Exemple résolu : une pirogue motorisée avance à 15 km/h en eau calme ; le courant est de 3 km/h. Descente : 15 + 3 = 18 km/h, donc 36 km en 2 h. Remontée : 15 − 3 = 12 km/h, donc 36 km en 3 h.",
+      "! Piège : la vitesse moyenne de l'aller-retour n'est pas 15 km/h. Ici : 72 km en 5 h, soit 14,4 km/h, car on passe plus de temps à remonter.",
+      "? Un bateau met 2 h pour descendre 48 km et 3 h pour les remonter. Quelles sont sa vitesse propre et la vitesse du courant ? || Descente : 48 ÷ 2 = 24 km/h ; remontée : 48 ÷ 3 = 16 km/h. Vitesse propre = (24 + 16) ÷ 2 = 20 km/h. Courant = (24 − 16) ÷ 2 = 4 km/h. Vérification : 20 + 4 = 24 et 20 − 4 = 16."
+     ],
+     "retenir": [
+      "Distance = vitesse × temps ; vitesse = distance ÷ temps ; temps = distance ÷ vitesse.",
+      "Une heure compte 60 minutes : 2 h 15 min = 2,25 h, et non 2,15 h.",
+      "Pour convertir des km/h en m/s, on divise par 3,6 ; pour l'inverse, on multiplie par 3,6.",
+      "Vitesse moyenne = distance totale ÷ temps total ; aller-retour à v1 et v2 : 2 × v1 × v2 ÷ (v1 + v2).",
+      "Deux mobiles face à face se rapprochent à la somme de leurs vitesses ; dans le même sens, à leur différence.",
+      "Un train franchit entièrement un pont en parcourant la longueur du pont plus sa propre longueur.",
+      "Deux robinets de durées t1 et t2 remplissent ensemble le bassin en t1 × t2 ÷ (t1 + t2).",
+      "Sur un cours d'eau, la vitesse du courant s'ajoute à la descente et se retranche à la remontée."
+     ],
+     "exo": {
+      "tag": "niv-lo06",
+      "n": 12
+     },
+     "rev": 2
     }
    ],
    "sujets": []
