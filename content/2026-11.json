@@ -20724,6 +20724,408 @@
       "Vérifier l'absence d'autres oublis est une bonne pratique."
      ],
      "verif": "methode"
+    },
+    {
+     "id": "c20261114-cg03-01",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "En 1887, Treich-Laplène négocie plusieurs accords qui étendent l'influence française dans l'intérieur de la Côte d'Ivoire. Pour le compte de qui agit-il alors ?",
+     "o": [
+      "Pour le négociant Verdier, dont il est l'agent",
+      "Pour Samory Touré",
+      "Pour la Grande-Bretagne",
+      "Pour le roi de l'Indénié"
+     ],
+     "a": 0,
+     "e": "Selon l'étude de la Bibliothèque du Congrès, Treich-Laplène était en 1887 l'agent du négociant Verdier ; il négocie cinq accords qui étendent l'influence française jusqu'au haut bassin du Niger.",
+     "ed": [
+      null,
+      "Samory Touré combattait la pénétration française : un agent travaillant pour lui n'aurait pas étendu l'influence de la France.",
+      "La Grande-Bretagne était la rivale de la France sur cette côte ; Treich-Laplène servait les intérêts français.",
+      "Treich-Laplène négociait avec les chefs locaux pour la France, il n'était pas au service d'un roi agni."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : French Expansion in Côte d'Ivoire — Library of Congress Country Studies",
+      "u": "https://countrystudies.us/ivory-coast/6.htm"
+     }
+    },
+    {
+     "id": "c20261114-cg03-02",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "En quelle année le lieutenant Louis-Gustave Binger entame-t-il le voyage de deux ans qui le conduit à travers l'intérieur de la Côte d'Ivoire ?",
+     "o": [
+      "1843",
+      "1893",
+      "1887",
+      "1898"
+     ],
+     "a": 2,
+     "e": "Binger part en 1887 pour un voyage de deux ans à travers l'intérieur ; il entre à Kong en 1888. C'est cette exploration qui prépare la création de la colonie en 1893.",
+     "ed": [
+      "1843 est la date des premiers traités de Bouët-Willaumez sur la côte, bien avant l'exploration de Binger.",
+      "1893 est l'année où la Côte d'Ivoire devient colonie et où Binger en est nommé gouverneur, à la fin de son exploration.",
+      null,
+      "1898 est l'année de la capture de Samory Touré, dix ans après le passage de Binger à Kong."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : French Expansion in Côte d'Ivoire — Library of Congress Country Studies",
+      "u": "https://countrystudies.us/ivory-coast/6.htm"
+     }
+    },
+    {
+     "id": "c20261114-cg03-03",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Au terme de son voyage commencé en 1887, combien de traités de protectorat Binger a-t-il conclus en Côte d'Ivoire, selon l'étude de la Bibliothèque du Congrès ?",
+     "o": [
+      "Un seul",
+      "Quatre",
+      "Douze",
+      "Aucun : il n'a fait qu'explorer"
+     ],
+     "a": 1,
+     "e": "L'étude de la Bibliothèque du Congrès indique qu'à la fin de son voyage, Binger avait conclu quatre traités établissant des protectorats français en Côte d'Ivoire.",
+     "ed": [
+      "La source parle de quatre traités, pas d'un seul : Binger a multiplié les accords avec les chefs de l'intérieur.",
+      null,
+      "Douze est un chiffre sans fondement : la source retient quatre traités de protectorat.",
+      "Binger n'était pas qu'un explorateur : il a signé des traités qui donnaient à la France un titre juridique."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : French Expansion in Côte d'Ivoire — Library of Congress Country Studies",
+      "u": "https://countrystudies.us/ivory-coast/6.htm"
+     }
+    },
+    {
+     "id": "c20261114-cg03-04",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "En 1889, quelle puissance européenne reconnaît la souveraineté française sur la région de la Côte d'Ivoire ?",
+     "o": [
+      "L'Allemagne",
+      "Le Portugal",
+      "La Belgique",
+      "La Grande-Bretagne"
+     ],
+     "a": 3,
+     "e": "En 1889, la Grande-Bretagne, rivale de la France dans la région, reconnaît la souveraineté française sur la région : la France peut alors organiser la colonie de 1893.",
+     "ed": [
+      "La reconnaissance de 1889 vient de la Grande-Bretagne, la puissance rivale installée à l'est, non de l'Allemagne.",
+      "Le Portugal fut le premier à longer cette côte, au XVe siècle, mais ce n'est pas lui qui reconnaît la souveraineté française en 1889.",
+      "La Belgique n'était pas partie aux rivalités sur cette côte ; la reconnaissance de 1889 est britannique.",
+      null
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : French Expansion in Côte d'Ivoire — Library of Congress Country Studies",
+      "u": "https://countrystudies.us/ivory-coast/6.htm"
+     }
+    },
+    {
+     "id": "c20261114-cg03-05",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Avec quel pays un accord de 1892 fixe-t-il l'une des frontières de la colonie de Côte d'Ivoire ?",
+     "o": [
+      "Le Liberia",
+      "La Guinée",
+      "Le Ghana",
+      "Le Mali"
+     ],
+     "a": 0,
+     "e": "Selon la Bibliothèque du Congrès, des accords avec le Liberia en 1892 et avec la Grande-Bretagne en 1893 fixent les frontières occidentale et orientale de la colonie.",
+     "ed": [
+      null,
+      "Les accords de frontière cités pour 1892-1893 sont conclus avec le Liberia et la Grande-Bretagne, non avec la Guinée.",
+      "Le Ghana n'existait pas en 1892 : la frontière orientale est réglée en 1893 par un accord avec la Grande-Bretagne.",
+      "Le Mali (alors Soudan français) relevait aussi de la France ; la frontière nord n'est fixée qu'en 1947."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : French Expansion in Côte d'Ivoire — Library of Congress Country Studies",
+      "u": "https://countrystudies.us/ivory-coast/6.htm"
+     }
+    },
+    {
+     "id": "c20261114-cg03-06",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "Pourquoi la frontière nord de la Côte d'Ivoire n'est-elle fixée qu'en 1947 ?",
+     "o": [
+      "Parce que Samory Touré occupa le nord jusqu'en 1947",
+      "Parce que la France cherchait à rattacher à la Côte d'Ivoire des parties de la Haute-Volta et du Soudan français",
+      "Parce que la Grande-Bretagne revendiquait le nord du pays",
+      "Parce que la colonie ne fut créée qu'en 1946"
+     ],
+     "a": 1,
+     "e": "La frontière nord reste mouvante jusqu'en 1947 parce que la France tente, pour des raisons économiques et administratives, de rattacher à la Côte d'Ivoire des parties de la Haute-Volta (Burkina Faso) et du Soudan français (Mali).",
+     "ed": [
+      "Samory Touré est capturé en 1898 : il n'occupait plus rien au XXe siècle.",
+      null,
+      "La Grande-Bretagne était voisine à l'est ; cette frontière est réglée par l'accord de 1893.",
+      "La colonie est créée en 1893, plus d'un demi-siècle avant 1946."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : French Expansion in Côte d'Ivoire — Library of Congress Country Studies",
+      "u": "https://countrystudies.us/ivory-coast/6.htm"
+     }
+    },
+    {
+     "id": "c20261114-cg03-07",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "L'impôt de capitation instauré en 1900 dans la colonie : laquelle de ces affirmations est exacte ?",
+     "o": [
+      "Il remplaçait le travail forcé, aboli la même année",
+      "Il ne touchait que les colons européens",
+      "Il visait à financer des travaux publics et provoqua plusieurs révoltes",
+      "Il fut instauré après l'indépendance"
+     ],
+     "a": 2,
+     "e": "L'impôt par tête imposé en 1900 devait permettre à la colonie de financer un programme de travaux publics ; il provoqua plusieurs révoltes, comme le rapporte la Bibliothèque du Congrès.",
+     "ed": [
+      "Le travail forcé n'est supprimé qu'en 1946, par la loi Houphouët-Boigny : il a coexisté avec l'impôt pendant près d'un demi-siècle.",
+      "La capitation est un impôt par tête levé sur la population de la colonie ; c'est justement pourquoi elle suscita des révoltes.",
+      null,
+      "L'impôt date de 1900, soixante ans avant l'indépendance de 1960 : c'est un impôt colonial."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : French Expansion in Côte d'Ivoire — Library of Congress Country Studies",
+      "u": "https://countrystudies.us/ivory-coast/6.htm"
+     }
+    },
+    {
+     "id": "c20261114-cg03-08",
+     "m": "cg",
+     "tag": "niv-cg03",
+     "q": "En 1886, la France reprend le contrôle direct de ses comptoirs côtiers d'Afrique de l'Ouest. Dans quel but, selon l'étude de la Bibliothèque du Congrès ?",
+     "o": [
+      "Pour appuyer ses revendications d'occupation effective du territoire",
+      "Pour préparer l'indépendance de la colonie",
+      "Pour céder ces comptoirs à la Grande-Bretagne",
+      "Pour y abolir l'impôt de capitation"
+     ],
+     "a": 0,
+     "e": "En 1886, la France reprend directement ses comptoirs pour appuyer ses revendications d'« occupation effective », condition exigée à l'époque pour faire reconnaître une possession par les autres puissances.",
+     "ed": [
+      null,
+      "L'indépendance n'intervient qu'en 1960 : en 1886, la France cherche au contraire à affermir sa présence.",
+      "La France veut renforcer ses droits face aux Britanniques, non leur abandonner ses comptoirs.",
+      "L'impôt de capitation n'existe pas encore : il est instauré en 1900."
+     ],
+     "src": {
+      "t": "Côte d'Ivoire : French Expansion in Côte d'Ivoire — Library of Congress Country Studies",
+      "u": "https://countrystudies.us/ivory-coast/6.htm"
+     }
+    },
+    {
+     "id": "c20261114-so03-01",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "Sujet : « Le sport peut-il unir une nation ? » Quelle définition de « nation » est la plus utile dans l'introduction ?",
+     "o": [
+      "« Le mot nation vient du latin. »",
+      "« Tout le monde sait ce qu'est une nation. »",
+      "La liste des équipes nationales qualifiées pour la dernière CAN",
+      "Une communauté consciente de son unité, qui partage une histoire et la volonté de vivre ensemble"
+     ],
+     "a": 3,
+     "e": "Une bonne définition donne le sens du mot dans le sujet et oriente la réflexion : ici, l'idée de « volonté de vivre ensemble » conduit directement à la question de la cohésion que le sport peut renforcer.",
+     "ed": [
+      "L'étymologie seule ne dit rien du sens du mot dans le sujet ; elle n'oriente pas la réflexion.",
+      "Refuser de définir, c'est laisser le champ du sujet flou : le correcteur attend une définition précise.",
+      "Une liste d'équipes est un exemple, pas une définition ; elle confond l'équipe nationale et la nation.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-so03-02",
+     "m": "sog",
+     "tag": "niv-so03",
+     "q": "Une introduction annonce trois parties, mais la copie n'en développe que deux. Quelle est la conséquence ?",
+     "o": [
+      "Aucune : le correcteur ne lit pas l'annonce du plan",
+      "Cela compense une conclusion absente",
+      "Le correcteur relève une incohérence entre la promesse de l'introduction et le développement",
+      "C'est recommandé pour surprendre le correcteur"
+     ],
+     "a": 2,
+     "e": "L'annonce du plan est une promesse : le développement doit suivre exactement les parties annoncées. C'est pourquoi on rédige l'introduction au brouillon une fois le plan arrêté.",
+     "ed": [
+      "Le correcteur lit l'introduction avec attention : c'est sur elle qu'il se fait sa première opinion.",
+      "Rien ne compense une conclusion absente ; une annonce non tenue ajoute un second défaut.",
+      null,
+      "Une dissertation doit être lisible et cohérente ; l'effet de surprise est ici un défaut de construction."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-ns02-01",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Dans un tableau de dépouillement, que place-t-on en lignes et en colonnes ?",
+     "o": [
+      "Les documents en lignes, les dates en colonnes",
+      "Les thèmes en lignes, les documents en colonnes",
+      "Les citations en lignes, les auteurs en colonnes",
+      "Les parties du plan en lignes, les chiffres en colonnes"
+     ],
+     "a": 1,
+     "e": "Le tableau croise les thèmes (lignes) et les documents (colonnes) : chaque ligne réunit ce que tous les documents disent d'un même thème, ce qui prépare directement la synthèse.",
+     "ed": [
+      "Mettre les documents en lignes reproduit l'ordre du dossier et conduit à une note qui résume les documents un par un.",
+      null,
+      "Un tableau de citations pousse au montage de citations, alors que la note doit reformuler et classer.",
+      "Les parties du plan ne sont pas encore connues : elles sortiront du regroupement des lignes du tableau."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-ns02-02",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Combien de temps le premier survol du dossier occupe-t-il dans la méthode enseignée pour l'épreuve de 5 heures ?",
+     "o": [
+      "2 minutes",
+      "La moitié de l'épreuve",
+      "1 heure 30",
+      "10 à 15 minutes"
+     ],
+     "a": 3,
+     "e": "Le survol dure 10 à 15 minutes : on feuillette tout le dossier, on note nature, source et date de chaque document et son idée générale, avant la lecture active.",
+     "ed": [
+      "Deux minutes ne suffisent pas à noter la nature, la source, la date et l'idée générale de chaque document.",
+      "Consacrer la moitié de l'épreuve au survol ne laisse plus le temps du plan ni de la rédaction.",
+      "1 h 30 dépasse même le temps prévu pour toute la lecture et le classement (environ 1 h 15).",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-ns02-03",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Le document 2 est un discours ministériel. Comment l'utiliser dans la note ?",
+     "o": [
+      "En l'attribuant, car il exprime une orientation : « le ministre annonce… (doc. 2) »",
+      "Comme la preuve que la politique a réussi",
+      "En le recopiant intégralement",
+      "En l'ignorant, car un discours n'est pas objectif"
+     ],
+     "a": 0,
+     "e": "Un discours exprime une orientation politique ou institutionnelle : la note le rapporte en l'attribuant à son auteur et à son document, sans le présenter comme un constat établi.",
+     "ed": [
+      null,
+      "Un discours annonce une intention ; seul un rapport d'évaluation peut montrer des résultats.",
+      "La note reformule et condense : recopier un document entier est contraire à la synthèse.",
+      "Tous les documents doivent être exploités ; la neutralité consiste à attribuer, non à écarter."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-ns02-04",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Lors de la lecture active, l'expression « financement de proximité » revient dans les documents 1, 3 et 6. Qu'en déduire ?",
+     "o": [
+      "C'est une répétition sans intérêt",
+      "C'est probablement un thème du plan, à porter en ligne dans le tableau",
+      "Il faut citer les trois passages en entier",
+      "Les documents 1, 3 et 6 font doublon et l'un peut être écarté"
+     ],
+     "a": 1,
+     "e": "Les mots qui reviennent d'un document à l'autre signalent souvent un thème central : on en fait une ligne du tableau, où se rassembleront les apports des trois documents.",
+     "ed": [
+      "Une notion répétée dans plusieurs documents est au contraire un indice fort pour le plan.",
+      null,
+      "La note ne recopie pas : elle reformule et cite les références (doc. 1, 3 et 6).",
+      "Plusieurs documents qui convergent forment une idée forte ; on les regroupe, on n'en supprime aucun."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-ns02-05",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Le document 4 indique « 12 000 bénéficiaires en 2024 ». Comment relever ce chiffre dans le tableau ?",
+     "o": [
+      "« Beaucoup de bénéficiaires (doc. 4) »",
+      "« Environ 10 000 bénéficiaires »",
+      "« 12 000 bénéficiaires en 2024 (doc. 4) »",
+      "« 12 000 »"
+     ],
+     "a": 2,
+     "e": "Chaque chiffre se relève avec son unité, sa date et son document, sans arrondir ni recalculer : c'est ce qui permet de le citer exactement dans la note.",
+     "ed": [
+      "« Beaucoup » efface l'information chiffrée que le document apporte.",
+      "Arrondir modifie la donnée du dossier : la note doit rester fidèle aux chiffres.",
+      null,
+      "Sans unité, date ni référence, le chiffre devient inutilisable au moment de rédiger."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-ns02-06",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Un candidat souligne surtout les exemples et les anecdotes des documents. Quelle erreur commet-il ?",
+     "o": [
+      "Aucune : les exemples sont l'essentiel de la note",
+      "Il gagne du temps pour la rédaction",
+      "Il respecte mieux la neutralité",
+      "Il risque de passer à côté des idées et des données clés, seules utiles à la synthèse"
+     ],
+     "a": 3,
+     "e": "La lecture active vise les idées et les données clés ; les exemples illustrent mais ne portent pas l'information que la note doit classer et restituer.",
+     "ed": [
+      "La note restitue les idées et les données du dossier ; les anecdotes y ont peu de place.",
+      "Il perd du temps : il devra relire les documents pour retrouver les idées principales.",
+      "La neutralité tient à l'attribution des positions, pas au choix de souligner des exemples.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-ns02-07",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Le doc. 3 (rapport de 2019) et le doc. 7 (article de 2024) donnent des taux différents pour le même phénomène. Quelle formulation est correcte dans la note ?",
+     "o": [
+      "« Le seul taux exact est celui du doc. 7, le plus récent. »",
+      "« Les chiffres se contredisent, on ne peut donc rien en dire. »",
+      "« Le rapport de 2019 (doc. 3) l'estime à un niveau, un article de 2024 (doc. 7) en avance un autre », avec les deux chiffres",
+      "Une moyenne des deux taux, sans citer les documents"
+     ],
+     "a": 2,
+     "e": "La note présente les deux données en les attribuant à leurs documents et à leurs dates, sans trancher ni recalculer : le lecteur dispose ainsi de toute l'information.",
+     "ed": [
+      "Décider qu'un chiffre est le seul exact, c'est trancher à la place du lecteur : la note reste neutre.",
+      "Renoncer à l'information est une perte : la divergence elle-même est une donnée à exposer.",
+      null,
+      "Calculer une moyenne crée un chiffre absent du dossier, ce qui est interdit."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261114-ns02-08",
+     "m": "ns",
+     "tag": "niv-ns02",
+     "q": "Après le dépouillement, votre tableau compte six lignes de thèmes. Que faire avant de rédiger ?",
+     "o": [
+      "Regrouper les lignes en deux grands ensembles qui deviendront les deux parties",
+      "Faire six parties, une par ligne",
+      "Supprimer les lignes nourries par moins de trois documents",
+      "Garder les deux lignes les plus remplies et abandonner les autres"
+     ],
+     "a": 0,
+     "e": "Les lignes du tableau se regroupent en deux grands ensembles, qui forment les deux parties de la note ; chaque ligne devient alors une sous-partie ou un paragraphe.",
+     "ed": [
+      null,
+      "Six parties juxtaposées font une liste et non un plan : la note est construite en deux parties.",
+      "Une information peut être importante même si un seul document la donne : on ne la supprime pas.",
+      "Abandonner des lignes, c'est laisser des informations du dossier hors de la note."
+     ],
+     "verif": "methode"
     }
    ],
    "lessons": [
@@ -20961,6 +21363,84 @@
        "u": "https://www.carrieres-publiques.com/actualite-fonction-publique-reussir-les-concours-de-la-fonction-publique-3-conseils-pour-eviter-les-fautes-d-orthographe-d-2998"
       }
      ]
+    },
+    {
+     "id": "L20261021ct03",
+     "niv": "ct03",
+     "m": "ct",
+     "titre": "Reformuler sans paraphraser",
+     "min": 60,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez redire une idée du texte avec vos propres mots en la condensant, au lieu de la recopier ou de la paraphraser.",
+      "= Vous saurez manier quatre outils de réduction : supprimer, généraliser, nominaliser, fusionner.",
+      "## Ce que demande l'épreuve",
+      "Le résumé impose un nombre de mots fixé, avec une tolérance de plus ou moins 10 %. Le correcteur vérifie trois choses : la fidélité aux idées de l'auteur, la réduction réelle du texte et la qualité de votre expression. Deux défauts coûtent cher : le montage de citations, qui recopie des morceaux de phrases du texte, et la paraphrase, qui redit chaque phrase avec presque autant de mots. Dans les deux cas, vous ne prouvez pas que vous avez compris.",
+      "Pourquoi cette exigence ? On ne peut redire autrement que ce que l'on a compris. La reformulation est donc la preuve de votre lecture.",
+      "Concrètement, le correcteur lit votre résumé sans avoir le texte sous les yeux à chaque ligne : il veut retrouver toutes les idées de l'auteur, dans le même ordre, mais dites autrement et plus court. Une phrase où il reconnaît à l'identique trois ou quatre mots de l'auteur lui signale un emprunt.",
+      "## La méthode pas à pas",
+      "- 1. Dégagez d'abord le plan du texte (leçon précédente) : une idée par paragraphe.",
+      "- 2. Reformulez chaque idée sur le brouillon sans regarder le texte : vous serez obligé d'employer vos propres mots.",
+      "- 3. Supprimez ce qui illustre : exemples, anecdotes, chiffres de détail, citations.",
+      "- 4. Généralisez les énumérations par un mot englobant exact.",
+      "- 5. Nominalisez : transformez une proposition en groupe nominal.",
+      "- 6. Fusionnez deux phrases qui s'enchaînent à l'aide d'un connecteur, puis comptez vos mots et ajustez.",
+      "! Gardez les notions techniques que rien ne remplace (« décentralisation », « inflation ») : ce sont les tournures qu'il faut changer, pas les concepts de l'auteur.",
+      "## Trois tests pour vérifier une reformulation",
+      "- Le test du texte caché : relisez votre phrase en cachant le texte. Si elle se comprend seule et dit bien l'idée de l'auteur, elle est réussie.",
+      "- Le test des mots repris : soulignez les mots identiques au texte. En dehors des notions techniques, il doit en rester très peu.",
+      "- Le test du compte : votre phrase doit être nettement plus courte que l'original. Sinon, vous avez paraphrasé.",
+      "~ Contrôle rapide. Phrase de l'auteur : « Les collectivités territoriales manquent de ressources propres pour financer les services qu'on leur a confiés. » Proposition : « Les communes manquent de ressources pour financer leurs services. » Test des mots repris : « manquent de ressources pour financer » est recopié. Test de fidélité : « communes » est trop étroit, car les régions sont aussi des collectivités. Meilleure version : « Les collectivités ne disposent pas des moyens de leurs compétences. »"
+     ],
+     "fond": [
+      "## Notion 1 : citation, paraphrase, reformulation",
+      "Citer, c'est recopier les mots du texte. Paraphraser, c'est redire la même phrase en changeant quelques mots, sans la raccourcir. Reformuler, c'est exprimer la même idée avec d'autres mots et moins de mots.",
+      "Pourquoi le correcteur sanctionne-t-il la paraphrase ? Parce qu'elle ne réduit rien et ne montre pas que vous avez saisi l'essentiel : elle remplace des mots, pas des idées.",
+      "~ Texte (27 mots) : « Les jeunes diplômés, qui sortent chaque année des universités et des grandes écoles, éprouvent de plus en plus de difficultés à trouver un premier emploi correspondant à leur formation. » Paraphrase : « Les jeunes titulaires de diplômes, qui quittent tous les ans les universités et les grandes écoles, ont de plus en plus de mal à obtenir un premier travail adapté à leurs études » : même longueur, rien n'est gagné. Reformulation (8 mots) : « L'insertion professionnelle des jeunes diplômés devient de plus en plus difficile. »",
+      "! Remplacer chaque mot par un synonyme n'est pas reformuler : la structure de la phrase reste celle de l'auteur.",
+      "? Reformulez en dix mots au plus : « Dans de nombreux villages, les femmes doivent parcourir chaque jour plusieurs kilomètres à pied pour aller chercher l'eau dont leur famille a besoin. » || Proposition : « En milieu rural, la corvée d'eau pèse lourdement sur les femmes » (10 mots). On a généralisé « de nombreux villages » en « milieu rural », nominalisé « aller chercher l'eau » en « la corvée d'eau » et supprimé le détail des kilomètres.",
+      "## Notion 2 : supprimer ce qui illustre",
+      "Règle : on supprime les exemples, les anecdotes, les citations, les répétitions et les chiffres de détail. Pourquoi ? Ils servent à convaincre le lecteur ; ils ne sont pas l'idée elle-même. Le résumé garde l'argument, pas ses illustrations.",
+      "~ « Le téléphone portable a transformé le commerce rural : une vendeuse de vivriers peut désormais connaître les prix du marché voisin avant de se déplacer, et un planteur peut recevoir son paiement sans aller en ville. » Idée : le téléphone portable a modernisé les échanges en milieu rural. Les deux personnages sont des exemples : ils disparaissent.",
+      "! Ne supprimez jamais une concession ou une objection : « certes… mais » fait partie du raisonnement de l'auteur, pas de l'illustration.",
+      "? Repérez ce qu'il faut supprimer : « La corruption décourage l'investissement : un industriel à qui l'on réclame de l'argent à chaque étape de son dossier finit, comme il l'a confié à un journal, par installer son usine ailleurs. » || L'idée est la première proposition : la corruption décourage l'investissement. L'histoire de l'industriel et la mention du journal ne font que l'illustrer et l'authentifier : elles disparaissent. Résumé possible : « La corruption fait fuir les investisseurs. »",
+      "## Notion 3 : généraliser par un mot englobant",
+      "Règle : une énumération se remplace par un mot qui englobe tous ses éléments, et seulement eux. Pourquoi ? Le mot englobant dit la même chose en un mot au lieu de quatre.",
+      "~ « le riz, le maïs, le manioc et l'igname » devient « les cultures vivrières ». Attention : « les céréales » serait faux, car le manioc et l'igname sont des tubercules, non des céréales.",
+      "~ Autre cas, à Abidjan : « le bus, le woro-woro, le gbaka et le bateau-bus » devient « les transports en commun ». Vérification : chacun transporte plusieurs passagers moyennant un prix. « Les transports routiers » serait faux, car le bateau-bus circule sur la lagune.",
+      "? Trouvez un mot englobant exact pour : « les hôpitaux, les écoles, les marchés et les forages ». || « Les équipements collectifs » (ou « les infrastructures de base »). Vérifiez chaque élément : un hôpital, une école, un marché et un forage sont bien tous des équipements à l'usage de la collectivité. « Les services de santé » serait trop étroit.",
+      "## Notion 4 : nominaliser et fusionner",
+      "Nominaliser, c'est transformer une proposition verbale en groupe nominal : « les prix augmentent » devient « la hausse des prix ». Fusionner, c'est réunir deux phrases en une seule grâce à un connecteur ou à un verbe de relation (entraîner, réduire, favoriser). Pourquoi ? Le groupe nominal permet d'exprimer une cause ou une conséquence dans une seule phrase courte.",
+      "~ « Parce que les prix des denrées augmentent, les ménages achètent moins. » (11 mots) devient « La hausse des prix réduit la consommation des ménages. » (8 mots). La cause est devenue le sujet de la phrase, la conséquence son complément.",
+      "! N'abusez pas des noms abstraits : une phrase sans verbe d'action devient lourde et obscure. Gardez au moins un verbe conjugué par phrase.",
+      "? Nominalisez et réduisez : « Lorsque les pluies arrivent en retard, les récoltes diminuent et les prix des vivriers montent sur les marchés. » || « Le retard des pluies réduit les récoltes et fait monter les prix des vivriers. » La subordonnée de temps « lorsque les pluies arrivent en retard » devient le groupe nominal sujet « le retard des pluies » ; les deux conséquences sont gardées, reliées par « et » ; « sur les marchés » disparaît, car il n'ajoute rien à l'idée.",
+      "? Fusionnez : « La population urbaine croît rapidement. Les besoins en logements augmentent. » || « La croissance urbaine rapide accroît les besoins en logements. » La première phrase est nominalisée (« la croissance urbaine ») et devient la cause ; le verbe « accroît » exprime le lien de conséquence que le texte laissait implicite.",
+      "## Notion 5 : rester dans la voix de l'auteur",
+      "Le résumé parle à la place de l'auteur : on n'écrit ni « l'auteur dit que », ni « selon le texte », et on n'ajoute aucun avis personnel. On respecte l'ordre des idées et le système d'énonciation : si l'auteur écrit « nous », le résumé peut garder « nous ». Pourquoi ? Le résumé est une réduction du texte, pas un commentaire sur le texte.",
+      "~ À éviter : « L'auteur montre que la corruption freine le développement, ce qui est très juste. » Correct : « La corruption freine le développement. » La formule d'introduction et le jugement personnel ont disparu.",
+      "? Corrigez : « Selon l'auteur, il faudrait, à mon avis, mieux former les enseignants. » || Deux fautes : « selon l'auteur » sort de la voix de l'auteur, et « à mon avis » ajoute une opinion personnelle. Correction : « Il faudrait mieux former les enseignants. » On garde le conditionnel s'il est dans le texte : il traduit la prudence de l'auteur.",
+      "## Notion 6 : garder les liens logiques de l'auteur",
+      "Règle : le résumé conserve les rapports logiques du texte (cause, conséquence, opposition, concession, but), exprimés par un connecteur (« car », « donc », « mais », « malgré ») ou par un verbe (« entraîner », « freiner »). Pourquoi ? Un texte argumentatif est un raisonnement ; sans ses liens, il devient une liste d'affirmations et la thèse disparaît.",
+      "~ Texte : « Les marchés de nos villes débordent de produits importés. Pourtant, les producteurs locaux de tomates et d'oignons peinent à écouler leurs récoltes, faute de routes praticables et d'unités de conservation. » Résumé : « Alors que les importations envahissent les marchés urbains, la production locale s'écoule mal, faute d'infrastructures de transport et de conservation. » L'opposition (« pourtant ») devient « alors que » ; la cause (« faute de ») est gardée ; « tomates et oignons » est généralisé en « production locale ».",
+      "! Changer de connecteur, c'est changer la pensée : écrire « donc » à la place de « pourtant » fait dire à l'auteur ce qu'il n'a pas dit. Avant de choisir votre connecteur, demandez-vous quel rapport relie réellement les deux idées.",
+      "? Réduisez en une phrase de 20 mots au plus, en gardant l'opposition et la cause : « L'État a multiplié les centres de formation professionnelle. Les entreprises continuent pourtant de se plaindre du manque de techniciens qualifiés, car les formations proposées correspondent mal à leurs besoins. » || « Malgré la multiplication des centres de formation, les entreprises manquent de techniciens, les formations étant mal adaptées à leurs besoins » (20 mots). L'opposition « pourtant » devient « malgré » suivi d'un nom ; la cause « car » devient le participe « étant » ; « se plaindre du manque » est condensé en « manquent »."
+     ],
+     "retenir": [
+      "Paraphraser, c'est redire une phrase avec presque autant de mots ; reformuler, c'est redire l'idée avec d'autres mots et moins de mots.",
+      "Le montage de citations recopie des morceaux du texte : il est sanctionné dans le résumé.",
+      "On supprime exemples, anecdotes, citations et chiffres de détail ; on garde concessions et oppositions.",
+      "Une énumération se remplace par un mot englobant qui couvre tous ses éléments, et seulement eux.",
+      "Nominaliser transforme une proposition en groupe nominal : « les prix augmentent » devient « la hausse des prix ».",
+      "Les notions techniques de l'auteur se conservent ; ce sont les tournures qui changent.",
+      "Pas de « l'auteur dit que » ni d'avis personnel : le résumé parle à la place de l'auteur.",
+      "Le résumé garde les liens logiques de l'auteur : remplacer « pourtant » par « donc » trahit sa pensée."
+     ],
+     "exo": {
+      "tag": "niv-ct03",
+      "n": 12,
+      "ecrit": "ct"
+     },
+     "rev": 2
     }
    ],
    "sujets": [
