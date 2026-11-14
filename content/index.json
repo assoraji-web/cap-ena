@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "packs": [
   {
    "file": "2026-10.json",
@@ -7,7 +7,7 @@
   },
   {
    "file": "2026-11.json",
-   "v": "4c35eb2cc6"
+   "v": "db3ddc63da"
   }
  ],
  "retired": []

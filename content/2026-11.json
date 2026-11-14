@@ -19400,6 +19400,1583 @@
     }
    ],
    "sujets": []
+  },
+  {
+   "date": "2026-11-14",
+   "questions": [
+    {
+     "id": "n20261114-dp04-01",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Selon l'article 27 du Code pénal ivoirien, les actes simplement destinés à préparer une infraction sont :",
+     "o": [
+      "punissables comme la tentative",
+      "punis d'une peine réduite de moitié",
+      "non punissables, sauf s'ils constituent eux-mêmes une infraction",
+      "punissables seulement en cas de crime"
+     ],
+     "a": 2,
+     "e": "L'article 27 déclare non punissables les actes simplement destinés à préparer ou à rendre possible l'infraction, sauf s'ils constituent par eux-mêmes une infraction prévue par la loi.",
+     "ed": [
+      "Les actes préparatoires ne sont pas une tentative : la tentative suppose un acte univoque au sens de l'article 28.",
+      "Le Code ne prévoit aucune réduction de moitié pour les actes préparatoires : ils ne sont tout simplement pas punissables.",
+      null,
+      "L'article 27 ne distingue pas selon la catégorie : même pour un crime, la simple préparation n'est pas punie."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-02",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Quelle est la sanction de la tentative de crime selon l'article 28 du Code pénal ivoirien ?",
+     "o": [
+      "Elle est considérée comme le crime lui-même",
+      "Elle est punie comme un délit",
+      "Elle n'est punie que si la loi le prévoit expressément",
+      "Elle est punie d'une simple amende"
+     ],
+     "a": 0,
+     "e": "L'article 28, alinéa 1er, dispose que la tentative de crime, remplissant ses conditions, est considérée comme le crime lui-même : elle encourt donc les mêmes peines.",
+     "ed": [
+      null,
+      "La tentative de crime n'est pas déclassée en délit : elle est assimilée au crime lui-même.",
+      "L'exigence d'un texte spécial vaut pour la tentative de délit (alinéa 2), non pour la tentative de crime.",
+      "Aucune peine d'amende spécifique n'est prévue : la tentative encourt les peines du crime."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-03",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Selon l'article 28, alinéa 2, du Code pénal ivoirien, la tentative de délit est punissable :",
+     "o": [
+      "dans tous les cas",
+      "jamais",
+      "uniquement si le délit est puni de plus de cinq ans",
+      "dans les cas déterminés par une disposition de la loi"
+     ],
+     "a": 3,
+     "e": "L'article 28, alinéa 2, précise que la tentative de délit n'est considérée comme le délit lui-même que dans les cas déterminés par une disposition de la loi : il faut un texte spécial.",
+     "ed": [
+      "Contrairement à la tentative de crime, la tentative de délit n'est pas punissable dans tous les cas : un texte est nécessaire.",
+      "Elle est punissable, mais seulement lorsqu'un texte le prévoit ; « jamais » est donc faux.",
+      "Le Code ne retient aucun seuil de peine : le critère est l'existence d'une disposition légale.",
+      null
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-04",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "D'après l'article 29 du Code pénal ivoirien, celui qui commet matériellement l'infraction est :",
+     "o": [
+      "le complice",
+      "l'auteur",
+      "l'instigateur",
+      "le receleur"
+     ],
+     "a": 1,
+     "e": "L'article 29, 1°, désigne comme auteur la personne qui commet matériellement l'infraction ; c'est le cas le plus simple de la qualité d'auteur.",
+     "ed": [
+      "Le complice ne prend pas une part directe à la réalisation (article 30) : il ne commet pas l'acte matériel.",
+      null,
+      "L'instigateur incite un tiers à commettre l'infraction (article 29, 3°) ; il ne la commet pas lui-même.",
+      "Le receleur intervient après l'infraction pour en détenir le produit ; ce n'est pas celui qui la commet."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-05",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Selon l'article 30 du Code pénal ivoirien, la complicité suppose notamment que le complice ait agi :",
+     "o": [
+      "par simple imprudence",
+      "après la consommation, sans entente préalable",
+      "en connaissance de cause",
+      "sans aucun lien avec l'auteur"
+     ],
+     "a": 2,
+     "e": "L'article 30 exige que le complice, sans prendre une part directe à la réalisation, ait agi « en connaissance de cause » : c'est l'élément intentionnel de la complicité.",
+     "ed": [
+      "L'imprudence ne suffit pas : l'article 30 exige la connaissance de cause.",
+      "L'aide visée porte sur les faits qui préparent ou consomment l'infraction ; une aide après coup non promise n'est pas une complicité.",
+      null,
+      "Le complice fournit un moyen à l'auteur ou l'aide : son acte est nécessairement lié à celui de l'auteur."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-06",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Quelle peine encourt le complice d'un crime selon l'article 32 du Code pénal ivoirien ?",
+     "o": [
+      "Les mêmes peines et mesures de sûreté que l'auteur",
+      "Une peine correctionnelle seulement",
+      "La moitié de la peine de l'auteur",
+      "Une amende forfaitaire"
+     ],
+     "a": 0,
+     "e": "L'article 32 dispose que tout complice d'un crime, d'un délit ou d'une tentative encourt les mêmes peines et mesures de sûreté que l'auteur de ce crime, de ce délit ou de cette tentative.",
+     "ed": [
+      null,
+      "Le complice d'un crime encourt les peines criminelles de l'auteur, pas seulement des peines correctionnelles.",
+      "Le Code ne divise pas la peine encourue par deux : elle est identique à celle de l'auteur.",
+      "Aucune amende forfaitaire n'est prévue : la peine encourue est celle de l'infraction principale."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-07",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un individu achète une échelle et note les heures de ronde du vigile d'une villa, sans aller plus loin. Comment qualifier ces faits ?",
+     "o": [
+      "Tentative de vol punissable",
+      "Complicité de vol",
+      "Vol consommé",
+      "Actes préparatoires non punissables"
+     ],
+     "a": 3,
+     "e": "Acheter un outil et observer les lieux rend seulement le vol possible : ce sont des actes préparatoires, non punissables selon l'article 27, faute de constituer une infraction par eux-mêmes.",
+     "ed": [
+      "Il n'y a pas d'acte impliquant sans équivoque l'intention irrévocable : la tentative de l'article 28 n'est pas constituée.",
+      "La complicité suppose un fait principal commis par un autre ; ici, aucun fait principal n'existe.",
+      "Rien n'a été soustrait : le vol n'est ni commencé ni consommé.",
+      null
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-08",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un voleur a forcé la porte d'un entrepôt et chargé des sacs de cacao dans un camion quand des gendarmes l'interpellent. L'interruption est due :",
+     "o": [
+      "à un désistement volontaire",
+      "à une circonstance indépendante de sa volonté",
+      "à un repentir actif",
+      "à une impossibilité de droit"
+     ],
+     "a": 1,
+     "e": "L'arrivée des gendarmes est une cause extérieure : l'action n'a été suspendue que par une circonstance indépendante de la volonté de l'auteur, condition de la tentative punissable (article 28).",
+     "ed": [
+      "Le désistement suppose que l'auteur renonce librement ; ici, il est arrêté par les gendarmes.",
+      null,
+      "Le repentir actif intervient après la consommation, de la propre initiative de l'auteur ; ce n'est pas le cas.",
+      "Il n'y a aucune impossibilité : le vol était réalisable, il a été interrompu."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-09",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un homme vise sa victime avec un pistolet et tire, mais la manque de peu. Quelle qualification retenir ?",
+     "o": [
+      "Acte préparatoire",
+      "Aucune infraction faute de résultat",
+      "Tentative de meurtre, punissable comme le meurtre",
+      "Désistement volontaire"
+     ],
+     "a": 2,
+     "e": "C'est une infraction manquée : l'auteur a tout fait et seul le hasard a empêché le résultat. L'échec est indépendant de sa volonté ; la tentative de crime est considérée comme le crime lui-même (article 28).",
+     "ed": [
+      "Tirer sur quelqu'un dépasse la préparation : l'acte est univoque.",
+      "L'absence de résultat n'empêche pas la tentative : c'est précisément le cas qu'elle vise.",
+      null,
+      "L'auteur n'a pas renoncé : il a tiré, et il a manqué sa cible."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-10",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un commerçant promet de l'argent à un jeune pour qu'il agresse un concurrent ; le jeune refuse. Selon le Code pénal ivoirien, le commerçant est :",
+     "o": [
+      "auteur, au sens de l'article 29, 3°",
+      "complice d'une tentative",
+      "non punissable, car rien n'a été tenté",
+      "simple témoin"
+     ],
+     "a": 0,
+     "e": "L'article 29, 3°, fait de celui qui, sciemment et sans équivoque, incite un tiers à commettre l'infraction par des promesses un auteur, même si l'infraction n'a été ni tentée ni commise.",
+     "ed": [
+      null,
+      "Il n'y a ni tentative ni fait principal ; et l'instigateur est auteur, non complice, en droit ivoirien.",
+      "L'article 29, 3°, vise expressément le cas où l'infraction n'a été ni tentée ni commise.",
+      "Il a lui-même fait une promesse en vue de l'agression : il n'est pas un simple témoin."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-11",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un adulte fait voler des téléphones par un enfant pénalement irresponsable. Quelle est la qualité de l'adulte ?",
+     "o": [
+      "Receleur",
+      "Complice seulement",
+      "Non punissable, l'enfant ayant agi",
+      "Auteur, selon l'article 29, 2°"
+     ],
+     "a": 3,
+     "e": "L'article 29, 2°, range parmi les auteurs celui qui se sert d'un être pénalement irresponsable pour commettre l'infraction : l'adulte est auteur.",
+     "ed": [
+      "Le recel suppose de détenir le produit d'une infraction commise par autrui ; la qualification retenue par l'article 29 est celle d'auteur.",
+      "Il ne se contente pas d'aider : il se sert de l'enfant comme d'un instrument, ce que l'article 29 traite comme une qualité d'auteur.",
+      "L'irresponsabilité de l'enfant ne profite pas à l'adulte qui l'utilise.",
+      null
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-12",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un mécanicien prête, en connaissance de cause, son véhicule à des malfaiteurs pour qu'ils aillent braquer une station-service. Il n'y participe pas. Quelle est sa qualité ?",
+     "o": [
+      "Coauteur",
+      "Complice par fourniture de moyen",
+      "Instigateur",
+      "Non punissable"
+     ],
+     "a": 1,
+     "e": "Il procure, en connaissance de cause, un moyen devant servir à l'action, sans prendre une part directe à sa réalisation : c'est la complicité de l'article 30, 1°.",
+     "ed": [
+      "Le coauteur participe à la commission avec l'auteur (article 29, 2°) ; ici, il ne participe pas au braquage.",
+      null,
+      "Il n'incite personne : les malfaiteurs avaient déjà leur projet.",
+      "Fournir sciemment un moyen est précisément un acte de complicité punissable."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-13",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Pendant qu'un cambriolage a lieu, un homme fait le guet au bout de la rue pour avertir ses amis. Sous quelle forme de l'article 30 entre son acte ?",
+     "o": [
+      "Fourniture d'un renseignement avant l'infraction",
+      "Provocation par promesses",
+      "Aide ou assistance dans les faits qui consomment l'infraction",
+      "Recel"
+     ],
+     "a": 2,
+     "e": "Le guetteur aide ou assiste directement l'auteur dans les faits qui consomment l'infraction, sans y prendre une part directe : c'est l'article 30, 2°.",
+     "ed": [
+      "Il ne fournit pas un renseignement préalable : il aide pendant la commission.",
+      "Il n'incite pas l'auteur par des dons ou promesses ; il l'aide.",
+      null,
+      "Le recel concerne le produit de l'infraction après coup ; le guet est concomitant."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-14",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Dans quel ordre le candidat doit-il raisonner pour savoir si une tentative de crime est punissable ?",
+     "o": [
+      "Acte univoque, puis cause de l'interruption",
+      "Peine, puis mobile, puis résultat",
+      "Résultat, puis complicité, puis peine",
+      "Mobile, puis désistement, puis préparation"
+     ],
+     "a": 0,
+     "e": "L'article 28 pose deux conditions : un acte impliquant sans équivoque l'intention irrévocable, puis une interruption due à des circonstances indépendantes de la volonté. On les vérifie dans cet ordre.",
+     "ed": [
+      null,
+      "Le mobile est sans incidence sur la responsabilité, et la peine se détermine en dernier.",
+      "La tentative suppose justement l'absence de résultat ; la complicité est une autre question.",
+      "Le mobile n'est pas une condition de la tentative ; la préparation se vérifie avant le désistement."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-15",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un individu glisse la main dans la poche d'un passant pour le voler ; la poche est vide. Que prévoit le Code pénal ivoirien ?",
+     "o": [
+      "Aucune infraction, le vol étant impossible",
+      "Le vol est consommé",
+      "Il s'agit d'un acte préparatoire",
+      "La tentative reste punissable malgré l'impossibilité de fait, dans les conditions de l'article 28"
+     ],
+     "a": 3,
+     "e": "L'article 28, alinéa 3, dispose que la tentative est punissable alors même que le but recherché ne pouvait être atteint en raison d'une circonstance de fait ; pour ce délit, un texte doit punir la tentative (alinéa 2).",
+     "ed": [
+      "L'impossibilité de fait n'efface pas la tentative : l'article 28, alinéa 3, le dit expressément.",
+      "Rien n'a été soustrait : le vol n'est pas consommé.",
+      "Mettre la main dans la poche d'autrui est un acte univoque, au-delà de la préparation.",
+      null
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-16",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un faussaire a fabriqué un faux diplôme et le dépose au service du personnel, puis, de lui-même et sans être découvert, retire son dossier avant tout examen. Que retenir ?",
+     "o": [
+      "Tentative punissable, car l'acte était univoque",
+      "Désistement volontaire : pas de tentative punissable pour l'usage",
+      "Repentir actif sans effet",
+      "Infraction impossible"
+     ],
+     "a": 1,
+     "e": "La renonciation est libre et précède la consommation : l'action n'a pas été suspendue par une circonstance indépendante de sa volonté, condition de l'article 28. La fabrication du faux, déjà réalisée, peut rester une infraction autonome.",
+     "ed": [
+      "L'univocité ne suffit pas : il faut encore une interruption involontaire, absente ici.",
+      null,
+      "Le repentir suppose une infraction déjà consommée ; l'usage du faux ne l'était pas.",
+      "Rien ne rendait le résultat impossible ; l'auteur a simplement renoncé."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-17",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Après un vol commis sans lui et sans entente préalable, un ami cache le butin chez lui. Est-il complice au sens de l'article 30 ?",
+     "o": [
+      "Oui, il aide l'auteur",
+      "Oui, il fournit un moyen",
+      "Non : son aide, postérieure et non convenue avant, ne porte ni sur la préparation ni sur la consommation",
+      "Oui, il est coauteur"
+     ],
+     "a": 2,
+     "e": "L'article 30, 2°, vise l'aide dans les faits qui préparent ou consomment l'infraction. Une aide après coup, non promise avant, n'est pas une complicité ; elle peut relever d'une autre infraction, comme le recel.",
+     "ed": [
+      "L'aide n'intervient qu'après la consommation, sans entente préalable : elle sort du champ de l'article 30.",
+      "Il n'a fourni aucun moyen ayant servi à l'action.",
+      null,
+      "Il n'a pas participé à la commission avec l'auteur."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-18",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Laquelle de ces affirmations sur le droit ivoirien est FAUSSE ?",
+     "o": [
+      "Le complice est toujours condamné exactement à la même peine que l'auteur",
+      "L'instigateur peut être puni même si l'infraction n'a pas été tentée",
+      "La tentative de crime est considérée comme le crime lui-même",
+      "Les actes préparatoires ne sont pas punissables en principe"
+     ],
+     "a": 0,
+     "e": "Le complice encourt les mêmes peines que l'auteur (article 32), mais il est puni pour son propre fait, selon son degré de participation (article 35, alinéa 2) : la peine prononcée peut différer.",
+     "ed": [
+      null,
+      "C'est exact : article 29, 3°.",
+      "C'est exact : article 28, alinéa 1er.",
+      "C'est exact : article 27."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-19",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Un complice fournit une arme pour un vol ; l'auteur, surpris, tue le gardien. Selon l'article 31, le complice peut être tenu :",
+     "o": [
+      "du seul vol, jamais du reste",
+      "uniquement d'une contravention",
+      "d'aucune infraction, l'auteur ayant changé de projet",
+      "de toute infraction qui était la conséquence prévisible de sa complicité"
+     ],
+     "a": 3,
+     "e": "L'article 31 rend le complice d'un crime, d'un délit ou d'une tentative également complice de toute infraction qui était la conséquence prévisible de sa complicité ; fournir une arme rend prévisible son usage.",
+     "ed": [
+      "L'article 31 étend justement la complicité au-delà du seul fait projeté.",
+      "Aucune règle ne réduit la complicité à une contravention.",
+      "Le changement de projet n'exonère pas le complice si la nouvelle infraction était prévisible.",
+      null
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-dp04-20",
+     "m": "dpen",
+     "tag": "niv-dp04",
+     "q": "Selon le Code pénal ivoirien, où la tentative est-elle réputée commise ?",
+     "o": [
+      "Au domicile de l'auteur",
+      "Au lieu où est commis le fait qui constitue l'élément matériel, au sens de l'article 28",
+      "Au lieu où le résultat aurait dû se produire",
+      "Au siège du tribunal saisi"
+     ],
+     "a": 1,
+     "e": "L'article 21, alinéa 2, dispose que la tentative est réputée commise au lieu où est commis le fait qui constitue l'élément matériel, au sens de l'article 28.",
+     "ed": [
+      "Le domicile de l'auteur n'est pas le critère retenu par l'article 21.",
+      null,
+      "Le texte retient le lieu de l'acte matériel, non celui du résultat espéré.",
+      "Le lieu de commission détermine la compétence ; il ne dépend pas du tribunal saisi."
+     ],
+     "src": {
+      "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+      "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+     }
+    },
+    {
+     "id": "n20261114-ct06-01",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Dans un texte de société, où se trouve le plus souvent la thèse de l'auteur ?",
+     "o": [
+      "Dans l'anecdote d'ouverture",
+      "Dans la première phrase, toujours",
+      "Dans la réfutation de l'idée reçue",
+      "Dans les chiffres cités"
+     ],
+     "a": 2,
+     "e": "L'auteur part de l'opinion commune pour la déplacer : sa thèse se trouve dans la réfutation (« en réalité… », « mais… »), non dans l'idée reçue qu'il rapporte.",
+     "ed": [
+      "L'anecdote illustre une idée ; elle ne formule pas la thèse.",
+      "La première phrase expose souvent l'idée reçue que l'auteur va contester.",
+      null,
+      "Les chiffres sont des exemples chiffrés qui appuient un argument."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-02",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Que faire d'un témoignage cité entre guillemets dans le texte à résumer ?",
+     "o": [
+      "Garder seulement l'idée qu'il prouve",
+      "Le résumer en gardant le nom de la personne",
+      "Le recopier tel quel",
+      "Le déplacer en conclusion"
+     ],
+     "a": 0,
+     "e": "Un témoignage est un exemple : le résumé garde l'idée qu'il illustre et supprime le récit, le nom et la citation, qui coûtent des mots sans faire avancer le raisonnement.",
+     "ed": [
+      null,
+      "Le nom de la personne est un détail inutile au raisonnement.",
+      "Recopier une citation n'est pas reformuler et consomme des mots.",
+      "Le résumé suit l'ordre du texte : on ne déplace pas les idées."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-03",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Pour une consigne de 90 mots, plus ou moins 10 %, quelle est la fourchette admise ?",
+     "o": [
+      "De 80 à 100 mots",
+      "De 90 à 99 mots",
+      "De 85 à 95 mots",
+      "De 81 à 99 mots"
+     ],
+     "a": 3,
+     "e": "10 % de 90 font 9 : la fourchette va donc de 90 − 9 = 81 à 90 + 9 = 99 mots.",
+     "ed": [
+      "80 et 100 correspondent à une marge de 10 mots, soit 11 % environ : c'est hors fourchette.",
+      "La tolérance joue aussi vers le bas : 81 mots sont admis.",
+      "Une marge de 5 mots correspond à environ 5,5 %, plus étroite que la tolérance.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-04",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Quelle formule est à proscrire dans un résumé ?",
+     "o": [
+      "« Certes… mais… »",
+      "« L'auteur dit que… »",
+      "« En réalité… »",
+      "« Il faut donc… »"
+     ],
+     "a": 1,
+     "e": "Le résumé garde l'énonciation du texte : il parle comme l'auteur, sans le citer. « L'auteur dit que » transforme le résumé en compte rendu et gaspille des mots.",
+     "ed": [
+      "La concession fait partie du raisonnement et doit être conservée.",
+      null,
+      "« En réalité » est un connecteur de réfutation, utile pour restituer le mouvement.",
+      "« Il faut donc » restitue la proposition de l'auteur, dans son énonciation."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-05",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Le résumé doit suivre :",
+     "o": [
+      "l'ordre alphabétique des mots-clés",
+      "l'ordre d'importance choisi par le candidat",
+      "l'ordre des idées du texte",
+      "un plan en deux parties imposé"
+     ],
+     "a": 2,
+     "e": "Le résumé est une réduction fidèle : il suit la succession des idées du texte, sans réduire tous les paragraphes dans les mêmes proportions.",
+     "ed": [
+      "Un classement alphabétique n'a aucun sens dans un raisonnement.",
+      "Réorganiser selon ses préférences trahit le mouvement de l'auteur.",
+      null,
+      "Le plan du résumé est celui du texte, pas un plan imposé."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-06",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Dans un texte de société, à quoi sert le plus souvent le paragraphe introduit par « Il est vrai que… » ?",
+     "o": [
+      "À faire une concession",
+      "À énoncer la thèse",
+      "À conclure",
+      "À donner une anecdote"
+     ],
+     "a": 0,
+     "e": "« Il est vrai que » annonce une concession : l'auteur reconnaît une part de vérité à l'opinion adverse avant de la dépasser, souvent par « mais ».",
+     "ed": [
+      null,
+      "La thèse vient après la concession, généralement introduite par « mais » ou « en réalité ».",
+      "La conclusion est plutôt signalée par « donc », « ainsi », « il ne s'agit donc pas ».",
+      "L'anecdote peut accompagner la concession, mais le connecteur annonce un mouvement logique."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-07",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Texte : « Peut-être faudrait-il se demander si les concours récompensent encore le mérite. » Quel résumé est fidèle ?",
+     "o": [
+      "« Les concours ne récompensent plus le mérite. »",
+      "« L'auteur se pose des questions sur les concours. »",
+      "« Les concours sont injustes et doivent disparaître. »",
+      "« On peut douter que les concours récompensent encore le mérite. »"
+     ],
+     "a": 3,
+     "e": "Le texte exprime un doute prudent : le résumé fidèle garde ce degré de certitude, sans le durcir ni ajouter de jugement.",
+     "ed": [
+      "Cette phrase transforme un doute en affirmation catégorique : la prudence de l'auteur disparaît.",
+      "« L'auteur se pose des questions » est une formule de compte rendu, vide d'idée.",
+      "« Injustes » et « disparaître » sont des ajouts du candidat.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-08",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Comment réduire : « À Korhogo, à Gagnoa et à San-Pédro, des jeunes ont créé des clubs de lecture, des équipes de nettoyage et des radios de quartier » ?",
+     "o": [
+      "« Des jeunes de Korhogo, Gagnoa et San-Pédro ont créé des clubs. »",
+      "« Les jeunes prennent des initiatives au service de leur quartier. »",
+      "« Les jeunes ne font rien pour leur quartier. »",
+      "« Il y a des radios à San-Pédro. »"
+     ],
+     "a": 1,
+     "e": "Les trois villes et les trois réalisations illustrent une même idée : l'engagement local des jeunes. On généralise en supprimant les lieux et la liste.",
+     "ed": [
+      "Garder les noms de villes coûte des mots et ne dit pas l'idée commune.",
+      null,
+      "C'est un contresens : le texte dit exactement l'inverse.",
+      "On garde un détail isolé et l'on perd l'idée générale."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-09",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Un texte compte 300 mots ; la consigne impose un résumé de 75 mots. Quel est le taux de réduction ?",
+     "o": [
+      "À la moitié",
+      "Au tiers",
+      "Au quart",
+      "Au dixième"
+     ],
+     "a": 2,
+     "e": "75 ÷ 300 = 0,25 : le résumé fait le quart du texte. Ce rapport aide à vérifier la proportionnalité de chaque paragraphe au brouillon.",
+     "ed": [
+      "La moitié de 300 serait 150 mots.",
+      "Le tiers de 300 serait 100 mots.",
+      null,
+      "Le dixième de 300 serait 30 mots."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-10",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Le candidat écrit : « Heureusement, la ville libère enfin les jeunes du poids de la famille. » Le texte disait : « La ville laisse aux jeunes une liberté que la grande famille ne leur accordait pas toujours. » Quelle faute a-t-il commise ?",
+     "o": [
+      "Il a ajouté un jugement et durci la thèse",
+      "Aucune faute",
+      "Il a trop réduit",
+      "Il a mal compté les mots"
+     ],
+     "a": 0,
+     "e": "« Heureusement », « enfin » et « le poids de la famille » sont des jugements absents du texte, qui disait seulement « pas toujours » : la nuance est perdue et un parti pris est ajouté.",
+     "ed": [
+      null,
+      "La phrase n'est pas fidèle : elle change le ton et la portée du texte.",
+      "La longueur n'est pas en cause : la phrase du candidat n'est pas plus courte.",
+      "Le problème est de fidélité, non de décompte."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-11",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Selon la règle de décompte la plus courante, combien de mots compte « c'est-à-dire » ?",
+     "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "a": 3,
+     "e": "Le trait d'union sépare ici des mots distincts et l'apostrophe aussi : c' / est / à / dire font 4 mots, comme l'indiquent les méthodes de décompte du résumé.",
+     "ed": [
+      "Ce n'est pas un mot composé lexicalisé comme « socio-économique » : il se décompose.",
+      "Le décompte sépare aussi « c' » et « est ».",
+      "Il faut compter « c' », « est », « à » et « dire ».",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-12",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Que faire de la proposition finale d'un texte de société (« La société doit soutenir la famille, non la remplacer ») ?",
+     "o": [
+      "La supprimer, car c'est une opinion",
+      "La garder avec sa nuance",
+      "La remplacer par sa propre solution",
+      "La placer en tête du résumé"
+     ],
+     "a": 1,
+     "e": "La proposition fait partie de la thèse : on la garde à sa place, en fin de résumé, avec sa nuance (« non pour remplacer, mais pour soutenir »).",
+     "ed": [
+      "Le texte entier est une opinion ; la proposition en est l'aboutissement et doit figurer.",
+      null,
+      "Le résumé ne contient aucune idée du candidat.",
+      "On suit l'ordre du texte : la proposition reste à la fin."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-13",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Au brouillon, comment vérifier vite le nombre de mots de son résumé ?",
+     "o": [
+      "Compter les lignes et multiplier par 20",
+      "Estimer à vue d'œil",
+      "Écrire par lignes d'environ 10 mots, puis compter exactement à la fin",
+      "Compter seulement les noms et les verbes"
+     ],
+     "a": 2,
+     "e": "La méthode recommande de rédiger au brouillon par lignes d'environ dix mots pour suivre la longueur, puis de compter exactement le texte final.",
+     "ed": [
+      "Une ligne manuscrite ne contient pas 20 mots fixes : l'estimation serait fausse.",
+      "Une estimation à vue d'œil expose à sortir de la fourchette.",
+      null,
+      "Tous les mots comptent, y compris les petits mots : articles, prépositions."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-14",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Combien de temps la méthode Emploipublic prévoit-elle pour la relecture finale d'un résumé de texte ?",
+     "o": [
+      "5 minutes",
+      "30 minutes",
+      "1 heure",
+      "Aucune relecture"
+     ],
+     "a": 0,
+     "e": "La répartition indicative publiée par Emploipublic pour le résumé de texte prévoit 5 minutes de relecture finale, après la rédaction définitive.",
+     "ed": [
+      null,
+      "30 minutes correspondent plutôt au haut de la fourchette prévue pour la rédaction définitive.",
+      "Une heure correspond au maximum prévu pour la lecture analytique ou la première version.",
+      "La relecture est expressément prévue : elle évite les fautes et les erreurs de décompte."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-15",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Le premier paragraphe d'un texte affirme : « On répète que les réseaux sociaux rendent les jeunes violents. » Le candidat commence son résumé par : « Les réseaux sociaux rendent les jeunes violents. » Quelle est l'erreur ?",
+     "o": [
+      "Aucune",
+      "Il a oublié un exemple",
+      "Il a mis trop de mots",
+      "Il présente l'idée reçue comme la thèse de l'auteur"
+     ],
+     "a": 3,
+     "e": "« On répète que » signale une opinion rapportée, que l'auteur va discuter. La reprendre comme une affirmation de l'auteur est un contresens sur la thèse.",
+     "ed": [
+      "La phrase inverse le statut de l'idée : c'est une erreur grave.",
+      "Les exemples se suppriment ; leur absence n'est pas une faute.",
+      "La phrase est courte : le problème n'est pas la longueur.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-16",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Lequel de ces éléments doit, en principe, DISPARAÎTRE du résumé ?",
+     "o": [
+      "La concession",
+      "Le prénom d'une personne citée en témoignage",
+      "Le connecteur de réfutation",
+      "La proposition finale"
+     ],
+     "a": 1,
+     "e": "Le prénom d'un témoin est un détail d'exemple, sans valeur argumentative : il disparaît. La concession, la réfutation et la proposition portent le raisonnement.",
+     "ed": [
+      "La concession est un temps du raisonnement : on la garde.",
+      null,
+      "Le connecteur restitue le mouvement logique : on le garde.",
+      "La proposition finale fait partie de la thèse : on la garde."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-17",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Texte : « Les tontines ont souvent mieux servi les femmes que les banques. » Quel résumé est FAUTIF ?",
+     "o": [
+      "« Les tontines ont souvent mieux servi les femmes que les banques. »",
+      "« Les femmes ont souvent trouvé dans les tontines un meilleur service que dans les banques. »",
+      "« Les tontines servent mieux tout le monde que les banques. »",
+      "« Souvent, les tontines ont été plus utiles aux femmes que les banques. »"
+     ],
+     "a": 2,
+     "e": "« Tout le monde » généralise abusivement : le texte vise les femmes et dit « souvent ». Les autres reformulations gardent le public et la modalisation.",
+     "ed": [
+      "C'est la phrase même du texte, fidèle (même si une reformulation est préférable).",
+      "Reformulation fidèle : public et modalisateur conservés.",
+      null,
+      "Reformulation fidèle : « souvent » et « femmes » sont conservés."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-18",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Un candidat rend 105 mots pour une consigne de 90 mots ± 10 %. Que se passe-t-il ?",
+     "o": [
+      "Il dépasse la limite haute de 99 mots",
+      "Il est dans la fourchette",
+      "Il est sous la limite basse",
+      "Le décompte n'a pas d'importance"
+     ],
+     "a": 0,
+     "e": "La limite haute est 90 + 9 = 99 mots ; 105 mots la dépassent de 6 mots : le résumé est hors consigne et sera pénalisé.",
+     "ed": [
+      null,
+      "105 est supérieur à 99, borne haute de la fourchette.",
+      "La limite basse est 81 : 105 est au-dessus, non en dessous.",
+      "Le respect de la fourchette fait partie de la consigne et est contrôlé."
+     ],
+     "verif": "calcul",
+     "calc": "90 + 9"
+    },
+    {
+     "id": "n20261114-ct06-19",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Le texte dit : « Il ne s'agit ni de regretter le passé ni de célébrer l'individualisme. » Comment le garder en peu de mots ?",
+     "o": [
+      "« Le passé était meilleur. »",
+      "« L'auteur hésite. »",
+      "« L'individualisme est une bonne chose. »",
+      "« Sans nostalgie ni éloge de l'individualisme… »"
+     ],
+     "a": 3,
+     "e": "La double négation refuse deux excès opposés ; « sans nostalgie ni éloge de l'individualisme » condense fidèlement ce refus en gardant les deux termes.",
+     "ed": [
+      "C'est exactement la position que l'auteur refuse.",
+      "L'auteur n'hésite pas : il refuse deux positions extrêmes.",
+      "C'est l'autre excès que l'auteur refuse aussi.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-ct06-20",
+     "m": "ct",
+     "tag": "niv-ct06",
+     "q": "Un texte de société cite une enquête : « 62 % des jeunes interrogés disent s'informer d'abord sur les réseaux sociaux. » Que faire de ce chiffre ?",
+     "o": [
+      "Le garder dans tous les cas",
+      "Le remplacer par la tendance qu'il prouve, sauf s'il porte à lui seul l'argument",
+      "Le doubler pour insister",
+      "Le placer dans la conclusion"
+     ],
+     "a": 1,
+     "e": "Un chiffre est un exemple chiffré : on garde l'idée (la majorité des jeunes s'informe d'abord en ligne) et l'on ne conserve le chiffre que s'il est l'argument lui-même.",
+     "ed": [
+      "Garder systématiquement les chiffres coûte des mots sans prouver la compréhension.",
+      null,
+      "Modifier un chiffre serait une falsification du texte.",
+      "Le résumé suit l'ordre du texte : on ne déplace pas l'information."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-01",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Que désigne le mot « deleatur » dans les signes de correction ?",
+     "o": [
+      "Le signe d'insertion",
+      "Le signe d'interversion",
+      "Le signe de suppression",
+      "Le signe d'alinéa"
+     ],
+     "a": 2,
+     "e": "Le deleatur, mot latin signifiant « qu'il soit détruit », est le signe mis en marge pour indiquer qu'il faut supprimer une lettre ou un mot.",
+     "ed": [
+      "L'insertion ajoute une lettre ou un mot : c'est l'inverse du deleatur.",
+      "L'interversion échange l'ordre de deux lettres ou de deux mots.",
+      null,
+      "Le signe d'alinéa concerne la mise en page des paragraphes, non la suppression."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-02",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "En mise au net, que signifie la mention « correction annulée » sur le brouillon ?",
+     "o": [
+      "Il faut conserver le texte d'origine",
+      "Il faut appliquer la correction deux fois",
+      "Il faut supprimer toute la phrase",
+      "Il faut laisser un blanc"
+     ],
+     "a": 0,
+     "e": "« Correction annulée » signifie que l'auteur renonce à la correction qu'il avait marquée : le texte d'origine doit être conservé tel quel.",
+     "ed": [
+      null,
+      "Une correction annulée ne s'applique pas du tout.",
+      "Rien n'autorise à supprimer la phrase : le texte d'origine est maintenu.",
+      "Laisser un blanc rendrait la copie incomplète."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-03",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Quel est le but premier de l'épreuve de mise au net ?",
+     "o": [
+      "Résumer le brouillon",
+      "Réécrire le texte dans un meilleur style",
+      "Commenter les idées du texte",
+      "Reproduire fidèlement et proprement le texte corrigé"
+     ],
+     "a": 3,
+     "e": "La mise au net consiste à recopier proprement le brouillon en appliquant toutes les corrections et en corrigeant les fautes, sans rien changer au sens.",
+     "ed": [
+      "On ne réduit pas le texte : on le reproduit intégralement.",
+      "Le candidat n'est pas l'auteur : il ne réécrit pas le texte à sa manière.",
+      "Aucun commentaire n'est demandé : c'est une épreuve de reproduction.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-04",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Quelle abréviation est correcte en français pour « Monsieur » ?",
+     "o": [
+      "Mr",
+      "M.",
+      "Mon.",
+      "Msr"
+     ],
+     "a": 1,
+     "e": "En français, l'abréviation de Monsieur est « M. » ; « Mr » est l'abréviation anglaise de Mister, à proscrire dans un document administratif.",
+     "ed": [
+      "« Mr » est l'abréviation anglaise.",
+      null,
+      "« Mon. » n'est pas une abréviation en usage pour Monsieur.",
+      "« Msr » n'est pas une abréviation en usage."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-05",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Devant quel signe de ponctuation met-on une espace en français ?",
+     "o": [
+      "La virgule",
+      "Le point",
+      "Le point-virgule",
+      "Les points de suspension"
+     ],
+     "a": 2,
+     "e": "En typographie française, le point-virgule, le deux-points, le point d'interrogation et le point d'exclamation sont précédés d'une espace ; la virgule et le point ne le sont pas.",
+     "ed": [
+      "La virgule se colle au mot qui précède.",
+      "Le point se colle au mot qui précède.",
+      null,
+      "Les points de suspension se collent au mot qui précède."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-06",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Que faire d'une faute d'orthographe que l'auteur n'a pas signalée sur le brouillon ?",
+     "o": [
+      "La corriger",
+      "La recopier telle quelle",
+      "La souligner en rouge",
+      "La signaler en note de bas de page"
+     ],
+     "a": 0,
+     "e": "La mise au net exige un texte impeccable : le candidat corrige aussi les fautes non signalées, car l'orthographe est évaluée et sanctionnée.",
+     "ed": [
+      null,
+      "Recopier une faute, c'est la commettre soi-même dans la copie.",
+      "On rend un texte propre, sans marques de correction.",
+      "Aucune note n'est attendue : on corrige directement."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-07",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Mettez au net : « les candidats sont prié de se présenter munis de leur convocation »",
+     "o": [
+      "« Les candidats sont prié de se présenter munis de leur convocation. »",
+      "« Les candidats sont priées de se présenter munies de leur convocation. »",
+      "« Les candidats sont priés de se présenter muni de leur convocation. »",
+      "« Les candidats sont priés de se présenter munis de leur convocation. »"
+     ],
+     "a": 3,
+     "e": "« Prié » s'accorde avec le sujet « les candidats » (participe passé avec être) : « priés ». « Munis » s'accorde aussi avec « candidats ». Majuscule initiale et point final.",
+     "ed": [
+      "« Prié » doit s'accorder au pluriel avec « les candidats ».",
+      "« Les candidats » est masculin pluriel : le féminin « priées », « munies » est fautif.",
+      "« Muni » doit s'accorder au pluriel avec « candidats ».",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-08",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Quelle abréviation doit être développée dans un courrier officiel ?",
+     "o": [
+      "M.",
+      "qd",
+      "n°",
+      "Mme"
+     ],
+     "a": 1,
+     "e": "« qd » (quand) est une abréviation de prise de notes, non admise dans un document officiel ; M., Mme et n° sont des abréviations consacrées.",
+     "ed": [
+      "M. est l'abréviation consacrée de Monsieur.",
+      null,
+      "n° est admis devant un chiffre.",
+      "Mme est l'abréviation consacrée de Madame."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-09",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Dans le brouillon « le chef de service à transmis les dossiers », quelle correction faut-il faire ?",
+     "o": [
+      "Garder « à », car c'est une préposition",
+      "Écrire « as », comme à la 2e personne",
+      "Écrire « a » sans accent, car c'est le verbe avoir",
+      "Écrire « transmit » au lieu de « transmis »"
+     ],
+     "a": 2,
+     "e": "« a » est ici l'auxiliaire avoir : on peut dire « avait transmis ». Il s'écrit sans accent ; « transmis », participe passé de transmettre, est correct. Majuscule et point final complètent la mise au net.",
+     "ed": [
+      "« à » avec accent est une préposition : impossible devant un participe passé.",
+      "« as » est la 2e personne du singulier ; le sujet est à la 3e personne.",
+      null,
+      "« transmit » est un passé simple ; après l'auxiliaire, il faut le participe « transmis »."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-10",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Le brouillon porte : « Réunion le 12 avril , à 9 heures . » Quelle correction faut-il apporter ?",
+     "o": [
+      "Supprimer l'espace avant la virgule et avant le point",
+      "Ajouter une espace avant le point",
+      "Remplacer la virgule par un point-virgule",
+      "Ne rien changer"
+     ],
+     "a": 0,
+     "e": "En français, la virgule et le point se collent au mot qui précède, sans espace avant ; une espace suit la virgule. On écrit : « Réunion le 12 avril, à 9 heures. »",
+     "ed": [
+      null,
+      "Il y a déjà une espace fautive avant le point : il faut la supprimer, non en ajouter.",
+      "Rien ne justifie un point-virgule : il ne sépare pas ici deux propositions.",
+      "Les espaces avant la virgule et le point sont fautives : il faut corriger."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-11",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Le brouillon porte deux fois le mot « service » de suite, avec un deleatur sur le second. Que faire ?",
+     "o": [
+      "Garder les deux mots",
+      "Remplacer le second par un synonyme",
+      "Supprimer les deux mots",
+      "Supprimer le second mot"
+     ],
+     "a": 3,
+     "e": "Le deleatur ordonne la suppression de la lettre ou du mot marqué : on supprime le second « service » et l'on garde le premier.",
+     "ed": [
+      "Garder le doublon revient à ignorer la correction demandée.",
+      "Le deleatur supprime ; il ne demande aucun remplacement.",
+      "Seul le mot marqué est supprimé.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-12",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Le brouillon d'une lettre porte : « Je vous prie de bien vouloir me faire parvenir les pièces, svp. » Aucune correction n'est marquée. Quelle mise au net est la plus fidèle ?",
+     "o": [
+      "« Faites-moi parvenir les pièces. »",
+      "« Je vous prie de bien vouloir me faire parvenir les pièces, s'il vous plaît. »",
+      "« Je vous prie de bien vouloir me faire parvenir les pièces, svp. »",
+      "« Merci d'envoyer les pièces vite. »"
+     ],
+     "a": 1,
+     "e": "On ne retranche rien au texte sans signe de correction ; on développe l'abréviation de notes « svp » en « s'il vous plaît ».",
+     "ed": [
+      "Ce n'est plus le texte de l'auteur : la formule de courtoisie disparaît.",
+      null,
+      "« svp » est une abréviation de notes, non admise dans un courrier officiel.",
+      "Le texte est réécrit, avec un ton familier : ce n'est plus une mise au net."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-13",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Mettez au net : « les documents ce trouve dans l'armoire »",
+     "o": [
+      "« Les documents ce trouvent dans l'armoire. »",
+      "« Les documents se trouve dans l'armoire. »",
+      "« Les documents se trouvent dans l'armoire. »",
+      "« Les documents ce trouve dans l'armoire. »"
+     ],
+     "a": 2,
+     "e": "« se » est le pronom réfléchi du verbe se trouver (« ils se trouvent ») ; « ce » est un démonstratif. Le verbe s'accorde avec « les documents » : « trouvent ».",
+     "ed": [
+      "Le verbe est accordé, mais « ce » doit être remplacé par le pronom « se ».",
+      "Le verbe doit être au pluriel : « trouvent ».",
+      null,
+      "Double faute : « ce » au lieu de « se » et verbe non accordé."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-14",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Selon les conseils de méthode des concours administratifs, à quoi doit servir la relecture des dernières minutes ?",
+     "o": [
+      "À vérifier uniquement l'orthographe, conjugaisons et accords",
+      "À revoir le fond et changer le plan",
+      "À recopier tout le texte",
+      "À ajouter des idées"
+     ],
+     "a": 0,
+     "e": "Les conseils de Carrières publiques prévoient une relecture dans les dix dernières minutes, réservée à l'orthographe : conjugaisons et accords, sans revenir sur le fond.",
+     "ed": [
+      null,
+      "Revenir sur le fond à ce stade fait perdre du temps et crée des ratures.",
+      "Il n'y a plus le temps de tout recopier ; la relecture vérifie.",
+      "En mise au net, on n'ajoute aucune idée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-15",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Laquelle de ces abréviations est ADMISE dans un document officiel ?",
+     "o": [
+      "ds",
+      "pr",
+      "tjrs",
+      "n°"
+     ],
+     "a": 3,
+     "e": "« n° » est l'abréviation consacrée de numéro devant un chiffre ; « ds », « pr » et « tjrs » sont des abréviations de prise de notes à développer.",
+     "ed": [
+      "« ds » (dans) est une abréviation de notes.",
+      "« pr » (pour) est une abréviation de notes.",
+      "« tjrs » (toujours) est une abréviation de notes.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-16",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Dans le brouillon, une phrase vous paraît maladroite mais ne porte aucun signe de correction et ne contient aucune faute. Que faire ?",
+     "o": [
+      "La reformuler élégamment",
+      "La recopier telle quelle",
+      "La supprimer",
+      "La déplacer en fin de texte"
+     ],
+     "a": 1,
+     "e": "En mise au net, on ne réécrit pas le texte : une phrase correcte, non marquée, est recopiée telle quelle, même si on la trouve maladroite.",
+     "ed": [
+      "Reformuler, c'est se substituer à l'auteur : c'est sanctionné.",
+      null,
+      "Supprimer un passage non marqué retranche au sens.",
+      "Déplacer une phrase sans signe d'interversion change le texte."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-17",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "En typographie française, comment espace-t-on le deux-points ?",
+     "o": [
+      "Aucune espace avant, une espace après",
+      "Une espace avant, aucune après",
+      "Une espace avant et une espace après",
+      "Aucune espace, ni avant ni après"
+     ],
+     "a": 2,
+     "e": "Le deux-points est précédé et suivi d'une espace en typographie française : « Le dossier est complet : il peut être transmis. » La virgule, elle, ne prend jamais d'espace avant.",
+     "ed": [
+      "C'est la règle de la virgule et du point, non celle du deux-points.",
+      "Une espace doit aussi suivre le deux-points, avant le mot suivant.",
+      null,
+      "Coller le deux-points aux deux mots est fautif en français."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-18",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Le brouillon porte : « Les dossiers qui ont été transmis hier ont été examiner. » Où est la faute ?",
+     "o": [
+      "« examiner » devrait être « examinés »",
+      "« transmis » devrait être « transmit »",
+      "« ont été » devrait être « on été »",
+      "Il n'y a aucune faute"
+     ],
+     "a": 0,
+     "e": "Après l'auxiliaire « être » (« ont été »), il faut le participe passé, accordé avec le sujet « les dossiers » : « examinés ». Astuce : remplacez par « vendu » / « vendre » : on dit « ont été vendus ».",
+     "ed": [
+      null,
+      "« transmis » est le bon participe passé de transmettre ; « transmit » est un passé simple.",
+      "« ont » est le verbe avoir ; « on » est un pronom et ne convient pas.",
+      "L'infinitif « examiner » après « ont été » est une faute."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261114-rd08-19",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Le brouillon porte « le lundi 5 mai » avec un signe d'interversion entre « lundi » et « 5 ». Avant de l'appliquer, que doit faire le candidat ?",
+     "o": [
+      "L'appliquer sans réfléchir",
+      "Supprimer la date",
+      "L'ignorer",
+      "Vérifier que le résultat garde un sens"
+     ],
+     "a": 3,
+     "e": "Avant d'intervertir, il faut vérifier quels éléments le signe relie et si le résultat a un sens ; « le 5 lundi mai » n'en aurait pas : c'est sans doute une erreur de lecture du signe.",
+     "ed": [
+      "Appliquer mécaniquement peut produire une phrase absurde.",
+      "Supprimer la date retranche une information essentielle.",
+      "Ignorer un signe sans examen expose à oublier une correction demandée.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261114-rd08-20",
+     "m": "redac",
+     "tag": "niv-rd08",
+     "q": "Après avoir tout recopié, vous constatez l'oubli d'une ligne du brouillon. Quelle est la pire solution ?",
+     "o": [
+      "Recopier la page si le temps le permet",
+      "Laisser la ligne de côté pour garder une copie nette",
+      "Insérer proprement la ligne oubliée",
+      "Vérifier ensuite qu'aucune autre ligne ne manque"
+     ],
+     "a": 1,
+     "e": "Omettre une ligne retranche au texte, ce qui est la faute la plus grave en mise au net : le texte doit être reproduit intégralement, quitte à insérer proprement le passage.",
+     "ed": [
+      "Recopier la page est la meilleure solution quand le temps le permet.",
+      null,
+      "Une insertion soignée vaut mieux qu'un oubli.",
+      "Vérifier l'absence d'autres oublis est une bonne pratique."
+     ],
+     "verif": "methode"
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261114dp04",
+     "niv": "dp04",
+     "m": "dpen",
+     "titre": "La tentative et la complicité",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dire si des faits inachevés constituent une tentative punissable : commencement d'exécution, interruption involontaire, infraction impossible.",
+      "= Vous saurez aussi distinguer l'auteur, le coauteur, l'instigateur et le complice selon les articles 29 à 32 du Code pénal ivoirien (loi n°2019-574 du 26 juin 2019).",
+      "## Ce que demande l'épreuve",
+      "Le cas pratique de droit pénal met souvent en scène une infraction qui a « raté » ou plusieurs personnes qui ont agi ensemble. Le correcteur attend deux réflexes. D'abord, se demander si l'infraction est consommée ou seulement tentée, et si cette tentative est punissable. Ensuite, attribuer à chaque participant sa place exacte : auteur, coauteur ou complice. La dissertation, elle, peut porter sur la répression de l'intention ou sur la criminalité de groupe.",
+      "! Piège habituel : raisonner avec le droit français. En droit ivoirien, celui qui incite sciemment un tiers à commettre l'infraction est un auteur (article 29, 3°), et non un complice. Il est punissable même si l'infraction n'a été ni tentée ni commise.",
+      "## La méthode, pas à pas",
+      "- 1. Qualifiez l'infraction visée et sa catégorie : crime, délit ou contravention (article 3).",
+      "- 2. Infraction inachevée ? Situez l'acte : simple préparation (article 27) ou acte révélant sans équivoque l'intention irrévocable de commettre l'infraction (article 28).",
+      "- 3. Cherchez pourquoi l'action s'est arrêtée : cause extérieure à la volonté de l'auteur (tentative punissable) ou renonciation libre (pas de tentative punissable).",
+      "- 4. Pour un délit, trouvez le texte qui punit la tentative ; sans texte, la tentative de délit n'est pas punie.",
+      "- 5. Plusieurs participants ? Pour chacun, demandez-vous : a-t-il accompli l'acte matériel, participé avec l'auteur, incité, fourni un moyen ou aidé ? Puis appliquez les articles 29 et 30.",
+      "- 6. Concluez sur la peine : le complice encourt les mêmes peines que l'auteur (article 32), mais il est puni selon son degré de participation (article 35).",
+      "~ Exemple de conclusion de copie : « L'acte de K. révèle sans équivoque son intention irrévocable de voler ; il n'a été interrompu que par l'arrivée du vigile, circonstance indépendante de sa volonté. La tentative de vol est constituée au sens de l'article 28 si un texte punit la tentative de ce délit. »"
+     ],
+     "fond": [
+      "## Notion 1 : du projet à l'acte, où commence la répression ?",
+      "Règle : le chemin d'une infraction passe par plusieurs étapes : la pensée, la décision, la préparation, l'exécution, puis la consommation. Le droit pénal ne punit ni la pensée ni la décision. L'article 27 ajoute que les actes simplement destinés à préparer ou à rendre possible l'infraction ne sont pas punissables, sauf s'ils constituent par eux-mêmes une infraction prévue par la loi.",
+      "Pourquoi ? Celui qui prépare peut encore renoncer. Punir trop tôt reviendrait à sanctionner une intention, ce que le principe de légalité et la liberté individuelle interdisent. La répression commence lorsque l'acte ne laisse plus de doute sur ce que veut l'auteur.",
+      "~ Exemple résolu : à Yopougon, un homme achète un pied-de-biche et repère les horaires d'un magasin. Étape 1 : il n'a encore rien forcé. Étape 2 : ces actes rendent seulement le vol possible : ce sont des actes préparatoires (article 27). Étape 3 : l'achat d'un outil n'est pas en soi une infraction. Conclusion : rien de punissable à ce stade.",
+      "! Exception : un acte préparatoire peut être une infraction autonome. Détenir une arme interdite pour préparer un braquage est punissable en lui-même, non comme tentative mais comme infraction distincte.",
+      "## Notion 2 : la tentative punissable (article 28)",
+      "Règle : selon l'article 28, alinéa 1er, la tentative de crime est considérée comme le crime lui-même lorsqu'elle est manifestée par un acte impliquant, sans équivoque, l'intention irrévocable de son auteur, et qu'elle n'a été suspendue ou n'a manqué son effet que par des circonstances indépendantes de sa volonté. Deux conditions sont donc à vérifier : un acte univoque, puis une interruption involontaire.",
+      "Pourquoi ? L'acte « sans équivoque » prouve que l'on est sorti de la préparation. L'interruption « indépendante de la volonté » montre que l'auteur serait allé jusqu'au bout : sa dangerosité est la même que s'il avait réussi. C'est pourquoi la tentative de crime est punie comme le crime.",
+      "Pour les délits, l'alinéa 2 est plus restrictif : la tentative de délit n'est considérée comme le délit lui-même que dans les cas déterminés par une disposition de la loi. Il faut donc un texte spécial. Le Code ne vise pas la tentative de contravention : faute de texte, elle n'est pas punissable (principe de légalité, article 14).",
+      "~ Exemple résolu : un individu a forcé la porte d'une boutique d'Adjamé et remplit un sac de téléphones quand la police arrive. Étape 1 : forcer la porte et prendre les objets n'a qu'un sens possible : voler. L'acte est univoque. Étape 2 : il s'arrête à cause de la police, cause extérieure. Étape 3 : le vol est un délit ; on vérifie qu'un texte punit sa tentative. Conclusion : tentative punissable si ce texte existe.",
+      "? Une femme verse un produit toxique dans le plat de son voisin, puis, prise de remords, jette le plat avant qu'il ne soit servi. Y a-t-il tentative punissable ? || Non. L'acte est univoque, mais l'exécution a été suspendue par la propre volonté de l'auteure. L'article 28 n'incrimine la tentative que si elle n'a été suspendue que par des circonstances indépendantes de la volonté. Le désistement volontaire, intervenu avant la consommation, fait disparaître la tentative.",
+      "! Piège : le désistement doit précéder la consommation. Celui qui, après avoir blessé sa victime, la conduit à l'hôpital ne se désiste pas : l'infraction est déjà commise. Ce « repentir » peut seulement influencer la peine.",
+      "## Notion 3 : l'infraction manquée et l'infraction impossible",
+      "Règle : l'infraction manquée est celle où l'auteur a tout fait, mais le résultat ne se produit pas : il tire et manque sa cible. L'infraction impossible est celle dont le résultat ne pouvait pas être atteint. L'article 28, alinéa 3, tranche : la tentative est punissable alors même que le but recherché ne pouvait être atteint en raison d'une circonstance de fait.",
+      "Pourquoi ? Le danger social vient de la volonté criminelle déjà extériorisée. Que la victime ait eu de la chance, ou que le résultat ait été matériellement impossible, ne change rien à la culpabilité de l'auteur.",
+      "~ Exemple résolu : un pickpocket glisse la main dans le sac d'une passagère d'un gbaka ; le sac est vide. Étape 1 : l'acte est univoque. Étape 2 : l'échec tient à une circonstance de fait (l'absence d'argent), indépendante de sa volonté. Étape 3 : article 28, alinéa 3. Conclusion : la tentative est punissable, sous réserve, pour ce délit, du texte exigé par l'alinéa 2.",
+      "? Un homme tire sur un rival endormi qui, en réalité, était déjà mort d'une crise cardiaque. Peut-on retenir une tentative de meurtre ? || Oui. Le meurtre était impossible, la victime étant déjà morte, mais l'impossibilité tient à une circonstance de fait. L'article 28, alinéa 3, déclare la tentative punissable alors même que le but ne pouvait être atteint. Le meurtre étant un crime, sa tentative est punie comme le crime lui-même.",
+      "## Notion 4 : l'auteur, le coauteur et l'instigateur (article 29)",
+      "Règle : l'article 29 range trois personnes parmi les auteurs. 1° Celui qui commet matériellement l'infraction. 2° Celui qui, sans accomplir personnellement le fait matériel, a participé à sa commission avec l'auteur, ou s'est servi d'une personne pénalement irresponsable, ou a sciemment contraint autrui à la commettre. 3° Celui qui, sciemment et sans équivoque, incite un tiers à commettre l'infraction, en donnant des instructions ou en provoquant par dons, promesses, menaces, abus d'autorité ou de pouvoir, machinations ou artifices coupables, même si l'infraction n'a été ni tentée ni commise.",
+      "Pourquoi ? Le législateur ivoirien traite comme auteur celui qui a la maîtrise de l'infraction, même par la main d'un autre. L'instigateur est souvent le plus dangereux : il crée le projet criminel. C'est pourquoi il est puni même si le tiers n'a rien fait.",
+      "~ Exemple résolu : un commerçant promet 500 000 francs à un jeune pour incendier le magasin d'un concurrent ; le jeune refuse et prévient la police. Étape 1 : la promesse est une provocation, faite sciemment et sans équivoque. Étape 2 : article 29, 3°. Étape 3 : peu importe que l'incendie n'ait été ni tenté ni commis. Conclusion : le commerçant est punissable comme auteur.",
+      "! Piège : faire commettre l'infraction par un enfant ou une personne atteinte de troubles mentaux ne protège pas l'adulte. Il est auteur au sens de l'article 29, 2°, car il s'est servi d'un être pénalement irresponsable.",
+      "## Notion 5 : le complice et sa peine (articles 30 à 32)",
+      "Règle : selon l'article 30, est complice d'un crime ou d'un délit celui qui, sans prendre une part directe à sa réalisation, en connaissance de cause : 1° procure tout moyen devant servir à l'action, tel qu'une arme, un instrument ou un renseignement ; 2° aide ou assiste, directement ou indirectement, l'auteur dans les faits qui préparent ou consomment l'infraction.",
+      "Trois conditions en découlent : un fait principal qui soit un crime ou un délit ; un acte de complicité (fourniture d'un moyen, aide ou assistance) ; la connaissance de cause. L'aide doit porter sur la préparation ou la consommation : une aide apportée après coup n'est une complicité que si elle avait été promise avant l'infraction.",
+      "Pourquoi ? Le complice ne commet pas l'infraction, mais il la rend possible ou plus facile. Il emprunte la criminalité de l'auteur : c'est pourquoi l'article 32 lui fait encourir les mêmes peines et mesures de sûreté que l'auteur du crime, du délit ou de la tentative. L'article 31 le rend aussi complice de toute autre infraction qui était la conséquence prévisible de sa complicité.",
+      "! Le juge individualise toutefois : selon l'article 35, alinéa 2, tout complice d'une infraction est puni pour son propre fait, selon son degré de participation. « Mêmes peines encourues » ne veut pas dire « même peine prononcée ».",
+      "? Un gardien de nuit communique à des cambrioleurs le code de l'alarme d'une banque de Treichville, sans participer au vol. Quelle est sa qualité ? || Il est complice. Il n'a pas pris de part directe à la réalisation, mais il a procuré, en connaissance de cause, un renseignement devant servir à l'action (article 30, 1°). Il encourt les mêmes peines que les auteurs du vol (article 32), le juge tenant compte de son degré de participation (article 35)."
+     ],
+     "retenir": [
+      "Les actes simplement préparatoires ne sont pas punissables, sauf s'ils constituent par eux-mêmes une infraction (article 27 du Code pénal).",
+      "Tentative punissable : acte impliquant sans équivoque l'intention irrévocable, interrompu seulement par des circonstances indépendantes de la volonté de l'auteur (article 28).",
+      "La tentative de crime est punie comme le crime ; la tentative de délit seulement dans les cas prévus par un texte.",
+      "Le désistement volontaire, avant la consommation, empêche la tentative punissable ; le repentir après la consommation n'efface pas l'infraction.",
+      "La tentative reste punissable même si le but ne pouvait être atteint en raison d'une circonstance de fait (article 28, alinéa 3).",
+      "En droit ivoirien, l'instigateur qui incite sciemment un tiers est auteur, même si l'infraction n'a été ni tentée ni commise (article 29, 3°).",
+      "Complice : sans part directe, en connaissance de cause, il procure un moyen ou aide l'auteur à préparer ou consommer un crime ou délit (article 30).",
+      "Le complice encourt les mêmes peines que l'auteur (article 32), mais est puni selon son degré de participation (article 35)."
+     ],
+     "exo": {
+      "tag": "niv-dp04",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Loi n°2019-574 du 26 juin 2019 portant Code pénal (JORCI du 10 juillet 2019), articles 21 à 35",
+       "u": "https://famille.gouv.ci/public/documents/doc_drcc/loi_2019-574_portant_code_p%C3%A9nal.pdf"
+      },
+      {
+       "t": "Loidici – Articles du Code pénal modifiés, supprimés ou insérés le 21 décembre 2021",
+       "u": "https://loidici.biz/?p=22900"
+      },
+      {
+       "t": "Cabinet ACI – La tentative en droit pénal",
+       "u": "https://www.cabinetaci.com/?p=5890"
+      },
+      {
+       "t": "Gdroit – La tentative en droit pénal",
+       "u": "https://gdroit.fr/droit-penal/la-tentative-en-droit-penal/"
+      },
+      {
+       "t": "Cabinet ACI – La complicité en droit pénal",
+       "u": "https://www.cabinetaci.com/la-complicite-en-droit-penal/"
+      }
+     ]
+    },
+    {
+     "id": "L20261114ct06",
+     "niv": "ct06",
+     "m": "ct",
+     "titre": "Résumer un texte de société : entraînement guidé",
+     "min": 60,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez repérer le mouvement d'un texte de société (idée reçue, réfutation, nuance, proposition) et le résumer sans prendre parti à la place de l'auteur.",
+      "= Vous saurez aussi traiter les témoignages, les anecdotes et les mots chargés d'émotion, puis rédiger un résumé complet dans la fourchette imposée.",
+      "## Ce que demande l'épreuve",
+      "Les textes de société parlent de la famille, de la jeunesse, de la ville, de l'école, des réseaux sociaux ou de la cohésion sociale. Ce sont des sujets où chacun a une opinion. C'est le danger : le candidat glisse ses propres idées dans le résumé, ou adoucit une thèse qui le choque. Le correcteur vérifie que vous restituez la pensée de l'auteur, dans son ordre, avec son ton et sa nuance, et rien d'autre.",
+      "! Piège habituel : prendre la description d'un problème pour la thèse. L'auteur décrit souvent longuement une crise avant de dire qu'elle n'est pas celle que l'on croit. Le cœur du texte est dans ce retournement.",
+      "## La méthode, pas à pas",
+      "- 1. Première lecture : notez le thème (de quoi parle-t-on ?) et la thèse (que soutient l'auteur ?), puis le domaine et la source (Lycée Champollion).",
+      "- 2. Pour chaque paragraphe, écrivez une phrase-étiquette ; signalez par « idée reçue », « concession », « réfutation » ou « proposition » le rôle du paragraphe.",
+      "- 3. Rayez les témoignages, anecdotes et citations : gardez seulement l'idée qu'ils prouvent.",
+      "- 4. Notez la nuance finale : beaucoup de textes de société concluent par « oui, mais » ou par une proposition.",
+      "- 5. Rédigez en gardant l'énonciation de l'auteur : mêmes pronoms, mêmes temps, sans « l'auteur dit que ».",
+      "- 6. Comptez vos mots, visez le haut de la fourchette (± 10 %), puis relisez en cinq minutes (Emploipublic).",
+      "~ Exemple : « Ma voisine, à Koumassi, m'a confié qu'elle n'avait plus vu ses petits-enfants depuis la Tabaski. » Idée prouvée : l'éloignement des générations en ville. Dans le résumé : « En ville, les générations se voient moins. »"
+     ],
+     "fond": [
+      "## Notion 1 : le mouvement typique d'un texte de société",
+      "Règle : un texte de société suit souvent quatre temps. Il expose une idée reçue (« on dit que… »), la nuance ou la réfute (« en réalité… »), concède une part de vérité à l'adversaire (« certes… »), puis propose une solution ou une ouverture. Le paragraphe est l'unité de pensée : chacun porte en général un de ces temps.",
+      "Pourquoi ? L'auteur veut convaincre un lecteur qui partage l'opinion commune. Il part donc de cette opinion pour la déplacer. Repérer ce mouvement, c'est trouver la thèse : elle est presque toujours dans la réfutation, pas dans l'idée reçue.",
+      "~ Exemple résolu : un texte sur les réseaux sociaux. Idée reçue : ils isolent les jeunes. Réfutation : ils créent d'autres liens, souvent plus nombreux. Concession : certes, ils exposent au harcèlement. Proposition : éduquer à leur usage plutôt que les interdire. Le résumé suit exactement ces quatre temps, dans cet ordre.",
+      "! Piège : résumer l'idée reçue comme si c'était la pensée de l'auteur. Signalez toujours qu'il la rapporte pour la discuter : « On croit souvent que… ; en réalité… ».",
+      "## Notion 2 : témoignages, anecdotes et chiffres d'enquête",
+      "Règle : le témoignage, l'anecdote et la citation sont des exemples. Ils rendent le texte vivant mais ne portent pas l'argument. Dans le résumé, on garde l'idée qu'ils illustrent et l'on supprime le récit. Un exemple qui fait avancer le raisonnement se généralise en une formule courte.",
+      "Pourquoi ? La méthode distingue les exemples qui illustrent, que l'on supprime, et ceux qui font avancer le raisonnement, que l'on condense (Lycée Champollion). Raconter l'anecdote coûte des mots sans prouver que l'on a compris.",
+      "~ Exemple résolu : « À Daloa, Awa, 24 ans, vend des pagnes en ligne depuis sa chambre : elle gagne plus que dans la boutique de son oncle. » Étape 1 : qui est Awa ? un cas particulier. Étape 2 : quelle idée prouve-t-il ? le commerce en ligne offre aux jeunes une autonomie économique. Résumé : « Le commerce en ligne rend des jeunes autonomes. » (7 mots au lieu de 26.)",
+      "? Réduisez à une idée : « Dans un quartier d'Abobo, une association de femmes a ouvert une crèche ; une autre, à Bouaké, organise des cours du soir pour les commerçantes ; une troisième, à Man, finance des puits. » || « Les associations de femmes répondent elles-mêmes aux besoins de leur quartier. » Les trois cas illustrent une même idée : l'initiative locale des associations. On supprime les lieux et les réalisations, on garde le point commun.",
+      "## Notion 3 : rester neutre face aux mots chargés",
+      "Règle : le résumé reproduit la position de l'auteur, y compris son degré de certitude et son ton. On ne durcit pas une thèse prudente ; on n'adoucit pas une thèse sévère. Les mots-clés du texte se conservent ; les mots d'émotion (« scandale », « catastrophe ») se remplacent par leur idée si le texte n'en fait pas un concept.",
+      "Pourquoi ? L'énonciation doit être celle du texte : mêmes pronoms et mêmes temps, sans « selon l'auteur » (Lycée Champollion). Ajouter son jugement ou retirer celui de l'auteur, c'est trahir le texte, même avec de bonnes intentions.",
+      "~ Exemple résolu : « Il serait peut-être temps de se demander si l'école prépare encore à la vie. » Erreur : « L'école ne prépare plus à la vie. » (la prudence a disparu). Correct : « On peut douter que l'école prépare encore à la vie. »",
+      "? Corrigez ce résumé infidèle : texte = « Les tontines, sans être parfaites, ont souvent rendu plus de services aux femmes que les banques. » ; résumé du candidat = « Les tontines sont meilleures que les banques. » || « Malgré leurs défauts, les tontines ont souvent mieux servi les femmes que les banques. » Le candidat a supprimé la concession (« sans être parfaites »), le modalisateur (« souvent ») et le public concerné (« aux femmes ») : sa phrase généralise ce que l'auteur nuançait.",
+      "## Notion 4 : entraînement guidé complet",
+      "> Texte d'entraînement original (environ 290 mots). Consigne : résumez-le en 90 mots, plus ou moins 10 %.",
+      "> § 1. On répète volontiers que la ville tue la solidarité familiale. Le jeune qui part travailler à Abidjan oublierait ses parents restés au village, et chacun, en ville, ne penserait plus qu'à soi. Ce constat, si souvent entendu, mérite d'être nuancé.",
+      "> § 2. Il est vrai que la grande famille réunie sous un même toit se fait plus rare. La distance, le prix des loyers et l'exiguïté des logements urbains empêchent d'accueillir oncles, cousins et grands-parents. Une jeune infirmière de Cocody le dit simplement : « Je n'ai que deux pièces ; je ne peux plus héberger tout le monde. »",
+      "> § 3. Mais la solidarité n'a pas disparu : elle a changé de forme. Les transferts d'argent par téléphone remplacent les visites ; les tontines et les associations de ressortissants d'un même village prennent en charge les funérailles, les frais de scolarité ou les soins. On s'entraide moins par obligation de cohabitation que par choix.",
+      "> § 4. Cette mutation a des avantages : elle laisse aux jeunes une liberté que la grande famille ne leur accordait pas toujours. Elle a aussi un coût. Ceux qui n'ont pas de réseau, les personnes âgées isolées ou les migrants récents, risquent de passer entre les mailles de cette solidarité choisie.",
+      "> § 5. Il ne s'agit donc ni de regretter le passé ni de célébrer l'individualisme. La société doit relayer la solidarité familiale là où elle faiblit, par des services publics de proximité : centres sociaux, aide aux aînés, accueil des nouveaux arrivants. Non pour remplacer la famille, mais pour la soutenir.",
+      "? Étape 1 : quelle est l'idée reçue, et quelle est la thèse de l'auteur ? || Idée reçue (§ 1) : la ville détruirait la solidarité familiale. Thèse (§ 3 et § 5) : la solidarité ne disparaît pas, elle se transforme ; la société doit la soutenir là où elle faiblit. Le signal de réfutation est « mérite d'être nuancé » puis « Mais la solidarité n'a pas disparu ».",
+      "? Étape 2 : donnez la phrase-étiquette et le rôle de chaque paragraphe. || § 1 (idée reçue) : la ville tuerait la solidarité. § 2 (concession) : la cohabitation recule à cause de la distance, des loyers et des logements étroits. § 3 (réfutation) : la solidarité change de forme, transferts, tontines, associations ; elle devient choisie. § 4 (nuance) : liberté pour les jeunes, mais exclusion des plus fragiles. § 5 (proposition) : relayer la famille par des services publics de proximité. Le témoignage de l'infirmière et la liste des services se généralisent.",
+      "? Étape 3 : rédigez le résumé en 90 mots (de 81 à 99), puis comparez au corrigé. || Corrigé (86 mots, apostrophe comptée comme séparation) : « La ville passe pour détruire la solidarité familiale. En réalité, elle la transforme. Certes, l'éloignement, le coût de la vie et l'exiguïté des logements ont raréfié la cohabitation des générations. Mais l'entraide subsiste sous d'autres formes : transferts d'argent, tontines, associations de ressortissants. Cette solidarité devenue choisie libère les jeunes, sans abandonner pour autant les plus fragiles, privés de réseau. La société doit donc la relayer par des services publics de proximité, non pour remplacer la famille, mais pour la soutenir. » Commentaire : les cinq temps sont dans l'ordre ; la concession (« Certes… Mais ») est conservée ; le témoignage est supprimé ; les exemples d'entraide sont gardés en liste brève car ils portent la réfutation ; la proposition finale garde sa nuance (« non pour remplacer… mais pour soutenir ») ; aucun « l'auteur pense que »."
+     ],
+     "retenir": [
+      "Un texte de société suit souvent quatre temps : idée reçue, concession, réfutation, proposition.",
+      "La thèse se trouve dans la réfutation de l'idée reçue, presque jamais dans le constat d'ouverture.",
+      "Témoignages, anecdotes et citations sont des exemples : on garde l'idée qu'ils prouvent, on supprime le récit.",
+      "Le résumé garde le degré de certitude de l'auteur : on ne durcit pas une thèse prudente.",
+      "On conserve la concession « certes… mais » : elle fait partie du raisonnement.",
+      "Aucune opinion personnelle dans le résumé, même sur un sujet qui touche le candidat.",
+      "Fourchette de ± 10 % : pour 90 mots, de 81 à 99 ; viser le haut de la fourchette."
+     ],
+     "exo": {
+      "tag": "niv-ct06",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Lycée Champollion – Méthodologie : le résumé ou contraction de texte (G. Negrello)",
+       "u": "https://www.lycee-champollion.fr/IMG/pdf/resume.pdf"
+      },
+      {
+       "t": "Emploipublic – Concours de la fonction publique : 10 règles de méthode à retenir",
+       "u": "https://infos.emploipublic.fr/article/concours-de-la-fonction-publique-10-regles-de-methode-a-retenir-eea-6869"
+      }
+     ]
+    },
+    {
+     "id": "L20261114rd08",
+     "niv": "rd08",
+     "m": "redac",
+     "titre": "La mise au net : corriger et présenter un brouillon",
+     "min": 50,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez lire les signes de correction portés sur un brouillon, les appliquer tous sans en oublier, et corriger au passage l'orthographe, la ponctuation et les abréviations.",
+      "= Vous saurez aussi rendre une copie propre et bien présentée, qui reproduit fidèlement le texte corrigé.",
+      "## Ce que demande l'épreuve",
+      "La mise au net consiste à recopier proprement un brouillon raturé et annoté. Le brouillon contient deux sortes de défauts. Les uns sont signalés par l'auteur : mots à supprimer, à ajouter, à déplacer. Les autres ne sont pas signalés : fautes d'orthographe, d'accord, de ponctuation, abréviations familières. Le correcteur vérifie que toutes les corrections demandées sont appliquées, que les fautes cachées sont corrigées, et que rien n'a été ajouté ni retranché au sens.",
+      "! Piège habituel : réécrire le texte « à sa manière ». En mise au net, vous n'êtes pas l'auteur : vous êtes le secrétaire qui rend le texte de l'auteur impeccable.",
+      "## La méthode, pas à pas",
+      "- 1. Lisez tout le brouillon une fois, sans écrire, pour comprendre le texte et sa logique.",
+      "- 2. Repérez chaque signe de correction et numérotez-le au crayon dans la marge du sujet, si le règlement le permet.",
+      "- 3. Recopiez paragraphe par paragraphe, en appliquant les corrections dans l'ordre du texte.",
+      "- 4. Corrigez au passage les fautes non signalées : accords, conjugaison, accents, ponctuation.",
+      "- 5. Développez les abréviations familières ; gardez seulement les abréviations admises dans un document officiel.",
+      "- 6. Gardez dix minutes pour une relecture consacrée uniquement à l'orthographe, puis comparez la copie au brouillon ligne par ligne (Carrières publiques).",
+      "~ Exemple : le brouillon porte « la reunion aura lieu ds la salle de conf. le 3 mars ». Mise au net : « La réunion aura lieu dans la salle de conférence le 3 mars. » Quatre corrections : majuscule, accent, deux abréviations développées, point final."
+     ],
+     "fond": [
+      "## Notion 1 : les signes de correction et ce qu'ils demandent",
+      "Règle : les corrections portées sur une épreuve sont signalées par des signes conventionnels. Les listes de signes typographiques distinguent notamment : lettre à changer, lettres à insérer, mot à rajouter, mot à supprimer, partie de mot à supprimer, lettres ou mots à intervertir, mettre en grande capitale, mettre en italique ou en romain, espace à rajouter ou à réduire, alinéa à supprimer, ligne à renfoncer, correction annulée (Presses universitaires de la Méditerranée).",
+      "Le signe de suppression s'appelle le deleatur, mot latin signifiant « qu'il soit détruit » ; il est mis en marge pour indiquer qu'il faut supprimer une lettre ou un mot (Office québécois de la langue française).",
+      "Pourquoi ? Les signes permettent à l'auteur de signaler une correction sans réécrire la page. Ils forment un langage commun entre celui qui corrige et celui qui recopie : votre travail est de le traduire en texte propre.",
+      "~ Exemple résolu : le brouillon porte « Tous les agents sont convoqués convoqués à la réunion annuelle samedi du bilan », avec un deleatur sur le second « convoqués » et un signe d'interversion entre « samedi » et « du bilan ». Étape 1 : supprimer le doublon marqué. Étape 2 : échanger les deux groupes reliés par le signe, sans les modifier. Étape 3 : relire pour vérifier le sens. Mise au net : « Tous les agents sont convoqués à la réunion annuelle du bilan samedi. »",
+      "! Piège : la mention « correction annulée » signifie qu'il faut garder le texte d'origine. Appliquer une correction annulée est une faute.",
+      "## Notion 2 : corriger ce qui n'est pas signalé",
+      "Règle : le brouillon contient aussi des fautes que personne n'a marquées. Le candidat doit les corriger : accords du verbe et du participe, homophones (a / à, et / est, ces / ses), accents, majuscules en début de phrase et pour les noms propres.",
+      "Pourquoi ? Un document administratif engage l'Administration : une faute d'orthographe abîme son image et peut changer le sens. L'orthographe est évaluée et sanctionnée ; les accents et la ponctuation comptent dans les fautes (Carrières publiques).",
+      "~ Exemple résolu : « Les pièces qui vous ont été demandé doivent être deposer avant le 15. » Étape 1 : « demandé » se rapporte à « qui », mis pour « les pièces » : avec l'auxiliaire être, accord en genre et en nombre → « demandées ». Étape 2 : après « doivent être », il faut un participe passé, accordé avec « pièces » → « déposées ». Mise au net : « Les pièces qui vous ont été demandées doivent être déposées avant le 15. »",
+      "? Mettez au net : « le directeur à signé les décisions, il les à transmises au service de la solde » || « Le directeur a signé les décisions ; il les a transmises au service de la solde. » « a » sans accent est le verbe avoir (on peut dire « avait signé ») ; « à » est une préposition. Majuscule initiale, point final ; le point-virgule ou le point sépare deux propositions indépendantes mieux qu'une simple virgule.",
+      "## Notion 3 : abréviations et ponctuation",
+      "Règle : dans un document officiel, on développe les abréviations familières de prise de notes (« ds », « pr », « qd », « tjrs », « svp »). On garde les abréviations consacrées : M. pour Monsieur, Mme pour Madame, n° pour numéro devant un chiffre, etc. en fin d'énumération. En ponctuation française, on ne met pas d'espace avant la virgule et le point, mais une espace avant le deux-points, le point-virgule, le point d'interrogation et le point d'exclamation.",
+      "Pourquoi ? Les abréviations de notes sont réservées à l'usage personnel ; dans un courrier, elles paraissent négligées. L'usage excessif d'abréviations pour contourner les difficultés d'orthographe est à éviter (Carrières publiques).",
+      "~ Exemple résolu : « Mr le Dir. vous prie de lui transmettre qd vous pourrez le dossier n 12 » Étape 1 : « Mr » est l'abréviation anglaise ; en français, « M. ». Étape 2 : développer « Dir. » en « Directeur » et « qd » en « quand ». Étape 3 : « n » devient « n° » devant le chiffre. Étape 4 : isoler l'incise par des virgules, sans changer les mots. Mise au net : « M. le Directeur vous prie de lui transmettre, quand vous pourrez, le dossier n° 12. »",
+      "? Développez ou corrigez : « RDV pr le cpte rendu ds le bureau du chef de serv. » || « Rendez-vous pour le compte rendu dans le bureau du chef de service. » Toutes ces abréviations sont des abréviations de prise de notes : elles ne sont pas admises dans un document officiel. Majuscule initiale et point final.",
+      "## Notion 4 : la présentation de la copie",
+      "Règle : la copie mise au net doit être lisible et régulière : marges, paragraphes nettement séparés, alignement du texte, aucune rature. Si une erreur échappe, on la corrige « clairement et proprement », d'un trait net.",
+      "Pourquoi ? Dans cette épreuve, la présentation fait partie de la note : une copie négligée, raturée ou mal écrite perd des points. Le test est simple : si vous relisez votre copie avec plaisir, le correcteur aussi (Carrières publiques).",
+      "~ Exemple résolu : le brouillon d'une note de service est écrit d'un seul bloc. Étape 1 : repérez les changements d'idée (rappel de la règle, instruction, date d'effet). Étape 2 : un alinéa par idée, sauf si le brouillon porte « alinéa à supprimer ». Étape 3 : laissez une marge régulière et alignez les éléments de présentation (timbre, date, objet) selon le modèle du document.",
+      "? Vous découvrez, après avoir tout recopié, que vous avez oublié une ligne entière du brouillon au milieu de la page. Que faire ? || Si le temps le permet, recopiez la page entière : une ligne ajoutée en marge ou entre les lignes ruine la présentation. Sinon, insérez la ligne de façon nette et lisible plutôt que de l'omettre : l'oubli d'un passage est une faute plus grave qu'un ajout soigné, car le texte doit être reproduit intégralement."
+     ],
+     "retenir": [
+      "La mise au net reproduit fidèlement le texte corrigé : on n'ajoute rien et on ne retranche rien au sens.",
+      "Le deleatur, du latin « qu'il soit détruit », est le signe qui ordonne de supprimer une lettre ou un mot.",
+      "La mention « correction annulée » oblige à conserver le texte d'origine.",
+      "Le candidat corrige aussi les fautes non signalées : accords, homophones, accents, majuscules, ponctuation.",
+      "On développe les abréviations de notes (ds, pr, qd, svp) ; on garde M., Mme, n° et etc.",
+      "En français, on écrit « M. » pour Monsieur, jamais l'abréviation anglaise « Mr ».",
+      "Espace avant deux-points, point-virgule, point d'interrogation et d'exclamation ; aucune espace avant la virgule et le point.",
+      "Gardez dix minutes de relecture consacrées uniquement à l'orthographe."
+     ],
+     "exo": {
+      "tag": "niv-rd08",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Presses universitaires de la Méditerranée – Signes de corrections typographiques",
+       "u": "https://www.pulm.fr/media/wysiwyg/Articles/Signes_de_corrections_typo.pdf"
+      },
+      {
+       "t": "Office québécois de la langue française – Grand dictionnaire terminologique : deleatur",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8432624/deleatur"
+      },
+      {
+       "t": "Carrières publiques – Concours de la fonction publique : 3 conseils pour éviter les fautes d'orthographe",
+       "u": "https://www.carrieres-publiques.com/actualite-fonction-publique-reussir-les-concours-de-la-fonction-publique-3-conseils-pour-eviter-les-fautes-d-orthographe-d-2998"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "redac",
+     "src": "original",
+     "ref": "Entraînement · 14 nov. 2026",
+     "t": "Mise au net. Recopiez proprement le brouillon suivant d'une note de service, en appliquant les corrections indiquées entre crochets et en corrigeant toutes les fautes non signalées : « NOTE DE SERVICE. Objet : horaires d'acceuil du public. A compter du lundi 1er decembre, l'acceuil du public sera assurer de 7 h 30 à 15 h 30 [supprimer : sans interruption sans interruption → garder une seule fois]. Les agents affecté au guichet devront ce présenter quinze minutes avant l'ouverture. Mr le chef de serv. veillera ds chaque bureau au respect de la présente note , qui prend effet immédiatement [intervertir : « prend effet immédiatement » et « qui »  → correction annulée]. »",
+     "plan": [
+      "Lecture complète puis repérage des deux crochets : appliquer la suppression du doublon (« sans interruption » une seule fois) ; ne pas appliquer l'interversion, puisqu'elle porte la mention « correction annulée ».",
+      "Fautes non signalées : « accueil » (deux fois), « À compter », « décembre », « sera assuré », « Les agents affectés », « devront se présenter ».",
+      "Abréviations et ponctuation : « M. le chef de service », « dans chaque bureau », aucune espace avant la virgule.",
+      "Présentation : titre « NOTE DE SERVICE » en capitales, objet sur une ligne, un alinéa par idée (horaires, obligation des agents, contrôle), copie sans rature ; relecture finale consacrée à l'orthographe."
+     ]
+    }
+   ]
   }
  ]
 }
