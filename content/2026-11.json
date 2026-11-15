@@ -23209,6 +23209,384 @@
       "t": "Abidjan.net, « BAD : l'historique de l'institution panafricaine »",
       "u": "https://news.abidjan.net/articles/510688/bad-lhistorique-de-linstitution-panafricaine"
      }
+    },
+    {
+     "id": "c20261115-ns02-01",
+     "tag": "niv-ns02",
+     "m": "ns",
+     "q": "Le dossier contient un tableau statistique de deux pages sur l'inscription des jeunes à un dispositif d'insertion. Comment l'exploiter lors du dépouillement ?",
+     "o": [
+      "Le recopier intégralement en annexe de la note",
+      "L'écarter, car la note ne contient jamais de chiffres",
+      "Recalculer les pourcentages pour vérifier ceux de l'auteur",
+      "En extraire les deux ou trois données qui montrent une tendance, avec leur date et la référence du document"
+     ],
+     "a": 3,
+     "e": "On ne retient d'un tableau que les données significatives (une évolution, un écart, un ordre de grandeur), relevées avec leur unité, leur date et leur document, pour les placer dans la bonne ligne du tableau de dépouillement.",
+     "ed": [
+      "La note n'a pas d'annexe : elle synthétise, elle ne reproduit pas les documents.",
+      "Faux : les chiffres clés du dossier font partie des informations à restituer, avec leur référence.",
+      "On ne recalcule pas les chiffres du dossier : on les rapporte tels qu'ils sont donnés, en les attribuant à leur document.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns02-02",
+     "tag": "niv-ns02",
+     "m": "ns",
+     "q": "Au survol, vous constatez que deux documents du dossier traitent d'une même réforme à cinq ans d'intervalle. Quelle précaution prendre pour la suite du classement ?",
+     "o": [
+      "Noter les deux dates : elles permettent de distinguer la situation avant et après la réforme, et d'éviter de présenter comme actuelle une donnée ancienne",
+      "Ne garder que le plus récent et ignorer l'autre",
+      "Fusionner les deux documents en un seul résumé",
+      "Considérer que le plus ancien fait autorité, car il est antérieur"
+     ],
+     "a": 0,
+     "e": "La date de chaque document, relevée dès le survol, sert à situer les informations dans le temps : elle permet de montrer une évolution et d'éviter d'attribuer au présent une situation dépassée.",
+     "ed": [
+      null,
+      "Tout document du dossier doit être exploité au moins une fois ; l'ancien peut éclairer la situation de départ.",
+      "Résumer deux documents ensemble ferait perdre l'évolution et les références propres à chacun.",
+      "L'ancienneté ne donne aucune autorité particulière : chaque document est situé par sa date et sa nature, sans hiérarchie automatique."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ct03-01",
+     "tag": "niv-ct03",
+     "m": "ct",
+     "q": "Quel test permet le mieux de vérifier qu'une phrase de votre résumé n'est pas une paraphrase ?",
+     "o": [
+      "Vérifier qu'elle commence par un connecteur logique",
+      "Compter les virgules de la phrase",
+      "Vérifier qu'elle contient au moins un synonyme",
+      "Souligner les mots repris du texte et comparer la longueur des deux phrases"
+     ],
+     "a": 3,
+     "e": "Une paraphrase reprend la structure et presque autant de mots que l'original : on la repère en soulignant les mots identiques au texte (hors notions techniques) et en vérifiant que la phrase est nettement plus courte.",
+     "ed": [
+      "Un connecteur ne dit rien de la reformulation : une paraphrase peut très bien commencer par « donc ».",
+      "Le nombre de virgules ne mesure ni la réduction ni la reprise des mots de l'auteur.",
+      "Remplacer un mot par un synonyme est justement le procédé de la paraphrase, pas la preuve d'une reformulation.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ct03-02",
+     "tag": "niv-ct03",
+     "m": "ct",
+     "q": "Quel mot englobant remplace exactement « les infirmiers, les sages-femmes, les médecins et les aides-soignants » ?",
+     "o": [
+      "Les fonctionnaires",
+      "Les personnels de santé",
+      "Les médecins",
+      "Les travailleurs sociaux"
+     ],
+     "a": 1,
+     "e": "Le mot englobant doit couvrir tous les éléments de l'énumération, et seulement eux : « les personnels de santé » réunit exactement ces quatre métiers du soin.",
+     "ed": [
+      "Trop large et inexact : ces soignants ne sont pas tous fonctionnaires, et bien des fonctionnaires ne soignent pas.",
+      null,
+      "Trop étroit : « les médecins » n'est qu'un des quatre éléments et exclut les trois autres.",
+      "Inexact : les travailleurs sociaux (assistants sociaux, éducateurs) ne sont pas des soignants."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ct03-03",
+     "tag": "niv-ct03",
+     "m": "ct",
+     "q": "Quelle est la nominalisation correcte de « Les jeunes quittent massivement les campagnes » ?",
+     "o": [
+      "L'exode massif des jeunes ruraux",
+      "Les jeunes campagnards massifs",
+      "La campagne quittée par les jeunes",
+      "Le massif départ campagnard"
+     ],
+     "a": 0,
+     "e": "Nominaliser, c'est transformer la proposition en groupe nominal en gardant tout son sens : le verbe « quitter les campagnes » devient le nom « exode », l'adverbe « massivement » devient l'adjectif « massif ».",
+     "ed": [
+      null,
+      "Le groupe perd l'action de partir et rend « massif » absurde : le sens est trahi.",
+      "Ce n'est pas une nominalisation mais une mise au passif, qui ne raccourcit rien et perd l'idée de masse.",
+      "Groupe incorrect : l'ordre « massif départ » est fautif et le complément « des jeunes » a disparu."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ct03-04",
+     "tag": "niv-ct03",
+     "m": "ct",
+     "q": "Texte : « Bien que l'État ait construit de nombreuses écoles, le taux d'abandon scolaire reste élevé dans le Nord. » Quelle réduction est fidèle ?",
+     "o": [
+      "L'État ayant construit des écoles, l'abandon scolaire a disparu dans le Nord.",
+      "L'abandon scolaire reste élevé dans le Nord, car l'État n'a pas construit d'écoles.",
+      "L'auteur regrette l'abandon scolaire dans le Nord.",
+      "Malgré la multiplication des écoles, l'abandon scolaire persiste dans le Nord."
+     ],
+     "a": 3,
+     "e": "La phrase repose sur une concession (« bien que ») : la réduction doit la conserver. « Malgré » garde l'opposition entre l'effort de construction et la persistance de l'abandon, en moins de mots.",
+     "ed": [
+      "Contresens : le texte dit que l'abandon reste élevé, pas qu'il a disparu.",
+      "Contresens : le texte affirme que des écoles ont été construites ; la cause inventée trahit l'auteur.",
+      "« L'auteur regrette » sort de la voix de l'auteur et perd l'idée de concession : c'est un commentaire, pas un résumé.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ct03-05",
+     "tag": "niv-ct03",
+     "m": "ct",
+     "q": "Dans un texte, on lit : « Comme le disait un vieux planteur de Daloa : “La terre ne ment pas.” » Que faire de cette phrase dans le résumé ?",
+     "o": [
+      "La recopier entre guillemets, car c'est une citation",
+      "La remplacer par « selon un planteur, la terre ne ment pas »",
+      "La supprimer, ou n'en garder que l'idée si elle porte un argument du texte",
+      "La placer en conclusion du résumé"
+     ],
+     "a": 2,
+     "e": "Les citations et les anecdotes illustrent l'argument sans le constituer : on les supprime. Si elles expriment une idée de l'auteur, on reformule cette idée sans la citation.",
+     "ed": [
+      "Recopier une citation est une reprise des mots du texte : elle est sanctionnée dans le résumé.",
+      "C'est encore une citation, seulement déguisée : elle garde l'anecdote au lieu de l'idée.",
+      null,
+      "Le résumé suit l'ordre du texte : on ne déplace pas un élément en conclusion."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ct03-06",
+     "tag": "niv-ct03",
+     "m": "ct",
+     "q": "Laquelle de ces phrases de résumé respecte la voix de l'auteur ?",
+     "o": [
+      "Le texte montre que l'informel concentre l'essentiel des emplois urbains.",
+      "L'informel concentre l'essentiel des emplois urbains.",
+      "L'auteur affirme, à juste titre, que l'informel domine.",
+      "Nous pensons, comme l'auteur, que l'informel domine."
+     ],
+     "a": 1,
+     "e": "Le résumé parle à la place de l'auteur : il énonce directement ses idées, sans « le texte montre », sans « l'auteur affirme » et sans jugement personnel.",
+     "ed": [
+      "« Le texte montre que » est une formule de commentaire, qui sort de la voix de l'auteur.",
+      null,
+      "Double faute : la formule d'introduction et le jugement « à juste titre », qui est un avis personnel.",
+      "« Nous pensons » ajoute l'opinion du candidat : le résumé n'en contient aucune."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ct03-07",
+     "tag": "niv-ct03",
+     "m": "ct",
+     "q": "Phrase du texte (16 mots) : « Les ménages consacrent une part de plus en plus grande de leurs revenus à se loger. » Quelle reformulation est la meilleure ?",
+     "o": [
+      "Les familles consacrent une portion toujours plus grande de leurs ressources pour se loger.",
+      "Les ménages dépensent pour le logement.",
+      "Les ménages consacrent une part croissante de leurs revenus à se loger, selon l'auteur.",
+      "Le logement pèse de plus en plus dans le budget des ménages."
+     ],
+     "a": 3,
+     "e": "Bonne reformulation : l'idée entière (hausse de la part du logement dans les dépenses) est dite avec d'autres mots et moins de mots ; « le logement » devient le sujet, ce qui condense la phrase.",
+     "ed": [
+      "Paraphrase : chaque mot est remplacé par un synonyme et la phrase garde presque la même longueur.",
+      "Trop réduit : l'idée d'augmentation (« de plus en plus ») a disparu, le sens est appauvri.",
+      "Reprise presque mot pour mot, avec en plus « selon l'auteur », formule à proscrire.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ct03-08",
+     "tag": "niv-ct03",
+     "m": "ct",
+     "q": "Vous rédigez sur le brouillon sans regarder le texte, puis vous comparez. Une de vos phrases contient l'idée inverse de celle de l'auteur. Quelle erreur de méthode cela révèle-t-il le plus probablement ?",
+     "o": [
+      "Un lien logique mal identifié lors de la lecture (opposition prise pour une conséquence, par exemple)",
+      "Un mot englobant trop large",
+      "Une erreur de compte des mots",
+      "Une nominalisation trop lourde"
+     ],
+     "a": 0,
+     "e": "Une idée inversée vient presque toujours d'un rapport logique mal lu : prendre « pourtant » pour « donc », ou une concession pour l'opinion de l'auteur. Il faut revenir aux connecteurs du texte avant de reformuler.",
+     "ed": [
+      null,
+      "Un mot englobant trop large rend une idée imprécise, mais n'inverse pas la pensée de l'auteur.",
+      "Le compte des mots concerne la longueur, pas le sens.",
+      "Une nominalisation lourde nuit au style, mais ne renverse pas le sens de la phrase."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns03-01",
+     "tag": "niv-ns03",
+     "m": "ns",
+     "q": "Dans le plan d'une note de synthèse, combien de sous-parties compte habituellement chaque partie ?",
+     "o": [
+      "Deux, de poids comparable",
+      "Une seule",
+      "Cinq ou six, une par document",
+      "Autant que de paragraphes de l'introduction"
+     ],
+     "a": 0,
+     "e": "Le plan de la note s'organise en deux parties, chacune divisée en deux sous-parties équilibrées et dotées de titres apparents : c'est ce qui rend la note lisible par ses seuls titres.",
+     "ed": [
+      null,
+      "Une partie sans subdivision n'est pas un plan : il faut au moins deux sous-parties pour structurer l'idée.",
+      "Une sous-partie par document reconduit le plan « document par document », sanctionné.",
+      "L'introduction n'a pas de rapport avec le nombre de sous-parties : c'est le dossier et la problématique qui structurent le plan."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns03-02",
+     "tag": "niv-ns03",
+     "m": "ns",
+     "q": "Lequel de ces couples de titres de parties est le mieux construit ?",
+     "o": [
+      "I. Le chômage des jeunes ; II. Les solutions",
+      "I. Document 1 et 2 ; II. Documents 3 à 6",
+      "I. Pourquoi les jeunes sont-ils au chômage ? ; II. Que faire ?",
+      "I. Une insertion professionnelle des jeunes encore difficile ; II. Des dispositifs publics à mieux cibler"
+     ],
+     "a": 3,
+     "e": "Les bons titres énoncent chacun une idée (un constat, puis une orientation tirée du dossier) et se répondent : le lecteur comprend la réponse de la note en lisant seulement les titres.",
+     "ed": [
+      "Ce sont de simples thèmes : le lecteur ne sait pas ce que la note établit.",
+      "Plan document par document : il ne fait aucune synthèse.",
+      "Les titres d'une note ne prennent pas la forme interrogative : ils doivent affirmer ce que le dossier établit.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns03-03",
+     "tag": "niv-ns03",
+     "m": "ns",
+     "q": "Quel est le rôle de la problématique dans la construction du plan de la note ?",
+     "o": [
+      "Elle annonce l'opinion personnelle du rédacteur",
+      "Elle résume le premier document du dossier",
+      "Elle pose la question à laquelle les deux parties répondent, chacune pour une moitié",
+      "Elle remplace la conclusion"
+     ],
+     "a": 2,
+     "e": "La problématique, formulée à partir des tensions du dossier, commande le plan : la première partie répond à une moitié de la question et prépare la seconde.",
+     "ed": [
+      "La note est objective : la problématique ne contient aucune opinion du rédacteur.",
+      "La problématique naît de l'ensemble du dossier, pas d'un seul document.",
+      null,
+      "La problématique figure dans l'introduction ; elle ne remplace aucune autre partie de la note."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns03-04",
+     "tag": "niv-ns03",
+     "m": "ns",
+     "q": "Dossier sur la scolarisation des filles : écoles de proximité construites (doc. 1, 4), cantines scolaires (doc. 2), mariages précoces (doc. 3, 6), coût des fournitures (doc. 5). Quel regroupement en deux parties est le plus pertinent ?",
+     "o": [
+      "I. Des mesures qui favorisent l'accès des filles à l'école (doc. 1, 2, 4) ; II. Des obstacles sociaux et financiers qui persistent (doc. 3, 5, 6)",
+      "I. Les documents officiels ; II. Les articles de presse",
+      "I. Les écoles ; II. Les cantines ; III. Les mariages ; IV. Les fournitures",
+      "I. Les causes ; II. Les conséquences ; III. Les solutions"
+     ],
+     "a": 0,
+     "e": "Les thèmes du tableau se regroupent en deux ensembles qui répondent à la question du dossier : ce qui favorise la scolarisation, puis ce qui la freine. Tous les documents sont placés.",
+     "ed": [
+      null,
+      "Classer par nature de document n'est pas une synthèse : cela revient au plan document par document.",
+      "Quatre parties juxtaposent les thèmes sans les regrouper : ce n'est pas le plan en deux parties attendu.",
+      "Plan passe-partout choisi avant lecture, en trois parties, qui force le dossier dans des cases."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns03-05",
+     "tag": "niv-ns03",
+     "m": "ns",
+     "q": "Vous vérifiez votre plan et constatez que la sous-partie II.B ne s'appuie que sur le doc. 7. Quelle est la meilleure réaction ?",
+     "o": [
+      "La supprimer et ne plus utiliser le doc. 7",
+      "La conserver telle quelle : un document suffit",
+      "Ajouter des connaissances personnelles pour l'étoffer",
+      "Vérifier si d'autres documents nourrissent ce thème, sinon la fusionner avec une sous-partie voisine en gardant le doc. 7"
+     ],
+     "a": 3,
+     "e": "Une sous-partie qui ne repose que sur un document est fragile : on cherche d'abord dans le tableau d'autres références ; à défaut, on la fusionne avec une sous-partie voisine, sans perdre le document.",
+     "ed": [
+      "Supprimer ferait disparaître le doc. 7 : chaque document doit être utilisé au moins une fois.",
+      "Une sous-partie nourrie par un seul document crée un déséquilibre et signale souvent un thème mal découpé.",
+      "La note ne contient aucune information extérieure au dossier.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns03-06",
+     "tag": "niv-ns03",
+     "m": "ns",
+     "q": "Quelle annonce de plan convient le mieux à la note dont les parties sont « I. Un réseau routier en forte extension » et « II. Un entretien encore insuffisant » ?",
+     "o": [
+      "Nous verrons d'abord la partie I, puis la partie II.",
+      "Il est scandaleux que les routes ne soient pas entretenues.",
+      "Le réseau routier s'étend rapidement (I), mais son entretien reste insuffisant (II).",
+      "I. Un réseau routier en forte extension. II. Un entretien encore insuffisant."
+     ],
+     "a": 2,
+     "e": "L'annonce reprend le sens des deux titres, sans les recopier, et montre leur enchaînement logique (ici une opposition, par « mais »).",
+     "ed": [
+      "Annonce vide : elle ne dit rien du contenu des parties.",
+      "Jugement personnel : la note doit rester objective.",
+      null,
+      "Recopier les titres n'est pas annoncer : l'annonce doit relier les deux parties par une phrase."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns03-07",
+     "tag": "niv-ns03",
+     "m": "ns",
+     "q": "Lequel de ces titres de sous-partie est rédigé de façon objective ?",
+     "o": [
+      "Un microcrédit dont les taux de remboursement sont jugés faibles par le rapport d'évaluation (doc. 4)",
+      "Une politique de microcrédit totalement ratée",
+      "Le microcrédit, une bonne idée ?",
+      "Mon analyse du microcrédit"
+     ],
+     "a": 0,
+     "e": "Un titre objectif énonce ce qu'établit le dossier, en attribuant l'appréciation à sa source, sans jugement du rédacteur ni forme interrogative.",
+     "ed": [
+      null,
+      "« Totalement ratée » est un jugement du rédacteur, contraire à l'objectivité de la note.",
+      "Pas de point d'interrogation dans les titres d'une note : le titre doit affirmer.",
+      "Le rédacteur de la note ne livre pas son analyse personnelle."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261115-ns03-08",
+     "tag": "niv-ns03",
+     "m": "ns",
+     "q": "Pourquoi le plan de la note est-il établi avant de commencer la rédaction au propre ?",
+     "o": [
+      "Parce que le correcteur ne lit que le brouillon",
+      "Parce que le plan dispense de l'introduction",
+      "Parce que le plan permet d'ajouter des idées personnelles",
+      "Parce qu'un plan arrêté donne à chaque idée sa place et évite les répétitions et les oublis pendant la rédaction"
+     ],
+     "a": 3,
+     "e": "Un plan solide, contrôlé document par document, fait gagner du temps : chaque information du tableau a déjà sa place, la rédaction ne fait que l'exprimer.",
+     "ed": [
+      "Le correcteur évalue la copie rédigée, pas le brouillon.",
+      "L'introduction reste indispensable : elle pose la problématique et annonce le plan.",
+      "La note ne contient jamais d'idées personnelles, avec ou sans plan.",
+      null
+     ],
+     "verif": "methode"
     }
    ],
    "lessons": [
@@ -23564,6 +23942,88 @@
        "u": "https://worldathletics.org/news/report/womens-60m-final-iaaf-world-indoor-champion"
       }
      ]
+    },
+    {
+     "id": "L20261102lo07",
+     "niv": "lo07",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Intérêts simples et composés",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez calculer un intérêt simple sur une durée en années, en mois ou en jours, et retrouver le capital, le taux ou la durée.",
+      "= Vous saurez aussi calculer une valeur acquise à intérêts composés, une valeur actuelle, et distinguer sans hésiter les deux régimes.",
+      "## Ce que demande l'épreuve",
+      "Les questions d'intérêts appartiennent aux problèmes de calcul de la présélection, notés +2 / 0 / −2 en logique. L'énoncé donne trois des quatre grandeurs (capital, taux, durée, intérêt) et demande la quatrième. Les distracteurs sont construits sur des erreurs prévisibles : durée en mois non divisée par 12, intérêt confondu avec la valeur acquise, intérêts composés calculés comme des intérêts simples. Une erreur coûte deux points : mieux vaut poser le calcul que deviner.",
+      "! Piège habituel : la question demande-t-elle l'intérêt (le gain) ou la valeur acquise (capital + intérêt) ? Les deux nombres figurent presque toujours parmi les propositions.",
+      "Pourquoi ce chapitre compte au-delà du concours : les mêmes calculs servent à lire une offre de crédit, à comparer deux placements ou à évaluer le coût d'un financement dans un plan d'affaires. Le vocabulaire est fixe : le capital (C) est la somme placée ou prêtée ; le taux (t) est le pourcentage d'intérêt pour une période, en général l'année ; la durée (n) est le temps du placement ; l'intérêt (I) est le gain ; la valeur acquise est le capital augmenté des intérêts.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez le régime : « intérêts simples » ou « intérêts composés ».",
+      "- 2. Écrivez le taux en nombre décimal : 6 % = 0,06.",
+      "- 3. Exprimez la durée dans l'unité du taux : 8 mois = 8/12 an ; 90 jours = 90/360 an (année commerciale de 360 jours, sauf indication contraire de l'énoncé).",
+      "- 4. Appliquez la formule : I = C × t × n (simples) ou Cn = C × (1 + t)^n (composés).",
+      "- 5. Relisez la question : intérêt ou valeur acquise ? Puis vérifiez l'ordre de grandeur.",
+      "~ Exemple : 400 000 F placés à 5 % d'intérêts simples pendant 3 ans. I = 400 000 × 0,05 × 3 = 60 000 F. Valeur acquise = 400 000 + 60 000 = 460 000 F. Vérification : 5 % de 400 000 = 20 000 F par an, et 3 × 20 000 = 60 000 F.",
+      "> Raccourci de calcul mental : calculez toujours d'abord l'intérêt d'une année (C × t), puis multipliez ou fractionnez. 5 % d'une somme, c'est la moitié de 10 % ; 1 % se lit en déplaçant la virgule de deux rangs."
+     ],
+     "fond": [
+      "## Notion 1 : l'intérêt simple",
+      "Règle : à intérêts simples, l'intérêt est calculé chaque période sur le seul capital de départ. Il vaut I = C × t × n, où C est le capital, t le taux annuel en décimal et n la durée en années. La valeur acquise est A = C + I = C × (1 + t × n).",
+      "Pourquoi ? Les intérêts ne sont pas réinvestis : chaque année rapporte exactement la même somme, C × t. L'intérêt est donc proportionnel à la durée.",
+      "~ Exemple résolu : une coopérative maraîchère place 750 000 F à 4 % pendant 2 ans. Étape 1 : intérêt annuel = 750 000 × 0,04 = 30 000 F. Étape 2 : I = 30 000 × 2 = 60 000 F. Étape 3 : valeur acquise = 750 000 + 60 000 = 810 000 F.",
+      "? Une association place 2 500 000 F à 3 % d'intérêts simples pendant 4 ans. Quelle est la valeur acquise ? || Intérêt annuel : 2 500 000 × 0,03 = 75 000 F. Sur 4 ans : 75 000 × 4 = 300 000 F. Valeur acquise : 2 500 000 + 300 000 = 2 800 000 F. On vérifie : 1 + 0,03 × 4 = 1,12 et 2 500 000 × 1,12 = 2 800 000 F.",
+      "? Une mutuelle de commerçantes prête 350 000 F à une adhérente, à 6 % d'intérêts simples, pour deux ans et demi. Quel intérêt la mutuelle percevra-t-elle ? || Deux ans et demi s'écrivent 2,5 ans. Intérêt annuel : 350 000 × 0,06 = 21 000 F. Sur 2,5 ans : 21 000 × 2,5 = 52 500 F. Vérification : 21 000 × 2 = 42 000 F pour deux ans, plus la moitié de 21 000, soit 10 500 F : 42 000 + 10 500 = 52 500 F.",
+      "## Notion 2 : durées en mois et en jours",
+      "Règle : le taux est annuel, donc la durée doit être exprimée en années. Pour m mois : I = C × t × m / 12. Pour j jours, en année commerciale : I = C × t × j / 360.",
+      "Pourquoi 360 jours ? C'est la convention de l'« année commerciale », qui simplifie les calculs (douze mois de 30 jours). Si l'énoncé impose 365 jours, on suit l'énoncé.",
+      "~ Exemple résolu : 900 000 F placés à 8 % pendant 5 mois. I = 900 000 × 0,08 × 5 / 12 = 72 000 × 5 / 12 = 30 000 F. Raccourci : l'intérêt d'un an (72 000 F) donne 6 000 F par mois, donc 30 000 F pour 5 mois.",
+      "! Piège : multiplier par le nombre de mois sans diviser par 12. Ici, on obtiendrait 360 000 F, soit douze fois trop.",
+      "? Calculez l'intérêt de 1 440 000 F placés à 5 % pendant 60 jours (année de 360 jours). || I = 1 440 000 × 0,05 × 60 / 360. L'intérêt d'un an vaut 72 000 F ; 60 jours représentent 1/6 d'année ; 72 000 ÷ 6 = 12 000 F.",
+      "Cas fréquent : le taux est donné par mois. À intérêts simples, un taux mensuel se multiplie par 12 pour obtenir le taux annuel équivalent (on parle de taux proportionnel) : 1,5 % par mois correspond à 18 % par an.",
+      "~ Exemple résolu : un commerçant emprunte 200 000 F à un taux de 1,5 % par mois, intérêts simples, pendant 4 mois. Ici, le taux et la durée sont déjà dans la même unité (le mois) : I = 200 000 × 0,015 × 4. Étape 1 : intérêt d'un mois = 3 000 F. Étape 2 : sur 4 mois, 3 000 × 4 = 12 000 F. Il remboursera 212 000 F.",
+      "! Piège : à intérêts composés, ce raccourci ne vaut plus. 1,5 % par mois capitalisé pendant 12 mois donne 1,015^12 ≈ 1,1956, soit environ 19,56 % sur l'année, et non 18 %.",
+      "## Notion 3 : retrouver le capital, le taux ou la durée",
+      "Règle : la formule I = C × t × n se retourne. t = I / (C × n) ; n = I / (C × t) ; C = I / (t × n). Si l'on connaît la valeur acquise A, le capital vaut C = A / (1 + t × n).",
+      "Pourquoi ? Les quatre grandeurs sont liées par une seule égalité : connaître trois d'entre elles suffit toujours pour déterminer la quatrième.",
+      "~ Exemple résolu : un placement de 600 000 F a rapporté 54 000 F d'intérêts simples en 3 ans. Taux : t = 54 000 / (600 000 × 3) = 54 000 / 1 800 000 = 0,03, soit 3 %. Vérification : 600 000 × 0,03 × 3 = 54 000 F.",
+      "! Piège : diviser l'intérêt par le capital sans tenir compte de la durée. Ici, 54 000 / 600 000 = 9 % : c'est le taux sur trois ans, pas le taux annuel.",
+      "? Un capital de 840 000 F placé à 5 % d'intérêts simples a rapporté 14 000 F. Pendant combien de mois a-t-il été placé ? || n = I / (C × t) = 14 000 / (840 000 × 0,05) = 14 000 / 42 000 = 1/3 d'année. Un tiers de 12 mois, c'est 4 mois. Vérification : 42 000 F par an, soit 3 500 F par mois, et 3 500 × 4 = 14 000 F.",
+      "## Notion 4 : l'intérêt composé",
+      "Règle : à intérêts composés, les intérêts de chaque période s'ajoutent au capital et produisent à leur tour des intérêts. La valeur acquise au bout de n années est Cn = C × (1 + t)^n. L'intérêt total est Cn − C.",
+      "Pourquoi ? Chaque année, le capital est multiplié par (1 + t). Après deux ans, on a multiplié deux fois : C × (1 + t) × (1 + t). L'écart avec les intérêts simples vient des « intérêts sur les intérêts ».",
+      "~ Exemple résolu : 1 000 000 F à 10 % composés pendant 3 ans. Année 1 : 1 000 000 × 1,1 = 1 100 000 F. Année 2 : 1 100 000 × 1,1 = 1 210 000 F. Année 3 : 1 210 000 × 1,1 = 1 331 000 F. Intérêt total : 331 000 F, contre 300 000 F à intérêts simples.",
+      "? Combien vaut, au bout de 2 ans, un capital de 4 000 000 F placé à 5 % d'intérêts composés ? || 1,05 × 1,05 = 1,1025. Valeur acquise : 4 000 000 × 1,1025 = 4 410 000 F. À intérêts simples, on aurait 4 400 000 F : la différence de 10 000 F correspond aux intérêts de la deuxième année calculés sur les 200 000 F d'intérêts de la première année (200 000 × 0,05).",
+      "~ Exemple résolu en tableau : un groupement rizicole place 2 500 000 F à 8 % d'intérêts composés pendant 3 ans. Fin d'année 1 : 2 500 000 × 1,08 = 2 700 000 F. Fin d'année 2 : 2 700 000 × 1,08 = 2 916 000 F. Fin d'année 3 : 2 916 000 × 1,08 = 3 149 280 F. Intérêt total : 649 280 F, contre 2 500 000 × 0,08 × 3 = 600 000 F à intérêts simples. L'écart de 49 280 F, ce sont les intérêts produits par les intérêts.",
+      "Raccourci : la « règle de 72 » donne une estimation du temps de doublement à intérêts composés. On divise 72 par le taux en pourcentage : à 9 %, 72 / 9 = 8 ans environ. Contrôle : 1,09^8 ≈ 1,99. C'est une approximation pour vérifier un ordre de grandeur, pas un calcul exact.",
+      "! Piège : appliquer la règle de 72 aux intérêts simples. À intérêts simples, le doublement exige t × n = 1, soit 100 / 9 ≈ 11,1 ans à 9 %.",
+      "## Notion 5 : la valeur actuelle",
+      "Règle : la valeur actuelle est la somme qu'il faut placer aujourd'hui pour obtenir une somme donnée plus tard. À intérêts composés : C = Cn / (1 + t)^n. À intérêts simples : C = A / (1 + t × n).",
+      "Pourquoi ? C'est l'opération inverse de la capitalisation : on divise au lieu de multiplier. Elle sert, par exemple, à comparer un paiement immédiat et un paiement différé dans un plan d'affaires.",
+      "~ Exemple résolu : un promoteur veut disposer de 2 420 000 F dans 2 ans, placement à 10 % composés. C = 2 420 000 / 1,21 = 2 000 000 F. Vérification : 2 000 000 × 1,1 = 2 200 000 F, puis 2 200 000 × 1,1 = 2 420 000 F.",
+      "? Quelle somme faut-il placer aujourd'hui à 4 % d'intérêts simples pour disposer de 1 120 000 F dans 3 ans ? || 1 + 0,04 × 3 = 1,12. C = 1 120 000 / 1,12 = 1 000 000 F. Vérification : 1 000 000 × 0,04 × 3 = 120 000 F d'intérêts, et 1 000 000 + 120 000 = 1 120 000 F.",
+      "? Quelle somme faut-il placer aujourd'hui à 5 % d'intérêts composés pour disposer de 3 307 500 F dans 2 ans ? || Coefficient sur deux ans : 1,05 × 1,05 = 1,1025. C = 3 307 500 / 1,1025 = 3 000 000 F. Vérification : 3 000 000 × 1,05 = 3 150 000 F, puis 3 150 000 × 1,05 = 3 307 500 F.",
+      "## Notion 6 : comparer deux offres",
+      "Règle : pour comparer deux placements ou deux crédits, on calcule pour chacun la somme finale sur la même durée, puis on compare. Pour un placement, on préfère la somme la plus élevée ; pour un crédit, le coût le plus faible.",
+      "Pourquoi ? Un taux affiché plus élevé n'est pas toujours plus avantageux : le régime (simple ou composé) et la durée changent le résultat. Seul le montant final permet de trancher.",
+      "~ Exemple résolu : un promoteur de projet maraîcher dispose de 1 000 000 F pour 3 ans. Offre A : 6 % d'intérêts simples. Offre B : 5,5 % d'intérêts composés. A : 1 000 000 × (1 + 0,06 × 3) = 1 180 000 F. B : 1,055^3 ≈ 1,174241, soit environ 1 174 241 F. Malgré la capitalisation, l'offre A rapporte environ 5 759 F de plus : son taux est assez élevé pour compenser.",
+      "! Piège : conclure sans calculer que « composé » rapporte toujours plus. C'est vrai à taux égal et sur plus d'un an, pas quand les taux diffèrent.",
+      "? Un entrepreneur emprunte 2 000 000 F, à rembourser en une seule fois dans 2 ans. Offre X : 9 % d'intérêts simples. Offre Y : 8,5 % d'intérêts composés. Laquelle coûte le moins cher, et de combien ? || X : 2 000 000 × (1 + 0,09 × 2) = 2 000 000 × 1,18 = 2 360 000 F. Y : 1,085 × 1,085 = 1,177225 ; 2 000 000 × 1,177225 = 2 354 450 F. L'offre Y coûte 2 360 000 − 2 354 450 = 5 550 F de moins. Pour un crédit, c'est la somme à rembourser la plus faible qui l'emporte."
+     ],
+     "retenir": [
+      "À intérêts simples, l'intérêt vaut capital × taux × durée en années : I = C × t × n.",
+      "Une durée en mois se divise par 12 ; une durée en jours se divise par 360 en année commerciale.",
+      "La valeur acquise est le capital augmenté des intérêts : ne la confondez pas avec l'intérêt seul.",
+      "À intérêts composés, la valeur acquise vaut C × (1 + t) puissance n : les intérêts produisent des intérêts.",
+      "Sur plus d'un an, au même taux, les intérêts composés rapportent davantage que les intérêts simples.",
+      "La valeur actuelle s'obtient en divisant la somme future par (1 + t)^n, ou par (1 + t × n) à intérêts simples.",
+      "À intérêts simples, un capital double quand t × n = 1 : à 8 %, il faut 12,5 ans.",
+      "Pour comparer deux offres, on calcule la somme finale de chacune sur la même durée : le taux affiché seul ne suffit pas."
+     ],
+     "exo": {
+      "tag": "niv-lo07",
+      "n": 12
+     },
+     "rev": 2
     }
    ],
    "sujets": [
