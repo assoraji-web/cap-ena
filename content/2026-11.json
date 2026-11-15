@@ -21548,6 +21548,2038 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-15",
+   "questions": [
+    {
+     "id": "n20261115-dc06-01",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Selon l'article 70 de la Constitution ivoirienne, qui nomme le Premier ministre, Chef du Gouvernement ?",
+     "o": [
+      "Le Président de l'Assemblée nationale",
+      "Le Président de la République",
+      "Le Parlement réuni en Congrès",
+      "Le Conseil constitutionnel"
+     ],
+     "a": 1,
+     "e": "L'article 70 dispose : « Le Président de la République nomme le Premier Ministre, Chef du Gouvernement. Il met fin à ses fonctions. »",
+     "ed": [
+      "Le Président de l'Assemblée nationale n'a aucun rôle dans la nomination du Premier ministre.",
+      null,
+      "Le Congrès n'intervient pas : aucune investiture parlementaire n'est prévue.",
+      "Le Conseil constitutionnel est un juge ; il ne nomme pas le Gouvernement."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-02",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "D'après l'article 81 de la Constitution, le Gouvernement comprend :",
+     "o": [
+      "le Président de la République, le Vice-Président et les ministres",
+      "le Premier ministre, les ministres et les présidents des deux chambres",
+      "le Premier ministre, Chef du Gouvernement, et les ministres",
+      "les ministres seuls, le Premier ministre étant extérieur au Gouvernement"
+     ],
+     "a": 2,
+     "e": "L'article 81 dispose : « Le Gouvernement comprend le Premier Ministre, Chef du Gouvernement, et les ministres. » Le Président et le Vice-Président font partie de l'exécutif (article 53), pas du Gouvernement.",
+     "ed": [
+      "Le Président et le Vice-Président sont membres de l'exécutif (article 53) mais pas du Gouvernement.",
+      "Les présidents de l'Assemblée nationale et du Sénat appartiennent au pouvoir législatif, non au Gouvernement.",
+      null,
+      "Le Premier ministre est expressément le Chef du Gouvernement, donc il en fait partie."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-03",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "L'article 82 de la Constitution définit le Conseil de Gouvernement, présidé par le Premier ministre, comme :",
+     "o": [
+      "la réunion préparatoire du Conseil des ministres",
+      "l'organe qui adopte définitivement les projets de loi",
+      "une commission parlementaire chargée de contrôler les ministres",
+      "la formation qui juge les ministres pour leurs fautes politiques"
+     ],
+     "a": 0,
+     "e": "Selon l'article 82, le Premier ministre « préside le Conseil de Gouvernement, réunion préparatoire du Conseil des ministres ». Les décisions sont prises en Conseil des ministres, présidé par le Président (article 71).",
+     "ed": [
+      null,
+      "Les projets de loi sont délibérés en Conseil des ministres, présidé par le Président (article 71).",
+      "Le Conseil de Gouvernement est un organe de l'exécutif, pas une commission du Parlement.",
+      "Aucun organe ne « juge » politiquement les ministres : ils sont responsables devant le Président (article 83)."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-04",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Selon l'article 71, le Conseil des ministres délibère obligatoirement :",
+     "o": [
+      "des propositions de loi déposées par les députés",
+      "des arrêts de la Cour de cassation",
+      "des arrêtés pris par chaque ministre",
+      "des projets de loi, d'ordonnances et de décrets réglementaires"
+     ],
+     "a": 3,
+     "e": "L'article 71 énumère ce dont le Conseil des ministres délibère obligatoirement : les décisions de politique générale, les projets de loi, d'ordonnances et de décrets réglementaires, et les nominations aux emplois supérieurs de l'État.",
+     "ed": [
+      "Les propositions de loi viennent des parlementaires et ne passent pas par le Conseil des ministres ; seuls les projets y sont délibérés.",
+      "Les décisions de justice ne sont pas délibérées par l'exécutif : ce serait contraire à la séparation des pouvoirs.",
+      "L'article 71 vise les décrets réglementaires, non les arrêtés ministériels.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-05",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Quel organe « détermine et conduit la politique de la Nation » selon l'article 64 de la Constitution ?",
+     "o": [
+      "Le Gouvernement",
+      "L'Assemblée nationale",
+      "Le Premier ministre",
+      "Le Président de la République"
+     ],
+     "a": 3,
+     "e": "L'article 64 dispose : « Le Président de la République détermine et conduit la politique de la Nation. » Le Gouvernement se borne à la mettre en œuvre (article 81).",
+     "ed": [
+      "Le Gouvernement met en œuvre la politique définie par le Président (article 81) ; il ne la détermine pas.",
+      "L'Assemblée nationale vote la loi et contrôle le Gouvernement ; elle ne conduit pas la politique de la Nation.",
+      "Le Premier ministre anime et coordonne l'action gouvernementale (article 82) ; il ne détermine pas la politique.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-06",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Que prévoit l'article 83, alinéa 2, en cas de démission du Premier ministre ?",
+     "o": [
+      "Elle entraîne celle de l'ensemble du Gouvernement",
+      "Le ministre le plus ancien devient automatiquement Premier ministre",
+      "Elle doit être approuvée par l'Assemblée nationale",
+      "Les ministres restent en fonction jusqu'à la fin du mandat présidentiel"
+     ],
+     "a": 0,
+     "e": "L'article 83, alinéa 2, dispose : « La démission du Premier Ministre, Chef du Gouvernement, entraîne celle de l'ensemble du Gouvernement. » C'est la conséquence de la solidarité gouvernementale.",
+     "ed": [
+      null,
+      "Aucune succession automatique n'existe : le Président nomme librement le nouveau Premier ministre (article 70).",
+      "L'Assemblée nationale n'intervient pas : le Gouvernement ne répond que devant le Président.",
+      "Au contraire, la démission du Premier ministre emporte celle de tous les ministres."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-07",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Le Président souhaite nommer un nouveau ministre de la Santé. Selon l'article 70, il le nomme :",
+     "o": [
+      "après avis conforme du Sénat",
+      "sur proposition du Premier ministre",
+      "après un vote de confiance de l'Assemblée nationale",
+      "sur proposition du Vice-Président de la République"
+     ],
+     "a": 1,
+     "e": "L'article 70, alinéa 2 : « Sur proposition du Premier Ministre, le Président de la République nomme les autres membres du Gouvernement et détermine leurs attributions. »",
+     "ed": [
+      "Le Sénat ne donne aucun avis sur la nomination des ministres.",
+      null,
+      "Le vote de confiance n'existe pas dans la Constitution : le mot « confiance » n'y apparaît que dans les serments.",
+      "Le Vice-Président n'a aucun pouvoir de proposition pour la nomination des ministres."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-08",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Un sénateur est nommé ministre. Que prévoit l'article 84 de la Constitution ?",
+     "o": [
+      "Il continue de siéger et de voter au Sénat",
+      "Il doit d'abord obtenir l'accord du Président du Sénat",
+      "Il ne peut siéger au Parlement pendant la durée de ses fonctions ministérielles",
+      "Il siège au Sénat sans droit de vote"
+     ],
+     "a": 2,
+     "e": "Selon l'article 84, « le parlementaire nommé membre du Gouvernement ne peut siéger au Parlement pendant la durée de ses fonctions ministérielles ». La règle vaut pour les députés comme pour les sénateurs.",
+     "ed": [
+      "Siéger est exactement ce que l'article 84 interdit pendant les fonctions ministérielles.",
+      "Aucun accord du Président du Sénat n'est prévu : l'incompatibilité joue de plein droit.",
+      null,
+      "Le texte interdit de siéger, pas seulement de voter : il ne peut pas être présent comme parlementaire."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-09",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Une magistrate est nommée membre du Gouvernement. En vertu de l'article 84, elle doit :",
+     "o": [
+      "conserver son poste à mi-temps",
+      "cesser d'exercer son emploi public pendant ses fonctions ministérielles",
+      "obtenir une autorisation du Conseil supérieur de la magistrature pour cumuler",
+      "continuer à juger les affaires déjà commencées"
+     ],
+     "a": 1,
+     "e": "L'article 84 rend les fonctions de membre du Gouvernement « incompatibles avec l'exercice de tout emploi public et de toute activité professionnelle ». Un magistrat occupe un emploi public : il ne peut cumuler.",
+     "ed": [
+      "L'incompatibilité est totale : la Constitution ne prévoit aucun mi-temps.",
+      null,
+      "Aucune autorisation ne peut lever une incompatibilité posée par la Constitution elle-même.",
+      "Juger, même des affaires anciennes, reste l'exercice d'un emploi public, donc interdit."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-10",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Le Président et le Vice-Président de la République sont tous deux hors du territoire national. Qui supplée le Président selon l'article 82 ?",
+     "o": [
+      "Le Président de l'Assemblée nationale",
+      "Le Président du Sénat",
+      "Le ministre de la Défense",
+      "Le Premier ministre"
+     ],
+     "a": 3,
+     "e": "L'article 82, alinéa 3 : « Le Premier Ministre supplée le Président de la République lorsque celui-ci et le Vice-Président de la République sont hors du territoire national. »",
+     "ed": [
+      "Le Président de l'Assemblée nationale n'a aucun rôle de suppléance du Président en cas d'absence à l'étranger.",
+      "Le Président du Sénat n'est pas désigné comme suppléant par l'article 82.",
+      "Aucun ministre de portefeuille n'est désigné : c'est le Chef du Gouvernement qui supplée.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-11",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Le Président est seul en voyage à l'étranger. Selon l'article 80, le Vice-Président peut alors présider le Conseil des ministres :",
+     "o": [
+      "de plein droit, sur tous les sujets",
+      "sur délégation par décret, sur un ordre du jour précis",
+      "seulement avec l'accord du Premier ministre",
+      "jamais : le Conseil des ministres est alors suspendu"
+     ],
+     "a": 1,
+     "e": "L'article 80 : le Vice-Président supplée le Président hors du territoire et, « dans ce cas, le Président de la République peut, par décret, lui déléguer la présidence du Conseil des ministres, sur un ordre du jour précis ».",
+     "ed": [
+      "La présidence du Conseil des ministres n'est pas automatique : elle suppose un décret de délégation.",
+      null,
+      "L'accord du Premier ministre n'est pas exigé : la délégation relève du seul Président.",
+      "Le Conseil peut se tenir sous la présidence du Vice-Président, si un décret le prévoit."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-12",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "En cas d'urgence, dans quel délai le Président de la République doit-il promulguer une loi définitivement adoptée (article 74) ?",
+     "o": [
+      "Quinze jours",
+      "Huit jours",
+      "Cinq jours",
+      "Trente jours"
+     ],
+     "a": 2,
+     "e": "L'article 74 fixe la promulgation « dans les trente jours qui suivent la transmission » de la loi définitivement adoptée ; « ce délai est réduit à cinq jours en cas d'urgence ».",
+     "ed": [
+      "Quinze jours est le délai dans lequel le Conseil constitutionnel statue sur une loi déférée (article 113), non le délai de promulgation.",
+      "Huit jours est le délai du Conseil constitutionnel sur l'irrecevabilité (article 108).",
+      null,
+      "Trente jours est le délai ordinaire ; en cas d'urgence, il est réduit."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-13",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Une loi n'a pas été promulguée à l'expiration des délais de l'article 74. Que prévoit la Constitution ?",
+     "o": [
+      "Elle est déclarée exécutoire par le Conseil constitutionnel, saisi par le Président d'une chambre, si elle est conforme à la Constitution",
+      "Elle est automatiquement abrogée",
+      "Elle est soumise de plein droit au référendum",
+      "Le Premier ministre la promulgue à la place du Président"
+     ],
+     "a": 0,
+     "e": "L'article 74 : une loi non promulguée à l'expiration des délais « est déclarée exécutoire par le Conseil constitutionnel, saisi par le Président de l'une des deux chambres du Parlement, si elle est conforme à la Constitution ».",
+     "ed": [
+      null,
+      "Aucune abrogation automatique n'est prévue : la Constitution organise au contraire un moyen de rendre la loi exécutoire.",
+      "Le référendum de l'article 75 relève de l'initiative du Président, il n'est jamais automatique dans ce cas.",
+      "Le Premier ministre n'a pas le pouvoir de promulguer : la Constitution confie le déblocage au Conseil constitutionnel."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-14",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Selon l'article 106, une ordonnance prise sur habilitation devient caduque lorsque :",
+     "o": [
+      "le Parlement ne l'a pas ratifiée dans les huit jours",
+      "le projet de loi de ratification n'est pas déposé devant le Parlement avant la date fixée par la loi d'habilitation",
+      "le Conseil d'État n'a pas donné son avis",
+      "elle n'a pas été publiée en même temps dans les deux chambres"
+     ],
+     "a": 1,
+     "e": "L'article 106 : les ordonnances « entrent en vigueur dès leur publication mais deviennent caduques si le projet de loi de ratification n'est pas déposé devant le Parlement avant la date fixée par la loi d'habilitation ».",
+     "ed": [
+      "Le texte ne fixe aucun délai de huit jours ; il exige le dépôt du projet de ratification avant la date fixée par la loi d'habilitation.",
+      null,
+      "L'avis prévu pour les ordonnances est un avis éventuel du Conseil constitutionnel, non du Conseil d'État.",
+      "Les ordonnances sont publiées au Journal officiel, pas « dans les chambres » ; cette condition n'existe pas."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-15",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Si le Parlement ne s'est pas prononcé sur le projet de loi de finances dans un délai de soixante-dix jours, l'article 112 prévoit que :",
+     "o": [
+      "le budget de l'année précédente est automatiquement reconduit",
+      "le Gouvernement doit démissionner",
+      "l'Assemblée nationale est dissoute",
+      "le projet de loi peut être mis en vigueur par ordonnance"
+     ],
+     "a": 3,
+     "e": "L'article 112 : « Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, le projet de loi peut être mis en vigueur par ordonnance. » Le Président saisit ensuite le Parlement, convoqué en session extraordinaire, pour ratification.",
+     "ed": [
+      "La reprise du budget précédent par douzièmes provisoires vise un autre cas : un projet qui n'a pu être déposé en temps utile.",
+      "Le Gouvernement n'est pas responsable devant le Parlement : il ne démissionne pas pour un budget non voté.",
+      "La dissolution n'existe pas dans la Constitution ivoirienne.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-16",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Lequel de ces mécanismes n'est PAS un moyen d'information du Parlement selon l'article 117 ?",
+     "o": [
+      "La question orale",
+      "La mission d'évaluation",
+      "La motion de censure",
+      "La commission d'enquête"
+     ],
+     "a": 2,
+     "e": "L'article 117 énumère quatre moyens d'information : « la question orale, la question écrite, la commission d'enquête et la mission d'évaluation ». La motion de censure n'existe pas dans la Constitution.",
+     "ed": [
+      "La question orale figure en premier dans la liste de l'article 117.",
+      "La mission d'évaluation est expressément citée par l'article 117.",
+      null,
+      "La commission d'enquête est l'un des quatre moyens de l'article 117."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-17",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Pendant la session ordinaire, l'article 117 réserve en priorité une séance par mois aux questions des parlementaires et aux réponses :",
+     "o": [
+      "du Président du Conseil constitutionnel",
+      "du Président de la République, qui peut déléguer ce pouvoir au Chef du Gouvernement et aux ministres",
+      "du seul ministre chargé des relations avec les institutions",
+      "du Médiateur de la République"
+     ],
+     "a": 1,
+     "e": "L'article 117 réserve une séance par mois « aux questions des membres de chaque chambre du Parlement et aux réponses du Président de la République », qui « peut déléguer au Chef du Gouvernement et aux ministres le pouvoir de répondre ».",
+     "ed": [
+      "Le Conseil constitutionnel est une juridiction : il ne répond pas aux questions des parlementaires.",
+      null,
+      "Le texte ne désigne aucun ministre particulier ; le pouvoir de réponse appartient au Président, avec délégation possible.",
+      "Le Médiateur n'est pas visé par l'article 117."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-18",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Parmi ces affirmations sur la Constitution ivoirienne, laquelle est FAUSSE ?",
+     "o": [
+      "Le message annuel du Président sur l'état de la Nation ne donne lieu à aucun débat",
+      "Les membres du Gouvernement sont entendus à la demande des commissions du Parlement",
+      "La seconde délibération demandée par le Président ne peut être refusée",
+      "Le Président peut dissoudre l'Assemblée nationale après consultation du Président du Sénat"
+     ],
+     "a": 3,
+     "e": "La Constitution ne contient aucune disposition de dissolution : les mots « dissolution » et « dissoudre » n'y figurent pas. Les trois autres affirmations reprennent les articles 114, 116 et 74.",
+     "ed": [
+      "Exact : l'article 114 précise que le message du Président « ne donne lieu à aucun débat ».",
+      "Exact : l'article 116 prévoit que les ministres « sont entendus à la demande des commissions ».",
+      "Exact : l'article 74 dispose que la seconde délibération « ne peut être refusée ».",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-19",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "À la suite d'un scandale de marchés publics, des députés veulent sanctionner le Gouvernement. Que leur permet la Constitution ?",
+     "o": [
+      "Voter une motion de censure pour le renverser",
+      "Exiger la démission du Premier ministre par une loi",
+      "Créer une commission d'enquête et, après les questions, adopter une résolution de recommandations",
+      "Demander au Conseil constitutionnel de révoquer les ministres"
+     ],
+     "a": 2,
+     "e": "Le Gouvernement n'est responsable que devant le Président (article 83). Les députés peuvent en revanche utiliser la commission d'enquête et, à l'occasion des questions, prendre une résolution de recommandations (article 117).",
+     "ed": [
+      "La motion de censure n'existe pas dans la Constitution ivoirienne.",
+      "Le Parlement ne peut pas imposer la démission du Premier ministre : seul le Président met fin à ses fonctions (article 70).",
+      null,
+      "Le Conseil constitutionnel ne révoque pas les ministres ; la fin de leurs fonctions relève du Président (article 70)."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-dc06-20",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Dans la théorie classique, quels moyens d'action réciproques caractérisent le régime parlementaire ?",
+     "o": [
+      "Le veto suspensif et l'impeachment",
+      "La question écrite et la mission d'évaluation",
+      "Le référendum et l'ordonnance",
+      "La dissolution du Parlement et la censure du Gouvernement"
+     ],
+     "a": 3,
+     "e": "Le régime parlementaire repose sur une séparation souple des pouvoirs et sur des moyens d'action réciproques : la dissolution du Parlement par l'exécutif et la censure du Gouvernement par le Parlement.",
+     "ed": [
+      "Veto et impeachment sont associés au régime présidentiel américain, fondé sur une séparation stricte.",
+      "Questions et missions d'évaluation sont des moyens d'information : ils ne permettent pas de renverser un pouvoir.",
+      "Référendum et ordonnances sont des instruments de l'exécutif, non des moyens d'action réciproques.",
+      null
+     ],
+     "src": {
+      "t": "Nomad Education, « La théorie de la séparation des pouvoirs » (Licence de droit)",
+      "u": "https://www.nomadeducation.fr/revisions/licence-droit-1re-annee-lb563232/la-theorie-de-la-separation-des-pouvoirs-cy4d9f07"
+     }
+    },
+    {
+     "id": "n20261115-dc06-21",
+     "m": "dc",
+     "tag": "niv-dc06",
+     "q": "Après l'échec de la commission mixte paritaire, le désaccord persiste entre l'Assemblée nationale et le Sénat. Selon l'article 110 :",
+     "o": [
+      "le texte est abandonné définitivement",
+      "le Président de la République demande à l'Assemblée nationale de statuer définitivement",
+      "le Sénat a le dernier mot",
+      "le Conseil constitutionnel tranche le désaccord"
+     ],
+     "a": 1,
+     "e": "L'article 110 : si la commission mixte paritaire échoue ou si le désaccord persiste, « le Président de la République demande à l'Assemblée nationale de statuer définitivement sur le texte ».",
+     "ed": [
+      "Le texte n'est pas abandonné : la Constitution organise un dernier mot.",
+      null,
+      "C'est l'Assemblée nationale, non le Sénat, qui statue définitivement.",
+      "Le Conseil constitutionnel contrôle la conformité des lois ; il ne tranche pas un désaccord politique entre chambres."
+     ],
+     "src": {
+      "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261115-pn04-01",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Selon l'article 3 du décret n°2023-239, les établissements pénitentiaires ivoiriens comprennent :",
+     "o": [
+      "les maisons d'arrêt, les camps pénaux et les centres de détention",
+      "les maisons d'arrêt, les maisons de correction et les maisons pénales",
+      "les maisons centrales, les centres de détention et les maisons d'arrêt",
+      "les prisons civiles, les prisons militaires et les bagnes"
+     ],
+     "a": 1,
+     "e": "L'article 3 dispose : « Les établissements pénitentiaires comprennent les maisons d'arrêt, les maisons de correction et les maisons pénales. » Le communiqué du Conseil des ministres du 5 avril 2023 annonce ces trois catégories.",
+     "ed": [
+      "Le décret de 2023 ne mentionne ni camps pénaux ni centres de détention.",
+      null,
+      "Maisons centrales et centres de détention sont des catégories du droit français, pas du décret ivoirien.",
+      "Cette énumération ne correspond à aucune catégorie du décret n°2023-239."
+     ],
+     "src": {
+      "t": "Décret n°2023-239 du 5 avril 2023 portant réglementation des établissements pénitentiaires, chapitre 1 : dispositions générales (loidici.biz)",
+      "u": "https://loidici.biz/2025/08/03/chapitre-1-dispositions-generales-49/lois-article-par-article/plus-de-textes-de-lois/73265/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-02",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Le décret n°2024-1186 du 19 décembre 2024 a réécrit l'article 4 du décret n°2023-239. Que dispose-t-il désormais ?",
+     "o": [
+      "Les maisons d'arrêt accueillent les condamnés à moins d'un an",
+      "Les maisons d'arrêt accueillent les mineurs",
+      "Les maisons d'arrêt accueillent les prévenus",
+      "Les maisons d'arrêt sont supprimées"
+     ],
+     "a": 2,
+     "e": "Dans sa rédaction issue du décret n°2024-1186, l'article 4 dispose : « Les maisons d'arrêt accueillent les prévenus. » L'ancienne version visait les personnes placées en détention préventive.",
+     "ed": [
+      "Aucune disposition ne réserve les maisons d'arrêt aux courtes peines : les condamnés vont en maison de correction ou en maison pénale.",
+      "Les mineurs sont placés dans un quartier réservé (article 67), non dans une catégorie d'établissement propre.",
+      null,
+      "Le décret modificatif réécrit l'article 4 ; il ne supprime pas les maisons d'arrêt, qui restent l'une des trois catégories de l'article 3."
+     ],
+     "src": {
+      "t": "Décret n°2024-1186 du 19 décembre 2024 modifiant le décret n°2023-239 (loidici.biz)",
+      "u": "https://loidici.biz/?p=75108"
+     }
+    },
+    {
+     "id": "n20261115-pn04-03",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Awa est condamnée définitivement à six ans d'emprisonnement pour un délit d'escroquerie. Selon le décret n°2023-239, elle relève :",
+     "o": [
+      "d'une maison pénale",
+      "d'une maison d'arrêt",
+      "d'une maison de correction",
+      "d'un centre de réinsertion dès son incarcération"
+     ],
+     "a": 0,
+     "e": "L'article 7 réserve les maisons pénales aux condamnés pour crime et aux condamnés pour délit « à une peine d'emprisonnement supérieure à cinq (5) ans ». Six ans pour un délit : maison pénale.",
+     "ed": [
+      null,
+      "La maison d'arrêt accueille les prévenus ; Awa est condamnée définitivement.",
+      "La maison de correction vise les condamnés pour délit jusqu'à cinq ans ; au-delà, l'article 7 impose la maison pénale.",
+      "Le placement en centre de réinsertion (régime ouvert) est une possibilité ultérieure, pas le lieu d'exécution initial d'une peine de six ans."
+     ],
+     "src": {
+      "t": "Décret n°2023-239 du 5 avril 2023 portant réglementation des établissements pénitentiaires, chapitre 1 : dispositions générales (loidici.biz)",
+      "u": "https://loidici.biz/2025/08/03/chapitre-1-dispositions-generales-49/lois-article-par-article/plus-de-textes-de-lois/73265/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-04",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Au Pôle pénitentiaire d'Abidjan, quels condamnés la maison de correction accueille-t-elle selon Fraternité Matin (novembre 2023) ?",
+     "o": [
+      "Les condamnés à une peine supérieure à cinq ans",
+      "Les seuls condamnés à perpétuité",
+      "Les condamnés à une peine d'emprisonnement inférieure ou égale à cinq ans",
+      "Les seuls contraignables par corps"
+     ],
+     "a": 2,
+     "e": "Fraternité Matin indique que la maison de correction d'Abidjan, en régime fermé, reçoit les condamnés à « une peine d'emprisonnement inférieure ou égale à 5 ans », la maison pénale recevant les peines supérieures.",
+     "ed": [
+      "Les peines supérieures à cinq ans relèvent de la maison pénale d'Abidjan.",
+      "Les condamnés à perpétuité, condamnés pour crime, relèvent de la maison pénale (article 7).",
+      null,
+      "Les contraignables par corps ne sont pas visés comme public propre de la maison de correction."
+     ],
+     "src": {
+      "t": "Fraternité Matin, « Établissement pénitentiaire : pourquoi la Maca a changé de nom » (2 novembre 2023)",
+      "u": "https://www.fratmat.info/article/234272/politique/etablissement-penitentiaire-pourquoi-la-maca-a-change-de-nom"
+     }
+    },
+    {
+     "id": "n20261115-pn04-05",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Selon l'article 5 du décret n°2023-239, la maison de correction peut comprendre :",
+     "o": [
+      "un quartier de haute sécurité réservé aux criminels",
+      "un quartier de semi-liberté",
+      "une section pour les prévenus en instance d'appel",
+      "une juridiction d'application des peines"
+     ],
+     "a": 1,
+     "e": "L'article 5 précise qu'au sein de la maison de correction s'exécute un régime orienté vers la réinsertion et la préparation à la sortie, et que « les maisons de correction peuvent comprendre un quartier de semi-liberté ».",
+     "ed": [
+      "La sécurité renforcée caractérise la maison pénale (article 7), non la maison de correction.",
+      null,
+      "Les prévenus, y compris en instance d'appel, relèvent de la maison d'arrêt (article 4).",
+      "Le juge de l'application des peines est un magistrat ; il n'est pas une composante d'un établissement."
+     ],
+     "src": {
+      "t": "Décret n°2023-239 du 5 avril 2023 portant réglementation des établissements pénitentiaires, chapitre 1 : dispositions générales (loidici.biz)",
+      "u": "https://loidici.biz/2025/08/03/chapitre-1-dispositions-generales-49/lois-article-par-article/plus-de-textes-de-lois/73265/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-06",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Dans quelle structure les condamnés peuvent-ils être placés en régime ouvert selon l'article 8 du décret n°2023-239 ?",
+     "o": [
+      "Dans une maison pénale",
+      "Dans un quartier disciplinaire",
+      "Dans une maison d'arrêt",
+      "Dans un centre de réinsertion"
+     ],
+     "a": 3,
+     "e": "L'article 8 : « Les personnes condamnées peuvent être placées en régime ouvert dans les centres de réinsertion. » L'article 1er les définit comme des structures d'accueil et d'accompagnement vers l'autonomie personnelle et sociale.",
+     "ed": [
+      "La maison pénale applique un régime fermé à sécurité renforcée (article 7).",
+      "Le décret prévoit une mise en cellule disciplinaire, pas un régime ouvert disciplinaire.",
+      "La maison d'arrêt accueille les prévenus, en régime fermé.",
+      null
+     ],
+     "src": {
+      "t": "Décret n°2023-239 du 5 avril 2023 portant réglementation des établissements pénitentiaires, chapitre 1 : dispositions générales (loidici.biz)",
+      "u": "https://loidici.biz/2025/08/03/chapitre-1-dispositions-generales-49/lois-article-par-article/plus-de-textes-de-lois/73265/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-07",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Qui fixe la liste des établissements pénitentiaires et leur classement dans l'une des trois catégories (article 9) ?",
+     "o": [
+      "Le ministre de la Justice, par arrêté",
+      "Le Président de la République, par ordonnance",
+      "Le procureur de la République de chaque ressort",
+      "L'Assemblée nationale, par une loi"
+     ],
+     "a": 0,
+     "e": "L'article 9 : « Le ministre de la Justice détermine par arrêté la liste des établissements pénitentiaires et leur classification dans l'une des catégories prévues à l'article 3. » La MACA est ainsi devenue Pôle pénitentiaire d'Abidjan par arrêté ministériel.",
+     "ed": [
+      null,
+      "Le décret confie ce classement à un arrêté ministériel, non à une ordonnance présidentielle.",
+      "Le procureur contrôle le chef d'établissement (article 10) mais ne classe pas les établissements.",
+      "Aucune loi n'est exigée : c'est une compétence réglementaire du ministre."
+     ],
+     "src": {
+      "t": "Décret n°2023-239 du 5 avril 2023 portant réglementation des établissements pénitentiaires, chapitre 1 : dispositions générales (loidici.biz)",
+      "u": "https://loidici.biz/2025/08/03/chapitre-1-dispositions-generales-49/lois-article-par-article/plus-de-textes-de-lois/73265/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-08",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Yao, condamné en première instance, a fait appel. Au sens de l'article 1er du décret n°2023-239, il est :",
+     "o": [
+      "un condamné, puisqu'un jugement a été rendu",
+      "un contraignable par corps",
+      "un prévenu",
+      "un détenu de passage"
+     ],
+     "a": 2,
+     "e": "L'article 1er, 3°, range parmi les prévenus le détenu sans condamnation définitive, y compris « le condamné ayant formé appel, opposition ou pourvoi ». Yao relève donc de la maison d'arrêt.",
+     "ed": [
+      "Le condamné, selon l'article 1er, 2°, est celui dont la condamnation est devenue définitive ; l'appel l'empêche.",
+      "Le contraignable par corps est détenu pour défaut de paiement d'une amende ou de frais, ce qui n'est pas le cas.",
+      null,
+      "Le « détenu de passage » relève d'un registre distinct ; ce n'est pas un statut défini par l'article 1er."
+     ],
+     "src": {
+      "t": "Décret n°2023-239 du 5 avril 2023 portant réglementation des établissements pénitentiaires, chapitre 1 : dispositions générales (loidici.biz)",
+      "u": "https://loidici.biz/2025/08/03/chapitre-1-dispositions-generales-49/lois-article-par-article/plus-de-textes-de-lois/73265/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-09",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Selon l'article 1er du décret n°2023-239, le contraignable par corps est la personne détenue :",
+     "o": [
+      "pour ne s'être pas acquittée de l'amende, des frais ou d'un paiement dû au Trésor public auxquels elle a été condamnée",
+      "dans l'attente de son extradition",
+      "pour avoir troublé une audience",
+      "parce qu'elle s'est évadée d'un autre établissement"
+     ],
+     "a": 0,
+     "e": "L'article 1er, 4°, définit le contraignable par corps comme la personne détenue pour ne s'être pas acquittée de l'amende, des frais ou de tout paiement au profit du Trésor public auxquels elle a été condamnée.",
+     "ed": [
+      null,
+      "L'extradition relève d'un ordre d'arrestation provisoire (article 11), pas de la contrainte par corps.",
+      "Le trouble à l'audience donne lieu à un ordre d'incarcération du président de la juridiction (article 11), situation distincte.",
+      "L'évasion peut conduire en division de discipline (article 49) ; elle ne définit pas le contraignable par corps."
+     ],
+     "src": {
+      "t": "Décret n°2023-239 du 5 avril 2023 portant réglementation des établissements pénitentiaires, chapitre 1 : dispositions générales (loidici.biz)",
+      "u": "https://loidici.biz/2025/08/03/chapitre-1-dispositions-generales-49/lois-article-par-article/plus-de-textes-de-lois/73265/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-10",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "L'article 37 pose le principe de la détention collective. Laquelle de ces situations n'en est PAS une exception ?",
+     "o": [
+      "Le détenu puni de cellule disciplinaire",
+      "Le détenu isolé pour des raisons médicales",
+      "Le détenu inadaptable à la vie collective",
+      "Le détenu qui préfère une cellule seule par simple convenance"
+     ],
+     "a": 3,
+     "e": "L'article 37 énumère quatre exceptions : cellule disciplinaire, isolement ordonné par l'autorité judiciaire, isolement médical, inadaptabilité à la vie collective. La convenance personnelle n'y figure pas.",
+     "ed": [
+      "La cellule disciplinaire figure au 1° de l'article 37.",
+      "L'isolement pour raisons médicales figure au 3° de l'article 37.",
+      "Le détenu inadaptable à la vie collective figure au 4° de l'article 37.",
+      null
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime de la détention : généralités (articles 35 à 39)",
+      "u": "https://loidici.biz/2025/08/03/section-1-generalites/lois-article-par-article/plus-de-textes-de-lois/73293/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-11",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Qui assure la surveillance directe d'un mineur détenu selon l'article 71 du décret n°2023-239 ?",
+     "o": [
+      "Les agents chargés de la protection judiciaire de l'enfance et de la jeunesse",
+      "Les gendarmes affectés à l'établissement",
+      "Les détenus majeurs désignés comme tuteurs",
+      "Le seul chef d'établissement"
+     ],
+     "a": 0,
+     "e": "L'article 71 : « La surveillance directe du mineur détenu est assurée par des agents chargés de la protection judiciaire de l'enfance et de la jeunesse. » Le régime du mineur privilégie l'éducation (article 69).",
+     "ed": [
+      null,
+      "Le décret ne confie pas la surveillance des mineurs aux gendarmes.",
+      "Mineurs et majeurs doivent être séparés (article 38) : confier un mineur à des détenus adultes est exclu.",
+      "Le chef d'établissement dirige l'établissement ; la surveillance directe des mineurs est confiée à des agents spécialisés."
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime de la détention : mineurs (articles 67 à 71)",
+      "u": "https://loidici.biz/2025/08/03/section-5-mineurs/lois-article-par-article/plus-de-textes-de-lois/73303/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-12",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Un condamné arrive dans un établissement pénitentiaire. Sauf cas de l'article 49, dans quelle division est-il placé (article 47) ?",
+     "o": [
+      "En division d'amendement",
+      "En division normale",
+      "En division de discipline",
+      "En division de semi-liberté"
+     ],
+     "a": 1,
+     "e": "L'article 47 : « Le condamné arrivant dans l'établissement est placé en division normale, sauf application de l'article 49 », qui permet le placement en division de discipline de certains profils.",
+     "ed": [
+      "La division d'amendement suppose au moins le quart de la peine purgé et une bonne conduite (article 48).",
+      null,
+      "La division de discipline est l'exception de l'article 49 (personnalité dangereuse, récidive, évasion, mauvaise conduite).",
+      "Il n'existe que trois divisions (article 46) ; la semi-liberté est une mesure, pas une division."
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime de la détention : condamnés pour crimes et délits (articles 45 à 66)",
+      "u": "https://loidici.biz/2025/08/03/section-4-condamnes-pour-crimes-et-delits/lois-article-par-article/plus-de-textes-de-lois/73300/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-13",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Un condamné purge une peine de huit ans. Au bout de combien de mois, au minimum, peut-il être placé en division d'amendement (article 48) ?",
+     "o": [
+      "12 mois",
+      "48 mois",
+      "24 mois",
+      "32 mois"
+     ],
+     "a": 2,
+     "e": "L'article 48 exige d'avoir purgé au moins le quart de la peine. Huit ans = 96 mois ; 96 ÷ 4 = 24 mois. Il faut en outre une conduite et une ardeur au travail qui justifient un régime de confiance.",
+     "ed": [
+      "12 mois correspond au huitième de la peine, et non au quart.",
+      "48 mois correspond à la moitié de la peine ; l'article 48 exige seulement le quart.",
+      null,
+      "32 mois correspond au tiers de la peine ; le seuil légal est le quart."
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime de la détention : condamnés pour crimes et délits (articles 45 à 66)",
+      "u": "https://loidici.biz/2025/08/03/section-4-condamnes-pour-crimes-et-delits/lois-article-par-article/plus-de-textes-de-lois/73300/naty/"
+     },
+     "verif": "calcul",
+     "calc": "8*12/4"
+    },
+    {
+     "id": "n20261115-pn04-14",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Pour un condamné à une peine privative de liberté perpétuelle, quel délai d'épreuve l'article 48 fixe-t-il avant l'admission en division d'amendement ?",
+     "o": [
+      "Cinq ans",
+      "Dix ans",
+      "Quinze ans",
+      "Huit ans"
+     ],
+     "a": 3,
+     "e": "L'article 48, alinéa 2 : « Le délai d'épreuve est fixé à huit (8) années pour le condamné à une peine privative de liberté perpétuelle. » Le quart d'une peine perpétuelle ne pouvant se calculer, le texte fixe une durée.",
+     "ed": [
+      "Cinq ans est le seuil qui sépare maison de correction et maison pénale pour les délits, non le délai d'épreuve.",
+      "Dix ans n'apparaît pas dans l'article 48.",
+      "Quinze ans n'est pas prévu par l'article 48 ; quinze jours est la durée maximale de la mise en cellule (article 112, 7°).",
+      null
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime de la détention : condamnés pour crimes et délits (articles 45 à 66)",
+      "u": "https://loidici.biz/2025/08/03/section-4-condamnes-pour-crimes-et-delits/lois-article-par-article/plus-de-textes-de-lois/73300/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-15",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Selon l'article 51, quels condamnés peuvent bénéficier du placement à l'extérieur, de la semi-liberté et de la libération conditionnelle ?",
+     "o": [
+      "Tous les condamnés, quelle que soit leur division",
+      "Les seuls condamnés de la division normale",
+      "Les seuls condamnés admis en division d'amendement",
+      "Les seuls condamnés à moins d'un an"
+     ],
+     "a": 2,
+     "e": "L'article 51 : « Seul le condamné admis en division d'amendement peut bénéficier » du placement à l'extérieur, de la semi-liberté et de la libération conditionnelle. Ces mesures récompensent la progression.",
+     "ed": [
+      "Le texte dit « seul » : les condamnés des autres divisions sont exclus.",
+      "La division normale est la division d'accueil ; elle n'ouvre pas ces mesures.",
+      null,
+      "Le critère est la division, non la durée de la peine."
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime de la détention : condamnés pour crimes et délits (articles 45 à 66)",
+      "u": "https://loidici.biz/2025/08/03/section-4-condamnes-pour-crimes-et-delits/lois-article-par-article/plus-de-textes-de-lois/73300/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-16",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Kader, en division d'amendement, a signé un contrat de travail dans un garage de Treichville. Que prévoit l'article 53 pour la semi-liberté ?",
+     "o": [
+      "Elle est accordée par ordonnance du JAP et oblige Kader à réintégrer l'établissement chaque soir",
+      "Elle est accordée par le chef d'établissement et permet de rentrer chez soi le soir",
+      "Elle est accordée par arrêté du ministre et vaut libération définitive",
+      "Elle s'applique aussi les jours fériés sans autorisation particulière"
+     ],
+     "a": 0,
+     "e": "L'article 53 : la semi-liberté autorise une activité professionnelle hors de l'établissement sans surveillance continue, « avec l'obligation pour lui de réintégrer l'établissement chaque soir » ; elle est accordée par ordonnance du JAP sur justification d'un contrat de travail ou d'une lettre d'engagement.",
+     "ed": [
+      null,
+      "C'est le JAP, et non le chef d'établissement, qui l'accorde ; et le condamné doit réintégrer l'établissement chaque soir.",
+      "L'arrêté ministériel concerne la libération conditionnelle (article 59) ; la semi-liberté n'est pas une libération.",
+      "L'article 53 exclut les jours fériés et chômés, sauf dérogation spéciale du JAP."
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime de la détention : condamnés pour crimes et délits (articles 45 à 66)",
+      "u": "https://loidici.biz/2025/08/03/section-4-condamnes-pour-crimes-et-delits/lois-article-par-article/plus-de-textes-de-lois/73300/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-17",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Quelle autorité accorde la libération conditionnelle selon le décret n°2023-239 ?",
+     "o": [
+      "Le juge de l'application des peines, par ordonnance",
+      "Le ministre de la Justice, par arrêté",
+      "Le chef de l'établissement pénitentiaire",
+      "Le préfet du département de résidence"
+     ],
+     "a": 1,
+     "e": "L'article 59 vise « l'arrêté du ministre de la Justice accordant à un condamné la libération conditionnelle » ; l'article 66 confie aussi au ministre le rejet des demandes.",
+     "ed": [
+      "Le JAP accorde la semi-liberté et les permissions de sortir ; il ne fait que donner un avis sur la libération conditionnelle (article 57).",
+      null,
+      "Le chef d'établissement peut proposer la mesure et donne un avis (articles 56 et 57) ; il ne l'accorde pas.",
+      "Le préfet ne donne un avis que dans deux cas (forces armées, expulsion), selon l'article 58."
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime de la détention : condamnés pour crimes et délits (articles 45 à 66)",
+      "u": "https://loidici.biz/2025/08/03/section-4-condamnes-pour-crimes-et-delits/lois-article-par-article/plus-de-textes-de-lois/73300/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-18",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Selon l'article 129 du décret n°2023-239, combien de visites de sa famille un détenu peut-il recevoir ?",
+     "o": [
+      "Une par jour, prévenu ou condamné",
+      "Deux par semaine pour le condamné, une pour le prévenu",
+      "Une par mois pour tous",
+      "Deux par semaine pour le prévenu, une par semaine pour le condamné"
+     ],
+     "a": 3,
+     "e": "L'article 129 : « Le prévenu ne peut être visité par les membres de sa famille ou d'autres personnes que deux fois par semaine et le condamné qu'une fois par semaine. »",
+     "ed": [
+      "Le décret ne prévoit pas de visite quotidienne.",
+      "C'est l'inverse : le prévenu, présumé innocent, a droit à plus de visites que le condamné.",
+      "Le rythme fixé est hebdomadaire, non mensuel.",
+      null
+     ],
+     "src": {
+      "t": "Décret n°2023-239, visites et permissions (articles 127 à 137)",
+      "u": "https://loidici.biz/2025/08/03/section-2-visites-et-permissions/lois-article-par-article/plus-de-textes-de-lois/73323/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-19",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Un détenu mineur commet une faute disciplinaire du premier degré. Le chef d'établissement envisage une mise en cellule. Que décider ?",
+     "o": [
+      "La mise en cellule est possible jusqu'à quinze jours",
+      "La mise en cellule est exclue pour un mineur ; une autre sanction de l'article 112 doit être choisie",
+      "La mise en cellule est possible avec l'accord des parents",
+      "La mise en cellule est obligatoire pour toute faute du premier degré"
+     ],
+     "a": 1,
+     "e": "L'article 112 précise que « la mise en cellule ne s'applique pas aux femmes enceintes, aux femmes qui allaitent et aux mineurs ». Il faut retenir une autre sanction de la liste.",
+     "ed": [
+      "Même pour une faute grave, la mise en cellule d'un mineur est exclue par l'article 112.",
+      null,
+      "Aucun accord parental ne peut lever l'interdiction posée par le décret.",
+      "Le premier degré rend passibles les sanctions du 5° au 8° ; aucune n'est obligatoire, et la mise en cellule reste exclue pour un mineur."
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime disciplinaire des détenus (articles 107 à 117)",
+      "u": "https://loidici.biz/2025/08/03/section-1-regime-disciplinaire-des-detenus/lois-article-par-article/plus-de-textes-de-lois/73313/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-20",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Qui peut prononcer une mise en cellule d'une durée pouvant aller jusqu'à quinze jours (article 112, 7°) ?",
+     "o": [
+      "Le chef de l'établissement pénitentiaire",
+      "Le procureur de la République",
+      "Le juge de l'application des peines, sur rapport du chef d'établissement",
+      "Le surveillant chef de quartier"
+     ],
+     "a": 2,
+     "e": "L'article 116 attribue au juge de l'application des peines, sur rapport du chef d'établissement, les sanctions des 5°, 7° et 8° de l'article 112. Le chef d'établissement prononce les 1° à 4° et le 6°, c'est-à-dire la mise en cellule jusqu'à sept jours (article 115).",
+     "ed": [
+      "Le chef d'établissement ne peut prononcer que la mise en cellule jusqu'à sept jours (6°), selon l'article 115.",
+      "Le procureur n'est pas désigné par les articles 115 et 116 comme autorité disciplinaire.",
+      null,
+      "Aucun agent subalterne ne détient de pouvoir disciplinaire propre dans le décret."
+     ],
+     "src": {
+      "t": "Décret n°2023-239, régime disciplinaire des détenus (articles 107 à 117)",
+      "u": "https://loidici.biz/2025/08/03/section-1-regime-disciplinaire-des-detenus/lois-article-par-article/plus-de-textes-de-lois/73313/naty/"
+     }
+    },
+    {
+     "id": "n20261115-pn04-21",
+     "m": "pen",
+     "tag": "niv-pn04",
+     "q": "Un prévenu demande à travailler pendant sa détention. Que prévoit l'article 157 ?",
+     "o": [
+      "Le travail lui est interdit en raison de la présomption d'innocence",
+      "Il peut être employé sur un chantier extérieur",
+      "Il est astreint au travail comme un condamné",
+      "Il n'est pas astreint au travail, mais peut en demander ; ce travail s'exécute à l'intérieur de l'établissement"
+     ],
+     "a": 3,
+     "e": "L'article 157 : « Les prévenus ne sont pas astreints au travail pénal. Toutefois, ils peuvent demander qu'il leur en soit donné. » Ce travail ne peut s'exécuter qu'à l'intérieur de l'établissement.",
+     "ed": [
+      "Le travail n'est pas interdit au prévenu : il est facultatif et sur sa demande.",
+      "Le travail du prévenu ne peut s'exécuter qu'à l'intérieur ; l'emploi extérieur est réservé à la division d'amendement (article 166).",
+      "Seuls les condamnés sont astreints au travail (article 156).",
+      null
+     ],
+     "src": {
+      "t": "Décret n°2023-239, travail : dispositions générales (articles 156 à 163)",
+      "u": "https://loidici.biz/2025/08/03/section-1-dispositions-generales-2/lois-article-par-article/plus-de-textes-de-lois/73337/naty/"
+     }
+    },
+    {
+     "id": "n20261115-cg07-01",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Combien de biens ivoiriens sont inscrits sur la Liste du patrimoine mondial de l'UNESCO ?",
+     "o": [
+      "Cinq : trois naturels et deux culturels",
+      "Trois, tous naturels",
+      "Quatre : deux naturels et deux culturels",
+      "Six, dont un bien mixte"
+     ],
+     "a": 0,
+     "e": "La page de l'UNESCO consacrée à la Côte d'Ivoire recense cinq biens : trois naturels (mont Nimba, Taï, Comoé) et deux culturels (Grand-Bassam, mosquées soudanaises du Nord).",
+     "ed": [
+      null,
+      "Il existe aussi deux biens culturels : Grand-Bassam (2012) et les mosquées soudanaises (2021).",
+      "Les biens naturels sont trois : mont Nimba, Taï et Comoé.",
+      "La Côte d'Ivoire n'a aucun bien mixte, et le total est de cinq."
+     ],
+     "src": {
+      "t": "UNESCO, Centre du patrimoine mondial : Côte d'Ivoire",
+      "u": "https://whc.unesco.org/fr/etatsparties/CI/"
+     }
+    },
+    {
+     "id": "n20261115-cg07-02",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "En quelle année la Ville historique de Grand-Bassam a-t-elle été inscrite au patrimoine mondial ?",
+     "o": [
+      "2008",
+      "2017",
+      "2012",
+      "2021"
+     ],
+     "a": 2,
+     "e": "Selon l'UNESCO, la Ville historique de Grand-Bassam, bien culturel, a été inscrite sur la Liste du patrimoine mondial en 2012.",
+     "ed": [
+      "2008 est l'année d'inscription du Gbofe d'Afounkaha au patrimoine immatériel.",
+      "2017 est l'année du Zaouli au patrimoine immatériel et du retrait de la Comoé de la Liste en péril.",
+      null,
+      "2021 est l'année d'inscription des mosquées de style soudanais du Nord ivoirien."
+     ],
+     "src": {
+      "t": "UNESCO, Centre du patrimoine mondial : Côte d'Ivoire",
+      "u": "https://whc.unesco.org/fr/etatsparties/CI/"
+     }
+    },
+    {
+     "id": "n20261115-cg07-03",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Quel est le bien ivoirien le plus récemment inscrit sur la Liste du patrimoine mondial ?",
+     "o": [
+      "Le Parc national de Taï",
+      "Les Mosquées de style soudanais du Nord ivoirien",
+      "La Ville historique de Grand-Bassam",
+      "Le Parc national de la Comoé"
+     ],
+     "a": 1,
+     "e": "Les Mosquées de style soudanais du Nord ivoirien ont été inscrites en 2021, après Grand-Bassam (2012) et les trois parcs naturels (1981-1983).",
+     "ed": [
+      "Le Parc de Taï a été inscrit dès 1982.",
+      null,
+      "Grand-Bassam date de 2012, avant les mosquées (2021).",
+      "La Comoé a été inscrite en 1983."
+     ],
+     "src": {
+      "t": "UNESCO, Centre du patrimoine mondial : Côte d'Ivoire",
+      "u": "https://whc.unesco.org/fr/etatsparties/CI/"
+     }
+    },
+    {
+     "id": "n20261115-cg07-04",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Lequel de ces biens ivoiriens du patrimoine mondial n'est PAS un site naturel ?",
+     "o": [
+      "Le Parc national de Taï",
+      "La Réserve naturelle intégrale du mont Nimba",
+      "Le Parc national de la Comoé",
+      "La Ville historique de Grand-Bassam"
+     ],
+     "a": 3,
+     "e": "Grand-Bassam est un bien culturel (2012) ; les trois autres sont les biens naturels de la Côte d'Ivoire, inscrits entre 1981 et 1983.",
+     "ed": [
+      "Taï est un bien naturel, inscrit en 1982.",
+      "Le mont Nimba est un bien naturel, inscrit en 1981.",
+      "La Comoé est un bien naturel, inscrit en 1983.",
+      null
+     ],
+     "src": {
+      "t": "UNESCO, Centre du patrimoine mondial : Côte d'Ivoire",
+      "u": "https://whc.unesco.org/fr/etatsparties/CI/"
+     }
+    },
+    {
+     "id": "n20261115-cg07-05",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "En quelle année le Parc national de la Comoé a-t-il été retiré de la Liste du patrimoine mondial en péril ?",
+     "o": [
+      "2017",
+      "2003",
+      "2012",
+      "1992"
+     ],
+     "a": 0,
+     "e": "L'UNESCO annonce le 4 juillet 2017, lors de la session de Cracovie, le retrait du Parc national de la Comoé de la Liste du patrimoine en péril, où il figurait depuis 2003.",
+     "ed": [
+      null,
+      "2003 est l'année de son inscription sur la Liste en péril, non de son retrait.",
+      "2012 est l'année d'inscription de Grand-Bassam.",
+      "1992 est l'année d'entrée du mont Nimba sur la Liste en péril."
+     ],
+     "src": {
+      "t": "UNESCO, « Le Parc national de la Comoé retiré de la Liste du patrimoine en péril » (4 juillet 2017)",
+      "u": "https://whc.unesco.org/fr/actualites/1682/"
+     }
+    },
+    {
+     "id": "n20261115-cg07-06",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Le Zaouli, inscrit en 2017 au patrimoine culturel immatériel de l'UNESCO, est une musique et une danse populaires des communautés :",
+     "o": [
+      "tagbana",
+      "baoulé",
+      "gouro",
+      "sénoufo"
+     ],
+     "a": 2,
+     "e": "L'UNESCO intitule l'élément : « Le Zaouli, musique et danse populaires des communautés gouro de Côte d'Ivoire », inscrit en 2017.",
+     "ed": [
+      "Les Tagbana portent le Gbofe d'Afounkaha (trompes traversières), inscrit en 2008.",
+      "L'intitulé UNESCO ne mentionne pas les Baoulé ; il vise les communautés gouro.",
+      null,
+      "L'élément inscrit vise les communautés gouro, et non sénoufo."
+     ],
+     "src": {
+      "t": "UNESCO, Patrimoine culturel immatériel : Côte d'Ivoire",
+      "u": "https://ich.unesco.org/fr/etat/cote-d-ivoire-CI?cp=CI&topic=fr-etat"
+     }
+    },
+    {
+     "id": "n20261115-cg07-07",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Le Gbofe d'Afounkaha, inscrit en 2008 au patrimoine immatériel, est :",
+     "o": [
+      "une danse de masques des Dan",
+      "la musique des trompes traversières de la communauté tagbana",
+      "un savoir-faire de tissage du pagne",
+      "un rite de génération des peuples lagunaires"
+     ],
+     "a": 1,
+     "e": "L'UNESCO décrit l'élément comme « Le Gbofe d'Afounkaha, la musique des trompes traversières de la communauté Tagbana », inscrit en 2008.",
+     "ed": [
+      "Le Gbofe n'est pas une danse de masques ; c'est une musique de trompes.",
+      null,
+      "Le tissage du pagne est un élément distinct, inscrit en 2023.",
+      "Le Gbofe est une pratique musicale tagbana, non un rite de génération."
+     ],
+     "src": {
+      "t": "UNESCO, Patrimoine culturel immatériel : Côte d'Ivoire",
+      "u": "https://ich.unesco.org/fr/etat/cote-d-ivoire-CI?cp=CI&topic=fr-etat"
+     }
+    },
+    {
+     "id": "n20261115-cg07-08",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "En quelle année les savoir-faire liés à la fabrication de l'attiéké ont-ils été inscrits au patrimoine culturel immatériel de l'UNESCO ?",
+     "o": [
+      "2017",
+      "2008",
+      "2023",
+      "2024"
+     ],
+     "a": 3,
+     "e": "La page de l'UNESCO consacrée à la Côte d'Ivoire date de 2024 l'inscription des « savoir-faire liés à la fabrication de l'attiéké en Côte d'Ivoire ».",
+     "ed": [
+      "2017 est l'année du Zaouli.",
+      "2008 est l'année du Gbofe d'Afounkaha.",
+      "2023 est l'année des savoir-faire liés au tissage du pagne.",
+      null
+     ],
+     "src": {
+      "t": "UNESCO, Patrimoine culturel immatériel : Côte d'Ivoire",
+      "u": "https://ich.unesco.org/fr/etat/cote-d-ivoire-CI?cp=CI&topic=fr-etat"
+     }
+    },
+    {
+     "id": "n20261115-cg07-09",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Qui est l'auteur du roman Les Soleils des indépendances (1968) ?",
+     "o": [
+      "Ahmadou Kourouma",
+      "Bernard Binlin Dadié",
+      "Jean-Marie Adiaffi",
+      "Véronique Tadjo"
+     ],
+     "a": 0,
+     "e": "L'encyclopédie Larousse attribue à Ahmadou Kourouma (1927-2003) Les Soleils des indépendances, publié en 1968, son premier roman.",
+     "ed": [
+      null,
+      "Bernard Dadié est l'auteur de Climbié (1956), non de ce roman.",
+      "Jean-Marie Adiaffi est l'auteur de La carte d'identité (1980).",
+      "Véronique Tadjo, née en 1955, ne peut être l'auteur d'un roman de 1968 ; elle a reçu le Grand prix littéraire d'Afrique noire en 2005."
+     ],
+     "src": {
+      "t": "Larousse, encyclopédie : Ahmadou Kourouma",
+      "u": "https://www.larousse.fr/encyclopedie/litterature/Ahmadou_Kourouma/174585"
+     }
+    },
+    {
+     "id": "n20261115-cg07-10",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Allah n'est pas obligé (2000), d'Ahmadou Kourouma, a reçu :",
+     "o": [
+      "le prix Goncourt et le prix Femina",
+      "le Grand prix littéraire d'Afrique noire et le prix Nobel",
+      "le prix Renaudot et le prix Goncourt des lycéens",
+      "le prix Médicis et le prix Interallié"
+     ],
+     "a": 2,
+     "e": "Selon Larousse, Allah n'est pas obligé, publié en 2000, « reçoit le prix Renaudot et le prix Goncourt des lycéens ».",
+     "ed": [
+      "Le roman n'a reçu ni le prix Goncourt ni le Femina, mais le Renaudot et le Goncourt des lycéens.",
+      "Kourouma n'a pas reçu le prix Nobel ; ce couple de prix est faux.",
+      null,
+      "Ni le Médicis ni l'Interallié ne figurent parmi les prix de ce roman."
+     ],
+     "src": {
+      "t": "Larousse, encyclopédie : Ahmadou Kourouma",
+      "u": "https://www.larousse.fr/encyclopedie/litterature/Ahmadou_Kourouma/174585"
+     }
+    },
+    {
+     "id": "n20261115-cg07-11",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Le roman Climbié (1956) est l'œuvre de :",
+     "o": [
+      "Ahmadou Kourouma",
+      "Bernard Binlin Dadié",
+      "Alpha Blondy",
+      "Jean-Marie Adiaffi"
+     ],
+     "a": 1,
+     "e": "Britannica cite Climbié (1956) parmi les œuvres de Bernard Binlin Dadié, né en 1916 à Assinie et mort en 2019 à Abidjan.",
+     "ed": [
+      "Kourouma publie son premier roman en 1968 ; Climbié n'est pas de lui.",
+      null,
+      "Alpha Blondy est un musicien de reggae, non un romancier.",
+      "Adiaffi, né en 1941, n'avait que 15 ans en 1956 ; son grand roman est La carte d'identité (1980)."
+     ],
+     "src": {
+      "t": "Britannica, « Bernard Binlin Dadié »",
+      "u": "https://www.britannica.com/biography/Bernard-Binlin-Dadie"
+     }
+    },
+    {
+     "id": "n20261115-cg07-12",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Jean-Marie Adiaffi a reçu le Grand prix littéraire d'Afrique noire en 1981 pour :",
+     "o": [
+      "La carte d'identité",
+      "Climbié",
+      "Les Soleils des indépendances",
+      "En attendant le vote des bêtes sauvages"
+     ],
+     "a": 0,
+     "e": "Le Centre d'études africaines de Leiden indique qu'Adiaffi a publié La carte d'identité (1980) et reçu en 1981 le Grand prix littéraire d'Afrique noire.",
+     "ed": [
+      null,
+      "Climbié est de Bernard Dadié (1956).",
+      "Les Soleils des indépendances est de Kourouma (1968).",
+      "En attendant le vote des bêtes sauvages est de Kourouma (1998)."
+     ],
+     "src": {
+      "t": "African Studies Centre Leiden, « Jean-Marie Adiaffi »",
+      "u": "https://www.ascleiden.nl/content/library-weekly/jean-marie-adiaffi"
+     }
+    },
+    {
+     "id": "n20261115-cg07-13",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Le zouglou est né en 1990 :",
+     "o": [
+      "dans la diaspora ivoirienne de Paris",
+      "dans les maquis de Treichville, parmi les musiciens professionnels",
+      "à la cité universitaire de Yopougon, parmi les étudiants",
+      "à Bouaké, lors d'un festival de masques"
+     ],
+     "a": 2,
+     "e": "Music In Africa explique que le zouglou est apparu en 1990 comme danse des étudiants logés à la cité universitaire de Yopougon, rattachée à l'université de Cocody.",
+     "ed": [
+      "C'est le coupé-décalé, vers 2001, qui naît dans la diaspora parisienne.",
+      "Le zouglou est né chez des étudiants, non parmi des musiciens professionnels.",
+      null,
+      "Aucune source ne rattache la naissance du zouglou à Bouaké ni à un festival de masques."
+     ],
+     "src": {
+      "t": "Music In Africa, « Zouglou (Côte d'Ivoire) »",
+      "u": "https://musicinafrica.net/magazine/zouglou-cote-divoire/"
+     }
+    },
+    {
+     "id": "n20261115-cg07-14",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Quelle figure est associée à la naissance du coupé-décalé, vers 2001, au sein du collectif de la Jet Set ?",
+     "o": [
+      "Alpha Blondy",
+      "A'salfo",
+      "Didier Bilé",
+      "Douk Saga"
+     ],
+     "a": 3,
+     "e": "Selon l'article consacré au coupé-décalé, le genre se développe vers 2001 dans la diaspora ivoirienne de Paris, au sein du collectif de la Jet Set mené par Douk Saga.",
+     "ed": [
+      "Alpha Blondy est la grande figure du reggae ivoirien depuis les années 1980.",
+      "A'salfo est le chanteur de Magic System et le fondateur du FEMUA.",
+      "Didier Bilé est lié au premier titre zouglou, « Glogbo Koffi » (1991).",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia, « Coupé-décalé »",
+      "u": "https://en.wikipedia.org/wiki/Coup%C3%A9-d%C3%A9cal%C3%A9"
+     }
+    },
+    {
+     "id": "n20261115-cg07-15",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Le Festival des musiques urbaines d'Anoumabo (FEMUA), lancé en 2008, a été initié par :",
+     "o": [
+      "A'salfo, chanteur du groupe Magic System",
+      "Douk Saga",
+      "Alpha Blondy",
+      "le ministère de la Culture seul"
+     ],
+     "a": 0,
+     "e": "Le site du FEMUA précise que le festival, initié en 2008, a été fondé par Salif Traoré, dit A'salfo, chanteur du groupe Magic System, originaire d'Anoumabo.",
+     "ed": [
+      null,
+      "Douk Saga est associé au coupé-décalé, non à la création du FEMUA.",
+      "Alpha Blondy n'est pas le fondateur du FEMUA.",
+      "Le festival est une initiative d'A'salfo, non une création ministérielle."
+     ],
+     "src": {
+      "t": "FEMUA, présentation du festival",
+      "u": "https://femua.com/?p=452"
+     }
+    },
+    {
+     "id": "n20261115-cg07-16",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Dans quelle ville et en quelle année s'est tenue la première édition du Marché des arts du spectacle africain (MASA) ?",
+     "o": [
+      "Dakar, 1966",
+      "Abidjan, 1993",
+      "Ouagadougou, 1969",
+      "Abidjan, 2008"
+     ],
+     "a": 1,
+     "e": "Le site du MASA indique que la première édition s'est tenue à Abidjan du 27 mars au 1er avril 1993.",
+     "ed": [
+      "Le MASA n'est pas né à Dakar ; sa première édition a eu lieu à Abidjan.",
+      null,
+      "Ouagadougou n'a pas accueilli la première édition du MASA.",
+      "2008 est l'année de lancement du FEMUA, non du MASA."
+     ],
+     "src": {
+      "t": "MASA, « MASA 1993 »",
+      "u": "https://www.en.masa.ci/masa-1993"
+     }
+    },
+    {
+     "id": "n20261115-cg07-17",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Contre quelle équipe la Côte d'Ivoire a-t-elle remporté la finale de la CAN 2023, le 11 février 2024 au stade d'Ebimpé ?",
+     "o": [
+      "Le Ghana",
+      "Le Sénégal",
+      "L'Égypte",
+      "Le Nigeria"
+     ],
+     "a": 3,
+     "e": "La CAF rapporte que, le 11 février 2024, la Côte d'Ivoire s'est imposée 2-1 face au Nigeria au stade Alassane Ouattara d'Ebimpé, décrochant sa troisième étoile.",
+     "ed": [
+      "Le Ghana fut l'adversaire des finales gagnées de 1992 et de 2015.",
+      "Le Sénégal n'était pas le finaliste de la CAN 2023.",
+      "L'Égypte n'a pas disputé cette finale.",
+      null
+     ],
+     "src": {
+      "t": "CAF, « La Côte d'Ivoire domine le Nigeria et remporte la CAN TotalEnergies 2023 » (11 février 2024)",
+      "u": "https://www.cafonline.com/fr/can2025/infos/la-cote-d-ivoire-domine-le-nigeria-et-remporte-la-coupe-d-afrique-des-nations-caf-totalenergies-2023/"
+     }
+    },
+    {
+     "id": "n20261115-cg07-18",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Parmi ces affirmations sur les titres continentaux des Éléphants, laquelle est FAUSSE ?",
+     "o": [
+      "La CAN 1992 a été gagnée au Sénégal face au Ghana",
+      "La CAN 2015 a été gagnée à Bata face au Nigeria",
+      "La CAN 2023 a été gagnée à domicile, en finale contre le Nigeria",
+      "Entre le premier et le deuxième titre, vingt-trois ans se sont écoulés"
+     ],
+     "a": 1,
+     "e": "La finale de 2015, à Bata, a opposé la Côte d'Ivoire au Ghana (0-0, 9-8 aux tirs au but), et non au Nigeria. Les trois autres affirmations sont exactes.",
+     "ed": [
+      "Exact : en 1992 au Sénégal, victoire contre le Ghana aux tirs au but (11-10).",
+      null,
+      "Exact : finale du 11 février 2024 à Ebimpé, 2-1 contre le Nigeria.",
+      "Exact : 2015 − 1992 = 23 ans ; la presse titrait « 23 ans plus tard ! »."
+     ],
+     "src": {
+      "t": "Afrik-foot, « CAN 2015 : la Côte d'Ivoire enfin sacrée »",
+      "u": "https://www.afrik-foot.com/can-2015-la-cote-d-ivoire-enfin-sacree"
+     }
+    },
+    {
+     "id": "n20261115-cg07-19",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Qui a remporté la première médaille olympique de l'histoire de la Côte d'Ivoire ?",
+     "o": [
+      "Cheick Sallah Cissé, en taekwondo, en 2016",
+      "Murielle Ahouré, sur 100 m, en 2012",
+      "Ruth Gbagbi, en taekwondo, en 2020",
+      "Gabriel Tiacoh, médaille d'argent du 400 m en 1984"
+     ],
+     "a": 3,
+     "e": "Olympedia indique que la Côte d'Ivoire a gagné sa première médaille olympique en 1984, l'argent de Gabriel Tiacoh sur 400 m.",
+     "ed": [
+      "Cissé a remporté en 2016 le premier titre olympique, mais pas la première médaille.",
+      "La première médaille date de 1984 selon Olympedia ; 2012 est bien postérieur, et le grand titre d'Ahouré est mondial (60 m en salle, 2018).",
+      "Ruth Gbagbi a gagné le bronze en 2016 puis en 2020, bien après 1984.",
+      null
+     ],
+     "src": {
+      "t": "Olympedia, Côte d'Ivoire",
+      "u": "https://www.olympedia.org/countries/CIV"
+     }
+    },
+    {
+     "id": "n20261115-cg07-20",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Le 2 mars 2018 à Birmingham, Murielle Ahouré devient le premier athlète ivoirien titré au niveau mondial. Dans quelle épreuve ?",
+     "o": [
+      "Le 60 m des Championnats du monde en salle",
+      "Le 100 m des Jeux olympiques",
+      "Le 200 m des Championnats du monde en plein air",
+      "Le 400 m des Jeux du Commonwealth"
+     ],
+     "a": 0,
+     "e": "World Athletics rapporte qu'Ahouré a remporté le 60 m des Championnats du monde en salle de Birmingham en 6 s 97, devenant la première athlète ivoirienne à gagner un titre mondial ; Marie-Josée Ta Lou était deuxième.",
+     "ed": [
+      null,
+      "Birmingham 2018 accueillait des championnats du monde en salle, non des Jeux olympiques.",
+      "Le 200 m n'existe pas aux mondiaux en salle et l'épreuve gagnée était le 60 m.",
+      "Il ne s'agissait pas de Jeux du Commonwealth : la compétition était les Championnats du monde en salle, et l'épreuve le 60 m."
+     ],
+     "src": {
+      "t": "World Athletics, finale du 60 m féminin, Championnats du monde en salle de Birmingham (2 mars 2018)",
+      "u": "https://worldathletics.org/news/report/womens-60m-final-iaaf-world-indoor-champion"
+     }
+    },
+    {
+     "id": "n20261115-cg07-21",
+     "m": "cg",
+     "tag": "niv-cg07",
+     "q": "Cheick Sallah Cissé a offert à la Côte d'Ivoire son premier titre olympique en 2016. Dans quelle discipline ?",
+     "o": [
+      "Le judo",
+      "Le taekwondo, catégorie des moins de 80 kg",
+      "La boxe, poids moyens",
+      "La lutte libre"
+     ],
+     "a": 1,
+     "e": "Olympics.com relate la victoire de Cheick Sallah Cissé en finale des moins de 80 kg de taekwondo contre le Britannique Lutalo Muhammad : la première médaille d'or de l'histoire olympique ivoirienne.",
+     "ed": [
+      "Cissé n'est pas judoka ; son titre a été remporté en taekwondo.",
+      null,
+      "Il ne s'agit pas de boxe : la finale était un combat de taekwondo.",
+      "Il ne s'agit pas de lutte : la discipline est le taekwondo."
+     ],
+     "src": {
+      "t": "Olympics.com, « Cissé's last-gasp taekwondo gold first for Ivory Coast »",
+      "u": "https://olympics.com/en/news/cisse-s-last-gasp-taekwondo-gold-first-for-ivory-coast"
+     }
+    },
+    {
+     "id": "n20261115-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville le siège de la Ligue des États arabes a-t-il été installé de 1979 à 1990, avant de revenir au Caire ?",
+     "o": [
+      "Tunis",
+      "Riyad",
+      "Beyrouth",
+      "Damas"
+     ],
+     "a": 0,
+     "e": "Britannica rappelle que le siège de la Ligue arabe a été transféré à Tunis en 1979, puis est revenu au Caire en 1990.",
+     "ed": [
+      null,
+      "Riyad n'a jamais accueilli le siège de la Ligue arabe.",
+      "Beyrouth n'a pas été le siège de la Ligue entre 1979 et 1990.",
+      "Damas n'a pas accueilli le siège de la Ligue ; il a été transféré à Tunis."
+     ],
+     "src": {
+      "t": "Britannica, « Arab League »",
+      "u": "https://www.britannica.com/topic/Arab-League"
+     }
+    },
+    {
+     "id": "n20261115-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En quelle année le pacte de Varsovie, signé le 14 mai 1955, a-t-il été officiellement dissous ?",
+     "o": [
+      "1989",
+      "1991",
+      "1990",
+      "1993"
+     ],
+     "a": 1,
+     "e": "Selon Britannica, le pacte de Varsovie, créé le 14 mai 1955, a été dissous le 1er juillet 1991, quelques mois avant la disparition de l'URSS.",
+     "ed": [
+      "1989 est l'année de la chute du mur de Berlin, non de la dissolution du pacte.",
+      null,
+      "1990 est l'année de la réunification allemande ; le pacte existait encore.",
+      "En 1993, le pacte avait déjà disparu depuis deux ans."
+     ],
+     "src": {
+      "t": "Britannica, « Warsaw Pact »",
+      "u": "https://www.britannica.com/event/Warsaw-Pact"
+     }
+    },
+    {
+     "id": "n20261115-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lequel de ces États n'a PAS signé le pacte de Varsovie en 1955 ?",
+     "o": [
+      "L'Albanie",
+      "La Bulgarie",
+      "La Roumanie",
+      "La Yougoslavie"
+     ],
+     "a": 3,
+     "e": "Britannica énumère les signataires : l'Union soviétique, l'Albanie, la Bulgarie, la Tchécoslovaquie, l'Allemagne de l'Est, la Hongrie, la Pologne et la Roumanie. La Yougoslavie n'en faisait pas partie.",
+     "ed": [
+      "L'Albanie figure parmi les signataires de 1955.",
+      "La Bulgarie figure parmi les signataires de 1955.",
+      "La Roumanie figure parmi les signataires de 1955.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Warsaw Pact »",
+      "u": "https://www.britannica.com/event/Warsaw-Pact"
+     }
+    },
+    {
+     "id": "n20261115-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lequel de ces pays ne faisait PAS partie des cinq organisateurs de la conférence de Bandung (avril 1955) ?",
+     "o": [
+      "L'Égypte",
+      "L'Inde",
+      "L'Indonésie",
+      "Le Pakistan"
+     ],
+     "a": 0,
+     "e": "Britannica indique que la conférence a été organisée par l'Indonésie, la Birmanie, Ceylan, l'Inde et le Pakistan. L'Égypte y a participé sans en être l'un des organisateurs.",
+     "ed": [
+      null,
+      "L'Inde fait partie des cinq organisateurs.",
+      "L'Indonésie, pays hôte, fait partie des cinq organisateurs.",
+      "Le Pakistan fait partie des cinq organisateurs."
+     ],
+     "src": {
+      "t": "Britannica, « Bandung Conference »",
+      "u": "https://www.britannica.com/event/Bandung-Conference"
+     }
+    },
+    {
+     "id": "n20261115-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Comment s'appelait le groupe, fondé en 1996, dont est issue l'Organisation de coopération de Shanghai créée en 2001 ?",
+     "o": [
+      "Le Groupe de Visegrád",
+      "Le Groupe des 77",
+      "Les Cinq de Shanghai",
+      "Le Pacte de Bagdad"
+     ],
+     "a": 2,
+     "e": "Britannica précise que l'Organisation de coopération de Shanghai, établie en 2001 par la Chine, la Russie, le Kazakhstan, le Kirghizistan, le Tadjikistan et l'Ouzbékistan, s'appelait auparavant les « Cinq de Shanghai », fondés en 1996.",
+     "ed": [
+      "Le Groupe de Visegrád réunit des États d'Europe centrale ; il n'a aucun lien avec l'OCS.",
+      "Le Groupe des 77 rassemble des pays en développement à l'ONU depuis les années 1960.",
+      null,
+      "Le pacte de Bagdad est une alliance des années 1950 au Moyen-Orient, sans lien avec l'OCS."
+     ],
+     "src": {
+      "t": "Britannica, « Shanghai Cooperation Organization »",
+      "u": "https://www.britannica.com/topic/Shanghai-Cooperation-Organization"
+     }
+    },
+    {
+     "id": "n20261115-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En quelle année la Banque africaine de développement (BAD) a-t-elle ouvert son siège à Abidjan ?",
+     "o": [
+      "1963",
+      "1965",
+      "1970",
+      "1966"
+     ],
+     "a": 1,
+     "e": "Abidjan.net retrace l'histoire de la BAD : créée le 4 août 1963 à Khartoum, elle a ouvert son siège à Abidjan en mars 1965 et lancé ses premiers projets le 1er juillet 1966.",
+     "ed": [
+      "1963 est l'année de l'accord de création à Khartoum, non de l'ouverture du siège.",
+      null,
+      "En 1970, le siège fonctionnait déjà à Abidjan depuis cinq ans.",
+      "1966 est l'année du lancement des premiers projets (1er juillet 1966), non de l'ouverture du siège."
+     ],
+     "src": {
+      "t": "Abidjan.net, « BAD : l'historique de l'institution panafricaine »",
+      "u": "https://news.abidjan.net/articles/510688/bad-lhistorique-de-linstitution-panafricaine"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261115dc06",
+     "niv": "dc06",
+     "m": "dc",
+     "titre": "Le Gouvernement et les rapports entre pouvoirs",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez décrire le Gouvernement ivoirien (composition, nomination, rôle, responsabilité, incompatibilités) en citant les articles 70 et 81 à 84 de la Constitution du 8 novembre 2016, révisée le 19 mars 2020.",
+      "= Vous saurez aussi classer les moyens d'action entre l'Exécutif et le Parlement (articles 74, 106, 110, 112, 114 à 117) et en déduire, arguments à l'appui, la nature du régime ivoirien.",
+      "## Ce que demande l'épreuve",
+      "En présélection, les questions visent un article précis : qui nomme le Premier ministre, devant qui le Gouvernement est responsable, quels sont les moyens d'information du Parlement, quel délai de promulgation s'applique. À l'écrit de droit constitutionnel, les rapports entre pouvoirs sont un thème classique : on vous demande de qualifier le régime, d'apprécier l'équilibre entre l'Exécutif et le Parlement ou de résoudre un petit cas (un ministre peut-il rester député ? que se passe-t-il si le budget n'est pas voté ?).",
+      "! Piège habituel : plaquer le modèle français. La Constitution ivoirienne ne prévoit ni motion de censure ni droit de dissolution : ces mots n'y figurent pas. Le Gouvernement n'est responsable que devant le Président de la République (article 83).",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez l'organe en cause : Président, Vice-Président, Gouvernement, Assemblée nationale, Sénat, Parlement réuni en Congrès.",
+      "- 2. Cherchez le lien juridique : qui nomme, qui met fin aux fonctions, devant qui l'on répond.",
+      "- 3. Classez chaque mécanisme : collaboration (initiative des lois, ordonnances, budget), information et contrôle (questions, commissions d'enquête, missions d'évaluation) ou pression (renversement du Gouvernement, dissolution).",
+      "- 4. Citez l'article exact ; si vous n'êtes pas sûr du numéro, citez « la Constitution » plutôt qu'un numéro faux.",
+      "- 5. Concluez : sans renversement ni dissolution, les deux pouvoirs sont irrévocables l'un par l'autre, mais l'Exécutif garde des armes fortes dans la procédure législative.",
+      "~ Exemple de raisonnement : « Le ministre du Commerce peut-il être renversé par l'Assemblée nationale ? » Étape 1 : l'organe est un membre du Gouvernement. Étape 2 : l'article 83 le rend responsable devant le Président de la République. Étape 3 : aucun article ne prévoit de motion de censure. Conclusion : non ; seul le Président, sur proposition du Premier ministre, met fin à ses fonctions (article 70)."
+     ],
+     "fond": [
+      "## Notion 1 : un Gouvernement chargé d'exécuter la politique du Président",
+      "Règle : selon l'article 53, l'exécutif est composé du Président de la République, du Vice-Président et du Gouvernement. Mais les trois ne sont pas égaux. L'article 63 fait du Président « le détenteur exclusif du pouvoir exécutif » et l'article 64 précise qu'il « détermine et conduit la politique de la Nation ». Le Gouvernement, lui, « comprend le Premier Ministre, Chef du Gouvernement, et les ministres » ; il est « chargé de la mise en œuvre de la politique de la Nation telle que définie par le Président de la République » (article 81).",
+      "Pourquoi ? Le constituant a voulu un seul centre de décision. Le Président fixe le cap ; le Gouvernement est l'équipe qui l'applique, ministère par ministère.",
+      "Le Premier ministre « anime et coordonne l'action gouvernementale ». Il préside le Conseil de Gouvernement, « réunion préparatoire du Conseil des ministres » (article 82). Le Conseil des ministres, lui, est présidé par le Président (article 71) ; il délibère obligatoirement des décisions de politique générale, des projets de loi, d'ordonnances et de décrets réglementaires, et des nominations aux emplois supérieurs de l'État.",
+      "~ Exemple résolu : un article de presse affirme : « Le Premier ministre a défini la nouvelle politique de la Nation. » Étape 1 : qui définit la politique ? L'article 64 répond : le Président. Étape 2 : quel est le rôle du Premier ministre ? Animer et coordonner l'action gouvernementale (article 82). Correction : « Le Premier ministre a présenté les mesures du Gouvernement pour mettre en œuvre la politique définie par le Président. »",
+      "! Piège : ne confondez pas le Conseil de Gouvernement (présidé par le Premier ministre, préparatoire) et le Conseil des ministres (présidé par le Président, décisionnel). Quand le Président est hors du territoire, le Vice-Président le supplée et peut recevoir, par décret, la présidence du Conseil des ministres sur un ordre du jour précis (article 80).",
+      "? Le Président de la République et le Vice-Président sont tous deux en visite officielle à l'étranger. Qui supplée le Président ? || L'article 82 prévoit que le Premier ministre supplée le Président lorsque celui-ci et le Vice-Président sont hors du territoire national. Démarche : on cherche d'abord le suppléant normal (le Vice-Président, article 80) ; comme il est lui aussi absent, on passe au Premier ministre.",
+      "## Notion 2 : nomination, fin de fonctions et responsabilité",
+      "Règle : « Le Président de la République nomme le Premier Ministre, Chef du Gouvernement. Il met fin à ses fonctions. » Sur proposition du Premier ministre, il nomme les autres membres du Gouvernement, détermine leurs attributions et met fin à leurs fonctions « dans les mêmes conditions » (article 70). L'article 83 ajoute : « Le Premier Ministre et les ministres sont solidairement responsables devant le Président de la République. La démission du Premier Ministre, Chef du Gouvernement, entraîne celle de l'ensemble du Gouvernement. »",
+      "Pourquoi « solidairement » ? Le Gouvernement est une équipe collégiale. Si son chef part, l'équipe qu'il a proposée tombe avec lui : le Président peut ainsi recomposer entièrement le Gouvernement.",
+      "~ Exemple résolu : le Premier ministre remet sa démission. Étape 1 : l'article 83, alinéa 2, s'applique : tout le Gouvernement est démissionnaire. Étape 2 : le Président nomme un nouveau Premier ministre (article 70, alinéa 1). Étape 3 : sur proposition de ce dernier, il nomme les ministres et fixe leurs attributions (article 70, alinéa 2). L'Assemblée nationale n'intervient à aucun moment.",
+      "! Piège : la responsabilité politique (perdre son poste pour des raisons politiques) n'est pas la responsabilité pénale (répondre d'une infraction devant un juge). La première joue ici devant le Président seul.",
+      "? Le Président veut remplacer le ministre de l'Agriculture sans changer de Premier ministre. Quelle procédure suit-il ? || Il met fin aux fonctions de ce ministre « dans les mêmes conditions » que la nomination, c'est-à-dire sur proposition du Premier ministre (article 70, alinéa 2). Il nomme ensuite le nouveau ministre, toujours sur proposition du Premier ministre. Le reste du Gouvernement demeure : seule la démission du Premier ministre entraîne celle de tous (article 83).",
+      "## Notion 3 : les incompatibilités des membres du Gouvernement",
+      "Règle : « Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de tout emploi public et de toute activité professionnelle. Le parlementaire nommé membre du Gouvernement ne peut siéger au Parlement pendant la durée de ses fonctions ministérielles » (article 84). Le même article étend aux ministres certaines règles de probité que l'article 60 impose au Président.",
+      "Pourquoi ? Un ministre doit se consacrer entièrement à sa charge et ne pas mêler intérêts privés et décisions publiques. Surtout, un ministre qui siégerait au Parlement contrôlerait le Gouvernement dont il est membre : il serait juge et partie.",
+      "~ Exemple résolu : un député élu dans l'Indénié-Djuablin, expert-comptable de profession, est nommé ministre. Étape 1 : activité professionnelle ? Il doit cesser son cabinet (article 84, alinéa 1). Étape 2 : mandat de député ? Il ne peut plus siéger au Parlement pendant la durée de ses fonctions ministérielles (article 84, alinéa 2). Étape 3 : le texte dit « ne peut siéger », il ne dit pas que le mandat disparaît : restez précis dans la copie.",
+      "? Une enseignante-chercheuse de l'université Félix Houphouët-Boigny est nommée ministre. Peut-elle continuer à donner ses cours ? || Non. L'enseignement à l'université publique est un emploi public, et l'article 84 rend les fonctions de membre du Gouvernement incompatibles avec « tout emploi public ». Elle doit suspendre cet emploi pendant ses fonctions ministérielles.",
+      "## Notion 4 : la collaboration dans la fabrication de la loi",
+      "Règle : le Président « a l'initiative des lois, concurremment avec les membres du Parlement » et promulgue la loi dans les trente jours de sa transmission, cinq jours en cas d'urgence (article 74). Avant l'expiration de ces délais, il peut demander une seconde délibération, qui « ne peut être refusée ». La loi fixe les règles dans les matières de l'article 101 ; les autres matières relèvent du règlement (article 103). Par une loi d'habilitation, le Parlement peut autoriser le Président à prendre par ordonnance des mesures du domaine de la loi (article 106). En cas de désaccord persistant entre les chambres, le Président peut réunir une commission mixte paritaire, puis demander à l'Assemblée nationale de statuer définitivement (article 110).",
+      "Pourquoi ? C'est le « parlementarisme rationalisé » : la Constitution donne à l'Exécutif les moyens de faire adopter son programme, même face à une chambre réticente.",
+      "~ Exemple chiffré : le projet de loi de finances est déposé. Étape 1 : si l'Assemblée nationale ne s'est pas prononcée en première lecture dans les 40 jours, le Président saisit le Sénat, qui statue dans les 15 jours (article 112). Étape 2 : si le Parlement ne s'est pas prononcé dans un délai de 70 jours, le projet peut être mis en vigueur par ordonnance. Étape 3 : le Président saisit ensuite, pour ratification, le Parlement convoqué en session extraordinaire dans les 15 jours ; à défaut de vote à la fin de cette session, le budget est établi définitivement par ordonnance.",
+      "! Piège : une ordonnance entre en vigueur dès sa publication, mais elle devient caduque si le projet de loi de ratification n'est pas déposé avant la date fixée par la loi d'habilitation (article 106).",
+      "? Une loi définitivement adoptée n'a pas été promulguée à l'expiration du délai de l'article 74. Que peut-il se passer ? || Elle peut être déclarée exécutoire par le Conseil constitutionnel, saisi par le Président de l'une des deux chambres du Parlement, si elle est conforme à la Constitution (article 74). Démarche : on identifie le blocage (absence de promulgation), puis le juge qui le lève et la condition (conformité).",
+      "## Notion 5 : contrôler sans renverser",
+      "Règle : le Parlement « contrôle l'action du Gouvernement et évalue les politiques publiques » (article 93). Ses moyens d'information sont limitativement énumérés : « la question orale, la question écrite, la commission d'enquête et la mission d'évaluation » (article 117). Pendant la session ordinaire, une séance par mois est réservée en priorité aux questions des parlementaires et aux réponses du Président, qui peut déléguer ce pouvoir de réponse au Chef du Gouvernement et aux ministres ; le Parlement peut alors adopter une résolution de recommandations. Les ministres sont entendus à la demande des commissions (article 116). Chaque année, le Président adresse au Congrès un message sur l'état de la Nation, qui ne donne lieu à aucun débat (article 114).",
+      "Pourquoi ? Le Parlement ne peut pas faire tomber le Gouvernement ; son arme est la publicité : obliger l'Exécutif à s'expliquer, révéler des dysfonctionnements, recommander.",
+      "? Classez ces mécanismes en « prévus » ou « absents » de la Constitution : motion de censure, question écrite, dissolution de l'Assemblée nationale, commission d'enquête, mission d'évaluation. || Prévus : question écrite, commission d'enquête, mission d'évaluation (article 117). Absents : motion de censure et dissolution ; aucun article ne les organise. Astuce : ce qui permet de « renverser » ou de « renvoyer » un organe n'existe pas dans ce texte.",
+      "## Notion 6 : quel régime ? Les arguments pour la dissertation",
+      "Définitions : le régime parlementaire repose sur une séparation souple des pouvoirs et sur des moyens d'action réciproques : la dissolution du Parlement et la censure du Gouvernement. Le régime présidentiel repose sur une séparation stricte : l'exécutif, confié à un président, n'est pas politiquement responsable devant le législatif, et ne peut pas le dissoudre.",
+      "Application : en Côte d'Ivoire, ni censure ni dissolution. Les deux pouvoirs sont donc irrévocables l'un par l'autre, trait du régime présidentiel. Mais l'Exécutif dispose d'armes inconnues du modèle américain : ordonnances (article 106), budget par ordonnance (article 112), commission mixte paritaire et dernier mot de l'Assemblée nationale à sa demande (article 110), seconde délibération qui ne peut être refusée (article 74).",
+      "> Débat réutilisable. Pour : la stabilité gouvernementale, l'efficacité de l'action publique, l'unité de direction dans un pays sorti de crises. Contre : un Parlement sans moyen de sanction, un Gouvernement qui ne répond qu'au Président, un risque de prépondérance présidentielle. Nuance : les commissions d'enquête, les missions d'évaluation et la résolution de l'article 117 offrent un contrôle réel s'ils sont utilisés.",
+      "~ Exemple d'introduction modèle : « Montesquieu voulait que le pouvoir arrête le pouvoir. La Constitution du 8 novembre 2016 organise un Exécutif dominé par le Président, qui nomme et révoque le Gouvernement, seul responsable devant lui (articles 70 et 83). Faute de censure et de dissolution, le Parlement et l'Exécutif ne peuvent se renverser mutuellement. Dès lors, la séparation stricte des pouvoirs y garantit-elle un véritable équilibre ? »"
+     ],
+     "retenir": [
+      "Le Président nomme le Premier ministre et met fin à ses fonctions ; il nomme les ministres sur proposition du Premier ministre (article 70).",
+      "Le Premier ministre et les ministres sont solidairement responsables devant le Président de la République ; la démission du Premier ministre entraîne celle du Gouvernement (article 83).",
+      "La Constitution ivoirienne ne prévoit ni motion de censure ni droit de dissolution de l'Assemblée nationale.",
+      "Être ministre est incompatible avec tout emploi public et toute activité professionnelle ; le parlementaire nommé ministre ne siège plus pendant ses fonctions (article 84).",
+      "Le Conseil de Gouvernement, présidé par le Premier ministre, prépare le Conseil des ministres, présidé par le Président (articles 71 et 82).",
+      "Moyens d'information du Parlement : question orale, question écrite, commission d'enquête et mission d'évaluation (article 117).",
+      "Promulgation : trente jours après transmission, cinq jours en cas d'urgence ; la seconde délibération demandée par le Président ne peut être refusée (article 74).",
+      "Si le Parlement ne s'est pas prononcé sur la loi de finances dans un délai de soixante-dix jours, elle peut être mise en vigueur par ordonnance (article 112)."
+     ],
+     "exo": {
+      "tag": "niv-dc06",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Constitution de la République de Côte d'Ivoire du 8 novembre 2016, telle que modifiée par la loi constitutionnelle n°2020-348 du 19 mars 2020 (texte WIPO Lex)",
+       "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+      },
+      {
+       "t": "Constitute Project, Côte d'Ivoire 2016 (rév. 2020), version anglaise",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      },
+      {
+       "t": "Encyclopædia Universalis, « Régime présidentiel » (Georges Vedel)",
+       "u": "https://www.universalis.fr/encyclopedie/regime-presidentiel/"
+      },
+      {
+       "t": "Nomad Education, « La théorie de la séparation des pouvoirs » (Licence de droit)",
+       "u": "https://www.nomadeducation.fr/revisions/licence-droit-1re-annee-lb563232/la-theorie-de-la-separation-des-pouvoirs-cy4d9f07"
+      },
+      {
+       "t": "Aufutur, « Régime parlementaire et régime présidentiel : quelles différences ? »",
+       "u": "https://aufutur.fr/revisions/hggsp/regime-parlementaire-et-regime-presidentiel-quelles-differences-france-etats-unis-royaume-uni/"
+      }
+     ]
+    },
+    {
+     "id": "L20261115pn04",
+     "niv": "pn04",
+     "m": "pen",
+     "titre": "Les établissements pénitentiaires : catégories et régimes de détention",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dire dans quel établissement doit être placé un détenu (maison d'arrêt, maison de correction, maison pénale, centre de réinsertion) selon le décret n°2023-239 du 5 avril 2023.",
+      "= Vous saurez aussi appliquer le régime de détention : séparation des détenus, divisions des condamnés, placement à l'extérieur, semi-liberté, libération conditionnelle et sanctions disciplinaires.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve d'organisation du système pénitentiaire aime le cas pratique : « M. Kouassi, condamné à six ans, peut-il obtenir une semi-liberté ? », « Où placer une mineure en attente de jugement ? ». La dissertation porte plutôt sur la réforme de 2023 : passer d'un enfermement uniforme à des établissements spécialisés orientés vers la réinsertion. Le communiqué du Conseil des ministres du 5 avril 2023 annonce justement la création de trois catégories d'établissements et de centres de réinsertion.",
+      "! Piège habituel : réciter la classification française (maisons centrales, centres de détention) ou le décret n°69-189 du 14 mai 1969, abrogé par l'article 233 du décret de 2023. Citez le texte ivoirien en vigueur.",
+      "## La méthode, pas à pas",
+      "- 1. Qualifiez le statut de la personne : prévenu, condamné ou contraignable par corps (article 1er).",
+      "- 2. Déterminez l'établissement : maison d'arrêt pour les prévenus (article 4), maison de correction ou maison pénale pour les condamnés (articles 5 et 7), centre de réinsertion en régime ouvert (article 8). Pensez à l'article 232 si l'établissement adapté n'existe pas encore dans le ressort.",
+      "- 3. Appliquez les séparations de l'article 38 (sexe, âge, statut, division).",
+      "- 4. Pour un condamné, situez sa division : normale, d'amendement ou de discipline (articles 46 à 50).",
+      "- 5. Vérifiez la mesure demandée et son auteur : juge de l'application des peines (JAP) ou ministre de la Justice.",
+      "~ Exemple de conclusion de copie : « Condamnée définitivement à huit ans pour un crime, Mme N. relève d'une maison pénale (article 7). Elle commence en division normale (article 47) et ne pourra prétendre à la semi-liberté qu'après son admission en division d'amendement (article 51). »"
+     ],
+     "fond": [
+      "## Notion 1 : qui est détenu, et à quel titre ?",
+      "Règle : l'article 1er distingue trois statuts. Le condamné a fait l'objet d'une condamnation devenue définitive. Le prévenu n'a pas encore de condamnation définitive : inculpé, prévenu ou accusé au sens du Code de procédure pénale, mais aussi condamné qui a formé appel, opposition ou pourvoi. Le contraignable par corps est détenu pour ne pas avoir payé l'amende, les frais ou une autre somme due au Trésor public.",
+      "Pourquoi ? Le prévenu est présumé innocent : il ne peut pas subir le régime d'un condamné. Le statut commande donc tout le reste : établissement, travail, visites.",
+      "~ Exemple résolu : Yao est condamné en première instance à trois ans et fait appel. Étape 1 : la condamnation est-elle définitive ? Non, l'appel est pendant. Étape 2 : l'article 1er, 3°, range expressément le condamné ayant formé appel parmi les prévenus. Conclusion : Yao reste un prévenu et relève de la maison d'arrêt.",
+      "! Cas mixte : le détenu prévenu pour une affaire et condamné pour une autre suit le régime des condamnés, tout en gardant les facilités accordées aux prévenus pour leur défense (article 2).",
+      "## Notion 2 : trois catégories d'établissements et un régime ouvert",
+      "Règle : « Les établissements pénitentiaires comprennent les maisons d'arrêt, les maisons de correction et les maisons pénales » (article 3). Depuis le décret n°2024-1186 du 19 décembre 2024, l'article 4 dispose : « Les maisons d'arrêt accueillent les prévenus. » Les maisons de correction et les maisons pénales accueillent les condamnés en régime fermé (article 5). La maison de correction privilégie la réinsertion et la préparation à la sortie ; elle peut comprendre un quartier de semi-liberté. La maison pénale reçoit les condamnés pour crime et les condamnés pour délit à plus de cinq ans d'emprisonnement, avec une sécurité renforcée qui doit préserver les possibilités de réinsertion (article 7). Enfin, les condamnés peuvent être placés en régime ouvert dans des centres de réinsertion (article 8).",
+      "Pourquoi ? Mélanger un primo-délinquant condamné à quelques mois et un criminel condamné à vingt ans nuit à la sécurité et à la réinsertion. La spécialisation adapte le régime au profil.",
+      "La liste et la classification des établissements sont fixées par arrêté du ministre de la Justice (article 9). Un même établissement peut servir à la fois de maison d'arrêt et de maison de correction (article 6). À Abidjan, l'ancienne MACA est devenue le Pôle pénitentiaire d'Abidjan, qui regroupe cinq établissements, dont une maison de correction pour les peines inférieures ou égales à cinq ans et une maison pénale pour les peines supérieures à cinq ans (Fraternité Matin, novembre 2023).",
+      "~ Exemple résolu : Awa est condamnée définitivement à six ans pour escroquerie, un délit. Étape 1 : condamnée, donc pas de maison d'arrêt. Étape 2 : délit puni de plus de cinq ans d'emprisonnement. Étape 3 : l'article 7 l'oriente vers une maison pénale. Si la peine avait été de deux ans, la maison de correction aurait été le bon choix.",
+      "! Exception transitoire : tant que maisons de correction et maisons pénales ne sont pas ouvertes dans le ressort de chaque juridiction, les établissements existants accueillent prévenus et condamnés quel que soit le quantum de la peine, les prévenus étant logés dans un quartier spécial (article 232).",
+      "? Un candidat écrit : « Selon le décret de 2023, les condamnés à de longues peines purgent leur peine dans une maison centrale. » Corrigez. || L'expression « maison centrale » appartient au droit français. Le décret ivoirien parle de maison pénale (article 7) pour les crimes et les délits punis de plus de cinq ans. Démarche : repérer le terme étranger, citer l'article 3 qui donne les trois catégories, puis l'article 7.",
+      "## Notion 3 : vivre ensemble, mais séparés",
+      "Règle : la détention est en principe collective (article 37), sauf pour le détenu puni de cellule disciplinaire, celui isolé sur ordre de l'autorité judiciaire, celui isolé pour raisons médicales et celui inadaptable à la vie collective. L'article 38 impose des séparations : les femmes des hommes, les mineurs des majeurs, les prévenus des condamnés lorsque l'établissement est mixte, les contraignables et condamnés de simple police des autres, et les condamnés entre eux selon leur division.",
+      "Pour les mineurs, l'emprisonnement est collectif, dans un quartier réservé et séparé de celui des adultes (article 67). Leur régime privilégie l'éducation : activités scolaires, formation professionnelle, sport (article 69). Leur surveillance directe est assurée par des agents chargés de la protection judiciaire de l'enfance et de la jeunesse (article 71).",
+      "Pourquoi ? Protéger les plus vulnérables et éviter la contagion criminelle, comme le rappelle le principe de dignité de l'article 36.",
+      "? Une adolescente de 16 ans est placée en détention provisoire dans un établissement qui accueille aussi des adultes. Quelles règles s'appliquent ? || Elle est prévenue (article 1er) et mineure. Elle doit être séparée des hommes et des majeurs (article 38, 1° et 2°), placée dans le quartier réservé aux mineurs (article 67) et surveillée directement par des agents de la protection judiciaire de l'enfance et de la jeunesse (article 71). Son régime privilégie l'éducation (article 69).",
+      "## Notion 4 : le régime des condamnés, trois divisions",
+      "Règle : le condamné est placé en division normale, d'amendement ou de discipline (article 46). À son arrivée, il entre en division normale (article 47). Il peut passer en division d'amendement après avoir purgé au moins le quart de sa peine et montré par sa conduite et son ardeur au travail qu'il mérite un régime de confiance ; pour une peine perpétuelle, le délai d'épreuve est de huit ans (article 48). La division de discipline peut accueillir le condamné dangereux, récidiviste, évadé ou de mauvaise conduite (article 49). Le chef d'établissement décide des passages ; le condamné placé en discipline peut saisir le JAP (article 50).",
+      "Pourquoi ? C'est une logique de progression : le détenu gagne des droits par son comportement, ce qui prépare sa sortie.",
+      "Le condamné est astreint au travail pour préparer sa réintégration (article 156) ; le prévenu ne l'est pas, mais peut le demander, à l'intérieur seulement (article 157). La journée de travail ne dépasse pas huit heures (article 163).",
+      "~ Exemple chiffré : Koffi est condamné à sept ans, soit 7 × 12 = 84 mois. Le quart de 84 mois vaut 84 ÷ 4 = 21 mois. Vérification : 21 × 4 = 84. Après 21 mois, si sa conduite le justifie, il peut être placé en division d'amendement.",
+      "? Un condamné à dix ans demande à quel moment, au plus tôt, il pourra être admis en division d'amendement. Calculez. || Dix ans = 120 mois. Le quart : 120 ÷ 4 = 30 mois, soit deux ans et demi (article 48). Ce n'est qu'un minimum : il faut aussi une bonne conduite et une ardeur au travail, et la décision appartient au chef d'établissement (article 50).",
+      "## Notion 5 : les aménagements, réservés à la division d'amendement",
+      "Règle : seul le condamné admis en division d'amendement peut bénéficier du placement à l'extérieur, de la semi-liberté et de la libération conditionnelle (article 51). Le placement à l'extérieur consiste à employer le condamné à des travaux surveillés hors de l'enceinte, sur décision du JAP (article 52). La semi-liberté autorise une activité professionnelle hors de l'établissement sans surveillance continue, avec l'obligation de réintégrer chaque soir ; elle est accordée par ordonnance du JAP au condamné qui justifie d'un contrat de travail ou d'une lettre d'engagement (article 53). La libération conditionnelle est une mise en liberté anticipée avec mesures d'assistance et de contrôle (article 55), accordée par arrêté du ministre de la Justice (article 59).",
+      "! Piège : ces mesures sont révocables à tout moment en cas de mauvaise conduite ; en urgence, le chef d'établissement peut faire réintégrer le détenu et en rend compte au JAP (article 54). Les permissions de sortir, exceptionnelles (décès d'un proche, mariage, examen ou concours…), sont accordées par ordonnance du JAP (article 135).",
+      "## Notion 6 : la discipline des détenus",
+      "Règle : les fautes sont classées en trois degrés selon leur gravité (article 107). L'article 112 liste huit sanctions par ordre de gravité, de la réprimande à la révocation du placement à l'extérieur ou de la semi-liberté ; la mise en cellule ne dépasse pas sept jours (6°) ou quinze jours (7°). Le chef d'établissement prononce les sanctions des 1° à 4° et du 6° (article 115) ; le JAP celles des 5°, 7° et 8° (article 116). La mise en cellule ne s'applique pas aux femmes enceintes, aux femmes qui allaitent et aux mineurs.",
+      "Pourquoi ? Répartir le pouvoir disciplinaire entre l'administration et un juge protège le détenu contre l'arbitraire, surtout pour les sanctions les plus lourdes."
+     ],
+     "retenir": [
+      "Le décret n°2023-239 prévoit trois catégories d'établissements : maisons d'arrêt, maisons de correction et maisons pénales (article 3).",
+      "Les maisons d'arrêt accueillent les prévenus ; maisons de correction et maisons pénales accueillent les condamnés en régime fermé.",
+      "La maison pénale reçoit les condamnés pour crime et pour délit à plus de cinq ans d'emprisonnement (article 7).",
+      "Le condamné ayant fait appel reste un prévenu au sens de l'article 1er du décret.",
+      "Le condamné entre en division normale ; il peut passer en division d'amendement après le quart de sa peine (huit ans pour une perpétuité).",
+      "Placement à l'extérieur, semi-liberté et libération conditionnelle sont réservés aux condamnés de la division d'amendement (article 51).",
+      "La libération conditionnelle est accordée par arrêté du ministre de la Justice ; la semi-liberté par ordonnance du juge de l'application des peines.",
+      "La mise en cellule disciplinaire ne s'applique ni aux femmes enceintes ou allaitantes ni aux mineurs."
+     ],
+     "exo": {
+      "tag": "niv-pn04",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Décret n°2023-239 du 5 avril 2023 portant réglementation des établissements pénitentiaires, chapitre 1 : dispositions générales (loidici.biz)",
+       "u": "https://loidici.biz/2025/08/03/chapitre-1-dispositions-generales-49/lois-article-par-article/plus-de-textes-de-lois/73265/naty/"
+      },
+      {
+       "t": "Décret n°2023-239, régime de la détention : généralités (articles 35 à 39)",
+       "u": "https://loidici.biz/2025/08/03/section-1-generalites/lois-article-par-article/plus-de-textes-de-lois/73293/naty/"
+      },
+      {
+       "t": "Décret n°2023-239, régime de la détention : condamnés pour crimes et délits (articles 45 à 66)",
+       "u": "https://loidici.biz/2025/08/03/section-4-condamnes-pour-crimes-et-delits/lois-article-par-article/plus-de-textes-de-lois/73300/naty/"
+      },
+      {
+       "t": "Décret n°2023-239, régime de la détention : mineurs (articles 67 à 71)",
+       "u": "https://loidici.biz/2025/08/03/section-5-mineurs/lois-article-par-article/plus-de-textes-de-lois/73303/naty/"
+      },
+      {
+       "t": "Décret n°2023-239, régime disciplinaire des détenus (articles 107 à 117)",
+       "u": "https://loidici.biz/2025/08/03/section-1-regime-disciplinaire-des-detenus/lois-article-par-article/plus-de-textes-de-lois/73313/naty/"
+      },
+      {
+       "t": "Décret n°2023-239, visites et permissions (articles 127 à 137)",
+       "u": "https://loidici.biz/2025/08/03/section-2-visites-et-permissions/lois-article-par-article/plus-de-textes-de-lois/73323/naty/"
+      },
+      {
+       "t": "Décret n°2023-239, travail : dispositions générales (articles 156 à 163)",
+       "u": "https://loidici.biz/2025/08/03/section-1-dispositions-generales-2/lois-article-par-article/plus-de-textes-de-lois/73337/naty/"
+      },
+      {
+       "t": "Décret n°2023-239, chapitre 14 : dispositions transitoires et finales (articles 232 à 234)",
+       "u": "https://loidici.biz/2025/08/03/chapitre-14-dispositions-transitoires-et-finales/lois-article-par-article/plus-de-textes-de-lois/73362/naty/"
+      },
+      {
+       "t": "Décret n°2024-1186 du 19 décembre 2024 modifiant le décret n°2023-239 (loidici.biz)",
+       "u": "https://loidici.biz/?p=75108"
+      },
+      {
+       "t": "Communiqué du Conseil des ministres du mercredi 5 avril 2023 (gouv.ci)",
+       "u": "https://www.gouv.ci/uploads/publications/1680727206COMMUNIQUE-DU-CONSEIL-DES-MINISTRES-DU-MERCREDI-05-AVRIL-2023.pdf"
+      },
+      {
+       "t": "Fraternité Matin, « Établissement pénitentiaire : pourquoi la Maca a changé de nom » (2 novembre 2023)",
+       "u": "https://www.fratmat.info/article/234272/politique/etablissement-penitentiaire-pourquoi-la-maca-a-change-de-nom"
+      },
+      {
+       "t": "Ministère de la Justice (France), « La prise en charge en détention »",
+       "u": "https://www.justice.gouv.fr/justice-france/prise-charge-personnes-condamnees-ou-prevenues/prise-charge-detention"
+      }
+     ]
+    },
+    {
+     "id": "L20261115cg07",
+     "niv": "cg07",
+     "m": "cg",
+     "titre": "Côte d'Ivoire : culture, arts et personnalités",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez citer les cinq biens ivoiriens du patrimoine mondial et les éléments du patrimoine immatériel inscrits à l'UNESCO, avec leur date.",
+      "= Vous saurez aussi associer sans erreur les grands écrivains, musiciens et sportifs ivoiriens à leur œuvre ou à leur exploit, et utiliser la culture comme argument dans une dissertation.",
+      "## Ce que demande l'épreuve",
+      "En présélection, la culture générale ivoirienne prend la forme de QCM d'association (« Qui a écrit… ? », « En quelle année… ? ») et d'intrus (« Lequel n'est pas un site naturel ? »). Le barème pénalise la réponse fausse : une date approximative coûte un point. À l'écrit, un exemple culturel précis et daté enrichit une copie sur la cohésion sociale, la jeunesse ou le développement.",
+      "! Piège habituel : confondre patrimoine mondial (des lieux : parcs, villes, monuments) et patrimoine culturel immatériel (des pratiques : danses, musiques, savoir-faire). Le Zaouli n'est pas un « site » ; Grand-Bassam n'est pas une « tradition ».",
+      "## La méthode, pas à pas",
+      "- 1. Classez chaque fait dans un tiroir : lieux UNESCO, pratiques UNESCO, lettres, musique, sport.",
+      "- 2. Pour chaque fait, retenez le triplet qui, quoi, quand (« Kourouma, Les Soleils des indépendances, 1968 »).",
+      "- 3. Ancrez les dates par une chronologie : 1981-1983 pour les parcs naturels, 2012 et 2021 pour les biens culturels.",
+      "- 4. Face à un QCM, éliminez d'abord l'option d'un autre tiroir (un musicien proposé pour un roman), puis l'anachronisme.",
+      "- 5. En cas de doute réel sur une date, abstenez-vous plutôt que de perdre un point.",
+      "~ Exemple de raisonnement : « Lequel de ces éléments a été inscrit au patrimoine immatériel de l'UNESCO ? Parc de Taï, Zaouli, Grand-Bassam, mosquée de Kong. » Étape 1 : Taï, Grand-Bassam et la mosquée de Kong sont des lieux, donc du patrimoine mondial. Étape 2 : seul le Zaouli est une pratique (musique et danse gouro). Réponse : le Zaouli, inscrit en 2017."
+     ],
+     "fond": [
+      "## Notion 1 : cinq biens au patrimoine mondial",
+      "Règle : la Côte d'Ivoire compte cinq biens inscrits sur la Liste du patrimoine mondial : trois naturels et deux culturels. Les naturels sont la Réserve naturelle intégrale du mont Nimba (inscrite en 1981, étendue en 1982, partagée avec la Guinée), le Parc national de Taï (1982) et le Parc national de la Comoé (1983). Les culturels sont la Ville historique de Grand-Bassam (2012) et les Mosquées de style soudanais du Nord ivoirien (2021).",
+      "Pourquoi cette inscription ? L'UNESCO protège des biens d'une valeur universelle exceptionnelle pour toute l'humanité. En contrepartie, l'État s'engage à les conserver : c'est pourquoi un bien mal protégé peut être placé sur la Liste du patrimoine en péril.",
+      "La Liste du patrimoine en péril signale les biens menacés. La Comoé y a figuré de 2003 à 2017 : le Comité du patrimoine mondial l'en a retirée en juillet 2017, lors de sa session de Cracovie. Le mont Nimba y est inscrit depuis 1992 ; en avril 2024, l'UNESCO faisait état d'une démarche en vue de son retrait de cette liste.",
+      "~ Exemple résolu : « Classez du plus ancien au plus récent : Grand-Bassam, Taï, mosquées soudanaises, mont Nimba. » Étape 1 : rappelez les dates : Nimba 1981, Taï 1982, Grand-Bassam 2012, mosquées 2021. Étape 2 : ordonnez. Réponse : Nimba, Taï, Grand-Bassam, mosquées soudanaises. Astuce : les trois parcs naturels se suivent (1981, 1982, 1983).",
+      "! Piège : deux sites, le Parc national des Îles Ehotilé et le Parc archéologique d'Ahouakro, figurent seulement sur la liste indicative (2006) : ils ne sont pas inscrits.",
+      "? Un candidat écrit : « Le Parc national de la Comoé est toujours sur la liste du patrimoine en péril. » Corrigez. || Faux : la Comoé, inscrite sur la Liste en péril en 2003, en a été retirée en juillet 2017 par le Comité du patrimoine mondial réuni à Cracovie. Le bien en péril est le mont Nimba (depuis 1992). Démarche : distinguer l'inscription (1983) et les dates d'entrée et de sortie de la Liste en péril.",
+      "## Notion 2 : le patrimoine culturel immatériel",
+      "Règle : cinq éléments intéressant la Côte d'Ivoire figurent sur la Liste représentative du patrimoine culturel immatériel. Le Gbofe d'Afounkaha, musique des trompes traversières de la communauté tagbana (2008). Le Zaouli, musique et danse populaires des communautés gouro (2017). Les savoir-faire traditionnels liés au tissage du pagne (2023). Les savoir-faire liés à la fabrication de l'attiéké (2024). Enfin, en 2024, les pratiques culturelles liées au balafon et au kolintang, élément partagé avec le Mali, le Burkina Faso et l'Indonésie.",
+      "Pourquoi ? Le patrimoine immatériel est vivant : il se transmet de génération en génération. L'inscription valorise les communautés qui le portent et encourage sa transmission.",
+      "~ Exemple résolu : « Quel élément ivoirien a été inscrit en 2024 ? Zaouli, Gbofe, attiéké, tissage du pagne. » Étape 1 : Gbofe 2008, Zaouli 2017, pagne 2023. Étape 2 : il reste l'attiéké, inscrit en 2024.",
+      "## Notion 3 : les grandes plumes",
+      "Bernard Binlin Dadié (né le 10 janvier 1916 à Assinie, mort le 9 mars 2019 à Abidjan) est l'auteur de Climbié (1956). Ahmadou Kourouma (1927-2003) a publié Les Soleils des indépendances (1968), En attendant le vote des bêtes sauvages (1998) et Allah n'est pas obligé (2000), qui reçoit le prix Renaudot et le prix Goncourt des lycéens. Jean-Marie Adiaffi (1941-1999) a écrit La carte d'identité (1980), Grand prix littéraire d'Afrique noire en 1981. Véronique Tadjo a reçu ce même Grand prix en 2005.",
+      "Pourquoi les retenir ? Les QCM associent presque toujours un titre, un auteur et une date ; et un titre comme Les Soleils des indépendances fournit une accroche toute trouvée pour une dissertation sur l'histoire ou la construction nationale.",
+      "! Piège : ne prêtez pas Climbié à Kourouma ni Allah n'est pas obligé à Dadié. Retenez par la chronologie : Dadié publie en 1956, avant l'indépendance ; Kourouma en 1968, 1998 et 2000 ; Adiaffi en 1980.",
+      "? Associez chaque œuvre à son auteur : La carte d'identité, Climbié, Les Soleils des indépendances. || La carte d'identité : Jean-Marie Adiaffi (1980). Climbié : Bernard Dadié (1956). Les Soleils des indépendances : Ahmadou Kourouma (1968). Vérification : les dates sont cohérentes avec les vies des auteurs (Dadié 1916-2019, Kourouma 1927-2003, Adiaffi 1941-1999).",
+      "## Notion 4 : les musiques ivoiriennes",
+      "Le zouglou naît en 1990 comme danse des étudiants logés à la cité universitaire de Yopougon, rattachée à l'université de Cocody (aujourd'hui université Félix Houphouët-Boigny). Le premier titre zouglou enregistré, « Glogbo Koffi » (1991), est l'œuvre de Didier Bilé et des Parents du Campus. Le coupé-décalé apparaît vers 2001 dans la diaspora ivoirienne de Paris, autour du collectif de la Jet Set mené par Douk Saga.",
+      "Alpha Blondy, de son vrai nom Seydou Koné, né en 1953 à Dimbokro, est la grande voix du reggae ivoirien (Jah Glory, 1982 ; Cocody Rock, 1984). Le groupe Magic System, venu d'Anoumabo (Marcory), connaît le succès avec « Premier Gaou » (1999) ; son chanteur A'salfo a lancé en 2008 le Festival des musiques urbaines d'Anoumabo (FEMUA). Abidjan accueille aussi le Marché des arts du spectacle africain (MASA), dont la première édition s'est tenue du 27 mars au 1er avril 1993.",
+      "Pourquoi ? Zouglou et coupé-décalé sont nés de la jeunesse, à l'université pour l'un, dans la diaspora pour l'autre : ils illustrent la capacité d'une génération à créer ses propres formes d'expression, argument utile dans un sujet sur la jeunesse.",
+      "## Notion 5 : les exploits sportifs",
+      "Football : les Éléphants ont remporté la Coupe d'Afrique des nations trois fois. En 1992 au Sénégal, contre le Ghana (0-0, 11-10 aux tirs au but). En 2015 à Bata, encore face au Ghana (0-0, 9-8 aux tirs au but), vingt-trois ans plus tard. Le 11 février 2024, en finale de la CAN 2023 organisée à domicile, ils battent le Nigeria 2-1 au stade Alassane Ouattara d'Ebimpé : c'est la troisième étoile.",
+      "Olympisme et athlétisme : la première médaille olympique ivoirienne est l'argent de Gabriel Tiacoh sur 400 m en 1984. Le premier titre olympique est l'or de Cheick Sallah Cissé en taekwondo (moins de 80 kg) en 2016 ; Ruth Gbagbi y gagne le bronze (moins de 67 kg) et récidive en 2020. Le 2 mars 2018 à Birmingham, Murielle Ahouré remporte le 60 m des Championnats du monde en salle en 6 s 97 : premier titre mondial d'un athlète ivoirien ; Marie-Josée Ta Lou est deuxième.",
+      "~ Exemple résolu : « Combien d'années séparent les deux premiers titres continentaux ? » Étape 1 : 1992 et 2015. Étape 2 : 2015 − 1992 = 23. Vérification : la presse de 2015 titre « 23 ans plus tard ! ».",
+      "? Un QCM propose : « Première médaille olympique ivoirienne : A. Cheick Sallah Cissé (2016) ; B. Gabriel Tiacoh (1984) ; C. Ruth Gbagbi (2016) ; D. Murielle Ahouré (2018). » Quelle réponse cocher, et pourquoi les autres sont-elles fausses ? || B. Gabriel Tiacoh, argent du 400 m en 1984, est la première médaille olympique. Cissé (2016) est le premier titre olympique, pas la première médaille ; Gbagbi gagne le bronze la même année que Cissé, donc bien après 1984 ; Ahouré est championne du monde en salle, ce n'est pas une médaille olympique. Démarche : distinguer « première médaille » et « premier or », puis comparer les dates.",
+      "> Débat réutilisable. Pour : la culture et le sport rassemblent au-delà des appartenances, valorisent le pays (soft power) et créent des emplois (festivals, industries créatives). Contre : sans politique publique durable, ils restent des succès ponctuels ; le patrimoine reste menacé (le mont Nimba est toujours sur la Liste en péril). Nuance : l'inscription à l'UNESCO engage l'État à protéger, pas seulement à célébrer."
+     ],
+     "retenir": [
+      "Patrimoine mondial ivoirien : mont Nimba (1981), Taï (1982), Comoé (1983), Grand-Bassam (2012), mosquées soudanaises du Nord (2021).",
+      "La Comoé a été retirée de la Liste du patrimoine en péril en 2017 ; le mont Nimba y figure depuis 1992.",
+      "Patrimoine immatériel : Gbofe d'Afounkaha (2008), Zaouli gouro (2017), tissage du pagne (2023), attiéké (2024).",
+      "Kourouma : Les Soleils des indépendances (1968) ; Allah n'est pas obligé (2000), prix Renaudot et Goncourt des lycéens.",
+      "Bernard Dadié (1916-2019) est l'auteur de Climbié (1956) ; Jean-Marie Adiaffi de La carte d'identité (1980).",
+      "Le zouglou naît en 1990 chez les étudiants de Yopougon ; le coupé-décalé vers 2001 à Paris autour de Douk Saga.",
+      "Les Éléphants ont gagné la CAN en 1992, 2015 et, à domicile, le 11 février 2024 contre le Nigeria (2-1).",
+      "Gabriel Tiacoh (argent, 400 m, 1984) : première médaille olympique ; Cheick Sallah Cissé (taekwondo, 2016) : premier or."
+     ],
+     "exo": {
+      "tag": "niv-cg07",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "UNESCO, Centre du patrimoine mondial : Côte d'Ivoire",
+       "u": "https://whc.unesco.org/fr/etatsparties/CI/"
+      },
+      {
+       "t": "UNESCO, « Le Parc national de la Comoé retiré de la Liste du patrimoine en péril » (4 juillet 2017)",
+       "u": "https://whc.unesco.org/fr/actualites/1682/"
+      },
+      {
+       "t": "UNESCO, actualité du 16 avril 2024 sur le mont Nimba",
+       "u": "https://whc.unesco.org/fr/actualites/2681/"
+      },
+      {
+       "t": "UNESCO, Patrimoine culturel immatériel : Côte d'Ivoire",
+       "u": "https://ich.unesco.org/fr/etat/cote-d-ivoire-CI?cp=CI&topic=fr-etat"
+      },
+      {
+       "t": "Britannica, « Bernard Binlin Dadié »",
+       "u": "https://www.britannica.com/biography/Bernard-Binlin-Dadie"
+      },
+      {
+       "t": "Larousse, encyclopédie : Ahmadou Kourouma",
+       "u": "https://www.larousse.fr/encyclopedie/litterature/Ahmadou_Kourouma/174585"
+      },
+      {
+       "t": "African Studies Centre Leiden, « Jean-Marie Adiaffi »",
+       "u": "https://www.ascleiden.nl/content/library-weekly/jean-marie-adiaffi"
+      },
+      {
+       "t": "Wikipedia, « Véronique Tadjo »",
+       "u": "https://en.wikipedia.org/wiki/V%C3%A9ronique_Tadjo"
+      },
+      {
+       "t": "Music In Africa, « Zouglou (Côte d'Ivoire) »",
+       "u": "https://musicinafrica.net/magazine/zouglou-cote-divoire/"
+      },
+      {
+       "t": "Wikipedia, « Coupé-décalé »",
+       "u": "https://en.wikipedia.org/wiki/Coup%C3%A9-d%C3%A9cal%C3%A9"
+      },
+      {
+       "t": "Wikipedia, « Alpha Blondy »",
+       "u": "https://en.wikipedia.org/wiki/Alpha_Blondy"
+      },
+      {
+       "t": "Abidjan.net, « Musique : Magic System, un groupe qui monte, monte, monte »",
+       "u": "https://news.abidjan.net/articles/510400/musique-magic-system-un-groupe-qui-monte-monte-monte"
+      },
+      {
+       "t": "MASA, « MASA 1993 »",
+       "u": "https://www.en.masa.ci/masa-1993"
+      },
+      {
+       "t": "FEMUA, présentation du festival",
+       "u": "https://femua.com/?p=452"
+      },
+      {
+       "t": "Abidjan.net, « Le palmarès de la Coupe d'Afrique des nations »",
+       "u": "https://news.abidjan.net/articles/525550/le-palmares-de-la-coupe-d8217afrique-des-nations"
+      },
+      {
+       "t": "Afrik-foot, « CAN 2015 : la Côte d'Ivoire enfin sacrée »",
+       "u": "https://www.afrik-foot.com/can-2015-la-cote-d-ivoire-enfin-sacree"
+      },
+      {
+       "t": "CAF, « La Côte d'Ivoire domine le Nigeria et remporte la CAN TotalEnergies 2023 » (11 février 2024)",
+       "u": "https://www.cafonline.com/fr/can2025/infos/la-cote-d-ivoire-domine-le-nigeria-et-remporte-la-coupe-d-afrique-des-nations-caf-totalenergies-2023/"
+      },
+      {
+       "t": "Olympedia, Côte d'Ivoire",
+       "u": "https://www.olympedia.org/countries/CIV"
+      },
+      {
+       "t": "Olympics.com, « Cissé's last-gasp taekwondo gold first for Ivory Coast »",
+       "u": "https://olympics.com/en/news/cisse-s-last-gasp-taekwondo-gold-first-for-ivory-coast"
+      },
+      {
+       "t": "World Athletics, finale du 60 m féminin, Championnats du monde en salle de Birmingham (2 mars 2018)",
+       "u": "https://worldathletics.org/news/report/womens-60m-final-iaaf-world-indoor-champion"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "dc",
+     "src": "original",
+     "ref": "Entraînement · 15 nov. 2026",
+     "t": "Dissertation. « Ni censure ni dissolution » : l'irresponsabilité politique du Gouvernement devant le Parlement dans la Constitution ivoirienne du 8 novembre 2016 est-elle une faiblesse démocratique ou une garantie de stabilité ?",
+     "plan": [
+      "Introduction : définir responsabilité politique, censure, dissolution ; rappeler les articles 70 et 83 ; problématique : la séparation stricte assure-t-elle l'équilibre ou la prépondérance de l'Exécutif ?",
+      "I. Une séparation stricte voulue pour la stabilité : A. un Gouvernement dépendant du seul Président (articles 64, 70, 81, 83) ; B. des pouvoirs irrévocables l'un par l'autre (absence de censure et de dissolution).",
+      "II. Un équilibre à construire par le contrôle : A. des armes fortes de l'Exécutif dans la procédure législative (articles 74, 106, 110, 112) ; B. un contrôle parlementaire réel mais sans sanction (articles 93, 116, 117 : questions, commissions d'enquête, missions d'évaluation, résolutions).",
+      "Conclusion : la stabilité est acquise ; la qualité démocratique dépend de l'usage effectif des instruments de contrôle de l'article 117."
+     ]
+    }
+   ]
   }
  ]
 }
