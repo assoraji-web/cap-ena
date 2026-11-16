@@ -24040,6 +24040,1975 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-16",
+   "questions": [
+    {
+     "id": "n20261116-da06-01",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Dans quel système l'ensemble des décisions administratives relève-t-il des organes centraux de l'État ?",
+     "o": [
+      "La décentralisation territoriale",
+      "La centralisation",
+      "La décentralisation technique",
+      "La libre administration"
+     ],
+     "a": 1,
+     "e": "La centralisation est le système dans lequel l'ensemble des décisions administratives relève des organes centraux de l'État : aucune autorité locale ne décide.",
+     "ed": [
+      "La décentralisation territoriale confie au contraire des affaires à des collectivités distinctes de l'État.",
+      null,
+      "La décentralisation technique confie une mission à un établissement public distinct de l'État.",
+      "La libre administration est le principe qui protège l'autonomie des collectivités, à l'opposé du tout-central."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, première partie, chapitre 1 (centralisation, déconcentration, décentralisation)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2013/08/24/droit-administratif-francais-premiere-partie-chapitre-1"
+     }
+    },
+    {
+     "id": "n20261116-da06-02",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "La déconcentration se définit le mieux comme :",
+     "o": [
+      "un transfert de compétences de l'État à des personnes morales distinctes",
+      "la suppression de tout contrôle de l'État sur les autorités locales",
+      "une modalité de la centralisation qui donne un pouvoir de décision limité à des organes non centraux",
+      "le partage du pouvoir législatif entre l'État et les régions"
+     ],
+     "a": 2,
+     "e": "La déconcentration est une modalité de la centralisation : elle accorde à des organes non centraux, nommés par l'État, un pouvoir de décision limité, exercé au nom de l'État.",
+     "ed": [
+      "C'est la définition de la décentralisation, qui crée des personnes morales distinctes de l'État.",
+      "Les agents déconcentrés restent soumis au pouvoir hiérarchique : le contrôle demeure entier.",
+      null,
+      "La déconcentration concerne l'administration, pas le pouvoir législatif, qui reste au Parlement."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, première partie, chapitre 1 (centralisation, déconcentration, décentralisation)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2013/08/24/droit-administratif-francais-premiere-partie-chapitre-1"
+     }
+    },
+    {
+     "id": "n20261116-da06-03",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "À qui la formule « c'est toujours le même marteau qui frappe, mais on en a raccourci le manche » est-elle attribuée, à propos de la déconcentration ?",
+     "o": [
+      "Odilon Barrot",
+      "Montesquieu",
+      "Alexis de Tocqueville",
+      "Maurice Hauriou"
+     ],
+     "a": 0,
+     "e": "La formule célèbre sur la déconcentration est attribuée à Odilon Barrot : l'État (le marteau) reste le même, seul l'agent qui l'exerce est placé plus près (le manche raccourci).",
+     "ed": [
+      null,
+      "Montesquieu est connu pour la séparation des pouvoirs, non pour cette image de la déconcentration.",
+      "Tocqueville a analysé la centralisation, mais la formule du marteau est attribuée à Odilon Barrot.",
+      "Hauriou est un grand publiciste, mais cette formule ne lui est pas attribuée."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, première partie, chapitre 1 (centralisation, déconcentration, décentralisation)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2013/08/24/droit-administratif-francais-premiere-partie-chapitre-1"
+     }
+    },
+    {
+     "id": "n20261116-da06-04",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Selon l'article 170 de la Constitution ivoirienne, les collectivités territoriales sont :",
+     "o": [
+      "les régions, les départements et les communes",
+      "les districts autonomes et les communes",
+      "les régions et les communes",
+      "les régions, les sous-préfectures et les villages"
+     ],
+     "a": 2,
+     "e": "L'article 170 de la Constitution dispose : « Les collectivités territoriales sont les régions et les communes. » D'autres peuvent être créées par la loi (article 171).",
+     "ed": [
+      "Le département est une circonscription administrative de la déconcentration, pas une collectivité territoriale.",
+      "Le district autonome n'est pas cité par l'article 170 ; la loi le qualifie d'« entité territoriale particulière ».",
+      null,
+      "Sous-préfectures et villages sont des circonscriptions administratives (loi n° 2014-451, article 2)."
+     ],
+     "src": {
+      "t": "WIPO Lex – Constitution de la Côte d'Ivoire du 8 novembre 2016 révisée par la loi constitutionnelle n° 2020-348 du 19 mars 2020",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-05",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Selon l'article 2 de la loi n° 2014-451 du 5 août 2014, quelles sont les circonscriptions administratives hiérarchisées de l'administration déconcentrée ?",
+     "o": [
+      "Les districts, les régions, les communes et les villages",
+      "Les régions, les départements, les sous-préfectures et les villages",
+      "Les régions, les communes, les départements et les quartiers",
+      "Les départements, les communes et les sous-préfectures"
+     ],
+     "a": 1,
+     "e": "L'article 2 de la loi n° 2014-451 dispose que l'administration déconcentrée est assurée dans le cadre de circonscriptions administratives hiérarchisées : les régions, les départements, les sous-préfectures et les villages.",
+     "ed": [
+      "Le district et la commune ne figurent pas dans la liste de l'article 2 ; la commune est une collectivité décentralisée.",
+      null,
+      "La commune est une collectivité territoriale et le quartier n'est pas cité par l'article 2.",
+      "La commune n'est pas une circonscription administrative, et la liste omet la région et le village."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-06",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Selon la Constitution, qui exerce le contrôle de tutelle dans les collectivités territoriales ?",
+     "o": [
+      "Le maire de la commune chef-lieu",
+      "Le président du conseil régional",
+      "Le Médiateur de la République",
+      "Le préfet"
+     ],
+     "a": 3,
+     "e": "L'article 172 de la Constitution dispose que, dans les collectivités territoriales, le préfet est le représentant de l'État et qu'il a la charge des intérêts nationaux, du respect des lois et du contrôle de tutelle.",
+     "ed": [
+      "Le maire est un organe de la commune : il ne peut pas contrôler une autre collectivité.",
+      "Le président du conseil régional dirige une collectivité ; il ne peut exercer de tutelle sur une autre (article 172).",
+      "Le Médiateur règle des différends entre l'administration et les usagers ; il n'exerce pas la tutelle.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre XIII, chapitre 2 : De l'organisation et du fonctionnement des collectivités territoriales (art. 172 à 174)",
+      "u": "https://loidici.biz/?p=29"
+     }
+    },
+    {
+     "id": "n20261116-da06-07",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Le pouvoir hiérarchique permet au supérieur :",
+     "o": [
+      "seulement de saisir le juge contre les actes du subordonné",
+      "de donner des instructions, d'annuler et de réformer les décisions du subordonné",
+      "uniquement d'émettre des avis que le subordonné peut ignorer",
+      "de dissoudre l'organe élu du subordonné"
+     ],
+     "a": 1,
+     "e": "Le pouvoir hiérarchique comprend le pouvoir d'instruction, le pouvoir d'annulation et le pouvoir de réformation des décisions du subordonné, ainsi qu'un pouvoir sur sa personne.",
+     "ed": [
+      "Le supérieur hiérarchique n'a pas besoin du juge : il annule ou réforme lui-même.",
+      null,
+      "Le supérieur ne se borne pas à des avis : ses instructions s'imposent au subordonné.",
+      "Le subordonné hiérarchique est un agent nommé, non un organe élu ; la dissolution relève d'une autre logique."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, première partie, chapitre 1 (centralisation, déconcentration, décentralisation)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2013/08/24/droit-administratif-francais-premiere-partie-chapitre-1"
+     }
+    },
+    {
+     "id": "n20261116-da06-08",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Quelle phrase distingue correctement la décentralisation territoriale de la décentralisation technique ?",
+     "o": [
+      "La première concerne un territoire et une collectivité ; la seconde confie une mission spécialisée à une personne publique, souvent un établissement public",
+      "La première crée des préfectures ; la seconde crée des sous-préfectures",
+      "La première relève de l'État ; la seconde relève du secteur privé",
+      "La première exige une élection ; la seconde supprime toute personnalité morale"
+     ],
+     "a": 0,
+     "e": "La décentralisation territoriale transfère des compétences à des collectivités territoriales ; la décentralisation technique, ou par services, confie une mission spécialisée à une personne publique distincte, le plus souvent un établissement public.",
+     "ed": [
+      null,
+      "Préfectures et sous-préfectures relèvent de la déconcentration, pas de la décentralisation.",
+      "Les deux formes créent des personnes publiques ; aucune ne relève du secteur privé.",
+      "La décentralisation technique suppose au contraire une personne morale distincte de l'État."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, première partie, chapitre 1 (centralisation, déconcentration, décentralisation)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2013/08/24/droit-administratif-francais-premiere-partie-chapitre-1"
+     }
+    },
+    {
+     "id": "n20261116-da06-09",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "M. Yao, sous-préfet, est muté par décret dans une autre sous-préfecture. Ce pouvoir de l'État sur la personne de l'agent est caractéristique :",
+     "o": [
+      "de la tutelle administrative",
+      "de la décentralisation territoriale",
+      "du pouvoir hiérarchique propre à la déconcentration",
+      "de la libre administration"
+     ],
+     "a": 2,
+     "e": "Le sous-préfet est nommé par décret pris en Conseil des ministres (loi n° 2014-451, article 24) et agit sous l'autorité du préfet : l'État dispose sur lui du pouvoir hiérarchique, qui inclut un pouvoir sur la personne.",
+     "ed": [
+      "La tutelle s'exerce sur des collectivités autonomes ; elle ne permet pas de muter leurs élus.",
+      "Le sous-préfet n'est pas l'organe d'une collectivité décentralisée : il représente l'État.",
+      null,
+      "La libre administration concerne les collectivités territoriales, pas les agents de l'État."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-10",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Le conseil municipal de Bettié adopte le budget de la commune. Ce conseil relève :",
+     "o": [
+      "de la déconcentration, car il agit sur un territoire",
+      "de la décentralisation territoriale, car il est l'organe d'une personne morale distincte de l'État",
+      "de la centralisation, car le budget est national",
+      "de la décentralisation technique, car le budget est une mission spécialisée"
+     ],
+     "a": 1,
+     "e": "La commune est une collectivité territoriale (Constitution, article 170) dotée de la personnalité morale et de l'autonomie financière (loi n° 2014-451, article 33) : son conseil relève de la décentralisation territoriale.",
+     "ed": [
+      "Agir sur un territoire ne suffit pas : le préfet aussi agit sur un territoire. Le critère est la personnalité morale distincte.",
+      null,
+      "Le budget communal est celui de la commune, non celui de l'État.",
+      "La décentralisation technique concerne les établissements publics, pas les communes."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-11",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Qui administre la région, circonscription administrative, selon la loi n° 2014-451 ?",
+     "o": [
+      "Un préfet de région nommé par décret pris en Conseil des ministres",
+      "Un gouverneur élu au suffrage universel direct",
+      "Le président du conseil régional",
+      "Un sous-préfet désigné par le ministre de l'Intérieur"
+     ],
+     "a": 0,
+     "e": "Selon l'article 7 de la loi n° 2014-451, la région est administrée par un préfet de région nommé par décret pris en Conseil des ministres ; il représente le pouvoir exécutif dans sa circonscription (article 8).",
+     "ed": [
+      null,
+      "Le gouverneur est un organe du district autonome, non de la région circonscription administrative.",
+      "Le président du conseil régional dirige la région collectivité territoriale, non la circonscription administrative.",
+      "Le sous-préfet administre la sous-préfecture, échelon inférieur à la région."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-12",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Selon l'article 174 de la Constitution, tout transfert de compétences de l'État aux collectivités territoriales :",
+     "o": [
+      "doit être approuvé par référendum local",
+      "s'accompagne de l'attribution de ressources équivalentes",
+      "est décidé par le préfet de région",
+      "est interdit en matière d'environnement"
+     ],
+     "a": 1,
+     "e": "L'article 174 de la Constitution dispose que tout transfert de compétences entre l'État et les collectivités territoriales s'accompagne de l'attribution de ressources équivalentes : sans moyens, la compétence serait fictive.",
+     "ed": [
+      "La Constitution n'exige aucun référendum local pour un transfert de compétences.",
+      null,
+      "La répartition des compétences relève de la loi (article 172), non du préfet.",
+      "Le décret n° 2005-268 organise au contraire des compétences des collectivités en matière d'environnement."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne, Titre XIII, chapitre 2 : De l'organisation et du fonctionnement des collectivités territoriales (art. 172 à 174)",
+      "u": "https://loidici.biz/?p=29"
+     }
+    },
+    {
+     "id": "n20261116-da06-13",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Quel texte porte transfert et répartition de compétences de l'État aux collectivités territoriales ?",
+     "o": [
+      "La loi n° 2014-451 du 5 août 2014",
+      "Le décret n° 2005-268 du 21 juillet 2005",
+      "La loi constitutionnelle n° 2020-348 du 19 mars 2020",
+      "La loi n° 2003-208 du 7 juillet 2003"
+     ],
+     "a": 3,
+     "e": "La loi n° 2003-208 du 7 juillet 2003 porte transfert et répartition de compétences de l'État aux collectivités territoriales ; des décrets d'application, comme le décret n° 2005-268, en précisent le contenu.",
+     "ed": [
+      "La loi n° 2014-451 porte orientation de l'organisation générale de l'administration territoriale.",
+      "Ce décret précise seulement les compétences en matière d'environnement, en application de la loi de 2003.",
+      "Cette loi constitutionnelle a révisé la Constitution ; elle ne répartit pas les compétences locales.",
+      null
+     ],
+     "src": {
+      "t": "Sénat de Côte d'Ivoire – Rapport de synthèse et recommandations du Symposium international sur les collectivités territoriales (Yamoussoukro, mars 2026)",
+      "u": "https://www.senat.ci/upload/docs_site/1775208284_Rapport-de-synthese-et-Recommandations-Symposium2026.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-14",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Un candidat écrit : « Le département est une collectivité territoriale dirigée par un conseil élu. » Quelle est l'erreur ?",
+     "o": [
+      "Le département est une circonscription administrative administrée par un préfet nommé",
+      "Le département est dirigé par un chef de village",
+      "Le département n'existe plus depuis 2014",
+      "Le département est une collectivité, mais son conseil est nommé"
+     ],
+     "a": 0,
+     "e": "Le département figure parmi les circonscriptions administratives de la déconcentration (loi n° 2014-451, article 2) ; il est administré par un préfet nommé par décret pris en Conseil des ministres (article 18).",
+     "ed": [
+      null,
+      "Le chef de village administre le village (article 31), pas le département.",
+      "La loi n° 2014-451 cite au contraire le département parmi les circonscriptions administratives.",
+      "Le département n'est pas une collectivité territoriale : l'article 170 ne cite que les régions et les communes."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-15",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "La région de l'Indénié-Djuablin est à la fois une circonscription administrative et une collectivité territoriale. Quelle affirmation est exacte ?",
+     "o": [
+      "Le préfet de région et le conseil régional exercent le même pouvoir hiérarchique",
+      "Le préfet de région relève de la déconcentration, le conseil régional de la décentralisation",
+      "Le conseil régional peut donner des ordres au préfet de région",
+      "Le préfet de région est élu par le conseil régional"
+     ],
+     "a": 1,
+     "e": "Le mot « région » recouvre deux réalités : la circonscription administrative, administrée par un préfet de région nommé (loi n° 2014-451, article 7), et la collectivité territoriale (Constitution, article 170), administrée par des organes élus.",
+     "ed": [
+      "Le conseil régional n'exerce aucun pouvoir hiérarchique : il dirige une collectivité autonome.",
+      null,
+      "Le préfet représente l'État et contrôle la collectivité ; la relation est inverse.",
+      "Le préfet de région est nommé par décret pris en Conseil des ministres, non élu."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-16",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Laquelle de ces affirmations sur la tutelle administrative est FAUSSE ?",
+     "o": [
+      "Elle est la contrepartie de l'autonomie des collectivités décentralisées",
+      "Elle est exercée par le préfet dans les collectivités territoriales",
+      "Elle permet à une région de contrôler les communes de son territoire",
+      "Elle ne place pas la collectivité sous l'autorité étroite de l'État, à la différence du contrôle hiérarchique"
+     ],
+     "a": 2,
+     "e": "L'article 172 de la Constitution dispose qu'« aucune collectivité territoriale ne peut exercer une tutelle sur une autre ». La région ne peut donc pas contrôler les communes : seul l'État, par le préfet, exerce la tutelle.",
+     "ed": [
+      "C'est exact : la tutelle est la contrepartie de l'autonomie des collectivités décentralisées.",
+      "C'est exact : le préfet a la charge du contrôle de tutelle (article 172).",
+      null,
+      "C'est exact : c'est ce qui distingue la tutelle du contrôle hiérarchique."
+     ],
+     "src": {
+      "t": "Encyclopædia Universalis – Tutelle administrative (A. Gruber)",
+      "u": "https://www.universalis.fr/encyclopedie/tutelle-administrative/"
+     }
+    },
+    {
+     "id": "n20261116-da06-17",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Comment la loi n° 2014-451 qualifie-t-elle le district autonome ?",
+     "o": [
+      "Une collectivité territoriale de droit commun",
+      "Une circonscription administrative au-dessous de la sous-préfecture",
+      "Un établissement public national",
+      "Une entité territoriale particulière"
+     ],
+     "a": 3,
+     "e": "L'article 47 de la loi n° 2014-451 dispose que le district autonome est « une entité territoriale particulière » ; l'article 1er le distingue de la déconcentration et de la décentralisation.",
+     "ed": [
+      "L'article 170 de la Constitution ne cite que les régions et les communes comme collectivités territoriales.",
+      "Le district ne figure pas dans la liste des circonscriptions administratives de l'article 2.",
+      "Le district n'est pas un établissement public ; ses organes sont un conseil, un gouverneur et un bureau.",
+      null
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-18",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Le ministre de tutelle d'une commune, mécontent d'un choix d'investissement légal mais qu'il juge peu judicieux, ordonne au maire de le remplacer par un autre projet. Que faut-il en penser ?",
+     "o": [
+      "L'ordre est valable, car le ministre est le supérieur hiérarchique du maire",
+      "L'ordre est valable, car toute décision communale doit être approuvée par le ministre",
+      "L'ordre est contestable : la tutelle n'est pas un pouvoir hiérarchique et ne permet pas de commander une collectivité autonome",
+      "L'ordre est valable si le préfet de région le contresigne"
+     ],
+     "a": 2,
+     "e": "Le maire n'est pas un subordonné hiérarchique : il dirige une collectivité autonome. La tutelle est la contrepartie de l'autonomie et, à la différence du contrôle hiérarchique, elle ne place pas la collectivité sous l'autorité de l'État : elle ne permet pas de lui imposer un autre projet légal.",
+     "ed": [
+      "Il n'existe pas de lien hiérarchique entre l'État et les organes élus d'une collectivité.",
+      "Aucune règle citée n'impose l'approbation ministérielle de toute décision communale.",
+      null,
+      "La contresignature du préfet ne transforme pas la tutelle en pouvoir hiérarchique."
+     ],
+     "src": {
+      "t": "Encyclopædia Universalis – Tutelle administrative (A. Gruber)",
+      "u": "https://www.universalis.fr/encyclopedie/tutelle-administrative/"
+     }
+    },
+    {
+     "id": "n20261116-da06-19",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Lequel de ces quatre acteurs est l'INTRUS, du point de vue du mode d'organisation administrative ?",
+     "o": [
+      "Le préfet de département",
+      "Le sous-préfet",
+      "Le préfet de région",
+      "Le conseil municipal"
+     ],
+     "a": 3,
+     "e": "Préfet de région, préfet de département et sous-préfet sont des agents nommés par décret qui représentent l'État (loi n° 2014-451, articles 7, 18 et 24) : déconcentration. Le conseil municipal est l'organe d'une collectivité : décentralisation.",
+     "ed": [
+      "Le préfet de département relève de la déconcentration, comme les deux autres préfets.",
+      "Le sous-préfet relève de la déconcentration : il représente l'État et agit sous l'autorité du préfet.",
+      "Le préfet de région relève de la déconcentration, comme le préfet et le sous-préfet.",
+      null
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+      "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+     }
+    },
+    {
+     "id": "n20261116-da06-20",
+     "m": "da",
+     "tag": "niv-da06",
+     "q": "Quelle affirmation sur les douze districts autonomes créés en juin 2021 est exacte ?",
+     "o": [
+      "Ils ont été érigés en collectivités territoriales par la révision constitutionnelle de 2020",
+      "Le décret qui les avait créés a été abrogé en mars 2026, ce qui a emporté leur suppression",
+      "Ils ont remplacé les régions collectivités territoriales",
+      "Ils ont été créés par une loi organique votée au Parlement"
+     ],
+     "a": 1,
+     "e": "Le Conseil des ministres du 9 juin 2021 avait créé douze districts autonomes par décret ; en mars 2026, ce décret a été abrogé, et l'abrogation a emporté la suppression de ces districts.",
+     "ed": [
+      "La révision de 2020 est antérieure à leur création, et l'article 170 ne cite que les régions et les communes.",
+      null,
+      "Ces districts englobaient au moins deux régions ; ils ne remplaçaient pas les régions collectivités.",
+      "Ils avaient été créés par décret en Conseil des ministres, non par une loi organique."
+     ],
+     "src": {
+      "t": "KOACI – Côte d'Ivoire : le décret portant création de douze districts autonomes abrogé (19 mars 2026)",
+      "u": "https://www.koaci.com/index.php/article/2026/03/19/cote-divoire/politique/cote-divoire-le-decret-portant-creation-de-douze-districts-autonomes-abroge_195183.html"
+     }
+    },
+    {
+     "id": "n20261116-sf07-01",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Selon l'article 45 de la Constitution, la personne qui exerce une fonction publique doit être :",
+     "o": [
+      "intègre, impartiale et neutre",
+      "disponible, obéissante et discrète",
+      "élue, rémunérée et assermentée",
+      "patriote, militante et dévouée"
+     ],
+     "a": 0,
+     "e": "L'article 45 de la Constitution impose d'accomplir le mandat ou la fonction « avec compétence, conscience et loyauté » et précise : « Il doit être intègre, impartial et neutre. »",
+     "ed": [
+      null,
+      "Ces qualités relèvent d'autres obligations ; l'article 45 cite l'intégrité, l'impartialité et la neutralité.",
+      "Ce sont des conditions ou modalités d'exercice, non les qualités exigées par l'article 45.",
+      "Le militantisme contredit la neutralité exigée par l'article 45."
+     ],
+     "src": {
+      "t": "WIPO Lex – Constitution de la Côte d'Ivoire du 8 novembre 2016 révisée par la loi constitutionnelle n° 2020-348 du 19 mars 2020",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-02",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Quelle autorité reçoit les déclarations de patrimoine des assujettis, selon l'ordonnance n° 2013-660 modifiée ?",
+     "o": [
+      "Le Conseil constitutionnel",
+      "Le supérieur hiérarchique de l'agent",
+      "La Haute Autorité pour la Bonne Gouvernance",
+      "Le Médiateur de la République"
+     ],
+     "a": 2,
+     "e": "L'article 7 de l'ordonnance n° 2013-660, modifié en 2018, prévoit que les déclarations de patrimoine sont adressées à la Haute Autorité pour la Bonne Gouvernance ; l'ordonnance n° 2013-661 lui confie cette mission (article 4).",
+     "ed": [
+      "Le Conseil constitutionnel n'est pas désigné par l'ordonnance pour recevoir ces déclarations.",
+      "Le supérieur hiérarchique reçoit la déclaration de conflit d'intérêts (article 13), pas celle du patrimoine.",
+      null,
+      "Le Médiateur n'a pas de compétence en matière de déclaration de patrimoine."
+     ],
+     "src": {
+      "t": "Loidici – Ordonnance n° 2018-25 du 17 janvier 2018 modifiant l'ordonnance n° 2013-660 relative à la lutte contre la corruption",
+      "u": "https://loidici.biz/?p=72716"
+     }
+    },
+    {
+     "id": "n20261116-sf07-03",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Dans quel délai la déclaration de patrimoine doit-elle être faite après la prise de fonction ?",
+     "o": [
+      "Huit jours",
+      "Trente jours",
+      "Trois mois",
+      "Un an"
+     ],
+     "a": 1,
+     "e": "L'article 8 de l'ordonnance n° 2013-660 dispose que la déclaration de patrimoine est faite dans les trente jours qui suivent la prise de fonction ou le début de l'exercice du mandat.",
+     "ed": [
+      "Le délai légal est de trente jours, non de huit.",
+      null,
+      "Trois mois dépasse le délai de trente jours fixé par l'article 8.",
+      "Un an dépasse largement le délai de trente jours fixé par l'article 8."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-04",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Selon l'ordonnance n° 2013-661 du 20 septembre 2013, la HABG est :",
+     "o": [
+      "une direction du ministère de la Justice",
+      "une juridiction pénale spécialisée",
+      "une commission parlementaire permanente",
+      "une autorité administrative indépendante dotée de la personnalité morale et de l'autonomie financière"
+     ],
+     "a": 3,
+     "e": "L'article 2 de l'ordonnance n° 2013-661 dispose que la HABG est une autorité administrative indépendante dotée de la personnalité morale et de l'autonomie financière.",
+     "ed": [
+      "La HABG n'est pas une direction ministérielle : elle est indépendante et dotée de la personnalité morale.",
+      "La HABG n'est pas un tribunal : elle peut saisir le procureur de la République (article 4).",
+      "La HABG n'est pas un organe du Parlement ; elle lui transmet une copie de son rapport annuel.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – HABG, chapitre premier : dispositions générales (art. 2 et 3)",
+      "u": "https://loidici.biz/?p=72321"
+     }
+    },
+    {
+     "id": "n20261116-sf07-05",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "L'agent public dont les intérêts privés sont en concurrence avec l'intérêt public doit en faire la déclaration :",
+     "o": [
+      "à son supérieur hiérarchique",
+      "au procureur de la République",
+      "à la Cour des comptes",
+      "au syndicat de son corps"
+     ],
+     "a": 0,
+     "e": "L'article 13 de l'ordonnance n° 2013-660 oblige l'agent dont les intérêts privés sont en concurrence avec l'intérêt public, et susceptibles d'influencer ses fonctions, à en faire la déclaration à son supérieur hiérarchique.",
+     "ed": [
+      null,
+      "Le procureur est saisi des infractions ; la déclaration de conflit d'intérêts va au supérieur hiérarchique.",
+      "La Cour des comptes reçoit la déclaration de patrimoine du Président (Constitution, article 60), pas celle-ci.",
+      "Un syndicat n'a aucun rôle dans la prévention légale des conflits d'intérêts."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-06",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Quelle est la sanction de l'agent qui refuse de déclarer son patrimoine ou fait une fausse déclaration ?",
+     "o": [
+      "La révocation automatique",
+      "Une amende égale à six mois de la rémunération perçue ou à percevoir",
+      "Une simple lettre d'observation",
+      "La perte définitive des droits civiques"
+     ],
+     "a": 1,
+     "e": "L'article 54 de l'ordonnance n° 2013-660 punit l'agent qui refuse de déclarer son patrimoine, ou fait une fausse déclaration, d'une amende égale à six mois de rémunération perçue ou à percevoir.",
+     "ed": [
+      "L'article 54 prévoit une amende, non une révocation automatique.",
+      null,
+      "La loi prévoit une véritable sanction pénale, et non une simple observation.",
+      "L'article 54 ne prévoit pas la perte définitive des droits civiques."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-07",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Un usager propose 20 000 F à un agent de mairie pour obtenir plus vite un permis. L'agent refuse. Quelle infraction l'usager a-t-il commise ?",
+     "o": [
+      "Aucune, puisque l'agent a refusé",
+      "La concussion",
+      "La corruption active",
+      "Le détournement de deniers publics"
+     ],
+     "a": 2,
+     "e": "L'article 29 de l'ordonnance n° 2013-660 punit celui qui propose, sans droit, des offres, promesses ou dons à un agent public : c'est la corruption active, constituée par la seule proposition.",
+     "ed": [
+      "La corruption active est constituée par la proposition elle-même, même si l'agent refuse.",
+      "La concussion est commise par l'agent qui perçoit une somme indue, pas par l'usager.",
+      null,
+      "Le détournement suppose que l'agent dissipe des fonds qui lui sont confiés."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-08",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Quelles peines l'ordonnance n° 2013-660 prévoit-elle pour la corruption passive (article 28) ?",
+     "o": [
+      "Six mois à un an d'emprisonnement",
+      "Un à cinq ans d'emprisonnement et 100 000 à 500 000 F d'amende",
+      "Une amende égale à six mois de rémunération",
+      "Cinq à dix ans d'emprisonnement et 5 000 000 à 10 000 000 F d'amende"
+     ],
+     "a": 3,
+     "e": "L'article 28 de l'ordonnance n° 2013-660 punit la corruption passive de cinq à dix ans d'emprisonnement et d'une amende de 5 000 000 à 10 000 000 F ; la corruption active est punie des mêmes peines.",
+     "ed": [
+      "Ces peines sont bien inférieures à celles de l'article 28.",
+      "Un à cinq ans correspond à d'autres infractions (cadeaux, trafic d'influence), pas à la corruption passive.",
+      "Cette amende sanctionne le refus de déclarer son patrimoine (article 54).",
+      null
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-09",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Un agent du Trésor encaisse une « taxe de dossier » de 10 000 F qu'aucun texte ne prévoit et la conserve. Quelle qualification convient le mieux ?",
+     "o": [
+      "La concussion",
+      "Le trafic d'influence",
+      "La corruption active",
+      "L'enrichissement illicite"
+     ],
+     "a": 0,
+     "e": "L'article 36 de l'ordonnance n° 2013-660 définit la concussion : percevoir, exiger ou ordonner de percevoir ce que l'agent sait ne pas être dû. Présenter une taxe inventée comme due en est l'exemple type.",
+     "ed": [
+      null,
+      "Le trafic d'influence suppose de monnayer une influence sur une autorité, ce qui n'est pas le cas ici.",
+      "La corruption active est commise par celui qui propose l'avantage, non par l'agent.",
+      "L'enrichissement illicite vise une hausse injustifiée du patrimoine global, non une perception précise."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-10",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Un agent public affirme à un candidat qu'il peut, grâce à ses relations au ministère, le faire admettre à un concours, contre 300 000 F. Quelle infraction ?",
+     "o": [
+      "La concussion",
+      "Le trafic d'influence",
+      "Le détournement",
+      "La prise illégale d'intérêts du conjoint"
+     ],
+     "a": 1,
+     "e": "Le trafic d'influence (ordonnance n° 2013-660, article 31) vise l'agent qui sollicite ou reçoit des dons pour faire obtenir des emplois ou des décisions favorables de l'autorité publique, en abusant de l'influence réelle ou supposée que lui donne sa qualité.",
+     "ed": [
+      "La concussion consiste à percevoir comme due une somme indue ; ici, l'agent vend son influence.",
+      null,
+      "Le détournement porte sur des fonds ou biens confiés à l'agent en raison de ses fonctions.",
+      "Aucun conjoint n'exerce ici d'activité ; la question porte sur la vente d'une influence."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-11",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Mme Gnagne est nommée le 10 mars gestionnaire de crédits d'un projet financé sur fonds publics. Quand doit-elle, au plus tard, déposer sa déclaration de patrimoine ?",
+     "o": [
+      "Le 10 avril, soit un mois après",
+      "Le 17 mars, soit huit jours après",
+      "Dans les trente jours suivant sa prise de fonction, soit au plus tard le 9 avril",
+      "À la fin de ses fonctions seulement"
+     ],
+     "a": 2,
+     "e": "L'article 8 de l'ordonnance n° 2013-660 impose de déclarer dans les trente jours qui suivent la prise de fonction : trente jours après le 10 mars mènent au 9 avril (21 jours restants en mars, puis 9 jours en avril).",
+     "ed": [
+      "Un mois calendaire n'est pas trente jours : le 10 avril dépasse le délai d'un jour.",
+      "Le délai légal n'est pas de huit jours mais de trente.",
+      null,
+      "Une déclaration est due à l'entrée ET à la sortie des fonctions (article 8)."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-12",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Un dénonciateur d'actes de corruption craint pour sa sécurité. Selon l'article 69 de l'ordonnance n° 2013-660, où peut-il élire domicile ?",
+     "o": [
+      "Au siège du parti politique de son choix",
+      "À l'ambassade d'un pays partenaire",
+      "Uniquement chez son avocat",
+      "Au commissariat de police, à la brigade de gendarmerie ou à la HABG"
+     ],
+     "a": 3,
+     "e": "L'article 69 de l'ordonnance n° 2013-660 permet aux dénonciateurs et témoins d'élire domicile au commissariat de police, à la brigade de gendarmerie ou à la HABG, afin de ne pas exposer leur adresse personnelle.",
+     "ed": [
+      "Un parti politique ne figure pas parmi les lieux prévus par l'article 69.",
+      "Aucune ambassade n'est prévue par l'ordonnance.",
+      "L'article 69 ne limite pas le choix au cabinet d'un avocat ; il cite police, gendarmerie et HABG.",
+      null
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-13",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Laquelle de ces missions n'est PAS confiée à la HABG par l'article 4 de l'ordonnance n° 2013-661 ?",
+     "o": [
+      "Recevoir les déclarations de patrimoine des assujettis",
+      "Mener des investigations sur les pratiques de corruption",
+      "Juger et condamner les auteurs d'actes de corruption",
+      "Éduquer et sensibiliser la population sur les conséquences de la corruption"
+     ],
+     "a": 2,
+     "e": "La HABG reçoit les déclarations de patrimoine, mène des investigations, saisit le procureur de la République et sensibilise la population (article 4). Elle ne juge pas : la condamnation relève des tribunaux.",
+     "ed": [
+      "C'est bien une mission de la HABG (article 4).",
+      "C'est bien une mission de la HABG (article 4).",
+      null,
+      "C'est bien une mission de la HABG (article 4)."
+     ],
+     "src": {
+      "t": "Loidici – HABG, chapitre 2 : missions et attributions (art. 4 à 6)",
+      "u": "https://loidici.biz/2025/06/24/chapitre-2-missions-et-attributions/lois-article-par-article/plus-de-textes-de-lois/72324/naty/"
+     }
+    },
+    {
+     "id": "n20261116-sf07-14",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Un agent n'a pas fait de déclaration de conflit d'intérêts alors qu'il savait que ses intérêts privés concurrençaient l'intérêt public. Que prévoit l'article 52 de l'ordonnance n° 2013-660 ?",
+     "o": [
+      "Un à cinq ans d'emprisonnement et 1 000 000 à 5 000 000 F d'amende",
+      "Aucune sanction : la déclaration est facultative",
+      "Une simple mutation dans l'intérêt du service",
+      "Cinq à dix ans d'emprisonnement"
+     ],
+     "a": 0,
+     "e": "L'article 52 de l'ordonnance n° 2013-660 punit d'un à cinq ans d'emprisonnement et d'une amende de 1 000 000 à 5 000 000 F l'agent qui, sachant ses intérêts privés en concurrence avec l'intérêt public, ne fait pas la déclaration.",
+     "ed": [
+      null,
+      "La déclaration est obligatoire (article 13) et son omission est pénalement punie (article 52).",
+      "L'ordonnance prévoit une sanction pénale, pas une simple mesure de gestion.",
+      "Cinq à dix ans correspondent à la corruption passive ou active (articles 28 et 29)."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-15",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Selon l'article 60 de la Constitution, devant quelle institution le Président de la République produit-il la déclaration authentique de son patrimoine ?",
+     "o": [
+      "Le Conseil constitutionnel",
+      "La Cour des comptes",
+      "L'Assemblée nationale",
+      "La HABG"
+     ],
+     "a": 1,
+     "e": "L'article 60 de la Constitution dispose que le Président de la République est tenu de produire une déclaration authentique de son patrimoine devant la Cour des comptes, à son entrée en fonction et à la fin de son mandat.",
+     "ed": [
+      "Le Conseil constitutionnel n'est pas l'institution désignée par l'article 60.",
+      null,
+      "L'Assemblée nationale n'est pas destinataire de cette déclaration.",
+      "La HABG reçoit les déclarations des assujettis de l'ordonnance, mais l'article 60 désigne la Cour des comptes pour le Président."
+     ],
+     "src": {
+      "t": "WIPO Lex – Constitution de la Côte d'Ivoire du 8 novembre 2016 révisée par la loi constitutionnelle n° 2020-348 du 19 mars 2020",
+      "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-16",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Sur les cadeaux et les déclarations anonymes, laquelle de ces affirmations relatives à l'ordonnance n° 2013-660 est FAUSSE ?",
+     "o": [
+      "Le donateur d'un cadeau indu encourt les mêmes peines que l'agent qui l'accepte",
+      "Le régime juridique des cadeaux est déterminé par décret pris en Conseil des ministres",
+      "L'agent qui accepte un cadeau indu encourt un à cinq ans d'emprisonnement",
+      "Une condamnation peut être prononcée sur le seul fondement d'une déclaration anonyme"
+     ],
+     "a": 3,
+     "e": "L'article 72 de l'ordonnance n° 2013-660 dispose qu'aucune condamnation ne peut être prononcée sur le seul fondement d'une déclaration recueillie sous anonymat : il protège les droits de la défense.",
+     "ed": [
+      "C'est exact : l'article 57 punit le donateur des mêmes peines.",
+      "C'est exact : l'article 57 renvoie à un décret pris en Conseil des ministres.",
+      "C'est exact : l'article 57 prévoit un à cinq ans d'emprisonnement.",
+      null
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-17",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Un chef de service accepte une enveloppe d'un fournisseur de l'administration. Quelle analyse est la plus complète ?",
+     "o": [
+      "C'est seulement une faute disciplinaire au regard du statut",
+      "C'est seulement une infraction pénale ; le statut ne s'applique pas",
+      "C'est à la fois un manquement à l'article 34 du statut, donc une faute disciplinaire, et une infraction pénale au regard de l'ordonnance n° 2013-660",
+      "Ce n'est rien tant que le marché n'a pas été attribué"
+     ],
+     "a": 2,
+     "e": "Le même fait relève de deux régimes : le statut interdit de recevoir des dons en raison des fonctions (loi n° 2023-892, article 34) et en fait une faute disciplinaire (article 38) ; l'ordonnance n° 2013-660 punit pénalement l'agent (articles 28 ou 57).",
+     "ed": [
+      "Le fait est aussi réprimé par l'ordonnance n° 2013-660 : l'analyse est incomplète.",
+      "Le statut s'applique bien : l'article 34 interdit de recevoir des dons.",
+      null,
+      "L'interdiction de recevoir des dons ne dépend pas de l'attribution du marché."
+     ],
+     "src": {
+      "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+      "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+     }
+    },
+    {
+     "id": "n20261116-sf07-18",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "À quelle date la Convention des Nations unies contre la corruption a-t-elle été adoptée par l'Assemblée générale ?",
+     "o": [
+      "Le 11 juillet 2003",
+      "Le 14 décembre 2005",
+      "Le 10 décembre 2003",
+      "Le 31 octobre 2003"
+     ],
+     "a": 3,
+     "e": "La Convention des Nations unies contre la corruption a été adoptée par l'Assemblée générale le 31 octobre 2003 et est entrée en vigueur le 14 décembre 2005.",
+     "ed": [
+      "Le 11 juillet 2003 est la date d'adoption de la Convention de l'Union africaine, à Maputo.",
+      "Le 14 décembre 2005 est la date d'entrée en vigueur de la Convention, non de son adoption.",
+      "Le 10 décembre 2003 est la date de signature de la Convention par la Côte d'Ivoire.",
+      null
+     ],
+     "src": {
+      "t": "ONUDC – Convention des Nations unies contre la corruption : signatures et ratifications",
+      "u": "https://www.unodc.org/unodc/treaties/CAC/signatories.html"
+     }
+    },
+    {
+     "id": "n20261116-sf07-19",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "M. Diomandé, agent public, ne peut justifier par ses revenus légitimes l'achat de trois immeubles en deux ans. Quelle infraction est en cause ?",
+     "o": [
+      "L'enrichissement illicite",
+      "La concussion",
+      "La corruption active",
+      "Le refus de déclaration de patrimoine"
+     ],
+     "a": 0,
+     "e": "L'article 56 de l'ordonnance n° 2013-660 vise l'agent public qui ne peut raisonnablement justifier une augmentation substantielle de son patrimoine par rapport à ses revenus ; c'est à lui de prouver l'origine licite de ses biens.",
+     "ed": [
+      null,
+      "La concussion suppose de percevoir une somme précise présentée comme due ; ici, c'est le patrimoine global qui est en cause.",
+      "La corruption active est commise par celui qui propose l'avantage à l'agent.",
+      "Rien n'indique un refus de déclarer ; l'infraction porte sur l'enrichissement injustifié."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-sf07-20",
+     "m": "sfp",
+     "tag": "niv-sf07",
+     "q": "Un dénonciateur est menacé par son chef de service après avoir signalé des faits de corruption. Quelle affirmation est exacte ?",
+     "o": [
+      "Le dénonciateur ne bénéficie d'aucune protection tant que le chef n'est pas condamné",
+      "La menace contre un dénonciateur est punie d'un à cinq ans d'emprisonnement",
+      "Seule une sanction disciplinaire peut frapper le chef",
+      "Le dénonciateur doit d'abord saisir le syndicat"
+     ],
+     "a": 1,
+     "e": "L'article 67 de l'ordonnance n° 2013-660 accorde aux dénonciateurs une protection spéciale de l'État ; l'article 68 punit d'un à cinq ans d'emprisonnement quiconque recourt à la vengeance, à l'intimidation ou à la menace contre eux.",
+     "ed": [
+      "La protection de l'article 67 joue dès la dénonciation, sans attendre une condamnation.",
+      null,
+      "L'article 68 prévoit une peine d'emprisonnement : la sanction n'est pas seulement disciplinaire.",
+      "Aucune saisine préalable d'un syndicat n'est exigée par l'ordonnance."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+      "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+     }
+    },
+    {
+     "id": "n20261116-dv04-01",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Selon l'article 516 du Code civil, les biens sont :",
+     "o": [
+      "corporels, incorporels ou mixtes",
+      "publics ou privés",
+      "meubles ou immeubles",
+      "fongibles ou consomptibles"
+     ],
+     "a": 2,
+     "e": "L'article 516 du Code civil dispose : « Tous les biens sont meubles ou immeubles. » C'est la summa divisio du droit des biens : tout bien entre dans l'une des deux catégories.",
+     "ed": [
+      "La distinction corporel / incorporel existe en doctrine, mais ce n'est pas celle de l'article 516.",
+      "La distinction publics / privés concerne le propriétaire, non la classification de l'article 516.",
+      null,
+      "Fongibles et consomptibles sont des sous-distinctions doctrinales, non la division de l'article 516."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre I : De la distinction des biens (art. 516 à 543)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/i/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-02",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Selon l'article 517, les immeubles le sont :",
+     "o": [
+      "par leur nature, par leur destination ou par l'objet auquel ils s'appliquent",
+      "par leur valeur, leur poids ou leur ancienneté",
+      "par leur nature ou par la détermination de la loi uniquement",
+      "par leur inscription au cadastre seulement"
+     ],
+     "a": 0,
+     "e": "L'article 517 dispose : « Les biens sont immeubles, ou par leur nature, ou par leur destination, ou par l'objet auquel ils s'appliquent. »",
+     "ed": [
+      null,
+      "Ni la valeur, ni le poids, ni l'ancienneté ne sont des critères légaux d'immeuble.",
+      "« Par la détermination de la loi » est une catégorie de meubles (article 527), non d'immeubles.",
+      "L'inscription au cadastre n'est pas le critère de l'article 517."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre I : De la distinction des biens (art. 516 à 543)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/i/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-03",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Quelle définition le Code civil donne-t-il de la propriété (article 544) ?",
+     "o": [
+      "Le droit de détenir une chose pour le compte d'autrui",
+      "Le droit de jouir et disposer des choses de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage prohibé par les lois ou les règlements",
+      "Le droit d'utiliser la chose d'autrui sans en percevoir les fruits",
+      "La maîtrise de fait d'une chose pendant trente ans"
+     ],
+     "a": 1,
+     "e": "L'article 544 définit la propriété comme « le droit de jouir et disposer des choses de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage prohibé par les lois ou par les règlements ».",
+     "ed": [
+      "Détenir pour autrui, c'est la situation du détenteur précaire, non du propriétaire.",
+      null,
+      "Utiliser la chose d'autrui décrit un droit d'usage limité, non la propriété.",
+      "La maîtrise de fait est la possession ; trente ans est le délai de la prescription (article 2262)."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre II : De la propriété (art. 544 à 577)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/ii/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-04",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "L'attribut de la propriété qui permet de vendre, donner ou détruire la chose s'appelle :",
+     "o": [
+      "l'usus",
+      "le fructus",
+      "l'abusus",
+      "l'accession"
+     ],
+     "a": 2,
+     "e": "L'abusus est le pouvoir de disposer de la chose, juridiquement (vendre, donner) et matériellement (transformer, détruire). L'usus est le droit d'user, le fructus celui de percevoir les fruits.",
+     "ed": [
+      "L'usus est seulement le pouvoir d'utiliser la chose.",
+      "Le fructus est le droit de percevoir les fruits de la chose.",
+      null,
+      "L'accession est le droit sur ce que la chose produit ou ce qui s'y unit (article 546), non un attribut de disposition."
+     ],
+     "src": {
+      "t": "Gdroit – Attributs du droit de propriété : le droit d'user de la chose (usus)",
+      "u": "https://gdroit.fr/droit-commercial/attributs-du-droit-de-propriete-le-droit-duser-de-la-chose-lusus/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-05",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Que signifie la règle de l'article 2279 du Code civil ?",
+     "o": [
+      "En fait de meubles, la possession vaut titre",
+      "En fait d'immeubles, la possession vaut titre",
+      "Nul ne peut posséder un meuble sans écrit",
+      "La possession d'un meuble se prescrit par trente ans"
+     ],
+     "a": 0,
+     "e": "L'article 2279, alinéa 1, dispose : « En fait de meubles, la possession vaut titre. » Le possesseur de bonne foi d'un meuble est traité comme son propriétaire, sauf perte ou vol de moins de trois ans.",
+     "ed": [
+      null,
+      "La règle ne concerne que les meubles ; les immeubles s'acquièrent par prescription de 10, 20 ou 30 ans.",
+      "L'article 2279 dispense justement de l'écrit : la possession suffit.",
+      "Le délai de trente ans est celui de l'article 2262, applicable notamment aux immeubles."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, titre XX, chapitre V : Du temps requis pour prescrire (art. 2262 et suivants)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/iii/xx/v/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-06",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Selon l'article 1er de la loi n° 98-750 du 23 décembre 1998, qui peut être propriétaire d'une terre du domaine foncier rural ?",
+     "o": [
+      "Toute personne physique ou morale, sans distinction",
+      "Seulement l'État",
+      "Les seules sociétés agricoles agréées",
+      "L'État, les collectivités publiques et les personnes physiques ivoiriennes"
+     ],
+     "a": 3,
+     "e": "L'article 1er de la loi n° 98-750 dispose que seuls l'État, les collectivités publiques et les personnes physiques ivoiriennes sont admis à être propriétaires du domaine foncier rural ; l'article 12 de la Constitution reprend cette règle.",
+     "ed": [
+      "Toute personne peut accéder au domaine foncier rural, mais seules certaines peuvent en être propriétaires.",
+      "L'État n'est pas seul : les collectivités publiques et les personnes physiques ivoiriennes le peuvent aussi.",
+      "Les personnes morales privées ne sont pas admises à la propriété rurale.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 98-750 relative au domaine foncier rural, chapitre premier : définition et composition du domaine foncier rural",
+      "u": "https://loidici.biz/2018/09/12/chapitre-premier-definition-et-composition-du-domaine-foncier-rural/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-07",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Un planteur de Soubré achète un pulvérisateur qu'il affecte à l'exploitation de sa propre plantation. Le pulvérisateur est :",
+     "o": [
+      "un immeuble par nature",
+      "un immeuble par destination",
+      "un meuble par la détermination de la loi",
+      "un bien hors commerce"
+     ],
+     "a": 1,
+     "e": "L'article 524 qualifie d'immeubles par destination les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds ; il cite les ustensiles aratoires. Les deux conditions sont réunies.",
+     "ed": [
+      "Un pulvérisateur se déplace : ce n'est pas un immeuble par nature comme un fonds de terre ou un bâtiment.",
+      null,
+      "Les meubles par la détermination de la loi sont des droits (créances, actions), non des objets matériels.",
+      "Le pulvérisateur peut être vendu : il n'est pas hors commerce."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre I : De la distinction des biens (art. 516 à 543)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/i/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-08",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Le locataire d'un champ à Divo y installe sa propre motopompe. Que vaut la motopompe ?",
+     "o": [
+      "Elle devient immeuble par destination dès son installation",
+      "Elle devient la propriété du bailleur",
+      "Elle reste un meuble, car elle n'a pas été placée par le propriétaire du fonds",
+      "Elle devient un immeuble par nature"
+     ],
+     "a": 2,
+     "e": "L'immeuble par destination suppose que l'objet ait été placé par le propriétaire du fonds (article 524). Le locataire n'est pas propriétaire du champ : la motopompe reste un meuble par nature.",
+     "ed": [
+      "Il manque la condition d'identité de propriétaire entre l'objet et le fonds.",
+      "Aucune règle ne transfère au bailleur la propriété de la motopompe du locataire.",
+      null,
+      "Une motopompe se transporte : elle ne peut pas être un immeuble par nature."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre I : De la distinction des biens (art. 516 à 543)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/i/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-09",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Les actions qu'un associé détient dans une société commerciale sont :",
+     "o": [
+      "des meubles par la détermination de la loi",
+      "des immeubles par l'objet auquel ils s'appliquent",
+      "des meubles par nature",
+      "des immeubles par destination"
+     ],
+     "a": 0,
+     "e": "L'article 529 range parmi les meubles par la détermination de la loi les actions ou intérêts dans les compagnies de finance, de commerce ou d'industrie, même si la société possède des immeubles.",
+     "ed": [
+      null,
+      "Les actions ne portent pas sur un immeuble déterminé : la loi les classe parmi les meubles.",
+      "Une action n'a pas de corps qui se transporte : elle n'est pas meuble par nature.",
+      "Une action n'est pas un objet placé sur un fonds pour son exploitation."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre I : De la distinction des biens (art. 516 à 543)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/i/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-10",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "M. Gbané loue son appartement et encaisse les loyers chaque mois. Quel attribut de la propriété exerce-t-il en percevant les loyers ?",
+     "o": [
+      "L'usus",
+      "L'abusus",
+      "Le droit d'accession",
+      "Le fructus"
+     ],
+     "a": 3,
+     "e": "Le fructus est le droit de percevoir les fruits de la chose. Les loyers sont des fruits civils : en les percevant, le propriétaire exerce le fructus tout en laissant l'usage au locataire.",
+     "ed": [
+      "L'usus est passé au locataire, qui utilise l'appartement.",
+      "L'abusus consisterait à vendre, donner ou détruire l'appartement.",
+      "L'accession vise ce que la chose produit ou ce qui s'y incorpore ; le vocabulaire des attributs désigne ici le fructus.",
+      null
+     ],
+     "src": {
+      "t": "Gdroit – Attributs du droit de propriété : le droit d'user de la chose (usus)",
+      "u": "https://gdroit.fr/droit-commercial/attributs-du-droit-de-propriete-le-droit-duser-de-la-chose-lusus/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-11",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Laquelle de ces qualités n'est PAS exigée par l'article 2229 pour une possession utile ?",
+     "o": [
+      "Continue et non interrompue",
+      "Paisible et publique",
+      "Fondée sur un titre notarié",
+      "Non équivoque et à titre de propriétaire"
+     ],
+     "a": 2,
+     "e": "L'article 2229 exige une possession « continue et non interrompue, paisible, publique, non équivoque, et à titre de propriétaire ». Il n'exige aucun titre : la prescription trentenaire joue même sans titre (article 2262).",
+     "ed": [
+      "C'est bien une qualité exigée par l'article 2229.",
+      "Ce sont bien des qualités exigées par l'article 2229.",
+      null,
+      "Ce sont bien des qualités exigées par l'article 2229."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, titre XX, chapitre II : De la possession (art. 2228 et suivants)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/iii/xx/ii/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-12",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Mme Ehui achète de bonne foi, en vertu d'un juste titre, une maison qui n'appartenait pas au vendeur ; le véritable propriétaire habite dans le ressort de la cour d'appel où se trouve la maison. Au bout de combien de temps peut-elle prescrire la propriété ?",
+     "o": [
+      "Trois ans",
+      "Dix ans",
+      "Vingt ans",
+      "Trente ans"
+     ],
+     "a": 1,
+     "e": "L'article 2265 du Code civil (version antérieure à 2008) prévoit que celui qui acquiert de bonne foi et par juste titre un immeuble en prescrit la propriété par dix ans si le véritable propriétaire habite dans le ressort de la cour d'appel, par vingt ans s'il est domicilié hors de ce ressort.",
+     "ed": [
+      "Trois ans est le délai de revendication d'un meuble perdu ou volé (article 2279).",
+      null,
+      "Vingt ans vaut si le véritable propriétaire est domicilié hors du ressort de la cour d'appel.",
+      "Trente ans est le délai de droit commun, sans juste titre ni bonne foi (article 2262)."
+     ],
+     "src": {
+      "t": "Légifrance – Code civil, article 2265 (version en vigueur du 21 mars 1804 au 19 juin 2008)",
+      "u": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006447733/1998-06-16"
+     }
+    },
+    {
+     "id": "n20261116-dv04-13",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Le vélo de M. Doumbia lui a été volé il y a un an ; il le retrouve chez Mme Konan, qui l'a acheté de bonne foi. Que décide l'article 2279 ?",
+     "o": [
+      "Mme Konan est propriétaire, car la possession vaut titre sans exception",
+      "M. Doumbia ne peut agir que contre le voleur",
+      "M. Doumbia doit attendre trente ans pour agir",
+      "M. Doumbia peut revendiquer le vélo, car le vol date de moins de trois ans"
+     ],
+     "a": 3,
+     "e": "L'article 2279, alinéa 2, permet à celui à qui une chose a été volée de la revendiquer pendant trois ans à compter du vol contre celui qui la détient, sauf le recours de ce dernier contre son vendeur.",
+     "ed": [
+      "La règle « possession vaut titre » souffre l'exception de la perte ou du vol pendant trois ans.",
+      "L'article 2279 permet d'agir contre celui « dans les mains duquel il la trouve ».",
+      "Le délai de revendication est de trois ans, non de trente.",
+      null
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, titre XX, chapitre V : Du temps requis pour prescrire (art. 2262 et suivants)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/iii/xx/v/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-14",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Une société anonyme ivoirienne souhaite acheter en pleine propriété 200 hectares de terre rurale. Que prévoit la loi n° 98-750 ?",
+     "o": [
+      "Elle le peut, car elle est de nationalité ivoirienne",
+      "Elle ne le peut pas : seuls l'État, les collectivités publiques et les personnes physiques ivoiriennes sont admis à être propriétaires",
+      "Elle le peut si elle obtient un certificat foncier",
+      "Elle le peut si la terre est sans maître"
+     ],
+     "a": 1,
+     "e": "L'article 1er de la loi n° 98-750 permet à toute personne physique ou morale d'accéder au domaine foncier rural, mais réserve la propriété à l'État, aux collectivités publiques et aux personnes physiques ivoiriennes. Une société est une personne morale.",
+     "ed": [
+      "La nationalité ivoirienne ne suffit pas : la loi vise les personnes physiques ivoiriennes.",
+      null,
+      "Le certificat foncier constate des droits coutumiers ; il n'ouvre pas la propriété aux personnes morales.",
+      "Les terres sans maître appartiennent à l'État (article 6)."
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 98-750 relative au domaine foncier rural, chapitre premier : définition et composition du domaine foncier rural",
+      "u": "https://loidici.biz/2018/09/12/chapitre-premier-definition-et-composition-du-domaine-foncier-rural/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-15",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Depuis la loi n° 2019-868, comment la propriété d'une terre du domaine foncier rural est-elle établie ?",
+     "o": [
+      "Par une attestation du chef de village",
+      "Par la possession trentenaire",
+      "À partir de l'immatriculation au registre foncier",
+      "Par un simple contrat de vente sous seing privé"
+     ],
+     "a": 2,
+     "e": "L'article 4 de la loi n° 98-750, dans sa rédaction issue de la loi n° 2019-868, dispose que la propriété d'une terre du domaine foncier rural est établie à partir de l'immatriculation au registre foncier.",
+     "ed": [
+      "L'attestation coutumière ne suffit pas : les droits coutumiers sont constatés par le certificat foncier.",
+      "La loi foncière rurale fait reposer la propriété sur l'immatriculation, non sur la seule possession.",
+      null,
+      "Un contrat sous seing privé ne remplace pas l'immatriculation exigée par l'article 4."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2019-868 du 14 octobre 2019 modifiant la loi n° 98-750 du 23 décembre 1998 relative au domaine foncier rural",
+      "u": "https://faolex.fao.org/docs/pdf/ivc195709.pdf"
+     }
+    },
+    {
+     "id": "n20261116-dv04-16",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Que devient, selon la loi relative au domaine foncier rural, une terre qui n'a pas de maître ?",
+     "o": [
+      "Elle appartient au premier occupant",
+      "Elle appartient à la commune la plus proche",
+      "Elle appartient à l'État",
+      "Elle reste sans propriétaire"
+     ],
+     "a": 2,
+     "e": "L'article 6 de la loi n° 98-750, modifié en 2019, dispose que les terres qui n'ont pas de maître appartiennent à l'État.",
+     "ed": [
+      "Le premier occupant n'acquiert pas la terre sans maître : la loi l'attribue à l'État.",
+      "La loi attribue ces terres à l'État, non aux communes.",
+      null,
+      "La loi ne laisse pas ces terres sans propriétaire : elles reviennent à l'État."
+     ],
+     "src": {
+      "t": "FAOLEX – Loi n° 2019-868 du 14 octobre 2019 modifiant la loi n° 98-750 du 23 décembre 1998 relative au domaine foncier rural",
+      "u": "https://faolex.fao.org/docs/pdf/ivc195709.pdf"
+     }
+    },
+    {
+     "id": "n20261116-dv04-17",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Quelle affirmation sur les caractères du droit de propriété est FAUSSE ?",
+     "o": [
+      "Il est absolu : le propriétaire use de son bien comme il veut, dans les limites des lois",
+      "Il est exclusif : un bien n'appartient en principe qu'à une seule personne",
+      "Il est temporaire : il s'éteint si le propriétaire n'utilise pas son bien pendant cinq ans",
+      "Il est perpétuel : il dure autant que le bien"
+     ],
+     "a": 2,
+     "e": "Le droit de propriété est perpétuel : il existe tant que le bien existe, même si le propriétaire ne l'utilise pas. Le non-usage ne fait pas, à lui seul, perdre la propriété ; c'est la possession utile d'un tiers qui peut, par prescription, l'en priver.",
+     "ed": [
+      "C'est exact : le caractère absolu est reconnu par l'article 544, dans les limites des lois et règlements.",
+      "C'est exact : c'est le caractère exclusif, sauf exceptions comme l'indivision.",
+      null,
+      "C'est exact : c'est le caractère perpétuel."
+     ],
+     "src": {
+      "t": "Nomad Education – La propriété (Licence de droit, 1re année)",
+      "u": "https://www.nomadeducation.fr/revisions/licence-droit-1re-annee-lb563232/la-propriete-cy91b006"
+     }
+    },
+    {
+     "id": "n20261116-dv04-18",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Selon l'article 11 de la Constitution du 8 novembre 2016, une personne peut être privée de sa propriété :",
+     "o": [
+      "sur simple décision du préfet",
+      "pour cause d'utilité publique et sous la condition d'une juste et préalable indemnisation",
+      "si elle n'a pas utilisé son bien depuis dix ans",
+      "jamais, la propriété étant absolue"
+     ],
+     "a": 1,
+     "e": "L'article 11 de la Constitution dispose : « Le droit de propriété est garanti à tous. Nul ne doit être privé de sa propriété si ce n'est pour cause d'utilité publique et sous la condition d'une juste et préalable indemnisation. »",
+     "ed": [
+      "Une décision administrative ne suffit pas : il faut l'utilité publique et une indemnisation juste et préalable.",
+      null,
+      "Le non-usage n'est pas une cause de privation de propriété.",
+      "La Constitution admet l'expropriation pour cause d'utilité publique, avec indemnité."
+     ],
+     "src": {
+      "t": "Landwise – Constitution de la République de Côte d'Ivoire, loi n° 2016-886 du 8 novembre 2016",
+      "u": "https://landwise-production.s3.us-west-2.amazonaws.com/2022/05/CONSTITUTION-de-cote-divoire_2016.pdf"
+     }
+    },
+    {
+     "id": "n20261116-dv04-19",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Mme Touré vend sa parcelle de Grand-Bassam. Quelle règle fonde le principe selon lequel l'acquéreur devient aussi propriétaire des arbres plantés sur la parcelle ?",
+     "o": [
+      "La propriété du sol emporte la propriété du dessus et du dessous (article 552)",
+      "En fait de meubles, la possession vaut titre (article 2279)",
+      "Tous les biens sont meubles ou immeubles (article 516)",
+      "La possession doit être paisible (article 2229)"
+     ],
+     "a": 0,
+     "e": "L'article 552 dispose que « la propriété du sol emporte la propriété du dessus et du dessous » ; c'est une application du droit d'accession (article 546) : ce qui s'unit au sol appartient au propriétaire du sol.",
+     "ed": [
+      null,
+      "L'article 2279 concerne les meubles ; les arbres plantés font corps avec le sol.",
+      "L'article 516 pose la division des biens, sans régler le sort des plantations.",
+      "L'article 2229 fixe les qualités de la possession, non l'étendue de la propriété du sol."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre II : De la propriété (art. 544 à 577)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/ii/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-dv04-20",
+     "m": "dciv",
+     "tag": "niv-dv04",
+     "q": "Laquelle de ces affirmations sur la possession est exacte ?",
+     "o": [
+      "La possession exige toujours d'être propriétaire de la chose",
+      "La possession peut s'exercer par un autre qui détient la chose en notre nom",
+      "La possession clandestine permet de prescrire",
+      "La possession d'un immeuble vaut titre immédiatement"
+     ],
+     "a": 1,
+     "e": "L'article 2228 définit la possession comme la détention ou la jouissance d'une chose que nous tenons ou exerçons par nous-mêmes, « ou par un autre qui la tient ou qui l'exerce en notre nom » : le propriétaire qui loue continue de posséder par son locataire.",
+     "ed": [
+      "La possession est un fait : on peut posséder sans être propriétaire, et c'est ce qui permet la prescription.",
+      null,
+      "L'article 2229 exige une possession publique : la possession clandestine ne permet pas de prescrire.",
+      "La règle « possession vaut titre » ne vaut que pour les meubles (article 2279)."
+     ],
+     "src": {
+      "t": "Criminocorpus (CNRS) – Code civil de 1804, titre XX, chapitre II : De la possession (art. 2228 et suivants)",
+      "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/iii/xx/ii/1804-03-31/"
+     }
+    },
+    {
+     "id": "n20261116-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En quelle année la Convention des Nations unies contre la corruption est-elle entrée en vigueur ?",
+     "o": [
+      "2003",
+      "2005",
+      "2008",
+      "2012"
+     ],
+     "a": 1,
+     "e": "Adoptée par l'Assemblée générale des Nations unies le 31 octobre 2003, la Convention contre la corruption est entrée en vigueur le 14 décembre 2005.",
+     "ed": [
+      "2003 est l'année de son adoption, non de son entrée en vigueur.",
+      null,
+      "La Convention était déjà en vigueur depuis le 14 décembre 2005.",
+      "2012 est l'année de la ratification par la Côte d'Ivoire, non de l'entrée en vigueur."
+     ],
+     "src": {
+      "t": "ONUDC – Convention des Nations unies contre la corruption : signatures et ratifications",
+      "u": "https://www.unodc.org/unodc/treaties/CAC/signatories.html"
+     }
+    },
+    {
+     "id": "n20261116-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville la Convention de l'Union africaine sur la prévention et la lutte contre la corruption a-t-elle été adoptée en 2003 ?",
+     "o": [
+      "Addis-Abeba",
+      "Lomé",
+      "Abuja",
+      "Maputo"
+     ],
+     "a": 3,
+     "e": "La Convention de l'Union africaine sur la prévention et la lutte contre la corruption a été adoptée à Maputo (Mozambique) le 11 juillet 2003 ; elle est entrée en vigueur le 5 août 2006.",
+     "ed": [
+      "La liste officielle de l'UA indique Maputo, non Addis-Abeba, comme lieu d'adoption.",
+      "Lomé n'est pas la ville d'adoption de cette Convention.",
+      "Abuja n'est pas le lieu d'adoption : la Convention a été adoptée à Maputo.",
+      null
+     ],
+     "src": {
+      "t": "Union africaine – Liste des pays ayant signé et ratifié la Convention sur la prévention et la lutte contre la corruption (état au 14/02/2023)",
+      "u": "https://au.int/sites/default/files/treaties/36382-sl-AFRICAN_UNION_CONVENTION_ON_PREVENTING_AND_COMBATING_CORRUPTION.pdf"
+     }
+    },
+    {
+     "id": "n20261116-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel organe a adopté la Convention des Nations unies contre la corruption le 31 octobre 2003 ?",
+     "o": [
+      "Le Conseil de sécurité",
+      "L'Assemblée générale des Nations unies",
+      "Le Conseil économique et social",
+      "La Cour internationale de Justice"
+     ],
+     "a": 1,
+     "e": "La Convention des Nations unies contre la corruption a été adoptée par l'Assemblée générale le 31 octobre 2003, puis ouverte à la signature des États.",
+     "ed": [
+      "Selon l'ONUDC, c'est l'Assemblée générale, et non le Conseil de sécurité, qui a adopté la Convention.",
+      null,
+      "Le Conseil économique et social n'est pas l'organe qui a adopté cette Convention.",
+      "La CIJ est une juridiction ; elle n'adopte pas de conventions."
+     ],
+     "src": {
+      "t": "ONUDC – Convention des Nations unies contre la corruption : signatures et ratifications",
+      "u": "https://www.unodc.org/unodc/treaties/CAC/signatories.html"
+     }
+    },
+    {
+     "id": "n20261116-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En quelle année la Côte d'Ivoire a-t-elle ratifié la Convention des Nations unies contre la corruption ?",
+     "o": [
+      "2003",
+      "2005",
+      "2012",
+      "2016"
+     ],
+     "a": 2,
+     "e": "Selon l'ONUDC, la Côte d'Ivoire a signé la Convention le 10 décembre 2003 et l'a ratifiée le 25 octobre 2012.",
+     "ed": [
+      "2003 est l'année de la signature par la Côte d'Ivoire, non de la ratification.",
+      "2005 est l'année d'entrée en vigueur de la Convention.",
+      null,
+      "La ratification ivoirienne est antérieure : elle date du 25 octobre 2012."
+     ],
+     "src": {
+      "t": "ONUDC – Convention des Nations unies contre la corruption : signatures et ratifications",
+      "u": "https://www.unodc.org/unodc/treaties/CAC/signatories.html"
+     }
+    },
+    {
+     "id": "n20261116-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "En quelle année la Convention de l'Union africaine sur la prévention et la lutte contre la corruption est-elle entrée en vigueur ?",
+     "o": [
+      "2003",
+      "2004",
+      "2006",
+      "2010"
+     ],
+     "a": 2,
+     "e": "Adoptée à Maputo le 11 juillet 2003, la Convention de l'Union africaine sur la prévention et la lutte contre la corruption est entrée en vigueur le 5 août 2006.",
+     "ed": [
+      "2003 est l'année de l'adoption de la Convention.",
+      "2004 est l'année où la Côte d'Ivoire l'a signée, non celle de l'entrée en vigueur.",
+      null,
+      "La Convention était en vigueur depuis le 5 août 2006."
+     ],
+     "src": {
+      "t": "Union africaine – Liste des pays ayant signé et ratifié la Convention sur la prévention et la lutte contre la corruption (état au 14/02/2023)",
+      "u": "https://au.int/sites/default/files/treaties/36382-sl-AFRICAN_UNION_CONVENTION_ON_PREVENTING_AND_COMBATING_CORRUPTION.pdf"
+     }
+    },
+    {
+     "id": "n20261116-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Laquelle de ces affirmations sur la Côte d'Ivoire et la Convention de l'Union africaine contre la corruption est exacte ?",
+     "o": [
+      "La Côte d'Ivoire l'a ratifiée en 2012",
+      "La Côte d'Ivoire ne l'a jamais signée",
+      "La Côte d'Ivoire l'a ratifiée dès 2003",
+      "La Côte d'Ivoire l'a ratifiée en 2020"
+     ],
+     "a": 0,
+     "e": "Selon la liste de l'Union africaine, la Côte d'Ivoire a signé la Convention le 27 février 2004, l'a ratifiée le 14 février 2012 et a déposé l'instrument le 5 novembre 2012.",
+     "ed": [
+      null,
+      "La Côte d'Ivoire l'a signée le 27 février 2004.",
+      "La Convention n'a été adoptée qu'en juillet 2003 et signée par la Côte d'Ivoire en 2004.",
+      "La ratification ivoirienne date de 2012, non de 2020."
+     ],
+     "src": {
+      "t": "Union africaine – Liste des pays ayant signé et ratifié la Convention sur la prévention et la lutte contre la corruption (état au 14/02/2023)",
+      "u": "https://au.int/sites/default/files/treaties/36382-sl-AFRICAN_UNION_CONVENTION_ON_PREVENTING_AND_COMBATING_CORRUPTION.pdf"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261116da06",
+     "niv": "da06",
+     "m": "da",
+     "titre": "Centralisation, déconcentration, décentralisation : trois façons d'organiser l'État",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir la centralisation, la déconcentration et la décentralisation, et dire pour chacune qui décide, au nom de qui et sous quel contrôle.",
+      "= Vous saurez aussi rattacher chaque autorité ivoirienne (préfet de région, sous-préfet, conseil régional, maire, district autonome) au bon mode d'organisation, textes à l'appui.",
+      "## Ce que demande l'épreuve",
+      "Ces trois notions forment la grille de lecture de toute l'organisation administrative. En QCM, on vous demande quel texte liste les circonscriptions administratives, qui représente l'État dans les collectivités, ou quelle différence sépare la tutelle du pouvoir hiérarchique. En dissertation, les sujets opposent ou rapprochent les notions : « déconcentration et décentralisation sont-elles complémentaires ? ». Le correcteur attend des définitions exactes, des articles précis et des exemples ivoiriens.",
+      "! Piège habituel : croire que la déconcentration est une « petite décentralisation ». Elle n'en est pas une : c'est une manière d'organiser la centralisation. Seule la décentralisation crée une personne morale distincte de l'État.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez l'autorité qui décide et demandez-vous comment elle est désignée : nommée par décret, ou élue par les habitants ?",
+      "- 2. Demandez au nom de qui elle décide : au nom de l'État, ou au nom d'une personne morale distincte (région, commune) ?",
+      "- 3. Identifiez le contrôle qu'elle subit : pouvoir hiérarchique (le supérieur peut donner des ordres, annuler, réformer) ou tutelle (contrôle exercé par le préfet sur une collectivité autonome, sans pouvoir de commandement).",
+      "- 4. Concluez : agent nommé, au nom de l'État, sous pouvoir hiérarchique = déconcentration ; organe élu d'une personne morale distincte, sous tutelle = décentralisation.",
+      "- 5. Citez le texte : articles 170 à 174 de la Constitution et loi n° 2014-451 du 5 août 2014.",
+      "~ Exemple : « Le sous-préfet de Niablé délivre une autorisation. » Étape 1 : il est nommé par décret pris en Conseil des ministres (loi n° 2014-451, article 24). Étape 2 : il est « le représentant de l'Etat dans la Sous-Préfecture » (article 25). Étape 3 : il « agit sous l'autorité du Préfet ». Conclusion : déconcentration."
+     ],
+     "fond": [
+      "## Notion 1 : la centralisation, tout part du centre",
+      "Définition : la centralisation est le système dans lequel l'ensemble des décisions administratives relève des organes centraux de l'État, c'est-à-dire du Gouvernement et des ministères installés dans la capitale.",
+      "Pourquoi ce modèle ? Il garantit l'unité : la même règle s'applique partout, de la même façon. C'est la logique d'un État unitaire qui veut éviter que chaque territoire suive sa propre politique.",
+      "Mais une centralisation absolue est impraticable. Imaginez un habitant de Tabou obligé d'attendre une signature à Abidjan pour la moindre autorisation : les délais seraient interminables et les décisions prises loin des réalités. C'est pour corriger ce défaut que l'on déconcentre.",
+      "~ Exemple résolu : un candidat écrit « en centralisation pure, chaque ministre pourrait signer seul, depuis son bureau, tous les actes concernant chaque village ». Est-ce cohérent ? Oui : en centralisation pure, aucune autorité locale ne décide ; tout remonte au centre. C'est justement ce qui rend le modèle lent et lointain.",
+      "## Notion 2 : la déconcentration, rapprocher l'État sans le diviser",
+      "Définition : la déconcentration est une modalité de la centralisation. Elle consiste à accorder à des organes non centraux, nommés par l'État, un pouvoir de décision limité. Ces agents décident au nom de l'État et restent soumis au pouvoir hiérarchique.",
+      "Le pouvoir hiérarchique comprend le pouvoir d'instruction (donner des ordres), le pouvoir d'annulation et le pouvoir de réformation des décisions du subordonné, ainsi qu'un pouvoir sur sa personne (nomination, affectation, discipline).",
+      "> La formule célèbre attribuée à Odilon Barrot résume l'idée : « c'est toujours le même marteau qui frappe, mais on en a raccourci le manche ». Le marteau, c'est l'État ; le manche raccourci, c'est l'agent installé sur place.",
+      "En Côte d'Ivoire, la loi n° 2014-451 du 5 août 2014 organise l'administration déconcentrée « dans le cadre de circonscriptions administratives hiérarchisées » : les régions, les départements, les sous-préfectures et les villages (article 2). Les régions, départements et sous-préfectures sont créés, modifiés ou supprimés par décret (article 3).",
+      "- La région est administrée par un préfet de région nommé par décret pris en Conseil des ministres (article 7) ; il « représente le pouvoir exécutif dans sa circonscription » (article 8).",
+      "- Le département est administré par un préfet nommé par décret pris en Conseil des ministres (article 18).",
+      "- La sous-préfecture est administrée par un sous-préfet, représentant de l'État, qui agit sous l'autorité du préfet (articles 24 et 25).",
+      "- Le village est administré par un chef de village assisté d'un conseil de village ou d'une notabilité (article 31).",
+      "! Piège : le mot « région » désigne deux réalités. La région circonscription administrative (préfet de région) relève de la déconcentration ; la région collectivité territoriale (conseil régional élu) relève de la décentralisation. Lisez toujours qui est l'autorité en cause.",
+      "? Un préfet de département annule une décision prise par un sous-préfet de son ressort qu'il juge inopportune. Sur quel fondement peut-il le faire ? || Sur le pouvoir hiérarchique. Le sous-préfet « agit sous l'autorité du Préfet » (loi n° 2014-451, article 25). Le pouvoir hiérarchique comprend le pouvoir d'annuler et de réformer les décisions du subordonné : le préfet peut donc revenir sur l'acte du sous-préfet.",
+      "## Notion 3 : la décentralisation, confier des affaires à d'autres personnes morales",
+      "Définition : la décentralisation consiste dans le transfert d'attributions de l'État à des collectivités ou institutions différentes de lui. La personne qui reçoit ces attributions a sa propre personnalité juridique : elle n'est plus l'État.",
+      "On distingue deux formes. La décentralisation territoriale transfère des compétences à des collectivités territoriales, personnes morales de droit public liées à un territoire. La décentralisation technique, ou par services, confie une mission spécialisée à une personne publique distincte, le plus souvent un établissement public.",
+      "Pourquoi décentraliser ? Les habitants connaissent mieux que quiconque leurs besoins de proximité : marché, voirie, salubrité. La décentralisation leur permet de choisir ceux qui gèrent ces affaires.",
+      "En Côte d'Ivoire, l'article 170 de la Constitution dispose : « Les collectivités territoriales sont les régions et les communes. » Selon l'article 171, « les autres collectivités territoriales sont créées et supprimées par la loi ». La loi n° 2014-451 précise que les régions et les communes sont « dotées de la personnalité morale et de l'autonomie financière » (article 33).",
+      "~ Exemple résolu : le conseil municipal d'Agnibilékrou décide de réhabiliter le marché communal. Étape 1 : l'organe est élu par les habitants. Étape 2 : il agit au nom de la commune, personne morale distincte de l'État. Étape 3 : l'État ne peut pas lui donner d'ordre ; il exerce seulement un contrôle de tutelle. Conclusion : décentralisation territoriale.",
+      "? Un établissement public national chargé de la gestion d'un service spécialisé dispose de la personnalité morale et d'un budget propre. Relève-t-il de la déconcentration ou de la décentralisation ? || De la décentralisation technique (ou par services). Le critère n'est pas le territoire mais la personnalité morale : l'établissement public est une personne distincte de l'État, à qui l'on confie une mission spécialisée. Ce n'est pas de la déconcentration, qui reste à l'intérieur de l'État.",
+      "## Notion 4 : la tutelle, contrepartie de l'autonomie",
+      "Définition : en contrepartie de l'autonomie dont elles jouissent, les collectivités décentralisées sont soumises à un contrôle de l'État appelé tutelle administrative. À la différence du contrôle hiérarchique, la tutelle ne place pas la collectivité sous l'autorité étroite de l'État.",
+      "La Constitution confie ce contrôle au préfet : « Dans les collectivités territoriales, le Préfet est le représentant de l'Etat. Il a la charge des intérêts nationaux, du respect des lois et du contrôle de tutelle » (article 172). Elle ajoute : « Aucune collectivité territoriale ne peut exercer une tutelle sur une autre. »",
+      "Pourquoi cette différence ? Si l'État pouvait commander les élus, l'élection n'aurait plus de sens. Le préfet veille au respect des lois et à l'intérêt national (article 172), mais il ne remplace pas la volonté de la collectivité.",
+      "! Piège : le préfet qui exerce la tutelle n'est pas le chef du maire ou du président du conseil régional. Il contrôle la collectivité ; il ne la commande pas.",
+      "? Le conseil régional d'une région veut imposer au conseil municipal d'une commune de son territoire l'emplacement d'une gare routière. Le peut-il ? || Non. L'article 172 de la Constitution dispose qu'« aucune collectivité territoriale ne peut exercer une tutelle sur une autre ». La région et la commune sont deux personnes morales autonomes ; seul l'État, par le préfet, exerce le contrôle de tutelle.",
+      "## Notion 5 : les moyens de la décentralisation et le cas du district autonome",
+      "Une décentralisation sans moyens serait une coquille vide. La Constitution prévoit donc que les collectivités bénéficient de ressources dont elles peuvent disposer librement (article 173) et que « tout transfert de compétences entre l'Etat et les collectivités territoriales s'accompagne de l'attribution » de ressources équivalentes (article 174). La loi détermine les principes fondamentaux de leur libre administration, de leurs compétences et de leurs ressources (article 172).",
+      "Les compétences transférées sont réparties par la loi n° 2003-208 du 7 juillet 2003 portant transfert et répartition de compétences de l'État aux collectivités territoriales, complétée par des décrets d'application. Par exemple, le décret n° 2005-268 du 21 juillet 2005 précise les compétences des collectivités en matière de protection de l'environnement et de gestion des ressources naturelles.",
+      "Le district autonome occupe une place à part. La loi n° 2014-451 le qualifie d'« entité territoriale particulière » (article 47) et l'oppose aux circonscriptions déconcentrées comme aux collectivités. Ses organes sont un conseil, un gouverneur et un bureau du conseil (article 49). En juin 2021, le Conseil des ministres a créé douze districts autonomes ; ce décret a été abrogé en mars 2026, ce qui a supprimé ces douze districts.",
+      "! Piège : ne classez pas le district autonome parmi les collectivités territoriales de l'article 170 : la Constitution n'y cite que les régions et les communes. Employez la qualification légale d'« entité territoriale particulière »."
+     ],
+     "retenir": [
+      "La centralisation confie l'ensemble des décisions administratives aux organes centraux de l'État.",
+      "La déconcentration est une modalité de la centralisation : des agents nommés décident au nom de l'État, sous pouvoir hiérarchique.",
+      "La décentralisation transfère des attributions de l'État à des personnes morales distinctes : collectivités territoriales ou établissements publics.",
+      "Selon l'article 170 de la Constitution, les collectivités territoriales sont les régions et les communes.",
+      "La loi n° 2014-451 du 5 août 2014 liste les circonscriptions administratives : régions, départements, sous-préfectures et villages.",
+      "Le préfet représente l'État dans les collectivités territoriales et exerce le contrôle de tutelle (article 172 de la Constitution).",
+      "Aucune collectivité territoriale ne peut exercer une tutelle sur une autre (article 172 de la Constitution).",
+      "Tout transfert de compétences de l'État aux collectivités s'accompagne de l'attribution de ressources équivalentes (article 174)."
+     ],
+     "exo": {
+      "tag": "niv-da06",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Revue générale du droit – P. Tifine, Droit administratif français, première partie, chapitre 1 (centralisation, déconcentration, décentralisation)",
+       "u": "https://www.revuegeneraledudroit.eu/blog/2013/08/24/droit-administratif-francais-premiere-partie-chapitre-1"
+      },
+      {
+       "t": "Encyclopædia Universalis – Tutelle administrative (A. Gruber)",
+       "u": "https://www.universalis.fr/encyclopedie/tutelle-administrative/"
+      },
+      {
+       "t": "WIPO Lex – Constitution de la Côte d'Ivoire du 8 novembre 2016 révisée par la loi constitutionnelle n° 2020-348 du 19 mars 2020",
+       "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+      },
+      {
+       "t": "Loidici – Constitution ivoirienne, Titre XIII, chapitre 2 : De l'organisation et du fonctionnement des collectivités territoriales (art. 172 à 174)",
+       "u": "https://loidici.biz/?p=29"
+      },
+      {
+       "t": "FAOLEX – Loi n° 2014-451 du 5 août 2014 portant orientation de l'organisation générale de l'Administration territoriale",
+       "u": "https://faolex.fao.org/docs/pdf/ivc146379.pdf"
+      },
+      {
+       "t": "Sénat de Côte d'Ivoire – Rapport de synthèse et recommandations du Symposium international sur les collectivités territoriales (Yamoussoukro, mars 2026)",
+       "u": "https://www.senat.ci/upload/docs_site/1775208284_Rapport-de-synthese-et-Recommandations-Symposium2026.pdf"
+      },
+      {
+       "t": "FAOLEX – Décret n° 2005-268 du 21 juillet 2005 (compétences des collectivités territoriales en matière d'environnement et de ressources naturelles)",
+       "u": "https://faolex.fao.org/docs/pdf/ivc146371.pdf"
+      },
+      {
+       "t": "Gouv.ci – Communiqué du Conseil des ministres du 9 juin 2021 (création de douze districts autonomes)",
+       "u": "https://www.gouv.ci/uploads/publications/1623265422Communique-du-Conseil-des-ministres-du-mercredi-09-juin-2021.pdf"
+      },
+      {
+       "t": "KOACI – Côte d'Ivoire : le décret portant création de douze districts autonomes abrogé (19 mars 2026)",
+       "u": "https://www.koaci.com/index.php/article/2026/03/19/cote-divoire/politique/cote-divoire-le-decret-portant-creation-de-douze-districts-autonomes-abroge_195183.html"
+      }
+     ]
+    },
+    {
+     "id": "L20261116sf07",
+     "niv": "sf07",
+     "m": "sfp",
+     "titre": "La déontologie et l'éthique : conflits d'intérêts, intégrité, lutte contre la corruption",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer les règles de déontologie du fonctionnaire dans leurs trois étages : la Constitution, le statut général et l'ordonnance n° 2013-660 du 20 septembre 2013.",
+      "= Vous saurez aussi traiter un cas de conflit d'intérêts, dire qui doit déclarer son patrimoine, à qui et dans quel délai, et qualifier les principales infractions de corruption.",
+      "## Ce que demande l'épreuve",
+      "Le niveau précédent a présenté les obligations du statut (articles 32 à 38 de la loi n° 2023-892). Ici, on élargit : l'épreuve de statut et de déontologie attend que vous reliiez ces obligations au dispositif anticorruption. En QCM, on vous demande l'autorité qui reçoit les déclarations de patrimoine, le délai pour déclarer, ou la différence entre corruption passive et concussion. En cas pratique, il faut qualifier un comportement, citer l'article et dire la conséquence : faute disciplinaire, infraction pénale, ou les deux.",
+      "! Piège habituel : croire qu'une faute déontologique n'est que disciplinaire. Le même fait (accepter un cadeau indu, par exemple) peut être une faute au regard du statut et une infraction pénale au regard de l'ordonnance n° 2013-660.",
+      "## La méthode, pas à pas",
+      "- 1. Décrivez les faits en une phrase neutre : qui, quel avantage, en lien avec quelle fonction.",
+      "- 2. Cherchez le conflit d'intérêts : l'intérêt privé de l'agent est-il en concurrence avec l'intérêt public ? Si oui, a-t-il fait la déclaration exigée à son supérieur ?",
+      "- 3. Qualifiez sur le plan statutaire : article 33 (prise d'intérêts), article 34 (dons), article 38 (faute disciplinaire).",
+      "- 4. Qualifiez sur le plan pénal : corruption passive ou active, trafic d'influence, concussion, détournement, enrichissement illicite.",
+      "- 5. Concluez en citant l'autorité compétente : supérieur hiérarchique, Haute Autorité pour la Bonne Gouvernance (HABG), juge.",
+      "~ Exemple : « Un agent des impôts de Bouaké refuse de traiter un dossier tant que le contribuable ne lui verse pas 50 000 F. » Étape 1 : il réclame un avantage en lien avec sa fonction. Étape 3 : manquement à l'article 34 du statut, donc faute disciplinaire (article 38). Étape 4 : il sollicite, sans droit, un avantage pour accomplir un acte de sa fonction : c'est la corruption passive (ordonnance n° 2013-660, article 28)."
+     ],
+     "fond": [
+      "## Notion 1 : déontologie et éthique, deux mots à ne pas confondre",
+      "Définition : la déontologie est l'ensemble des règles et des normes qui régissent une profession ou une fonction et la conduite de ceux qui l'exercent ; le mot signifie étymologiquement « science des devoirs ». Son manquement peut entraîner des poursuites disciplinaires. L'éthique, elle, relève de l'interrogation de la conscience de chacun et de sa capacité à délibérer et à choisir : elle guide l'agent là où la règle se tait.",
+      "Pourquoi les distinguer ? Le correcteur attend que vous sachiez qu'une conduite peut être légale sans être éthique, et que la déontologie transforme certaines exigences éthiques en obligations juridiques.",
+      "En Côte d'Ivoire, la base de cet édifice est constitutionnelle. L'article 45 de la Constitution dispose que toute personne qui exerce un mandat ou une fonction publique « a le devoir de l'accomplir avec compétence, conscience et loyauté. Il doit être intègre, impartial et neutre. » L'article 41 impose aux pouvoirs publics « de promouvoir, de respecter et de faire respecter la bonne gouvernance » et de réprimer la corruption et les infractions assimilées. L'article 44 ajoute : « Les biens publics sont inviolables. »",
+      "~ Exemple résolu : une cheffe de service recrute son neveu comme stagiaire, sans aucune règle écrite qui le lui interdise expressément dans son service. Étape 1 : le recrutement est peut-être possible juridiquement. Étape 2 : l'impartialité exigée par l'article 45 de la Constitution est mise en doute. Conclusion : la question éthique se pose même sans texte précis ; la bonne attitude est de se retirer de la décision.",
+      "## Notion 2 : le conflit d'intérêts, le prévenir par la déclaration",
+      "Définition : il y a conflit d'intérêts lorsque les intérêts privés d'un agent sont en concurrence avec l'intérêt public et sont susceptibles d'influencer l'exercice normal de ses fonctions.",
+      "Règle : l'article 13 de l'ordonnance n° 2013-660 oblige alors l'agent à en faire la déclaration à son supérieur hiérarchique. L'article 52 punit d'un emprisonnement d'un à cinq ans et d'une amende de 1 000 000 à 5 000 000 F l'agent qui, sachant que ses intérêts privés sont en concurrence avec l'intérêt public, ne fait pas cette déclaration.",
+      "Le statut général complète ce dispositif : le fonctionnaire ne peut prendre des intérêts, par lui-même ou par personne interposée, dans une entreprise soumise au contrôle de son Administration ou en relation avec elle (loi n° 2023-892, article 33).",
+      "Pourquoi déclarer plutôt qu'interdire ? Le conflit d'intérêts n'est pas encore une faute : c'est un risque. La déclaration permet au supérieur de prendre une mesure (retirer le dossier à l'agent, par exemple) avant que l'intérêt privé n'influence la décision. Ce qui est puni, c'est le silence.",
+      "? Mme Bamba, membre d'une commission d'évaluation des offres d'un marché public à Abengourou, découvre que l'entreprise de son frère a soumissionné. Que doit-elle faire, et que risque-t-elle si elle se tait ? || Son intérêt familial est en concurrence avec l'intérêt public et peut influencer son évaluation : c'est un conflit d'intérêts. L'article 13 de l'ordonnance n° 2013-660 l'oblige à le déclarer à son supérieur hiérarchique, qui pourra la remplacer dans la commission. Si elle se tait sciemment, elle encourt la peine de l'article 52 (un à cinq ans d'emprisonnement et 1 000 000 à 5 000 000 F d'amende).",
+      "! Piège : la déclaration ne se fait pas à la HABG mais au supérieur hiérarchique. La HABG reçoit, elle, les déclarations de patrimoine.",
+      "## Notion 3 : la déclaration de patrimoine, mesurer l'enrichissement",
+      "Règle : l'article 5 de l'ordonnance n° 2013-660, modifié en 2015 et en 2018, énumère les agents publics assujettis à l'obligation de déclaration de patrimoine : notamment le Président de la République, les présidents des institutions de la République, les membres du Gouvernement, les personnalités élues, et toute personne agissant pour le compte de l'État et utilisant, dans le cadre de ses fonctions, les moyens financiers de l'État. Les déclarations sont adressées à la Haute Autorité pour la Bonne Gouvernance (article 7 modifié).",
+      "Délais : la déclaration est faite dans les trente jours qui suivent la prise de fonction ou le début du mandat ; une nouvelle déclaration est due à la fin de la fonction, dans un délai qui ne peut excéder trente jours (article 8).",
+      "Sanction : l'agent qui refuse de déclarer son patrimoine ou fait une fausse déclaration est puni d'une amende égale à six mois de la rémunération perçue ou à percevoir (article 54).",
+      "Pourquoi deux déclarations ? En comparant le patrimoine à l'entrée et à la sortie, on voit si l'agent s'est enrichi plus que ses revenus légitimes ne le permettent. La Constitution applique la même logique au Président de la République, qui produit une déclaration authentique de son patrimoine devant la Cour des comptes à son entrée en fonction et à la fin de son mandat (article 60).",
+      "~ Exemple résolu : M. Kouassi est nommé régisseur d'avances dans un ministère le 2 mai ; il manie des fonds de l'État. Étape 1 : il agit pour le compte de l'État et utilise ses moyens financiers, il est donc assujetti (article 5). Étape 2 : il dépose sa déclaration auprès de la HABG (article 7). Étape 3 : il doit le faire dans les trente jours suivant sa prise de fonction (article 8), soit au plus tard le 1er juin.",
+      "## Notion 4 : les infractions de corruption, savoir les distinguer",
+      "L'ordonnance n° 2013-660 décrit plusieurs infractions voisines. Il faut savoir qui agit et dans quel sens circule l'avantage.",
+      "- Corruption passive (article 28) : l'agent public qui sollicite, agrée ou reçoit, sans droit, des offres, promesses, dons ou avantages pour accomplir ou s'abstenir d'accomplir un acte de sa fonction. Peine : cinq à dix ans d'emprisonnement et 5 000 000 à 10 000 000 F d'amende.",
+      "- Corruption active (article 29) : celui qui propose, sans droit, ces offres, dons ou avantages à l'agent ; mêmes peines. Le corrupteur et le corrompu sont donc punis de la même façon.",
+      "- Trafic d'influence (article 31) : l'agent sollicite, agrée ou reçoit des offres, dons ou présents pour faire obtenir des emplois, des marchés ou des décisions favorables de l'autorité publique, abusant ainsi de l'influence réelle ou supposée que lui donne sa qualité. Peine : un à cinq ans d'emprisonnement et 100 000 à 1 000 000 F d'amende.",
+      "- Concussion (article 36) : l'agent perçoit, exige ou ordonne de percevoir ce qu'il sait ne pas être dû. Ici, l'agent ne vend pas un acte : il fait payer une somme indue sous couvert de la loi.",
+      "- Détournement (article 33) : l'agent détourne, soustrait, détruit, dissipe ou retient sciemment et indûment tout bien, tous fonds ou valeurs publics ou privés qui lui ont été remis dans le cadre de ses fonctions.",
+      "- Enrichissement illicite (article 56) : l'agent ne peut raisonnablement justifier une augmentation substantielle de son patrimoine par rapport à ses revenus. La charge de la preuve est renversée : c'est à la personne poursuivie de prouver l'origine licite de son patrimoine.",
+      "! Piège : la concussion et la corruption passive se ressemblent. Dans la concussion, l'agent présente la somme comme due (une « taxe » inventée) ; dans la corruption, il monnaie un acte de sa fonction.",
+      "? Un agent d'état civil exige 5 000 F « de frais de timbre » pour délivrer un extrait d'acte de naissance, alors qu'aucun texte ne prévoit cette somme. Il la garde pour lui. Quelle infraction ? || La concussion (ordonnance n° 2013-660, article 36) : l'agent exige, en la présentant comme due, une somme qu'il sait ne pas être due. Ce n'est pas de la corruption passive, car il ne vend pas un acte contre un avantage reconnu comme tel : il prétend percevoir un droit légal. C'est aussi une faute disciplinaire au regard du statut (articles 34 et 38).",
+      "## Notion 5 : les cadeaux, l'alerte et le cadre international",
+      "Les cadeaux : l'article 57 de l'ordonnance n° 2013-660 punit l'agent public qui accepte d'un tiers un cadeau ou tout avantage indu, d'un à cinq ans d'emprisonnement et de 1 000 000 à 5 000 000 F d'amende ; le donateur encourt les mêmes peines. Le régime juridique des cadeaux est déterminé par décret pris en Conseil des ministres.",
+      "L'alerte : les dénonciateurs et les témoins bénéficient d'une protection spéciale de l'État contre les représailles ou l'intimidation (article 67). Quiconque recourt à la vengeance, à l'intimidation ou à la menace contre eux encourt un à cinq ans d'emprisonnement (article 68). Ils peuvent élire domicile au commissariat, à la brigade de gendarmerie ou à la HABG (article 69). Mais aucune condamnation ne peut être prononcée sur le seul fondement d'une déclaration recueillie sous anonymat (article 72).",
+      "L'organe : la HABG, régie par l'ordonnance n° 2013-661 du 20 septembre 2013, est une autorité administrative indépendante dotée de la personnalité morale et de l'autonomie financière (article 2). Elle reçoit les déclarations de patrimoine, mène des investigations sur les pratiques de corruption, peut saisir le procureur de la République et sensibilise la population (article 4).",
+      "Le cadre international : la Côte d'Ivoire a ratifié la Convention des Nations unies contre la corruption, adoptée le 31 octobre 2003, et la Convention de l'Union africaine sur la prévention et la lutte contre la corruption, adoptée à Maputo le 11 juillet 2003. Elles engagent l'État à prévenir et à réprimer la corruption, ce que fait l'ordonnance de 2013.",
+      "? Un agent signale à la HABG que son chef de service perçoit des sommes indues ; le chef menace de le faire muter dans une localité isolée. Quels textes protègent l'agent ? || L'ordonnance n° 2013-660 : l'article 67 accorde aux dénonciateurs une protection spéciale de l'État contre les représailles et l'intimidation, et l'article 68 punit d'un à cinq ans d'emprisonnement quiconque recourt à la menace contre eux. L'agent peut aussi élire domicile à la HABG (article 69) pour ne pas exposer son adresse."
+     ],
+     "retenir": [
+      "Selon l'article 45 de la Constitution, l'agent public doit être intègre, impartial et neutre.",
+      "L'agent dont l'intérêt privé concurrence l'intérêt public doit le déclarer à son supérieur hiérarchique (ordonnance n° 2013-660, article 13).",
+      "Les déclarations de patrimoine sont adressées à la Haute Autorité pour la Bonne Gouvernance, dans les trente jours de la prise de fonction.",
+      "Refuser de déclarer son patrimoine ou mentir est puni d'une amende égale à six mois de rémunération (article 54).",
+      "Corruption passive et active sont punies des mêmes peines : cinq à dix ans d'emprisonnement (articles 28 et 29).",
+      "La concussion consiste à percevoir ou exiger, comme due, une somme que l'agent sait ne pas être due (article 36).",
+      "Les dénonciateurs et témoins de corruption bénéficient d'une protection spéciale de l'État contre les représailles (article 67).",
+      "La HABG est une autorité administrative indépendante créée par l'ordonnance n° 2013-661 du 20 septembre 2013."
+     ],
+     "exo": {
+      "tag": "niv-sf07",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "OQLF – Grand dictionnaire terminologique : déontologie",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8871067/deontologie"
+      },
+      {
+       "t": "Université Laval – Éthique en enseignement : glossaire (déontologie, éthique, morale)",
+       "u": "https://enseigner.ulaval.ca/system/files/public/pedagogie/amelioration-continue/ethique-glossaire.pdf"
+      },
+      {
+       "t": "WIPO Lex – Constitution de la Côte d'Ivoire du 8 novembre 2016 révisée par la loi constitutionnelle n° 2020-348 du 19 mars 2020",
+       "u": "https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/fr/ci/ci023fr_1.pdf"
+      },
+      {
+       "t": "Loidici – Statut général de la fonction publique (loi n° 2023-892), chapitre V : droits et obligations des fonctionnaires",
+       "u": "https://loidici.biz/2024/01/06/chapitre-v-droits-et-obligations-des-fonctionnaires-2023/lois-article-par-article/autres-professions/le-statut-de-la-fonction-publique/48665/naty/"
+      },
+      {
+       "t": "Ordonnance n° 2013-660 du 20 septembre 2013 relative à la prévention et à la lutte contre la corruption et les infractions assimilées (texte original, PDF)",
+       "u": "https://www.net1901.org/fichier/2778/ORDONNANCE N°2013-660 20 SEPTEMBRE 2013 (1).pdf"
+      },
+      {
+       "t": "Loidici – Ordonnance n° 2015-176 du 24 mars 2015 modifiant l'article 5 de l'ordonnance n° 2013-660",
+       "u": "https://loidici.biz/?p=57226"
+      },
+      {
+       "t": "Loidici – Ordonnance n° 2018-25 du 17 janvier 2018 modifiant l'ordonnance n° 2013-660 relative à la lutte contre la corruption",
+       "u": "https://loidici.biz/?p=72716"
+      },
+      {
+       "t": "Loidici – Ordonnance n° 2013-661 du 20 septembre 2013 : la Haute Autorité pour la Bonne Gouvernance",
+       "u": "https://loidici.biz/?p=72319"
+      },
+      {
+       "t": "Loidici – HABG, chapitre premier : dispositions générales (art. 2 et 3)",
+       "u": "https://loidici.biz/?p=72321"
+      },
+      {
+       "t": "Loidici – HABG, chapitre 2 : missions et attributions (art. 4 à 6)",
+       "u": "https://loidici.biz/2025/06/24/chapitre-2-missions-et-attributions/lois-article-par-article/plus-de-textes-de-lois/72324/naty/"
+      },
+      {
+       "t": "ONUDC – Convention des Nations unies contre la corruption : signatures et ratifications",
+       "u": "https://www.unodc.org/unodc/treaties/CAC/signatories.html"
+      },
+      {
+       "t": "Union africaine – Liste des pays ayant signé et ratifié la Convention sur la prévention et la lutte contre la corruption (état au 14/02/2023)",
+       "u": "https://au.int/sites/default/files/treaties/36382-sl-AFRICAN_UNION_CONVENTION_ON_PREVENTING_AND_COMBATING_CORRUPTION.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261116dv04",
+     "niv": "dv04",
+     "m": "dciv",
+     "titre": "Les biens : classer les choses, définir la propriété, protéger la possession",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez classer un bien (meuble ou immeuble, et à quel titre), énoncer la définition légale de la propriété et ses trois attributs, et distinguer la propriété de la possession.",
+      "= Vous saurez aussi appliquer les règles propres à la terre rurale ivoirienne : qui peut en être propriétaire et comment la propriété s'établit.",
+      "## Ce que demande l'épreuve",
+      "En droit civil, la question des biens revient sous deux formes. En QCM, on vous demande si un tracteur est un immeuble par destination, ce que signifie « en fait de meubles, la possession vaut titre », ou qui peut être propriétaire d'une terre rurale. En cas pratique, il faut qualifier le bien, puis en déduire la règle applicable : un meuble et un immeuble ne se transmettent pas, ne se prescrivent pas et ne se protègent pas de la même manière.",
+      "> Rappel de méthode : en Côte d'Ivoire, le droit des biens repose encore, pour l'essentiel, sur le Code civil hérité de la période coloniale, maintenu par continuité législative. L'article 183 de la Constitution dispose que « la législation actuellement en vigueur en Côte d'Ivoire reste applicable, sauf l'intervention de textes nouveaux ». Des lois ivoiriennes l'ont complété, notamment pour la terre rurale.",
+      "## La méthode, pas à pas",
+      "- 1. Qualifiez le bien : meuble ou immeuble (article 516). Si c'est un immeuble, à quel titre : nature, destination, objet (article 517) ?",
+      "- 2. Identifiez le droit en cause : propriété (droit sur la chose) ou simple possession (maîtrise de fait).",
+      "- 3. Appliquez la règle propre à la catégorie : article 2279 pour les meubles, prescription de 30 ans ou de 10 à 20 ans pour les immeubles.",
+      "- 4. Vérifiez s'il existe une règle spéciale ivoirienne : terre rurale (loi n° 98-750 du 23 décembre 1998 modifiée), Constitution (articles 11 et 12).",
+      "~ Exemple : « Un planteur d'Aboisso a placé une pompe d'irrigation sur sa plantation pour l'exploiter. » Étape 1 : la pompe peut se déplacer, c'est par nature un meuble. Étape 2 : mais elle a été placée par le propriétaire du fonds pour le service et l'exploitation de ce fonds. Conclusion : c'est un immeuble par destination (article 524), qui suit le sort de la plantation."
+     ],
+     "fond": [
+      "## Notion 1 : la grande division, meubles et immeubles",
+      "Règle : « Tous les biens sont meubles ou immeubles » (article 516 du Code civil). Il n'existe pas de troisième catégorie : tout bien entre dans l'une ou l'autre.",
+      "Les immeubles le sont « ou par leur nature, ou par leur destination, ou par l'objet auquel ils s'appliquent » (article 517). « Les fonds de terre et les bâtiments sont immeubles par leur nature » (article 518) : ils ne peuvent pas être déplacés.",
+      "Les meubles le sont par leur nature ou par la détermination de la loi (article 527). Sont meubles par nature « les corps qui peuvent se transporter d'un lieu à un autre », qu'ils se meuvent par eux-mêmes, comme les animaux, ou qu'ils soient déplacés par une force étrangère, comme les choses inanimées (article 528). Sont meubles par la détermination de la loi des droits, comme les créances de sommes d'argent ou les actions dans les sociétés (article 529).",
+      "Pourquoi cette division ? Historiquement, la terre représentait la richesse durable ; le droit l'a entourée de plus de formalités et de protections que les objets qui circulent. La distinction commande encore aujourd'hui la manière de vendre, de prouver et de prescrire.",
+      "~ Exemple résolu : classez un troupeau de bœufs en vente sur le marché de Ferkessédougou. Étape 1 : les bœufs se déplacent par eux-mêmes. Étape 2 : ils ne sont pas placés pour l'exploitation d'un fonds par son propriétaire. Conclusion : ce sont des meubles par nature (article 528).",
+      "? Une créance de 2 000 000 F qu'un commerçant détient contre un client est-elle un bien ? Si oui, de quelle catégorie ? || Oui. Une créance est un bien incorporel : elle n'a pas de corps, mais elle a une valeur. Elle ne peut être ni un immeuble par nature ni un meuble par nature, puisqu'elle ne se transporte pas physiquement. C'est la loi qui la classe : une obligation qui a pour objet une somme exigible est meuble par la détermination de la loi (article 529).",
+      "## Notion 2 : l'immeuble par destination, un meuble qui suit le fonds",
+      "Règle : « Les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds sont immeubles par destination » (article 524). Le texte cite notamment les animaux attachés à la culture, les ustensiles aratoires, les semences données aux fermiers, les ruches à miel et les poissons des étangs. Sont aussi immeubles par destination les effets mobiliers que le propriétaire a attachés au fonds « à perpétuelle demeure ».",
+      "Deux conditions sont donc nécessaires : le même propriétaire pour le fonds et pour l'objet, et une affectation au service ou à l'exploitation du fonds.",
+      "Pourquoi cette fiction ? Elle évite de démembrer une exploitation. Si l'on vend ou saisit la plantation, les outils qui la font vivre la suivent : une plantation vendue sans ses outils de culture perdrait une grande partie de sa valeur.",
+      "! Piège : l'objet placé par un locataire ou un fermier n'est pas immeuble par destination, car il n'est pas placé par le propriétaire du fonds. La première condition manque.",
+      "? Un locataire d'un terrain à Tiassalé y installe son propre groupe électrogène pour irriguer. Le groupe est-il immeuble par destination ? || Non. L'article 524 exige que l'objet ait été placé par le propriétaire du fonds. Ici, c'est le locataire qui l'a placé : le groupe électrogène reste un meuble par nature, qu'il pourra emporter à la fin du bail.",
+      "## Notion 3 : la propriété, le droit le plus complet sur une chose",
+      "Règle : « La propriété est le droit de jouir et disposer des choses de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage prohibé par les lois ou par les règlements » (article 544).",
+      "La doctrine décompose ce droit en trois attributs : l'usus, pouvoir d'utiliser la chose ; le fructus, droit d'en percevoir les fruits ; l'abusus, pouvoir d'en disposer, juridiquement (la vendre, la donner) ou matériellement (la transformer, la détruire). Elle lui reconnaît aussi trois caractères : il est absolu (le propriétaire utilise son bien comme il veut, dans les limites des lois), exclusif (un bien n'appartient en principe qu'à une seule personne) et perpétuel (il dure autant que le bien, même si le propriétaire ne l'utilise pas).",
+      "La propriété s'étend : elle donne droit à tout ce que la chose produit et à ce qui s'y unit accessoirement ; c'est le droit d'accession (article 546). « La propriété du sol emporte la propriété du dessus et du dessous » (article 552), sauf les lois sur les mines et les règlements de police.",
+      "Pourquoi le « pourvu que » ? Le droit absolu n'est pas un droit sans limite. L'article 544 réserve dès l'origine les interdictions légales : urbanisme, environnement, voisinage.",
+      "La propriété est aussi protégée par la Constitution : « Le droit de propriété est garanti à tous. Nul ne doit être privé de sa propriété si ce n'est pour cause d'utilité publique et sous la condition d'une juste et préalable indemnisation » (article 11). Le Code civil posait déjà la même règle (article 545).",
+      "~ Exemple résolu : M. Koffi loue sa maison de Daloa et perçoit les loyers ; plus tard, il la vend. Étape 1 : percevoir les loyers, ce sont des fruits civils : il exerce le fructus. Étape 2 : vendre, c'est disposer juridiquement : il exerce l'abusus. Conclusion : en louant, il a cédé l'usage au locataire mais conservé le fructus et l'abusus.",
+      "## Notion 4 : la possession, un fait que le droit protège",
+      "Définition : « La possession est la détention ou la jouissance d'une chose ou d'un droit que nous tenons ou que nous exerçons par nous-mêmes, ou par un autre qui la tient ou qui l'exerce en notre nom » (article 2228). Le possesseur se comporte en propriétaire, qu'il le soit ou non.",
+      "Pour produire ses effets, la possession doit être « continue et non interrompue, paisible, publique, non équivoque, et à titre de propriétaire » (article 2229). Une possession utile permet alors d'acquérir la propriété d'un immeuble par prescription : en principe trente ans (article 2262), ou dix à vingt ans pour celui qui acquiert de bonne foi et par juste titre (article 2265).",
+      "Pour les meubles, la règle est plus rapide : « En fait de meubles, la possession vaut titre » (article 2279). Le possesseur de bonne foi d'un meuble est traité comme son propriétaire. Toutefois, celui qui a perdu une chose ou à qui elle a été volée peut la revendiquer pendant trois ans à compter de la perte ou du vol.",
+      "Pourquoi protéger un simple fait ? Les meubles circulent sans écrit : on ne demande pas un acte notarié pour acheter une moto. Exiger de chaque acheteur qu'il prouve toute la chaîne des propriétaires paralyserait le commerce. La possession sert donc de preuve et protège l'acquéreur de bonne foi.",
+      "! Piège : le voleur ou celui qui trouve la chose n'est pas protégé contre le propriétaire pendant le délai de trois ans. L'article 2279 vise d'abord la sécurité de l'acquéreur, non l'impunité de celui qui s'empare de la chose.",
+      "? Mlle Aka achète de bonne foi, sur un marché d'Abidjan, un téléphone volé six mois plus tôt à M. Traoré. M. Traoré peut-il le récupérer ? || Oui. En principe, la possession de bonne foi vaut titre (article 2279, alinéa 1). Mais la chose a été volée et le vol date de moins de trois ans : le propriétaire peut la revendiquer contre celle qui la détient. Mlle Aka conserve un recours contre celui qui la lui a vendue.",
+      "## Notion 5 : la terre rurale, une propriété encadrée",
+      "Règle : le domaine foncier rural est constitué par l'ensemble des terres mises en valeur ou non. Il « constitue un patrimoine national auquel toute personne physique ou morale peut accéder. Toutefois, seuls l'Etat, les collectivités publiques et les personnes physiques ivoiriennes sont admis à en être propriétaires » (loi n° 98-750 du 23 décembre 1998, article 1er). L'article 12 de la Constitution reprend la même règle et garantit les droits acquis.",
+      "Comment la propriété s'établit-elle ? Depuis la loi n° 2019-868 du 14 octobre 2019, « la propriété d'une terre du domaine foncier rural est établie à partir de l'immatriculation » au registre foncier ; dans le domaine coutumier, les droits coutumiers sont constatés par le certificat foncier (article 4 nouveau). « Les terres qui n'ont pas de maître appartiennent à l'Etat » (article 6). Les terres coutumières dépourvues de certificat foncier ne peuvent faire l'objet de cession (article 17 bis).",
+      "Pourquoi ce régime spécial ? La terre rurale est un enjeu de souveraineté, d'alimentation et de paix sociale. Le législateur a voulu sécuriser les droits coutumiers en les faisant constater, tout en réservant la propriété aux nationaux personnes physiques et aux personnes publiques.",
+      "! Piège : « accéder » au domaine foncier rural n'est pas « en être propriétaire ». Une société, ivoirienne ou étrangère, peut accéder au domaine foncier rural, mais elle n'est pas admise à en devenir propriétaire (article 1er)."
+     ],
+     "retenir": [
+      "Tous les biens sont meubles ou immeubles (article 516 du Code civil).",
+      "Les immeubles le sont par nature, par destination ou par l'objet auquel ils s'appliquent (article 517).",
+      "L'immeuble par destination est un meuble placé par le propriétaire du fonds pour le service et l'exploitation de ce fonds (article 524).",
+      "La propriété est le droit de jouir et disposer des choses de la manière la plus absolue, dans les limites des lois (article 544).",
+      "Les trois attributs de la propriété sont l'usus (user), le fructus (percevoir les fruits) et l'abusus (disposer).",
+      "En fait de meubles, la possession vaut titre ; la chose perdue ou volée se revendique pendant trois ans (article 2279).",
+      "La possession utile doit être continue, paisible, publique, non équivoque et à titre de propriétaire (article 2229).",
+      "Seuls l'État, les collectivités publiques et les personnes physiques ivoiriennes peuvent être propriétaires de terres rurales (loi n° 98-750, article 1er)."
+     ],
+     "exo": {
+      "tag": "niv-dv04",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Afrilex – X. Sigui Seu, « Le lot de copropriété à l'épreuve du droit ivoirien des biens » (juin 2026)",
+       "u": "https://afrilex.u-bordeaux.fr/wp-content/uploads/2026/06/Afrilex-Dr-SIGUI-Le-lot-de-copropriete-a-lepreuve-du-droit-Ivoirien-des-biens.pdf"
+      },
+      {
+       "t": "Policinglaw.info – Constitution de la Côte d'Ivoire 2016 (texte original en français)",
+       "u": "https://www.policinglaw.info/assets/downloads/2016_Constitution_of_the_Ivory_Coast_(French_original).pdf"
+      },
+      {
+       "t": "Landwise – Constitution de la République de Côte d'Ivoire, loi n° 2016-886 du 8 novembre 2016",
+       "u": "https://landwise-production.s3.us-west-2.amazonaws.com/2022/05/CONSTITUTION-de-cote-divoire_2016.pdf"
+      },
+      {
+       "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre I : De la distinction des biens (art. 516 à 543)",
+       "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/i/1804-03-31/"
+      },
+      {
+       "t": "Criminocorpus (CNRS) – Code civil de 1804, livre II, titre II : De la propriété (art. 544 à 577)",
+       "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/ii/ii/1804-03-31/"
+      },
+      {
+       "t": "Criminocorpus (CNRS) – Code civil de 1804, titre XX, chapitre II : De la possession (art. 2228 et suivants)",
+       "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/iii/xx/ii/1804-03-31/"
+      },
+      {
+       "t": "Criminocorpus (CNRS) – Code civil de 1804, titre XX, chapitre V : Du temps requis pour prescrire (art. 2262 et suivants)",
+       "u": "https://criminocorpus.org/en/landmarks/le-code-civil/civil/iii/xx/v/1804-03-31/"
+      },
+      {
+       "t": "Légifrance – Code civil, article 2265 (version en vigueur du 21 mars 1804 au 19 juin 2008)",
+       "u": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006447733/1998-06-16"
+      },
+      {
+       "t": "Loidici – Loi n° 98-750 relative au domaine foncier rural, chapitre premier : définition et composition du domaine foncier rural",
+       "u": "https://loidici.biz/2018/09/12/chapitre-premier-definition-et-composition-du-domaine-foncier-rural/"
+      },
+      {
+       "t": "FAOLEX – Loi n° 2019-868 du 14 octobre 2019 modifiant la loi n° 98-750 du 23 décembre 1998 relative au domaine foncier rural",
+       "u": "https://faolex.fao.org/docs/pdf/ivc195709.pdf"
+      },
+      {
+       "t": "Loidici – Loi n° 2013-655 du 13 septembre 2013 relative au délai accordé pour la constatation des droits coutumiers",
+       "u": "https://loidici.biz/?p=12217"
+      },
+      {
+       "t": "Nomad Education – La propriété (Licence de droit, 1re année)",
+       "u": "https://www.nomadeducation.fr/revisions/licence-droit-1re-annee-lb563232/la-propriete-cy91b006"
+      },
+      {
+       "t": "Gdroit – Attributs du droit de propriété : le droit d'user de la chose (usus)",
+       "u": "https://gdroit.fr/droit-commercial/attributs-du-droit-de-propriete-le-droit-duser-de-la-chose-lusus/"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "da",
+     "src": "original",
+     "ref": "Entraînement · 16 nov. 2026",
+     "t": "« La déconcentration est la meilleure alliée de la décentralisation. » Discutez cette affirmation à la lumière de la Constitution du 8 novembre 2016 et de la loi n° 2014-451 du 5 août 2014.",
+     "plan": [
+      "Introduction : définir les deux notions (modalité de la centralisation / transfert à des personnes morales distinctes) ; problématique : la présence de l'État sur le territoire sert-elle ou freine-t-elle l'autonomie locale ?",
+      "I. Une alliance voulue par les textes : A. le préfet, représentant de l'État, garant de la légalité et de l'intérêt national dans les collectivités (article 172) ; B. un maillage commun du territoire (loi n° 2014-451, articles 2 et 32).",
+      "II. Une alliance sous tension : A. le risque d'une tutelle qui se transforme en pouvoir hiérarchique de fait ; B. des transferts de compétences qui ne valent que s'ils s'accompagnent de ressources équivalentes (articles 173 et 174).",
+      "Conclusion : complémentaires en droit, les deux modes ne s'équilibrent que si la tutelle reste un contrôle limité et si les moyens suivent les compétences."
+     ]
+    },
+    {
+     "e": "sfp",
+     "src": "original",
+     "ref": "Entraînement · 16 nov. 2026",
+     "t": "« Déclarer plutôt qu'interdire. » Appréciez cette logique de prévention des conflits d'intérêts et de l'enrichissement des agents publics en Côte d'Ivoire.",
+     "plan": [
+      "Introduction : définir le conflit d'intérêts (ordonnance n° 2013-660, article 13) et la déclaration de patrimoine (articles 5 à 8) ; problématique : la transparence suffit-elle à garantir l'intégrité exigée par l'article 45 de la Constitution ?",
+      "I. Une logique de prévention cohérente : A. déclarer le conflit au supérieur pour permettre une mesure avant la décision (articles 13 et 52) ; B. déclarer le patrimoine à l'entrée et à la sortie pour mesurer l'enrichissement (articles 7, 8 et 54).",
+      "II. Une logique qui appelle des relais : A. des interdictions qui demeurent nécessaires (statut, articles 33 et 34 ; infractions des articles 28 à 57) ; B. un contrôle effectif par la HABG et la protection des dénonciateurs (articles 67 à 72).",
+      "Conclusion : la déclaration est la première ligne de défense ; elle ne vaut que si elle est contrôlée et si la sanction suit."
+     ]
+    }
+   ]
   }
  ]
 }
