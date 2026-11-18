@@ -26083,6 +26083,1881 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-18",
+   "questions": [
+    {
+     "id": "n20261118-pe06-01",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Selon l'article 8 de ses statuts, quel est l'objectif prioritaire de la politique monétaire de la BCEAO ?",
+     "o": [
+      "Assurer le plein emploi dans l'Union",
+      "Assurer la stabilité des prix",
+      "Financer directement les déficits budgétaires des États",
+      "Fixer chaque jour le cours du franc CFA face au dollar"
+     ],
+     "a": 1,
+     "e": "La BCEAO indique que, conformément à l'article 8 de ses statuts, l'objectif prioritaire de sa politique monétaire est d'assurer la stabilité des prix.",
+     "ed": [
+      "L'emploi n'est pas l'objectif prioritaire : la BCEAO soutient la croissance seulement « sans préjudice » de la stabilité des prix.",
+      null,
+      "Financer les déficits relève des États et du marché, pas de l'objectif statutaire de la banque centrale.",
+      "La parité du franc CFA est fixe vis-à-vis de l'euro ; elle n'est pas fixée chaque jour face au dollar."
+     ],
+     "src": {
+      "t": "BCEAO, Objectifs de la politique monétaire",
+      "u": "https://www.bceao.int/fr/content/objectifs-de-la-politique-monetaire"
+     }
+    },
+    {
+     "id": "n20261118-pe06-02",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Dans quelle ville se trouve le siège de la BCEAO ?",
+     "o": [
+      "Abidjan",
+      "Lomé",
+      "Dakar",
+      "Ouagadougou"
+     ],
+     "a": 2,
+     "e": "Le siège de la Banque Centrale des États de l'Afrique de l'Ouest est fixé à Dakar, au Sénégal, comme l'indique la BCEAO.",
+     "ed": [
+      "Abidjan n'est pas le siège de la BCEAO, fixé à Dakar.",
+      "Lomé n'est pas le siège de la BCEAO.",
+      null,
+      "Ouagadougou n'est pas le siège de la BCEAO, fixé à Dakar."
+     ],
+     "src": {
+      "t": "BCEAO, Histoire du franc CFA",
+      "u": "https://www.bceao.int/fr/content/histoire-du-franc-cfa"
+     }
+    },
+    {
+     "id": "n20261118-pe06-03",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Depuis le 1er janvier 1999, combien de francs CFA vaut 1 euro ?",
+     "o": [
+      "656 FCFA",
+      "100 FCFA",
+      "500 FCFA",
+      "655,957 FCFA"
+     ],
+     "a": 3,
+     "e": "Depuis l'arrimage du franc CFA à l'euro le 1er janvier 1999, la parité fixe est de 655,957 FCFA pour 1 euro (BCEAO).",
+     "ed": [
+      "656 est un arrondi : la parité officielle est exactement 655,957.",
+      "100 FCFA correspondaient à 1 franc français après la dévaluation de 1994, pas à 1 euro.",
+      "500 FCFA ne correspond à aucune parité officielle avec l'euro.",
+      null
+     ],
+     "src": {
+      "t": "BCEAO, Histoire du franc CFA",
+      "u": "https://www.bceao.int/fr/content/histoire-du-franc-cfa"
+     }
+    },
+    {
+     "id": "n20261118-pe06-04",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Qu'appelle-t-on monnaie scripturale ?",
+     "o": [
+      "Les écritures sur les comptes bancaires",
+      "Les pièces émises par le Trésor",
+      "Les billets émis par la banque centrale",
+      "L'or détenu par la banque centrale"
+     ],
+     "a": 0,
+     "e": "La Banque de France définit la monnaie scripturale comme les écritures sur les comptes bancaires ; billets et pièces forment la monnaie fiduciaire.",
+     "ed": [
+      null,
+      "Les pièces relèvent de la monnaie fiduciaire, pas de la monnaie scripturale.",
+      "Les billets sont de la monnaie fiduciaire.",
+      "L'or est un actif de réserve ; ce n'est pas une écriture sur un compte bancaire."
+     ],
+     "src": {
+      "t": "Banque de France, ABC de l'économie : Comment est créée la monnaie ?",
+      "u": "https://banque-france.fr/fr/publications-et-statistiques/publications/comment-est-creee-la-monnaie"
+     }
+    },
+    {
+     "id": "n20261118-pe06-05",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Quel organe fixe les taux directeurs de la BCEAO ?",
+     "o": [
+      "Le ministère ivoirien de l'Économie",
+      "Le Comité de Politique Monétaire",
+      "L'Assemblée nationale de chaque État",
+      "La Commission de l'UEMOA"
+     ],
+     "a": 1,
+     "e": "La BCEAO précise que ses deux principaux taux directeurs sont fixés par le Comité de Politique Monétaire (CPM), qui définit la politique monétaire de l'Union.",
+     "ed": [
+      "Un ministère national ne fixe pas les taux d'une banque centrale commune à plusieurs États.",
+      null,
+      "Les parlements votent les lois de finances, pas les taux directeurs.",
+      "La Commission de l'UEMOA n'est pas l'organe de décision de la politique monétaire."
+     ],
+     "src": {
+      "t": "BCEAO, Instruments de mise en œuvre de la politique monétaire",
+      "u": "https://www.bceao.int/fr/content/instruments-de-mise-en-oeuvre-de-la-politique-monetaire"
+     }
+    },
+    {
+     "id": "n20261118-pe06-06",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "De quand date la naissance du franc CFA ?",
+     "o": [
+      "1er janvier 1960",
+      "12 mai 1962",
+      "26 décembre 1945",
+      "12 janvier 1994"
+     ],
+     "a": 2,
+     "e": "Selon la BCEAO, le franc CFA est né le 26 décembre 1945, jour de la ratification des accords de Bretton Woods par la France.",
+     "ed": [
+      "Le 1er janvier 1960 est la date du nouveau franc français, qui a modifié la parité, pas la naissance du franc CFA.",
+      "Le 12 mai 1962 est la date du traité instituant l'UMOA.",
+      null,
+      "Le 12 janvier 1994 est la date de la dévaluation du franc CFA."
+     ],
+     "src": {
+      "t": "BCEAO, Histoire du franc CFA",
+      "u": "https://www.bceao.int/fr/content/histoire-du-franc-cfa"
+     }
+    },
+    {
+     "id": "n20261118-pe06-07",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Un parent envoie 300 euros à un étudiant à Yamoussoukro. À la parité fixe, combien reçoit-il en francs CFA ?",
+     "o": [
+      "19 678,71 FCFA",
+      "1 967 871 FCFA",
+      "180 000 FCFA",
+      "196 787,1 FCFA"
+     ],
+     "a": 3,
+     "e": "On multiplie par la parité fixe : 300 × 655,957 = 196 787,1 FCFA. Vérification : 300 × 656 ≈ 196 800, ordre de grandeur cohérent.",
+     "ed": [
+      "Ce résultat est dix fois trop petit : la virgule a été mal placée.",
+      "Ce résultat est dix fois trop grand.",
+      "180 000 correspond à une parité de 600, qui n'est pas la parité officielle.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "300*655.957"
+    },
+    {
+     "id": "n20261118-pe06-08",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Une banque a une assiette de réserves de 250 milliards de FCFA et le coefficient des réserves obligatoires est de 3 %. Quel montant doit-elle constituer ?",
+     "o": [
+      "7,5 milliards de FCFA",
+      "75 milliards de FCFA",
+      "0,75 milliard de FCFA",
+      "3 milliards de FCFA"
+     ],
+     "a": 0,
+     "e": "On applique le coefficient à l'assiette : 250 × 3 / 100 = 7,5 milliards de FCFA de réserves obligatoires.",
+     "ed": [
+      null,
+      "75 milliards correspondrait à un coefficient de 30 %.",
+      "0,75 milliard correspondrait à un coefficient de 0,3 %.",
+      "3 milliards confond le coefficient (3 %) avec le montant."
+     ],
+     "verif": "calcul",
+     "calc": "250*3/100"
+    },
+    {
+     "id": "n20261118-pe06-09",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Une banque prête à 8 % quand l'inflation est de 2,5 %. Quel est, approximativement, le taux d'intérêt réel ?",
+     "o": [
+      "10,5 %",
+      "5,5 %",
+      "8 %",
+      "3,2 %"
+     ],
+     "a": 1,
+     "e": "Le taux réel s'obtient approximativement en retirant l'inflation du taux nominal : 8 − 2,5 = 5,5 %. C'est le coût de l'emprunt une fois la hausse des prix déduite.",
+     "ed": [
+      "10,5 % additionne l'inflation au lieu de la retrancher.",
+      null,
+      "8 % est le taux nominal, avant prise en compte de l'inflation.",
+      "3,2 % résulte d'une division (8 / 2,5) sans signification économique."
+     ],
+     "verif": "calcul",
+     "calc": "8-2.5"
+    },
+    {
+     "id": "n20261118-pe06-10",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "L'inflation en glissement annuel de l'Union atteint 3,8 %. Que peut-on dire au regard de l'objectif opérationnel de la BCEAO ?",
+     "o": [
+      "Elle est au centre de la cible",
+      "Elle est dans la fourchette de 1 % à 3 %",
+      "Elle dépasse la borne haute de 3 %",
+      "Elle est sous la borne basse de 1 %"
+     ],
+     "a": 2,
+     "e": "La BCEAO vise 2 % d'inflation avec une marge de 1 % à 3 % sur 24 mois ; 3,8 % est au-dessus de la borne haute de 3 %.",
+     "ed": [
+      "Le centre de la cible est 2 %, pas 3,8 %.",
+      "3,8 % est supérieur à 3 %, donc hors de la fourchette.",
+      null,
+      "3,8 % est très au-dessus de 1 %."
+     ],
+     "src": {
+      "t": "COFEB (BCEAO), note n° 6 de novembre 2023 sur l'objectif de stabilité des prix",
+      "u": "https://cofeb.bceao.int/sites/default/files/2024-12/Net-No6-Novembre-2023-Objectif-de-stabilite-des-prix-V1.pdf"
+     }
+    },
+    {
+     "id": "n20261118-pe06-11",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Une banque accorde un crédit de 12 millions de FCFA à une entreprise de transformation d'anacarde de Korhogo en créditant son compte. Quel est l'effet immédiat sur la masse monétaire ?",
+     "o": [
+      "Elle diminue de 12 millions de FCFA",
+      "Elle ne change pas, la banque ne fait que prêter des dépôts existants",
+      "Elle augmente de 24 millions de FCFA",
+      "Elle augmente de 12 millions de FCFA"
+     ],
+     "a": 3,
+     "e": "Le crédit est inscrit sur le compte de l'emprunteur : de la monnaie est ainsi créée, ce que résume la formule « les crédits font les dépôts » (Banque de France).",
+     "ed": [
+      "Un crédit crée de la monnaie ; c'est le remboursement qui en réduit le montant, pas l'octroi.",
+      "C'est l'erreur classique : le crédit crée le dépôt, la banque ne se borne pas à reprêter les dépôts.",
+      "Le montant créé est égal au crédit, soit 12 millions, pas le double.",
+      null
+     ],
+     "src": {
+      "t": "Banque de France, ABC de l'économie : Comment est créée la monnaie ?",
+      "u": "https://banque-france.fr/fr/publications-et-statistiques/publications/comment-est-creee-la-monnaie"
+     }
+    },
+    {
+     "id": "n20261118-pe06-12",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Le Comité de Politique Monétaire baisse ses taux directeurs. Quel enchaînement est attendu ?",
+     "o": [
+      "Les banques se refinancent moins cher, les taux des crédits tendent à baisser et le crédit est soutenu",
+      "Les banques se refinancent plus cher et le crédit recule",
+      "La parité du franc CFA avec l'euro est modifiée",
+      "Les impôts baissent automatiquement dans chaque État"
+     ],
+     "a": 0,
+     "e": "En baissant ses taux directeurs, la banque centrale influence à la baisse les taux auxquels les banques prêtent aux entreprises et aux ménages, ce qui encourage la demande de crédit (Banque de France).",
+     "ed": [
+      null,
+      "C'est l'effet d'une hausse des taux, pas d'une baisse.",
+      "La parité fixe avec l'euro ne dépend pas des taux directeurs.",
+      "La fiscalité relève des lois de finances des États, pas de la banque centrale."
+     ],
+     "src": {
+      "t": "Banque de France, ABC de l'économie : Comment est créée la monnaie ?",
+      "u": "https://banque-france.fr/fr/publications-et-statistiques/publications/comment-est-creee-la-monnaie"
+     }
+    },
+    {
+     "id": "n20261118-pe06-13",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Quel est l'effet d'une hausse du coefficient des réserves obligatoires ?",
+     "o": [
+      "Elle augmente la capacité de crédit des banques",
+      "Elle réduit la capacité de distribution de crédit des banques",
+      "Elle n'a aucun effet sur le crédit",
+      "Elle dévalue le franc CFA"
+     ],
+     "a": 1,
+     "e": "La BCEAO indique que les réserves obligatoires lui permettent de réduire ou de développer la capacité de distribution de crédit ; une hausse du coefficient immobilise plus de ressources et la réduit.",
+     "ed": [
+      "C'est une baisse du coefficient qui libère des ressources pour le crédit.",
+      null,
+      "Le dispositif existe précisément pour agir sur la capacité de crédit.",
+      "Le coefficient des réserves n'a aucun lien avec la parité du franc CFA."
+     ],
+     "src": {
+      "t": "BCEAO, Instruments de mise en œuvre de la politique monétaire",
+      "u": "https://www.bceao.int/fr/content/instruments-de-mise-en-oeuvre-de-la-politique-monetaire"
+     }
+    },
+    {
+     "id": "n20261118-pe06-14",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Le 12 janvier 1994, la valeur du franc CFA passe de 0,02 à 0,01 franc français. De combien a-t-elle varié ?",
+     "o": [
+      "Une baisse de 100 %",
+      "Une hausse de 50 %",
+      "Une baisse de 50 %",
+      "Une baisse de 25 %"
+     ],
+     "a": 2,
+     "e": "Variation = (0,02 − 0,01) / 0,02 × 100 = 50 % : la valeur du franc CFA a été divisée par deux lors de la dévaluation du 12 janvier 1994.",
+     "ed": [
+      "Une baisse de 100 % signifierait une valeur nulle.",
+      "Une dévaluation est une baisse de valeur, pas une hausse.",
+      null,
+      "Une baisse de 25 % aurait donné 0,015 franc français."
+     ],
+     "verif": "calcul",
+     "calc": "(0.02-0.01)/0.02*100"
+    },
+    {
+     "id": "n20261118-pe06-15",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Parmi ces mesures, laquelle NE fait PAS partie de la réforme du franc CFA annoncée le 21 décembre 2019 ?",
+     "o": [
+      "Le changement de nom de la monnaie en « Eco »",
+      "La fin de la centralisation des réserves de change de la BCEAO au Trésor français",
+      "Le retrait de la France des instances de gouvernance",
+      "La fin de la parité fixe avec l'euro"
+     ],
+     "a": 3,
+     "e": "Selon la Direction générale du Trésor, l'accord acte trois changements (nom Eco, fin de la centralisation des réserves, retrait français des instances) et maintient la parité fixe avec l'euro.",
+     "ed": [
+      "Le nom « Eco » fait bien partie des trois changements annoncés.",
+      "La fin de la centralisation des réserves au Trésor français fait partie de la réforme.",
+      "Le retrait de la France des instances fait partie de la réforme.",
+      null
+     ],
+     "src": {
+      "t": "Direction générale du Trésor (France), Réforme des relations de coopération monétaire entre l'UEMOA et la France",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2019/12/23/reforme-des-relations-de-cooperation-monetaire-entre-l-union-economique-et-monetaire-ouest-africaine-uemoa-et-la-france"
+     }
+    },
+    {
+     "id": "n20261118-pe06-16",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Après la réforme de 2019, quel rôle conserve la France dans la coopération monétaire avec l'UEMOA ?",
+     "o": [
+      "Celui de garant financier",
+      "Aucun rôle",
+      "Celui de membre votant du Comité de Politique Monétaire",
+      "Celui d'émetteur des billets en francs CFA"
+     ],
+     "a": 0,
+     "e": "La Direction générale du Trésor indique que la parité fixe est maintenue et que le rôle de la France est transformé en celui de garant financier.",
+     "ed": [
+      null,
+      "La France garde un rôle : celui de garant financier.",
+      "La réforme prévoit justement le retrait de la France des instances de gouvernance.",
+      "Les billets sont émis par la BCEAO, pas par la France."
+     ],
+     "src": {
+      "t": "Direction générale du Trésor (France), Réforme des relations de coopération monétaire entre l'UEMOA et la France",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2019/12/23/reforme-des-relations-de-cooperation-monetaire-entre-l-union-economique-et-monetaire-ouest-africaine-uemoa-et-la-france"
+     }
+    },
+    {
+     "id": "n20261118-pe06-17",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Un journaliste écrit : « La BCEAO a fixé à 3 % le taux des prêts immobiliers aux ménages. » Quelle est l'erreur ?",
+     "o": [
+      "Il n'y a aucune erreur",
+      "3 % est le taux auquel la BCEAO prête aux banques, pas le taux des prêts aux ménages",
+      "Le taux directeur est fixé par chaque État membre",
+      "3 % est le taux de rémunération des réserves de change"
+     ],
+     "a": 1,
+     "e": "Le communiqué du CPM du 9 septembre 2026 présente 3 % comme le principal taux directeur auquel la Banque Centrale prête ses ressources aux banques ; les taux des prêts aux ménages sont fixés par les banques.",
+     "ed": [
+      "La phrase confond le taux directeur et les taux pratiqués par les banques envers leurs clients.",
+      null,
+      "Le taux directeur est fixé par le CPM pour toute l'Union.",
+      "3 % est le principal taux directeur, sans rapport avec la rémunération des réserves de change."
+     ],
+     "src": {
+      "t": "BCEAO, communiqué de presse de la réunion ordinaire du Comité de Politique Monétaire du 9 septembre 2026",
+      "u": "https://www.bceao.int/fr/communique-presse/communique-de-presse-de-la-reunion-ordinaire-du-comite-de-politique-monetaire-19"
+     }
+    },
+    {
+     "id": "n20261118-pe06-18",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Un commerçant retire 500 000 FCFA en billets à un guichet automatique. Que devient la masse monétaire ?",
+     "o": [
+      "Elle diminue de 500 000 FCFA",
+      "Elle augmente de 500 000 FCFA",
+      "Elle reste inchangée : seule la forme de la monnaie change",
+      "Elle double"
+     ],
+     "a": 2,
+     "e": "Le retrait convertit de la monnaie scripturale (écriture sur le compte) en monnaie fiduciaire (billets) : le total de monnaie détenue ne change pas, seule sa forme change.",
+     "ed": [
+      "La monnaie n'est pas détruite : elle passe du compte au portefeuille.",
+      "Aucune monnaie nouvelle n'est créée : il n'y a pas de crédit.",
+      null,
+      "Rien ne justifie un doublement : la somme change seulement de forme."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261118-pe06-19",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Laquelle de ces décisions relève de la politique monétaire ?",
+     "o": [
+      "La hausse du budget d'investissement de l'État ivoirien",
+      "La création d'une taxe sur les boissons sucrées",
+      "Le recrutement d'enseignants contractuels",
+      "Le maintien du principal taux directeur par le Comité de Politique Monétaire"
+     ],
+     "a": 3,
+     "e": "La politique monétaire est conduite par la BCEAO ; le 9 septembre 2026, son CPM a décidé de maintenir le principal taux directeur à 3 %. Les autres décisions relèvent de la politique budgétaire des États.",
+     "ed": [
+      "Le budget d'investissement relève de la loi de finances, donc de la politique budgétaire.",
+      "Créer une taxe est une décision fiscale, donc budgétaire.",
+      "Recruter des agents publics relève du budget de l'État, pas de la politique monétaire.",
+      null
+     ],
+     "src": {
+      "t": "BCEAO, communiqué de presse de la réunion ordinaire du Comité de Politique Monétaire du 9 septembre 2026",
+      "u": "https://www.bceao.int/fr/communique-presse/communique-de-presse-de-la-reunion-ordinaire-du-comite-de-politique-monetaire-19"
+     }
+    },
+    {
+     "id": "n20261118-pe06-20",
+     "m": "pes",
+     "tag": "niv-pe06",
+     "q": "Selon le communiqué du CPM du 9 septembre 2026, quel taux d'inflation moyen est prévu dans l'UMOA pour l'année 2026 ?",
+     "o": [
+      "1,0 %",
+      "3,0 %",
+      "5,0 %",
+      "7,5 %"
+     ],
+     "a": 0,
+     "e": "Le communiqué indique que le taux d'inflation devrait ressortir en moyenne à 1,0 % en 2026, après 0,0 % en 2025.",
+     "ed": [
+      null,
+      "3,0 % est la borne haute de la fourchette cible, pas la prévision de 2026.",
+      "5,0 % est le taux du guichet de prêt marginal, pas une prévision d'inflation.",
+      "7,5 % ne correspond à aucun chiffre du communiqué."
+     ],
+     "src": {
+      "t": "BCEAO, communiqué de presse de la réunion ordinaire du Comité de Politique Monétaire du 9 septembre 2026",
+      "u": "https://www.bceao.int/fr/communique-presse/communique-de-presse-de-la-reunion-ordinaire-du-comite-de-politique-monetaire-19"
+     }
+    },
+    {
+     "id": "n20261118-in05-01",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Dans Excel, par quel signe une formule commence-t-elle toujours ?",
+     "o": [
+      "Le signe dollar ($)",
+      "Le point-virgule (;)",
+      "Le signe égal (=)",
+      "Le dièse (#)"
+     ],
+     "a": 2,
+     "e": "Microsoft rappelle que les formules dans Excel commencent toujours par le signe égal ; sans lui, la saisie est traitée comme du texte ou une valeur.",
+     "ed": [
+      "Le $ sert à figer une référence, pas à commencer une formule.",
+      "Le point-virgule sépare les arguments d'une fonction dans la version française.",
+      null,
+      "Le # apparaît dans les messages d'erreur comme #DIV/0!, pas en début de formule."
+     ],
+     "src": {
+      "t": "Microsoft Support, Vue d'ensemble des formules dans Excel",
+      "u": "https://support.microsoft.com/fr-fr/Excel/get-started/overview-of-formulas-in-excel"
+     }
+    },
+    {
+     "id": "n20261118-in05-02",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Dans une feuille Excel actuelle, quelle est la dernière colonne ?",
+     "o": [
+      "Z",
+      "IV",
+      "ZZZ",
+      "XFD"
+     ],
+     "a": 3,
+     "e": "Selon Microsoft, les colonnes vont de A à XFD, soit 16 384 colonnes au total.",
+     "ed": [
+      "Z n'est que la 26e colonne ; la numérotation continue avec AA, AB…",
+      "IV est loin d'être la dernière colonne : les feuilles actuelles vont jusqu'à XFD.",
+      "ZZZ dépasse la dernière colonne possible.",
+      null
+     ],
+     "src": {
+      "t": "Microsoft Support, Vue d'ensemble des formules dans Excel",
+      "u": "https://support.microsoft.com/fr-fr/Excel/get-started/overview-of-formulas-in-excel"
+     }
+    },
+    {
+     "id": "n20261118-in05-03",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Que désigne la référence B2 ?",
+     "o": [
+      "La cellule à l'intersection de la colonne B et de la ligne 2",
+      "La cellule de la ligne B et de la colonne 2",
+      "La deuxième feuille du classeur",
+      "La plage qui va de la colonne B à la colonne 2"
+     ],
+     "a": 0,
+     "e": "Dans le style de référence A1, la lettre désigne la colonne et le chiffre la ligne : B2 est à l'intersection de la colonne B et de la ligne 2 (Microsoft).",
+     "ed": [
+      null,
+      "Les lignes portent des numéros et les colonnes des lettres, pas l'inverse.",
+      "Une feuille ne se désigne pas par une référence de cellule.",
+      "Une plage s'écrit avec deux-points, par exemple B2:B10."
+     ],
+     "src": {
+      "t": "Microsoft Support, Vue d'ensemble des formules dans Excel",
+      "u": "https://support.microsoft.com/fr-fr/Excel/get-started/overview-of-formulas-in-excel"
+     }
+    },
+    {
+     "id": "n20261118-in05-04",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Quelle fonction compte les cellules d'une plage qui remplissent une condition ?",
+     "o": [
+      "SOMME",
+      "NB.SI",
+      "MAX",
+      "MOYENNE"
+     ],
+     "a": 1,
+     "e": "NB.SI(plage;critères) compte le nombre de cellules d'une plage qui répondent à un critère (Microsoft).",
+     "ed": [
+      "SOMME additionne des valeurs, elle ne compte pas selon une condition.",
+      null,
+      "MAX renvoie la plus grande valeur d'une liste.",
+      "MOYENNE calcule une moyenne arithmétique."
+     ],
+     "src": {
+      "t": "Microsoft Support, Fonction NB.SI",
+      "u": "https://support.microsoft.com/fr-fr/office/fonction-nb-si-e0de10c6-f885-4e71-abb4-1f464816df34"
+     }
+    },
+    {
+     "id": "n20261118-in05-05",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Dans la version française d'Excel, quel caractère sépare les arguments d'une fonction, comme dans NB.SI(plage;critères) ?",
+     "o": [
+      "La virgule",
+      "Le deux-points",
+      "Le point-virgule",
+      "La barre oblique"
+     ],
+     "a": 2,
+     "e": "La syntaxe française publiée par Microsoft est NB.SI(plage; critères) : les arguments sont séparés par un point-virgule.",
+     "ed": [
+      "La virgule sert de séparateur décimal en français, d'où l'usage du point-virgule.",
+      "Le deux-points désigne une plage (A1:A10), il ne sépare pas les arguments.",
+      null,
+      "La barre oblique est l'opérateur de division."
+     ],
+     "src": {
+      "t": "Microsoft Support, Fonction NB.SI",
+      "u": "https://support.microsoft.com/fr-fr/office/fonction-nb-si-e0de10c6-f885-4e71-abb4-1f464816df34"
+     }
+    },
+    {
+     "id": "n20261118-in05-06",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "À quoi sert un graphique en secteurs ?",
+     "o": [
+      "À suivre une évolution mois par mois sur dix ans",
+      "À comparer plusieurs séries de données sur 24 mois",
+      "À localiser des données sur une carte",
+      "À montrer la taille de chaque élément d'une série par rapport au total"
+     ],
+     "a": 3,
+     "e": "Microsoft indique que les graphiques en secteurs représentent la taille des éléments d'une série de données par rapport à leur somme, avec une seule série.",
+     "ed": [
+      "Une évolution dans le temps se représente par un graphique en courbes.",
+      "Le graphique en secteurs ne représente qu'une seule série de données.",
+      "Une carte n'est pas un graphique en secteurs.",
+      null
+     ],
+     "src": {
+      "t": "Microsoft Support, Types de graphiques disponibles dans Office",
+      "u": "https://support.microsoft.com/fr-fr/Excel/available-chart-types-in-office"
+     }
+    },
+    {
+     "id": "n20261118-in05-07",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Quel résultat affiche la formule =12-6/3 ?",
+     "o": [
+      "10",
+      "2",
+      "6",
+      "18"
+     ],
+     "a": 0,
+     "e": "La division passe avant la soustraction : 6/3 = 2, puis 12 − 2 = 10 (ordre des opérations décrit par Microsoft).",
+     "ed": [
+      null,
+      "2 s'obtient en soustrayant d'abord (12 − 6 = 6, puis 6/3), ce qui viole l'ordre des opérations.",
+      "6 est le résultat de 12 − 6 seulement.",
+      "18 additionne au lieu de soustraire."
+     ],
+     "verif": "calcul",
+     "calc": "12-6/3"
+    },
+    {
+     "id": "n20261118-in05-08",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Quel résultat affiche la formule =(4+8)/2^2 ?",
+     "o": [
+      "36",
+      "3",
+      "9",
+      "1,5"
+     ],
+     "a": 1,
+     "e": "Parenthèses d'abord : 4 + 8 = 12 ; puis la puissance : 2^2 = 4 ; enfin la division : 12 / 4 = 3.",
+     "ed": [
+      "36 élève (12/2) au carré, en faisant la division avant la puissance.",
+      null,
+      "9 ne correspond à aucun ordre correct des opérations.",
+      "1,5 s'obtient en divisant 12 par 8, ce qui est faux."
+     ],
+     "verif": "calcul",
+     "calc": "(4+8)/(2*2)"
+    },
+    {
+     "id": "n20261118-in05-09",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "La cellule C2 contient =A2*$B$1. Quelle formule obtient-on en la recopiant en C5 ?",
+     "o": [
+      "=A5*$B$4",
+      "=A2*$B$1",
+      "=A5*$B$1",
+      "=D5*$B$1"
+     ],
+     "a": 2,
+     "e": "La référence relative A2 descend de trois lignes et devient A5 ; la référence absolue $B$1, figée par les $, ne change pas (Microsoft).",
+     "ed": [
+      "$B$1 est absolue : elle ne devient pas $B$4.",
+      "A2 est relative : elle se décale lors de la recopie.",
+      null,
+      "La recopie se fait dans la même colonne : A ne devient pas D."
+     ],
+     "src": {
+      "t": "Microsoft Support, Basculer entre les références relatives, absolues et mixtes",
+      "u": "https://support.microsoft.com/fr-fr/Excel/switch-between-relative-absolute-and-mixed-references"
+     }
+    },
+    {
+     "id": "n20261118-in05-10",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "La plage A1:A5 contient 14, 0, 16, une cellule vide et 10. Que renvoie =MOYENNE(A1:A5) ?",
+     "o": [
+      "8",
+      "13,33",
+      "40",
+      "10"
+     ],
+     "a": 3,
+     "e": "MOYENNE ignore la cellule vide mais compte le zéro : (14 + 0 + 16 + 10) / 4 = 40 / 4 = 10.",
+     "ed": [
+      "8 divise par 5, comme si la cellule vide valait 0.",
+      "13,33 divise par 3, en ignorant à tort le zéro.",
+      "40 est la somme, pas la moyenne.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "(14+0+16+10)/4"
+    },
+    {
+     "id": "n20261118-in05-11",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "La plage B2:B9 contient 45, 60, 50, 72, 51, 30, 88 et 50. Que renvoie =NB.SI(B2:B9;\">50\") ?",
+     "o": [
+      "4",
+      "6",
+      "5",
+      "2"
+     ],
+     "a": 0,
+     "e": "Le critère « >50 » exclut 50 lui-même : seules 60, 72, 51 et 88 sont strictement supérieures à 50, soit 4 cellules.",
+     "ed": [
+      null,
+      "6 compte aussi les deux valeurs égales à 50, ce que « >50 » exclut.",
+      "5 compte à tort une des deux valeurs égales à 50.",
+      "2 oublie 51 et 60."
+     ],
+     "verif": "calcul",
+     "calc": "1+1+1+1"
+    },
+    {
+     "id": "n20261118-in05-12",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "La cellule C2 contient 9,5. Que renvoie =SI(C2>=10;\"Admis\";\"Ajourné\") ?",
+     "o": [
+      "Admis",
+      "Ajourné",
+      "#VALEUR!",
+      "9,5"
+     ],
+     "a": 1,
+     "e": "SI renvoie la valeur_si_vrai quand le test est vrai et la valeur_si_faux sinon ; 9,5 n'est pas supérieur ou égal à 10, donc le résultat est « Ajourné ».",
+     "ed": [
+      "« Admis » ne s'affiche que si C2 vaut au moins 10.",
+      null,
+      "La formule est correcte : elle ne produit pas d'erreur.",
+      "SI renvoie l'un des deux textes prévus, pas la valeur de C2."
+     ],
+     "src": {
+      "t": "Microsoft Support, Fonction SI : formules imbriquées et pièges à éviter",
+      "u": "https://support.microsoft.com/fr-fr/excel/if-function-nested-formulas-and-avoiding-pitfalls"
+     }
+    },
+    {
+     "id": "n20261118-in05-13",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Un service veut montrer l'évolution mensuelle de ses recettes sur trois ans. Quel graphique choisir ?",
+     "o": [
+      "Un graphique en secteurs",
+      "Un publipostage",
+      "Un graphique en courbes",
+      "Une table des matières"
+     ],
+     "a": 2,
+     "e": "Microsoft présente les graphiques en courbes comme idéaux pour afficher les tendances à intervalles réguliers, comme les mois ou les années.",
+     "ed": [
+      "Le graphique en secteurs montre des parts d'un total, pas une évolution.",
+      "Le publipostage est un outil du traitement de texte.",
+      null,
+      "Une table des matières n'est pas un graphique."
+     ],
+     "src": {
+      "t": "Microsoft Support, Types de graphiques disponibles dans Office",
+      "u": "https://support.microsoft.com/fr-fr/Excel/available-chart-types-in-office"
+     }
+    },
+    {
+     "id": "n20261118-in05-14",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "La cellule D2 contient =B2/C2 et la cellule C2 est vide. Qu'affiche Excel ?",
+     "o": [
+      "#NOM?",
+      "Le résultat de B2",
+      "La formule en texte",
+      "#DIV/0!"
+     ],
+     "a": 3,
+     "e": "Selon Microsoft, #DIV/0! apparaît quand un nombre est divisé par zéro ou quand la formule fait référence à une cellule vide ou contenant 0.",
+     "ed": [
+      "#NOM? signale un nom de fonction mal écrit, ce qui n'est pas le cas ici.",
+      "Excel ne renvoie pas B2 : la division par une cellule vide est une erreur.",
+      "La formule commence par = : elle est calculée, pas affichée en texte.",
+      null
+     ],
+     "src": {
+      "t": "Microsoft Support, Comment corriger une erreur #DIV/0!",
+      "u": "https://support.microsoft.com/fr-fr/Excel/how-to-correct-a-div-0-error"
+     }
+    },
+    {
+     "id": "n20261118-in05-15",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Un agent tape =SOMM(A1:A4) au lieu de =SOMME(A1:A4). Qu'affiche Excel ?",
+     "o": [
+      "#NOM?",
+      "#DIV/0!",
+      "La somme correcte",
+      "0"
+     ],
+     "a": 0,
+     "e": "Microsoft indique que la principale cause de l'erreur #NOM? est une faute de frappe dans le nom de la formule : SOMM n'est pas une fonction connue.",
+     "ed": [
+      null,
+      "#DIV/0! concerne une division par zéro, absente ici.",
+      "Excel ne corrige pas seul le nom mal tapé : il signale une erreur.",
+      "Excel n'affiche pas 0 mais une valeur d'erreur."
+     ],
+     "src": {
+      "t": "Microsoft Support, Comment corriger une erreur #NOM?",
+      "u": "https://support.microsoft.com/fr-fr/Excel/how-to-correct-a-name-error"
+     }
+    },
+    {
+     "id": "n20261118-in05-16",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "La cellule E3 contient =$B3*C$1. Que devient la formule recopiée en F4, une colonne à droite et une ligne plus bas ?",
+     "o": [
+      "=$C4*D$2",
+      "=$B4*D$1",
+      "=$B3*C$1",
+      "=B4*D1"
+     ],
+     "a": 1,
+     "e": "$B3 a la colonne figée : seule la ligne bouge (3 devient 4). C$1 a la ligne figée : seule la colonne bouge (C devient D). D'où =$B4*D$1.",
+     "ed": [
+      "Le $ devant B fige la colonne et le $ devant 1 fige la ligne : ni B ni 1 ne changent.",
+      null,
+      "Les parties non figées se décalent : la formule ne reste pas identique.",
+      "La recopie ne supprime pas les $ : les références mixtes restent mixtes."
+     ],
+     "src": {
+      "t": "Microsoft Support, Basculer entre les références relatives, absolues et mixtes",
+      "u": "https://support.microsoft.com/fr-fr/Excel/switch-between-relative-absolute-and-mixed-references"
+     }
+    },
+    {
+     "id": "n20261118-in05-17",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Laquelle de ces affirmations sur la fonction MOYENNE est FAUSSE ?",
+     "o": [
+      "Elle renvoie la moyenne arithmétique des arguments",
+      "Elle ignore les cellules vides d'une plage",
+      "Elle ignore les cellules contenant 0",
+      "Elle accepte une plage comme A2:A6"
+     ],
+     "a": 2,
+     "e": "Selon Microsoft, MOYENNE ignore les cellules vides et le texte d'une plage, mais les cellules contenant la valeur 0 sont prises en compte.",
+     "ed": [
+      "C'est vrai : MOYENNE renvoie la moyenne arithmétique.",
+      "C'est vrai : les cellules vides d'une plage sont ignorées.",
+      null,
+      "C'est vrai : =MOYENNE(A2:A6) est un exemple donné par Microsoft."
+     ],
+     "src": {
+      "t": "Microsoft Support, Fonction MOYENNE",
+      "u": "https://support.microsoft.com/fr-fr/Excel/functions/average-function"
+     }
+    },
+    {
+     "id": "n20261118-in05-18",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Un agent remplace =A2/A3 par =SIERREUR(A2/A3;0). Quel risque Microsoft signale-t-il ?",
+     "o": [
+      "La formule ne calcule plus jamais la division",
+      "Le résultat est transformé en texte",
+      "La cellule A3 est supprimée",
+      "La formule masque toutes les erreurs, pas seulement #DIV/0!"
+     ],
+     "a": 3,
+     "e": "Microsoft avertit que SIERREUR et SI(ESTERREUR()) suppriment toutes les erreurs, pas seulement #DIV/0!, d'où le conseil de vérifier d'abord que la formule fonctionne.",
+     "ed": [
+      "La division est calculée normalement quand A3 n'est pas nul.",
+      "Le résultat reste un nombre ; seul le cas d'erreur renvoie 0.",
+      "Une formule ne supprime pas une cellule.",
+      null
+     ],
+     "src": {
+      "t": "Microsoft Support, Comment corriger une erreur #DIV/0!",
+      "u": "https://support.microsoft.com/fr-fr/Excel/how-to-correct-a-div-0-error"
+     }
+    },
+    {
+     "id": "n20261118-in05-19",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "La plage A1:A6 contient 12, « absent », 15, une cellule vide, 8 et « exempté ». Que renvoie =NB(A1:A6) ?",
+     "o": [
+      "3",
+      "6",
+      "5",
+      "2"
+     ],
+     "a": 0,
+     "e": "NB compte les cellules qui contiennent des nombres : 12, 15 et 8, soit 3. Le texte et la cellule vide ne sont pas comptés (Microsoft).",
+     "ed": [
+      null,
+      "6 compte toutes les cellules, y compris la vide.",
+      "5 compte le texte, ce que fait NBVAL, pas NB.",
+      "2 oublie l'un des trois nombres."
+     ],
+     "verif": "calcul",
+     "calc": "1+1+1"
+    },
+    {
+     "id": "n20261118-in05-20",
+     "m": "info",
+     "tag": "niv-in05",
+     "q": "Une direction veut comparer, pour chacune de ses six antennes, le budget prévu et le budget exécuté. Quel graphique convient le mieux ?",
+     "o": [
+      "Un graphique en secteurs, qui ne représente qu'une seule série",
+      "Un histogramme, catégories en abscisse et valeurs en ordonnée",
+      "Un graphique en courbes portant sur une seule date",
+      "Aucun : un tableur ne représente pas deux séries"
+     ],
+     "a": 1,
+     "e": "L'histogramme affiche les catégories sur l'axe horizontal et les valeurs sur l'axe vertical, ce qui permet de comparer les six antennes pour deux séries (Microsoft).",
+     "ed": [
+      "Le secteur ne représente qu'une série : il ne peut pas montrer à la fois le prévu et l'exécuté.",
+      null,
+      "Une courbe sert à suivre une tendance à intervalles réguliers, pas une seule date.",
+      "Excel représente sans difficulté plusieurs séries dans un même graphique."
+     ],
+     "src": {
+      "t": "Microsoft Support, Types de graphiques disponibles dans Office",
+      "u": "https://support.microsoft.com/fr-fr/Excel/available-chart-types-in-office"
+     }
+    },
+    {
+     "id": "n20261118-mp08-01",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Quand et où la Charte africaine des valeurs et principes du service public et de l'administration a-t-elle été adoptée ?",
+     "o": [
+      "Le 27 juin 1981 à Nairobi",
+      "Le 11 juillet 2003 à Maputo",
+      "Le 1er juillet 2020 à Abidjan",
+      "Le 31 janvier 2011 à Addis-Abeba"
+     ],
+     "a": 3,
+     "e": "La liste officielle de l'Union africaine indique que la Charte a été adoptée à Addis-Abeba, en Éthiopie, le 31 janvier 2011.",
+     "ed": [
+      "Cette date et ce lieu ne sont pas ceux de l'adoption de la Charte du service public, adoptée à Addis-Abeba en 2011.",
+      "La Charte du service public n'a pas été adoptée à Maputo en 2003, mais à Addis-Abeba en 2011.",
+      "Aucun texte de l'Union africaine sur le service public n'a été adopté à Abidjan en 2020.",
+      null
+     ],
+     "src": {
+      "t": "Union africaine, liste des signatures et ratifications de la Charte des valeurs et principes du service public (08/07/2024)",
+      "u": "https://au.int/sites/default/files/treaties/36386-sl-AFRICAN_CHARTER_ON_THE_VALUES_AND_PRINCIPLES_OF_PUBLIC_SERVICE_AND_ADMINISTRATION_0.pdf"
+     }
+    },
+    {
+     "id": "n20261118-mp08-02",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "En quelle année la Côte d'Ivoire a-t-elle ratifié la Charte africaine des valeurs et principes du service public et de l'administration ?",
+     "o": [
+      "2015",
+      "2011",
+      "2013",
+      "2019"
+     ],
+     "a": 0,
+     "e": "Selon l'Union africaine, la Côte d'Ivoire a signé la Charte le 23 décembre 2011 et l'a ratifiée le 30 décembre 2015.",
+     "ed": [
+      null,
+      "2011 est l'année de la signature, pas de la ratification.",
+      "Aucun acte ivoirien relatif à cette Charte n'est daté de 2013.",
+      "La ratification est antérieure : elle date de 2015."
+     ],
+     "src": {
+      "t": "Union africaine, liste des signatures et ratifications de la Charte des valeurs et principes du service public (08/07/2024)",
+      "u": "https://au.int/sites/default/files/treaties/36386-sl-AFRICAN_CHARTER_ON_THE_VALUES_AND_PRINCIPLES_OF_PUBLIC_SERVICE_AND_ADMINISTRATION_0.pdf"
+     }
+    },
+    {
+     "id": "n20261118-mp08-03",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Que prévoit l'article 7 de la Charte africaine à propos des délais ?",
+     "o": [
+      "Les délais sont laissés à l'appréciation de chaque agent",
+      "L'administration doit fixer et respecter les délais de ses prestations",
+      "Les délais ne concernent que les juridictions",
+      "Les délais sont fixés par chaque usager"
+     ],
+     "a": 1,
+     "e": "L'article 7 dispose que l'administration publique doit fixer et respecter les délais afférents aux prestations du service public.",
+     "ed": [
+      "La Charte impose à l'administration de fixer les délais : ils ne relèvent pas de chaque agent.",
+      null,
+      "L'article 7 vise toutes les prestations du service public, pas seulement la justice.",
+      "C'est l'administration, et non l'usager, qui fixe les délais."
+     ],
+     "src": {
+      "t": "Charte africaine des valeurs et principes du service public et de l'administration (texte français, AfricanLII)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/2011/values-and-principles-of-public-service-and-administration/fra@2011-01-31/source"
+     }
+    },
+    {
+     "id": "n20261118-mp08-04",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Dans la Charte africaine, où figure la neutralité ?",
+     "o": [
+      "À l'article 3, dans la liste des principes",
+      "Uniquement dans le préambule",
+      "À l'article 9, parmi les qualités attendues des agents dans leurs relations avec les usagers",
+      "Elle n'y figure pas du tout"
+     ],
+     "a": 2,
+     "e": "L'article 9 demande aux agents de faire preuve de courtoisie, d'intégrité, d'impartialité et de neutralité envers les usagers ; l'article 3 ne la cite pas.",
+     "ed": [
+      "L'article 3 cite l'égalité, l'impartialité ou la continuité, mais pas la neutralité.",
+      "La neutralité figure dans le corps du texte, à l'article 9.",
+      null,
+      "La neutralité est bien mentionnée, à l'article 9."
+     ],
+     "src": {
+      "t": "Charte africaine des valeurs et principes du service public et de l'administration (texte français, AfricanLII)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/2011/values-and-principles-of-public-service-and-administration/fra@2011-01-31/source"
+     }
+    },
+    {
+     "id": "n20261118-mp08-05",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Que mesure la comparaison entre la qualité attendue et la qualité perçue par l'usager ?",
+     "o": [
+      "La performance interne du service",
+      "Le coût du service",
+      "La productivité de chaque agent",
+      "La satisfaction de l'usager"
+     ],
+     "a": 3,
+     "e": "L'étude Abiléo publiée par le ministère français de l'Économie rattache la qualité attendue et la qualité perçue au côté client, c'est-à-dire à la mesure de la satisfaction.",
+     "ed": [
+      "La performance se mesure en comparant qualité voulue et qualité réalisée, côté service.",
+      "Le coût n'est pas une des quatre qualités.",
+      "La productivité individuelle n'est pas mesurée par cet écart.",
+      null
+     ],
+     "src": {
+      "t": "Ministère français de l'Économie (DGCIS), étude Abiléo sur la qualité des entreprises de services, synthèse",
+      "u": "https://entreprises.gouv.fr/files/directions_services/politique-et-enjeux/qualite/entreprises-services-btob-synthese.pdf"
+     }
+    },
+    {
+     "id": "n20261118-mp08-06",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Où est installée la Maison du Service Public d'Attécoubé, inaugurée le 9 octobre 2025 ?",
+     "o": [
+      "Dans un bureau de La Poste",
+      "Dans la mairie d'Attécoubé",
+      "Dans une sous-préfecture",
+      "Dans un centre commercial"
+     ],
+     "a": 0,
+     "e": "Le ministère de la Fonction publique indique que la Maison du Service Public d'Attécoubé est installée dans les bureaux de La Poste, offrant un guichet unique au sein même des bureaux de poste.",
+     "ed": [
+      null,
+      "La page du ministère situe la MSP dans un bureau de poste, pas à la mairie.",
+      "Aucune sous-préfecture n'est mentionnée comme lieu d'installation.",
+      "Le dispositif s'appuie sur le réseau de La Poste, pas sur des centres commerciaux."
+     ],
+     "src": {
+      "t": "Ministère de la Fonction publique (Côte d'Ivoire), La Maison du Service Public d'Attécoubé officiellement inaugurée",
+      "u": "https://www.fonctionpublique.gouv.ci/index.php/front-page/navigator/viewpage/_alaune/2393"
+     }
+    },
+    {
+     "id": "n20261118-mp08-07",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "En novembre, un service a traité 270 dossiers, dont 189 dans le délai annoncé. Quel est son taux de respect du délai ?",
+     "o": [
+      "81 %",
+      "70 %",
+      "63 %",
+      "30 %"
+     ],
+     "a": 1,
+     "e": "Taux de respect du délai = 189 / 270 × 100 = 70 %. Vérification : 10 % de 270 = 27, et 27 × 7 = 189.",
+     "ed": [
+      "81 % ne correspond pas : 270 × 0,81 ≈ 219 dossiers.",
+      null,
+      "63 % ne correspond pas : 270 × 0,63 ≈ 170 dossiers.",
+      "30 % est la part des dossiers hors délai, pas celle des dossiers dans le délai."
+     ],
+     "verif": "calcul",
+     "calc": "189/270*100"
+    },
+    {
+     "id": "n20261118-mp08-08",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Sur 200 usagers interrogés, 136 se disent satisfaits de l'accueil. Quel est le taux de satisfaction ?",
+     "o": [
+      "32 %",
+      "64 %",
+      "68 %",
+      "6,8 %"
+     ],
+     "a": 2,
+     "e": "Taux de satisfaction = 136 / 200 × 100 = 68 %. Raccourci : sur 200 personnes, on divise par 2 pour obtenir un pourcentage.",
+     "ed": [
+      "32 % est la part des usagers non satisfaits.",
+      "64 % correspondrait à 128 usagers satisfaits.",
+      null,
+      "6,8 % est dix fois trop petit : la virgule a été mal placée."
+     ],
+     "verif": "calcul",
+     "calc": "136/200*100"
+    },
+    {
+     "id": "n20261118-mp08-09",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Un service s'engage à délivrer un certificat en 72 heures et y parvient dans 98 % des cas, mais les usagers, qui pensaient l'obtenir en 24 heures, se plaignent. Quel écart faut-il traiter en priorité ?",
+     "o": [
+      "L'écart entre la qualité voulue et la qualité réalisée",
+      "Aucun écart : le service est irréprochable",
+      "Un écart de coût budgétaire",
+      "L'écart entre la qualité attendue et la qualité perçue"
+     ],
+     "a": 3,
+     "e": "Le service tient son engagement (performance bonne), mais l'usager attendait autre chose : c'est l'écart côté usager, entre qualité attendue et perçue, qu'il faut traiter, par l'information ou la révision de l'engagement.",
+     "ed": [
+      "La qualité réalisée (72 h dans 98 % des cas) correspond à la qualité voulue : pas d'écart de performance.",
+      "Les plaintes montrent un écart de satisfaction réel.",
+      "Le cas ne porte pas sur le coût mais sur le délai attendu.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261118-mp08-10",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Une mairie promet un extrait d'acte de naissance en 48 heures, mais le délivre réellement en 6 jours. De quel écart s'agit-il ?",
+     "o": [
+      "Un écart entre la qualité voulue et la qualité réalisée",
+      "Un écart entre la qualité attendue et la qualité perçue uniquement",
+      "Un écart de neutralité",
+      "Aucun écart"
+     ],
+     "a": 0,
+     "e": "L'engagement du service (48 heures) correspond à la qualité voulue ; ce qu'il délivre (6 jours) est la qualité réalisée. Leur écart traduit un défaut de performance.",
+     "ed": [
+      null,
+      "Le constat porte d'abord sur le service, qui ne tient pas sa promesse : c'est un écart de performance.",
+      "La neutralité concerne l'attitude des agents, pas le délai.",
+      "Six jours au lieu de 48 heures, c'est un écart manifeste."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261118-mp08-11",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Un agent répond à un usager uniquement : « Dossier rejeté. » Selon l'article 6 de la Charte africaine, que manque-t-il ?",
+     "o": [
+      "La signature du ministre",
+      "Les motifs de la décision et les voies de recours",
+      "Le paiement d'un timbre fiscal",
+      "Rien, la réponse est complète"
+     ],
+     "a": 1,
+     "e": "L'article 6 exige d'informer l'usager de toute décision le concernant en indiquant les motifs ainsi que les voies de recours dont il dispose en cas de contestation.",
+     "ed": [
+      "La Charte n'exige pas la signature du ministre pour chaque décision.",
+      null,
+      "Aucun timbre n'est requis par la Charte pour motiver une décision.",
+      "Sans motifs ni voies de recours, la réponse ne respecte pas l'article 6."
+     ],
+     "src": {
+      "t": "Charte africaine des valeurs et principes du service public et de l'administration (texte français, AfricanLII)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/2011/values-and-principles-of-public-service-and-administration/fra@2011-01-31/source"
+     }
+    },
+    {
+     "id": "n20261118-mp08-12",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Une mairie ferme son état civil trois semaines sans organiser de permanence. Quel principe de l'article 3 de la Charte est d'abord méconnu ?",
+     "o": [
+      "L'usage responsable des ressources",
+      "Le professionnalisme et l'éthique",
+      "La continuité du service public en toute circonstance",
+      "La reddition de comptes"
+     ],
+     "a": 2,
+     "e": "L'article 3 de la Charte pose le principe de la continuité du service public en toute circonstance ; une fermeture prolongée sans permanence l'interrompt.",
+     "ed": [
+      "Le cas ne porte pas sur l'emploi des ressources mais sur l'interruption du service.",
+      "Le comportement des agents n'est pas en cause : c'est l'organisation du service.",
+      null,
+      "La reddition de comptes concerne la transparence, pas l'interruption du service."
+     ],
+     "src": {
+      "t": "Charte africaine des valeurs et principes du service public et de l'administration (texte français, AfricanLII)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/2011/values-and-principles-of-public-service-and-administration/fra@2011-01-31/source"
+     }
+    },
+    {
+     "id": "n20261118-mp08-13",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Pour mesurer l'effet d'une campagne d'information sur les pièces à fournir, quel indicateur est le plus pertinent ?",
+     "o": [
+      "Le nombre d'agents du service",
+      "La surface du hall d'accueil",
+      "Le montant du budget annuel",
+      "Le taux de dossiers complets au premier dépôt"
+     ],
+     "a": 3,
+     "e": "L'objectif de la campagne est que l'usager arrive avec un dossier complet : le taux de dossiers complets au premier dépôt mesure directement ce résultat.",
+     "ed": [
+      "L'effectif mesure un moyen, pas le résultat de l'information.",
+      "La surface du hall ne dit rien sur la complétude des dossiers.",
+      "Le budget est un moyen, pas un résultat pour l'usager.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261118-mp08-14",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Avant de dématérialiser une procédure administrative compliquée, que faut-il faire d'abord ?",
+     "o": [
+      "Supprimer les pièces et étapes inutiles",
+      "Numériser tous les formulaires tels qu'ils sont",
+      "Fermer les guichets physiques",
+      "Ajouter une pièce justificative pour sécuriser le dossier"
+     ],
+     "a": 0,
+     "e": "Numériser une procédure compliquée ne la simplifie pas : on simplifie d'abord (pièces et étapes inutiles supprimées), puis on dématérialise.",
+     "ed": [
+      null,
+      "Numériser à l'identique reproduit la complexité en ligne.",
+      "Fermer les guichets exclurait les usagers sans accès à Internet.",
+      "Ajouter une pièce alourdit la procédure, à l'inverse de la simplification."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261118-mp08-15",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Laquelle de ces propositions N'EST PAS un principe énoncé à l'article 3 de la Charte africaine ?",
+     "o": [
+      "L'égalité des usagers devant le service public",
+      "La gratuité de toutes les prestations",
+      "La continuité du service public en toute circonstance",
+      "L'adaptation du service public aux besoins des usagers"
+     ],
+     "a": 1,
+     "e": "L'article 3 cite notamment l'égalité des usagers, l'impartialité, la continuité et l'adaptation aux besoins ; il ne pose pas de principe de gratuité de toutes les prestations.",
+     "ed": [
+      "L'égalité des usagers est le premier principe de l'article 3.",
+      null,
+      "La continuité en toute circonstance figure à l'article 3.",
+      "L'adaptation aux besoins des usagers figure à l'article 3."
+     ],
+     "src": {
+      "t": "Charte africaine des valeurs et principes du service public et de l'administration (texte français, AfricanLII)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/2011/values-and-principles-of-public-service-and-administration/fra@2011-01-31/source"
+     }
+    },
+    {
+     "id": "n20261118-mp08-16",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Le délai moyen de traitement d'un service est de 8 jours, pour un objectif de 10 jours. Pourtant, un usager attend depuis trois mois. Que faut-il en conclure ?",
+     "o": [
+      "Le service est parfait puisque la moyenne est bonne",
+      "L'usager se trompe forcément",
+      "La moyenne peut cacher des dossiers bloqués : il faut suivre aussi la part des dossiers hors délai",
+      "Il faut supprimer l'indicateur de délai"
+     ],
+     "a": 2,
+     "e": "Une moyenne peut masquer quelques dossiers très en retard ; le manager complète le délai moyen par la part des dossiers hors délai pour repérer les blocages.",
+     "ed": [
+      "Une bonne moyenne n'exclut pas des cas extrêmes.",
+      "Le retard signalé est un fait à vérifier, pas une erreur présumée de l'usager.",
+      null,
+      "Supprimer l'indicateur priverait le service de tout pilotage."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261118-mp08-17",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Selon le ministère de la Fonction publique, combien de « corners MSP » sont implantés dans des agences de La Poste à Abidjan et alentour ?",
+     "o": [
+      "Trois",
+      "Vingt",
+      "Cinquante",
+      "Huit"
+     ],
+     "a": 3,
+     "e": "La page du ministère cite huit corners MSP, à Abobo, Attécoubé, Anyama, Bingerville, Cocody, Treichville, Port-Bouët et Yopougon.",
+     "ed": [
+      "La liste officielle compte huit communes, pas trois.",
+      "Vingt dépasse le nombre de corners annoncé.",
+      "Cinquante ne correspond à aucun chiffre de la page.",
+      null
+     ],
+     "src": {
+      "t": "Ministère de la Fonction publique (Côte d'Ivoire), La Maison du Service Public d'Attécoubé officiellement inaugurée",
+      "u": "https://www.fonctionpublique.gouv.ci/index.php/front-page/navigator/viewpage/_alaune/2393"
+     }
+    },
+    {
+     "id": "n20261118-mp08-18",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Pour quelle année le Gouvernement ivoirien vise-t-il une « administration zéro papier » ?",
+     "o": [
+      "2030",
+      "2026",
+      "2040",
+      "2050"
+     ],
+     "a": 0,
+     "e": "Le communiqué gouvernemental du 24 décembre 2025 présente la digitalisation de l'administration comme un processus visant une « administration zéro papier » en 2030.",
+     "ed": [
+      null,
+      "2026 est l'année de démarrage du projet d'appui, pas l'objectif zéro papier.",
+      "2040 n'est pas l'horizon annoncé.",
+      "2050 n'est pas l'horizon annoncé."
+     ],
+     "src": {
+      "t": "Gouvernement de Côte d'Ivoire (bilan.gouv.ci), Modernisation de l'administration : vers une « administration zéro papier » en 2030",
+      "u": "https://www.bilan.gouv.ci/actualite/19322"
+     }
+    },
+    {
+     "id": "n20261118-mp08-19",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Laquelle de ces affirmations sur la Charte africaine des valeurs et principes du service public est FAUSSE ?",
+     "o": [
+      "Elle demande que les services soient fournis au plus près des usagers",
+      "Elle interdit aux administrations de fixer des délais",
+      "Elle demande l'utilisation des technologies modernes pour améliorer les prestations",
+      "Elle demande de recueillir les opinions, suggestions et doléances des usagers"
+     ],
+     "a": 1,
+     "e": "C'est l'inverse : l'article 7 impose à l'administration de fixer et de respecter les délais de ses prestations.",
+     "ed": [
+      "Vrai : l'article 5 vise des services fournis au plus près des usagers.",
+      null,
+      "Vrai : l'article 8 demande l'utilisation des technologies modernes.",
+      "Vrai : l'article 6 prévoit de recueillir opinions, suggestions et doléances."
+     ],
+     "src": {
+      "t": "Charte africaine des valeurs et principes du service public et de l'administration (texte français, AfricanLII)",
+      "u": "https://africanlii.org/akn/aa-au/act/charter/2011/values-and-principles-of-public-service-and-administration/fra@2011-01-31/source"
+     }
+    },
+    {
+     "id": "n20261118-mp08-20",
+     "m": "mop",
+     "tag": "niv-mp08",
+     "q": "Quel est l'avantage principal d'un guichet unique pour l'usager ?",
+     "o": [
+      "Il supprime toute pièce justificative",
+      "Il rend les démarches payantes",
+      "Un seul point d'entrée reçoit plusieurs démarches, sans courir d'un bureau à l'autre",
+      "Il dispense l'administration de respecter les délais"
+     ],
+     "a": 2,
+     "e": "Le guichet unique regroupe en un même lieu l'accueil de plusieurs démarches : l'usager gagne du temps et n'a plus à multiplier les déplacements entre services.",
+     "ed": [
+      "Le guichet unique réorganise l'accueil, il ne supprime pas par lui-même les pièces exigées.",
+      "Le guichet unique n'a pas pour objet de rendre les démarches payantes.",
+      null,
+      "Les délais restent une obligation de l'administration."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261118-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Depuis le 1er janvier 2026, quel pays est devenu le 21e membre de la zone euro ?",
+     "o": [
+      "La Bulgarie",
+      "La Roumanie",
+      "La Pologne",
+      "La Croatie"
+     ],
+     "a": 0,
+     "e": "La Banque de France indique que, depuis le 1er janvier 2026, la Bulgarie a officiellement adopté l'euro et est devenue le 21e pays à utiliser la monnaie unique.",
+     "ed": [
+      null,
+      "La Roumanie n'a pas adopté l'euro au 1er janvier 2026.",
+      "La Pologne conserve sa propre monnaie.",
+      "La Croatie n'est pas le pays entré dans la zone euro le 1er janvier 2026."
+     ],
+     "src": {
+      "t": "Banque de France, La Bulgarie rejoint la zone euro",
+      "u": "https://www.banque-france.fr/fr/actualites/la-bulgarie-rejoint-la-zone-euro"
+     }
+    },
+    {
+     "id": "n20261118-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 26 octobre 2025, lors du 47e sommet tenu à Kuala Lumpur, quel pays est devenu le 11e membre de l'ASEAN ?",
+     "o": [
+      "La Papouasie-Nouvelle-Guinée",
+      "Le Timor-Leste",
+      "Le Sri Lanka",
+      "Le Bangladesh"
+     ],
+     "a": 1,
+     "e": "Viet Nam News rapporte que le Timor-Leste est devenu le 11e État membre de l'ASEAN le 26 octobre 2025, lors du 47e sommet de Kuala Lumpur.",
+     "ed": [
+      "La Papouasie-Nouvelle-Guinée n'a pas été admise à l'ASEAN en 2025.",
+      null,
+      "Le Sri Lanka, situé en Asie du Sud, n'est pas membre de l'ASEAN.",
+      "Le Bangladesh n'est pas membre de l'ASEAN."
+     ],
+     "src": {
+      "t": "Viet Nam News, ASEAN Summit 47: Timor-Leste officially becomes ASEAN's 11th member",
+      "u": "https://vietnamnews.vn/world/1728144/asean-summit-47-timor-leste-officially-becomes-asean-s-11th-member.html"
+     }
+    },
+    {
+     "id": "n20261118-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "À quelle date l'Accord Canada–États-Unis–Mexique (ACEUM) est-il entré en vigueur ?",
+     "o": [
+      "Le 1er janvier 1994",
+      "Le 1er janvier 2025",
+      "Le 1er juillet 2020",
+      "Le 1er juillet 2010"
+     ],
+     "a": 2,
+     "e": "Affaires mondiales Canada indique, dans ses faits en bref, que l'ACEUM est entré en vigueur le 1er juillet 2020.",
+     "ed": [
+      "Le 1er janvier 1994 est antérieur de plus de vingt ans à l'ACEUM, entré en vigueur en 2020.",
+      "L'ACEUM était déjà en vigueur depuis plusieurs années en 2025.",
+      null,
+      "En 2010, l'ACEUM n'existait pas encore."
+     ],
+     "src": {
+      "t": "Affaires mondiales Canada, premier anniversaire de l'Accord Canada–États-Unis–Mexique (30 juin 2021)",
+      "u": "https://www.canada.ca/fr/affaires-mondiales/nouvelles/2021/06/la-ministre-ng-souligne-le-premier-anniversaire-de-laccord-canadaetats-unismexique-avec-ses-homologues-americaine-et-mexicaine.html"
+     }
+    },
+    {
+     "id": "n20261118-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 6 juillet 2024, quels États ont adopté le traité instituant la Confédération des États du Sahel ?",
+     "o": [
+      "Le Mali, le Niger et le Tchad",
+      "Le Burkina Faso, le Mali et la Guinée",
+      "Le Niger, le Tchad et la Mauritanie",
+      "Le Burkina Faso, le Mali et le Niger"
+     ],
+     "a": 3,
+     "e": "Selon AllAfrica, le traité instituant la Confédération des États du Sahel, qui comprend le Burkina Faso, le Mali et le Niger, a été adopté le 6 juillet 2024 lors d'un sommet au Niger.",
+     "ed": [
+      "Le Tchad ne fait pas partie des trois États signataires.",
+      "La Guinée ne fait pas partie de la Confédération.",
+      "Ni le Tchad ni la Mauritanie ne font partie de la Confédération.",
+      null
+     ],
+     "src": {
+      "t": "AllAfrica, adoption du traité instituant la Confédération des États du Sahel (8 juillet 2024)",
+      "u": "https://fr.allafrica.com/stories/202407080181.html"
+     }
+    },
+    {
+     "id": "n20261118-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quand la Charte africaine des valeurs et principes du service public et de l'administration est-elle entrée en vigueur ?",
+     "o": [
+      "Le 23 juillet 2016",
+      "Le 31 janvier 2011",
+      "Le 25 mai 1963",
+      "Le 1er janvier 2000"
+     ],
+     "a": 0,
+     "e": "Selon l'Union africaine, la Charte, adoptée le 31 janvier 2011, est entrée en vigueur le 23 juillet 2016, après le dépôt du nombre requis de ratifications.",
+     "ed": [
+      null,
+      "Le 31 janvier 2011 est la date d'adoption, pas d'entrée en vigueur.",
+      "Le 25 mai 1963 ne correspond pas à cette Charte, adoptée en 2011.",
+      "Aucun lien avec le 1er janvier 2000."
+     ],
+     "src": {
+      "t": "Union africaine, liste des signatures et ratifications de la Charte des valeurs et principes du service public (08/07/2024)",
+      "u": "https://au.int/sites/default/files/treaties/36386-sl-AFRICAN_CHARTER_ON_THE_VALUES_AND_PRINCIPLES_OF_PUBLIC_SERVICE_AND_ADMINISTRATION_0.pdf"
+     }
+    },
+    {
+     "id": "n20261118-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quand a été signé le traité instituant l'Union monétaire ouest-africaine (UMOA) ?",
+     "o": [
+      "Le 10 janvier 1994",
+      "Le 12 mai 1962",
+      "Le 26 décembre 1945",
+      "Le 1er janvier 1999"
+     ],
+     "a": 1,
+     "e": "La BCEAO date du 12 mai 1962 la signature du traité instituant l'UMOA ; elle en a célébré le 60e anniversaire le 12 mai 2022.",
+     "ed": [
+      "Le 10 janvier 1994 est la date du traité instituant l'UEMOA, union économique distincte.",
+      null,
+      "Le 26 décembre 1945 est la date de naissance du franc CFA.",
+      "Le 1er janvier 1999 est la date de l'arrimage du franc CFA à l'euro."
+     ],
+     "src": {
+      "t": "BCEAO, Dates clés",
+      "u": "https://www.bceao.int/fr/content/dates-cles"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261118pe06",
+     "niv": "pe06",
+     "m": "pes",
+     "titre": "Monnaie, BCEAO et politique monétaire : franc CFA, réforme, taux directeurs",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez expliquer d'où vient la monnaie, comment fonctionne le franc CFA, quelle est sa parité avec l'euro et ce que la réforme annoncée le 21 décembre 2019 a changé.",
+      "= Vous saurez aussi présenter l'objectif de la BCEAO, ses taux directeurs et le mécanisme par lequel une baisse de taux soutient le crédit, pour les mobiliser dans une dissertation de PES.",
+      "## Ce que demande l'épreuve",
+      "En QCM, on vous interroge sur des repères précis : la parité du franc CFA avec l'euro, la date de la dévaluation, le siège de la BCEAO, l'objectif de la politique monétaire ou le niveau d'un taux directeur. À l'écrit de PES, la monnaie sert surtout d'argument : un sujet sur le financement de l'économie, l'inflation ou la souveraineté appelle une analyse de la politique monétaire commune aux États de l'Union monétaire ouest-africaine (UMOA).",
+      "! Piège habituel : confondre la politique monétaire, décidée par la BCEAO pour toute l'Union, et la politique budgétaire, décidée par chaque État dans sa loi de finances. La Côte d'Ivoire ne fixe pas seule ses taux directeurs.",
+      "## La méthode, pas à pas",
+      "- 1. Situez l'acteur : qui décide ? La BCEAO, par son Comité de Politique Monétaire (CPM), pour l'ensemble de l'Union.",
+      "- 2. Nommez l'objectif : la stabilité des prix, objectif prioritaire fixé par l'article 8 des statuts de la BCEAO.",
+      "- 3. Décrivez l'instrument : taux directeurs ou réserves obligatoires, et leur effet sur le crédit bancaire.",
+      "- 4. Chiffrez avec une date : citez toujours la date du communiqué du CPM, car les taux changent d'une réunion à l'autre.",
+      "- 5. Discutez : avantages (stabilité des prix, crédibilité) et limites (accès des PME au crédit, débat sur la souveraineté monétaire).",
+      "~ Exemple : « Pourquoi une baisse du taux directeur peut-elle aider une PME de transformation de manioc à Abengourou ? » Acteur : la BCEAO. Instrument : le taux auquel elle prête aux banques. Mécanisme : les banques se refinancent moins cher et peuvent prêter à un taux plus bas. Effet attendu : la PME emprunte plus facilement pour acheter une râpeuse."
+     ],
+     "fond": [
+      "## Notion 1 : la monnaie et sa création",
+      "Règle : la monnaie existe sous deux formes. La monnaie fiduciaire, ce sont les billets et les pièces ; la monnaie scripturale, ce sont les écritures sur les comptes bancaires (Banque de France). La quantité de monnaie en circulation dans une zone s'appelle la masse monétaire.",
+      "Pourquoi est-ce important ? Parce que la monnaie scripturale n'est pas imprimée : elle est créée par les banques commerciales lorsqu'elles accordent un crédit. Le montant du prêt est inscrit sur le compte de l'emprunteur, et de la monnaie nouvelle apparaît. D'où la formule : « les crédits font les dépôts ». La banque centrale, elle, émet les billets et oriente la création monétaire des banques par ses taux directeurs.",
+      "~ Exemple résolu : une banque d'Abengourou accorde un prêt de 8 millions de FCFA à une coopérative de producteurs de cacao. Étape 1 : la banque inscrit 8 millions au crédit du compte de la coopérative. Étape 2 : personne n'a apporté ces 8 millions en espèces ; ils naissent de l'écriture. Conclusion : la masse monétaire augmente de 8 millions. Vérification : sans le prêt, le compte serait resté à son niveau antérieur.",
+      "! Piège : la banque ne se contente pas de « prêter l'argent des déposants ». Le crédit crée le dépôt, et non l'inverse.",
+      "? Un commerçant de Bondoukou retire 500 000 FCFA en billets sur son compte. La masse monétaire change-t-elle ? || Non. Le retrait transforme de la monnaie scripturale (l'écriture sur le compte) en monnaie fiduciaire (les billets) : la forme change, le total reste le même. C'est un nouveau crédit qui crée de la monnaie.",
+      "## Notion 2 : le franc CFA, une monnaie à parité fixe",
+      "Règle : le franc CFA est né le 26 décembre 1945. Dans l'UMOA, le sigle signifie aujourd'hui « franc de la Communauté Financière Africaine ». Depuis le 1er janvier 1999, il est arrimé à l'euro : 1 euro = 655,957 FCFA (BCEAO). Parité fixe signifie que ce taux ne varie pas chaque jour sur les marchés des changes.",
+      "Pourquoi une parité fixe ? Elle protège contre les variations brutales du change et facilite le commerce avec la zone euro. En échange, elle impose une discipline : la politique monétaire doit rester compatible avec ce taux.",
+      "Repère historique : le 12 janvier 1994, le franc CFA a été dévalué. Sa valeur est passée de 0,02 à 0,01 franc français (BCEAO) : un franc CFA valait deux fois moins.",
+      "~ Exemple résolu : un étudiant reçoit 150 euros d'un parent installé en France. Calcul : 150 × 655,957 = 98 393,55 FCFA. Vérification par ordre de grandeur : 150 × 656 ≈ 98 400, le résultat est cohérent.",
+      "? Un importateur doit payer une décortiqueuse 20 000 euros. Combien de FCFA cela représente-t-il ? || 20 000 × 655,957 = 13 119 140 FCFA. Raccourci : 1 000 euros = 655 957 FCFA, puis on multiplie par 20.",
+      "! Piège : la parité exacte est 655,957, et non 655 ou 656. En QCM, les distracteurs jouent sur ces arrondis.",
+      "## Notion 3 : la réforme annoncée le 21 décembre 2019",
+      "Règle : le 21 décembre 2019, à Abidjan, les présidents Alassane Ouattara et Emmanuel Macron ont annoncé une réforme du franc CFA en Afrique de l'Ouest. L'accord acte trois changements : la monnaie de l'UEMOA doit devenir l'« Eco » ; les réserves de change de la BCEAO cessent d'être centralisées au Trésor français ; la France se retire des instances de gouvernance où elle siégeait. Deux éléments sont maintenus : la parité fixe avec l'euro et le rôle de la France, transformé en celui de garant financier (Direction générale du Trésor).",
+      "Pourquoi cette réforme ? Elle répond à une critique ancienne : la présence française dans les instances et le dépôt des réserves à Paris étaient perçus comme des marques de dépendance.",
+      "Le débat, utile en dissertation. Pour : la réforme renforce la souveraineté des institutions africaines sans sacrifier la stabilité des prix. Contre : tant que la parité fixe avec l'euro et la garantie française demeurent, les critiques estiment que le cœur du système ne change pas.",
+      "! Piège : ne confondez pas l'annonce d'un nouveau nom et sa mise en œuvre. Avant d'écrire que l'Eco circule, vérifiez l'état d'avancement à la date de votre épreuve.",
+      "## Notion 4 : la BCEAO et l'objectif de stabilité des prix",
+      "Règle : la BCEAO, dont le siège est à Dakar, est la banque centrale commune aux États de l'UMOA ; l'accord de 2019 concernait huit États : Bénin, Burkina Faso, Côte d'Ivoire, Guinée-Bissau, Mali, Niger, Sénégal et Togo. Selon l'article 8 de ses statuts, l'objectif prioritaire de sa politique monétaire est d'assurer la stabilité des prix ; sans préjudice de cet objectif, elle soutient les politiques économiques de l'UEMOA en vue d'une croissance saine et durable (BCEAO).",
+      "En pratique, la BCEAO vise un taux d'inflation de 2 % en glissement annuel, avec une marge de 1 % à 3 %, sur un horizon de 24 mois (COFEB). Le Comité de Politique Monétaire est issu de la réforme institutionnelle de l'UMOA et de la BCEAO, entrée en vigueur le 1er avril 2010 ; il s'est réuni pour la première fois en septembre 2010 (BCEAO, dates clés).",
+      "Pourquoi viser 2 % et non 0 % ? Une cible faible limite le risque de dérapage des prix ; une cible trop basse exposerait l'économie à la déflation, c'est-à-dire à une baisse générale des prix qui décourage la consommation et l'investissement (COFEB).",
+      "~ Exemple résolu : le CPM prévoit une inflation moyenne de 1,0 % dans l'UMOA en 2026, après 0,0 % en 2025 (communiqué du 9 septembre 2026). Lecture : 1,0 % touche la borne basse de la fourchette de 1 % à 3 % ; 0,0 % était en dessous. Conclusion : le risque n'est pas une inflation forte, ce qui permet des taux directeurs modérés.",
+      "? Dans l'Union, l'inflation en glissement annuel atteint 4,5 %. Est-elle conforme à l'objectif de la BCEAO ? Quelle réaction est logique ? || Non : 4,5 % dépasse la borne haute de 3 %. Pour freiner la hausse des prix, la logique est de resserrer la politique monétaire, par exemple en relevant les taux directeurs, ce qui rend le crédit plus cher et freine la demande.",
+      "## Notion 5 : les instruments et leur transmission",
+      "Règle : la BCEAO agit surtout par les taux d'intérêt et par le système des réserves obligatoires (BCEAO). Son principal taux directeur est le taux minimum de soumission à ses appels d'offres : c'est le taux auquel elle prête ses ressources aux banques. Le second est le taux du guichet de prêt marginal, plus élevé. Le 9 septembre 2026, le CPM les a maintenus à 3,00 % et 5,00 %, niveaux en vigueur depuis le 16 mars 2026, et a maintenu le coefficient des réserves obligatoires à 3,00 %.",
+      "Les réserves obligatoires permettent à la BCEAO de réduire ou de développer la capacité de distribution de crédit des banques : plus le coefficient est élevé, plus la part des ressources que chaque banque doit immobiliser est grande.",
+      "Pourquoi ces taux comptent-ils ? En baissant ou en augmentant ses taux directeurs, la banque centrale influence les taux auxquels les banques prêtent aux entreprises et aux ménages ; si les taux sont élevés, la demande de crédit est réduite et la création monétaire est limitée (Banque de France).",
+      "~ Exemple résolu : le taux réel. Une banque prête à 7 % alors que l'inflation est de 1 %. Taux d'intérêt réel ≈ taux nominal − inflation = 7 − 1 = 6 %. C'est le vrai coût de l'emprunt une fois la hausse des prix déduite.",
+      "? Une banque a une assiette de réserves de 400 milliards de FCFA. Avec un coefficient de 3 %, quel montant doit-elle constituer en réserves ? Et avec 5 % ? || 400 × 0,03 = 12 milliards. Avec 5 % : 400 × 0,05 = 20 milliards, soit 8 milliards de moins disponibles pour le crédit. Relever le coefficient freine donc le crédit.",
+      "! Piège : le taux directeur n'est pas le taux payé par le particulier. C'est le taux de refinancement des banques ; les taux des prêts aux clients sont plus élevés, mais ils en dépendent."
+     ],
+     "retenir": [
+      "La monnaie scripturale est créée par les banques quand elles accordent un crédit : « les crédits font les dépôts ».",
+      "Depuis le 1er janvier 1999, la parité est fixe : 1 euro = 655,957 FCFA.",
+      "Le 12 janvier 1994, le franc CFA a été dévalué : sa valeur est passée de 0,02 à 0,01 franc français.",
+      "La réforme annoncée à Abidjan le 21 décembre 2019 prévoit le nom Eco, la fin des réserves au Trésor français et le retrait français des instances.",
+      "Selon l'article 8 de ses statuts, la BCEAO a pour objectif prioritaire la stabilité des prix.",
+      "La BCEAO vise une inflation de 2 %, dans une fourchette de 1 % à 3 %, sur un horizon de 24 mois.",
+      "Le 9 septembre 2026, le CPM a maintenu le taux directeur principal à 3 %, le prêt marginal à 5 % et les réserves obligatoires à 3 %."
+     ],
+     "exo": {
+      "tag": "niv-pe06",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "BCEAO, communiqué de presse de la réunion ordinaire du Comité de Politique Monétaire du 9 septembre 2026",
+       "u": "https://www.bceao.int/fr/communique-presse/communique-de-presse-de-la-reunion-ordinaire-du-comite-de-politique-monetaire-19"
+      },
+      {
+       "t": "BCEAO, Objectifs de la politique monétaire",
+       "u": "https://www.bceao.int/fr/content/objectifs-de-la-politique-monetaire"
+      },
+      {
+       "t": "BCEAO, Instruments de mise en œuvre de la politique monétaire",
+       "u": "https://www.bceao.int/fr/content/instruments-de-mise-en-oeuvre-de-la-politique-monetaire"
+      },
+      {
+       "t": "BCEAO, Histoire du franc CFA",
+       "u": "https://www.bceao.int/fr/content/histoire-du-franc-cfa"
+      },
+      {
+       "t": "BCEAO, Dates clés",
+       "u": "https://www.bceao.int/fr/content/dates-cles"
+      },
+      {
+       "t": "COFEB (BCEAO), note n° 6 de novembre 2023 sur l'objectif de stabilité des prix",
+       "u": "https://cofeb.bceao.int/sites/default/files/2024-12/Net-No6-Novembre-2023-Objectif-de-stabilite-des-prix-V1.pdf"
+      },
+      {
+       "t": "Direction générale du Trésor (France), Réforme des relations de coopération monétaire entre l'UEMOA et la France",
+       "u": "https://www.tresor.economie.gouv.fr/Articles/2019/12/23/reforme-des-relations-de-cooperation-monetaire-entre-l-union-economique-et-monetaire-ouest-africaine-uemoa-et-la-france"
+      },
+      {
+       "t": "Banque de France, ABC de l'économie : Comment est créée la monnaie ?",
+       "u": "https://banque-france.fr/fr/publications-et-statistiques/publications/comment-est-creee-la-monnaie"
+      }
+     ]
+    },
+    {
+     "id": "L20261118in05",
+     "niv": "in05",
+     "m": "info",
+     "titre": "Le tableur : formules, fonctions usuelles, références et graphiques",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez écrire une formule correcte dans un tableur, prévoir son résultat selon l'ordre des opérations et utiliser les fonctions SOMME, MOYENNE, MAX, MIN, NB, NB.SI et SI.",
+      "= Vous saurez aussi choisir entre référence relative et absolue, corriger l'erreur #DIV/0! et choisir le graphique adapté à des données.",
+      "## Ce que demande l'épreuve",
+      "Les questions de tableur sont des QCM pratiques : « quel résultat affiche cette formule ? », « que devient la formule après recopie ? », « quelle fonction compte les candidats admis ? », « quel graphique montre la répartition d'un budget ? ». Elles visent l'agent qui tient chaque jour des états de primes, des listes de dossiers ou des statistiques de service. Les exemples utilisent Microsoft Excel en français : les noms de fonctions sont en français et les arguments sont séparés par des points-virgules.",
+      "! Piège habituel : oublier le signe égal. Sans lui, Excel affiche le texte tapé au lieu de calculer.",
+      "## La méthode, pas à pas",
+      "- 1. Lisez la formule et repérez le signe =, les références (B2, A1:A10), les fonctions et les opérateurs.",
+      "- 2. Appliquez l'ordre des opérations : parenthèses d'abord, puis puissance, puis multiplication et division, puis addition et soustraction.",
+      "- 3. Pour une recopie, regardez si les références portent un $ : sans $, elles se déplacent ; avec $, elles restent fixes.",
+      "- 4. Pour une fonction, demandez-vous ce que vous voulez obtenir : un total (SOMME), une moyenne (MOYENNE), un comptage (NB, NB.SI) ou un choix entre deux résultats (SI).",
+      "- 5. Vérifiez le résultat par un ordre de grandeur avant de cocher.",
+      "~ Exemple : « Que renvoie =4+6/2 ? » La division passe avant l'addition : 6/2 = 3, puis 4 + 3 = 7. Le piège était 5, obtenu en additionnant d'abord."
+     ],
+     "fond": [
+      "## Notion 1 : classeur, cellule et formule",
+      "Règle : un fichier de tableur s'appelle un classeur ; il contient des feuilles. Chaque feuille est un quadrillage : les colonnes portent des lettres, de A à XFD, soit 16 384 colonnes, et les lignes des numéros, de 1 à 1 048 576 (Microsoft). Une cellule se désigne par sa colonne puis sa ligne : B2 est à l'intersection de la colonne B et de la ligne 2.",
+      "Une formule commence toujours par le signe égal (=). Elle peut contenir des constantes (des nombres tapés), des références (B2), des opérateurs (+, -, *, /, ^) et des fonctions (SOMME, MOYENNE…).",
+      "Pourquoi utiliser des références plutôt que des nombres ? Si vous écrivez =B2*C2 au lieu de =4*15000, le résultat se met à jour tout seul quand une donnée change.",
+      "~ Exemple résolu : un état des frais de mission à la mairie d'Abengourou. En B2, le nombre de jours de mission (4) ; en C2, l'indemnité journalière (15 000 FCFA). En D2, on écrit =B2*C2 : le résultat est 60 000. Si l'on corrige B2 en 5, D2 affiche aussitôt 75 000.",
+      "! Piège : une référence s'écrit colonne puis ligne. « 2B » n'est pas une référence valide.",
+      "## Notion 2 : l'ordre des opérations",
+      "Règle : Excel calcule dans cet ordre : la négation et le pourcentage, puis la puissance (^), puis la multiplication et la division, puis l'addition et la soustraction. Les opérations de même rang se font de gauche à droite. Les parenthèses imposent leur propre ordre (Microsoft).",
+      "Pourquoi ? C'est l'ordre des opérations des mathématiques : sans règle commune, une même formule donnerait deux résultats.",
+      "~ Exemple résolu : =5+2*3. Étape 1 : 2*3 = 6. Étape 2 : 5 + 6 = 11. Avec des parenthèses, =(5+2)*3 : d'abord 5 + 2 = 7, puis 7 × 3 = 21.",
+      "? Quels résultats affichent =20-8/4 et =(20-8)/4 ? || =20-8/4 : la division d'abord, 8/4 = 2, puis 20 − 2 = 18. =(20-8)/4 : la parenthèse d'abord, 12, puis 12/4 = 3. Les parenthèses changent tout.",
+      "? Quel résultat affiche =2^3*5 ? || La puissance passe avant la multiplication : 2^3 = 8, puis 8 × 5 = 40.",
+      "## Notion 3 : les fonctions usuelles",
+      "Règle : une fonction est une formule toute prête, avec un nom et des arguments entre parenthèses, séparés par des points-virgules dans la version française. SOMME additionne ; MOYENNE renvoie la moyenne arithmétique ; MAX et MIN renvoient la plus grande et la plus petite valeur d'une liste ; NB compte les cellules qui contiennent des nombres ; NBVAL compte les valeurs, texte compris. Le deux-points désigne une plage : A1:A10 va de A1 à A10 (Microsoft).",
+      "NB.SI(plage;critère) compte les cellules d'une plage qui remplissent une condition. SI(test_logique;valeur_si_vrai;valeur_si_faux) renvoie une valeur si la condition est vraie et une autre si elle est fausse (Microsoft).",
+      "Pourquoi ces fonctions ? Elles évitent de compter à la main et réduisent les erreurs dans les états statistiques.",
+      "~ Exemple résolu : les notes de 40 candidats à un test de recrutement sont en C2:C41. Nombre de candidats ayant au moins 10 : =NB.SI(C2:C41;\">=10\"). Mention de chaque candidat en D2 : =SI(C2>=10;\"Admis\";\"Ajourné\"). Le critère et les textes s'écrivent entre guillemets.",
+      "! Piège : MOYENNE ignore les cellules vides mais compte les zéros. Un candidat absent laissé en blanc ne change pas la moyenne ; noté 0, il la fait baisser.",
+      "? Les cellules A2:A6 contiennent 12, 8, 15, 0 et 10. Que renvoient =SOMME(A2:A6), =MOYENNE(A2:A6) et =NB.SI(A2:A6;\">9\") ? || SOMME : 12 + 8 + 15 + 0 + 10 = 45. MOYENNE : 45 / 5 = 9, car le zéro est compté. NB.SI : les valeurs supérieures à 9 sont 12, 15 et 10, soit 3.",
+      "## Notion 4 : références relatives, absolues et mixtes",
+      "Règle : par défaut, une référence est relative : quand on recopie la formule, elle se décale. =B4*C4 recopiée une ligne plus bas devient =B5*C5. Une référence absolue porte un $ devant la colonne et devant la ligne ($C$1) : elle ne bouge pas. Une référence mixte fige seulement la colonne ($C1) ou seulement la ligne (C$1). La touche F4 fait passer d'un type de référence au suivant (Microsoft).",
+      "Pourquoi ? Une valeur commune à toutes les lignes, comme un taux, doit rester fixe, alors que les données propres à chaque ligne doivent suivre la recopie.",
+      "~ Exemple résolu : un taux de prime de 10 % est saisi en F1 et les salaires sont en B2:B20. En C2, on écrit =B2*$F$1. Recopiée en C3, la formule devient =B3*$F$1 : le salaire suit la ligne, le taux reste en F1. Sans les $, C3 contiendrait =B3*F2, une cellule vide, et afficherait 0.",
+      "? La cellule D2 contient =B2*$E$1. Quelle formule obtient-on en la recopiant en D7 ? || =B7*$E$1. La référence relative B2 descend de cinq lignes et devient B7 ; la référence absolue $E$1 ne change pas.",
+      "## Notion 5 : erreurs courantes et choix du graphique",
+      "Règle : #DIV/0! apparaît quand une formule divise par zéro ou par une cellule vide. Pour l'éviter, on teste le diviseur, par exemple =SI(A3;A2/A3;0), ou l'on utilise =SIERREUR(A2/A3;0), qui masque toutefois toutes les erreurs et pas seulement celle-ci. #NOM? signale le plus souvent une faute de frappe dans le nom d'une fonction (Microsoft).",
+      "Choisir son graphique : le graphique en secteurs montre la taille de chaque élément par rapport au total, pour une seule série de données ; le graphique en courbes montre une tendance à intervalles réguliers (mois, trimestres, années) ; l'histogramme place les catégories sur l'axe horizontal et les valeurs sur l'axe vertical, ce qui permet de comparer des catégories (Microsoft).",
+      "~ Exemple résolu : une direction régionale veut montrer la répartition de son budget entre personnel, fonctionnement et investissement. Une seule série, des parts d'un tout : graphique en secteurs. Pour suivre le nombre d'actes d'état civil délivrés chaque mois de l'année : graphique en courbes.",
+      "! Piège : un graphique en secteurs ne convient pas pour suivre une évolution dans le temps, et il devient illisible avec trop de parts ; Microsoft le conseille pour sept catégories au plus."
+     ],
+     "retenir": [
+      "Une formule commence toujours par le signe égal (=) ; sans lui, Excel affiche le texte au lieu de calculer.",
+      "Ordre des calculs : parenthèses, puissance, multiplication et division, puis addition et soustraction ; à rang égal, de gauche à droite.",
+      "Le $ fige une référence : $A$1 reste fixe à la recopie, A1 se décale ; la touche F4 change le type de référence.",
+      "NB.SI(plage;critère) compte les cellules qui remplissent une condition ; SI renvoie une valeur selon qu'un test est vrai ou faux.",
+      "MOYENNE ignore les cellules vides mais compte les cellules contenant zéro.",
+      "#DIV/0! signale une division par zéro ou par une cellule vide ; #NOM? signale souvent un nom de fonction mal écrit.",
+      "Secteurs pour les parts d'un total, courbes pour une évolution dans le temps, histogramme pour comparer des catégories."
+     ],
+     "exo": {
+      "tag": "niv-in05",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Microsoft Support, Vue d'ensemble des formules dans Excel",
+       "u": "https://support.microsoft.com/fr-fr/Excel/get-started/overview-of-formulas-in-excel"
+      },
+      {
+       "t": "Microsoft Support, Ordre dans lequel Excel effectue les opérations dans les formules",
+       "u": "https://support.microsoft.com/fr-fr/Excel/the-order-in-which-excel-performs-operations-in-formulas"
+      },
+      {
+       "t": "Microsoft Support, Basculer entre les références relatives, absolues et mixtes",
+       "u": "https://support.microsoft.com/fr-fr/Excel/switch-between-relative-absolute-and-mixed-references"
+      },
+      {
+       "t": "Microsoft Support, Fonction NB.SI",
+       "u": "https://support.microsoft.com/fr-fr/office/fonction-nb-si-e0de10c6-f885-4e71-abb4-1f464816df34"
+      },
+      {
+       "t": "Microsoft Support, Fonction NB",
+       "u": "https://support.microsoft.com/fr-fr/office/nb-nb-fonction-a59cd7fc-b623-4d93-87a4-d23bf411294c"
+      },
+      {
+       "t": "Microsoft Support, Fonction MOYENNE",
+       "u": "https://support.microsoft.com/fr-fr/Excel/functions/average-function"
+      },
+      {
+       "t": "Microsoft Support, Fonctions Excel (par catégorie)",
+       "u": "https://support.microsoft.com/fr-fr/Excel/excel-functions-by-category"
+      },
+      {
+       "t": "Microsoft Support, Fonction SI : formules imbriquées et pièges à éviter",
+       "u": "https://support.microsoft.com/fr-fr/excel/if-function-nested-formulas-and-avoiding-pitfalls"
+      },
+      {
+       "t": "Microsoft Support, Comment corriger une erreur #DIV/0!",
+       "u": "https://support.microsoft.com/fr-fr/Excel/how-to-correct-a-div-0-error"
+      },
+      {
+       "t": "Microsoft Support, Comment corriger une erreur #NOM?",
+       "u": "https://support.microsoft.com/fr-fr/Excel/how-to-correct-a-name-error"
+      },
+      {
+       "t": "Microsoft Support, Types de graphiques disponibles dans Office",
+       "u": "https://support.microsoft.com/fr-fr/Excel/available-chart-types-in-office"
+      }
+     ]
+    },
+    {
+     "id": "L20261118mp08",
+     "niv": "mp08",
+     "m": "mop",
+     "titre": "Qualité du service public et relation avec l'usager : accueil, délais, simplification, numérique",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir la qualité du service public à partir de la Charte africaine de 2011, distinguer les quatre « qualités » d'un service et calculer un taux de respect des délais ou de satisfaction.",
+      "= Vous saurez aussi proposer, dans un cas pratique, des actions concrètes sur l'accueil, les délais, la simplification et le numérique, en citant des dispositifs ivoiriens comme la Maison du Service Public.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de management des organisations publiques propose des sujets de réflexion et des cas pratiques. Sur ce thème, le cas type est un service débordé : files d'attente, dossiers en retard, plaintes d'usagers. Le correcteur attend un diagnostic structuré, des actions réalistes et des indicateurs de suivi, pas une liste de bonnes intentions.",
+      "! Piège habituel : réduire la qualité à la politesse au guichet. L'accueil compte, mais la qualité recouvre aussi les délais, l'information, la simplicité des démarches et l'égalité de traitement.",
+      "## La méthode, pas à pas",
+      "- 1. Partez de l'usager : qu'attend-il, et que perçoit-il du service ?",
+      "- 2. Comparez avec ce que le service s'est fixé et ce qu'il réalise vraiment : les écarts constituent votre diagnostic.",
+      "- 3. Classez les problèmes en quatre familles : accueil et information, délais, complexité des procédures, accès (distance, numérique).",
+      "- 4. Proposez pour chaque famille une action, un responsable et une échéance.",
+      "- 5. Associez à chaque action un indicateur chiffré pour mesurer le progrès.",
+      "~ Exemple : « Au service des pensions d'une direction régionale, les usagers attendent trois heures et repartent souvent faute d'avoir la bonne pièce. » Diagnostic : défaut d'information en amont. Action : afficher et publier la liste des pièces. Indicateur : part des dossiers déposés complets dès le premier passage."
+     ],
+     "fond": [
+      "## Notion 1 : ce qu'est la qualité du service public",
+      "Règle : selon l'article 7 de la Charte africaine des valeurs et principes du service public et de l'administration, les prestations doivent être offertes de la manière la plus effective, efficace et économique et être de la meilleure qualité possible ; l'administration doit fixer et respecter les délais de ses prestations. La Charte a été adoptée à Addis-Abeba le 31 janvier 2011 ; la Côte d'Ivoire l'a signée le 23 décembre 2011 et ratifiée le 30 décembre 2015 (Union africaine).",
+      "Pourquoi une charte ? Elle fixe des principes communs. Son article 3 cite notamment l'égalité des usagers devant le service public, l'impartialité et le respect de la légalité, la continuité du service public en toute circonstance et l'adaptation du service aux besoins des usagers. La qualité n'est donc pas un luxe : c'est la traduction concrète de ces principes.",
+      "~ Exemple résolu : une mairie ferme son service d'état civil pendant trois semaines, sans permanence. Étape 1 : le service s'interrompt. Étape 2 : l'article 3 exige la continuité du service « en toute circonstance ». Conclusion : la continuité est méconnue ; il fallait organiser une permanence, même réduite.",
+      "! Piège : dans la Charte, la neutralité ne figure pas à l'article 3 ; elle apparaît à l'article 9, parmi les qualités attendues des agents dans leurs relations avec les usagers : courtoisie, intégrité, impartialité et neutralité.",
+      "## Notion 2 : les quatre qualités et leurs écarts",
+      "Règle : on distingue quatre qualités. Côté usager, la qualité attendue (ce qu'il espère) et la qualité perçue (ce qu'il ressent) : leur comparaison mesure la satisfaction. Côté service, la qualité voulue (l'engagement que le service se fixe) et la qualité réalisée (ce qu'il délivre vraiment) : leur comparaison mesure la performance (étude Abiléo pour le ministère français de l'Économie).",
+      "Pourquoi quatre ? Parce qu'un service peut tenir ses engagements et pourtant décevoir, si l'usager attendait autre chose ; à l'inverse, il peut plaire sans maîtriser son organisation. Le manager doit agir sur les deux écarts.",
+      "~ Exemple résolu : à l'état civil d'une commune, le service s'engage à délivrer un extrait d'acte de naissance en 48 heures (qualité voulue). En pratique, il faut 5 jours (qualité réalisée). Les usagers espèrent l'obtenir le jour même (qualité attendue) et jugent le service « lent » (qualité perçue). Diagnostic : un écart de performance et un écart de satisfaction. Première action : tenir les 48 heures promises, puis annoncer clairement ce délai dès le dépôt.",
+      "? Une préfecture annonce un délai de 10 jours pour une légalisation et le respecte dans 95 % des cas, mais les usagers se disent mécontents. Quel écart faut-il traiter ? || La performance est bonne : la qualité réalisée correspond à la qualité voulue. Le problème est l'écart entre qualité attendue et qualité perçue : les usagers attendaient un délai plus court ou ignoraient le délai. Il faut mieux informer, ou revoir l'engagement si l'attente est légitime.",
+      "## Notion 3 : l'accueil et l'information de l'usager",
+      "Règle : selon l'article 6 de la Charte, l'administration rend disponibles les informations sur les procédures et formalités, dans un langage accessible et une forme simplifiée ; elle informe l'usager de toute décision le concernant, avec les motifs et les voies de recours ; elle met en place des systèmes pour recueillir les opinions, suggestions et doléances des usagers.",
+      "Pourquoi ? Un usager mal informé revient plusieurs fois, encombre le guichet et finit par chercher un intermédiaire, ce qui ouvre la porte aux pratiques irrégulières. L'information est le premier levier de qualité, et il coûte peu.",
+      "~ Exemple résolu : au service des examens d'une direction régionale de l'éducation, 40 % des dossiers sont rejetés pour pièce manquante. Action 1 : afficher la liste des pièces à l'entrée et la publier en ligne. Action 2 : vérifier la complétude du dossier au dépôt, devant l'usager. Action 3 : ouvrir un registre de suggestions et répondre aux doléances. Indicateur : taux de dossiers complets au premier dépôt.",
+      "? Un agent refuse une demande et répond seulement « dossier rejeté ». Quelles exigences de l'article 6 manquent ? || L'usager doit connaître les motifs de la décision et les voies de recours dont il dispose pour la contester. La réponse doit donc dire pourquoi la demande est rejetée et comment la contester.",
+      "## Notion 4 : délais, simplification et indicateurs",
+      "Règle : l'administration doit fixer et respecter les délais de ses prestations et mettre en place un suivi et une évaluation périodiques de leur efficacité (Charte, article 7). Le suivi repose sur des indicateurs simples : délai moyen de traitement, part des dossiers traités dans le délai, temps d'attente au guichet, taux de satisfaction.",
+      "Pourquoi des chiffres ? Ce qui n'est pas mesuré n'est pas piloté. Un indicateur permet de fixer un objectif, de comparer les mois et de rendre compte à la hiérarchie et aux usagers.",
+      "~ Exemple résolu : en octobre, un service a traité 240 dossiers, dont 180 dans le délai annoncé. Taux de respect du délai = 180 / 240 × 100 = 75 %. Si l'objectif est de 90 %, il manque 15 points, soit 36 dossiers sur 240.",
+      "? Sur 160 usagers interrogés à la sortie du guichet, 112 se disent satisfaits. Calculez le taux de satisfaction et dites comment l'interpréter. || 112 / 160 × 100 = 70 %. Pour l'interpréter, comparez-le à l'objectif fixé et au résultat du mois précédent : un chiffre isolé ne dit pas si le service progresse.",
+      "! Piège : un délai moyen peut cacher des dossiers bloqués depuis des mois. Suivez aussi la part des dossiers hors délai.",
+      "## Notion 5 : proximité et numérique en Côte d'Ivoire",
+      "Règle : la Charte demande d'organiser l'administration pour que les services soient fournis au plus près des usagers (article 5) et d'utiliser les technologies modernes pour améliorer les prestations (article 8). En Côte d'Ivoire, le Ministère d'État, Ministère de la Fonction publique et de la Modernisation de l'administration a inauguré, le 9 octobre 2025, la Maison du Service Public d'Attécoubé, installée dans un bureau de La Poste : un guichet unique au sein même des bureaux de poste. Huit « corners MSP » sont implantés dans des agences de La Poste à Abobo, Attécoubé, Anyama, Bingerville, Cocody, Treichville, Port-Bouët et Yopougon.",
+      "Le Gouvernement annonce aussi des standards d'accueil et d'orientation des usagers, un guichet unique des concours administratifs et l'objectif d'une « administration zéro papier » en 2030 (communiqué du 24 décembre 2025).",
+      "Pourquoi le guichet unique ? L'usager n'a plus à courir d'un bureau à l'autre : un seul point d'entrée reçoit plusieurs démarches.",
+      "Le débat, utile en dissertation. Pour le numérique : gain de temps, traçabilité, moins de contacts propices à la corruption. Prudence : tous les usagers n'ont pas accès à Internet, et le guichet virtuel prévu par le plan ivoirien 2016-2018 du Partenariat pour un gouvernement ouvert a été jugé à résultat « limité ». D'où l'intérêt de combiner points d'accueil physiques et services en ligne.",
+      "! Piège : numériser une procédure compliquée ne la simplifie pas. Il faut d'abord supprimer les pièces et les étapes inutiles, puis dématérialiser."
+     ],
+     "retenir": [
+      "La Charte africaine des valeurs et principes du service public et de l'administration a été adoptée à Addis-Abeba le 31 janvier 2011.",
+      "La Côte d'Ivoire a signé cette Charte le 23 décembre 2011 et l'a ratifiée le 30 décembre 2015.",
+      "Article 7 de la Charte : l'administration doit fixer et respecter les délais de ses prestations.",
+      "Qualité attendue comparée à la qualité perçue : satisfaction ; qualité voulue comparée à la qualité réalisée : performance.",
+      "Toute décision doit être communiquée à l'usager avec ses motifs et ses voies de recours (Charte, article 6).",
+      "La Maison du Service Public d'Attécoubé, guichet unique installé dans un bureau de La Poste, a été inaugurée le 9 octobre 2025.",
+      "Taux de respect du délai = dossiers traités dans le délai ÷ dossiers traités × 100."
+     ],
+     "exo": {
+      "tag": "niv-mp08",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Charte africaine des valeurs et principes du service public et de l'administration (texte français, AfricanLII)",
+       "u": "https://africanlii.org/akn/aa-au/act/charter/2011/values-and-principles-of-public-service-and-administration/fra@2011-01-31/source"
+      },
+      {
+       "t": "Union africaine, liste des signatures et ratifications de la Charte des valeurs et principes du service public (08/07/2024)",
+       "u": "https://au.int/sites/default/files/treaties/36386-sl-AFRICAN_CHARTER_ON_THE_VALUES_AND_PRINCIPLES_OF_PUBLIC_SERVICE_AND_ADMINISTRATION_0.pdf"
+      },
+      {
+       "t": "Ministère français de l'Économie (DGCIS), étude Abiléo sur la qualité des entreprises de services, synthèse",
+       "u": "https://entreprises.gouv.fr/files/directions_services/politique-et-enjeux/qualite/entreprises-services-btob-synthese.pdf"
+      },
+      {
+       "t": "Ministère de la Fonction publique (Côte d'Ivoire), La Maison du Service Public d'Attécoubé officiellement inaugurée",
+       "u": "https://www.fonctionpublique.gouv.ci/index.php/front-page/navigator/viewpage/_alaune/2393"
+      },
+      {
+       "t": "Gouvernement de Côte d'Ivoire (bilan.gouv.ci), Modernisation de l'administration : vers une « administration zéro papier » en 2030",
+       "u": "https://www.bilan.gouv.ci/actualite/19322"
+      },
+      {
+       "t": "Partenariat pour un gouvernement ouvert, engagement CI0008 de la Côte d'Ivoire (guichet unique virtuel)",
+       "u": "https://www.opengovpartnership.org/fr/members/cote-divoire/commitments/CI0008/"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "pes",
+     "src": "original",
+     "ref": "Entraînement · 18 nov. 2026",
+     "t": "« La stabilité monétaire est une condition nécessaire, mais non suffisante, du financement de l'économie ivoirienne. » Analysez et discutez cette affirmation à la lumière de la politique monétaire de la BCEAO.",
+     "plan": [
+      "Introduction : définir stabilité monétaire (stabilité des prix, parité fixe avec l'euro) et financement de l'économie (crédit bancaire, épargne, marché) ; problématique : la stabilité suffit-elle à faire circuler le crédit vers les entreprises ivoiriennes ?",
+      "I. Une condition nécessaire : A. une inflation contenue (cible de 2 %, fourchette de 1 % à 3 %) protège le pouvoir d'achat et l'épargne ; B. la parité fixe et des taux directeurs modérés (3 % au 9 septembre 2026) rendent le coût du crédit prévisible.",
+      "II. Une condition non suffisante : A. la transmission des taux aux PME reste imparfaite (garanties, informalité, risque perçu par les banques) ; B. le financement exige aussi des politiques budgétaires et structurelles (inclusion financière, fonds de garantie, formalisation).",
+      "Conclusion : la stabilité est un socle ; la Côte d'Ivoire doit la compléter par des instruments ciblés pour que le crédit atteigne l'économie productive."
+     ]
+    },
+    {
+     "e": "mop",
+     "src": "original",
+     "ref": "Entraînement · 18 nov. 2026",
+     "t": "Cas pratique : vous êtes nommé chef du service des pensions d'une direction régionale. Les usagers, souvent âgés, attendent plusieurs heures, 35 % des dossiers sont incomplets au dépôt et les plaintes se multiplient. Établissez un diagnostic et proposez un plan d'amélioration de la qualité du service, avec ses indicateurs.",
+     "plan": [
+      "Diagnostic : mesurer les quatre qualités (attendue et perçue par enquête rapide ; voulue et réalisée par le relevé des délais) ; causes : information insuffisante sur les pièces, accueil non organisé, absence de suivi.",
+      "Accueil et information : liste des pièces affichée, publiée et lue au téléphone ; pré-contrôle des dossiers à l'entrée ; priorité aux personnes âgées ; registre de suggestions et réponses motivées (article 6 de la Charte africaine).",
+      "Délais et simplification : engagement de délai affiché, tableau de suivi hebdomadaire, suppression des pièces redondantes, orientation vers les points de guichet unique de proximité.",
+      "Indicateurs et suivi : taux de dossiers complets au premier dépôt, temps d'attente moyen, taux de respect du délai, taux de satisfaction ; réunion mensuelle de bilan avec l'équipe."
+     ]
+    }
+   ]
   }
  ]
 }
