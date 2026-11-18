@@ -27627,6 +27627,566 @@
       "t": "BCEAO, Dates clés",
       "u": "https://www.bceao.int/fr/content/dates-cles"
      }
+    },
+    {
+     "id": "c20261118-dc04-13",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Selon l'article 40 de la Constitution du 1er août 2000, qui assure l'intérim en cas de vacance de la présidence de la République ?",
+     "o": [
+      "Le Premier ministre",
+      "Le président du Conseil constitutionnel",
+      "Le président de l'Assemblée nationale",
+      "Le vice-président de la République"
+     ],
+     "a": 2,
+     "e": "L'article 40 de la Constitution de 2000 confie l'intérim au président de l'Assemblée nationale, pour 45 à 90 jours, le temps d'organiser l'élection d'un nouveau Président.",
+     "ed": [
+      "Le Premier ministre n'est pas désigné par l'article 40 pour assurer l'intérim.",
+      "Le Conseil constitutionnel constate l'empêchement absolu, mais son président n'exerce pas l'intérim.",
+      null,
+      "Le poste de vice-président n'existait pas en 2000 : il est créé par la Constitution de 2016."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+     }
+    },
+    {
+     "id": "c20261118-dc04-14",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Pendant quelle durée l'intérim prévu par l'article 40 de la Constitution de 2000 pouvait-il s'exercer ?",
+     "o": [
+      "De 45 à 90 jours",
+      "Jusqu'à la fin du mandat en cours",
+      "Douze mois au plus",
+      "Six mois exactement"
+     ],
+     "a": 0,
+     "e": "L'article 40 de 2000 fixe l'intérim à une période de quarante-cinq à quatre-vingt-dix jours, pendant laquelle l'intérimaire fait élire le nouveau Président.",
+     "ed": [
+      null,
+      "L'article 40 ne laisse pas l'intérimaire finir le mandat : il doit organiser une nouvelle élection dans un délai borné.",
+      "Le seuil de douze mois figure dans l'article 11 de la version de 1960, pas dans le texte de 2000.",
+      "Aucune durée fixe de six mois n'est prévue : le texte donne une fourchette de 45 à 90 jours."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+     }
+    },
+    {
+     "id": "c20261118-dc04-15",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Comment l'article 58 de la Constitution de 2000 organisait-il le Parlement ?",
+     "o": [
+      "Deux chambres : l'Assemblée nationale et le Sénat",
+      "Une Assemblée nationale et un Conseil économique et social formant ensemble le Parlement",
+      "Une chambre unique, l'Assemblée nationale",
+      "Un Congrès permanent de députés et de chefs traditionnels"
+     ],
+     "a": 2,
+     "e": "Selon l'article 58 de 2000, « le Parlement est constitué par une chambre unique dite Assemblée nationale ». Le bicamérisme n'apparaît qu'avec la Constitution de 2016.",
+     "ed": [
+      "Le Sénat n'existe que depuis la Constitution de 2016 : en 2000, le Parlement était monocaméral.",
+      "Le Conseil économique et social est une institution consultative, il ne fait pas partie du Parlement.",
+      null,
+      "Aucun texte n'a créé de Congrès permanent ; la chambre des rois et chefs traditionnels date de 2016 et n'est pas législative."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+     }
+    },
+    {
+     "id": "c20261118-dc04-16",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Dans la Constitution de 2000, les conseillers du Conseil constitutionnel étaient nommés :",
+     "o": [
+      "Pour cinq ans renouvelables une fois",
+      "Pour six ans non renouvelables",
+      "À vie",
+      "Pour la durée de la législature"
+     ],
+     "a": 1,
+     "e": "L'article 91 de la Constitution de 2000 prévoit que les conseillers sont nommés pour six ans non renouvelables ; le non-renouvellement protège leur indépendance.",
+     "ed": [
+      "Cinq ans renouvelables est le régime du mandat présidentiel, pas celui des conseillers.",
+      null,
+      "Aucune nomination à vie n'est prévue ; seuls les anciens Présidents de la République sont membres de droit.",
+      "La durée de la législature (cinq ans) concerne les députés, pas les juges constitutionnels."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+     }
+    },
+    {
+     "id": "c20261118-dc04-17",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Selon l'article 55 de la Constitution de 2016, quel est l'âge minimal pour être candidat à l'élection présidentielle ?",
+     "o": [
+      "30 ans",
+      "40 ans",
+      "45 ans",
+      "35 ans"
+     ],
+     "a": 3,
+     "e": "L'article 55 de la Constitution de 2016 exige que le candidat soit âgé de 35 ans au moins et ne fixe plus d'âge maximal, contrairement au texte de 2000.",
+     "ed": [
+      "30 ans est en dessous du seuil fixé par l'article 55.",
+      "40 ans était le minimum de l'article 35 de la Constitution de 2000, abaissé en 2016.",
+      "Aucun texte ivoirien de 1960, 2000 ou 2016 ne retient 45 ans.",
+      null
+     ],
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire de 2016",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf"
+     }
+    },
+    {
+     "id": "c20261118-dc04-18",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Un Président élu sous la Constitution de 2000 est réélu une fois. Combien de mandats au total pouvait-il exercer au maximum selon l'article 35 ?",
+     "o": [
+      "Un seul",
+      "Deux",
+      "Trois",
+      "Autant qu'il le souhaite"
+     ],
+     "a": 1,
+     "e": "L'article 35 de 2000 dispose que le Président « n'est rééligible qu'une fois » : une élection plus une réélection, soit deux mandats de cinq ans au maximum.",
+     "ed": [
+      "Rééligible une fois signifie qu'un second mandat est permis : un seul mandat est donc faux.",
+      null,
+      "Un troisième mandat supposerait une seconde réélection, que l'article 35 interdit.",
+      "La rééligibilité sans limite était le régime de l'article 9 de 1960, pas celui de 2000."
+     ],
+     "src": {
+      "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+      "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+     }
+    },
+    {
+     "id": "c20261118-dc04-19",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Que change la loi constitutionnelle de 2020 dans la désignation du vice-président de la République ?",
+     "o": [
+      "Il est désormais élu au suffrage universel direct sur un bulletin séparé",
+      "Il est désormais choisi par le Président de la République avec l'accord du Parlement",
+      "Il est désormais élu par le Sénat seul",
+      "Le poste est supprimé"
+     ],
+     "a": 1,
+     "e": "En 2016, le vice-président était élu en même temps que le Président (article 55) ; depuis 2020, l'article 55 prévoit que le Président le choisit avec l'accord du Parlement.",
+     "ed": [
+      "Aucun texte n'a prévu une élection séparée du vice-président : en 2016, il était élu en même temps que le Président, sur la même liste.",
+      null,
+      "Le Sénat seul ne désigne pas le vice-président : c'est le Parlement qui donne son accord au choix du Président.",
+      "Le poste n'est pas supprimé en 2020 : seul son mode de désignation change."
+     ],
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire de 2016, révisée en 2020",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "c20261118-dc04-20",
+     "m": "dc",
+     "tag": "niv-dc04",
+     "q": "Laquelle de ces affirmations sur la Constitution de 2016 est FAUSSE ?",
+     "o": [
+      "Son article 3 abolit la peine de mort.",
+      "Elle crée un vice-président de la République.",
+      "Elle maintient l'exigence d'un père et d'une mère tous deux ivoiriens d'origine pour le candidat à la présidence.",
+      "Elle fixe à 35 ans l'âge minimal du candidat à la présidence."
+     ],
+     "a": 2,
+     "e": "C'est faux : l'article 55 de 2016 n'exige plus qu'un père ou une mère ivoirien d'origine. La double exigence parentale appartenait à l'article 35 de la Constitution de 2000.",
+     "ed": [
+      "Affirmation exacte : l'article 3 de 2016 dispose que la peine de mort est abolie.",
+      "Affirmation exacte : le vice-président est une innovation de 2016 (article 55).",
+      null,
+      "Affirmation exacte : l'article 55 exige 35 ans au moins, sans âge maximal."
+     ],
+     "src": {
+      "t": "Constitute Project – Constitution de la Côte d'Ivoire de 2016",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf"
+     }
+    },
+    {
+     "id": "c20261118-cg04-13",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "En quelle année Yamoussoukro est-elle devenue la capitale de la Côte d'Ivoire, à la place d'Abidjan ?",
+     "o": [
+      "1960",
+      "1975",
+      "1983",
+      "1993"
+     ],
+     "a": 2,
+     "e": "Yamoussoukro devient la capitale en 1983, sous la présidence de Félix Houphouët-Boigny, en remplacement d'Abidjan, capitale depuis l'indépendance.",
+     "ed": [
+      "1960 est l'année de l'indépendance : Abidjan était alors la capitale.",
+      "Aucun transfert de capitale n'intervient en 1975.",
+      null,
+      "1993 est l'année de la mort d'Houphouët-Boigny, dix ans après le transfert."
+     ],
+     "src": {
+      "t": "Wikipedia – History of Ivory Coast (1960–1999)",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast_(1960%E2%80%931999)"
+     }
+    },
+    {
+     "id": "c20261118-cg04-14",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Quelle fonction Alassane Ouattara occupait-il quand Félix Houphouët-Boigny l'a nommé Premier ministre, le 7 novembre 1990 ?",
+     "o": [
+      "Gouverneur de la BCEAO",
+      "Président de l'Assemblée nationale",
+      "Secrétaire général de l'ONU",
+      "Ministre de la Défense"
+     ],
+     "a": 0,
+     "e": "Selon Fraternité Matin, Alassane Ouattara était gouverneur de la Banque centrale des États de l'Afrique de l'Ouest (BCEAO) lorsqu'il a été nommé Premier ministre le 7 novembre 1990.",
+     "ed": [
+      null,
+      "Fraternité Matin le présente comme gouverneur de la BCEAO au moment de sa nomination, pas comme président de l'Assemblée nationale.",
+      "Alassane Ouattara n'a jamais dirigé l'ONU.",
+      "Il venait de la banque centrale régionale, pas d'un ministère de la Défense."
+     ],
+     "src": {
+      "t": "Fraternité Matin – 35 ans après, le 7 novembre 1990, Alassane Ouattara entrait à la Primature",
+      "u": "https://www.fratmat.info/article/2638038/politique/35-ans-apres-le-7-novembre-1990-alassane-ouattara-entrait-a-la-primature"
+     }
+    },
+    {
+     "id": "c20261118-cg04-15",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "De quelle ville du nord du pays Laurent Gbagbo a-t-il été transféré vers La Haye (Cour pénale internationale) fin novembre 2011 ?",
+     "o": [
+      "Bouaké",
+      "Korhogo",
+      "Odienné",
+      "Man"
+     ],
+     "a": 1,
+     "e": "Détenu à Korhogo depuis son arrestation du 11 avril 2011, Laurent Gbagbo y reçoit le mandat d'arrêt de la CPI et arrive aux Pays-Bas le 30 novembre 2011.",
+     "ed": [
+      "Le mandat de la CPI lui a été notifié à Korhogo, où il était détenu, pas à Bouaké.",
+      null,
+      "Odienné n'est pas son lieu de détention : la notification du mandat a eu lieu à Korhogo.",
+      "Man n'est pas son lieu de détention : il était retenu à Korhogo depuis avril 2011."
+     ],
+     "src": {
+      "t": "JusticeInfo – CPI/Côte d'Ivoire : Laurent Gbagbo transféré aux Pays-Bas (30 novembre 2011)",
+      "u": "https://www.justiceinfo.net/fr/13859-301111-cpicote-divoire-laurent-gbagbo-transfere-aux-pays-bas10688.html"
+     }
+    },
+    {
+     "id": "c20261118-cg04-16",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Où et quand Alassane Ouattara a-t-il été officiellement investi président de la République en 2011 ?",
+     "o": [
+      "À Abidjan, le 11 avril 2011",
+      "À Yamoussoukro, le 21 mai 2011",
+      "À Bouaké, le 7 août 2011",
+      "À Abidjan, le 28 novembre 2011"
+     ],
+     "a": 1,
+     "e": "L'investiture officielle a eu lieu à Yamoussoukro, capitale politique, le 21 mai 2011, en présence d'une vingtaine de chefs d'État et du secrétaire général de l'ONU, Ban Ki-moon.",
+     "ed": [
+      "Le 11 avril 2011 est la date de l'arrestation de Laurent Gbagbo, pas de l'investiture.",
+      null,
+      "Le 7 août est la date anniversaire de l'indépendance ; l'investiture n'a pas eu lieu à Bouaké.",
+      "Le 28 novembre correspond au second tour de 2010, pas à une investiture en 2011."
+     ],
+     "src": {
+      "t": "Le Moci – Côte d'Ivoire : la feuille de route du nouveau président Ouattara (23 mai 2011)",
+      "u": "https://lemoci.com/?p=11804"
+     }
+    },
+    {
+     "id": "c20261118-cg04-17",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "À quelle date s'est tenu le second tour de l'élection présidentielle ivoirienne de 2010 ?",
+     "o": [
+      "31 octobre 2010",
+      "28 novembre 2010",
+      "2 décembre 2010",
+      "11 avril 2011"
+     ],
+     "a": 1,
+     "e": "Selon l'ONUCI, le premier tour a eu lieu le 31 octobre 2010 et le second tour le 28 novembre 2010 ; la Commission électorale a donné ses résultats provisoires le 2 décembre.",
+     "ed": [
+      "Le 31 octobre 2010 est la date du premier tour.",
+      null,
+      "Le 2 décembre 2010 est la date des résultats provisoires de la Commission électorale indépendante, pas du vote.",
+      "Le 11 avril 2011 est la date de l'arrestation de Laurent Gbagbo."
+     ],
+     "src": {
+      "t": "Nations unies – ONUCI : la crise postélectorale",
+      "u": "https://peacekeeping.un.org/mission/past/unoci/elections.shtml"
+     }
+    },
+    {
+     "id": "c20261118-cg04-18",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Qui a certifié, au nom des Nations unies, les résultats du second tour de la présidentielle de 2010 ?",
+     "o": [
+      "Ban Ki-moon, en personne",
+      "Choi Young-jin, représentant spécial du Secrétaire général et chef de l'ONUCI",
+      "Blaise Compaoré, facilitateur",
+      "Le président du Conseil constitutionnel"
+     ],
+     "a": 1,
+     "e": "Le mandat de certification confié à l'ONUCI par la résolution 1765 (2007) a été exercé par son chef, Choi Young-jin, qui a certifié les résultats le 3 décembre 2010.",
+     "ed": [
+      "Le Secrétaire général n'a pas certifié lui-même : la certification relevait de son représentant spécial sur place.",
+      null,
+      "Blaise Compaoré était le facilitateur de l'accord de Ouagadougou, sans rôle de certification des résultats.",
+      "Le Conseil constitutionnel a proclamé ses propres résultats ; il n'agissait pas au nom des Nations unies."
+     ],
+     "src": {
+      "t": "Nations unies – ONUCI : la crise postélectorale",
+      "u": "https://peacekeeping.un.org/mission/past/unoci/elections.shtml"
+     }
+    },
+    {
+     "id": "c20261118-cg04-19",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Le Mouvement patriotique de Côte d'Ivoire (MPCI), apparu avec la rébellion de septembre 2002, est ensuite connu sous le nom de :",
+     "o": [
+      "Parti démocratique de Côte d'Ivoire",
+      "Commission électorale indépendante",
+      "Forces nouvelles",
+      "Opération des Nations unies en Côte d'Ivoire"
+     ],
+     "a": 2,
+     "e": "Le MPCI de Guillaume Soro, né de la rébellion du 19 septembre 2002, prend ensuite le nom de Forces nouvelles, qui contrôlent le nord du pays pendant la crise.",
+     "ed": [
+      "Le PDCI est l'ancien parti unique d'Houphouët-Boigny, pas un mouvement rebelle.",
+      "La Commission électorale indépendante organise les élections ; elle n'est pas issue de la rébellion.",
+      null,
+      "L'ONUCI est la mission de paix des Nations unies, pas un mouvement ivoirien."
+     ],
+     "src": {
+      "t": "Wikipedia – History of Ivory Coast (1999–present)",
+      "u": "https://en.wikipedia.org/wiki/History_of_Ivory_Coast_(1999%E2%80%93present)"
+     }
+    },
+    {
+     "id": "c20261118-cg04-20",
+     "m": "cg",
+     "tag": "niv-cg04",
+     "q": "Quel est l'ordre chronologique correct de ces événements ?",
+     "o": [
+      "Second tour de 2010, arrestation de Laurent Gbagbo, investiture d'Alassane Ouattara, transfert de Laurent Gbagbo à La Haye",
+      "Arrestation de Laurent Gbagbo, second tour de 2010, investiture d'Alassane Ouattara, transfert à La Haye",
+      "Second tour de 2010, investiture d'Alassane Ouattara, arrestation de Laurent Gbagbo, transfert à La Haye",
+      "Second tour de 2010, arrestation de Laurent Gbagbo, transfert à La Haye, investiture d'Alassane Ouattara"
+     ],
+     "a": 0,
+     "e": "Ordre : second tour (28 novembre 2010), arrestation (11 avril 2011), investiture à Yamoussoukro (21 mai 2011), arrivée de Laurent Gbagbo à La Haye (30 novembre 2011).",
+     "ed": [
+      null,
+      "L'arrestation (avril 2011) ne peut précéder le scrutin de novembre 2010 qui a déclenché la crise.",
+      "L'investiture officielle (21 mai 2011) suit l'arrestation du 11 avril 2011.",
+      "Le transfert à La Haye (novembre 2011) est postérieur à l'investiture de mai 2011."
+     ],
+     "src": {
+      "t": "Nations unies – ONUCI : la crise postélectorale",
+      "u": "https://peacekeeping.un.org/mission/past/unoci/elections.shtml"
+     }
+    },
+    {
+     "id": "c20261118-lo06-13",
+     "m": "log",
+     "tag": "niv-lo06",
+     "q": "Un train roule à 30 m/s. Quelle est sa vitesse en km/h ?",
+     "o": [
+      "108 km/h",
+      "8,3 km/h",
+      "90 km/h",
+      "300 km/h"
+     ],
+     "a": 0,
+     "e": "Pour passer des m/s aux km/h, on multiplie par 3,6 : 30 × 3,6 = 108 km/h. Contrôle : 108 ÷ 3,6 = 30 m/s.",
+     "ed": [
+      null,
+      "8,3 est le résultat de 30 ÷ 3,6 : on a divisé au lieu de multiplier.",
+      "90 km/h correspond à 25 m/s, pas à 30 m/s.",
+      "300 vient d'une multiplication par 10 : 1 m/s vaut 3,6 km/h, pas 10 km/h."
+     ],
+     "verif": "calcul",
+     "calc": "30*3.6"
+    },
+    {
+     "id": "c20261118-lo06-14",
+     "m": "log",
+     "tag": "niv-lo06",
+     "q": "Un car doit parcourir 168 km à la vitesse constante de 72 km/h. Combien de minutes dure le trajet ?",
+     "o": [
+      "233 minutes",
+      "96 minutes",
+      "140 minutes",
+      "120 minutes"
+     ],
+     "a": 2,
+     "e": "t = d ÷ v = 168 ÷ 72 = 2,333… h, soit 2 h et 1/3 h = 2 h 20 min = 140 minutes. Contrôle : à 72 km/h, on fait 1,2 km par minute, et 1,2 × 140 = 168 km.",
+     "ed": [
+      "233 vient de la lecture de 2,33 h comme 2 h 33 min, puis d'une conversion fausse : 0,33 h vaut 20 min, pas 33.",
+      "96 est la différence 168 − 72 : elle n'a pas de sens physique.",
+      null,
+      "120 minutes (2 h) ne couvrent que 144 km à 72 km/h."
+     ],
+     "verif": "calcul",
+     "calc": "168/72*60"
+    },
+    {
+     "id": "c20261118-lo06-15",
+     "m": "log",
+     "tag": "niv-lo06",
+     "q": "Un véhicule roule 1 h 30 min à 80 km/h, puis 30 min à 40 km/h. Quelle est sa vitesse moyenne sur l'ensemble du parcours ?",
+     "o": [
+      "60 km/h",
+      "70 km/h",
+      "53 km/h",
+      "65 km/h"
+     ],
+     "a": 1,
+     "e": "Distance : 80 × 1,5 + 40 × 0,5 = 120 + 20 = 140 km. Temps : 2 h. Vitesse moyenne : 140 ÷ 2 = 70 km/h. La vitesse la plus forte a duré plus longtemps : elle pèse davantage.",
+     "ed": [
+      "60 km/h est la moyenne arithmétique des deux vitesses : elle ignore que les durées sont inégales.",
+      null,
+      "53 km/h correspond à la formule de l'aller-retour sur distances égales, qui ne s'applique pas ici.",
+      "65 km/h ne correspond à aucun calcul valable : 140 km en 2 h font 70 km/h."
+     ],
+     "verif": "calcul",
+     "calc": "(80*1.5+40*0.5)/2"
+    },
+    {
+     "id": "c20261118-lo06-16",
+     "m": "log",
+     "tag": "niv-lo06",
+     "q": "Un agent fait l'aller Abengourou–Agnibilékrou à 45 km/h et le retour, sur la même route, à 90 km/h. Quelle est sa vitesse moyenne sur l'aller-retour ?",
+     "o": [
+      "67,5 km/h",
+      "72 km/h",
+      "135 km/h",
+      "60 km/h"
+     ],
+     "a": 3,
+     "e": "Sur des distances égales : vitesse moyenne = 2 × v1 × v2 ÷ (v1 + v2) = 2 × 45 × 90 ÷ 135 = 60 km/h. Contrôle avec 90 km : aller 2 h, retour 1 h, soit 180 km en 3 h = 60 km/h.",
+     "ed": [
+      "67,5 km/h est la moyenne arithmétique (45 + 90) ÷ 2 : c'est le piège classique.",
+      "72 km/h ne correspond à aucun calcul valable ici.",
+      "135 km/h est la somme des deux vitesses, utile pour un croisement, pas pour une moyenne.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "2*45*90/(45+90)"
+    },
+    {
+     "id": "c20261118-lo06-17",
+     "m": "log",
+     "tag": "niv-lo06",
+     "q": "Un car part d'une gare à 7 h à 60 km/h. Une voiture part de la même gare à 8 h, sur la même route, à 100 km/h. À quelle distance de la gare la voiture rattrape-t-elle le car ?",
+     "o": [
+      "100 km",
+      "150 km",
+      "160 km",
+      "240 km"
+     ],
+     "a": 1,
+     "e": "À 8 h, le car a 60 km d'avance. La voiture gagne 100 − 60 = 40 km par heure : rattrapage en 60 ÷ 40 = 1,5 h. Distance : 100 × 1,5 = 150 km. Contrôle : le car a roulé 2,5 h × 60 = 150 km.",
+     "ed": [
+      "100 km est la distance parcourue par la voiture en une heure seulement, avant le rattrapage.",
+      null,
+      "160 km est le résultat de l'addition 100 + 60 : on a confondu croisement et rattrapage.",
+      "240 km correspond à 60 km d'avance divisés par une différence fausse de 15 km/h."
+     ],
+     "verif": "calcul",
+     "calc": "100*60/(100-60)"
+    },
+    {
+     "id": "c20261118-lo06-18",
+     "m": "log",
+     "tag": "niv-lo06",
+     "q": "Un train de 240 m roule à 72 km/h. Combien de secondes met-il pour passer entièrement devant un poteau ?",
+     "o": [
+      "3,3 secondes",
+      "20 secondes",
+      "12 secondes",
+      "17 secondes"
+     ],
+     "a": 2,
+     "e": "72 km/h = 72 ÷ 3,6 = 20 m/s. Devant un poteau, le train parcourt seulement sa longueur : 240 ÷ 20 = 12 s.",
+     "ed": [
+      "3,3 s vient de 240 ÷ 72 : on a gardé la vitesse en km/h au lieu de la convertir en m/s.",
+      "20 est la vitesse en m/s, pas la durée.",
+      null,
+      "17 s ne correspond à aucun calcul valable : 240 ÷ 20 = 12."
+     ],
+     "verif": "calcul",
+     "calc": "240/(72/3.6)"
+    },
+    {
+     "id": "c20261118-lo06-19",
+     "m": "log",
+     "tag": "niv-lo06",
+     "q": "Trois robinets remplissent seuls une citerne en 4 h, 6 h et 12 h. Ouverts ensemble, en combien d'heures la remplissent-ils ?",
+     "o": [
+      "7 heures",
+      "22 heures",
+      "4 heures",
+      "2 heures"
+     ],
+     "a": 3,
+     "e": "Par heure : 1/4 + 1/6 + 1/12 = 3/12 + 2/12 + 1/12 = 6/12 = 1/2 de la citerne. Il faut donc 2 h. Contrôle : c'est moins que le robinet le plus rapide (4 h).",
+     "ed": [
+      "7 h est la moyenne arithmétique des trois durées (22 ÷ 3 ≈ 7,3) : les durées ne se moyennent pas.",
+      "22 h est la somme des durées : ensemble, les robinets vont plus vite, pas plus lentement.",
+      "4 h est la durée du robinet le plus rapide seul : les deux autres accélèrent le remplissage.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "1/(1/4+1/6+1/12)"
+    },
+    {
+     "id": "c20261118-lo06-20",
+     "m": "log",
+     "tag": "niv-lo06",
+     "q": "Une pirogue avance à 12 km/h en eau calme sur un fleuve dont le courant est de 3 km/h. Elle descend 30 km puis remonte les 30 km. Combien de minutes dure l'aller-retour ?",
+     "o": [
+      "320 minutes",
+      "300 minutes",
+      "240 minutes",
+      "360 minutes"
+     ],
+     "a": 0,
+     "e": "Descente : 30 ÷ (12 + 3) = 2 h = 120 min. Remontée : 30 ÷ (12 − 3) = 30 ÷ 9 = 3 h 20 min = 200 min. Total : 320 minutes, soit 5 h 20 min.",
+     "ed": [
+      null,
+      "300 minutes (5 h) ne correspondent à aucune combinaison correcte des deux trajets.",
+      "240 minutes correspondent à 30 ÷ 15 + 30 ÷ 15 : on a ajouté le courant dans les deux sens.",
+      "360 minutes (6 h) correspondent à 60 km à 10 km/h : on a mal combiné vitesse propre et courant."
+     ],
+     "verif": "calcul",
+     "calc": "(30/15+30/9)*60"
     }
    ],
    "lessons": [
@@ -27930,6 +28490,138 @@
        "u": "https://www.opengovpartnership.org/fr/members/cote-divoire/commitments/CI0008/"
       }
      ]
+    },
+    {
+     "id": "L20261025dc04",
+     "niv": "dc04",
+     "m": "dc",
+     "titre": "Histoire constitutionnelle de la Côte d'Ivoire : 1960, 2000, 2016 et la révision de 2020",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dater et identifier les trois Constitutions de la Côte d'Ivoire indépendante (1960, 2000, 2016) et la révision du 19 mars 2020 : loi, mode d'adoption, innovations.",
+      "= Vous saurez aussi expliquer pourquoi chaque texte est né, et utiliser cette histoire dans une dissertation sur la stabilité des institutions.",
+      "## Ce que demande l'épreuve",
+      "L'histoire constitutionnelle sert à la fois en QCM et à l'écrit. En QCM, on vous demande une date, un numéro de loi, une institution créée ou supprimée, une condition d'éligibilité. À l'écrit, elle fournit l'introduction historique attendue dans presque tous les sujets de droit constitutionnel : le correcteur apprécie le candidat qui situe une règle actuelle dans son évolution.",
+      "! Piège habituel : confondre la date du référendum et la date de promulgation. Le peuple approuve le texte ; le Président le promulgue ensuite, et c'est la date de la loi de promulgation qui sert de référence (par exemple, loi n° 2016-886 du 8 novembre 2016).",
+      "Comment s'y prendre quand on découvre la matière ? Une Constitution est le texte suprême de l'État : elle dit qui gouverne, comment on accède au pouvoir et comment on le contrôle. Comparer plusieurs Constitutions revient donc à se poser toujours les trois mêmes questions : qui exerce le pouvoir, pour combien de temps, et qui le contrôle.",
+      "## La méthode, pas à pas",
+      "- 1. Le contexte : quel événement a rendu un nouveau texte nécessaire (indépendance, changement de régime, réforme voulue) ?",
+      "- 2. Le mode d'adoption : vote de l'Assemblée, référendum ou Congrès du Parlement.",
+      "- 3. La référence : numéro et date de la loi.",
+      "- 4. Deux ou trois innovations, pas plus : ce sont elles que le correcteur attend.",
+      "- 5. Le lien avec le texte suivant : continuité ou rupture.",
+      "- 6. Construisez un tableau à trois colonnes (1960, 2000, 2016-2020) et quatre lignes : mandat présidentiel, intérim, Parlement, juge constitutionnel. Remplir ce tableau de mémoire est le meilleur entraînement avant l'épreuve.",
+      "~ Exemple : « Constitution de la Troisième République ». Contexte : réforme annoncée par le Président et confiée à un comité d'experts. Adoption : référendum du 30 octobre 2016. Référence : loi n° 2016-886 du 8 novembre 2016. Innovations : vice-président, Sénat, Chambre nationale des rois et chefs traditionnels. Lien : elle remplace la Constitution de 2000.",
+      "~ Exemple d'usage du tableau : la question « Le Parlement ivoirien a-t-il toujours été bicaméral ? » se règle en lisant la ligne « Parlement » : chambre unique en 1960 (article 27) et en 2000 (article 58), deux chambres seulement depuis 2016. Réponse : non, le bicamérisme date de 2016."
+     ],
+     "fond": [
+      "## Notion 1 : 1959-1960, la naissance d'un État constitutionnel",
+      "Règle : le 26 mars 1959, l'assemblée territoriale, devenue constituante, adopte une première Constitution dans le cadre de la Communauté française. Après l'indépendance du 7 août 1960, l'Assemblée nationale adopte le 31 octobre 1960 la Constitution de la République, promulguée par la loi n° 60-356 du 3 novembre 1960.",
+      "Pourquoi un nouveau texte en 1960 ? Un État souverain doit fixer lui-même ses institutions. Le texte s'inspire largement de la Constitution française de 1958, mais il organise un pouvoir présidentiel fort.",
+      "Ce que contient le texte de 1960 : la devise « Union, Discipline, Travail », l'hymne « L'Abidjanaise » et le français comme langue officielle (article 1er) ; un Président élu pour cinq ans au suffrage universel direct et rééligible, sans limitation (article 9) ; un Parlement à chambre unique, l'Assemblée nationale (article 27) ; une Cour suprême à quatre chambres : constitutionnelle, judiciaire, administrative et des comptes (article 57).",
+      "La révision (articles 71 à 73) : le projet doit être voté à la majorité des trois quarts des députés, puis soumis au référendum, sauf s'il est approuvé à la majorité des quatre cinquièmes ; la forme républicaine de l'État ne peut être révisée.",
+      "? Une Assemblée de 100 députés vote un projet de révision par 78 voix. Le texte de 1960 permet-il d'éviter le référendum ? || Non. Le projet est bien adopté, car 78 dépasse les trois quarts (75 voix). Mais pour se passer du référendum, il faut les quatre cinquièmes, soit 80 voix. Avec 78 voix, le référendum reste obligatoire.",
+      "## Notion 2 : la question de la succession (1960-1993)",
+      "Règle : dans sa version de 1960, l'article 11 confie l'intérim, en cas de vacance, à une personnalité choisie au sein de l'Assemblée nationale par son président. Si le mandat restant est de douze mois au plus, cette personnalité devient Président de plein droit ; au-delà, de nouvelles élections sont organisées.",
+      "Pourquoi cette question a-t-elle tant compté ? Dans un régime centré sur un seul homme, la transition est le moment le plus fragile. Le dispositif a ensuite évolué : dès 1975, il est annoncé que le président de l'Assemblée nationale succéderait au Président mort en fonction. Le 7 décembre 1993, à la mort de Félix Houphouët-Boigny, Henri Konan Bédié, président de l'Assemblée nationale et premier dans l'ordre de succession, assume la présidence ; le Premier ministre Alassane Ouattara démissionne le 9 décembre.",
+      "~ Exemple de raisonnement : selon la version de 1960, un Président meurt alors qu'il reste huit mois de mandat. Étape 1 : il y a vacance. Étape 2 : l'intérim revient à la personnalité choisie au sein de l'Assemblée nationale par son président. Étape 3 : huit mois, c'est moins de douze mois. Conclusion : elle devient Président de plein droit, sans élection.",
+      "! Piège : ne confondez pas le texte initial de 1960 et ses versions révisées ; précisez toujours de quelle version vous parlez.",
+      "## Notion 3 : 2000, la Deuxième République née d'une rupture",
+      "Règle : après le changement de régime du 24 décembre 1999, conduit par le général Robert Guéï, une nouvelle Constitution est approuvée par le référendum des 23 et 24 juillet 2000 (environ 86,5 % de « oui », participation d'environ 56 %). Elle est promulguée par la loi n° 2000-513 du 1er août 2000.",
+      "Innovations : le Président, élu pour cinq ans, n'est rééligible qu'une fois (article 35) ; le Conseil constitutionnel juge la constitutionnalité des lois et le contentieux électoral ; un Médiateur de la République est nommé pour six ans non renouvelables ; la forme républicaine et la laïcité de l'État ne peuvent être révisées (article 127). L'article 132 accorde l'immunité aux auteurs du changement de régime du 24 décembre 1999.",
+      "Pourquoi le texte est-il resté controversé ? L'article 35 exigeait un candidat « ivoirien d'origine, né de père et de mère eux-mêmes ivoiriens d'origine », âgé de 40 à 75 ans. Le 6 octobre 2000, la Cour suprême écarte 14 candidats sur 19, dont Alassane Ouattara et Henri Konan Bédié. L'accord de Linas-Marcoussis de janvier 2003 prévoyait d'en retirer ces exigences.",
+      "? Comparez la rééligibilité du Président en 1960 et en 2000. || En 1960, le Président est rééligible sans limitation (article 9). En 2000, il n'est rééligible qu'une fois (article 35). La limitation vise à empêcher qu'un même dirigeant se maintienne indéfiniment au pouvoir.",
+      "## Notion 4 : 2016, la Troisième République",
+      "Règle : le projet, approuvé par l'Assemblée nationale le 11 octobre 2016, est soumis au référendum du 30 octobre 2016. Le « oui » l'emporte avec plus de 93 % des suffrages, pour une participation d'environ 42 % selon la Commission électorale, l'opposition ayant boycotté le vote. Le texte est promulgué le 8 novembre 2016 (loi n° 2016-886) et publié au Journal officiel le 9 novembre.",
+      "Innovations : un vice-président ; un Parlement à deux chambres, l'Assemblée nationale et le Sénat, dont deux tiers des membres sont élus au suffrage indirect et un tiers nommés par le Président ; une Chambre nationale des rois et chefs traditionnels ; l'abolition de la peine de mort (article 3). Pour être candidat, il suffit désormais d'avoir un père ou une mère ivoirien d'origine, avec un âge minimum de 35 ans et sans âge maximal (article 55).",
+      "~ Exemple chiffré : aux premières élections sénatoriales, le 24 mars 2018, 66 sénateurs sont élus et 33 sont nommés, soit 99 au total. Vérification : 66 ÷ 99 = 2/3 et 33 ÷ 99 = 1/3, conformément à la répartition prévue.",
+      "## Notion 5 : la révision du 19 mars 2020",
+      "Règle : le projet est adopté en Conseil des ministres extraordinaire le 6 mars 2020, voté par le Parlement réuni en Congrès le 17 mars (246 voix pour, 2 contre, l'opposition boycottant le scrutin), puis promulgué : c'est la loi constitutionnelle n° 2020-348 du 19 mars 2020.",
+      "Contenu : le vice-président n'est plus élu avec le Président ; il est désigné par le Président avec l'accord du Parlement. La Cour suprême disparaît : la Cour de cassation, le Conseil d'État et la Cour des comptes deviennent les juridictions représentant le pouvoir judiciaire. Si les élections législatives ne peuvent être organisées, le Parlement demeure en fonction jusqu'aux nouvelles élections.",
+      "Pourquoi n'est-ce pas une Quatrième République ? Parce que la loi de 2020 modifie la Constitution du 8 novembre 2016 selon la procédure de révision qu'elle prévoit (article 177) ; elle ne la remplace pas.",
+      "? Le Congrès réunit 344 parlementaires et doit statuer à la majorité des deux tiers. Combien de voix faut-il au minimum, et le vote de 2020 l'atteint-il ? || Deux tiers de 344 font 229,33. Une voix ne se divise pas : il faut donc 230 voix au minimum. Avec 246 voix pour, le seuil est dépassé de 16 voix.",
+      "## Notion 6 : comparer les textes, l'intérim et le juge constitutionnel",
+      "Règle de l'intérim en 2000 : selon l'article 40 de la Constitution du 1er août 2000, en cas de vacance, le président de l'Assemblée nationale assure l'intérim pendant 45 à 90 jours. Pendant ce délai, il fait élire un nouveau Président. L'empêchement absolu est constaté par le Conseil constitutionnel, saisi par le Gouvernement.",
+      "Pourquoi ce changement par rapport à 1960 ? L'intérimaire n'a pas été élu Président par le peuple. Le texte de 2000 limite donc son rôle à une transition courte : il garde l'État en marche, puis il rend la parole aux électeurs.",
+      "~ Exemple résolu : sous le texte de 2000, la vacance est constatée un 1er mars. Étape 1 : l'intérim revient au président de l'Assemblée nationale. Étape 2 : il dispose de 45 à 90 jours. Étape 3 : 90 jours après le 1er mars, on arrive au 30 mai (30 jours restants en mars, 30 en avril, 30 en mai). L'élection doit donc être organisée au plus tard autour du 30 mai.",
+      "Règle du juge constitutionnel en 2000 : le Conseil constitutionnel comprend un président, les anciens Présidents de la République (sauf renonciation expresse) et six conseillers, dont trois désignés par le Président de la République et trois par le président de l'Assemblée nationale (article 89). Le président du Conseil et les conseillers sont nommés pour six ans non renouvelables (articles 90 et 91), et le Conseil est renouvelé par moitié tous les trois ans.",
+      "Pourquoi un mandat non renouvelable ? Un juge qui espère être reconduit pourrait chercher à plaire à l'autorité qui le nomme. En lui interdisant un second mandat, la Constitution protège son indépendance. Le renouvellement par moitié, lui, évite que toute l'institution change d'un seul coup.",
+      "! Piège : les anciens Présidents de la République sont membres de droit du Conseil, sauf s'ils y renoncent expressément. Le mandat de six ans non renouvelable vise le président du Conseil et les six conseillers nommés, pas ces membres de droit.",
+      "Le Parlement et le mandat présidentiel : en 2000, le Parlement est une chambre unique, l'Assemblée nationale (article 58), élue pour cinq ans (article 59). Le Président est élu pour cinq ans et « n'est rééligible qu'une fois » (article 35), avec un âge compris entre 40 et 75 ans. En 2016, l'article 55 abaisse l'âge minimal à 35 ans et supprime l'âge maximal.",
+      "? Un candidat a 38 ans. Pouvait-il se présenter sous la Constitution de 2000 ? Le peut-il sous celle de 2016 ? || En 2000, non : l'article 35 exigeait 40 ans au moins. En 2016, oui : l'article 55 n'exige que 35 ans. La démarche consiste à identifier le texte applicable, puis à comparer l'âge au seuil de ce texte.",
+      "? Un conseiller est nommé au Conseil constitutionnel en 2004 sous la Constitution de 2000. Jusqu'à quand siège-t-il, et peut-il être reconduit ? || Le mandat dure six ans : il siège jusqu'en 2010. L'article 91 le déclare non renouvelable : il ne peut pas être reconduit. Retenez le raisonnement : durée, puis possibilité de renouvellement.",
+      "? Expliquez en deux phrases pourquoi la Constitution de 2000 limite l'intérim à 90 jours au plus. || L'intérimaire n'a pas reçu de mandat du peuple pour diriger le pays. Le délai court l'oblige à organiser vite une élection, ce qui rend le pouvoir à sa source légitime : le suffrage universel.",
+      "> Pour la dissertation : la Côte d'Ivoire a connu trois Constitutions en un peu plus d'un demi-siècle. Argument de stabilité : chaque texte a conservé la forme républicaine et un exécutif fort. Argument de fragilité : deux textes sur trois ont été suscités par une crise ou une réforme contestée, et le boycott des scrutins de 2016 et de 2020 montre que le consensus reste à construire."
+     ],
+     "retenir": [
+      "La première Constitution de la Côte d'Ivoire indépendante est la loi n° 60-356 du 3 novembre 1960.",
+      "En 1960, le Président est élu pour cinq ans au suffrage universel direct et rééligible sans limitation.",
+      "La Constitution de la Deuxième République, approuvée par le référendum des 23 et 24 juillet 2000, est la loi n° 2000-513 du 1er août 2000.",
+      "L'article 35 de 2000 exigeait des parents tous deux ivoiriens d'origine ; l'article 55 de 2016 n'exige qu'un père ou une mère ivoirien d'origine.",
+      "La Constitution de la Troisième République, approuvée par le référendum du 30 octobre 2016, est la loi n° 2016-886 du 8 novembre 2016.",
+      "La Constitution de 2016 crée le vice-président, le Sénat et la Chambre nationale des rois et chefs traditionnels.",
+      "La loi constitutionnelle n° 2020-348 du 19 mars 2020 fait désigner le vice-président par le Président et supprime la Cour suprême.",
+      "En 2000, l'intérim revient au président de l'Assemblée nationale pour 45 à 90 jours ; les juges constitutionnels ont un mandat de six ans non renouvelable."
+     ],
+     "exo": {
+      "tag": "niv-dc04",
+      "n": 12
+     },
+     "sources": [
+      {
+       "t": "Conseil constitutionnel de Côte d'Ivoire – Constitution du 3 novembre 1960 (loi n° 60-356)",
+       "u": "https://www.conseil-constitutionnel.ci/sites/default/files/constitution_du_3_novembre_1960.pdf"
+      },
+      {
+       "t": "Wikipedia – Constitution of Ivory Coast",
+       "u": "https://en.wikipedia.org/wiki/Constitution_of_Ivory_Coast"
+      },
+      {
+       "t": "Africa Research Institute – Constitution-making in Côte d'Ivoire",
+       "u": "https://africaresearchinstitute.org/briefing-notes/constitution-making-cote-divoire"
+      },
+      {
+       "t": "Wikipedia – Henri Konan Bédié",
+       "u": "https://en.wikipedia.org/wiki/Henri_Konan_B%C3%A9di%C3%A9"
+      },
+      {
+       "t": "Conseil constitutionnel de Côte d'Ivoire – Loi n° 2000-513 du 1er août 2000 portant Constitution",
+       "u": "https://www.conseil-constitutionnel.ci/sites/default/files/loi_n_2000-513_du_1er_aout_2000.pdf"
+      },
+      {
+       "t": "Wikipedia – 2000 Ivorian constitutional referendum",
+       "u": "https://en.wikipedia.org/wiki/2000_Ivorian_constitutional_referendum"
+      },
+      {
+       "t": "Library of Congress – Côte d'Ivoire: New Constitution Adopted (25 novembre 2016)",
+       "u": "https://www.loc.gov/item/global-legal-monitor/2016-11-25/cte-divoire-new-constitution-adopted/"
+      },
+      {
+       "t": "Wikipedia – 2018 Ivorian senatorial election",
+       "u": "https://en.wikipedia.org/wiki/2018_Ivorian_senatorial_election"
+      },
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire de 2016 (rév. 2020)",
+       "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+      },
+      {
+       "t": "Gouvernement de Côte d'Ivoire – Communiqué du Conseil des ministres extraordinaire du 6 mars 2020",
+       "u": "https://www.gouv.ci/uploads/publications/1583527164COMMUNIQUE-DU-CONSEIL-DES-MINISTRES-EXTRAORDINAIRE-DU-VENDREDI-06-MARS-2020.pdf"
+      },
+      {
+       "t": "Le360 Afrique – La révision constitutionnelle adoptée par le Parlement (18 mars 2020)",
+       "u": "https://afrique.le360.ma/cote-divoire/politique/2020/03/18/29840-cote-divoire-la-revision-constitutionnelle-adoptee-par-le-parlement-29840/"
+      },
+      {
+       "t": "Fraternité Matin – La loi constitutionnelle n° 2020-348 du 19 mars 2020 promulguée",
+       "u": "https://www.fratmat.info/article/202808/politique/cote-divoire-la-loi-constitutionnelle-n2020-348-du-19-mars-2020-promulguee-le-code-electoral-modifie-par-ordonnance-communique"
+      },
+      {
+       "t": "Constitute Project – Constitution de la Côte d'Ivoire de 2016",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016.pdf"
+      }
+     ],
+     "rev": 2
     }
    ],
    "sujets": [
