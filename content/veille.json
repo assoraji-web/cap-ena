@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-13",
- "verifie_le": "2026-11-16",
+ "updated": "2026-11-18",
+ "verifie_le": "2026-11-18",
  "session": "Concours directs de la session suivante (entrée à l'ENA en 2028)",
  "statut": "non_annonce",
- "resume": "Au 16 novembre 2026, aucun communiqué officiel n'annonce encore les concours directs de la session suivante. En 2026, les concours avaient été annoncés le 11 mars et les inscriptions ont eu lieu du 16 mars au 30 avril : une annonce vers mars 2027 est probable, sans certitude.",
+ "resume": "Au 18 novembre 2026, aucun communiqué officiel n'annonce encore les concours directs de la session suivante : la rubrique « Avis et communiqués » de l'ENA s'arrête au 30 septembre 2026 (Master GPP). En 2026, le communiqué d'ouverture datait du 15 mars et les inscriptions ont eu lieu du 16 mars au 30 avril : une annonce vers mars 2027 est probable, sans certitude.",
  "calendrier": [
   {
    "etape": "Annonce officielle des concours",
@@ -36,13 +36,13 @@
    }
   },
   {
-   "etape": "Présélection du cycle moyen supérieur",
+   "etape": "Présélection des concours directs",
    "statut": "estime",
-   "prevision": "vers fin juin 2027 (estimation)",
-   "ref2026": "29 et 30 juin 2026",
+   "prevision": "vers fin mai 2027 (estimation)",
+   "ref2026": "30 et 31 mai 2026, à Abidjan, Abengourou, Daloa et Yamoussoukro (résultats communiqués le 2 juillet)",
    "source": {
-    "t": "KOACI, 11 mars 2026 : annonce des concours d'entrée à l'ENA en 2027",
-    "u": "https://www.koaci.com/article/2026/03/11/cote-divoire/societe/cote-divoire-entree-a-lena-annee-2027-les-concours-seront-ouverts-pour-un-recrutement-estime-a-600-places_195022.html"
+    "t": "ENA, 11 juin 2026 : « Concours d'entrée en 2027 à l'Ena : le lancement officiel des compositions effectué »",
+    "u": "https://www.ena.ci/index.php?men=actualite&id=314"
    }
   },
   {
@@ -77,6 +77,15 @@
   }
  ],
  "actus": [
+  {
+   "date": "2026-11-18",
+   "titre": "Correction : la présélection des concours directs 2026 a eu lieu les 30 et 31 mai",
+   "resume": "Selon l'ENA, la présélection s'est tenue les 30 et 31 mai 2026 à Abidjan, Abengourou, Daloa et Yamoussoukro (et non fin juin, comme prévu à l'annonce). La référence du calendrier estimé est corrigée. Rien n'est encore publié sur la session suivante.",
+   "source": {
+    "t": "ENA, 11 juin 2026 : « Concours d'entrée en 2027 à l'Ena : le lancement officiel des compositions effectué »",
+    "u": "https://www.ena.ci/index.php?men=actualite&id=314"
+   }
+  },
   {
    "date": "2026-09-10",
    "titre": "Communiqués de l'ENA sur le dépôt des dossiers et la visite médicale des admis aux concours d'entrée en 2027",
@@ -126,7 +135,7 @@
     "infj-agpa"
    ],
    "statut": "non_annonce",
-   "resume": "Au 14 novembre 2026, aucun arrêté n'ouvre encore la session suivante. En 2026, les arrêtés d'ouverture dataient du 9 janvier et les inscriptions ont débuté le 19 janvier : une ouverture vers janvier 2027 est probable, sans certitude.",
+   "resume": "Au 18 novembre 2026, aucun arrêté n'ouvre encore la session suivante. En 2026, les arrêtés d'ouverture dataient du 9 janvier et les inscriptions ont débuté le 19 janvier : une ouverture vers janvier 2027 est probable, sans certitude.",
    "calendrier": [
     {
      "etape": "Arrêtés d'ouverture",
@@ -177,7 +186,7 @@
     "fp-sa"
    ],
    "statut": "non_annonce",
-   "resume": "Au 14 novembre 2026, la liste des concours administratifs de la session suivante n'est pas publiée. En 2026, les inscriptions ont eu lieu du 16 mars au 30 avril.",
+   "resume": "Au 18 novembre 2026, la liste des concours administratifs de la session suivante n'est pas publiée. En 2026, les inscriptions ont eu lieu du 16 mars au 30 avril.",
    "calendrier": [
     {
      "etape": "Inscriptions en ligne (fonctionpublique.gouv.ci)",
