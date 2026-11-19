@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-18",
- "verifie_le": "2026-11-18",
+ "updated": "2026-11-19",
+ "verifie_le": "2026-11-19",
  "session": "Concours directs de la session suivante (entrée à l'ENA en 2028)",
  "statut": "non_annonce",
- "resume": "Au 18 novembre 2026, aucun communiqué officiel n'annonce encore les concours directs de la session suivante : la rubrique « Avis et communiqués » de l'ENA s'arrête au 30 septembre 2026 (Master GPP). En 2026, le communiqué d'ouverture datait du 15 mars et les inscriptions ont eu lieu du 16 mars au 30 avril : une annonce vers mars 2027 est probable, sans certitude.",
+ "resume": "Au 19 novembre 2026, aucun communiqué officiel n'annonce encore les concours directs de la session suivante : la rubrique « Avis et communiqués » de l'ENA s'arrête au 30 septembre 2026 (Master GPP). En 2026, le communiqué d'ouverture datait du 15 mars et les inscriptions ont eu lieu du 16 mars au 30 avril : une annonce vers mars 2027 est probable, sans certitude.",
  "calendrier": [
   {
    "etape": "Annonce officielle des concours",
@@ -68,15 +68,24 @@
   {
    "etape": "Visite médicale et dépôt des dossiers des admis",
    "statut": "estime",
-   "prevision": "vers septembre et octobre 2027 (estimation)",
-   "ref2026": "du 21 septembre au 23 octobre 2026",
+   "prevision": "vers mi-septembre 2027 (estimation)",
+   "ref2026": "visite médicale à partir du 15 septembre 2026 (cycle moyen supérieur le 16), selon un communiqué de l'ENA du 7 septembre ; dépôt des dossiers des admis à la même période",
    "source": {
-    "t": "KOACI, 11 mars 2026 : annonce des concours d'entrée à l'ENA en 2027",
-    "u": "https://www.koaci.com/article/2026/03/11/cote-divoire/societe/cote-divoire-entree-a-lena-annee-2027-les-concours-seront-ouverts-pour-un-recrutement-estime-a-600-places_195022.html"
+    "t": "AllAfrica (Fraternité Matin), 14 septembre 2026 : ENA, la visite médicale des admis démarre le 15 septembre",
+    "u": "https://fr.allafrica.com/stories/202609140740.html"
    }
   }
  ],
  "actus": [
+  {
+   "date": "2026-11-19",
+   "titre": "Correction : la visite médicale des admis de 2026 a commencé le 15 septembre",
+   "resume": "Selon un communiqué de l'ENA du 7 septembre 2026 relayé par Fraternité Matin, la visite médicale a débuté le 15 septembre (cycle supérieur), le 16 pour le cycle moyen supérieur et le 17 pour le cycle moyen, et non le 21 septembre comme prévu à l'annonce de mars. La référence du calendrier estimé est corrigée. Rien n'est encore publié sur la session suivante.",
+   "source": {
+    "t": "AllAfrica (Fraternité Matin), 14 septembre 2026 : ENA, la visite médicale des admis démarre le 15 septembre",
+    "u": "https://fr.allafrica.com/stories/202609140740.html"
+   }
+  },
   {
    "date": "2026-11-18",
    "titre": "Correction : la présélection des concours directs 2026 a eu lieu les 30 et 31 mai",
@@ -135,7 +144,7 @@
     "infj-agpa"
    ],
    "statut": "non_annonce",
-   "resume": "Au 18 novembre 2026, aucun arrêté n'ouvre encore la session suivante. En 2026, les arrêtés d'ouverture dataient du 9 janvier et les inscriptions ont débuté le 19 janvier : une ouverture vers janvier 2027 est probable, sans certitude.",
+   "resume": "Au 19 novembre 2026, aucun arrêté n'ouvre encore la session suivante. En 2026, les arrêtés d'ouverture dataient du 9 janvier et les inscriptions ont débuté le 19 janvier : une ouverture vers janvier 2027 est probable, sans certitude.",
    "calendrier": [
     {
      "etape": "Arrêtés d'ouverture",
@@ -186,7 +195,7 @@
     "fp-sa"
    ],
    "statut": "non_annonce",
-   "resume": "Au 18 novembre 2026, la liste des concours administratifs de la session suivante n'est pas publiée. En 2026, les inscriptions ont eu lieu du 16 mars au 30 avril.",
+   "resume": "Au 19 novembre 2026, la liste des concours administratifs de la session suivante n'est pas publiée. En 2026, les inscriptions ont eu lieu du 16 mars au 30 avril.",
    "calendrier": [
     {
      "etape": "Inscriptions en ligne (fonctionpublique.gouv.ci)",

@@ -30580,6 +30580,66 @@
       "Conclusion : la paix durable articule justice, vérité et développement (sécurité humaine, PNUD 1994) ; ouverture sur le rôle des jeunes dans la cohésion sociale."
      ]
     }
+   ],
+   "analyses": [
+    {
+     "id": "A20261119",
+     "theme": "Finances publiques et économie numérique",
+     "titre": "Inclusion financière en Côte d'Ivoire : ce que la monnaie électronique a changé, et ce qu'il reste à faire",
+     "chapeau": "En dix ans, la part des Ivoiriens qui utilisent un service financier a fortement progressé, surtout grâce au paiement par téléphone mobile. Mais la banque classique reste minoritaire et l'accès au crédit limité. Distinguer « avoir un compte » et « être réellement inclus » est la clé de tout sujet sur la finance au service du développement.",
+     "corps": [
+      "## Le constat",
+      "L'inclusion financière désigne l'accès des personnes et des entreprises, à un coût raisonnable, à des services financiers adaptés : compte, paiement, épargne, crédit, assurance. Pour la mesurer, la Banque centrale des États de l'Afrique de l'Ouest (BCEAO), qui sert les huit pays de l'Union économique et monétaire ouest-africaine (UEMOA), utilise plusieurs indicateurs. Le taux de bancarisation strict (TBS) rapporte le nombre de titulaires d'un compte dans une banque, à la poste ou dans une caisse d'épargne à la population adulte. Le taux de bancarisation élargi (TBE) y ajoute les comptes des institutions de microfinance. Enfin, le taux global d'utilisation des services financiers (TGUSF) intègre aussi les comptes de monnaie électronique, c'est-à-dire la valeur monétaire stockée sur un support électronique, en pratique un téléphone portable.",
+      "Selon les données de la BCEAO publiées par la Direction générale de l'Économie (ministère de l'Économie, des Finances et du Budget), la Côte d'Ivoire a connu une progression nette entre 2018 et 2023. Le TBS est passé de 17,79 % à 31,2 % ; le TBE de 28,79 % à 43,6 % ; le TGUSF, corrigé des personnes qui ont plusieurs comptes, de 67,07 % à 84,7 %. Le taux d'utilisation des services de monnaie électronique (comptes actifs) est passé de 49,48 % en 2018 à 79,47 % en 2022. Le nombre de points de service pour 10 000 adultes a presque quadruplé, de 60 à 225. La même source indique que la Banque mondiale, dans sa base Global Findex 2025, évalue le taux d'inclusion financière du pays à 58 % en 2024.",
+      "Le décalage entre ces chiffres est instructif. Près de quatre adultes sur cinq utilisent la monnaie électronique, mais moins d'un tiers ont un compte bancaire au sens strict. Le paiement mobile a donc été le principal moteur de l'inclusion, bien plus que l'ouverture d'agences.",
+      "## Les causes",
+      "Trois facteurs expliquent la place prise par le téléphone. D'abord, la diffusion du mobile : un abonnement suffit pour ouvrir un compte, sans justificatif de revenu ni agence à proximité. Ensuite, la demande : une grande partie de l'économie est informelle (activités non déclarées), avec des revenus irréguliers et de petits montants, mal adaptés aux exigences et aux frais d'une banque. Enfin, la réglementation : les établissements de monnaie électronique (EME) sont des sociétés agréées par la BCEAO pour émettre, gérer et distribuer cette monnaie. En Côte d'Ivoire, un quatrième EME, Djogana Pay, a été agréé (agrément EME.CI.025/2025), après Orange Money, MTN Mobile Money et Moov Money, selon Fraternité Matin relayé par AllAfrica.",
+      "La microfinance joue un rôle complémentaire. Selon l'Agence de promotion de l'inclusion financière (APIF), citée par la Direction générale de l'Économie, les institutions de microfinance comptaient environ 2,3 millions de clients en 2023, pour 555,9 milliards de FCFA de dépôts et 605,9 milliards de FCFA d'encours de crédit, avec 46 institutions agréées. Le nombre de transactions par téléphonie mobile est passé de 1 512,86 millions en 2022 à 1 918,02 millions en 2023.",
+      "## Les réponses publiques",
+      "- Au niveau régional, la BCEAO a lancé officiellement le 30 septembre 2025 la Plateforme interopérable du système de paiement instantané (PI-SPI), après une phase pilote ouverte en juillet 2024 ; 45 institutions étaient prêtes au lancement. « Interopérable » signifie qu'un client d'un opérateur peut payer ou transférer de l'argent vers le client d'un autre opérateur ou d'une banque, instantanément et à toute heure, grâce à un alias unique et à un code QR commun. Un responsable de la BCEAO la présente comme un pilier de la nouvelle stratégie régionale d'inclusion financière 2025-2030.",
+      "- La BCEAO impose aussi depuis une instruction du 25 juin 2014 (n°004-06-2014) que les établissements de crédit offrent 19 services bancaires gratuits, afin de réduire le coût d'entrée dans la banque.",
+      "- Le Bureau d'information sur le crédit (BIC), qui centralise l'historique des emprunteurs, vise à faciliter l'octroi de prêts aux clients sans garanties matérielles en leur permettant de prouver leur sérieux.",
+      "- Au niveau national, l'APIF suit et anime la politique d'inclusion financière et publie un rapport annuel.",
+      "## Les débats et les limites",
+      "Le premier débat porte sur le sens des chiffres. Un compte de monnaie électronique ouvert n'est pas forcément utilisé pour épargner ou emprunter ; il sert souvent surtout aux transferts. Les partisans d'une approche par le mobile y voient une porte d'entrée efficace vers d'autres services (micro-épargne, micro-crédit numérique, assurance). D'autres soulignent que l'inclusion réelle se mesure à l'accès au crédit productif, encore faible pour les ménages et les petites entreprises, comme le suggère l'écart entre le TBS (31,2 %) et le TGUSF (84,7 %).",
+      "Le deuxième débat concerne le coût des services. Les frais de transfert et de retrait pèsent davantage sur les petits montants. L'interopérabilité et la concurrence entre opérateurs sont présentées comme des moyens de les réduire ; certains acteurs craignent en revanche qu'une baisse trop forte des tarifs fragilise le modèle économique des réseaux d'agents, indispensables en zone rurale. La fiscalité des transactions électroniques suscite des positions comparables : source de recettes pour l'État selon les uns, frein à l'inclusion selon les autres.",
+      "Le troisième débat touche à la protection des usagers : fraude, erreurs de transfert, données personnelles, surendettement possible avec le crédit numérique rapide. L'éducation financière et la régulation des réclamations deviennent alors aussi importantes que l'accès.",
+      "Enfin, la comparaison régionale relativise les progrès. Selon un article de Digital Mag fondé sur un rapport de la BCEAO publié en octobre 2026, le Sénégal affichait fin 2025 un TBE de 67,13 % et un indice synthétique d'inclusion de 0,651, au-dessus de la moyenne de l'UEMOA (0,616), le Bénin étant en tête (0,667).",
+      "## Ce qu'en attend un jury",
+      "Un jury attend que le candidat définisse précisément les termes (bancarisation stricte, élargie, monnaie électronique, interopérabilité), qu'il évite de confondre accès et usage, et qu'il replace la question dans le cadre de l'UEMOA, où la politique monétaire et la réglementation bancaire relèvent de la BCEAO. Il valorise une analyse équilibrée : reconnaître le succès du paiement mobile, tout en montrant ce qui manque encore pour financer l'investissement des ménages, des jeunes entrepreneurs et des petites entreprises.",
+      "~ Exemple d'accroche : « En Côte d'Ivoire, près de huit adultes sur dix utilisent la monnaie électronique, mais moins d'un sur trois possède un compte bancaire : le téléphone a ouvert la porte de la finance, reste à faire entrer le crédit. »"
+     ],
+     "retenir": [
+      "De 2018 à 2023, le taux global d'utilisation des services financiers est passé de 67,07 % à 84,7 % (BCEAO).",
+      "Le taux de bancarisation strict n'atteint que 31,2 % en 2023 : la banque classique reste minoritaire.",
+      "La monnaie électronique (comptes actifs) touchait 79,47 % des adultes en 2022 ; c'est le moteur principal de l'inclusion.",
+      "La BCEAO a lancé le 30 septembre 2025 la plateforme de paiement instantané interopérable PI-SPI.",
+      "Les débats portent sur l'usage réel des comptes, le coût des services, la fiscalité et la protection des usagers."
+     ],
+     "sujets": [
+      "L'inclusion financière par le mobile suffit-elle à financer le développement en Côte d'Ivoire ?",
+      "Monnaie électronique et banque : concurrence ou complémentarité dans l'UEMOA ?",
+      "Oral : quelles politiques publiques pour faciliter l'accès des jeunes entrepreneurs au crédit ?"
+     ],
+     "sources": [
+      {
+       "t": "Direction générale de l'Économie : Indicateurs Inclusion financière",
+       "u": "https://economie-ivoirienne.ci/banques-et-finances/indicateurs-inclusion-financiere.html"
+      },
+      {
+       "t": "AllAfrica (Fraternité Matin) : Inclusion financière/Monnaie électronique - Le pays enregistre un 4e établissement",
+       "u": "https://fr.allafrica.com/stories/202509270068.html"
+      },
+      {
+       "t": "AllAfrica, 12 janvier 2026 : François Sene (BCEAO) - « Le dynamisme du crédit s'est maintenu… »",
+       "u": "https://fr.allafrica.com/stories/202601120401.html"
+      },
+      {
+       "t": "Digital Mag, 23 octobre 2026 : Sénégal, 66,29 % des adultes utilisent la monnaie électronique à fin 2025 (Rapport BCEAO)",
+       "u": "https://digitalmag.ci/monnaie-electronique-senegal-2025/"
+      }
+     ]
+    }
    ]
   }
  ]
