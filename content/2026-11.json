@@ -30273,6 +30273,525 @@
       "t": "Wikipedia, Félix Houphouët-Boigny Peace Prize",
       "u": "https://en.wikipedia.org/wiki/F%C3%A9lix_Houphou%C3%ABt-Boigny_Peace_Prize"
      }
+    },
+    {
+     "id": "c20261119-ct04-13",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Un sujet demande un résumé de 180 mots, plus ou moins 10 %. Quelle est la fourchette autorisée ?",
+     "o": [
+      "De 170 à 190 mots",
+      "De 162 à 198 mots",
+      "De 180 à 198 mots",
+      "De 162 à 180 mots"
+     ],
+     "a": 1,
+     "e": "10 % de 180 = 18 mots. Le minimum vaut 180 − 18 = 162 mots et le maximum 180 + 18 = 198 mots : la tolérance joue dans les deux sens.",
+     "ed": [
+      "170 à 190 applique une marge fixe de 10 mots, et non 10 % du nombre imposé.",
+      null,
+      "Cette fourchette oublie que l'on peut aussi écrire moins que le nombre imposé.",
+      "Cette fourchette oublie que l'on peut aussi dépasser le nombre imposé, jusqu'à 110 %."
+     ],
+     "verif": "calcul",
+     "calc": "180-18"
+    },
+    {
+     "id": "c20261119-ct04-14",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "La consigne demande de résumer « au quart de sa longueur » un texte de 1 200 mots. Quel nombre de mots devez-vous viser ?",
+     "o": [
+      "400 mots",
+      "120 mots",
+      "300 mots",
+      "250 mots"
+     ],
+     "a": 2,
+     "e": "Résumer au quart, c'est diviser la longueur du texte par 4 : 1 200 ÷ 4 = 300 mots. C'est ce nombre qui sert ensuite de base à la tolérance éventuelle.",
+     "ed": [
+      "400 correspond au tiers (1 200 ÷ 3), pas au quart.",
+      "120 correspond au dixième (1 200 ÷ 10), pas au quart.",
+      null,
+      "250 ne résulte d'aucune division exacte de 1 200 par 4 : c'est un arrondi sans fondement."
+     ],
+     "verif": "calcul",
+     "calc": "1200/4"
+    },
+    {
+     "id": "c20261119-ct04-15",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Votre brouillon compte 19 lignes pleines de dix mots et une dernière ligne de 7 mots. Au recopiage, vous supprimez 3 mots. Combien de mots devez-vous déclarer ?",
+     "o": [
+      "194 mots",
+      "197 mots",
+      "200 mots",
+      "187 mots"
+     ],
+     "a": 0,
+     "e": "19 lignes × 10 mots = 190, plus 7 mots = 197, moins les 3 mots supprimés = 194. Le total déclaré doit être celui de la copie finale, pas celui du brouillon.",
+     "ed": [
+      null,
+      "197 est le total du brouillon : il oublie les 3 mots supprimés au recopiage.",
+      "200 compte la dernière ligne comme une ligne pleine de dix mots.",
+      "187 compte seulement 18 lignes pleines : il manque une ligne de dix mots."
+     ],
+     "verif": "calcul",
+     "calc": "19*10+7-3"
+    },
+    {
+     "id": "c20261119-ct04-16",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Pour un résumé de 250 mots (± 10 %), votre texte compte 281 mots. Combien de mots devez-vous retirer au minimum ?",
+     "o": [
+      "31 mots",
+      "25 mots",
+      "56 mots",
+      "6 mots"
+     ],
+     "a": 3,
+     "e": "Le maximum autorisé est 250 + 25 = 275 mots. 281 − 275 = 6 : il faut retirer au moins 6 mots, de préférence quelques-uns de plus pour garder une marge.",
+     "ed": [
+      "31 ramène exactement à 250 mots : c'est possible, mais ce n'est pas le minimum exigé par la fourchette.",
+      "25 est la tolérance elle-même, pas l'excédent à supprimer.",
+      "56 ramènerait au minimum de 225 mots : on retirerait des idées sans nécessité.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "281-275"
+    },
+    {
+     "id": "c20261119-ct04-17",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Selon la convention usuelle (l'apostrophe sépare deux mots), combien de mots compte la phrase « Le maire d'Abengourou reçoit les jeunes du quartier. » ?",
+     "o": [
+      "8 mots",
+      "10 mots",
+      "9 mots",
+      "7 mots"
+     ],
+     "a": 2,
+     "e": "Le (1) maire (2) d' (3) Abengourou (4) reçoit (5) les (6) jeunes (7) du (8) quartier (9) : 9 mots. L'élision « d' » compte pour un mot, et « du » aussi.",
+     "ed": [
+      "8 oublie que l'élision « d' » compte pour un mot à part entière.",
+      "10 compte un mot de trop : le point final ne compte pas.",
+      null,
+      "7 oublie à la fois « d' » et l'un des petits mots comme « du » ou « les »."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "c20261119-ct04-18",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Combien de mots compte la phrase « Le CNJCI réunit ses délégués en 2026. » ?",
+     "o": [
+      "7 mots",
+      "8 mots",
+      "6 mots",
+      "11 mots"
+     ],
+     "a": 0,
+     "e": "Le (1) CNJCI (2) réunit (3) ses (4) délégués (5) en (6) 2026 (7) : 7 mots. Un sigle compte pour un mot et une date écrite en chiffres aussi.",
+     "ed": [
+      null,
+      "8 compte un mot de trop : ni le point ni l'espace ne comptent.",
+      "6 oublie la date « 2026 », qui compte pour un mot.",
+      "11 décompose le sigle en ses lettres ou en ses mots développés : un sigle ne compte que pour un mot."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "c20261119-ct04-19",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "La consigne demande de marquer d'une barre oblique chaque tranche de 50 mots. Après quel mot placez-vous la troisième barre ?",
+     "o": [
+      "Après le 100e mot",
+      "Après le 153e mot",
+      "Après le 50e mot",
+      "Après le 150e mot"
+     ],
+     "a": 3,
+     "e": "Les barres se placent après le 50e, le 100e puis le 150e mot : la troisième barre suit donc le 150e mot (3 × 50). Elles permettent au correcteur de vérifier vite le décompte.",
+     "ed": [
+      "Après le 100e mot se trouve la deuxième barre, pas la troisième.",
+      "153 n'est pas un multiple de 50 : la barre doit tomber exactement après le 150e mot.",
+      "Après le 50e mot se trouve la première barre.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "c20261119-ct04-20",
+     "m": "ct",
+     "tag": "niv-ct04",
+     "q": "Votre résumé est trop long. Quelle reformulation de « Parce que les prix ont fortement augmenté, les ménages se sont mis à consommer moins. » gagne des mots sans trahir l'idée ?",
+     "o": [
+      "Hélas, la hausse injuste des prix ruine les ménages.",
+      "Les ménages, qui ont vu les prix augmenter fortement, ont dû réduire leur consommation.",
+      "La forte hausse des prix a réduit la consommation des ménages.",
+      "Les ménages consomment davantage malgré la hausse des prix."
+     ],
+     "a": 2,
+     "e": "La nominalisation (« la forte hausse des prix ») remplace une proposition entière : on passe de 15 à 11 mots en gardant la cause et l'effet. C'est la technique de réduction attendue au concours.",
+     "ed": [
+      "Elle ajoute un jugement personnel (« hélas », « injuste ») et exagère l'idée (« ruine »), ce que le résumé interdit.",
+      "Elle ne gagne qu'un mot et ajoute une contrainte (« ont dû ») absente de la phrase de départ.",
+      null,
+      "Elle inverse le sens : le texte dit que la consommation baisse, non qu'elle augmente."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "c20261119-pe04-13",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Un planteur vend pour 100 milliards de F de fèves (sans consommations intermédiaires), un chocolatier les transforme en produits vendus 180, un distributeur les revend 230. Quelle est la somme des valeurs ajoutées ?",
+     "o": [
+      "510 milliards de F",
+      "230 milliards de F",
+      "180 milliards de F",
+      "130 milliards de F"
+     ],
+     "a": 1,
+     "e": "VA du planteur 100, du chocolatier 180 − 100 = 80, du distributeur 230 − 180 = 50 : total 230. La somme des valeurs ajoutées égale la valeur du produit final, sans double compte.",
+     "ed": [
+      "510 additionne les trois chiffres d'affaires : les fèves seraient comptées trois fois (double compte).",
+      null,
+      "180 oublie la valeur ajoutée du distributeur (50).",
+      "130 additionne les valeurs ajoutées du chocolatier et du distributeur mais oublie celle du planteur."
+     ],
+     "verif": "calcul",
+     "calc": "100+(180-100)+(230-180)"
+    },
+    {
+     "id": "c20261119-pe04-14",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Consommation finale 25 000 ; FBCF 7 000 ; variation des stocks −200 ; exportations 8 000 ; importations 9 300 (milliards de F). Que vaut le PIB par l'approche de la demande ?",
+     "o": [
+      "49 500 milliards de F",
+      "30 900 milliards de F",
+      "30 500 milliards de F",
+      "22 500 milliards de F"
+     ],
+     "a": 2,
+     "e": "PIB = consommation finale + FBCF + variation des stocks + exportations − importations = 25 000 + 7 000 − 200 + 8 000 − 9 300 = 30 500 milliards de F.",
+     "ed": [
+      "49 500 additionne les importations au lieu de les soustraire.",
+      "30 900 ajoute la variation des stocks alors qu'elle est négative (−200).",
+      null,
+      "22 500 oublie d'ajouter les exportations (8 000)."
+     ],
+     "verif": "calcul",
+     "calc": "25000+7000-200+8000-9300"
+    },
+    {
+     "id": "c20261119-pe04-15",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Le PIB en valeur vaut 72 000 milliards de F et le déflateur du PIB vaut 120 (base 100). Que vaut le PIB en volume ?",
+     "o": [
+      "60 000 milliards de F",
+      "86 400 milliards de F",
+      "72 120 milliards de F",
+      "57 600 milliards de F"
+     ],
+     "a": 0,
+     "e": "Déflateur = PIB en valeur ÷ PIB en volume × 100, donc PIB en volume = 72 000 ÷ 120 × 100 = 60 000 milliards de F : on retire l'effet de la hausse des prix.",
+     "ed": [
+      null,
+      "86 400 multiplie par 1,2 au lieu de diviser : on ajouterait l'inflation au lieu de la retirer.",
+      "72 120 additionne un indice et un montant : ces grandeurs ne s'additionnent pas.",
+      "57 600 retire 20 % de 72 000, ce qui n'est pas la même chose que diviser par 1,2."
+     ],
+     "verif": "calcul",
+     "calc": "72000/120*100"
+    },
+    {
+     "id": "c20261119-pe04-16",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Le PIB en volume passe de 40 000 à 42 400 milliards de F en un an. Quel est le taux de croissance réelle ?",
+     "o": [
+      "2,4 %",
+      "5,7 %",
+      "4 %",
+      "6 %"
+     ],
+     "a": 3,
+     "e": "Taux de croissance = (42 400 − 40 000) ÷ 40 000 × 100 = 2 400 ÷ 40 000 × 100 = 6 %. Comme le PIB est en volume, ce taux est la croissance réelle.",
+     "ed": [
+      "2,4 confond la variation absolue (2 400 milliards) avec un pourcentage.",
+      "5,7 % divise l'écart par la valeur d'arrivée (42 400) au lieu de la valeur de départ.",
+      "4 % ne correspond à aucun calcul correct : l'écart de 2 400 représente 6 % de 40 000.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "(42400-40000)/40000*100"
+    },
+    {
+     "id": "c20261119-pe04-17",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Un pays a un PIB de 45 000 milliards de F et 30 millions d'habitants. Que vaut son PIB par habitant ?",
+     "o": [
+      "15 000 F",
+      "1 500 000 F",
+      "150 000 F",
+      "1 350 000 F"
+     ],
+     "a": 1,
+     "e": "PIB par habitant = PIB ÷ population = 45 000 000 000 000 ÷ 30 000 000 = 1 500 000 F. Attention aux unités : 45 000 milliards = 45 000 × 1 000 000 000.",
+     "ed": [
+      "15 000 F oublie un facteur 100 dans la conversion des milliards.",
+      null,
+      "150 000 F oublie un facteur 10 dans la conversion des unités.",
+      "1 350 000 F ne résulte d'aucune division correcte de 45 000 milliards par 30 millions."
+     ],
+     "verif": "calcul",
+     "calc": "45000000000000/30000000"
+    },
+    {
+     "id": "c20261119-pe04-18",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Valeurs ajoutées : secteur primaire 8 000, secondaire 9 500, tertiaire 17 000 ; impôts sur les produits nets des subventions 4 500 (milliards de F). Que vaut le PIB aux prix du marché ?",
+     "o": [
+      "34 500 milliards de F",
+      "30 000 milliards de F",
+      "39 000 milliards de F",
+      "43 500 milliards de F"
+     ],
+     "a": 2,
+     "e": "PIB = somme des valeurs ajoutées + impôts sur les produits nets des subventions = 8 000 + 9 500 + 17 000 + 4 500 = 39 000 milliards de F.",
+     "ed": [
+      "34 500 est la seule somme des valeurs ajoutées : il manque les impôts nets sur les produits.",
+      "30 000 soustrait les impôts nets au lieu de les ajouter.",
+      null,
+      "43 500 compte deux fois les impôts nets sur les produits."
+     ],
+     "verif": "calcul",
+     "calc": "8000+9500+17000+4500"
+    },
+    {
+     "id": "c20261119-pe04-19",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "PIB 50 000 ; revenus primaires reçus du reste du monde 400 ; revenus primaires versés au reste du monde 2 100 (milliards de F). Que vaut le revenu national brut ?",
+     "o": [
+      "48 300 milliards de F",
+      "52 500 milliards de F",
+      "51 700 milliards de F",
+      "47 500 milliards de F"
+     ],
+     "a": 0,
+     "e": "RNB = PIB + revenus primaires reçus du reste du monde − revenus primaires versés au reste du monde = 50 000 + 400 − 2 100 = 48 300 milliards de F.",
+     "ed": [
+      null,
+      "52 500 ajoute les revenus versés au lieu de les retirer.",
+      "51 700 inverse les signes : il retire les revenus reçus et ajoute les revenus versés.",
+      "47 500 retire les deux flux, alors que les revenus reçus s'ajoutent."
+     ],
+     "verif": "calcul",
+     "calc": "50000+400-2100"
+    },
+    {
+     "id": "c20261119-pe04-20",
+     "m": "pes",
+     "tag": "niv-pe04",
+     "q": "Piège : le PIB en valeur augmente de 6 % et les prix (déflateur) de 7 %. Que conclut-on, en calcul rapide ?",
+     "o": [
+      "Croissance réelle d'environ 13 %",
+      "Croissance réelle d'environ 6 %",
+      "Croissance réelle d'environ 1 %",
+      "Croissance réelle d'environ -1 % : le volume recule"
+     ],
+     "a": 3,
+     "e": "En calcul rapide, croissance réelle ≈ croissance nominale − inflation = 6 − 7 = −1 %. Le PIB en valeur monte, mais seulement parce que les prix montent : les quantités produites reculent.",
+     "ed": [
+      "13 % additionne la croissance nominale et l'inflation au lieu de soustraire.",
+      "6 % est la croissance nominale : elle inclut la hausse des prix.",
+      "1 % a le bon écart mais le mauvais signe : l'inflation dépasse la croissance nominale.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "6-7"
+    },
+    {
+     "id": "c20261119-so04-13",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Quel connecteur exprime la concession, c'est-à-dire qu'on reconnaît un point avant de le dépasser ?",
+     "o": [
+      "Par conséquent",
+      "Certes… mais",
+      "En effet",
+      "De plus"
+     ],
+     "a": 1,
+     "e": "« Certes… mais » admet d'abord une idée (certes) puis la dépasse (mais) : c'est la structure de la concession, très utile pour nuancer un argument.",
+     "ed": [
+      "« Par conséquent » introduit une conséquence, pas une concession.",
+      null,
+      "« En effet » introduit une explication ou une cause.",
+      "« De plus » ajoute une idée de même sens : c'est une addition."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "c20261119-so04-14",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Dans quel ordre se succèdent les éléments d'un paragraphe argumentatif complet ?",
+     "o": [
+      "Exemple, idée directrice, explication, mini-conclusion, analyse",
+      "Mini-conclusion, exemple, explication, idée directrice, analyse",
+      "Idée directrice, explication, exemple, analyse de l'exemple, mini-conclusion",
+      "Explication, mini-conclusion, idée directrice, exemple, analyse"
+     ],
+     "a": 2,
+     "e": "On affirme d'abord l'idée, on explique le mécanisme qui la rend vraie, on l'illustre par un exemple précis que l'on analyse, puis on conclut en revenant au sujet.",
+     "ed": [
+      "Commencer par l'exemple oblige le correcteur à deviner ce qu'il doit prouver.",
+      "Commencer par la conclusion supprime toute démonstration : on affirme avant d'avoir prouvé.",
+      null,
+      "L'explication ne peut précéder l'idée qu'elle justifie : le lecteur ne sait pas encore ce qu'on explique."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261119-so04-15",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Idée directrice : « L'école réduit les inégalités. » Quelle explication tourne en rond au lieu d'éclairer le mécanisme ?",
+     "o": [
+      "En effet, l'école diminue les inégalités entre les enfants.",
+      "En effet, elle donne à chaque enfant les mêmes savoirs de base, quelle que soit sa famille.",
+      "En effet, un diplôme ouvre l'accès à des emplois mieux rémunérés.",
+      "En effet, la cantine scolaire garantit un repas aux enfants des familles modestes."
+     ],
+     "a": 0,
+     "e": "Cette phrase répète l'idée avec d'autres mots (« réduit » devient « diminue ») sans dire comment ni pourquoi : c'est une paraphrase, pas une explication.",
+     "ed": [
+      null,
+      "Elle décrit un mécanisme précis (les mêmes savoirs pour tous) : c'est une vraie explication.",
+      "Elle décrit un mécanisme (le diplôme donne accès à l'emploi) : c'est une vraie explication.",
+      "Elle décrit un mécanisme concret (le repas assuré) : c'est une vraie explication."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261119-so04-16",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Pour illustrer l'idée « l'État ivoirien cherche à protéger la santé de toute la population », quel exemple est à la fois exact et précis ?",
+     "o": [
+      "Dans de nombreux pays, des réformes de santé ont été menées.",
+      "La couverture maladie universelle, instituée par la Constitution de 1960.",
+      "La couverture maladie universelle, créée par l'accord de Ouagadougou de 2007.",
+      "La couverture maladie universelle, instituée par la loi n°2014-131 du 24 mars 2014 et effective depuis le 1er octobre 2019."
+     ],
+     "a": 3,
+     "e": "La CMU a été instituée par la loi n°2014-131 du 24 mars 2014 et est effective depuis le 1er octobre 2019 (Direction générale de l'Économie) : le correcteur peut vérifier chaque élément.",
+     "ed": [
+      "Cette phrase est vague : aucun pays, aucune date, aucun texte ; elle ne prouve rien.",
+      "La Constitution de 1960 n'a pas institué la CMU, créée par une loi de 2014.",
+      "L'accord de Ouagadougou de 2007 est un accord politique de sortie de crise ; il n'a pas créé la CMU.",
+      null
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie (Côte d'Ivoire) – Couverture maladie universelle",
+      "u": "https://economie-ivoirienne.ci/activites-sectorielles/couverture-maladie-universelle.html"
+     }
+    },
+    {
+     "id": "c20261119-so04-17",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Où doit se placer la phrase qui analyse l'exemple ?",
+     "o": [
+      "Juste après l'exemple, pour dire ce qu'il prouve",
+      "Au début du paragraphe, avant l'idée directrice",
+      "Dans la conclusion générale du devoir",
+      "Nulle part : un bon exemple parle de lui-même"
+     ],
+     "a": 0,
+     "e": "L'analyse suit immédiatement l'exemple : elle relie le fait concret à l'idée défendue. Sans elle, le correcteur ne sait pas ce que le fait est censé démontrer.",
+     "ed": [
+      null,
+      "Avant l'idée directrice, le lecteur ne sait pas encore ce qu'il faut prouver.",
+      "Reporter l'analyse à la conclusion générale coupe le lien entre le fait et l'argument qu'il sert.",
+      "Un exemple non commenté ne démontre rien : c'est l'erreur du « catalogue » d'exemples."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261119-so04-18",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Un candidat écrit : « La CMU protège les travailleurs de l'informel. En revanche, elle améliore l'accès aux soins des ménages ruraux. » Quelle est l'erreur ?",
+     "o": [
+      "Une faute d'accord du verbe",
+      "Un contresens logique : « en revanche » oppose, alors que les deux idées vont dans le même sens",
+      "Un exemple trop précis",
+      "L'absence de sigle développé dans la seconde phrase"
+     ],
+     "a": 1,
+     "e": "« En revanche » annonce une opposition. Ici, la seconde idée prolonge la première : il fallait un connecteur d'addition comme « de plus » ou « en outre ».",
+     "ed": [
+      "Les verbes « protège » et « améliore » s'accordent correctement avec leur sujet singulier.",
+      null,
+      "La précision d'un exemple est une qualité, pas un défaut.",
+      "Le problème porte sur le lien logique entre les phrases, pas sur le sigle."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "c20261119-so04-19",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Sujet : « La formation suffit-elle à résoudre le chômage des jeunes ? » Quelle phrase est la meilleure mini-conclusion d'un paragraphe montrant que la formation rapproche les jeunes de l'emploi ?",
+     "o": [
+      "Le chômage des jeunes est un problème très grave.",
+      "J'espère que le gouvernement fera davantage pour les jeunes.",
+      "La formation est donc un levier réel d'insertion ; reste à savoir si l'économie crée assez d'emplois pour l'absorber.",
+      "Par ailleurs, il existe de nombreuses écoles en Côte d'Ivoire."
+     ],
+     "a": 2,
+     "e": "Elle dit ce que le paragraphe a établi (la formation favorise l'insertion), revient au sujet et prépare la partie suivante (les limites liées à la création d'emplois).",
+     "ed": [
+      "Phrase générale qui ne dit pas ce que l'argument a démontré.",
+      "Un souhait personnel n'est pas une conclusion d'argument et n'a pas sa place dans la démonstration.",
+      null,
+      "Elle ouvre une nouvelle idée sans rapport avec la démonstration au lieu de la conclure."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261119-so04-20",
+     "m": "sog",
+     "tag": "niv-so04",
+     "q": "Complétez correctement : « Bien que la CMU …… récente, elle concerne déjà une large part de la population. »",
+     "o": [
+      "est",
+      "sera",
+      "serait",
+      "soit"
+     ],
+     "a": 3,
+     "e": "« Bien que » exprime la concession et impose toujours le subjonctif : « bien que la CMU soit récente ». C'est une règle sans exception.",
+     "ed": [
+      "« est » est l'indicatif : après « bien que », l'indicatif est une faute.",
+      "« sera » est le futur de l'indicatif, interdit après « bien que ».",
+      "« serait » est le conditionnel, interdit après « bien que ».",
+      null
+     ],
+     "verif": "regle"
     }
    ],
    "lessons": [
@@ -30563,6 +31082,82 @@
       {
        "t": "Loidici, Que se passe-t-il en cas de faute grave commise par un fonctionnaire ? (loi n°2023-892)",
        "u": "https://loidici.biz/?p=49323"
+      }
+     ]
+    },
+    {
+     "id": "L20261027so04",
+     "niv": "so04",
+     "m": "sog",
+     "rev": 2,
+     "titre": "Argumenter : idée, explication, exemple",
+     "min": 50,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez construire un paragraphe argumentatif complet en cinq temps : idée directrice, explication, exemple précis, analyse de l'exemple, mini-conclusion.",
+      "= Vous saurez aussi repérer l'élément qui manque dans un brouillon, choisir le bon connecteur et nuancer un argument par une concession.",
+      "## Ce que demande l'épreuve",
+      "Le développement d'un sujet d'ordre général (SOG) est une suite d'arguments. Un argument, c'est une raison que l'on donne pour convaincre, puis que l'on prouve. Le correcteur ne note pas des opinions : il note des démonstrations. Un argument réussi lui permet de suivre un raisonnement du début à la fin. Un argument raté se reconnaît vite : une affirmation sans preuve, ou une liste d'exemples sans lien entre eux.",
+      "! Piège habituel : confondre l'exemple et l'argument. Citer un fait n'est pas argumenter ; il faut dire ce que ce fait démontre.",
+      "## La méthode, pas à pas (au brouillon, puis au propre)",
+      "- 1. Idée directrice : une phrase affirmative qui répond en partie à la problématique (la question centrale que pose le sujet).",
+      "- 2. Explication : pourquoi cette idée est-elle vraie ? Quel mécanisme la rend vraie ? Connecteur de cause : car, en effet.",
+      "- 3. Exemple : un fait daté, un texte, un événement, de préférence ivoirien ou africain, que vous êtes certain de connaître exactement.",
+      "- 4. Analyse : une phrase qui montre en quoi l'exemple prouve l'idée.",
+      "- 5. Mini-conclusion : une phrase qui relie l'argument au sujet et prépare la suite.",
+      "- 6. Contrôle : relisez le paragraphe en posant cinq questions (Quelle idée ? Pourquoi ? Quel fait ? Que prouve-t-il ? Et donc ?). Une question sans réponse signale l'élément manquant.",
+      "~ Exemple : sujet « Le dialogue est-il la voie la plus sûre vers la paix ? ». Idée directrice : « Le dialogue permet de sortir d'un conflit armé en redonnant une place à chaque camp. » Elle est affirmative, elle répond à la question posée et elle peut être prouvée."
+     ],
+     "fond": [
+      "## Notion 1 : l'idée directrice",
+      "Règle : chaque paragraphe défend une seule idée, énoncée dès la première phrase. Cette phrase est une affirmation générale, pas un fait isolé, pas une question, pas une citation.",
+      "Pourquoi ? Le correcteur lit vite. S'il comprend dès la première phrase ce que vous allez démontrer, il lit la suite comme une preuve. Si l'idée n'apparaît qu'à la fin, ou si deux idées se mêlent, il ne sait plus ce que le paragraphe prouve.",
+      "~ Exemple résolu : pour le sujet « La démocratie suppose-t-elle le pluralisme politique ? », comparez deux débuts. (a) Une date et un événement : c'est un fait, il servira d'exemple. (b) « Le pluralisme donne aux citoyens un véritable choix, sans lequel le vote perd son sens. » C'est une idée directrice : elle affirme, elle répond au sujet, elle appelle une démonstration.",
+      "! Une idée trop large (« La démocratie est importante ») ne démontre rien. Une bonne idée directrice contient un lien : une cause, une condition ou une conséquence. Astuce : si votre phrase pourrait ouvrir n'importe quel devoir, elle est trop large.",
+      "? Laquelle de ces phrases peut ouvrir un paragraphe : « La jeunesse est l'avenir du pays » ou « La formation professionnelle rapproche les jeunes des emplois disponibles » ? || La seconde. Elle affirme un lien précis (formation → accès à l'emploi) que l'on peut expliquer et illustrer. La première est une formule générale, vraie pour tous les sujets, qui ne démontre rien.",
+      "## Notion 2 : l'explication",
+      "Règle : l'explication répond à la question « pourquoi ? » ou « comment ? ». Elle décrit le mécanisme qui rend l'idée vraie. Elle commence souvent par un connecteur de cause : car, en effet, puisque.",
+      "! Ne paraphrasez pas l'idée directrice. « Le dialogue favorise la paix ; en effet, le dialogue est favorable à la paix » tourne en rond. Une vraie explication ajoute un mécanisme : « en effet, il oblige chaque camp à reconnaître l'autre comme interlocuteur, ce qui rend possible un compromis ».",
+      "? Idée : « Une assurance maladie obligatoire protège les ménages pauvres. » Écrivez une explication qui décrit un mécanisme. || Par exemple : « En effet, chacun cotise selon un barème fixé à l'avance, et la caisse paie une partie des soins le jour où l'un des assurés tombe malade : le risque est partagé, au lieu de peser sur une seule famille. » On décrit comment l'idée devient vraie (mutualisation du risque), sans répéter « protège ».",
+      "## Notion 3 : l'exemple, précis et analysé",
+      "Règle : l'exemple est un fait exact, daté ou situé, que le correcteur peut vérifier. Il est suivi d'une phrase d'analyse qui montre ce qu'il prouve.",
+      "Pourquoi ? Un exemple vague (« dans de nombreux pays… ») ne prouve rien ; un exemple faux ruine la crédibilité de toute la copie. Un seul exemple bien analysé vaut mieux que trois exemples cités en liste.",
+      "! Si vous doutez d'une date ou d'un chiffre, ne l'écrivez pas : formulez seulement ce dont vous êtes certain (« au début des années 2000 » plutôt qu'une date inventée).",
+      "~ Exemple résolu, sur un thème social : idée « l'État ivoirien cherche à étendre la protection sociale au-delà des seuls salariés ». Exemple : « la couverture maladie universelle (CMU), instituée par la loi n°2014-131 du 24 mars 2014, est effective depuis le 1er octobre 2019 ; elle comprend un régime contributif et un régime d'assistance médicale non contributif ». Analyse : « l'existence d'un régime sans cotisation montre que l'État veut couvrir aussi ceux qui ne peuvent pas payer ».",
+      "## Notion 4 : la mini-conclusion et les connecteurs",
+      "Règle : la dernière phrase du paragraphe revient au sujet : elle dit ce que l'argument a établi et prépare l'argument suivant. Les connecteurs rendent visibles les relations logiques : addition (de plus, en outre), cause (car, en effet), conséquence (ainsi, par conséquent, donc), opposition (cependant, en revanche), concession (certes… mais, bien que + subjonctif).",
+      "Pourquoi ? Un paragraphe sans mini-conclusion laisse le correcteur faire le lien à votre place ; il ne le fera pas toujours. Un connecteur mal choisi, lui, dit le contraire de ce que vous pensez.",
+      "! « Pourtant » et « en revanche » annoncent une opposition : les employer pour ajouter une idée de même sens est un contresens logique.",
+      "? Complétez : « Le dialogue rétablit la confiance entre les camps ; ……, les armes peuvent se taire. » || « Par conséquent » (ou « ainsi », « dès lors »). La seconde proposition est l'effet de la première : il faut un connecteur de conséquence, pas d'opposition.",
+      "## Notion 5 : nuancer par la concession",
+      "Règle : concéder, c'est reconnaître honnêtement une limite ou un argument adverse, puis montrer pourquoi votre idée tient quand même. Structure : « Certes, [limite reconnue], mais [dépassement] ». Avec « bien que », le verbe se met au subjonctif.",
+      "Pourquoi ? Le jury attend une pensée nuancée. Un candidat qui ignore les objections paraît naïf ; celui qui les intègre paraît solide, et prépare souvent sa deuxième partie.",
+      "~ Exemple résolu : « Certes, une assurance maladie ne supprime pas à elle seule le manque de centres de santé ou de médecins ; mais en réduisant le coût des soins pour le patient, elle lève l'un des principaux obstacles qui retardent la consultation. » La limite est reconnue (l'offre de soins), puis dépassée (l'obstacle financier).",
+      "! La concession ne doit pas détruire votre idée : après « mais », c'est votre thèse qui doit l'emporter. Sinon, vous changez d'avis au milieu du paragraphe.",
+      "? Transformez en concession : « Le service civique coûte cher à l'État. Il forme des jeunes à la citoyenneté. » || « Certes, le service civique coûte cher à l'État, mais il forme les jeunes à la citoyenneté. » Ou : « Bien que le service civique soit coûteux, il forme les jeunes à la citoyenneté. » Notez le subjonctif « soit » après « bien que ».",
+      "## Notion 6 : un paragraphe modèle, commenté",
+      "> « Le dialogue permet de sortir d'un conflit armé en redonnant une place à chaque camp. En effet, il oblige les adversaires à se reconnaître mutuellement comme interlocuteurs, ce qui rend possible un compromis que la force seule n'impose jamais durablement. Ainsi, l'accord politique de Ouagadougou, signé le 4 mars 2007 par Laurent Gbagbo et Guillaume Soro sous la médiation de Blaise Compaoré, a supprimé la zone qui séparait le nord et le sud ; Guillaume Soro est devenu Premier ministre le 29 mars 2007. Cet accord montre que la négociation directe peut réunir ce que les armes avaient divisé. Le dialogue apparaît donc comme une condition de la paix, même s'il reste à savoir s'il suffit à la rendre durable. »",
+      "Commentaire : phrase 1, l'idée directrice ; phrase 2, l'explication (« en effet » + mécanisme) ; phrase 3, l'exemple daté et vérifiable ; phrase 4, l'analyse ; phrase 5, la mini-conclusion, qui ouvre vers la partie suivante (les limites du dialogue).",
+      "? Diagnostic : « La CMU est une bonne réforme. La loi n°2014-131 du 24 mars 2014 l'a instituée. Par conséquent, la santé est importante. » Quels éléments manquent ou sont fautifs ? || Trois défauts. 1) L'idée est trop large (« bonne réforme ») : il faut un lien précis, par exemple « la CMU rend les soins accessibles aux ménages modestes ». 2) Il n'y a ni explication (quel mécanisme ?) ni analyse de l'exemple. 3) La dernière phrase n'est pas une conséquence de ce qui précède : « par conséquent » est mal employé et la conclusion ne revient pas à l'idée."
+     ],
+     "retenir": [
+      "Un paragraphe argumentatif défend une seule idée, énoncée dès la première phrase sous forme d'affirmation.",
+      "L'explication répond à « pourquoi ? » : elle décrit le mécanisme qui rend l'idée vraie, sans la répéter.",
+      "Un bon exemple est précis, daté, vérifiable, et suivi d'une phrase qui dit ce qu'il prouve.",
+      "Un exemple dont vous doutez ne s'écrit pas : mieux vaut un fait moins précis mais certain.",
+      "La mini-conclusion relie l'argument au sujet et prépare l'argument suivant.",
+      "Connecteurs : cause (car, en effet), conséquence (donc, ainsi), opposition (cependant), concession (certes… mais, bien que + subjonctif).",
+      "La concession reconnaît une limite puis la dépasse : après « mais », c'est votre thèse qui l'emporte.",
+      "Contrôle en cinq questions : quelle idée, pourquoi, quel fait, que prouve-t-il, et donc ?"
+     ],
+     "exo": {
+      "tag": "niv-so04",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Direction générale de l'Économie (Côte d'Ivoire) – Couverture maladie universelle",
+       "u": "https://economie-ivoirienne.ci/activites-sectorielles/couverture-maladie-universelle.html"
       }
      ]
     }
