@@ -28708,6 +28708,1879 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-19",
+   "questions": [
+    {
+     "id": "n20261119-so06-01",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Quelle définition correspond à la paix au sens large ?",
+     "o": [
+      "L'arrêt des combats constaté par un cessez-le-feu",
+      "Un état durable où les conflits se règlent sans violence, par le droit et le dialogue",
+      "La victoire militaire d'un camp sur l'autre",
+      "L'absence de toute divergence d'opinion dans une société"
+     ],
+     "a": 1,
+     "e": "La paix au sens large ne se limite pas à l'absence de guerre : c'est un état durable où les conflits, inévitables, se règlent par le droit et le dialogue.",
+     "ed": [
+      "L'arrêt des combats correspond à la paix au sens étroit, pas au sens large.",
+      null,
+      "Une victoire militaire peut laisser des rancœurs et ne règle pas les conflits par le dialogue.",
+      "Une société pacifique connaît des désaccords ; la paix suppose de les régler sans violence, pas de les supprimer."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261119-so06-02",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Par quelle résolution du Conseil de sécurité l'ONUCI a-t-elle été créée ?",
+     "o": [
+      "La résolution 1325",
+      "La résolution 1975",
+      "La résolution 1528",
+      "La résolution 2284"
+     ],
+     "a": 2,
+     "e": "Selon la fiche de mission des Nations Unies, la résolution 1528 du 27 février 2004 a créé l'ONUCI à compter du 4 avril 2004.",
+     "ed": [
+      "La résolution 1325 n'est pas l'acte fondateur de l'ONUCI, créée par la résolution 1528.",
+      "Ce n'est pas la résolution fondatrice de l'ONUCI, créée par la résolution 1528 de 2004.",
+      null,
+      "La résolution 2284 n'est pas celle qui a créé l'ONUCI en 2004 ; c'est la 1528."
+     ],
+     "src": {
+      "t": "Nations Unies, Opération des Nations Unies en Côte d'Ivoire (ONUCI), fiche de mission",
+      "u": "https://peacekeeping.un.org/sites/default/files/past/unoci.shtml"
+     }
+    },
+    {
+     "id": "n20261119-so06-03",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "À quelle date l'ONUCI a-t-elle achevé son mandat en Côte d'Ivoire ?",
+     "o": [
+      "Le 30 juin 2017",
+      "Le 4 avril 2014",
+      "Le 31 décembre 2015",
+      "Le 11 avril 2011"
+     ],
+     "a": 0,
+     "e": "Les Nations Unies indiquent que l'ONUCI a achevé avec succès son mandat le 30 juin 2017, après plus de treize ans de présence.",
+     "ed": [
+      null,
+      "Le 4 avril est la date anniversaire du début de la mission (2004), pas celle de sa fin.",
+      "La mission était encore en place fin 2015 ; elle s'est achevée en juin 2017.",
+      "La mission a continué bien après avril 2011, jusqu'au 30 juin 2017."
+     ],
+     "src": {
+      "t": "Nations Unies, Opération des Nations Unies en Côte d'Ivoire (ONUCI), fiche de mission",
+      "u": "https://peacekeeping.un.org/sites/default/files/past/unoci.shtml"
+     }
+    },
+    {
+     "id": "n20261119-so06-04",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Quand l'accord politique de Ouagadougou a-t-il été signé ?",
+     "o": [
+      "Le 24 janvier 2003",
+      "Le 4 mars 2007",
+      "Le 28 novembre 2010",
+      "Le 8 novembre 2016"
+     ],
+     "a": 1,
+     "e": "Le Peace Accords Matrix de l'Université de Notre-Dame date la signature de l'accord politique de Ouagadougou du 4 mars 2007.",
+     "ed": [
+      "Cette date ne correspond pas à l'accord de Ouagadougou, signé le 4 mars 2007.",
+      null,
+      "Cette date est postérieure de plus de trois ans à la signature de l'accord, en mars 2007.",
+      "Le 8 novembre 2016 est la date de la loi n°2016-886 portant Constitution, pas de l'accord."
+     ],
+     "src": {
+      "t": "Peace Accords Matrix (Université de Notre-Dame), Ouagadougou Political Agreement",
+      "u": "https://peaceaccords.nd.edu/accord/ouagadougou-political-agreement-opa"
+     }
+    },
+    {
+     "id": "n20261119-so06-05",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Qui a présidé la Commission Dialogue, Vérité et Réconciliation (CDVR) ?",
+     "o": [
+      "Mgr Siméon Ahouana",
+      "Didier Drogba",
+      "Charles Konan Banny",
+      "Guillaume Soro"
+     ],
+     "a": 2,
+     "e": "La CDVR, inspirée de la commission sud-africaine, a été présidée par Charles Konan Banny, ancien Premier ministre.",
+     "ed": [
+      "Mgr Siméon Ahouana a présidé la CONARIV, créée en 2015, et non la CDVR.",
+      "Didier Drogba était membre de la commission, il ne la présidait pas.",
+      null,
+      "Guillaume Soro était alors un acteur politique de premier plan, pas le président de la CDVR."
+     ],
+     "src": {
+      "t": "Wikipedia, Truth and Reconciliation Commission (Ivory Coast)",
+      "u": "https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Ivory_Coast)"
+     }
+    },
+    {
+     "id": "n20261119-so06-06",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Que rattache le concept de sécurité humaine, introduit par le PNUD en 1994 ?",
+     "o": [
+      "La sécurité aux seules frontières de l'État",
+      "La sécurité à la seule lutte contre la criminalité urbaine",
+      "La sécurité aux alliances militaires",
+      "La sécurité aux personnes et au développement"
+     ],
+     "a": 3,
+     "e": "Le Rapport sur le développement humain de 1994 assimile la sécurité aux personnes plutôt qu'aux territoires, et au développement plutôt qu'aux armes.",
+     "ed": [
+      "C'est la conception classique, centrée sur le territoire, que le rapport de 1994 veut dépasser.",
+      "La criminalité n'est qu'une menace parmi d'autres ; le concept est bien plus large.",
+      "Le rapport privilégie le développement sur les armes, pas les alliances militaires.",
+      null
+     ],
+     "src": {
+      "t": "PNUD, Rapport sur le développement humain 1994 : Nouvelles dimensions de la sécurité humaine",
+      "u": "https://hdr.undp.org/content/human-development-report-1994"
+     }
+    },
+    {
+     "id": "n20261119-so06-07",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Combien de victimes des crises de 1990 à 2011 la CONARIV a-t-elle recensées ?",
+     "o": [
+      "72 483",
+      "3 000",
+      "1 528",
+      "316 954"
+     ],
+     "a": 3,
+     "e": "Selon JusticeInfo (AFP, 2017), la CONARIV a recensé 316 954 victimes des crises survenues en Côte d'Ivoire entre 1990 et 2011.",
+     "ed": [
+      "72 483 est le nombre de dépositions recueillies par la CDVR, pas le nombre de victimes recensées par la CONARIV.",
+      "Ce chiffre est sans rapport avec le recensement de la CONARIV.",
+      "1 528 est le numéro de la résolution créant l'ONUCI.",
+      null
+     ],
+     "src": {
+      "t": "JusticeInfo.net (AFP), Côte d'Ivoire : fin du mandat de la Commission de réconciliation (juillet 2017)",
+      "u": "https://www.justiceinfo.net/fr/33756-cote-d-ivoire-fin-du-mandat-de-la-commission-de-reconciliation.html"
+     }
+    },
+    {
+     "id": "n20261119-so06-08",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Sujet : « Les élections sont un levier de la paix. » Quel exemple sert le mieux une partie qui défend cette thèse ?",
+     "o": [
+      "L'accord de Ouagadougou, qui faisait d'élections transparentes, préparées par une identification fiable, un objectif de sortie de crise",
+      "La création du prix Houphouët-Boigny par l'UNESCO",
+      "Le nombre de dépositions reçues par la CDVR",
+      "La fin de l'initiative de l'Union africaine en 2020"
+     ],
+     "a": 0,
+     "e": "L'accord de 2007 visait des élections ouvertes, transparentes et démocratiques et prévoyait de nouveaux documents d'identification : il fait de l'élection crédible un instrument de sortie de crise.",
+     "ed": [
+      null,
+      "Le prix récompense la recherche de la paix en général ; il ne dit rien du rôle des élections.",
+      "Ce chiffre concerne la réconciliation, pas le lien entre élections et paix.",
+      "L'échec d'un objectif continental ne démontre pas que les élections pacifient."
+     ],
+     "src": {
+      "t": "Peace Accords Matrix (Université de Notre-Dame), Ouagadougou Political Agreement",
+      "u": "https://peaceaccords.nd.edu/accord/ouagadougou-political-agreement-opa"
+     }
+    },
+    {
+     "id": "n20261119-so06-09",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Dans une copie, on lit : « Depuis le départ de l'ONUCI en 2017, la paix est définitivement acquise. » Quelle est la meilleure critique ?",
+     "o": [
+      "La date est fausse : l'ONUCI est partie en 2011",
+      "Le départ d'une mission montre que l'État assure seul sa sécurité, pas que la consolidation de la paix est terminée",
+      "L'ONUCI n'a jamais été déployée en Côte d'Ivoire",
+      "Une copie ne doit jamais citer d'organisation internationale"
+     ],
+     "a": 1,
+     "e": "La fin d'une opération de maintien de la paix signifie que l'État est jugé capable de garantir seul sa sécurité ; la paix au sens large reste à consolider.",
+     "ed": [
+      "La date de 2017 est exacte : l'ONUCI a achevé son mandat le 30 juin 2017.",
+      null,
+      "L'ONUCI a bien été déployée, de 2004 à 2017.",
+      "Citer une organisation internationale est utile si l'exemple est analysé."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261119-so06-10",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Selon la bonne méthode, comment utiliser un exemple dans un paragraphe ?",
+     "o": [
+      "Énumérer le plus d'exemples possible pour montrer ses connaissances",
+      "Placer l'exemple en conclusion, sans commentaire",
+      "Partir de l'exemple, en extraire l'idée, puis le rattacher au sujet",
+      "Remplacer l'argument par une citation célèbre"
+     ],
+     "a": 2,
+     "e": "La méthode efficace part de l'exemple et en tire l'idée du paragraphe, puis le relie explicitement au sujet ; l'exemple est analysé, pas seulement cité.",
+     "ed": [
+      "Une liste d'exemples non analysés est un catalogue, que le correcteur pénalise.",
+      "Un exemple sans commentaire ne démontre rien.",
+      null,
+      "Une citation ne remplace pas un raisonnement ; elle doit elle-même être expliquée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261119-so06-11",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Quelle année l'UNESCO a-t-elle institué le prix Félix Houphouët-Boigny pour la recherche de la paix ?",
+     "o": [
+      "1960",
+      "1989",
+      "1993",
+      "2004"
+     ],
+     "a": 1,
+     "e": "Le prix a été institué en 1989 par l'UNESCO, lors de sa 25e Conférence générale à Paris ; il a été décerné pour la première fois en 1991.",
+     "ed": [
+      "Le prix n'existait pas en 1960 ; il a été institué en 1989.",
+      null,
+      "En 1993, le prix existait déjà : il a été remis cette année-là à Rabin, Peres et Arafat.",
+      "2004 est l'année de création de l'ONUCI."
+     ],
+     "src": {
+      "t": "Wikipedia, Félix Houphouët-Boigny Peace Prize",
+      "u": "https://en.wikipedia.org/wiki/F%C3%A9lix_Houphou%C3%ABt-Boigny_Peace_Prize"
+     }
+    },
+    {
+     "id": "n20261119-so06-12",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Qui furent les premiers lauréats du prix Houphouët-Boigny pour la recherche de la paix, en 1991 ?",
+     "o": [
+      "Kofi Annan et l'ONU",
+      "Jimmy Carter et le roi Juan Carlos Ier",
+      "Yitzhak Rabin et Yasser Arafat",
+      "Nelson Mandela et Frederik de Klerk"
+     ],
+     "a": 3,
+     "e": "Les premiers lauréats, en 1991, furent Nelson Mandela et Frederik Willem de Klerk, artisans de la fin négociée de l'apartheid.",
+     "ed": [
+      "Ce ne sont pas les lauréats de 1991, qui furent Mandela et de Klerk.",
+      "Jimmy Carter et Juan Carlos Ier ont été distingués en 1994, pas en 1991.",
+      "Rabin, Peres et Arafat ont été distingués en 1993.",
+      null
+     ],
+     "src": {
+      "t": "Abidjan.net, Prix Félix Houphouët-Boigny pour la recherche de la paix : historique et lauréats",
+      "u": "https://news.abidjan.net/articles/461302/prix-felix-houphouet-boigny-pour-la-recherche-de-la-paix-historique-et-les-laureats"
+     }
+    },
+    {
+     "id": "n20261119-so06-13",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Quel était l'horizon initial de l'initiative de l'Union africaine « Faire taire les armes » ?",
+     "o": [
+      "2000",
+      "2015",
+      "2020",
+      "2063"
+     ],
+     "a": 2,
+     "e": "L'initiative s'intitulait « Faire taire les armes à l'horizon 2020 » ; selon l'ISS (2023), elle n'a pas atteint ses objectifs.",
+     "ed": [
+      "L'initiative ne visait pas l'an 2000, mais l'horizon 2020.",
+      "2015 n'est pas l'horizon fixé par l'initiative.",
+      null,
+      "2063 est associé à l'Agenda de l'Union africaine, pas à l'horizon initial de cette initiative."
+     ],
+     "src": {
+      "t": "ISS Africa, L'initiative « Faire taire les armes » aurait-elle été mise aux oubliettes ? (juin 2023)",
+      "u": "https://issafrica.org/pscreport/psc-insights/linitiative-faire-taire-les-armes-aurait-elle-ete-mise-aux-oubliettes"
+     }
+    },
+    {
+     "id": "n20261119-so06-14",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Quelle problématique convient au sujet « La cohésion sociale peut-elle se décréter ? »",
+     "o": [
+      "Quelle est la date de création de la CONARIV ?",
+      "L'État peut-il, par ses lois et ses institutions, produire seul la confiance entre les groupes qui composent la société ?",
+      "Combien de communautés vivent en Côte d'Ivoire ?",
+      "Faut-il supprimer les commissions de réconciliation ?"
+     ],
+     "a": 1,
+     "e": "Une problématique reformule la tension du sujet : ici, la capacité de l'action publique (décret) face à une réalité sociale (la confiance) qui dépend aussi des citoyens.",
+     "ed": [
+      "Une question de date appelle une réponse factuelle, pas une réflexion.",
+      null,
+      "Une question statistique n'organise pas un débat.",
+      "Cette question est orientée et sort du sujet, qui porte sur la cohésion en général."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261119-so06-15",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "La CDVR a remis son rapport final au Président de la République :",
+     "o": [
+      "en mai 2011",
+      "en décembre 2014",
+      "en mars 2015",
+      "en juin 2017"
+     ],
+     "a": 1,
+     "e": "La CDVR a remis son rapport final en décembre 2014 ; la CONARIV a pris le relais en mars 2015.",
+     "ed": [
+      "Mai 2011 correspond à l'annonce de la création de la commission, pas à son rapport.",
+      null,
+      "Mars 2015 est la création de la CONARIV, qui succède à la CDVR.",
+      "Juin 2017 marque la fin de l'ONUCI, pas la remise du rapport de la CDVR."
+     ],
+     "src": {
+      "t": "Wikipedia, Truth and Reconciliation Commission (Ivory Coast)",
+      "u": "https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Ivory_Coast)"
+     }
+    },
+    {
+     "id": "n20261119-so06-16",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Parmi ces repères sur la sortie de crise ivoirienne, lequel est inexact ?",
+     "o": [
+      "L'ONUCI a fonctionné à partir du 4 avril 2004",
+      "La CONARIV a été créée en mars 2015",
+      "La CDVR a recueilli 72 483 dépositions",
+      "L'accord de Ouagadougou a été signé en 2010, juste avant la présidentielle"
+     ],
+     "a": 3,
+     "e": "L'accord politique de Ouagadougou a été signé le 4 mars 2007, et non en 2010 ; les trois autres affirmations sont exactes.",
+     "ed": [
+      "C'est exact : la résolution 1528 a créé l'ONUCI à compter du 4 avril 2004.",
+      "C'est exact : la CONARIV a été créée en mars 2015.",
+      "C'est exact : la CDVR a reçu 72 483 dépositions.",
+      null
+     ],
+     "src": {
+      "t": "Peace Accords Matrix (Université de Notre-Dame), Ouagadougou Political Agreement",
+      "u": "https://peaceaccords.nd.edu/accord/ouagadougou-political-agreement-opa"
+     }
+    },
+    {
+     "id": "n20261119-so06-17",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Quel argument nuance le mieux l'idée que « la sécurité passe d'abord par les armes » ?",
+     "o": [
+      "Les armées sont inutiles en temps de paix",
+      "Selon la sécurité humaine, la pauvreté, le chômage ou la maladie menacent aussi les personnes et nourrissent les conflits",
+      "Les forces de défense ne relèvent pas de l'État",
+      "La sécurité est une notion exclusivement juridique"
+     ],
+     "a": 1,
+     "e": "La sécurité humaine élargit la sécurité aux besoins des personnes ; elle ne nie pas le rôle de la défense, mais montre que le développement prévient aussi la violence.",
+     "ed": [
+      "Affirmer l'inutilité des armées est excessif et faux : la sécurité humaine élargit la sécurité, elle ne supprime pas la défense.",
+      null,
+      "La défense nationale est une fonction de l'État.",
+      "La sécurité est aussi économique, sanitaire et sociale, pas seulement juridique."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261119-so06-18",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Un candidat écrit : « La CDVR a été présidée par Mgr Siméon Ahouana. » Où est l'erreur ?",
+     "o": [
+      "Il confond la CDVR avec la CONARIV, présidée par Mgr Ahouana",
+      "Il n'y a pas d'erreur",
+      "La CDVR n'a jamais eu de président",
+      "Mgr Ahouana présidait l'ONUCI"
+     ],
+     "a": 0,
+     "e": "Mgr Siméon Ahouana a présidé la CONARIV ; la CDVR était présidée par Charles Konan Banny.",
+     "ed": [
+      null,
+      "L'affirmation est erronée : la CDVR était présidée par Charles Konan Banny.",
+      "La CDVR avait bien un président, Charles Konan Banny.",
+      "Mgr Ahouana est cité comme président de la CONARIV, non de l'ONUCI."
+     ],
+     "src": {
+      "t": "JusticeInfo.net (AFP), Côte d'Ivoire : fin du mandat de la Commission de réconciliation (juillet 2017)",
+      "u": "https://www.justiceinfo.net/fr/33756-cote-d-ivoire-fin-du-mandat-de-la-commission-de-reconciliation.html"
+     }
+    },
+    {
+     "id": "n20261119-so06-19",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Dans un plan sur « Il n'y a pas de paix sans justice », quelle partie II convient après une partie I « La justice consolide la paix » ?",
+     "o": [
+      "La justice est toujours rapide",
+      "Une justice lente ou jugée partiale peut raviver les divisions : dialogue, vérité et réparation la complètent",
+      "La paix n'a aucun lien avec la justice",
+      "Il faut juger tous les auteurs de toutes les crises"
+     ],
+     "a": 1,
+     "e": "La partie II doit discuter la thèse sans la nier : la justice seule ne suffit pas, et les commissions de vérité et de réparation la complètent.",
+     "ed": [
+      "Cette affirmation est fausse et n'apporte aucune discussion.",
+      null,
+      "Nier tout lien contredit la partie I sans nuance ; la discussion doit être équilibrée.",
+      "Juger tous les auteurs est irréaliste après une guerre ; ce n'est pas une discussion pertinente."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261119-so06-20",
+     "m": "sog",
+     "tag": "niv-so06",
+     "q": "Quel exemple illustre le mieux l'idée que la paix se construit par la négociation entre anciens adversaires ?",
+     "o": [
+      "Le rapport du PNUD de 1994",
+      "La création de l'ONUCI par le Conseil de sécurité",
+      "Le prix Houphouët-Boigny décerné en 1991 à Nelson Mandela et Frederik de Klerk",
+      "Le recensement des victimes par la CONARIV"
+     ],
+     "a": 2,
+     "e": "Mandela et de Klerk, longtemps adversaires, ont négocié ensemble la fin de l'apartheid ; leur distinction conjointe en 1991 illustre la paix par la négociation.",
+     "ed": [
+      "Le rapport porte sur le concept de sécurité humaine, pas sur la négociation entre adversaires.",
+      "Une force internationale s'interpose : c'est une paix accompagnée de l'extérieur, pas une négociation directe.",
+      null,
+      "Le recensement relève de la réparation des victimes, pas de la négociation entre adversaires."
+     ],
+     "src": {
+      "t": "Abidjan.net, Prix Félix Houphouët-Boigny pour la recherche de la paix : historique et lauréats",
+      "u": "https://news.abidjan.net/articles/461302/prix-felix-houphouet-boigny-pour-la-recherche-de-la-paix-historique-et-les-laureats"
+     }
+    },
+    {
+     "id": "n20261119-op05-01",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Comment l'article 126 de la Constitution qualifie-t-il le Conseil constitutionnel ?",
+     "o": [
+      "Une autorité administrative indépendante chargée de la médiation",
+      "Une juridiction constitutionnelle indépendante et impartiale",
+      "Un organe consultatif placé auprès du Président de la République",
+      "Une chambre du Parlement"
+     ],
+     "a": 1,
+     "e": "L'article 126 dispose que le Conseil constitutionnel est une juridiction constitutionnelle, indépendante et impartiale.",
+     "ed": [
+      "C'est la qualification du Médiateur de la République (article 165), pas du Conseil constitutionnel.",
+      null,
+      "Le Conseil constitutionnel juge ; il n'est pas un simple organe de conseil.",
+      "Le Parlement comprend l'Assemblée nationale et le Sénat ; le Conseil constitutionnel n'en fait pas partie."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 1 : attributions du Conseil constitutionnel (art. 126-127)",
+      "u": "https://loidici.biz/2018/08/18/titre-viii-du-conseil-constitutionnel-chapitre-premier-des-attributions/"
+     }
+    },
+    {
+     "id": "n20261119-op05-02",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Combien de conseillers du Conseil constitutionnel le Président de l'Assemblée nationale désigne-t-il ?",
+     "o": [
+      "Un",
+      "Trois",
+      "Deux",
+      "Six"
+     ],
+     "a": 2,
+     "e": "Selon l'article 128, sur les six conseillers, trois sont désignés par le Président de la République, deux par le Président de l'Assemblée nationale et un par le Président du Sénat.",
+     "ed": [
+      "Un seul conseiller est désigné par le Président du Sénat, pas par celui de l'Assemblée.",
+      "Trois conseillers sont désignés par le Président de la République.",
+      null,
+      "Six est le nombre total de conseillers."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 2 : composition du Conseil constitutionnel (art. 128)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-composition/"
+     }
+    },
+    {
+     "id": "n20261119-op05-03",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Quelle est la durée du mandat du président de la Cour des comptes ?",
+     "o": [
+      "Cinq ans, renouvelable une fois",
+      "Six ans, non renouvelable",
+      "Quatre ans, renouvelable sans limite",
+      "Sept ans, non renouvelable"
+     ],
+     "a": 0,
+     "e": "L'article 153 prévoit que le président de la Cour des comptes est nommé par le Président de la République pour cinq ans, renouvelables une fois.",
+     "ed": [
+      null,
+      "Six ans non renouvelables est la règle du Conseil constitutionnel et du Médiateur, pas de la Cour des comptes.",
+      "La Constitution ne prévoit pas de mandat de quatre ans renouvelable sans limite.",
+      "Aucune disposition ne fixe un mandat de sept ans pour ce président."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre IX, chapitre 5 : la Cour des comptes (art. 152-154)",
+      "u": "https://loidici.biz/2018/08/18/chapitres-5-de-la-cour-des-comptes/"
+     }
+    },
+    {
+     "id": "n20261119-op05-04",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Après l'avis de qui le Médiateur de la République est-il nommé ?",
+     "o": [
+      "Du Conseil constitutionnel",
+      "Du Premier ministre et du Gouvernement",
+      "Du Président de l'Assemblée nationale et du Président du Sénat",
+      "Du CESEC"
+     ],
+     "a": 2,
+     "e": "L'article 166 dispose que le Médiateur est nommé par le Président de la République après avis du Président de l'Assemblée nationale et du Président du Sénat.",
+     "ed": [
+      "Le Conseil constitutionnel intervient pour constater l'empêchement, pas pour donner un avis préalable à la nomination.",
+      "Le Gouvernement n'est pas consulté selon l'article 166.",
+      null,
+      "Le CESEC ne donne pas d'avis sur la nomination du Médiateur."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre XII, chapitre 2 : statut du Médiateur de la République (art. 166-168)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-statut-du-mediateur-de-la-republique/"
+     }
+    },
+    {
+     "id": "n20261119-op05-05",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Quelle est la fonction du CESEC selon l'article 163 ?",
+     "o": [
+      "Juger les comptes des comptables publics",
+      "Voter la loi avec l'Assemblée nationale",
+      "Proclamer les résultats des élections",
+      "Donner son avis sur les projets et propositions de loi, d'ordonnance ou de décret qui lui sont soumis"
+     ],
+     "a": 3,
+     "e": "L'article 163 confie au CESEC une fonction consultative : il donne son avis sur les projets de loi, d'ordonnance ou de décret et sur les propositions de loi qui lui sont soumis.",
+     "ed": [
+      "Juger les comptes relève de la Cour des comptes.",
+      "Le vote de la loi relève du Parlement : Assemblée nationale et Sénat.",
+      "Le contentieux électoral relève du Conseil constitutionnel.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre XI, chapitre 1 : attributions du CESEC (art. 163)",
+      "u": "https://loidici.biz/2018/08/18/titre-xi-du-conseil-economique-social-environnemental-et-culturel-chapitre-premier-des-attributions/"
+     }
+    },
+    {
+     "id": "n20261119-op05-06",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Comment l'article 152 définit-il le rôle de la Cour des comptes, à côté de ses attributions juridictionnelles ?",
+     "o": [
+      "Elle a seulement un rôle de conseil auprès du Gouvernement",
+      "Elle a un rôle de médiation avec les usagers",
+      "Elle a un pouvoir d'édicter des lois de finances",
+      "Elle a aussi des attributions de contrôle et de consultation"
+     ],
+     "a": 3,
+     "e": "L'article 152 confère à la Cour des comptes des attributions juridictionnelles, de contrôle et de consultation.",
+     "ed": [
+      "Elle n'est pas seulement un conseiller : elle juge et contrôle.",
+      "La médiation entre administration et administrés est la mission du Médiateur.",
+      "Les lois de finances sont votées par le Parlement, pas édictées par la Cour.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre IX, chapitre 5 : la Cour des comptes (art. 152-154)",
+      "u": "https://loidici.biz/2018/08/18/chapitres-5-de-la-cour-des-comptes/"
+     }
+    },
+    {
+     "id": "n20261119-op05-07",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Un conseiller est nommé au Conseil constitutionnel en 2026. Jusqu'à quelle année court son mandat, et peut-il être reconduit ?",
+     "o": [
+      "2029, renouvelable",
+      "2032, non renouvelable",
+      "2031, renouvelable une fois",
+      "2036, non renouvelable"
+     ],
+     "a": 1,
+     "e": "L'article 130 prévoit un mandat de six ans non renouvelable : 2026 + 6 = 2032, sans reconduction possible.",
+     "ed": [
+      "2029 correspond à trois ans, la périodicité du renouvellement par moitié, pas la durée du mandat.",
+      null,
+      "Cinq ans renouvelables une fois correspond au président de la Cour des comptes.",
+      "Dix ans ne correspond à aucune durée prévue pour les conseillers."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 3 : statut des membres (art. 129-132)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-3-du-statut-des-membres/"
+     }
+    },
+    {
+     "id": "n20261119-op05-08",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Au cours d'un procès, un justiciable soulève l'inconstitutionnalité d'une loi. Que doit faire le tribunal ?",
+     "o": [
+      "Écarter lui-même la loi",
+      "Rejeter l'exception, car seuls les parlementaires peuvent saisir le Conseil",
+      "Surseoir à statuer et accorder au justiciable quinze jours pour saisir le Conseil constitutionnel",
+      "Transmettre l'affaire au Médiateur"
+     ],
+     "a": 2,
+     "e": "L'article 135 permet à tout justiciable de soulever l'inconstitutionnalité par voie d'exception ; la juridiction sursoit à statuer et lui accorde quinze jours pour saisir le Conseil constitutionnel.",
+     "ed": [
+      "Le juge ordinaire ne tranche pas la constitutionnalité ; il renvoie au Conseil constitutionnel.",
+      "L'exception est ouverte à tout justiciable selon l'article 135.",
+      null,
+      "Le Médiateur règle à l'amiable les différends avec l'administration ; il ne contrôle pas les lois."
+     ],
+     "src": {
+      "t": "Constitute Project, Constitution de la Côte d'Ivoire de 2016 révisée en 2020 (traduction anglaise)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261119-op05-09",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Une loi organique vient d'être adoptée. Le Président de la République peut-il la promulguer sans saisir le Conseil constitutionnel ?",
+     "o": [
+      "Oui, la saisine est toujours facultative",
+      "Oui, si le Sénat est d'accord",
+      "Non, mais seulement si un dixième des députés le demande",
+      "Non, les lois organiques doivent être soumises au Conseil avant leur promulgation"
+     ],
+     "a": 3,
+     "e": "L'article 134 impose de soumettre les lois organiques au Conseil constitutionnel avant leur promulgation : le contrôle est obligatoire.",
+     "ed": [
+      "La saisine est facultative pour les lois ordinaires, pas pour les lois organiques.",
+      "L'accord du Sénat ne dispense pas du contrôle obligatoire.",
+      "Pour une loi organique, la saisine n'attend pas la demande des députés : elle est obligatoire.",
+      null
+     ],
+     "src": {
+      "t": "Constitute Project, Constitution de la Côte d'Ivoire de 2016 révisée en 2020 (traduction anglaise)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+     }
+    },
+    {
+     "id": "n20261119-op05-10",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Le Conseil constitutionnel déclare une disposition législative contraire à la Constitution. Le Gouvernement peut-il faire appel ?",
+     "o": [
+      "Oui, devant la Cour de cassation",
+      "Non, ses décisions ne sont susceptibles d'aucun recours",
+      "Oui, devant le Conseil d'État",
+      "Oui, devant l'Assemblée nationale"
+     ],
+     "a": 1,
+     "e": "Selon les articles 137 et 138, les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours et s'imposent à tous.",
+     "ed": [
+      "La Cour de cassation est juge de l'ordre judiciaire ; elle ne réexamine pas les décisions du Conseil constitutionnel.",
+      null,
+      "Le Conseil d'État est juge administratif ; il ne peut réformer une décision du Conseil constitutionnel.",
+      "Le Parlement ne peut pas annuler une décision du Conseil constitutionnel."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 5 : autorité des décisions (art. 137-138)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-5-de-lautorite-des-decisions/"
+     }
+    },
+    {
+     "id": "n20261119-op05-11",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Une commune a reçu une subvention publique pour un marché. Quel organe constitutionnel peut contrôler l'emploi de ces fonds ?",
+     "o": [
+      "La Cour des comptes",
+      "Le CESEC",
+      "Le Médiateur de la République",
+      "Le Conseil constitutionnel"
+     ],
+     "a": 0,
+     "e": "L'article 152 étend le contrôle de la Cour des comptes aux collectivités territoriales et aux organismes qui bénéficient de concours financiers publics.",
+     "ed": [
+      null,
+      "Le CESEC donne des avis sur des textes ; il ne contrôle pas les comptes.",
+      "Le Médiateur intercède entre administration et administrés ; il ne contrôle pas les finances.",
+      "Le Conseil constitutionnel juge la constitutionnalité des lois et les élections, pas l'emploi des fonds publics."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre IX, chapitre 5 : la Cour des comptes (art. 152-154)",
+      "u": "https://loidici.biz/2018/08/18/chapitres-5-de-la-cour-des-comptes/"
+     }
+    },
+    {
+     "id": "n20261119-op05-12",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "M. Yao, qui attend depuis un an la délivrance d'un document par une administration, cherche une solution amiable sans procès. À qui peut-il s'adresser ?",
+     "o": [
+      "Au Conseil constitutionnel",
+      "À la Cour des comptes",
+      "Au Médiateur de la République",
+      "Au CESEC"
+     ],
+     "a": 2,
+     "e": "L'article 165 fait du Médiateur l'intercesseur gracieux entre l'administration et les administrés : il cherche une solution amiable.",
+     "ed": [
+      "Le Conseil constitutionnel ne règle pas les différends individuels avec l'administration.",
+      "La Cour des comptes contrôle les finances publiques, pas les demandes des usagers.",
+      null,
+      "Le CESEC conseille sur les textes, il ne reçoit pas les réclamations des usagers."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre XII, chapitre 1 : attributions du Médiateur de la République (art. 165)",
+      "u": "https://loidici.biz/2018/08/18/titre-xii-du-mediateur-de-la-republique-chapitre-premier-des-attributions-du-mediateur-de-la-republique/"
+     }
+    },
+    {
+     "id": "n20261119-op05-13",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Le Président de la République veut l'avis d'une institution sur un problème environnemental. Laquelle peut-il consulter à ce titre selon l'article 163 ?",
+     "o": [
+      "Le CESEC",
+      "La Cour des comptes",
+      "Le Médiateur de la République",
+      "Le Sénat"
+     ],
+     "a": 0,
+     "e": "L'article 163 permet au Président de la République de consulter le CESEC sur tout problème à caractère économique, social, environnemental et culturel.",
+     "ed": [
+      null,
+      "La Cour des comptes est consultée sur les finances publiques, pas sur tout problème environnemental.",
+      "Le Médiateur intercède pour les administrés ; il n'est pas l'organe consultatif visé à l'article 163.",
+      "Le Sénat est une chambre du Parlement, pas l'organe consultatif de l'article 163."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre XI, chapitre 1 : attributions du CESEC (art. 163)",
+      "u": "https://loidici.biz/2018/08/18/titre-xi-du-conseil-economique-social-environnemental-et-culturel-chapitre-premier-des-attributions/"
+     }
+    },
+    {
+     "id": "n20261119-op05-14",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Un avocat en activité est nommé Médiateur de la République. Que doit-il faire ?",
+     "o": [
+      "Rien, les deux fonctions sont compatibles",
+      "Cesser son activité professionnelle, incompatible avec la fonction de Médiateur",
+      "Obtenir l'accord du CESEC",
+      "Démissionner seulement s'il est aussi député"
+     ],
+     "a": 1,
+     "e": "L'article 167 rend la fonction de Médiateur incompatible avec tout mandat politique, tout emploi public et toute activité professionnelle.",
+     "ed": [
+      "L'article 167 interdit au contraire toute activité professionnelle.",
+      null,
+      "Le CESEC n'a aucun rôle dans le régime des incompatibilités du Médiateur.",
+      "L'incompatibilité vise toute activité professionnelle, pas seulement un mandat de député."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre XII, chapitre 2 : statut du Médiateur de la République (art. 166-168)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-statut-du-mediateur-de-la-republique/"
+     }
+    },
+    {
+     "id": "n20261119-op05-15",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Quelle affirmation sur le Conseil constitutionnel est FAUSSE ?",
+     "o": [
+      "Ses six conseillers sont tous désignés par le Président de la République",
+      "Il est renouvelé par moitié tous les trois ans",
+      "Les anciens présidents de la République en sont membres, sauf renonciation expresse",
+      "Son président est nommé pour six ans non renouvelables"
+     ],
+     "a": 0,
+     "e": "L'article 128 répartit les désignations : trois conseillers par le Président de la République, deux par le Président de l'Assemblée nationale, un par le Président du Sénat.",
+     "ed": [
+      null,
+      "C'est exact : l'article 128 prévoit un renouvellement par moitié tous les trois ans.",
+      "C'est exact : l'article 128 inclut les anciens présidents, sauf renonciation expresse.",
+      "C'est exact : l'article 129 fixe ce mandat de six ans non renouvelable."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 2 : composition du Conseil constitutionnel (art. 128)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-composition/"
+     }
+    },
+    {
+     "id": "n20261119-op05-16",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Un candidat écrit : « Le Conseil constitutionnel est renouvelé tous les trois ans, donc ses membres ont un mandat de trois ans. » Quelle est l'erreur ?",
+     "o": [
+      "Il n'y a pas d'erreur",
+      "Le Conseil n'est jamais renouvelé",
+      "Le renouvellement par moitié tous les trois ans s'applique à des mandats de six ans",
+      "Les mandats durent cinq ans"
+     ],
+     "a": 2,
+     "e": "Les conseillers ont un mandat de six ans (article 130) ; seule la moitié du Conseil est renouvelée tous les trois ans (article 128), ce qui assure la continuité.",
+     "ed": [
+      "Le raisonnement confond périodicité du renouvellement et durée du mandat.",
+      "L'article 128 prévoit bien un renouvellement par moitié.",
+      null,
+      "Cinq ans est la durée du mandat du président de la Cour des comptes."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 3 : statut des membres (art. 129-132)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-3-du-statut-des-membres/"
+     }
+    },
+    {
+     "id": "n20261119-op05-17",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Le Médiateur critique publiquement, dans son rapport, la lenteur d'un ministère. Peut-il être poursuivi pour ces propos ?",
+     "o": [
+      "Oui, s'il n'a pas obtenu l'accord du ministre",
+      "Non, mais il perd automatiquement son mandat",
+      "Oui, devant la Cour des comptes",
+      "Non, il ne peut être poursuivi pour les opinions émises dans l'exercice de ses fonctions"
+     ],
+     "a": 3,
+     "e": "L'article 168 interdit de poursuivre, rechercher, arrêter, détenir ou juger le Médiateur à l'occasion des opinions émises ou des actes accomplis dans l'exercice de ses fonctions.",
+     "ed": [
+      "Le Médiateur ne reçoit d'instruction d'aucune autorité (article 165) ; il n'a pas à obtenir l'accord du ministre.",
+      "Rien dans la Constitution ne prévoit la perte du mandat pour ses opinions.",
+      "La Cour des comptes ne juge pas les opinions du Médiateur.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre XII, chapitre 2 : statut du Médiateur de la République (art. 166-168)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-statut-du-mediateur-de-la-republique/"
+     }
+    },
+    {
+     "id": "n20261119-op05-18",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Lequel de ces organes donne un avis qui NE lie PAS l'autorité qui le demande ?",
+     "o": [
+      "Le Conseil constitutionnel, lorsqu'il déclare une loi inconstitutionnelle",
+      "La Cour des comptes, lorsqu'elle juge des comptes",
+      "Le CESEC, lorsqu'il se prononce sur un projet de loi",
+      "Le Conseil constitutionnel, lorsqu'il proclame les résultats définitifs de la présidentielle"
+     ],
+     "a": 2,
+     "e": "Le CESEC « donne son avis » (article 163) : c'est une fonction consultative ; l'autorité reste libre de sa décision.",
+     "ed": [
+      "Une déclaration d'inconstitutionnalité s'impose à tous et n'admet aucun recours.",
+      "Dans ses attributions juridictionnelles, la Cour des comptes rend des décisions, non de simples avis.",
+      null,
+      "La proclamation des résultats définitifs par le Conseil constitutionnel s'impose (article 127)."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre XI, chapitre 1 : attributions du CESEC (art. 163)",
+      "u": "https://loidici.biz/2018/08/18/titre-xi-du-conseil-economique-social-environnemental-et-culturel-chapitre-premier-des-attributions/"
+     }
+    },
+    {
+     "id": "n20261119-op05-19",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Quelle garantie commune protège l'indépendance du Médiateur et des conseillers du Conseil constitutionnel ?",
+     "o": [
+      "Un mandat de six ans non renouvelable",
+      "L'élection par le peuple",
+      "Un mandat renouvelable une fois",
+      "La nomination par le CESEC"
+     ],
+     "a": 0,
+     "e": "Les articles 130 et 166 prévoient pour les conseillers et pour le Médiateur un mandat de six ans non renouvelable : ils n'ont rien à attendre d'une reconduction.",
+     "ed": [
+      null,
+      "Ni le Médiateur ni les conseillers ne sont élus par le peuple : ils sont nommés.",
+      "Le mandat renouvelable une fois concerne le président de la Cour des comptes.",
+      "Le CESEC ne nomme ni le Médiateur ni les conseillers."
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre XII, chapitre 2 : statut du Médiateur de la République (art. 166-168)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-statut-du-mediateur-de-la-republique/"
+     }
+    },
+    {
+     "id": "n20261119-op05-20",
+     "m": "opaj",
+     "tag": "niv-op05",
+     "q": "Sur les six conseillers du Conseil constitutionnel, quelle part est désignée par les présidents des deux chambres du Parlement ?",
+     "o": [
+      "Un tiers",
+      "Les deux tiers",
+      "Un sixième",
+      "La moitié"
+     ],
+     "a": 3,
+     "e": "L'article 128 attribue deux désignations au Président de l'Assemblée nationale et une au Président du Sénat, soit 3 sur 6 : la moitié.",
+     "ed": [
+      "Un tiers ferait deux conseillers ; or les deux présidents en désignent trois.",
+      "Les deux tiers feraient quatre conseillers.",
+      "Un sixième correspond à la seule part du Président du Sénat.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 2 : composition du Conseil constitutionnel (art. 128)",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-composition/"
+     }
+    },
+    {
+     "id": "n20261119-sf08-01",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Selon l'article 100 de la loi n°2023-892, en combien d'ordres les sanctions disciplinaires sont-elles classées ?",
+     "o": [
+      "Un seul",
+      "Trois",
+      "Deux",
+      "Quatre"
+     ],
+     "a": 2,
+     "e": "L'article 100 dispose que les sanctions disciplinaires sont de deux ordres : premier degré et second degré, la révocation étant prévue à part.",
+     "ed": [
+      "La loi distingue précisément deux degrés, pas un ordre unique.",
+      "Il n'existe pas de troisième degré ; la révocation est prévue à part.",
+      null,
+      "La loi ne prévoit pas quatre ordres de sanctions."
+     ],
+     "src": {
+      "t": "Loidici, Les sanctions disciplinaires de la fonction publique sont-elles d'un seul ordre ? (art. 100 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49311"
+     }
+    },
+    {
+     "id": "n20261119-sf08-02",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Laquelle de ces sanctions appartient au premier degré ?",
+     "o": [
+      "La rétrogradation",
+      "L'exclusion temporaire",
+      "L'abaissement d'échelon",
+      "Le blâme"
+     ],
+     "a": 3,
+     "e": "Le blâme figure parmi les sanctions du premier degré de l'article 100, avec l'avertissement, le déplacement d'office, la radiation du tableau d'avancement et la réduction de traitement de 25 %.",
+     "ed": [
+      "La rétrogradation est une sanction du second degré.",
+      "L'exclusion temporaire est une sanction du second degré.",
+      "L'abaissement d'échelon est une sanction du second degré.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Les sanctions disciplinaires de la fonction publique sont-elles d'un seul ordre ? (art. 100 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49311"
+     }
+    },
+    {
+     "id": "n20261119-sf08-03",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Quelle est la durée maximale de l'exclusion temporaire de fonctions ?",
+     "o": [
+      "Trente jours",
+      "Trois mois",
+      "Un an",
+      "Six mois"
+     ],
+     "a": 3,
+     "e": "L'article 100 prévoit l'exclusion temporaire pour une durée ne pouvant excéder six mois ; c'est une sanction du second degré.",
+     "ed": [
+      "Trente jours est la durée maximale de la réduction de traitement de 25 % (premier degré).",
+      "Trois mois est la durée maximale de la réduction de traitement de 50 %.",
+      "La loi ne prévoit pas d'exclusion temporaire d'un an.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Les sanctions disciplinaires de la fonction publique sont-elles d'un seul ordre ? (art. 100 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49311"
+     }
+    },
+    {
+     "id": "n20261119-sf08-04",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Qui prononce les sanctions du second degré ?",
+     "o": [
+      "Le ministre chargé de la Fonction publique",
+      "Le chef de service direct de l'agent",
+      "Le préfet",
+      "Le Conseil de discipline lui-même"
+     ],
+     "a": 0,
+     "e": "L'article 101 attribue les sanctions du second degré au ministre chargé de la Fonction publique, saisi par les autorités compétentes pour le premier degré.",
+     "ed": [
+      null,
+      "Le chef de service direct n'a pas compétence pour le second degré.",
+      "Le préfet est compétent pour le premier degré seulement.",
+      "Le Conseil de discipline est consulté ; il ne prononce pas la sanction."
+     ],
+     "src": {
+      "t": "Loidici, Qui reconnaît le pouvoir disciplinaire des sanctions de premier degré ? (art. 101 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49315"
+     }
+    },
+    {
+     "id": "n20261119-sf08-05",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Qu'exige l'article 100 pour toute décision de sanction ?",
+     "o": [
+      "Qu'elle soit publiée au Journal officiel",
+      "Qu'elle soit approuvée par le syndicat de l'agent",
+      "Qu'elle soit motivée",
+      "Qu'elle soit prise dans les huit jours"
+     ],
+     "a": 2,
+     "e": "L'article 100 dispose que la décision de sanction doit être motivée : l'agent doit connaître les raisons de fait et de droit de la sanction.",
+     "ed": [
+      "La loi ne subordonne pas la sanction à une publication au Journal officiel.",
+      "Aucune approbation syndicale n'est exigée.",
+      null,
+      "La loi ne fixe pas un délai de huit jours pour prendre la sanction."
+     ],
+     "src": {
+      "t": "Loidici, Les sanctions disciplinaires de la fonction publique sont-elles d'un seul ordre ? (art. 100 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49311"
+     }
+    },
+    {
+     "id": "n20261119-sf08-06",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Que conserve le fonctionnaire frappé d'une exclusion temporaire ?",
+     "o": [
+      "L'intégralité de son traitement",
+      "Les prestations familiales",
+      "La moitié de son traitement",
+      "Ses primes de rendement"
+     ],
+     "a": 1,
+     "e": "Selon l'article 100, l'exclusion temporaire entraîne la perte de toute rémunération, à l'exception des prestations familiales.",
+     "ed": [
+      "L'exclusion temporaire prive au contraire de toute rémunération.",
+      null,
+      "La loi ne maintient pas la moitié du traitement.",
+      "Les primes font partie de la rémunération perdue."
+     ],
+     "src": {
+      "t": "Loidici, Les sanctions disciplinaires de la fonction publique sont-elles d'un seul ordre ? (art. 100 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49311"
+     }
+    },
+    {
+     "id": "n20261119-sf08-07",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Un agent perçoit 280 000 F CFA par mois. Il subit la réduction de traitement maximale du premier degré. Combien perçoit-il ce mois-là ?",
+     "o": [
+      "70 000 F CFA",
+      "140 000 F CFA",
+      "210 000 F CFA",
+      "252 000 F CFA"
+     ],
+     "a": 2,
+     "e": "La réduction maximale du premier degré est de 25 % : 280 000 × 25 / 100 = 70 000 F CFA retenus, donc 280 000 − 70 000 = 210 000 F CFA perçus.",
+     "ed": [
+      "70 000 F CFA est le montant retenu, pas celui qui est perçu.",
+      "140 000 F CFA correspondrait à une réduction de 50 %, qui relève du second degré.",
+      null,
+      "252 000 F CFA correspondrait à une réduction de 10 %, inférieure au maximum."
+     ],
+     "verif": "calcul",
+     "calc": "280000-280000*25/100"
+    },
+    {
+     "id": "n20261119-sf08-08",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Un agent perçoit 360 000 F CFA par mois et subit la réduction de traitement maximale du second degré. Quel montant lui est retenu chaque mois ?",
+     "o": [
+      "90 000 F CFA",
+      "120 000 F CFA",
+      "270 000 F CFA",
+      "180 000 F CFA"
+     ],
+     "a": 3,
+     "e": "La réduction du second degré est de 50 %, pour trois mois au plus : 360 000 × 50 / 100 = 180 000 F CFA retenus par mois.",
+     "ed": [
+      "90 000 F CFA correspond à 25 %, taux du premier degré.",
+      "120 000 F CFA correspond à un tiers, taux qui n'existe pas dans la loi.",
+      "270 000 F CFA est ce qui resterait après une réduction de 25 %, pas la retenue de 50 %.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "360000*50/100"
+    },
+    {
+     "id": "n20261119-sf08-09",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Une suspension pour faute grave prend effet le 10 janvier. Avant quelle date la situation de l'agent doit-elle être définitivement réglée ?",
+     "o": [
+      "Le 10 avril",
+      "Le 10 février",
+      "Le 10 juillet",
+      "Le 10 mars"
+     ],
+     "a": 0,
+     "e": "L'article 102 impose de régler la situation dans un délai de trois mois à compter de la prise d'effet de la suspension : du 10 janvier au 10 avril.",
+     "ed": [
+      null,
+      "Un mois seulement : le délai légal est de trois mois.",
+      "Six mois dépassent le délai légal de trois mois.",
+      "Deux mois ne correspondent pas au délai de trois mois."
+     ],
+     "src": {
+      "t": "Loidici, Quel est le délai pour régler la situation du fonctionnaire suspendu pour faute grave ? (art. 102 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49325"
+     }
+    },
+    {
+     "id": "n20261119-sf08-10",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Un préfet constate une faute grave d'un fonctionnaire en service dans son département. Peut-il le suspendre ?",
+     "o": [
+      "Non, seul le Président de la République le peut",
+      "Oui, après en avoir informé le ministre technique",
+      "Oui, mais seulement avec l'accord du Conseil de discipline",
+      "Non, le préfet n'a aucun pouvoir disciplinaire"
+     ],
+     "a": 1,
+     "e": "L'article 102 permet au préfet, pour les fonctionnaires en service dans son département, de suspendre l'agent après en avoir informé le ministre technique.",
+     "ed": [
+      "Le Président de la République n'est pas l'autorité visée par l'article 102.",
+      null,
+      "La loi n'exige pas l'accord préalable du Conseil de discipline pour suspendre.",
+      "Le préfet peut prononcer des sanctions du premier degré et suspendre dans ce cas."
+     ],
+     "src": {
+      "t": "Loidici, Loi n°2023-892 du 23 novembre 2023 portant statut général de la fonction publique, chapitre V : la discipline (art. 99 à 104)",
+      "u": "https://loidici.biz/?p=48678"
+     }
+    },
+    {
+     "id": "n20261119-sf08-11",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Un directeur d'établissement public veut abaisser d'une classe un agent fautif. Quelle est la bonne procédure ?",
+     "o": [
+      "Il prononce lui-même la sanction par note de service",
+      "Il saisit le Médiateur de la République",
+      "Il saisit le ministre chargé de la Fonction publique, qui statue après communication du dossier et consultation du Conseil de discipline",
+      "Il demande l'avis du juge pénal"
+     ],
+     "a": 2,
+     "e": "L'abaissement de classe est une sanction du second degré : selon l'article 101, elle relève du ministre chargé de la Fonction publique, après communication du dossier et avis du Conseil de discipline.",
+     "ed": [
+      "Le directeur n'est compétent que pour le premier degré.",
+      "Le Médiateur n'intervient pas dans la procédure disciplinaire.",
+      null,
+      "La procédure disciplinaire est indépendante des poursuites pénales ; le juge pénal n'est pas consulté."
+     ],
+     "src": {
+      "t": "Loidici, Qui reconnaît le pouvoir disciplinaire des sanctions de premier degré ? (art. 101 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49315"
+     }
+    },
+    {
+     "id": "n20261119-sf08-12",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Un agent est suspendu pour faute grave. Trois mois passent sans décision, et il ne fait l'objet d'aucune poursuite pénale. Quelle est la conséquence ?",
+     "o": [
+      "Il est révoqué d'office",
+      "La suspension est prolongée de trois mois",
+      "Il perd ses prestations familiales",
+      "Il retrouve l'intégralité de sa rémunération"
+     ],
+     "a": 3,
+     "e": "L'article 102 prévoit qu'à défaut de décision dans le délai de trois mois, l'agent perçoit à nouveau l'intégralité de sa rémunération, sauf poursuites pénales.",
+     "ed": [
+      "Le silence de l'administration n'entraîne pas la révocation.",
+      "La loi ne prévoit pas de prolongation automatique.",
+      "Les prestations familiales sont conservées pendant la suspension.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Quel est le délai pour régler la situation du fonctionnaire suspendu pour faute grave ? (art. 102 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49325"
+     }
+    },
+    {
+     "id": "n20261119-sf08-13",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Un agent commet, en dehors du service, une infraction de droit commun constitutive de faute grave. Quand sa situation administrative est-elle réglée ?",
+     "o": [
+      "Immédiatement, par le chef de service",
+      "Dans les trente jours, quoi qu'il arrive",
+      "Jamais, car la faute est commise hors service",
+      "Après la décision définitive de la juridiction saisie"
+     ],
+     "a": 3,
+     "e": "L'article 99 prévoit que, pour une faute grave résultant d'une infraction de droit commun commise hors du service, la situation administrative n'est réglée qu'après la décision définitive de la juridiction saisie.",
+     "ed": [
+      "La loi impose d'attendre la décision du juge dans ce cas.",
+      "Trente jours est le délai de transmission de la décision de suspension, pas celui du règlement de la situation.",
+      "Une faute hors service peut avoir des conséquences disciplinaires, après la décision du juge.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Loi n°2023-892 du 23 novembre 2023 portant statut général de la fonction publique, chapitre V : la discipline (art. 99 à 104)",
+      "u": "https://loidici.biz/?p=48678"
+     }
+    },
+    {
+     "id": "n20261119-sf08-14",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Quelle autorité prononce la révocation d'un fonctionnaire ?",
+     "o": [
+      "Le ministre technique",
+      "Le préfet",
+      "Le ministre chargé de la Fonction publique",
+      "Le directeur de l'établissement public"
+     ],
+     "a": 2,
+     "e": "Selon l'article 101, la révocation est prononcée par le ministre chargé de la Fonction publique.",
+     "ed": [
+      "Le ministre technique est compétent pour le premier degré, pas pour la révocation.",
+      "Le préfet est compétent pour le premier degré seulement.",
+      null,
+      "Le directeur d'établissement public n'a compétence que pour le premier degré."
+     ],
+     "src": {
+      "t": "Loidici, Loi n°2023-892 du 23 novembre 2023 portant statut général de la fonction publique, chapitre V : la discipline (art. 99 à 104)",
+      "u": "https://loidici.biz/?p=48678"
+     }
+    },
+    {
+     "id": "n20261119-sf08-15",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Parmi ces affirmations sur le régime disciplinaire du statut de 2023, laquelle est inexacte ?",
+     "o": [
+      "La suspension est une sanction du premier degré",
+      "Le déplacement d'office est une sanction du premier degré",
+      "L'abaissement d'échelon est une sanction du second degré",
+      "La révocation peut s'accompagner de la suspension des droits à pension"
+     ],
+     "a": 0,
+     "e": "La suspension de l'article 102 est une mesure conservatoire prise en cas de faute grave dans l'attente de la décision ; elle ne figure pas dans la liste des sanctions de l'article 100.",
+     "ed": [
+      null,
+      "C'est exact : le déplacement d'office est au premier degré.",
+      "C'est exact : l'abaissement d'échelon est au second degré.",
+      "C'est exact : la révocation est prévue avec ou sans suspension des droits à pension."
+     ],
+     "src": {
+      "t": "Loidici, Les sanctions disciplinaires de la fonction publique sont-elles d'un seul ordre ? (art. 100 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49311"
+     }
+    },
+    {
+     "id": "n20261119-sf08-16",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Un fonctionnaire est puni d'une rétrogradation sans avoir eu accès à son dossier individuel. Que peut-il invoquer ?",
+     "o": [
+      "Rien, la communication du dossier est facultative",
+      "La méconnaissance d'une garantie de procédure : pour le second degré, le dossier doit lui être communiqué",
+      "L'incompétence du Conseil de discipline pour donner un avis",
+      "Le fait que la rétrogradation n'existe pas dans la loi"
+     ],
+     "a": 1,
+     "e": "L'article 101 exige, pour les sanctions du second degré, la communication au fonctionnaire de son dossier individuel avant la décision : c'est une garantie des droits de la défense.",
+     "ed": [
+      "La communication du dossier est imposée par l'article 101 pour le second degré.",
+      null,
+      "Le Conseil de discipline de la Fonction publique est bien l'organe consulté.",
+      "La rétrogradation figure parmi les sanctions du second degré de l'article 100."
+     ],
+     "src": {
+      "t": "Loidici, Qui reconnaît le pouvoir disciplinaire des sanctions de premier degré ? (art. 101 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49315"
+     }
+    },
+    {
+     "id": "n20261119-sf08-17",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Un agent est suspendu le 5 mai pour faute grave, puis finalement blanchi. A-t-il droit à son traitement pour la période de suspension ?",
+     "o": [
+      "Oui, intégralement, puisqu'il est blanchi",
+      "Oui, pour moitié",
+      "Non, aucune rémunération n'est due pour la période de suspension, quelle que soit l'issue",
+      "Oui, si le Conseil de discipline le propose"
+     ],
+     "a": 2,
+     "e": "Selon l'article 102, quelle que soit la décision intervenue, aucune rémunération n'est due au fonctionnaire pour la période de suspension.",
+     "ed": [
+      "La loi exclut toute rémunération pour la période de suspension, même en cas d'issue favorable.",
+      "Aucun versement partiel n'est prévu.",
+      null,
+      "Le Conseil de discipline ne peut pas écarter cette règle légale."
+     ],
+     "src": {
+      "t": "Loidici, Quel est le délai pour régler la situation du fonctionnaire suspendu pour faute grave ? (art. 102 de la loi n°2023-892)",
+      "u": "https://loidici.biz/?p=49325"
+     }
+    },
+    {
+     "id": "n20261119-sf08-18",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Une décision de suspension prise par un ministre technique n'est jamais transmise au ministre chargé de la Fonction publique. Quel est le risque ?",
+     "o": [
+      "Aucun, la transmission est une simple formalité",
+      "La suspension se transforme en révocation",
+      "L'agent perd ses prestations familiales",
+      "La nullité, car la décision doit être transmise dans les trente jours"
+     ],
+     "a": 3,
+     "e": "L'article 102 impose, à peine de nullité, la transmission de la décision de suspension et des pièces au ministre chargé de la Fonction publique dans les trente jours de sa prise d'effet.",
+     "ed": [
+      "La loi prévoit expressément la nullité : ce n'est pas une simple formalité.",
+      "Une suspension ne devient jamais automatiquement une révocation.",
+      "Les prestations familiales sont conservées pendant la suspension.",
+      null
+     ],
+     "src": {
+      "t": "Loidici, Loi n°2023-892 du 23 novembre 2023 portant statut général de la fonction publique, chapitre V : la discipline (art. 99 à 104)",
+      "u": "https://loidici.biz/?p=48678"
+     }
+    },
+    {
+     "id": "n20261119-sf08-19",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Quelle condition, parmi les suivantes, N'EST PAS exigée par l'article 103 pour qualifier une faute de grave ?",
+     "o": [
+      "Les faits ont été commis directement et personnellement par le fonctionnaire",
+      "Les faits ont causé un préjudice financier chiffré à l'État",
+      "Les faits violent une obligation statutaire ou une règle de discipline, d'éthique ou de déontologie",
+      "Les faits sont d'une gravité telle qu'ils empêchent le maintien de l'agent dans le service"
+     ],
+     "a": 1,
+     "e": "L'article 103 pose trois conditions cumulatives : faits personnels, violation d'une obligation, gravité empêchant le maintien dans le service. Il n'exige pas de préjudice financier chiffré.",
+     "ed": [
+      "C'est une des trois conditions de l'article 103.",
+      null,
+      "C'est une des trois conditions de l'article 103.",
+      "C'est une des trois conditions de l'article 103."
+     ],
+     "src": {
+      "t": "Loidici, Loi n°2023-892 du 23 novembre 2023 portant statut général de la fonction publique, chapitre V : la discipline (art. 99 à 104)",
+      "u": "https://loidici.biz/?p=48678"
+     }
+    },
+    {
+     "id": "n20261119-sf08-20",
+     "m": "sfp",
+     "tag": "niv-sf08",
+     "q": "Une faute a été signalée, mais aucune autorité n'a engagé de poursuite disciplinaire. Que permet l'article 101 ?",
+     "o": [
+      "Le ministre chargé de la Fonction publique peut se saisir lui-même",
+      "La faute est définitivement effacée",
+      "Seul le juge pénal peut agir",
+      "Le Conseil de discipline peut sanctionner directement"
+     ],
+     "a": 0,
+     "e": "L'article 101 donne au ministre chargé de la Fonction publique une compétence disciplinaire générale et lui permet de se saisir lorsque aucune action n'a été engagée.",
+     "ed": [
+      null,
+      "L'inaction d'une autorité n'efface pas la faute.",
+      "La procédure disciplinaire est indépendante de la procédure pénale.",
+      "Le Conseil de discipline donne un avis ; il ne prononce pas la sanction."
+     ],
+     "src": {
+      "t": "Loidici, Loi n°2023-892 du 23 novembre 2023 portant statut général de la fonction publique, chapitre V : la discipline (art. 99 à 104)",
+      "u": "https://loidici.biz/?p=48678"
+     }
+    },
+    {
+     "id": "n20261119-cg-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "À quelle date le traité d'Asunción, fondateur du Mercosur, est-il entré en vigueur ?",
+     "o": [
+      "Le 26 mars 1991",
+      "Le 1er janvier 1999",
+      "Le 31 décembre 1994",
+      "Le 8 août 1967"
+     ],
+     "a": 2,
+     "e": "Selon l'Encyclopædia Universalis, le traité d'Asunción, signé le 26 mars 1991, est entré en vigueur le 31 décembre 1994.",
+     "ed": [
+      "Le 26 mars 1991 est la date de signature du traité, pas de son entrée en vigueur.",
+      "Cette date n'est pas celle de l'entrée en vigueur du traité d'Asunción.",
+      null,
+      "Le 8 août 1967 est la date de fondation de l'ASEAN à Bangkok."
+     ],
+     "src": {
+      "t": "Encyclopædia Universalis, MERCOSUR ou MERCOSUL (Marché commun du Sud)",
+      "u": "https://www.universalis.fr/encyclopedie/mercosur-mercosul/"
+     }
+    },
+    {
+     "id": "n20261119-cg-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel pays est devenu en 2006 le cinquième membre permanent du Mercosur, avant d'en être suspendu ?",
+     "o": [
+      "Le Venezuela",
+      "Le Chili",
+      "Le Mexique",
+      "La Colombie"
+     ],
+     "a": 0,
+     "e": "L'Encyclopædia Universalis indique qu'en 2006 le Venezuela devint le cinquième membre permanent du Mercosur ; il figure aujourd'hui comme membre suspendu.",
+     "ed": [
+      null,
+      "Le Chili est membre associé depuis 1996, pas membre permanent.",
+      "Le Mexique n'est pas membre permanent du Mercosur.",
+      "La Colombie n'est pas devenue membre permanent en 2006."
+     ],
+     "src": {
+      "t": "Encyclopædia Universalis, MERCOSUR ou MERCOSUL (Marché commun du Sud)",
+      "u": "https://www.universalis.fr/encyclopedie/mercosur-mercosul/"
+     }
+    },
+    {
+     "id": "n20261119-cg-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quels pays ont rejoint le Mercosur en 1996 comme membres associés ?",
+     "o": [
+      "Le Pérou et l'Équateur",
+      "Le Chili et la Bolivie",
+      "Le Venezuela et Cuba",
+      "Le Brésil et l'Uruguay"
+     ],
+     "a": 1,
+     "e": "Selon l'Encyclopædia Universalis, le Chili et la Bolivie ont rejoint l'organisation en 1996 en tant que membres associés.",
+     "ed": [
+      "Le Pérou et l'Équateur ne sont pas les deux associés de 1996 cités par l'Universalis.",
+      null,
+      "Le Venezuela est entré en 2006 comme membre permanent ; Cuba n'en fait pas partie.",
+      "Le Brésil et l'Uruguay sont des membres fondateurs de 1991, pas des associés de 1996."
+     ],
+     "src": {
+      "t": "Encyclopædia Universalis, MERCOSUR ou MERCOSUL (Marché commun du Sud)",
+      "u": "https://www.universalis.fr/encyclopedie/mercosur-mercosul/"
+     }
+    },
+    {
+     "id": "n20261119-cg-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quelles personnalités ont reçu ensemble le prix Félix Houphouët-Boigny pour la recherche de la paix en 1993 ?",
+     "o": [
+      "Nelson Mandela et Frederik de Klerk",
+      "Jimmy Carter et Juan Carlos Ier",
+      "Kofi Annan et Abdou Diouf",
+      "Yitzhak Rabin, Shimon Peres et Yasser Arafat"
+     ],
+     "a": 3,
+     "e": "Selon la liste des lauréats, le prix 1993 a été attribué conjointement à Yitzhak Rabin, Shimon Peres et Yasser Arafat.",
+     "ed": [
+      "Mandela et de Klerk ont été les premiers lauréats, en 1991.",
+      "Jimmy Carter et Juan Carlos Ier ont été distingués en 1994.",
+      "Ce duo ne correspond pas aux lauréats de 1993.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia, Félix Houphouët-Boigny Peace Prize",
+      "u": "https://en.wikipedia.org/wiki/F%C3%A9lix_Houphou%C3%ABt-Boigny_Peace_Prize"
+     }
+    },
+    {
+     "id": "n20261119-cg-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quelle institution a reçu le prix Houphouët-Boigny pour la recherche de la paix en 1992 ?",
+     "o": [
+      "L'Académie de droit international de La Haye",
+      "Le Comité international de la Croix-Rouge",
+      "Médecins sans frontières",
+      "L'Organisation de l'unité africaine"
+     ],
+     "a": 0,
+     "e": "La liste des lauréats indique qu'en 1992 le prix a été attribué à l'Académie de droit international de La Haye.",
+     "ed": [
+      null,
+      "Le CICR n'est pas le lauréat de 1992.",
+      "Médecins sans frontières n'est pas le lauréat de 1992.",
+      "L'OUA n'est pas le lauréat de 1992."
+     ],
+     "src": {
+      "t": "Wikipedia, Félix Houphouët-Boigny Peace Prize",
+      "u": "https://en.wikipedia.org/wiki/F%C3%A9lix_Houphou%C3%ABt-Boigny_Peace_Prize"
+     }
+    },
+    {
+     "id": "n20261119-cg-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Selon la liste des lauréats, qui a reçu le prix Houphouët-Boigny pour la recherche de la paix au titre de 2024 ?",
+     "o": [
+      "Emmanuel Macron",
+      "Ursula von der Leyen",
+      "António Costa",
+      "Charles Michel"
+     ],
+     "a": 2,
+     "e": "La liste des lauréats du prix de l'UNESCO mentionne António Costa comme lauréat au titre de 2024.",
+     "ed": [
+      "Emmanuel Macron ne figure pas parmi les lauréats 2024.",
+      "Ursula von der Leyen n'est pas la lauréate 2024.",
+      null,
+      "Charles Michel n'est pas le lauréat 2024."
+     ],
+     "src": {
+      "t": "Wikipedia, Félix Houphouët-Boigny Peace Prize",
+      "u": "https://en.wikipedia.org/wiki/F%C3%A9lix_Houphou%C3%ABt-Boigny_Peace_Prize"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261119so06",
+     "niv": "so06",
+     "m": "sog",
+     "titre": "Thèmes : paix, cohésion sociale, sécurité — idées, exemples vérifiés et débats",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir précisément paix, cohésion sociale et sécurité, et distinguer leurs sens étroit et large.",
+      "= Vous saurez aussi mobiliser six repères ivoiriens et africains vérifiés (ONUCI, accord de Ouagadougou, CDVR, CONARIV, prix Houphouët-Boigny, sécurité humaine) et les analyser au lieu de les réciter.",
+      "## Ce que demande l'épreuve",
+      "Le sujet d'ordre général de l'ENA propose souvent une assertion à commenter et discuter. La paix, les élections, la cohésion sociale et la jeunesse reviennent régulièrement dans ces assertions. Le correcteur ne note pas la quantité de dates. Il note la justesse des définitions, la qualité du raisonnement et la pertinence des exemples.",
+      "! Piège habituel : réciter l'histoire des crises ivoiriennes de 2002 à 2011. Un récit chronologique n'est pas une argumentation. Chaque fait doit servir une idée précise.",
+      "## La méthode, pas à pas",
+      "- 1. Définissez chaque mot clé du sujet dans son sens étroit et dans son sens large. Faites varier ce sens selon le contexte : la paix d'un pays, d'une commune, d'une famille.",
+      "- 2. Repérez la tension du sujet : paix et justice, sécurité et liberté, unité et diversité.",
+      "- 3. Choisissez dans votre fiche thématique les exemples qui répondent exactement à cette tension.",
+      "- 4. Partez de l'exemple pour en tirer l'idée : quel mécanisme montre-t-il ? Rédigez l'idée en tête de paragraphe.",
+      "- 5. Terminez chaque paragraphe par une phrase qui rattache l'exemple au sujet.",
+      "~ Exemple : sujet « La sécurité est la première des libertés. » Étape 1 : sécurité au sens étroit (absence de menace physique) et au sens large (sécurité alimentaire, sanitaire, économique). Étape 2 : tension sécurité/liberté. Étape 3 : exemple de la sécurité humaine, qui place la personne au centre. Étape 4 : idée tirée, la sécurité est la condition qui rend les libertés réellement exerçables. Étape 5 : on rattache au sujet en montrant la limite, une sécurité obtenue par la contrainte peut aussi restreindre la liberté."
+     ],
+     "fond": [
+      "## Notion 1 : définir les trois mots du thème",
+      "Règle : la paix au sens étroit est l'absence de guerre ou de violence armée. Au sens large, c'est un état durable où les conflits se règlent sans violence, par le droit et le dialogue. La cohésion sociale est la capacité d'une société à faire vivre ensemble des groupes différents, par la confiance, l'équité et le sentiment d'appartenance commune. La sécurité est la protection contre les menaces. Elle peut viser l'État et son territoire, ou la personne et ses besoins.",
+      "Pourquoi distinguer ces sens ? Parce qu'un pays peut ne plus connaître la guerre et rester fragile. La méfiance entre communautés, les inégalités ou le chômage des jeunes menacent la paix au sens large. Cette distinction fournit souvent la problématique d'un sujet.",
+      "~ Exemple résolu : sujet « La paix n'est pas seulement l'absence de guerre. » Étape 1 : on définit la paix étroite et la paix large. Étape 2 : la thèse du sujet est que la paix large est la vraie paix. Étape 3 : on discute, car sans arrêt des combats aucune paix large n'est possible. Problématique : l'arrêt des armes suffit-il à bâtir une paix durable ?",
+      "? Définissez en une phrase la cohésion sociale, puis donnez un signe concret de sa fragilité dans une commune. || La cohésion sociale est la capacité d'une société à faire vivre ensemble des groupes différents dans la confiance et l'équité. Signe de fragilité : des quartiers qui refusent de collaborer pour un projet commun, par méfiance mutuelle. Il faut un signe observable, pas une simple opinion.",
+      "## Notion 2 : de la guerre au retour de la paix, ONUCI et accord de Ouagadougou",
+      "Règle : l'Opération des Nations Unies en Côte d'Ivoire (ONUCI) a été créée par la résolution 1528 du Conseil de sécurité, du 27 février 2004. Elle a fonctionné à partir du 4 avril 2004 et a achevé son mandat le 30 juin 2017. L'accord politique de Ouagadougou a été signé le 4 mars 2007. Il visait la réunification du pays, le désarmement et l'organisation d'élections ouvertes, transparentes et démocratiques. Il prévoyait aussi de nouveaux documents d'identification pour fiabiliser la liste électorale.",
+      "Pourquoi ces faits comptent-ils ? Ils montrent deux voies vers la paix. La première est extérieure : une force internationale s'interpose et accompagne. La seconde est intérieure : les acteurs nationaux négocient directement entre eux. Un bon devoir compare ces deux voies.",
+      "! Piège : la fin d'une mission de paix ne prouve pas que la paix est acquise. Elle montre que l'État est jugé capable d'assurer seul sa sécurité. La consolidation de la paix continue ensuite.",
+      "? Pourquoi l'identification des personnes figure-t-elle dans un accord de paix ? || Parce que la question de savoir qui peut voter était au cœur de la crise. Des documents d'identification fiables permettent une liste électorale acceptée par tous. Des élections contestées peuvent relancer la violence ; des élections crédibles apaisent. L'idée à retenir : la paix passe aussi par des procédures administratives justes.",
+      "## Notion 3 : réconcilier après la crise, CDVR et CONARIV",
+      "Règle : la Commission Dialogue, Vérité et Réconciliation (CDVR), annoncée le 1er mai 2011, a été présidée par Charles Konan Banny, ancien Premier ministre. Elle a recueilli 72 483 dépositions et a remis son rapport final au Président de la République en décembre 2014. La Commission nationale pour la réconciliation et l'indemnisation des victimes (CONARIV), créée en mars 2015, a recensé 316 954 victimes des crises survenues entre 1990 et 2011.",
+      "Pourquoi une telle commission ? Parce qu'après une guerre, juger tous les auteurs est impossible et les victimes attendent d'abord la reconnaissance de ce qu'elles ont subi. La vérité, le dialogue et la réparation complètent l'action des tribunaux.",
+      "~ Exemple résolu : sujet « La cohésion sociale peut-elle se décréter ? » Idée tirée de l'exemple : l'État peut créer des commissions et des fonds d'indemnisation, donc il agit. Mais la réconciliation dépend aussi des communautés, qui doivent accepter d'écouter l'autre. Conclusion partielle : l'État organise les conditions de la cohésion, il ne peut pas la décréter seul.",
+      "? Donnez un argument pour et un argument contre l'idée qu'il n'y a pas de paix durable sans justice. || Pour : sans reconnaissance ni réparation, les victimes gardent un ressentiment qui peut nourrir de nouveaux conflits ; la CONARIV a d'ailleurs recensé les victimes pour les indemniser. Contre : une justice trop lente ou perçue comme partiale peut raviver les divisions ; le dialogue et le pardon peuvent alors primer. Le devoir doit articuler les deux, pas choisir un camp sans nuance.",
+      "## Notion 4 : la sécurité humaine et le projet africain",
+      "Règle : le Rapport sur le développement humain de 1994 du PNUD a introduit le concept de sécurité humaine. Il rattache la sécurité aux personnes plutôt qu'aux territoires, et au développement plutôt qu'aux armes. L'Union africaine a lancé l'initiative « Faire taire les armes à l'horizon 2020 ». Selon une analyse de l'ISS publiée en 2023, cet objectif n'a pas été atteint.",
+      "Pourquoi est-elle utile ? Elle relie la paix aux thèmes favoris des sujets : emploi des jeunes, pauvreté, santé.",
+      "! Piège : la sécurité humaine ne remplace pas la sécurité de l'État. Elle l'élargit. Sans forces de défense, aucune politique sociale ne peut se déployer.",
+      "## Notion 5 : faire parler un exemple",
+      "Règle : un exemple n'illustre pas une idée trouvée d'avance. On part de l'exemple et on en extrait l'idée. Exemple ivoirien de symbole : le prix Félix Houphouët-Boigny pour la recherche de la paix a été institué par l'UNESCO en 1989 ; ses premiers lauréats, en 1991, furent Nelson Mandela et Frederik de Klerk.",
+      "~ Exemple résolu : à partir de ce prix, quelle idée tirer ? Étape 1 : il récompense deux anciens adversaires d'Afrique du Sud. Étape 2 : il montre que la paix se construit par la négociation entre ennemis. Étape 3 : rattachement au sujet sur la réconciliation, la paix exige que les adversaires d'hier deviennent des partenaires."
+     ],
+     "retenir": [
+      "La paix au sens étroit est l'absence de guerre ; au sens large, c'est le règlement durable des conflits sans violence.",
+      "L'ONUCI, créée par la résolution 1528 du 27 février 2004, a achevé son mandat le 30 juin 2017.",
+      "L'accord politique de Ouagadougou, signé le 4 mars 2007, visait la réunification, le désarmement et des élections transparentes.",
+      "La CDVR, présidée par Charles Konan Banny, a remis son rapport final en décembre 2014.",
+      "La CONARIV, créée en mars 2015, a recensé 316 954 victimes des crises de 1990 à 2011.",
+      "Le PNUD a introduit la sécurité humaine en 1994 : la sécurité des personnes plutôt que celle des seuls territoires.",
+      "Un bon exemple se part de lui-même : on l'analyse pour en tirer l'idée, puis on le rattache au sujet."
+     ],
+     "exo": {
+      "tag": "niv-so06",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Nations Unies, Opération des Nations Unies en Côte d'Ivoire (ONUCI), fiche de mission",
+       "u": "https://peacekeeping.un.org/sites/default/files/past/unoci.shtml"
+      },
+      {
+       "t": "Fraternité Matin, Départ définitif de l'ONUCI le 30 juin 2017",
+       "u": "https://www.fratmat.info/index.php/politique/cote-d-ivoire-depart-definitif-de-l-onuci-le-30-juin-2017"
+      },
+      {
+       "t": "Peace Accords Matrix (Université de Notre-Dame), Ouagadougou Political Agreement",
+       "u": "https://peaceaccords.nd.edu/accord/ouagadougou-political-agreement-opa"
+      },
+      {
+       "t": "Wikipedia, Truth and Reconciliation Commission (Ivory Coast)",
+       "u": "https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Ivory_Coast)"
+      },
+      {
+       "t": "JusticeInfo.net (AFP), Côte d'Ivoire : fin du mandat de la Commission de réconciliation (juillet 2017)",
+       "u": "https://www.justiceinfo.net/fr/33756-cote-d-ivoire-fin-du-mandat-de-la-commission-de-reconciliation.html"
+      },
+      {
+       "t": "PNUD, Rapport sur le développement humain 1994 : Nouvelles dimensions de la sécurité humaine",
+       "u": "https://hdr.undp.org/content/human-development-report-1994"
+      },
+      {
+       "t": "ISS Africa, L'initiative « Faire taire les armes » aurait-elle été mise aux oubliettes ? (juin 2023)",
+       "u": "https://issafrica.org/pscreport/psc-insights/linitiative-faire-taire-les-armes-aurait-elle-ete-mise-aux-oubliettes"
+      },
+      {
+       "t": "Abidjan.net, Prix Félix Houphouët-Boigny pour la recherche de la paix : historique et lauréats",
+       "u": "https://news.abidjan.net/articles/461302/prix-felix-houphouet-boigny-pour-la-recherche-de-la-paix-historique-et-les-laureats"
+      },
+      {
+       "t": "Wikipedia, Félix Houphouët-Boigny Peace Prize",
+       "u": "https://en.wikipedia.org/wiki/F%C3%A9lix_Houphou%C3%ABt-Boigny_Peace_Prize"
+      },
+      {
+       "t": "Major Prépa, Une méthode gagnante pour réussir la dissertation de culture générale",
+       "u": "https://major-prepa.com/culture-generale/methode-gagnante-reussir-dissertation-de-culture-generale-aux-concours/"
+      },
+      {
+       "t": "Mister Prépa, La méthode pour exceller en culture générale",
+       "u": "https://misterprepa.net/comment-exceller-en-cg-en-deuxieme-annee/"
+      }
+     ]
+    },
+    {
+     "id": "L20261119op05",
+     "niv": "op05",
+     "m": "opaj",
+     "titre": "Les institutions consultatives et de contrôle : Conseil constitutionnel, Cour des comptes, CESEC, Médiateur",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez classer les institutions de la Constitution de 2016 selon leur fonction : juger la constitutionnalité, contrôler les finances publiques, conseiller, intercéder.",
+      "= Vous saurez aussi citer, article à l'appui, la composition, le mode de nomination et la durée du mandat de chacune, et résoudre un petit cas de saisine.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve d'organisation politique, administrative et judiciaire interroge sur l'architecture de l'État. Les questions portent sur qui nomme, pour combien de temps, avec quel pouvoir. Les dissertations demandent de comparer les institutions ou d'apprécier leur indépendance.",
+      "! Piège habituel : confondre les institutions qui décident (Conseil constitutionnel, Cour des comptes dans ses fonctions juridictionnelles) et celles qui donnent un avis (CESEC) ou qui intercèdent (Médiateur).",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez la fonction de l'institution : juger, contrôler, conseiller ou intercéder.",
+      "- 2. Retrouvez son titre dans la Constitution : Titre VIII pour le Conseil constitutionnel, Titre IX pour la Cour des comptes, Titre XI pour le CESEC, Titre XII pour le Médiateur.",
+      "- 3. Pour chaque institution, notez trois données : qui nomme, durée du mandat, renouvelable ou non.",
+      "- 4. Repérez la garantie d'indépendance : mandat non renouvelable, incompatibilités, immunité.",
+      "- 5. Dans un cas pratique, demandez-vous : la décision de l'institution s'impose-t-elle, ou n'est-ce qu'un avis ?",
+      "~ Exemple : « Le CESEC rend un avis défavorable sur un projet de loi. Le Gouvernement est-il bloqué ? » Étape 1 : fonction consultative. Étape 2 : l'article 163 dit que le CESEC donne son avis. Étape 3 : un avis éclaire la décision mais ne l'impose pas. Conclusion : le Gouvernement peut poursuivre la procédure."
+     ],
+     "fond": [
+      "## Notion 1 : le Conseil constitutionnel, juge de la Constitution",
+      "Règle : selon l'article 126, le Conseil constitutionnel est une juridiction constitutionnelle, indépendante et impartiale. Selon l'article 128, il comprend un président, les anciens présidents de la République sauf renonciation expresse, et six conseillers. Trois conseillers sont désignés par le Président de la République, deux par le Président de l'Assemblée nationale et un par le Président du Sénat. Le Conseil est renouvelé par moitié tous les trois ans. Le président et les conseillers sont nommés pour six ans non renouvelables (articles 129 et 130).",
+      "Pourquoi un mandat non renouvelable ? Un juge qui ne peut pas être reconduit n'a rien à attendre de l'autorité qui l'a nommé. Cela protège son indépendance.",
+      "~ Exemple résolu : combien de conseillers sont désignés par les présidents des chambres du Parlement ? Étape 1 : Assemblée nationale, deux. Étape 2 : Sénat, un. Étape 3 : total trois, soit la moitié des six conseillers. Vérification : trois par le Président de la République plus trois par le Parlement font bien six.",
+      "! Piège : le renouvellement par moitié tous les trois ans ne veut pas dire que les mandats durent trois ans. Chaque mandat dure six ans ; on remplace la moitié des membres tous les trois ans.",
+      "## Notion 2 : saisir le Conseil et l'autorité de ses décisions",
+      "Règle : les lois organiques, les règlements des assemblées et certains engagements internationaux doivent lui être soumis avant leur promulgation ou leur mise en œuvre (article 134). Les autres lois peuvent lui être déférées avant promulgation, notamment par le Président de la République, les présidents des deux chambres ou un dixième des députés ou des sénateurs (article 113). Tout justiciable peut aussi soulever, par voie d'exception, l'inconstitutionnalité d'une loi devant toute juridiction ; celle-ci sursoit à statuer et lui accorde quinze jours pour saisir le Conseil (article 135). Les décisions du Conseil ne sont susceptibles d'aucun recours (articles 137 et 138).",
+      "Pourquoi l'exception d'inconstitutionnalité ? Une loi peut échapper au contrôle avant sa promulgation. Le citoyen devient alors le gardien de ses droits pendant son propre procès.",
+      "? Au cours d'un procès, M. Koné soutient que la loi qu'on lui applique viole la Constitution. Que fait le juge ? || Il ne tranche pas lui-même la question de constitutionnalité. Selon l'article 135, il sursoit à statuer et accorde à M. Koné un délai de quinze jours pour saisir le Conseil constitutionnel. Le procès reprend après la décision du Conseil, qui s'imposera à tous.",
+      "## Notion 3 : la Cour des comptes, gardienne des finances publiques",
+      "Règle : selon l'article 152, la Cour des comptes est l'institution suprême de contrôle des finances publiques. Elle a des attributions juridictionnelles, de contrôle et de consultation. Elle contrôle notamment les services de l'État, les établissements publics, les collectivités territoriales et les organismes qui reçoivent des concours financiers publics. Son président est nommé par le Président de la République pour cinq ans, renouvelables une fois (article 153). Une loi organique fixe sa composition et son fonctionnement (article 154). L'article 118 précise qu'elle assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances.",
+      "Pourquoi une juridiction financière ? L'argent public appartient à tous. Un organe indépendant vérifie qu'il est dépensé conformément aux autorisations votées.",
+      "? Une commune bénéficie d'une subvention de l'État pour construire un marché. La Cour des comptes peut-elle contrôler l'usage de cet argent ? || Oui. L'article 152 étend son contrôle aux collectivités territoriales et aux organismes qui reçoivent des concours financiers publics. La commune relève donc deux fois de son contrôle : comme collectivité et comme bénéficiaire d'une subvention.",
+      "## Notion 4 : le CESEC, une assemblée consultative",
+      "Règle : selon l'article 163, le Conseil économique, social, environnemental et culturel donne son avis sur les projets de loi, d'ordonnance ou de décret et sur les propositions de loi qui lui sont soumis. Les projets de loi de programme à caractère économique, social, environnemental ou culturel lui sont soumis pour avis. Le Président de la République peut le consulter sur tout problème de cette nature. Sa composition relève d'une loi organique (article 164).",
+      "Pourquoi le consulter ? Il permet d'entendre les forces économiques et sociales avant la décision. Son avis éclaire, il ne lie pas.",
+      "## Notion 5 : le Médiateur de la République, l'intercesseur",
+      "Règle : selon l'article 165, le Médiateur est une autorité administrative indépendante investie d'une mission de service public. Il ne reçoit d'instruction d'aucune autorité. Il est l'intercesseur gracieux entre l'administration et les administrés. Il est nommé par le Président de la République pour six ans non renouvelables, après avis des présidents de l'Assemblée nationale et du Sénat (article 166). Sa fonction est incompatible avec tout mandat politique, emploi public ou activité professionnelle (article 167). Il ne peut être poursuivi pour les opinions émises ou les actes accomplis dans l'exercice de ses fonctions (article 168).",
+      "~ Exemple résolu : Mme Aka attend depuis des mois le paiement d'une indemnité due par un ministère. Étape 1 : aucun litige n'est encore porté devant un juge. Étape 2 : elle veut une solution amiable. Étape 3 : le Médiateur, intercesseur gracieux, peut intervenir auprès de l'administration. Conclusion : la médiation offre une voie rapide, sans procès.",
+      "? Classez selon leur fonction : CESEC, Médiateur, Cour des comptes, Conseil constitutionnel. || Conseiller : le CESEC donne des avis. Intercéder : le Médiateur règle à l'amiable les différends entre l'administration et les administrés. Contrôler et juger les finances publiques : la Cour des comptes. Juger la constitutionnalité et le contentieux électoral : le Conseil constitutionnel. La clé est de se demander si l'acte de l'institution s'impose ou non.",
+      "> Pour aller plus loin : un article de Fraternité Matin (mai 2022) recense aussi des structures « assimilées » aux institutions, dont la Commission électorale indépendante et la Haute autorité pour la bonne gouvernance. La chefferie traditionnelle fait l'objet du Titre XIV de la Constitution."
+     ],
+     "retenir": [
+      "Le Conseil constitutionnel compte six conseillers : trois désignés par le Président de la République, deux par le Président de l'Assemblée, un par le Président du Sénat.",
+      "Président et conseillers du Conseil constitutionnel sont nommés pour six ans non renouvelables ; le Conseil est renouvelé par moitié tous les trois ans.",
+      "Par voie d'exception, tout justiciable peut contester une loi : le juge sursoit et lui donne quinze jours pour saisir le Conseil (art. 135).",
+      "Les décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours.",
+      "La Cour des comptes est l'institution suprême de contrôle des finances publiques ; son président a un mandat de cinq ans renouvelable une fois.",
+      "Le CESEC donne des avis sur les textes qui lui sont soumis : il conseille, il ne décide pas.",
+      "Le Médiateur, intercesseur gracieux, est nommé pour six ans non renouvelables et ne reçoit d'instruction d'aucune autorité."
+     ],
+     "exo": {
+      "tag": "niv-op05",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 1 : attributions du Conseil constitutionnel (art. 126-127)",
+       "u": "https://loidici.biz/2018/08/18/titre-viii-du-conseil-constitutionnel-chapitre-premier-des-attributions/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 2 : composition du Conseil constitutionnel (art. 128)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-composition/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 3 : statut des membres (art. 129-132)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-3-du-statut-des-membres/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 4 : organisation et fonctionnement (art. 133-136)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-4-de-lorganisation-et-du-fonctionnement/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre VIII, chapitre 5 : autorité des décisions (art. 137-138)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-5-de-lautorite-des-decisions/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre IX, chapitre 5 : la Cour des comptes (art. 152-154)",
+       "u": "https://loidici.biz/2018/08/18/chapitres-5-de-la-cour-des-comptes/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre XI, chapitre 1 : attributions du CESEC (art. 163)",
+       "u": "https://loidici.biz/2018/08/18/titre-xi-du-conseil-economique-social-environnemental-et-culturel-chapitre-premier-des-attributions/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre XI, chapitre 2 : composition et fonctionnement du CESEC (art. 164)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-2-composition-et-fonctionnement/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre XII, chapitre 1 : attributions du Médiateur de la République (art. 165)",
+       "u": "https://loidici.biz/2018/08/18/titre-xii-du-mediateur-de-la-republique-chapitre-premier-des-attributions-du-mediateur-de-la-republique/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre XII, chapitre 2 : statut du Médiateur de la République (art. 166-168)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-2-du-statut-du-mediateur-de-la-republique/"
+      },
+      {
+       "t": "Loidici, Constitution ivoirienne, Titre XII, chapitre 3 : organisation et fonctionnement du Médiateur (art. 169)",
+       "u": "https://loidici.biz/2018/08/18/chapitre-3-de-lorganisation-et-du-fonctionnement-du-mediateur-de-la-republique/"
+      },
+      {
+       "t": "Constitute Project, Constitution de la Côte d'Ivoire de 2016 révisée en 2020 (traduction anglaise)",
+       "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020.pdf"
+      },
+      {
+       "t": "Fraternité Matin, Côte d'Ivoire : les 15 institutions de la République (mai 2022)",
+       "u": "https://www.fratmat.info/article/220832/politique/cote-divoire-les-15-institutions-de-la-republique"
+      }
+     ]
+    },
+    {
+     "id": "L20261119sf08",
+     "niv": "sf08",
+     "m": "sfp",
+     "titre": "Le régime disciplinaire : fautes, sanctions, procédure et garanties",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir la faute disciplinaire et la faute grave, classer les sanctions des deux degrés et la révocation, et désigner l'autorité compétente pour chacune.",
+      "= Vous saurez aussi appliquer la procédure : communication du dossier, consultation du Conseil de discipline, suspension et délai de trois mois.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de statut et déontologie pose des questions précises sur les articles 99 à 104 de la loi n°2023-892 du 23 novembre 2023. Les QCM demandent la liste des sanctions, leur degré, leurs limites chiffrées et l'autorité compétente. Les cas pratiques décrivent un agent fautif et demandent la sanction possible et la procédure à suivre.",
+      "! Piège habituel : confondre la suspension et la sanction. La suspension est une mesure d'attente, prise en cas de faute grave avant la décision disciplinaire ; elle n'est pas une sanction.",
+      "## La méthode, pas à pas",
+      "- 1. Qualifiez les faits : y a-t-il une faute commise dans l'exercice des fonctions (article 99) ? Est-elle grave au sens de l'article 103 ?",
+      "- 2. Choisissez le degré de sanction proportionné à la faute.",
+      "- 3. Identifiez l'autorité compétente selon le degré (article 101).",
+      "- 4. Vérifiez les garanties : dossier communiqué, Conseil de discipline consulté pour le second degré, décision motivée.",
+      "- 5. En cas de faute grave, examinez la suspension et ses délais (article 102).",
+      "~ Exemple : un agent d'une préfecture arrive en retard plusieurs fois dans le mois, malgré des rappels oraux. Étape 1 : manquement à ses obligations dans le service, donc faute disciplinaire. Étape 2 : la faute est légère, une sanction du premier degré suffit, par exemple l'avertissement ou le blâme. Étape 3 : le préfet est compétent pour le premier degré. Étape 4 : la décision doit être motivée."
+     ],
+     "fond": [
+      "## Notion 1 : la faute disciplinaire et la faute grave",
+      "Règle : selon l'article 99, toute faute commise par un fonctionnaire dans l'exercice de ses fonctions l'expose à une sanction disciplinaire. Un manquement aux devoirs professionnels, ou une infraction de droit commun commise dans le cadre professionnel, peut être sanctionné indépendamment des poursuites pénales. L'article 103 définit la faute grave par trois conditions cumulatives. Les faits doivent être commis directement et personnellement par le fonctionnaire. Ils doivent violer une obligation statutaire ou les règles de discipline, d'éthique ou de déontologie. Enfin, ils doivent être d'une gravité telle qu'ils empêchent le maintien du fonctionnaire dans le service.",
+      "Pourquoi deux procédures indépendantes ? Le juge pénal protège la société ; l'autorité disciplinaire protège le bon fonctionnement du service. Un même fait peut donc entraîner une peine et une sanction.",
+      "! Piège : si la faute grave résulte d'une infraction de droit commun commise en dehors du service, la situation administrative de l'agent n'est réglée qu'après la décision définitive de la juridiction saisie (article 99).",
+      "? Un agent du Trésor détourne des fonds de sa caisse. Les trois conditions de la faute grave sont-elles réunies ? || Oui. Il a agi personnellement et directement. Il viole son obligation de probité et les règles de déontologie. La gravité rend impossible son maintien dans un poste de confiance. Les trois conditions de l'article 103 étant cumulatives, il faut vérifier chacune, ce qui est le cas ici.",
+      "## Notion 2 : l'échelle des sanctions",
+      "Règle : l'article 100 classe les sanctions en deux ordres. Premier degré : l'avertissement, le blâme, le déplacement d'office, la radiation du tableau d'avancement pour la période de référence et la réduction de traitement de 25 % au plus pendant trente jours au plus. Second degré : la réduction de traitement de 50 % pendant trois mois au plus, l'exclusion temporaire de six mois au plus, l'abaissement d'échelon, l'abaissement de classe et la rétrogradation. Au-dessus figure la révocation, avec ou sans suspension des droits à pension. L'exclusion temporaire entraîne la perte de toute rémunération, à l'exception des prestations familiales. La décision de sanction doit être motivée.",
+      "Pourquoi une échelle ? Pour que la sanction soit proportionnée à la faute. Une faute légère appelle un rappel à l'ordre ; une faute lourde, une atteinte à la carrière ; une faute incompatible avec le service, la révocation.",
+      "~ Exemple résolu de calcul : un fonctionnaire perçoit un traitement mensuel de 320 000 F CFA. Il subit la réduction maximale du premier degré. Étape 1 : taux maximal, 25 %. Étape 2 : 320 000 × 25 / 100 = 80 000 F CFA retenus. Étape 3 : il perçoit 240 000 F CFA. Vérification : 240 000 + 80 000 = 320 000. Durée : trente jours au plus.",
+      "? Classez par degré : blâme, rétrogradation, déplacement d'office, abaissement de classe. || Premier degré : le blâme et le déplacement d'office. Second degré : l'abaissement de classe et la rétrogradation. Astuce : les sanctions qui touchent durablement le grade ou la classe sont du second degré ; celles qui rappellent à l'ordre ou changent l'agent de poste sont du premier degré.",
+      "## Notion 3 : qui sanctionne, et avec quelles garanties ?",
+      "Règle : selon l'article 101, les sanctions du premier degré relèvent du Président de l'Institution, du ministre technique, du préfet ou du directeur de l'établissement public. Les sanctions du second degré relèvent du ministre chargé de la Fonction publique, saisi par ces mêmes autorités. Il statue après communication au fonctionnaire de son dossier individuel et consultation du Conseil de discipline de la Fonction publique. La révocation est prononcée par le ministre chargé de la Fonction publique. Ce ministre peut aussi se saisir lui-même lorsque aucune action n'a été engagée. L'article 104 renvoie la procédure disciplinaire à un décret pris en Conseil des ministres.",
+      "Pourquoi communiquer le dossier ? C'est le cœur des droits de la défense : l'agent doit connaître les reproches et les pièces pour pouvoir se défendre.",
+      "? Un directeur d'établissement public veut infliger une exclusion temporaire de quatre mois à un agent. Peut-il la prononcer lui-même ? || Non. L'exclusion temporaire est une sanction du second degré. Le directeur doit saisir le ministre chargé de la Fonction publique, qui statue après communication du dossier à l'agent et avis du Conseil de discipline. La durée de quatre mois respecte le plafond de six mois.",
+      "## Notion 4 : la suspension en cas de faute grave",
+      "Règle : selon l'article 102, en cas de faute grave, l'agent peut être suspendu immédiatement par le Président de l'Institution ou le ministre technique ; le directeur de l'établissement public ou le préfet peut aussi le suspendre après en avoir informé le ministre technique. L'agent suspendu ne perçoit plus de rémunération mais conserve les prestations familiales. Sa situation doit être définitivement réglée dans un délai de trois mois à compter de la prise d'effet de la suspension. À défaut de décision, il retrouve l'intégralité de sa rémunération, sauf s'il fait l'objet de poursuites pénales. À peine de nullité, la décision de suspension et les pièces doivent être transmises au ministre chargé de la Fonction publique dans les trente jours. Quelle que soit l'issue, aucune rémunération n'est due pour la période de suspension.",
+      "~ Exemple résolu de délai : une suspension prend effet le 2 mars. Étape 1 : délai de trois mois. Étape 2 : la situation doit être réglée au plus tard le 2 juin. Étape 3 : si rien n'est décidé à cette date et qu'il n'y a pas de poursuites pénales, l'agent retrouve son plein traitement. Étape 4 : la décision de suspension devait parvenir au ministre de la Fonction publique au plus tard trente jours après le 2 mars, sous peine de nullité."
+     ],
+     "retenir": [
+      "Toute faute commise dans l'exercice des fonctions expose le fonctionnaire à une sanction disciplinaire, indépendamment des poursuites pénales (art. 99).",
+      "La faute grave réunit trois conditions : faits personnels, violation d'une obligation statutaire ou déontologique, gravité empêchant le maintien dans le service.",
+      "Premier degré : avertissement, blâme, déplacement d'office, radiation du tableau d'avancement, réduction de 25 % pendant trente jours au plus.",
+      "Second degré : réduction de 50 % pendant trois mois, exclusion temporaire de six mois au plus, abaissement d'échelon ou de classe, rétrogradation.",
+      "Le second degré et la révocation relèvent du ministre chargé de la Fonction publique, après communication du dossier et avis du Conseil de discipline.",
+      "Le fonctionnaire suspendu conserve les prestations familiales ; sa situation doit être réglée dans les trois mois.",
+      "Toute décision de sanction doit être motivée."
+     ],
+     "exo": {
+      "tag": "niv-sf08",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Loidici, Loi n°2023-892 du 23 novembre 2023 portant statut général de la fonction publique, chapitre V : la discipline (art. 99 à 104)",
+       "u": "https://loidici.biz/?p=48678"
+      },
+      {
+       "t": "Loidici, Les sanctions disciplinaires de la fonction publique sont-elles d'un seul ordre ? (art. 100 de la loi n°2023-892)",
+       "u": "https://loidici.biz/?p=49311"
+      },
+      {
+       "t": "Loidici, Qui reconnaît le pouvoir disciplinaire des sanctions de premier degré ? (art. 101 de la loi n°2023-892)",
+       "u": "https://loidici.biz/?p=49315"
+      },
+      {
+       "t": "Loidici, Quel est le délai pour régler la situation du fonctionnaire suspendu pour faute grave ? (art. 102 de la loi n°2023-892)",
+       "u": "https://loidici.biz/?p=49325"
+      },
+      {
+       "t": "Loidici, Que se passe-t-il en cas de faute grave commise par un fonctionnaire ? (loi n°2023-892)",
+       "u": "https://loidici.biz/?p=49323"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "sog",
+     "src": "original",
+     "ref": "Entraînement · 19 nov. 2026",
+     "t": "« Il n'y a pas de paix durable sans justice. » Commentez et discutez cette affirmation.",
+     "plan": [
+      "Introduction : définir paix durable (paix au sens large) et justice (judiciaire et sociale) ; problématique : la justice est-elle la condition de la paix, ou peut-elle parfois la menacer ?",
+      "I. La justice consolide la paix : A. reconnaître et réparer les victimes désamorce les rancœurs (CDVR, CONARIV et ses 316 954 victimes recensées) ; B. l'égalité devant la loi et des élections crédibles fondent la confiance (identification prévue par l'accord de Ouagadougou de 2007).",
+      "II. Mais la justice seule ne suffit pas : A. une justice lente ou jugée partiale peut raviver les divisions ; B. la vérité, le dialogue et la négociation entre adversaires la complètent (Mandela et de Klerk, lauréats du prix Houphouët-Boigny en 1991).",
+      "Conclusion : la paix durable articule justice, vérité et développement (sécurité humaine, PNUD 1994) ; ouverture sur le rôle des jeunes dans la cohésion sociale."
+     ]
+    }
+   ]
   }
  ]
 }
