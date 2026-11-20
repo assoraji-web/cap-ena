@@ -32685,6 +32685,534 @@
       "t": "FMI – Directory of Economic, Commodity and Development Organizations : UEMOA",
       "u": "https://www.imf.org/external/np/sec/decdo/uemoa.htm"
      }
+    },
+    {
+     "id": "c20261120-ns04-13",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "q": "Laquelle de ces formulations respecte le style impersonnel attendu dans une note de synthèse ?",
+     "o": [
+      "Nous constatons que les délais de paiement s'allongent.",
+      "Je pense que les délais de paiement s'allongent.",
+      "Il ressort du dossier que les délais de paiement s'allongent (doc. 2).",
+      "Notre pays voit ses délais de paiement s'allonger."
+     ],
+     "a": 2,
+     "e": "La note est rédigée de façon impersonnelle : pas de « je », de « nous », de « notre ». La tournure « il ressort du dossier » rapporte l'information et la référence (doc. 2) la rattache à sa source.",
+     "ed": [
+      "« Nous » implique le rédacteur : le style de la note doit rester impersonnel.",
+      "« Je pense » introduit une opinion personnelle, bannie de la note.",
+      null,
+      "« Notre pays » implique le rédacteur et l'information n'est rattachée à aucun document."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-ns04-14",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "q": "Comment le plan d'une note de synthèse doit-il apparaître au lecteur ?",
+     "o": [
+      "Par des titres et sous-titres numérotés, bien visibles",
+      "Il reste implicite, sans aucun titre",
+      "Il suit l'ordre de numérotation des documents du dossier",
+      "Par une liste des documents placée en tête de la note"
+     ],
+     "a": 0,
+     "e": "Contrairement à la dissertation, la note de synthèse affiche son plan : titres et sous-titres numérotés permettent au destinataire de trouver d'un coup d'œil l'information dont il a besoin.",
+     "ed": [
+      null,
+      "Un plan implicite convient à la dissertation ; la note, document de travail, doit montrer son plan.",
+      "Suivre l'ordre des documents revient à résumer document par document, au lieu de classer les idées.",
+      "Une liste de documents n'est pas un plan : elle n'organise pas les idées."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-ns04-15",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "q": "Quelle phrase évite le style télégraphique, à proscrire dans la note ?",
+     "o": [
+      "Hausse des coûts. Retards. Mécontentement (doc. 4).",
+      "Les coûts augmentent et les retards se multiplient, ce qui suscite le mécontentement des usagers (doc. 4).",
+      "Coûts en hausse, retards en série : usagers mécontents (doc. 4).",
+      "Coûts, retards, usagers : crise (doc. 4)."
+     ],
+     "a": 1,
+     "e": "La note est rédigée en phrases complètes, avec un sujet, un verbe et des liens logiques (« ce qui suscite ») : le lecteur comprend le rapport de cause à effet entre les faits.",
+     "ed": [
+      "Une suite de mots sans verbe est du style télégraphique : les liens entre les faits disparaissent.",
+      null,
+      "Cette formule de titre de presse, sans verbe conjugué, reste télégraphique.",
+      "Une énumération de mots suivie d'un jugement (« crise ») est télégraphique et ajoute une appréciation."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-ns04-16",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "q": "Le dossier fournit une douzaine de chiffres sur le même point. Que doit faire le rédacteur ?",
+     "o": [
+      "Les recopier tous, pour être complet",
+      "N'en retenir aucun, car les chiffres alourdissent la note",
+      "Les remplacer par une estimation personnelle plus simple",
+      "Retenir les plus significatifs, ceux qui apportent une information nouvelle"
+     ],
+     "a": 3,
+     "e": "La note synthétise : on garde les chiffres qui éclairent l'idée (ordre de grandeur, évolution, comparaison) et l'on écarte les autres. Accumuler les données fait perdre des points.",
+     "ed": [
+      "Tout recopier transforme la note en compilation : ce n'est plus une synthèse.",
+      "Un chiffre bien choisi rend l'idée précise : les supprimer tous appauvrit la note.",
+      "Une estimation personnelle est un apport extérieur au dossier, interdit dans la note.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-ns04-17",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "q": "À l'intérieur d'une partie de la note, dans quel ordre présente-t-on les idées ?",
+     "o": [
+      "Dans l'ordre où elles apparaissent dans le dossier",
+      "De la moins importante à la plus importante, pour garder un effet final",
+      "Dans un ordre logique, en commençant par les plus importantes",
+      "Au hasard, puisque les titres suffisent à guider le lecteur"
+     ],
+     "a": 2,
+     "e": "Le destinataire d'une note manque de temps : on lui donne d'abord l'essentiel, puis les éléments secondaires, en suivant un ordre logique (cause puis conséquence, constat puis solution).",
+     "ed": [
+      "L'ordre du dossier n'est pas un ordre logique : il conduit à résumer document après document.",
+      "Garder l'essentiel pour la fin convient à un discours, pas à une note qu'on doit pouvoir lire vite.",
+      null,
+      "Les titres ne dispensent pas d'ordonner les idées : un désordre interne rend la partie confuse."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-ns04-18",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "q": "Le document 6 écrit : « La plupart des communes ont adopté le plan. » Quelle reformulation reste fidèle ?",
+     "o": [
+      "Toutes les communes ont adopté le plan (doc. 6).",
+      "Une majorité de communes a adopté le plan (doc. 6).",
+      "Quelques rares communes ont adopté le plan (doc. 6).",
+      "Le plan a été rejeté par les communes (doc. 6)."
+     ],
+     "a": 1,
+     "e": "« La plupart » signifie « la majorité » : la reformulation garde exactement la portée de l'information. Fidélité veut dire ne pas grossir ni réduire ce que dit le document.",
+     "ed": [
+      "« Toutes » grossit l'information : le document parle de la plupart, pas de la totalité.",
+      null,
+      "« Quelques rares » réduit l'information et contredit « la plupart ».",
+      "Cette phrase dit le contraire du document : c'est un contresens."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-ns04-19",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "q": "Si la note comporte une ouverture finale, d'où doit-elle être tirée ?",
+     "o": [
+      "D'une piste ou d'une question que le dossier évoque lui-même",
+      "D'une opinion personnelle du rédacteur sur la réforme",
+      "D'un fait d'actualité que le dossier ne mentionne pas",
+      "D'une citation célèbre apprise pendant la préparation"
+     ],
+     "a": 0,
+     "e": "Même en conclusion, la note s'en tient au dossier : l'ouverture reprend une perspective présente dans les documents (une réforme annoncée, une question laissée en suspens).",
+     "ed": [
+      null,
+      "Une opinion personnelle est un apport du rédacteur, interdit dans toute la note.",
+      "Un fait absent du dossier est une connaissance extérieure : il n'a pas sa place dans la note.",
+      "Une citation extérieure au dossier est un apport personnel ; elle sort du cadre de la note."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-ns04-20",
+     "m": "ns",
+     "tag": "niv-ns04",
+     "q": "Le ministère écrit (doc. 1) : « Le programme a permis de former 5 000 jeunes. » Quelle phrase rapporte l'information sans la déformer ni la juger ?",
+     "o": [
+      "Le programme a prouvé son excellence en formant 5 000 jeunes (doc. 1).",
+      "Le programme n'a formé que 5 000 jeunes (doc. 1).",
+      "Le programme aurait formé bien plus de 5 000 jeunes (doc. 1).",
+      "Selon le ministère, le programme a permis de former 5 000 jeunes (doc. 1)."
+     ],
+     "a": 3,
+     "e": "La phrase attribue l'information à son auteur (« selon le ministère »), garde le chiffre exact et n'ajoute aucun jugement : c'est l'objectivité exigée par la note.",
+     "ed": [
+      "« A prouvé son excellence » ajoute un jugement élogieux absent du document.",
+      "« Ne… que » minimise le résultat : c'est un jugement négatif implicite.",
+      "« Bien plus de » déforme le chiffre donné par le document.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-so05-13",
+     "m": "sog",
+     "tag": "niv-so05",
+     "q": "Complétez : « Les recettes fiscales progressent. ___, l'État peut accroître ses investissements. »",
+     "o": [
+      "Pourtant",
+      "Dès lors",
+      "Certes",
+      "En revanche"
+     ],
+     "a": 1,
+     "e": "La seconde phrase est la conséquence de la première : plus de recettes permettent plus d'investissements. « Dès lors » exprime la conséquence, comme « donc » ou « par conséquent ».",
+     "ed": [
+      "« Pourtant » oppose deux idées ; ici la seconde découle de la première.",
+      null,
+      "« Certes » annonce une concession suivie d'un « mais » : il n'y a pas d'opposition ici.",
+      "« En revanche » oppose deux faits contraires ; or les deux phrases vont dans le même sens."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "c20261120-so05-14",
+     "m": "sog",
+     "tag": "niv-so05",
+     "q": "Quelle longueur convient à une transition entre deux grandes parties ?",
+     "o": [
+      "Deux ou trois phrases, dans un paragraphe détaché",
+      "Une page entière, qui reprend tous les arguments",
+      "Un seul mot, comme « Ensuite »",
+      "Un titre souligné, comme dans une note administrative"
+     ],
+     "a": 0,
+     "e": "La transition doit faire un bilan et une annonce : deux ou trois phrases suffisent. Plus longue, elle répète le développement ; plus courte, elle ne relie plus rien.",
+     "ed": [
+      null,
+      "Une page entière répète la partie au lieu d'en tirer le bilan : c'est du remplissage.",
+      "Un mot seul ne fait ni bilan ni annonce : il convient entre deux sous-parties, pas entre deux parties.",
+      "La dissertation ne comporte pas de titres apparents : la transition est rédigée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-so05-15",
+     "m": "sog",
+     "tag": "niv-so05",
+     "q": "Où se place la transition entre la première et la deuxième partie d'une dissertation ?",
+     "o": [
+      "Dans l'introduction, juste après l'annonce du plan",
+      "Dans la conclusion, avant l'ouverture",
+      "Au milieu de la deuxième sous-partie",
+      "Entre les deux parties, dans un paragraphe détaché"
+     ],
+     "a": 3,
+     "e": "La transition se place exactement au point de passage : à la fin de la première partie, isolée par un saut de ligne, avant que commence la deuxième. C'est là qu'elle fait le bilan et annonce la suite.",
+     "ed": [
+      "L'introduction annonce le plan entier ; la transition, elle, relie deux parties déjà engagées.",
+      "En conclusion, il est trop tard pour relier deux parties : le développement est terminé.",
+      "Placée au milieu d'une sous-partie, elle couperait l'argument en cours.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-so05-16",
+     "m": "sog",
+     "tag": "niv-so05",
+     "q": "« L'urbanisation crée des emplois. En effet, elle aggrave la précarité du logement. » Quel est le défaut de ce passage ?",
+     "o": [
+      "La seconde phrase devrait être placée en conclusion",
+      "Il manque un exemple chiffré dans la première phrase",
+      "« En effet » annonce une justification alors que la phrase oppose une limite : il fallait « Toutefois »",
+      "Le verbe « aggrave » devrait être au pluriel"
+     ],
+     "a": 2,
+     "e": "« En effet » sert à justifier l'idée qui précède. Or la seconde phrase énonce un inconvénient opposé à l'avantage : un connecteur d'opposition (toutefois, cependant, pourtant) s'impose.",
+     "ed": [
+      "Une limite nouvelle n'a pas sa place en conclusion : le problème est ici le connecteur.",
+      "L'absence de chiffre n'est pas une faute logique ; le défaut porte sur le lien entre les phrases.",
+      null,
+      "Le sujet « elle » est singulier : « aggrave » est correctement accordé."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "c20261120-so05-17",
+     "m": "sog",
+     "tag": "niv-so05",
+     "q": "Problématique : « L'économie informelle freine-t-elle le développement ? » Quel bilan de conclusion répond vraiment à la question ?",
+     "o": [
+      "L'économie informelle est un sujet complexe aux multiples aspects.",
+      "Chacun peut avoir son avis sur l'économie informelle.",
+      "Dans une première partie, nous avons étudié l'informel ; dans une seconde, ses limites.",
+      "L'informel freine le développement en privant l'État de recettes et les travailleurs de protection ; mais il amortit le chômage : sa formalisation progressive est donc la voie à suivre."
+     ],
+     "a": 3,
+     "e": "Ce bilan rappelle l'apport de chaque partie (un frein, mais aussi un amortisseur) et tranche par une réponse nette et nuancée : c'est ce que le correcteur attend d'une conclusion.",
+     "ed": [
+      "Dire qu'un sujet est complexe ne répond pas à la question posée.",
+      "Renvoyer à l'avis de chacun revient à refuser de répondre.",
+      "Réciter le plan n'est pas répondre : le bilan doit dire ce que le devoir a établi.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-so05-18",
+     "m": "sog",
+     "tag": "niv-so05",
+     "q": "Quel élément n'a PAS sa place dans une transition entre deux grandes parties ?",
+     "o": [
+      "Le bilan de la partie qui s'achève",
+      "Un exemple nouveau longuement développé",
+      "L'annonce de la partie suivante",
+      "Un connecteur logique qui marque le passage"
+     ],
+     "a": 1,
+     "e": "La transition relie deux parties : elle fait un bilan et une annonce. Un exemple nouveau longuement développé appartient au corps d'une partie, pas à ce paragraphe de liaison.",
+     "ed": [
+      "Le bilan est le premier temps de toute transition entre deux parties.",
+      null,
+      "L'annonce de la suite est le second temps de la transition.",
+      "Un connecteur (ainsi, mais, dès lors) rend le passage logique visible : il est utile."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-so05-19",
+     "m": "sog",
+     "tag": "niv-so05",
+     "q": "Sujet : « La décentralisation favorise-t-elle le développement local ? » Quelle ouverture est pertinente ?",
+     "o": [
+      "« La décentralisation favorise-t-elle vraiment le développement local ? »",
+      "« Le football africain se porte-t-il bien aujourd'hui ? »",
+      "« Reste à savoir si la fiscalité locale peut donner durablement aux collectivités les moyens de leurs compétences. »",
+      "« En conclusion, la décentralisation est un sujet passionnant. »"
+     ],
+     "a": 2,
+     "e": "L'ouverture prolonge le sujet vers une question voisine et liée : les ressources fiscales des collectivités conditionnent leur capacité à agir pour le développement local.",
+     "ed": [
+      "Reformuler la problématique laisse croire que le devoir n'y a pas répondu.",
+      "Le football n'a aucun lien avec la décentralisation : l'ouverture est artificielle.",
+      null,
+      "Un jugement d'appréciation sur le sujet n'ouvre aucune perspective."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-so05-20",
+     "m": "sog",
+     "tag": "niv-so05",
+     "q": "Il reste cinq minutes et la deuxième partie n'est pas terminée. Quelle est la meilleure décision ?",
+     "o": [
+      "Clore la partie en une phrase et recopier la conclusion préparée au brouillon",
+      "Continuer le développement jusqu'au bout, sans conclusion",
+      "Écrire « Faute de temps, je n'ai pas pu conclure »",
+      "Joindre le brouillon à la copie pour qu'il tienne lieu de conclusion"
+     ],
+     "a": 0,
+     "e": "Une copie sans conclusion paraît inachevée. Si la conclusion a été rédigée au brouillon à l'avance, il suffit de clore la partie et de la recopier : le devoir garde sa réponse à la problématique.",
+     "ed": [
+      null,
+      "Sans conclusion, la copie ne répond pas explicitement à la problématique et paraît inachevée.",
+      "Signaler son manque de temps n'apporte aucune réponse et souligne la mauvaise gestion de l'épreuve.",
+      "Le brouillon n'est pas corrigé : seule la copie compte."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261120-cg05-13",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Quelle est la superficie approximative du parc national de la Comoé, présenté comme le plus vaste parc national d'Afrique de l'Ouest ?",
+     "o": [
+      "Environ 115 km²",
+      "Environ 322 460 km²",
+      "Environ 1 150 000 km²",
+      "Environ 11 500 km²"
+     ],
+     "a": 3,
+     "e": "Le parc national de la Comoé couvre environ 11 500 km², ce qui en fait le plus grand parc national d'Afrique de l'Ouest.",
+     "ed": [
+      "115 km² est cent fois trop petit : c'est la taille d'une grande commune, pas du parc.",
+      "322 460 km² est la superficie de toute la Côte d'Ivoire.",
+      "1 150 000 km² dépasse trois fois la superficie du pays entier : c'est impossible.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – Comoé National Park",
+      "u": "https://en.wikipedia.org/wiki/Como%C3%A9_National_Park"
+     }
+    },
+    {
+     "id": "c20261120-cg05-14",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Sur quel fleuve a été construit le barrage de Kossou, qui retient le plus grand lac de Côte d'Ivoire ?",
+     "o": [
+      "La Comoé",
+      "Le Sassandra",
+      "Le Bandama",
+      "Le Cavally"
+     ],
+     "a": 2,
+     "e": "Le barrage de Kossou, mis en service en 1972, retient les eaux du Bandama et forme le lac de Kossou, le plus grand lac du pays.",
+     "ed": [
+      "Kossou n'est pas sur la Comoé, le plus long fleuve du pays.",
+      "Le Sassandra porte le barrage de Buyo, pas celui de Kossou.",
+      null,
+      "Le Cavally, fleuve de l'ouest du pays, ne porte pas le barrage de Kossou."
+     ],
+     "src": {
+      "t": "Wikipedia – Kossou Dam",
+      "u": "https://en.wikipedia.org/wiki/Kossou_Dam"
+     }
+    },
+    {
+     "id": "c20261120-cg05-15",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Le barrage hydroélectrique de Buyo, achevé en 1980, est établi sur :",
+     "o": [
+      "Le Sassandra",
+      "Le Bandama",
+      "La Comoé",
+      "Le N'Zi"
+     ],
+     "a": 0,
+     "e": "Le barrage de Buyo, achevé en 1980, est construit sur le Sassandra, le fleuve de l'ouest ivoirien né en Guinée.",
+     "ed": [
+      null,
+      "Le Bandama porte le barrage de Kossou, pas celui de Buyo.",
+      "La Comoé, née au Burkina Faso, ne porte pas le barrage de Buyo.",
+      "Le N'Zi est une branche du Bandama ; il ne porte pas le barrage de Buyo."
+     ],
+     "src": {
+      "t": "Wikipedia – Buyo Dam",
+      "u": "https://en.wikipedia.org/wiki/Buyo_Dam"
+     }
+    },
+    {
+     "id": "c20261120-cg05-16",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Quel ouvrage, ouvert en 1950, a relié la lagune d'Abidjan à la mer et permis l'essor du port ?",
+     "o": [
+      "Le barrage de Kossou",
+      "Le pont Félix-Houphouët-Boigny",
+      "Le wharf de Grand-Bassam",
+      "Le canal de Vridi"
+     ],
+     "a": 3,
+     "e": "Le canal de Vridi a ouvert la lagune sur la mer en 1950 : les navires ont pu entrer dans la lagune, et Abidjan est devenue le grand centre portuaire et financier de l'Afrique de l'Ouest francophone.",
+     "ed": [
+      "Le barrage de Kossou est un ouvrage hydroélectrique sur le Bandama, sans lien avec la mer.",
+      "Un pont relie deux rives de la lagune ; il ne l'ouvre pas sur la mer.",
+      "Un wharf est un appontement en mer ; celui de Grand-Bassam est bien antérieur et n'a pas ouvert la lagune.",
+      null
+     ],
+     "src": {
+      "t": "Encyclopædia Britannica – Vridi Canal",
+      "u": "https://www.britannica.com/place/Vridi-Canal"
+     }
+    },
+    {
+     "id": "c20261120-cg05-17",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "En quelle année le port d'Abidjan a-t-il été officiellement inauguré, après l'ouverture du canal de Vridi ?",
+     "o": [
+      "1931",
+      "1951",
+      "1960",
+      "1970"
+     ],
+     "a": 1,
+     "e": "Selon le Port autonome d'Abidjan, le port est né de l'ouverture du canal de Vridi à la navigation et a été officiellement inauguré le 5 février 1951.",
+     "ed": [
+      "1931 est l'année du wharf de Port-Bouët, avant le canal de Vridi.",
+      null,
+      "1960 est l'année de l'indépendance ; le port était déjà inauguré depuis 1951.",
+      "1970 est l'année d'achèvement du port de San-Pédro, pas de celui d'Abidjan."
+     ],
+     "src": {
+      "t": "Port autonome d'Abidjan – Historique",
+      "u": "https://portabidjan.ci/en/autorite-portuaire/historique"
+     }
+    },
+    {
+     "id": "c20261120-cg05-18",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Achevé en 1970, le port de San-Pédro est devenu :",
+     "o": [
+      "Le deuxième port du pays, après Abidjan",
+      "Le premier port du pays, devant Abidjan",
+      "Un port lagunaire installé sur la lagune Ébrié",
+      "Le premier port de la Côte d'Ivoire coloniale"
+     ],
+     "a": 0,
+     "e": "Commencé en 1968 et achevé en 1970, le port de San-Pédro est devenu le deuxième port du pays après Abidjan ; il exporte notamment des produits du bois.",
+     "ed": [
+      null,
+      "Abidjan reste le premier port du pays ; San-Pédro vient en second.",
+      "La lagune Ébrié borde Abidjan ; San-Pédro est un port maritime distinct, éloigné d'Abidjan.",
+      "Achevé en 1970, il est postérieur à l'indépendance de 1960 : il n'est pas un port colonial."
+     ],
+     "src": {
+      "t": "Encyclopædia Britannica – San-Pédro",
+      "u": "https://www.britannica.com/place/San-Pedro-Cote-dIvoire"
+     }
+    },
+    {
+     "id": "c20261120-cg05-19",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Selon les résultats définitifs du RGPH 2021, combien d'habitants compte la Côte d'Ivoire ?",
+     "o": [
+      "22 840 165",
+      "6 435 835",
+      "29 389 150",
+      "15 428 957"
+     ],
+     "a": 2,
+     "e": "Le recensement général de la population et de l'habitat de 2021 dénombre 29 389 150 habitants, dont environ 78 % d'Ivoiriens et 22 % de non-Ivoiriens.",
+     "ed": [
+      "22 840 165 est le nombre d'Ivoiriens seulement, pas la population totale.",
+      "6 435 835 est le nombre de non-Ivoiriens recensés.",
+      null,
+      "15 428 957 est la population urbaine, pas la population totale."
+     ],
+     "src": {
+      "t": "Fraternité Matin – RGPH 2021 : 78 % d'Ivoiriens et 22 % d'étrangers (6 juillet 2022)",
+      "u": "https://www.fratmat.info/article/222144/societe/rgph-2021-78-divoiriens-et-22-detrangers-en-cote-divoire"
+     }
+    },
+    {
+     "id": "c20261120-cg05-20",
+     "m": "cg",
+     "tag": "niv-cg05",
+     "q": "Selon les résultats définitifs du RGPH 2021, quelle part de la population ivoirienne vit en ville ?",
+     "o": [
+      "21,5 %",
+      "78 %",
+      "36 %",
+      "52,5 %"
+     ],
+     "a": 3,
+     "e": "Le RGPH 2021 compte 15 428 957 citadins, soit 52,5 % de la population, soit un peu plus de la moitié des habitants.",
+     "ed": [
+      "21,5 % est la part de la population vivant dans le district autonome d'Abidjan.",
+      "78 % est la part des Ivoiriens dans la population totale.",
+      "36 % est la part de la population urbaine concentrée dans la seule ville d'Abidjan.",
+      null
+     ],
+     "src": {
+      "t": "Abidjan.net – Résultats globaux définitifs du RGPH 2021",
+      "u": "https://news.abidjan.net/articles/710138/resultats-globaux-definitifs-du-rgph-2021-la-population-vivant-habituellement-sur-le-territoire-ivoirien-se-chiffre-a-29-389-150-habitants"
+     }
     }
    ],
    "lessons": [
@@ -33029,6 +33557,74 @@
        "u": "https://fmes-france.org/wp-content/uploads/2025/03/article-niagale-fmes-aes-cedeao.pdf"
       }
      ]
+    },
+    {
+     "id": "L20261030so05",
+     "niv": "so05",
+     "m": "sog",
+     "rev": 2,
+     "verif": "methode",
+     "titre": "Transitions et conclusion",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez écrire une transition en deux temps (bilan, puis annonce justifiée) et choisir le connecteur exact entre deux sous-parties.",
+      "= Vous saurez rédiger une conclusion qui répond nettement à la problématique, puis l'ouvrir sur une question voisine et pertinente, même quand le temps presse.",
+      "## Ce que demande l'épreuve",
+      "Le sujet d'ordre général pose une question. Le correcteur vérifie trois choses : l'argumentation avance-t-elle ? les parties s'enchaînent-elles ? la copie répond-elle à la question ? Les transitions rendent le fil du raisonnement visible. La conclusion apporte la réponse. Une copie sans transitions ressemble à des fiches posées côte à côte. Une copie sans conclusion paraît inachevée, même si le développement est bon.",
+      "! Pièges habituels : passer d'une partie à l'autre sans phrase de liaison ; écrire « Passons à la deuxième partie » ; choisir un connecteur qui dit le contraire de l'idée ; conclure en récitant les titres ; ajouter un argument nouveau en conclusion ; finir sur une question sans lien avec le sujet.",
+      "## La méthode, pas à pas",
+      "- 1. Au brouillon, dès que le plan est arrêté, écrivez en une ou deux phrases votre réponse à la problématique. C'est le cœur de la conclusion.",
+      "- 2. Rédigez la conclusion entière au brouillon avant de commencer la copie. Si le temps manque, il suffira de la recopier.",
+      "- 3. Pour chaque transition, posez-vous deux questions : « Qu'ai-je établi ? » (bilan) et « Pourquoi faut-il aller plus loin ? » (annonce).",
+      "- 4. Entre deux sous-parties, une phrase ou un connecteur suffit. Demandez-vous quel rapport lie les deux idées : addition, opposition, conséquence ou justification.",
+      "- 5. Conclusion : bilan qui tranche, puis ouverture liée au sujet.",
+      "- 6. Relisez la problématique, puis la conclusion, à la suite. La seconde doit répondre à la première.",
+      "~ Test rapide sur la copie : cachez le développement et lisez seulement l'introduction, les transitions et la conclusion. Si ces passages suffisent à comprendre votre raisonnement, ils sont réussis."
+     ],
+     "fond": [
+      "## Notion 1 : la transition entre deux grandes parties",
+      "Règle : la transition est un court paragraphe détaché, de deux ou trois phrases, placé entre deux parties. Elle a deux temps. D'abord, le bilan de la partie qui s'achève. Ensuite, l'annonce de la partie suivante, avec la raison qui la rend nécessaire.",
+      "Pourquoi ? Elle prouve au correcteur que votre raisonnement progresse. La deuxième partie ne s'ajoute pas à la première : elle la prolonge, la nuance ou la dépasse.",
+      "~ Exemple commenté, sur le sujet « La jeunesse est-elle une chance pour le développement ? » : « Ainsi, par son dynamisme et sa capacité d'innovation, la jeunesse constitue un atout considérable pour le développement. » → bilan. « Encore faut-il que cette énergie trouve à s'employer : faute de formation et d'emplois, cet atout peut se muer en source de tensions. » → annonce, justifiée par une limite.",
+      "? Remettez dans l'ordre les deux phrases de cette transition : (a) « Mais ces textes ne suffisent pas si leur application reste défaillante. » (b) « Le cadre juridique de la protection de l'environnement est donc désormais étoffé. » || L'ordre est (b) puis (a). La transition commence par le bilan de la partie achevée (b, avec « donc »), puis annonce la partie suivante en montrant une limite (a, avec « Mais »).",
+      "? Rédigez la transition d'un devoir dont la première partie montre que le mobile money facilite les paiements des ménages, et dont la deuxième étudie les risques de fraude. || Par exemple : « Le paiement par téléphone simplifie donc la vie quotidienne de nombreux ménages. Cette facilité a toutefois son revers : elle ouvre aussi la voie à de nouvelles formes de fraude. » Bilan avec « donc », annonce avec « toutefois », et la limite justifie la deuxième partie.",
+      "## Notion 2 : les transitions internes et les connecteurs",
+      "Règle : entre deux sous-parties, une phrase de liaison ou un simple connecteur suffit. Mais le connecteur doit dire le vrai rapport entre les idées.",
+      "Pourquoi ? Le connecteur est un panneau de signalisation. S'il indique la mauvaise direction, le correcteur croit que vous pensez le contraire de ce que vous écrivez.",
+      "- Addition : de plus, en outre, de surcroît, par ailleurs.",
+      "- Opposition ou concession : cependant, pourtant, toutefois, certes… mais.",
+      "- Conséquence : donc, ainsi, dès lors, par conséquent.",
+      "- Justification : en effet, car, puisque.",
+      "Astuce de vérification : remplacez le connecteur par une question. « Donc » répond à « quelle conséquence ? ». « En effet » répond à « pourquoi ? ». « Pourtant » répond à « qu'est-ce qui s'y oppose ? ». Si la phrase suivante ne répond pas à cette question, le connecteur est faux.",
+      "~ Exemple fautif puis corrigé : « Le cacao fait vivre de nombreuses familles rurales. En effet, ses prix varient fortement d'une saison à l'autre. » La seconde phrase ne dit pas pourquoi le cacao fait vivre les familles : elle énonce une fragilité. Correction : « Pourtant, ses revenus restent exposés aux variations des prix. »",
+      "? Quel connecteur convient : « Le numérique facilite l'accès aux services publics. ___, il exclut ceux qui ne disposent ni d'un équipement ni d'une formation. » || « Cependant » ou « Toutefois » : la seconde phrase oppose une limite à l'avantage. « En effet » (justification) ou « Donc » (conséquence) fausseraient le raisonnement.",
+      "## Notion 3 : le bilan de la conclusion",
+      "Règle : la conclusion commence par un bilan qui répond clairement à la problématique. Il reformule l'apport de chaque partie en une phrase, puis il tranche.",
+      "Pourquoi ? Le sujet pose une question : le correcteur attend une réponse. Réciter les titres montre que le candidat a parcouru le sujet sans le dominer.",
+      "Trancher ne veut pas dire être catégorique. Une réponse nuancée reste une réponse : « oui, à condition que… » ou « non, sauf si… ». Ce qui est interdit, c'est le « il y a du pour et du contre » qui ne conclut rien.",
+      "~ Bilan modèle : « La jeunesse est bien une chance pour le développement, par son nombre, son énergie et sa créativité. Mais cette chance n'est pas acquise : elle ne se réalise que si l'État et ses partenaires investissent dans la formation, l'emploi et la participation des jeunes. » → réponse nuancée mais nette.",
+      "! La conclusion n'introduit aucun argument nouveau : tout ce qu'elle affirme a été démontré dans le développement.",
+      "? Transformez ce faux bilan en vrai bilan : « En définitive, le sport présente des avantages et des inconvénients pour la cohésion sociale. » || Par exemple : « Le sport rassemble donc des citoyens de tous horizons autour d'une même passion ; mais il ne renforce durablement la cohésion sociale que si l'on prévient la violence et les rivalités qu'il peut aussi attiser. » On garde les deux faces, mais on dit à quelle condition le sport sert la cohésion.",
+      "## Notion 4 : l'ouverture",
+      "Règle : l'ouverture prolonge la réflexion vers une question voisine, plus large ou à venir, en lien direct avec le sujet.",
+      "Pourquoi ? Elle montre que vous situez le sujet dans un ensemble plus vaste. Mais une ouverture artificielle affaiblit la fin de la copie : mieux vaut une ouverture simple et juste qu'une ouverture brillante et hors sujet.",
+      "~ Ouverture pertinente : « Reste à savoir si les jeunes, au-delà de l'emploi, seront davantage associés à l'élaboration des politiques qui les concernent. » → elle prolonge le sujet vers la participation citoyenne. Ouverture artificielle : « Et la conquête spatiale, est-elle une chance pour l'humanité ? » → aucun lien.",
+      "! Une ouverture qui reformule la problématique (« Mais la jeunesse est-elle vraiment une chance ? ») annule le bilan : elle laisse croire que vous n'avez pas répondu."
+     ],
+     "retenir": [
+      "Une transition entre deux parties comprend deux temps : le bilan de la partie achevée, puis l'annonce justifiée de la partie suivante.",
+      "Entre deux sous-parties, une phrase de liaison ou un connecteur logique exact suffit.",
+      "« Pourtant », « cependant », « toutefois » opposent ; « donc », « ainsi », « dès lors » concluent ; « en effet » justifie.",
+      "Pour vérifier un connecteur, remplacez-le par sa question : « pourquoi ? » pour « en effet », « quelle conséquence ? » pour « donc ».",
+      "La conclusion commence par un bilan qui répond clairement à la problématique ; une réponse nuancée reste une réponse.",
+      "La conclusion n'introduit jamais d'argument nouveau : tout ce qu'elle affirme a été démontré dans le développement.",
+      "L'ouverture prolonge la réflexion vers une question voisine liée au sujet ; elle ne reformule pas la problématique.",
+      "Rédigez la conclusion au brouillon avant la copie : si le temps manque, il suffit de la recopier."
+     ],
+     "exo": {
+      "tag": "niv-so05",
+      "n": 20
+     }
     }
    ],
    "sujets": [
