@@ -31236,6 +31236,1816 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-20",
+   "questions": [
+    {
+     "id": "n20261120-cm06-01",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Quand l'Accord de Marrakech instituant l'Organisation mondiale du commerce a-t-il été signé ?",
+     "o": [
+      "Le 15 avril 1994",
+      "Le 1er janvier 1995",
+      "Le 2 mars 2024",
+      "Le 13 novembre 2020"
+     ],
+     "a": 0,
+     "e": "L'Accord de Marrakech a été signé le 15 avril 1994 ; il a donné naissance à l'OMC le 1er janvier 1995.",
+     "ed": [
+      null,
+      "C'est la date à laquelle l'OMC est née, pas celle de la signature de l'accord.",
+      "C'est la date de conclusion de la 13e conférence ministérielle, à Abou Dhabi.",
+      "C'est la date du cadre commun du G20 pour le traitement de la dette."
+     ],
+     "src": {
+      "t": "OMC – 30e anniversaire de la signature de l'Accord de Marrakech",
+      "u": "https://www.wto.org/french/thewto_f/30y_f/30y_f.htm"
+     }
+    },
+    {
+     "id": "n20261120-cm06-02",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Combien de membres l'OMC compte-t-elle depuis l'adhésion des Comores et du Timor-Leste ?",
+     "o": [
+      "120",
+      "166",
+      "193",
+      "164"
+     ],
+     "a": 1,
+     "e": "Le rapport annuel 2025 de l'OMC mentionne ses 166 Membres, après l'adhésion des Comores et du Timor-Leste approuvée à la CM13.",
+     "ed": [
+      "Plus de 120 pays étaient réunis il y a 30 ans, à la fondation : ce n'est pas le nombre actuel.",
+      null,
+      "193 est le nombre d'États membres de l'ONU, pas de l'OMC.",
+      "164 était le nombre de membres avant l'arrivée des Comores et du Timor-Leste."
+     ],
+     "src": {
+      "t": "OMC – Rapport annuel 2025, chapitre 1",
+      "u": "https://www.wto.org/french/res_f/booksp_f/anrep_f/ar25_chap1_f.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cm06-03",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Que signifie la clause de la nation la plus favorisée ?",
+     "o": [
+      "Les pays les plus pauvres sont dispensés de toute règle commerciale",
+      "Le produit importé ne doit pas être traité moins bien que le produit national",
+      "Tout avantage commercial accordé à un partenaire doit être étendu à tous les autres membres",
+      "Chaque État peut choisir librement un partenaire privilégié"
+     ],
+     "a": 2,
+     "e": "La clause de la nation la plus favorisée impose d'étendre automatiquement à tous les membres l'avantage commercial accordé à l'un d'eux.",
+     "ed": [
+      "Aucune clause de l'OMC ne dispense un pays de toute règle ; la NPF porte sur l'égalité entre partenaires.",
+      "C'est le traitement national, l'autre principe de non-discrimination.",
+      null,
+      "C'est l'inverse : la clause interdit de réserver un avantage à un seul partenaire."
+     ],
+     "src": {
+      "t": "Direction générale du Trésor – L'OMC et les règles commerciales multilatérales",
+      "u": "https://www.tresor.economie.gouv.fr/tresor-international/l-omc-et-les-regles-commerciales-multilaterales"
+     }
+    },
+    {
+     "id": "n20261120-cm06-04",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Quel principe de l'OMC interdit de discriminer entre les produits nationaux et les produits importés ?",
+     "o": [
+      "La clause de la nation la plus favorisée",
+      "Le principe de réciprocité totale",
+      "La clause de sauvegarde",
+      "Le traitement national"
+     ],
+     "a": 3,
+     "e": "Le traitement national prohibe les discriminations entre les produits nationaux et les produits importés.",
+     "ed": [
+      "La NPF interdit de discriminer entre partenaires étrangers, pas entre produit national et produit importé.",
+      "Ce n'est pas le nom du principe ; la règle visée est le traitement national.",
+      "Une clause de sauvegarde permet une protection temporaire ; elle ne définit pas l'égalité de traitement.",
+      null
+     ],
+     "src": {
+      "t": "Direction générale du Trésor – L'OMC et les règles commerciales multilatérales",
+      "u": "https://www.tresor.economie.gouv.fr/tresor-international/l-omc-et-les-regles-commerciales-multilaterales"
+     }
+    },
+    {
+     "id": "n20261120-cm06-05",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Selon l'Insee, à partir de quel seuil de détention du capital d'une entreprise non résidente parle-t-on d'investissement direct étranger ?",
+     "o": [
+      "Plus de 10 %",
+      "Plus de 25 %",
+      "Plus de 50 %",
+      "Plus de 1 %"
+     ],
+     "a": 0,
+     "e": "L'Insee définit l'IDE par la détention de plus de 10 % du capital social d'une entreprise non résidente.",
+     "ed": [
+      null,
+      "25 % n'est pas le seuil retenu ; c'est 10 %.",
+      "Plus de 50 % donne le contrôle majoritaire, mais l'IDE commence bien avant, au-delà de 10 %.",
+      "1 % est un simple placement ; le seuil de l'IDE est 10 %."
+     ],
+     "src": {
+      "t": "Insee – Les entreprises en France, dossier mondialisation (définitions de groupe et d'IDE)",
+      "u": "https://www.insee.fr/fr/statistiques/fichier/1374296/ENTFRA13b_D1_mondialisation.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cm06-06",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Quelle définition du groupe d'entreprises l'Insee retient-elle ?",
+     "o": [
+      "Une entreprise unique implantée dans plusieurs villes",
+      "Un ensemble de sociétés liées entre elles par des participations au capital",
+      "Une association de producteurs d'un même secteur",
+      "Un regroupement d'États pour le commerce"
+     ],
+     "a": 1,
+     "e": "Pour l'Insee, un groupe est un ensemble de sociétés liées entre elles par des participations au capital, sous l'autorité d'une tête de groupe.",
+     "ed": [
+      "Une entreprise unique, même implantée en plusieurs lieux, n'est pas un groupe de sociétés.",
+      null,
+      "Une association de producteurs n'implique pas de participations au capital.",
+      "Un regroupement d'États est une organisation internationale, pas un groupe d'entreprises."
+     ],
+     "src": {
+      "t": "Insee – Les entreprises en France, dossier mondialisation (définitions de groupe et d'IDE)",
+      "u": "https://www.insee.fr/fr/statistiques/fichier/1374296/ENTFRA13b_D1_mondialisation.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cm06-07",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Le pays A, membre de l'OMC, abaisse à 5 % son droit de douane sur le riz du pays B. Le pays C, membre lui aussi, réclame le même taux. Sur quel fondement ?",
+     "o": [
+      "Le traitement national",
+      "L'initiative PPTE",
+      "La clause de la nation la plus favorisée",
+      "Le cadre commun du G20"
+     ],
+     "a": 2,
+     "e": "La clause NPF impose d'étendre à tous les membres l'avantage accordé à l'un d'eux : le riz du pays C doit aussi entrer à 5 %.",
+     "ed": [
+      "Le traitement national compare produit importé et produit local, pas deux pays exportateurs.",
+      "L'initiative PPTE concerne l'allègement de la dette, pas les droits de douane.",
+      null,
+      "Le cadre commun du G20 concerne le traitement de la dette."
+     ],
+     "src": {
+      "t": "Direction générale du Trésor – L'OMC et les règles commerciales multilatérales",
+      "u": "https://www.tresor.economie.gouv.fr/tresor-international/l-omc-et-les-regles-commerciales-multilaterales"
+     }
+    },
+    {
+     "id": "n20261120-cm06-08",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Un pays soumet le ciment importé à une taxe de contrôle que le ciment produit sur place ne paie pas. Quel principe de l'OMC est violé ?",
+     "o": [
+      "La clause de la nation la plus favorisée",
+      "Le principe de transparence budgétaire",
+      "Aucun, car un État fixe librement ses taxes intérieures",
+      "Le traitement national"
+     ],
+     "a": 3,
+     "e": "Taxer le ciment importé plus lourdement que le ciment local est une discrimination entre produit importé et produit national, interdite par le traitement national.",
+     "ed": [
+      "La NPF compare les partenaires étrangers entre eux ; ici, la comparaison oppose importé et national.",
+      "La transparence budgétaire n'est pas un principe de l'OMC visé par cette situation.",
+      "Le traitement national limite justement la liberté de taxer différemment les produits importés.",
+      null
+     ],
+     "src": {
+      "t": "Direction générale du Trésor – L'OMC et les règles commerciales multilatérales",
+      "u": "https://www.tresor.economie.gouv.fr/tresor-international/l-omc-et-les-regles-commerciales-multilaterales"
+     }
+    },
+    {
+     "id": "n20261120-cm06-09",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Un groupe sénégalais porte sa part dans une société ivoirienne de 6 % à 14 % du capital. Comment qualifier l'opération après cette hausse ?",
+     "o": [
+      "Un investissement direct étranger",
+      "Un simple placement de portefeuille",
+      "Une aide publique au développement",
+      "Une nationalisation"
+     ],
+     "a": 0,
+     "e": "Avec 14 % du capital d'une entreprise non résidente, le seuil de 10 % est dépassé : c'est un investissement direct étranger.",
+     "ed": [
+      null,
+      "À 6 % c'était un placement ; à 14 %, le seuil de 10 % est franchi.",
+      "L'APD est versée par des États, pas par un groupe privé qui achète des parts.",
+      "Une nationalisation est le transfert d'une entreprise à l'État ; rien de tel ici."
+     ],
+     "src": {
+      "t": "Insee – Les entreprises en France, dossier mondialisation (définitions de groupe et d'IDE)",
+      "u": "https://www.insee.fr/fr/statistiques/fichier/1374296/ENTFRA13b_D1_mondialisation.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cm06-10",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Selon l'OCDE, l'APD des membres du CAD vaut 215,1 milliards de dollars en 2024 (chiffre révisé) et 174,3 milliards en 2025. Quel est l'écart en milliards de dollars ?",
+     "o": [
+      "30,8 milliards",
+      "40,8 milliards",
+      "50,8 milliards",
+      "37,8 milliards"
+     ],
+     "a": 1,
+     "e": "215,1 − 174,3 = 40,8 milliards de dollars de moins entre 2024 et 2025.",
+     "ed": [
+      "Erreur de 10 milliards dans la soustraction : 215,1 − 174,3 vaut 40,8.",
+      null,
+      "Erreur de 10 milliards dans l'autre sens : le bon écart est 40,8.",
+      "37,8 provient d'un calcul fait avec 212,1 (chiffre provisoire), pas avec le chiffre révisé indiqué."
+     ],
+     "src": {
+      "t": "OCDE – L'aide internationale a fortement reculé en 2025 (9 avril 2026)",
+      "u": "https://www.oecd.org/fr/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+     },
+     "verif": "calcul",
+     "calc": "215.1-174.3"
+    },
+    {
+     "id": "n20261120-cm06-11",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "En 2024, l'APD a baissé de 7,1 % en termes réels selon l'OCDE. Si l'aide valait 100 en 2023, combien vaut-elle en 2024, en termes réels ?",
+     "o": [
+      "107,1",
+      "93,9",
+      "92,9",
+      "97,9"
+     ],
+     "a": 2,
+     "e": "Une baisse de 7,1 % ramène 100 à 100 − 7,1 = 92,9 : on retranche 7,1 points de pourcentage à la base 100.",
+     "ed": [
+      "107,1 correspondrait à une hausse de 7,1 %, alors que l'aide a baissé.",
+      "Erreur de soustraction : 100 − 7,1 vaut 92,9.",
+      null,
+      "97,9 correspond à une baisse de 2,1 seulement, pas de 7,1."
+     ],
+     "src": {
+      "t": "OCDE – L'aide internationale recule en 2024 pour la première fois en six ans (16 avril 2025)",
+      "u": "https://www.oecd.org/fr/about/news/press-releases/2025/04/official-development-assistance-2024-figures.html"
+     },
+     "verif": "calcul",
+     "calc": "100-7.1"
+    },
+    {
+     "id": "n20261120-cm06-12",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "En 2025, un État veut contester devant l'Organe d'appel de l'OMC le rapport d'un groupe spécial. Quelle difficulté rencontre-t-il ?",
+     "o": [
+      "L'appel relève désormais de la Cour internationale de justice",
+      "L'OMC a été dissoute en 2019",
+      "Seuls les membres du G20 peuvent faire appel",
+      "L'Organe d'appel n'a plus assez de membres pour siéger depuis décembre 2019"
+     ],
+     "a": 3,
+     "e": "Depuis décembre 2019, l'Organe d'appel du mécanisme de règlement des différends ne dispose plus d'un quorum suffisant pour fonctionner.",
+     "ed": [
+      "La Cour internationale de justice n'a pas repris les appels commerciaux de l'OMC.",
+      "L'OMC existe toujours ; seul son Organe d'appel est paralysé.",
+      "Aucune règle ne réserve l'appel aux membres du G20.",
+      null
+     ],
+     "src": {
+      "t": "Direction générale du Trésor – L'OMC et les règles commerciales multilatérales",
+      "u": "https://www.tresor.economie.gouv.fr/tresor-international/l-omc-et-les-regles-commerciales-multilaterales"
+     }
+    },
+    {
+     "id": "n20261120-cm06-13",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Dans la grille « acteurs, flux, réseaux » de la mondialisation, quel élément n'est PAS un acteur ?",
+     "o": [
+      "Les transferts de capitaux",
+      "Les firmes transnationales",
+      "Les organisations non gouvernementales",
+      "Les États"
+     ],
+     "a": 0,
+     "e": "Les transferts de capitaux sont un flux ; les États, les firmes transnationales et certaines ONG sont les acteurs de la mondialisation.",
+     "ed": [
+      null,
+      "Les firmes transnationales sont des acteurs : elles organisent la production à l'échelle mondiale.",
+      "Certaines ONG sont des acteurs de la mondialisation selon les programmes officiels.",
+      "Les États sont des acteurs majeurs : ils fixent les règles et négocient."
+     ],
+     "src": {
+      "t": "Eduscol – Acteurs, flux, réseaux de la mondialisation (ressource pour la classe)",
+      "u": "https://lettres-histoire.ac-versailles.fr/IMG/pdf/Acteurs_flux_reseaux_de_la_mondialisation.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cm06-14",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Le 26 juin 2012, la Côte d'Ivoire atteint le point d'achèvement de l'initiative PPTE. À quel rang ?",
+     "o": [
+      "Le 1er pays",
+      "Le 33e pays",
+      "Le 50e pays",
+      "Le 15e pays"
+     ],
+     "a": 1,
+     "e": "Le communiqué du FMI n° 12/239 précise que la Côte d'Ivoire devient le 33e pays à atteindre le point d'achèvement de l'initiative PPTE.",
+     "ed": [
+      "L'initiative existait depuis des années ; la Côte d'Ivoire n'était pas la première.",
+      null,
+      "Le communiqué indique le 33e rang, pas le 50e.",
+      "Le communiqué indique le 33e rang, pas le 15e."
+     ],
+     "src": {
+      "t": "Abidjan.net – Communiqué FMI n° 12/239 du 26 juin 2012 : allègement de la dette de la Côte d'Ivoire",
+      "u": "https://news.abidjan.net/articles/436164/le-fmi-et-la-banque-mondiale-annoncent-un-allegement-de-plus-de-4-milliards-de-dollars-eu-de-la-dette-de-la-cote-divoire"
+     }
+    },
+    {
+     "id": "n20261120-cm06-15",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Qui a approuvé, le 13 novembre 2020, le « cadre commun pour le traitement de la dette au-delà de l'ISSD » ?",
+     "o": [
+      "L'Assemblée générale des Nations unies",
+      "L'Union africaine",
+      "Les ministres des finances et gouverneurs des banques centrales du G20, avec le Club de Paris",
+      "Le Conseil de sécurité"
+     ],
+     "a": 2,
+     "e": "Le Club de Paris a convenu de ce cadre commun, approuvé le 13 novembre 2020 par une réunion extraordinaire des ministres des finances et gouverneurs des banques centrales du G20.",
+     "ed": [
+      "L'Assemblée générale de l'ONU n'est pas l'auteur de ce cadre commun.",
+      "L'Union africaine n'a pas adopté ce cadre, qui vient du G20 et du Club de Paris.",
+      null,
+      "Le Conseil de sécurité traite de la paix et de la sécurité, pas de la dette."
+     ],
+     "src": {
+      "t": "Club de Paris – Communiqué du 13 novembre 2020 sur le cadre commun pour le traitement de la dette",
+      "u": "https://clubdeparis.org/sites/default/files/node/field_news_files/20201113_cp_issd_cadre_commun.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cm06-16",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Un journaliste écrit : « En 2024, l'aide publique au développement a poursuivi sa hausse. » Que répondre ?",
+     "o": [
+      "C'est exact : la hausse a été de 7,1 %",
+      "C'est inexact : l'APD a été supprimée en 2024",
+      "C'est exact : l'APD a atteint 0,7 % du RNB des donateurs",
+      "C'est inexact : l'APD a baissé de 7,1 % en termes réels, première baisse après cinq années de hausse"
+     ],
+     "a": 3,
+     "e": "Selon l'OCDE, l'APD 2024 a diminué de 7,1 % en termes réels : c'est la première baisse après cinq années consécutives de hausse.",
+     "ed": [
+      "Le chiffre de 7,1 % est celui d'une baisse, pas d'une hausse.",
+      "L'APD a baissé, elle n'a pas disparu : 212,1 milliards de dollars en 2024.",
+      "L'APD de 2024 représente 0,33 % du RNB des membres du CAD, loin de 0,7 %.",
+      null
+     ],
+     "src": {
+      "t": "OCDE – L'aide internationale recule en 2024 pour la première fois en six ans (16 avril 2025)",
+      "u": "https://www.oecd.org/fr/about/news/press-releases/2025/04/official-development-assistance-2024-figures.html"
+     }
+    },
+    {
+     "id": "n20261120-cm06-17",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "En 2024, selon l'OCDE, lequel de ces pays ne figure PAS parmi les quatre qui ont dépassé l'objectif de 0,7 % du RNB consacré à l'APD ?",
+     "o": [
+      "L'Allemagne",
+      "La Norvège",
+      "La Suède",
+      "Le Danemark"
+     ],
+     "a": 0,
+     "e": "Seuls quatre pays ont dépassé 0,7 % en 2024 : le Danemark, le Luxembourg, la Norvège et la Suède. L'Allemagne n'en fait pas partie.",
+     "ed": [
+      null,
+      "La Norvège (1,02 %) figure parmi les quatre pays au-dessus de l'objectif.",
+      "La Suède (0,79 %) figure parmi les quatre pays au-dessus de l'objectif.",
+      "Le Danemark (0,71 %) figure parmi les quatre pays au-dessus de l'objectif."
+     ],
+     "src": {
+      "t": "OCDE – L'aide internationale recule en 2024 pour la première fois en six ans (16 avril 2025)",
+      "u": "https://www.oecd.org/fr/about/news/press-releases/2025/04/official-development-assistance-2024-figures.html"
+     }
+    },
+    {
+     "id": "n20261120-cm06-18",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "L'APD passe de 215,1 milliards de dollars (2024) à 174,3 milliards (2025), soit environ −19 %, mais l'OCDE annonce −23,1 %. Pourquoi ?",
+     "o": [
+      "L'OCDE s'est trompée dans son calcul",
+      "Le chiffre de l'OCDE est calculé en termes réels, après correction des prix et des taux de change",
+      "Les deux chiffres portent sur des continents différents",
+      "Le chiffre de 23,1 % inclut les investissements directs étrangers"
+     ],
+     "a": 1,
+     "e": "L'OCDE mesure l'évolution « en termes réels », c'est-à-dire corrigée de l'inflation et des changes ; le simple rapport des montants ne mesure pas la même chose.",
+     "ed": [
+      "Il n'y a pas d'erreur : les deux chiffres mesurent deux choses différentes.",
+      null,
+      "Les deux montants portent sur les mêmes donateurs, les membres du CAD.",
+      "Les IDE sont des flux privés ; ils ne sont pas comptés dans l'APD."
+     ],
+     "src": {
+      "t": "OCDE – L'aide internationale a fortement reculé en 2025 (9 avril 2026)",
+      "u": "https://www.oecd.org/fr/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+     }
+    },
+    {
+     "id": "n20261120-cm06-19",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Un candidat écrit : « La hausse de 75 % des IDE vers l'Afrique en 2024 prouve que tout le continent attire désormais les investisseurs. » Quelle est la meilleure correction ?",
+     "o": [
+      "Elle est exacte et peut être conservée telle quelle",
+      "Les IDE vers l'Afrique ont en réalité baissé de 75 %",
+      "La hausse reflète surtout un seul grand projet en Égypte ; hors de ce projet, elle n'est que de 12 %",
+      "La CNUCED ne publie pas de chiffre sur l'Afrique"
+     ],
+     "a": 2,
+     "e": "La CNUCED précise que la hausse de 75 % reflète un seul grand projet en Égypte ; hors de celui-ci, les flux n'augmentent que de 12 %.",
+     "ed": [
+      "La généralisation est abusive : le chiffre est porté par un seul projet.",
+      "Les IDE vers l'Afrique ont augmenté, pas baissé.",
+      null,
+      "La CNUCED publie bien des chiffres régionaux, dont celui de l'Afrique."
+     ],
+     "src": {
+      "t": "CNUCED – Communiqué du 19 juin 2025, Rapport sur l'investissement dans le monde 2025",
+      "u": "https://unctad.org/system/files/press-material/pr25006_wir25_global_final_fr.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cm06-20",
+     "m": "cmc",
+     "tag": "niv-cm06",
+     "q": "Un candidat écrit : « Le GATT a été créé par l'Accord de Marrakech de 1994. » Que faut-il répondre ?",
+     "o": [
+      "C'est exact",
+      "C'est inexact : le GATT est une banque de développement",
+      "C'est inexact : le GATT a été créé à Abou Dhabi en 2024",
+      "C'est inexact : l'Accord de Marrakech a créé l'OMC, qui a pris la suite du GATT"
+     ],
+     "a": 3,
+     "e": "L'Accord de Marrakech du 15 avril 1994 a institué l'OMC ; dans le cadre du Cycle d'Uruguay, le GATT, défini à l'origine par 23 pays, a fait place à l'OMC.",
+     "ed": [
+      "Le GATT existait avant Marrakech ; l'accord de 1994 a créé l'OMC.",
+      "Le GATT est un ensemble de règles commerciales, pas une banque.",
+      "Abou Dhabi a accueilli la 13e conférence ministérielle de l'OMC en 2024 ; le GATT est bien plus ancien.",
+      null
+     ],
+     "src": {
+      "t": "Direction générale du Trésor – L'OMC et les règles commerciales multilatérales",
+      "u": "https://www.tresor.economie.gouv.fr/tresor-international/l-omc-et-les-regles-commerciales-multilaterales"
+     }
+    },
+    {
+     "id": "n20261120-de05-01",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Selon l'article 7 de la CDE, à quel moment l'enfant doit-il être enregistré ?",
+     "o": [
+      "À son entrée à l'école primaire",
+      "Aussitôt sa naissance",
+      "Avant ses 18 ans",
+      "Dans l'année qui suit sa naissance"
+     ],
+     "a": 1,
+     "e": "L'article 7 de la CDE dispose que l'enfant est enregistré aussitôt sa naissance et a dès celle-ci le droit à un nom et le droit d'acquérir une nationalité.",
+     "ed": [
+      "L'enregistrement ne dépend pas de la scolarisation : il doit intervenir aussitôt la naissance.",
+      null,
+      "Attendre la majorité priverait l'enfant de tous ses droits pendant son enfance.",
+      "La CDE n'accorde pas un an : elle exige l'enregistrement aussitôt la naissance."
+     ],
+     "src": {
+      "t": "UNICEF – Texte de la Convention relative aux droits de l'enfant",
+      "u": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention"
+     }
+    },
+    {
+     "id": "n20261120-de05-02",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Quel article de la CDE engage les États à respecter le droit de l'enfant de préserver son identité, y compris sa nationalité, son nom et ses relations familiales ?",
+     "o": [
+      "L'article 1er",
+      "L'article 30",
+      "L'article 8",
+      "L'article 12"
+     ],
+     "a": 2,
+     "e": "L'article 8 de la CDE porte sur la préservation de l'identité de l'enfant : nationalité, nom et relations familiales, sans ingérence illégale.",
+     "ed": [
+      "L'article 1er ne porte pas sur la préservation de l'identité, objet de l'article 8.",
+      "L'article 30 protège l'enfant appartenant à une minorité ou autochtone dans sa culture, sa religion et sa langue.",
+      null,
+      "L'article 12 ne porte pas sur la préservation de l'identité, objet de l'article 8."
+     ],
+     "src": {
+      "t": "UNICEF – Texte de la Convention relative aux droits de l'enfant",
+      "u": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention"
+     }
+    },
+    {
+     "id": "n20261120-de05-03",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Que garantit l'article 6, paragraphe 4, de la Charte africaine des droits et du bien-être de l'enfant ?",
+     "o": [
+      "Le droit de l'enfant de choisir son nom à 16 ans",
+      "Le droit à l'éducation gratuite",
+      "L'interdiction du travail des enfants",
+      "La nationalité de l'État de naissance pour l'enfant qui ne peut prétendre à aucune autre nationalité"
+     ],
+     "a": 3,
+     "e": "L'article 6, paragraphe 4, demande aux États de reconnaître à l'enfant la nationalité de l'État de naissance si, à sa naissance, il ne peut prétendre à aucune autre nationalité.",
+     "ed": [
+      "La Charte ne prévoit pas de choix du nom à 16 ans : elle affirme le droit à un nom dès la naissance.",
+      "L'éducation relève d'un autre article de la Charte, pas de l'article 6 sur le nom et la nationalité.",
+      "Le travail des enfants relève d'un autre article ; l'article 6 traite du nom et de la nationalité.",
+      null
+     ],
+     "src": {
+      "t": "Union africaine – Charte africaine des droits et du bien-être de l'enfant (texte français)",
+      "u": "https://au.int/sites/default/files/pages/32903-file-african_charter_on_the_rights_welfare_of_the_child_french.pdf"
+     }
+    },
+    {
+     "id": "n20261120-de05-04",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Selon la loi ivoirienne de 2019 relative à la filiation, comment se prouve d'abord la filiation d'un enfant né dans le mariage ?",
+     "o": [
+      "Par l'acte de naissance inscrit sur les registres de l'état civil",
+      "Par le témoignage de deux voisins",
+      "Par un test génétique obligatoire",
+      "Par le livret scolaire"
+     ],
+     "a": 0,
+     "e": "L'article 9 de la loi n° 2019-571 dispose que la filiation des enfants nés dans le mariage se prouve par les actes de naissance ; à défaut, la possession d'état suffit.",
+     "ed": [
+      null,
+      "Des témoignages isolés ne sont pas le mode de preuve prévu ; la loi vise l'acte de naissance, puis la possession d'état.",
+      "La loi ne rend pas le test génétique obligatoire ; la science intervient surtout dans le désaveu.",
+      "Le livret scolaire n'est pas un acte de l'état civil."
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 1 : enfants nés dans le mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-1-de-la-filiation-des-enfants-dans-le-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-de05-05",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Hors mariage, comment s'établit la filiation à l'égard de la mère, selon l'article 19 de la loi de 2019 ?",
+     "o": [
+      "Uniquement par un jugement",
+      "Du seul fait de la naissance",
+      "Par une déclaration du père",
+      "Par le mariage ultérieur des parents seulement"
+     ],
+     "a": 1,
+     "e": "L'article 19 dispose que la filiation des enfants nés hors mariage résulte, à l'égard de la mère, du seul fait de la naissance.",
+     "ed": [
+      "Le jugement n'intervient que dans des cas particuliers, par exemple si l'acte ne porte pas le nom de la mère.",
+      null,
+      "Le père ne peut pas établir la filiation maternelle à la place de la mère.",
+      "La filiation maternelle n'attend pas un mariage : elle résulte de la naissance."
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 2 : enfants nés hors mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-2-de-la-filiation-des-enfants-nes-hors-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-de05-06",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Hors mariage, comment s'établit la filiation à l'égard du père ?",
+     "o": [
+      "Du seul fait de la naissance",
+      "Par la seule déclaration de la mère",
+      "Par une reconnaissance ou un jugement",
+      "Par la résidence commune avec l'enfant"
+     ],
+     "a": 2,
+     "e": "Selon l'article 19 de la loi de 2019, à l'égard du père, la preuve de la filiation ne peut résulter que d'une reconnaissance ou d'un jugement.",
+     "ed": [
+      "C'est la règle pour la mère, pas pour le père.",
+      "La mère ne peut pas désigner seule le père : il faut une reconnaissance ou un jugement.",
+      null,
+      "Vivre avec l'enfant ne suffit pas à établir juridiquement la paternité hors mariage."
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 2 : enfants nés hors mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-2-de-la-filiation-des-enfants-nes-hors-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-de05-07",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Akissi, mariée, accouche 250 jours après le décès de son mari. Qui est présumé être le père de l'enfant ?",
+     "o": [
+      "Personne, car le mariage est dissous",
+      "L'enfant n'aura qu'une filiation maternelle",
+      "Le frère du mari",
+      "Le mari décédé"
+     ],
+     "a": 3,
+     "e": "L'article 2 de la loi de 2019 : l'enfant né moins de 300 jours après la dissolution du mariage a pour père le mari de sa mère. 250 jours, c'est moins de 300.",
+     "ed": [
+      "La présomption joue encore 300 jours après la dissolution du mariage, ici par décès.",
+      "La présomption de l'article 2 établit aussi la filiation paternelle.",
+      "La loi ne désigne jamais un frère du mari comme père présumé.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 1 : enfants nés dans le mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-1-de-la-filiation-des-enfants-dans-le-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-de05-08",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Le mari peut désavouer l'enfant conçu pendant le mariage dans l'un de ces cas. Lequel ?",
+     "o": [
+      "La science médicale établit qu'il ne peut en être le père",
+      "L'enfant ne lui ressemble pas",
+      "Il n'a pas assisté à l'accouchement",
+      "Il a divorcé dix ans après la naissance"
+     ],
+     "a": 0,
+     "e": "L'article 4 de la loi de 2019 permet le désaveu si le mari prouve l'impossibilité physique de cohabiter pendant la période de conception, ou si la science médicale établit qu'il ne peut être le père.",
+     "ed": [
+      null,
+      "La ressemblance n'est pas une preuve juridique de paternité.",
+      "L'absence à l'accouchement n'est pas un cas de désaveu.",
+      "Un divorce postérieur ne remet pas en cause la filiation établie à la naissance."
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 1 : enfants nés dans le mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-1-de-la-filiation-des-enfants-dans-le-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-de05-09",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Un père marié veut reconnaître l'enfant né de sa relation hors mariage. Que lui impose l'article 22 de la loi de 2019 ?",
+     "o": [
+      "Obtenir le consentement écrit de son épouse",
+      "Informer préalablement son épouse du projet de reconnaissance, par acte de commissaire de justice",
+      "Divorcer avant de reconnaître l'enfant",
+      "Attendre la majorité de l'enfant"
+     ],
+     "a": 1,
+     "e": "L'article 22 exige que la reconnaissance soit précédée de l'information donnée à l'épouse, par acte de commissaire de justice, et que l'acte le mentionne à peine de nullité.",
+     "ed": [
+      "La loi exige l'information de l'épouse, pas son consentement.",
+      null,
+      "Aucun divorce n'est exigé pour reconnaître un enfant.",
+      "La reconnaissance peut intervenir dès la naissance, sans attendre la majorité."
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 2 : enfants nés hors mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-2-de-la-filiation-des-enfants-nes-hors-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-de05-10",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "L'enfant Junior, 9 ans, né hors mariage, veut faire établir sa filiation paternelle en justice. Qui peut intenter l'action en recherche de paternité en son nom ?",
+     "o": [
+      "Sa grand-mère paternelle",
+      "Le procureur de la République seul",
+      "Sa mère, seule à avoir qualité pendant sa minorité",
+      "N'importe quel voisin qui y a intérêt"
+     ],
+     "a": 2,
+     "e": "L'article 26 de la loi de 2019 : l'action n'appartient qu'à l'enfant ; pendant sa minorité, la mère, même mineure, a seule qualité pour l'intenter.",
+     "ed": [
+      "La grand-mère paternelle n'a pas qualité pour agir ; la loi réserve l'action à l'enfant, représenté par sa mère.",
+      "Le procureur n'est pas titulaire de cette action, qui appartient à l'enfant.",
+      null,
+      "L'action en recherche de paternité n'est pas ouverte à tout intéressé."
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 2 : enfants nés hors mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-2-de-la-filiation-des-enfants-nes-hors-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-de05-11",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Un passant découvre un nouveau-né abandonné devant un marché de Korhogo. Que doit-il faire selon la loi n° 2018-862 ?",
+     "o": [
+      "Le déclarer uniquement à l'ambassade la plus proche",
+      "L'inscrire lui-même à l'école",
+      "Attendre trois mois avant toute démarche",
+      "Le déclarer à l'officier ou à l'agent de l'état civil du lieu de la découverte"
+     ],
+     "a": 3,
+     "e": "Les articles 24 et 46 de la loi de 2018 obligent toute personne qui trouve un nouveau-né à le déclarer à l'officier ou à l'agent de l'état civil du lieu de la découverte.",
+     "ed": [
+      "La déclaration se fait à l'état civil du lieu de la découverte, pas à une ambassade.",
+      "L'inscription scolaire ne remplace pas la déclaration à l'état civil.",
+      "La loi impose la déclaration de la découverte, sans attendre.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Nouveau-né trouvé : articles 24 et 46 de la loi n° 2018-862 relative à l'état civil",
+      "u": "https://loidici.biz/?p=27438"
+     }
+    },
+    {
+     "id": "n20261120-de05-12",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Un enfant naît à bord d'un navire immatriculé en Côte d'Ivoire. Dans quel délai son acte de naissance doit-il être dressé ?",
+     "o": [
+      "Dans les 48 heures de l'accouchement",
+      "Dans les 30 jours",
+      "Dès l'arrivée au port de destination finale",
+      "Dans l'année"
+     ],
+     "a": 0,
+     "e": "L'article 49 de la loi de 2018 prévoit que l'acte est dressé dans les 48 heures de l'accouchement, sur la déclaration de la mère ou du père.",
+     "ed": [
+      null,
+      "Ce délai ne correspond pas à l'article 49, qui fixe 48 heures pour une naissance à bord.",
+      "L'acte est dressé à bord dans les 48 heures ; c'est le dépôt des expéditions qui se fait au premier port.",
+      "Un an est bien trop long : l'article 49 fixe 48 heures."
+     ],
+     "src": {
+      "t": "Loidici – Naissance pendant un voyage aérien ou maritime : article 49 de la loi n° 2018-862",
+      "u": "https://loidici.biz/?p=27453"
+     }
+    },
+    {
+     "id": "n20261120-de05-13",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Selon l'article 10 de la loi de 2019, lequel de ces faits sert à établir la possession d'état ?",
+     "o": [
+      "L'enfant a la même religion que le père",
+      "L'enfant a toujours porté le nom du père dont il prétend être l'enfant",
+      "L'enfant habite le même quartier que le père",
+      "L'enfant exerce le même métier que le père"
+     ],
+     "a": 1,
+     "e": "L'article 10 cite parmi les principaux faits : l'enfant a toujours porté le nom du père, celui-ci l'a traité comme son enfant, la société et la famille le reconnaissent pour tel.",
+     "ed": [
+      "La religion n'est pas un fait de possession d'état cité par la loi.",
+      null,
+      "Habiter le même quartier n'indique pas un lien de filiation.",
+      "Le métier exercé n'est pas un fait de possession d'état."
+     ],
+     "src": {
+      "t": "Loidici – Les faits qui établissent la possession d'état (art. 10 de la loi n° 2019-571)",
+      "u": "https://loidici.biz/?p=26784"
+     }
+    },
+    {
+     "id": "n20261120-de05-14",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Paul et Grâce, mariés, déclarent ensemble la naissance de leur fils. Grâce souhaite que son nom figure aussi. Que prévoit l'article 3 de la loi n° 2020-490 ?",
+     "o": [
+      "L'enfant porte obligatoirement le seul nom de la mère",
+      "Les parents doivent tirer au sort le nom",
+      "L'enfant porte le nom du père, auquel est ajouté celui de la mère si elle le demande",
+      "L'enfant ne peut porter qu'un nom choisi par le juge"
+     ],
+     "a": 2,
+     "e": "Quand la filiation est établie en même temps à l'égard des deux parents, l'enfant porte le nom du père ; il y est ajouté le nom de la mère si celle-ci le demande.",
+     "ed": [
+      "La règle de base est le nom du père, et non celui de la mère seule.",
+      "La loi ne prévoit aucun tirage au sort.",
+      null,
+      "Le juge n'intervient pas dans l'attribution ordinaire du nom."
+     ],
+     "src": {
+      "t": "Loidici – Nom de l'enfant né hors mariage reconnu par le père (art. 3 de la loi n° 2020-490 relative au nom)",
+      "u": "https://loidici.biz/?p=26685"
+     }
+    },
+    {
+     "id": "n20261120-de05-15",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Un enfant né hors mariage porte le nom de sa mère. Son père le reconnaît trois ans plus tard. À quelles conditions le nom du père lui est-il ajouté ?",
+     "o": [
+      "Automatiquement, et le nom de la mère est supprimé",
+      "Jamais, le nom de la mère est définitif",
+      "Seulement si l'enfant est majeur",
+      "À la demande du père et après consentement de la mère"
+     ],
+     "a": 3,
+     "e": "Selon l'article 3 de la loi de 2020, lorsque la filiation est établie en second lieu à l'égard du père, son nom est, à sa demande, ajouté au nom de la mère après consentement de celle-ci.",
+     "ed": [
+      "Le nom du père est ajouté, pas substitué, et il faut le consentement de la mère.",
+      "La loi permet justement l'ajout du nom du père.",
+      "La loi n'exige pas la majorité de l'enfant pour cet ajout.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Nom de l'enfant né hors mariage reconnu par le père (art. 3 de la loi n° 2020-490 relative au nom)",
+      "u": "https://loidici.biz/?p=26685"
+     }
+    },
+    {
+     "id": "n20261120-de05-16",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Kader, enfant légitime, naît à Bamako d'un père ivoirien et d'une mère malienne mariés. Est-il ivoirien d'origine ?",
+     "o": [
+      "Oui, car l'enfant légitime né à l'étranger d'un parent ivoirien est ivoirien",
+      "Non, car sa mère est étrangère",
+      "Non, car il est né hors de Côte d'Ivoire",
+      "Oui, mais seulement à sa majorité"
+     ],
+     "a": 0,
+     "e": "L'article 7 du Code de la nationalité dispose qu'est ivoirien l'enfant légitime né à l'étranger d'un parent ivoirien : un seul parent ivoirien suffit.",
+     "ed": [
+      null,
+      "Un seul parent ivoirien suffit ; la nationalité étrangère de la mère n'y fait pas obstacle.",
+      "Le lieu de naissance à l'étranger n'empêche pas la nationalité d'origine par filiation.",
+      "L'article 8 précise qu'il est réputé ivoirien dès sa naissance, pas à sa majorité."
+     ],
+     "src": {
+      "t": "Loidici – Code de la nationalité ivoirienne, Titre II : nationalité d'origine (art. 6 à 10)",
+      "u": "https://loidici.biz/?p=202"
+     }
+    },
+    {
+     "id": "n20261120-de05-17",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Un candidat écrit : « Tout enfant né en Côte d'Ivoire est ivoirien. » Quelle correction est juste ?",
+     "o": [
+      "C'est exact, le Code de la nationalité consacre le droit du sol",
+      "C'est inexact : l'enfant légitime né en Côte d'Ivoire n'est pas ivoirien si ses deux parents sont étrangers",
+      "C'est inexact : seul l'enfant né à Abidjan est ivoirien",
+      "C'est inexact : la nationalité ne s'acquiert qu'à 18 ans"
+     ],
+     "a": 1,
+     "e": "L'article 6 du Code de la nationalité réserve le cas où les deux parents sont étrangers : le Code ne consacre pas un droit du sol automatique.",
+     "ed": [
+      "Le Code exclut l'enfant légitime né en Côte d'Ivoire de deux parents étrangers : pas de droit du sol automatique.",
+      null,
+      "La ville de naissance en Côte d'Ivoire importe peu ; c'est la filiation qui compte.",
+      "La nationalité d'origine est attribuée dès la naissance (article 8)."
+     ],
+     "src": {
+      "t": "Loidici – Code de la nationalité ivoirienne, Titre II : nationalité d'origine (art. 6 à 10)",
+      "u": "https://loidici.biz/?p=202"
+     }
+    },
+    {
+     "id": "n20261120-de05-18",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Rose, enfant née hors mariage à Man, a une filiation établie uniquement envers son père, de nationalité guinéenne. Est-elle ivoirienne d'origine selon l'article 6 ?",
+     "o": [
+      "Oui, car elle est née en Côte d'Ivoire",
+      "Oui, car sa mère est peut-être ivoirienne",
+      "Non, car sa filiation n'est établie qu'à l'égard d'un seul parent, étranger",
+      "Non, car les enfants nés hors mariage ne sont jamais ivoiriens"
+     ],
+     "a": 2,
+     "e": "L'article 6 exclut l'enfant né hors mariage en Côte d'Ivoire dont la filiation est établie à l'égard d'un seul parent, également étranger. C'est le cas de Rose.",
+     "ed": [
+      "Le lieu de naissance ne suffit pas : l'article 6 réserve le cas d'un seul parent étranger.",
+      "Seule une filiation légalement établie produit effet (article 9) ; une supposition ne compte pas.",
+      null,
+      "Faux : l'enfant né hors mariage en Côte d'Ivoire peut être ivoirien, par exemple si sa filiation est établie envers une mère ivoirienne."
+     ],
+     "src": {
+      "t": "Loidici – Code de la nationalité ivoirienne, Titre II : nationalité d'origine (art. 6 à 10)",
+      "u": "https://loidici.biz/?p=202"
+     }
+    },
+    {
+     "id": "n20261120-de05-19",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Bakary, marié, apprend le 15 janvier qu'un enfant né le 1er septembre précédent lui a été caché. Jusqu'à quelle date peut-il agir en désaveu ?",
+     "o": [
+      "Jusqu'au 1er novembre précédent",
+      "Sans limite de temps",
+      "Jusqu'au 15 juillet",
+      "Jusqu'au 15 mars"
+     ],
+     "a": 3,
+     "e": "L'article 6 de la loi de 2019 fixe un délai de deux mois ; si la naissance lui a été cachée, il court du jour de la découverte, le 15 janvier : jusqu'au 15 mars.",
+     "ed": [
+      "Le délai ne part pas de la naissance quand celle-ci a été cachée au mari.",
+      "L'action en désaveu est enfermée dans un délai de deux mois.",
+      "Six mois est le délai des héritiers qui reprennent l'action (article 7), pas celui du mari.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 1 : enfants nés dans le mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-1-de-la-filiation-des-enfants-dans-le-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-de05-20",
+     "m": "denf",
+     "tag": "niv-de05",
+     "q": "Lequel de ces énoncés sur l'action en réclamation d'état est exact selon la loi de 2019 ?",
+     "o": [
+      "Elle est imprescriptible à l'égard de l'enfant",
+      "Elle se prescrit par deux mois",
+      "Elle n'appartient qu'au procureur",
+      "Elle est interdite aux enfants nés dans le mariage"
+     ],
+     "a": 0,
+     "e": "L'article 16 de la loi de 2019 dispose que l'action en réclamation d'état est imprescriptible à l'égard de l'enfant : il peut agir à tout moment.",
+     "ed": [
+      null,
+      "Deux mois est le délai du désaveu par le mari, pas celui de la réclamation d'état.",
+      "L'action appartient à l'enfant, pas au seul procureur.",
+      "Elle figure justement dans le chapitre sur la filiation des enfants nés dans le mariage."
+     ],
+     "src": {
+      "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 1 : enfants nés dans le mariage",
+      "u": "https://loidici.biz/2019/08/16/chapitre-1-de-la-filiation-des-enfants-dans-le-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+     }
+    },
+    {
+     "id": "n20261120-cg08-01",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Où se trouve le siège de la Banque ouest-africaine de développement (BOAD) ?",
+     "o": [
+      "À Dakar",
+      "À Abidjan",
+      "À Lomé",
+      "À Ouagadougou"
+     ],
+     "a": 2,
+     "e": "La BOAD, banque de développement de l'UEMOA, a son siège à Lomé, au Togo.",
+     "ed": [
+      "Dakar accueille la BCEAO, la banque centrale, pas la BOAD.",
+      "Abidjan accueille la BRVM, la bourse régionale.",
+      null,
+      "Ouagadougou accueille la Commission de l'UEMOA."
+     ],
+     "src": {
+      "t": "Wikipedia – West African Economic and Monetary Union",
+      "u": "https://en.wikipedia.org/wiki/West_African_Economic_and_Monetary_Union"
+     }
+    },
+    {
+     "id": "n20261120-cg08-02",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Dans quelle ville le traité révisé de la CEDEAO a-t-il été signé le 24 juillet 1993 ?",
+     "o": [
+      "Lagos",
+      "Abuja",
+      "Dakar",
+      "Cotonou"
+     ],
+     "a": 3,
+     "e": "Le traité révisé de la CEDEAO a été signé à Cotonou le 24 juillet 1993 ; il révise le traité initial de 1975.",
+     "ed": [
+      "Lagos est la ville du traité initial de 1975, pas du traité révisé.",
+      "Abuja est le siège de la CEDEAO, pas le lieu de signature du traité révisé.",
+      "Dakar est la ville du traité de l'UEMOA (1994) et du protocole de 1979.",
+      null
+     ],
+     "src": {
+      "t": "Vie-publique.sn – Traité révisé de la CEDEAO (Cotonou, 24 juillet 1993)",
+      "u": "https://www.vie-publique.sn/documents/6259/traite-revise-de-la-communaute-econ-mique-des-etats-de-l-afrique-de-l-ouest-cedeao-6259"
+     }
+    },
+    {
+     "id": "n20261120-cg08-03",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Dans quelle ville siège l'Organisation ouest-africaine de la santé (OOAS), institution de la CEDEAO ?",
+     "o": [
+      "Bobo-Dioulasso",
+      "Ouagadougou",
+      "Lomé",
+      "Niamey"
+     ],
+     "a": 0,
+     "e": "L'OOAS, créée en 1987, a son siège à Bobo-Dioulasso, au Burkina Faso.",
+     "ed": [
+      null,
+      "Ouagadougou accueille la Commission de l'UEMOA, pas l'OOAS.",
+      "Lomé accueille la BIDC et la BOAD, pas l'OOAS.",
+      "Niamey n'accueille pas l'OOAS ; c'est la ville du premier sommet de l'AES en 2024."
+     ],
+     "src": {
+      "t": "Le360 Afrique – CEDEAO : objectifs et principales institutions (27 février 2017)",
+      "u": "https://afrique.le360.ma/maroc-mauritanie-cote-divoire-senegal-guinee-mali-gabon/politique/2017/02/27/10006-cedeao-objectifs-et-principales-institutions/"
+     }
+    },
+    {
+     "id": "n20261120-cg08-04",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Quelle ville accueille le siège de la Commission de la CEDEAO ?",
+     "o": [
+      "Lomé",
+      "Abuja",
+      "Accra",
+      "Ouagadougou"
+     ],
+     "a": 1,
+     "e": "Le siège de la CEDEAO et de sa Commission se trouve à Abuja, au Nigeria (Airport Road).",
+     "ed": [
+      "Lomé accueille la BIDC, pas la Commission.",
+      null,
+      "Accra n'est pas le siège de la Commission de la CEDEAO.",
+      "Ouagadougou est le siège de la Commission de l'UEMOA, une autre organisation."
+     ],
+     "src": {
+      "t": "CEDEAO – Commission, nous contacter (siège à Abuja)",
+      "u": "https://www.ecowas.int/commission-contact-us/"
+     }
+    },
+    {
+     "id": "n20261120-cg08-05",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Quand la Bourse régionale des valeurs mobilières (BRVM) a-t-elle démarré ses activités ?",
+     "o": [
+      "Le 10 janvier 1994",
+      "Le 18 décembre 1996",
+      "Le 18 septembre 1998",
+      "Le 2 mai 1997"
+     ],
+     "a": 2,
+     "e": "La BRVM, créée sous forme de société anonyme le 18 décembre 1996, a démarré ses activités le 18 septembre 1998.",
+     "ed": [
+      "C'est la date du traité de l'UEMOA, pas du démarrage de la BRVM.",
+      "C'est la date de création de la BRVM, pas de son démarrage.",
+      null,
+      "C'est la date de l'adhésion de la Guinée-Bissau à l'UEMOA."
+     ],
+     "src": {
+      "t": "Économie ivoirienne – Présentation de la Bourse régionale des valeurs mobilières",
+      "u": "https://economie-ivoirienne.ci/banques-et-finances/presentation-de-la-bourse-regionale-des-valeurs-mobilieres.html"
+     }
+    },
+    {
+     "id": "n20261120-cg08-06",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Quel est l'objectif fixé par l'article 2 de la Charte du Liptako-Gourma ?",
+     "o": [
+      "Créer une monnaie commune",
+      "Fusionner avec l'UEMOA",
+      "Supprimer les droits de douane avec l'Union européenne",
+      "Établir une architecture de défense collective et d'assistance mutuelle"
+     ],
+     "a": 3,
+     "e": "L'article 2 de la Charte du Liptako-Gourma vise à établir une architecture de défense collective et d'assistance mutuelle entre les parties.",
+     "ed": [
+      "La Charte de 2023 ne crée aucune monnaie : son objet est la défense collective.",
+      "La Charte ne prévoit aucune fusion avec l'UEMOA.",
+      "La Charte ne traite pas du commerce avec l'Union européenne.",
+      null
+     ],
+     "src": {
+      "t": "Digithèque MJP – Charte du Liptako-Gourma instituant l'Alliance des États du Sahel (16 septembre 2023)",
+      "u": "https://mjp.univ-perp.fr/constit/sahel2023.htm"
+     }
+    },
+    {
+     "id": "n20261120-cg08-07",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Un QCM affirme : « La Commission de l'UEMOA siège à Abuja. » Où siège-t-elle réellement ?",
+     "o": [
+      "À Ouagadougou",
+      "À Dakar",
+      "À Lomé",
+      "À Bamako"
+     ],
+     "a": 0,
+     "e": "La Commission de l'UEMOA, comme sa Cour de justice et sa Cour des comptes, siège à Ouagadougou. Abuja est le siège de la CEDEAO.",
+     "ed": [
+      null,
+      "Dakar accueille la BCEAO, pas la Commission.",
+      "Lomé accueille la BOAD, pas la Commission.",
+      "Bamako n'est pas le siège de la Commission de l'UEMOA."
+     ],
+     "src": {
+      "t": "Wikipedia – West African Economic and Monetary Union",
+      "u": "https://en.wikipedia.org/wiki/West_African_Economic_and_Monetary_Union"
+     }
+    },
+    {
+     "id": "n20261120-cg08-08",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Un étudiant classe les institutions par organisation. Lequel de ces organismes n'appartient PAS à l'UEMOA ?",
+     "o": [
+      "La BOAD",
+      "La BIDC",
+      "La Cour des comptes siégeant à Ouagadougou",
+      "La BCEAO"
+     ],
+     "a": 1,
+     "e": "La BIDC (Banque d'investissement et de développement) est une institution de la CEDEAO, même si elle siège à Lomé comme la BOAD.",
+     "ed": [
+      "La BOAD est la banque de développement de l'UEMOA.",
+      null,
+      "La Cour des comptes de l'UEMOA siège à Ouagadougou.",
+      "La BCEAO, à Dakar, est la banque centrale des États de l'UEMOA."
+     ],
+     "src": {
+      "t": "Le360 Afrique – CEDEAO : objectifs et principales institutions (27 février 2017)",
+      "u": "https://afrique.le360.ma/maroc-mauritanie-cote-divoire-senegal-guinee-mali-gabon/politique/2017/02/27/10006-cedeao-objectifs-et-principales-institutions/"
+     }
+    },
+    {
+     "id": "n20261120-cg08-09",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Le 6 juillet 2024, à Niamey, que décident les chefs d'État du Burkina Faso, du Mali et du Niger ?",
+     "o": [
+      "Leur adhésion à l'UEMOA",
+      "La signature de la Charte du Liptako-Gourma",
+      "La création de la Confédération « Alliance des États du Sahel »",
+      "La création de la BRVM"
+     ],
+     "a": 2,
+     "e": "La Déclaration de Niamey du 6 juillet 2024 décide solennellement la création de la Confédération « Alliance des États du Sahel » (AES).",
+     "ed": [
+      "Les trois pays étaient déjà membres de l'UEMOA.",
+      "La Charte du Liptako-Gourma avait été signée plus tôt, le 16 septembre 2023.",
+      null,
+      "La BRVM existe depuis 1996 et n'a rien à voir avec ce sommet."
+     ],
+     "src": {
+      "t": "Burkina24 – Déclaration de Niamey du 6 juillet 2024",
+      "u": "https://burkina24.com/wp-content/uploads/2024/07/Declaration-de-Niamey-060724s.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cg08-10",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Selon l'article 6 de la Charte du Liptako-Gourma, comment est considérée une atteinte à la souveraineté d'une des parties ?",
+     "o": [
+      "Comme une affaire intérieure de l'État touché",
+      "Comme un motif d'exclusion de l'Alliance",
+      "Comme un différend à porter devant la Cour de justice de l'UEMOA",
+      "Comme une agression contre les autres parties, qui engage un devoir d'assistance"
+     ],
+     "a": 3,
+     "e": "L'article 6 dispose que toute atteinte à la souveraineté ou à l'intégrité d'une partie est considérée comme une agression contre les autres et engage un devoir d'assistance, y compris armée.",
+     "ed": [
+      "C'est l'inverse : l'atteinte concerne toutes les parties.",
+      "La Charte prévoit l'assistance à la victime, pas son exclusion.",
+      "La Charte ne renvoie pas ces atteintes à la Cour de justice de l'UEMOA.",
+      null
+     ],
+     "src": {
+      "t": "Digithèque MJP – Charte du Liptako-Gourma instituant l'Alliance des États du Sahel (16 septembre 2023)",
+      "u": "https://mjp.univ-perp.fr/constit/sahel2023.htm"
+     }
+    },
+    {
+     "id": "n20261120-cg08-11",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Où et quand a été signé le protocole de la CEDEAO sur la libre circulation des personnes, le droit de résidence et d'établissement ?",
+     "o": [
+      "À Dakar, le 29 mai 1979",
+      "À Abuja, le 1er juillet 1986",
+      "À Cotonou, le 24 juillet 1993",
+      "À Lagos, le 28 mai 1975"
+     ],
+     "a": 0,
+     "e": "Le protocole sur la libre circulation des personnes, le droit de résidence et d'établissement a été signé à Dakar le 29 mai 1979.",
+     "ed": [
+      null,
+      "C'est le protocole additionnel sur le droit de résidence, deuxième étape.",
+      "C'est le traité révisé de la CEDEAO.",
+      "C'est la date et le lieu du traité fondateur de la CEDEAO."
+     ],
+     "src": {
+      "t": "HCR – Protocole additionnel de la CEDEAO relatif au droit de résidence (Abuja, 1er juillet 1986)",
+      "u": "https://www.unhcr.org/sites/default/files/legacy-pdf/4b151cc13e.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cg08-12",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Quel est l'objet du protocole additionnel de la CEDEAO signé à Abuja le 1er juillet 1986 ?",
+     "o": [
+      "Créer la monnaie commune",
+      "La deuxième étape de la libre circulation : le droit de résidence",
+      "Créer la Cour de justice",
+      "Organiser le retrait des États membres"
+     ],
+     "a": 1,
+     "e": "Le protocole additionnel du 1er juillet 1986 porte sur l'exécution de la deuxième étape (droit de résidence) du protocole sur la libre circulation des personnes.",
+     "ed": [
+      "Ce protocole ne crée aucune monnaie.",
+      null,
+      "La Cour de justice est régie par le protocole du 6 juillet 1991.",
+      "Ce protocole ne traite pas du retrait des États."
+     ],
+     "src": {
+      "t": "HCR – Protocole additionnel de la CEDEAO relatif au droit de résidence (Abuja, 1er juillet 1986)",
+      "u": "https://www.unhcr.org/sites/default/files/legacy-pdf/4b151cc13e.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cg08-13",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Combien de juges compte la Cour de justice de la CEDEAO, et pour quelle durée de mandat ?",
+     "o": [
+      "Sept juges, pour cinq ans",
+      "Neuf juges, pour six ans",
+      "Cinq juges, pour quatre ans",
+      "Quinze juges, un par État"
+     ],
+     "a": 2,
+     "e": "La Cour de justice de la Communauté se compose de cinq juges indépendants nommés pour un mandat de quatre ans.",
+     "ed": [
+      "Ni le nombre ni la durée ne correspondent : cinq juges, quatre ans.",
+      "Ni le nombre ni la durée ne correspondent : cinq juges, quatre ans.",
+      null,
+      "La Cour ne compte pas un juge par État : elle a cinq juges."
+     ],
+     "src": {
+      "t": "CEDEAO – Cour de justice de la Communauté",
+      "u": "https://www.ecowas.int/institutions/community-court-of-justice/?lang=fr"
+     }
+    },
+    {
+     "id": "n20261120-cg08-14",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Un candidat lit : « Les pays de l'AES ont quitté la CEDEAO le 28 janvier 2024. » Qu'en dire ?",
+     "o": [
+      "C'est exact",
+      "C'est inexact : ils l'ont quittée en 2023 avec la Charte du Liptako-Gourma",
+      "C'est inexact : ils n'ont jamais quitté la CEDEAO",
+      "C'est inexact : le 28 janvier 2024 est la date de l'annonce ; le retrait a pris effet le 29 janvier 2025"
+     ],
+     "a": 3,
+     "e": "Le Burkina Faso, le Mali et le Niger ont annoncé leur retrait le 28 janvier 2024 ; il est devenu effectif le 29 janvier 2025.",
+     "ed": [
+      "La date du 28 janvier 2024 est celle de l'annonce, pas du départ effectif.",
+      "La Charte de 2023 crée l'AES mais n'est pas un acte de retrait de la CEDEAO.",
+      "Le retrait a bien eu lieu : il est effectif depuis le 29 janvier 2025.",
+      null
+     ],
+     "src": {
+      "t": "FMES – L'AES et la CEDEAO (mars 2025)",
+      "u": "https://fmes-france.org/wp-content/uploads/2025/03/article-niagale-fmes-aes-cedeao.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cg08-15",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Lors de quelle session les chefs d'État de la CEDEAO ont-ils acté le retrait du Mali, du Niger et du Burkina Faso ?",
+     "o": [
+      "La session du 15 décembre 2024",
+      "Le sommet de Niamey du 6 juillet 2024",
+      "La session du 28 mai 1975",
+      "Le sommet de Cotonou de 1993"
+     ],
+     "a": 0,
+     "e": "Selon la FMES, les chefs d'État de la CEDEAO ont acté le retrait, effectif à compter du 29 janvier 2025, lors de leur 66e session ordinaire du 15 décembre 2024.",
+     "ed": [
+      null,
+      "Le sommet de Niamey est celui de l'AES, pas une session de la CEDEAO.",
+      "Le 28 mai 1975 est la date de création de la CEDEAO.",
+      "Le traité révisé de 1993 date d'avant la création de l'AES."
+     ],
+     "src": {
+      "t": "FMES – L'AES et la CEDEAO (mars 2025)",
+      "u": "https://fmes-france.org/wp-content/uploads/2025/03/article-niagale-fmes-aes-cedeao.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cg08-16",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Un journaliste écrit : « En quittant la CEDEAO, le Mali a perdu l'accès au marché financier régional de la BRVM. » Pourquoi est-ce discutable ?",
+     "o": [
+      "Parce que la BRVM appartient à la CEDEAO",
+      "Parce que le Mali est toujours membre de l'UEMOA, dont les huit pays partagent la BRVM",
+      "Parce que la BRVM a fermé en 2024",
+      "Parce que la BRVM siège à Bamako"
+     ],
+     "a": 1,
+     "e": "Les pays de l'AES sont toujours membres de l'UEMOA, et la BRVM est commune aux huit pays de l'UEMOA : le retrait de la CEDEAO ne les en écarte pas.",
+     "ed": [
+      "La BRVM est commune aux pays de l'UEMOA, pas une institution de la CEDEAO.",
+      null,
+      "Rien n'indique une fermeture : la BRVM poursuit ses activités.",
+      "Le siège de la BRVM est à Abidjan."
+     ],
+     "src": {
+      "t": "FMES – L'AES et la CEDEAO (mars 2025)",
+      "u": "https://fmes-france.org/wp-content/uploads/2025/03/article-niagale-fmes-aes-cedeao.pdf"
+     }
+    },
+    {
+     "id": "n20261120-cg08-17",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Laquelle de ces institutions n'est PAS citée parmi les institutions confédérales de l'AES ?",
+     "o": [
+      "Un Parlement de la Confédération",
+      "Une Banque confédérale",
+      "Une banque centrale émettant une nouvelle monnaie en 2024",
+      "Une force unifiée"
+     ],
+     "a": 2,
+     "e": "Les institutions citées sont le Parlement de la Confédération, la Banque confédérale de l'AES et une force unifiée ; aucune nouvelle monnaie n'a été émise, les trois pays restant dans l'UEMOA.",
+     "ed": [
+      "Le Parlement de la Confédération figure parmi les institutions annoncées.",
+      "La Banque confédérale de l'AES figure parmi les institutions annoncées.",
+      null,
+      "La force unifiée de l'AES figure parmi les institutions annoncées."
+     ],
+     "src": {
+      "t": "Sidwaya – De l'Alliance de défense à la construction d'un espace confédéral",
+      "u": "https://www.sidwaya.info/de-lalliance-de-defense-a-la-construction-dun-espace-confederal/"
+     }
+    },
+    {
+     "id": "n20261120-cg08-18",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Combien de temps sépare la signature du traité de l'UEMOA (10 janvier 1994) et l'adhésion de la Guinée-Bissau (2 mai 1997), en années pleines ?",
+     "o": [
+      "1 an",
+      "2 ans",
+      "4 ans",
+      "3 ans"
+     ],
+     "a": 3,
+     "e": "Du 10 janvier 1994 au 10 janvier 1997, il s'écoule 3 années pleines ; le 2 mai 1997 tombe avant le 10 janvier 1998 : la réponse est 3 ans (1997 − 1994).",
+     "ed": [
+      "Une seule année sépare 1994 de 1995, pas de 1997.",
+      "Deux ans mènent à janvier 1996 ; l'adhésion est en mai 1997.",
+      "Quatre ans pleins mèneraient au 10 janvier 1998, après l'adhésion.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia – West African Economic and Monetary Union",
+      "u": "https://en.wikipedia.org/wiki/West_African_Economic_and_Monetary_Union"
+     },
+     "verif": "calcul",
+     "calc": "1997-1994"
+    },
+    {
+     "id": "n20261120-cg08-19",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Lequel de ces pays n'est PAS membre de l'UEMOA ?",
+     "o": [
+      "Le Ghana",
+      "Le Togo",
+      "Le Bénin",
+      "La Guinée-Bissau"
+     ],
+     "a": 0,
+     "e": "L'UEMOA compte huit membres : Bénin, Burkina Faso, Côte d'Ivoire, Guinée-Bissau, Mali, Niger, Sénégal et Togo. Le Ghana n'en fait pas partie.",
+     "ed": [
+      null,
+      "Le Togo est membre de l'UEMOA ; Lomé accueille d'ailleurs la BOAD.",
+      "Le Bénin est l'un des huit membres de l'UEMOA.",
+      "La Guinée-Bissau est membre de l'UEMOA depuis le 2 mai 1997."
+     ],
+     "src": {
+      "t": "FMI – Directory of Economic, Commodity and Development Organizations : UEMOA",
+      "u": "https://www.imf.org/external/np/sec/decdo/uemoa.htm"
+     }
+    },
+    {
+     "id": "n20261120-cg08-20",
+     "m": "cg",
+     "tag": "niv-cg08",
+     "q": "Quel organe est l'organe suprême de l'UEMOA ?",
+     "o": [
+      "La Commission",
+      "La Conférence des chefs d'État et de gouvernement",
+      "La Cour des comptes",
+      "La BRVM"
+     ],
+     "a": 1,
+     "e": "Selon le FMI, l'organe suprême de l'Union est la Conférence des chefs d'État et de gouvernement .",
+     "ed": [
+      "La Commission exécute les décisions ; elle n'est pas l'organe suprême.",
+      null,
+      "La Cour des comptes contrôle les comptes des organes de l'Union.",
+      "La BRVM est la bourse régionale, pas un organe de décision."
+     ],
+     "src": {
+      "t": "FMI – Directory of Economic, Commodity and Development Organizations : UEMOA",
+      "u": "https://www.imf.org/external/np/sec/decdo/uemoa.htm"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261120cm06",
+     "niv": "cm06",
+     "m": "cmc",
+     "titre": "La mondialisation économique : commerce international, OMC, firmes transnationales, dette et aide au développement",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez définir la mondialisation économique, nommer ses acteurs et ses flux, et expliquer les deux grands principes de l'OMC.",
+      "= Vous saurez aussi analyser la dette et l'aide au développement avec des chiffres datés et sourcés, puis bâtir une problématique sur l'Afrique dans la mondialisation.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de connaissance du monde contemporain est une dissertation. Le jury attend trois choses : des définitions exactes, des exemples datés et localisés, un jugement nuancé. En présélection, les QCM portent sur les sigles (OMC, CNUCED, IDE, APD, PPTE), les dates fondatrices et les principes des institutions.",
+      "! Piège habituel : réciter « l'Afrique est exclue de la mondialisation ». C'est faux et le jury le sanctionne. L'Afrique est intégrée, mais de façon inégale et dépendante : c'est cette nuance qu'il faut démontrer.",
+      "## La méthode, pas à pas",
+      "- 1. Définissez chaque mot du sujet : mondialisation, commerce, firme, dette, aide. Une définition fausse fait tomber toute la copie.",
+      "- 2. Lisez le sujet avec la grille des programmes officiels de géographie : des acteurs (États, firmes transnationales, ONG), des flux (marchandises, capitaux, personnes, informations), des réseaux (axes et nœuds).",
+      "- 3. Pour chaque partie, prévoyez un fait daté avec sa source : une date de l'OMC, un chiffre de la CNUCED ou de l'OCDE, un exemple ivoirien.",
+      "- 4. Vérifiez la nature de chaque chiffre : flux ou stock, valeur courante ou « en termes réels », chiffre provisoire ou révisé.",
+      "- 5. Terminez par une ouverture sur l'intégration africaine, qui est la réponse régionale à la mondialisation.",
+      "~ Exemple de mise en œuvre. Sujet : « La mondialisation profite-t-elle à l'Afrique ? ». Étape 1 : définir la mondialisation comme l'intégration des économies et des territoires dans un système à l'échelle de la planète. Étape 2 : repérer les acteurs (États africains, firmes transnationales, bailleurs de fonds). Étape 3 : choisir un fait — la CNUCED relève une hausse de 75 % des IDE vers l'Afrique en 2024, due à un seul grand projet en Égypte. Étape 4 : problématique — l'Afrique gagne-t-elle vraiment, ou seulement quelques territoires ?"
+     ],
+     "fond": [
+      "## Notion 1 : qu'est-ce que la mondialisation économique ?",
+      "Règle : selon les programmes officiels de géographie, la mondialisation est « un processus historique de longue durée » qui met progressivement en relation les différentes parties de l'humanité. Dans sa dimension économique, c'est l'intégration des économies, des hommes et des territoires dans un système à l'échelle de la planète.",
+      "Pourquoi le mot « processus » ? Parce que la mondialisation n'est pas un événement daté : elle avance par étapes. Le candidat doit donc raisonner en évolutions (accélérations, reculs), et non en photographie figée.",
+      "Trois mots structurent toute copie. Les acteurs : les États, les firmes transnationales, certaines organisations non gouvernementales. Les flux : marchandises, capitaux, personnes, informations. Les réseaux : des axes (routes maritimes, câbles) et des nœuds (ports, aéroports, places financières).",
+      "~ Exemple résolu : situer Abidjan dans la mondialisation. Étape 1, l'acteur : l'État ivoirien, qui aménage et gère le port. Étape 2, les flux : le cacao part vers les marchés mondiaux, des biens d'équipement arrivent. Étape 3, le réseau : Abidjan est un nœud portuaire relié à son arrière-pays. Conclusion : Abidjan est un nœud réel de la mondialisation, mais encore surtout exportateur de matières premières.",
+      "! Piège : « mondialisation » et « mondialisme » ne sont pas synonymes. La mondialisation est un processus que l'on constate ; le mondialisme est une doctrine politique qui prône l'unité du monde.",
+      "## Notion 2 : le commerce international et l'OMC",
+      "Règle : l'Accord de Marrakech instituant l'Organisation mondiale du commerce (OMC) a été signé le 15 avril 1994 ; l'OMC est née le 1er janvier 1995. Elle a pris la suite du GATT (Accord général sur les tarifs douaniers et le commerce), un ensemble de règles d'abord temporaires défini par 23 pays. L'OMC compte 166 membres depuis l'adhésion des Comores et du Timor-Leste, approuvée à la treizième conférence ministérielle, conclue à Abou Dhabi le 2 mars 2024.",
+      "Pourquoi des règles communes ? Sans elles, chaque État peut relever ses droits de douane et provoquer des représailles en chaîne. Une règle commune rend le commerce prévisible pour tous.",
+      "- La clause de la nation la plus favorisée (NPF) : tout avantage commercial accordé à un partenaire doit être étendu automatiquement à tous les autres membres. Elle interdit de discriminer entre partenaires étrangers.",
+      "- Le traitement national : il interdit de discriminer entre les produits nationaux et les produits importés, une fois ceux-ci entrés sur le territoire.",
+      "~ Exemple résolu : le pays A, membre de l'OMC, ramène à 5 % son droit de douane sur le riz du pays B. Étape 1 : A et B sont membres. Étape 2 : la clause NPF impose d'étendre l'avantage aux autres membres. Étape 3 : le riz du pays C, également membre, doit aussi entrer à 5 %. Conclusion : A ne peut pas réserver ce taux à B seul, sauf exception prévue par les textes.",
+      "? Un pays applique une TVA de 18 % à l'huile importée et de 9 % à l'huile produite sur place. Quel principe de l'OMC est en cause ? || Le traitement national. Une fois la frontière franchie, le produit importé ne doit pas être traité moins bien que le produit national. Une TVA plus lourde sur l'huile importée est exactement cette discrimination. La clause NPF n'est pas en cause : elle compare les partenaires étrangers entre eux.",
+      "! Piège : l'OMC fonctionne toujours, mais son Organe d'appel, qui juge en second ressort les différends commerciaux, n'a plus assez de membres pour siéger depuis décembre 2019. C'est un exemple précis de la crise du multilatéralisme.",
+      "## Notion 3 : les firmes transnationales et les IDE",
+      "Règle : selon l'Insee, un groupe est un ensemble de sociétés liées entre elles par des participations au capital. Une firme multinationale, ou transnationale (FTN), est un groupe dont la maison mère, au sommet de la pyramide, contrôle au moins une filiale à l'étranger. On parle d'investissement direct étranger (IDE) quand un investisseur détient plus de 10 % du capital d'une entreprise non résidente.",
+      "Pourquoi ce seuil de 10 % ? Il sert à distinguer l'investisseur qui cherche une influence durable sur l'entreprise de celui qui fait un simple placement financier.",
+      "~ Exemple résolu : un groupe marocain achète 8 %, puis 15 % du capital d'une banque installée à Abidjan. Étape 1 : à 8 %, le seuil de 10 % n'est pas atteint ; ce n'est pas un IDE. Étape 2 : à 15 %, le seuil est dépassé ; c'est un IDE. Conclusion : le même investisseur change de catégorie en franchissant 10 %.",
+      "Chiffre clé : selon la CNUCED (communiqué du 19 juin 2025), les IDE mondiaux ont augmenté de 4 % en 2024 pour atteindre 1 500 milliards de dollars. Vers l'Afrique, ils ont augmenté de 75 %, reflet d'un seul grand projet en Égypte ; hors de ce projet, la hausse reste de 12 %.",
+      "? Pourquoi faut-il manier avec prudence la hausse de 75 % des IDE vers l'Afrique en 2024 ? || Parce que la CNUCED précise qu'elle reflète un seul grand projet en Égypte. Hors de ce projet, la hausse n'est que de 12 %. Un chiffre continental peut cacher une forte concentration : demandez-vous toujours quel pays en bénéficie.",
+      "## Notion 4 : la dette des pays en développement",
+      "Règle : un État emprunte quand ses recettes ne couvrent pas ses dépenses et ses investissements. La dette devient un problème quand son service, c'est-à-dire les intérêts et les remboursements, absorbe une part trop lourde des recettes publiques.",
+      "Pourquoi des initiatives d'allègement ? Une dette insoutenable bloque l'investissement public et la lutte contre la pauvreté. Les créanciers ont eux-mêmes intérêt à rétablir la solvabilité du débiteur.",
+      "~ Exemple ivoirien : le 26 juin 2012, le FMI et la Banque mondiale annoncent que la Côte d'Ivoire devient le 33e pays à atteindre le point d'achèvement de l'initiative en faveur des pays pauvres très endettés (PPTE). Calcul de l'allègement : 3,1 milliards de dollars au titre de la PPTE + 1,3 milliard au titre de l'initiative d'allègement de la dette multilatérale (IADM) = 4,4 milliards de dollars. Le processus avait commencé en 2009, quand le pays avait été jugé apte à atteindre le point de décision.",
+      "Plus récemment, le 13 novembre 2020, les ministres des finances du G20 ont approuvé, avec le Club de Paris, un « cadre commun pour le traitement de la dette au-delà de l'ISSD », l'initiative de suspension du service de la dette.",
+      "? Un candidat écrit : « En 2012, la Côte d'Ivoire est entrée dans l'initiative PPTE. » Corrigez. || La phrase est inexacte. Le processus avait commencé en 2009 avec le point de décision. En juin 2012, la Côte d'Ivoire atteint le point d'achèvement, 33e pays à le faire, et c'est alors que l'allègement de 4,4 milliards de dollars (PPTE et IADM) est approuvé.",
+      "## Notion 5 : l'aide publique au développement",
+      "Règle : l'aide publique au développement (APD) est l'aide que les États accordent aux pays en développement. Les Nations unies ont fixé aux donateurs l'objectif d'y consacrer 0,7 % de leur revenu national brut (RNB).",
+      "Faits : selon l'OCDE (16 avril 2025), l'APD des membres du Comité d'aide au développement (CAD) a atteint 212,1 milliards de dollars en 2024, soit 0,33 % de leur RNB : une baisse de 7,1 % en termes réels, la première après cinq années de hausse. En 2025 (communiqué du 9 avril 2026), elle tombe à 174,3 milliards, soit 0,26 % du RNB : un recul de 23,1 % en termes réels, le plus fort jamais enregistré. En 2024 comme en 2025, seuls quatre pays dépassent 0,7 % : le Danemark, le Luxembourg, la Norvège et la Suède.",
+      "~ Exemple résolu de lecture de chiffres : l'OCDE compare 174,3 milliards (2025) à 215,1 milliards (chiffre 2024 révisé). Étape 1 : le rapport simple donne 174,3 ÷ 215,1 ≈ 0,81, soit environ −19 %. Étape 2 : l'OCDE annonce −23,1 % « en termes réels », c'est-à-dire après correction de l'inflation et des taux de change. Étape 3 : les deux chiffres ne se contredisent pas ; ils ne mesurent pas la même chose. Conclusion : citez le chiffre officiel en termes réels.",
+      "! Piège : le chiffre de 2024 a été révisé, de 212,1 à 215,1 milliards de dollars. Citez toujours la source et la date d'un chiffre.",
+      "? L'APD des membres du CAD représente 0,26 % de leur RNB en 2025. De combien de points manque-t-elle l'objectif de 0,7 % ? || 0,7 − 0,26 = 0,44 point de RNB. Autrement dit, l'aide versée représente environ 0,26 ÷ 0,7 ≈ 37 % de l'objectif des Nations unies. Argument utile : entre la promesse et la réalité, l'écart reste très grand.",
+      "## Le débat pour la dissertation",
+      "- Pour : la mondialisation ouvre des marchés aux exportations, attire des IDE et diffuse les techniques.",
+      "- Contre : elle accroît la dépendance aux matières premières ; l'aide recule et le règlement des différends commerciaux est affaibli.",
+      "- Nuance : l'enjeu n'est pas d'entrer dans la mondialisation, mais d'y gagner de la valeur (transformer sur place) et de peser sur ses règles, notamment par l'intégration régionale."
+     ],
+     "retenir": [
+      "L'Accord de Marrakech instituant l'OMC a été signé le 15 avril 1994 ; l'OMC est née le 1er janvier 1995.",
+      "L'OMC compte 166 membres depuis l'adhésion des Comores et du Timor-Leste, approuvée à la conférence ministérielle d'Abou Dhabi en 2024.",
+      "Clause de la nation la plus favorisée : un avantage commercial accordé à un partenaire doit être étendu à tous les autres membres.",
+      "Traitement national : un produit importé ne doit pas être traité moins bien que le produit national équivalent.",
+      "Il y a investissement direct étranger quand un investisseur détient plus de 10 % du capital d'une entreprise non résidente.",
+      "Le 26 juin 2012, la Côte d'Ivoire atteint le point d'achèvement PPTE : 4,4 milliards de dollars d'allègement (PPTE et IADM).",
+      "Objectif fixé par les Nations unies : 0,7 % du RNB pour l'APD ; en 2025, les membres du CAD n'y consacrent que 0,26 %."
+     ],
+     "exo": {
+      "tag": "niv-cm06",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Eduscol – Acteurs, flux, réseaux de la mondialisation (ressource pour la classe)",
+       "u": "https://lettres-histoire.ac-versailles.fr/IMG/pdf/Acteurs_flux_reseaux_de_la_mondialisation.pdf"
+      },
+      {
+       "t": "OMC – 30e anniversaire de la signature de l'Accord de Marrakech",
+       "u": "https://www.wto.org/french/thewto_f/30y_f/30y_f.htm"
+      },
+      {
+       "t": "OMC – Rapport annuel 2025, chapitre 1",
+       "u": "https://www.wto.org/french/res_f/booksp_f/anrep_f/ar25_chap1_f.pdf"
+      },
+      {
+       "t": "Direction générale du Trésor – L'OMC et les règles commerciales multilatérales",
+       "u": "https://www.tresor.economie.gouv.fr/tresor-international/l-omc-et-les-regles-commerciales-multilaterales"
+      },
+      {
+       "t": "Insee – Les entreprises en France, dossier mondialisation (définitions de groupe et d'IDE)",
+       "u": "https://www.insee.fr/fr/statistiques/fichier/1374296/ENTFRA13b_D1_mondialisation.pdf"
+      },
+      {
+       "t": "CNUCED – Communiqué du 19 juin 2025, Rapport sur l'investissement dans le monde 2025",
+       "u": "https://unctad.org/system/files/press-material/pr25006_wir25_global_final_fr.pdf"
+      },
+      {
+       "t": "Abidjan.net – Communiqué FMI n° 12/239 du 26 juin 2012 : allègement de la dette de la Côte d'Ivoire",
+       "u": "https://news.abidjan.net/articles/436164/le-fmi-et-la-banque-mondiale-annoncent-un-allegement-de-plus-de-4-milliards-de-dollars-eu-de-la-dette-de-la-cote-divoire"
+      },
+      {
+       "t": "Club de Paris – Communiqué du 13 novembre 2020 sur le cadre commun pour le traitement de la dette",
+       "u": "https://clubdeparis.org/sites/default/files/node/field_news_files/20201113_cp_issd_cadre_commun.pdf"
+      },
+      {
+       "t": "OCDE – L'aide internationale recule en 2024 pour la première fois en six ans (16 avril 2025)",
+       "u": "https://www.oecd.org/fr/about/news/press-releases/2025/04/official-development-assistance-2024-figures.html"
+      },
+      {
+       "t": "OCDE – L'aide internationale a fortement reculé en 2025 (9 avril 2026)",
+       "u": "https://www.oecd.org/fr/about/news/press-releases/2026/04/international-aid-fell-sharply-in-2025-says-oecd.html"
+      }
+     ]
+    },
+    {
+     "id": "L20261120de05",
+     "niv": "de05",
+     "m": "denf",
+     "titre": "Les droits civils de l'enfant : état civil, nom, nationalité, filiation",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez citer les articles 7 et 8 de la CDE et l'article 6 de la Charte africaine sur l'identité de l'enfant.",
+      "= Vous saurez aussi appliquer le droit ivoirien de l'état civil, du nom, de la nationalité d'origine et de la filiation à un cas pratique, article à l'appui.",
+      "## Ce que demande l'épreuve",
+      "L'épreuve de droits de l'enfant combine dissertation et cas pratique. Sur les droits civils, le cas type décrit un enfant sans acte de naissance, un enfant trouvé, un père qui veut reconnaître ou contester, ou un doute sur la nationalité. Le correcteur attend la règle exacte, son article et son application aux faits.",
+      "! Piège habituel : répondre avec le sens commun (« l'enfant né en Côte d'Ivoire est ivoirien ») au lieu du texte. Le Code de la nationalité ne consacre pas un simple droit du sol : il faut regarder la filiation.",
+      "## La méthode du cas pratique, pas à pas",
+      "- 1. Lisez le sujet deux fois et soulignez les faits utiles : âge, lieu de naissance, situation des parents (mariés ou non), nationalité des parents, existence d'un acte de naissance.",
+      "- 2. Qualifiez les faits en termes juridiques : enfant né dans le mariage ou hors mariage, enfant trouvé, reconnaissance, désaveu.",
+      "- 3. Posez le problème de droit sous forme de question : « L'enfant peut-il… ? », « Le père peut-il… ? ».",
+      "- 4. Énoncez la règle : texte international (CDE, Charte africaine), puis loi ivoirienne avec son article.",
+      "- 5. Appliquez la règle aux faits et concluez clairement par oui ou par non.",
+      "~ Exemple de mise en œuvre. Faits : Koffi, né à Daloa d'une mère ivoirienne et d'un père malien non mariés, n'a été reconnu que par sa mère. Problème : Koffi est-il ivoirien ? Règle : article 6 du Code de la nationalité, l'enfant né hors mariage en Côte d'Ivoire est ivoirien, sauf si sa filiation est établie à l'égard de deux parents étrangers ou d'un seul parent étranger. Application : sa filiation n'est établie qu'à l'égard de sa mère, ivoirienne. Conclusion : Koffi est ivoirien d'origine."
+     ],
+     "fond": [
+      "## Notion 1 : le droit à une identité dans les textes internationaux",
+      "Règle : selon l'article 7 de la Convention relative aux droits de l'enfant (CDE), l'enfant est enregistré aussitôt sa naissance. Il a dès celle-ci le droit à un nom, le droit d'acquérir une nationalité et, dans la mesure du possible, le droit de connaître ses parents et d'être élevé par eux. L'article 8 engage les États à respecter le droit de l'enfant de préserver son identité, y compris sa nationalité, son nom et ses relations familiales, sans ingérence illégale.",
+      "La Charte africaine des droits et du bien-être de l'enfant reprend ces droits en son article 6 : tout enfant a droit à un nom dès sa naissance, est enregistré immédiatement après sa naissance et a le droit d'acquérir une nationalité. Elle ajoute une garantie : les États doivent reconnaître à l'enfant la nationalité de l'État où il est né si, à sa naissance, il ne peut prétendre à aucune autre nationalité.",
+      "Pourquoi ces droits ? Un enfant non enregistré n'existe pas aux yeux de l'administration : il aura du mal à prouver son âge, à s'inscrire aux examens, à obtenir des papiers. L'enregistrement est la porte d'entrée de tous les autres droits.",
+      "~ Exemple résolu : un enfant naît dans un État partie à la Charte de parents apatrides, c'est-à-dire sans aucune nationalité. Étape 1 : texte applicable, article 6, paragraphe 4, de la Charte africaine. Étape 2 : condition, l'enfant ne peut prétendre à aucune autre nationalité à sa naissance. Étape 3 : conséquence, l'État de naissance doit lui reconnaître sa nationalité. Conclusion : la Charte va plus loin que le seul « droit d'acquérir une nationalité » de la CDE.",
+      "? Quelle différence de formulation y a-t-il entre la CDE et la Charte africaine sur le moment de l'enregistrement ? || La CDE (article 7) dit que l'enfant est enregistré « aussitôt sa naissance » ; la Charte (article 6) dit « immédiatement après sa naissance ». Les deux expriment la même exigence de rapidité. La vraie différence est ailleurs : la Charte ajoute, au paragraphe 4, la nationalité de l'État de naissance pour l'enfant qui n'en aurait aucune autre.",
+      "## Notion 2 : l'état civil ivoirien, preuve de l'identité",
+      "Règle : la loi n° 2018-862 du 19 novembre 2018 relative à l'état civil organise la constatation des naissances. Elle prévoit des cas particuliers. Toute personne qui trouve un enfant nouveau-né est tenue d'en faire la déclaration à l'officier ou à l'agent de l'état civil du lieu de la découverte (articles 24 et 46). Un procès-verbal détaillé est dressé et transmis au procureur de la République, et un acte tenant lieu d'acte de naissance est établi.",
+      "Pourquoi un acte « tenant lieu » ? Parce que l'enfant trouvé ne doit pas rester sans existence juridique en attendant de retrouver ses parents. Cet acte est annulé si l'acte de naissance véritable est retrouvé ou si la naissance est déclarée par jugement.",
+      "~ Exemple résolu : un commerçant découvre un nouveau-né devant la gare de Bouaké. Étape 1 : qualification, enfant nouveau-né trouvé. Étape 2 : règle, articles 24 et 46 de la loi de 2018. Étape 3 : le commerçant déclare la découverte à l'officier ou à l'agent de l'état civil de Bouaké, lieu de la découverte. Étape 4 : un procès-verbal part au procureur et un acte tenant lieu d'acte de naissance est dressé. Conclusion : l'enfant reçoit immédiatement une identité juridique.",
+      "! Exception à connaître : pour un enfant né à bord d'un navire ou d'un aéronef immatriculé en Côte d'Ivoire, l'acte est dressé dans les 48 heures de l'accouchement, sur la déclaration de la mère ou du père (article 49).",
+      "## Notion 3 : la filiation, lien juridique avec les parents",
+      "Règle pour l'enfant né dans le mariage : l'enfant conçu pendant le mariage, ou né moins de 300 jours après sa dissolution, a pour père le mari de sa mère (article 2 de la loi n° 2019-571 du 26 juin 2019 relative à la filiation). C'est la présomption de paternité. La filiation se prouve par l'acte de naissance ; à défaut, la possession d'état suffit (article 9). La possession d'état résulte de faits : l'enfant a porté le nom du père, celui-ci l'a traité comme son enfant et a pourvu à son éducation, la société et la famille le reconnaissent pour tel (article 10).",
+      "Pourquoi une présomption ? Elle évite d'avoir à prouver la paternité de chaque enfant d'un couple marié. Mais elle peut être combattue : le mari peut désavouer l'enfant s'il prouve l'impossibilité physique de cohabiter pendant la période de conception, ou si la science médicale établit qu'il ne peut être le père (article 4). Il doit agir dans les deux mois de la naissance, ou de la découverte de la naissance si elle lui a été cachée (article 6).",
+      "Règle pour l'enfant né hors mariage : la filiation à l'égard de la mère résulte du seul fait de la naissance ; à l'égard du père, elle ne peut résulter que d'une reconnaissance ou d'un jugement (article 19). La reconnaissance se fait dans l'acte de naissance ou par acte authentique (article 20). Le père marié qui reconnaît un enfant né d'une relation hors mariage doit d'abord en informer son épouse par acte de commissaire de justice, à peine de nullité (article 22). L'action en recherche de paternité n'appartient qu'à l'enfant ; pendant sa minorité, seule la mère, même mineure, peut l'intenter (article 26).",
+      "? Moussa, marié, apprend le 2 mars qu'un enfant né le 10 novembre précédent lui a été caché. Il pense ne pas en être le père. Jusqu'à quand peut-il agir en désaveu ? || Article 6 de la loi de 2019 : le délai est de deux mois. Comme la naissance lui a été cachée, le délai court du jour de la découverte, le 2 mars, et non du jour de la naissance. Moussa peut donc agir jusqu'au 2 mai. Il devra prouver l'un des cas de l'article 4 : impossibilité physique de cohabiter ou preuve scientifique.",
+      "! Piège : l'article 22 exige l'information de l'épouse, pas son consentement. Une copie qui écrit « il faut l'accord de l'épouse » commet une erreur.",
+      "## Notion 4 : le nom de l'enfant",
+      "Règle : selon l'article 3 de la loi n° 2020-490 du 29 mai 2020 relative au nom, lorsque la filiation est établie en même temps à l'égard des deux parents, l'enfant porte le nom du père, auquel est ajouté le nom de la mère si celle-ci le demande. L'enfant qui ne porte que le nom de son père peut demander l'ajout du nom de sa mère. Lorsque la filiation est établie en second lieu à l'égard du père, le nom de celui-ci est, à sa demande, ajouté au nom de la mère, après consentement de la mère.",
+      "Pourquoi cette réforme ? Le Conseil des ministres du 27 novembre 2019 l'a présentée comme une application du principe d'égalité entre l'homme et la femme : la mère peut faire adjoindre son nom à celui du père, et l'enfant peut porter un nom double.",
+      "~ Exemple résolu : Aya, née hors mariage, porte le nom de sa mère, Kouassi. Deux ans plus tard, son père, M. Yao, la reconnaît et demande qu'elle porte son nom. Étape 1 : la filiation paternelle est établie en second lieu. Étape 2 : article 3, le nom du père est ajouté au nom de la mère, à la demande du père et après consentement de la mère. Conclusion : avec l'accord de Mme Kouassi, Aya portera les deux noms ; le nom de sa mère ne disparaît pas.",
+      "? Un enfant né dans le mariage porte seulement le nom de son père. Devenu adolescent, il souhaite porter aussi le nom de sa mère. Est-ce possible ? || Oui. L'article 3 de la loi de 2020 prévoit que l'enfant qui ne porte que le nom de son père peut demander que le nom de sa mère y soit ajouté. C'est une application de l'égalité entre les deux parents.",
+      "## Notion 5 : la nationalité d'origine",
+      "Règle : selon les articles 6 et 7 du Code de la nationalité (loi n° 61-415 du 14 décembre 1961, modifiée par la loi n° 72-852 du 21 décembre 1972), est ivoirien l'enfant légitime né en Côte d'Ivoire, sauf si ses deux parents sont étrangers. L'enfant né hors mariage en Côte d'Ivoire est ivoirien, sauf si sa filiation est établie à l'égard de deux parents étrangers, ou d'un seul parent également étranger. Né à l'étranger, l'enfant est ivoirien s'il a un parent ivoirien (légitime) ou si sa filiation est légalement établie à l'égard d'un parent ivoirien (hors mariage).",
+      "Pourquoi tout dépend de la filiation ? L'article 9 précise que la naissance ou la filiation ne produit effet en matière de nationalité que si elle est établie selon la loi civile ivoirienne. Et l'article 8 ajoute que l'enfant ivoirien en vertu de ces règles est réputé l'avoir été dès sa naissance.",
+      "? Fatou naît à Paris, en France, de parents mariés : sa mère est ivoirienne, son père sénégalais. Est-elle ivoirienne d'origine ? || Oui. Article 7 du Code de la nationalité : est ivoirien l'enfant légitime né à l'étranger d'un parent ivoirien. Un seul parent ivoirien suffit. Le lieu de naissance à l'étranger et la nationalité étrangère du père ne l'empêchent pas.",
+      "! Piège : l'enfant légitime né à Abidjan de deux parents étrangers n'est pas ivoirien d'origine. Le Code ne consacre pas un droit du sol automatique."
+     ],
+     "retenir": [
+      "CDE, article 7 : l'enfant est enregistré aussitôt sa naissance et a droit à un nom et à acquérir une nationalité.",
+      "Charte africaine, article 6 : l'enfant sans autre nationalité possible doit recevoir celle de l'État où il est né.",
+      "Qui trouve un nouveau-né doit le déclarer à l'officier ou à l'agent de l'état civil du lieu de la découverte (loi de 2018, articles 24 et 46).",
+      "Présomption de paternité : l'enfant conçu pendant le mariage ou né moins de 300 jours après sa dissolution a pour père le mari (loi de 2019, article 2).",
+      "Le mari qui veut désavouer l'enfant doit agir dans les deux mois de la naissance ou de sa découverte (article 6).",
+      "Hors mariage, la filiation maternelle résulte de la naissance ; la filiation paternelle, d'une reconnaissance ou d'un jugement (article 19).",
+      "Filiation établie en même temps envers les deux parents : l'enfant porte le nom du père, et celui de la mère si elle le demande (loi de 2020, article 3).",
+      "Est ivoirien l'enfant légitime né en Côte d'Ivoire, sauf si ses deux parents sont étrangers (Code de la nationalité, article 6)."
+     ],
+     "exo": {
+      "tag": "niv-de05",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Le Petit Juriste – La fiche méthode du cas pratique",
+       "u": "https://www.lepetitjuriste.fr/la-fiche-methode-du-cas-pratique/"
+      },
+      {
+       "t": "UNICEF – Texte de la Convention relative aux droits de l'enfant",
+       "u": "https://www.unicef.org/fr/convention-droits-enfant/texte-convention"
+      },
+      {
+       "t": "Union africaine – Charte africaine des droits et du bien-être de l'enfant (texte français)",
+       "u": "https://au.int/sites/default/files/pages/32903-file-african_charter_on_the_rights_welfare_of_the_child_french.pdf"
+      },
+      {
+       "t": "Loidici – Nouveau-né trouvé : articles 24 et 46 de la loi n° 2018-862 relative à l'état civil",
+       "u": "https://loidici.biz/?p=27438"
+      },
+      {
+       "t": "Loidici – Naissance pendant un voyage aérien ou maritime : article 49 de la loi n° 2018-862",
+       "u": "https://loidici.biz/?p=27453"
+      },
+      {
+       "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 1 : enfants nés dans le mariage",
+       "u": "https://loidici.biz/2019/08/16/chapitre-1-de-la-filiation-des-enfants-dans-le-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+      },
+      {
+       "t": "Loidici – Loi n° 2019-571 relative à la filiation, chapitre 2 : enfants nés hors mariage",
+       "u": "https://loidici.biz/2019/08/16/chapitre-2-de-la-filiation-des-enfants-nes-hors-mariage-2019/lois-article-par-article/droit-des-personnes/la-paternite-et-la-filiation/"
+      },
+      {
+       "t": "Loidici – Les faits qui établissent la possession d'état (art. 10 de la loi n° 2019-571)",
+       "u": "https://loidici.biz/?p=26784"
+      },
+      {
+       "t": "Loidici – Nom de l'enfant né hors mariage reconnu par le père (art. 3 de la loi n° 2020-490 relative au nom)",
+       "u": "https://loidici.biz/?p=26685"
+      },
+      {
+       "t": "Gouvernement de Côte d'Ivoire – Communiqué du Conseil des ministres du 27 novembre 2019 (projet de loi relatif au nom)",
+       "u": "https://www.gouv.ci/uploads/publications/1574887549Communique-du-Conseil-des-Ministres-du-mercredi-27-novembre-2019.pdf"
+      },
+      {
+       "t": "Loidici – Code de la nationalité ivoirienne, Titre II : nationalité d'origine (art. 6 à 10)",
+       "u": "https://loidici.biz/?p=202"
+      },
+      {
+       "t": "Loidici – Qui peut être considéré comme ivoirien à la naissance ? (art. 6 à 8)",
+       "u": "https://loidici.biz/?p=50436"
+      }
+     ]
+    },
+    {
+     "id": "L20261120cg08",
+     "niv": "cg08",
+     "m": "cg",
+     "titre": "Afrique de l'Ouest : CEDEAO, UEMOA, AES — membres, sièges, dates, institutions",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez distinguer les trois organisations ouest-africaines par leur objet, leurs dates fondatrices, leurs membres et le siège de leurs institutions.",
+      "= Vous saurez aussi éviter les confusions classiques de QCM : une institution attribuée à la mauvaise organisation, un siège déplacé, une date d'annonce prise pour une date d'effet.",
+      "## Ce que demande l'épreuve",
+      "En culture générale, les QCM sur l'Afrique de l'Ouest portent sur les sièges, les dates, les sigles et les membres. La difficulté n'est pas la quantité de faits mais leur ressemblance : trois organisations, des villes voisines, des dates proches. Avec le barème négatif, une confusion coûte un point.",
+      "! Piège habituel : croire que les trois pays de l'AES, en quittant la CEDEAO, ont aussi quitté l'UEMOA et le franc CFA. Ils sont toujours membres de l'UEMOA.",
+      "## La méthode de mémorisation, pas à pas",
+      "- 1. Classez chaque fait dans un tableau à trois colonnes (CEDEAO, UEMOA, AES) et quatre lignes : objet, date et lieu de création, membres, sièges.",
+      "- 2. Associez chaque organisation à une idée simple : CEDEAO, l'intégration économique de toute la région ; UEMOA, la monnaie commune et le marché commun ; AES, d'abord la défense collective.",
+      "- 3. Testez-vous au lieu de relire : la recherche montre que se tester mémorise mieux que relire passivement.",
+      "- 4. Espacez les révisions : J+1, J+3, J+7, puis J+21, pour contrer la courbe de l'oubli.",
+      "- 5. Le jour du concours, si deux réponses restent possibles et que vous ne savez pas trancher, abstenez-vous : une réponse fausse coûte un point.",
+      "~ Exemple de mise en œuvre : question « Où se trouve le siège de la BOAD ? ». Étape 1 : la BOAD est la banque de développement de l'UEMOA, donc colonne UEMOA. Étape 2 : ligne « sièges » du tableau : Commission à Ouagadougou, BCEAO à Dakar, BOAD à Lomé, BRVM à Abidjan. Étape 3 : réponse, Lomé. Vérification : la BIDC, banque de la CEDEAO, est aussi à Lomé ; ne confondez pas les deux banques, mais la ville est la même."
+     ],
+     "fond": [
+      "## Notion 1 : la CEDEAO, l'intégration de toute l'Afrique de l'Ouest",
+      "Règle : la Communauté économique des États de l'Afrique de l'Ouest (CEDEAO) a été créée par le traité de Lagos du 28 mai 1975. Ce traité a été révisé à Cotonou le 24 juillet 1993. Le siège de la CEDEAO, et de sa Commission, se trouve à Abuja, au Nigeria.",
+      "Pourquoi retenir le traité révisé ? Parce que c'est lui qui organise aujourd'hui la Communauté : ses articles 6 à 24 sont consacrés aux institutions et à leurs fonctions, dont un Parlement de la Communauté.",
+      "Ses institutions principales sont : la Conférence des chefs d'État et de gouvernement, le Conseil des ministres, le Parlement, le Conseil économique et social, la Cour de justice, la Commission, la Banque d'investissement et de développement de la CEDEAO (BIDC), dont le siège est à Lomé, et l'Organisation ouest-africaine de la santé (OOAS), créée en 1987, dont le siège est à Bobo-Dioulasso, au Burkina Faso.",
+      "~ Exemple résolu : un QCM demande « Quelle institution de la CEDEAO siège à Bobo-Dioulasso ? ». Étape 1 : Bobo-Dioulasso est au Burkina Faso, mais la question porte sur la CEDEAO. Étape 2 : parmi les institutions de la CEDEAO, une seule a son siège dans cette ville : l'OOAS. Étape 3 : écartez la Commission de l'UEMOA, qui est à Ouagadougou, autre ville burkinabè. Réponse : l'OOAS.",
+      "La Cour de justice de la Communauté est prévue par les articles 6 et 15 du traité révisé. Son organisation est fixée par le protocole du 6 juillet 1991, complété par le protocole additionnel du 19 janvier 2005. Elle comprend cinq juges indépendants, nommés pour quatre ans.",
+      "? Combien de juges compte la Cour de justice de la CEDEAO, et pour quelle durée sont-ils nommés ? || Cinq juges indépendants, pour un mandat de quatre ans. Astuce : « 5 juges, 4 ans » ; ne confondez pas avec les 1991 et 2005 de ses protocoles, qui sont des dates de textes.",
+      "## Notion 2 : la libre circulation, acquis majeur de la CEDEAO",
+      "Règle : le protocole sur la libre circulation des personnes, le droit de résidence et d'établissement a été signé à Dakar le 29 mai 1979. Un protocole additionnel, signé à Abuja le 1er juillet 1986, met en œuvre la deuxième étape : le droit de résidence, qui permet au citoyen de la Communauté de résider dans un autre État membre pour y accéder à un emploi salarié et l'exercer.",
+      "Pourquoi par étapes ? Le titre du protocole de 1979 annonce trois volets : la circulation, la résidence et l'établissement. Le protocole de 1986 met en œuvre le deuxième, la résidence : on ne passe pas d'un coup de l'entrée à l'installation durable.",
+      "! Piège : le droit de résidence n'est pas absolu. Le protocole de 1986 le soumet aux limitations justifiées par l'ordre public, notamment.",
+      "## Notion 3 : l'UEMOA, la monnaie commune et le marché commun",
+      "Règle : l'Union économique et monétaire ouest-africaine (UEMOA) a été créée par un traité signé à Dakar le 10 janvier 1994. Le 2 mai 1997, la Guinée-Bissau en devient le huitième membre. Les huit membres sont : Bénin, Burkina Faso, Côte d'Ivoire, Guinée-Bissau, Mali, Niger, Sénégal et Togo.",
+      "Ses organes et institutions ont des sièges à bien retenir. La Conférence des chefs d'État et de gouvernement est l'organe suprême. La Commission, la Cour de justice et la Cour des comptes siègent à Ouagadougou. La Banque centrale des États de l'Afrique de l'Ouest (BCEAO) est à Dakar, la Banque ouest-africaine de développement (BOAD) à Lomé.",
+      "Le marché financier régional a son cœur à Abidjan : la Bourse régionale des valeurs mobilières (BRVM), créée sous forme de société anonyme le 18 décembre 1996, a démarré ses activités le 18 septembre 1998. Elle est commune aux huit pays de l'UEMOA et son siège est à Abidjan. Elle agit avec le Dépositaire central/Banque de règlement (DC/BR) et l'Autorité des marchés financiers.",
+      "~ Exemple résolu : calculer l'âge de la BRVM au jour de ses premières activités. Étape 1 : création le 18 décembre 1996. Étape 2 : démarrage le 18 septembre 1998. Étape 3 : du 18 décembre 1996 au 18 décembre 1997, un an ; du 18 décembre 1997 au 18 septembre 1998, neuf mois. Conclusion : un an et neuf mois séparent la création du démarrage. Moralité : la date de création n'est pas la date de démarrage.",
+      "? Classez par ville : Commission de l'UEMOA, BCEAO, BOAD, BRVM, BIDC. || Ouagadougou : Commission de l'UEMOA. Dakar : BCEAO. Lomé : BOAD (UEMOA) et BIDC (CEDEAO). Abidjan : BRVM. Lomé accueille donc deux banques de développement, une par organisation.",
+      "## Notion 4 : l'Alliance des États du Sahel (AES)",
+      "Règle : le 16 septembre 2023, le Burkina Faso, le Mali et le Niger signent la Charte du Liptako-Gourma instituant l'Alliance des États du Sahel. Son objectif (article 2) est d'établir une architecture de défense collective et d'assistance mutuelle. Selon l'article 6, toute atteinte à la souveraineté ou à l'intégrité du territoire d'une partie est considérée comme une agression contre les autres et engage un devoir d'assistance, y compris par l'emploi de la force armée.",
+      "Le 6 juillet 2024, à Niamey, le premier sommet des chefs d'État de l'AES décide la création de la Confédération « Alliance des États du Sahel ». La Déclaration de Niamey prévoit des instruments de financement propres et des mécanismes de libre circulation des personnes, des biens et des services. Parmi les institutions confédérales figurent un Parlement, une Banque confédérale et une force unifiée.",
+      "Comment l'AES a-t-elle quitté la CEDEAO ? Les trois États annoncent leur retrait le 28 janvier 2024. Le retrait est acté par les chefs d'État de la CEDEAO lors de leur session du 15 décembre 2024 et prend effet le 29 janvier 2025.",
+      "~ Exemple résolu : un QCM demande « En quelle année les pays de l'AES ont-ils quitté la CEDEAO ? » avec les options 2023, 2024, 2025, 2026. Étape 1 : distinguer annonce (28 janvier 2024) et effet (29 janvier 2025). Étape 2 : « ont quitté » vise le départ effectif. Réponse : 2025. Le piège est 2024, année de l'annonce.",
+      "? Vrai ou faux : « Depuis son retrait de la CEDEAO, le Niger ne fait plus partie d'aucune organisation régionale à monnaie commune. » || Faux. Le Burkina Faso, le Mali et le Niger sont toujours membres de l'UEMOA. Seuls leurs échanges avec les pays de la CEDEAO qui n'appartiennent pas à l'UEMOA sont affectés par leur retrait.",
+      "! Piège : ne confondez pas la Charte du Liptako-Gourma (16 septembre 2023, alliance de défense) et la Confédération (6 juillet 2024, Niamey). L'une crée l'Alliance, l'autre la transforme en confédération."
+     ],
+     "retenir": [
+      "La CEDEAO a été créée par le traité de Lagos du 28 mai 1975, révisé à Cotonou le 24 juillet 1993 ; siège à Abuja.",
+      "La BIDC, banque de la CEDEAO, siège à Lomé ; l'OOAS, créée en 1987, siège à Bobo-Dioulasso.",
+      "Le protocole de la CEDEAO sur la libre circulation des personnes a été signé à Dakar le 29 mai 1979.",
+      "L'UEMOA a été créée à Dakar le 10 janvier 1994 ; sa Commission, sa Cour de justice et sa Cour des comptes siègent à Ouagadougou.",
+      "BCEAO à Dakar, BOAD à Lomé, BRVM à Abidjan : la BRVM a démarré ses activités le 18 septembre 1998.",
+      "La Charte du Liptako-Gourma, signée le 16 septembre 2023 par le Burkina Faso, le Mali et le Niger, institue l'AES.",
+      "Retrait de l'AES de la CEDEAO : annoncé le 28 janvier 2024, effectif le 29 janvier 2025 ; les trois pays restent dans l'UEMOA."
+     ],
+     "exo": {
+      "tag": "niv-cg08",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Académie de Normandie – Fiche enseignant : comment apprendre efficacement (mémorisation active)",
+       "u": "https://lettres.ac-normandie.fr/IMG/pdf/fiche_enseignant_comment_apprendre_efficacement.pdf"
+      },
+      {
+       "t": "Le360 Afrique – CEDEAO : objectifs et principales institutions (27 février 2017)",
+       "u": "https://afrique.le360.ma/maroc-mauritanie-cote-divoire-senegal-guinee-mali-gabon/politique/2017/02/27/10006-cedeao-objectifs-et-principales-institutions/"
+      },
+      {
+       "t": "CEDEAO – Commission, nous contacter (siège à Abuja)",
+       "u": "https://www.ecowas.int/commission-contact-us/"
+      },
+      {
+       "t": "Vie-publique.sn – Traité révisé de la CEDEAO (Cotonou, 24 juillet 1993)",
+       "u": "https://www.vie-publique.sn/documents/6259/traite-revise-de-la-communaute-econ-mique-des-etats-de-l-afrique-de-l-ouest-cedeao-6259"
+      },
+      {
+       "t": "CEDEAO – Cour de justice de la Communauté",
+       "u": "https://www.ecowas.int/institutions/community-court-of-justice/?lang=fr"
+      },
+      {
+       "t": "HCR – Protocole additionnel de la CEDEAO relatif au droit de résidence (Abuja, 1er juillet 1986)",
+       "u": "https://www.unhcr.org/sites/default/files/legacy-pdf/4b151cc13e.pdf"
+      },
+      {
+       "t": "Wikipedia – West African Economic and Monetary Union",
+       "u": "https://en.wikipedia.org/wiki/West_African_Economic_and_Monetary_Union"
+      },
+      {
+       "t": "FMI – Directory of Economic, Commodity and Development Organizations : UEMOA",
+       "u": "https://www.imf.org/external/np/sec/decdo/uemoa.htm"
+      },
+      {
+       "t": "Économie ivoirienne – Présentation de la Bourse régionale des valeurs mobilières",
+       "u": "https://economie-ivoirienne.ci/banques-et-finances/presentation-de-la-bourse-regionale-des-valeurs-mobilieres.html"
+      },
+      {
+       "t": "Digithèque MJP – Charte du Liptako-Gourma instituant l'Alliance des États du Sahel (16 septembre 2023)",
+       "u": "https://mjp.univ-perp.fr/constit/sahel2023.htm"
+      },
+      {
+       "t": "Burkina24 – Déclaration de Niamey du 6 juillet 2024",
+       "u": "https://burkina24.com/wp-content/uploads/2024/07/Declaration-de-Niamey-060724s.pdf"
+      },
+      {
+       "t": "Sidwaya – De l'Alliance de défense à la construction d'un espace confédéral",
+       "u": "https://www.sidwaya.info/de-lalliance-de-defense-a-la-construction-dun-espace-confederal/"
+      },
+      {
+       "t": "FMES – L'AES et la CEDEAO (mars 2025)",
+       "u": "https://fmes-france.org/wp-content/uploads/2025/03/article-niagale-fmes-aes-cedeao.pdf"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "cmc",
+     "src": "original",
+     "ref": "Entraînement · 20 nov. 2026",
+     "t": "« La mondialisation économique ne profite à l'Afrique de l'Ouest que si elle s'organise collectivement pour y peser. » Commentez et discutez cette affirmation.",
+     "plan": [
+      "Introduction : définir la mondialisation (intégration des économies et des territoires à l'échelle mondiale) et l'organisation collective (CEDEAO, UEMOA) ; problématique : l'intégration régionale est-elle la condition du gain ?",
+      "I. Une mondialisation qui apporte des ressources mais crée des dépendances : A. IDE et accès aux marchés (IDE vers l'Afrique +75 % en 2024 selon la CNUCED, mais grâce à un seul projet égyptien) ; B. dette et aide fragiles (PPTE ivoirien de 2012 : 4,4 milliards de dollars d'allègement ; APD en recul de 23,1 % en 2025 selon l'OCDE).",
+      "II. S'organiser collectivement pour peser : A. des règles communes protègent les petits États (clause NPF et traitement national à l'OMC, mais Organe d'appel paralysé depuis décembre 2019) ; B. les outils régionaux (BRVM à Abidjan, BOAD, libre circulation de la CEDEAO depuis 1979).",
+      "III. Mais l'organisation collective ne suffit pas et se fragilise : retrait effectif de l'AES de la CEDEAO le 29 janvier 2025 ; nécessité de transformer sur place et de bonnes politiques nationales.",
+      "Conclusion : l'organisation collective est nécessaire mais non suffisante ; ouverture sur la ZLECAf comme changement d'échelle."
+     ]
+    }
+   ]
   }
  ]
 }
