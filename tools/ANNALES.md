@@ -19,6 +19,8 @@ Objectif : 20 questions par niveau. Choisis **3 niveaux** déjà pourvus d'une l
 ## 3. Enrichir une leçon déjà publiée
 Chaque jour, choisis **une** leçon déjà publiée (de préférence un niveau que l'utilisateur est en train de travailler : les premiers niveaux non terminés des matières de l'ENA) et republie-la enrichie, avec le même `id`, le même `niv` et un `"rev"` supérieur (voir GENERATION.md) : explications plus détaillées, plus claires et plus faciles à comprendre, nouveaux exemples et nouveaux exercices (jamais déjà utilisés ailleurs), appui sur les anciens sujets et sur les liens à suivre. Garde les faits vérifiés de l'ancienne version et n'en ajoute que de vérifiés.
 
+Pour cet enrichissement, applique la section « Apprendre pour retenir le jour de l'épreuve » de GENERATION.md (moyens de mémorisation, exemples résolus, « À retenir » testables, pièges récurrents, gestion du barème pour la présélection).
+
 ## 4. Liens à suivre
 Applique la section « Liens à suivre » de GENERATION.md : visite les liens du document et sers-t'en pour les anciens sujets, les compléments et l'enrichissement.
 

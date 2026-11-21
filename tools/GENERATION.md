@@ -73,6 +73,18 @@ Une leçon doit permettre à un candidat qui découvre la notion, quel que soit 
 
 **Seuils contrôlés par `tools/validate.py`** (une leçon en dessous est refusée) : `tech` 150 mots au moins avec au moins une ligne `= `, `fond` 450 mots au moins, 2 exemples `~ ` et 3 exercices `? … || …` au moins, `retenir` de 5 à 8 points, 20 questions au moins par nouveau niveau (10 avant le 6 novembre 2026), `e` de 60 caractères au moins et `ed` présent sur chaque question nouvelle.
 
+## Apprendre pour retenir le jour de l'épreuve (à chaque production)
+Le but n'est pas qu'une leçon soit lue, mais que son contenu soit **retrouvé sans aide le jour de l'épreuve de l'étape en cours**. À chaque nuit :
+1. **Recherche** (WebSearch, WebFetch) les approches pédagogiques les mieux établies pour mémoriser durablement et pour réussir le type d'épreuve concerné (QCM chronométré pour la présélection, dissertation et résumé pour les écrits, entretien pour l'oral) : travaux de psychologie cognitive, guides universitaires, rapports de jury, méthodes des préparations reconnues. Ne retiens que ce qu'une source réellement lue confirme, et cite-la dans `sources`. Repères connus à vérifier et à approfondir : récupération active (se tester plutôt que relire), répétition espacée, alternance des types d'exercices, exemples résolus pas à pas, explication du « pourquoi », double codage (texte et schéma ou tableau) ; voir par exemple la revue de Dunlosky et al., « Improving Students' Learning With Effective Learning Techniques » (2013).
+2. **Applique-les dans chaque leçon**, en plus du standard pédagogique :
+   - un **moyen de mémorisation** pour chaque notion difficile (formule, phrase-clé, acronyme, tableau de comparaison), signalé par `> Pour retenir : …` ;
+   - au moins un **exemple résolu pas à pas** (`~ `) avant les exercices, puis des exercices (`? … || …`) de difficulté croissante et de types alternés ;
+   - des « À retenir » rédigés comme des **réponses à retrouver** (courts, précis, testables), car ce sont eux qu'interrogent les rappels espacés ;
+   - pour la présélection, la **gestion du temps et du barème** (+1 / 0 / −1) dans les exercices et les questions : quand répondre, quand s'abstenir ;
+   - les **pièges récurrents** des épreuves (d'après les anciens sujets et les rapports lus), avec la façon de les éviter.
+3. **Questions** : formule-les pour obliger à retrouver la notion (cas concret, application, distinction entre notions proches), pas seulement à la reconnaître ; l'explication `e` rappelle la règle ou le moyen mémotechnique de la leçon.
+4. **Améliore la méthode d'une nuit sur l'autre** : si une approche nouvelle et mieux étayée est trouvée, applique-la aux leçons du jour et signale-la dans ta réponse finale ; la tâche de l'après-midi l'appliquera aux leçons déjà publiées.
+
 ## Méthodes de cours et anciens sujets
 - **Avant d'écrire une leçon**, recherche (WebSearch, WebFetch) comment la notion est le mieux enseignée : guides méthodologiques officiels ou universitaires, rapports de jury, manuels de préparation reconnus. Retiens la démarche la plus claire et la plus applicable le jour du concours, et cite les pages réellement lues dans `sources`. Ne recopie aucun passage : reformule.
 - **Anciens sujets** : lis les sujets `"src": "officiel"` de la matière (ceux des packs `content/AAAA-MM.json` ; `content/annales_index.json` liste les fichiers déjà traités). Ils viennent des anciens sujets ENA déposés par l'administrateur (voir `tools/ANNALES.md`). Pour la leçon du niveau :
