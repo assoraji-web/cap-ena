@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "v21 du 10/11/2026";
+const APP_VERSION = "v22 du 21/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1749,7 +1749,7 @@ const ROT = "rot-ecrit";
 const isEcritTrack = (k)=> !!(TRACKS[k] && TRACKS[k].ecrit && EPREUVES[TRACKS[k].ecrit]);
 function rotTracks(){
   const pri = ["ct","sog"], rk = (k)=> pri.includes(k) ? pri.indexOf(k) : 9, pk = (k)=> PROGRAMME.findIndex(t=>t.k===k);
-  const all = activeTracks().filter(isEcritTrack).sort((a,b)=>rk(a)-rk(b) || pk(a)-pk(b));
+  const all = focusTracks().filter(isEcritTrack).sort((a,b)=>rk(a)-rk(b) || pk(a)-pk(b));
   const open = all.filter(k=>currentLevel(k));
   return open.length ? open : all;
 }
@@ -1857,7 +1857,7 @@ const relearn = (id)=> !!lvState(id).relearn;
 const revPool = (lv)=> lv.last ? [] : poolOf(lv);
 // niveaux dont le rappel est dû (matières des concours choisis)
 function dueLevels(k){
-  const act = activeTracks(), td = today();
+  const act = focusTracks(), td = today();
   return LEVELS.filter(lv=>(k ? lv.track===k : act.includes(lv.track)) && isValid(lv.id) && !relearn(lv.id) && lv.track!=="oral" && revPool(lv).length >= REV_Q)
     .filter(lv=>{ const r = revOf(lv.id); return r && r.due <= td; })
     .sort((a,b)=>revOf(a.id).due.localeCompare(revOf(b.id).due) || a.idx-b.idx);
@@ -2761,7 +2761,7 @@ function vAnalyses(){
 function remedNiveaux(){
   const out = [];
   for (const lv of LEVELS){
-    if (lv.last || !activeTracks().includes(lv.track)) continue;
+    if (lv.last || !focusTracks().includes(lv.track)) continue;
     const l = lessonOf(lv); if (!l || !l.exo || !l.exo.tag) continue;
     const qs = allQ().filter(q=>q.tag===l.exo.tag && state.wrong[q.id] > 0);
     if (qs.length) out.push({lv, l, qs, n: qs.reduce((a,q)=>a+state.wrong[q.id],0)});
@@ -2859,6 +2859,55 @@ function anticipCard(){
         done ? null : h("button",{class:"btn small primary",type:"button",onclick:()=>{ anticip = dm; toast("Séance de demain : elle sera comptée pour le " + frDate(dm) + "."); runSlot(s); }},"Faire maintenant")); })));
 }
 
+// ---------- Préparation par étape (concours ENA) ----------
+// L'échec à une étape élimine pour la suivante : on prépare d'abord la présélection (QCM), puis, dès le lendemain
+// de la présélection, les écrits d'admissibilité, puis l'oral. Dates : calendrier 2026 reporté d'un an (même jour de
+// la semaine), remplacé par la date officielle dès que la veille la publie. Les autres matières restent consultables.
+const ETAPES_ENA = [
+  {id:"presel", lbl:"Présélection (QCM)", court:"la présélection", a:"à la présélection", fin:"ena-presel", tracks:["fr","cg","ang","log"]},
+  {id:"ecrits", lbl:"Écrits d'admissibilité", court:"les écrits", a:"aux écrits", fin:"ena-ecritsf", tracks:null},
+  {id:"oral", lbl:"Oral d'admission", court:"l'oral", a:"à l'oral", fin:"ena-result", tracks:["oral","cg"]}
+];
+function etapeCourante(){
+  if (state.parEtapes === false) return null;
+  const c = concoursById(state.concoursPrin); if (!c || c.org !== "ENA") return null;
+  const td = today();
+  for (const e of ETAPES_ENA){ const d = echDate(e.fin); if (td <= d.d) return Object.assign({}, e, {date:d, c}); }
+  return null;
+}
+function etapeTracks(e){
+  const act = activeTracks();
+  if (!e) return act;
+  let t = e.tracks;
+  if (!t){ const ep = e.c.epreuves.filter(x=>!/présélection|oral/i.test(x[0])); t = ep.flatMap(x=>x[2]); }
+  const f = act.filter(k=>t.includes(k));
+  return f.length ? f : act;
+}
+function focusTracks(){ return etapeTracks(etapeCourante()); }
+let etapeNotice = null;
+// Au passage d'une étape à la suivante : emploi du temps adapté, message affiché une fois
+function checkEtape(){
+  const e = etapeCourante(), id = e ? e.id : "aucune";
+  if (state.etapeVue === id) return;
+  const premiere = state.etapeVue === undefined;
+  if (state.onboarded){ processMissed(); state.planning = buildPlanning(); }
+  if (e || !premiere) etapeNotice = {e, premiere};
+  state.etapeVue = id; save();
+}
+function etapeCard(){
+  const e = etapeCourante(); if (!e) return null;
+  const j = Math.round((parseYmd(e.date.d) - parseYmd(today()))/86400000);
+  const idx = ETAPES_ENA.findIndex(x=>x.id===e.id), suiv = ETAPES_ENA[idx+1];
+  const mats = focusTracks().map(k=>TRACKS[k].court).join(", ");
+  const n = etapeNotice;
+  return card("stack tight " + (n ? "feature" : "soft"),
+    h("div",{class:"row spread"}, h("h2",null,"Étape en cours : " + e.lbl), h("span",{class:"pill cur"}, j > 0 ? "J-" + j : "aujourd'hui")),
+    n ? h("p",{class:"small"}, n.premiere ? "La préparation se fait désormais étape par étape : un échec " + e.a + " éliminerait pour la suite, donc tout l'effort porte sur elle. L'emploi du temps a été adapté." : "Nouvelle étape : l'emploi du temps est passé " + e.a + ".") : null,
+    h("p",{class:"small"}, "Matières travaillées : " + mats + ". Séances, rappels de mémorisation et leçons spéciales portent sur ces matières ; l'analyse du jour continue."),
+    h("p",{class:"muted small"}, (e.date.officiel ? "Date officielle : " : "Date estimée d'après la session 2026 (" + ECHEANCES[e.fin].ref + ") : ") + frDate(e.date.d) + "." + (suiv ? " Dès le lendemain, la préparation passera " + suiv.a + "." : "") + (e.date.officiel ? "" : " À vérifier dans le communiqué officiel.")),
+    n ? h("button",{class:"btn",type:"button",onclick:()=>{ etapeNotice = null; render(); }},"J'ai compris") : null);
+}
+
 // ---------- Rendu ----------
 const TABS = [["home","Aujourd'hui"],["parcours","Parcours"],["train","Entraînement"],["candidature","Candidature"],["profil","Profil"]];
 const PARENT = {analyse:"home", analyses:"home", remed:"train", remeds:"train", annales:"train", copies:"train", copie:"train", mentors:"train", question:"train", questions:"train", fiches:"train", concours:"parcours", quiz:"parcours", lesson:"parcours", track:"parcours", ecrit:"train", oral:"train", conditions:"home", rattrapages:"home", semaine:"home", choixecrit:"home", planning:"profil", tuto:"home", sanction:"home", interruption:"home", urgence:"home"};
@@ -2908,8 +2957,8 @@ function blocks(arr){
   return out;
 }
 const bar = (pct, warn)=>h("div",{class:"bar"+(warn?" o":"")}, h("i",{style:"width:"+Math.max(0,Math.min(100,pct))+"%"}));
-const trackOrder = ()=>{ const act = activeTracks(); const seen = []; for (const d of [1,2,3,4,5,6,0]) for (const s of state.planning.filter(x=>x.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut))) { for (const k of (s.k===ROT ? rotTracks() : [s.k])) if (TRACKS[k] && act.includes(k) && !seen.includes(k)) seen.push(k); } for (const t of PROGRAMME) if (act.includes(t.k) && !seen.includes(t.k)) seen.push(t.k); return seen; };
-const slotless = ()=>{ const inPlan = new Set(state.planning.flatMap(s=>s.k===ROT ? activeTracks().filter(isEcritTrack) : [s.k])); return activeTracks().filter(k=>!inPlan.has(k)); };
+const trackOrder = ()=>{ const act = focusTracks(); const seen = []; for (const d of [1,2,3,4,5,6,0]) for (const s of state.planning.filter(x=>x.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut))) { for (const k of (s.k===ROT ? rotTracks() : [s.k])) if (TRACKS[k] && act.includes(k) && !seen.includes(k)) seen.push(k); } for (const t of PROGRAMME) if (act.includes(t.k) && !seen.includes(t.k)) seen.push(t.k); return seen; };
+const slotless = ()=>{ const inPlan = new Set(state.planning.flatMap(s=>s.k===ROT ? focusTracks().filter(isEcritTrack) : [s.k])); return focusTracks().filter(k=>!inPlan.has(k)); };
 
 // ---------- Démarrer une séance ----------
 function runSlot(s){
@@ -2949,7 +2998,7 @@ function startBlanc(ratt, lu){
     start: ()=>startQCM({items, title:"Présélection blanche", kind:"blanc", ratt, chrono: items.length*60})});
 }
 function startErreurs(lu){
-  if (!lu && allQ().filter(q=>state.wrong[q.id]>0).length >= 5) return avecLecon(leconFaible(activeTracks()), "révision des erreurs", ()=>startErreurs(true));
+  if (!lu && allQ().filter(q=>state.wrong[q.id]>0).length >= 5) return avecLecon(leconFaible(focusTracks()), "révision des erreurs", ()=>startErreurs(true));
   const items = allQ().filter(q=>state.wrong[q.id]>0);
   if (items.length < 5){ toast("Moins de 5 erreurs à revoir : faites plutôt une révision de matière."); return; }
   const n = Math.min(20, items.length);
@@ -2959,7 +3008,7 @@ function startErreurs(lu){
 
 // ---------- Aujourd'hui ----------
 function vHome(){
-  anticip = null;
+  anticip = null; checkEtape();
   const td = today(), slots = slotsOn(td), m = nowMin();
   const ind = indice(), due = dueMissed(), nv = grade(ind);
   const hr = new Date().getHours();
@@ -2973,6 +3022,7 @@ function vHome(){
       h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. Chaque séance manquée fait baisser l'assiduité et retire des points.")),
     clockBack() ? card("stack warnc", h("h2",null,"Date du téléphone incorrecte"), h("p",{class:"small"},"La date du téléphone (" + frDate(today()) + ") est antérieure à votre dernière utilisation (" + frDate(state.maxDate) + "). Tant qu'elle n'est pas corrigée, aucune séance n'est comptée. Réglez la date et l'heure automatiques dans les paramètres du téléphone.")) : null,
     annNoticeCard(),
+    etapeCard(),
     analyseCard(),
     memCard(),
     remedCard(),
@@ -3586,7 +3636,10 @@ function vProfil(){
     card("stack",
       h("h2",null,"Emploi du temps et rappels"),
       h("p",{class:"muted small"}, state.planning.length + " séances par semaine, " + Math.round(state.planning.reduce((a,s)=>a+slotMin(s),0)/60*10)/10 + " h au total."),
-      h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>go("planning")},"Modifier mes horaires"), h("button",{class:"btn",type:"button",onclick:()=>go("semaine")},"Voir ma semaine"))),
+      h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>go("planning")},"Modifier mes horaires"), h("button",{class:"btn",type:"button",onclick:()=>go("semaine")},"Voir ma semaine")),
+      (()=>{ const c = concoursById(state.concoursPrin); if (!c || c.org !== "ENA") return null;
+        return h("label",{class:"chk"}, h("input",{type:"checkbox",checked:state.parEtapes !== false || null,onchange:(ev)=>{ state.parEtapes = ev.target.checked; save(); checkEtape(); render(); toast(ev.target.checked ? "Préparation par étape activée : emploi du temps adapté." : "Préparation de toutes les épreuves à la fois : emploi du temps adapté."); }}),
+          h("span",null,"Préparer étape par étape (présélection, puis écrits, puis oral)", h("span",{class:"muted small block"},"L'emploi du temps, les rappels et les leçons spéciales portent sur l'étape en cours ; il passe à l'étape suivante dès le lendemain de chaque épreuve."))); })()),
     card("stack", h("h2",null,"Réussite par matière"), rows.length ? rows : h("p",{class:"muted"},"Pas encore de résultats.")),
     state.copies.length ? card("stack", h("h2",null,"Mes copies"), h("div",{class:"list"}, state.copies.slice().reverse().slice(0,10).map(c=>h("div",{class:"item"}, h("span",{class:"grow"}, h("b",null,EPREUVES[c.e].label), " · ", c.t), h("span",{class:"meta"}, frDate(c.date) + " · " + fr1(c.note) + "/20"))))) : null,
     state.sanctions.length ? card("stack", h("h2",null,"Sanctions"), h("div",{class:"list"}, state.sanctions.slice().reverse().map(s=>h("div",{class:"item"}, h("span",{class:"grow"}, s.reason, h("span",{class:"muted small block"}, frDate(s.date) + (s.reverted.length ? " · " + s.reverted.length + " niveau(x) reverrouillé(s)" : ""))), h("span",{class:"meta"},"−" + s.xp))))) : null,
@@ -3751,6 +3804,16 @@ let onbStep = 0;
 const onbSel = new Set();
 // Emploi du temps de départ : les créneaux types, répartis entre les matières des concours choisis
 function buildPlanning(){
+  const et = etapeCourante();
+  if (et){
+    const f = etapeTracks(et), pool = PROGRAMME.map(t=>t.k).filter(k=>f.includes(k));
+    // présélection : présélection blanche le samedi et révision des erreurs le dimanche, de 10 h à 12 h
+    const sp = et.id === "presel" ? {"ven-s":"revision", "sam-m":"blanc", "dim-m":"revision"}
+      : et.id === "ecrits" ? {"ven-s":"revision", "sam-m":ROT, "dim-m":"ecrit"}
+      : {"ven-s":"revision", "sam-m":"oral", "dim-m":"oral"};
+    let i = 0;
+    return DEFAULT_PLANNING.map(s=>{ const o = Object.assign({}, s); if (sp[s.id]) o.k = sp[s.id]; else { o.k = pool.length ? pool[i % pool.length] : "revision"; i++; } return o; });
+  }
   const act = activeTracks().filter(k=>k!=="oral");
   const hasQcm = act.some(k=>["fr","cg","ang","log"].includes(k)), hasEcrit = act.some(isEcritTrack), hasOral = activeTracks().includes("oral");
   // en semaine : les matières hors écrit (QCM, informatique…) ; les matières écrites tournent le samedi de 10 h à 12 h
@@ -4263,9 +4326,11 @@ const ECHEANCES = {
   "ena-insc":   {lbl:"l'ouverture des inscriptions à l'ENA", est:"2027-03-16", ref:"16 mars 2026", veille:[null, /^Inscriptions/i, "debut"]},
   "ena-inscf":  {lbl:"la clôture des inscriptions à l'ENA", est:"2027-04-30", ref:"30 avril 2026", veille:[null, /^Inscriptions/i, "fin"]},
   "ena-photo":  {lbl:"la fin des prises de vue de l'ENA", est:"2027-05-06", ref:"6 mai 2026", veille:[null, /^Prise de vue/i, "fin"]},
-  "ena-presel": {lbl:"la présélection de l'ENA", est:"2027-06-29", ref:"29 juin 2026", veille:[null, /^Présélection/i, "debut"]},
-  "ena-phys":   {lbl:"le dépôt du dossier physique des admissibles à l'ENA", est:"2027-07-08", ref:"8 juillet 2026", veille:[null, /^Dépôt du dossier physique/i, "debut"]},
-  "ena-ecrits": {lbl:"les écrits d'admissibilité de l'ENA", est:"2027-07-23", ref:"23 juillet 2026", veille:[null, /^Écrits/i, "debut"]},
+  "ena-presel": {lbl:"la présélection de l'ENA", est:"2027-05-29", ref:"samedi 30 mai 2026", veille:[null, /^Présélection/i, "debut"]},
+  "ena-phys":   {lbl:"le dépôt du dossier physique des admissibles à l'ENA", est:"2027-07-07", ref:"mercredi 8 juillet 2026", veille:[null, /^Dépôt du dossier physique/i, "debut"]},
+  "ena-ecrits": {lbl:"les écrits d'admissibilité de l'ENA", est:"2027-07-22", ref:"jeudi 23 juillet 2026", veille:[null, /^Écrits/i, "debut"]},
+  "ena-ecritsf": {lbl:"la fin des écrits d'admissibilité de l'ENA", est:"2027-07-23", ref:"vendredi 24 juillet 2026", veille:[null, /^Écrits/i, "fin"]},
+  "ena-result": {lbl:"les résultats définitifs de l'ENA", est:"2027-08-14", ref:"samedi 15 août 2026", veille:[null, /^Résultats définitifs/i, "debut"]},
   "infj-insc":  {lbl:"l'ouverture des inscriptions à l'INFJ", est:"2027-01-19", ref:"19 janvier 2026", veille:["infj", /^Inscriptions/i, "debut"]},
   "infj-depot": {lbl:"le dépôt des dossiers à l'INFJ", est:"2027-03-02", ref:"2 mars 2026", veille:["infj", /^Dépôt des dossiers/i, "debut"]},
   "fp-insc":    {lbl:"l'ouverture des inscriptions de la Fonction publique", est:"2027-03-16", ref:"16 mars 2026", veille:["fp", /^Inscriptions/i, "debut"]},
