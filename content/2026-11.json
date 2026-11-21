@@ -35266,6 +35266,384 @@
       "t": "South African History Online, Botswana gains independence from Britain (30 septembre 1966)",
       "u": "https://sahistory.org.za/dated-event/botswana-gains-independence-britain"
      }
+    },
+    {
+     "id": "n20261121-cfr02-01",
+     "m": "fr",
+     "tag": "voc",
+     "verif": "regle",
+     "q": "Quel est le synonyme de « pérenne » dans « une source de financement pérenne » ?",
+     "o": [
+      "Périlleuse",
+      "Durable",
+      "Paternelle",
+      "Perméable"
+     ],
+     "a": 1,
+     "e": "Pérenne signifie qui dure longtemps, durable. Astuce : remplacez dans la phrase ; « une source de financement durable » garde le sens.",
+     "ed": [
+      "Périlleux signifie dangereux : aucun rapport avec la durée.",
+      null,
+      "Paternel se rapporte au père : simple ressemblance de sonorité.",
+      "Perméable signifie qui laisse passer un liquide : c'est un piège de forme, pas de sens."
+     ]
+    },
+    {
+     "id": "n20261121-cfr02-02",
+     "m": "fr",
+     "tag": "voc",
+     "verif": "regle",
+     "q": "Quel est l'antonyme de « prolixe » ?",
+     "o": [
+      "Verbeux",
+      "Diffus",
+      "Bavard",
+      "Concis"
+     ],
+     "a": 3,
+     "e": "Prolixe qualifie celui qui parle ou écrit trop longuement, sans concision ; son contraire est concis (ou bref, succinct, laconique).",
+     "ed": [
+      "Verbeux est un synonyme de prolixe : il dit la même chose.",
+      "Diffus est aussi un synonyme : un style diffus manque de concision.",
+      "Bavard va dans le même sens que prolixe ; ce n'est pas un contraire.",
+      null
+     ]
+    },
+    {
+     "id": "n20261121-cfr02-03",
+     "m": "fr",
+     "tag": "voc",
+     "verif": "regle",
+     "q": "Quel est l'intrus ? Bref – Laconique – Succinct – Verbeux",
+     "o": [
+      "Verbeux",
+      "Bref",
+      "Laconique",
+      "Succinct"
+     ],
+     "a": 0,
+     "e": "Bref, laconique et succinct désignent une expression courte et ramassée ; verbeux désigne au contraire un propos trop long. Cherchez le sens commun à trois mots.",
+     "ed": [
+      null,
+      "Bref signifie court : il appartient à la série de la concision.",
+      "Laconique qualifie un propos très bref : il appartient à la série.",
+      "Succinct signifie résumé en peu de mots : il appartient à la série."
+     ]
+    },
+    {
+     "id": "n20261121-cfr02-04",
+     "m": "fr",
+     "tag": "voc",
+     "verif": "regle",
+     "q": "Choisissez le mot juste : « À l'ouverture du séminaire, le préfet a prononcé une brève … . »",
+     "o": [
+      "allocation",
+      "élocution",
+      "allocution",
+      "location"
+     ],
+     "a": 2,
+     "e": "Une allocution est un discours bref à caractère officiel prononcé lors d'une circonstance particulière ; l'allocation est une somme attribuée.",
+     "ed": [
+      "L'allocation est l'attribution d'une somme ou de ressources : on ne la « prononce » pas.",
+      "L'élocution est la manière de parler, pas le discours lui-même.",
+      null,
+      "La location est le fait de louer un bien : hors sujet."
+     ]
+    },
+    {
+     "id": "n20261121-cfr02-05",
+     "m": "fr",
+     "tag": "voc",
+     "verif": "regle",
+     "q": "Choisissez le mot juste : « Stationner sur la voie réservée aux bus constitue une … au code de la route. »",
+     "o": [
+      "effraction",
+      "infraction",
+      "fraction",
+      "diffraction"
+     ],
+     "a": 1,
+     "e": "L'infraction est la violation d'une règle, sanctionnée par une peine ; l'effraction est le bris ou le forcement d'une serrure ou d'une clôture.",
+     "ed": [
+      "L'effraction suppose de forcer une serrure ou une clôture : un stationnement n'en est pas une.",
+      null,
+      "Une fraction est une partie d'un tout : le mot n'a pas de sens juridique ici.",
+      "La diffraction est un phénomène physique (déviation de la lumière) : hors sujet."
+     ]
+    },
+    {
+     "id": "n20261121-cfr02-06",
+     "m": "fr",
+     "tag": "voc",
+     "verif": "regle",
+     "q": "« Un argument fallacieux » est un argument :",
+     "o": [
+      "ennuyeux et répétitif",
+      "plaisant et moqueur",
+      "trompeur",
+      "extraordinaire"
+     ],
+     "a": 2,
+     "e": "Fallacieux signifie basé sur une fausseté, destiné à tromper. Ne le confondez pas avec fastidieux (ennuyeux) ni facétieux (farceur), qui lui ressemblent par la forme.",
+     "ed": [
+      "« Ennuyeux et répétitif » définit fastidieux, un paronyme de fallacieux.",
+      "« Plaisant et moqueur » définit facétieux, autre mot proche par la forme.",
+      null,
+      "« Extraordinaire » correspond à fabuleux, sans rapport avec l'idée de tromperie."
+     ]
+    },
+    {
+     "id": "n20261121-cfr03-01",
+     "m": "fr",
+     "tag": "gram",
+     "verif": "regle",
+     "q": "Complétez : « La plupart des candidats … admis à l'oral. »",
+     "o": [
+      "est",
+      "sont",
+      "a été",
+      "fut"
+     ],
+     "a": 1,
+     "e": "Après « la plupart de » suivi d'un complément pluriel, le verbe s'accorde avec ce complément : la plupart des candidats sont admis.",
+     "ed": [
+      "Le singulier n'est possible que si le complément est singulier (la plupart du temps).",
+      null,
+      "« A été » est au singulier alors que le complément « des candidats » est pluriel.",
+      "« Fut » est au singulier : même erreur d'accord, et le passé simple ne convient pas ici."
+     ]
+    },
+    {
+     "id": "n20261121-cfr03-02",
+     "m": "fr",
+     "tag": "gram",
+     "verif": "regle",
+     "q": "Début d'un courrier administratif : « … les pièces demandées par la commission. »",
+     "o": [
+      "Ci-jointes",
+      "Ci-joints",
+      "Ci-jointe",
+      "Ci-joint"
+     ],
+     "a": 3,
+     "e": "En tête de phrase, « ci-joint » est employé comme adverbe : il reste invariable (« Ci-joint les pièces demandées »).",
+     "ed": [
+      "L'accord au féminin pluriel se fait quand ci-joint suit le nom (« les pièces ci-jointes »), pas en tête de phrase.",
+      "« Ci-joints » est un masculin pluriel : faux à double titre, car pièces est féminin et la forme doit rester invariable.",
+      "« Ci-jointe » est un féminin singulier : invariable en tête de phrase, la locution ne prend aucune marque.",
+      null
+     ]
+    },
+    {
+     "id": "n20261121-cfr03-03",
+     "m": "fr",
+     "tag": "gram",
+     "verif": "regle",
+     "q": "Complétez : « Les attestations … doivent être signées par le chef de service. »",
+     "o": [
+      "ci-joint",
+      "ci-jointes",
+      "ci-joints",
+      "ci-jointe"
+     ],
+     "a": 1,
+     "e": "Placé après le nom qu'il qualifie, ci-joint est un adjectif et s'accorde : les attestations ci-jointes (féminin pluriel).",
+     "ed": [
+      "L'invariabilité vaut en tête de phrase ou devant un nom sans déterminant, pas après le nom.",
+      null,
+      "Attestations est féminin : le masculin pluriel est faux.",
+      "Attestations est au pluriel : le singulier est faux."
+     ]
+    },
+    {
+     "id": "n20261121-cfr03-04",
+     "m": "fr",
+     "tag": "gram",
+     "verif": "regle",
+     "q": "Complétez : « Au marché d'Adjamé, ces pagnes wax se vendent … . »",
+     "o": [
+      "chers",
+      "chères",
+      "cher",
+      "chère"
+     ],
+     "a": 2,
+     "e": "Cher se rapporte ici au verbe « se vendent » : il est employé comme adverbe et reste invariable. Il s'accorde seulement quand il qualifie un nom (des pagnes chers).",
+     "ed": [
+      "« Chers » serait juste avec un nom ou être (« ces pagnes sont chers »), pas après « se vendre ».",
+      "« Chères » est féminin pluriel : faux, car cher modifie le verbe et reste invariable.",
+      null,
+      "« Chère » est un féminin singulier : faux, l'adverbe ne prend aucune marque."
+     ]
+    },
+    {
+     "id": "n20261121-cfr03-05",
+     "m": "fr",
+     "tag": "gram",
+     "verif": "regle",
+     "q": "Complétez : « Le candidat s'efforce de répondre le mieux … . »",
+     "o": [
+      "possibles",
+      "possible",
+      "possiblement",
+      "possibilité"
+     ],
+     "a": 1,
+     "e": "Après un superlatif (le mieux, le plus, le moins), possible est invariable : il signifie « qu'il est possible de faire ».",
+     "ed": [
+      "« Possibles » au pluriel n'a aucun nom auquel s'accorder : la règle impose l'invariabilité après le superlatif.",
+      null,
+      "« Possiblement » est un adverbe qui signifie « peut-être » : la phrase n'aurait plus de sens.",
+      "« Possibilité » est un nom : il ne peut pas compléter « le mieux »."
+     ]
+    },
+    {
+     "id": "n20261121-cfr03-06",
+     "m": "fr",
+     "tag": "gram",
+     "verif": "regle",
+     "q": "Complétez : « … la directrice avait fondé cette école à Bondoukou. » (feu = défunt)",
+     "o": [
+      "Feue",
+      "Feux",
+      "Feu",
+      "Feues"
+     ],
+     "a": 2,
+     "e": "Feu (défunt) placé avant le déterminant reste invariable : « Feu la directrice ». Il ne s'accorde qu'entre le déterminant et le nom : « la feue directrice ».",
+     "ed": [
+      "L'accord au féminin n'a lieu qu'entre le déterminant et le nom (la feue directrice).",
+      "« Feux » est le pluriel du nom feu (incendie) : sens et forme faux.",
+      null,
+      "« Feues » est un féminin pluriel : faux, il n'y a qu'une directrice et feu est ici invariable."
+     ]
+    },
+    {
+     "id": "n20261121-can01-01",
+     "m": "ang",
+     "tag": "ang1",
+     "verif": "regle",
+     "q": "As a night nurse, she is used to ___ while others sleep.",
+     "o": [
+      "working",
+      "work",
+      "to work",
+      "worked"
+     ],
+     "a": 0,
+     "e": "Be used to (être habitué à) est suivi d'un nom ou de la forme en -ing : she is used to working. Ne pas confondre avec used to + base verbale (habitude passée).",
+     "ed": [
+      null,
+      "La base verbale suit « used to » seul (she used to work), pas « be used to ».",
+      "Ici « to » est une préposition : on ne met pas d'infinitif après « be used to ».",
+      "Le participe passé ne peut pas suivre la préposition to."
+     ]
+    },
+    {
+     "id": "n20261121-can01-02",
+     "m": "ang",
+     "tag": "ang1",
+     "verif": "regle",
+     "q": "We look forward to ___ you in Yamoussoukro.",
+     "o": [
+      "welcome",
+      "to welcome",
+      "welcomed",
+      "welcoming"
+     ],
+     "a": 3,
+     "e": "Dans look forward to, « to » est une préposition : il est suivi d'un nom ou d'un verbe en -ing (look forward to welcoming you).",
+     "ed": [
+      "La base verbale est impossible après la préposition to de look forward to.",
+      "« To welcome » double le to : c'est la faute classique des candidats.",
+      "Le participe passé ne peut pas suivre une préposition.",
+      null
+     ]
+    },
+    {
+     "id": "n20261121-can01-03",
+     "m": "ang",
+     "tag": "ang1",
+     "verif": "regle",
+     "q": "During the test, candidates must avoid ___ to each other.",
+     "o": [
+      "to talk",
+      "talking",
+      "talk",
+      "talked"
+     ],
+     "a": 1,
+     "e": "Avoid fait partie des verbes suivis de la forme en -ing (comme finish ou imagine) : avoid talking.",
+     "ed": [
+      "Avoid ne se construit jamais avec to + infinitif.",
+      null,
+      "La base verbale seule ne suit pas avoid.",
+      "Le participe passé ne peut pas compléter avoid."
+     ]
+    },
+    {
+     "id": "n20261121-can01-04",
+     "m": "ang",
+     "tag": "ang1",
+     "verif": "regle",
+     "q": "After a long debate, the council decided ___ the meeting.",
+     "o": [
+      "postponing",
+      "postpone",
+      "to postpone",
+      "postponed"
+     ],
+     "a": 2,
+     "e": "Decide se construit avec to + infinitif (comme promise, want, need) : decided to postpone.",
+     "ed": [
+      "Decide n'est pas suivi de la forme en -ing.",
+      "Il manque la particule to : decide + to + base verbale.",
+      null,
+      "Deux verbes conjugués ne peuvent pas se suivre ainsi."
+     ]
+    },
+    {
+     "id": "n20261121-can01-05",
+     "m": "ang",
+     "tag": "ang1",
+     "verif": "regle",
+     "q": "The accountant denied ___ the missing files.",
+     "o": [
+      "taking",
+      "to take",
+      "take",
+      "took"
+     ],
+     "a": 0,
+     "e": "Deny (nier) est suivi de la forme en -ing : he denied taking the files.",
+     "ed": [
+      null,
+      "Deny ne se construit pas avec to + infinitif.",
+      "La base verbale seule ne peut pas suivre deny.",
+      "« Took » est un prétérit conjugué : il ne peut pas compléter directement denied."
+     ]
+    },
+    {
+     "id": "n20261121-can01-06",
+     "m": "ang",
+     "tag": "ang1",
+     "verif": "regle",
+     "q": "The two ministries agreed ___ the costs of the project.",
+     "o": [
+      "sharing",
+      "to share",
+      "share",
+      "shared"
+     ],
+     "a": 1,
+     "e": "Agree se construit avec to + infinitif : they agreed to share. Repère : les verbes de décision ou d'engagement (agree, decide, promise) appellent to.",
+     "ed": [
+      "Agree n'est pas suivi de la forme en -ing.",
+      null,
+      "Il manque to : agree to + base verbale.",
+      "Le participe passé ne peut pas suivre agree directement."
+     ]
     }
    ],
    "lessons": [
@@ -35515,6 +35893,123 @@
       {
        "t": "Fraternité Matin, « Honorable Lacina Ouattara (député de Korhogo commune) », 3 avril 2021",
        "u": "https://www.fratmat.info/article/212129/politique/honorable-lacina-ouattara-alias-lass-pr-depute-de-korhogo-commune-mon-ambition-est-de-contribuer-au-succes-de-cette-legislature-"
+      }
+     ]
+    },
+    {
+     "id": "L20261013fr06",
+     "rev": 3,
+     "niv": "fr06",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "L'accord de l'adjectif ; les adjectifs de couleur",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez accorder n'importe quel adjectif : avec un ou plusieurs noms, de couleur simple ou composée, composé, ou employé comme adverbe.",
+      "= Vous saurez aussi régler en quelques secondes les mots piégés demi, semi, nu, feu et possible.",
+      "## Ce que demande le concours",
+      "Dans les QCM d'orthographe grammaticale, on vous propose quatre graphies d'un même adjectif : une seule respecte la règle. Le piège porte presque toujours sur une exception : un nom employé comme couleur, une couleur en deux mots, un adjectif devenu adverbe, ou demi placé avant le nom. Les trois autres graphies « ont l'air » correctes : c'est ce qui coûte des points avec le barème négatif.",
+      "## La méthode en quatre questions",
+      "- 1. À quel mot se rapporte l'adjectif ? Soulignez le nom (ou les noms) et notez son genre et son nombre.",
+      "- 2. Se rapporte-t-il à un nom ou à un verbe ? S'il modifie un verbe (« coûter cher », « voler bas »), c'est un adverbe : invariable.",
+      "- 3. Est-ce une couleur ? Demandez-vous si c'est un vrai adjectif (vert), un nom de chose (cerise) ou une couleur en deux mots (vert pomme).",
+      "- 4. Est-ce un mot à place variable (demi, nu, feu) ? Regardez s'il est avant ou après le nom, ou avant le déterminant.",
+      "~ Application en direct : « Des boubous (vert olive) ». Question 3 : couleur en deux mots, donc invariable. Réponse : des boubous vert olive, sans s ni e.",
+      "## Gérer le barème",
+      "Si vous avez identifié la règle, répondez : la question se règle en moins de trente secondes. Si deux graphies vous paraissent possibles et que vous ne savez pas laquelle relève d'une exception, l'abstention vaut mieux qu'un tirage au sort qui peut vous retirer un point.",
+      "! Méfiez-vous de l'oreille : « des fleurs cerise » et « des fleurs cerises » se prononcent pareil ; seule la règle tranche (ici, cerise reste invariable)."
+     ],
+     "fond": [
+      "## Notion 1 : la règle générale et les noms coordonnés",
+      "L'adjectif qualificatif prend le genre et le nombre du nom qu'il qualifie. C'est vrai qu'il soit collé au nom (épithète) ou relié par un verbe comme être, sembler, devenir (attribut).",
+      "Pourquoi ? L'accord montre au lecteur à quel nom l'adjectif se rattache. Dans « des chemises et un pagne neufs », le masculin pluriel indique que les deux objets sont neufs.",
+      "- Un seul nom : accord simple. « Une note claire », « des notes claires ».",
+      "- Plusieurs noms : pluriel. Si les genres sont différents, masculin pluriel.",
+      "~ « La comptable et le magasinier de la mairie de Daloa semblent épuisés. » Étape 1 : deux noms, donc pluriel. Étape 2 : un nom masculin (magasinier), donc masculin. Résultat : épuisés.",
+      "> Pour retenir : « Un seul garçon dans le groupe, et tout le groupe passe au masculin. »",
+      "## Notion 2 : les adjectifs de couleur simples",
+      "Un vrai adjectif de couleur s'accorde : « des cartes jaunes », « des cernes blanchâtres », « une casquette orangée ». Les dérivés en -âtre, -é, -ant suivent la même règle.",
+      "Un nom de chose employé pour désigner une couleur reste invariable, car on sous-entend « de la couleur de » : « des balles cerise » (de la couleur de la cerise), « des yeux noisette », « des meubles acajou », « des chaussures turquoise ».",
+      "Les adjectifs de couleur empruntés à une langue étrangère sont aussi invariables : « des cheveux auburn ».",
+      "Sept exceptions sont devenues de vrais adjectifs et s'accordent : rose, mauve, fauve, écarlate, pourpre, incarnat, vermeil. « Des lèvres roses », « des foulards écarlates ».",
+      "> Pour retenir les sept : « Rose, Mauve et Fauve ; Écarlate et Pourpre ; Incarnat et Vermeil » (3 + 2 + 2).",
+      "! Châtain s'accorde en nombre (des cheveux châtains) ; au féminin, « châtaine » est de plus en plus courant, mais châtain peut rester invariable en genre.",
+      "? Accordez : « des enveloppes (crème) », « des drapeaux (pourpre) », « des sacs (gris) ». || Des enveloppes crème : crème est un nom employé comme couleur, donc invariable. Des drapeaux pourpres : pourpre est une des sept exceptions qui s'accordent. Des sacs gris : vrai adjectif, déjà terminé par s.",
+      "## Notion 3 : couleurs composées et objets de plusieurs couleurs",
+      "Dès que la couleur s'écrit en deux mots ou plus, tout reste invariable. Pourquoi ? L'ensemble forme une seule indication de nuance, qu'on ne peut pas accorder morceau par morceau.",
+      "- Deux adjectifs, avec trait d'union : « des feuilles gris-vert ».",
+      "- Adjectif + nom, sans trait d'union : « des tenues bleu marine », « des taxis jaune citron ».",
+      "- Adjectif + nuance : « des murs vert clair », « des bracelets jaune d'or ».",
+      "Plusieurs objets ayant chacun une seule couleur : accord normal. « Des balles bleues, jaunes et rouges » (certaines bleues, d'autres jaunes…).",
+      "Un même objet de plusieurs couleurs : les grammaires recommandent l'invariabilité, l'accord étant admis. « Des drapeaux orange, blanc et vert » (chaque drapeau porte les trois couleurs).",
+      "~ « Les écoliers portent des uniformes kaki et des chemises bleu ciel. » Kaki : emprunt, invariable. Bleu ciel : deux mots, invariable. Aucun des deux ne prend de s.",
+      "? Choisissez : « des pagnes (rouge et noir) » pour des pagnes bicolores, et « des stylos (rouge et noir) » quand certains stylos sont rouges et d'autres noirs. || Pagnes bicolores : « des pagnes rouge et noir » (un même objet de deux couleurs : invariabilité recommandée). Stylos de couleurs différentes : « des stylos rouges et noirs », car chaque stylo n'a qu'une couleur, l'accord est obligatoire.",
+      "## Notion 4 : adjectifs composés et adjectifs employés comme adverbes",
+      "Adjectif + adjectif : les deux s'accordent. « Des fillettes sourdes-muettes ». Exception : un premier élément terminé par -o ou -i reste invariable : « les relations franco-ivoiriennes », « des pièces tragi-comiques ».",
+      "Mot invariable + adjectif : seul l'adjectif varie. « Les avant-dernières places », « des pays sud-américains ».",
+      "Adjectif qui joue le rôle d'un adverbe devant un autre adjectif : le premier reste invariable. « Des agneaux nouveau-nés » (nouvellement nés), « des fonctionnaires haut placés » (hautement placés).",
+      "Adjectif qui modifie un verbe : invariable. « Ces montres coûtent cher », « Les hirondelles volent bas », « Les agents se sont montrés fort aimables ».",
+      "! Trois survivances anciennes peuvent s'accorder : grand, large, frais. « Des fenêtres grandes ouvertes » (ou grand ouvertes, les deux sont admis), « des fleurs fraîches écloses ».",
+      "? Corrigez si nécessaire : « Les invitées étaient (fin) (prêt) et les tomates se vendent (cher) ; les relations (ivoiro)-(ghanéen) sont bonnes. » || Les invitées étaient fin prêtes (fin joue le rôle d'un adverbe : invariable ; prêtes s'accorde avec invitées) ; les tomates se vendent cher (adverbe qui modifie le verbe, invariable) ; les relations ivoiro-ghanéennes (ivoiro finit par -o : invariable ; ghanéennes s'accorde avec relations).",
+      "## Notion 5 : demi, semi, nu, feu, possible",
+      "- Demi- et semi- devant un nom ou un adjectif : invariables, avec trait d'union. « Des demi-finales », « une habitation semi-souterraine ». « À demi » est toujours invariable : « des enfants à demi endormis ».",
+      "- « Et demi » après le nom : accord en genre seulement. « Cinq kilomètres et demi », « deux heures et demie ».",
+      "- Nu devant un nom de partie du corps : invariable avec trait d'union (nu-jambes) ; après : accord (les jambes nues).",
+      "- Feu (défunt) : invariable sans déterminant ou avant lui (« feu madame votre mère ») ; accordé entre le déterminant et le nom (« leurs feus grands-parents »).",
+      "- Possible après le plus, le moins, le mieux : invariable. « Faites le moins d'erreurs possible. » Après un nom, il s'accorde : « toutes les solutions possibles ».",
+      "> Pour retenir : « Devant, je ne bouge pas ; derrière, je m'accorde. » Cette formule vaut pour demi et pour nu.",
+      "? Écrivez correctement : « Le discours a duré une heure et (demi) ; le chef de canton marchait (nu)-tête ; il faut le plus de témoins (possible). » || Une heure et demie (après le nom : féminin comme heure, singulier) ; nu-tête (avant le nom : invariable, trait d'union) ; le plus de témoins possible (après le plus : invariable, forme préférable)."
+     ],
+     "retenir": [
+      "Plusieurs noms de genres différents : l'adjectif se met au masculin pluriel.",
+      "Un nom employé comme couleur reste invariable : des yeux noisette, des balles cerise.",
+      "Sept couleurs s'accordent : rose, mauve, fauve, écarlate, pourpre, incarnat, vermeil.",
+      "Une couleur en deux mots reste invariable : des tenues bleu marine, des murs vert clair.",
+      "Adjectif qui modifie un verbe = adverbe invariable : ces montres coûtent cher.",
+      "Demi-, semi- et nu- devant le nom : invariables avec trait d'union ; après le nom, accord (heure et demie, pieds nus).",
+      "Feu la reine, mais la feue reine : feu s'accorde seulement entre le déterminant et le nom.",
+      "Après le plus, le moins, le mieux, possible reste invariable."
+     ],
+     "exo": {
+      "tag": "niv-fr06",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "OQLF, Vitrine linguistique : accord des adjectifs de couleur de forme simple",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21721/la-grammaire/ladjectif/accord-de-ladjectif/adjectifs-de-couleur/accord-des-adjectifs-de-couleur-de-forme-simple"
+      },
+      {
+       "t": "OQLF : adjectifs de couleur de forme composée",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21724/la-grammaire/ladjectif/accord-de-ladjectif/adjectifs-de-couleur/accord-des-adjectifs-de-couleur-de-forme-composee"
+      },
+      {
+       "t": "OQLF : adjectifs de couleur coordonnés ou juxtaposés",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21725/la-grammaire/ladjectif/accord-de-ladjectif/adjectifs-de-couleur/accord-des-adjectifs-de-couleur-coordonnes-ou-juxtaposes"
+      },
+      {
+       "t": "OQLF : accord des adjectifs composés",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21731/la-grammaire/ladjectif/accord-de-ladjectif/accord-des-adjectifs-composes"
+      },
+      {
+       "t": "OQLF : généralités sur l'adjectif employé comme adverbe",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24648/la-grammaire/ladjectif/adjectif-employe-comme-adverbe/generalites-sur-ladjectif-employe-comme-adverbe"
+      },
+      {
+       "t": "OQLF : emploi de demi selon sa classe de mots",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21752/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/emploi-adjectival-et-adverbial-de-demi"
+      },
+      {
+       "t": "OQLF : accord de l'adjectif nu",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21712/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-de-ladjectif-nu"
+      },
+      {
+       "t": "OQLF : accord de l'adjectif feu",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24572/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-de-ladjectif-feu"
+      },
+      {
+       "t": "OQLF : accord de l'adjectif possible",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21561/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/accord-de-ladjectif-possible"
       }
      ]
     }
