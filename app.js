@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "v22 du 21/11/2026";
+const APP_VERSION = "v23 du 21/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1805,7 +1805,17 @@ function processMissed(){
   save();
   return {n, lost};
 }
-const dueMissed = ()=> state.missed.filter(m=>m.st==="due").sort((a,b)=>a.date<b.date?-1:1);
+// Une séance à rattraper ne compte que si elle porte sur l'étape en cours (préparation par étape)
+function horsEtape(k){
+  if (!etapeCourante()) return false;
+  const f = focusTracks();
+  if (TRACKS[k]) return !f.includes(k);
+  if (k === "ecrit" || k === ROT) return !f.some(isEcritTrack);
+  if (k === "blanc") return !f.some(x=>["fr","cg","ang","log"].includes(x));
+  return false;
+}
+function retirerHorsEtape(){ let n = 0; for (const m of state.missed) if (m.st === "due" && horsEtape(m.k)){ m.st = "hors"; n++; } if (n) save(); return n; }
+const dueMissed = ()=> state.missed.filter(m=>m.st==="due" && !horsEtape(m.k)).sort((a,b)=>a.date<b.date?-1:1);
 function restoreMissed(id){
   const m = state.missed.find(x=>x.id===id); if (!m || m.st!=="due") return;
   m.st = "ok"; m.on = today(); addXP(m.pts); markDay(); save();
@@ -3008,7 +3018,7 @@ function startErreurs(lu){
 
 // ---------- Aujourd'hui ----------
 function vHome(){
-  anticip = null; checkEtape();
+  anticip = null; checkEtape(); retirerHorsEtape();
   const td = today(), slots = slotsOn(td), m = nowMin();
   const ind = indice(), due = dueMissed(), nv = grade(ind);
   const hr = new Date().getHours();
@@ -3096,7 +3106,7 @@ function vRattrapages(){
       h("span",{class:"grow"}, h("b",null, kindLabel(m.k)), h("span",{class:"muted small block"}, JOURS[parseYmd(m.date).getDay()] + " " + frDate(m.date) + " · " + m.debut + "–" + m.fin + " · −" + m.pts + " XP · avant le " + frDate(m.limit))),
       h("button",{class:"btn small primary",type:"button",onclick:()=>startRattrapage(m)},"Rattraper")))) : card("soft", h("p",null,"Aucune séance à rattraper. Continuez ainsi.")),
     card("stack", h("h2",null,"Révision des erreurs"), h("p",{class:"muted small"}, Object.keys(state.wrong).length + " question(s) ratée(s) à retravailler."), h("button",{class:"btn",type:"button",onclick:()=>startErreurs()},"Lancer la révision des erreurs")),
-    old.length ? card("stack", h("h2",null,"Historique"), h("div",{class:"list"}, old.map(m=>h("div",{class:"item"}, h("span",{class:"grow"}, kindLabel(m.k) + " · " + frDate(m.date)), h("span",{class:"meta"}, m.st==="ok" ? "rattrapé (+" + m.pts + ")" : m.st==="annule" ? "remis à zéro" : "perdu (−" + m.pts + ")"))))) : null
+    old.length ? card("stack", h("h2",null,"Historique"), h("div",{class:"list"}, old.map(m=>h("div",{class:"item"}, h("span",{class:"grow"}, kindLabel(m.k) + " · " + frDate(m.date)), h("span",{class:"meta"}, m.st==="ok" ? "rattrapé (+" + m.pts + ")" : m.st==="hors" ? "retiré (hors de l'étape en cours)" : m.st==="annule" ? "remis à zéro" : "perdu (−" + m.pts + ")"))))) : null
   );
 }
 // Rattrapage : on reprend d'abord le cours depuis le début (technique, cours, à retenir, avec les temps de lecture),
