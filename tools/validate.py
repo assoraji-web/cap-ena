@@ -190,6 +190,8 @@ ai = C / "annales_index.json"
 if ai.exists():
     try:
         A = json.loads(ai.read_text(encoding="utf-8"))
+        if not isinstance(A.get("recus", []), list): err("annales_index.json", "recus doit être une liste de noms de fichiers")
+        if A.get("verifie") and not re.match(r"^\d{4}-\d{2}-\d{2}$", str(A["verifie"])): err("annales_index.json", "verifie : date AAAA-MM-JJ")
         for i, t in enumerate(A.get("traites", [])):
             if not isinstance(t, dict) or not t.get("fichier") or not re.match(r"^\d{4}-\d{2}-\d{2}$", str(t.get("date",""))):
                 err(f"annales_index.json #{i}", "entrée invalide (fichier, date AAAA-MM-JJ, resultat)")

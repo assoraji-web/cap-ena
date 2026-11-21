@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "v24 du 21/11/2026";
+const APP_VERSION = "v25 du 21/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -2605,6 +2605,7 @@ async function annLoadIndex(){
 const annSlug = (s)=> String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^A-Za-z0-9.]+/g,"-").replace(/^-+|-+$/g,"");
 // Nom du fichier envoyé : il porte le concours, l'année et l'épreuve, que la production de nuit relit
 function annNom(a){ const c = concoursById(a.concours); return [annSlug(c ? (c.court||c.nom) : "concours"), a.annee || "annee-inconnue", a.epreuve || "epreuve-inconnue", annSlug(a.name)].join("_"); }
+function annRecu(a){ const l = (ANN_INDEX && ANN_INDEX.recus) || []; return l.includes(annNom(a)); }
 function annTraite(a){ const l = (ANN_INDEX && ANN_INDEX.traites) || []; return l.find(x=>x.fichier === annNom(a)) || null; }
 async function annAjouter(files, meta){
   state.annales = state.annales || [];
@@ -2619,7 +2620,10 @@ async function annAjouter(files, meta){
   save(); if (n) toast(n + " fichier" + (n>1?"s":"") + " ajouté" + (n>1?"s":"") + ".");
   render();
 }
-async function annEnvoyer(list){
+// Envoi par lots de 10 : un partage de dizaines de fichiers d'un coup échoue souvent sans prévenir
+const ANN_LOT = 10;
+async function annEnvoyer(all){
+  const list = all.slice(0, ANN_LOT);
   const files = [];
   for (const a of list){ const b = await annGet(a.id); if (b) files.push(new File([b], annNom(a), {type: a.type || b.type || "application/octet-stream"})); }
   if (!files.length) return toast("Fichiers introuvables sur cet appareil.");
@@ -2627,7 +2631,7 @@ async function annEnvoyer(list){
     try {
       await navigator.share({files, title:"Anciens sujets Cap ENA", text:"À enregistrer dans le dossier Google Drive « Cap ENA - Anciens sujets »."});
       for (const a of list) a.envoye = today(); save(); render();
-      toast("Choisissez Google Drive, puis le dossier « Cap ENA - Anciens sujets ».");
+      toast(list.length + " fichier(s) partagé(s). Vérifiez dans Google Drive qu'ils sont bien dans le dossier « Cap ENA - Anciens sujets »." + (all.length > list.length ? " Puis envoyez le lot suivant." : ""));
     } catch(e){ if (e && e.name !== "AbortError") toast("Partage impossible : utilisez « Ouvrir le dossier Drive »."); }
     return;
   }
@@ -2638,11 +2642,11 @@ async function annEnvoyer(list){
   toast("Fichiers téléchargés : glissez-les dans le dossier Drive qui vient de s'ouvrir.");
 }
 async function annOuvrir(a){ const b = await annGet(a.id); if (!b) return toast("Fichier introuvable sur cet appareil."); const u = URL.createObjectURL(b); window.open(u, "_blank", "noopener"); setTimeout(()=>URL.revokeObjectURL(u), 60000); }
-function annStats(){ const l = state.annales || []; return {n:l.length, env:l.filter(a=>a.envoye).length, ok:l.filter(a=>annTraite(a)).length}; }
+function annStats(){ const l = state.annales || []; return {n:l.length, env:l.filter(a=>annRecu(a) || annTraite(a)).length, ok:l.filter(a=>annTraite(a)).length}; }
 function annalesCard(){
   const s = annStats();
   return card("stack", h("h2",null,"Anciens sujets"),
-    h("p",{class:"muted small"}, s.n ? s.n + " fichier" + (s.n>1?"s":"") + " déposé" + (s.n>1?"s":"") + " · " + s.env + " envoyé" + (s.env>1?"s":"") + " pour la mise à jour · " + s.ok + " intégré" + (s.ok>1?"s":"") + " aux cours." : "Déposez vos anciens sujets (photos, PDF, Word) : ils serviront à enrichir les cours, les exercices et la banque de sujets d'écrit."),
+    h("p",{class:"muted small"}, s.n ? s.n + " fichier" + (s.n>1?"s":"") + " déposé" + (s.n>1?"s":"") + " · " + s.env + " reçu" + (s.env>1?"s":"") + " dans le dossier Drive · " + s.ok + " intégré" + (s.ok>1?"s":"") + " aux cours." : "Déposez vos anciens sujets (photos, PDF, Word) : ils serviront à enrichir les cours, les exercices et la banque de sujets d'écrit."),
     h("button",{class:"btn",type:"button",onclick:()=>go("annales")},"Mes anciens sujets"));
 }
 function vAnnales(){
@@ -2654,7 +2658,9 @@ function vAnnales(){
   const fCo = h("select",{class:"fld","aria-label":"Concours"}, myConcours().map(c=>h("option",{value:c.id}, c.court || c.nom)), h("option",{value:""},"Autre concours"));
   const fFile = h("input",{type:"file",multiple:true,accept:ANN_ACCEPT,class:"fld"});
   const list = state.annales.slice().reverse();
-  const aEnvoyer = state.annales.filter(a=>!a.envoye);
+  // à envoyer : jamais partagés, ou partagés mais absents du dossier lors d'une vérification postérieure au partage
+  const verif = (ANN_INDEX && ANN_INDEX.verifie) || "";
+  const aEnvoyer = state.annales.filter(a=>!annRecu(a) && !annTraite(a) && (!a.envoye || (verif && verif > a.envoye))).sort((x,y)=>(x.envoye?1:0)-(y.envoye?1:0));
   return h("div",{class:"stack"},
     h("div",null, h("p",{class:"lbl"},"Entraînement"), h("h1",null,"Anciens sujets et liens")),
     card("stack",
@@ -2671,12 +2677,12 @@ function vAnnales(){
         h("li",null,"4. Un fichier traité apparaît ici comme « Intégré ».")),
       h("p",{class:"muted small"},"Le dossier Drive appartient au compte de l'administrateur de l'appli. Les corrigés rédigés par des centres de préparation ne sont pas recopiés : seuls les énoncés officiels sont repris."),
       h("div",{class:"row"},
-        h("button",{class:"btn primary",type:"button",disabled:!aEnvoyer.length||null,onclick:()=>annEnvoyer(aEnvoyer)}, aEnvoyer.length ? "Envoyer pour la mise à jour (" + aEnvoyer.length + ")" : "Tout est envoyé"),
+        h("button",{class:"btn primary",type:"button",disabled:!aEnvoyer.length||null,onclick:()=>annEnvoyer(aEnvoyer)}, aEnvoyer.length ? "Envoyer " + Math.min(ANN_LOT, aEnvoyer.length) + " fichier(s) (" + aEnvoyer.length + " à envoyer)" : "Tout est reçu"),
         h("a",{class:"btn ghost",href:ANN_DRIVE,target:"_blank",rel:"noopener"},"Ouvrir le dossier Drive"))),
     list.length ? card("stack", h("h2",null, list.length + " fichier" + (list.length>1?"s":"")),
       h("div",{class:"list"}, list.map(a=>{
         const t = annTraite(a), c = concoursById(a.concours);
-        const st = t ? ["Intégré","ok"] : a.envoye ? ["Envoyé, en attente","cur"] : ["Pas encore envoyé",""];
+        const st = t ? ["Intégré","ok"] : annRecu(a) ? ["Reçu dans le dossier, traitement à venir","cur"] : a.envoye ? ["Partagé le " + frDate(a.envoye) + ", pas encore reçu dans le dossier","late"] : ["Pas encore envoyé",""];
         return h("div",{class:"item"},
           h("span",{class:"grow"}, h("b",null, a.name),
             h("span",{class:"muted small block"}, [c ? (c.court||c.nom) : null, a.annee || null, a.epreuve && TRACKS[a.epreuve] ? TRACKS[a.epreuve].court : null, Math.max(1, Math.round(a.size/1024)) + " Ko"].filter(Boolean).join(" · ")),
