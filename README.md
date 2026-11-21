@@ -7,3 +7,6 @@ Application de préparation aux concours directs de l'ENA de Côte d'Ivoire (ins
 - `tools/` : contrôleur (`validate.py`), index (`build_index.py`) et consignes de production (`GENERATION.md`).
 
 Chaque question nouvelle porte une source vérifiée, ou une règle de langue, ou un calcul recalculé par le contrôleur. Une erreur ? Bouton « Signaler une erreur » dans l'appli.
+
+## Maintenance
+`app.js` est le fichier source de l'appli (les sources découpées d'origine ne sont plus disponibles). Après toute modification : `python3 tools/release.py` (version, cache hors connexion, paramètre ?v=), puis `python3 tools/validate.py`.

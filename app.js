@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "v23 du 21/11/2026";
+const APP_VERSION = "v24 du 21/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1775,7 +1775,8 @@ function creditSeance(kind){
   if (clockBack()){ toast("La date du téléphone a reculé : séance non comptée. Corrigez la date et l'heure du téléphone."); return false; }
   if (anticip && anticip !== addDays(today(), 1)) anticip = null;
   const d = anticip || today(); const list = slotsOn(d); const done = state.done[d] || (state.done[d] = []);
-  const s = list.find(x=>x.k===kind && !done.includes(x.id));
+  let s = list.find(x=>x.k===kind && !done.includes(x.id));
+  if (!s && kind !== "blanc" && kind !== "ecrit" && kind !== "oral") s = list.find(x=>x.k==="revision" && !done.includes(x.id));
   if (s){ done.push(s.id); save(); toast("Séance « " + slotLabel(s) + " » validée pour " + (anticip ? "demain (" + frDate(d) + ")" : "aujourd'hui") + "."); if (anticip && list.every(x=>done.includes(x.id))) anticip = null; return true; }
   return false;
 }
@@ -2148,7 +2149,7 @@ function finishQCM(timeout){
   if (quiz.mode === "exam"){
     examFinish(); addXP(ok*10); markDay();
     afterQCM(quiz);
-  }
+  } else if (quiz.kind === "train" && quiz.items.length >= 8) creditSeance("revision");
   save(); render(); window.scrollTo({top:0});
 }
 function afterQCM(q){
@@ -2999,9 +3000,13 @@ function startRevision(k, ratt, lu){
     start: ()=>startQCM({items: pick(pool, n), title:(ratt ? "Rattrapage · " : "Révision · ") + t.court, kind: ratt ? "ratt" : "revision", ratt, track:k, chrono: n*60})});
 }
 function startBlanc(ratt, lu){
-  if (!lu && ["fr","ang","cg","log"].flatMap(k=>trackPool(k, true)).length >= 30) return avecLecon(leconFaible(QCM_TRACKS), "présélection blanche", ()=>startBlanc(ratt, true));
-  const pool = ["fr","ang","cg","log"].flatMap(k=>trackPool(k, true));
-  if (pool.length < 30){ toast("La présélection blanche s'ouvre quand 30 questions de présélection sont débloquées (" + pool.length + " aujourd'hui). Avancez dans le parcours."); return; }
+  let pool = ["fr","ang","cg","log"].flatMap(k=>trackPool(k, true));
+  if (pool.length < 30){
+    const ids = new Set(pool.map(q=>q.id));
+    for (const k of ["fr","ang","cg","log"]){ const cur = currentLevel(k); if (cur && !cur.last) for (const q of poolOf(cur)) if (!ids.has(q.id)){ ids.add(q.id); pool.push(q); } }
+  }
+  if (pool.length < 10){ toast("Pas encore assez de questions de présélection publiées (" + pool.length + ")."); return; }
+  if (!lu) return avecLecon(leconFaible(QCM_TRACKS) || currentLevel("fr"), "présélection blanche", ()=>startBlanc(ratt, true));
   const by = (k)=>pick(pool.filter(q=>trackOfQ(q)===k), k==="fr"||k==="cg" ? 12 : 11);
   const items = shuffle([].concat(by("fr"), by("cg"), by("ang"), by("log"))).slice(0,45);
   conditions({title:"Présélection blanche", desc: items.length + " questions mêlant français, culture générale, anglais et logique, en " + items.length + " minutes, barème officiel (+1/0/−1, logique +2/0/−2).",
@@ -3219,6 +3224,7 @@ function openLevel(id){
 }
 function minRead(arr, f){ const w = words((arr||[]).join(" ")); return Math.max(f==="r"?15:20, Math.min(f==="r"?90:240, Math.round(w*(f==="r"?0.25:0.2)))); }
 function vLesson(){
+  if (!lesson || !LVMAP[lesson.id]) return vParcours();
   const lv = LVMAP[lesson.id]; const l = lessonOf(lv);
   if (!l) return vTrack();
   const s = lvState(lv.id);
