@@ -33713,6 +33713,1827 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "questions": [
+    {
+     "id": "n20261121-ec05-01",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Selon l'article 52 de la Constitution, le suffrage est :",
+     "o": [
+      "universel, libre, égal et secret",
+      "universel, obligatoire, égal et public",
+      "censitaire, libre, égal et secret",
+      "capacitaire, direct, égal et secret"
+     ],
+     "a": 0,
+     "e": "L'article 52 de la Constitution dispose que le suffrage est universel, libre, égal et secret ; le Code électoral reprend la même formule à son article 2.",
+     "ed": [
+      null,
+      "Le suffrage n'est ni obligatoire ni public : l'article 52 le dit libre et secret.",
+      "Le suffrage censitaire, réservé aux personnes d'une certaine fortune, est l'inverse du suffrage universel.",
+      "Le suffrage capacitaire, réservé aux diplômés, est exclu par le suffrage universel."
+     ],
+     "src": {
+      "t": "Constitution de 2016, chapitre 2 : De la souveraineté (art. 50 à 52), Loi d'ici",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-souverainete/"
+     }
+    },
+    {
+     "id": "n20261121-ec05-02",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Selon l'article 3 du Code électoral, à partir de quel âge accompli peut-on être électeur ?",
+     "o": [
+      "16 ans",
+      "18 ans",
+      "21 ans",
+      "25 ans"
+     ],
+     "a": 1,
+     "e": "Sont électeurs les Ivoiriens âgés de dix-huit ans accomplis, inscrits sur une liste électorale et jouissant de leurs droits civils et politiques (article 3 du Code électoral).",
+     "ed": [
+      "Seize ans ne suffit pas : l'article 3 exige dix-huit ans accomplis.",
+      null,
+      "Vingt et un ans n'est pas l'âge électoral ivoirien : l'article 3 retient dix-huit ans accomplis.",
+      "Vingt-cinq ans est l'âge minimal pour être candidat à la députation (article 71), pas pour voter."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-03",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Que constate l'inscription sur une liste électorale, selon l'article 5 du Code électoral ?",
+     "o": [
+      "La nationalité ivoirienne",
+      "L'éligibilité à l'Assemblée nationale",
+      "L'adhésion à un parti politique",
+      "La qualité d'électeur"
+     ],
+     "a": 3,
+     "e": "L'article 5 du Code électoral dispose que la qualité d'électeur est constatée par l'inscription sur une liste électorale, et que cette inscription est de droit.",
+     "ed": [
+      "La nationalité est une condition préalable à l'inscription, prouvée par d'autres pièces ; l'inscription ne la constate pas.",
+      "L'éligibilité obéit à d'autres conditions (âge de 25 ans, résidence…) prévues par l'article 71.",
+      "L'inscription électorale n'a aucun lien avec l'appartenance à un parti, qui reste libre.",
+      null
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-04",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Le suffrage universel exclut le suffrage censitaire. Qu'est-ce qu'un suffrage censitaire ?",
+     "o": [
+      "Un droit de vote réservé aux personnes qui paient un certain montant d'impôt ou possèdent une certaine fortune",
+      "Un droit de vote réservé aux titulaires d'un diplôme",
+      "Un vote exprimé par des délégués élus",
+      "Un vote organisé après un recensement de la population"
+     ],
+     "a": 0,
+     "e": "Le suffrage censitaire subordonne le droit de vote au paiement d'un « cens », seuil d'impôt ou de fortune ; le suffrage universel l'exclut, comme il exclut le suffrage capacitaire.",
+     "ed": [
+      null,
+      "Le vote réservé aux diplômés s'appelle le suffrage capacitaire, autre forme exclue par le suffrage universel.",
+      "Le vote par délégués s'appelle le suffrage indirect, comme pour les deux tiers des sénateurs.",
+      "Le mot « cens » désigne ici un seuil d'impôt ou de fortune, et non un recensement."
+     ],
+     "src": {
+      "t": "« L'élection », conférence inaugurale du Président de la CEI à l'ENA, 12 juin 2024",
+      "u": "https://www.cei.ci/wp-content/uploads/2024/06/Conference_inaugurale_PCEI_ENA2024_VF.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-05",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Un électeur inscrit sur la liste du bureau se présente sans sa carte d'électeur, mais avec sa carte nationale d'identité. Peut-il voter ?",
+     "o": [
+      "Non : seule la carte d'électeur permet de voter",
+      "Oui, mais seulement par procuration",
+      "Oui : il peut justifier de son identité par sa carte nationale d'identité",
+      "Non : il doit d'abord se réinscrire auprès de la CEI"
+     ],
+     "a": 2,
+     "e": "Selon l'article 37 du Code électoral, nul ne vote s'il ne justifie de son identité, ce qu'il peut faire par sa carte d'électeur ou par sa carte nationale d'identité.",
+     "ed": [
+      "L'article 37 admet aussi la carte nationale d'identité pour justifier de son identité.",
+      "Le vote par procuration est interdit par l'article 34 du Code électoral.",
+      null,
+      "Il est déjà inscrit ; l'oubli de la carte d'électeur n'efface pas son inscription."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-06",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Après avoir glissé son bulletin dans l'urne et émargé, que se passe-t-il pour l'électeur, selon l'article 37 du Code électoral ?",
+     "o": [
+      "Il reçoit un reçu indiquant son choix",
+      "Il signe un second bulletin de contrôle",
+      "Il remet sa carte d'électeur au président du bureau",
+      "Son index gauche est marqué à l'encre indélébile"
+     ],
+     "a": 3,
+     "e": "Selon l'article 37, l'électeur émarge par sa signature ou l'empreinte de son index gauche, puis son index gauche est marqué à l'encre indélébile, ce qui empêche de voter deux fois.",
+     "ed": [
+      "Un reçu indiquant le choix violerait le secret du vote garanti par l'article 2.",
+      "Il n'existe qu'un bulletin unique de vote ; l'émargement suffit à tracer le vote.",
+      "La carte est personnelle : l'électeur la conserve.",
+      null
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-07",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Une électrice hospitalisée le jour du scrutin veut charger sa sœur de voter pour elle. Que prévoit le Code électoral ?",
+     "o": [
+      "C'est impossible : le vote par procuration est interdit",
+      "C'est possible avec une procuration signée devant le chef de quartier",
+      "C'est possible si la sœur vote dans le même bureau",
+      "Elle peut voter par correspondance depuis l'hôpital"
+     ],
+     "a": 0,
+     "e": "L'article 34 du Code électoral interdit le vote par correspondance, par ordonnance et par procuration : chaque électeur vote lui-même.",
+     "ed": [
+      null,
+      "Aucune procuration n'est admise : l'article 34 l'interdit.",
+      "Le lieu ne change rien : l'interdiction de l'article 34 est générale.",
+      "Le vote par correspondance est lui aussi interdit par l'article 34."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-08",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Selon l'article 33 du Code électoral, quel jour de la semaine le scrutin a-t-il lieu ?",
+     "o": [
+      "Le dimanche",
+      "Le vendredi",
+      "Le samedi",
+      "Un jour ouvrable choisi par chaque CEI locale"
+     ],
+     "a": 2,
+     "e": "L'article 33 du Code électoral fixe le scrutin un samedi ; la Constitution retient aussi le dernier samedi d'octobre pour le premier tour de la présidentielle.",
+     "ed": [
+      "Le dimanche est le jour de vote dans d'autres pays, pas dans le Code électoral ivoirien.",
+      "Le vendredi n'est pas le jour fixé par l'article 33.",
+      null,
+      "Le jour est fixé par le Code, et non laissé au choix des commissions locales."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-09",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Dans une circonscription qui n'élit qu'un seul député, quel mode de scrutin s'applique ?",
+     "o": [
+      "Le scrutin de liste à la représentation proportionnelle",
+      "Le scrutin uninominal majoritaire à un tour",
+      "Le scrutin uninominal majoritaire à deux tours",
+      "Le suffrage indirect par les conseillers régionaux"
+     ],
+     "a": 1,
+     "e": "L'article 68 du Code électoral prévoit l'élection des députés au suffrage universel direct et au scrutin majoritaire à un tour, uninominal dans les circonscriptions à un siège.",
+     "ed": [
+      "La proportionnelle n'est pas prévue : l'article 68 retient le scrutin majoritaire.",
+      null,
+      "Les législatives se jouent en un seul tour ; les deux tours concernent la présidentielle.",
+      "Le suffrage indirect concerne l'élection des deux tiers des sénateurs, pas des députés."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-10",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Que signifie un « scrutin de liste majoritaire bloquée à un tour, sans vote préférentiel ni panachage » ?",
+     "o": [
+      "L'électeur classe les candidats de la liste par ordre de préférence",
+      "L'électeur compose sa propre liste avec des candidats de listes différentes",
+      "Les sièges sont partagés entre les listes selon leur pourcentage de voix",
+      "L'électeur vote pour une liste entière sans la modifier, et la liste arrivée en tête obtient tous les sièges"
+     ],
+     "a": 3,
+     "e": "Dans un scrutin de liste bloquée, on ne modifie ni l'ordre ni la composition de la liste ; étant majoritaire et à un tour, il attribue tous les sièges à la liste arrivée en tête (article 68).",
+     "ed": [
+      "Le vote préférentiel est expressément exclu par l'article 68.",
+      "C'est le panachage, également exclu par l'article 68.",
+      "C'est la représentation proportionnelle, et non le scrutin majoritaire retenu par la loi.",
+      null
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-11",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Quel âge minimal le Code électoral exige-t-il d'un candidat à l'élection des députés ?",
+     "o": [
+      "18 ans",
+      "25 ans",
+      "35 ans",
+      "40 ans"
+     ],
+     "a": 1,
+     "e": "L'article 71 du Code électoral exige notamment que le candidat à l'élection de député à l'Assemblée nationale soit âgé de 25 ans au moins.",
+     "ed": [
+      "Dix-huit ans est l'âge pour être électeur, pas pour être candidat à la députation.",
+      null,
+      "Trente-cinq ans est l'âge minimal du candidat à la présidentielle et au Sénat.",
+      "Aucun texte cité n'exige 40 ans pour la députation."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-12",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Pour quelle durée les députés sont-ils élus, selon l'article 67 du Code électoral ?",
+     "o": [
+      "Cinq ans, et ils sont rééligibles",
+      "Quatre ans, sans possibilité de réélection",
+      "Six ans, renouvelables une fois",
+      "Sept ans, non renouvelables"
+     ],
+     "a": 0,
+     "e": "L'article 67 du Code électoral dispose que les députés sont élus pour cinq ans et qu'ils sont rééligibles ; l'article 86 de la Constitution retient aussi cinq ans.",
+     "ed": [
+      null,
+      "La durée est de cinq ans et l'article 67 précise qu'ils sont rééligibles.",
+      "Six ans est la durée du mandat des membres de la commission centrale de la CEI.",
+      "Aucune assemblée ivoirienne n'est élue pour sept ans."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-13",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Selon l'article 87 de la Constitution, quelle part des sénateurs est nommée par le Président de la République ?",
+     "o": [
+      "La moitié",
+      "Un quart",
+      "Un tiers",
+      "Aucun : tous sont élus au suffrage direct"
+     ],
+     "a": 2,
+     "e": "L'article 87 de la Constitution prévoit que deux tiers des sénateurs sont élus au suffrage universel indirect, le tiers restant étant nommé par le Président de la République.",
+     "ed": [
+      "La moitié ne correspond pas à la répartition : deux tiers élus, un tiers nommé.",
+      "Un quart est inexact : la Constitution retient un tiers.",
+      null,
+      "Les sénateurs élus le sont au suffrage indirect, et un tiers d'entre eux est nommé."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016 (rév. 2020), Constitute Project",
+      "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "n20261121-ec05-14",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Selon la loi n° 2022-886 du 23 novembre 2022, combien de membres compte la commission centrale de la CEI ?",
+     "o": [
+      "18",
+      "12",
+      "15",
+      "31"
+     ],
+     "a": 0,
+     "e": "L'article 5 nouveau de la loi relative à la CEI énumère 1 + 1 + 6 + 1 + 4 + 5 personnalités, soit 18 membres de la commission centrale.",
+     "ed": [
+      null,
+      "Douze ne correspond pas au total des catégories : 1 + 1 + 6 + 1 + 4 + 5 = 18.",
+      "Quinze est inexact : la loi énumère 18 personnalités.",
+      "Ce chiffre ne figure pas dans la loi de 2022."
+     ],
+     "src": {
+      "t": "Loi n° 2022-886 du 23 novembre 2022 modifiant la loi n° 2001-634 relative à la CEI (JORCI)",
+      "u": "https://cei.ci/wp-content/uploads/2026/01/Loi-2022-886-du-23-novembre-2022-Portant-Modification-de-la-Loi-n-2001-634-du-9-Octobre-2001-Portant-Composition-Organisation-Attributions-et-Fonctionnement-de-la-Commission-Electorale-Independante.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-15",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Combien de membres de la commission centrale de la CEI sont proposés par les partis ou groupements politiques de l'opposition ?",
+     "o": [
+      "4",
+      "5",
+      "6",
+      "1"
+     ],
+     "a": 1,
+     "e": "La loi n° 2022-886 attribue 5 sièges à l'opposition et 4 au parti au pouvoir dans la commission centrale ; les commissions locales suivent la même répartition 4 / 5.",
+     "ed": [
+      "Quatre est le nombre de membres proposés par le parti ou groupement au pouvoir.",
+      null,
+      "Six est le nombre de personnalités issues de la société civile.",
+      "Un seul membre est proposé par le Président de la République, un autre par le ministre de l'Administration du territoire."
+     ],
+     "src": {
+      "t": "Loi n° 2022-886 du 23 novembre 2022 modifiant la loi n° 2001-634 relative à la CEI (JORCI)",
+      "u": "https://cei.ci/wp-content/uploads/2026/01/Loi-2022-886-du-23-novembre-2022-Portant-Modification-de-la-Loi-n-2001-634-du-9-Octobre-2001-Portant-Composition-Organisation-Attributions-et-Fonctionnement-de-la-Commission-Electorale-Independante.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-16",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Pour quelle durée les membres de la commission centrale de la CEI sont-ils nommés ?",
+     "o": [
+      "Trois ans",
+      "Cinq ans",
+      "Jusqu'à la fin de chaque élection",
+      "Six ans"
+     ],
+     "a": 3,
+     "e": "L'article 5 nouveau de la loi relative à la CEI fixe un mandat de six ans pour les membres de la commission centrale, nommés par décret en Conseil des ministres.",
+     "ed": [
+      "Trois ans est la durée du mandat des vice-présidents et secrétaires du Bureau (article 10 nouveau).",
+      "Cinq ans est la durée des mandats présidentiel et parlementaires, pas celle des membres de la CEI.",
+      "Le mandat a une durée fixe ; il est seulement prolongé pour les élections tenues dans les douze mois suivant son expiration.",
+      null
+     ],
+     "src": {
+      "t": "Loi n° 2022-886 du 23 novembre 2022 modifiant la loi n° 2001-634 relative à la CEI (JORCI)",
+      "u": "https://cei.ci/wp-content/uploads/2026/01/Loi-2022-886-du-23-novembre-2022-Portant-Modification-de-la-Loi-n-2001-634-du-9-Octobre-2001-Portant-Composition-Organisation-Attributions-et-Fonctionnement-de-la-Commission-Electorale-Independante.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-17",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Après une élection présidentielle, quel organe proclame les résultats définitifs ?",
+     "o": [
+      "La Commission électorale indépendante",
+      "Le Conseil constitutionnel",
+      "La Cour de cassation",
+      "L'Assemblée nationale"
+     ],
+     "a": 1,
+     "e": "Selon l'article 63 du Code électoral, le Conseil constitutionnel proclame les résultats définitifs de l'élection présidentielle, après la proclamation provisoire par la CEI.",
+     "ed": [
+      "La CEI proclame les résultats provisoires (article 59) ; les résultats définitifs relèvent du Conseil constitutionnel.",
+      null,
+      "La Cour de cassation est une juridiction judiciaire, sans compétence électorale nationale.",
+      "Le Parlement ne proclame pas les résultats de l'élection présidentielle."
+     ],
+     "src": {
+      "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+      "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+     }
+    },
+    {
+     "id": "n20261121-ec05-18",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Dans une sous-préfecture, 12 500 électeurs sont inscrits et 8 000 ont voté. Quel est le taux de participation ?",
+     "o": [
+      "36 %",
+      "80 %",
+      "156 %",
+      "64 %"
+     ],
+     "a": 3,
+     "e": "Taux de participation = votants ÷ inscrits × 100 = 8 000 ÷ 12 500 × 100 = 64 %. Vérification : 64 % de 12 500 = 8 000.",
+     "ed": [
+      "36 % est le taux d'abstention : 100 − 64.",
+      "80 % proviendrait d'une division fausse ; 8 000 ÷ 12 500 = 0,64.",
+      "Diviser les inscrits par les votants (12 500 ÷ 8 000) inverse le calcul.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "8000/12500*100"
+    },
+    {
+     "id": "n20261121-ec05-19",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Au premier tour d'une élection présidentielle, 3 000 000 de suffrages sont exprimés. Combien de voix un candidat doit-il obtenir, au minimum, pour être élu dès ce tour ?",
+     "o": [
+      "1 500 000 voix",
+      "1 500 001 voix",
+      "1 000 001 voix",
+      "2 000 000 voix"
+     ],
+     "a": 1,
+     "e": "La majorité absolue exige plus de la moitié des suffrages exprimés : 3 000 000 ÷ 2 + 1 = 1 500 001 voix (article 56 de la Constitution).",
+     "ed": [
+      "1 500 000 voix font exactement la moitié, et non plus de la moitié : la majorité absolue n'est pas atteinte.",
+      null,
+      "Un tiers des voix plus une ne suffit pas : il faut plus de la moitié des suffrages exprimés.",
+      "Deux tiers des voix ne sont pas exigés ; plus de la moitié suffit."
+     ],
+     "verif": "calcul",
+     "calc": "3000000/2+1"
+    },
+    {
+     "id": "n20261121-ec05-20",
+     "m": "ecm",
+     "tag": "niv-ec05",
+     "q": "Selon l'article 25 de la Constitution, lequel de ces partis serait interdit ?",
+     "o": [
+      "Un parti qui propose d'approfondir la décentralisation",
+      "Un parti d'opposition qui critique le Gouvernement",
+      "Un parti qui n'admet que les membres d'une seule ethnie",
+      "Un parti légalement constitué qui reçoit un financement public"
+     ],
+     "a": 2,
+     "e": "L'article 25 de la Constitution interdit les partis et groupements politiques créés sur une base régionale, religieuse, tribale, ethnique ou raciale, pour protéger l'unité nationale.",
+     "ed": [
+      "Défendre un programme politique est libre, dans le respect des lois et de la démocratie.",
+      "L'État garantit le droit à l'opposition démocratique (article 29).",
+      null,
+      "La Constitution prévoit au contraire un financement public des partis légalement constitués."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016 (rév. 2020), Constitute Project",
+      "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "n20261121-or06-01",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Lors d'une mise en situation, que cherche d'abord le jury ?",
+     "o": [
+      "La récitation exacte des textes applicables",
+      "La réponse unique prévue dans un corrigé officiel",
+      "Le bon sens, le pragmatisme et la capacité à envisager plusieurs solutions",
+      "La rapidité de la réponse, sans temps de réflexion"
+     ],
+     "a": 2,
+     "e": "Le jury de l'IRA de Lille indique qu'il n'y a pas de bonne ou de mauvaise réponse : il vérifie le bon sens, le pragmatisme et la capacité à envisager plusieurs solutions.",
+     "ed": [
+      "Connaître le cadre aide, mais le jury évalue surtout le raisonnement et la décision.",
+      "Les rapports de jury rappellent qu'il n'y a pas de réponse unique attendue.",
+      null,
+      "Répondre hâtivement est justement un défaut relevé par les jurys."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "IRA de Lille, concours 2020-1 : rapport du jury",
+      "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Lille_2020-1_Rapport_du_jury.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-02",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Quelle est la première étape de la méthode en cinq temps d'une mise en situation ?",
+     "o": [
+      "Écouter la question jusqu'au bout et la reformuler",
+      "Annoncer tout de suite la sanction à prendre",
+      "Demander au jury quelle réponse il attend",
+      "Citer tous les textes de loi que l'on connaît"
+     ],
+     "a": 0,
+     "e": "On écoute jusqu'au bout puis on reformule : cela vérifie la compréhension, fait gagner quelques secondes et évite les réponses précipitées que les jurys relèvent.",
+     "ed": [
+      null,
+      "Décider avant d'avoir compris conduit à une réponse hâtive et souvent inadaptée.",
+      "Le jury attend votre analyse ; lui retourner la question montre un manque d'autonomie.",
+      "Le cadre se pose au troisième temps, et seulement avec les règles utiles à la situation."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-03",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Selon le rapport de l'IRA de Lyon, à quelle famille appartient une panne générale d'électricité dans un service ouvert au public ?",
+     "o": [
+      "Les situations de déontologie",
+      "Les situations de crise",
+      "Les situations de management",
+      "Les questions de culture générale"
+     ],
+     "a": 1,
+     "e": "Le rapport de l'IRA de Lyon range parmi les crises l'accident, l'événement exceptionnel, la panne et les problèmes de sécurité ; on y applique la priorité à la sécurité des personnes.",
+     "ed": [
+      "La déontologie concerne l'intégrité et l'impartialité (cadeau, favoritisme), pas un incident matériel.",
+      null,
+      "Le management vise les relations avec les agents ; une panne relève d'abord de la gestion de crise.",
+      "Ce n'est pas une question de connaissance : il faut agir sur un incident."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "IRA de Lyon, session 2021-2 : rapport de la présidente du jury",
+      "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Rapport_jury_IRA_Lyon_2021-2.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-04",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Quel ordre de priorité convient dans une situation de crise ?",
+     "o": [
+      "Compte rendu à la hiérarchie, puis sécurité des personnes",
+      "Sauvegarde des documents, puis sécurité des personnes",
+      "Recherche du responsable, puis sécurité des personnes",
+      "Sécurité des personnes, continuité du service, puis compte rendu et prévention"
+     ],
+     "a": 3,
+     "e": "Dans une crise, on protège d'abord les personnes, on assure ensuite la continuité du service, puis on rend compte et on tire les leçons de l'incident.",
+     "ed": [
+      "On informe la hiérarchie, mais on ne retarde pas la mise en sécurité des personnes.",
+      "Les biens et les archives passent après les vies humaines.",
+      "Chercher un coupable est secondaire ; protéger vient d'abord.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-05",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Quel type de réponse le jury de l'IRA de Lyon demande-t-il face à la demande d'un agent ?",
+     "o": [
+      "Une décision concrète et justifiée, du type « je donne un avis favorable parce que… »",
+      "Un exposé théorique sur les styles de management",
+      "Une liste de toutes les options sans en choisir aucune",
+      "Un renvoi systématique de la décision au directeur"
+     ],
+     "a": 0,
+     "e": "Le rapport de l'IRA de Lyon attend une réponse concrète de manager, avec une décision et sa justification, plutôt que des développements abstraits.",
+     "ed": [
+      null,
+      "Le jury reproche justement les développements abstraits.",
+      "Le jury demande aux candidats de se positionner clairement.",
+      "S'en remettre sans cesse au supérieur montre un manque de posture de cadre."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "IRA de Lyon, session 2021-2 : rapport de la présidente du jury",
+      "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Rapport_jury_IRA_Lyon_2021-2.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-06",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Face à un agent en difficulté, quels sont les deux excès que le jury de l'IRA de Lille met en garde d'éviter ?",
+     "o": [
+      "La politesse et la fermeté",
+      "L'application autoritaire de la règle et une empathie démesurée",
+      "L'écoute de l'agent et l'information de la hiérarchie",
+      "La prise de notes et la reformulation"
+     ],
+     "a": 1,
+     "e": "Le jury de Lille appelle à un équilibre entre le respect strict, voire autoritaire, de la règle et une empathie parfois démesurée : la dimension humaine compte, sans renoncer aux règles impératives.",
+     "ed": [
+      "La politesse et la fermeté sont des qualités attendues, pas des excès.",
+      null,
+      "Écouter et informer la hiérarchie font partie de la bonne réponse.",
+      "Prendre des notes et reformuler aident à répondre ; ce ne sont pas des défauts."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "IRA de Lille, concours 2020-1 : rapport du jury",
+      "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Lille_2020-1_Rapport_du_jury.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-07",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Un usager vous propose une somme d'argent pour que son dossier passe avant les autres. Quelle est la bonne réponse devant le jury ?",
+     "o": [
+      "Accepter puis reverser la somme à la caisse du service",
+      "Refuser violemment et chasser l'usager du bureau",
+      "Refuser poliment, rappeler l'égalité de traitement et informer la hiérarchie",
+      "Traiter le dossier en priorité sans prendre l'argent"
+     ],
+     "a": 2,
+     "e": "En déontologie, la règle ne se négocie pas : on refuse avec courtoisie, on explique que chaque dossier est traité dans l'ordre, et l'on informe le supérieur de la tentative.",
+     "ed": [
+      "Accepter, même pour reverser, reste une compromission et laisse croire qu'on peut acheter un service.",
+      "Le refus doit rester courtois ; l'agressivité nuit à l'image du service.",
+      null,
+      "Accorder la priorité demandée revient à céder au passe-droit."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-08",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Que doit faire le candidat quand deux solutions lui paraissent possibles ?",
+     "o": [
+      "Refuser de répondre tant que le jury n'a pas tranché",
+      "Choisir au hasard pour ne pas perdre de temps",
+      "Proposer les deux en même temps sans les hiérarchiser",
+      "Les présenter brièvement, puis en retenir une et justifier son choix"
+     ],
+     "a": 3,
+     "e": "Présenter les options montre l'ouverture d'esprit ; choisir et justifier montre la posture de décideur que le jury de l'IRA de Lyon demande.",
+     "ed": [
+      "Le jury évalue votre capacité à décider ; refuser de choisir est un défaut.",
+      "Un choix non justifié ne montre aucun raisonnement.",
+      "Le jury attend un positionnement clair, pas une hésitation.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-09",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Vous êtes secrétaire général de mairie. Un usager s'effondre dans la salle d'attente. Quelle est votre première action ?",
+     "o": [
+      "Faire porter secours et appeler les services d'urgence",
+      "Téléphoner au maire pour savoir quoi faire",
+      "Faire continuer l'accueil comme si de rien n'était",
+      "Rédiger immédiatement un rapport d'incident"
+     ],
+     "a": 0,
+     "e": "La sécurité des personnes est la première priorité : on porte secours et on alerte les urgences, puis on rétablit le service et l'on rend compte.",
+     "ed": [
+      null,
+      "Informer le maire viendra ensuite ; secourir la personne ne peut pas attendre.",
+      "La sécurité des personnes passe avant la continuité du service.",
+      "Le compte rendu écrit vient après la prise en charge de la victime."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-10",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Lequel de ces éléments manque à la réponse suivante : « J'évacue les usagers, j'installe un accueil provisoire et je fais sécher les registres » ?",
+     "o": [
+      "La mise en sécurité des personnes",
+      "Le compte rendu à la hiérarchie et le retour d'expérience",
+      "La continuité du service",
+      "La sauvegarde des documents"
+     ],
+     "a": 1,
+     "e": "La réponse protège, assure la continuité et sauve les documents, mais oublie le cinquième temps : rendre compte au supérieur et proposer des mesures de prévention.",
+     "ed": [
+      "La mise en sécurité figure déjà dans la réponse : l'évacuation des usagers.",
+      null,
+      "L'accueil provisoire assure déjà la continuité du service.",
+      "Le séchage des registres traite déjà ce point."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-11",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Un agent arrive en retard tous les lundis. Quelle réponse est la plus adaptée ?",
+     "o": [
+      "Le sanctionner immédiatement sans l'entendre",
+      "Ne rien dire pour préserver l'ambiance du service",
+      "Le recevoir, chercher la cause, rappeler l'obligation de ponctualité et formaliser la suite s'il persiste",
+      "Demander à ses collègues de le surveiller"
+     ],
+     "a": 2,
+     "e": "La bonne réponse conjugue écoute et fermeté : un entretien pour comprendre, un rappel clair de la règle, puis une suite écrite et l'information de la hiérarchie si rien ne change.",
+     "ed": [
+      "Sanctionner sans écouter relève de l'autoritarisme que le jury critique.",
+      "Laisser faire est une résignation : la règle doit valoir pour tous.",
+      null,
+      "Faire surveiller un agent par ses pairs dégrade le climat et contourne la responsabilité du chef."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-12",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Un juré vous dit : « Et si votre directeur vous demande de ne rien signaler ? » Quelle attitude adopter ?",
+     "o": [
+      "Rester calme, dialoguer avec le directeur et rappeler la règle sans céder sur l'essentiel",
+      "Changer aussitôt de réponse pour satisfaire le juré",
+      "Dire que l'on obéira dans tous les cas",
+      "Accuser le directeur de corruption devant le jury"
+     ],
+     "a": 0,
+     "e": "La relance teste votre solidité. Le rapport de jury de 2025 rappelle qu'il ne suffit pas de s'en remettre aveuglément au supérieur : il faut pouvoir dialoguer avec lui, en restant dans le cadre légal.",
+     "ed": [
+      null,
+      "Abandonner son raisonnement à la première relance montre un manque de solidité.",
+      "La loyauté ne signifie pas s'en remettre aveuglément au supérieur.",
+      "Une accusation sans éléments est imprudente et manque de mesure."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "SIEC, concours externe de secrétaire administratif, session 2025 : rapport de jury",
+      "u": "https://siec.education.fr/candidats/docutheque/download/rapport-de-jury-classe-normale-et-classe-superieure-session-2024-0/2025%20-%20rapport%20du%20jury%20-%20concours%20externe%20de%20SAENES%20classe%20normale.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-13",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Pourquoi formuler sa réponse à la première personne (« je décide… ») ?",
+     "o": [
+      "Parce que l'emploi de « on » est interdit à l'oral",
+      "Parce que cela permet de parler plus longtemps",
+      "Parce que le jury veut connaître votre vie privée",
+      "Parce que le jury évalue la posture du futur cadre qui prend ses responsabilités"
+     ],
+     "a": 3,
+     "e": "Dire « je » montre que vous assumez la décision : le jury de Lyon valorise un positionnement de cadre qui prend ses responsabilités, même en situation de crise.",
+     "ed": [
+      "Aucune règle n'interdit « on » ; c'est une question de posture, pas d'interdiction.",
+      "La longueur ne compte pas ; la clarté de la décision compte.",
+      "La mise en situation porte sur le comportement professionnel, pas sur la vie privée.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-14",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Laquelle de ces réponses le jury de l'IRA de Lille cite-t-il comme un défaut face à une dérive d'un agent ?",
+     "o": [
+      "Proposer un entretien avec l'agent",
+      "Dire qu'il convient de « faire avec »",
+      "Informer la hiérarchie par écrit",
+      "Rappeler la règle applicable"
+     ],
+     "a": 1,
+     "e": "Le jury de Lille relève que trop souvent il a été répondu qu'il convient de « faire avec » : c'est une résignation qui laisse la dérive se poursuivre.",
+     "ed": [
+      "L'entretien fait partie d'une réponse équilibrée.",
+      null,
+      "Rendre compte est une étape normale de la réponse.",
+      "Rappeler la règle est attendu du futur encadrant."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "IRA de Lille, concours 2020-1 : rapport du jury",
+      "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Lille_2020-1_Rapport_du_jury.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-15",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Le jury relance : « Vous n'avez aucun budget pour votre solution. » Que faire ?",
+     "o": [
+      "Accepter la contrainte et proposer une solution à moindre coût ou étalée dans le temps",
+      "Maintenir la solution en disant que le budget se trouvera",
+      "Abandonner toute action puisque rien n'est possible",
+      "Reprocher au jury de poser une question piège"
+     ],
+     "a": 0,
+     "e": "Le jury de Lille attend que le candidat tienne compte des contraintes budgétaires et humaines : on adapte les moyens (réorganisation, redéploiement, étapes) sans renoncer à l'objectif.",
+     "ed": [
+      null,
+      "Ignorer la contrainte montre un manque de réalisme.",
+      "Renoncer est une résignation ; on adapte les moyens sans abandonner l'objectif.",
+      "Contester le jury est une faute de posture."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "IRA de Lille, concours 2020-1 : rapport du jury",
+      "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Lille_2020-1_Rapport_du_jury.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-16",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Un fournisseur vous invite à déjeuner pendant que vous examinez son offre. Quelle valeur est en jeu ?",
+     "o": [
+      "La ponctualité",
+      "La continuité du service public",
+      "L'impartialité",
+      "La mutabilité du service public"
+     ],
+     "a": 2,
+     "e": "Accepter un avantage d'un candidat à un marché ferait douter de l'impartialité de l'examen des offres : on refuse et l'on informe la hiérarchie.",
+     "ed": [
+      "La ponctualité concerne le respect des horaires, pas les relations avec un candidat à un marché.",
+      "La continuité vise le fonctionnement régulier du service, non l'indépendance de jugement.",
+      null,
+      "La mutabilité désigne l'adaptation du service aux besoins, sans lien avec cette situation."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-17",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Quelle réponse illustre le mieux le défaut « respect strict de la norme au détriment de la sécurité » ?",
+     "o": [
+      "Évacuer un bâtiment menacé d'effondrement avant d'informer le directeur",
+      "Couper l'électricité d'une zone inondée",
+      "Appeler les secours pour un agent blessé",
+      "Refuser d'ouvrir une salle de réunion à des usagers surpris par un orage parce qu'ils n'ont pas réservé"
+     ],
+     "a": 3,
+     "e": "Opposer une règle de réservation à des personnes en danger fait primer la norme sur la sécurité, défaut que le jury de Lille reproche à certains candidats.",
+     "ed": [
+      "Mettre les personnes à l'abri avant de rendre compte est la bonne priorité.",
+      "C'est une mesure de sécurité adaptée.",
+      "Porter secours est la première priorité en situation de crise.",
+      null
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "IRA de Lille, concours 2020-1 : rapport du jury",
+      "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Lille_2020-1_Rapport_du_jury.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-18",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Une collègue tient des propos discriminatoires envers un agent. Que pensez-vous de la réponse « Je l'écoute pour comprendre ses raisons » ?",
+     "o": [
+      "Elle est insuffisante : il faut aussi rappeler la règle, protéger l'agent visé et envisager une suite",
+      "Elle est parfaite : l'écoute suffit à régler le conflit",
+      "Elle est fautive : un chef ne doit jamais écouter un agent fautif",
+      "Elle est hors sujet : ce n'est pas une situation de management"
+     ],
+     "a": 0,
+     "e": "Le rapport de l'IRA de Lyon, à propos de propos racistes, rappelle que l'écoute de l'agent fautif n'est pas la seule mesure : il faut aussi rappeler la règle et protéger la victime.",
+     "ed": [
+      null,
+      "Le jury de Lyon précise que l'écoute de l'agent fautif n'est pas la seule mesure à mettre en place.",
+      "L'écoute garde sa place ; elle doit seulement être complétée par des mesures fermes.",
+      "Les relations humaines dans l'équipe relèvent bien du management."
+     ],
+     "verif": "methode",
+     "src": {
+      "t": "IRA de Lyon, session 2021-2 : rapport de la présidente du jury",
+      "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Rapport_jury_IRA_Lyon_2021-2.pdf"
+     }
+    },
+    {
+     "id": "n20261121-or06-19",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Lequel de ces éléments n'a PAS sa place dans une bonne réponse de mise en situation ?",
+     "o": [
+      "La reformulation de la situation",
+      "Un chiffre ou un article de loi inventé pour impressionner le jury",
+      "Le rappel du cadre réglementaire",
+      "Le compte rendu à la hiérarchie"
+     ],
+     "a": 1,
+     "e": "Un fait inventé ruine la crédibilité du candidat dès que le jury le relève ; mieux vaut rappeler une règle de façon générale que citer un article inexact.",
+     "ed": [
+      "La reformulation ouvre utilement la réponse.",
+      null,
+      "Le rapport de jury de 2025 valorise les solutions qui rappellent le cadre réglementaire.",
+      "Rendre compte est le dernier temps de la méthode."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-or06-20",
+     "m": "oral",
+     "tag": "niv-or06",
+     "q": "Vous êtes chef de bureau. Votre supérieur, absent, est injoignable ; une décision urgente doit être prise pour la sécurité d'un chantier. Que faites-vous ?",
+     "o": [
+      "J'attends le retour du supérieur pour ne pas sortir de mon rôle",
+      "Je décide de tout, y compris de questions non urgentes, pendant son absence",
+      "Je prends la mesure de sécurité nécessaire, je la consigne par écrit et j'en rends compte dès que possible",
+      "Je confie la décision au chef de chantier de l'entreprise"
+     ],
+     "a": 2,
+     "e": "En cas d'urgence, le cadre agit dans la limite de ce que la sécurité exige, garde une trace écrite et rend compte : c'est la posture de responsabilité attendue par les jurys.",
+     "ed": [
+      "Attendre laisse le danger se réaliser : la sécurité ne peut pas être différée.",
+      "Seule l'urgence justifie d'agir ; le reste attend le supérieur.",
+      null,
+      "L'administration ne délègue pas sa responsabilité de sécurité à son prestataire."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-rd09-01",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Quelle formule d'appel est correcte dans une lettre adressée à une ministre ?",
+     "o": [
+      "Mme la Ministre,",
+      "Chère Madame la Ministre,",
+      "Madame la Ministre,",
+      "Madame la ministre Koné,"
+     ],
+     "a": 2,
+     "e": "L'appel associe le titre de civilité, écrit en toutes lettres, et le titre de fonction avec une majuscule, suivis d'une virgule : « Madame la Ministre, ».",
+     "ed": [
+      "Dans l'appel, le titre de civilité ne s'abrège pas.",
+      "« Chère » est réservé à une personne que l'on connaît très bien, pas à une autorité dans une lettre officielle.",
+      null,
+      "L'appel reprend le titre de fonction avec une majuscule, sans le nom."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules d'appel dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22099/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-dappel-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-02",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Que doit reprendre la formule finale d'une lettre ?",
+     "o": [
+      "La formule d'appel, à l'identique et entre virgules",
+      "Le nom complet du destinataire",
+      "L'objet de la lettre",
+      "Le titre de l'expéditeur"
+     ],
+     "a": 0,
+     "e": "La formule de salutation reprend la formule d'appel entre virgules : à « Madame la Présidente, » répond « Je vous prie d'agréer, Madame la Présidente, … ».",
+     "ed": [
+      null,
+      "On reprend l'appel, qui ne contient pas le nom dans une lettre à une autorité.",
+      "L'objet figure en tête de lettre, pas dans la formule de politesse.",
+      "La formule s'adresse au destinataire : c'est son appellation qu'on reprend."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-03",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Classez ces verbes de la formule finale du moins déférent au plus déférent.",
+     "o": [
+      "Je vous prie d'agréer ; Veuillez agréer ; Recevez",
+      "Veuillez agréer ; Recevez ; Je vous prie d'agréer",
+      "Recevez ; Je vous prie d'agréer ; Veuillez agréer",
+      "Recevez ; Veuillez agréer ; Je vous prie d'agréer"
+     ],
+     "a": 3,
+     "e": "L'OQLF classe les formules en ordre croissant de déférence : « Recevez » (ou « Agréez »), « Veuillez recevoir » (ou « Veuillez agréer »), « Je vous prie de recevoir » (ou « Je vous prie d'agréer »).",
+     "ed": [
+      "C'est l'ordre inverse : « Je vous prie d'agréer » est le plus déférent.",
+      "« Recevez » est moins déférent que « Veuillez agréer ».",
+      "« Veuillez agréer » se place avant « Je vous prie d'agréer » dans l'échelle de déférence.",
+      null
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-04",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Quelle formule finale est grammaticalement fautive ?",
+     "o": [
+      "Agréez, Madame, mes salutations distinguées.",
+      "Veuillez agréer, Madame, l'expression de mes salutations distinguées.",
+      "Veuillez agréer, Madame, l'expression de ma considération distinguée.",
+      "Recevez, Madame, mes plus cordiales salutations."
+     ],
+     "a": 1,
+     "e": "« L'expression de » et « l'assurance de » ne peuvent pas avoir « salutations » pour complément : on écrit « mes salutations distinguées » directement, ou « l'expression de ma considération ».",
+     "ed": [
+      "Cette formule est correcte : « salutations » est complément direct d'« agréez ».",
+      null,
+      "Cette formule est correcte : « l'expression de » se construit avec « considération ».",
+      "Cette formule est correcte et convient envers un subordonné."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-05",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Dans les communiqués officiels ivoiriens, comment le chef de l'État est-il désigné ?",
+     "o": [
+      "Son Excellence Monsieur Alassane OUATTARA, Président de la République, Chef de l'État",
+      "L'Honorable Alassane OUATTARA, Président de la République",
+      "Maître Alassane OUATTARA, Président de la République",
+      "Sa Majesté Alassane OUATTARA, Chef de l'État"
+     ],
+     "a": 0,
+     "e": "Le communiqué du Conseil des ministres du 4 janvier 2024 se tient « sous la présidence de Son Excellence Monsieur Alassane OUATTARA, Président de la République, Chef de l'Etat ».",
+     "ed": [
+      null,
+      "« Honorable » s'emploie couramment pour les députés, pas pour le chef de l'État.",
+      "« Maître » est réservé aux avocats et aux notaires.",
+      "« Sa Majesté » s'applique aux souverains, non au président d'une République."
+     ],
+     "src": {
+      "t": "Communiqué du Conseil des ministres du jeudi 4 janvier 2024 (gouv.ci)",
+      "u": "https://www.gouv.ci/uploads/publications/1704405801Communique-du-Conseil-des-Ministres-du-jeudi-04-janvier-2024.pdf"
+     }
+    },
+    {
+     "id": "n20261121-rd09-06",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Quand emploie-t-on « Son Excellence » plutôt que « Excellence » ?",
+     "o": [
+      "Quand on s'adresse directement à la personne dans l'appel",
+      "Seulement après la fin du mandat",
+      "Quand on parle de la personne à la troisième personne, par exemple dans une suscription ou un communiqué",
+      "Uniquement à l'oral, jamais à l'écrit"
+     ],
+     "a": 2,
+     "e": "Le possessif « Son » renvoie à une troisième personne : on écrit « Son Excellence » pour désigner l'autorité ; on lui dit « Excellence » quand on s'adresse à elle, comme dans l'appel protocolaire « Excellence, ».",
+     "ed": [
+      "Pour s'adresser directement à la personne, on emploie « Excellence » sans possessif.",
+      "Le titre de courtoisie ne s'emploie, au contraire, que pendant le mandat.",
+      null,
+      "« Son Excellence » s'écrit couramment dans les communiqués et les suscriptions."
+     ],
+     "src": {
+      "t": "Patrimoine canadien, directives protocolaires : formules épistolaires",
+      "u": "https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html"
+     }
+    },
+    {
+     "id": "n20261121-rd09-07",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Dans l'usage ivoirien, quel titre la presse nationale donne-t-elle couramment à un député ?",
+     "o": [
+      "Son Excellence",
+      "Maître",
+      "Monseigneur",
+      "L'Honorable"
+     ],
+     "a": 3,
+     "e": "Fraternité Matin titre ainsi un entretien du 3 avril 2021 : « Honorable Lacina Ouattara (député de Korhogo commune) ». L'appellation « Honorable » est l'usage courant pour les députés.",
+     "ed": [
+      "« Son Excellence » désigne le chef de l'État dans les communiqués officiels, pas les députés.",
+      "« Maître » désigne les avocats et les notaires.",
+      "« Monseigneur » est un titre ecclésiastique, sans lien avec le Parlement.",
+      null
+     ],
+     "src": {
+      "t": "Fraternité Matin, « Honorable Lacina Ouattara (député de Korhogo commune) », 3 avril 2021",
+      "u": "https://www.fratmat.info/article/212129/politique/honorable-lacina-ouattara-alias-lass-pr-depute-de-korhogo-commune-mon-ambition-est-de-contribuer-au-succes-de-cette-legislature-"
+     }
+    },
+    {
+     "id": "n20261121-rd09-08",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "À qui donne-t-on le titre de « Maître » dans la correspondance ?",
+     "o": [
+      "Aux avocats et aux notaires",
+      "Aux magistrats du siège",
+      "Aux professeurs d'université",
+      "Aux directeurs généraux"
+     ],
+     "a": 0,
+     "e": "L'OQLF indique que l'appel « Maître, » s'emploie pour les avocats et les notaires ; les magistrats reçoivent leur titre de fonction.",
+     "ed": [
+      null,
+      "On écrit à un magistrat « Monsieur le Juge » ou « Madame la Présidente », pas « Maître ».",
+      "On écrit « Monsieur le Professeur » à un professeur.",
+      "Un directeur général reçoit son titre de fonction : « Monsieur le Directeur général »."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules d'appel dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22099/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-dappel-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-09",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Un directeur écrit à un chef de service placé sous son autorité. Quelle formule finale convient le mieux ?",
+     "o": [
+      "Je vous prie d'agréer, Monsieur le Chef de service, l'expression de ma très haute considération.",
+      "Recevez, Monsieur le Chef de service, mes plus cordiales salutations.",
+      "Veuillez agréer, Monsieur, l'expression de mon profond respect.",
+      "Je vous prie de croire, cher ami, à mes sentiments les meilleurs."
+     ],
+     "a": 1,
+     "e": "Envers un subordonné, l'OQLF propose « mes plus cordiales salutations » ou « l'assurance de ma considération distinguée », avec un verbe peu appuyé et la reprise de l'appel.",
+     "ed": [
+      "« Très haute considération » est réservé aux plus hautes autorités, pas à un subordonné.",
+      null,
+      "Le « profond respect » marque la déférence envers une autorité, et l'appel n'est pas repris.",
+      "Cette formule relève de la correspondance personnelle, pas d'une lettre de service."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-10",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Deux directeurs centraux de ministères différents correspondent. Quelle formule convient entre ces égaux ?",
+     "o": [
+      "Veuillez agréer, Monsieur le Directeur, l'assurance de ma considération distinguée.",
+      "Je vous prie d'agréer, Monsieur le Directeur, l'expression de ma très haute considération.",
+      "Recevez, Monsieur le Directeur, mes plus cordiales salutations, cher ami.",
+      "Agréez, Monsieur, l'expression de mes salutations distinguées."
+     ],
+     "a": 0,
+     "e": "Entre personnes de même niveau d'autorité, l'OQLF propose « mes salutations distinguées » ou « l'assurance de ma considération distinguée ».",
+     "ed": [
+      null,
+      "Cette formule est réservée aux plus hautes autorités, pas à un égal.",
+      "Le ton familier (« cher ami ») ne convient qu'à un proche, et la formule mêle deux registres.",
+      "« L'expression de » ne se construit pas avec « salutations », et l'appel n'est pas repris."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-11",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Quelle formule finale le protocole canadien emploie-t-il envers le Premier ministre ?",
+     "o": [
+      "Recevez, Monsieur le Premier Ministre, mes salutations distinguées.",
+      "Veuillez agréer, Monsieur, mes sentiments les meilleurs.",
+      "Je vous prie d'agréer, cher Premier Ministre, l'assurance de mon amitié.",
+      "Je vous prie d'agréer, Monsieur le Premier Ministre, l'expression de ma très haute considération."
+     ],
+     "a": 3,
+     "e": "Les directives de Patrimoine canadien prévoient, pour le Premier ministre, l'appel « Monsieur le Premier Ministre, » et la salutation « …l'expression de ma très haute considération ».",
+     "ed": [
+      "« Recevez » et « salutations distinguées » sont trop peu déférents pour un chef de gouvernement.",
+      "La formule ne reprend pas l'appel et emploie un registre personnel.",
+      "Le ton amical est déplacé envers un chef de gouvernement.",
+      null
+     ],
+     "src": {
+      "t": "Patrimoine canadien, directives protocolaires : formules épistolaires",
+      "u": "https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html"
+     }
+    },
+    {
+     "id": "n20261121-rd09-12",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Dans une lettre officielle, pourquoi évite-t-on « Cher Monsieur le Directeur » ?",
+     "o": [
+      "Parce que « cher » est une faute d'orthographe dans cette position",
+      "Parce que « cher » se réserve à une personne que l'on connaît très bien",
+      "Parce que « cher » ne s'emploie qu'au féminin",
+      "Parce que « cher » est obligatoire seulement pour les ministres"
+     ],
+     "a": 1,
+     "e": "L'OQLF précise que l'adjectif « cher » ou « chère » s'emploie avec un destinataire que l'on connaît très bien ; dans une lettre officielle à une autorité, il est déplacé.",
+     "ed": [
+      "« Cher » est correctement orthographié ; c'est le registre qui ne convient pas.",
+      null,
+      "« Cher » s'accorde au masculin comme au féminin (« Chère collègue »).",
+      "Aucune règle n'impose « cher » envers un ministre ; c'est même à éviter."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules d'appel dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22099/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-dappel-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-13",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Vous ne savez pas qui lira la lettre adressée à un service. Quel appel choisir ?",
+     "o": [
+      "À qui de droit,",
+      "Chers tous,",
+      "Madame, Monsieur,",
+      "Mesdemoiselles,"
+     ],
+     "a": 2,
+     "e": "Quand le destinataire est inconnu, l'OQLF recommande « Madame, Monsieur, » ou « Mesdames, Messieurs, » ; « À qui de droit » ne s'emploie qu'à l'intérieur d'une phrase.",
+     "ed": [
+      "« À qui de droit » ne s'emploie qu'à l'intérieur d'une phrase, pas comme appel.",
+      "Cette formule familière ne convient pas à une lettre administrative.",
+      null,
+      "« Mademoiselle » ne s'emploie que dans des cas très particuliers, et exclut ici les hommes."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules d'appel dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22099/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-dappel-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-14",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Une directrice assure l'intérim d'un poste. Quel appel convient ?",
+     "o": [
+      "Madame la Directrice,",
+      "Madame la Directrice par intérim,",
+      "Madame la Directrice p. i.,",
+      "Mme la Directrice,"
+     ],
+     "a": 0,
+     "e": "L'OQLF précise que « par intérim » et « p. i. » n'ont pas leur place dans l'appel : on écrit simplement « Madame la Directrice, ».",
+     "ed": [
+      null,
+      "La mention « par intérim » n'a pas sa place dans l'appel.",
+      "L'abréviation « p. i. » n'a pas non plus sa place dans l'appel.",
+      "Le titre de civilité ne s'abrège pas dans l'appel."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules d'appel dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22099/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-dappel-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-15",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Corrigez l'appel « Maître le Juge, » d'une lettre adressée à un juge d'instruction.",
+     "o": [
+      "Maître,",
+      "Honorable Juge,",
+      "Cher Juge,",
+      "Monsieur le Juge,"
+     ],
+     "a": 3,
+     "e": "Un magistrat reçoit son titre de fonction précédé du titre de civilité : « Monsieur le Juge, » ou « Madame la Juge, », comme dans les directives protocolaires canadiennes.",
+     "ed": [
+      "« Maître » est réservé aux avocats et aux notaires, pas aux magistrats.",
+      "« Honorable » n'est pas l'appel d'un magistrat dans la correspondance administrative.",
+      "« Cher » est familier et le titre de civilité manque.",
+      null
+     ],
+     "src": {
+      "t": "Patrimoine canadien, directives protocolaires : formules épistolaires",
+      "u": "https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html"
+     }
+    },
+    {
+     "id": "n20261121-rd09-16",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Pourquoi évite-t-on « Je vous prie de croire à mes sentiments les meilleurs » dans une lettre de service ?",
+     "o": [
+      "Parce que le verbe « croire » est interdit dans les formules de politesse",
+      "Parce que les formules avec « sentiments » relèvent plutôt de la correspondance personnelle et peuvent être mal perçues",
+      "Parce que « meilleurs » doit s'écrire au singulier",
+      "Parce que cette formule est réservée au chef de l'État"
+     ],
+     "a": 1,
+     "e": "Selon l'OQLF, la formule avec « sentiments » peut être mal perçue et convient à la correspondance personnelle ; dans les échanges professionnels, on préfère « salutations », « considération » ou « respect ».",
+     "ed": [
+      "« Croire » est un verbe correct, simplement moins fréquent qu'« agréer ».",
+      null,
+      "« Les meilleurs » s'accorde correctement avec « sentiments ».",
+      "Elle convient à la correspondance personnelle, non à une autorité."
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-17",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Dans une suscription (bloc d'adresse), comment écrit-on le titre de civilité ?",
+     "o": [
+      "Toujours en abrégé : « M. », « Mme »",
+      "En lettres minuscules : « monsieur »",
+      "En toutes lettres, avec une majuscule initiale : « Monsieur », « Madame »",
+      "On ne met jamais de titre de civilité dans l'adresse"
+     ],
+     "a": 2,
+     "e": "L'OQLF indique que, dans l'adresse, les titres de civilité s'écrivent en toutes lettres et prennent la majuscule initiale : « Madame Julie Poulin ».",
+     "ed": [
+      "Dans l'adresse, l'OQLF demande d'écrire les titres de civilité en toutes lettres.",
+      "Le titre de civilité prend une majuscule initiale dans l'adresse.",
+      null,
+      "Le titre de civilité figure bien dans l'adresse, avant le nom."
+     ],
+     "src": {
+      "t": "OQLF : écriture du titre de civilité du destinataire",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/25070/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/consignes-dadressage/destinataire/ecriture-du-titre-de-civilite-du-ou-de-la-destinataire"
+     }
+    },
+    {
+     "id": "n20261121-rd09-18",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Un secrétaire administratif écrit à son ministre. Quelle formule complète est la plus adaptée ?",
+     "o": [
+      "Recevez, Monsieur le Ministre, mes plus cordiales salutations.",
+      "Veuillez agréer, Monsieur, l'assurance de mes sentiments dévoués.",
+      "Je vous prie d'agréer, Monsieur le Ministre, l'expression de mes salutations.",
+      "Je vous prie d'agréer, Monsieur le Ministre, l'expression de ma considération respectueuse."
+     ],
+     "a": 3,
+     "e": "Envers un ministre, autorité supérieure, on emploie le verbe le plus déférent et « considération respectueuse » ou « haute considération », en reprenant l'appel.",
+     "ed": [
+      "Ce verbe et ce complément conviennent à un subordonné, pas à un ministre.",
+      "L'appel n'est pas repris et la formule à « sentiments » relève d'un autre registre.",
+      "« L'expression de » ne se construit pas avec « salutations ».",
+      null
+     ],
+     "src": {
+      "t": "OQLF, Banque de dépannage linguistique : formules de salutation dans la lettre",
+      "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+     }
+    },
+    {
+     "id": "n20261121-rd09-19",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Laquelle de ces formules finales est correcte pour une lettre dont l'appel est « Madame la Préfète, » ?",
+     "o": [
+      "Veuillez agréer, Madame la Préfète, l'expression de ma haute considération.",
+      "Veuillez agréer, Madame, l'expression de ma haute considération.",
+      "Veuillez agréer, Madame la Préfète, l'expression de mes sentiments les meilleurs.",
+      "Veuillez agréer, Madame la Préfète, l'expression de mes salutations distinguées."
+     ],
+     "a": 0,
+     "e": "La formule reprend l'appel exact entre virgules et associe « l'expression de » à « haute considération », formule adaptée à une autorité.",
+     "ed": [
+      null,
+      "La formule ne reprend pas exactement l'appel « Madame la Préfète ».",
+      "La formule à « sentiments » relève de la correspondance personnelle, pas d'une lettre à une autorité.",
+      "« L'expression de » ne se construit pas avec « salutations »."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-rd09-20",
+     "m": "redac",
+     "tag": "niv-rd09",
+     "q": "Dans un texte à mettre au net, laquelle de ces lignes contient une faute de protocole ?",
+     "o": [
+      "Appel : « Monsieur le Sous-préfet, »",
+      "Appel : « M. le Sous-préfet, »",
+      "Formule : « Veuillez agréer, Monsieur le Sous-préfet, l'expression de ma haute considération. »",
+      "Suscription : « Monsieur le Sous-préfet d'Abengourou »"
+     ],
+     "a": 1,
+     "e": "Dans l'appel, le titre de civilité ne s'abrège jamais : « M. le Sous-préfet, » doit devenir « Monsieur le Sous-préfet, ».",
+     "ed": [
+      "Cet appel est correct : titre de civilité en toutes lettres et fonction avec majuscule.",
+      null,
+      "Cette formule est correcte et reprend l'appel entre virgules.",
+      "Cette suscription écrit le titre de civilité en toutes lettres."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261121-cglibre-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La Constitution de l'Organisation mondiale de la santé est entrée en vigueur le 7 avril 1948. Que célèbre-t-on chaque année à cette date ?",
+     "o": [
+      "La Journée internationale des droits de l'homme",
+      "La Journée des Nations unies",
+      "La Journée mondiale de la santé",
+      "La Journée mondiale de l'environnement"
+     ],
+     "a": 2,
+     "e": "L'OMS indique que sa Constitution est entrée en vigueur le 7 avril 1948, date célébrée chaque année comme Journée mondiale de la santé ; elle avait été signée à New York le 22 juillet 1946.",
+     "ed": [
+      "Cette journée commémore la Déclaration universelle des droits de l'homme, pas la Constitution de l'OMS.",
+      "Cette journée commémore la Charte des Nations unies, pas la Constitution de l'OMS.",
+      null,
+      "Cette journée porte sur l'environnement ; le 7 avril est la journée de la santé."
+     ],
+     "src": {
+      "t": "OMS, Histoire de l'OMS (who.int)",
+      "u": "https://www.who.int/about/history"
+     }
+    },
+    {
+     "id": "n20261121-cglibre-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville la Charte de l'Organisation des États américains (OEA) a-t-elle été signée le 30 avril 1948 ?",
+     "o": [
+      "Bogotá",
+      "Washington",
+      "Buenos Aires",
+      "Mexico"
+     ],
+     "a": 0,
+     "e": "La Charte de l'OEA a été signée à Bogotá le 30 avril 1948, lors de la Neuvième Conférence internationale des États américains (30 mars - 2 mai 1948).",
+     "ed": [
+      null,
+      "La Charte n'a pas été signée à Washington, mais lors de la Neuvième Conférence tenue à Bogotá.",
+      "Buenos Aires a donné son nom au protocole de 1967 qui a amendé la Charte, pas au texte de 1948.",
+      "Mexico n'est pas le lieu de signature de la Charte de l'OEA."
+     ],
+     "src": {
+      "t": "Office of the Historian, FRUS 1948 vol. IX : Neuvième Conférence internationale américaine, Bogotá",
+      "u": "https://history.state.gov/historicaldocuments/frus1948v09/ch1"
+     }
+    },
+    {
+     "id": "n20261121-cglibre-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Adopté à Lisbonne le 13 décembre 2007, le traité de Lisbonne est entré en vigueur le :",
+     "o": [
+      "1er novembre 1993",
+      "1er décembre 2009",
+      "1er janvier 2002",
+      "1er juillet 2013"
+     ],
+     "a": 1,
+     "e": "Selon la fiche du Parlement européen, le traité de Lisbonne est entré en vigueur le 1er décembre 2009 ; il a notamment rendu juridiquement contraignante la Charte des droits fondamentaux de l'Union.",
+     "ed": [
+      "C'est la date d'entrée en vigueur du traité de Maastricht, qui a institué l'Union européenne.",
+      null,
+      "C'est la date de mise en circulation des pièces et billets en euros.",
+      "C'est la date d'adhésion de la Croatie à l'Union européenne."
+     ],
+     "src": {
+      "t": "Parlement européen, fiche thématique : le traité de Lisbonne",
+      "u": "https://www.europarl.europa.eu/factsheets/en/sheet/5/the-treaty-of-lisbon"
+     }
+    },
+    {
+     "id": "n20261121-cglibre-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 9 août 1965, Singapour devient un État indépendant en se séparant :",
+     "o": [
+      "de la Fédération de Malaisie",
+      "de l'Indonésie",
+      "directement du Royaume-Uni, sans étape intermédiaire",
+      "du sultanat de Brunei"
+     ],
+     "a": 0,
+     "e": "Singapour, entrée dans la Fédération de Malaisie le 16 septembre 1963, s'en sépare le 9 août 1965 et devient indépendante, avec Lee Kuan Yew pour Premier ministre.",
+     "ed": [
+      null,
+      "Singapour n'a jamais fait partie de l'Indonésie.",
+      "Singapour avait d'abord rejoint la Fédération de Malaisie le 16 septembre 1963.",
+      "Brunei n'a jamais exercé sa souveraineté sur Singapour."
+     ],
+     "src": {
+      "t": "National Library Board Singapore, Infopedia : indépendance de Singapour",
+      "u": "https://eresources.nlb.gov.sg/infopedia/articles/SIP_524_2004-12-29.html"
+     }
+    },
+    {
+     "id": "n20261121-cglibre-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Qui devient le premier président du Mozambique indépendant, le 25 juin 1975 ?",
+     "o": [
+      "Eduardo Mondlane",
+      "Agostinho Neto",
+      "Kenneth Kaunda",
+      "Samora Machel"
+     ],
+     "a": 3,
+     "e": "Britannica indique que, le 25 juin 1975, le Mozambique devient un État indépendant à parti unique dirigé par le FRELIMO, avec Samora Machel pour président.",
+     "ed": [
+      "Premier président du FRELIMO, Eduardo Mondlane est mort en 1969, avant l'indépendance.",
+      "Agostinho Neto était un dirigeant angolais, pas mozambicain.",
+      "Kenneth Kaunda était un dirigeant zambien, pas mozambicain.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, Mozambique under the New State regime",
+      "u": "https://www.britannica.com/place/Mozambique/Mozambique-under-the-New-State-regime"
+     }
+    },
+    {
+     "id": "n20261121-cglibre-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 30 septembre 1966, l'ancien protectorat britannique du Bechuanaland accède à l'indépendance sous la conduite de Seretse Khama. Quel est le nom du nouvel État ?",
+     "o": [
+      "Le Lesotho",
+      "Le Botswana",
+      "L'Eswatini",
+      "La Zambie"
+     ],
+     "a": 1,
+     "e": "Le Bechuanaland devient indépendant le 30 septembre 1966 sous le nom de Botswana ; Seretse Khama en est le premier président (1966-1980).",
+     "ed": [
+      "Le Lesotho est un État distinct, qui ne correspond pas à l'ancien Bechuanaland.",
+      null,
+      "L'Eswatini est un État distinct, qui ne correspond pas à l'ancien Bechuanaland.",
+      "La Zambie est un État distinct, qui ne correspond pas à l'ancien Bechuanaland."
+     ],
+     "src": {
+      "t": "South African History Online, Botswana gains independence from Britain (30 septembre 1966)",
+      "u": "https://sahistory.org.za/dated-event/botswana-gains-independence-britain"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261121ec05",
+     "niv": "ec05",
+     "m": "ecm",
+     "titre": "La citoyenneté et les élections : l'électeur, le vote, les scrutins et la CEI",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez dire qui peut voter en Côte d'Ivoire, comment se déroule un vote et quels modes de scrutin désignent le Président de la République, les députés et les sénateurs.",
+      "= Vous saurez aussi présenter le rôle de la Commission électorale indépendante (CEI) et des partis politiques, et calculer un taux de participation.",
+      "## Ce que l'épreuve demande",
+      "En éducation civique et morale, la citoyenneté et les élections reviennent sous deux formes : des questions de cours (conditions pour être électeur, rôle de la CEI, durée des mandats) et des sujets de réflexion (le vote est-il un devoir ? comment faire reculer l'abstention ?). Le correcteur attend des notions exactes, appuyées sur la Constitution et sur le Code électoral, puis un raisonnement personnel et mesuré, sans prise de parti politique.",
+      "! Piège habituel : confondre l'organe qui organise les élections et proclame les résultats provisoires (la CEI) avec celui qui juge le contentieux et proclame les résultats définitifs de l'élection présidentielle (le Conseil constitutionnel).",
+      "## La méthode, pas à pas",
+      "- 1. Définir les mots du sujet : citoyen, électeur, suffrage (le droit de vote et son exercice), scrutin (la manière dont les votes sont recueillis et comptés), participation.",
+      "- 2. Citer le texte de base : l'article 52 de la Constitution pour le suffrage, l'article 3 du Code électoral pour l'électeur.",
+      "- 3. Distinguer les consultations : élection présidentielle, élections législatives, sénatoriales et locales, référendum.",
+      "- 4. Donner un exemple concret : une étape réelle du vote, un chiffre vérifié, une situation observée dans votre localité.",
+      "- 5. Conclure sur les devoirs du citoyen : s'inscrire, voter, respecter le résultat et contester seulement par les voies légales.",
+      "~ Exemple : à la question « Un jeune peut-il voter dès le jour de ses 18 ans ? », la bonne réponse comporte deux temps. Il remplit la condition d'âge, mais il ne vote que s'il est inscrit sur une liste électorale, car c'est l'inscription qui constate la qualité d'électeur (article 5 du Code électoral)."
+     ],
+     "fond": [
+      "## Notion 1 : la souveraineté du peuple et les quatre qualités du suffrage",
+      "Règle : « La souveraineté appartient au peuple » (article 50 de la Constitution). Le peuple l'exerce de deux façons : directement, par le référendum, et indirectement, par ses représentants élus (article 51). L'article 52 ajoute que le suffrage est universel, libre, égal et secret.",
+      "Pourquoi ? En démocratie, le pouvoir n'appartient ni à un homme ni à un groupe : il vient des citoyens, qui le confient pour un temps limité. Chaque qualité du suffrage protège cette idée. Universel : tous les citoyens votent, sans condition de fortune (suffrage censitaire) ni de diplôme (suffrage capacitaire). Libre : l'électeur choisit sans pression ni violence. Égal : « un homme, une voix ». Secret : personne ne peut savoir pour qui l'on vote, ce qui protège la liberté du choix.",
+      "~ Exemple résolu : un notable exige que les habitants de son quartier lui montrent leur bulletin avant de le glisser dans l'urne. Quelles qualités du suffrage sont violées ? Le secret, puisque le choix devient visible ; la liberté, puisque l'électeur subit une pression. C'est pour cela que le Code électoral impose des isoloirs qui « doivent permettre le secret du vote de chaque électeur » (article 36).",
+      "## Notion 2 : qui est électeur ?",
+      "Règle : selon l'article 3 du Code électoral (ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral), sont électeurs les Ivoiriens des deux sexes, y compris les personnes devenues ivoiriennes par naturalisation ou par mariage, âgés de dix-huit ans accomplis, inscrits sur une liste électorale, jouissant de leurs droits civils et politiques et ne se trouvant dans aucun cas d'incapacité prévu par la loi. L'article 4 écarte notamment les personnes condamnées pour crime, les faillis non réhabilités et les individus en état de contumace.",
+      "Pourquoi ? Le vote engage l'avenir de la nation : il est réservé aux nationaux, à partir d'un âge de maturité fixé par la loi. La liste électorale permet de savoir qui vote et où, et d'empêcher qu'une même personne vote deux fois.",
+      "! Piège : avoir 18 ans ne suffit pas. « La qualité d'électeur est constatée par l'inscription sur une liste électorale » (article 5) : sans inscription, pas de vote. Autre piège : la carte d'électeur est « personnelle et non cessible » (article 14) ; on ne la prête jamais.",
+      "? Awa, 19 ans, Ivoirienne, ne s'est jamais inscrite sur une liste électorale. Son frère Koné, 24 ans, inscrit, est un failli non réhabilité. Lequel des deux peut voter ? || Aucun des deux. Awa remplit les conditions de nationalité et d'âge, mais elle n'est pas inscrite ; or c'est l'inscription qui constate la qualité d'électeur (article 5). Koné est inscrit, mais les faillis non réhabilités figurent parmi les incapacités de l'article 4 du Code électoral.",
+      "## Notion 3 : le jour du vote, étape par étape",
+      "Règle : le scrutin a lieu un samedi (article 33 du Code électoral). L'électeur justifie de son identité par sa carte d'électeur ou sa carte nationale d'identité (article 37). Il reçoit un bulletin unique de vote fourni par la Commission chargée des élections, passe dans l'isoloir, glisse son bulletin plié dans l'urne, puis signe la liste d'émargement ou y appose l'empreinte de son index gauche. Son index gauche est ensuite marqué à l'encre indélébile. Le vote par correspondance et le vote par procuration sont interdits (article 34).",
+      "Pourquoi ? Chaque geste a une fonction. Le contrôle d'identité empêche l'usurpation ; l'isoloir garantit le secret ; l'émargement laisse une trace écrite du nombre de votants ; l'encre indélébile empêche de voter deux fois ; l'interdiction de la procuration garantit que chacun vote lui-même.",
+      "~ Exemple résolu : M. Yao, malade, demande à son fils d'aller voter à sa place avec sa carte d'électeur. Est-ce possible ? Non, pour deux raisons : la carte est personnelle et non cessible (article 14) et le vote par procuration est interdit (article 34). Le fils qui se présenterait ainsi tenterait de voter sous l'identité d'un autre.",
+      "## Notion 4 : les élections et leurs modes de scrutin",
+      "Règle : le Président de la République est élu pour cinq ans au suffrage universel direct et n'est rééligible qu'une fois (article 55 de la Constitution). Il est élu à la majorité absolue des suffrages exprimés ; à défaut, un second tour oppose les deux candidats arrivés en tête, le dernier samedi de novembre (article 56). Les députés sont élus pour cinq ans et sont rééligibles (article 67 du Code électoral), au suffrage universel direct et au scrutin majoritaire à un tour : uninominal dans les circonscriptions à un siège, de liste majoritaire bloquée dans celles à plusieurs sièges (article 68). Au Sénat, deux tiers des sénateurs sont élus au suffrage universel indirect et un tiers est nommé par le Président de la République (article 87 de la Constitution).",
+      "Pourquoi ? Le scrutin à deux tours oblige le Président à réunir plus de la moitié des suffrages exprimés, ce qui renforce sa légitimité nationale. Le scrutin à un tour des législatives donne un résultat rapide dans chaque circonscription.",
+      "! Piège : la CEI organise le scrutin et proclame les résultats provisoires ; pour l'élection présidentielle, ce sont les résultats proclamés par le Conseil constitutionnel qui sont définitifs (article 63 du Code électoral).",
+      "? Au premier tour d'une élection présidentielle, le candidat A obtient 48 % des suffrages exprimés, B 30 % et C 22 %. A est-il élu ? Que se passe-t-il ensuite ? || A n'est pas élu : 48 % n'atteint pas la majorité absolue, qui exige plus de la moitié des suffrages exprimés. Un second tour oppose les deux candidats arrivés en tête, A et B ; C est éliminé. Au second tour, est élu celui qui obtient la majorité des suffrages exprimés.",
+      "## Notion 5 : la CEI et les partis politiques",
+      "Règle : l'article 51 de la Constitution prévoit une commission électorale indépendante, qui est une autorité administrative indépendante. La CEI est régie par la loi n° 2001-634 du 9 octobre 2001, modifiée notamment par la loi n° 2022-886 du 23 novembre 2022. Sa commission centrale compte 18 membres, nommés par décret en Conseil des ministres pour un mandat de six ans : 1 proposé par le Président de la République, 1 par le ministre chargé de l'Administration du territoire, 6 issus de la société civile, 1 magistrat proposé par le Conseil supérieur de la magistrature, 4 proposés par le parti ou groupement au pouvoir et 5 par l'opposition. Quant aux partis politiques, ils agissent librement dans le respect des lois et de la démocratie ; ceux qui sont fondés sur une base régionale, religieuse, tribale, ethnique ou raciale sont interdits (article 25 de la Constitution).",
+      "Pourquoi ? Une commission où siègent le pouvoir, l'opposition et la société civile doit rassurer tous les camps sur la sincérité du scrutin, c'est-à-dire la concordance entre les résultats proclamés et la volonté exprimée dans les urnes. L'interdiction des partis ethniques ou religieux protège l'unité nationale.",
+      "? Dans une copie, un candidat écrit : « La CEI est un service du ministère de l'Intérieur dont tous les membres sont nommés par le parti au pouvoir. » Corrigez. || Deux erreurs. La CEI est une autorité administrative indépendante prévue par l'article 51 de la Constitution, et non un service ministériel. Sa commission centrale réunit 18 membres d'origines diverses : seuls 4 sont proposés par le parti au pouvoir, contre 5 par l'opposition, 6 par la société civile, 1 par le Président de la République, 1 par le ministre de l'Administration du territoire et 1 magistrat.",
+      "## Notion 6 : la participation, un droit et un devoir",
+      "Règle : le taux de participation est la part des inscrits qui ont effectivement voté : votants ÷ inscrits × 100. Le taux d'abstention en est le complément : 100 − taux de participation. Les suffrages exprimés sont les bulletins valables qui servent à départager les candidats ; les bulletins nuls n'en font pas partie.",
+      "Pourquoi ? Une forte abstention affaiblit la représentativité des élus : ils sont choisis par une minorité des inscrits. Voter est un droit ; c'est aussi un devoir civique, car celui qui s'abstient laisse les autres décider à sa place.",
+      "? Dans une commune, 40 000 électeurs sont inscrits et 26 000 ont voté. Calculez le taux de participation et le taux d'abstention. || Participation : 26 000 ÷ 40 000 × 100 = 65 %. Abstention : 100 − 65 = 35 %, soit 14 000 inscrits qui n'ont pas voté. Vérification : 26 000 + 14 000 = 40 000 inscrits.",
+      "> Débat réutilisable : pour rendre le vote obligatoire, on invoque la représentativité des élus ; contre, on invoque la liberté du suffrage, qui comprend celle de ne pas choisir. Une voie moins contestée consiste à faciliter l'inscription et à développer l'éducation civique."
+     ],
+     "retenir": [
+      "Le suffrage est universel, libre, égal et secret (article 52 de la Constitution).",
+      "Est électeur l'Ivoirien de 18 ans accomplis, inscrit sur une liste électorale, jouissant de ses droits civils et politiques et sans incapacité légale.",
+      "L'inscription sur une liste électorale constate la qualité d'électeur : sans inscription, pas de vote (article 5 du Code électoral).",
+      "La carte d'électeur est personnelle et non cessible ; le vote par procuration et par correspondance est interdit.",
+      "Le Président est élu pour cinq ans au suffrage universel direct, à la majorité absolue des suffrages exprimés, avec un second tour si nécessaire.",
+      "Les députés sont élus pour cinq ans au scrutin majoritaire à un tour ; deux tiers des sénateurs sont élus au suffrage indirect, un tiers est nommé.",
+      "La commission centrale de la CEI compte 18 membres nommés pour six ans, dont 4 proposés par le parti au pouvoir et 5 par l'opposition.",
+      "Taux de participation = votants ÷ inscrits × 100 ; taux d'abstention = 100 − taux de participation."
+     ],
+     "exo": {
+      "tag": "niv-ec05",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Constitution de 2016, chapitre 2 : De la souveraineté (art. 50 à 52), Loi d'ici",
+       "u": "https://loidici.biz/2018/08/18/chapitre-2-de-la-souverainete/"
+      },
+      {
+       "t": "Constitution de la Côte d'Ivoire de 2016 (rév. 2020), Constitute Project",
+       "u": "https://constituteproject.org/constitution/Cote_DIvoire_2020"
+      },
+      {
+       "t": "Ordonnance n° 2020-356 du 8 avril 2020 portant révision du Code électoral (CEI)",
+       "u": "https://www.cei.ci/wp-content/uploads/2020/07/Ordonnance-N°-2020-356-portant-Nouveau-Code-électoral-du-08-Avr.2020.pdf"
+      },
+      {
+       "t": "« L'élection », conférence inaugurale du Président de la CEI à l'ENA, 12 juin 2024",
+       "u": "https://www.cei.ci/wp-content/uploads/2024/06/Conference_inaugurale_PCEI_ENA2024_VF.pdf"
+      },
+      {
+       "t": "Loi n° 2022-886 du 23 novembre 2022 modifiant la loi n° 2001-634 relative à la CEI (JORCI)",
+       "u": "https://cei.ci/wp-content/uploads/2026/01/Loi-2022-886-du-23-novembre-2022-Portant-Modification-de-la-Loi-n-2001-634-du-9-Octobre-2001-Portant-Composition-Organisation-Attributions-et-Fonctionnement-de-la-Commission-Electorale-Independante.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261121or06",
+     "niv": "or06",
+     "m": "oral",
+     "titre": "Mises en situation administratives : analyser, décider, justifier devant le jury",
+     "min": 45,
+     "verif": "methode",
+     "tech": [
+      "= À la fin de cette leçon, vous saurez répondre à une question du type « Vous êtes chef de service ; tel incident survient : que faites-vous ? » en suivant une démarche claire en cinq temps.",
+      "= Vous saurez reconnaître les trois familles de situations (crise, management, déontologie) et éviter les réponses que les jurys sanctionnent le plus souvent.",
+      "## Ce que le jury cherche",
+      "La mise en situation vérifie que vous saurez agir en cadre, et pas seulement réciter des connaissances. Le rapport du jury de l'IRA de Lille (2020) le dit nettement : il n'y a pas de bonne ou de mauvaise réponse ; le jury vérifie le bon sens, le pragmatisme et la capacité à envisager plusieurs solutions, en tenant compte des contraintes budgétaires et humaines. Le rapport de l'IRA de Lyon (2021) attend une réponse concrète et un positionnement clair, plutôt que des développements abstraits.",
+      "! Piège habituel : répondre aussitôt, avant d'avoir écouté la question jusqu'au bout. Les jurys relèvent que des candidats répondent « parfois hâtivement » et passent à côté de la difficulté réelle.",
+      "## La méthode en cinq temps",
+      "- 1. Écouter jusqu'au bout, puis reformuler la situation en une phrase.",
+      "- 2. Qualifier la situation : crise (accident, panne, sécurité), management et relations humaines (conflit, absence, demande d'un agent) ou déontologie (cadeau, favoritisme, conflit d'intérêts).",
+      "- 3. Poser le cadre : la règle applicable, la place de la hiérarchie, les acteurs concernés (agents, usagers, partenaires, élus).",
+      "- 4. Décider par ordre de priorité : d'abord la sécurité des personnes et la continuité du service, ensuite le traitement du fond, enfin la prévention.",
+      "- 5. Rendre compte et assurer le suivi : informer le supérieur, garder une trace écrite, tirer une leçon pour le service.",
+      "~ Exemple : « Vous êtes chef de service et deux agents se disputent violemment devant les usagers. » Réponse en cinq temps : je fais cesser l'altercation et j'éloigne les deux agents du guichet ; je confie l'accueil à un autre agent pour que le service continue ; je reçois chacun séparément, puis ensemble ; je rappelle les règles de comportement et j'envisage une suite disciplinaire si les faits sont graves ; j'informe ma hiérarchie par écrit."
+     ],
+     "fond": [
+      "## Notion 1 : comprendre l'exercice et ses trois familles",
+      "Règle : une mise en situation place le candidat dans un poste concret (chef de bureau, secrétaire général de mairie, sous-préfet adjoint…) face à un incident. Le jury ne note pas une « solution unique » : il observe le raisonnement, le sens des priorités et les valeurs du futur cadre. Le rapport de l'IRA de Lyon distingue trois familles : les situations de crise (accident, événement exceptionnel, panne, problèmes de sécurité), les situations de management et de relations humaines, et les situations de déontologie.",
+      "Pourquoi ? Une école d'administration forme des responsables qui devront décider vite, avec des moyens limités, sous le regard des usagers. Classer la situation dès le départ vous donne le bon réflexe : protéger dans une crise, écouter puis trancher dans un conflit, refuser et signaler dans une affaire de déontologie.",
+      "? Classez ces trois situations dans leur famille : (a) un début d'incendie dans la salle des archives d'une sous-préfecture ; (b) un agent arrive en retard chaque lundi depuis un mois ; (c) un fournisseur offre un téléphone au responsable des achats pendant l'examen de son offre. || (a) Crise : la sécurité des personnes passe d'abord (évacuer, alerter les secours), puis la sauvegarde des documents. (b) Management : entretien avec l'agent, rappel de l'obligation de ponctualité, recherche de la cause, suite écrite si le comportement persiste. (c) Déontologie : refus du cadeau, information de la hiérarchie, garantie de l'impartialité de la procédure d'achat.",
+      "## Notion 2 : la crise, protéger d'abord",
+      "Règle : dans une crise, l'ordre est toujours le même : la sécurité des personnes, puis la continuité du service, puis le compte rendu et le retour d'expérience. Le jury de l'IRA de Lille a critiqué des candidats chez qui « le strict respect de la norme l'emporte » sur la mise en sécurité des populations.",
+      "Pourquoi ? Une règle administrative existe pour protéger les personnes et le service. L'appliquer à la lettre quand une vie est menacée trahit sa raison d'être. Le cadre informe sa hiérarchie, mais il ne l'attend pas pour mettre les gens à l'abri.",
+      "~ Exemple résolu : de fortes pluies inondent le rez-de-chaussée d'une mairie un jour d'affluence. Réponse structurée : 1) je fais évacuer la zone inondée et je fais couper l'électricité de cette zone par un agent habilité ; j'appelle les secours si quelqu'un est en danger ; 2) j'installe un accueil provisoire à l'étage et j'informe les usagers par affichage ; 3) je fais mettre les registres à l'abri ; 4) je rends compte au secrétaire général et je propose, au retour au calme, un bilan des dégâts et des mesures de prévention.",
+      "! Piège : répondre « j'attends les instructions de ma hiérarchie » avant toute mesure de sécurité. L'information du supérieur est obligatoire, mais elle accompagne l'action urgente ; elle ne la remplace pas.",
+      "## Notion 3 : le management, écouter puis trancher",
+      "Règle : face à un agent, il faut conjuguer l'écoute et la fermeté. Le jury de Lille met en garde contre deux excès : le respect strict, voire autoritaire, de la règle, et une empathie démesurée. La dimension humaine est attendue, « sans pour autant transiger » sur les règles impératives. Le jury de Lyon ajoute que l'écoute de l'agent fautif n'est pas la seule mesure à prendre, et demande une décision concrète : « je donne un avis favorable parce que… ».",
+      "Pourquoi ? Un service fonctionne si les agents se sentent respectés et si les règles valent pour tous. Le chef qui écoute sans jamais trancher perd son autorité ; celui qui sanctionne sans comprendre perd la confiance de son équipe.",
+      "~ Exemple résolu : une secrétaire demande à quitter le service chaque jour à 15 heures pour suivre une formation diplômante. Réponse concrète : « Je reçois l'agent pour connaître la durée de la formation. Je lui accorde un aménagement partiel, deux jours par semaine, parce que la permanence de l'accueil doit être assurée l'après-midi ; j'organise la suppléance avec un collègue et je formalise l'accord par écrit, après avis de ma hiérarchie. »",
+      "? Un agent est absent sans justification pour la troisième fois du mois. Le jury vous demande : « Que faites-vous ? » Répondez en trois phrases. || Par exemple : « Je reçois d'abord l'agent pour comprendre la cause de ces absences, car une difficulté personnelle peut l'expliquer. Je lui rappelle ensuite, par écrit, son obligation d'assiduité et je lui demande de justifier chaque absence. Si les absences continuent, j'informe ma hiérarchie et j'engage la procédure prévue. » Réponse à éviter : « il faut faire avec », que le jury de Lille cite comme un exemple de résignation.",
+      "## Notion 4 : la déontologie, la règle ne se négocie pas",
+      "Règle : devant une proposition de cadeau, une demande de passe-droit ou un conflit d'intérêts, la réponse est toujours de refuser poliment, d'expliquer la règle, de protéger le service et d'informer la hiérarchie. Le rapport de Lyon rattache à la déontologie l'impartialité, l'intégrité, la probité, l'obligation de réserve, la loyauté et la neutralité.",
+      "Pourquoi ? L'administration ne tient que par la confiance des citoyens : un seul passe-droit connu de tous ruine la crédibilité d'un service entier. Le jury vérifie que vous saurez dire non sans agressivité.",
+      "~ Exemple résolu : au guichet de l'état civil, une personne qui se présente comme la parente d'un directeur exige de passer avant la file d'attente. Réponse : « Je la reçois avec courtoisie, je lui explique que chaque usager est servi dans l'ordre d'arrivée, par égalité devant le service public, et je lui indique le délai normal. Si elle insiste ou se réclame d'un ordre, j'en informe mon supérieur. »",
+      "? Pendant l'examen des offres d'un marché, un prestataire vous invite à un week-end tous frais payés à Assinie. Que répondez-vous au jury ? || Je refuse l'invitation, car l'accepter créerait un conflit d'intérêts et ferait douter de l'impartialité de la procédure. J'en informe par écrit mon supérieur et je garde la trace de mon refus. Je veille ensuite à ce que l'offre de ce prestataire soit examinée selon les mêmes critères que les autres, sans faveur ni sanction.",
+      "## Notion 5 : bien formuler sa réponse et tenir face aux relances",
+      "Règle : parlez à la première personne, comme le cadre que vous serez : « Je comprends que… ; ma priorité immédiate est… ; ensuite… ; enfin, je rends compte… ». Quand deux solutions sont possibles, présentez-les, puis choisissez et justifiez : le jury de Lyon demande aux candidats de se positionner clairement. Le rapport de jury du concours de secrétaire administratif (2025) valorise les candidats qui présentent des solutions claires « tout en rappelant le cadre réglementaire », et rappelle qu'il ne suffit pas de s'en remettre aveuglément à un supérieur : il faut pouvoir dialoguer avec lui.",
+      "Pourquoi ? Les relances du jury (« Et si l'agent refuse ? », « Et sans budget ? ») testent votre solidité. Elles ne signifient pas que votre réponse est fausse.",
+      "? Le jury relance : « Votre solution coûte cher et votre service n'a pas de budget. » Comment réagir ? || Accepter calmement la contrainte, puisque le jury de Lille attend justement la prise en compte des contraintes budgétaires et humaines. Proposer une solution à moindre coût (réorganisation des horaires, redéploiement d'un agent, partenariat avec un autre service), ou un calendrier en deux étapes, sans abandonner l'objectif : la continuité et la qualité du service.",
+      "> L'essentiel : le jury ne cherche pas le candidat qui connaît la « bonne » réponse, mais celui qui protège, écoute, décide, respecte la règle et rend compte."
+     ],
+     "retenir": [
+      "Une mise en situation se traite en cinq temps : reformuler, qualifier, poser le cadre, décider par priorité, rendre compte.",
+      "Trois familles de situations : la crise, le management et les relations humaines, la déontologie.",
+      "En situation de crise, la sécurité des personnes passe avant tout, puis la continuité du service.",
+      "Le jury attend une décision concrète et justifiée (« je décide… parce que… »), et non un développement abstrait.",
+      "Face à un agent, conjuguer écoute et fermeté : ni autoritarisme, ni empathie qui renonce à la règle.",
+      "En déontologie, la règle ne se négocie pas : refuser poliment, expliquer, protéger le service, informer la hiérarchie.",
+      "Être loyal, c'est informer son supérieur et dialoguer avec lui, pas s'en remettre aveuglément à lui."
+     ],
+     "exo": {
+      "tag": "niv-or06",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "IRA de Lille, concours 2020-1 : rapport du jury",
+       "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Lille_2020-1_Rapport_du_jury.pdf"
+      },
+      {
+       "t": "IRA de Lyon, session 2021-2 : rapport de la présidente du jury",
+       "u": "https://www.fonction-publique.gouv.fr/files/files/Devenir%20agent%20public/IRA/Rapports%20jury/Rapport_jury_IRA_Lyon_2021-2.pdf"
+      },
+      {
+       "t": "SIEC, concours externe de secrétaire administratif, session 2025 : rapport de jury",
+       "u": "https://siec.education.fr/candidats/docutheque/download/rapport-de-jury-classe-normale-et-classe-superieure-session-2024-0/2025%20-%20rapport%20du%20jury%20-%20concours%20externe%20de%20SAENES%20classe%20normale.pdf"
+      },
+      {
+       "t": "H. Macquart, Le cas pratique aux concours, éd. 2021 (extrait, vie-publique.fr)",
+       "u": "https://www.vie-publique.fr/files/2021-06/9782111574205_FAC_LeCasPratique_Extrait.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261121rd09",
+     "niv": "rd09",
+     "m": "redac",
+     "titre": "Le protocole et les formules de politesse : titres, appellations et formules selon le destinataire",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez désigner correctement une autorité (chef de l'État, ministre, député, préfet, magistrat, avocat) dans l'appel et dans la formule finale d'une lettre administrative.",
+      "= Vous saurez choisir la formule de politesse selon le rang du destinataire et la relation hiérarchique, et repérer les fautes de protocole dans un texte à mettre au net.",
+      "## Ce que l'épreuve demande",
+      "En rédaction administrative et en mise au net, le correcteur vérifie que le ton convient au destinataire. Une formule trop familière envers un ministre, ou une formule finale qui ne reprend pas l'appel, est une faute de protocole aussi visible qu'une faute d'orthographe. Les QCM portent sur l'appel correct, sur la reprise de l'appel dans la formule finale et sur le choix entre « considération distinguée », « haute considération » et « considération respectueuse ».",
+      "! Piège habituel : changer d'appellation entre le début et la fin de la lettre, par exemple « Monsieur le Directeur, » en appel puis « …agréer, Monsieur, … » dans la formule finale.",
+      "## La méthode, pas à pas",
+      "- 1. Identifier le destinataire : sa fonction exacte et son rang par rapport à l'expéditeur (supérieur, égal, subordonné, haute autorité).",
+      "- 2. Écrire l'appel avec le titre de civilité et le titre de la fonction, en toutes lettres et avec une majuscule : « Monsieur le Ministre, ».",
+      "- 3. Reprendre exactement cet appel, entre virgules, dans la formule finale.",
+      "- 4. Choisir le verbe selon le degré de déférence : « Recevez », puis « Veuillez agréer », puis « Je vous prie d'agréer », le plus déférent.",
+      "- 5. Choisir le complément selon le rang : « considération distinguée » pour un égal ou un subordonné ; « haute considération » ou « considération respectueuse » pour une autorité ; « très haute considération » pour les plus hautes autorités.",
+      "~ Exemple : un directeur régional écrit à son ministre. Appel : « Monsieur le Ministre, ». Formule finale : « Je vous prie d'agréer, Monsieur le Ministre, l'expression de ma considération respectueuse. » Le verbe le plus déférent et la reprise exacte de l'appel marquent le respect dû à l'autorité."
+     ],
+     "fond": [
+      "## Notion 1 : l'appel, titre de civilité et titre de fonction",
+      "Règle : l'appel se place à gauche et se termine par une virgule. Quand le destinataire exerce une fonction officielle, on l'indique dans l'appel avec une majuscule : « Madame la Ministre, », « Monsieur le Préfet, », « Madame la Députée, ». Dans l'appel, les titres de civilité ne s'abrègent pas : on n'écrit jamais « M. le Directeur, » ni « Mme la Ministre, ». La mention « par intérim » n'a pas sa place dans l'appel. Si l'on hésite sur le titre, « Madame, » ou « Monsieur, » convient à tous les cas ; si l'on ignore qui lira la lettre, on écrit « Madame, Monsieur, ».",
+      "Pourquoi ? On s'adresse à la fonction plus qu'à la personne : le titre rappelle la relation institutionnelle entre l'expéditeur et le destinataire. L'abréviation, elle, paraît négligente quand on s'adresse directement à quelqu'un.",
+      "~ Exemple résolu : Mme Kouassi assure l'intérim du directeur des ressources humaines. Appel fautif : « Mme la Directrice par intérim, ». Appel correct : « Madame la Directrice, ». Deux corrections : écrire le titre de civilité en toutes lettres et supprimer « par intérim », qui n'a pas sa place dans l'appel.",
+      "! Piège : l'adjectif « cher » ne s'emploie que pour une personne que l'on connaît très bien. Dans une lettre officielle à une autorité, « Cher Monsieur le Préfet » est donc à proscrire.",
+      "## Notion 2 : Excellence, Honorable, Maître : les appellations particulières",
+      "Règle : certains destinataires reçoivent un titre de courtoisie. Dans les textes officiels ivoiriens, le chef de l'État est désigné ainsi : « Son Excellence Monsieur Alassane OUATTARA, Président de la République, Chef de l'État » (communiqué du Conseil des ministres du 4 janvier 2024). « Son Excellence » sert à parler de la personne, à la troisième personne : dans une suscription, un communiqué, un discours. Pour s'adresser directement à elle, le protocole emploie « Excellence » : le protocole canadien prévoit ainsi l'appel « Excellence, » pour le gouverneur général. En Côte d'Ivoire, l'usage courant désigne le député comme « l'Honorable » suivi de son nom, comme le fait la presse nationale. Les avocats et les notaires reçoivent le titre de « Maître ».",
+      "Pourquoi ? Ces titres honorent la fonction, non l'individu. C'est pourquoi le protocole canadien précise que le titre de « Son Excellence » ne s'emploie que pendant le mandat.",
+      "? Corrigez la suscription suivante : « À Excellence Monsieur le Président de la République ». || On écrit « À Son Excellence Monsieur le Président de la République » : dans une suscription, on parle du destinataire à la troisième personne, d'où le possessif « Son ». « Excellence » seul sert à s'adresser directement à la personne, par exemple dans l'appel ou dans le corps du texte.",
+      "! Piège : « Maître » est un titre réservé aux avocats et aux notaires. Écrire « Maître » à un magistrat est une faute : on écrit « Monsieur le Juge, », « Madame la Présidente, » ou « Monsieur le Procureur de la République, ».",
+      "## Notion 3 : la formule finale, reprise de l'appel et gradation",
+      "Règle : la formule finale reprend la formule d'appel, entre virgules : à l'appel « Madame la Présidente, » répond « Je vous prie d'agréer, Madame la Présidente, … ». Les verbes se classent en ordre croissant de déférence : « Recevez » ou « Agréez », puis « Veuillez recevoir » ou « Veuillez agréer », enfin « Je vous prie de recevoir » ou « Je vous prie d'agréer ». Attention à la construction : « l'expression de » et « l'assurance de » se construisent avec « considération » ou « respect », jamais avec « salutations ». On écrit « Agréez, Madame, mes salutations distinguées », et non « l'expression de mes salutations distinguées ».",
+      "Pourquoi ? L'appel et la formule finale encadrent la lettre comme deux parenthèses : les rendre identiques montre la constance du respect. Le verbe et le complément dosent la déférence.",
+      "~ Exemple résolu : un chef de service écrit à un collègue chef de service d'une autre direction. Appel : « Monsieur le Chef de service, ». Formule : « Veuillez agréer, Monsieur le Chef de service, l'assurance de ma considération distinguée. » Le verbe intermédiaire et la « considération distinguée » conviennent entre égaux.",
+      "? Trouvez les trois fautes de cette formule adressée à « Monsieur le Procureur de la République, » : « Recevez, Monsieur, l'expression de mes salutations distinguées. » || 1) L'appel n'est pas repris : il faut « Monsieur le Procureur de la République ». 2) « L'expression de » ne se construit pas avec « salutations ». 3) « Recevez » est le verbe le moins déférent, peu adapté à une autorité judiciaire. Correction : « Je vous prie d'agréer, Monsieur le Procureur de la République, l'expression de ma haute considération. »",
+      "## Notion 4 : la relation hiérarchique, du supérieur au subordonné",
+      "Règle : la formule dépend de la relation entre l'expéditeur et le destinataire. Envers un subordonné : « mes plus cordiales salutations » ou « l'assurance de ma considération distinguée ». Entre égaux : « mes salutations distinguées » ou « ma considération distinguée ». Envers une autorité, un député ou un ministre : « l'expression de ma considération respectueuse » ou « de ma haute considération ». Pour les plus hautes autorités, le protocole canadien emploie « l'expression de ma très haute considération », par exemple envers le Premier ministre. Les formules avec « sentiments » (« mes sentiments les meilleurs ») relèvent plutôt de la correspondance personnelle ; dans les échanges professionnels, on leur préfère « salutations », « considération » ou « respect ».",
+      "Pourquoi ? La formule exprime la relation : la déférence monte avec le rang du destinataire. « Considération distinguée » reste correcte à tous les niveaux, mais envers une autorité, « haute considération » ou « considération respectueuse » marque mieux le respect dû.",
+      "~ Exemple résolu : le même jour, un directeur régional signe trois lettres. Au ministre : « Je vous prie d'agréer, Monsieur le Ministre, l'expression de ma considération respectueuse. » À un directeur régional d'un autre ministère : « Veuillez agréer, Monsieur le Directeur régional, l'assurance de ma considération distinguée. » À un chef de service placé sous son autorité : « Recevez, Madame la Chef de service, mes plus cordiales salutations. »",
+      "? Associez chaque formule à son destinataire le plus probable : (a) « l'expression de ma très haute considération » ; (b) « mes plus cordiales salutations » ; (c) « l'expression de ma considération respectueuse ». Destinataires : un ministre, le Premier ministre, un agent du service. || (a) le Premier ministre, l'une des plus hautes autorités ; (b) un agent du service, c'est-à-dire un subordonné ; (c) un ministre, autorité envers laquelle on marque le respect. Vérifiez toujours que l'appel est repris entre virgules dans chaque formule.",
+      "> Astuce de vérification : relisez l'appel, puis la formule finale. Le titre est-il identique ? Le verbe et le complément correspondent-ils au rang du destinataire ? Une abréviation s'est-elle glissée ?"
+     ],
+     "retenir": [
+      "Dans l'appel, le titre de civilité s'écrit en toutes lettres et la fonction prend une majuscule : « Madame la Ministre, ».",
+      "La formule finale reprend exactement l'appel, entre virgules.",
+      "Ordre croissant de déférence : « Recevez », « Veuillez agréer », « Je vous prie d'agréer ».",
+      "Égal ou subordonné : « considération distinguée » ; autorité : « haute considération » ou « considération respectueuse » ; plus hautes autorités : « très haute considération ».",
+      "« L'expression de » et « l'assurance de » ne se construisent jamais avec « salutations ».",
+      "« Son Excellence » désigne le chef de l'État à la troisième personne ; « Excellence » sert à s'adresser directement à lui.",
+      "Les avocats et les notaires reçoivent le titre de « Maître » ; en Côte d'Ivoire, le député est couramment appelé « l'Honorable ».",
+      "« Par intérim » et les abréviations « M. » ou « Mme » n'ont pas leur place dans l'appel."
+     ],
+     "exo": {
+      "tag": "niv-rd09",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "OQLF, Banque de dépannage linguistique : formules d'appel dans la lettre",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22099/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-dappel-dans-la-lettre"
+      },
+      {
+       "t": "OQLF, Banque de dépannage linguistique : formules de salutation dans la lettre",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22101/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/lettre/formules-de-salutation-dans-la-lettre"
+      },
+      {
+       "t": "OQLF : écriture du titre de civilité du destinataire",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/25070/la-redaction-et-la-communication/redaction-administrative-et-commerciale/correspondance/consignes-dadressage/destinataire/ecriture-du-titre-de-civilite-du-ou-de-la-destinataire"
+      },
+      {
+       "t": "Patrimoine canadien, directives protocolaires : formules épistolaires",
+       "u": "https://www.canada.ca/fr/patrimoine-canadien/services/directives-protocolaires-evenements-speciaux/formules-epistolaires.html"
+      },
+      {
+       "t": "Communiqué du Conseil des ministres du jeudi 4 janvier 2024 (gouv.ci)",
+       "u": "https://www.gouv.ci/uploads/publications/1704405801Communique-du-Conseil-des-Ministres-du-jeudi-04-janvier-2024.pdf"
+      },
+      {
+       "t": "Fraternité Matin, « Honorable Lacina Ouattara (député de Korhogo commune) », 3 avril 2021",
+       "u": "https://www.fratmat.info/article/212129/politique/honorable-lacina-ouattara-alias-lass-pr-depute-de-korhogo-commune-mon-ambition-est-de-contribuer-au-succes-de-cette-legislature-"
+      }
+     ]
+    }
+   ],
+   "sujets": [
+    {
+     "e": "ecm",
+     "src": "original",
+     "ref": "Entraînement · 21 nov. 2026",
+     "t": "« Voter est un droit ; s'abstenir, c'est laisser les autres décider à sa place. » Commentez et discutez cette affirmation.",
+     "plan": [
+      "Introduction : définir le vote (expression du suffrage universel, libre, égal et secret de l'article 52 de la Constitution) et l'abstention (inscrits qui ne votent pas) ; problématique : le vote, droit du citoyen, est-il aussi un devoir envers la communauté ?",
+      "I. Le vote, un droit protégé par la loi : A. un droit ouvert à tout Ivoirien de 18 ans inscrit sur une liste électorale (articles 3 et 5 du Code électoral) ; B. un droit entouré de garanties : isoloir, bulletin unique, encre indélébile, CEI où siègent pouvoir, opposition et société civile.",
+      "II. L'abstention, une décision laissée aux autres : A. elle affaiblit la représentativité des élus (taux de participation = votants ÷ inscrits) ; B. elle prive le citoyen de son influence sur les choix qui le concernent (emploi des jeunes, services publics locaux).",
+      "III. Mais l'abstention peut aussi exprimer un message ou un empêchement : défiance, absence d'inscription, éloignement du bureau ; la réponse passe par l'éducation civique, l'inscription des jeunes et la confiance dans la sincérité du scrutin.",
+      "Conclusion : le vote est un droit dont l'exercice est un devoir moral ; ouverture sur le débat du vote obligatoire et la liberté de ne pas choisir."
+     ]
+    }
+   ]
   }
  ]
 }
