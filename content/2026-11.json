@@ -36088,6 +36088,1827 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-22",
+   "questions": [
+    {
+     "id": "n20261122-an07-01",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form (vérité générale) : « If you heat butter, it ___. »",
+     "o": [
+      "melting",
+      "would melt",
+      "melts",
+      "melted"
+     ],
+     "a": 2,
+     "e": "Fait toujours vrai : type 0, if + présent puis présent. It melts (« si on chauffe du beurre, il fond »).",
+     "ed": [
+      "Une forme en -ing ne peut pas être le verbe conjugué de la principale.",
+      "Would appartient au type 2 (situation imaginaire) et ne se combine pas avec un présent dans la condition.",
+      null,
+      "Le prétérit ne correspond pas à une vérité générale introduite par un présent."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-02",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « If it rains tomorrow, the ceremony ___ inside. »",
+     "o": [
+      "will take place",
+      "took place",
+      "would have taken place",
+      "takes placed"
+     ],
+     "a": 0,
+     "e": "Condition future possible (tomorrow) avec un présent après if : type 1, la principale prend will + base verbale.",
+     "ed": [
+      null,
+      "Le prétérit raconte un fait passé, incompatible avec tomorrow.",
+      "Would have + participe appartient au type 3 (passé irréel), pas à une condition au présent.",
+      "« Takes placed » mélange un présent et un participe : forme qui n'existe pas."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-03",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « If I ___ you, I would accept the offer. »",
+     "o": [
+      "am",
+      "were",
+      "will be",
+      "would be"
+     ],
+     "a": 1,
+     "e": "Principale en would + base verbale : type 2. Avec be, la forme correcte est « If I were you », valable à toutes les personnes.",
+     "ed": [
+      "Le présent appartient aux types 0 et 1, pas à une principale en would.",
+      null,
+      "Will ne se place jamais après if dans une conditionnelle ordinaire.",
+      "Would ne se place jamais dans la proposition en if."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-04",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « If they had left earlier yesterday, they ___ the plane. »",
+     "o": [
+      "would catch",
+      "will catch",
+      "had caught",
+      "would have caught"
+     ],
+     "a": 3,
+     "e": "Condition au past perfect sur un fait passé (yesterday) : type 3, la principale prend would have + participe passé.",
+     "ed": [
+      "Would + base verbale situerait la conséquence dans le présent, alors que l'avion est parti hier.",
+      "Will appartient au type 1, incompatible avec une condition au past perfect.",
+      "Had caught répète le past perfect : la principale doit contenir would have.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-05",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Quel est le sens de : « We won't start unless the director arrives » ?",
+     "o": [
+      "Nous commencerons si le directeur n'arrive pas.",
+      "Nous ne commencerons pas même si le directeur arrive.",
+      "Nous ne commencerons pas si le directeur n'arrive pas.",
+      "Nous commencerons avant que le directeur n'arrive."
+     ],
+     "a": 2,
+     "e": "Unless signifie « sauf si » et contient déjà la négation : on ne commencera que si le directeur arrive.",
+     "ed": [
+      "Ce sens est l'inverse : la phrase anglaise dit qu'on ne commencera pas sans le directeur.",
+      "« Même si » traduirait even if, pas unless.",
+      null,
+      "Unless n'exprime pas l'antériorité ; « avant que » se dit before."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-06",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « I don't have a laptop. I wish I ___ one. »",
+     "o": [
+      "had",
+      "have",
+      "will have",
+      "would have had"
+     ],
+     "a": 0,
+     "e": "Regret sur le présent : wish + prétérit (on recule d'un temps). I wish I had one.",
+     "ed": [
+      null,
+      "Après wish, on ne garde pas le présent : il faut reculer d'un temps.",
+      "Will ne s'emploie pas après wish pour un regret présent.",
+      "Would have had renvoie au passé, alors que le regret porte sur la situation actuelle."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-07",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « She missed the meeting yesterday and regrets it. She wishes she ___ it. »",
+     "o": [
+      "didn't miss",
+      "hadn't missed",
+      "wouldn't miss",
+      "doesn't miss"
+     ],
+     "a": 1,
+     "e": "Regret sur un fait passé (yesterday) : wish + past perfect. She wishes she hadn't missed it.",
+     "ed": [
+      "Le prétérit après wish exprime un regret sur le présent, pas sur hier.",
+      null,
+      "Wish + would exprime l'agacement face à un comportement, pas un regret passé.",
+      "Le présent ne s'emploie pas après wish."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-08",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Quelle est la bonne traduction de : « Si vous envoyez le dossier aujourd'hui, il arrivera lundi » ?",
+     "o": [
+      "If you will send the file today, it arrives on Monday.",
+      "If you sent the file today, it will arrive on Monday.",
+      "If you send the file today, it arrived on Monday.",
+      "If you send the file today, it will arrive on Monday."
+     ],
+     "a": 3,
+     "e": "Condition future possible : type 1, if + présent (send), puis will + base verbale (will arrive).",
+     "ed": [
+      "Will est placé après if et le futur manque dans la principale : les deux temps sont inversés.",
+      "Le prétérit après if correspond au type 2 et ne se combine pas avec will.",
+      "La principale au prétérit raconte un fait passé, contraire à « arrivera ».",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-09",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Quelle est la bonne traduction de : « Si j'avais plus de temps, j'apprendrais le chinois » ?",
+     "o": [
+      "If I had more time, I would learn Chinese.",
+      "If I have more time, I would learn Chinese.",
+      "If I would have more time, I would learn Chinese.",
+      "If I had more time, I would have learnt Chinese."
+     ],
+     "a": 0,
+     "e": "Situation présente imaginaire : type 2, if + prétérit (had), puis would + base verbale (would learn), comme « si + imparfait, conditionnel ».",
+     "ed": [
+      null,
+      "Le présent après if ne se combine pas avec would.",
+      "Would ne se place jamais dans la proposition en if.",
+      "Would have learnt traduit « j'aurais appris », pas « j'apprendrais »."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-10",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « If he hadn't lost his ID card last week, he ___ able to vote today. »",
+     "o": [
+      "will be",
+      "would have",
+      "would be",
+      "is"
+     ],
+     "a": 2,
+     "e": "Condition passée (last week), conséquence présente (today) : conditionnelle mixte passé → présent, would + base verbale.",
+     "ed": [
+      "Will appartient au type 1 et ne suit pas une condition au past perfect.",
+      "Would have est incomplet : il manque le participe passé, et la conséquence est présente.",
+      null,
+      "Le présent simple ne peut pas exprimer une conséquence imaginaire."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-11",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Dans « If you'd told me, I'd have helped you », que valent les deux contractions 'd ?",
+     "o": [
+      "would, puis would",
+      "had, puis would",
+      "had, puis had",
+      "would, puis had"
+     ],
+     "a": 1,
+     "e": "'d suivi d'un participe passé (told) vaut had ; 'd suivi de have vaut would. C'est un type 3.",
+     "ed": [
+      "Le premier 'd est suivi du participe told : il vaut had, et would est interdit après if.",
+      null,
+      "Le second 'd est suivi de have : il vaut would (would have helped).",
+      "L'ordre est inversé : had dans la condition, would dans la principale."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-12",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « My neighbour plays loud music every night. I wish he ___ that. »",
+     "o": [
+      "doesn't do",
+      "didn't did",
+      "hasn't done",
+      "wouldn't do"
+     ],
+     "a": 3,
+     "e": "Agacement face au comportement d'une autre personne : wish + would. I wish he wouldn't do that.",
+     "ed": [
+      "Le présent ne s'emploie pas après wish.",
+      "« Didn't did » est mal formé : après did, le verbe reste à la base verbale.",
+      "Le present perfect ne s'emploie pas après wish.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-13",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Laquelle de ces quatre phrases conditionnelles est incorrecte ?",
+     "o": [
+      "If I will see him, I will tell him.",
+      "If I see him, I will tell him.",
+      "If I saw him, I would tell him.",
+      "If I had seen him, I would have told him."
+     ],
+     "a": 0,
+     "e": "Will ne se place jamais dans la proposition en if : la forme correcte du type 1 est « If I see him, I will tell him ».",
+     "ed": [
+      null,
+      "Phrase correcte : type 1, if + présent puis will.",
+      "Phrase correcte : type 2, if + prétérit puis would.",
+      "Phrase correcte : type 3, if + past perfect puis would have."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-14",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Quelle est la bonne traduction de : « Je regrette de ne pas savoir nager » ?",
+     "o": [
+      "I wish I would swim.",
+      "I wish I can swim.",
+      "I wish I could swim.",
+      "I wish I will swim."
+     ],
+     "a": 2,
+     "e": "Pour une capacité qui nous manque, on emploie wish + could. Wish + would ne s'emploie pas pour parler de soi-même.",
+     "ed": [
+      "Wish + would exprime l'agacement face à autrui, pas un regret sur soi-même.",
+      "Le présent can ne s'emploie pas après wish : il faut reculer d'un temps.",
+      null,
+      "Will ne s'emploie pas après wish."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-15",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Quelle est la bonne traduction de : « Si seulement il avait vérifié les chiffres avant la réunion ! » ?",
+     "o": [
+      "If only he checked the figures before the meeting!",
+      "If only he had checked the figures before the meeting!",
+      "If only he will check the figures before the meeting!",
+      "If only he has checked the figures before the meeting!"
+     ],
+     "a": 1,
+     "e": "Regret sur un passé révolu : if only + past perfect, comme wish. If only he had checked the figures.",
+     "ed": [
+      "Le prétérit après if only exprime un regret présent, pas un fait antérieur à la réunion.",
+      null,
+      "Will ne s'emploie pas après if only.",
+      "Le present perfect ne s'emploie pas après if only."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-16",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Quelle partie de la phrase est fautive ? « If the road would be repaired, traders would reach the market faster. »",
+     "o": [
+      "If the road",
+      "would be repaired",
+      "would reach",
+      "the market faster"
+     ],
+     "a": 1,
+     "e": "Would ne se place pas dans la proposition en if. Type 2 correct : If the road were repaired (prétérit passif).",
+     "ed": [
+      "« If the road » est un début de condition correct.",
+      null,
+      "Would reach est la forme attendue de la principale du type 2.",
+      "« The market faster » est un complément correct."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-17",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « As soon as the results ___ published, I will call you. »",
+     "o": [
+      "are",
+      "will be",
+      "would be",
+      "were being"
+     ],
+     "a": 0,
+     "e": "As soon as se construit comme if au type 1 : présent dans la subordonnée, will dans la principale.",
+     "ed": [
+      null,
+      "Will ne se place pas après as soon as : le futur est déjà porté par la principale.",
+      "Would ne s'accorde pas avec une principale en will.",
+      "Le prétérit progressif ne correspond ni au sens ni à la construction."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-18",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « She is very shy. If she ___ shy, she would have spoken at the meeting yesterday. »",
+     "o": [
+      "isn't",
+      "hadn't",
+      "weren't",
+      "wouldn't be"
+     ],
+     "a": 2,
+     "e": "Trait permanent (présent) et conséquence passée : conditionnelle mixte présent → passé, if + prétérit (weren't).",
+     "ed": [
+      "Le présent ne se combine pas avec une principale en would have.",
+      "« Hadn't » seul est incomplet : il manque been.",
+      null,
+      "Would ne se place pas dans la proposition en if."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-19",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "La principale donnée est « … the yield would have doubled ». Quelle forme cherchez-vous pour la proposition en if ?",
+     "o": [
+      "Un prétérit (used)",
+      "Un past perfect (had used)",
+      "Un présent (use)",
+      "Would have + participe (would have used)"
+     ],
+     "a": 1,
+     "e": "Would have + participe passé signale le type 3 : la condition se met au past perfect (If we had used the fertiliser).",
+     "ed": [
+      "Le prétérit correspond au type 2, dont la principale est would + base verbale.",
+      null,
+      "Le présent correspond aux types 0 et 1.",
+      "Would ne se place jamais dans la proposition en if."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-an07-20",
+     "m": "ang",
+     "tag": "niv-an07",
+     "q": "Choose the correct form : « Take an umbrella in case it ___. »",
+     "o": [
+      "will rain",
+      "would rain",
+      "had rained",
+      "rains"
+     ],
+     "a": 3,
+     "e": "In case se construit avec le présent quand l'événement est possible : in case it rains.",
+     "ed": [
+      "Will ne se place pas après in case.",
+      "Would ne convient pas à une précaution présente.",
+      "Le past perfect renvoie à un passé, incompatible avec un conseil actuel.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-01",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Il ___ remis son rapport ___ temps. »",
+     "o": [
+      "à avec accent, puis à avec accent",
+      "a sans accent, puis à avec accent",
+      "a sans accent, puis a sans accent",
+      "à avec accent, puis a sans accent"
+     ],
+     "a": 1,
+     "e": "Premier blanc : « il avait remis » fonctionne, c'est le verbe avoir (a). Second : « avait temps » n'a pas de sens, c'est la préposition (à).",
+     "ed": [
+      "Le premier blanc accepte « avait » : c'est le verbe avoir, sans accent.",
+      null,
+      "« Remis son rapport avait temps » n'a pas de sens : le second blanc est la préposition à.",
+      "Les deux formes sont inversées : verbe avoir d'abord, préposition ensuite."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-02",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Voulez-vous un rendez-vous mardi ___ jeudi ? La salle ___ nous vous recevrons est au deuxième étage. »",
+     "o": [
+      "où avec accent, puis ou sans accent",
+      "ou sans accent les deux fois",
+      "où avec accent les deux fois",
+      "ou sans accent, puis où avec accent"
+     ],
+     "a": 3,
+     "e": "« Mardi ou bien jeudi » : choix, donc ou. « La salle où » : pronom relatif de lieu, donc où, avec accent.",
+     "ed": [
+      "Les formes sont inversées : le choix s'écrit sans accent, le lieu avec accent.",
+      "« La salle ou bien nous vous recevrons » n'a pas de sens : le second blanc est un relatif de lieu.",
+      "« Mardi où jeudi » est fautif : un choix s'écrit ou, sans accent.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-03",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « ___ décisions-là ont été prises hier en conseil. »",
+     "o": [
+      "Ces",
+      "Ses",
+      "C'est",
+      "S'est"
+     ],
+     "a": 0,
+     "e": "Un nom suivi de -là appelle le démonstratif : au singulier, on dirait « cette décision-là ». Donc ces.",
+     "ed": [
+      null,
+      "Ses est un possessif ; un nom suivi de -là appelle le démonstratif ces.",
+      "C'est (cela est) ne peut pas précéder un nom pluriel sujet du verbe.",
+      "S'est appartient à un verbe pronominal et précède un participe passé."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-04",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez (il s'agit des affaires de l'agent) : « Chaque agent range ___ affaires personnelles dans son casier. »",
+     "o": [
+      "ces",
+      "c'est",
+      "ses",
+      "s'est"
+     ],
+     "a": 2,
+     "e": "Les affaires appartiennent à l'agent : possessif. Au singulier, on dirait « son affaire », donc ses.",
+     "ed": [
+      "Ces montre une chose sans indiquer à qui elle appartient ; ici, le possesseur est l'agent.",
+      "C'est (cela est) ne peut pas précéder un nom complément.",
+      null,
+      "S'est appartient à un verbe pronominal et précède un participe passé."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-05",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Le stagiaire ___ trompé de bureau. »",
+     "o": [
+      "c'est",
+      "s'est",
+      "sait",
+      "ces"
+     ],
+     "a": 1,
+     "e": "Verbe pronominal se tromper : avec je, on dirait « je me suis trompé ». Donc s'est.",
+     "ed": [
+      "« Le stagiaire cela est trompé » n'a pas de sens : ce n'est pas c'est.",
+      null,
+      "Sait est le verbe savoir, qui ne se construit pas avec un participe passé.",
+      "Ces est un déterminant et doit précéder un nom."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-06",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « ___ un honneur de vous recevoir dans nos locaux. »",
+     "o": [
+      "C'est",
+      "S'est",
+      "Ses",
+      "Sait"
+     ],
+     "a": 0,
+     "e": "On peut dire « cela est un honneur » : c'est le pronom ce suivi du verbe être, donc C'est.",
+     "ed": [
+      null,
+      "S'est précède le participe passé d'un verbe pronominal, absent ici.",
+      "Ses est un possessif pluriel et ne peut pas précéder « un honneur ».",
+      "Sait est le verbe savoir, sans sujet ici."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-07",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « ___ à la date du concours, elle sera publiée au Journal officiel. »",
+     "o": [
+      "Quand",
+      "Qu'en",
+      "Quant",
+      "Camp"
+     ],
+     "a": 2,
+     "e": "« En ce qui concerne la date du concours » : c'est la locution quant à, avec un t.",
+     "ed": [
+      "« Lorsque à la date » n'a pas de sens : quand signifie lorsque.",
+      "Qu'en réunit que et en, ce qui ne convient pas devant « à la date ».",
+      null,
+      "Camp est un nom (le camp) sans rapport avec le sens."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-08",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « ___ le jury aura délibéré, les résultats seront affichés. »",
+     "o": [
+      "Quant",
+      "Qu'en",
+      "Quand à",
+      "Quand"
+     ],
+     "a": 3,
+     "e": "« Lorsque le jury aura délibéré » : conjonction de temps, donc quand, avec un d.",
+     "ed": [
+      "Quant s'emploie dans « quant à » (en ce qui concerne), pas devant un verbe conjugué.",
+      "Qu'en (que + en) ne convient pas au début d'une subordonnée de temps.",
+      "« Quand à » au sens de « en ce qui concerne » est une faute, et le sens ici est « lorsque ».",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-09",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Votre projet de note est prêt ; ___ dit le chef de service ? »",
+     "o": [
+      "quand",
+      "qu'en",
+      "quant",
+      "camp"
+     ],
+     "a": 1,
+     "e": "« Que dit le chef de service de cela ? » : on peut décomposer en que + en, donc qu'en.",
+     "ed": [
+      "« Lorsque dit le chef de service » n'a pas de sens.",
+      null,
+      "Quant ne s'emploie que dans « quant à ».",
+      "Camp est un nom sans rapport avec le sens."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-10",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Les parents d'élèves ont écrit au proviseur, qui ___ a répondu aussitôt. »",
+     "o": [
+      "leur",
+      "leurs",
+      "l'heure",
+      "leurres"
+     ],
+     "a": 0,
+     "e": "Devant le verbe, pronom signifiant « à eux » : au singulier, on dirait « qui lui a répondu ». Le pronom leur est invariable.",
+     "ed": [
+      null,
+      "Le pronom leur devant un verbe ne prend jamais de s.",
+      "L'heure est un nom (l'heure du rendez-vous), sans sens ici.",
+      "Leurre est un nom (un appât) sans rapport avec la phrase."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-11",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Les agriculteurs ont vendu ___ récoltes au marché d'Abengourou. »",
+     "o": [
+      "leur",
+      "l'heure",
+      "leurs",
+      "leurent"
+     ],
+     "a": 2,
+     "e": "Devant le nom pluriel récoltes, déterminant possessif : il s'accorde, donc leurs.",
+     "ed": [
+      "Le déterminant possessif s'accorde avec le nom pluriel récoltes.",
+      "L'heure est un nom, sans sens devant récoltes.",
+      null,
+      "« Leurent » n'existe pas en français."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-12",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Laquelle de ces phrases est correcte ?",
+     "o": [
+      "Je leurs ai transmis le courrier.",
+      "Leurs dossier est complet.",
+      "Je leur ai transmis leur dossiers.",
+      "Je leur ai transmis leurs dossiers."
+     ],
+     "a": 3,
+     "e": "Pronom leur invariable devant le verbe (je leur ai transmis), déterminant leurs accordé devant le nom pluriel (leurs dossiers).",
+     "ed": [
+      "Le pronom leur devant un verbe ne prend jamais de s.",
+      "Devant le nom singulier dossier, le déterminant s'écrit leur, sans s.",
+      "Devant le nom pluriel dossiers, le déterminant s'écrit leurs.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-13",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Il est sorti ___ son parapluie et il ne ___ est pas plaint. »",
+     "o": [
+      "s'en / sans",
+      "sans / s'en",
+      "sans / sans",
+      "s'en / s'en"
+     ],
+     "a": 1,
+     "e": "Absence du parapluie : préposition sans. « Je ne m'en suis pas plaint » : verbe pronominal, donc s'en.",
+     "ed": [
+      "Les deux formes sont inversées.",
+      null,
+      "Le second blanc appartient au verbe s'en plaindre : avec je, « je m'en suis plaint ».",
+      "Le premier blanc marque l'absence : c'est la préposition sans."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-14",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Cela va ___ dire : la ponctualité est obligatoire. »",
+     "o": [
+      "sans",
+      "s'en",
+      "cent",
+      "sang"
+     ],
+     "a": 0,
+     "e": "L'expression « cela va sans dire » signifie « cela va de soi » et s'écrit avec la préposition sans.",
+     "ed": [
+      null,
+      "« Cela va s'en dire » est une faute : l'expression s'écrit avec sans.",
+      "Cent est un nombre, sans sens ici.",
+      "Sang est un nom, sans sens ici."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-15",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez (au sens de « parfois ») : « Le directeur passe ___ dans les services pour saluer les agents. »",
+     "o": [
+      "quelques fois",
+      "quelque fois",
+      "quelquefois",
+      "quelle que fois"
+     ],
+     "a": 2,
+     "e": "Au sens de « parfois », on écrit l'adverbe quelquefois, en un seul mot et sans s.",
+     "ed": [
+      "Quelques fois signifie « à un petit nombre de reprises », pas « parfois ».",
+      "« Quelque fois » au singulier n'est pas la forme de l'adverbe.",
+      null,
+      "« Quelle que fois » n'existe pas."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-16",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez (au sens de « à un petit nombre de reprises ») : « Je l'ai rencontré ___ seulement depuis son affectation. »",
+     "o": [
+      "quelquefois",
+      "quelque fois",
+      "quelle fois",
+      "quelques fois"
+     ],
+     "a": 3,
+     "e": "On compte des occasions : déterminant pluriel quelques et nom fois, en deux mots.",
+     "ed": [
+      "Quelquefois signifie « parfois », pas « à quelques reprises ».",
+      "Le déterminant doit être au pluriel : quelques fois.",
+      "« Quelle fois » ne compte pas des occasions.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-17",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Repérez la phrase fautive.",
+     "o": [
+      "Quant à moi, je reste.",
+      "Quand à moi, je reste.",
+      "Quand il pleut, je reste.",
+      "Qu'en penses-tu ?"
+     ],
+     "a": 1,
+     "e": "Au sens de « en ce qui concerne moi », on écrit quant à, avec un t : « Quand à moi » est fautif.",
+     "ed": [
+      "Phrase correcte : quant à signifie en ce qui concerne.",
+      null,
+      "Phrase correcte : quand signifie lorsque.",
+      "Phrase correcte : qu'en signifie « que … de cela »."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-18",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Complétez : « Le chef ___ félicité ___ agents : ___ grâce à eux que le service fonctionne. »",
+     "o": [
+      "a (sans accent) / ses / c'est",
+      "à (avec accent) / ces / s'est",
+      "a (sans accent) / ces / s'est",
+      "à (avec accent) / ses / c'est"
+     ],
+     "a": 0,
+     "e": "« Avait félicité » : verbe a. Les agents du chef : possessif ses. « Cela est grâce à eux » : c'est.",
+     "ed": [
+      null,
+      "« À félicité » est fautif : on peut dire « avait félicité », c'est le verbe a.",
+      "Le troisième blanc n'est pas un verbe pronominal : on dit « cela est grâce à eux », donc c'est.",
+      "« À félicité » est fautif : c'est le verbe avoir, sans accent."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-19",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Pour savoir s'il faut écrire « s'est », quel test appliquer ?",
+     "o": [
+      "Remplacer par « cela est »",
+      "Remplacer par « avait »",
+      "Mettre le sujet à la première personne : « je me suis »",
+      "Remplacer par « sa »"
+     ],
+     "a": 2,
+     "e": "S'est appartient à un verbe pronominal : avec je, il devient « me suis » (il s'est trompé → je me suis trompé).",
+     "ed": [
+      "« Cela est » est le test de c'est, pas de s'est.",
+      "« Avait » est le test du verbe a.",
+      null,
+      "« Sa » est le test du possessif ses."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-fr11-20",
+     "m": "fr",
+     "tag": "niv-fr11",
+     "q": "Dans quelle phrase « où » est-il correctement employé ?",
+     "o": [
+      "Tu viens où tu restes ?",
+      "Thé où café ?",
+      "Où bien demain, où bien jamais.",
+      "Le jour où il a été nommé, il a remercié ses parents."
+     ],
+     "a": 3,
+     "e": "Où est ici un pronom relatif de temps (le jour où). Dans les autres phrases, il s'agit d'un choix : ou, sans accent.",
+     "ed": [
+      "Il s'agit d'un choix (ou bien tu restes) : il faut ou, sans accent.",
+      "« Thé ou bien café » : choix, donc ou sans accent.",
+      "« Ou bien » s'écrit sans accent : c'est la conjonction de choix.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261122-cg09-01",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Dans quelle ville s'est tenu le cinquième congrès panafricain, en octobre 1945 ?",
+     "o": [
+      "Paris",
+      "Londres",
+      "Manchester",
+      "Accra"
+     ],
+     "a": 2,
+     "e": "Le cinquième congrès panafricain s'est réuni à Manchester, en Angleterre, du 15 au 18 octobre 1945, sous la présidence de W.E.B. Du Bois.",
+     "ed": [
+      "Le congrès de 1945 ne s'est pas tenu en France.",
+      "Londres n'est pas la ville du congrès de 1945.",
+      null,
+      "En 1945, la Gold Coast était encore une colonie : le congrès se tient en Angleterre."
+     ],
+     "src": {
+      "t": "Britannica, « Pan-African congresses »",
+      "u": "https://www.britannica.com/topic/Pan-African-congresses"
+     }
+    },
+    {
+     "id": "n20261122-cg09-02",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Qui présidait le congrès panafricain de Manchester, du 15 au 18 octobre 1945 ?",
+     "o": [
+      "Kwame Nkrumah",
+      "W.E.B. Du Bois",
+      "Jomo Kenyatta",
+      "Ahmed Sékou Touré"
+     ],
+     "a": 1,
+     "e": "Selon Britannica, le congrès de Manchester s'est réuni avec l'Américain W.E.B. Du Bois à sa présidence ; Kenyatta a aidé à l'organiser et Nkrumah y participait.",
+     "ed": [
+      "Nkrumah était présent et parmi les organisateurs, mais il ne présidait pas.",
+      null,
+      "Kenyatta a aidé à organiser le congrès ; la présidence revenait à Du Bois.",
+      "Sékou Touré n'est pas associé à ce congrès par la source."
+     ],
+     "src": {
+      "t": "Britannica, « Pan-African congresses »",
+      "u": "https://www.britannica.com/topic/Pan-African-congresses"
+     }
+    },
+    {
+     "id": "n20261122-cg09-03",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Sous quel nom colonial le Ghana était-il connu avant son indépendance du 6 mars 1957 ?",
+     "o": [
+      "Gold Coast",
+      "Côte des Esclaves",
+      "Haute-Volta",
+      "Rhodésie du Nord"
+     ],
+     "a": 0,
+     "e": "Le Ghana est l'ancienne Gold Coast (Côte-de-l'Or) britannique ; il devient indépendant le 6 mars 1957 sous la conduite de Kwame Nkrumah.",
+     "ed": [
+      null,
+      "La Côte des Esclaves n'est pas le nom colonial du Ghana, ancienne Gold Coast.",
+      "La Haute-Volta est l'ancien nom du Burkina Faso.",
+      "La Rhodésie du Nord n'est pas le nom colonial du Ghana, ancienne Gold Coast."
+     ],
+     "src": {
+      "t": "South African History Online, « Dr Kwame Nkrumah »",
+      "u": "https://sahistory.org.za/people/dr-kwame-nkrumah"
+     }
+    },
+    {
+     "id": "n20261122-cg09-04",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Quel coup d'État renverse Kwame Nkrumah en février 1966 ?",
+     "o": [
+      "Celui de Jerry Rawlings",
+      "Celui d'Idi Amin Dada",
+      "Celui de Mobutu Sese Seko",
+      "Celui de Joseph Ankrah"
+     ],
+     "a": 3,
+     "e": "En février 1966, un coup d'État mené par Joseph Ankrah renverse Nkrumah, président du Ghana depuis l'indépendance de 1957, et le contraint à l'exil.",
+     "ed": [
+      "Jerry Rawlings n'est pas l'auteur du coup de 1966 contre Nkrumah.",
+      "Idi Amin Dada n'est pas l'auteur du coup de 1966 contre Nkrumah.",
+      "Mobutu n'est pas l'auteur du coup de 1966 contre Nkrumah.",
+      null
+     ],
+     "src": {
+      "t": "South African History Online, « Dr Kwame Nkrumah »",
+      "u": "https://sahistory.org.za/people/dr-kwame-nkrumah"
+     }
+    },
+    {
+     "id": "n20261122-cg09-05",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "À quelle date la Guinée a-t-elle proclamé son indépendance ?",
+     "o": [
+      "28 septembre 1958",
+      "2 octobre 1958",
+      "6 mars 1957",
+      "25 mai 1963"
+     ],
+     "a": 1,
+     "e": "Après le « non » massif au référendum du 28 septembre 1958, la Guinée proclame son indépendance le 2 octobre 1958, avec Sékou Touré.",
+     "ed": [
+      "Le 28 septembre 1958 est la date du référendum, pas celle de l'indépendance.",
+      null,
+      "Le 6 mars 1957 est la date de l'indépendance du Ghana.",
+      "Le 25 mai 1963 est la date de fondation de l'OUA."
+     ],
+     "src": {
+      "t": "Wikipedia, « 1958 Guinean constitutional referendum »",
+      "u": "https://en.wikipedia.org/wiki/1958_Guinean_constitutional_referendum"
+     }
+    },
+    {
+     "id": "n20261122-cg09-06",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Au référendum guinéen du 28 septembre 1958, quelle part des votants a rejeté la Constitution proposée ?",
+     "o": [
+      "Environ 55 %",
+      "Environ 75 %",
+      "Plus de 95 %",
+      "Exactement 50 %"
+     ],
+     "a": 2,
+     "e": "Les résultats publiés donnent 95,22 % de « non » pour une participation de 85,5 %. Ce rejet ouvre la voie à l'indépendance du 2 octobre 1958.",
+     "ed": [
+      "Le « non » a été bien plus massif : plus de 95 % des votants.",
+      "Le « non » dépasse largement les trois quarts : 95,22 %.",
+      null,
+      "Le « non » est massif, pas partagé : 95,22 % des votants."
+     ],
+     "src": {
+      "t": "Wikipedia, « 1958 Guinean constitutional referendum »",
+      "u": "https://en.wikipedia.org/wiki/1958_Guinean_constitutional_referendum"
+     }
+    },
+    {
+     "id": "n20261122-cg09-07",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Lequel de ces États n'appartenait PAS au groupe de Casablanca, réuni en 1961 ?",
+     "o": [
+      "Ghana",
+      "Mali",
+      "Nigéria",
+      "Guinée"
+     ],
+     "a": 2,
+     "e": "Le groupe de Casablanca comptait sept États : Algérie, Égypte, Ghana, Guinée, Libye, Mali et Maroc. Le Nigéria siégeait dans le groupe de Monrovia.",
+     "ed": [
+      "Le Ghana de Nkrumah était l'un des chefs de file du groupe de Casablanca.",
+      "Le Mali figure parmi les sept membres du groupe de Casablanca.",
+      null,
+      "La Guinée de Sékou Touré était l'un des chefs de file du groupe de Casablanca."
+     ],
+     "src": {
+      "t": "Wikipedia, « Casablanca Group »",
+      "u": "https://en.wikipedia.org/wiki/Casablanca_Group"
+     }
+    },
+    {
+     "id": "n20261122-cg09-08",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Que voulait principalement le groupe de Casablanca ?",
+     "o": [
+      "Une fédération ou union politique de l'Afrique",
+      "Le maintien de liens privilégiés avec les anciennes métropoles",
+      "Une simple coopération entre États souverains",
+      "Une zone de libre-échange limitée à l'Afrique du Nord"
+     ],
+     "a": 0,
+     "e": "Le groupe de Casablanca croyait à l'unification ou à la fédération politique de l'Afrique, avec le transfert de pouvoirs à une autorité panafricaine.",
+     "ed": [
+      null,
+      "Ce n'est pas l'objectif que la source prête au groupe : il visait l'unification politique du continent.",
+      "La coopération sans fédération est la ligne du groupe de Monrovia.",
+      "Le groupe visait l'unité politique du continent, pas une zone commerciale régionale."
+     ],
+     "src": {
+      "t": "Wikipedia, « Casablanca Group »",
+      "u": "https://en.wikipedia.org/wiki/Casablanca_Group"
+     }
+    },
+    {
+     "id": "n20261122-cg09-09",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Où et quand le groupe de Monrovia s'est-il réuni pour la première fois ?",
+     "o": [
+      "À Monrovia, du 8 au 12 mai 1961",
+      "À Casablanca, en janvier 1961",
+      "À Addis-Abeba, le 25 mai 1963",
+      "À Lomé, le 11 juillet 2000"
+     ],
+     "a": 0,
+     "e": "Le groupe de Monrovia s'est réuni pour la première fois du 8 au 12 mai 1961 à Monrovia, capitale du Libéria.",
+     "ed": [
+      null,
+      "Casablanca est la ville du groupe rival, partisan de la fédération.",
+      "Addis-Abeba, le 25 mai 1963, est la fondation de l'OUA.",
+      "Lomé, le 11 juillet 2000, est l'adoption de l'Acte constitutif de l'Union africaine."
+     ],
+     "src": {
+      "t": "Wikipedia, « Monrovia Group »",
+      "u": "https://en.wikipedia.org/wiki/Monrovia_Group"
+     }
+    },
+    {
+     "id": "n20261122-cg09-10",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Quelle ligne le groupe de Monrovia défendait-il en 1961 ?",
+     "o": [
+      "Une armée panafricaine commune",
+      "La coopération entre États qui gardent leur souveraineté, sans fédération",
+      "Le transfert de la souveraineté à un gouvernement continental",
+      "La création immédiate d'une monnaie africaine unique"
+     ],
+     "a": 1,
+     "e": "Le groupe de Monrovia voulait que les États coopèrent en harmonie, mais sans fédération politique ni intégration profonde, en gardant leur autonomie.",
+     "ed": [
+      "L'armée panafricaine était une proposition de Nkrumah, du groupe de Casablanca.",
+      null,
+      "Le transfert de souveraineté est la ligne du groupe de Casablanca.",
+      "La source ne lui prête pas ce projet : il refusait l'intégration profonde."
+     ],
+     "src": {
+      "t": "Wikipedia, « Monrovia Group »",
+      "u": "https://en.wikipedia.org/wiki/Monrovia_Group"
+     }
+    },
+    {
+     "id": "n20261122-cg09-11",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Quel dirigeant faisait figure de chef de file du groupe de Monrovia, partisan de la prudence face au projet de fédération ?",
+     "o": [
+      "Gamal Abdel Nasser",
+      "Kwame Nkrumah",
+      "Félix Houphouët-Boigny",
+      "Ahmed Sékou Touré"
+     ],
+     "a": 2,
+     "e": "Le président ivoirien Félix Houphouët-Boigny est présenté comme la figure de proue des États conservateurs du groupe de Monrovia, opposés à la fédération voulue par Nkrumah.",
+     "ed": [
+      "Nasser était l'un des chefs de file du groupe de Casablanca.",
+      "Nkrumah menait le groupe de Casablanca et prônait la fédération.",
+      null,
+      "Sékou Touré appartenait au groupe de Casablanca."
+     ],
+     "src": {
+      "t": "Geschichte.schule.at, fiche « Die OAU » (groupes de Casablanca, Monrovia et Brazzaville)",
+      "u": "https://geschichte.schule.at/fileadmin/DAM/Gegenstandsportale/Geschichte/Dateien/5-OAU.pdf"
+     }
+    },
+    {
+     "id": "n20261122-cg09-12",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "À l'invitation de quel souverain les 32 États indépendants se réunissent-ils à Addis-Abeba le 25 mai 1963 ?",
+     "o": [
+      "Le roi Hassan II",
+      "L'empereur Hailé Sélassié",
+      "Le roi Idris Ier",
+      "Le roi Baudouin"
+     ],
+     "a": 1,
+     "e": "Le 25 mai 1963, l'empereur d'Éthiopie Hailé Sélassié invite les chefs des 32 nations africaines indépendantes à Addis-Abeba, où naît l'OUA.",
+     "ed": [
+      "Hassan II n'était pas le souverain de l'Éthiopie, pays hôte du sommet.",
+      null,
+      "Idris Ier n'était pas le souverain de l'Éthiopie, pays hôte du sommet.",
+      "Baudouin n'était pas le souverain de l'Éthiopie, pays hôte du sommet."
+     ],
+     "src": {
+      "t": "BlackPast, « Organization of African Unity (1963-2002) »",
+      "u": "https://blackpast.org/gah/organization-african-unity-1963-2002"
+     }
+    },
+    {
+     "id": "n20261122-cg09-13",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Qui fut le premier secrétaire général de l'Organisation de l'unité africaine ?",
+     "o": [
+      "Diallo Telli",
+      "Thabo Mbeki",
+      "Kwame Nkrumah",
+      "Hailé Sélassié"
+     ],
+     "a": 0,
+     "e": "Diallo Telli fut le premier secrétaire général de l'OUA, fondée le 25 mai 1963 à Addis-Abeba.",
+     "ed": [
+      null,
+      "Thabo Mbeki fut le premier président de l'Union africaine en 2002, pas secrétaire général de l'OUA.",
+      "Nkrumah était chef d'État du Ghana, pas secrétaire général de l'OUA.",
+      "Hailé Sélassié était l'empereur hôte du sommet fondateur."
+     ],
+     "src": {
+      "t": "EBSCO Research Starters, « Organization of African Unity Is Founded »",
+      "u": "https://www.ebsco.com/research-starters/politics-and-government/organization-african-unity-founded"
+     }
+    },
+    {
+     "id": "n20261122-cg09-14",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Lequel de ces principes ne figure PAS à l'article III de la Charte de l'OUA de 1963 ?",
+     "o": [
+      "La non-ingérence dans les affaires intérieures des États",
+      "Le non-alignement à l'égard de tous les blocs",
+      "Le règlement pacifique des différends",
+      "Le droit d'intervenir dans un État membre en cas de crimes graves"
+     ],
+     "a": 3,
+     "e": "L'article III consacre notamment l'égalité souveraine, la non-ingérence, le règlement pacifique des différends et le non-alignement ; il ne prévoit aucun droit d'intervention.",
+     "ed": [
+      "La non-ingérence est le deuxième principe de l'article III.",
+      "Le non-alignement est le septième principe de l'article III.",
+      "Le règlement pacifique des différends figure à l'article III.",
+      null
+     ],
+     "src": {
+      "t": "Charte de l'Organisation de l'unité africaine, 25 mai 1963 (Fordham, Internet History Sourcebooks)",
+      "u": "https://sourcebooks.web.fordham.edu/mod/1963OAU-charter.asp"
+     }
+    },
+    {
+     "id": "n20261122-cg09-15",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Selon l'article II de sa Charte, lequel de ces objectifs l'OUA s'était-elle fixé ?",
+     "o": [
+      "Créer une monnaie unique africaine",
+      "Éliminer toutes les formes de colonialisme en Afrique",
+      "Instaurer un Parlement continental élu",
+      "Adopter une langue officielle commune"
+     ],
+     "a": 1,
+     "e": "L'article II de la Charte de 1963 fixe notamment comme but d'éliminer toutes les formes de colonialisme de l'Afrique, et de défendre la souveraineté des États.",
+     "ed": [
+      "La monnaie unique ne figure pas parmi les buts de l'article II.",
+      null,
+      "La Charte de 1963 ne crée pas de Parlement continental.",
+      "Aucune langue commune n'est prévue par l'article II."
+     ],
+     "src": {
+      "t": "Charte de l'Organisation de l'unité africaine, 25 mai 1963 (Fordham, Internet History Sourcebooks)",
+      "u": "https://sourcebooks.web.fordham.edu/mod/1963OAU-charter.asp"
+     }
+    },
+    {
+     "id": "n20261122-cg09-16",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "En quelle année le Maroc a-t-il quitté l'Organisation de l'unité africaine ?",
+     "o": [
+      "1963",
+      "1975",
+      "1984",
+      "2002"
+     ],
+     "a": 2,
+     "e": "Le Maroc quitte l'OUA en 1984, après que l'organisation a reconnu l'indépendance du Sahara occidental ; il revient en janvier 2017, après 33 ans.",
+     "ed": [
+      "En 1963, le Maroc participe à la fondation de l'OUA, il ne la quitte pas.",
+      "1975 n'est pas l'année du départ du Maroc.",
+      null,
+      "En 2002, l'OUA disparaît au profit de l'Union africaine ; le Maroc l'avait déjà quittée."
+     ],
+     "src": {
+      "t": "Al Jazeera, « Morocco rejoins the African Union after 33 years », 31 janv. 2017",
+      "u": "https://www.aljazeera.com/amp/news/2017/1/31/morocco-rejoins-the-african-union-after-33-years"
+     }
+    },
+    {
+     "id": "n20261122-cg09-17",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Lors de la réadmission du Maroc à l'Union africaine en janvier 2017, combien de pays ont soutenu sa demande, selon une source de l'Union citée par la presse ?",
+     "o": [
+      "27",
+      "32",
+      "55",
+      "39"
+     ],
+     "a": 3,
+     "e": "Une source de l'Union africaine indique que 39 pays ont soutenu la demande du Maroc et que 9 s'y sont opposés.",
+     "ed": [
+      "27 est le nombre de chefs d'État signataires de l'Acte constitutif à Lomé en 2000.",
+      "32 est le nombre d'États fondateurs de l'OUA en 1963.",
+      "55 est le nombre total d'États membres de l'Union africaine.",
+      null
+     ],
+     "src": {
+      "t": "Al Jazeera, « Morocco rejoins the African Union after 33 years », 31 janv. 2017",
+      "u": "https://www.aljazeera.com/amp/news/2017/1/31/morocco-rejoins-the-african-union-after-33-years"
+     }
+    },
+    {
+     "id": "n20261122-cg09-18",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Combien de chefs d'État ont adopté et signé l'Acte constitutif de l'Union africaine à Lomé, le 11 juillet 2000 ?",
+     "o": [
+      "27",
+      "32",
+      "39",
+      "55"
+     ],
+     "a": 0,
+     "e": "L'Acte constitutif a été adopté et signé par 27 chefs d'État le 11 juillet 2000 à Lomé (Togo).",
+     "ed": [
+      null,
+      "32 est le nombre d'États fondateurs de l'OUA en 1963.",
+      "39 est le nombre de pays favorables au retour du Maroc en 2017.",
+      "55 est le nombre actuel d'États membres de l'Union africaine."
+     ],
+     "src": {
+      "t": "EBSCO Research Starters, « Organization of African Unity Moves to Establish the African Union »",
+      "u": "https://www.ebsco.com/research-starters/history/organization-african-unity-moves-establish-african-union"
+     }
+    },
+    {
+     "id": "n20261122-cg09-19",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Qui fut le premier président de l'Union africaine, lancée à Durban en 2002 ?",
+     "o": [
+      "Mouammar Kadhafi",
+      "Abdoulaye Wade",
+      "Thabo Mbeki",
+      "Olusegun Obasanjo"
+     ],
+     "a": 2,
+     "e": "Le Sud-Africain Thabo Mbeki, hôte du sommet de Durban, est le premier président de l'Union africaine.",
+     "ed": [
+      "Kadhafi n'a pas été le premier président de l'Union africaine.",
+      "Abdoulaye Wade n'est pas le premier président de l'Union africaine.",
+      null,
+      "Obasanjo n'est pas le premier président de l'Union africaine."
+     ],
+     "src": {
+      "t": "EBSCO Research Starters, « Organization of African Unity Moves to Establish the African Union »",
+      "u": "https://www.ebsco.com/research-starters/history/organization-african-unity-moves-establish-african-union"
+     }
+    },
+    {
+     "id": "n20261122-cg09-20",
+     "m": "cg",
+     "tag": "niv-cg09",
+     "q": "Classez dans l'ordre chronologique : Agenda 2063, Déclaration de Syrte, lancement de l'Union africaine à Durban.",
+     "o": [
+      "Durban, Syrte, Agenda 2063",
+      "Syrte, Agenda 2063, Durban",
+      "Agenda 2063, Syrte, Durban",
+      "Syrte, Durban, Agenda 2063"
+     ],
+     "a": 3,
+     "e": "Déclaration de Syrte (9 septembre 1999), lancement de l'Union africaine à Durban (9 juillet 2002), adoption de l'Agenda 2063 au 24e sommet (janvier 2015).",
+     "ed": [
+      "Durban (2002) vient après Syrte (1999).",
+      "L'Agenda 2063 (2015) est postérieur au lancement de Durban (2002).",
+      "L'Agenda 2063 (2015) est le dernier des trois.",
+      null
+     ],
+     "src": {
+      "t": "IISD SDG Knowledge Hub, « 24th AU Summit Adopts Decisions… », 31 janv. 2015",
+      "u": "https://sdg.iisd.org/news/24th-au-summit-adopts-decisions-on-post-2015-negotiations-gender-equality-illicit-flows/"
+     }
+    },
+    {
+     "id": "n20261122-cglibre-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Sous quel autre nom est connue la Déclaration de l'ASEAN, signée le 8 août 1967 ?",
+     "o": [
+      "Charte de Djakarta",
+      "Déclaration de Bangkok",
+      "Accord de Manille",
+      "Traité de Singapour"
+     ],
+     "a": 1,
+     "e": "L'ASEAN est créée le 8 août 1967 à Bangkok (Thaïlande) par la signature de la Déclaration de l'ASEAN, appelée aussi Déclaration de Bangkok.",
+     "ed": [
+      "L'acte fondateur n'a pas été signé à Djakarta.",
+      null,
+      "Manille n'est pas la ville de signature de 1967.",
+      "Singapour n'est pas la ville de signature de 1967."
+     ],
+     "src": {
+      "t": "ASEAN, « The Founding of ASEAN »",
+      "u": "https://asean.org/about-asean/the-founding-of-asean/"
+     }
+    },
+    {
+     "id": "n20261122-cglibre-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lequel de ces pays ne figure PAS parmi les cinq fondateurs de l'OPEP, à la conférence de Bagdad de septembre 1960 ?",
+     "o": [
+      "Iran",
+      "Koweït",
+      "Libye",
+      "Venezuela"
+     ],
+     "a": 2,
+     "e": "Les cinq fondateurs de l'OPEP sont l'Iran, l'Irak, le Koweït, l'Arabie saoudite et le Venezuela. La Libye n'en fait pas partie.",
+     "ed": [
+      "L'Iran est l'un des cinq fondateurs.",
+      "Le Koweït est l'un des cinq fondateurs.",
+      null,
+      "Le Venezuela est l'un des cinq fondateurs."
+     ],
+     "src": {
+      "t": "EBSCO Research Starters, « OPEC Is Founded »",
+      "u": "https://ebsco.com/research-starters/history/opec-founded"
+     }
+    },
+    {
+     "id": "n20261122-cglibre-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "De quel pays était originaire W.E.B. Du Bois, président du congrès panafricain de Manchester en 1945 ?",
+     "o": [
+      "États-Unis",
+      "Jamaïque",
+      "Ghana",
+      "Royaume-Uni"
+     ],
+     "a": 0,
+     "e": "Britannica présente W.E.B. Du Bois comme un Américain : le congrès de Manchester se réunit « avec W.E.B. Du Bois des États-Unis à la présidence ».",
+     "ed": [
+      null,
+      "Du Bois n'était pas jamaïcain : la source le présente comme venant des États-Unis.",
+      "Du Bois n'était pas originaire du Ghana.",
+      "Le congrès se tient au Royaume-Uni, mais son président venait des États-Unis."
+     ],
+     "src": {
+      "t": "Britannica, « Pan-African congresses »",
+      "u": "https://www.britannica.com/topic/Pan-African-congresses"
+     }
+    },
+    {
+     "id": "n20261122-cglibre-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel était le taux de participation au référendum guinéen du 28 septembre 1958 ?",
+     "o": [
+      "Environ 45 %",
+      "Environ 60 %",
+      "Environ 99 %",
+      "Environ 85 %"
+     ],
+     "a": 3,
+     "e": "La participation est de 85,47 % ; plus de 95 % des votants rejettent la Constitution, et la Guinée proclame son indépendance le 2 octobre.",
+     "ed": [
+      "La participation a été bien plus forte : 85,5 %.",
+      "La participation a dépassé les quatre cinquièmes : 85,5 %.",
+      "Ce n'est pas la participation (85,5 %) ; plus de 95 % est la part du non.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia, « 1958 Guinean constitutional referendum »",
+      "u": "https://en.wikipedia.org/wiki/1958_Guinean_constitutional_referendum"
+     }
+    },
+    {
+     "id": "n20261122-cglibre-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville le 24e sommet de l'Union africaine, qui a adopté le document-cadre de l'Agenda 2063, s'est-il tenu en janvier 2015 ?",
+     "o": [
+      "Durban",
+      "Kigali",
+      "Addis-Abeba",
+      "Malabo"
+     ],
+     "a": 2,
+     "e": "Le 24e sommet de l'Union africaine s'est tenu du 23 au 31 janvier 2015 à Addis-Abeba (Éthiopie) et a adopté le document-cadre de l'Agenda 2063.",
+     "ed": [
+      "Durban a accueilli le lancement de l'Union africaine en 2002.",
+      "Kigali n'a pas accueilli le sommet de janvier 2015.",
+      null,
+      "Malabo n'a pas accueilli le sommet de janvier 2015."
+     ],
+     "src": {
+      "t": "IISD SDG Knowledge Hub, « 24th AU Summit Adopts Decisions… », 31 janv. 2015",
+      "u": "https://sdg.iisd.org/news/24th-au-summit-adopts-decisions-on-post-2015-negotiations-gender-equality-illicit-flows/"
+     }
+    },
+    {
+     "id": "n20261122-cglibre-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quel texte de 1963 de Kwame Nkrumah porte un titre devenu le mot d'ordre du panafricanisme ?",
+     "o": [
+      "Africa Must Unite",
+      "Things Fall Apart",
+      "Discours sur le colonialisme",
+      "Les Damnés de la terre"
+     ],
+     "a": 0,
+     "e": "Nkrumah résume son projet d'unité continentale dans un texte de 1963 intitulé « Africa Must Unite » (L'Afrique doit s'unir).",
+     "ed": [
+      null,
+      "Things Fall Apart n'est pas un texte de Nkrumah : c'est un roman.",
+      "Le Discours sur le colonialisme n'est pas un texte de Nkrumah.",
+      "Les Damnés de la terre n'est pas un texte de Nkrumah."
+     ],
+     "src": {
+      "t": "South African History Online, « Dr Kwame Nkrumah »",
+      "u": "https://sahistory.org.za/people/dr-kwame-nkrumah"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261122an07",
+     "niv": "an07",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "Les conditionnelles et wish",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez reconnaître et construire les quatre conditionnelles de l'anglais (types 0, 1, 2 et 3) et les conditionnelles mixtes.",
+      "= Vous saurez aussi exprimer un souhait ou un regret avec I wish et if only, et éviter le piège numéro un des QCM : mettre will ou would juste après if.",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), les conditionnelles et wish apparaissent dans des phrases à compléter. Une moitié de la phrase est donnée ; vous choisissez la forme verbale de l'autre moitié. Les mauvaises réponses sont souvent des formes correctes… d'un autre type de conditionnelle. « If I had known, I would come » mélange ainsi le type 3 et le type 2. Il faut donc lire le temps de la partie donnée avant de regarder les options.",
+      "! Piège habituel : calquer le français. « Si j'aurais su » est déjà une faute en français ; en anglais aussi, will et would ne se placent pas dans la proposition introduite par if.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez la partie déjà écrite : la proposition en if (la condition) ou la principale (la conséquence) ?",
+      "- 2. Identifiez son temps : présent, prétérit (past simple) ou past perfect (had + participe passé).",
+      "- 3. Déduisez le type avec la grille : présent → type 0 ou 1 ; prétérit → type 2 ; past perfect → type 3, ou mixte si la conséquence porte sur le présent (now, today).",
+      "- 4. Choisissez la forme de l'autre partie, puis vérifiez le sens : réel, improbable ou passé irréel ?",
+      "- 5. Barème : si deux options restent possibles et que la grille ne les départage pas, l'abstention (0) vaut mieux qu'un choix au hasard (−1 en cas d'erreur).",
+      "~ Exemple : « If the rains ___ earlier, the cocoa harvest would have been better. » Étape 1 : la principale est donnée. Étape 2 : would have been est la principale du type 3. Étape 3 : la condition prend donc le past perfect. Réponse : had come. Traduction : « Si les pluies étaient arrivées plus tôt, la récolte de cacao aurait été meilleure. »",
+      "> Méthode du réapprentissage successif : interrogez-vous sur chaque point « À retenir » jusqu'à le retrouver une fois sans aide ; mettez de côté ceux que vous avez réussis, reprenez les autres plus tard dans la séance. Recommencez lors d'au moins trois séances séparées d'au moins un jour : chaque séance est plus courte que la précédente, et ce qui est retrouvé ainsi tient jusqu'au jour de l'épreuve."
+     ],
+     "fond": [
+      "## Notion 1 : types 0 et 1, le réel",
+      "Règle : le type 0 exprime une vérité générale, une loi ou une règle : if (ou when) + présent, puis présent. Le type 1 exprime une situation future que l'on juge réelle ou possible : if + présent, puis will + base verbale.",
+      "Pourquoi ? La proposition en if pose seulement une condition. C'est la principale qui porte la prédiction : will s'y trouve, et le verbe après if reste au présent, même quand on parle de demain.",
+      "~ Exemple résolu (type 0) : « Quand l'harmattan souffle, l'air devient sec. » C'est un fait qui se répète chaque année, pas une prédiction : When the harmattan blows, the air becomes dry. Deux présents.",
+      "~ Exemple résolu (type 1) : « Si tu réussis la présélection, tu passeras les écrits. » Étape 1 : condition future possible, donc type 1. Étape 2 : condition au présent : If you pass the pre-selection. Étape 3 : principale avec will : you will sit the written exams. On n'écrit jamais « If you will pass ».",
+      "! Piège : unless signifie « sauf si, à moins que » et contient déjà la négation. « We won't sign unless you send the receipt » veut dire « nous ne signerons pas si vous n'envoyez pas le reçu ». Les mots as soon as, as long as et in case se construisent eux aussi avec le présent.",
+      "> Pour retenir : « Après if, jamais will. » Le futur va dans la principale.",
+      "? Complétez : « If the bus ___ (be) late, we will miss the opening speech. » || La principale contient will : c'est le type 1, condition future possible. La proposition en if reste au présent : If the bus is late. Écrire « will be » après if est la faute classique du QCM.",
+      "## Notion 2 : type 2, l'irréel du présent ou l'improbable",
+      "Règle : if + prétérit, puis would + base verbale. On l'emploie pour une situation présente imaginaire ou un futur peu probable. Avec be, la forme were est correcte à toutes les personnes (If I were you) ; was est fréquent à l'oral.",
+      "Pourquoi ? Ici, le prétérit ne parle pas du passé. Il marque la distance avec la réalité, exactement comme l'imparfait français dans « si j'avais ».",
+      "~ Exemple résolu : « Si j'étais ministre de l'Emploi, je créerais plus de centres de formation. » Étape 1 : je ne suis pas ministre, la situation est imaginaire, donc type 2. Étape 2 : If I were Minister of Employment. Étape 3 : I would create more training centres.",
+      "! Piège : could ou might peuvent remplacer would dans la principale (we could, we might). Mais would ne se place jamais dans la proposition en if : « If I would have » est fautif.",
+      "> Pour retenir : « si + imparfait » en français = « if + prétérit » en anglais ; le conditionnel français = would.",
+      "? Traduisez : « Si nous avions un groupe électrogène, nous ne perdrions pas nos données pendant les coupures. » || Nous n'en avons pas : situation imaginaire, type 2. Condition au prétérit : If we had a generator. Principale avec wouldn't + base verbale : we wouldn't lose our data during power cuts.",
+      "## Notion 3 : type 3, l'irréel du passé",
+      "Règle : if + past perfect (had + participe passé), puis would have + participe passé. On l'emploie pour un passé qui n'a pas eu lieu : regret, reproche, bilan.",
+      "Pourquoi ? Les deux actions sont passées et ne peuvent plus changer. L'anglais recule d'un temps : past perfect pour la condition, would have pour la conséquence.",
+      "~ Exemple résolu : « S'il avait révisé les modaux, il aurait réussi l'épreuve d'anglais. » Étape 1 : il n'a pas révisé, c'est fini, donc type 3. Étape 2 : If he had revised the modals. Étape 3 : he would have passed the English test.",
+      "! Piège : la contraction 'd peut valoir had ou would. Suivie d'un participe passé, elle vaut had ; suivie d'une base verbale ou de have, elle vaut would. Dans « If I'd known, I'd have called you », le premier 'd est had, le second would.",
+      "> Pour retenir : type 3 = trois mots dans la principale : would + have + participe passé.",
+      "? Repérez l'erreur : « If the committee would have met on Monday, it would have approved the budget. » || La proposition en if ne prend jamais would. Au type 3, elle est au past perfect : If the committee had met on Monday, it would have approved the budget.",
+      "## Notion 4 : les conditionnelles mixtes",
+      "Règle : quand la condition et la conséquence ne sont pas à la même époque, chaque moitié garde le temps de son époque. Passé → présent : if + past perfect, puis would + base verbale. Présent → passé : if + prétérit, puis would have + participe passé.",
+      "Pourquoi ? Une décision passée peut avoir un effet aujourd'hui ; un trait permanent peut expliquer un fait passé. Le temps suit le moment de chaque action.",
+      "~ Exemple résolu : « S'il n'avait pas raté son car ce matin, il serait au bureau maintenant. » Condition passée (ce matin) : If he hadn't missed his coach this morning. Conséquence présente (maintenant) : he would be in the office now.",
+      "? Complétez : « If she ___ (not / speak) English, she wouldn't have got the job at the African Development Bank. » (Elle parle anglais : c'est un fait permanent.) || La condition est un fait présent et durable : prétérit, didn't speak. La conséquence est passée : wouldn't have got. C'est la mixte présent → passé.",
+      "## Notion 5 : I wish et if only",
+      "Règle : wish + prétérit exprime un regret sur le présent (I wish I lived nearer). Wish + past perfect exprime un regret sur le passé (I wish I had listened). Wish + would exprime l'agacement devant ce que fait quelqu'un, ou le souhait qu'une chose change (I wish it would stop raining). If only se construit de la même façon et est un peu plus fort que wish.",
+      "Pourquoi ? Comme au type 2 et au type 3, on recule d'un temps pour dire que la réalité est différente de ce qu'on souhaite.",
+      "~ Exemple résolu : « Je regrette de ne pas avoir de permis de conduire. » Regret sur le présent, donc prétérit : I wish I had a driving licence. Et non : I wish I have.",
+      "! Piège : on n'emploie pas wish + would pour parler de soi-même. Pour une capacité qui vous manque, dites I wish I could : « I wish I could drive », jamais « I wish I would drive ».",
+      "> Pour retenir : « wish recule d'un temps » : regret présent → prétérit ; regret passé → past perfect.",
+      "? Traduisez : « Si seulement j'avais écouté les conseils de mon professeur ! » || Regret sur un passé révolu : if only + past perfect. If only I had listened to my teacher's advice! If only est plus fort que wish."
+     ],
+     "retenir": [
+      "Type 0 : if + présent, puis présent, pour une vérité générale ; type 1 : if + présent, puis will + base verbale, pour un futur possible.",
+      "Dans une conditionnelle ordinaire, on ne met ni will ni would dans la proposition introduite par if.",
+      "Type 2 : if + prétérit, puis would + base verbale, pour une situation présente imaginaire ; « If I were » vaut à toutes les personnes.",
+      "Type 3 : if + past perfect, puis would have + participe passé, pour un passé qui n'a pas eu lieu.",
+      "Mixte passé → présent : if + past perfect, puis would + base verbale, par exemple « If he hadn't missed the coach, he would be here now ».",
+      "Unless signifie « sauf si » et contient déjà la négation.",
+      "Wish + prétérit : regret présent ; wish + past perfect : regret passé ; wish + would : agacement devant le comportement d'autrui.",
+      "La contraction 'd vaut had devant un participe passé, would devant une base verbale ou devant have."
+     ],
+     "exo": {
+      "tag": "niv-an07",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "British Council LearnEnglish, « Conditionals: zero, first and second »",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-zero-first-second?page=0"
+      },
+      {
+       "t": "British Council LearnEnglish, « Conditionals: third and mixed »",
+       "u": "https://learnenglish.britishcouncil.org/comment/172230"
+      },
+      {
+       "t": "British Council LearnEnglish, « Wishes: wish and if only »",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/wishes-wish-if-only?page=12"
+      },
+      {
+       "t": "British Council LearnEnglish, « Wishes and hypotheses »",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/wishes-hypotheses"
+      },
+      {
+       "t": "J. Dunlosky, M. Greve, S. Badali, K. Wissman, K. Rawson, « Successive Relearning: An Introduction and Guide for Educators », APA, 2023",
+       "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-successive-relearning-dunlosky-greve-badali-wissman-rawson.pdf"
+      },
+      {
+       "t": "P. K. Agarwal, « Push beyond “one and done” » (successive relearning), RetrievalPractice.org, 18 janv. 2018",
+       "u": "https://www.retrievalpractice.org/archive/2018/successive-relearning"
+      }
+     ]
+    },
+    {
+     "id": "L20261122fr11",
+     "niv": "fr11",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Les homophones grammaticaux",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir sans hésiter entre a et à, ou et où, ces et ses, c'est et s'est, quand, quant et qu'en, leur et leurs, sans et s'en, quelquefois et quelques fois.",
+      "= Pour chaque paire, vous disposerez d'un test de remplacement qui se fait en deux secondes, le jour de l'épreuve.",
+      "## Ce que demande l'épreuve",
+      "Les homophones grammaticaux sont des mots qui se prononcent de la même façon mais n'appartiennent pas à la même classe grammaticale : l'un est un verbe, l'autre une préposition ; l'un est un déterminant, l'autre un pronom. En QCM, on vous demande de compléter une phrase ou de repérer la phrase fautive. L'oreille ne vous aide pas, puisque les formes se prononcent pareil : seule l'analyse tranche.",
+      "! Piège habituel : les phrases de concours accumulent deux ou trois homophones dans la même ligne. Une option peut être juste pour le premier blanc et fausse pour le second. Traitez les blancs un par un et éliminez une option dès qu'un blanc est faux.",
+      "## La méthode, pas à pas",
+      "- 1. Isolez le mot douteux et lisez la phrase jusqu'au bout.",
+      "- 2. Appliquez le test de remplacement de la paire (avait, ou bien, cela est, lorsque, lui…).",
+      "- 3. Si la phrase transformée reste correcte, vous tenez la forme ; sinon, c'est l'autre.",
+      "- 4. Remettez la forme choisie dans la phrase et relisez l'ensemble.",
+      "- 5. Barème : si vous ne retrouvez pas le test d'une paire, abstenez-vous plutôt que de choisir « à l'oreille » : une erreur coûte un point.",
+      "~ Exemple : « Il ___ oublié son badge ___ l'accueil. » Premier blanc : « Il avait oublié » fonctionne, donc a. Second blanc : « avait l'accueil » n'a pas de sens, donc à. Phrase correcte : Il a oublié son badge à l'accueil.",
+      "> Méthode du réapprentissage successif : interrogez-vous sur chaque point « À retenir » jusqu'à le retrouver une fois sans aide ; mettez de côté ceux que vous avez réussis, reprenez les autres plus tard dans la séance. Recommencez lors d'au moins trois séances séparées d'au moins un jour : chaque séance est plus courte que la précédente, et ce qui est retrouvé ainsi tient jusqu'au jour de l'épreuve."
+     ],
+     "fond": [
+      "## Notion 1 : a ou à ; ou ou où",
+      "Règle : a sans accent est le verbe avoir conjugué (il a, elle a). À avec accent est une préposition (aller à Abidjan, penser à demain). Ou sans accent est une conjonction qui marque un choix ; on peut la remplacer par « ou bien ». Où avec accent indique un lieu ou un moment : c'est un adverbe interrogatif (Où vas-tu ?) ou un pronom relatif (la ville où je suis né, le jour où il est parti).",
+      "Pourquoi ? L'accent distingue deux mots de nature différente qui, sans lui, s'écriraient de la même façon. Il évite qu'une phrase administrative devienne ambiguë.",
+      "~ Exemple résolu : « Voulez-vous signer à Abengourou ___ à Agnibilékrou ? » Test : « ou bien à Agnibilékrou » a du sens, donc ou. « C'est la ville ___ j'ai été affecté. » Test : « ou bien j'ai été affecté » n'a pas de sens ; le mot désigne un lieu, donc où.",
+      "! Exception : les locutions latines a priori, a fortiori, a contrario s'écrivent traditionnellement sans accent ; les rectifications de 1990 admettent aussi l'accent.",
+      "> Pour retenir : « a » cache un « avait » ; « où » répond à la question où ? ou quand ?",
+      "? Complétez : « Le dossier ___ été transmis ___ la direction régionale, ___ il sera examiné lundi. » || Premier blanc : « avait été transmis » fonctionne, donc a. Deuxième : « avait la direction » ne fonctionne pas, donc à. Troisième : « ou bien il sera examiné » n'a pas de sens ; c'est un relatif de lieu, donc où.",
+      "## Notion 2 : ces ou ses ; c'est ou s'est",
+      "Règle : ces est un déterminant démonstratif pluriel ; au singulier, il devient ce, cet ou cette. Ses est un déterminant possessif pluriel ; au singulier, il devient son ou sa. C'est réunit le pronom ce et le verbe être ; on peut le remplacer par « cela est ». S'est réunit le pronom se et l'auxiliaire être devant le participe passé d'un verbe pronominal ; avec le sujet je, il devient « me suis ».",
+      "Pourquoi ? Ces montre (ces jours-ci, ces dossiers-là), ses indique à qui appartient la chose (ses enfants = les enfants de quelqu'un). C'est présente une chose, s'est conjugue un verbe.",
+      "~ Exemple résolu : « Le maire présente ___ excuses : ___ jours-ci, il ___ absenté pour raison de service. » Les excuses du maire : au singulier on dirait « son excuse », donc ses. « Ces jours-ci » : le nom est suivi de -ci, on montre un moment proche, donc ces. « Il ___ absenté » : avec je, on dirait « je me suis absenté », donc s'est.",
+      "! Piège : un nom suivi de -ci ou de -là appelle toujours le démonstratif ces (ces fleurs-ci, ces années-là).",
+      "> Pour retenir : « ces → cette ; ses → sa ; c'est → cela est ; s'est → me suis ».",
+      "? Corrigez : « S'est lui qui c'est trompé de salle. » || Premier mot : on peut dire « cela est lui » (c'est lui), donc C'est. Second : « je me suis trompé » fonctionne, c'est le verbe pronominal se tromper, donc s'est. Phrase correcte : C'est lui qui s'est trompé de salle.",
+      "## Notion 3 : quand, quant à ou qu'en",
+      "Règle : quand, avec un d, signifie « lorsque » ou pose une question de temps (Quand partez-vous ?). Quant, avec un t, s'emploie dans la locution « quant à », qui signifie « en ce qui concerne, pour ce qui est de ». Qu'en réunit que et en : « Qu'en pensez-vous ? » signifie « Que pensez-vous de cela ? ».",
+      "Pourquoi ? Ce sont trois mots différents : une conjonction de temps, une préposition qui annonce un thème, et deux mots soudés par l'apostrophe.",
+      "~ Exemple résolu : « ___ au budget, nous en parlerons ___ le ministre sera arrivé. » Premier blanc : « En ce qui concerne le budget » a du sens, donc Quant au. Second : « lorsque le ministre sera arrivé », donc quand.",
+      "! Piège : « tant qu'à », suivi d'un infinitif, signifie « s'il le faut » : « Tant qu'à faire, invitons aussi le préfet. » Ce n'est ni quand ni quant.",
+      "> Pour retenir : « quanD = lorsque, D comme date ; quanT à = en ce qui concerne, T comme thème ; qu'en = que + en ».",
+      "? Complétez : « ___ vous aurez lu le rapport, ___ penserez-vous ? ___ à moi, je le trouve trop long. » || « Lorsque vous aurez lu », donc Quand. « Que penserez-vous de cela ? », donc Qu'en. « En ce qui concerne moi » (pour ce qui est de moi), donc Quant.",
+      "## Notion 4 : leur ou leurs ; sans ou s'en",
+      "Règle : devant un verbe, leur est un pronom qui signifie « à eux, à elles » ; il est invariable et ne prend jamais de s, car il est déjà le pluriel de lui. Devant un nom, leur est un déterminant possessif qui s'accorde avec ce nom : leur maison, leurs feuilles. Sans est une préposition qui marque l'absence. S'en réunit se et en, dans un verbe pronominal (s'en aller, s'en souvenir) ; avec je, il devient « m'en ».",
+      "Pourquoi ? Le pronom leur remplace « à eux » : le pluriel est déjà dans le mot. Le déterminant, lui, suit le nombre du nom qu'il accompagne.",
+      "~ Exemple résolu : « Les chefs de village ont reçu ___ convocations ; le préfet ___ a rappelé l'heure. » Premier blanc : devant le nom pluriel convocations, déterminant possessif, donc leurs. Second : devant le verbe, au singulier on dirait « le préfet lui a rappelé », donc le pronom leur, sans s.",
+      "~ Exemple résolu : « Il est parti ___ dire au revoir ; il ne ___ souvient plus. » Premier blanc : absence d'au revoir, préposition, donc sans. Second : avec je, on dirait « je ne m'en souviens plus », donc s'en.",
+      "! Piège : on écrit « cela va sans dire » (cela va de soi), jamais « cela va s'en dire ».",
+      "> Pour retenir : « leur + verbe = lui au pluriel : jamais de s » ; « s'en → je m'en ».",
+      "? Complétez : « Les stagiaires attendent ___ attestations : je ___ ai promis qu'ils les recevraient ___ retard. » || Devant le nom pluriel attestations : leurs. Devant le verbe, au singulier on dirait « je lui ai promis » : leur, invariable. Absence de retard : la préposition sans.",
+      "## Notion 5 : quelquefois ou quelques fois",
+      "Règle : quelquefois, en un seul mot et sans s, est un adverbe qui signifie « parfois, de temps en temps ». Quelques fois, en deux mots, associe le déterminant pluriel quelques et le nom fois ; il signifie « à un petit nombre de reprises ».",
+      "Pourquoi ? Dans quelques fois, on compte des occasions ; dans quelquefois, on décrit une fréquence irrégulière.",
+      "~ Exemple résolu : « Le comité se réunit ___ par an. » On compte des réunions, « à quelques reprises par an », donc quelques fois. « Il arrive ___ en retard. » Le sens est « parfois », donc quelquefois.",
+      "! Piège : « si quelquefois », au sens de « si par hasard », est familier ; dans une lettre administrative, écrivez « si jamais » ou « au cas où ».",
+      "? Choisissez : « Les ___ où il a présidé la séance, tout s'est bien passé. » || Le mot est précédé de l'article les : c'est un nom que l'on compte, donc quelques fois. L'adverbe quelquefois ne peut pas être précédé d'un article."
+     ],
+     "retenir": [
+      "On écrit « a » quand on peut le remplacer par « avait » ; sinon, c'est la préposition « à ».",
+      "« Ou » se remplace par « ou bien » ; « où » indique un lieu ou un moment.",
+      "« Ces » devient « cette » au singulier ; « ses » devient « son » ou « sa ».",
+      "« C'est » se remplace par « cela est » ; « s'est » devient « me suis » avec le sujet je.",
+      "« Quand » signifie lorsque ; « quant à » signifie en ce qui concerne ; « qu'en » réunit que et en.",
+      "Devant un verbe, le pronom « leur » est invariable : on n'écrit jamais « je leurs ai dit ».",
+      "« Sans » marque l'absence ; « s'en » devient « m'en » avec je ; on écrit « cela va sans dire ».",
+      "« Quelquefois » signifie parfois ; « quelques fois » signifie à un petit nombre de reprises."
+     ],
+     "exo": {
+      "tag": "niv-fr11",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "OQLF, Vitrine linguistique : les homophones a et à",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22599/la-grammaire/les-homophones-grammaticaux/les-homophones-a-et-a"
+      },
+      {
+       "t": "OQLF : les homophones c'est et s'est",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22602/la-grammaire/les-homophones-grammaticaux/les-homophones-cest-et-sest"
+      },
+      {
+       "t": "OQLF : les homophones ces et ses",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22359/la-grammaire/les-homophones-grammaticaux/les-homophones-ces-et-ses"
+      },
+      {
+       "t": "OQLF : les homophones leur et leurs",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22360/la-grammaire/les-homophones-grammaticaux/les-homophones-leur-et-leurs"
+      },
+      {
+       "t": "OQLF : les homophones quand, quant à et tant qu'à",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21645/la-grammaire/les-homophones-grammaticaux/les-homophones-quand-et-quant"
+      },
+      {
+       "t": "OQLF : les homophones quelquefois et quelques fois",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24334/la-grammaire/les-homophones-grammaticaux/les-homophones-quelquefois-et-quelques-fois"
+      },
+      {
+       "t": "OQLF : il va sans dire et il va s'en dire",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24804/la-grammaire/les-homophones-grammaticaux/les-homophones-il-va-sans-dire-et-il-va-sen-dire"
+      },
+      {
+       "t": "SchoolMouv : les homophones ou / où",
+       "u": "https://www.schoolmouv.fr/cours/les-homophones-ou-ou-mes-mais-et-la-la-l-a-l-as-/"
+      },
+      {
+       "t": "J. Dunlosky, M. Greve, S. Badali, K. Wissman, K. Rawson, « Successive Relearning: An Introduction and Guide for Educators », APA, 2023",
+       "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-successive-relearning-dunlosky-greve-badali-wissman-rawson.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261122cg09",
+     "niv": "cg09",
+     "m": "cg",
+     "titre": "Afrique : indépendances, panafricanisme, Union africaine",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer dans l'ordre les grandes étapes du panafricanisme : congrès de Manchester (1945), indépendances du Ghana (1957) et de la Guinée (1958), groupes de Casablanca et de Monrovia (1961), OUA (1963), Union africaine (2002), Agenda 2063 (2015).",
+      "= Vous saurez aussi associer chaque étape à son lieu et à ses figures, et distinguer l'OUA de l'Union africaine.",
+      "## Ce que demande l'épreuve",
+      "En présélection de culture générale (barème +1 / 0 / −1), ce chapitre revient sous trois formes : une date ou une ville à retrouver (« Où l'OUA a-t-elle été fondée ? »), une personnalité à associer à un événement, et l'intrus dans une liste de pays membres. Les distracteurs jouent sur la confusion entre deux étapes voisines : Addis-Abeba (1963) et Durban (2002), Syrte (1999) et Lomé (2000), Casablanca et Monrovia.",
+      "! Piège habituel : confondre la date d'un texte et la date de naissance de l'organisation. L'Acte constitutif de l'Union africaine est adopté à Lomé en 2000, mais l'Union est lancée à Durban en 2002.",
+      "## La méthode, pas à pas",
+      "- 1. Classez l'événement dans l'une des quatre périodes : l'idée (avant 1957), les indépendances (1957-1960), le choix de l'organisation (1961-1963), la refondation (1999-2015).",
+      "- 2. Associez-lui une ville et une figure : c'est le couple que les QCM interrogent.",
+      "- 3. Éliminez les options qui appartiennent à une autre période.",
+      "- 4. S'il reste deux villes de la même période, ne répondez que si vous retrouvez le rôle exact de chacune ; sinon, abstenez-vous.",
+      "~ Exemple : « Dans quelle ville la Déclaration de Syrte a-t-elle été adoptée ? » Options : Lomé, Durban, Syrte, Addis-Abeba. Étape 1 : la déclaration ouvre la refondation (1999). Étape 2 : son nom donne la ville, Syrte, en Libye. Étape 3 : Lomé (texte de 2000) et Durban (lancement de 2002) appartiennent à la même période mais à d'autres étapes ; Addis-Abeba (1963) appartient à une autre période.",
+      "> Pour retenir la chronologie : « Manchester pense, Accra libère, Addis unit, Durban refonde » (1945, 1957, 1963, 2002).",
+      "> Méthode du réapprentissage successif : interrogez-vous sur chaque point « À retenir » jusqu'à le retrouver une fois sans aide ; mettez de côté ceux que vous avez réussis, reprenez les autres plus tard dans la séance. Recommencez lors d'au moins trois séances séparées d'au moins un jour : chaque séance est plus courte que la précédente, et ce qui est retrouvé ainsi tient jusqu'au jour de l'épreuve."
+     ],
+     "fond": [
+      "## Notion 1 : le panafricanisme, une idée née hors d'Afrique",
+      "Définition : le panafricanisme est le mouvement qui affirme la solidarité des peuples africains et de la diaspora, et qui réclame leur libération puis leur unité. Avant 1945, il se construit surtout lors de congrès tenus en Europe.",
+      "Pourquoi ? Les colonies n'avaient pas de liberté de réunion politique : les militants se retrouvaient dans les capitales des métropoles, aux côtés d'intellectuels noirs américains et antillais.",
+      "Le cinquième congrès panafricain se tient à Manchester, en Angleterre, du 15 au 18 octobre 1945, sous la présidence de l'Américain W.E.B. Du Bois. Jomo Kenyatta, futur dirigeant du Kenya, aide à l'organiser ; Kwame Nkrumah, futur dirigeant du Ghana, y participe.",
+      "~ Exemple résolu : un QCM demande « Qui présidait le congrès panafricain de Manchester en 1945 ? » avec Nkrumah, Kenyatta, Du Bois, Senghor. Étape 1 : Nkrumah et Kenyatta y étaient, mais comme organisateurs et participants. Étape 2 : le président est W.E.B. Du Bois. Étape 3 : Senghor ne figure pas parmi les acteurs du congrès cités par Britannica ; on l'élimine.",
+      "! Piège : Manchester n'est pas le premier congrès panafricain, c'est le cinquième. Ne répondez pas « premier » parce que c'est le plus célèbre.",
+      "? Remettez dans l'ordre : création de l'OUA, congrès de Manchester, indépendance du Ghana. || Manchester (octobre 1945), indépendance du Ghana (6 mars 1957), OUA (25 mai 1963). L'idée précède la libération, qui précède l'organisation.",
+      "## Notion 2 : les indépendances pionnières, Ghana et Guinée",
+      "Le Ghana, ancienne Gold Coast britannique, devient indépendant le 6 mars 1957 sous la conduite de Kwame Nkrumah, qui dirige le pays jusqu'en 1966. Nkrumah fait de l'unité africaine son combat : « Africa Must Unite » (L'Afrique doit s'unir) est le titre de son texte de 1963. En février 1966, un coup d'État mené par Joseph Ankrah le renverse.",
+      "En Guinée, le référendum constitutionnel du 28 septembre 1958 donne plus de 95 % de « non » à la Constitution soumise au vote (95,22 % selon les résultats publiés). Sous la direction d'Ahmed Sékou Touré, la Guinée proclame son indépendance le 2 octobre 1958.",
+      "Pourquoi ces deux pays comptent-ils ? Leurs dirigeants, Nkrumah et Sékou Touré, deviennent en 1961 deux des chefs de file du groupe de Casablanca, le plus favorable à l'unité politique du continent.",
+      "~ Exemple résolu de calcul de durée : combien de temps sépare l'indépendance du Ghana de celle de la Guinée ? Du 6 mars 1957 au 6 mars 1958, un an ; du 6 mars au 2 octobre 1958, un peu moins de sept mois. Réponse : environ un an et sept mois.",
+      "> Pour retenir : « Ghana 57, Guinée 58 : le premier dit oui à l'unité, le second dit non à la France. »",
+      "? Vrai ou faux : « La Guinée a obtenu son indépendance après avoir voté oui au référendum de 1958. » || Faux. Plus de 95 % des votants ont dit non à la Constitution proposée ; la Guinée proclame ensuite son indépendance, le 2 octobre 1958.",
+      "## Notion 3 : 1961, Casablanca contre Monrovia",
+      "Une fois indépendants, les États africains se divisent sur la forme de l'unité. Le groupe de Casablanca, réuni en 1961 dans cette ville marocaine, compte sept États : Algérie, Égypte, Ghana, Guinée, Libye, Mali et Maroc. Ses chefs de file sont Nasser, Nkrumah et Sékou Touré. Il veut une union ou une fédération politique, avec des pouvoirs transférés à une autorité panafricaine.",
+      "Le groupe de Monrovia se réunit du 8 au 12 mai 1961 dans la capitale du Libéria. Il rassemble notamment le Nigéria et la plupart des États francophones, dont le Sénégal et le Cameroun. Il prône la coopération entre États souverains, sans fédération. Félix Houphouët-Boigny y fait figure de chef de file des États dits conservateurs, partisans de la prudence ; la Côte d'Ivoire appartient aussi au groupe des douze États francophones de l'Union africaine et malgache.",
+      "Pourquoi cette division ? Les uns jugent que seule une Afrique unie pourra se développer et se défendre ; les autres veulent d'abord consolider des États tout juste nés.",
+      "> Pour retenir : « Casablanca = Fédération (C comme Construire un seul État) ; Monrovia = Modération (M comme Maintenir les États) ».",
+      "! Piège : le groupe de Casablanca porte le nom d'une ville marocaine, mais il est mené par Nkrumah et ses alliés ; ne le confondez pas avec une organisation du Maghreb.",
+      "## Notion 4 : l'Organisation de l'unité africaine (1963-2002)",
+      "Le 25 mai 1963, à l'invitation de l'empereur d'Éthiopie Hailé Sélassié, les chefs de 32 États indépendants fondent à Addis-Abeba l'Organisation de l'unité africaine (OUA). Les membres des deux groupes y adhèrent : la Charte ne reprend pas le projet de Nkrumah et crée un groupement d'États souverains, conforme à la ligne de Monrovia. Le premier secrétaire général de l'OUA est Diallo Telli.",
+      "La Charte fixe cinq buts (article II), dont la défense de la souveraineté, de l'intégrité territoriale et de l'indépendance des États, et l'élimination de toutes les formes de colonialisme en Afrique. Ses principes (article III) comprennent l'égalité souveraine, la non-ingérence dans les affaires intérieures, le règlement pacifique des différends et le non-alignement à l'égard de tous les blocs.",
+      "~ Exemple résolu : un sujet affirme « L'OUA pouvait intervenir dans un État membre en crise ». Étape 1 : cherchez le principe en cause : la non-ingérence (article III). Étape 2 : concluez que la Charte de 1963 l'interdisait. Étape 3 : notez que c'est précisément ce que l'Union africaine changera.",
+      "Le Maroc quitte l'OUA en 1984, après la reconnaissance par l'organisation de l'indépendance du Sahara occidental.",
+      "? Quel principe de la Charte de 1963 explique que l'OUA ait été critiquée pour son silence face aux régimes autoritaires ? || La non-ingérence dans les affaires intérieures des États (article III). Elle protégeait la souveraineté de jeunes États, mais empêchait l'organisation d'agir contre les violations commises à l'intérieur d'un pays.",
+      "## Notion 5 : de Syrte à l'Agenda 2063, l'Union africaine",
+      "Le 9 septembre 1999, la Déclaration de Syrte (Libye) lance la refondation. L'Acte constitutif de l'Union africaine est adopté et signé par 27 chefs d'État le 11 juillet 2000 à Lomé. L'Union africaine est créée le 9 juillet 2002 à Durban, en Afrique du Sud ; le Sud-Africain Thabo Mbeki en est le premier président.",
+      "Le Maroc est réadmis en janvier 2017, au sommet d'Addis-Abeba, après 33 ans d'absence : 39 pays ont soutenu sa demande, 9 s'y sont opposés. L'Union compte 55 États membres. Sa vision est celle d'« une Afrique intégrée, prospère et pacifique, dirigée par ses propres citoyens ». Pour la mettre en œuvre, le 24e sommet de l'Union, tenu à Addis-Abeba du 23 au 31 janvier 2015, adopte le document-cadre de l'Agenda 2063.",
+      "~ Exemple résolu : « Combien d'années séparent la fondation de l'OUA du lancement de l'Union africaine ? » De 1963 à 2002 : 2002 − 1963 = 39 ans.",
+      "! Piège : Addis-Abeba est à la fois la ville de fondation de l'OUA (1963), le siège de l'Union africaine et le lieu du sommet de 2015 ; ce n'est pas la ville de lancement de l'Union, qui est Durban.",
+      "? Calculez : combien d'années le Maroc est-il resté hors de l'organisation continentale ? || Il quitte l'OUA en 1984 et revient en janvier 2017 : 2017 − 1984 = 33 ans, chiffre donné par la presse au moment de sa réadmission.",
+      "## Le débat pour la dissertation",
+      "Pour : l'Union africaine a dépassé l'OUA en se donnant un projet de long terme (Agenda 2063) et en rassemblant tout le continent depuis le retour du Maroc. Contre : le vieux débat de 1961 n'est pas tranché ; l'unité reste une coopération entre États souverains, loin de la fédération voulue par Nkrumah. Exemple utile : la Côte d'Ivoire d'Houphouët-Boigny, qui a choisi la voie modérée, illustre la logique de Monrovia qui l'a emporté en 1963."
+     ],
+     "retenir": [
+      "Le cinquième congrès panafricain s'est tenu à Manchester du 15 au 18 octobre 1945, sous la présidence de W.E.B. Du Bois.",
+      "Le Ghana devient indépendant le 6 mars 1957 sous la conduite de Kwame Nkrumah, renversé en février 1966.",
+      "La Guinée vote non au référendum du 28 septembre 1958 et proclame son indépendance le 2 octobre 1958, avec Sékou Touré.",
+      "En 1961, le groupe de Casablanca veut une fédération politique ; le groupe de Monrovia, avec Houphouët-Boigny, défend la coopération entre États souverains.",
+      "L'OUA est fondée le 25 mai 1963 à Addis-Abeba par 32 États ; son premier secrétaire général est Diallo Telli.",
+      "La Charte de l'OUA consacre la non-ingérence, l'intégrité territoriale et l'élimination du colonialisme.",
+      "Syrte 1999 (déclaration), Lomé 2000 (Acte constitutif), Durban 9 juillet 2002 (lancement de l'Union africaine, présidée d'abord par Thabo Mbeki).",
+      "Le Maroc quitte l'OUA en 1984 et rejoint l'Union africaine en janvier 2017 ; l'Agenda 2063 est adopté en janvier 2015."
+     ],
+     "exo": {
+      "tag": "niv-cg09",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Britannica, « Pan-African congresses »",
+       "u": "https://www.britannica.com/topic/Pan-African-congresses"
+      },
+      {
+       "t": "South African History Online, « Dr Kwame Nkrumah »",
+       "u": "https://sahistory.org.za/people/dr-kwame-nkrumah"
+      },
+      {
+       "t": "Wikipedia, « 1958 Guinean constitutional referendum »",
+       "u": "https://en.wikipedia.org/wiki/1958_Guinean_constitutional_referendum"
+      },
+      {
+       "t": "Wikipedia, « Casablanca Group »",
+       "u": "https://en.wikipedia.org/wiki/Casablanca_Group"
+      },
+      {
+       "t": "Wikipedia, « Monrovia Group »",
+       "u": "https://en.wikipedia.org/wiki/Monrovia_Group"
+      },
+      {
+       "t": "Geschichte.schule.at, fiche « Die OAU » (groupes de Casablanca, Monrovia et Brazzaville)",
+       "u": "https://geschichte.schule.at/fileadmin/DAM/Gegenstandsportale/Geschichte/Dateien/5-OAU.pdf"
+      },
+      {
+       "t": "L'Express de Madagascar, « Les douze Africains favorables à la non-ingérence », 25 oct. 2023",
+       "u": "https://lexpress.mg/25/10/2023/les-douze-africains-favorables-a-la-non-ingerence/"
+      },
+      {
+       "t": "Charte de l'Organisation de l'unité africaine, 25 mai 1963 (Fordham, Internet History Sourcebooks)",
+       "u": "https://sourcebooks.web.fordham.edu/mod/1963OAU-charter.asp"
+      },
+      {
+       "t": "BlackPast, « Organization of African Unity (1963-2002) »",
+       "u": "https://blackpast.org/gah/organization-african-unity-1963-2002"
+      },
+      {
+       "t": "EBSCO Research Starters, « Organization of African Unity Is Founded »",
+       "u": "https://www.ebsco.com/research-starters/politics-and-government/organization-african-unity-founded"
+      },
+      {
+       "t": "EBSCO Research Starters, « Organization of African Unity Moves to Establish the African Union »",
+       "u": "https://www.ebsco.com/research-starters/history/organization-african-unity-moves-establish-african-union"
+      },
+      {
+       "t": "Union africaine, « L'UA en bref »",
+       "u": "https://au.int/fr/appercu"
+      },
+      {
+       "t": "IISD SDG Knowledge Hub, « 24th AU Summit Adopts Decisions… », 31 janv. 2015",
+       "u": "https://sdg.iisd.org/news/24th-au-summit-adopts-decisions-on-post-2015-negotiations-gender-equality-illicit-flows/"
+      },
+      {
+       "t": "Al Jazeera, « Morocco rejoins the African Union after 33 years », 31 janv. 2017",
+       "u": "https://www.aljazeera.com/amp/news/2017/1/31/morocco-rejoins-the-african-union-after-33-years"
+      },
+      {
+       "t": "The Herald (Zimbabwe), « The birth of the OAU »",
+       "u": "https://www.heraldonline.co.zw/the-birth-of-the-oau/"
+      },
+      {
+       "t": "J. Dunlosky, M. Greve, S. Badali, K. Wissman, K. Rawson, « Successive Relearning: An Introduction and Guide for Educators », APA, 2023",
+       "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-successive-relearning-dunlosky-greve-badali-wissman-rawson.pdf"
+      }
+     ]
+    }
+   ],
+   "sujets": []
   }
  ]
 }
