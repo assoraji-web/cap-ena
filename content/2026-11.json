@@ -37908,7 +37908,77 @@
      ]
     }
    ],
-   "sujets": []
+   "sujets": [],
+   "analyses": [
+    {
+     "id": "A20261122",
+     "theme": "Eau, assainissement et services publics",
+     "titre": "Eau potable et assainissement en Côte d'Ivoire : produire assez ne suffit pas, il faut distribuer et entretenir",
+     "chapeau": "La Côte d'Ivoire produit aujourd'hui près de trois fois plus d'eau potable qu'en 2011, mais près d'un habitant sur quatre n'y a toujours pas accès et l'écart entre villes et campagnes reste fort. Le « Pacte national de l'eau », présenté à la Banque mondiale en avril 2026, vise l'accès universel en 2030 : l'enjeu se déplace de la production vers la distribution, l'entretien et l'assainissement.",
+     "corps": [
+      "## Le constat",
+      "L'accès à l'eau potable désigne la possibilité, pour un ménage, de disposer d'une eau propre à la consommation à partir d'une source protégée (branchement à domicile, borne-fontaine, forage équipé d'une pompe). Les organisations internationales distinguent un accès « basique » (une source améliorée à moins de 30 minutes aller-retour) et un service « géré de manière sûre » (eau disponible à domicile, en permanence et sans contamination).",
+      "Selon un article de Le360 Afrique du 21 octobre 2026, qui reprend le ministère du Plan et du Développement, 77 % de la population ivoirienne a aujourd'hui accès à l'eau potable et 40 % à un service d'assainissement. La production d'eau potable est passée d'environ 350 000 mètres cubes par jour en 2011 à environ 1 004 944 mètres cubes par jour en 2024, soit une hausse de 187 %. Le même article souligne l'écart territorial : seuls 19 % des ruraux bénéficient d'un service géré de manière sûre, contre 51 % en ville.",
+      "Le ministre de l'Hydraulique, de l'Assainissement et de la Salubrité résumait la situation en mars 2026, lors d'une visite à la SODECI rapportée par KOACI : « Nous disposons suffisamment d'eau » ; le vrai problème est la pose des canalisations jusqu'aux ménages. Abidjan produit plus d'un million de mètres cubes par jour selon ses propos, et les villes de l'intérieur environ 800 000.",
+      "## Les causes",
+      "Première cause : la croissance démographique et l'urbanisation rapide. Les quartiers nouveaux, souvent précaires, s'étendent plus vite que les réseaux. La Direction générale de l'Économie indique que le nombre d'abonnés en milieu urbain est passé de 852 662 en 2016 à plus de 2,2 millions en 2024 ; malgré cet effort, le taux de couverture urbaine reste en deçà des objectifs.",
+      "Deuxième cause : le maillon de la distribution. Construire une usine de traitement est une opération visible et rapide ; étendre des milliers de kilomètres de conduites, raccorder les ménages et réduire les fuites est plus lent et plus coûteux. Le « rendement du réseau » (part de l'eau produite qui arrive réellement au robinet) était d'environ 78 % en 2021 selon la DGE.",
+      "Troisième cause : l'entretien en milieu rural. L'« hydraulique villageoise » repose sur des forages équipés de pompes à motricité humaine. Devant le Conseil économique, social, environnemental et culturel (CESEC), en juin 2026, le ministre a indiqué, selon l'AIP, que près de 40 % des quelque 25 000 pompes installées dans les villages sont défectueuses. Une pompe en panne fait retomber un village dans l'usage des marigots et des puits non protégés.",
+      "Quatrième cause : l'assainissement, longtemps parent pauvre. La défécation à l'air libre, c'est-à-dire l'absence de toute latrine, contamine les points d'eau et favorise les maladies diarrhéiques. Dans le Worodougou, avant l'intervention, ce taux atteignait 33,7 %, l'un des plus élevés du pays, selon l'UNICEF.",
+      "## Les réponses publiques",
+      "- Le Pacte national de l'eau : présenté le 17 avril 2026 à Washington, en marge des réunions de printemps de la Banque mondiale (AIP), il prévoit de mobiliser 7,5 milliards de dollars d'ici 2030, dont un milliard attendu du secteur privé (Le360 Afrique), pour l'accès universel des 32 millions d'habitants.",
+      "- Les grands ouvrages de production : la station de la lagune Aghien, à Abidjan (150 000 m³ par jour, plus d'un million d'habitants desservis), et le projet de Bouaké alimenté par le fleuve Bandama, tous deux achevés selon la DGE.",
+      "- Les branchements sociaux : ce sont des raccordements subventionnés, dont le ménage ne paie qu'une faible part. Le programme d'amélioration des performances techniques et financières (APTF), lancé en mai 2020 pour 155 quartiers précaires d'Abidjan, a réalisé 176 500 branchements sociaux et 898 km de conduites, au bénéfice d'environ 1,7 million de personnes (DGE, situation au 30 juin 2025).",
+      "- L'entretien rural : le volet hydraulique du Programme social du Gouvernement a permis de remplacer 4 003 pompes et d'en réparer plus de 15 000 (DGE).",
+      "- L'assainissement rural : l'approche de certification « FDAL » (Fin de la défécation à l'air libre) mobilise les communautés pour construire et utiliser des latrines. En juillet 2026, le Worodougou (près de 430 000 habitants, 211 villages) est devenu la première région certifiée FDAL, avec l'appui des Pays-Bas et de l'UNICEF (programme ASWA III).",
+      "- La réforme institutionnelle : la DGE mentionne la transformation de l'Office national de l'eau potable (ONEP) en société de patrimoine, chargée des investissements, tandis que la SODECI assure la distribution urbaine dans le cadre d'un contrat d'affermage. L'affermage est un contrat par lequel l'État confie l'exploitation d'un réseau qu'il possède à une entreprise, rémunérée par les usagers.",
+      "## Les débats et les limites",
+      "Le premier débat porte sur le financement. Les uns jugent indispensable l'appel aux capitaux privés et aux partenaires, faute de marges budgétaires suffisantes ; d'autres craignent qu'une logique de rentabilité oriente les investissements vers les zones solvables, au détriment des campagnes et des quartiers pauvres, et plaident pour un financement public prioritaire de l'eau comme bien essentiel.",
+      "Le deuxième débat porte sur le prix de l'eau. Un tarif bas protège les ménages modestes, mais peut priver l'exploitant des ressources nécessaires à l'entretien et à l'extension du réseau ; un tarif plus élevé finance le service, mais pèse sur les familles. Les tarifs sociaux, appliqués aux premières tranches de consommation, et les branchements subventionnés cherchent un compromis.",
+      "Le troisième débat concerne la mesure du progrès. Un taux d'accès de 77 % ne dit pas si l'eau coule tous les jours, ni si elle est sûre : les écarts entre accès « basique » et service « géré de manière sûre » montrent qu'un forage construit n'est pas un service durable. Enfin, l'assainissement progresse plus lentement que l'eau, alors que les deux sont liés : sans latrines ni évacuation des eaux usées, l'eau produite peut être contaminée.",
+      "## Ce qu'en attend un jury",
+      "Le jury attend d'un futur administrateur qu'il distingue clairement production, distribution et entretien, qu'il sache définir les notions (accès basique, service géré de manière sûre, affermage, branchement social, FDAL) et qu'il relie le sujet à l'objectif de développement durable n° 6 de l'ONU, qui vise l'accès universel à l'eau et à l'assainissement d'ici 2030. Il valorise une réflexion de gestionnaire public : qui finance, qui entretient, comment associer les collectivités et les comités villageois de gestion des points d'eau, et comment évaluer le service rendu plutôt que les seuls ouvrages inaugurés. Sur les débats (place du privé, prix de l'eau), il apprécie une présentation équilibrée des arguments plutôt qu'une prise de position tranchée."
+     ],
+     "retenir": [
+      "Environ 77 % des Ivoiriens ont accès à l'eau potable et 40 % à l'assainissement ; la production a presque triplé entre 2011 et 2024 (environ 1 million de m³ par jour).",
+      "L'écart rural/urbain reste fort : 19 % des ruraux ont un service géré de manière sûre, contre 51 % en ville.",
+      "Le goulot d'étranglement est la distribution (réseaux, raccordements) et l'entretien (près de 40 % des pompes villageoises défectueuses selon le ministre en 2026).",
+      "Le Pacte national de l'eau (avril 2026) vise l'accès universel en 2030 avec 7,5 milliards de dollars, dont 1 milliard du privé.",
+      "L'assainissement progresse : le Worodougou est la première région certifiée « Fin de la défécation à l'air libre » (juillet 2026)."
+     ],
+     "sujets": [
+      "« L'accès universel à l'eau potable en 2030 : un objectif réaliste pour la Côte d'Ivoire ? » Discutez.",
+      "Service public de l'eau : faut-il privilégier le financement public ou le partenariat avec le secteur privé ?",
+      "En quoi l'assainissement conditionne-t-il l'efficacité des politiques de santé publique ?"
+     ],
+     "sources": [
+      {
+       "t": "Le360 Afrique, 21 octobre 2026 : la Côte d'Ivoire prévoit un investissement de 7,5 milliards de dollars pour un accès universel à l'eau à l'horizon 2030",
+       "u": "https://afrique.le360.ma/economie/la-cote-divoire-prevoit-un-investissement-de-75-milliards-de-dollars-pour-un-acces-universel-a-leau_KD7ET4XAQJCZTHQRK6EPAAIQGM/"
+      },
+      {
+       "t": "KOACI, 23 mars 2026 : accès à l'eau potable, le gouvernement engage la bataille des canalisations",
+       "u": "https://www.koaci.com/index.php/article/2026/03/23/cote-divoire/politique/cote-divoire-acces-a-leau-potable-le-gouvernement-engage-la-bataille-des-canalisations-pour-desservir-tous-les-menages_195263.html"
+      },
+      {
+       "t": "AIP, 4 juin 2026 : le ministre Amédé Kouakou expose les défis de l'accès à l'eau potable devant le CESEC",
+       "u": "https://www.aip.ci/cote-divoire-aip-le-ministre-amede-kouakou-expose-les-defis-de-lacces-a-leau-potable-devant-le-cesec/"
+      },
+      {
+       "t": "AIP, 20 avril 2026 : Amédé Kouakou présente le Pacte national pour l'eau devant la Banque mondiale",
+       "u": "https://www.aip.ci/aip-inter-reunions-de-printemps-amede-kouakou-presente-le-pacte-national-pour-leau-devant-la-banque-mondiale/"
+      },
+      {
+       "t": "Direction générale de l'Économie : Eau potable (activités sectorielles)",
+       "u": "https://economie-ivoirienne.ci/activites-sectorielles/eau-potable.html"
+      },
+      {
+       "t": "UNICEF, 1er juillet 2026 : Worodougou, première région certifiée FDAL en Côte d'Ivoire",
+       "u": "https://www.unicef.org/cotedivoire/communiqu%C3%A9s-de-presse/worodougou-premi%C3%A8re-r%C3%A9gion-certifi%C3%A9e-fdal-en-c%C3%B4te-divoire"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
