@@ -37555,6 +37555,421 @@
       "t": "South African History Online, « Dr Kwame Nkrumah »",
       "u": "https://sahistory.org.za/people/dr-kwame-nkrumah"
      }
+    },
+    {
+     "id": "c20261122-ang2-01",
+     "m": "ang",
+     "tag": "ang2",
+     "q": "« Actually, the report was sent on Monday. » Que signifie actually dans cette phrase ?",
+     "o": [
+      "Actuellement",
+      "En fait",
+      "Éventuellement",
+      "Habituellement"
+     ],
+     "a": 1,
+     "e": "Faux ami : actually signifie « en fait, en réalité ». Pour dire « actuellement », l'anglais emploie currently ou at present.",
+     "ed": [
+      "Actuellement se dit currently ou at present ; actually ne porte pas sur le moment présent.",
+      null,
+      "Éventuellement se dit possibly ; c'est un autre faux ami (eventually = finalement).",
+      "Habituellement se dit usually ; rien dans actually n'exprime l'habitude."
+     ],
+     "src": {
+      "t": "MosaLingua, Liste de faux amis anglais-français",
+      "u": "https://www.mosalingua.com/blog/2019/07/31/liste-faux-amis-anglais-francais/"
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "c20261122-ang2-02",
+     "m": "ang",
+     "tag": "ang2",
+     "q": "« All heads of department must attend the budget meeting. » Que doivent faire les chefs de service ?",
+     "o": [
+      "Attendre la réunion budgétaire",
+      "Préparer la réunion budgétaire",
+      "Annuler la réunion budgétaire",
+      "Assister à la réunion budgétaire"
+     ],
+     "a": 3,
+     "e": "To attend signifie « assister à » (une réunion, une conférence). « Attendre » se dit to wait for.",
+     "ed": [
+      "« Attendre » se traduit par to wait for, pas par to attend : c'est le piège du faux ami.",
+      "Préparer se dirait to prepare ; attend ne contient pas cette idée.",
+      "Annuler se dirait to cancel ; c'est le contraire d'une participation.",
+      null
+     ],
+     "src": {
+      "t": "MosaLingua, Liste de faux amis anglais-français",
+      "u": "https://www.mosalingua.com/blog/2019/07/31/liste-faux-amis-anglais-francais/"
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "c20261122-ang2-03",
+     "m": "ang",
+     "tag": "ang2",
+     "q": "« The minister gave a lecture at the University of Cocody. » Le ministre a donné :",
+     "o": [
+      "une conférence",
+      "une lecture publique d'un texte",
+      "une interview à la radio",
+      "un devoir écrit"
+     ],
+     "a": 0,
+     "e": "Faux ami : a lecture est une conférence ou un cours magistral. La « lecture » au sens français se dit reading.",
+     "ed": [
+      null,
+      "La lecture d'un texte se dit reading ; a lecture désigne un exposé oral devant un public.",
+      "Une interview se dit an interview ; rien ne l'indique ici.",
+      "Un devoir écrit se dit an assignment ou a written test, pas a lecture."
+     ],
+     "src": {
+      "t": "MosaLingua, Liste de faux amis anglais-français",
+      "u": "https://www.mosalingua.com/blog/2019/07/31/liste-faux-amis-anglais-francais/"
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "c20261122-ang2-04",
+     "m": "ang",
+     "tag": "ang2",
+     "q": "« The delay in paying the contractors angered the workers. » Le mot delay désigne :",
+     "o": [
+      "le délai accordé pour payer",
+      "le retard de paiement",
+      "le montant du paiement",
+      "le contrat de paiement"
+     ],
+     "a": 1,
+     "e": "Faux ami : a delay est un retard. Le « délai » français (temps accordé, date limite) se dit time limit, period ou deadline.",
+     "ed": [
+      "Un délai accordé se dit a time limit ou a deadline ; delay signifie retard, d'où la colère des ouvriers.",
+      null,
+      "Le montant se dit the amount ; delay concerne le temps, pas la somme.",
+      "Un contrat se dit a contract ; delay n'a aucun rapport avec ce document."
+     ],
+     "src": {
+      "t": "MosaLingua, Liste de faux amis anglais-français",
+      "u": "https://www.mosalingua.com/blog/2019/07/31/liste-faux-amis-anglais-francais/"
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "c20261122-ang2-05",
+     "m": "ang",
+     "tag": "ang2",
+     "q": "Traduisez : « Le délai de dépôt des candidatures est fixé au 30 juin. »",
+     "o": [
+      "The delay for applications is 30 June.",
+      "The application retard is 30 June.",
+      "The deadline for applications is 30 June.",
+      "The lateness of applications is 30 June."
+     ],
+     "a": 2,
+     "e": "Le « délai », au sens de date limite, se dit deadline (ou time limit). Delay voudrait dire « retard » et fausserait le sens.",
+     "ed": [
+      "Delay signifie retard : la phrase dirait que le retard est fixé au 30 juin, ce qui est absurde.",
+      "Retard n'est pas un mot anglais courant dans ce sens ; on écrirait delay, qui reste faux ici.",
+      null,
+      "Lateness signifie le fait d'être en retard ; ce n'est pas une date limite."
+     ],
+     "src": {
+      "t": "MosaLingua, Liste de faux amis anglais-français",
+      "u": "https://www.mosalingua.com/blog/2019/07/31/liste-faux-amis-anglais-francais/"
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "c20261122-ang2-06",
+     "m": "ang",
+     "tag": "ang2",
+     "q": "« The secretary will circulate the minutes of the meeting tomorrow. » Que va diffuser la secrétaire ?",
+     "o": [
+      "Le procès-verbal de la réunion",
+      "Les minutes de pause de la réunion",
+      "La liste des ministres présents",
+      "L'heure exacte de la réunion"
+     ],
+     "a": 0,
+     "e": "The minutes (au pluriel), à propos d'une réunion, désignent le procès-verbal ou compte rendu. Ne confondez pas avec la durée (minute).",
+     "ed": [
+      null,
+      "Le sens « durée » ne convient pas : on ne diffuse pas des minutes de pause ; the minutes of a meeting est le procès-verbal.",
+      "Les ministres se disent ministers ; minutes n'a aucun lien avec ce mot.",
+      "L'heure se dit the time ; circulate the minutes signifie diffuser un document écrit."
+     ],
+     "src": {
+      "t": "Wiktionnaire, Annexe : Faux-amis anglais-français",
+      "u": "https://fr.wiktionary.org/wiki/Annexe:Faux-amis_anglais-fran%C3%A7ais"
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "c20261122-ang2-07",
+     "m": "ang",
+     "tag": "ang2",
+     "q": "« After the audit, the director decided to resign. » Qu'a décidé le directeur ?",
+     "o": [
+      "De se résigner à la situation",
+      "De démissionner",
+      "De signer à nouveau le rapport",
+      "De reprendre le contrôle"
+     ],
+     "a": 1,
+     "e": "To resign signifie « démissionner, se démettre de ses fonctions ». « Se résigner » se dit plutôt to accept ou to resign oneself to something.",
+     "ed": [
+      "Le sens courant de to resign, employé seul, est démissionner ; se résigner demande la tournure to resign oneself to.",
+      null,
+      "Signer à nouveau se dirait to sign again : le préfixe re- est ici trompeur.",
+      "Reprendre le contrôle se dirait to take back control ; aucun rapport avec resign."
+     ],
+     "src": {
+      "t": "Wiktionnaire, Annexe : Faux-amis anglais-français",
+      "u": "https://fr.wiktionary.org/wiki/Annexe:Faux-amis_anglais-fran%C3%A7ais"
+     },
+     "verif": "regle"
+    },
+    {
+     "id": "c20261122-ci-01",
+     "m": "cg",
+     "tag": "ci",
+     "q": "Par qui et en quelle année la basilique Notre-Dame de la Paix de Yamoussoukro a-t-elle été consacrée ?",
+     "o": [
+      "Par Paul VI, en 1969",
+      "Par Benoît XVI, en 2009",
+      "Par Jean-Paul II, en 1990",
+      "Par Jean-Paul II, en 1980"
+     ],
+     "a": 2,
+     "e": "Le pape Jean-Paul II a consacré la basilique le 10 septembre 1990, comme il le rappelle dans son discours de départ prononcé ce jour-là.",
+     "ed": [
+      "Paul VI n'a pas consacré la basilique : elle a été consacrée en 1990, par Jean-Paul II.",
+      "Benoît XVI n'est pas le consécrateur ; la consécration date du 10 septembre 1990.",
+      null,
+      "Le pape est le bon, mais la date est fausse : la consécration a eu lieu en 1990, pas en 1980."
+     ],
+     "src": {
+      "t": "Wikipedia, Basilica of Our Lady of Peace",
+      "u": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace"
+     }
+    },
+    {
+     "id": "c20261122-ci-02",
+     "m": "cg",
+     "tag": "ci",
+     "q": "Quel texte porte la Constitution actuelle de la République de Côte d'Ivoire ?",
+     "o": [
+      "La loi n° 2014-451",
+      "La loi n° 2016-886 du 8 novembre 2016",
+      "La loi n° 2023-892",
+      "La loi n° 2018-862"
+     ],
+     "a": 1,
+     "e": "La Constitution de la Troisième République est la loi n° 2016-886 du 8 novembre 2016, promulguée après le référendum du 30 octobre 2016.",
+     "ed": [
+      "La loi n° 2014-451 porte sur l'organisation générale de l'administration territoriale, pas sur la Constitution.",
+      null,
+      "La loi n° 2023-892 est le statut général de la fonction publique.",
+      "La loi n° 2018-862 est relative à l'état civil."
+     ],
+     "src": {
+      "t": "ConstitutionNet, Loi n° 2016-886 du 8 novembre 2016 portant Constitution de la République de Côte d'Ivoire",
+      "u": "https://constitutionnet.org/vl/item/loi-no-2016-886-du-8-novembre-2016-portant-constitution-de-la-republique-de-cote-divoire"
+     }
+    },
+    {
+     "id": "c20261122-ci-03",
+     "m": "cg",
+     "tag": "ci",
+     "q": "Le 30 octobre 2016, les électeurs ivoiriens ont approuvé par référendum :",
+     "o": [
+      "la création des districts autonomes",
+      "la révision constitutionnelle de 2020",
+      "l'adoption de l'Abidjanaise comme hymne",
+      "une nouvelle Constitution, celle de la Troisième République"
+     ],
+     "a": 3,
+     "e": "La Constitution de 2016 a été adoptée par référendum le 30 octobre 2016, puis promulguée le 8 novembre 2016 : elle fonde la Troisième République.",
+     "ed": [
+      "Les districts autonomes relèvent de textes de l'administration territoriale, pas du référendum de 2016.",
+      "La révision de 2020 a été votée par le Parlement réuni en Congrès, sans référendum, et quatre ans plus tard.",
+      "L'Abidjanaise est l'hymne national depuis 1960 ; le référendum de 2016 portait sur une Constitution.",
+      null
+     ],
+     "src": {
+      "t": "Library of Congress, Global Legal Monitor : Côte d'Ivoire, New Constitution Adopted (25 nov. 2016)",
+      "u": "https://www.loc.gov/item/global-legal-monitor/2016-11-25/cte-divoire-new-constitution-adopted/"
+     }
+    },
+    {
+     "id": "c20261122-ci-04",
+     "m": "cg",
+     "tag": "ci",
+     "q": "Quel poste de l'exécutif la Constitution de 2016 a-t-elle créé ?",
+     "o": [
+      "Vice-Président de la République",
+      "Premier ministre",
+      "Président de la République",
+      "Ministre d'État"
+     ],
+     "a": 0,
+     "e": "La Constitution de 2016 a créé une fonction exécutive nouvelle : le Vice-Président de la République, aux côtés du Président.",
+     "ed": [
+      null,
+      "Le poste de Premier ministre existait bien avant 2016 ; il n'a pas été créé par cette Constitution.",
+      "La présidence de la République existe depuis l'indépendance.",
+      "Le titre de ministre d'État est une distinction au sein du Gouvernement, ancienne et non créée en 2016."
+     ],
+     "src": {
+      "t": "Library of Congress, Global Legal Monitor : Côte d'Ivoire, New Constitution Adopted (25 nov. 2016)",
+      "u": "https://www.loc.gov/item/global-legal-monitor/2016-11-25/cte-divoire-new-constitution-adopted/"
+     }
+    },
+    {
+     "id": "c20261122-ci-05",
+     "m": "cg",
+     "tag": "ci",
+     "q": "Depuis la Constitution de 2016, quelle chambre siège aux côtés de l'Assemblée nationale au sein du Parlement ?",
+     "o": [
+      "Le Conseil constitutionnel",
+      "La Haute Cour de justice",
+      "Le Sénat",
+      "Le Conseil économique, social, environnemental et culturel"
+     ],
+     "a": 2,
+     "e": "La Constitution de 2016 a doté la Côte d'Ivoire d'un Sénat siégeant aux côtés de l'Assemblée nationale : le Parlement devient bicaméral.",
+     "ed": [
+      "Le Conseil constitutionnel est une juridiction, pas une chambre du Parlement.",
+      "La Haute Cour de justice est une juridiction qui juge certains dirigeants ; elle ne vote pas la loi.",
+      null,
+      "Ce conseil est une institution consultative ; il ne fait pas partie du Parlement."
+     ],
+     "src": {
+      "t": "Library of Congress, Global Legal Monitor : Côte d'Ivoire, New Constitution Adopted (25 nov. 2016)",
+      "u": "https://www.loc.gov/item/global-legal-monitor/2016-11-25/cte-divoire-new-constitution-adopted/"
+     }
+    },
+    {
+     "id": "c20261122-monde-01",
+     "m": "cg",
+     "tag": "monde",
+     "q": "Signée le 26 juin 1945 à San Francisco, la Charte des Nations Unies est entrée en vigueur le :",
+     "o": [
+      "8 mai 1945",
+      "24 octobre 1945",
+      "10 décembre 1948",
+      "1er janvier 1946"
+     ],
+     "a": 1,
+     "e": "La Charte est entrée en vigueur le 24 octobre 1945, après sa ratification par les États signataires.",
+     "ed": [
+      "La Charte n'a été signée que le 26 juin 1945 : elle ne pouvait pas être en vigueur dès le 8 mai.",
+      null,
+      "Le 10 décembre 1948 est la date de la Déclaration universelle des droits de l'homme.",
+      "Le 1er janvier 1946 ne correspond pas à l'entrée en vigueur, qui date du 24 octobre 1945."
+     ],
+     "src": {
+      "t": "UNRIC, La Charte des Nations Unies en 5 questions",
+      "u": "https://unric.org/fr/la-charte-des-nations-unies-en-5-questions/"
+     }
+    },
+    {
+     "id": "c20261122-monde-02",
+     "m": "cg",
+     "tag": "monde",
+     "q": "Quel est l'organe judiciaire principal de l'Organisation des Nations Unies ?",
+     "o": [
+      "La Cour pénale internationale",
+      "La Cour africaine des droits de l'homme et des peuples",
+      "La Cour internationale de Justice",
+      "La Cour de justice de la CEDEAO"
+     ],
+     "a": 2,
+     "e": "La Cour internationale de Justice, qui siège au Palais de la Paix à La Haye, est l'organe judiciaire principal de l'ONU.",
+     "ed": [
+      "La CPI est une juridiction créée par le Statut de Rome ; elle n'est pas un organe de l'ONU.",
+      "Cette cour relève de l'Union africaine, pas de l'ONU.",
+      null,
+      "Cette cour est l'organe judiciaire de la CEDEAO, organisation régionale."
+     ],
+     "src": {
+      "t": "Cour internationale de Justice, La Cour",
+      "u": "https://icj-cij.org/fr/cour"
+     }
+    },
+    {
+     "id": "c20261122-monde-03",
+     "m": "cg",
+     "tag": "monde",
+     "q": "Sous quel autre nom désigne-t-on le traité de Maastricht du 7 février 1992 ?",
+     "o": [
+      "Le traité sur l'Union européenne",
+      "Le traité de Rome",
+      "L'Acte unique européen",
+      "Le traité de l'Atlantique Nord"
+     ],
+     "a": 0,
+     "e": "Le traité de Maastricht est le traité sur l'Union européenne (TUE), signé le 7 février 1992 et entré en vigueur le 1er novembre 1993.",
+     "ed": [
+      null,
+      "Les traités de Rome datent de 1957 et créent la CEE.",
+      "L'Acte unique européen est un autre traité européen, distinct du traité de Maastricht.",
+      "Le traité de l'Atlantique Nord fonde l'OTAN, signé à Washington le 4 avril 1949."
+     ],
+     "src": {
+      "t": "Parlement européen, Treaty on European Union (TEU) / Maastricht Treaty",
+      "u": "https://www.europarl.europa.eu/about-parliament/en/in-the-past/the-parliament-and-the-treaties/maastricht-treaty"
+     }
+    },
+    {
+     "id": "c20261122-monde-04",
+     "m": "cg",
+     "tag": "monde",
+     "q": "L'accord portant création de la Banque africaine de développement, signé en 1963, est entré en vigueur le :",
+     "o": [
+      "25 mai 1963",
+      "10 septembre 1964",
+      "7 août 1960",
+      "1er janvier 1966"
+     ],
+     "a": 1,
+     "e": "Selon la BAD, l'accord signé le 4 août 1963 est entré en vigueur le 10 septembre 1964 ; le siège de la Banque est à Abidjan.",
+     "ed": [
+      "Le 25 mai 1963 est la date de création de l'OUA à Addis-Abeba, pas de la BAD.",
+      null,
+      "Le 7 août 1960 est la date de l'indépendance ivoirienne, sans lien avec la BAD.",
+      "La BAD indique une entrée en vigueur de l'accord en 1964, pas en 1966."
+     ],
+     "src": {
+      "t": "Banque africaine de développement, Questions fréquentes",
+      "u": "https://www.afdb.org/fr/node/11841"
+     }
+    },
+    {
+     "id": "c20261122-monde-05",
+     "m": "cg",
+     "tag": "monde",
+     "q": "Combien d'États membres fondateurs ont signé le traité de l'Atlantique Nord en 1949 ?",
+     "o": [
+      "5",
+      "32",
+      "12",
+      "27"
+     ],
+     "a": 2,
+     "e": "Le traité de l'Atlantique Nord a été signé à Washington le 4 avril 1949 par les 12 membres fondateurs de l'OTAN.",
+     "ed": [
+      "Cinq est le nombre de membres permanents du Conseil de sécurité de l'ONU, pas des fondateurs de l'OTAN.",
+      "Trente-deux ne correspond pas aux signataires de 1949, qui étaient 12 membres fondateurs.",
+      null,
+      "Vingt-sept ne correspond pas aux signataires de 1949 : le traité fondateur réunit 12 États."
+     ],
+     "src": {
+      "t": "OTAN, Le traité fondateur",
+      "u": "https://www.nato.int/cps/fr/natohq/topics_67656.htm"
+     }
     }
    ],
    "lessons": [
@@ -37904,6 +38319,103 @@
       {
        "t": "J. Dunlosky, M. Greve, S. Badali, K. Wissman, K. Rawson, « Successive Relearning: An Introduction and Guide for Educators », APA, 2023",
        "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-successive-relearning-dunlosky-greve-badali-wissman-rawson.pdf"
+      }
+     ]
+    },
+    {
+     "id": "L20261111an06",
+     "niv": "an06",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "Les modaux",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez construire correctement une phrase avec un modal (can, could, may, might, must, should, ought to) et choisir le modal qui correspond au sens voulu : capacité, permission, obligation, interdiction, conseil, possibilité ou déduction.",
+      "= Vous saurez aussi éviter les deux grands pièges des QCM : confondre mustn't et don't have to, et mal former les modaux au passé (must have done, needn't have done).",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), les modaux apparaissent surtout dans des phrases à trous : une phrase, souvent accompagnée de sa traduction ou d'un contexte, et quatre formes proposées. Deux types de distracteurs reviennent. Les premiers sont des fautes de forme, calquées sur les verbes ordinaires : « he musts », « can to swim », « does he can ». Les seconds sont des formes correctes mais de sens contraire : mustn't (interdiction) à la place de don't have to (absence d'obligation).",
+      "! Piège habituel : traduire « devoir » toujours par must. « Il doit partir » (obligation), « il doit être malade » (déduction) et « tu devrais partir » (conseil) se traduisent par trois tournures différentes.",
+      "## La méthode, pas à pas",
+      "- 1. Éliminez d'abord les fautes de forme : un modal ne prend jamais de -s, n'est jamais suivi de to (sauf ought to) et ne s'emploie pas avec do.",
+      "- 2. Identifiez le sens demandé par le contexte : capacité, permission, obligation, interdiction, absence d'obligation, conseil, possibilité, certitude.",
+      "- 3. Repérez le temps : un repère passé (yesterday, last week) impose had to, could, was able to ou modal + have + participe passé.",
+      "- 4. Choisissez le modal qui correspond exactement à ce sens, puis relisez la phrase complète en la traduisant.",
+      "~ Exemple : « Visitors ___ park here: it is reserved for ambulances. » Forme : toutes les options correctes sont des modaux. Sens : un emplacement réservé, donc une interdiction. Réponse : mustn't. Traduction : « Les visiteurs ne doivent pas se garer ici : c'est réservé aux ambulances. »",
+      "## Gérer le temps et le barème",
+      "L'étape 1 (la forme) se fait en quelques secondes et élimine souvent deux options sur quatre. S'il reste deux formes correctes, la question porte sur le sens : traduisez la phrase entière en français, à voix basse, et demandez-vous « obligé, interdit, conseillé ou possible ? ». Si vous ne pouvez toujours pas trancher, abstenez-vous : avec −1 par erreur, un tirage entre deux options ne rapporte rien en moyenne et peut coûter un point.",
+      "> Pour retenir la méthode : « Forme, Sens, Temps » (FST). D'abord la forme, ensuite le sens, enfin le temps."
+     ],
+     "fond": [
+      "## Notion 1 : la forme des modaux",
+      "Règle : un modal (can, could, may, might, must, shall, should, will, would) est un auxiliaire invariable. Il ne prend pas de -s à la troisième personne, il est suivi de la base verbale sans to, et il forme seul ses questions et ses négations, sans do. On dit she can, can she?, she cannot (can't).",
+      "Pourquoi ? Les modaux sont d'anciens verbes devenus de simples outils grammaticaux. Ils n'ont gardé ni infinitif, ni participe, ni forme en -ing.",
+      "~ Exemple résolu : « Le directeur pourra signer demain. » On ne peut pas écrire « will can » (deux modaux à la suite). On remplace can par be able to : The director will be able to sign tomorrow.",
+      "! Exception : ought to est le seul modal suivi de to. Have to et need to ne sont pas de vrais modaux : ils se conjuguent comme des verbes ordinaires (he has to, does he have to?).",
+      "> Pour retenir : un modal est « nu » — pas de -s, pas de to, pas de do.",
+      "~ Exemple résolu, étape par étape : « Le chauffeur sait conduire un car. » 1. Sens : capacité, donc can. 2. Troisième personne, mais pas de -s : can. 3. Base verbale sans to : drive. Phrase : The driver can drive a coach. Les formes « cans drive » et « can to drive » sont fautives.",
+      "! Dans un texte très formel, la négation s'écrit en entier : cannot (en un seul mot), must not, should not. À l'oral et dans les QCM, on rencontre surtout can't, mustn't, shouldn't.",
+      "? Corrigez la phrase : « Does the secretary can type this letter? » || Can est un modal : il forme seul la question, sans does, et il est suivi de la base verbale. Phrase correcte : Can the secretary type this letter? (« La secrétaire peut-elle taper cette lettre ? »)",
+      "## Notion 2 : obligation, interdiction, absence d'obligation",
+      "Règle : must et have to expriment l'obligation. Must marque surtout une obligation ressentie par celui qui parle ou un règlement écrit ; have to marque une obligation venue de l'extérieur (loi, horaire, chef). Au passé et au futur, must n'existe pas : on dit had to et will have to.",
+      "Mustn't exprime l'interdiction (« il ne faut pas »). Don't have to et needn't expriment l'absence d'obligation (« ce n'est pas la peine », « vous n'êtes pas obligé »).",
+      "Pourquoi ? La négation ne porte pas sur le même élément. Avec mustn't, on est obligé de ne pas faire. Avec don't have to, on n'est pas obligé de faire : c'est un choix libre.",
+      "~ Exemple résolu, côte à côte : You mustn't use your phone during the test (interdiction : le téléphone est défendu). You don't have to answer every question (absence d'obligation : vous pouvez laisser une case vide, ce qui est souvent sage au barème −1).",
+      "! Piège : « Il ne faut pas venir » et « Il n'est pas nécessaire de venir » ont des sens opposés. Traduisez toujours le contexte avant de choisir entre mustn't et don't have to.",
+      "> Pour retenir : mustn't = « INTERDIT » ; don't have to = « PAS OBLIGÉ ». Testez en ajoutant « … mais vous pouvez si vous voulez » : si la phrase garde son sens, c'est don't have to.",
+      "~ Exemple résolu au passé : « La semaine dernière, les candidats ont dû présenter leur carte d'identité à l'entrée. » Repère passé (last week) : must est impossible, on emploie had to. Last week, the candidates had to show their ID card at the entrance.",
+      "? Choisissez entre mustn't et don't have to : « Candidates ___ bring a calculator: the logic test is designed to be done by hand. » (Les candidats ne doivent pas apporter de calculatrice.) || Le contexte indique une règle d'examen qui défend l'objet : c'est une interdiction, donc mustn't. Test : « … mais vous pouvez si vous voulez » contredit la phrase, donc ce n'est pas don't have to.",
+      "? Complétez : « It's Saturday tomorrow, so I ___ go to the office. » (Demain c'est samedi, je n'ai pas besoin d'aller au bureau.) || Le contexte indique une absence d'obligation, pas une interdiction : don't have to (ou needn't). Mustn't signifierait qu'il est interdit d'aller au bureau, ce qui n'a pas de sens ici.",
+      "## Notion 3 : le conseil",
+      "Règle : should et ought to donnent un conseil ou expriment ce qui est souhaitable (« tu devrais »). Had better (souvent 'd better), suivi de la base verbale sans to, donne un conseil plus pressant, avec l'idée d'un risque si on ne le suit pas.",
+      "Pourquoi ? Le conditionnel français « devrais » correspond à should, et non à must : must imposerait, should recommande.",
+      "~ Exemple résolu : « Tu ferais mieux de partir maintenant, sinon tu rateras le car pour Yamoussoukro. » Conseil pressant avec un risque : You'd better leave now, or you will miss the coach to Yamoussoukro. Sans to après better.",
+      "! Piège : should have + participe passé exprime un regret ou un reproche sur le passé : He should have checked the figures (« il aurait dû vérifier les chiffres »).",
+      "> Pour retenir : should = « tu devrais » (conseil) ; should have done = « tu aurais dû » (reproche sur le passé).",
+      "? Traduisez : « Le comptable aurait dû envoyer le rapport avant la date limite. » || « Aurait dû » exprime un reproche sur une action passée non réalisée : should have + participe passé. The accountant should have sent the report before the deadline.",
+      "## Notion 4 : capacité et permission",
+      "Règle : can exprime la capacité ou la permission au présent. Could exprime la capacité générale dans le passé (When I was young, I could run fast) et sert aussi à demander poliment. May demande ou accorde une permission dans un registre soutenu.",
+      "Pour une réussite ponctuelle dans le passé, on emploie was able to ou managed to, et non could : After two attempts, she was able to open the file. À la forme négative, couldn't reste possible : I couldn't open the file.",
+      "Pourquoi ? Could signale une aptitude permanente ; une action précise réussie une fois demande une forme qui insiste sur le résultat.",
+      "Permission : can sert à demander et à accorder une permission ; could sert à la demander plus poliment, mais pas à l'accorder ; may est la manière la plus formelle de la demander et de l'accorder. Can't indique ce que les règles défendent.",
+      "~ Exemple résolu : un usager demande au guichet : « Could I see the head of the civil registry office? » (demande polie). L'agent répond : « Yes, you can. » et non « Yes, you could », car could ne sert pas à accorder une permission.",
+      "> Pour retenir : capacité générale passée = could ; réussite précise passée = was able to / managed to ; négatif = couldn't, tout simplement.",
+      "? Traduisez : « Malgré la panne, le technicien a réussi à réparer le serveur. » || Réussite ponctuelle dans le passé : was able to ou managed to. Despite the breakdown, the technician was able to (managed to) repair the server.",
+      "## Notion 5 : possibilité et déduction",
+      "Règle : may, might et could expriment une possibilité (« il se peut que »). Must exprime une déduction presque certaine (« il doit être… ») et can't la déduction négative (« il ne peut pas être… »). Pour une déduction sur le passé, on ajoute have + participe passé : must have done, might have done, can't have done.",
+      "Pourquoi ? Le locuteur ne sait pas, il raisonne à partir d'indices : plus les indices sont forts, plus le modal est fort.",
+      "~ Exemple résolu : « Le bureau est fermé et les lumières sont éteintes : l'agent a dû rentrer chez lui. » Indice fort sur un fait passé : The agent must have gone home. Si l'on hésite : He might have gone home.",
+      "! Piège : needn't have done signifie que l'action a été faite mais était inutile : You needn't have printed the report, I already had a copy.",
+      "> Pour retenir, l'échelle de certitude : must (sûr à 90 %) > may (peut-être) > might, could (peut-être, moins sûr) ; can't (impossible).",
+      "? Complétez avec le modal qui convient : « Les clés de la voiture de service ne sont pas sur le tableau. Le chauffeur les a peut-être emportées. » The driver ___ them. || L'indice est faible (« peut-être ») et porte sur le passé : possibilité au passé, donc might have taken (ou may have taken). Must have taken exprimerait une quasi-certitude, que le contexte ne permet pas.",
+      "? Complétez : « Ce n'est pas possible qu'elle ait oublié la réunion : je le lui ai rappelé ce matin. » She ___ the meeting. || Déduction négative sur le passé : can't have forgotten. Must have forgotten dirait le contraire (elle a sûrement oublié)."
+     ],
+     "retenir": [
+      "Un modal ne prend jamais de -s, se construit sans do et est suivi de la base verbale sans to, sauf ought to.",
+      "Must n'a ni passé ni futur : on emploie had to au passé et will have to au futur.",
+      "Mustn't exprime l'interdiction ; don't have to et needn't expriment l'absence d'obligation.",
+      "Should et ought to donnent un conseil ; had better, suivi de la base verbale sans to, donne un conseil pressant.",
+      "Pour une réussite ponctuelle dans le passé, on emploie was able to ou managed to, et non could.",
+      "Déduction : must pour une quasi-certitude, can't pour une impossibilité, may, might ou could pour une possibilité.",
+      "Could demande poliment une permission mais ne l'accorde pas ; may est la forme la plus formelle.",
+      "Modal + have + participe passé porte sur le passé : must have done, should have done, needn't have done."
+     ],
+     "exo": {
+      "tag": "niv-an06",
+      "n": 20
+     },
+     "rev": 2,
+     "sources": [
+      {
+       "t": "British Council LearnEnglish, Modals: permission and obligation",
+       "u": "https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate/modals-permission-and-obligation"
+      },
+      {
+       "t": "British Council LearnEnglish, Past ability",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-ability"
+      },
+      {
+       "t": "Cambridge Dictionary blog, Modal verbs: the basics",
+       "u": "https://dictionaryblog.cambridge.org/2016/11/23/modal-verbs-the-basics/"
       }
      ]
     }
