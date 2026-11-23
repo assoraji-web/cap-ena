@@ -38491,6 +38491,1846 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-23",
+   "questions": [
+    {
+     "id": "n20261123-an08-01",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Choose the correct passive form : « Cocoa ___ in many regions of Côte d'Ivoire. »",
+     "o": [
+      "is grow",
+      "was growing",
+      "is grown",
+      "are grown"
+     ],
+     "a": 2,
+     "e": "Fait général au présent : be au présent singulier (is) + participe passé de grow (grown). Règle : « be prend le temps, le participe prend l'action ».",
+     "ed": [
+      "Après be, il faut le participe passé (grown), pas la base verbale grow.",
+      "Was growing est un prétérit progressif actif : il ne forme pas un passif et ne convient pas à un fait général.",
+      null,
+      "Cocoa est indénombrable, donc singulier : be doit être is, pas are."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-02",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Which sentence is in the passive voice?",
+     "o": [
+      "The letters were posted yesterday.",
+      "The secretary posted the letters yesterday.",
+      "The letters arrived yesterday.",
+      "The secretary was posting the letters."
+     ],
+     "a": 0,
+     "e": "Le passif associe be (were) et un participe passé (posted) ; le sujet the letters subit l'action d'envoyer.",
+     "ed": [
+      null,
+      "Le sujet (the secretary) fait l'action : la phrase est active.",
+      "Arrive n'a pas de complément d'objet et n'a pas de passif : la phrase est active.",
+      "Was + verbe en -ing est un prétérit progressif actif, pas un passif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-03",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Complete : « The new hospital ___ next year. »",
+     "o": [
+      "will opened",
+      "was opened",
+      "will being opened",
+      "will be opened"
+     ],
+     "a": 3,
+     "e": "Next year impose le futur ; au passif, will be + participe passé : will be opened.",
+     "ed": [
+      "Be manque : le futur passif se forme avec will be + participe passé.",
+      "Le prétérit est incompatible avec le marqueur de futur next year.",
+      "Après will, on emploie la base verbale be, jamais being.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-04",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Complete with the present perfect passive : « Ten new wells ___ in the village since January. »",
+     "o": [
+      "has been dug",
+      "have been dug",
+      "have dug",
+      "have been digged"
+     ],
+     "a": 1,
+     "e": "Since January appelle le present perfect ; au passif pluriel : have been + participe passé de dig, dug.",
+     "ed": [
+      "Ten new wells est pluriel : il faut have been, pas has been.",
+      null,
+      "Sans been, la phrase est active : ce seraient les puits qui creusent.",
+      "Le participe passé de dig est dug ; « digged » n'existe pas."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-05",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Quel mot introduit l'agent (l'auteur de l'action) dans une phrase passive anglaise ?",
+     "o": [
+      "from",
+      "by",
+      "of",
+      "with"
+     ],
+     "a": 1,
+     "e": "L'agent est introduit par by : The decree was signed by the President. On l'omet s'il est inconnu ou évident.",
+     "ed": [
+      "From indique la provenance, jamais l'auteur d'une action au passif.",
+      null,
+      "Of ne sert pas à introduire l'agent ; le français « aimé de tous » se dit loved by everyone.",
+      "With introduit l'instrument (opened with a key), pas l'auteur de l'action."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-06",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Choose the correct form (l'action est en cours) : « Please wait, your file ___ right now. »",
+     "o": [
+      "is processed",
+      "is processing",
+      "has processed",
+      "is being processed"
+     ],
+     "a": 3,
+     "e": "Right now indique une action en cours : présent progressif passif, is being + participe passé (processed).",
+     "ed": [
+      "Sans being, la forme décrit un état ou une habitude, pas une action en cours (right now).",
+      "Is processing est actif : ce serait le dossier qui traite quelque chose.",
+      "Has processed est un present perfect actif, sans be ni sens passif.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-07",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Put into the passive : « The committee will announce the results on Friday. »",
+     "o": [
+      "The results will be announced by the committee on Friday.",
+      "The results will announced by the committee on Friday.",
+      "The results are announced by the committee on Friday.",
+      "The committee will be announced the results on Friday."
+     ],
+     "a": 0,
+     "e": "Le complément the results devient sujet ; be garde le temps de l'actif (will be), puis vient le participe announced.",
+     "ed": [
+      null,
+      "Be manque après will : le futur passif est will be + participe.",
+      "Le temps a changé : la phrase active est au futur (will announce).",
+      "Le comité fait l'annonce ; il ne peut pas devenir le sujet qui la subit."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-08",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Put into the passive : « The rain had damaged the road. »",
+     "o": [
+      "The road has been damaged by the rain.",
+      "The road had damaged by the rain.",
+      "The road had been damaged by the rain.",
+      "The road was being damaged by the rain."
+     ],
+     "a": 2,
+     "e": "Past perfect actif (had damaged) → past perfect passif : had been + participe passé (damaged).",
+     "ed": [
+      "La phrase active est au past perfect (had damaged) : il faut had been, pas has been.",
+      "Been manque : sans lui, la route serait l'auteur des dégâts.",
+      null,
+      "Le progressif change le temps et le sens : l'actif n'était pas was damaging."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-09",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Choose the correct form : « The minister was ___ a gift by the students. »",
+     "o": [
+      "gave",
+      "give",
+      "giving",
+      "given"
+     ],
+     "a": 3,
+     "e": "Give a deux compléments ; la personne (the minister) peut devenir sujet : was + participe passé given.",
+     "ed": [
+      "Gave est le prétérit de give ; après be, il faut le participe passé given.",
+      "La base verbale ne peut pas suivre be dans un passif.",
+      "Was giving serait un progressif actif : le ministre donnerait, ce qui contredit by the students.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-10",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Passive with the person as subject : « They sent Koffi an invitation. »",
+     "o": [
+      "Koffi was sent to an invitation.",
+      "Koffi was sent an invitation.",
+      "Koffi sent an invitation.",
+      "Koffi was send an invitation."
+     ],
+     "a": 1,
+     "e": "Avec send, la personne peut être sujet du passif : Koffi was sent an invitation (« On a envoyé une invitation à Koffi »).",
+     "ed": [
+      "To ne se place pas devant la chose : il précède la personne quand la chose est sujet (sent to Koffi).",
+      null,
+      "Cette phrase est active et inverse le sens : c'est Koffi qui enverrait l'invitation.",
+      "Après be, il faut le participe passé sent, pas la base send."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-11",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Which passive sentence is correct?",
+     "o": [
+      "The staff were explained the new procedure.",
+      "The new procedure was explained the staff.",
+      "The new procedure was explained to the staff.",
+      "The new procedure explained to the staff."
+     ],
+     "a": 2,
+     "e": "Explain et suggest n'ont qu'un passif : la chose est sujet et la personne est introduite par to.",
+     "ed": [
+      "Explain n'accepte pas la personne pour sujet du passif.",
+      "Avec explain, la personne doit être introduite par to : explained to the staff.",
+      null,
+      "Be manque : sans was, la phrase n'est pas un passif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-12",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Modal passive : « All forms ___ before 30 June. »",
+     "o": [
+      "must be submitted",
+      "must submitted",
+      "must be submit",
+      "must to be submitted"
+     ],
+     "a": 0,
+     "e": "Modal + be + participe passé : All forms must be submitted (« Tous les formulaires doivent être déposés »).",
+     "ed": [
+      null,
+      "Be manque : après un modal, le passif est modal + be + participe.",
+      "Après be, il faut le participe passé submitted, pas la base.",
+      "Must se construit sans to."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-13",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Complete : « The suspects ___ yesterday, but they were released this morning. »",
+     "o": [
+      "were arrested",
+      "have been arrested",
+      "are arrested",
+      "were arresting"
+     ],
+     "a": 0,
+     "e": "Yesterday impose le prétérit ; au passif pluriel : were + participe passé (arrested).",
+     "ed": [
+      null,
+      "Le present perfect est incompatible avec un moment passé précis (yesterday).",
+      "Le présent ne convient pas à un fait daté d'hier.",
+      "Were arresting est actif : ce seraient les suspects qui arrêtent quelqu'un."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-14",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Choose the best sentence (le voleur est inconnu) :",
+     "o": [
+      "My laptop stole last night.",
+      "My laptop was stealing last night.",
+      "My laptop was stolen last night.",
+      "My laptop is stolen last night."
+     ],
+     "a": 2,
+     "e": "Auteur inconnu : passif sans agent, au prétérit, was + participe passé de steal (stolen).",
+     "ed": [
+      "Actif : l'ordinateur serait l'auteur du vol, ce qui est absurde.",
+      "Was stealing est un progressif actif, pas un passif.",
+      null,
+      "Le présent is est incompatible avec last night."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-15",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Which sentence is WRONG?",
+     "o": [
+      "The meeting took place in Bouaké.",
+      "The meeting was happened in Bouaké.",
+      "The meeting was held in Bouaké.",
+      "The meeting was organised in Bouaké."
+     ],
+     "a": 1,
+     "e": "Happen n'a pas de complément d'objet, donc pas de passif : on écrit The meeting happened, jamais « was happened ».",
+     "ed": [
+      "Cette phrase est correcte : take place est employé à l'actif.",
+      null,
+      "Cette phrase est correcte : hold (tenir une réunion) a un passif, was held.",
+      "Cette phrase est correcte : organise a un complément et donc un passif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-16",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Rewrite : « People say that the old market is dangerous. » → « The old market ___ dangerous. »",
+     "o": [
+      "is said being",
+      "says to be",
+      "is saying to be",
+      "is said to be"
+     ],
+     "a": 3,
+     "e": "Opinion rapportée : sujet + be said + infinitif : The old market is said to be dangerous.",
+     "ed": [
+      "Après be said, il faut l'infinitif avec to, pas une forme en -ing.",
+      "Le marché ne dit rien : il faut le passif is said.",
+      "Is saying est un progressif actif : le marché parlerait.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-17",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Rewrite : « People believe that the mosque was built in the 17th century. » → « The mosque is believed ___ in the 17th century. »",
+     "o": [
+      "to be built",
+      "to have built",
+      "to have been built",
+      "having been built"
+     ],
+     "a": 2,
+     "e": "Fait antérieur à l'opinion : infinitif passé passif, to have been + participe passé (built).",
+     "ed": [
+      "L'infinitif simple parle du présent ou de l'avenir ; la construction est antérieure.",
+      "Sans been, la mosquée serait l'auteur de la construction.",
+      null,
+      "Après be believed, on emploie l'infinitif avec to, pas une forme en -ing."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-18",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "« The house is painted » et « The house is being painted » : quelle est la différence ?",
+     "o": [
+      "La première décrit une action en cours, la seconde un état.",
+      "Aucune : ce sont deux variantes libres.",
+      "La seconde est au passé.",
+      "La première décrit un état ou une habitude, la seconde une action en cours."
+     ],
+     "a": 3,
+     "e": "Au passif, being marque le progressif : is being painted = en cours de peinture ; is painted = état ou habitude.",
+     "ed": [
+      "C'est l'inverse : being marque l'action en train de se faire.",
+      "Being change le sens : action en cours contre état ou habitude.",
+      "Les deux phrases sont au présent (is) ; being marque le progressif, pas le passé.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-19",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Choose the correct sentence (lend) :",
+     "o": [
+      "Ten million francs were lent to the cooperative.",
+      "Ten million francs were lend to the cooperative.",
+      "Ten million francs lent to the cooperative.",
+      "Ten million francs were lent at the cooperative."
+     ],
+     "a": 0,
+     "e": "Chose pour sujet : were + participe passé (lent), puis to devant la personne qui reçoit.",
+     "ed": [
+      null,
+      "Après be, il faut le participe passé lent, pas la base lend.",
+      "Be manque : sans were, la phrase n'est pas un passif complet.",
+      "Quand la chose est sujet, la personne est introduite par to, pas par at."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-an08-20",
+     "m": "ang",
+     "tag": "niv-an08",
+     "q": "Choose the correct form : « The documents should ___ yesterday, but nobody did it. »",
+     "o": [
+      "be signed",
+      "have been signed",
+      "have signed",
+      "been signed"
+     ],
+     "a": 1,
+     "e": "Reproche sur le passé au passif : should + have been + participe passé (signed).",
+     "ed": [
+      "Should be signed vise le présent ou l'avenir ; or yesterday renvoie au passé.",
+      null,
+      "Sans been, la phrase est active : les documents signeraient.",
+      "Have manque : le passé d'un modal passif est modal + have been + participe."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261123-cg10-01",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Quelle ville est la capitale de la Tanzanie, désignée comme telle en 1974 ?",
+     "o": [
+      "Dar es Salaam",
+      "Arusha",
+      "Dodoma",
+      "Zanzibar"
+     ],
+     "a": 2,
+     "e": "Dodoma est la capitale désignée de la Tanzanie depuis 1974 ; le transfert des fonctions depuis Dar es Salaam a été progressif.",
+     "ed": [
+      "Dar es Salaam est la plus grande ville et l'ancienne capitale (1964-1974), mais plus la capitale.",
+      "Arusha est une ville tanzanienne, mais elle n'a jamais été désignée capitale nationale.",
+      null,
+      "Zanzibar est une île unie au Tanganyika en 1964, pas la capitale de la Tanzanie."
+     ],
+     "src": {
+      "t": "Britannica, « Dodoma »",
+      "u": "https://www.britannica.com/place/Dodoma"
+     }
+    },
+    {
+     "id": "n20261123-cg10-02",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "En Afrique du Sud, quelle ville abrite le pouvoir législatif, c'est-à-dire le Parlement ?",
+     "o": [
+      "Le Cap",
+      "Pretoria",
+      "Bloemfontein",
+      "Johannesburg"
+     ],
+     "a": 0,
+     "e": "L'Afrique du Sud répartit ses capitales selon les fonctions : Pretoria (exécutif), Le Cap (législatif), Bloemfontein (judiciaire). Moyen mnémotechnique : « Le Cap vote ».",
+     "ed": [
+      null,
+      "Pretoria est la capitale exécutive et administrative, pas législative.",
+      "Bloemfontein est la capitale judiciaire.",
+      "Johannesburg n'est pas l'une des trois capitales sud-africaines."
+     ],
+     "src": {
+      "t": "DIRCO (Afrique du Sud), « Information on South Africa »",
+      "u": "https://dirco.gov.za/rome/information-on-sa/"
+     }
+    },
+    {
+     "id": "n20261123-cg10-03",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Dans quelle ville siège la Cour constitutionnelle d'Afrique du Sud, plus haute juridiction du pays ?",
+     "o": [
+      "Bloemfontein",
+      "Pretoria",
+      "Le Cap",
+      "Johannesburg"
+     ],
+     "a": 3,
+     "e": "Piège classique : la capitale judiciaire est Bloemfontein, mais la Cour constitutionnelle siège à Johannesburg, selon le ministère sud-africain des Relations internationales.",
+     "ed": [
+      "Bloemfontein est la capitale judiciaire et accueille la cour d'appel, mais pas la Cour constitutionnelle.",
+      "Pretoria est le siège de l'exécutif.",
+      "Le Cap est le siège du Parlement.",
+      null
+     ],
+     "src": {
+      "t": "DIRCO (Afrique du Sud), « Information on South Africa »",
+      "u": "https://dirco.gov.za/rome/information-on-sa/"
+     }
+    },
+    {
+     "id": "n20261123-cg10-04",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Quelle est la capitale du Zimbabwe, autrefois appelée Salisbury ?",
+     "o": [
+      "Bulawayo",
+      "Harare",
+      "Lusaka",
+      "Lilongwe"
+     ],
+     "a": 1,
+     "e": "Harare est la capitale du Zimbabwe ; elle portait le nom colonial de Salisbury.",
+     "ed": [
+      "Bulawayo est une ville du Zimbabwe, mais pas sa capitale.",
+      null,
+      "Lusaka est la capitale de la Zambie voisine.",
+      "Lilongwe est la capitale du Malawi."
+     ],
+     "src": {
+      "t": "Nations Online Project, « Capital Cities of Africa »",
+      "u": "https://nationsonline.org/oneworld/capitals_africa.htm"
+     }
+    },
+    {
+     "id": "n20261123-cg10-05",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Quelle est la capitale du Botswana ?",
+     "o": [
+      "Windhoek",
+      "Gaborone",
+      "Maseru",
+      "Maputo"
+     ],
+     "a": 1,
+     "e": "Gaborone est la capitale du Botswana, dont Seretse Khama fut le premier président (1966-1980).",
+     "ed": [
+      "Windhoek est la capitale de la Namibie.",
+      null,
+      "Maseru est la capitale du Lesotho.",
+      "Maputo est la capitale du Mozambique."
+     ],
+     "src": {
+      "t": "Nations Online Project, « Capital Cities of Africa »",
+      "u": "https://nationsonline.org/oneworld/capitals_africa.htm"
+     }
+    },
+    {
+     "id": "n20261123-cg10-06",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Quelle est la capitale de l'Érythrée ?",
+     "o": [
+      "Djibouti",
+      "Mogadiscio",
+      "Addis-Abeba",
+      "Asmara"
+     ],
+     "a": 3,
+     "e": "Asmara est la capitale de l'Érythrée. Méthode : éliminer les capitales des autres pays de la Corne de l'Afrique.",
+     "ed": [
+      "Djibouti est la capitale de l'État du même nom.",
+      "Mogadiscio est la capitale de la Somalie.",
+      "Addis-Abeba est la capitale de l'Éthiopie.",
+      null
+     ],
+     "src": {
+      "t": "Nations Online Project, « Capital Cities of Africa »",
+      "u": "https://nationsonline.org/oneworld/capitals_africa.htm"
+     }
+    },
+    {
+     "id": "n20261123-cg10-07",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Brazzaville et Kinshasa sont respectivement les capitales de :",
+     "o": [
+      "La République du Congo et la République démocratique du Congo",
+      "La République démocratique du Congo et la République du Congo",
+      "Le Gabon et la République démocratique du Congo",
+      "La Centrafrique et la République du Congo"
+     ],
+     "a": 0,
+     "e": "L'usage le rappelle : « Congo-Brazzaville » désigne la République du Congo, « Congo-Kinshasa » la République démocratique du Congo.",
+     "ed": [
+      null,
+      "C'est l'inverse : Kinshasa est la capitale de la RDC.",
+      "La capitale du Gabon est Libreville, pas Brazzaville.",
+      "La capitale de la Centrafrique est Bangui, et Kinshasa est la capitale de la RDC."
+     ],
+     "src": {
+      "t": "Nations Online Project, « Capital Cities of Africa »",
+      "u": "https://nationsonline.org/oneworld/capitals_africa.htm"
+     }
+    },
+    {
+     "id": "n20261123-cg10-08",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Par un décret publié en janvier 2026, quelle ville la Guinée équatoriale a-t-elle déclarée capitale à la place de Malabo ?",
+     "o": [
+      "Bata",
+      "Malabo",
+      "Ciudad de la Paz",
+      "Libreville"
+     ],
+     "a": 2,
+     "e": "Le décret déclare capitale Ciudad de la Paz (« ville de la paix »), dans la province de Djibloho, sur la partie continentale du pays ; les institutions ont un an pour s'y installer.",
+     "ed": [
+      "Bata est une grande ville du continent, mais le décret désigne Ciudad de la Paz.",
+      "Malabo, sur l'île de Bioko, est justement l'ancienne capitale remplacée.",
+      null,
+      "Libreville est la capitale du Gabon voisin."
+     ],
+     "src": {
+      "t": "Le360 Afrique (AFP), « Ciudad de la Paz devient la nouvelle capitale de la Guinée équatoriale », 3 janv. 2026",
+      "u": "https://afrique.le360.ma/politique/ciudad-de-la-paz-devient-la-nouvelle-capitale-de-la-guinee-equatoriale_N2FQNKPILFABJLWG3AR7S2K76A/"
+     }
+    },
+    {
+     "id": "n20261123-cg10-09",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "En Eswatini (ex-Swaziland), quelle ville est la capitale administrative ?",
+     "o": [
+      "Lobamba",
+      "Maseru",
+      "Gaborone",
+      "Mbabane"
+     ],
+     "a": 3,
+     "e": "L'Eswatini a deux capitales : Mbabane (administrative) et Lobamba (législative). Lisez toujours la fonction demandée.",
+     "ed": [
+      "Lobamba est la capitale législative, pas administrative.",
+      "Maseru est la capitale du Lesotho.",
+      "Gaborone est la capitale du Botswana.",
+      null
+     ],
+     "src": {
+      "t": "Nations Online Project, « Capital Cities of Africa »",
+      "u": "https://nationsonline.org/oneworld/capitals_africa.htm"
+     }
+    },
+    {
+     "id": "n20261123-cg10-10",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Quelle est la capitale de Madagascar ?",
+     "o": [
+      "Moroni",
+      "Antananarivo",
+      "Port-Louis",
+      "Victoria"
+     ],
+     "a": 1,
+     "e": "Antananarivo est la capitale de Madagascar ; les trois autres villes sont des capitales d'États insulaires voisins de l'océan Indien.",
+     "ed": [
+      "Moroni est la capitale des Comores.",
+      null,
+      "Port-Louis est la capitale de Maurice.",
+      "Victoria est la capitale des Seychelles."
+     ],
+     "src": {
+      "t": "Nations Online Project, « Capital Cities of Africa »",
+      "u": "https://nationsonline.org/oneworld/capitals_africa.htm"
+     }
+    },
+    {
+     "id": "n20261123-cg10-11",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Qui fut président de l'Égypte de 1956 à 1970, après avoir mené le coup d'État de 1952 contre la monarchie ?",
+     "o": [
+      "Anouar el-Sadate",
+      "Habib Bourguiba",
+      "Gamal Abdel Nasser",
+      "Ahmed Ben Bella"
+     ],
+     "a": 2,
+     "e": "Nasser dirige le coup d'État de 1952, devient Premier ministre (1954-1956) puis président de l'Égypte (1956-1970).",
+     "ed": [
+      "Sadate est le successeur de Nasser, à partir de 1970.",
+      "Bourguiba a présidé la Tunisie, pas l'Égypte.",
+      null,
+      "Ben Bella a été le premier président élu de l'Algérie."
+     ],
+     "src": {
+      "t": "Britannica, « Gamal Abdel Nasser » (résumé)",
+      "u": "https://www.britannica.com/summary/Gamal-Abdel-Nasser"
+     }
+    },
+    {
+     "id": "n20261123-cg10-12",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Avec quelle aide Nasser a-t-il construit le haut barrage d'Assouan, après l'annulation de l'offre américaine et britannique ?",
+     "o": [
+      "L'aide de l'Union soviétique",
+      "L'aide de la France",
+      "L'aide du Royaume-Uni",
+      "L'aide des États-Unis"
+     ],
+     "a": 0,
+     "e": "Après le retrait américain et britannique, Nasser obtient l'aide soviétique pour le haut barrage d'Assouan, la même année que la nationalisation du canal de Suez (1956).",
+     "ed": [
+      null,
+      "Les sources attribuent l'aide au barrage à l'Union soviétique, pas à la France.",
+      "Le Royaume-Uni avait justement retiré son offre de financement.",
+      "Les États-Unis avaient annulé leur offre, ce qui a poussé Nasser vers Moscou."
+     ],
+     "src": {
+      "t": "Britannica, « Gamal Abdel Nasser » (résumé)",
+      "u": "https://www.britannica.com/summary/Gamal-Abdel-Nasser"
+     }
+    },
+    {
+     "id": "n20261123-cg10-13",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Quelle réforme, adoptée en Tunisie en 1956, reste associée à Habib Bourguiba ?",
+     "o": [
+      "Le Code du statut personnel, qui reconnaît des droits aux femmes",
+      "La Charte de l'Organisation de l'unité africaine",
+      "La déclaration d'Arusha",
+      "La nationalisation du canal de Suez"
+     ],
+     "a": 0,
+     "e": "Le Code du statut personnel de 1956 reconnaît des droits aux femmes ; il est l'une des grandes réformes de Bourguiba, président de 1957 à 1987.",
+     "ed": [
+      null,
+      "La Charte de l'OUA est un texte panafricain, pas une réforme tunisienne de 1956.",
+      "La déclaration d'Arusha (1967) est l'œuvre de Julius Nyerere en Tanzanie.",
+      "La nationalisation de Suez (1956) est l'œuvre de Nasser en Égypte."
+     ],
+     "src": {
+      "t": "Britannica, « Habib Bourguiba » (biographie)",
+      "u": "https://www.britannica.com/biography/Habib-Bourguiba"
+     }
+    },
+    {
+     "id": "n20261123-cg10-14",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Comment le pouvoir d'Habib Bourguiba a-t-il pris fin en 1987 ?",
+     "o": [
+      "Il est mort en fonction",
+      "Il a été battu à une élection pluraliste",
+      "Il a été écarté pour raison de santé et remplacé par Zine el-Abidine Ben Ali",
+      "Il a démissionné au profit d'Ahmed Ben Bella"
+     ],
+     "a": 2,
+     "e": "Président à vie depuis 1975, Bourguiba est écarté en 1987 pour raison de santé ; Zine el-Abidine Ben Ali lui succède.",
+     "ed": [
+      "Bourguiba n'est pas mort au pouvoir : il a été écarté de son vivant.",
+      "Déclaré président à vie en 1975, il n'a pas été battu dans les urnes.",
+      null,
+      "Ben Bella est algérien ; le successeur de Bourguiba est Ben Ali."
+     ],
+     "src": {
+      "t": "Britannica, « Habib Bourguiba » (résumé)",
+      "u": "https://www.britannica.com/summary/Habib-Bourguiba"
+     }
+    },
+    {
+     "id": "n20261123-cg10-15",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Ahmed Ben Bella, premier président élu de l'Algérie, a été renversé le 19 juin 1965 par :",
+     "o": [
+      "Habib Bourguiba",
+      "Houari Boumédiène",
+      "Gamal Abdel Nasser",
+      "Mengistu Haile Mariam"
+     ],
+     "a": 1,
+     "e": "Le coup d'État du 19 juin 1965 est mené par Houari Boumédiène, qui prend la tête du Conseil de la révolution.",
+     "ed": [
+      "Bourguiba gouvernait la Tunisie voisine.",
+      null,
+      "Nasser gouvernait l'Égypte.",
+      "Mengistu a renversé Haile Sélassié en Éthiopie, en 1974."
+     ],
+     "src": {
+      "t": "Wikipedia, « 1965 Algerian coup d'état »",
+      "u": "https://en.wikipedia.org/wiki/1965_Algerian_coup_d%27%C3%A9tat"
+     }
+    },
+    {
+     "id": "n20261123-cg10-16",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Haile Sélassié Ier, empereur d'Éthiopie de 1930 à 1974, a perdu le pouvoir :",
+     "o": [
+      "Par sa mort naturelle en 1974",
+      "Par une abdication en 1963",
+      "Par une défaite électorale",
+      "Par un coup d'État militaire en 1974"
+     ],
+     "a": 3,
+     "e": "Haile Sélassié est déposé en 1974 par un coup d'État militaire mené par Mengistu Haile Mariam, puis placé en résidence surveillée.",
+     "ed": [
+      "Il ne meurt pas en 1974 : il est déposé et placé en résidence surveillée.",
+      "Il règne jusqu'en 1974 : il n'a pas abdiqué en 1963.",
+      "L'empereur n'était pas élu : il est renversé par l'armée.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Haile Selassie I » (résumé)",
+      "u": "https://www.britannica.com/summary/Haile-Selassie-I"
+     }
+    },
+    {
+     "id": "n20261123-cg10-17",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Jomo Kenyatta a été condamné en 1953 à sept ans de prison par les autorités coloniales, qui l'accusaient de diriger :",
+     "o": [
+      "La sécession du Katanga",
+      "Le Front de libération nationale (FLN)",
+      "La révolte des Mau Mau",
+      "Le Mouvement national congolais"
+     ],
+     "a": 2,
+     "e": "En 1953, Kenyatta est condamné pour avoir dirigé la révolte des Mau Mau, ce qu'il niait ; il devient ensuite Premier ministre puis président du Kenya (1964-1978).",
+     "ed": [
+      "Le Katanga est une province du Congo, pas du Kenya.",
+      "Le FLN est le mouvement de libération de l'Algérie.",
+      null,
+      "Le Mouvement national congolais est le parti de Patrice Lumumba."
+     ],
+     "src": {
+      "t": "Britannica, « Jomo Kenyatta » (résumé)",
+      "u": "https://www.britannica.com/summary/Jomo-Kenyatta"
+     }
+    },
+    {
+     "id": "n20261123-cg10-18",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Quel dirigeant, surnommé « Mwalimu » (« l'instituteur » en swahili), a présidé la Tanzanie jusqu'au 5 novembre 1985 ?",
+     "o": [
+      "Jomo Kenyatta",
+      "Kenneth Kaunda",
+      "Seretse Khama",
+      "Julius Nyerere"
+     ],
+     "a": 3,
+     "e": "Julius Nyerere, dit Mwalimu, Premier ministre du Tanganyika en 1961, préside la Tanzanie de l'union de 1964 jusqu'au 5 novembre 1985.",
+     "ed": [
+      "Kenyatta a dirigé le Kenya, jusqu'à sa mort en 1978.",
+      "Kaunda a dirigé la Zambie, de 1964 à 1991.",
+      "Seretse Khama a été le premier président du Botswana.",
+      null
+     ],
+     "src": {
+      "t": "BlackPast, « Julius K. Nyerere (1922-1999) »",
+      "u": "https://blackpast.org/gah/nyerere-julius-k-1922-1999"
+     }
+    },
+    {
+     "id": "n20261123-cg10-19",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "En 1991, comment Kenneth Kaunda, à la tête de la Zambie depuis 1964, quitte-t-il le pouvoir ?",
+     "o": [
+      "Il est battu à l'élection par Frederick Chiluba (MMD)",
+      "Il est renversé par un coup d'État militaire",
+      "Il meurt en fonction",
+      "Il transmet le pouvoir à son fils"
+     ],
+     "a": 0,
+     "e": "Après avoir instauré le parti unique en 1973, Kaunda doit rétablir le multipartisme et est nettement battu en 1991 par Frederick Chiluba, du Mouvement pour la démocratie multipartite.",
+     "ed": [
+      null,
+      "Kaunda n'est pas renversé par l'armée : il perd une élection.",
+      "Kaunda quitte le pouvoir de son vivant, après sa défaite électorale.",
+      "Aucune succession familiale : c'est Chiluba, un syndicaliste, qui l'emporte."
+     ],
+     "src": {
+      "t": "Britannica, « Zambia under Kaunda (1964–91) »",
+      "u": "https://www.britannica.com/place/Zambia/Zambia-under-Kaunda-1964-91"
+     }
+    },
+    {
+     "id": "n20261123-cg10-20",
+     "m": "cg",
+     "tag": "niv-cg10",
+     "q": "Lequel de ces couples « dirigeant – pays » est FAUX ?",
+     "o": [
+      "Seretse Khama – Botswana",
+      "Agostinho Neto – Mozambique",
+      "Patrice Lumumba – République démocratique du Congo",
+      "Nelson Mandela – Afrique du Sud"
+     ],
+     "a": 1,
+     "e": "Agostinho Neto, chef du MPLA, fut le premier président de l'Angola (1975-1979), pas du Mozambique.",
+     "ed": [
+      "Ce couple est exact : Seretse Khama fut le premier président du Botswana (1966-1980).",
+      null,
+      "Ce couple est exact : Lumumba fut le premier Premier ministre de la RDC en 1960.",
+      "Ce couple est exact : Mandela prête serment comme président le 10 mai 1994 à Pretoria."
+     ],
+     "src": {
+      "t": "Britannica, « Agostinho Neto »",
+      "u": "https://www.britannica.com/biography/Agostinho-Neto"
+     }
+    },
+    {
+     "id": "n20261123-lo11-01",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quel est le rang de la lettre P dans l'alphabet ?",
+     "o": [
+      "15",
+      "17",
+      "16",
+      "14"
+     ],
+     "a": 2,
+     "e": "Repère EJOTY : O = 15 ; P est la lettre suivante, donc son rang vaut 15 + 1 = 16.",
+     "ed": [
+      "15 est le rang de O, le repère qui précède P.",
+      "17 est le rang de Q, qui suit P.",
+      null,
+      "14 est le rang de N."
+     ],
+     "verif": "calcul",
+     "calc": "15+1"
+    },
+    {
+     "id": "n20261123-lo11-02",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle lettre occupe le 21e rang de l'alphabet ?",
+     "o": [
+      "U",
+      "T",
+      "V",
+      "W"
+     ],
+     "a": 0,
+     "e": "Repère EJOTY : T = 20 ; la lettre suivante, la 21e de l'alphabet, est donc U (20 + 1).",
+     "ed": [
+      null,
+      "T est le repère de rang 20, un pas avant.",
+      "V est la 22e lettre.",
+      "W est la 23e lettre."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-03",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle lettre suit : C, F, I, L, … ?",
+     "o": [
+      "N",
+      "P",
+      "M",
+      "O"
+     ],
+     "a": 3,
+     "e": "Rangs 3, 6, 9, 12 : écart constant +3 ; 12 + 3 = 15, soit O (repère EJOTY).",
+     "ed": [
+      "N (14) correspond à un écart de +2, alors que la suite avance de +3.",
+      "P (16) correspond à un écart de +4.",
+      "M (13) correspond à un écart de +1.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-04",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle lettre suit : B, C, E, H, L, … ?",
+     "o": [
+      "P",
+      "Q",
+      "R",
+      "M"
+     ],
+     "a": 1,
+     "e": "Rangs 2, 3, 5, 8, 12 : écarts +1, +2, +3, +4, donc l'écart suivant est +5 ; 12 + 5 = 17, soit Q.",
+     "ed": [
+      "P (16) suppose un écart de +4 répété, alors que les écarts augmentent de 1.",
+      null,
+      "R (18) suppose un écart de +6, un cran trop loin.",
+      "M (13) ne prolonge pas la suite des écarts +1, +2, +3, +4."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-05",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle est la somme des rangs d'une lettre et de sa lettre miroir (A et Z, B et Y, etc.) ?",
+     "o": [
+      "26",
+      "27",
+      "25",
+      "28"
+     ],
+     "a": 1,
+     "e": "Le miroir de la lettre de rang n a le rang 27 − n ; la somme vaut donc toujours 27 (A + Z = 1 + 26).",
+     "ed": [
+      "26 est le nombre de lettres, mais A + Z = 1 + 26 = 27.",
+      null,
+      "25 est le rang de Y, pas une somme de miroirs.",
+      "28 dépasse d'une unité : B + Y = 2 + 25 = 27."
+     ],
+     "verif": "calcul",
+     "calc": "1+26"
+    },
+    {
+     "id": "n20261123-lo11-06",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle est la lettre miroir de H, c'est-à-dire celle qui occupe la même place en partant de Z ?",
+     "o": [
+      "R",
+      "T",
+      "I",
+      "S"
+     ],
+     "a": 3,
+     "e": "H a le rang 8 ; son miroir a le rang 27 − 8 = 19, soit S (T = 20, donc S = 19).",
+     "ed": [
+      "R (18) donnerait 8 + 18 = 26, pas 27.",
+      "T (20) donnerait 8 + 20 = 28.",
+      "I est la lettre qui suit H, pas son miroir.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-07",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle lettre suit : R, V, Z, … ?",
+     "o": [
+      "D",
+      "A",
+      "C",
+      "E"
+     ],
+     "a": 0,
+     "e": "Rangs 18, 22, 26 : écart +4 ; 26 + 4 = 30, qui dépasse 26 : 30 − 26 = 4, soit D.",
+     "ed": [
+      null,
+      "A suppose un écart de +1 après Z, alors que l'écart est +4.",
+      "C (rang 3) suppose un écart de +3.",
+      "E (rang 5) suppose un écart de +5."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-08",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle lettre suit : D, W, F, U, H, S, … ?",
+     "o": [
+      "Q",
+      "I",
+      "J",
+      "K"
+     ],
+     "a": 2,
+     "e": "Suite croisée : rangs impairs D, F, H (4, 6, 8 : +2) ; rangs pairs W, U, S (−2). Le 7e terme est de rang impair : 8 + 2 = 10, soit J.",
+     "ed": [
+      "Q serait le 8e terme (rangs pairs : W, U, S, Q), pas le 7e.",
+      "I suppose un écart de +1 sur les rangs impairs, alors qu'il est de +2.",
+      null,
+      "K suppose un écart de +3 sur les rangs impairs."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-09",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quel groupe suit : AZ, CX, EV, … ?",
+     "o": [
+      "GU",
+      "FU",
+      "HT",
+      "GT"
+     ],
+     "a": 3,
+     "e": "Première lettre : A, C, E (+2), donc G ; seconde : Z, X, V (−2), donc T. Chaque paire est un couple de miroirs : 7 + 20 = 27.",
+     "ed": [
+      "U suppose que la seconde lettre recule de 1, alors qu'elle recule de 2 (Z, X, V).",
+      "F suppose que la première lettre avance de 1, alors qu'elle avance de 2.",
+      "H suppose un écart de +3 pour la première lettre.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-10",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quel terme suit : A1, D4, G7, … ?",
+     "o": [
+      "J9",
+      "J10",
+      "K10",
+      "I10"
+     ],
+     "a": 1,
+     "e": "Lettres A, D, G : +3, donc J ; le nombre est le rang de la lettre, J = 10. Réponse : J10.",
+     "ed": [
+      "Le nombre est le rang de la lettre : J a le rang 10, pas 9.",
+      null,
+      "La lettre avance de 3 (A, D, G), donc J et non K.",
+      "I a le rang 9 : la lettre ne correspond plus au nombre."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-11",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quel terme suit : B4, D16, F36, … ?",
+     "o": [
+      "H49",
+      "H48",
+      "H64",
+      "H81"
+     ],
+     "a": 2,
+     "e": "Lettres B, D, F (+2) : H, de rang 8. Le nombre est le carré du rang : 2² = 4, 4² = 16, 6² = 36, donc 8² = 64.",
+     "ed": [
+      "49 est 7 au carré ; or H a le rang 8.",
+      "48 suppose une hausse de 12, alors que le nombre est le carré du rang.",
+      null,
+      "81 est 9 au carré, le carré du rang de I."
+     ],
+     "verif": "calcul",
+     "calc": "8*8"
+    },
+    {
+     "id": "n20261123-lo11-12",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quel groupe suit : BDF, CEG, DFH, … ?",
+     "o": [
+      "EGI",
+      "EFG",
+      "EGH",
+      "DGI"
+     ],
+     "a": 0,
+     "e": "Chaque groupe avance d'une lettre (B, C, D, puis E) et ses trois lettres sont espacées de 2 : E, G, I.",
+     "ed": [
+      null,
+      "EFG fait avancer les lettres d'un pas entre elles, alors qu'elles sont espacées de 2.",
+      "Dans chaque groupe, les lettres sont espacées de 2 : après G vient I, pas H.",
+      "Le groupe commence une lettre plus loin que le précédent : E, pas D."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-13",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Dans la suite E, J, O, T, …, quel est le rang du terme suivant ?",
+     "o": [
+      "25",
+      "24",
+      "26",
+      "30"
+     ],
+     "a": 0,
+     "e": "C'est la suite des repères EJOTY : 5, 10, 15, 20, puis 20 + 5 = 25, soit Y.",
+     "ed": [
+      null,
+      "24 (X) suppose un écart de +4, alors que l'écart est +5.",
+      "26 (Z) suppose un écart de +6.",
+      "30 dépasse 26 : il n'y a pas de 30e lettre, et l'écart +5 donne 25."
+     ],
+     "verif": "calcul",
+     "calc": "20+5"
+    },
+    {
+     "id": "n20261123-lo11-14",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle lettre manque : K, M, ?, Q, S ?",
+     "o": [
+      "N",
+      "P",
+      "O",
+      "R"
+     ],
+     "a": 2,
+     "e": "Rangs 11, 13, ?, 17, 19 : écart +2 ; 13 + 2 = 15, soit O. Contrôle : 15 + 2 = 17, Q.",
+     "ed": [
+      "N (14) briserait l'écart constant de +2.",
+      "P (16) donnerait des écarts de +3 puis +1.",
+      null,
+      "R (18) est entre Q et S, pas entre M et Q."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-15",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle lettre suit : W, A, E, I, … ?",
+     "o": [
+      "L",
+      "M",
+      "N",
+      "Z"
+     ],
+     "a": 1,
+     "e": "W = 23 ; 23 + 4 = 27, moins 26 = 1 (A) ; puis E = 5, I = 9, et 9 + 4 = 13, soit M.",
+     "ed": [
+      "L (12) suppose un écart de +3, alors que l'écart est +4.",
+      null,
+      "N (14) suppose un écart de +5.",
+      "Z ne prolonge pas l'écart de +4 : la suite a déjà repassé de Z à A."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-16",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Dans la suite Z, W, T, Q, …, quel est le rang du terme suivant ?",
+     "o": [
+      "13",
+      "15",
+      "11",
+      "14"
+     ],
+     "a": 3,
+     "e": "Rangs 26, 23, 20, 17 : la suite recule de 3 à chaque terme ; 17 − 3 = 14, soit la lettre N.",
+     "ed": [
+      "13 (M) suppose un recul de 4, alors que la suite recule de 3.",
+      "15 (O) suppose un recul de 2.",
+      "11 (K) suppose un recul de 6.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "17-3"
+    },
+    {
+     "id": "n20261123-lo11-17",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quelle lettre suit : A, B, D, H, … ?",
+     "o": [
+      "L",
+      "O",
+      "P",
+      "Q"
+     ],
+     "a": 2,
+     "e": "Rangs 1, 2, 4, 8 : chaque rang double ; 8 × 2 = 16, soit P. Pensez à tester le rapport quand les écarts grandissent vite.",
+     "ed": [
+      "L (12) suppose un écart constant de +4, alors que les rangs doublent.",
+      "O (15) suppose des écarts +1, +2, +4 puis +7, sans logique.",
+      null,
+      "Q (17) dépasse d'un rang : 8 × 2 = 16."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-18",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Quel terme suit : Z1, X3, V5, … ?",
+     "o": [
+      "T6",
+      "U7",
+      "S7",
+      "T7"
+     ],
+     "a": 3,
+     "e": "Lettres Z, X, V : −2, donc T ; nombres 1, 3, 5 : +2, donc 7. Réponse : T7.",
+     "ed": [
+      "Le nombre augmente de 2 (1, 3, 5), donc 7 et non 6.",
+      "La lettre recule de 2 (Z, X, V), donc T et non U.",
+      "S suppose un recul de 3 de la lettre.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-lo11-19",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "En logique (barème +2 / 0 / −2), un candidat traite 12 suites : 8 réponses justes et 4 fausses. Quel est son score sur ces questions ?",
+     "o": [
+      "8",
+      "12",
+      "16",
+      "4"
+     ],
+     "a": 0,
+     "e": "8 justes × 2 = 16 points ; 4 fausses × (−2) = −8 ; score : 16 − 8 = 8. S'abstenir sur les 4 aurait donné 16.",
+     "ed": [
+      null,
+      "12 suppose une seule pénalité de −1 par erreur, alors qu'elle vaut −2.",
+      "16 oublie les pénalités : chaque erreur retire 2 points.",
+      "4 retire 3 points par erreur au lieu de 2."
+     ],
+     "verif": "calcul",
+     "calc": "8*2-4*2"
+    },
+    {
+     "id": "n20261123-lo11-20",
+     "m": "log",
+     "tag": "niv-lo11",
+     "q": "Intrus : laquelle de ces paires n'est PAS formée d'une lettre et de sa lettre miroir ?",
+     "o": [
+      "C – X",
+      "M – O",
+      "F – U",
+      "J – Q"
+     ],
+     "a": 1,
+     "e": "Test « miroir = 27 moins le rang » : M (13) + O (15) = 28, pas 27. Le miroir de M est N (14).",
+     "ed": [
+      "C (3) + X (24) = 27 : c'est bien une paire de miroirs.",
+      null,
+      "F (6) + U (21) = 27 : c'est bien une paire de miroirs.",
+      "J (10) + Q (17) = 27 : c'est bien une paire de miroirs."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261123-cglibre-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quels pays ont fondé l'Alliance du Pacifique par la déclaration de Lima du 28 avril 2011 ?",
+     "o": [
+      "L'Argentine, le Brésil, le Paraguay et l'Uruguay",
+      "Le Chili, la Colombie, le Mexique et le Pérou",
+      "Le Chili, l'Équateur, le Panama et le Pérou",
+      "Le Canada, les États-Unis, le Mexique et le Pérou"
+     ],
+     "a": 1,
+     "e": "L'Alliance du Pacifique naît le 28 avril 2011 à Lima avec quatre États : Chili, Colombie, Mexique et Pérou ; l'accord-cadre est signé à Paranal (Chili) le 6 juin 2012.",
+     "ed": [
+      "Ce sont les quatre fondateurs du Mercosur (1991), pas de l'Alliance du Pacifique.",
+      null,
+      "L'Équateur et le Panama ne figurent pas parmi les quatre signataires de la déclaration de Lima.",
+      "Le Canada et les États-Unis ne sont pas fondateurs de l'Alliance du Pacifique."
+     ],
+     "src": {
+      "t": "OEA, SICE – Pacific Alliance",
+      "u": "https://sice.oas.org/TPD/Pacific_Alliance/Pacific_Alliance_e.asp"
+     }
+    },
+    {
+     "id": "n20261123-cglibre-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le statut de l'Agence internationale de l'énergie atomique (AIEA), approuvé le 23 octobre 1956, est entré en vigueur le 29 juillet 1957. Où se trouve son siège ?",
+     "o": [
+      "À Genève",
+      "À New York",
+      "À Paris",
+      "À Vienne"
+     ],
+     "a": 3,
+     "e": "Selon Britannica, le statut de l'AIEA est entré en vigueur le 29 juillet 1957 et le siège de l'Agence est à Vienne (Autriche).",
+     "ed": [
+      "Genève accueille d'autres organisations, mais pas le siège de l'AIEA.",
+      "New York est le siège de l'ONU, où Eisenhower prononça son discours « Atoms for Peace » en 1953, pas celui de l'AIEA.",
+      "Paris n'est pas le siège de l'AIEA.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « International Atomic Energy Agency »",
+      "u": "https://www.britannica.com/topic/International-Atomic-Energy-Agency"
+     }
+    },
+    {
+     "id": "n20261123-cglibre-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La Commission du bassin du lac Tchad a été créée le 22 mai 1964 par la convention de Fort-Lamy. Comment s'appelle aujourd'hui Fort-Lamy ?",
+     "o": [
+      "N'Djamena",
+      "Maroua",
+      "Niamey",
+      "Bangui"
+     ],
+     "a": 0,
+     "e": "La CBLT est créée le 22 mai 1964 par la convention de Fort-Lamy, aujourd'hui N'Djamena, par le Cameroun, le Niger, le Nigeria et le Tchad.",
+     "ed": [
+      null,
+      "Maroua est une ville du Cameroun, pas l'ancienne Fort-Lamy.",
+      "Niamey est la capitale du Niger, autre membre fondateur.",
+      "Bangui est la capitale de la Centrafrique, entrée plus tard dans la Commission."
+     ],
+     "src": {
+      "t": "Commission du bassin du lac Tchad (CBLT), « Our story »",
+      "u": "https://cblt.org/our-story/"
+     }
+    },
+    {
+     "id": "n20261123-cglibre-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'accord du 5 avril 1995, signé à Chiang Rai, crée la Commission du Mékong entre quatre États. Lequel n'en fait PAS partie ?",
+     "o": [
+      "Le Cambodge",
+      "Le Laos",
+      "La Chine",
+      "Le Viêt Nam"
+     ],
+     "a": 2,
+     "e": "L'accord de Chiang Rai (Thaïlande) du 5 avril 1995 réunit le Cambodge, le Laos, la Thaïlande et le Viêt Nam ; la Chine n'en est pas signataire.",
+     "ed": [
+      "Le Cambodge est l'un des quatre signataires de l'accord de 1995.",
+      "La République démocratique populaire lao est signataire de l'accord.",
+      null,
+      "Le Viêt Nam est signataire de l'accord de 1995."
+     ],
+     "src": {
+      "t": "Mekong River Commission, Agreement on the Cooperation for the Sustainable Development of the Mekong River Basin (1995)",
+      "u": "https://archive.iwlearn.net/mrcmekong.org/agreement_95/agreement_95.htm"
+     }
+    },
+    {
+     "id": "n20261123-cglibre-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville la convention douanière du Benelux a-t-elle été signée le 5 septembre 1944 par trois gouvernements en exil ?",
+     "o": [
+      "Bruxelles",
+      "La Haye",
+      "Luxembourg",
+      "Londres"
+     ],
+     "a": 3,
+     "e": "La convention douanière de Londres, signée le 5 septembre 1944 par la Belgique, les Pays-Bas et le Luxembourg, entre en application en 1948.",
+     "ed": [
+      "La signature n'a pas eu lieu à Bruxelles mais à Londres, où siégeaient les gouvernements en exil.",
+      "La Haye est la ville de la ratification de 1947, pas de la signature.",
+      "La signature n'a pas eu lieu à Luxembourg : les trois gouvernements en exil se sont réunis à Londres.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia, « London Customs Convention »",
+      "u": "https://en.wikipedia.org/wiki/London_Customs_Convention"
+     }
+    },
+    {
+     "id": "n20261123-cglibre-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quels États ont créé l'Organisation pour la mise en valeur du fleuve Sénégal (OMVS) à Nouakchott, le 11 mars 1972 ?",
+     "o": [
+      "Le Mali, la Mauritanie et le Sénégal",
+      "La Guinée, le Mali et le Sénégal",
+      "La Gambie, la Mauritanie et le Sénégal",
+      "Le Burkina Faso, le Mali et le Niger"
+     ],
+     "a": 0,
+     "e": "La convention signée à Nouakchott le 11 mars 1972 réunit le Mali, la Mauritanie et le Sénégal ; elle fixe le siège de l'OMVS à Dakar.",
+     "ed": [
+      null,
+      "La Guinée n'est pas signataire de la convention de 1972 ; elle a rejoint l'organisation plus tard.",
+      "La Gambie ne figure pas parmi les fondateurs de l'OMVS.",
+      "Ces pays ne sont pas riverains du fleuve Sénégal et n'ont pas fondé l'OMVS."
+     ],
+     "src": {
+      "t": "FAO, Convention portant création de l'OMVS, Nouakchott, 11 mars 1972",
+      "u": "https://www.fao.org/3/w7414b/w7414b08.htm"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261123an08",
+     "niv": "an08",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "La voix passive",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez former la voix passive à tous les temps : be se conjugue au temps de la phrase active, puis vient le participe passé.",
+      "= Vous saurez aussi choisir entre les deux passifs des verbes à deux compléments (give, send, offer…), employer by à bon escient et repérer les verbes qui refusent le passif.",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), la voix passive apparaît surtout dans des phrases à compléter. On vous donne un sujet qui subit l'action ; vous choisissez la forme verbale. Les mauvaises options sont presque toujours des formes réelles mal assemblées : be oublié (« The road built »), be au mauvais temps (« The road is built last year »), prétérit à la place du participe (« was took ») ou being oublié au progressif. Une autre famille de pièges porte sur les verbes à deux compléments et sur les verbes qui n'ont jamais de passif.",
+      "! Piège habituel : traduire mot à mot le « on » français. « On m'a remis un formulaire » se dit I was given a form, et non « It was given me a form ».",
+      "## La méthode, pas à pas",
+      "- 1. Repérez le temps : un marqueur (yesterday, since 2020, now, tomorrow) ou le verbe de la phrase active proposée.",
+      "- 2. Vérifiez que le sujet subit l'action : si oui, il faut le passif.",
+      "- 3. Conjuguez be à ce temps : is, was, has been, is being, will be, must be…",
+      "- 4. Ajoutez le participe passé, c'est-à-dire la 3e colonne des verbes irréguliers (taken, written, built).",
+      "- 5. Accordez be avec le nouveau sujet, singulier ou pluriel.",
+      "- 6. Barème : si deux formes restent possibles et qu'aucun indice de temps ne les départage, abstenez-vous (0) plutôt que de risquer −1.",
+      "~ Exemple : « The new classrooms ___ by the regional council last year. » Étape 1 : last year, donc prétérit. Étape 2 : les salles sont construites, elles subissent. Étape 3 : be au prétérit pluriel, were. Étape 4 : participe de build, built. Réponse : were built (« Les nouvelles salles ont été construites par le conseil régional l'an dernier »).",
+      "> Méthode de l'estompage (« backward fading ») : dans chaque notion, le premier exemple est entièrement résolu ; dans l'exercice suivant, seules les dernières étapes restent à faire ; puis vous résolvez seul. Renkl et Atkinson proposent ce retrait progressif des étapes pour passer de l'étude d'exemples à la résolution autonome. Si les exemples vous paraissent trop faciles, passez directement aux questions : chez qui maîtrise déjà la notion, résoudre seul profite davantage (effet de renversement lié à l'expertise)."
+     ],
+     "fond": [
+      "## Notion 1 : la formation, be + participe passé",
+      "Règle : la voix passive se forme avec le verbe be suivi du participe passé du verbe principal. Le temps de la phrase est porté par be ; le participe, lui, ne change jamais.",
+      "Pourquoi ? À l'actif, le sujet fait l'action : The council builds schools. Au passif, le complément devient sujet et subit l'action : Schools are built. Be reprend le temps de la phrase active, le participe dit l'action subie.",
+      "- Présent simple : is / are + participe (Taxes are collected every year).",
+      "- Présent progressif : is / are being + participe (The road is being repaired).",
+      "- Prétérit : was / were + participe ; prétérit progressif : was / were being + participe (Lunch was being served).",
+      "- Present perfect : has / have been + participe ; past perfect : had been + participe.",
+      "- Futur : will be + participe ; avec un modal : modal + be + participe (The form must be signed).",
+      "~ Exemple résolu : mettez au passif « The ministry has published the results. » Étape 1 : temps, present perfect (has published). Étape 2 : nouveau sujet, the results, au pluriel. Étape 3 : be au present perfect pluriel, have been. Étape 4 : participe, published. Résultat : The results have been published (by the ministry).",
+      "! Piège : au progressif, being est obligatoire. « The bridge is repaired » décrit un état (« le pont est réparé ») ; « The bridge is being repaired » décrit une action en cours (« le pont est en cours de réparation »).",
+      "> Pour retenir : « be prend le temps, le participe prend l'action ». Le passif contient toujours une forme de be de plus que l'actif.",
+      "? Estompage, il reste la dernière étape : « Workers are painting the hall. » Temps : présent progressif. Nouveau sujet : the hall (singulier). Be : is being. Écrivez la phrase. || Il ne manque que le participe passé de paint : The hall is being painted. Being est indispensable, car l'action est en cours ; « The hall is painted » décrirait un état.",
+      "## Notion 2 : l'agent et by",
+      "Règle : l'auteur de l'action, appelé agent, est introduit par by. On ne l'exprime que s'il apporte une information utile ; on l'omet quand il est inconnu, évident ou qu'on préfère ne pas le nommer.",
+      "Pourquoi ? On choisit justement le passif pour mettre en avant ce qui subit l'action. Ajouter « by someone » ou « by people » n'apporte rien.",
+      "~ Exemple résolu : « Someone stole my bag at the bus station. » L'auteur est inconnu : My bag was stolen at the bus station. En revanche, dans « The decree was signed by the President », l'agent est l'information importante : on le garde.",
+      "! Piège : le français dit « par » ou « de » (« respecté de tous ») ; l'anglais emploie by dans les deux cas : He is respected by everyone. With introduit l'instrument (The door was opened with a key), pas l'auteur.",
+      "? Estompage, il reste les deux dernières étapes : « The police arrested two suspects. » Temps : prétérit. Quelle forme de be ? Faut-il garder l'agent ? || Be au prétérit pluriel, car two suspects est pluriel : were ; participe : arrested. Les arrestations sont évidemment l'œuvre de la police : Two suspects were arrested. On peut ajouter by the police, mais ce n'est pas nécessaire.",
+      "## Notion 3 : les verbes à deux compléments",
+      "Règle : des verbes comme give, send, show, lend, offer, promise, tell ou pay ont deux compléments : une personne (complément indirect) et une chose (complément direct). Les deux peuvent devenir sujet du passif : She was given the keys, ou The keys were given to her. La tournure qui prend la personne pour sujet est la plus courante.",
+      "Pourquoi ? En anglais, celui qui reçoit est souvent le sujet le plus intéressant. Le français ignore cette construction (« Elle a été donnée les clés » est impossible) : c'est pourquoi les francophones l'évitent à tort.",
+      "~ Exemple résolu : « The agency offered Awa a contract. » Personne pour sujet : Awa was offered a contract. Chose pour sujet : A contract was offered to Awa. Avec la chose pour sujet, to réapparaît devant la personne.",
+      "! Piège : explain et suggest n'acceptent pas la personne pour sujet. On écrit The procedure was explained to the candidates, jamais « The candidates were explained the procedure ».",
+      "> Pour retenir : « give, send, show, offer : deux passifs ; explain, suggest : un seul, avec to ».",
+      "? Résolvez seul, avec la personne pour sujet : « The bank lent the cooperative ten million francs. » || Le sujet est the cooperative (singulier) ; le temps est le prétérit, donc was ; le participe de lend est lent. The cooperative was lent ten million francs (by the bank).",
+      "## Notion 4 : modaux, get et les tournures « it is said »",
+      "Règle 1 : après un modal, on met be + participe : The form must be signed. Pour un regret ou un reproche sur le passé, modal + have been + participe : The form should have been signed.",
+      "Règle 2 : en anglais familier, get peut remplacer be : My phone got stolen. Évitez-le dans un écrit soigné.",
+      "Règle 3 : avec les verbes d'opinion (say, believe, think, report, expect, know), deux tournures existent : It is said that the director supports the project, ou The director is said to support the project. Pour un fait antérieur, on emploie l'infinitif passé : The walls are believed to have been built centuries ago.",
+      "Pourquoi ? Ces tournures rapportent une opinion sans en nommer l'auteur, ce qui est fréquent dans la presse et les rapports administratifs.",
+      "~ Exemple résolu : « People believe that the statue dates from the 18th century. » Tournure 1 : It is believed that the statue dates from the 18th century. Tournure 2 : The statue is believed to date from the 18th century. Le verbe conjugué dates devient l'infinitif to date.",
+      "! Piège : les verbes sans complément d'objet (happen, arrive, die, occur, seem) n'ont pas de passif. « The accident was happened » est fautif : The accident happened.",
+      "? Résolvez seul : « They say that the new mayor is very strict. » Réécrivez la phrase en commençant par The new mayor. || On emploie be said + infinitif : The new mayor is said to be very strict. La tournure impersonnelle est aussi correcte : It is said that the new mayor is very strict."
+     ],
+     "retenir": [
+      "Le passif se forme avec be conjugué au temps de la phrase active, suivi du participe passé : Taxes are collected.",
+      "Au progressif, being est obligatoire : The road is being repaired (action en cours), différent de The road is repaired (état).",
+      "Present perfect passif : has / have been + participe ; futur : will be + participe ; modal : modal + be + participe.",
+      "L'agent s'introduit par by et s'omet quand il est inconnu, évident ou sans intérêt : My bag was stolen.",
+      "Give, send, show, offer, lend ont deux passifs : She was given the keys / The keys were given to her.",
+      "Explain et suggest n'acceptent pas la personne pour sujet : The rules were explained to us, jamais « We were explained the rules ».",
+      "Happen, arrive, die, occur et seem n'ont pas de passif : on écrit The accident happened.",
+      "Opinion rapportée : It is said that he is rich, ou He is said to be rich ; fait passé : is believed to have been."
+     ],
+     "exo": {
+      "tag": "niv-an08",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "British Council LearnEnglish, « Active and passive voice »",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/active-passive-voice"
+      },
+      {
+       "t": "British Council LearnEnglish, « Advanced passives review » (C1)",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/advanced-passives-review?page=10"
+      },
+      {
+       "t": "Practical English Usage (reprise LearnerCraft), « Verbs with two objects in the passive »",
+       "u": "https://learnercraft.github.io/docugrammar/english-grammar/peu/peu_entries/grammar/passives/verbs-with-two-objects-in-the-passive"
+      },
+      {
+       "t": "Test-English, « Passive verbs with two objects » (B2)",
+       "u": "https://test-english.com/?p=19913"
+      },
+      {
+       "t": "Perfect English Grammar, « Passive verbs with two objects » (exercice corrigé)",
+       "u": "https://www.perfect-english-grammar.com/support-files/passive_verbs_with_two_objects.pdf"
+      },
+      {
+       "t": "A. Renkl, R. K. Atkinson, « Structuring the Transition From Example Study to Problem Solving in Cognitive Skill Acquisition: A Cognitive Load Perspective », Educational Psychologist, 2003 (notice ASU)",
+       "u": "https://asu.elsevierpure.com/en/publications/structuring-the-transition-from-example-study-to-problem-solving--2"
+      },
+      {
+       "t": "J. Reisslein, R. K. Atkinson, P. Seeling, M. Reisslein, « Encountering the expertise reversal effect with a computer-based environment on electrical circuit analysis », Learning and Instruction 16, 2006",
+       "u": "https://faculty.engineering.asu.edu/mre/wp-content/uploads/sites/31/2020/02/Exp_Rev_LI06.pdf"
+      },
+      {
+       "t": "Structural Learning, « Worked examples: how to design and fade support »",
+       "u": "https://www.structural-learning.com/post/worked-examples"
+      }
+     ]
+    },
+    {
+     "id": "L20261123cg10",
+     "niv": "cg10",
+     "m": "cg",
+     "titre": "Afrique : pays, capitales et grands dirigeants",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer et nommer les capitales de l'Afrique du Nord, de l'Est, centrale et australe, y compris les cas piégés : pays à plusieurs capitales et capitales déplacées.",
+      "= Vous saurez aussi associer à leur pays et à leur date les grands dirigeants de l'indépendance : Nasser, Bourguiba, Ben Bella, Haile Sélassié, Kenyatta, Nyerere, Lumumba, Kaunda, Seretse Khama, Neto et Mandela.",
+      "## Ce que demande l'épreuve",
+      "En culture générale de présélection (barème +1 / 0 / −1), ces notions tombent sous forme de questions directes (« Quelle est la capitale de… ? »), de couples à associer, d'intrus ou de « laquelle est fausse ». Les distracteurs sont choisis pour tromper : la plus grande ville à la place de la capitale, l'ancienne capitale à la place de la nouvelle, la capitale du pays voisin, ou un dirigeant célèbre placé dans le mauvais pays.",
+      "## La méthode, pas à pas",
+      "- 1. Situez d'abord le pays dans sa région (Nord, Est, Centre, Australe) : cela élimine souvent deux options.",
+      "- 2. Méfiez-vous des grandes villes et des ports : la plus grande ville n'est pas toujours la capitale.",
+      "- 3. Pour un pays à plusieurs capitales, lisez bien la fonction demandée : législative, exécutive, judiciaire ou administrative.",
+      "- 4. Pour un dirigeant, cherchez le repère daté : l'année de l'indépendance ou de la prise de pouvoir.",
+      "- 5. Barème : si vous hésitez encore entre deux options après ces étapes, abstenez-vous (0) plutôt que de risquer −1.",
+      "~ Exemple : « Quelle ville abrite le Parlement sud-africain ? Pretoria, Le Cap, Bloemfontein, Johannesburg. » Étape 1 : Afrique australe, les quatre villes sont sud-africaines. Étape 3 : la fonction demandée est législative. Pretoria est exécutive, Bloemfontein judiciaire, Johannesburg n'est pas une capitale. Réponse : Le Cap.",
+      "> Méthode de l'estompage (« backward fading ») : dans chaque notion, le premier exemple est entièrement résolu ; dans l'exercice suivant, seules les dernières étapes restent à faire ; puis vous résolvez seul. Renkl et Atkinson proposent ce retrait progressif des étapes pour passer de l'étude d'exemples à la résolution autonome. Si les exemples vous paraissent trop faciles, passez directement aux questions : chez qui maîtrise déjà la notion, résoudre seul profite davantage (effet de renversement lié à l'expertise)."
+     ],
+     "fond": [
+      "## Notion 1 : l'Afrique du Nord et ses pères fondateurs",
+      "Capitales : Rabat (Maroc), Alger (Algérie), Tunis (Tunisie), Tripoli (Libye), Le Caire (Égypte), Nouakchott (Mauritanie), Khartoum (Soudan).",
+      "Pourquoi ces dirigeants comptent ? Ils ont fondé l'État moderne après la monarchie ou la colonisation, et leurs choix (laïcité, nationalisations, parti unique) nourrissent encore les débats.",
+      "- Gamal Abdel Nasser (Égypte) : il dirige le coup d'État de 1952 contre la monarchie, est Premier ministre de 1954 à 1956 puis président de 1956 à sa mort, en septembre 1970. Le 26 juillet 1956, il annonce la nationalisation du canal de Suez. Il construit le haut barrage d'Assouan avec l'aide soviétique. Anouar el-Sadate lui succède.",
+      "- Habib Bourguiba (Tunisie) : il négocie l'indépendance de 1956 (protocole du 20 mars 1956). Le Code du statut personnel de 1956 reconnaît des droits aux femmes. Président de 1957 à 1987, déclaré président à vie en 1975, il est écarté en 1987 pour raison de santé ; Zine el-Abidine Ben Ali lui succède.",
+      "- Ahmed Ben Bella (Algérie) : Premier ministre en septembre 1962, élu président en septembre 1963, il est renversé le 19 juin 1965 par Houari Boumédiène.",
+      "~ Exemple résolu : « Qui a nationalisé le canal de Suez ? » Étape 1 : Suez est en Égypte, ce qui élimine Bourguiba et Ben Bella. Étape 2 : repère daté, 26 juillet 1956, alors que Sadate ne prend le pouvoir qu'en 1970. Réponse : Nasser.",
+      "! Piège : Ben Bella est le premier président élu de l'Algérie, mais c'est Boumédiène qui gouverne à partir de 1965. Ne confondez pas non plus Ben Bella (Algérie) et Ben Ali (Tunisie).",
+      "? Estompage, il reste la dernière étape : « Quel dirigeant a fait adopter le Code du statut personnel en 1956 ? » Étape 1 : ce code est tunisien. Étape 2 : en 1956, la Tunisie négocie son indépendance. Concluez. || Le dirigeant tunisien de l'indépendance est Habib Bourguiba, président de 1957 à 1987. Le Code du statut personnel de 1956 reconnaît des droits aux femmes et reste associé à son nom.",
+      "## Notion 2 : la Corne et l'Afrique de l'Est",
+      "Capitales : Addis-Abeba (Éthiopie), Asmara (Érythrée), Djibouti (Djibouti), Mogadiscio (Somalie), Nairobi (Kenya), Kampala (Ouganda), Kigali (Rwanda), Juba (Soudan du Sud), Dodoma (Tanzanie).",
+      "! Piège : Dodoma est la capitale de la Tanzanie depuis 1974, mais le transfert des fonctions officielles a longtemps traîné : Dar es Salaam, plus grande ville et grand port, ancienne capitale (1964-1974), a gardé une grande partie de l'administration.",
+      "- Haile Sélassié Ier : empereur d'Éthiopie de 1930 à 1974, il fait d'Addis-Abeba le centre de l'Organisation de l'unité africaine. Il est renversé en 1974 par un coup d'État militaire mené par Mengistu Haile Mariam.",
+      "- Jomo Kenyatta (Kenya) : condamné en 1953 à sept ans de prison pour avoir dirigé la révolte des Mau Mau (il niait les faits), il devient Premier ministre (1963-1964) puis président (1964-1978), à la tête de la KANU. Il meurt en août 1978 à Mombasa.",
+      "- Julius Nyerere (Tanzanie), surnommé Mwalimu (« l'instituteur » en swahili) : Premier ministre du Tanganyika indépendant le 9 décembre 1961, il négocie l'union avec Zanzibar le 26 avril 1964 et préside la Tanzanie jusqu'au 5 novembre 1985.",
+      "> Pour retenir : « Dodoma décide, Dar es Salaam commerce » ; « Mwalimu = Nyerere, l'instituteur de la Tanzanie ».",
+      "? Estompage, il reste les deux dernières étapes : « Quelle est la capitale de l'Érythrée ? Djibouti, Asmara, Mogadiscio, Addis-Abeba. » Étape 1 : ce sont quatre capitales de la Corne. Éliminez celles qui appartiennent à un autre pays, puis concluez. || Djibouti est la capitale de Djibouti, Mogadiscio celle de la Somalie, Addis-Abeba celle de l'Éthiopie. Il reste Asmara, capitale de l'Érythrée.",
+      "## Notion 3 : l'Afrique centrale",
+      "Capitales : Yaoundé (Cameroun), Libreville (Gabon), Brazzaville (République du Congo), Kinshasa (République démocratique du Congo), Bangui (Centrafrique), N'Djamena (Tchad).",
+      "> Pour retenir : l'usage nomme les deux pays par leur capitale, « Congo-Brazzaville » (République du Congo) et « Congo-Kinshasa » (RDC).",
+      "! Piège d'actualité : par un décret publié début janvier 2026, la Guinée équatoriale a déclaré capitale Ciudad de la Paz, sur le continent (province de Djibloho), à la place de Malabo, située sur l'île de Bioko ; les institutions disposent d'un an pour s'y transférer. Une liste ancienne qui donne Malabo est donc dépassée.",
+      "- Patrice Lumumba : premier Premier ministre de la République démocratique du Congo, indépendante le 30 juin 1960, il est démis en septembre 1960 par le président Joseph Kasavubu, puis assassiné au Katanga en janvier 1961.",
+      "## Notion 4 : l'Afrique australe et l'océan Indien",
+      "Capitales : Luanda (Angola), Lusaka (Zambie), Harare (Zimbabwe, autrefois Salisbury), Lilongwe (Malawi), Maputo (Mozambique), Gaborone (Botswana), Windhoek (Namibie), Maseru (Lesotho), Antananarivo (Madagascar), Moroni (Comores), Port-Louis (Maurice), Victoria (Seychelles).",
+      "Deux pays ont plusieurs capitales. L'Afrique du Sud répartit les pouvoirs entre Pretoria (exécutif et administration), Le Cap (Parlement) et Bloemfontein (justice). L'Eswatini, ex-Swaziland, a Mbabane pour capitale administrative et Lobamba pour capitale législative.",
+      "! Piège : Johannesburg n'est pas l'une des trois capitales sud-africaines, mais c'est là que siège la Cour constitutionnelle, la plus haute juridiction du pays.",
+      "> Pour retenir : « Pretoria gouverne, Le Cap vote, Bloemfontein juge ».",
+      "- Kenneth Kaunda dirige la Zambie de 1964 à 1991 ; il instaure le parti unique en 1973 et quitte le pouvoir en 1991, battu par Frederick Chiluba (MMD).",
+      "- Seretse Khama, Premier ministre en 1965, est le premier président du Botswana de 1966 à sa mort en 1980.",
+      "- Agostinho Neto, poète et chef du MPLA, est le premier président de l'Angola indépendante de 1975 à 1979.",
+      "- Nelson Mandela prête serment le 10 mai 1994 aux Union Buildings de Pretoria, premier président de l'Afrique du Sud démocratique.",
+      "~ Exemple résolu : « Quelle paire est fausse : Neto–Mozambique, Khama–Botswana, Kaunda–Zambie, Mandela–Afrique du Sud ? » On vérifie chaque paire avec les repères : Khama 1966 Botswana, Kaunda 1964 Zambie, Mandela 1994 Afrique du Sud. Neto est angolais (MPLA, 1975). La paire fausse est Neto–Mozambique.",
+      "? Résolvez seul : « Quelle est la capitale du Zimbabwe ? Harare, Lusaka, Lilongwe, Maputo. » || Lusaka est zambienne, Lilongwe malawite, Maputo mozambicaine. La capitale du Zimbabwe est Harare, appelée autrefois Salisbury : une ancienne appellation coloniale qui sert parfois de piège."
+     ],
+     "retenir": [
+      "L'Afrique du Sud a trois capitales : Pretoria (exécutif), Le Cap (Parlement) et Bloemfontein (justice).",
+      "Dodoma est la capitale de la Tanzanie depuis 1974 ; Dar es Salaam, plus grande ville et port, fut capitale de 1964 à 1974.",
+      "Depuis un décret de janvier 2026, la capitale de la Guinée équatoriale est Ciudad de la Paz, et non plus Malabo.",
+      "Brazzaville est la capitale de la République du Congo, Kinshasa celle de la République démocratique du Congo.",
+      "Nasser, président de l'Égypte de 1956 à 1970, annonce la nationalisation du canal de Suez le 26 juillet 1956.",
+      "Bourguiba préside la Tunisie de 1957 à 1987 ; le Code du statut personnel de 1956 reconnaît des droits aux femmes.",
+      "Nyerere, dit Mwalimu, unit le Tanganyika et Zanzibar le 26 avril 1964 et préside la Tanzanie jusqu'en 1985.",
+      "Premiers présidents : Seretse Khama au Botswana (1966), Agostinho Neto en Angola (1975), Kaunda en Zambie (1964-1991)."
+     ],
+     "exo": {
+      "tag": "niv-cg10",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Nations Online Project, « Capital Cities of Africa »",
+       "u": "https://nationsonline.org/oneworld/capitals_africa.htm"
+      },
+      {
+       "t": "DIRCO (Afrique du Sud), « Information on South Africa »",
+       "u": "https://dirco.gov.za/rome/information-on-sa/"
+      },
+      {
+       "t": "Council on Foreign Relations, « South Africa's Three Capitals », 25 févr. 2016",
+       "u": "https://www.cfr.org/articles/south-africas-three-capitals"
+      },
+      {
+       "t": "Britannica, « Dodoma »",
+       "u": "https://www.britannica.com/place/Dodoma"
+      },
+      {
+       "t": "Britannica, « Dar es Salaam »",
+       "u": "https://www.britannica.com/place/Dar-es-Salaam"
+      },
+      {
+       "t": "Le360 Afrique (AFP), « Ciudad de la Paz devient la nouvelle capitale de la Guinée équatoriale », 3 janv. 2026",
+       "u": "https://afrique.le360.ma/politique/ciudad-de-la-paz-devient-la-nouvelle-capitale-de-la-guinee-equatoriale_N2FQNKPILFABJLWG3AR7S2K76A/"
+      },
+      {
+       "t": "Africanews, « Equatorial Guinea relocates capital », 5 janv. 2026",
+       "u": "https://www.africanews.com/2026/01/05/equatorial-guinea-relocates-capital/"
+      },
+      {
+       "t": "Britannica, « Gamal Abdel Nasser » (résumé)",
+       "u": "https://www.britannica.com/summary/Gamal-Abdel-Nasser"
+      },
+      {
+       "t": "FCDO Historians (gov.uk), « What's the context? 26 July 1956: Nasser announces the nationalisation of the Suez Canal »",
+       "u": "https://history.blog.gov.uk/2016/07/26/whats-the-context-26-july-1956-nasser-announces-the-nationalisation-of-the-suez-canal"
+      },
+      {
+       "t": "Britannica, « Habib Bourguiba » (résumé)",
+       "u": "https://www.britannica.com/summary/Habib-Bourguiba"
+      },
+      {
+       "t": "Britannica, « Habib Bourguiba » (biographie)",
+       "u": "https://www.britannica.com/biography/Habib-Bourguiba"
+      },
+      {
+       "t": "Britannica, « Ahmed Ben Bella » (résumé)",
+       "u": "https://www.britannica.com/summary/Ahmed-Ben-Bella"
+      },
+      {
+       "t": "Wikipedia, « 1965 Algerian coup d'état »",
+       "u": "https://en.wikipedia.org/wiki/1965_Algerian_coup_d%27%C3%A9tat"
+      },
+      {
+       "t": "Britannica, « Haile Selassie I » (résumé)",
+       "u": "https://www.britannica.com/summary/Haile-Selassie-I"
+      },
+      {
+       "t": "Britannica, « Jomo Kenyatta » (résumé)",
+       "u": "https://www.britannica.com/summary/Jomo-Kenyatta"
+      },
+      {
+       "t": "BlackPast, « Julius K. Nyerere (1922-1999) »",
+       "u": "https://blackpast.org/gah/nyerere-julius-k-1922-1999"
+      },
+      {
+       "t": "Britannica, « Patrice Lumumba » (résumé)",
+       "u": "https://www.britannica.com/summary/Patrice-Lumumba"
+      },
+      {
+       "t": "BlackPast, « Patrice Emery Lumumba (1925-1961) »",
+       "u": "https://www.blackpast.org/gah/lumumba-patrice-emery-1925-1961"
+      },
+      {
+       "t": "Britannica, « Zambia under Kaunda (1964–91) »",
+       "u": "https://www.britannica.com/place/Zambia/Zambia-under-Kaunda-1964-91"
+      },
+      {
+       "t": "Britannica, « Sir Seretse Khama »",
+       "u": "https://www.britannica.com/biography/Seretse-Khama"
+      },
+      {
+       "t": "Britannica, « Agostinho Neto »",
+       "u": "https://www.britannica.com/biography/Agostinho-Neto"
+      },
+      {
+       "t": "South African History Online, « Nelson Mandela inaugurated South Africa's first democratic President », 10 mai 1994",
+       "u": "https://sahistory.org.za/dated-event/nelson-mandela-inaugurated-south-africas-first-democratic-president-0"
+      },
+      {
+       "t": "A. Renkl, R. K. Atkinson, « Structuring the Transition From Example Study to Problem Solving in Cognitive Skill Acquisition: A Cognitive Load Perspective », Educational Psychologist, 2003 (notice ASU)",
+       "u": "https://asu.elsevierpure.com/en/publications/structuring-the-transition-from-example-study-to-problem-solving--2"
+      },
+      {
+       "t": "J. Reisslein, R. K. Atkinson, P. Seeling, M. Reisslein, « Encountering the expertise reversal effect with a computer-based environment on electrical circuit analysis », Learning and Instruction 16, 2006",
+       "u": "https://faculty.engineering.asu.edu/mre/wp-content/uploads/sites/31/2020/02/Exp_Rev_LI06.pdf"
+      },
+      {
+       "t": "Structural Learning, « Worked examples: how to design and fade support »",
+       "u": "https://www.structural-learning.com/post/worked-examples"
+      }
+     ]
+    },
+    {
+     "id": "L20261123lo11",
+     "niv": "lo11",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Suites de lettres et alphanumériques",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez convertir n'importe quelle lettre en son rang alphabétique en quelques secondes, puis traiter une suite de lettres comme une suite de nombres.",
+      "= Vous saurez aussi gérer le retour de Z à A, les lettres « miroirs », les suites croisées et les suites qui mêlent lettres et chiffres.",
+      "## Ce que demande l'épreuve",
+      "Les suites de lettres figurent parmi les aptitudes de la présélection en logique, notées +2 / 0 / −2. La règle est presque toujours numérique, mais cachée derrière l'alphabet : écart constant, écarts croissants, deux suites mêlées, lettre associée à un nombre. Le piège n'est pas la règle elle-même, mais le comptage : une lettre de travers et la réponse est fausse. Comme une erreur coûte deux points, un comptage sûr vaut mieux qu'un comptage rapide.",
+      "## La méthode, pas à pas",
+      "- 1. Écrivez sous chaque lettre son rang (A = 1, B = 2… Z = 26) grâce aux repères E, J, O, T, Y (5, 10, 15, 20, 25).",
+      "- 2. Calculez les écarts entre rangs consécutifs, comme pour une suite de nombres.",
+      "- 3. Si les écarts sont irréguliers, séparez les rangs impairs et les rangs pairs : c'est peut-être une suite croisée.",
+      "- 4. Si un rang dépasse 26, retranchez 26 (après Z, on repart à A) ; s'il devient nul ou négatif, ajoutez 26.",
+      "- 5. Dans une suite alphanumérique, traitez séparément la lettre et le nombre, puis cherchez le lien entre les deux (souvent le rang).",
+      "- 6. Reconvertissez le rang trouvé en lettre et vérifiez la règle sur tous les termes donnés.",
+      "- 7. Barème : si aucune règle n'apparaît après une minute, passez à la question suivante (0) : deviner coûte −2 en cas d'erreur.",
+      "~ Exemple : « G, J, M, P, … ? » Rangs : 7, 10, 13, 16. Écart constant : +3. Rang suivant : 16 + 3 = 19. La 19e lettre est S (T = 20, donc S = 19). Réponse : S.",
+      "> Méthode de l'estompage (« backward fading ») : dans chaque notion, le premier exemple est entièrement résolu ; dans l'exercice suivant, seules les dernières étapes restent à faire ; puis vous résolvez seul. Renkl et Atkinson proposent ce retrait progressif des étapes pour passer de l'étude d'exemples à la résolution autonome. Si les exemples vous paraissent trop faciles, passez directement aux questions : chez qui maîtrise déjà la notion, résoudre seul profite davantage (effet de renversement lié à l'expertise)."
+     ],
+     "fond": [
+      "## Notion 1 : les rangs alphabétiques et les repères EJOTY",
+      "Règle : chaque lettre a un rang, de A = 1 à Z = 26. Plutôt que de réciter l'alphabet, on part du repère le plus proche : E = 5, J = 10, O = 15, T = 20, Y = 25. Le milieu de l'alphabet tombe entre M = 13 et N = 14.",
+      "Pourquoi ? Réciter l'alphabet depuis A prend du temps et multiplie les erreurs. Avec cinq repères, aucune lettre n'est à plus de deux pas d'un repère.",
+      "> Pour retenir : « EJOTY » se lit comme un mot ; ses lettres valent 5, 10, 15, 20, 25.",
+      "~ Exemple résolu : rang de R. Repère le plus proche : T = 20. On recule : S = 19, R = 18. Rang de R : 18. Vérification par l'autre côté : O = 15, P = 16, Q = 17, R = 18.",
+      "? Estompage, il reste la dernière étape : rang de W. Repère : T = 20. On avance : U = 21, V = 22. Concluez. || Il reste un pas : W = 23. Contrôle avec Y = 25 : X = 24, W = 23.",
+      "## Notion 2 : l'écart constant et le retour de Z à A",
+      "Règle : une suite de lettres à écart constant est une suite arithmétique sur les rangs. Quand le rang dépasse 26, on retranche 26, car l'alphabet est considéré comme circulaire : après Z vient A.",
+      "Pourquoi ? Les concepteurs de sujets aiment faire « passer » la suite par Z pour piéger le candidat qui s'arrête à 26.",
+      "~ Exemple résolu : « P, T, X, … ? » Étape 1 : rangs 16, 20, 24. Étape 2 : écart +4. Étape 3 : 24 + 4 = 28. Étape 4 : 28 dépasse 26, donc 28 − 26 = 2. Étape 5 : le rang 2 est B. Réponse : B.",
+      "! Piège : oublier de retrancher 26 et chercher une « 28e lettre » qui n'existe pas, ou retrancher 25 au lieu de 26.",
+      "? Estompage, il reste les deux dernières étapes : « U, Z, … ? » Rangs : 21 et 26 ; écart : +5. Calculez le rang suivant, puis convertissez-le. || 26 + 5 = 31, qui dépasse 26 : 31 − 26 = 5. Le rang 5 est E. Réponse : E (contrôle : V, W, X, Y, Z, puis A, B, C, D, E, soit cinq pas après Z).",
+      "## Notion 3 : écarts croissants et suites croisées",
+      "Règle : si les écarts ne sont pas constants, écrivez-les. Ils forment souvent eux-mêmes une suite simple (+1, +2, +3…). Si les écarts changent de signe, séparez les lettres de rang impair et celles de rang pair : deux suites simples sont mêlées.",
+      "Pourquoi ? C'est la même logique que pour les suites numériques avancées : la règle est cachée au second niveau.",
+      "~ Exemple résolu : « C, D, F, I, M, … ? » Rangs : 3, 4, 6, 9, 13. Écarts : +1, +2, +3, +4. Écart suivant : +5. Rang : 13 + 5 = 18, donc R.",
+      "~ Exemple résolu (suite croisée) : « B, Y, D, W, F, U, … ? » Rangs impairs (1er, 3e, 5e termes) : B, D, F, soit 2, 4, 6 (+2). Rangs pairs : Y, W, U, soit 25, 23, 21 (−2). Le 7e terme est de rang impair : 6 + 2 = 8, donc H.",
+      "? Résolvez seul : « A, C, G, M, … ? » || Rangs : 1, 3, 7, 13. Écarts : +2, +4, +6, donc l'écart suivant est +8. Rang : 13 + 8 = 21, soit U.",
+      "## Notion 4 : les lettres miroirs",
+      "Règle : la lettre « miroir » est celle qui occupe la même place en partant de la fin : A et Z, B et Y, C et X… La somme des rangs d'une lettre et de son miroir vaut toujours 27.",
+      "Pourquoi ? Si une lettre est la n-ième depuis le début, son miroir est la n-ième depuis la fin, c'est-à-dire de rang 26 − n + 1 = 27 − n. D'où la somme constante n + (27 − n) = 27.",
+      "> Pour retenir : « miroir = 27 moins le rang ».",
+      "~ Exemple résolu : miroir de K. Rang de K : 11 (J = 10). Miroir : 27 − 11 = 16, soit P. Contrôle : 11 + 16 = 27.",
+      "? Résolvez seul : groupe suivant de « BY, DW, FU, … ? » || Première lettre : B, D, F (+2), donc H. Seconde lettre : Y, W, U (−2), donc S. Chaque paire est formée d'une lettre et de son miroir : 8 + 19 = 27. Réponse : HS.",
+      "## Notion 5 : les suites alphanumériques",
+      "Règle : un terme comme « C9 » associe une lettre et un nombre. On étudie séparément la suite des lettres et celle des nombres, puis on cherche le lien entre les deux : le nombre vaut souvent le rang, son double ou son carré.",
+      "Pourquoi ? Le nombre sert souvent d'indice : il « traduit » la lettre en chiffre, ce qui confirme la règle.",
+      "~ Exemple résolu : « B6, D12, F18, … ? » Lettres : B, D, F (+2), donc H. Nombres : 6, 12, 18, soit 3 fois le rang (2 × 3, 4 × 3, 6 × 3). H a le rang 8 : 8 × 3 = 24. Réponse : H24.",
+      "! Piège : ne prolonger que la partie numérique (« 24 ») ou que la lettre (« H »), alors que la réponse attend le terme complet.",
+      "? Résolvez seul : « Y2, W4, U6, … ? » || Lettres : Y, W, U (−2), donc S. Nombres : 2, 4, 6 (+2), donc 8. Réponse : S8. Contrôle de la lettre : S = 19, juste avant T = 20."
+     ],
+     "retenir": [
+      "Repères EJOTY : E = 5, J = 10, O = 15, T = 20, Y = 25 ; M = 13 et N = 14 encadrent le milieu.",
+      "Une suite de lettres se résout sur les rangs : convertir, calculer les écarts, prolonger, puis reconvertir en lettre.",
+      "Après Z, on repart à A : si le rang dépasse 26, on retranche 26 (rang 28 = B).",
+      "Une lettre et sa lettre miroir (A–Z, B–Y, M–N) ont des rangs dont la somme vaut toujours 27.",
+      "Écarts qui changent de signe : séparer rangs impairs et rangs pairs, c'est sans doute une suite croisée.",
+      "Dans une suite alphanumérique, traiter lettre et nombre séparément, puis chercher le lien, souvent le rang.",
+      "Barème +2 / 0 / −2 : sans règle trouvée après une minute, on s'abstient ; deviner peut coûter deux points."
+     ],
+     "exo": {
+      "tag": "niv-lo11",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "A. Renkl, R. K. Atkinson, « Structuring the Transition From Example Study to Problem Solving in Cognitive Skill Acquisition: A Cognitive Load Perspective », Educational Psychologist, 2003 (notice ASU)",
+       "u": "https://asu.elsevierpure.com/en/publications/structuring-the-transition-from-example-study-to-problem-solving--2"
+      },
+      {
+       "t": "J. Reisslein, R. K. Atkinson, P. Seeling, M. Reisslein, « Encountering the expertise reversal effect with a computer-based environment on electrical circuit analysis », Learning and Instruction 16, 2006",
+       "u": "https://faculty.engineering.asu.edu/mre/wp-content/uploads/sites/31/2020/02/Exp_Rev_LI06.pdf"
+      },
+      {
+       "t": "Structural Learning, « Worked examples: how to design and fade support »",
+       "u": "https://www.structural-learning.com/post/worked-examples"
+      }
+     ]
+    }
+   ],
+   "sujets": []
   }
  ]
 }
