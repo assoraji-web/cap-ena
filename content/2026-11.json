@@ -39964,6 +39964,374 @@
       "t": "FAO, Convention portant création de l'OMVS, Nouakchott, 11 mars 1972",
       "u": "https://www.fao.org/3/w7414b/w7414b08.htm"
      }
+    },
+    {
+     "id": "c20261123-ci-01",
+     "m": "cg",
+     "tag": "ci",
+     "q": "En quelle année le parc national de Taï, dans le sud-ouest du pays, a-t-il été inscrit sur la Liste du patrimoine mondial de l'UNESCO ?",
+     "o": [
+      "1972",
+      "1982",
+      "1990",
+      "2012"
+     ],
+     "a": 1,
+     "e": "Le parc national de Taï, créé comme parc national en 1972, a été inscrit au patrimoine mondial de l'UNESCO en 1982. Retenez : parc en 1972, patrimoine mondial dix ans plus tard.",
+     "ed": [
+      "1972 est l'année où Taï devient parc national, pas celle de son inscription à l'UNESCO (1982).",
+      null,
+      "1990 est l'année de la consécration de la basilique de Yamoussoukro, sans lien avec Taï.",
+      "2012 est bien trop tardif : le parc de Taï figure au patrimoine mondial depuis 1982."
+     ],
+     "src": {
+      "t": "Britannica, Parc National de Taï",
+      "u": "https://britannica.com/place/Parc-National-de-Tai"
+     }
+    },
+    {
+     "id": "c20261123-ci-02",
+     "m": "cg",
+     "tag": "ci",
+     "q": "Le pont Henri-Konan-Bédié, appelé « troisième pont » d'Abidjan, a été inauguré le 16 décembre 2014. Quelles communes relie-t-il directement ?",
+     "o": [
+      "Le Plateau et Treichville",
+      "Yopougon et Attécoubé",
+      "Riviera (Cocody) et Marcory",
+      "Abobo et Adjamé"
+     ],
+     "a": 2,
+     "e": "Le pont HKB, inauguré le 16 décembre 2014, franchit la lagune Ébrié par un viaduc d'environ 1,5 km et rapproche la Riviera (Cocody) de Marcory, avec des postes de péage côté Cocody.",
+     "ed": [
+      "Le pont HKB ne relie pas le Plateau à Treichville : il rapproche la Riviera (Cocody) de Marcory.",
+      "Le pont HKB ne dessert pas Yopougon ni Attécoubé : il relie la Riviera à Marcory.",
+      null,
+      "Abobo et Adjamé ne sont pas les communes reliées par le pont HKB, qui joint la Riviera à Marcory."
+     ],
+     "src": {
+      "t": "AllAfrica (BAD), Le Pont Henri Konan Bédié, un ouvrage d'art moderne au cœur d'Abidjan",
+      "u": "https://fr.allafrica.com/stories/201412170994.html"
+     }
+    },
+    {
+     "id": "c20261123-ci-03",
+     "m": "cg",
+     "tag": "ci",
+     "q": "Sous quel nom la principale université publique d'Abidjan était-elle connue avant de prendre, en 2012, celui d'Université Félix-Houphouët-Boigny ?",
+     "o": [
+      "Université de Cocody",
+      "Université Alassane-Ouattara",
+      "Université Nangui-Abrogoua",
+      "Université Jean-Lorougnon-Guédé"
+     ],
+     "a": 0,
+     "e": "L'Université Félix-Houphouët-Boigny s'appelait auparavant Université de Cocody (ou de Cocody-Abidjan) ; elle a pris le nom du premier président en 2012.",
+     "ed": [
+      null,
+      "L'Université Alassane-Ouattara est un autre établissement ; l'ancien nom de l'UFHB est Université de Cocody.",
+      "L'Université Nangui-Abrogoua est un établissement distinct ; l'UFHB s'appelait Université de Cocody.",
+      "L'Université Jean-Lorougnon-Guédé est un établissement distinct ; l'UFHB s'appelait Université de Cocody."
+     ],
+     "src": {
+      "t": "Wikipedia, Université Félix Houphouët-Boigny",
+      "u": "https://en.wikipedia.org/wiki/Universit%C3%A9_F%C3%A9lix_Houphou%C3%ABt-Boigny"
+     }
+    },
+    {
+     "id": "c20261123-ci-04",
+     "m": "cg",
+     "tag": "ci",
+     "q": "Mis en service en novembre 2017, le barrage hydroélectrique de Soubré, d'une puissance de 275 MW, est construit sur le fleuve :",
+     "o": [
+      "Bandama",
+      "Comoé",
+      "Cavally",
+      "Sassandra"
+     ],
+     "a": 3,
+     "e": "Le barrage de Soubré (275 MW), mis en service en novembre 2017, est construit sur le Sassandra, dans le sud-ouest du pays. Ne le confondez pas avec Kossou, sur le Bandama.",
+     "ed": [
+      "Le Bandama porte le barrage de Kossou, pas celui de Soubré, construit sur le Sassandra.",
+      "Le barrage de Soubré n'est pas sur la Comoé : il est construit sur le Sassandra.",
+      "Le barrage de Soubré n'est pas sur le Cavally : il est construit sur le Sassandra.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia, Soubré Hydroelectric Power Station",
+      "u": "https://en.wikipedia.org/wiki/Soubr%C3%A9_Hydroelectric_Power_Station"
+     }
+    },
+    {
+     "id": "c20261123-monde-01",
+     "m": "cg",
+     "tag": "monde",
+     "q": "Dans quelle ville se trouve le siège du Secrétariat général d'INTERPOL, inauguré en 1989 par François Mitterrand ?",
+     "o": [
+      "Genève",
+      "Lyon",
+      "La Haye",
+      "Bruxelles"
+     ],
+     "a": 1,
+     "e": "Le siège d'INTERPOL est à Lyon, en France, depuis l'inauguration de ses nouveaux locaux le 27 novembre 1989 par le président François Mitterrand.",
+     "ed": [
+      "Genève accueille l'OIT, mais le Secrétariat général d'INTERPOL est à Lyon depuis 1989.",
+      null,
+      "La Haye accueille la Cour pénale internationale, pas INTERPOL, installé à Lyon.",
+      "Bruxelles n'est pas le siège d'INTERPOL : son Secrétariat général est à Lyon."
+     ],
+     "src": {
+      "t": "INTERPOL, INTERPOL celebrates 30 years in Lyon (2019)",
+      "u": "https://www.interpol.int/en/News-and-Events/News/2019/INTERPOL-celebrates-30-years-in-Lyon-as-the-Organization-s-centenary-approaches"
+     }
+    },
+    {
+     "id": "c20261123-monde-02",
+     "m": "cg",
+     "tag": "monde",
+     "q": "Quelle organisation, fondée en 1919 à l'issue de la conférence de la paix de Versailles, a reçu le prix Nobel de la paix en 1969 ?",
+     "o": [
+      "L'Organisation internationale du travail (OIT)",
+      "L'Organisation mondiale de la santé (OMS)",
+      "Le Fonds monétaire international (FMI)",
+      "L'UNESCO"
+     ],
+     "a": 0,
+     "e": "L'OIT, fondée en 1919 et établie à Genève, a reçu le prix Nobel de la paix en 1969, cinquante ans après la conférence de Versailles qui avait décidé sa création.",
+     "ed": [
+      null,
+      "L'OMS n'existe que depuis 1948 (entrée en vigueur de sa Constitution) : elle ne peut dater de 1919.",
+      "Le FMI est né des accords de Bretton Woods de 1944, pas de la conférence de Versailles.",
+      "L'UNESCO a été créée en 1945, après la Seconde Guerre mondiale, et non en 1919."
+     ],
+     "src": {
+      "t": "Nobel Prize, International Labour Organization – Facts (1969)",
+      "u": "https://www.nobelprize.org/prizes/peace/1969/labour/facts/"
+     }
+    },
+    {
+     "id": "c20261123-monde-03",
+     "m": "cg",
+     "tag": "monde",
+     "q": "Fondé par l'ONU en 1946, le Fonds des Nations unies pour l'enfance (UNICEF) a reçu le prix Nobel de la paix en :",
+     "o": [
+      "1946",
+      "1954",
+      "1965",
+      "1989"
+     ],
+     "a": 2,
+     "e": "L'UNICEF, créé par les Nations unies en 1946, a reçu le prix Nobel de la paix en 1965. Astuce : 1946 + 19 = 1965.",
+     "ed": [
+      "1946 est l'année de création de l'UNICEF, pas celle de son prix Nobel (1965).",
+      "1954 n'est pas l'année du Nobel de l'UNICEF : il l'a reçu en 1965.",
+      null,
+      "1989 est l'année d'adoption de la Convention relative aux droits de l'enfant, pas celle du Nobel de l'UNICEF."
+     ],
+     "src": {
+      "t": "Nobel Prize, United Nations Children's Fund – Facts (1965)",
+      "u": "https://www.nobelprize.org/prizes/peace/1965/unicef/facts/"
+     }
+    },
+    {
+     "id": "c20261123-monde-04",
+     "m": "cg",
+     "tag": "monde",
+     "q": "Où se trouve le siège de la Banque mondiale ?",
+     "o": [
+      "New York",
+      "Genève",
+      "Washington",
+      "Paris"
+     ],
+     "a": 2,
+     "e": "Le siège de la Banque mondiale est au 1818 H Street N.W., à Washington (États-Unis) ; elle est issue, comme le FMI, de la conférence de Bretton Woods (1944).",
+     "ed": [
+      "New York accueille le siège de l'ONU ; la Banque mondiale, elle, est à Washington.",
+      "Genève accueille l'OIT, mais pas la Banque mondiale, installée à Washington.",
+      null,
+      "Paris n'est pas le siège de la Banque mondiale, qui est à Washington."
+     ],
+     "src": {
+      "t": "World Bank, World Bank in Washington DC: Foggy Bottom",
+      "u": "https://www.worldbank.org/en/archive/history/exhibits/World-Bank-in-Washington-DC-Foggy-Bottom"
+     }
+    },
+    {
+     "id": "c20261123-lo07-01",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "900000*0.06*5/12",
+     "q": "Quel intérêt rapportent 900 000 F placés à 6 % l'an, à intérêts simples, pendant 5 mois ?",
+     "o": [
+      "22 500 F",
+      "27 000 F",
+      "45 000 F",
+      "270 000 F"
+     ],
+     "a": 0,
+     "e": "I = C × t × n, avec n en années : 900 000 × 0,06 × 5/12 = 54 000 × 5/12 = 22 500 F. Convertissez toujours la durée en fraction d'année.",
+     "ed": [
+      null,
+      "27 000 F correspond à 6 mois (54 000 ÷ 2), pas à 5 mois.",
+      "45 000 F correspond à 10 mois : on a confondu 5/12 et 10/12.",
+      "270 000 F revient à multiplier par 5 ans au lieu de 5 mois."
+     ]
+    },
+    {
+     "id": "c20261123-lo07-02",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "400000*0.015*6",
+     "q": "Une tontine-épargne verse 1,5 % d'intérêts simples par mois. Combien rapportent 400 000 F laissés 6 mois ?",
+     "o": [
+      "6 000 F",
+      "36 000 F",
+      "24 000 F",
+      "3 000 F"
+     ],
+     "a": 1,
+     "e": "Le taux est mensuel : on multiplie directement par le nombre de mois. 400 000 × 0,015 × 6 = 6 000 × 6 = 36 000 F (soit 18 % l'an).",
+     "ed": [
+      "6 000 F est l'intérêt d'un seul mois, pas de six.",
+      null,
+      "24 000 F correspond à 4 mois (6 000 × 4), pas à 6.",
+      "3 000 F revient à diviser le taux mensuel par 12 comme s'il était annuel : erreur d'unité."
+     ]
+    },
+    {
+     "id": "c20261123-lo07-03",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "60000/(0.075*2)",
+     "q": "Quel capital faut-il placer 2 ans à 7,5 % d'intérêts simples pour obtenir 60 000 F d'intérêts ?",
+     "o": [
+      "800 000 F",
+      "450 000 F",
+      "400 000 F",
+      "4 500 F"
+     ],
+     "a": 2,
+     "e": "C = I ÷ (t × n) = 60 000 ÷ (0,075 × 2) = 60 000 ÷ 0,15 = 400 000 F. Vérification : 400 000 × 0,075 × 2 = 60 000 F.",
+     "ed": [
+      "800 000 F revient à oublier la durée de 2 ans (60 000 ÷ 0,075).",
+      "450 000 F n'est issu d'aucun calcul juste : il rapporterait 67 500 F en 2 ans.",
+      null,
+      "4 500 F est l'intérêt de 60 000 F à 7,5 % pendant un an : on a inversé capital et intérêt."
+     ]
+    },
+    {
+     "id": "c20261123-lo07-04",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "6000*360/(720000*0.05)",
+     "q": "720 000 F placés à 5 % l'an, à intérêts simples, ont rapporté 6 000 F. Pendant combien de jours (année commerciale de 360 jours) ?",
+     "o": [
+      "30 jours",
+      "72 jours",
+      "90 jours",
+      "60 jours"
+     ],
+     "a": 3,
+     "e": "n = I × 360 ÷ (C × t) = 6 000 × 360 ÷ (720 000 × 0,05) = 2 160 000 ÷ 36 000 = 60 jours. Intérêt annuel 36 000 F : 6 000 F en est le sixième, soit 60 jours.",
+     "ed": [
+      "30 jours ne rapporteraient que 3 000 F (le douzième de 36 000 F).",
+      "72 jours ne correspond à aucun calcul cohérent : ils rapporteraient 7 200 F.",
+      "90 jours (un trimestre) rapporteraient 9 000 F, pas 6 000 F.",
+      null
+     ]
+    },
+    {
+     "id": "c20261123-lo07-05",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "4000000*1.05**3-4000000",
+     "q": "Quel est le montant total des intérêts produits par 4 000 000 F placés 3 ans à 5 % d'intérêts composés ?",
+     "o": [
+      "600 000 F",
+      "630 500 F",
+      "4 630 500 F",
+      "615 000 F"
+     ],
+     "a": 1,
+     "e": "Valeur acquise : 4 000 000 × 1,05³ = 4 000 000 × 1,157625 = 4 630 500 F. Intérêts : 4 630 500 − 4 000 000 = 630 500 F.",
+     "ed": [
+      "600 000 F est l'intérêt simple (4 000 000 × 0,05 × 3) : il oublie les intérêts des intérêts.",
+      null,
+      "4 630 500 F est la valeur acquise, pas le montant des intérêts.",
+      "615 000 F ne tient compte que de deux années de capitalisation partielle : aucun calcul exact ne la donne."
+     ]
+    },
+    {
+     "id": "c20261123-lo07-06",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "(1.2**2-1)*100",
+     "q": "Un capital placé 2 ans à 20 % d'intérêts composés augmente, au total, de :",
+     "o": [
+      "40 %",
+      "42 %",
+      "44 %",
+      "24 %"
+     ],
+     "a": 2,
+     "e": "Coefficient multiplicateur : 1,2 × 1,2 = 1,44, soit une hausse de 44 %. Des hausses successives se multiplient, elles ne s'additionnent pas.",
+     "ed": [
+      "40 % additionne les deux taux : c'est le résultat à intérêts simples, pas composés.",
+      "42 % n'est issu d'aucun calcul juste : 1,2² = 1,44.",
+      null,
+      "24 % confond 1,2 × 2 avec 1,2²."
+     ]
+    },
+    {
+     "id": "c20261123-lo07-07",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "1000000*1.1**2*0.1",
+     "q": "1 000 000 F sont placés à 10 % d'intérêts composés. Combien d'intérêts la troisième année, à elle seule, rapporte-t-elle ?",
+     "o": [
+      "121 000 F",
+      "100 000 F",
+      "110 000 F",
+      "331 000 F"
+     ],
+     "a": 0,
+     "e": "Au début de la 3e année, le capital vaut 1 000 000 × 1,1² = 1 210 000 F ; l'intérêt de cette année est 1 210 000 × 0,10 = 121 000 F.",
+     "ed": [
+      null,
+      "100 000 F est l'intérêt de la 1re année (ou l'intérêt simple annuel).",
+      "110 000 F est l'intérêt de la 2e année (1 100 000 × 0,10).",
+      "331 000 F est le total des intérêts des trois années, pas celui de la troisième seule."
+     ]
+    },
+    {
+     "id": "c20261123-lo07-08",
+     "m": "log",
+     "tag": "niv-lo07",
+     "verif": "calcul",
+     "calc": "1000000*1.075**3-1000000-1000000*0.08*3",
+     "q": "Pour 1 000 000 F placés 3 ans, l'offre A propose 8 % d'intérêts simples et l'offre B 7,5 % d'intérêts composés. Laquelle rapporte le plus ?",
+     "o": [
+      "L'offre A, de 2 296,875 F de plus",
+      "Les deux rapportent exactement 240 000 F",
+      "L'offre A, car son taux est plus élevé",
+      "L'offre B, de 2 296,875 F de plus"
+     ],
+     "a": 3,
+     "e": "A : 1 000 000 × 0,08 × 3 = 240 000 F. B : 1 000 000 × 1,075³ − 1 000 000 = 242 296,875 F. B rapporte 2 296,875 F de plus : la capitalisation compense un taux plus faible.",
+     "ed": [
+      "C'est l'offre B, et non A, qui rapporte 2 296,875 F de plus.",
+      "Seule l'offre A rapporte 240 000 F ; B rapporte 242 296,875 F.",
+      "Un taux plus élevé ne suffit pas : à intérêts composés, les intérêts produisent eux-mêmes des intérêts.",
+      null
+     ]
     }
    ],
    "lessons": [
@@ -40326,6 +40694,106 @@
       {
        "t": "Structural Learning, « Worked examples: how to design and fade support »",
        "u": "https://www.structural-learning.com/post/worked-examples"
+      }
+     ]
+    },
+    {
+     "id": "L20261111lo08",
+     "niv": "lo08",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Moyennes et statistiques simples",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez calculer une moyenne simple et une moyenne pondérée par des coefficients ou des effectifs, et retrouver la note qui manque pour atteindre une moyenne visée.",
+      "= Vous saurez aussi déterminer la médiane et l'étendue d'une série, et dire laquelle de ces mesures résiste à une valeur extrême.",
+      "## Ce que demande l'épreuve",
+      "Les questions de moyennes font partie des problèmes de calcul de la présélection, notés +2 / 0 / −2 en logique. L'énoncé ressemble souvent à la vie d'un candidat : des notes avec des coefficients, des groupes de tailles différentes, une note à obtenir à la dernière épreuve. Les distracteurs reproduisent des erreurs prévisibles : moyenne simple à la place de la moyenne pondérée, moyenne de deux moyennes sans tenir compte des effectifs, médiane prise sans ranger la série. Une erreur coûte deux points : posez toujours le calcul.",
+      "! Piège habituel : faire la moyenne de moyennes. Deux groupes de tailles différentes ne pèsent pas le même poids : il faut repasser par les totaux.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez la mesure demandée : moyenne (simple ou pondérée), médiane ou étendue.",
+      "- 2. Pour une moyenne, calculez d'abord le total des points (valeur × poids), puis divisez par le total des poids.",
+      "- 3. Pour une médiane, rangez d'abord la série dans l'ordre croissant, puis prenez la valeur du milieu.",
+      "- 4. Pour l'étendue, soustrayez la plus petite valeur de la plus grande.",
+      "- 5. Vérifiez : une moyenne est toujours comprise entre la plus petite et la plus grande valeur.",
+      "- 6. Avant de calculer, éliminez les propositions impossibles : une moyenne située hors de l'intervalle [plus petite valeur ; plus grande valeur] est fausse d'office.",
+      "> Pour retenir : « Total d'abord, division ensuite. » Toute question de moyenne se ramène à un total de points.",
+      "~ Exemple : notes 11, 14, 8, 15 et 12 (même coefficient). Total : 11 + 14 + 8 + 15 + 12 = 60. Moyenne : 60 ÷ 5 = 12. Vérification : 12 est bien compris entre 8 et 15.",
+      "## Gérer le barème +2 / 0 / −2",
+      "Répondre au hasard entre 4 propositions coûte en moyenne 0,25 × 2 − 0,75 × 2 = −1 point : abstenez-vous. Entre 2 propositions restantes, l'espérance tombe à 0,5 × 2 − 0,5 × 2 = 0 : répondez seulement si un contrôle rapide (encadrement, écarts) vous fait pencher.",
+      "Conseil de révision : relire une leçon aide peu ; se tester sans regarder, puis recommencer quelques jours plus tard, est bien plus efficace. Faites les exercices avant d'afficher les corrections."
+     ],
+     "fond": [
+      "## Notion 1 : la moyenne arithmétique simple",
+      "Règle : la moyenne d'une série est la somme des valeurs divisée par le nombre de valeurs (l'effectif). Moyenne = total ÷ effectif.",
+      "Pourquoi ? La moyenne est la valeur unique qui, répétée autant de fois qu'il y a de valeurs, donnerait le même total.",
+      "~ Exemple résolu : une vendeuse d'attiéké d'Adjamé encaisse 18 000, 22 000, 15 000, 25 000 et 20 000 F en cinq jours. Total : 100 000 F. Moyenne : 100 000 ÷ 5 = 20 000 F par jour.",
+      "Raccourci de calcul mental : choisissez une valeur de référence et ne calculez que les écarts. Avec 20 000 F comme référence, les écarts sont −2 000, +2 000, −5 000, +5 000 et 0 : leur somme est nulle, la moyenne est donc 20 000 F.",
+      "~ Exemple résolu (méthode des écarts) : un planteur d'Abengourou récolte 640, 610, 655 et 695 kg de cacao sur quatre parcelles. Référence 650 kg : écarts −10, −40, +5 et +45, dont la somme est 0. La moyenne est donc exactement 650 kg, sans aucune grande addition.",
+      "> Pour retenir : la somme des écarts à la moyenne est toujours nulle ; si elle ne l'est pas, divisez-la par l'effectif pour corriger la référence.",
+      "? Une coopérative de cacao livre 420, 380, 450 et 510 kg en quatre semaines. Quelle est la livraison moyenne ? || Total : 420 + 380 + 450 + 510 = 1 760 kg ; 1 760 ÷ 4 = 440 kg. Vérification par les écarts à 450 : −30, −70, 0, +60, soit −40 au total, donc −10 en moyenne : 450 − 10 = 440 kg.",
+      "## Notion 2 : la moyenne pondérée",
+      "Règle : quand les valeurs n'ont pas toutes le même poids (coefficients, effectifs, pourcentages), on multiplie chaque valeur par son poids, on additionne ces produits, puis on divise par la somme des poids.",
+      "Pourquoi ? Un coefficient 3 signifie que la note « compte trois fois ». Tout se passe comme si la note était écrite trois fois dans la série.",
+      "~ Exemple résolu : culture générale 12 (coefficient 3), droit 9 (coefficient 2), anglais 15 (coefficient 1). Produits : 36, 18 et 15, soit 69 points. Somme des coefficients : 6. Moyenne : 69 ÷ 6 = 11,5. La moyenne simple (12 + 9 + 15) ÷ 3 = 12 serait fausse : elle oublie que la culture générale pèse le plus.",
+      "! Piège : diviser par le nombre de matières au lieu de la somme des coefficients.",
+      "Même règle pour des groupes : 30 candidats ont 12 de moyenne et 20 candidats ont 9. Total des points : 30 × 12 + 20 × 9 = 360 + 180 = 540. Moyenne générale : 540 ÷ 50 = 10,8, et non 10,5.",
+      "? Dans un lycée de Bondoukou, la classe A compte 40 élèves avec 9,5 de moyenne et la classe B 24 élèves avec 13,5. Quelle est la moyenne de l'ensemble ? || Points de A : 40 × 9,5 = 380. Points de B : 24 × 13,5 = 324. Total : 704 points pour 64 élèves, soit 704 ÷ 64 = 11. La moyenne des moyennes, (9,5 + 13,5) ÷ 2 = 11,5, serait fausse : la classe A, plus nombreuse, pèse davantage et tire le résultat vers 9,5.",
+      "> Pour retenir : un coefficient, c'est le nombre de fois où la note est « recopiée » dans la série.",
+      "? Calculez la moyenne : note de synthèse 10 (coefficient 4), SOG 13 (coefficient 3), logique 16 (coefficient 2), anglais 8 (coefficient 1). || Produits : 40 + 39 + 32 + 8 = 119 points. Somme des coefficients : 4 + 3 + 2 + 1 = 10. Moyenne : 119 ÷ 10 = 11,9. Contrôle : 11,9 est compris entre 8 et 16.",
+      "## Notion 3 : retrouver une valeur manquante",
+      "Règle : une moyenne visée fixe un total à atteindre. Total visé = moyenne visée × somme des poids. La note manquante (multipliée par son poids) est la différence entre ce total visé et les points déjà acquis.",
+      "Pourquoi ? On raisonne sur les totaux, car ce sont eux qui s'additionnent ; les moyennes, elles, ne s'additionnent pas.",
+      "~ Exemple résolu : quatre épreuves de même coefficient, notes 9, 13, 11 et 10 (43 points). Pour 12 de moyenne sur cinq épreuves, il faut 12 × 5 = 60 points. Note nécessaire : 60 − 43 = 17.",
+      "~ Exemple résolu : un service vise 75 % de taux moyen de réalisation sur quatre trimestres. Il a obtenu 70 %, 80 % et 68 %. Total visé : 75 × 4 = 300. Points acquis : 70 + 80 + 68 = 218. Il faut donc 300 − 218 = 82 % au quatrième trimestre.",
+      "> Pour retenir : « visé × poids − acquis », puis on divise par le poids restant.",
+      "? Un candidat a 10,5 de moyenne sur des épreuves totalisant 8 coefficients. Il reste une épreuve de coefficient 2. Quelle note lui faut-il pour 12 de moyenne générale ? || Points acquis : 10,5 × 8 = 84. Total visé : 12 × 10 = 120. Points à obtenir : 120 − 84 = 36, soit 36 ÷ 2 = 18 à l'épreuve de coefficient 2.",
+      "! Piège : si le calcul donne une note supérieure à 20, l'objectif est impossible ; c'est parfois la bonne réponse.",
+      "## Notion 4 : la médiane",
+      "Règle : la médiane est la valeur qui partage la série rangée par ordre croissant en deux groupes de même effectif. Si l'effectif est impair, c'est la valeur du milieu ; s'il est pair, c'est la moyenne des deux valeurs centrales.",
+      "Pourquoi ? La médiane ne dépend que du rang des valeurs : une valeur extrême ne la déplace pas, alors qu'elle tire la moyenne vers elle.",
+      "~ Exemple résolu : délais de traitement de sept dossiers, en jours : 12, 5, 9, 30, 7, 8, 10. Série rangée : 5, 7, 8, 9, 10, 12, 30. La quatrième valeur, 9, est la médiane. La moyenne vaut 81 ÷ 7 ≈ 11,6 : le dossier bloqué 30 jours l'a tirée vers le haut.",
+      "> Pour retenir : « ranger avant de couper » ; la médiane coupe la série rangée en deux moitiés.",
+      "? Âges des huit membres d'un bureau de jeunes à Agnibilékrou : 27, 31, 24, 35, 29, 22, 40, 26 ans. Quelle est la médiane ? || Série rangée : 22, 24, 26, 27, 29, 31, 35, 40. Effectif pair : on prend les 4e et 5e valeurs, 27 et 29. Médiane : (27 + 29) ÷ 2 = 28 ans. Sans ranger la série, on aurait pris à tort 35 et 29.",
+      "? Nombre de candidats dans huit centres : 120, 95, 140, 110, 160, 100, 130, 90. Quelle est la médiane ? || Série rangée : 90, 95, 100, 110, 120, 130, 140, 160. Effectif pair : on prend les 4e et 5e valeurs, 110 et 120. Médiane : (110 + 120) ÷ 2 = 115.",
+      "! Piège : prendre la valeur du milieu sans avoir rangé la série.",
+      "## Notion 5 : l'étendue",
+      "Règle : l'étendue est la différence entre la plus grande et la plus petite valeur de la série. Elle mesure la dispersion, c'est-à-dire l'écart entre les extrêmes.",
+      "Pourquoi ? Deux séries peuvent avoir la même moyenne et être très différentes : l'étendue dit si les valeurs sont regroupées ou éparpillées.",
+      "~ Exemple résolu : prix du kilogramme de riz dans cinq marchés : 450, 500, 475, 525 et 480 F. Étendue : 525 − 450 = 75 F.",
+      "> Pour retenir : étendue = maximum − minimum ; elle mesure l'écart entre les extrêmes, pas le niveau moyen.",
+      "? Températures maximales relevées à Korhogo sur six jours : 33, 36, 31, 38, 35 et 34 °C. Calculez l'étendue et la moyenne. || Étendue : 38 − 31 = 7 °C. Total : 33 + 36 + 31 + 38 + 35 + 34 = 207 ; moyenne : 207 ÷ 6 = 34,5 °C. Contrôle : 34,5 est bien compris entre 31 et 38.",
+      "? Quelle est l'étendue de la série 7, 15, 11, 19, 4 ? || Plus grande valeur : 19 ; plus petite : 4. Étendue : 19 − 4 = 15. L'ordre d'écriture n'a pas d'importance, mais il faut repérer les vraies valeurs extrêmes.",
+      "! Piège : l'étendue ne dépend que des deux valeurs extrêmes ; une seule valeur aberrante suffit à la gonfler.",
+      "## Notion 6 : ajouter ou retirer une valeur ; le mode",
+      "Règle : quand on ajoute ou retire une valeur, on recalcule le total, puis on divise par le nouvel effectif. Nouvelle moyenne = (ancien total ± valeur) ÷ nouvel effectif.",
+      "Pourquoi ? La moyenne ne garde pas la mémoire de l'effectif : seul le total, lui, s'ajuste exactement.",
+      "~ Exemple résolu : les 9 candidats d'un centre ont 11 de moyenne, soit 99 points. Un dixième candidat obtient 16. Nouveau total : 115 ; nouvelle moyenne : 115 ÷ 10 = 11,5. Raccourci : ce candidat dépasse la moyenne de 5 points, partagés entre 10 personnes, d'où +0,5.",
+      "? La moyenne de 6 notes est 12. On retire la note 7. Quelle est la moyenne des 5 notes restantes ? || Total initial : 6 × 12 = 72. Après retrait : 72 − 7 = 65. Nouvelle moyenne : 65 ÷ 5 = 13. Contrôle : retirer une note inférieure à la moyenne fait forcément monter la moyenne.",
+      "Le mode est la valeur la plus fréquente d'une série. Il sert quand on cherche la valeur « typique », par exemple la taille la plus demandée.",
+      "~ Exemple résolu : pointures vendues dans la journée par un commerçant de Treichville : 40, 42, 41, 42, 43, 42, 40. La pointure 42 apparaît trois fois, plus que toutes les autres : le mode est 42.",
+      "! Piège : une série peut avoir deux modes, ou aucun si toutes les valeurs n'apparaissent qu'une fois.",
+      "> Pour retenir : « MMM » : Moyenne = total partagé, Médiane = milieu de la série rangée, Mode = valeur la plus fréquente."
+     ],
+     "retenir": [
+      "Moyenne simple : somme des valeurs divisée par leur nombre ; elle est toujours comprise entre la plus petite et la plus grande valeur.",
+      "Moyenne pondérée : somme des produits valeur × coefficient, divisée par la somme des coefficients.",
+      "On ne fait jamais la moyenne de deux moyennes de groupes inégaux : on repasse par les totaux de points.",
+      "Note manquante : moyenne visée × somme des coefficients, moins les points déjà acquis, divisé par le coefficient restant.",
+      "La médiane se lit sur la série rangée : valeur du milieu si l'effectif est impair, moyenne des deux valeurs centrales s'il est pair.",
+      "L'étendue est la plus grande valeur moins la plus petite ; une valeur extrême la gonfle mais déplace peu la médiane.",
+      "Ajouter la même quantité à toutes les valeurs augmente la moyenne et la médiane de cette quantité sans changer l'étendue.",
+      "Ajouter une valeur : nouvelle moyenne = (ancien total + valeur) ÷ (effectif + 1) ; le mode est la valeur la plus fréquente."
+     ],
+     "exo": {
+      "tag": "niv-lo08",
+      "n": 20
+     },
+     "rev": 2,
+     "sources": [
+      {
+       "t": "Association for Psychological Science, Which Study Strategies Make the Grade? (Dunlosky et al., 2013)",
+       "u": "https://www.psychologicalscience.org/news/releases/which-study-strategies-make-the-grade.html"
       }
      ]
     }
