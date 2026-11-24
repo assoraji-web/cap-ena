@@ -42265,6 +42265,543 @@
       "t": "Ministère turc des Affaires étrangères, « Organisation of Islamic Cooperation (OIC) »",
       "u": "https://mfa.gov.tr/OIC.en.mfa"
      }
+    },
+    {
+     "id": "c20261124-sog1-01",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Sujet : « L'action incontrôlée de l'homme contribue à la transformation de l'environnement. » Quel mot faut-il impérativement définir parce qu'il restreint le champ du sujet ?",
+     "o": [
+      "« homme »",
+      "« incontrôlée »",
+      "« contribue »",
+      "« la »"
+     ],
+     "a": 1,
+     "e": "L'adjectif « incontrôlée » limite le sujet : il ne s'agit pas de toute action humaine, mais de celle qui échappe aux règles. L'oublier conduit au hors-sujet ; c'est le geste « définir chaque terme » de l'analyse.",
+     "ed": [
+      "« Homme » est à définir, mais il ne restreint pas le sujet : c'est l'adjectif qui le fait.",
+      null,
+      "Le verbe « contribue » nuance le lien (l'homme n'est pas la seule cause), mais il ne délimite pas quelle action est visée.",
+      "Un article n'apporte pas de sens à analyser ; il ne délimite rien."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-sog1-02",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Un candidat propose la problématique : « Les élections sont-elles importantes ? » Quel est son défaut principal ?",
+     "o": [
+      "Elle est trop longue",
+      "Elle annonce déjà le plan",
+      "Elle ne contient aucune tension et se répond par « oui » sans réflexion",
+      "Elle utilise un mot du sujet"
+     ],
+     "a": 2,
+     "e": "Une bonne problématique contient une tension (les élections doivent apaiser, mais elles provoquent parfois des crises). Le test de la leçon : si l'on peut répondre « oui » ou « non » sans réfléchir, la question est trop pauvre.",
+     "ed": [
+      "Elle est au contraire très courte ; sa longueur n'est pas le problème.",
+      "Elle n'annonce aucun plan ; son défaut est l'absence de tension.",
+      null,
+      "Reprendre un mot du sujet est normal ; ce qui manque, c'est le problème que pose ce sujet."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-sog1-03",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Dans quel ordre conduit-on l'analyse d'un sujet d'ordre général ?",
+     "o": [
+      "Définir les termes, les relier, lire la consigne, formuler la problématique",
+      "Formuler la problématique, définir les termes, chercher des exemples, lire la consigne",
+      "Lire la consigne, rédiger l'introduction, définir les termes, relier",
+      "Chercher des exemples, choisir un plan, définir les termes, conclure"
+     ],
+     "a": 0,
+     "e": "La leçon fixe quatre temps : définir, relier, lire la consigne, problématiser. La problématique vient en dernier, car elle naît des définitions et de la relation que le sujet établit.",
+     "ed": [
+      null,
+      "On ne peut pas problématiser avant d'avoir défini les termes : la question serait posée à l'aveugle.",
+      "On ne rédige pas l'introduction pendant l'analyse : elle vient après le plan.",
+      "Le plan et la conclusion supposent l'analyse terminée ; ils ne la remplacent pas."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-sog1-04",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "La consigne « Appréciez ces propos » demande au candidat :",
+     "o": [
+      "de résumer les propos en quelques lignes",
+      "de porter un jugement nuancé sur ce qui est fondé et ce qui ne l'est pas",
+      "d'approuver entièrement l'auteur",
+      "de raconter l'histoire du thème"
+     ],
+     "a": 1,
+     "e": "« Apprécier », c'est évaluer : on pèse la part de vérité des propos et leurs limites, puis on conclut par un jugement nuancé. C'est la lecture de la consigne, troisième temps de l'analyse.",
+     "ed": [
+      "Résumer n'est pas apprécier : le correcteur attend une évaluation.",
+      null,
+      "Approuver sans réserve supprime la nuance que demande le verbe « apprécier ».",
+      "Un récit historique ne répond pas à la consigne ; il conduit au hors-sujet."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-sog1-05",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Après 10 minutes de notes en vrac au brouillon, que fait-on des idées trouvées ?",
+     "o": [
+      "On les recopie telles quelles dans la copie",
+      "On garde seulement les trois plus longues",
+      "On les classe par ordre alphabétique",
+      "On les range en deux colonnes : ce qui va dans le sens de l'assertion, ce qui la limite"
+     ],
+     "a": 3,
+     "e": "Le classement en deux colonnes (pour / limites) fait apparaître le plan : la première partie montre ce que l'assertion a de juste, la seconde ses limites.",
+     "ed": [
+      "Des idées non classées donnent une copie sans plan ; le correcteur sanctionne le désordre.",
+      "La longueur d'une idée ne dit rien de sa pertinence.",
+      "Un classement alphabétique ne crée aucune logique d'argumentation.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-sog1-06",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Sujet : « Le sport permet de bâtir un monde inclusif et plus pacifique. » Une copie ne traite que des recettes économiques des grandes compétitions. Quelle erreur d'analyse a été commise ?",
+     "o": [
+      "Le candidat a trop défini le mot « sport »",
+      "Le candidat a mal compté ses parties",
+      "Il a négligé la relation que le sujet établit entre le sport, l'inclusion et la paix",
+      "Il a choisi un plan en deux parties"
+     ],
+     "a": 2,
+     "e": "Analyser, c'est regarder ce que le sujet relie. Ici, le sport est relié à l'inclusion et à la paix : parler seulement d'argent, c'est sortir du sujet.",
+     "ed": [
+      "Définir le sport est indispensable ; l'erreur est d'avoir oublié les deux autres termes.",
+      "Le nombre de parties n'est pas en cause : c'est le contenu qui est hors sujet.",
+      null,
+      "Un plan en deux parties est tout à fait adapté ; le problème est le hors-sujet."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-sog1-07",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Pourquoi recopie-t-on le sujet en haut du brouillon en soulignant chaque mot important ?",
+     "o": [
+      "Pour n'oublier aucun terme et éviter le hors-sujet",
+      "Pour gagner des points de présentation",
+      "Parce que le correcteur lit le brouillon",
+      "Pour allonger la copie"
+     ],
+     "a": 0,
+     "e": "Recopier et souligner oblige à lire chaque mot : un terme oublié (un adjectif, une négation, un pluriel) suffit à faire glisser la copie hors du sujet.",
+     "ed": [
+      null,
+      "Le brouillon n'est pas noté : ce geste sert l'analyse, pas la présentation.",
+      "Le brouillon n'est pas corrigé ; il sert au candidat.",
+      "Le brouillon ne compte pas dans la longueur de la copie."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-sog1-08",
+     "m": "sog",
+     "tag": "sog1",
+     "q": "Sujet sur l'honnêteté (deux citations à commenter puis discuter). Quelle problématique est la mieux formulée ?",
+     "o": [
+      "L'honnêteté est-elle une vertu ?",
+      "L'honnêteté, souvent présentée comme une vertu qui finit par payer, reste-t-elle un choix raisonnable quand la malhonnêteté semble récompensée ?",
+      "Qu'est-ce que l'honnêteté ? Qui sont Shakespeare et Sembène Ousmane ?",
+      "Dans une première partie nous verrons l'honnêteté, puis dans une seconde partie la malhonnêteté."
+     ],
+     "a": 1,
+     "e": "Cette question oppose deux idées (l'honnêteté paie / la malhonnêteté semble récompensée) : la tension appelle une réponse nuancée, exactement ce qu'attend « commentez puis discutez ».",
+     "ed": [
+      "Elle se répond par « oui » sans réflexion : aucune tension.",
+      null,
+      "Ce sont des questions de définition et de connaissances, pas une problématique unique.",
+      "C'est une annonce de plan, pas une question qui pose un problème."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-pes-01",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Selon la définition du BIT reprise par l'Insee, une personne peut être comptée comme chômeur à partir de quel âge ?",
+     "o": [
+      "18 ans",
+      "16 ans",
+      "15 ans",
+      "21 ans"
+     ],
+     "a": 2,
+     "e": "Le chômeur au sens du BIT est une personne âgée de 15 ans ou plus qui remplit simultanément trois conditions : sans emploi, disponible, en recherche active.",
+     "ed": [
+      "18 ans est l'âge de la majorité, pas le seuil retenu par le BIT.",
+      "16 ans n'est pas le seuil de la définition : c'est 15 ans.",
+      null,
+      "21 ans n'apparaît pas dans la définition du BIT."
+     ],
+     "src": {
+      "t": "Insee, définition « Chômeur (au sens du BIT) »",
+      "u": "https://www.insee.fr/fr/metadonnees/definition/c1129"
+     }
+    },
+    {
+     "id": "c20261124-pes-02",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Kouamé, 24 ans, n'a pas d'emploi et cherche activement depuis trois semaines, mais il suit une formation et ne pourra commencer à travailler que dans deux mois. Est-il chômeur au sens du BIT ?",
+     "o": [
+      "Oui, puisqu'il cherche activement",
+      "Non : il n'est pas disponible pour prendre un emploi dans les deux semaines",
+      "Oui, car il a moins de 25 ans",
+      "Non, car il cherche depuis moins d'un mois"
+     ],
+     "a": 1,
+     "e": "Les trois conditions du BIT sont cumulatives : sans emploi, disponible dans les deux semaines, recherche active au cours des quatre dernières semaines. Kouamé ne remplit pas la condition de disponibilité.",
+     "ed": [
+      "La recherche active ne suffit pas : les trois conditions doivent être réunies.",
+      null,
+      "L'âge au-delà de 15 ans ne joue aucun rôle dans les trois conditions.",
+      "La recherche est exigée « au cours des quatre dernières semaines » : trois semaines suffisent."
+     ],
+     "src": {
+      "t": "Insee, définition « Chômeur (au sens du BIT) »",
+      "u": "https://www.insee.fr/fr/metadonnees/definition/c1129"
+     }
+    },
+    {
+     "id": "c20261124-pes-03",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Awa, 30 ans, est sans emploi et disponible tout de suite. Elle ne cherche plus, car elle a trouvé un emploi qui commence dans deux mois. Au sens du BIT, elle est :",
+     "o": [
+      "inactive, car elle ne cherche plus",
+      "en emploi, puisqu'elle a signé",
+      "en sous-emploi",
+      "chômeuse : elle a trouvé un emploi qui commence dans moins de trois mois"
+     ],
+     "a": 3,
+     "e": "La troisième condition du BIT est remplie si la personne a cherché activement au cours des quatre dernières semaines « ou en a trouvé un qui commence dans moins de trois mois ».",
+     "ed": [
+      "La définition prévoit justement ce cas : un emploi trouvé qui commence dans moins de trois mois remplace la recherche active.",
+      "Elle ne travaille pas encore : elle est sans emploi durant la semaine considérée.",
+      "Le sous-emploi concerne des personnes qui travaillent déjà, par exemple à temps partiel subi.",
+      null
+     ],
+     "src": {
+      "t": "Insee, définition « Chômeur (au sens du BIT) »",
+      "u": "https://www.insee.fr/fr/metadonnees/definition/c1129"
+     }
+    },
+    {
+     "id": "c20261124-pes-04",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Sujet : « L'économie informelle est-elle un levier ou un frein à la croissance et à l'inclusion ? » Quel plan répond le mieux à la question posée ?",
+     "o": [
+      "I. Un levier qui fait vivre ceux que l'économie formelle n'emploie pas ; II. Un frein pour les recettes publiques et la protection des travailleurs, d'où des pistes de formalisation",
+      "I. Histoire du commerce en Côte d'Ivoire ; II. Les marchés d'Abidjan",
+      "I. Définition de la croissance ; II. Définition de l'inclusion",
+      "Un développement unique qui énumère les secteurs informels"
+     ],
+     "a": 0,
+     "e": "La question oppose deux termes (levier / frein) : le plan les examine l'un après l'autre, puis débouche sur des recommandations. C'est la démarche définir, diagnostiquer, évaluer, recommander.",
+     "ed": [
+      null,
+      "Un plan historique et descriptif ne répond pas à la question « levier ou frein ».",
+      "Les définitions appartiennent à l'introduction ; elles ne font pas un plan.",
+      "Une énumération sans parties ne montre ni le levier ni le frein et ne propose rien."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-pes-05",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Dans sa partie « recommandations », un candidat écrit : « L'État doit doubler tous les salaires et supprimer tous les impôts. » Quel est le défaut ?",
+     "o": [
+      "La recommandation est trop courte",
+      "Il fallait la placer dans l'introduction",
+      "Elle ignore les contraintes budgétaires de l'État : elle n'est pas réaliste",
+      "Une copie de PES ne doit contenir aucune recommandation"
+     ],
+     "a": 2,
+     "e": "La leçon demande des recommandations réalistes et chiffrables, qui tiennent compte du budget de l'État. Doubler les dépenses tout en supprimant les recettes est impossible à financer.",
+     "ed": [
+      "La longueur n'est pas en cause : c'est le réalisme.",
+      "Les recommandations viennent après le diagnostic et l'évaluation, pas dans l'introduction.",
+      null,
+      "Au contraire, recommander est la dernière étape attendue de la démarche."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-pes-06",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Laquelle de ces phrases expose un véritable mécanisme économique, comme l'attend un correcteur de PES ?",
+     "o": [
+      "L'inflation est un grave problème en Afrique.",
+      "Quand les prix alimentaires montent, les ménages modestes, qui consacrent une large part de leur budget à se nourrir, perdent du pouvoir d'achat : la pauvreté peut donc augmenter même si le PIB progresse.",
+      "Beaucoup d'experts parlent de l'inflation.",
+      "L'inflation et la pauvreté sont deux notions différentes."
+     ],
+     "a": 1,
+     "e": "Un mécanisme enchaîne explicitement une cause et un effet (hausse des prix → perte de pouvoir d'achat → pauvreté). Les autres phrases affirment ou décrivent sans expliquer.",
+     "ed": [
+      "C'est une affirmation sans explication : aucune chaîne cause-effet.",
+      null,
+      "Invoquer des experts n'explique rien.",
+      "Distinguer deux notions est utile, mais ce n'est pas un mécanisme."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-pes-07",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Selon la charte de rédaction suivie dans la leçon de PES, combien de phrases environ compte un argument ?",
+     "o": [
+      "Une seule phrase",
+      "10 à 15 phrases",
+      "2 à 3 phrases",
+      "5 à 7 phrases"
+     ],
+     "a": 3,
+     "e": "Chaque argument compte 5 à 7 phrases : idée, explication, exemple, mini-conclusion. L'introduction et la conclusion générale comptent, elles, 10 à 15 phrases.",
+     "ed": [
+      "Une phrase ne permet ni d'expliquer ni d'illustrer l'idée.",
+      "10 à 15 phrases, c'est la longueur de l'introduction ou de la conclusion, pas d'un argument.",
+      "2 à 3 phrases est trop court pour l'idée, l'explication et l'exemple.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-pes-08",
+     "m": "pes",
+     "tag": "pes",
+     "q": "Dans l'étape du diagnostic d'un devoir de PES, lequel de ces éléments n'a pas sa place ?",
+     "o": [
+      "Les causes de la situation",
+      "Les acteurs concernés",
+      "Les recommandations chiffrées",
+      "Des chiffres sûrs décrivant la situation"
+     ],
+     "a": 2,
+     "e": "Le diagnostic décrit la situation, ses causes, ses acteurs et les chiffres sûrs. Les recommandations viennent en dernier, après l'évaluation des politiques publiques.",
+     "ed": [
+      "Les causes font partie du diagnostic.",
+      "Les acteurs font partie du diagnostic.",
+      null,
+      "Des chiffres sûrs sont attendus dans le diagnostic ; seuls les chiffres incertains sont à proscrire."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "c20261124-dc1-01",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "Quelle expression de l'article 49 de la Constitution de 2016 traduit le caractère unitaire de l'État ivoirien ?",
+     "o": [
+      "« démocratique »",
+      "« une et indivisible »",
+      "« sociale »",
+      "« laïque »"
+     ],
+     "a": 1,
+     "e": "L'article 49 dispose que la République de Côte d'Ivoire est « une et indivisible, laïque, démocratique et sociale ». « Une et indivisible » exclut tout partage de la souveraineté entre États fédérés.",
+     "ed": [
+      "« Démocratique » renvoie au mode d'exercice du pouvoir, pas à la forme unitaire.",
+      null,
+      "« Sociale » renvoie à la solidarité et aux droits sociaux, pas à la structure de l'État.",
+      "« Laïque » concerne la neutralité religieuse de l'État."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire du 8 novembre 2016 (texte publié par Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016?lang=en"
+     }
+    },
+    {
+     "id": "c20261124-dc1-02",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "Selon la Constitution de 2016 (articles 50 et 51), le peuple exerce sa souveraineté :",
+     "o": [
+      "uniquement par le Président de la République",
+      "uniquement par l'Assemblée nationale",
+      "par les partis politiques",
+      "par le référendum et par ses représentants élus"
+     ],
+     "a": 3,
+     "e": "L'article 50 pose que la souveraineté appartient au peuple ; l'article 51 précise qu'il l'exerce par la voie du référendum et par ses représentants élus.",
+     "ed": [
+      "Le Président est un représentant élu, mais il n'est pas le seul canal : le référendum existe aussi.",
+      "Les députés ne sont qu'une partie des représentants, et le référendum s'y ajoute.",
+      "Les partis concourent à l'expression du suffrage ; ils n'exercent pas la souveraineté.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire du 8 novembre 2016 (texte publié par Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016?lang=en"
+     }
+    },
+    {
+     "id": "c20261124-dc1-03",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "D'après l'article 64 de la Constitution de 2016, qui détermine et conduit la politique de la Nation ?",
+     "o": [
+      "Le Président de la République",
+      "Le Premier ministre",
+      "Le Parlement réuni en congrès",
+      "Le Conseil constitutionnel"
+     ],
+     "a": 0,
+     "e": "L'article 64 confie au Président de la République la détermination et la conduite de la politique de la Nation : c'est le cœur de l'exécutif fort du régime ivoirien.",
+     "ed": [
+      null,
+      "Le Gouvernement, dirigé par le Premier ministre, met en œuvre cette politique ; il ne la détermine pas.",
+      "Le Parlement vote la loi et contrôle l'action du Gouvernement ; il ne conduit pas la politique de la Nation.",
+      "Le Conseil constitutionnel est un juge ; il ne détermine aucune politique."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire du 8 novembre 2016 (texte publié par Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016?lang=en"
+     }
+    },
+    {
+     "id": "c20261124-dc1-04",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "L'article 83 de la Constitution de 2016 rend le Premier ministre et les ministres responsables devant le Président de la République. Pourquoi ce trait éloigne-t-il le régime ivoirien du régime parlementaire ?",
+     "o": [
+      "Parce qu'en régime parlementaire, il n'y a pas de ministres",
+      "Parce qu'en régime parlementaire, le Gouvernement est élu par le peuple",
+      "Parce qu'en régime parlementaire, le Gouvernement est politiquement responsable devant le Parlement",
+      "Parce qu'en régime parlementaire, le Président nomme les juges"
+     ],
+     "a": 2,
+     "e": "Le critère du régime parlementaire est la responsabilité du Gouvernement devant le Parlement. En Côte d'Ivoire, l'article 83 la place devant le Président : le régime est présidentiel à exécutif fort.",
+     "ed": [
+      "Un régime parlementaire a bien un Gouvernement composé de ministres.",
+      "En régime parlementaire, le Gouvernement est issu de la majorité parlementaire ; il n'est pas élu directement.",
+      null,
+      "La nomination des juges n'est pas le critère qui distingue les régimes."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire du 8 novembre 2016 (texte publié par Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016?lang=en"
+     }
+    },
+    {
+     "id": "c20261124-dc1-05",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "Selon l'article 81 de la Constitution de 2016, quel est le rôle du Gouvernement ?",
+     "o": [
+      "Déterminer seul la politique de la Nation",
+      "Mettre en œuvre la politique de la Nation définie par le Président de la République",
+      "Voter les lois de finances",
+      "Contrôler la constitutionnalité des lois"
+     ],
+     "a": 1,
+     "e": "L'article 81 charge le Gouvernement de mettre en œuvre la politique de la Nation telle que le Président de la République l'a définie (art. 64) : le Président décide, le Gouvernement exécute.",
+     "ed": [
+      "La détermination appartient au Président (art. 64), pas au Gouvernement.",
+      null,
+      "Le vote des lois, y compris de finances, appartient au Parlement.",
+      "Le contrôle de constitutionnalité relève du Conseil constitutionnel."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire du 8 novembre 2016 (texte publié par Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016?lang=en"
+     }
+    },
+    {
+     "id": "c20261124-dc1-06",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "Une loi votée n'a pas été promulguée dans les délais prévus. Que prévoit l'article 74 de la Constitution de 2016 ?",
+     "o": [
+      "La loi devient caduque",
+      "Le Parlement doit la voter à nouveau",
+      "Le Premier ministre la promulgue à la place du Président",
+      "Le Conseil constitutionnel la déclare exécutoire si elle est conforme à la Constitution"
+     ],
+     "a": 3,
+     "e": "L'article 74 prévoit qu'à défaut de promulgation dans les délais, la loi est déclarée exécutoire par le Conseil constitutionnel si elle est conforme à la Constitution : le silence du Président ne peut pas bloquer la loi.",
+     "ed": [
+      "La Constitution prévoit justement que la loi ne tombe pas : elle peut être déclarée exécutoire.",
+      "Aucun nouveau vote n'est exigé par l'article 74.",
+      "Le Premier ministre ne reçoit pas ce pouvoir ; c'est le Conseil constitutionnel qui intervient.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire du 8 novembre 2016 (texte publié par Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016?lang=en"
+     }
+    },
+    {
+     "id": "c20261124-dc1-07",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "Parmi ces caractères, lequel n'est PAS attribué à la République par l'article 49 de la Constitution de 2016 ?",
+     "o": [
+      "Laïque",
+      "Sociale",
+      "Fédérale",
+      "Démocratique"
+     ],
+     "a": 2,
+     "e": "L'article 49 dit la République « une et indivisible, laïque, démocratique et sociale ». « Fédérale » contredit « une et indivisible » : la Côte d'Ivoire est un État unitaire.",
+     "ed": [
+      "« Laïque » figure bien à l'article 49.",
+      "« Sociale » figure bien à l'article 49.",
+      null,
+      "« Démocratique » figure bien à l'article 49."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire du 8 novembre 2016 (texte publié par Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016?lang=en"
+     }
+    },
+    {
+     "id": "c20261124-dc1-08",
+     "m": "dc",
+     "tag": "dc1",
+     "q": "Laquelle de ces affirmations est FAUSSE au regard de la Constitution de 2016 ?",
+     "o": [
+      "Le Gouvernement est responsable devant l'Assemblée nationale",
+      "La souveraineté appartient au peuple",
+      "Le Président de la République détermine et conduit la politique de la Nation",
+      "La République est laïque"
+     ],
+     "a": 0,
+     "e": "L'article 83 rend le Gouvernement responsable devant le Président de la République, et non devant l'Assemblée nationale. Les trois autres affirmations reprennent les articles 50, 64 et 49.",
+     "ed": [
+      null,
+      "Vrai : c'est l'article 50.",
+      "Vrai : c'est l'article 64.",
+      "Vrai : c'est l'article 49."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire du 8 novembre 2016 (texte publié par Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2016?lang=en"
+     }
     }
    ],
    "lessons": [
@@ -42597,6 +43134,110 @@
       {
        "t": "D. Rohrer, R. F. Dedrick, K. Burgess, « The benefit of interleaved mathematics practice is not limited to superficially similar kinds of problems », Psychonomic Bulletin & Review, 2014",
        "u": "https://link.springer.com/article/10.3758/s13423-014-0588-3"
+      }
+     ]
+    },
+    {
+     "id": "L20261112fr09",
+     "niv": "fr09",
+     "m": "fr",
+     "rev": 2,
+     "verif": "regle",
+     "titre": "Le pluriel des noms simples et composés",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez former le pluriel de n'importe quel nom simple en appliquant la règle générale, puis en vérifiant une courte liste d'exceptions apprise par cœur.",
+      "= Vous saurez aussi décider quels éléments d'un nom composé prennent la marque du pluriel, en orthographe traditionnelle comme en orthographe rectifiée de 1990.",
+      "## Ce que demande l'épreuve",
+      "En présélection, le pluriel des noms apparaît dans les QCM d'orthographe sous deux formes : « quel est le pluriel de… ? » ou « quelle forme est fautive ? ». Les distracteurs ne diffèrent souvent que d'une lettre (un « s » à la place d'un « x », un « s » oublié sur le premier mot d'un composé). Le correcteur ne teste pas votre mémoire de mots rares : il teste si vous connaissez la règle et ses exceptions usuelles.",
+      "## La méthode en cinq gestes (moins de 30 secondes par question)",
+      "- 1. Repérez la terminaison du nom au singulier : -s, -x, -z, -al, -ail, -au, -eau, -eu, -ou.",
+      "- 2. Appliquez la règle générale de cette terminaison.",
+      "- 3. Demandez-vous : ce mot est-il dans la liste des exceptions ? Si oui, appliquez l'exception.",
+      "- 4. Pour un nom composé, écrivez sous chaque élément sa nature (nom, adjectif, verbe, préposition, adverbe) : seuls le nom et l'adjectif peuvent varier.",
+      "- 5. Vérifiez par le sens : « des pots-de-vin », ce sont des pots… de vin, pas « de vins ».",
+      "## Gérer le barème",
+      "Une réponse fausse coûte des points. Si vous hésitez entre deux formes et qu'aucune règle ne vous permet de trancher, il vaut mieux vous abstenir. Si au contraire vous reconnaissez un mot de la liste d'exceptions, répondez sans hésiter : ces listes sont exactement ce que l'épreuve vérifie.",
+      "! Piège habituel : généraliser une exception. Ce n'est pas parce que l'on écrit « des travaux » que l'on écrit « des portaux » : on écrit « des portails »."
+     ],
+     "fond": [
+      "## Notion 1 : la règle générale et les noms invariables",
+      "Règle : on forme le pluriel d'un nom en ajoutant un « s » : une commune, des communes ; un planteur, des planteurs.",
+      "Pourquoi ? Le « s » est la marque ordinaire du pluriel écrit. Il ne se prononce presque jamais : c'est pour cela qu'on l'oublie.",
+      "Les noms terminés au singulier par -s, -x ou -z ne changent pas : un abus, des abus ; une noix, des noix ; un gaz, des gaz. Le mot porte déjà une lettre qui joue le rôle de marque du pluriel.",
+      "~ Exemple résolu : « La coopérative a récolté trois tonnes de ___ de cajou. » On cherche le pluriel de « noix ». Étape 1 : la terminaison est -x. Étape 2 : un nom en -x est invariable. Réponse : des noix de cajou. Remarquez que « cajou » reste au singulier : c'est un complément qui désigne une sorte de noix.",
+      "> Pour retenir : « S, X, Z : rien ne bouge. » Le nom qui finit déjà par l'une de ces lettres est prêt pour le pluriel.",
+      "## Notion 2 : les noms en -al et en -ail",
+      "Règle : la plupart des noms en -al font leur pluriel en -aux : un journal, des journaux ; un bocal, des bocaux ; un mal, des maux.",
+      "Exceptions usuelles en -als, à connaître : bal, carnaval, chacal, festival, récital, régal (des festivals, des récitals). Quelques noms admettent les deux formes : un idéal, des idéaux ou des idéals.",
+      "Pour les noms en -ail, c'est l'inverse : la règle est le « s » (un détail, des détails ; un chandail, des chandails), et l'exception est -aux. Les exceptions usuelles sont : bail, corail, émail, soupirail, travail, vantail, vitrail (des baux, des vitraux). Les ouvrages de référence en ajoutent quelques-unes, rares (fermail, gemmail, ventail).",
+      "Pourquoi deux régimes opposés ? Dans les mots anciens, le « l » s'est transformé en « u » à l'oral, d'où -aux ; les mots plus récents ont gardé le pluriel régulier.",
+      "! Piège : « travail » fait « travaux » dans tous ses sens courants, mais « travails » quand il désigne l'appareil qui sert à immobiliser les grands animaux, par exemple chez le maréchal-ferrant.",
+      "~ Exemple résolu : « Le festival de musique de Grand-Bassam et d'autres ___ de la région. » Étape 1 : terminaison -al. Étape 2 : règle générale -aux. Étape 3 : festival est dans la liste des exceptions. Réponse : des festivals.",
+      "> Pour retenir : pour -al, la règle est -aux et l'exception est -als ; pour -ail, la règle est -ails et l'exception est -aux. Les deux listes « se croisent ».",
+      "? Écrivez au pluriel : un carnaval, un local, un émail, un éventail. || Carnaval est une exception en -als : des carnavals. Local suit la règle des noms en -al : des locaux. Émail fait partie des exceptions en -ail qui prennent -aux : des émaux. Éventail suit la règle des noms en -ail : des éventails.",
+      "## Notion 3 : les noms en -au, -eau, -eu et -ou",
+      "Règle : tous les noms en -eau et la plupart des noms en -au et en -eu prennent un « x » : un rideau, des rideaux ; un noyau, des noyaux ; un vœu, des vœux.",
+      "Exceptions en « s » : landau, sarrau, unau (pour -au) ; bleu, émeu, pneu (pour -eu). On écrit donc des pneus et des bleus.",
+      "Pour les noms en -ou, la règle est le « s » : un trou, des trous ; un voyou, des voyous. Sept exceptions prennent un « x » : bijou, caillou, chou, genou, hibou, joujou, pou.",
+      "~ Exemple résolu : « Les ___ des taxis-motos de la ville sont usés. » (un pneu). Étape 1 : terminaison -eu. Étape 2 : règle générale -x. Étape 3 : pneu est une exception. Réponse : des pneus.",
+      "> Pour retenir les sept noms en -oux, imaginez la scène : « Un hibou couvert de poux joue avec des bijoux et des joujoux sur les genoux d'un enfant qui lance des cailloux dans les choux. »",
+      "? Une seule forme est correcte : des clous / des trous / des voyous / des genous. Laquelle est fautive, et pourquoi ? || Genou appartient à la liste des sept noms en -ou qui prennent un « x » : on écrit des genoux. Clous, trous et voyous suivent la règle générale des noms en -ou (« s »).",
+      "## Notion 4 : les pluriels doubles et les noms d'origine étrangère",
+      "Certains noms ont deux pluriels selon le sens. Aïeul : des aïeuls (les grands-parents), des aïeux (les ancêtres). Ciel : des cieux (sens religieux ou poétique), des ciels (en peinture ou pour parler du climat). Œil : des yeux, mais des œils-de-bœuf pour les petites fenêtres rondes.",
+      "Pourquoi ? Le sens ancien a gardé sa forme d'origine ; le sens technique, apparu plus tard, a reçu le pluriel régulier.",
+      "Les noms étrangers entrés dans l'usage courant prennent un « s » comme les noms français : un album, des albums ; un visa, des visas ; un référendum, des référendums.",
+      "~ Exemple résolu : « Lors de la fête de génération, les anciens ont rendu hommage à leurs ___. » Il s'agit des ancêtres, pas des grands-parents : on écrit leurs aïeux.",
+      "## Notion 5 : les noms composés",
+      "Règle : dans un nom composé, seuls les noms et les adjectifs peuvent varier, et seulement si le sens le permet. Le verbe, l'adverbe et la préposition restent invariables.",
+      "- Nom + nom ou nom + adjectif : les deux varient. Des chefs-lieux, des coffres-forts, des basses-cours.",
+      "- Nom + complément du nom : seul le premier varie. Des arcs-en-ciel, des pots-de-vin, des chefs-d'œuvre.",
+      "- Préposition ou adverbe + nom : seul le nom varie. Des sous-préfets, des avant-projets.",
+      "- Verbe + nom : le verbe ne varie jamais. Des tire-bouchons.",
+      "- Verbes ou expression : tout reste invariable. Des laissez-passer, des va-et-vient.",
+      "~ Exemple résolu : « Les ___ du département ont été réunis à la préfecture. » (un sous-préfet). Sous : préposition, invariable. Préfet : nom, variable. Réponse : des sous-préfets.",
+      "? Mettez au pluriel : un chef-lieu, un avant-projet, un laissez-passer. || Chef et lieu sont deux noms : les deux varient, des chefs-lieux. Avant est un mot invariable et projet un nom : des avant-projets. Laissez-passer associe deux verbes : il reste invariable, des laissez-passer.",
+      "## Notion 6 : les rectifications orthographiques de 1990",
+      "Règle rectifiée : pour les noms composés formés d'un verbe + nom ou d'une préposition + nom, la marque du pluriel se met seulement sur le second élément, et seulement quand le composé est au pluriel. Un essuie-main, des essuie-mains ; un après-midi, des après-midis ; un gratte-ciel, des gratte-ciels ; un sans-abri, des sans-abris.",
+      "Pourquoi ? Pour remplacer des règles fondées sur le sens, souvent contradictoires, par une règle unique et facile à appliquer.",
+      "! Exception : la règle rectifiée ne s'applique pas quand le second élément porte une majuscule ou un article : un prie-Dieu, des prie-Dieu ; un trompe-l'œil, des trompe-l'œil.",
+      "Les deux orthographes, traditionnelle et rectifiée, sont admises. En QCM, ne marquez pas comme fautive une forme rectifiée correcte.",
+      "? Un candidat juge fautive la phrase « Les sans-abris ont été relogés ». A-t-il raison ? || Non. Sans est une préposition et abri un nom : selon les rectifications de 1990, le composé prend un « s » final au pluriel (des sans-abris). L'orthographe traditionnelle « des sans-abri » reste admise : les deux formes sont correctes."
+     ],
+     "retenir": [
+      "Les noms terminés par -s, -x ou -z ne changent pas au pluriel : des abus, des noix, des gaz.",
+      "Les noms en -al font -aux, sauf bal, carnaval, chacal, festival, récital et régal, qui prennent un « s ».",
+      "Les noms en -ail prennent un « s », sauf bail, corail, émail, soupirail, travail, vantail et vitrail, qui font -aux.",
+      "Sept noms en -ou prennent un « x » : bijou, caillou, chou, genou, hibou, joujou, pou.",
+      "Landau, sarrau, bleu, émeu et pneu prennent un « s », contrairement aux autres noms en -au et -eu.",
+      "Dans un nom composé, seuls les noms et les adjectifs varient ; verbes, adverbes et prépositions restent invariables.",
+      "Avec un complément du nom, seul le premier nom varie : des arcs-en-ciel, des pots-de-vin, des chefs-d'œuvre.",
+      "Depuis 1990, verbe + nom et préposition + nom prennent le « s » sur le second élément : des après-midis, des gratte-ciels."
+     ],
+     "exo": {
+      "tag": "niv-fr09",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "OQLF, Vitrine linguistique, « Pluriel des noms en -al »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21821/la-grammaire/le-nom/pluriel-des-noms/pluriel-en-x/pluriel-des-noms-en-8209al"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique, « Pluriel des noms en -ail »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22603/la-grammaire/le-nom/pluriel-des-noms/pluriel-en-x/pluriel-des-noms-en-8209ail"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique, « Pluriel des noms en -au, -eau et -eu »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22604/la-grammaire/le-nom/pluriel-des-noms/pluriel-en-x/pluriel-des-noms-en-8209au-8209eau-et-8209eu"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique, « Pluriel des noms en -ou »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22605/la-grammaire/le-nom/pluriel-des-noms/pluriel-en-x/pluriel-des-noms-en-8209ou"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique, « Rectifications liées au pluriel des mots composés »",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/23170/lorthographe/rectifications-de-lorthographe/rectifications-liees-au-pluriel/rectifications-liees-au-pluriel-des-mots-composes"
       }
      ]
     }
