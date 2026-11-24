@@ -40799,6 +40799,1809 @@
     }
    ],
    "sujets": []
+  },
+  {
+   "date": "2026-11-24",
+   "questions": [
+    {
+     "id": "n20261124-an09-01",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "Choose the correct sentence about the receptionist.",
+     "o": [
+      "She said me that she was ready.",
+      "She told that she was ready.",
+      "She told me that she was ready.",
+      "She said to that she was ready."
+     ],
+     "a": 2,
+     "e": "Tell est toujours suivi de la personne à qui l'on parle : told me that… Règle de la leçon : « tell a toujours quelqu'un à qui parler ».",
+     "ed": [
+      "Say ne prend pas directement la personne : il faudrait said to me ou said seul.",
+      "Told sans personne est fautif : tell exige un complément de personne (told me).",
+      null,
+      "Said to doit être suivi de la personne (said to me) ; « said to that » n'a pas de sens."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-02",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"I live in Korhogo,\" Fanta said. → Fanta said that she ___ in Korhogo.",
+     "o": [
+      "lived",
+      "live",
+      "has lived",
+      "had been living"
+     ],
+     "a": 0,
+     "e": "Le présent simple recule d'un cran après said : live → lived. Le pronom I devient she.",
+     "ed": [
+      null,
+      "Live sans -s ne s'accorde pas avec she : c'est une faute d'accord, quel que soit le temps.",
+      "Has lived est un present perfect, qui ne correspond pas à un présent simple d'origine.",
+      "Had been living correspond à un past perfect progressif, recul d'un temps progressif, pas d'un présent simple."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-03",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"We will finish the report,\" the clerks said. → The clerks said they ___ the report.",
+     "o": [
+      "would finished",
+      "would finish",
+      "had finished",
+      "willed finish"
+     ],
+     "a": 1,
+     "e": "Au discours rapporté, will devient would : the clerks said they would finish the report.",
+     "ed": [
+      "Après would, on met la base verbale (finish), jamais le participe finished.",
+      null,
+      "Had finished correspond à un passé accompli, pas à une action future.",
+      "« Willed » n'existe pas comme auxiliaire : le passé de will au discours rapporté est would."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-04",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "Which reported question is correct?",
+     "o": [
+      "He asked me where was the post office.",
+      "He asked me where is the post office.",
+      "He asked me where did the post office was.",
+      "He asked me where the post office was."
+     ],
+     "a": 3,
+     "e": "Une question rapportée prend l'ordre d'une affirmation, sujet + verbe : where the post office was.",
+     "ed": [
+      "L'ordre verbe-sujet (was the post office) est celui de la question directe : il faut sujet + verbe.",
+      "Is the post office garde l'ordre de la question et ne recule pas le temps.",
+      "Did ne s'emploie pas dans une question rapportée, et « did … was » est agrammatical.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-05",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"Are you a civil servant?\" she asked me. → She asked me ___ a civil servant.",
+     "o": [
+      "that I was",
+      "if was I",
+      "was I",
+      "if I was"
+     ],
+     "a": 3,
+     "e": "Question fermée (réponse oui / non) : ask + if (ou whether), puis sujet + verbe : if I was.",
+     "ed": [
+      "That introduit une affirmation, pas une question rapportée.",
+      "Après if, il faut sujet puis verbe : if I was, pas if was I.",
+      "Was I garde l'ordre de la question directe.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-06",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"Sit down,\" the teacher said to the pupils. → The teacher told the pupils ___.",
+     "o": [
+      "sit down",
+      "that sit down",
+      "to sit down",
+      "sitting down"
+     ],
+     "a": 2,
+     "e": "Un ordre se rapporte avec tell + personne + to + base verbale : told the pupils to sit down.",
+     "ed": [
+      "Sans to, la structure tell + personne + base verbale est fautive.",
+      "That n'introduit pas un ordre ; il faudrait une proposition complète.",
+      null,
+      "La forme en -ing ne suit pas tell dans un ordre rapporté."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-07",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"I have signed the decree,\" the minister said. → The minister said he ___ the decree.",
+     "o": [
+      "had signed",
+      "have signed",
+      "had sign",
+      "was signing"
+     ],
+     "a": 0,
+     "e": "Le present perfect recule au past perfect : have signed → had signed.",
+     "ed": [
+      null,
+      "Have signed ne s'accorde pas avec he (il faudrait has) : la forme est fautive.",
+      "Après had, il faut le participe passé (signed), pas la base verbale sign.",
+      "Was signing est un progressif qui change le sens : l'action était terminée."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-08",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"Don't open the safe,\" the manager told the cashier. → The manager told the cashier ___ the safe.",
+     "o": [
+      "don't open",
+      "to not opening",
+      "not open",
+      "not to open"
+     ],
+     "a": 3,
+     "e": "Ordre négatif rapporté : tell + personne + not to + base verbale : not to open.",
+     "ed": [
+      "Don't reste dans la phrase directe ; il ne s'emploie pas après told + personne.",
+      "Après to, on met la base verbale, pas la forme en -ing.",
+      "Sans to, la structure est incomplète : il faut not to open.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-09",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "On Monday, Yao said: \"I will call you tomorrow.\" On Friday you report: Yao said he would call me ___.",
+     "o": [
+      "tomorrow",
+      "the next day",
+      "yesterday",
+      "the day before"
+     ],
+     "a": 1,
+     "e": "Le « demain » de lundi est passé vendredi : tomorrow devient the next day (ou the following day).",
+     "ed": [
+      "Tomorrow désignerait samedi, ce qui fausse le sens : le repère a changé.",
+      null,
+      "Yesterday désigne la veille du moment présent, pas le lendemain de lundi.",
+      "The day before remplace yesterday, pas tomorrow."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-10",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"Where did you put the file?\" he asked. → He asked me where I ___ the file.",
+     "o": [
+      "did put",
+      "put did",
+      "had put",
+      "have put"
+     ],
+     "a": 2,
+     "e": "On supprime did, on met sujet + verbe et le prétérit recule au past perfect : where I had put the file.",
+     "ed": [
+      "Did ne s'emploie pas dans une question rapportée.",
+      "« Put did » est agrammatical ; did disparaît.",
+      null,
+      "Have put est un present perfect : le prétérit d'origine recule au past perfect, avec had."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-11",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"I can speak Baoulé,\" Adjoua told me. → Adjoua told me she ___ speak Baoulé.",
+     "o": [
+      "can to",
+      "must",
+      "might",
+      "could"
+     ],
+     "a": 3,
+     "e": "Can recule en could au discours rapporté : she could speak Baoulé.",
+     "ed": [
+      "Un modal n'est jamais suivi de to : « can to speak » est agrammatical.",
+      "Must exprime une obligation, ce qui change le sens de la phrase.",
+      "Might est le recul de may et exprime une possibilité, pas une capacité.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-12",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"May I come in?\" the visitor asked. Which is the best reported version?",
+     "o": [
+      "The visitor asked if he might come in.",
+      "The visitor asked if might he come in.",
+      "The visitor asked may he come in.",
+      "The visitor told if he might come in."
+     ],
+     "a": 0,
+     "e": "Question fermée : if + sujet + verbe ; may recule en might : asked if he might come in.",
+     "ed": [
+      null,
+      "Après if, l'ordre est sujet puis verbe : he might, pas might he.",
+      "Sans if, et avec l'ordre de la question, la phrase garde la forme directe.",
+      "Tell ne sert pas à rapporter une question : il faut ask."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-13",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "Find the INCORRECT sentence.",
+     "o": [
+      "She said that she was busy.",
+      "She told us that she was busy.",
+      "She said us that she was busy.",
+      "She said to us that she was busy."
+     ],
+     "a": 2,
+     "e": "Say ne prend pas directement la personne : « said us » est fautif ; il faut said to us ou told us.",
+     "ed": [
+      "Said seul, sans personne, est correct.",
+      "Told + personne est la construction normale de tell.",
+      null,
+      "Said to us est correct : la personne est introduite par to."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-14",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"Water boils at 100 °C,\" the teacher said. Which reported sentence is ALSO correct because the fact is still true?",
+     "o": [
+      "The teacher said water boil at 100 °C.",
+      "The teacher said water boils at 100 °C.",
+      "The teacher said water is boiling at 100 °C.",
+      "The teacher said water had been boiling at 100 °C."
+     ],
+     "a": 1,
+     "e": "Une vérité toujours valable peut rester au présent : the teacher said water boils at 100 °C.",
+     "ed": [
+      "Boil sans -s ne s'accorde pas avec water, sujet singulier.",
+      null,
+      "Le présent progressif décrit une action en cours, pas une vérité générale.",
+      "Le past perfect progressif fait d'une vérité générale un événement passé."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-15",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"Could you help me?\" the old man asked us. → The old man asked us ___ him.",
+     "o": [
+      "help",
+      "helping",
+      "that we help",
+      "to help"
+     ],
+     "a": 3,
+     "e": "Une demande polie se rapporte avec ask + personne + to + base verbale : asked us to help him.",
+     "ed": [
+      "Sans to, ask + personne + base verbale est fautif.",
+      "La forme en -ing ne suit pas ask + personne.",
+      "That we help ne correspond pas à la structure d'une demande rapportée en QCM.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-16",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"I saw the accident yesterday,\" the witness said. → The witness said he had seen the accident ___.",
+     "o": [
+      "the day before",
+      "the next day",
+      "yesterday ago",
+      "tomorrow"
+     ],
+     "a": 0,
+     "e": "Yesterday devient the day before quand on rapporte plus tard ; saw recule en had seen.",
+     "ed": [
+      null,
+      "The next day remplace tomorrow, pas yesterday.",
+      "« Yesterday ago » n'existe pas en anglais.",
+      "Tomorrow contredit le sens : l'accident est passé."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-17",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"Is the bus leaving now?\" she asked. → She asked ___.",
+     "o": [
+      "if the bus was leaving then",
+      "if was the bus leaving then",
+      "is the bus leaving now",
+      "that the bus was leaving then"
+     ],
+     "a": 0,
+     "e": "Question fermée : if + sujet + verbe ; is leaving recule en was leaving et now devient then.",
+     "ed": [
+      null,
+      "Après if, l'ordre est sujet puis verbe : the bus was leaving.",
+      "C'est la question directe, sans transformation.",
+      "That introduit une affirmation, alors qu'on rapporte une question."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-18",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"You must wear a badge,\" the guard told us. → The guard told us we ___ wear a badge.",
+     "o": [
+      "musted",
+      "must to",
+      "have to had",
+      "had to"
+     ],
+     "a": 3,
+     "e": "Must recule en had to au discours rapporté : the guard told us we had to wear a badge.",
+     "ed": [
+      "« Musted » n'existe pas : must n'a pas de forme en -ed.",
+      "Must n'est jamais suivi de to.",
+      "« Have to had » est agrammatical.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-19",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"I am preparing the ENA exam,\" Moussa says (present). → Moussa says he ___ the ENA exam.",
+     "o": [
+      "was preparing",
+      "had prepared",
+      "is preparing",
+      "prepared"
+     ],
+     "a": 2,
+     "e": "Quand le verbe introducteur est au présent (says), le temps ne recule pas : he is preparing.",
+     "ed": [
+      "Was preparing recule le temps, ce qui n'a pas lieu après says.",
+      "Had prepared recule de deux crans et change le sens.",
+      null,
+      "Prepared est un prétérit : aucun recul après un verbe introducteur au présent."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-an09-20",
+     "m": "ang",
+     "tag": "niv-an09",
+     "q": "\"What time does the meeting start?\" the director asked. → The director asked what time the meeting ___.",
+     "o": [
+      "does start",
+      "started",
+      "did start",
+      "starts did"
+     ],
+     "a": 1,
+     "e": "Question ouverte rapportée : on garde what time, on supprime does et on recule le présent : the meeting started.",
+     "ed": [
+      "Does ne s'emploie pas dans une question rapportée.",
+      null,
+      "Did ne s'emploie pas non plus : sujet + verbe au prétérit suffit.",
+      "« Starts did » est agrammatical."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261124-cg11-01",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quel est le point culminant de l'Afrique, à 5 895 m ?",
+     "o": [
+      "Le mont Nimba",
+      "Le pic Margherita (Ruwenzori)",
+      "Le Kilimandjaro",
+      "Le mont Cameroun"
+     ],
+     "a": 2,
+     "e": "Britannica indique que le Kilimandjaro (5 895 m) est le point le plus élevé du continent africain.",
+     "ed": [
+      "Le mont Nimba culmine à 1 752 m, aux frontières de la Guinée, du Libéria et de la Côte d'Ivoire.",
+      "Le pic Margherita, dans le Ruwenzori, atteint environ 5 120 m : il est moins haut que le Kilimandjaro.",
+      null,
+      "Britannica attribue le record d'altitude au Kilimandjaro, pas au mont Cameroun."
+     ],
+     "src": {
+      "t": "Britannica, « Africa – Land »",
+      "u": "https://www.britannica.com/place/Africa/Land"
+     }
+    },
+    {
+     "id": "n20261124-cg11-02",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Dans quel pays se trouve le lac Assal, point le plus bas de l'Afrique ?",
+     "o": [
+      "Djibouti",
+      "Égypte",
+      "Éthiopie",
+      "Tchad"
+     ],
+     "a": 0,
+     "e": "Le lac Assal est un lac salé du centre de Djibouti, situé à 157 m sous le niveau de la mer (Britannica).",
+     "ed": [
+      null,
+      "Le lac Assal n'est pas en Égypte : Britannica le situe au centre de Djibouti.",
+      "L'Éthiopie est voisine, mais le lac Assal se trouve à Djibouti.",
+      "Le Tchad abrite le lac Tchad, pas le lac Assal."
+     ],
+     "src": {
+      "t": "Britannica, « Lake Assal »",
+      "u": "https://www.britannica.com/place/Lake-Assal"
+     }
+    },
+    {
+     "id": "n20261124-cg11-03",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quel est le deuxième plus long fleuve d'Afrique, avec environ 4 700 km ?",
+     "o": [
+      "Le Niger",
+      "Le Zambèze",
+      "Le Nil",
+      "Le Congo"
+     ],
+     "a": 3,
+     "e": "Britannica : avec environ 4 700 km, le Congo est le deuxième plus long fleuve du continent, après le Nil. Ordre à retenir : N-C-N.",
+     "ed": [
+      "Le Niger, environ 4 200 km, est le troisième fleuve d'Afrique.",
+      "Le Zambèze n'entre pas dans le trio de tête, qui est Nil, Congo, Niger.",
+      "Le Nil est le premier, avec environ 6 650 km.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Congo River »",
+      "u": "https://www.britannica.com/place/Congo-River"
+     }
+    },
+    {
+     "id": "n20261124-cg11-04",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Dans quel pays le fleuve Niger prend-il sa source ?",
+     "o": [
+      "Au Mali",
+      "En Côte d'Ivoire",
+      "Au Niger",
+      "En Guinée"
+     ],
+     "a": 3,
+     "e": "Selon Britannica, le Niger naît en Guinée, sur le versant est du Fouta-Djalon, à environ 240 km de l'océan.",
+     "ed": [
+      "Le Mali est traversé par le Niger (delta intérieur près de Mopti), mais le fleuve n'y naît pas.",
+      "Le Niger ne prend pas sa source en Côte d'Ivoire, mais dans le Fouta-Djalon guinéen.",
+      "Le pays Niger porte le nom du fleuve, qui le traverse sans y naître.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Niger River »",
+      "u": "https://www.britannica.com/place/Niger-River"
+     }
+    },
+    {
+     "id": "n20261124-cg11-05",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quel est le plus grand lac d'Afrique par la superficie ?",
+     "o": [
+      "Le lac Tanganyika",
+      "Le lac Malawi",
+      "Le lac Victoria",
+      "Le lac Tchad"
+     ],
+     "a": 2,
+     "e": "Britannica : le lac Victoria (environ 69 484 km²) est le plus grand lac d'Afrique. Moyen mnémotechnique : « Victoria la Vaste ».",
+     "ed": [
+      "Le Tanganyika détient les records de profondeur et de longueur, pas de superficie.",
+      "Le lac Malawi est long et étroit, beaucoup moins étendu que le Victoria.",
+      null,
+      "Le lac Tchad n'est pas le plus grand : Britannica attribue ce record au lac Victoria."
+     ],
+     "src": {
+      "t": "Britannica, « Lake Victoria »",
+      "u": "https://www.britannica.com/place/Lake-Victoria"
+     }
+    },
+    {
+     "id": "n20261124-cg11-06",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quelle superficie le Sahara couvre-t-il environ ?",
+     "o": [
+      "8,5 millions de km²",
+      "3,5 millions de km²",
+      "850 000 km²",
+      "15 millions de km²"
+     ],
+     "a": 0,
+     "e": "National Geographic : le Sahara, plus grand désert chaud du monde, couvre environ 8,5 millions de km², soit 25 % de l'Afrique.",
+     "ed": [
+      null,
+      "3,5 millions de km² sous-estime de plus de moitié la superficie du Sahara.",
+      "850 000 km² est dix fois trop faible.",
+      "15 millions de km² dépasserait la moitié de l'Afrique ; le Sahara en couvre un quart."
+     ],
+     "src": {
+      "t": "National Geographic Education, « Africa: Physical Geography »",
+      "u": "https://education.nationalgeographic.org/resource/africa-physical-geography/"
+     }
+    },
+    {
+     "id": "n20261124-cg11-07",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Le lac Tanganyika est le deuxième lac le plus profond du monde. Lequel est le premier ?",
+     "o": [
+      "Le lac Victoria",
+      "Le lac Supérieur",
+      "La mer Caspienne",
+      "Le lac Baïkal"
+     ],
+     "a": 3,
+     "e": "Britannica : le Tanganyika (1 436 m) est le deuxième lac le plus profond du monde, après le lac Baïkal en Russie.",
+     "ed": [
+      "Le lac Victoria ne dépasse pas 82 m de profondeur.",
+      "Le lac Supérieur est un record de superficie parmi les lacs d'eau douce, pas de profondeur.",
+      "La Caspienne n'est pas citée comme plus profonde que le Tanganyika ; le record revient au Baïkal.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Lake Tanganyika »",
+      "u": "https://www.britannica.com/place/Lake-Tanganyika"
+     }
+    },
+    {
+     "id": "n20261124-cg11-08",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Où le fleuve Congo se jette-t-il dans l'océan Atlantique ?",
+     "o": [
+      "À Pointe-Noire, au Congo-Brazzaville",
+      "À Banana, en RD Congo",
+      "À Luanda, en Angola",
+      "À Douala, au Cameroun"
+     ],
+     "a": 1,
+     "e": "Britannica situe l'embouchure du Congo à Banana, en République démocratique du Congo.",
+     "ed": [
+      "Britannica situe l'embouchure à Banana, en RD Congo, et non à Pointe-Noire.",
+      null,
+      "Luanda, capitale de l'Angola, n'est pas l'embouchure du Congo, située à Banana.",
+      "Douala, au Cameroun, n'est pas l'embouchure du Congo, située à Banana en RD Congo."
+     ],
+     "src": {
+      "t": "Britannica, « Congo River »",
+      "u": "https://www.britannica.com/place/Congo-River"
+     }
+    },
+    {
+     "id": "n20261124-cg11-09",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Entre quels pays se trouve le mont Nimba (1 752 m) ?",
+     "o": [
+      "Guinée, Libéria et Côte d'Ivoire",
+      "Guinée, Sierra Leone et Libéria",
+      "Côte d'Ivoire, Ghana et Burkina Faso",
+      "Mali, Guinée et Côte d'Ivoire"
+     ],
+     "a": 0,
+     "e": "Britannica : le mont Nimba (1 752 m) est situé aux frontières de la Guinée, du Libéria et de la Côte d'Ivoire.",
+     "ed": [
+      null,
+      "La Sierra Leone ne touche pas le mont Nimba ; c'est la Côte d'Ivoire qui complète le trio.",
+      "Le Ghana et le Burkina Faso sont loin du massif du Nimba, à l'ouest de la Côte d'Ivoire.",
+      "Le Mali ne borde pas le mont Nimba ; le troisième pays est le Libéria."
+     ],
+     "src": {
+      "t": "Britannica, « Mount Nimba »",
+      "u": "https://www.britannica.com/place/Mount-Nimba"
+     }
+    },
+    {
+     "id": "n20261124-cg11-10",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quel lac est le principal réservoir du Nil, dont il est la source méridionale ?",
+     "o": [
+      "Le lac Tanganyika",
+      "Le lac Tchad",
+      "Le lac Malawi",
+      "Le lac Victoria"
+     ],
+     "a": 3,
+     "e": "Britannica qualifie le lac Victoria de « principal réservoir du Nil » ; son seul émissaire est le Nil Victoria.",
+     "ed": [
+      "Le Tanganyika appartient à la branche occidentale du rift et n'est pas présenté comme réservoir du Nil.",
+      "Le lac Tchad est un bassin fermé, sans issue vers la mer.",
+      "Le lac Malawi se trouve beaucoup plus au sud et n'alimente pas le Nil.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Lake Victoria »",
+      "u": "https://www.britannica.com/place/Lake-Victoria"
+     }
+    },
+    {
+     "id": "n20261124-cg11-11",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quelle affirmation sur le lac Victoria est FAUSSE ?",
+     "o": [
+      "Il est le plus grand lac d'Afrique.",
+      "Parmi les lacs d'eau douce, seul le lac Supérieur est plus étendu.",
+      "Il borde le Kenya.",
+      "Il est très profond, plus de 1 000 m."
+     ],
+     "a": 3,
+     "e": "Le lac Victoria est vaste mais peu profond : 82 m au maximum selon Britannica. Les 1 436 m appartiennent au Tanganyika.",
+     "ed": [
+      "C'est exact : Britannica le présente comme le plus grand lac d'Afrique.",
+      "C'est exact : parmi les lacs d'eau douce, il n'est dépassé que par le lac Supérieur.",
+      "C'est exact : il se trouve surtout en Tanzanie et en Ouganda et borde le Kenya.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Lake Victoria »",
+      "u": "https://www.britannica.com/place/Lake-Victoria"
+     }
+    },
+    {
+     "id": "n20261124-cg11-12",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Près de quelle ville du Mali le Niger forme-t-il son delta intérieur ?",
+     "o": [
+      "Mopti",
+      "Kayes",
+      "Sikasso",
+      "Gao"
+     ],
+     "a": 0,
+     "e": "Britannica décrit le delta intérieur du Niger comme un ensemble de lacs, de marigots et de bras situé près de Mopti, au Mali.",
+     "ed": [
+      null,
+      "Britannica situe le delta intérieur près de Mopti, pas près de Kayes.",
+      "Britannica situe le delta intérieur près de Mopti, pas près de Sikasso.",
+      "Britannica situe le delta intérieur près de Mopti, pas près de Gao."
+     ],
+     "src": {
+      "t": "Britannica, « Niger River »",
+      "u": "https://www.britannica.com/place/Niger-River"
+     }
+    },
+    {
+     "id": "n20261124-cg11-13",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quel lac africain est le plus long lac d'eau douce du monde, avec environ 660 km ?",
+     "o": [
+      "Le lac Malawi",
+      "Le lac Victoria",
+      "Le lac Tanganyika",
+      "Le lac Volta"
+     ],
+     "a": 2,
+     "e": "Britannica : le Tanganyika est le plus long lac d'eau douce du monde (660 km) et le deuxième plus profond. « Tanganyika la Tranchée ».",
+     "ed": [
+      "Le lac Malawi est long d'environ 580 km, moins que le Tanganyika.",
+      "Le lac Victoria est le plus vaste, mais pas le plus long.",
+      null,
+      "Le lac Volta n'est pas le record de longueur : Britannica l'attribue au Tanganyika."
+     ],
+     "src": {
+      "t": "Britannica, « Lake Tanganyika »",
+      "u": "https://www.britannica.com/place/Lake-Tanganyika"
+     }
+    },
+    {
+     "id": "n20261124-cg11-14",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quel écart d'altitude sépare le Kilimandjaro (5 895 m) du lac Assal (−157 m) ?",
+     "o": [
+      "5 738 m",
+      "6 052 m",
+      "5 895 m",
+      "6 157 m"
+     ],
+     "a": 1,
+     "e": "Écart = 5 895 − (−157) = 5 895 + 157 = 6 052 m : soustraire une altitude négative revient à l'ajouter.",
+     "ed": [
+      "5 738 m vient de 5 895 − 157 : on a oublié que −157 est sous le niveau de la mer.",
+      null,
+      "5 895 m est l'altitude du Kilimandjaro seule, sans tenir compte du lac Assal.",
+      "6 157 m résulte d'une erreur d'addition : 5 895 + 157 = 6 052."
+     ],
+     "verif": "calcul",
+     "calc": "5895+157"
+    },
+    {
+     "id": "n20261124-cg11-15",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quel massif, à la frontière de la RD Congo et de l'Ouganda, est surnommé les « montagnes de la Lune » ?",
+     "o": [
+      "Le Ruwenzori",
+      "Le Fouta-Djalon",
+      "Le Drakensberg",
+      "L'Atlas"
+     ],
+     "a": 0,
+     "e": "Britannica : le Ruwenzori, non volcanique, culmine au pic Margherita, à la frontière RD Congo–Ouganda, et est surnommé « montagnes de la Lune ».",
+     "ed": [
+      null,
+      "Le Fouta-Djalon est un massif de Guinée, source du Niger.",
+      "Le Drakensberg n'est pas à la frontière RD Congo–Ouganda : c'est le Ruwenzori qui s'y trouve.",
+      "L'Atlas n'est pas à la frontière RD Congo–Ouganda : le surnom revient au Ruwenzori."
+     ],
+     "src": {
+      "t": "Britannica, « Africa – Land »",
+      "u": "https://www.britannica.com/place/Africa/Land"
+     }
+    },
+    {
+     "id": "n20261124-cg11-16",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quelle part de la superficie de l'Afrique le Sahara représente-t-il ?",
+     "o": [
+      "Environ 10 %",
+      "Environ 50 %",
+      "Environ 25 %",
+      "Environ 75 %"
+     ],
+     "a": 2,
+     "e": "National Geographic : le Sahara représente 25 % de l'Afrique, soit environ un quart du continent.",
+     "ed": [
+      "10 % sous-estime fortement le Sahara, qui couvre un quart du continent.",
+      "50 % surestime le Sahara : il couvre un quart, pas la moitié.",
+      null,
+      "75 % est trois fois trop : le Sahara couvre environ un quart de l'Afrique."
+     ],
+     "src": {
+      "t": "National Geographic Education, « Africa: Physical Geography »",
+      "u": "https://education.nationalgeographic.org/resource/africa-physical-geography/"
+     }
+    },
+    {
+     "id": "n20261124-cg11-17",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Dans quel pays le Niger se termine-t-il par le plus grand delta d'Afrique ?",
+     "o": [
+      "Au Bénin",
+      "Au Niger",
+      "Au Cameroun",
+      "Au Nigeria"
+     ],
+     "a": 3,
+     "e": "Britannica : le delta du Niger, le plus grand d'Afrique (environ 36 000 km²), se trouve au Nigeria.",
+     "ed": [
+      "Britannica place le delta du Niger au Nigeria, pas au Bénin.",
+      "Le pays Niger est traversé par le fleuve, mais le delta est au Nigeria, sur le golfe de Guinée.",
+      "Britannica place le delta du Niger au Nigeria, pas au Cameroun.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Niger River »",
+      "u": "https://www.britannica.com/place/Niger-River"
+     }
+    },
+    {
+     "id": "n20261124-cg11-18",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Sous quel nom le Congo prend-il sa source dans les hauts plateaux du nord-est de la Zambie ?",
+     "o": [
+      "Le Lualaba supérieur, en Angola",
+      "L'Oubangui",
+      "Le Kasaï",
+      "Le Chambeshi"
+     ],
+     "a": 3,
+     "e": "Britannica : le Congo naît dans les hauts plateaux du nord-est de la Zambie sous le nom de Chambeshi, à environ 1 760 m d'altitude.",
+     "ed": [
+      "La source du Congo n'est pas située en Angola mais en Zambie.",
+      "Britannica donne au cours supérieur le nom de Chambeshi, pas celui d'Oubangui.",
+      "Britannica donne au cours supérieur le nom de Chambeshi, pas celui de Kasaï.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Congo River »",
+      "u": "https://www.britannica.com/place/Congo-River"
+     }
+    },
+    {
+     "id": "n20261124-cg11-19",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Quelle superficie de la réserve naturelle intégrale du mont Nimba se trouve en Côte d'Ivoire ?",
+     "o": [
+      "5 000 ha sur 17 540 ha",
+      "12 540 ha sur 17 540 ha",
+      "17 540 ha, la totalité",
+      "1 752 ha"
+     ],
+     "a": 0,
+     "e": "L'UNESCO indique que la réserve couvre 17 540 ha, dont 12 540 en Guinée et 5 000 en Côte d'Ivoire.",
+     "ed": [
+      null,
+      "12 540 ha est la part guinéenne de la réserve, pas la part ivoirienne.",
+      "La réserve est partagée entre la Guinée et la Côte d'Ivoire : elle n'est pas entièrement ivoirienne.",
+      "1 752 est l'altitude du mont Nimba en mètres, pas une superficie."
+     ],
+     "src": {
+      "t": "UNESCO, Centre du patrimoine mondial, « Réserve naturelle intégrale du mont Nimba »",
+      "u": "https://whc.unesco.org/fr/list/155"
+     }
+    },
+    {
+     "id": "n20261124-cg11-20",
+     "m": "cg",
+     "tag": "niv-cg11",
+     "q": "Laquelle de ces associations « record – objet » est CORRECTE ?",
+     "o": [
+      "Plus grand lac d'Afrique – Tanganyika",
+      "Plus long lac d'eau douce du monde – Victoria",
+      "Plus grand désert chaud du monde – Sahara",
+      "Point le plus bas d'Afrique – lac Tchad"
+     ],
+     "a": 2,
+     "e": "National Geographic qualifie le Sahara de plus grand désert chaud du monde. Les trois autres associations intervertissent des records voisins.",
+     "ed": [
+      "Le plus grand lac d'Afrique est le Victoria ; le Tanganyika est le plus profond et le plus long.",
+      "Le plus long lac d'eau douce du monde est le Tanganyika, pas le Victoria.",
+      null,
+      "Le point le plus bas d'Afrique est le lac Assal, à Djibouti, à −157 m."
+     ],
+     "src": {
+      "t": "National Geographic Education, « Africa: Physical Geography »",
+      "u": "https://education.nationalgeographic.org/resource/africa-physical-geography/"
+     }
+    },
+    {
+     "id": "n20261124-lo12-01",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Quelle est la négation de « Tous les agents sont présents » ?",
+     "o": [
+      "Aucun agent n'est présent.",
+      "Tous les agents sont absents.",
+      "Au moins un agent est absent.",
+      "Certains agents sont présents."
+     ],
+     "a": 2,
+     "e": "La négation de « tous les A sont B » est « au moins un A n'est pas B » : un seul absent suffit à démentir la phrase.",
+     "ed": [
+      "« Aucun agent n'est présent » est trop fort : il suffit d'un absent pour nier la phrase.",
+      "« Tous absents » équivaut à « aucun présent », trop fort également.",
+      null,
+      "« Certains sont présents » est compatible avec « tous sont présents » : ce n'est pas une négation."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-02",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Quand l'implication « Si P alors Q » est-elle FAUSSE ?",
+     "o": [
+      "Quand P est faux et Q vrai",
+      "Quand P est vrai et Q faux",
+      "Quand P et Q sont faux",
+      "Quand P et Q sont vrais"
+     ],
+     "a": 1,
+     "e": "Une implication ne « ment » que dans un seul cas : P vrai et Q faux. Dans les trois autres cas, elle est vraie.",
+     "ed": [
+      "Si P est faux, l'implication ne dit rien : elle reste vraie.",
+      null,
+      "P faux et Q faux : l'implication est vraie, la condition n'étant pas remplie.",
+      "P vrai et Q vrai : c'est le cas où l'implication est vérifiée."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-03",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Quelle phrase est équivalente à « S'il pleut, le match est reporté » ?",
+     "o": [
+      "Si le match est reporté, il pleut.",
+      "S'il ne pleut pas, le match n'est pas reporté.",
+      "Il pleut et le match n'est pas reporté.",
+      "Si le match n'est pas reporté, il ne pleut pas."
+     ],
+     "a": 3,
+     "e": "La contraposée « si non Q alors non P » est équivalente à l'implication : on inverse ET on nie les deux parties.",
+     "ed": [
+      "C'est la réciproque, qui n'est pas équivalente : le match peut être reporté pour une autre raison.",
+      "C'est la contraire (si non P alors non Q), qui n'est pas équivalente.",
+      "C'est la négation de l'implication, son exact contraire.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-04",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Quelle est la négation de « Le candidat parle anglais et espagnol » ?",
+     "o": [
+      "Le candidat ne parle ni anglais ni espagnol.",
+      "Le candidat ne parle pas anglais et parle espagnol.",
+      "Le candidat parle anglais ou espagnol.",
+      "Le candidat ne parle pas anglais ou ne parle pas espagnol."
+     ],
+     "a": 3,
+     "e": "Loi de De Morgan : non (P et Q) = (non P) ou (non Q). « La négation fait la bascule : et devient ou. »",
+     "ed": [
+      "« Ni… ni » est la négation de « ou », trop forte ici.",
+      "Ce n'est qu'un cas particulier ; la négation complète inclut aussi le cas où il parle anglais sans espagnol.",
+      "« Anglais ou espagnol » n'est pas une négation : il est compatible avec la phrase de départ.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-05",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Quelle est la négation de « Certains dossiers sont incomplets » ?",
+     "o": [
+      "Certains dossiers sont complets.",
+      "Tous les dossiers sont incomplets.",
+      "Aucun dossier n'est incomplet.",
+      "Au moins un dossier est complet."
+     ],
+     "a": 2,
+     "e": "La négation de « certains A sont B » (au moins un) est « aucun A n'est B ».",
+     "ed": [
+      "« Certains sont complets » peut être vrai en même temps que la phrase de départ.",
+      "« Tous incomplets » renforce la phrase au lieu de la nier.",
+      null,
+      "« Au moins un complet » est compatible avec « certains incomplets »."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-06",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« Tous les ivoiriens majeurs inscrits peuvent voter. Awa est ivoirienne, majeure et inscrite. » Que peut-on conclure ?",
+     "o": [
+      "Awa peut voter.",
+      "Awa votera.",
+      "Awa ne peut pas voter.",
+      "On ne peut rien conclure."
+     ],
+     "a": 0,
+     "e": "Forme « tous les A sont B ; x est A ; donc x est B » : la conclusion est forcée. Awa peut voter.",
+     "ed": [
+      null,
+      "« Peut voter » ne veut pas dire « votera » : la prémisse ne parle que d'une possibilité.",
+      "C'est le contraire de ce que la prémisse impose.",
+      "La forme est valide : la conclusion découle directement des deux prémisses."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-07",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« Si un véhicule est en règle, il a une vignette. Ce véhicule a une vignette. » Que conclure ?",
+     "o": [
+      "Le véhicule est en règle.",
+      "Le véhicule n'est pas en règle.",
+      "On ne peut pas conclure qu'il est en règle.",
+      "Le véhicule n'a pas de vignette."
+     ],
+     "a": 2,
+     "e": "De « si P alors Q » et « Q », on ne peut rien conclure sur P : c'est le piège de l'affirmation du conséquent.",
+     "ed": [
+      "Conclure P à partir de Q, c'est l'affirmation du conséquent : un sophisme.",
+      "Rien dans les prémisses n'impose « non P ».",
+      null,
+      "Cela contredit la seconde prémisse."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-08",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Dans « Pour être admis, il faut avoir la moyenne », avoir la moyenne est :",
+     "o": [
+      "une condition suffisante pour être admis",
+      "une condition nécessaire pour être admis",
+      "une condition nécessaire et suffisante pour être admis",
+      "sans lien logique avec l'admission"
+     ],
+     "a": 1,
+     "e": "« Il faut » exprime une condition nécessaire : admis ⇒ moyenne. Avoir la moyenne ne garantit pas l'admission.",
+     "ed": [
+      "Suffisante voudrait dire : moyenne ⇒ admis, ce que la phrase n'affirme pas.",
+      null,
+      "La phrase n'énonce que le sens admis ⇒ moyenne, pas l'équivalence.",
+      "La phrase établit un lien : admis implique moyenne."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-09",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Quelle est la négation de « Si le courrier arrive, je le traite » ?",
+     "o": [
+      "Si le courrier arrive, je ne le traite pas.",
+      "Si le courrier n'arrive pas, je le traite.",
+      "Le courrier n'arrive pas et je le traite.",
+      "Le courrier arrive et je ne le traite pas."
+     ],
+     "a": 3,
+     "e": "La négation de « si P alors Q » est « P et non Q » : elle ne contient aucun « si ».",
+     "ed": [
+      "Une négation d'implication ne s'écrit pas avec « si » : c'est une autre implication.",
+      "C'est une autre implication, sans rapport de négation.",
+      "P faux et Q vrai rend l'implication vraie : ce n'est pas sa négation.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-10",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« Tous les A sont B. Aucun B n'est C. » Que peut-on conclure ?",
+     "o": [
+      "Certains A sont C.",
+      "On ne peut rien conclure.",
+      "Tous les C sont A.",
+      "Aucun A n'est C."
+     ],
+     "a": 3,
+     "e": "A est entièrement dans B, et B ne touche pas C : A ne peut donc pas toucher C. Aucun A n'est C.",
+     "ed": [
+      "C'est impossible : un A qui serait C serait un B qui est C.",
+      "La conclusion « aucun A n'est C » est forcée par le schéma.",
+      "Aucun C n'est B, donc aucun C n'est A : c'est l'inverse.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-11",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Quelle est la négation de « Le bureau est ouvert le samedi ou le dimanche » ?",
+     "o": [
+      "Le bureau est fermé le samedi ou le dimanche.",
+      "Le bureau est fermé le samedi et le dimanche.",
+      "Le bureau est ouvert le samedi et fermé le dimanche.",
+      "Le bureau est ouvert le samedi et le dimanche."
+     ],
+     "a": 1,
+     "e": "Loi de De Morgan : non (P ou Q) = (non P) et (non Q). Il est fermé les deux jours.",
+     "ed": [
+      "« Fermé l'un ou l'autre » est compatible avec « ouvert l'autre jour ».",
+      null,
+      "Ce cas rend la phrase de départ vraie : il est ouvert le samedi.",
+      "C'est un cas où la phrase de départ est vraie."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-12",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« Tous les magistrats sont juristes. Certains juristes sont enseignants. » La conclusion « Certains magistrats sont enseignants » est :",
+     "o": [
+      "toujours vraie",
+      "toujours fausse",
+      "non démontrée par les prémisses",
+      "la réciproque de la première prémisse"
+     ],
+     "a": 2,
+     "e": "Contre-exemple possible : les juristes enseignants peuvent tous être hors du groupe des magistrats. La conclusion n'est donc pas forcée.",
+     "ed": [
+      "Elle n'est pas forcée : un contre-exemple existe où les prémisses sont vraies et la conclusion fausse.",
+      "Elle peut être vraie dans les faits ; on dit seulement qu'elle n'est pas démontrée.",
+      null,
+      "La réciproque de la première prémisse serait « tous les juristes sont magistrats »."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-13",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« Seuls les candidats inscrits composent. » Quelle phrase est équivalente ?",
+     "o": [
+      "Si un candidat compose, il est inscrit.",
+      "Si un candidat est inscrit, il compose.",
+      "Tous les inscrits composent.",
+      "Aucun inscrit ne compose."
+     ],
+     "a": 0,
+     "e": "« Seuls les A font B » signifie « si on fait B, on est A » : composer ⇒ être inscrit.",
+     "ed": [
+      null,
+      "C'est la réciproque : un inscrit peut être absent.",
+      "Même erreur : la phrase ne garantit pas que tous les inscrits composent.",
+      "C'est contraire au sens : des inscrits composent."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-14",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "La réciproque de « Si un nombre est multiple de 4, il est pair » est :",
+     "o": [
+      "Si un nombre n'est pas pair, il n'est pas multiple de 4.",
+      "Un nombre est multiple de 4 et n'est pas pair.",
+      "Si un nombre n'est pas multiple de 4, il n'est pas pair.",
+      "Si un nombre est pair, il est multiple de 4."
+     ],
+     "a": 3,
+     "e": "La réciproque inverse les deux parties sans les nier : si Q alors P. Ici elle est fausse : 6 est pair sans être multiple de 4.",
+     "ed": [
+      "C'est la contraposée, qui inverse et nie.",
+      "C'est la négation de l'implication.",
+      "C'est la contraire, qui nie sans inverser.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-15",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« Aucun stagiaire n'a accès au coffre. » Quelle est la négation de cette phrase ?",
+     "o": [
+      "Tous les stagiaires ont accès au coffre.",
+      "Certains stagiaires n'ont pas accès au coffre.",
+      "Au moins un stagiaire a accès au coffre.",
+      "Aucun stagiaire n'est autorisé."
+     ],
+     "a": 2,
+     "e": "La négation de « aucun A n'est B » est « certains A sont B », c'est-à-dire au moins un.",
+     "ed": [
+      "« Tous » est trop fort : un seul stagiaire ayant accès suffit à nier la phrase.",
+      "Cette phrase est compatible avec la phrase de départ.",
+      null,
+      "Ce n'est qu'une reformulation proche de la phrase de départ."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-16",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« S'il y a coupure, le groupe électrogène démarre. Le groupe électrogène n'a pas démarré. » Que conclure ?",
+     "o": [
+      "Il y a eu coupure.",
+      "Il n'y a pas eu coupure.",
+      "On ne peut rien conclure.",
+      "Le groupe électrogène est en panne."
+     ],
+     "a": 1,
+     "e": "Par contraposée : si non Q alors non P. Le groupe n'a pas démarré, donc il n'y a pas eu coupure.",
+     "ed": [
+      "Cela contredirait l'implication : coupure et pas de démarrage.",
+      null,
+      "La contraposée permet de conclure.",
+      "Une panne n'est pas prévue par les prémisses : on raisonne seulement sur la forme."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-17",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Barème logique +2 / 0 / −2 : vous avez éliminé deux options sur quatre et hésitez entre les deux autres. Quel est le gain moyen si vous répondez au hasard entre elles ?",
+     "o": [
+      "Un gain de 1 point",
+      "Une perte de 1 point",
+      "Un gain de 2 points",
+      "0 point"
+     ],
+     "a": 3,
+     "e": "Une chance sur deux de gagner 2 et une sur deux de perdre 2 : (2 − 2) / 2 = 0. Répondre au hasard n'apporte rien en moyenne.",
+     "ed": [
+      "+1 supposerait de ne rien perdre en cas d'erreur.",
+      "−1 supposerait plus de chances de se tromper que de réussir.",
+      "+2 n'est obtenu qu'avec une réponse sûre.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "(2-2)/2"
+    },
+    {
+     "id": "n20261124-lo12-18",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« Si P alors Q » est vraie et P est faux. Que peut-on dire de Q ?",
+     "o": [
+      "Q est vrai.",
+      "Q est faux.",
+      "On ne peut rien dire de Q.",
+      "L'implication devient fausse."
+     ],
+     "a": 2,
+     "e": "Quand P est faux, l'implication est vraie quel que soit Q : on ne peut rien en déduire sur Q.",
+     "ed": [
+      "Q peut être vrai, mais ce n'est pas forcé.",
+      "Q peut être faux, mais ce n'est pas forcé.",
+      null,
+      "L'implication n'est fausse que si P est vrai et Q faux."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-19",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "Laquelle de ces phrases n'est PAS équivalente à « Si un agent est en congé, il n'est pas au bureau » ?",
+     "o": [
+      "Si un agent est au bureau, il n'est pas en congé.",
+      "Un agent n'est jamais à la fois en congé et au bureau.",
+      "Si un agent n'est pas au bureau, il est en congé.",
+      "Aucun agent en congé n'est au bureau."
+     ],
+     "a": 2,
+     "e": "« Si non bureau alors congé » est la réciproque : un agent absent peut être en mission sans être en congé.",
+     "ed": [
+      "C'est la contraposée : elle est équivalente.",
+      "C'est une reformulation exacte : l'implication interdit seulement le cas congé et bureau.",
+      null,
+      "C'est la même phrase sous forme « aucun A n'est B »."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-lo12-20",
+     "m": "log",
+     "tag": "niv-lo12",
+     "q": "« Tous les A sont B. Tous les B sont C. Certains C sont D. » Quelle conclusion est CERTAINE ?",
+     "o": [
+      "Certains A sont D.",
+      "Aucun A n'est D.",
+      "Tous les C sont A.",
+      "Tous les A sont C."
+     ],
+     "a": 3,
+     "e": "A est dans B et B dans C : A est donc dans C. Le lien avec D n'est pas forcé, car les C qui sont D peuvent être hors de A.",
+     "ed": [
+      "Non forcé : les C qui sont D peuvent tous être en dehors de A.",
+      "Non forcé non plus : rien n'interdit qu'un A soit D.",
+      "C'est la réciproque : C peut contenir bien plus que A.",
+      null
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261124-cglibre-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le Conseil nordique, organe interparlementaire créé en 1952, a été fondé par le Danemark, l'Islande, la Norvège et la Suède. Quel pays ne l'a rejoint qu'en 1955 ?",
+     "o": [
+      "Le Danemark",
+      "La Finlande",
+      "L'Islande",
+      "La Suède"
+     ],
+     "a": 1,
+     "e": "Selon Norden.org, le Danemark, l'Islande, la Norvège et la Suède ont fondé le Conseil nordique en 1952 ; la Finlande l'a rejoint en 1955.",
+     "ed": [
+      "Le Danemark est l'un des quatre membres fondateurs de 1952.",
+      null,
+      "L'Islande est l'un des quatre membres fondateurs de 1952.",
+      "La Suède est l'un des quatre membres fondateurs de 1952."
+     ],
+     "src": {
+      "t": "Norden.org, « About the Nordic Council »",
+      "u": "https://www.norden.org/en/information/nordic-council"
+     }
+    },
+    {
+     "id": "n20261124-cglibre-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville la convention instituant l'Association européenne de libre-échange (AELE) a-t-elle été signée le 4 janvier 1960 ?",
+     "o": [
+      "Rome",
+      "Genève",
+      "Lisbonne",
+      "Stockholm"
+     ],
+     "a": 3,
+     "e": "L'AELE indique que sa convention a été signée à Stockholm le 4 janvier 1960 et est entrée en vigueur le 3 mai de la même année.",
+     "ed": [
+      "La convention de l'AELE n'a pas été signée à Rome, mais à Stockholm.",
+      "La convention de l'AELE n'a pas été signée à Genève, mais à Stockholm.",
+      "Le Portugal est un fondateur de l'AELE, mais la convention a été signée à Stockholm.",
+      null
+     ],
+     "src": {
+      "t": "EFTA, « EFTA 60 Years »",
+      "u": "https://www.efta.int/EFTA-60-Years"
+     }
+    },
+    {
+     "id": "n20261124-cglibre-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Lequel de ces États fait partie des quatre membres actuels de l'AELE ?",
+     "o": [
+      "Le Liechtenstein",
+      "L'Autriche",
+      "Le Danemark",
+      "Le Portugal"
+     ],
+     "a": 0,
+     "e": "Selon le SECO suisse, les membres actuels de l'AELE sont l'Islande, le Liechtenstein, la Norvège et la Suisse.",
+     "ed": [
+      null,
+      "L'Autriche a fondé l'AELE en 1960 mais ne figure pas parmi les quatre membres actuels.",
+      "Le Danemark a fondé l'AELE en 1960 mais ne figure pas parmi les quatre membres actuels.",
+      "Le Portugal a fondé l'AELE en 1960 mais ne figure pas parmi les quatre membres actuels."
+     ],
+     "src": {
+      "t": "SECO (Confédération suisse), « European Free Trade Association (EFTA) »",
+      "u": "https://www.seco.admin.ch/en/european-free-trade-association-efta"
+     }
+    },
+    {
+     "id": "n20261124-cglibre-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Quelle capitale a été choisie en 1966 pour accueillir le siège de la Banque asiatique de développement (BAsD) ?",
+     "o": [
+      "Tokyo",
+      "Bangkok",
+      "Manille",
+      "Singapour"
+     ],
+     "a": 2,
+     "e": "La BAsD rappelle que la capitale philippine, Manille, a été choisie pour accueillir la nouvelle institution, fondée en 1966.",
+     "ed": [
+      "Tokyo n'a pas été retenue : la BAsD indique que le siège a été confié à Manille.",
+      "Bangkok n'a pas été retenue : le siège a été fixé à Manille.",
+      null,
+      "Singapour n'a pas été retenue : le siège a été fixé à Manille."
+     ],
+     "src": {
+      "t": "Asian Development Bank, « History »",
+      "u": "https://www.adb.org/about/history"
+     }
+    },
+    {
+     "id": "n20261124-cglibre-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville siège le Secrétariat général de la Communauté andine, issue de l'accord de Carthagène du 26 mai 1969 ?",
+     "o": [
+      "Bogota",
+      "La Paz",
+      "Quito",
+      "Lima"
+     ],
+     "a": 3,
+     "e": "Selon le ministère turc des Affaires étrangères, la Communauté andine est née de l'accord de Carthagène du 26 mai 1969 et son Secrétariat général est à Lima.",
+     "ed": [
+      "La Colombie est membre, mais le Secrétariat général n'est pas à Bogota.",
+      "La Bolivie est membre, mais le Secrétariat général n'est pas à La Paz.",
+      "L'Équateur est membre, mais le Secrétariat général n'est pas à Quito.",
+      null
+     ],
+     "src": {
+      "t": "Ministère turc des Affaires étrangères, « Andean Community (Comunidad Andina – CAN) »",
+      "u": "https://www.mfa.gov.tr/can-info.en.mfa"
+     }
+    },
+    {
+     "id": "n20261124-cglibre-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Créée au sommet islamique de Rabat de septembre 1969 et installée à Djeddah, l'Organisation de la Conférence islamique a changé de nom en 2011. Quel est son nom actuel ?",
+     "o": [
+      "Organisation de la coopération islamique",
+      "Ligue islamique mondiale",
+      "Union des États islamiques",
+      "Conseil islamique de coopération"
+     ],
+     "a": 0,
+     "e": "Le ministère turc des Affaires étrangères précise que le nom « Organisation de la coopération islamique (OCI) » a été adopté à Astana en juin 2011, au 38e conseil des ministres.",
+     "ed": [
+      null,
+      "La Ligue islamique mondiale est une autre organisation ; l'OCI a pris le nom d'Organisation de la coopération islamique.",
+      "Ce n'est pas le nom adopté en 2011 : c'est Organisation de la coopération islamique.",
+      "Ce n'est pas le nom adopté en 2011 : c'est Organisation de la coopération islamique."
+     ],
+     "src": {
+      "t": "Ministère turc des Affaires étrangères, « Organisation of Islamic Cooperation (OIC) »",
+      "u": "https://mfa.gov.tr/OIC.en.mfa"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261124an09",
+     "niv": "an09",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "Le discours rapporté",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez transformer une phrase au style direct en phrase au discours rapporté (reported speech) : choisir entre say et tell, reculer les temps d'un cran et adapter les pronoms et les mots de temps.",
+      "= Vous saurez aussi rapporter une question (if / whether, ordre sujet-verbe) et un ordre (tell + personne + to + verbe), et reconnaître les cas où le temps ne change pas.",
+      "## Ce que demande l'épreuve",
+      "Le discours rapporté, c'est répéter ce que quelqu'un a dit sans le citer entre guillemets. En présélection d'anglais (barème +1 / 0 / −1), il apparaît dans des phrases à compléter : on vous donne la phrase directe, vous choisissez la bonne version rapportée. Les mauvaises options sont des formes qui « sonnent » bien mais violent une règle : « said me », « asked where was the office », « told him don't go », ou un temps qui n'a pas reculé.",
+      "! Piège habituel : garder l'ordre de la question. On dit He asked where the office was, jamais « where was the office ».",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez le type de phrase directe : affirmation, question fermée (réponse oui / non), question ouverte (what, where, when…) ou ordre.",
+      "- 2. Choisissez le verbe introducteur : say ou tell pour une affirmation, ask pour une question ou une demande, tell pour un ordre.",
+      "- 3. Reculez le temps d'un cran si le verbe introducteur est au passé (said, told, asked) : présent → passé, passé → past perfect, will → would, can → could.",
+      "- 4. Changez les pronoms et les mots de temps et de lieu si la situation a changé : I → he / she, tomorrow → the next day, here → there.",
+      "- 5. Pour une question : if / whether ou le mot interrogatif, puis sujet + verbe, sans do / did ni point d'interrogation.",
+      "- 6. Barème : éliminez d'abord les options qui violent une règle sûre (said me, ordre de question, don't après told). S'il en reste deux et que vous hésitez sur la concordance, abstenez-vous plutôt que de risquer −1.",
+      "~ Exemple : « The nurse said, \"I am tired.\" » Étape 1 : affirmation. Étape 2 : said, sans personne, convient. Étape 3 : am → was. Étape 4 : I → she. Réponse : The nurse said (that) she was tired (« L'infirmière a dit qu'elle était fatiguée »).",
+      "> Méthode du jour, la pratique entrelacée : au lieu d'enchaîner dix exercices du même type, mélangez les types. Rohrer et Hartwig expliquent qu'en bloc, on devine la méthode avant même de lire l'énoncé ; mélangé, on doit d'abord reconnaître de quel type est la question, exactement comme le jour du QCM. Dans une expérience en classe de 5e, le groupe entraîné en mélange a obtenu 72 % contre 38 % à un test surprise passé deux semaines plus tard (Rohrer, Dedrick et Burgess, 2014). Faites d'abord quelques exercices groupés pour découvrir la notion, puis passez à la série mélangée de la fin de leçon."
+     ],
+     "fond": [
+      "## Notion 1 : say ou tell ?",
+      "Règle : say et tell veulent tous deux dire « dire », mais leur construction diffère. Tell est toujours suivi de la personne à qui l'on parle (told me, told the director). Say ne prend pas cette personne directement : on écrit said, ou said to me.",
+      "Pourquoi ? Tell signifie « dire à quelqu'un », « informer quelqu'un » : la personne fait partie du sens. Say met l'accent sur les paroles elles-mêmes.",
+      "- Correct : He told me that he would be late. / He said that he would be late.",
+      "- Fautif : He said me that he would be late. / He told that he would be late.",
+      "~ Exemple résolu : complétez « Aya ___ the inspector that the documents were ready. » La personne (the inspector) suit directement le verbe : il faut told. Avec said, il faudrait said to the inspector. Réponse : Aya told the inspector that the documents were ready (« Aya a dit à l'inspecteur que les documents étaient prêts »).",
+      "! Piège : le français dit « il m'a dit », avec « me » ; l'anglais traduit par he told me, jamais « he said me ».",
+      "> Pour retenir : « Tell a toujours quelqu'un à qui parler ; say parle tout seul. »",
+      "? Complétez : « The mayor ___ that the market would reopen on Monday. » || Aucune personne ne suit le verbe : il faut said. Told exigerait un complément de personne (told the traders that…). Réponse : The mayor said that the market would reopen on Monday.",
+      "## Notion 2 : la concordance des temps (backshift)",
+      "Règle : quand le verbe introducteur est au passé (said, told), le verbe rapporté recule d'un cran dans le passé.",
+      "- Présent simple → prétérit : \"I live in Bouaké\" → she said she lived in Bouaké.",
+      "- Présent progressif → prétérit progressif : \"I am writing\" → he said he was writing.",
+      "- Present perfect → past perfect : \"I have finished\" → she said she had finished.",
+      "- Prétérit → past perfect : \"I saw him\" → he said he had seen him.",
+      "- will → would, can → could, may → might, must → had to.",
+      "- Ne changent pas : would, could, should, might et le past perfect, déjà « au bout » du recul.",
+      "Pourquoi ? Les paroles appartiennent au passé du moment où on les rapporte. On décale donc tout d'un cran, comme en français : « je suis fatigué » devient « il a dit qu'il était fatigué ».",
+      "~ Exemple résolu : rapportez \"We will vote on Sunday,\" the delegates said. Étape 1 : will → would. Étape 2 : we → they. Étape 3 : on Sunday ne change pas si le dimanche n'est pas encore passé. Réponse : The delegates said (that) they would vote on Sunday.",
+      "! Exception : si ce qui a été dit est toujours vrai, le recul n'est pas obligatoire. He said the Nile is the longest river in the world reste correct. Le recul n'a pas lieu non plus si le verbe introducteur est au présent : She says she is busy.",
+      "> Pour retenir : « Un cran en arrière : présent → passé → past perfect ; will → would, can → could, may → might, must → had to. »",
+      "? Rapportez : \"I have lost my identity card,\" the student said. || Present perfect → past perfect (have lost → had lost) et I → he / she, my → his / her. Réponse : The student said (that) he had lost his identity card.",
+      "## Notion 3 : pronoms, temps et lieu",
+      "Règle : on adapte les pronoms au point de vue de celui qui rapporte, et les repères de temps et de lieu si le moment ou l'endroit ont changé.",
+      "- now → then ; today → that day ; tomorrow → the next day / the following day ; yesterday → the day before ; ago → before.",
+      "- here → there ; this → that ; these → those.",
+      "Pourquoi ? « Demain », pour celui qui a parlé lundi, n'est plus « demain » quand on le rapporte jeudi : c'est « le lendemain ».",
+      "~ Exemple résolu : lundi, Koffi dit : \"I will sign the contract tomorrow.\" Jeudi, vous le rapportez. Étape 1 : will → would. Étape 2 : I → he. Étape 3 : mardi est passé, donc tomorrow → the next day. Réponse : Koffi said he would sign the contract the next day.",
+      "! Piège : ces changements ne sont pas automatiques. Si vous rapportez la phrase le jour même et au même endroit, here et today peuvent rester.",
+      "## Notion 4 : les questions rapportées",
+      "Règle : une question rapportée prend l'ordre d'une affirmation, sujet puis verbe, sans do / does / did et sans point d'interrogation. Question fermée (réponse oui / non) : ask + if ou whether. Question ouverte : on garde le mot interrogatif.",
+      "- \"Do you work here?\" → She asked me if I worked there.",
+      "- \"Where did he go?\" → She asked where he had gone.",
+      "Pourquoi ? La question n'est plus posée directement : elle devient une proposition à l'intérieur de la phrase, qui suit donc l'ordre normal.",
+      "~ Exemple résolu : \"When does the training start?\" the candidate asked. Étape 1 : question ouverte, on garde when. Étape 2 : on supprime does et on remet sujet + verbe : the training started. Étape 3 : recul, starts → started. Réponse : The candidate asked when the training started.",
+      "! Piège : « He asked me where was the office » est fautif ; « He asked me where the office was » est correct.",
+      "> Pour retenir : « Question rapportée = affirmation cachée : if / whether ou mot en wh-, puis sujet + verbe, sans do ni ? ».",
+      "? Rapportez : \"Have you paid the fees?\" the secretary asked me. || Question fermée, donc if (ou whether). Ordre sujet + verbe : I had paid. Recul : have paid → had paid ; you → I. Réponse : The secretary asked me if I had paid the fees.",
+      "## Notion 5 : ordres et demandes",
+      "Règle : un ordre se rapporte avec tell + personne + to + base verbale ; une demande polie avec ask + personne + to + base verbale. À la forme négative, on place not devant to.",
+      "- \"Sit down.\" → She told me to sit down.",
+      "- \"Don't worry.\" → He told her not to worry.",
+      "- \"Could you write it down?\" → She asked me to write it down.",
+      "~ Exemple résolu : \"Don't leave the office before five,\" the head of department said to the interns. Étape 1 : c'est un ordre négatif. Étape 2 : tell + personne : told the interns. Étape 3 : not to + base verbale : not to leave. Réponse : The head of department told the interns not to leave the office before five.",
+      "! Piège : jamais « told them don't leave » ni « told them to not leave » dans les QCM : la forme attendue est not to leave.",
+      "? Série entrelacée (mélangez les types, comme au concours). a) \"Is the bank open?\" he asked. b) \"I can drive,\" she told me. c) \"Close the door,\" the guard said to us. || a) Question fermée : He asked if the bank was open. b) Affirmation, can → could : She told me she could drive. c) Ordre : The guard told us to close the door. Commencez toujours par identifier le type de phrase : c'est lui qui choisit la construction."
+     ],
+     "retenir": [
+      "Tell est toujours suivi de la personne (told me) ; say ne l'est pas directement (said, said to me).",
+      "Après un verbe introducteur au passé, le temps recule d'un cran : présent → prétérit, prétérit et present perfect → past perfect.",
+      "Will devient would, can devient could, may devient might et must devient had to au discours rapporté.",
+      "Would, could, should, might et le past perfect ne changent pas au discours rapporté.",
+      "Tomorrow devient the next day, yesterday the day before, ago before, here there, si le moment ou le lieu a changé.",
+      "Question rapportée : if ou whether (oui / non) ou mot interrogatif, puis sujet + verbe, sans do ni point d'interrogation.",
+      "Ordre rapporté : tell + personne + to + base verbale ; ordre négatif : told him not to + base verbale.",
+      "Une vérité toujours valable peut rester au présent : He said the Nile is the longest river."
+     ],
+     "exo": {
+      "tag": "niv-an09",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "British Council LearnEnglish – Reported speech: statements",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-statements"
+      },
+      {
+       "t": "British Council LearnEnglish – Reported speech: questions",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-questions"
+      },
+      {
+       "t": "British Council LearnEnglish – English grammar reference : Reported speech",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/reported-speech"
+      },
+      {
+       "t": "Perfect English Grammar – Say and tell (fiche PDF)",
+       "u": "https://www.perfect-english-grammar.com/support-files/say-and-tell.pdf"
+      },
+      {
+       "t": "EnglishClub – Backshift in Reported Speech",
+       "u": "https://englishclub.com/grammar/sentence/reported-speech-backshift.htm"
+      },
+      {
+       "t": "Athabasca University Write Site – Direct and indirect speech",
+       "u": "https://www.athabascau.ca/write-site/english-grammar-handbook/concise-esl-support/direct-indirect-speech.html"
+      },
+      {
+       "t": "D. Rohrer, M. K. Hartwig, « Spaced and interleaved mathematics practice », in In Their Own Words (APA / UNH Teaching & Learning Resource Hub), 2023",
+       "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-spaced-and-interleaved-mathematics-practice-rohrer-hartwig.pdf"
+      },
+      {
+       "t": "D. Rohrer, R. F. Dedrick, K. Burgess, « The benefit of interleaved mathematics practice is not limited to superficially similar kinds of problems », Psychonomic Bulletin & Review, 2014",
+       "u": "https://link.springer.com/article/10.3758/s13423-014-0588-3"
+      }
+     ]
+    },
+    {
+     "id": "L20261124cg11",
+     "niv": "cg11",
+     "m": "cg",
+     "titre": "Afrique : géographie physique",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer et chiffrer les grands records physiques de l'Afrique : les trois plus longs fleuves, les grands lacs, le point le plus haut et le point le plus bas, le Sahara.",
+      "= Vous saurez aussi relier chaque record à son pays ou à sa région, et éviter les confusions classiques entre lac le plus grand, lac le plus profond et lac le plus long.",
+      "## Ce que demande l'épreuve",
+      "En culture générale (barème +1 / 0 / −1), la géographie physique de l'Afrique tombe sous forme de questions courtes : « Quel est le plus long fleuve d'Afrique ? », « Dans quel pays se trouve le lac Assal ? », « Quel lac est le plus profond ? ». Les distracteurs sont presque toujours d'autres records réels, mais attribués au mauvais objet : le Congo à la place du Niger, le lac Tanganyika à la place du lac Victoria. Le piège n'est donc pas l'ignorance totale, c'est la confusion entre records voisins.",
+      "## La méthode, pas à pas",
+      "- 1. Lisez le superlatif exact : le plus long, le plus grand (en surface), le plus profond, le plus haut, le plus bas.",
+      "- 2. Associez ce superlatif à sa « carte mentale » : chaque record a une place sur la carte (nord, est, ouest, centre).",
+      "- 3. Éliminez les options qui sont des records d'une autre catégorie.",
+      "- 4. Vérifiez l'ordre de grandeur : un sommet africain ne dépasse pas 6 000 m ; un point situé sous le niveau de la mer se compte en mètres négatifs.",
+      "- 5. Barème : si deux réponses restent possibles et que vous ne savez pas laquelle, abstenez-vous ; une réponse au hasard entre deux options vaut en moyenne 0, mais une erreur coûte un point.",
+      "~ Exemple : « Quel est le deuxième plus long fleuve d'Afrique ? » Étape 1 : superlatif « long », rang 2. Étape 2 : le classement est Nil, Congo, Niger. Étape 3 : on écarte le Nil (rang 1) et le Niger (rang 3). Réponse : le Congo, environ 4 700 km selon Britannica.",
+      "> Méthode du jour, la pratique entrelacée : au lieu d'enchaîner dix exercices du même type, mélangez les types. Rohrer et Hartwig expliquent qu'en bloc, on devine la méthode avant même de lire l'énoncé ; mélangé, on doit d'abord reconnaître de quel type est la question, exactement comme le jour du QCM. Dans une expérience en classe de 5e, le groupe entraîné en mélange a obtenu 72 % contre 38 % à un test surprise passé deux semaines plus tard (Rohrer, Dedrick et Burgess, 2014). Faites d'abord quelques exercices groupés pour découvrir la notion, puis passez à la série mélangée de la fin de leçon."
+     ],
+     "fond": [
+      "## Notion 1 : un continent de plateaux, coupé par l'équateur et fendu par le rift",
+      "L'Afrique est le deuxième plus grand continent de la Terre. L'équateur la divise presque en deux moitiés égales (National Geographic). Son relief est surtout fait de plateaux : Britannica note qu'elle a moins de hautes montagnes et moins de plaines basses que tous les autres continents.",
+      "Le trait de relief le plus frappant est le système du rift est-africain. Un rift est une longue fracture de l'écorce terrestre, où le sol s'affaisse entre deux failles. Celui de l'Afrique de l'Est s'étend sur environ 4 000 milles (près de 6 400 km), avec une branche orientale et une branche occidentale ; on peut le suivre depuis la mer Rouge.",
+      "Pourquoi est-ce utile ? Le rift explique à la fois les grands lacs étroits et profonds de l'Est et les volcans comme le Kilimandjaro : retenez-le comme la « fabrique » des records de l'Est.",
+      "> Pour retenir : « À l'Est, le rift : lacs profonds et grands sommets. »",
+      "## Notion 2 : les trois grands fleuves, Nil, Congo, Niger",
+      "- Le Nil : environ 6 650 km selon la liste de Britannica, ce qui en fait le plus long fleuve du monde. Le lac Victoria en est la source méridionale et son principal réservoir ; son seul émissaire est le Nil Victoria.",
+      "- Le Congo : environ 4 700 km, deuxième fleuve d'Afrique par la longueur. Il naît dans les hauts plateaux du nord-est de la Zambie, sous le nom de Chambeshi, et se jette dans l'Atlantique à Banana, en RD Congo. Son débit à l'embouchure atteint environ 41 000 m³ par seconde, et il forme le plus grand réseau de voies navigables du continent.",
+      "- Le Niger : environ 4 200 km, troisième fleuve d'Afrique. Il naît en Guinée, sur le versant est du Fouta-Djalon, à seulement 240 km de l'océan ; il traverse notamment le Mali, le Niger et le Nigeria. Près de Mopti, au Mali, il forme un delta intérieur ; il se termine au Nigeria par le plus grand delta d'Afrique, environ 36 000 km².",
+      "Pourquoi le Niger fait-il un si grand détour ? Né tout près de l'Atlantique, il part d'abord vers l'intérieur, au nord-est, monte jusqu'aux environs de Tombouctou, puis redescend vers le golfe de Guinée.",
+      "~ Exemple résolu : « Un fleuve naît en Guinée, forme un delta intérieur au Mali et se jette au Nigeria. Lequel ? » Étape 1 : Guinée, Mali, Nigeria : c'est l'Afrique de l'Ouest, ce qui écarte le Nil et le Congo. Étape 2 : le delta intérieur près de Mopti est la signature du Niger. Réponse : le Niger.",
+      "! Piège : la Guinée, souvent appelée « château d'eau de l'Afrique de l'Ouest », est la source du Niger, pas du Congo ; le Congo naît en Zambie.",
+      "> Pour retenir : « Nil, Congo, Niger : 6 650, 4 700, 4 200 km, dans l'ordre N-C-N. »",
+      "? Classez du plus long au plus court : Niger, Nil, Congo. Puis donnez le pays où chacun se jette ou se termine, quand la leçon l'indique. || Nil (environ 6 650 km), Congo (environ 4 700 km), Niger (environ 4 200 km). Le Congo se jette dans l'Atlantique à Banana, en RD Congo ; le Niger se termine au Nigeria par le plus grand delta d'Afrique. Moyen de vérification : l'ordre N-C-N.",
+      "## Notion 3 : les lacs, trois records à ne pas confondre",
+      "- Le plus grand : le lac Victoria, environ 69 484 km², partagé surtout entre la Tanzanie et l'Ouganda et bordant le Kenya. Parmi les lacs d'eau douce du monde, seul le lac Supérieur, en Amérique du Nord, est plus étendu. Il est pourtant peu profond : 82 m au maximum.",
+      "- Le plus profond et le plus long : le lac Tanganyika, 1 436 m de profondeur, deuxième lac le plus profond du monde après le Baïkal (Russie), et plus long lac d'eau douce du monde avec 660 km. Il sert de frontière entre la Tanzanie et la RD Congo, et borde aussi le Burundi et la Zambie.",
+      "- Le lac Malawi (Nyassa) : très allongé, environ 360 milles de long (près de 580 km) pour 50 milles de large au plus, et 2 310 pieds (environ 700 m) de profondeur maximale.",
+      "Pourquoi Victoria est-il vaste mais peu profond, alors que Tanganyika est étroit et très profond ? Victoria occupe une cuvette posée sur le plateau entre les deux branches du rift ; Tanganyika remplit une fracture du rift, longue et profonde comme une tranchée.",
+      "~ Exemple résolu : « Le deuxième lac le plus profond du monde se trouve en Afrique. Lequel ? » Étape 1 : superlatif « profond ». Étape 2 : profond = fracture du rift = lac long et étroit. Étape 3 : Victoria est grand mais ne dépasse pas 82 m. Réponse : le Tanganyika, 1 436 m.",
+      "! Piège : « le plus grand lac » (Victoria) et « le lac le plus profond » (Tanganyika) sont deux réponses différentes.",
+      "> Pour retenir : « Victoria la Vaste, Tanganyika la Tranchée. »",
+      "? Complétez : le lac qui sert de principal réservoir au Nil est le lac ___ ; le lac qui marque la frontière entre la Tanzanie et la RD Congo est le lac ___. || Le premier est le lac Victoria, source méridionale et principal réservoir du Nil. Le second est le lac Tanganyika, dans la branche occidentale du rift. Moyen mnémotechnique : Victoria la Vaste nourrit le Nil, Tanganyika la Tranchée sépare deux pays.",
+      "## Notion 4 : le plus haut, le plus bas, et le mont Nimba",
+      "- Point culminant : le Kilimandjaro, 5 895 m, le point le plus élevé du continent (Britannica).",
+      "- Point le plus bas : le lac Assal, lac salé du centre de Djibouti, à 157 m sous le niveau de la mer.",
+      "- Le massif du Ruwenzori, à la frontière de la RD Congo et de l'Ouganda, culmine au pic Margherita (16 795 pieds, soit environ 5 120 m). Il n'est pas volcanique et on le surnomme les « montagnes de la Lune ».",
+      "- Les hauts plateaux d'Éthiopie dépassent par endroits 15 000 pieds (environ 4 570 m) ; National Geographic indique qu'ils abritent 80 % des plus hautes montagnes d'Afrique.",
+      "- Pour la Côte d'Ivoire : le mont Nimba, 1 752 m, aux frontières de la Guinée, du Libéria et de la Côte d'Ivoire. Sa réserve naturelle intégrale couvre 17 540 ha, dont 5 000 en Côte d'Ivoire, et figure au patrimoine mondial de l'UNESCO depuis 1982 selon Britannica.",
+      "~ Exemple résolu : calculez l'écart entre le point le plus haut et le point le plus bas de l'Afrique. Étape 1 : Kilimandjaro, +5 895 m. Étape 2 : lac Assal, −157 m. Étape 3 : écart = 5 895 − (−157) = 5 895 + 157 = 6 052 m. Vérification : retirer un nombre négatif revient à l'ajouter.",
+      "! Piège : le Kilimandjaro et le Ruwenzori dépassent tous deux 5 000 m ; le record appartient au Kilimandjaro.",
+      "## Notion 5 : le Sahara et le Sahel",
+      "Le Sahara est le plus grand désert chaud du monde : environ 8,5 millions de km², soit 25 % de la superficie de l'Afrique (National Geographic). Au sud, le Sahel, bande de transition semi-aride, s'étire sur environ 5 400 km, du Sénégal au Soudan.",
+      "Pourquoi « chaud » ? Parce que les déserts froids, comme l'Antarctique, sont plus vastes : dire « plus grand désert du monde » sans préciser serait faux.",
+      "> Pour retenir : « Sahara : 8,5 millions de km², un quart de l'Afrique, record des déserts chauds. »",
+      "? Série entrelacée (types mélangés, comme au concours). a) Dans quel pays se trouve le point le plus bas d'Afrique ? b) Quel fleuve naît en Zambie sous le nom de Chambeshi ? c) Quelle part de l'Afrique le Sahara couvre-t-il ? || a) À Djibouti : le lac Assal, à −157 m. b) Le Congo. c) Environ 25 %, soit un quart, pour 8,5 millions de km². Pour chaque question, identifiez d'abord la catégorie (point bas, fleuve, désert) avant de chercher la réponse : c'est le réflexe que la pratique entrelacée entraîne."
+     ],
+     "retenir": [
+      "Le Nil, environ 6 650 km selon Britannica, est le plus long fleuve d'Afrique et du monde.",
+      "Le Congo, environ 4 700 km, est le deuxième fleuve d'Afrique ; il naît en Zambie et se jette à Banana, en RD Congo.",
+      "Le Niger, environ 4 200 km, naît en Guinée, forme un delta intérieur au Mali et le plus grand delta d'Afrique au Nigeria.",
+      "Le lac Victoria, environ 69 484 km², est le plus grand lac d'Afrique et le principal réservoir du Nil.",
+      "Le lac Tanganyika, 1 436 m, est le deuxième lac le plus profond du monde et le plus long lac d'eau douce.",
+      "Le Kilimandjaro, 5 895 m, est le point culminant de l'Afrique ; le lac Assal, à Djibouti, est le plus bas, à −157 m.",
+      "Le Sahara, plus grand désert chaud du monde, couvre environ 8,5 millions de km², soit un quart de l'Afrique.",
+      "Le mont Nimba, 1 752 m, est situé aux frontières de la Guinée, du Libéria et de la Côte d'Ivoire."
+     ],
+     "exo": {
+      "tag": "niv-cg11",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Britannica, « Africa – Land »",
+       "u": "https://www.britannica.com/place/Africa/Land"
+      },
+      {
+       "t": "National Geographic Education, « Africa: Physical Geography »",
+       "u": "https://education.nationalgeographic.org/resource/africa-physical-geography/"
+      },
+      {
+       "t": "Britannica, « Lake Victoria »",
+       "u": "https://www.britannica.com/place/Lake-Victoria"
+      },
+      {
+       "t": "Britannica, « Lake Tanganyika »",
+       "u": "https://www.britannica.com/place/Lake-Tanganyika"
+      },
+      {
+       "t": "Britannica, « Lake Assal »",
+       "u": "https://www.britannica.com/place/Lake-Assal"
+      },
+      {
+       "t": "Britannica, « Congo River »",
+       "u": "https://www.britannica.com/place/Congo-River"
+      },
+      {
+       "t": "Britannica, « Niger River »",
+       "u": "https://www.britannica.com/place/Niger-River"
+      },
+      {
+       "t": "Britannica, « The world's longest rivers »",
+       "u": "https://www.britannica.com/topic/worlds-longest-rivers-2225894"
+      },
+      {
+       "t": "Britannica, « Mount Nimba »",
+       "u": "https://www.britannica.com/place/Mount-Nimba"
+      },
+      {
+       "t": "UNESCO, Centre du patrimoine mondial, « Réserve naturelle intégrale du mont Nimba »",
+       "u": "https://whc.unesco.org/fr/list/155"
+      },
+      {
+       "t": "D. Rohrer, M. K. Hartwig, « Spaced and interleaved mathematics practice », in In Their Own Words (APA / UNH Teaching & Learning Resource Hub), 2023",
+       "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-spaced-and-interleaved-mathematics-practice-rohrer-hartwig.pdf"
+      },
+      {
+       "t": "D. Rohrer, R. F. Dedrick, K. Burgess, « The benefit of interleaved mathematics practice is not limited to superficially similar kinds of problems », Psychonomic Bulletin & Review, 2014",
+       "u": "https://link.springer.com/article/10.3758/s13423-014-0588-3"
+      }
+     ]
+    },
+    {
+     "id": "L20261124lo12",
+     "niv": "lo12",
+     "m": "log",
+     "verif": "methode",
+     "titre": "Logique propositionnelle et syllogismes",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez nier correctement une phrase (avec « et », « ou », « tous », « certains »), reconnaître quand une implication « si… alors » est fausse et distinguer contraposée et réciproque.",
+      "= Vous saurez aussi juger en moins d'une minute si la conclusion d'un syllogisme découle vraiment de ses prémisses, sans vous laisser piéger par le bon sens.",
+      "## Ce que demande l'épreuve",
+      "En logique de présélection, le barème est +2 / 0 / −2 : une bonne réponse rapporte deux points, une erreur en retire deux. Les questions de logique verbale prennent trois formes : « quelle est la négation de… ? », « laquelle de ces phrases est équivalente à… ? », « que peut-on conclure ? ». Le piège constant est de répondre avec le bon sens ou avec le contenu des phrases, au lieu de leur forme. Une conclusion vraie dans la réalité peut être logiquement non démontrée.",
+      "! Piège habituel : croire que la négation de « tous les agents sont présents » est « aucun agent n'est présent ». C'est « au moins un agent est absent ».",
+      "## La méthode, pas à pas",
+      "- 1. Remplacez le contenu par des lettres : P = « il pleut », Q = « la route est glissante ». La forme apparaît mieux.",
+      "- 2. Repérez le connecteur principal : non, et, ou, si… alors, tous, certains.",
+      "- 3. Appliquez la règle de la forme (tableau de la leçon), sans regarder si la phrase est réaliste.",
+      "- 4. Pour un syllogisme, cherchez un contre-exemple : une situation où les prémisses sont vraies et la conclusion fausse. Si vous en trouvez un, la conclusion ne découle pas.",
+      "- 5. Barème : avec +2 / −2, répondez dès qu'il vous reste une seule option compatible avec la règle ; abstenez-vous si deux options restent et que vous ne pouvez pas trancher par la forme.",
+      "~ Exemple : « Si un dossier est complet, il est examiné. Le dossier de Kouassi n'est pas examiné. Que conclure ? » Étape 1 : P = complet, Q = examiné ; on sait « si P alors Q » et « non Q ». Étape 2 : la contraposée de « si P alors Q » est « si non Q alors non P ». Réponse : le dossier de Kouassi n'est pas complet.",
+      "> Méthode du jour, la pratique entrelacée : au lieu d'enchaîner dix exercices du même type, mélangez les types. Rohrer et Hartwig expliquent qu'en bloc, on devine la méthode avant même de lire l'énoncé ; mélangé, on doit d'abord reconnaître de quel type est la question, exactement comme le jour du QCM. Dans une expérience en classe de 5e, le groupe entraîné en mélange a obtenu 72 % contre 38 % à un test surprise passé deux semaines plus tard (Rohrer, Dedrick et Burgess, 2014). Faites d'abord quelques exercices groupés pour découvrir la notion, puis passez à la série mélangée de la fin de leçon."
+     ],
+     "fond": [
+      "## Notion 1 : la négation de « et » et de « ou »",
+      "Règle : nier une proposition, c'est dire exactement le contraire, ce qui est vrai quand elle est fausse. Pour « et » et « ou », on inverse le connecteur (lois de De Morgan) :",
+      "- non (P et Q) = (non P) ou (non Q) ;",
+      "- non (P ou Q) = (non P) et (non Q).",
+      "Pourquoi ? « P et Q » exige que les deux soient vrais : il suffit qu'un seul soit faux pour que ce soit faux. « P ou Q » est vrai dès qu'un des deux est vrai : pour qu'il soit faux, il faut que les deux soient faux.",
+      "~ Exemple résolu : niez « Le candidat a son diplôme et son extrait de naissance. » Étape 1 : forme P et Q. Étape 2 : non P ou non Q. Réponse : le candidat n'a pas son diplôme ou n'a pas son extrait de naissance (il lui manque au moins une pièce).",
+      "! Piège : « il n'a ni son diplôme ni son extrait » est trop fort : c'est la négation de « ou », pas de « et ».",
+      "> Pour retenir : « La négation fait la bascule : et devient ou, ou devient et. »",
+      "? Niez : « Le marché est ouvert le lundi ou le jeudi. » || Forme P ou Q ; négation : non P et non Q. Réponse : le marché n'est ouvert ni le lundi ni le jeudi (il est fermé le lundi et fermé le jeudi).",
+      "## Notion 2 : l'implication « si P alors Q »",
+      "Règle : « si P alors Q » n'est fausse que dans un seul cas : P vrai et Q faux. Dans tous les autres cas, elle est vraie. Sa négation est donc « P et non Q ».",
+      "Pourquoi ? Une promesse « si tu réussis, je te paie le voyage » n'est trahie que si tu réussis et que le voyage n'est pas payé. Si tu échoues, la promesse ne dit rien : elle n'est pas trahie.",
+      "~ Exemple résolu : niez « Si le bus arrive en retard, l'agent perd son tour. » Étape 1 : forme si P alors Q. Étape 2 : négation P et non Q. Réponse : le bus est arrivé en retard et l'agent n'a pas perdu son tour.",
+      "! Piège : la négation de « si P alors Q » n'est jamais « si P alors non Q », ni « si non P alors non Q » : une négation d'implication ne contient pas de « si ».",
+      "> Pour retenir : « Une implication ne ment que dans un cas : P vrai, Q faux. »",
+      "## Notion 3 : contraposée, réciproque, condition nécessaire et suffisante",
+      "Règle : à partir de « si P alors Q », on peut former :",
+      "- la contraposée « si non Q alors non P » : elle est toujours équivalente à l'implication de départ ;",
+      "- la réciproque « si Q alors P » : elle n'est pas équivalente, elle peut être fausse quand l'implication est vraie.",
+      "Vocabulaire : dans « si P alors Q », P est une condition suffisante de Q, et Q est une condition nécessaire de P. « P seulement si Q » veut dire « si P alors Q ».",
+      "Pourquoi ? « Si une ville est la capitale politique de la Côte d'Ivoire, elle est en Côte d'Ivoire » est vraie. La contraposée, « si une ville n'est pas en Côte d'Ivoire, elle n'en est pas la capitale politique », est vraie aussi. La réciproque, « si une ville est en Côte d'Ivoire, elle est la capitale politique », est fausse : Bouaké est en Côte d'Ivoire sans être la capitale.",
+      "~ Exemple résolu : « Pour voter, il faut être inscrit sur la liste électorale. » Étape 1 : traduire : si on vote, alors on est inscrit (V ⇒ I). Étape 2 : l'inscription est une condition nécessaire. Étape 3 : contraposée : si on n'est pas inscrit, on ne vote pas. Étape 4 : la réciproque, « si on est inscrit, on vote », n'est pas garantie : un inscrit peut s'abstenir.",
+      "! Piège de l'« affirmation du conséquent » : de « si P alors Q » et « Q », on ne peut rien conclure sur P. « S'il pleut, le sol est mouillé ; le sol est mouillé » ne prouve pas qu'il a plu (on a pu arroser).",
+      "> Pour retenir : « La contraposée inverse ET nie : elle dit pareil. La réciproque inverse seulement : elle dit autre chose. »",
+      "? Laquelle est équivalente à « Si un fonctionnaire est muté, il change de résidence » ? a) S'il change de résidence, il est muté. b) S'il ne change pas de résidence, il n'est pas muté. c) S'il n'est pas muté, il ne change pas de résidence. || Réponse b), la contraposée : on inverse et on nie les deux parties. a) est la réciproque et c) est la contraire (« si non P alors non Q ») : aucune des deux n'est équivalente, car on peut changer de résidence sans mutation.",
+      "## Notion 4 : nier « tous », « aucun », « certains »",
+      "Règle :",
+      "- non (tous les A sont B) = certains A ne sont pas B (au moins un) ;",
+      "- non (certains A sont B) = aucun A n'est B ;",
+      "- non (aucun A n'est B) = certains A sont B.",
+      "Pourquoi ? Pour démentir « tous les élèves ont réussi », un seul contre-exemple suffit : un élève qui a échoué. Pour démentir « certains élèves ont réussi », il faut montrer que personne n'a réussi.",
+      "~ Exemple résolu : niez « Tous les bureaux de vote ont ouvert à l'heure. » Étape 1 : forme « tous les A sont B ». Étape 2 : négation « au moins un A n'est pas B ». Réponse : au moins un bureau de vote n'a pas ouvert à l'heure.",
+      "! Piège : en logique, « certains » signifie « au moins un » ; « certains sont B » n'interdit pas que tous le soient.",
+      "## Notion 5 : les syllogismes",
+      "Règle : un syllogisme part de deux prémisses pour tirer une conclusion. Il est valide si la conclusion est forcée par la forme, quelle que soit la vérité réelle des phrases. Forme valide type : « Tous les A sont B ; tous les B sont C ; donc tous les A sont C. »",
+      "Pourquoi ? On peut le dessiner : le cercle A est dans le cercle B, lui-même dans le cercle C ; A est donc forcément dans C. Le schéma (double codage) rend la forme visible.",
+      "~ Exemple résolu : « Tous les magistrats sont juristes. Certains juristes sont enseignants. Donc certains magistrats sont enseignants. » Étape 1 : forme : tous les M sont J ; certains J sont E. Étape 2 : contre-exemple : les juristes enseignants peuvent être tous des avocats, hors du cercle des magistrats. Étape 3 : prémisses vraies, conclusion fausse possible. Réponse : la conclusion ne découle pas.",
+      "! Piège : une conclusion qui « semble vraie » dans la vie n'est pas pour autant démontrée. Jugez la forme, pas le contenu.",
+      "> Pour retenir : « Valide = impossible de trouver un contre-exemple. Un seul contre-exemple suffit à casser la conclusion. »",
+      "? Série entrelacée (types mélangés, comme au concours). a) Niez « Certains dossiers sont incomplets. » b) « Si P alors Q » ; on sait non Q. Que conclure ? c) « Tous les A sont B ; aucun B n'est C. » Que conclure sur A et C ? || a) Aucun dossier n'est incomplet (tous sont complets). b) Non P, par contraposée. c) Aucun A n'est C : A est dans B, et B ne touche pas C. Repérez d'abord le type de question (négation, implication, syllogisme) avant d'appliquer la règle : c'est le réflexe que la pratique entrelacée entraîne."
+     ],
+     "retenir": [
+      "Non (P et Q) équivaut à (non P) ou (non Q) ; non (P ou Q) équivaut à (non P) et (non Q).",
+      "« Si P alors Q » n'est fausse que dans un cas : P vrai et Q faux.",
+      "La négation de « si P alors Q » est « P et non Q » : elle ne contient aucun « si ».",
+      "« Si P alors Q » équivaut à sa contraposée « si non Q alors non P », mais pas à sa réciproque « si Q alors P ».",
+      "Dans « si P alors Q », P est condition suffisante de Q et Q est condition nécessaire de P.",
+      "La négation de « tous les A sont B » est « au moins un A n'est pas B », jamais « aucun A n'est B ».",
+      "La négation de « certains A sont B » est « aucun A n'est B ».",
+      "Un syllogisme est valide s'il n'existe aucun contre-exemple où les prémisses sont vraies et la conclusion fausse."
+     ],
+     "exo": {
+      "tag": "niv-lo12",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "D. Rohrer, M. K. Hartwig, « Spaced and interleaved mathematics practice », in In Their Own Words (APA / UNH Teaching & Learning Resource Hub), 2023",
+       "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-spaced-and-interleaved-mathematics-practice-rohrer-hartwig.pdf"
+      },
+      {
+       "t": "D. Rohrer, R. F. Dedrick, K. Burgess, « The benefit of interleaved mathematics practice is not limited to superficially similar kinds of problems », Psychonomic Bulletin & Review, 2014",
+       "u": "https://link.springer.com/article/10.3758/s13423-014-0588-3"
+      }
+     ]
+    }
+   ],
+   "sujets": []
   }
  ]
 }
