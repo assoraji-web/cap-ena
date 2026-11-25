@@ -43243,6 +43243,1697 @@
     }
    ],
    "sujets": []
+  },
+  {
+   "date": "2026-11-25",
+   "questions": [
+    {
+     "id": "n20261125-an10-01",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Choose the correct article: « She is ___ honest civil servant. »",
+     "o": [
+      "a",
+      "an",
+      "the",
+      "no article"
+     ],
+     "a": 1,
+     "e": "Le h de honest est muet : le mot commence par un son voyelle, donc an. Règle : « écoute, ne lis pas ».",
+     "ed": [
+      "A s'emploie devant un son consonne ; or honest commence par un son voyelle (h muet).",
+      null,
+      "The désignerait une fonctionnaire déjà connue ; ici on la présente pour la première fois.",
+      "Un nom singulier dénombrable (servant) exige un déterminant : l'absence d'article est fautive."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-02",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Choose the correct word: « He works for ___ European organisation. »",
+     "o": [
+      "an",
+      "a",
+      "any",
+      "much"
+     ],
+     "a": 1,
+     "e": "European commence par le son « you », un son consonne : a European organisation, comme a university.",
+     "ed": [
+      "An s'emploie devant un son voyelle ; European se prononce avec un son « you », donc a.",
+      null,
+      "Any ne s'emploie pas avec un nom singulier dénombrable dans une phrase affirmative.",
+      "Much accompagne un nom indénombrable, pas un nom singulier dénombrable comme organisation."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-03",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Which of these nouns is uncountable in English?",
+     "o": [
+      "chair",
+      "idea",
+      "bag",
+      "advice"
+     ],
+     "a": 3,
+     "e": "Advice est indénombrable : pas de -s, pas de a ; on dit some advice ou a piece of advice (A-I-F-L-M).",
+     "ed": [
+      "Chair est dénombrable : a chair, two chairs.",
+      "Idea est dénombrable : an idea, many ideas.",
+      "Bag est dénombrable : a bag, two bags.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-04",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Quel est le sens de « Few people came to the meeting » ?",
+     "o": [
+      "Beaucoup de gens sont venus à la réunion.",
+      "Quelques personnes sont venues, et c'était suffisant.",
+      "Peu de gens sont venus à la réunion, c'était décevant.",
+      "Personne n'est venu à la réunion."
+     ],
+     "a": 2,
+     "e": "Few, sans a, a un sens négatif : « peu, pas assez ». A few aurait le sens positif « quelques-uns, assez ».",
+     "ed": [
+      "Beaucoup se dirait many ou a lot of, pas few.",
+      "Ce sens positif est celui de a few, avec l'article a.",
+      null,
+      "Personne se dirait nobody ou no one ; few indique un petit nombre, pas zéro."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-05",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Choose the correct sentence about life in general.",
+     "o": [
+      "The life is hard in the city without a job.",
+      "A life is hard in the city without a job.",
+      "Lives is hard in the city without a job.",
+      "Life is hard in the city without a job."
+     ],
+     "a": 3,
+     "e": "Pour parler d'une chose en général, l'anglais met l'indénombrable sans article : Life is hard, là où le français dit « la vie ».",
+     "ed": [
+      "The life désignerait une vie précise ; c'est un calque du français « la vie ».",
+      "A life présente une vie parmi d'autres, ce qui ne correspond pas au sens général.",
+      "Lives est un pluriel : il faudrait are, et le sens général s'exprime ici par l'indénombrable.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-06",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "« How ___ money do you need for the registration fees? »",
+     "o": [
+      "many",
+      "much",
+      "few",
+      "a few"
+     ],
+     "a": 1,
+     "e": "Money est indénombrable : on demande la quantité avec How much. How many s'emploie avec un pluriel dénombrable.",
+     "ed": [
+      "Many accompagne un pluriel dénombrable (how many francs), pas money, qui est indénombrable.",
+      null,
+      "Few accompagne un pluriel dénombrable et « how few » ne forme pas une question de quantité usuelle ici.",
+      "A few accompagne un pluriel dénombrable ; « how a few » est agrammatical."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-07",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "« The jury gave each candidate ___ useful information. »",
+     "o": [
+      "an",
+      "many",
+      "some",
+      "a few"
+     ],
+     "a": 2,
+     "e": "Information est indénombrable : ni an, ni many, ni a few. Dans une phrase affirmative, some convient.",
+     "ed": [
+      "An est impossible devant un indénombrable comme information.",
+      "Many accompagne un pluriel dénombrable ; information est indénombrable.",
+      null,
+      "A few accompagne un pluriel dénombrable ; avec un indénombrable, on dirait a little."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-08",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "« There aren't ___ seats left in the conference room. »",
+     "o": [
+      "some",
+      "much",
+      "a little",
+      "any"
+     ],
+     "a": 3,
+     "e": "Dans une phrase négative ordinaire, on emploie any avec un pluriel dénombrable : There aren't any seats.",
+     "ed": [
+      "Some s'emploie dans l'affirmation, l'offre ou la demande, pas dans une négation ordinaire.",
+      "Much accompagne un indénombrable ; seats est un pluriel dénombrable.",
+      "A little accompagne un indénombrable ; seats est dénombrable.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-09",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "You are offering a drink: « Would you like ___ coffee before the interview? »",
+     "o": [
+      "some",
+      "many",
+      "a few",
+      "few"
+     ],
+     "a": 0,
+     "e": "Pour offrir ou demander quelque chose, on garde some, même dans une question : Would you like some coffee?",
+     "ed": [
+      null,
+      "Many accompagne un pluriel dénombrable ; coffee est ici indénombrable.",
+      "A few accompagne un pluriel dénombrable ; avec coffee, on dirait a little.",
+      "Few a un sens négatif et accompagne un pluriel dénombrable : il ne convient pas à une offre."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-10",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Choose the correct sentence: « ___ have signed a trade agreement. »",
+     "o": [
+      "The Netherlands and the Ghana",
+      "The Netherlands and Ghana",
+      "Netherlands and the Ghana",
+      "Netherlands and Ghana"
+     ],
+     "a": 1,
+     "e": "Les pays au nom pluriel prennent the (the Netherlands) ; les noms de pays singuliers n'en prennent pas (Ghana).",
+     "ed": [
+      "Ghana, nom de pays singulier, ne prend pas d'article en anglais, contrairement au français « le Ghana ».",
+      null,
+      "Netherlands, nom pluriel, exige the ; et Ghana n'en prend pas.",
+      "Netherlands, nom de pays pluriel, exige the."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-11",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "« This is ___ most difficult exercise of the test. »",
+     "o": [
+      "a",
+      "the",
+      "an",
+      "much"
+     ],
+     "a": 1,
+     "e": "Un superlatif (the most difficult, the best) prend toujours the, car il désigne une chose unique.",
+     "ed": [
+      "A ne s'emploie pas devant un superlatif, qui désigne un élément unique.",
+      null,
+      "An ne s'emploie pas devant un superlatif ; et most commence par un son consonne.",
+      "Much est un quantifieur d'indénombrable, pas un article ; « much most » est agrammatical."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-12",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Correct the sentence: « They bought two new furnitures for the office. »",
+     "o": [
+      "They bought two new furniture for the office.",
+      "They bought two new pieces of furniture for the office.",
+      "They bought two new furnitures pieces for the office.",
+      "They bought two new a furniture for the office."
+     ],
+     "a": 1,
+     "e": "Furniture est indénombrable : on compte ses unités avec pieces of. Moyen mnémotechnique : A-I-F-L-M, jamais de -s.",
+     "ed": [
+      "Un chiffre ne peut pas précéder directement un indénombrable : il faut pieces of.",
+      null,
+      "Furniture ne prend jamais de -s, et pieces se place avant of furniture.",
+      "A est impossible devant un indénombrable et ne peut suivre un chiffre."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-13",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "« We have ___ time left: the exam ends in two minutes. »",
+     "o": [
+      "few",
+      "many",
+      "very little",
+      "a few"
+     ],
+     "a": 2,
+     "e": "Time (le temps) est indénombrable et le sens est négatif (pas assez) : very little. Few et a few vont avec un pluriel dénombrable.",
+     "ed": [
+      "Few accompagne un pluriel dénombrable ; time, au sens de « temps », est indénombrable.",
+      "Many accompagne un pluriel dénombrable et contredit l'urgence.",
+      null,
+      "A few accompagne un pluriel dénombrable ; time est ici indénombrable."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-14",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "« I have ___ friends in Korhogo, so I won't feel lonely there. »",
+     "o": [
+      "few",
+      "a few",
+      "a little",
+      "much"
+     ],
+     "a": 1,
+     "e": "Friends est un pluriel dénombrable et la suite (je ne me sentirai pas seul) donne un sens positif : a few.",
+     "ed": [
+      "Few a un sens négatif (« peu d'amis »), ce qui contredit « I won't feel lonely ».",
+      null,
+      "A little accompagne un indénombrable ; friends est dénombrable.",
+      "Much accompagne un indénombrable ; friends est un pluriel dénombrable."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-15",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Which of these four sentences contains a grammar mistake?",
+     "o": [
+      "The information you gave me was useful.",
+      "She gave me a piece of advice.",
+      "His luggages were lost at the airport.",
+      "There isn't much bread left."
+     ],
+     "a": 2,
+     "e": "Luggage est indénombrable : jamais de -s. On dit His luggage was lost, avec un verbe au singulier.",
+     "ed": [
+      "Phrase correcte : information est indénombrable, sans -s, avec un verbe au singulier (was).",
+      "Phrase correcte : a piece of permet de compter un indénombrable comme advice.",
+      null,
+      "Phrase correcte : much accompagne l'indénombrable bread dans une négation."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-16",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Which form is correct?",
+     "o": [
+      "an university",
+      "an one-day seminar",
+      "a hour",
+      "an hour"
+     ],
+     "a": 3,
+     "e": "Le h de hour est muet : le mot commence par un son voyelle, donc an hour. C'est le son qui décide, pas la lettre.",
+     "ed": [
+      "University commence par le son « you » : il faut a university.",
+      "One se prononce « wan », un son consonne : il faut a one-day seminar.",
+      "Hour commence par un son voyelle (h muet) : il faut an.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-17",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "« Money ___ not everything in a civil servant's career. »",
+     "o": [
+      "are",
+      "were",
+      "have",
+      "is"
+     ],
+     "a": 3,
+     "e": "Money est indénombrable : son verbe est toujours au singulier. Money is not everything.",
+     "ed": [
+      "Are est un pluriel : un indénombrable comme money prend un verbe au singulier.",
+      "Were est un pluriel (et un passé) : le verbe de money reste au singulier.",
+      "Have ne forme pas de phrase correcte ici et serait au pluriel.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-18",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "« How ___ francs CFA did you spend at the market? »",
+     "o": [
+      "much",
+      "many",
+      "little",
+      "a little"
+     ],
+     "a": 1,
+     "e": "Money est indénombrable, mais francs est un pluriel dénombrable : on compte les unités de monnaie, d'où how many.",
+     "ed": [
+      "Much accompagnerait money ; ici le nom est francs, un pluriel dénombrable.",
+      null,
+      "Little accompagne un indénombrable et ne forme pas cette question de quantité.",
+      "A little accompagne un indénombrable ; francs est dénombrable."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-19",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Choose the correct general statement: « ___ freezes at 0 °C. »",
+     "o": [
+      "The water",
+      "A water",
+      "Water",
+      "Waters"
+     ],
+     "a": 2,
+     "e": "Une vérité générale s'exprime avec l'indénombrable sans article : Water freezes at 0 °C.",
+     "ed": [
+      "The water désignerait une eau précise (celle-ci) ; pour une vérité générale, pas d'article.",
+      "A est impossible devant un indénombrable comme water.",
+      null,
+      "Waters, au pluriel, ne s'accorderait pas avec freezes et ne désigne pas l'eau en général."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-an10-20",
+     "m": "ang",
+     "tag": "niv-an10",
+     "q": "Présélection, barème +1 / 0 / −1 : vous hésitez entre « few » et « a few » et la phrase ne contient aucun indice de sens positif ou négatif. Que faire ?",
+     "o": [
+      "Choisir a few sans relire la phrase, car il est plus fréquent.",
+      "Relire la phrase pour chercher l'indice de sens ; sans indice, s'abstenir.",
+      "Cocher les deux options pour être sûr d'avoir le point.",
+      "Choisir few, car la réponse la plus courte est la bonne."
+     ],
+     "a": 1,
+     "e": "La différence few / a few dépend du sens (pas assez / assez). On cherche l'indice ; s'il manque, l'abstention évite le −1.",
+     "ed": [
+      "La fréquence d'un mot n'indique pas la bonne réponse ; seul le sens de la phrase tranche.",
+      null,
+      "Cocher deux options rend la réponse fausse ou nulle : une seule réponse est attendue.",
+      "La longueur d'une option n'est pas un critère grammatical."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261125-fr12-01",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au présent : « Le jeune artiste ___ une fresque sur le mur de la mairie. » (peindre)",
+     "o": [
+      "peind",
+      "peint",
+      "peinds",
+      "peine"
+     ],
+     "a": 1,
+     "e": "Les verbes en -indre perdent le d au singulier du présent ; la 3e personne se termine par -t : il peint.",
+     "ed": [
+      "« Peind » garde à tort le d de l'infinitif : les verbes en -indre le perdent.",
+      null,
+      "« Peinds » mêle le d de l'infinitif et la terminaison -s de la 1re personne.",
+      "« Peine » est un nom ou une forme du verbe peiner, pas du verbe peindre."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-02",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au présent : « Je ___ toujours seul les problèmes de mon service. » (résoudre)",
+     "o": [
+      "résous",
+      "résouds",
+      "résoud",
+      "résoût"
+     ],
+     "a": 0,
+     "e": "Les verbes en -soudre perdent le d au singulier : je résous, tu résous, il résout.",
+     "ed": [
+      null,
+      "« Résouds » garde à tort le d : seuls coudre et moudre le gardent.",
+      "« Résoud » garde le d et n'a pas la terminaison -s de la 1re personne.",
+      "« Résoût » porte un accent circonflexe inexistant et une terminaison de 3e personne."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-03",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au présent : « Ma tante ___ elle-même ses pagnes. » (coudre)",
+     "o": [
+      "cout",
+      "cous",
+      "coud",
+      "coude"
+     ],
+     "a": 2,
+     "e": "Coudre garde le d de son radical au singulier du présent : je couds, il coud, contrairement à résoudre.",
+     "ed": [
+      "« Cout » applique à tort la règle des verbes en -soudre ; coudre garde son d.",
+      "« Cous » est la forme de la 1re ou de la 2e personne avec le d manquant ; il faut il coud.",
+      null,
+      "« Coude » est un nom (l'articulation du bras), pas une forme du verbe coudre."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-04",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au présent de l'indicatif : « Nous ___ le mur de l'école. » (peindre)",
+     "o": [
+      "peindons",
+      "peinons",
+      "peignions",
+      "peignons"
+     ],
+     "a": 3,
+     "e": "Au pluriel du présent, peindre prend le radical peign- : nous peignons, vous peignez, ils peignent.",
+     "ed": [
+      "« Peindons » garde le d de l'infinitif : le radical du pluriel est peign-.",
+      "« Peinons » est une forme du verbe peiner, pas du verbe peindre.",
+      "« Peignions » est l'imparfait (nous peignions), pas le présent.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-05",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au présent : « Les stagiaires ___ une indemnité chaque mois. » (recevoir)",
+     "o": [
+      "reçoient",
+      "reçoivent",
+      "recevent",
+      "recevoivent"
+     ],
+     "a": 1,
+     "e": "Devant o, le c prend une cédille pour garder le son [s] : ils reçoivent. Moyen mnémotechnique : c devant o ou u, cédille au rendez-vous.",
+     "ed": [
+      "« Reçoient » oublie le v du radical reçoiv- de la 3e personne du pluriel.",
+      null,
+      "« Recevent » n'existe pas : le radical de la 3e personne du pluriel est reçoiv-.",
+      "« Recevoivent » mêle à tort le radical de l'infinitif (recev-) et celui du présent (reçoiv-)."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-06",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Quelle est la forme du passé simple d'acquérir à la 3e personne du singulier ?",
+     "o": [
+      "il acquérit",
+      "il acquiert",
+      "il acquit",
+      "il acquis"
+     ],
+     "a": 2,
+     "e": "Acquérir suit la famille du passé simple en -it : j'acquis, tu acquis, il acquit, nous acquîmes.",
+     "ed": [
+      "« Il acquérit » est un passé simple fabriqué sur l'infinitif ; il n'existe pas.",
+      "« Il acquiert » est le présent de l'indicatif, pas le passé simple.",
+      null,
+      "« Acquis » est le participe passé ; à la 3e personne du passé simple, la terminaison est -t."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-07",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au présent : « Les nouveaux agents ___ vite de l'expérience. » (acquérir)",
+     "o": [
+      "acquièrent",
+      "acquérent",
+      "acquérissent",
+      "acquièrrent"
+     ],
+     "a": 0,
+     "e": "À la 3e personne du pluriel, acquérir prend sa forme longue avec accent grave : ils acquièrent (formule 3 + 1).",
+     "ed": [
+      null,
+      "« Acquérent » emploie à tort le radical de nous et vous (acquér-).",
+      "« Acquérissent » applique à tort le modèle du 2e groupe (finir, ils finissent).",
+      "« Acquièrrent » double le r à tort ; c'est la marque du futur, pas du présent."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-08",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au présent : « Le vieux mécanisme se ___ difficilement. » (mouvoir)",
+     "o": [
+      "mouve",
+      "meut",
+      "meu",
+      "mouvoit"
+     ],
+     "a": 1,
+     "e": "Au singulier du présent, mouvoir prend le radical meu- : je meus, tu meus, il meut.",
+     "ed": [
+      "« Mouve » est fabriqué sur l'infinitif ; il ne correspond à aucune forme de mouvoir.",
+      null,
+      "« Meu » oublie la terminaison -t de la 3e personne du singulier.",
+      "« Mouvoit » n'existe pas : la 3e personne est il meut."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-09",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez : « Il était ___ par le seul souci de l'intérêt général. » (mouvoir, participe passé)",
+     "o": [
+      "mû",
+      "mué",
+      "mouvé",
+      "mouvu"
+     ],
+     "a": 0,
+     "e": "Le participe passé de mouvoir est mû au masculin singulier (mue, mus, mues aux autres formes).",
+     "ed": [
+      null,
+      "« Mué » est le participe du verbe muer (changer de voix, de peau), pas de mouvoir.",
+      "« Mouvé » est un participe fabriqué sur le modèle des verbes en -er ; il n'existe pas.",
+      "« Mouvu » n'existe pas ; le participe de mouvoir est mû."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-10",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au passé simple : « Cette nuit-là, les négociateurs ___ le conflit. » (résoudre)",
+     "o": [
+      "résolvirent",
+      "résolurent",
+      "résoudirent",
+      "résolèrent"
+     ],
+     "a": 1,
+     "e": "Résoudre appartient à la famille du passé simple en -ut : il résolut, ils résolurent.",
+     "ed": [
+      "« Résolvirent » mélange le radical du présent et la famille en -it.",
+      null,
+      "« Résoudirent » est fabriqué sur l'infinitif avec la famille en -it.",
+      "« Résolèrent » applique à tort la terminaison des verbes en -er."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-11",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au passé simple : « Ce jour-là, nous ___ la façade du centre de santé. » (peindre)",
+     "o": [
+      "peignâmes",
+      "peindîmes",
+      "peignîmes",
+      "peinîmes"
+     ],
+     "a": 2,
+     "e": "Peindre suit la famille en -it avec le radical peign- ; nous et vous portent l'accent circonflexe : nous peignîmes.",
+     "ed": [
+      "« Peignâmes » emploie la terminaison des verbes en -er.",
+      "« Peindîmes » garde à tort le d de l'infinitif.",
+      null,
+      "« Peinîmes » oublie le g du radical peign- du passé simple."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-12",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au passé simple : « Vous ___ les délégués avec courtoisie. » (recevoir)",
+     "o": [
+      "recevîtes",
+      "reçûtes",
+      "reçurent",
+      "recevûtes"
+     ],
+     "a": 1,
+     "e": "Recevoir suit la famille en -ut ; cédille devant u et accent circonflexe à la personne vous : vous reçûtes.",
+     "ed": [
+      "« Recevîtes » emploie la famille en -it, qui n'est pas celle de recevoir.",
+      null,
+      "« Reçurent » est la forme de la 3e personne du pluriel (ils reçurent), pas celle de vous.",
+      "« Recevûtes » garde à tort le radical de l'infinitif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-13",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au passé simple : « À l'annonce des résultats, les candidats ___ en masse. » (venir)",
+     "o": [
+      "venirent",
+      "vinrent",
+      "vinrèrent",
+      "vénurent"
+     ],
+     "a": 1,
+     "e": "Venir appartient à la famille en -int : je vins, il vint, ils vinrent, sans accent circonflexe à la 3e personne.",
+     "ed": [
+      "« Venirent » est fabriqué sur l'infinitif ; il n'existe pas.",
+      null,
+      "« Vinrèrent » ajoute à tort la terminaison -èrent des verbes en -er.",
+      "« Vénurent » n'existe pas : venir ne suit pas la famille en -ut."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-14",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au passé simple : « Le vieux chef ___ en paix entouré des siens. » (mourir)",
+     "o": [
+      "mourit",
+      "mourra",
+      "mourut",
+      "mouru"
+     ],
+     "a": 2,
+     "e": "Mourir appartient à la famille du passé simple en -ut, comme courir : il mourut, il courut.",
+     "ed": [
+      "« Mourit » applique à tort la famille en -it.",
+      "« Mourra » est le futur simple, pas le passé simple.",
+      null,
+      "« Mouru » n'existe pas ; le participe de mourir est mort."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-15",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Laquelle de ces formes du présent est fautive ?",
+     "o": [
+      "il atteint",
+      "il résout",
+      "il coud",
+      "il craind"
+     ],
+     "a": 3,
+     "e": "Craindre, verbe en -indre, perd le d au singulier : il craint. Il atteint, il résout et il coud sont corrects.",
+     "ed": [
+      "Forme correcte : atteindre, en -indre, perd le d (il atteint).",
+      "Forme correcte : résoudre, en -soudre, perd le d (il résout).",
+      "Forme correcte : coudre garde le d de son radical (il coud).",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-16",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez : « Notre coopérative a ___ une parcelle à Abengourou. » (acquérir, passé composé)",
+     "o": [
+      "acquéri",
+      "acquis",
+      "acquit",
+      "acquérit"
+     ],
+     "a": 1,
+     "e": "Le participe passé d'acquérir est acquis (acquise au féminin) : la coopérative a acquis une parcelle.",
+     "ed": [
+      "« Acquéri » est un participe fabriqué sur l'infinitif ; il n'existe pas.",
+      null,
+      "« Acquit » est le passé simple (il acquit) ; après avoir, il faut le participe acquis.",
+      "« Acquérit » n'existe ni comme participe ni comme passé simple."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-17",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au passé simple de l'indicatif : « Le témoin ___ sans laisser d'adresse. » (disparaître)",
+     "o": [
+      "disparaît",
+      "disparut",
+      "disparat",
+      "disparaissit"
+     ],
+     "a": 1,
+     "e": "Au passé simple de l'indicatif, la 3e personne du singulier n'a pas d'accent : il disparut. « Qu'il disparût » est un subjonctif imparfait.",
+     "ed": [
+      "« Disparaît » est le présent de l'indicatif, pas le passé simple.",
+      null,
+      "« Disparat » n'existe pas : le passé simple de disparaître suit la famille en -ut.",
+      "« Disparaissit » est fabriqué sur le radical du présent ; il n'existe pas."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-18",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au présent : « Toi, tu ___ le danger avant tout le monde. » (apercevoir)",
+     "o": [
+      "aperçoit",
+      "apercevois",
+      "aperçoie",
+      "aperçois"
+     ],
+     "a": 3,
+     "e": "Devant o, le c de -cevoir prend une cédille : tu aperçois. Moyen mnémotechnique : c devant o ou u, cédille au rendez-vous.",
+     "ed": [
+      "« Aperçoit » est la forme de la 3e personne (il aperçoit) ; avec tu, la terminaison est -s.",
+      "« Apercevois » n'existe pas : le radical du singulier est aperçoi-.",
+      "« Aperçoie » est une forme du subjonctif présent, pas de l'indicatif présent.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-19",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Quel verbe ne fait PAS son passé simple en -ut ?",
+     "o": [
+      "courir",
+      "lire",
+      "voir",
+      "croire"
+     ],
+     "a": 2,
+     "e": "Voir suit la famille en -it : il vit. Courir (il courut), lire (il lut) et croire (il crut) font leur passé simple en -ut.",
+     "ed": [
+      "Courir fait bien son passé simple en -ut : il courut.",
+      "Lire fait bien son passé simple en -ut : il lut.",
+      null,
+      "Croire fait bien son passé simple en -ut : il crut."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-fr12-20",
+     "m": "fr",
+     "tag": "niv-fr12",
+     "q": "Complétez au passé simple : « Ce jour-là, nous ___ parole devant les populations. » (tenir)",
+     "o": [
+      "tînmes",
+      "tîmes",
+      "tenîmes",
+      "tenûmes"
+     ],
+     "a": 0,
+     "e": "Tenir appartient à la famille en -int ; la personne nous porte l'accent circonflexe : nous tînmes, vous tîntes.",
+     "ed": [
+      null,
+      "« Tîmes » oublie le n de la famille en -int (nous tînmes).",
+      "« Tenîmes » garde le radical de l'infinitif avec la famille en -it ; il n'existe pas.",
+      "« Tenûmes » applique à tort la famille en -ut."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261125-cg12-01",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Qui a présenté, le 9 mai 1950, la proposition de mettre en commun le charbon et l'acier sous une Haute Autorité commune ?",
+     "o": [
+      "Jean Monnet",
+      "Pierre Uri",
+      "Robert Schuman",
+      "Paul Reuter"
+     ],
+     "a": 2,
+     "e": "C'est Robert Schuman, ministre français des affaires étrangères, qui a présenté la déclaration du 9 mai 1950.",
+     "ed": [
+      "Jean Monnet a participé à la préparation du texte, mais ce n'est pas lui qui l'a présenté.",
+      "Pierre Uri figure parmi les rédacteurs du texte au ministère, mais il ne l'a pas présenté.",
+      null,
+      "Paul Reuter figure parmi les rédacteurs du texte au ministère, mais il ne l'a pas présenté."
+     ],
+     "src": {
+      "t": "Conseil de l'UE — La déclaration Schuman",
+      "u": "https://www.consilium.europa.eu/fr/schuman-declaration/"
+     }
+    },
+    {
+     "id": "n20261125-cg12-02",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Le traité signé à Paris le 18 avril 1951 a institué :",
+     "o": [
+      "la Communauté européenne du charbon et de l'acier (CECA)",
+      "la Communauté économique européenne (CEE)",
+      "Euratom",
+      "la Banque centrale européenne"
+     ],
+     "a": 0,
+     "e": "Le traité de Paris du 18 avril 1951 institue la CECA, entrée en vigueur le 23 juillet 1952 après ratification par les Six.",
+     "ed": [
+      null,
+      "La CEE a été créée par les traités de Rome de 1957, pas par le traité de Paris.",
+      "Euratom a été créée en 1957 avec la CEE, par les traités de Rome.",
+      "La BCE est liée à l'euro, bien plus tard ; elle n'a rien à voir avec le traité de 1951."
+     ],
+     "src": {
+      "t": "Conseil de l'UE — La déclaration Schuman",
+      "u": "https://www.consilium.europa.eu/fr/schuman-declaration/"
+     }
+    },
+    {
+     "id": "n20261125-cg12-03",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Lequel de ces pays ne fait PAS partie des « Six » fondateurs de la CECA ?",
+     "o": [
+      "la Belgique",
+      "le Luxembourg",
+      "l'Italie",
+      "l'Espagne"
+     ],
+     "a": 3,
+     "e": "Les Six sont la Belgique, l'Allemagne, la France, l'Italie, le Luxembourg et les Pays-Bas ; l'Espagne n'entre qu'en 1986.",
+     "ed": [
+      "La Belgique fait partie des Six fondateurs.",
+      "Le Luxembourg fait partie des Six fondateurs.",
+      "L'Italie fait partie des Six fondateurs.",
+      null
+     ],
+     "src": {
+      "t": "Conseil de l'UE — La déclaration Schuman",
+      "u": "https://www.consilium.europa.eu/fr/schuman-declaration/"
+     }
+    },
+    {
+     "id": "n20261125-cg12-04",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Quelle date est célébrée comme « Journée de l'Europe » ?",
+     "o": [
+      "le 25 mars",
+      "le 9 mai",
+      "le 18 avril",
+      "le 1er janvier"
+     ],
+     "a": 1,
+     "e": "Le 9 mai est la Journée de l'Europe, en souvenir de la déclaration Schuman du 9 mai 1950.",
+     "ed": [
+      "Le 25 mars n'est pas la Journée de l'Europe retenue en souvenir de la déclaration Schuman.",
+      null,
+      "Le 18 avril est la date de signature du traité de Paris (1951), pas la Journée de l'Europe.",
+      "Le 1er janvier est une date d'entrée dans la zone euro ou d'élargissement, pas la Journée de l'Europe."
+     ],
+     "src": {
+      "t": "Conseil de l'UE — La déclaration Schuman",
+      "u": "https://www.consilium.europa.eu/fr/schuman-declaration/"
+     }
+    },
+    {
+     "id": "n20261125-cg12-05",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Quels pays ont rejoint la Communauté européenne en 1973 ?",
+     "o": [
+      "la Grèce seule",
+      "le Danemark, l'Irlande et le Royaume-Uni",
+      "l'Espagne et le Portugal",
+      "l'Autriche, la Finlande et la Suède"
+     ],
+     "a": 1,
+     "e": "Le premier élargissement, en 1973, fait entrer le Danemark, l'Irlande et le Royaume-Uni : on passe de 6 à 9 membres.",
+     "ed": [
+      "La Grèce est entrée seule en 1981.",
+      null,
+      "L'Espagne et le Portugal sont entrés en 1986.",
+      "L'Autriche, la Finlande et la Suède sont entrées en 1995."
+     ],
+     "src": {
+      "t": "Parlement européen, fiche thématique — L'élargissement de l'Union",
+      "u": "https://www.europarl.europa.eu/factsheets/en/sheet/167/the-enlargement-of-the-union"
+     }
+    },
+    {
+     "id": "n20261125-cg12-06",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Quelle institution de l'UE détient le « droit d'initiative », c'est-à-dire propose les lois ?",
+     "o": [
+      "le Parlement européen",
+      "le Conseil européen",
+      "la Commission européenne",
+      "la Cour des comptes européenne"
+     ],
+     "a": 2,
+     "e": "La Commission européenne propose les lois grâce à son droit d'initiative ; le Parlement et le Conseil de l'UE les adoptent.",
+     "ed": [
+      "Le Parlement européen examine et adopte les lois, il ne les propose pas en principe.",
+      "Le Conseil européen fixe les orientations et n'adopte pas de lois.",
+      null,
+      "La Cour des comptes contrôle les finances de l'UE ; elle ne propose pas de lois."
+     ],
+     "src": {
+      "t": "Union européenne — Types d'institutions et organes, implantation",
+      "u": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en"
+     }
+    },
+    {
+     "id": "n20261125-cg12-07",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Combien de pays membres compte la Communauté après l'élargissement de 1986 ?",
+     "o": [
+      "10",
+      "15",
+      "12",
+      "9"
+     ],
+     "a": 2,
+     "e": "6 fondateurs + 3 en 1973 + 1 en 1981 + 2 en 1986 (Espagne, Portugal) = 12 membres.",
+     "ed": [
+      "10 est le nombre de membres après l'entrée de la Grèce en 1981.",
+      "15 est le nombre de membres après l'élargissement de 1995.",
+      null,
+      "9 est le nombre de membres après l'élargissement de 1973."
+     ],
+     "src": {
+      "t": "Parlement européen (jeunesse) — Frise chronologique des pays de l'UE",
+      "u": "https://youth.europarl.europa.eu/files/live/sites/youthhub/files/active-lessons-revamp/FR-eu-countries-timeline-2025.pdf"
+     }
+    },
+    {
+     "id": "n20261125-cg12-08",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Quel pays est entré seul dans la Communauté européenne en 1981 ?",
+     "o": [
+      "le Portugal",
+      "l'Autriche",
+      "la Suède",
+      "la Grèce"
+     ],
+     "a": 3,
+     "e": "La Grèce est entrée en 1981 : c'est le seul pays de cet élargissement, qui porte la Communauté à 10 membres.",
+     "ed": [
+      "Le Portugal est entré en 1986, avec l'Espagne.",
+      "L'Autriche est entrée en 1995, avec la Finlande et la Suède.",
+      "La Suède est entrée en 1995, avec l'Autriche et la Finlande.",
+      null
+     ],
+     "src": {
+      "t": "Parlement européen, fiche thématique — L'élargissement de l'Union",
+      "u": "https://www.europarl.europa.eu/factsheets/en/sheet/167/the-enlargement-of-the-union"
+     }
+    },
+    {
+     "id": "n20261125-cg12-09",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Dans quelle ville siège la Banque centrale européenne (BCE) ?",
+     "o": [
+      "Bruxelles",
+      "Luxembourg",
+      "Strasbourg",
+      "Francfort"
+     ],
+     "a": 3,
+     "e": "La BCE siège à Francfort. Moyen mnémotechnique : les juges et les comptables à Luxembourg, la banque à Francfort.",
+     "ed": [
+      "Bruxelles accueille la Commission, le Conseil européen et le Conseil de l'UE, pas la BCE.",
+      "Luxembourg accueille la Cour de justice et la Cour des comptes, pas la BCE.",
+      "Strasbourg accueille les sessions plénières du Parlement européen, pas la BCE.",
+      null
+     ],
+     "src": {
+      "t": "Union européenne — Types d'institutions et organes, implantation",
+      "u": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en"
+     }
+    },
+    {
+     "id": "n20261125-cg12-10",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Dans quelle ville siège la Cour de justice de l'Union européenne ?",
+     "o": [
+      "Luxembourg",
+      "Francfort",
+      "Bruxelles",
+      "Strasbourg"
+     ],
+     "a": 0,
+     "e": "La Cour de justice de l'UE siège à Luxembourg, comme la Cour des comptes européenne.",
+     "ed": [
+      null,
+      "Francfort est le siège de la Banque centrale européenne.",
+      "Bruxelles accueille notamment la Commission et le Conseil, pas la Cour de justice.",
+      "Strasbourg accueille les sessions plénières mensuelles du Parlement européen."
+     ],
+     "src": {
+      "t": "Union européenne — Types d'institutions et organes, implantation",
+      "u": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en"
+     }
+    },
+    {
+     "id": "n20261125-cg12-11",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Combien de députés compte le Parlement européen pour la législature 2024-2029 ?",
+     "o": [
+      "705",
+      "650",
+      "720",
+      "751"
+     ],
+     "a": 2,
+     "e": "Le Parlement européen compte 720 députés pour 2024-2029, contre 705 lors de la législature précédente.",
+     "ed": [
+      "705 était le nombre de sièges de la législature précédente, porté à 720 pour 2024-2029.",
+      "650 ne correspond pas au nombre de députés européens de 2024-2029.",
+      null,
+      "751 ne correspond pas au nombre de députés européens de 2024-2029 (720)."
+     ],
+     "src": {
+      "t": "Parlement européen, fiche thématique 1.3.3 — Organisation et fonctionnement",
+      "u": "https://www.europarl.europa.eu/erpl-app-public/factsheets/pdf/en/FTU_1.3.3.pdf"
+     }
+    },
+    {
+     "id": "n20261125-cg12-12",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Où se tiennent les 12 sessions plénières mensuelles du Parlement européen ?",
+     "o": [
+      "à Bruxelles",
+      "à Strasbourg",
+      "à Luxembourg",
+      "à Francfort"
+     ],
+     "a": 1,
+     "e": "Strasbourg est le siège officiel du Parlement européen, où se tiennent ses 12 sessions plénières mensuelles.",
+     "ed": [
+      "Bruxelles accueille les commissions et des sessions plénières additionnelles, pas les 12 sessions mensuelles.",
+      null,
+      "Luxembourg accueille le secrétariat du Parlement, pas ses sessions plénières mensuelles.",
+      "Francfort est le siège de la BCE, sans lien avec les sessions du Parlement."
+     ],
+     "src": {
+      "t": "Parlement européen, fiche thématique 1.3.3 — Organisation et fonctionnement",
+      "u": "https://www.europarl.europa.eu/erpl-app-public/factsheets/pdf/en/FTU_1.3.3.pdf"
+     }
+    },
+    {
+     "id": "n20261125-cg12-13",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Pour quelle durée le président du Conseil européen est-il élu ?",
+     "o": [
+      "cinq ans, non renouvelable",
+      "six mois, par rotation entre les États",
+      "deux ans et demi, renouvelable une fois",
+      "quatre ans, renouvelable sans limite"
+     ],
+     "a": 2,
+     "e": "Le président du Conseil européen est élu pour un mandat de deux ans et demi, renouvelable une fois.",
+     "ed": [
+      "Cinq ans est la durée de la législature du Parlement européen, pas du mandat du président du Conseil européen.",
+      "Le mandat du président du Conseil européen n'est pas une rotation de six mois.",
+      null,
+      "Le mandat est de deux ans et demi et ne peut être renouvelé qu'une fois."
+     ],
+     "src": {
+      "t": "Union européenne — Types d'institutions et organes, implantation",
+      "u": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en"
+     }
+    },
+    {
+     "id": "n20261125-cg12-14",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "À quelle date les billets et les pièces en euros ont-ils commencé à circuler ?",
+     "o": [
+      "1er janvier 1999",
+      "1er janvier 2001",
+      "1er janvier 2002",
+      "1er mars 2002"
+     ],
+     "a": 2,
+     "e": "Les billets et pièces en euros circulent depuis le 1er janvier 2002, dans 12 pays. En 1999, l'euro n'existait que sur les comptes.",
+     "ed": [
+      "Le 1er janvier 1999, l'euro naît comme monnaie scripturale, sans billets ni pièces.",
+      "Le 1er janvier 2001 est la date d'entrée de la Grèce dans la zone euro.",
+      null,
+      "Le 1er mars 2002, l'euro devient la seule monnaie légale ; la circulation avait commencé le 1er janvier."
+     ],
+     "src": {
+      "t": "BCE — Le passage à l'euro fiduciaire de 2002",
+      "u": "https://ecb.europa.eu/euro/changeover/2002/html/index.en.html"
+     }
+    },
+    {
+     "id": "n20261125-cg12-15",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Lequel de ces pays, membre de l'UE, n'a PAS adopté l'euro ?",
+     "o": [
+      "la Croatie",
+      "le Danemark",
+      "l'Irlande",
+      "la Finlande"
+     ],
+     "a": 1,
+     "e": "Le Danemark, membre de l'UE depuis 1973, ne fait pas partie des 21 pays de la zone euro.",
+     "ed": [
+      "La Croatie a adopté l'euro en 2023.",
+      null,
+      "L'Irlande utilise l'euro depuis 1999.",
+      "La Finlande utilise l'euro depuis 1999."
+     ],
+     "src": {
+      "t": "BCE — Les pays de la zone euro et leur année d'adhésion",
+      "u": "https://www.ecb.europa.eu/euro/intro/html/map.en.html"
+     }
+    },
+    {
+     "id": "n20261125-cg12-16",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "En quelle année la Croatie, membre de l'UE depuis 2013, a-t-elle adopté l'euro ?",
+     "o": [
+      "2013",
+      "2015",
+      "2026",
+      "2023"
+     ],
+     "a": 3,
+     "e": "La Croatie a adopté l'euro en 2023, dix ans après son entrée dans l'UE : adhésion et euro sont deux étapes distinctes.",
+     "ed": [
+      "2013 est l'année d'entrée de la Croatie dans l'UE, pas celle de son passage à l'euro.",
+      "2015 est l'année d'adoption de l'euro par la Lituanie.",
+      "2026 est l'année d'adoption de l'euro par la Bulgarie.",
+      null
+     ],
+     "src": {
+      "t": "BCE — Les pays de la zone euro et leur année d'adhésion",
+      "u": "https://www.ecb.europa.eu/euro/intro/html/map.en.html"
+     }
+    },
+    {
+     "id": "n20261125-cg12-17",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Quel pays a négocié son adhésion à la Communauté européenne mais l'a refusée par référendum ?",
+     "o": [
+      "l'Autriche",
+      "la Norvège",
+      "la Finlande",
+      "la Suède"
+     ],
+     "a": 1,
+     "e": "La Norvège a négocié son adhésion mais l'a rejetée par référendum ; elle n'est pas membre de l'UE.",
+     "ed": [
+      "L'Autriche est devenue membre en 1995.",
+      null,
+      "La Finlande est devenue membre en 1995.",
+      "La Suède est devenue membre en 1995."
+     ],
+     "src": {
+      "t": "Parlement européen, fiche thématique — L'élargissement de l'Union",
+      "u": "https://www.europarl.europa.eu/factsheets/en/sheet/167/the-enlargement-of-the-union"
+     }
+    },
+    {
+     "id": "n20261125-cg12-18",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Lequel de ces pays n'est PAS entré dans l'UE le 1er mai 2004 ?",
+     "o": [
+      "Malte",
+      "la Pologne",
+      "la Roumanie",
+      "la Lettonie"
+     ],
+     "a": 2,
+     "e": "La Roumanie est entrée en 2007, avec la Bulgarie. Malte, la Pologne et la Lettonie font partie des dix pays de 2004.",
+     "ed": [
+      "Malte fait partie des dix pays entrés le 1er mai 2004 (les « 2 îles »).",
+      "La Pologne fait partie des dix pays entrés le 1er mai 2004.",
+      null,
+      "La Lettonie fait partie des dix pays entrés le 1er mai 2004 (les « 3 Baltes »)."
+     ],
+     "src": {
+      "t": "Parlement européen, fiche thématique — L'élargissement de l'Union",
+      "u": "https://www.europarl.europa.eu/factsheets/en/sheet/167/the-enlargement-of-the-union"
+     }
+    },
+    {
+     "id": "n20261125-cg12-19",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Les critères d'adhésion fixés à Copenhague en 1993 comprennent tous les éléments suivants SAUF un. Lequel ?",
+     "o": [
+      "des institutions stables garantissant la démocratie et l'État de droit",
+      "une économie de marché viable",
+      "la capacité d'assumer les obligations de membre",
+      "l'adoption préalable de l'euro"
+     ],
+     "a": 3,
+     "e": "Les critères de Copenhague portent sur la démocratie, l'économie de marché et la capacité d'assumer l'acquis ; l'euro n'est pas une condition d'adhésion.",
+     "ed": [
+      "C'est bien un critère de Copenhague (critère politique).",
+      "C'est bien un critère de Copenhague (critère économique).",
+      "C'est bien un critère de Copenhague (reprise de l'acquis).",
+      null
+     ],
+     "src": {
+      "t": "Parlement européen, fiche thématique — L'élargissement de l'Union",
+      "u": "https://www.europarl.europa.eu/factsheets/en/sheet/167/the-enlargement-of-the-union"
+     }
+    },
+    {
+     "id": "n20261125-cg12-20",
+     "m": "cg",
+     "tag": "niv-cg12",
+     "q": "Quelle affirmation sur les institutions de l'UE est exacte ?",
+     "o": [
+      "Le Conseil européen adopte les lois avec le Parlement européen.",
+      "La Commission propose les lois, que le Parlement européen et le Conseil de l'UE adoptent.",
+      "La Commission adopte seule les lois européennes.",
+      "La Cour des comptes européenne propose les lois."
+     ],
+     "a": 1,
+     "e": "En principe, la Commission propose et le Parlement et le Conseil de l'UE adoptent. Le Conseil européen n'adopte pas de lois.",
+     "ed": [
+      "Le Conseil européen n'adopte pas de lois, sauf d'éventuelles modifications des traités ; c'est le Conseil de l'UE qui légifère.",
+      null,
+      "La Commission propose ; elle n'adopte pas seule les lois.",
+      "La Cour des comptes contrôle les finances ; le droit d'initiative appartient à la Commission."
+     ],
+     "src": {
+      "t": "Union européenne — Types d'institutions et organes, implantation",
+      "u": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261125an10",
+     "niv": "an10",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "Articles, dénombrables et indénombrables",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir entre a, an, the et l'absence d'article (en anglais, zero article), et reconnaître si un nom anglais est dénombrable (countable) ou indénombrable (uncountable).",
+      "= Vous saurez aussi employer much / many, few / a few, little / a little et some / any sans hésiter.",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), ces points arrivent dans des phrases à trous : « ___ hour », « some ___ », « How ___ money… ». Un nom dénombrable se compte (one chair, two chairs) ; un nom indénombrable désigne une matière ou une notion qu'on ne compte pas directement (water, rice, advice). Les mauvaises options sont presque toujours des calques du français : « an information », « the life is hard », « many advices ».",
+      "! Piège habituel : un nom dénombrable en français peut être indénombrable en anglais. « Des informations », « des conseils », « des meubles », « des bagages » se disent information, advice, furniture, luggage : sans -s et sans a / an.",
+      "## La méthode, pas à pas",
+      "- 1. Regardez le nom : dénombrable ou indénombrable ? singulier ou pluriel ?",
+      "- 2. Un nom singulier dénombrable a toujours un déterminant : a / an, the, my, this… Jamais seul.",
+      "- 3. Pour a ou an, écoutez le premier son du mot, pas sa première lettre.",
+      "- 4. Sens général (les choses en général) : pluriel ou indénombrable sans article. Chose précise, déjà connue ou unique : the.",
+      "- 5. Quantité : many, few, a few avec un pluriel dénombrable ; much, little, a little avec un indénombrable.",
+      "- 6. Barème : éliminez d'abord les options qui violent une règle sûre (pluriel d'un indénombrable, an devant un son consonne). S'il reste deux options sans indice, abstenez-vous.",
+      "~ Exemple : « She gave me ___ useful advice. » Étape 1 : advice est indénombrable. Étape 2 : a / an est donc exclu, et advices n'existe pas. Étape 3 : il reste some. Réponse : She gave me some useful advice (« Elle m'a donné de bons conseils »).",
+      "> Méthode du jour, la note de confiance (effet d'hypercorrection) : avant de lire chaque correction, notez votre certitude de 1 (je devine) à 3 (j'en suis sûr). Les psychologues Butterfield et Metcalfe ont nommé en 2001 un résultat surprenant : une erreur commise avec une forte certitude est plus souvent corrigée, une fois la correction lue, qu'une erreur commise au hasard, car la surprise attire l'attention sur la bonne réponse (Fazio et Marsh, 2009). Deux conditions : lire la correction, et revoir ces erreurs « sûres » aux rappels suivants, car elles peuvent revenir si la bonne réponse est oubliée.",
+      "> Le jour de l'épreuve, la même note sert au barème : une réponse notée 3 se coche ; une réponse notée 1, sans option éliminée par une règle sûre, se laisse blanche ; une réponse notée 2 se coche seulement si vous avez éliminé au moins deux options."
+     ],
+     "fond": [
+      "## Notion 1 : a ou an ? Le son, pas la lettre",
+      "Règle : on emploie a devant un mot qui commence par un son consonne, et an devant un mot qui commence par un son voyelle. C'est la prononciation qui décide, pas l'orthographe.",
+      "Pourquoi ? An évite d'enchaîner deux sons voyelles, ce qui serait difficile à prononcer. Comme c'est une affaire d'oreille, une lettre voyelle prononcée comme une consonne prend a, et une lettre consonne muette prend an.",
+      "- Son voyelle : an engineer, an umbrella, an hour (le h ne se prononce pas), an honest answer.",
+      "- Son consonne : a teacher, a university (on entend « you »), a European country (on entend « you »), a one-day seminar (on entend « wan »).",
+      "~ Exemple résolu : complétez « It took us ___ hour to reach Yamoussoukro. » Étape 1 : hour s'écrit avec un h. Étape 2 : ce h est muet : le premier son entendu est une voyelle. Étape 3 : il faut an. Réponse : It took us an hour to reach Yamoussoukro (« Il nous a fallu une heure pour atteindre Yamoussoukro »).",
+      "! Piège : university, European, uniform commencent par une lettre voyelle mais par le son « you » : a university, jamais « an university ».",
+      "> Pour retenir : « Écoute, ne lis pas : a devant un son consonne, an devant un son voyelle. »",
+      "? Complétez : « He studied at ___ university in Bouaké and became ___ engineer. » || University commence par le son « you », un son consonne : a university. Engineer commence par un son voyelle : an engineer. Réponse : He studied at a university in Bouaké and became an engineer.",
+      "## Notion 2 : the, l'article de ce que l'on connaît",
+      "Règle : the s'emploie quand celui qui écoute sait de quelle chose on parle : elle a déjà été mentionnée, elle est unique, ou la suite de la phrase la précise. On le trouve aussi avec les superlatifs (the best), les ordinaux (the second), les océans, les mers et beaucoup de fleuves, et les pays au nom pluriel ou contenant United (the Netherlands, the United States).",
+      "Pourquoi ? The veut dire « celui-là, on sait lequel ». A / an présente au contraire une chose nouvelle ou quelconque. On passe donc de a à the dès que la chose est connue : I bought a book. The book is about the history of Abidjan.",
+      "- Correct : This is the best report of the year. / The Netherlands and Ghana signed an agreement.",
+      "- Fautif : This is a best report. / The Ghana signed an agreement.",
+      "~ Exemple résolu : complétez « The director wrote ___ letter. ___ letter was sent to all the heads of department. » Étape 1 : première mention, la lettre est nouvelle pour le lecteur : a letter. Étape 2 : deuxième mention, on sait de quelle lettre il s'agit : The letter. Réponse : The director wrote a letter. The letter was sent to all the heads of department.",
+      "! Piège : le français met un article devant les noms de pays (la France, le Ghana) ; l'anglais n'en met pas, sauf pour les noms au pluriel ou avec United : France, Ghana, mais the United Kingdom.",
+      "> Pour retenir : « The = on sait lequel : déjà cité, unique, superlatif, ordinal, pays pluriel ou United. »",
+      "? Complétez : « This is ___ most difficult question of ___ test. » || Most difficult est un superlatif, qui prend toujours the. Le test est précis et connu (celui que l'on passe), donc the aussi. Réponse : This is the most difficult question of the test.",
+      "## Notion 3 : le zero article, pour parler en général",
+      "Règle : pour parler d'une chose en général, on met un nom pluriel ou indénombrable sans article. Le français, lui, met « le, la, les » : « La vie est chère », « Les enfants ont besoin de sommeil » deviennent Life is expensive, Children need a lot of sleep.",
+      "Pourquoi ? En anglais, the désigne un ensemble précis. Dire « the life » ferait penser à une vie particulière. Dès que la suite précise le nom (par exemple avec of), the redevient nécessaire : The life of a rural teacher is demanding.",
+      "~ Exemple résolu : complétez « ___ cocoa we bought at the market was excellent. » Étape 1 : cocoa est indénombrable. Étape 2 : ce n'est pas le cacao en général, mais celui que nous avons acheté, précisé par la suite de la phrase. Étape 3 : il faut The. Réponse : The cocoa we bought at the market was excellent.",
+      "! Piège : le calque de « la vie, les gens, l'argent, l'éducation » au sens général. On écrit Education is a priority, et non « The education is a priority ».",
+      "> Pour retenir : « En général, rien devant : là où le français dit le / la / les, l'anglais se tait. »",
+      "? Complétez : « ___ unemployment worries many young graduates, and ___ unemployment rate in this district has risen. » || Au premier trou, le chômage est pris en général : pas d'article, Unemployment. Au second, il s'agit d'un taux précis, celui de ce district : the. Réponse : Unemployment worries many young graduates, and the unemployment rate in this district has risen.",
+      "## Notion 4 : dénombrables et indénombrables",
+      "Règle : un nom dénombrable prend a / an au singulier et un pluriel en -s. Un nom indénombrable ne prend ni a / an ni -s, et son verbe reste au singulier : The information is correct. Pour en compter des unités, on passe par a piece of : two pieces of luggage, a piece of advice.",
+      "Pourquoi ? L'anglais voit ces noms comme une masse ou un ensemble, à la manière de l'eau ou du riz : on mesure une quantité, on ne compte pas des unités.",
+      "- Indénombrables à connaître : advice, information, furniture, luggage, money, bread, rice.",
+      "~ Exemple résolu : complétez « The candidates asked for more ___ about the timetable, and the ___ they received ___ clear. » Étape 1 : information est indénombrable : pas de -s. Étape 2 : son verbe est au singulier : was. Réponse : The candidates asked for more information about the timetable, and the information they received was clear.",
+      "! Piège : money est indénombrable (How much money? Money is…), mais les unités de monnaie se comptent : many francs, two dollars.",
+      "> Pour retenir : « A-I-F-L-M : Advice, Information, Furniture, Luggage, Money : jamais de -s, jamais de a. »",
+      "? Corrigez : « The office manager bought three new furnitures. » || Furniture est indénombrable : pas de -s, et pas de chiffre directement devant. On compte avec pieces of. Réponse : The office manager bought three new pieces of furniture.",
+      "## Notion 5 : much / many, few / a few, little / a little, some / any",
+      "Règle 1 : many accompagne un pluriel dénombrable, much un indénombrable : How many chairs? How much water? Dans les phrases affirmatives, on préfère a lot of, qui va avec les deux : They have a lot of money.",
+      "Règle 2 : a few (dénombrable) et a little (indénombrable) ont un sens positif, « un peu, assez ». Few et very little ont un sens négatif, « peu, pas assez ».",
+      "Règle 3 : some s'emploie dans les phrases affirmatives, any dans les négations et les questions. Mais on garde some pour offrir ou demander quelque chose : Would you like some tea? Could we have some more chairs?",
+      "Pourquoi ? Le petit a « remplit le verre » : a few friends, c'est déjà quelques amis sur qui compter ; few friends, c'est presque personne.",
+      "- I have a few ideas (« J'ai quelques idées ») / Few people came to the meeting (« Peu de gens sont venus »).",
+      "- There's a little sugar left / We have very little time.",
+      "~ Exemple résolu : complétez « ___ candidates finished on time, so the jury extended the deadline. » Étape 1 : candidates est un pluriel dénombrable : few ou a few. Étape 2 : le jury doit prolonger le délai, c'est donc insuffisant : sens négatif. Réponse : Few candidates finished on time, so the jury extended the deadline.",
+      "! Piège : any dans une demande polie. On écrit Could I have some water, please?, car on attend un « oui ».",
+      "> Pour retenir : « Le petit a rend positif : a few, a little = un peu, ça suffit ; few, little = peu, ça manque. »",
+      "? Complétez : « How ___ luggage are you taking, and how ___ bags? » || Luggage est indénombrable : much. Bags est un pluriel dénombrable : many. Réponse : How much luggage are you taking, and how many bags?"
+     ],
+     "retenir": [
+      "A devant un son consonne, an devant un son voyelle : an hour, a university, a European country.",
+      "Un nom singulier dénombrable a toujours un déterminant (a, the, my, this…).",
+      "Pour parler en général, pluriel ou indénombrable sans article : Life is expensive, Children need sleep.",
+      "Pays sans article, sauf noms pluriels ou avec United : Ghana, France, mais the Netherlands, the United States.",
+      "Advice, information, furniture, luggage, money : indénombrables, sans -s, sans a, verbe au singulier.",
+      "Many + pluriel dénombrable ; much + indénombrable ; a lot of va avec les deux.",
+      "A few, a little : un peu, ça suffit ; few, very little : peu, ça manque.",
+      "Some en affirmation, offre et demande polie ; any en négation et en question ordinaire."
+     ],
+     "exo": {
+      "tag": "niv-an10",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "British Council LearnEnglish — Nouns: countable and uncountable",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/nouns-countable-uncountable?page=10"
+      },
+      {
+       "t": "British Council LearnEnglish — Articles: a, an, the",
+       "u": "https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/articles-a-an-the?page=1"
+      },
+      {
+       "t": "British Council LearnEnglish — Quantifiers: few, a few, little and a bit of",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/quantifiers-few-a-few-little-a-bit"
+      },
+      {
+       "t": "University of Adelaide, English for Uni — Articles",
+       "u": "https://englishforuni.adelaide.edu.au/articles"
+      },
+      {
+       "t": "Hypercorrection (psychology) — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/Hypercorrection_(psychology)"
+      },
+      {
+       "t": "Fazio et Marsh (2009), Surprising feedback improves later memory — PMC",
+       "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076"
+      }
+     ]
+    },
+    {
+     "id": "L20261125fr12",
+     "niv": "fr12",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Conjugaison 1 : présent et passé simple des verbes difficiles",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez conjuguer sans faute au présent les verbes en -indre (peindre, craindre, atteindre), en -soudre (résoudre), en -cevoir (recevoir, percevoir), ainsi qu'acquérir et mouvoir.",
+      "= Vous saurez aussi choisir la bonne famille de terminaisons du passé simple (-a, -it, -ut, -int) pour les verbes du 3e groupe.",
+      "## Ce que demande l'épreuve",
+      "En présélection, la conjugaison arrive dans des phrases à compléter ou des listes où il faut repérer la forme fautive. Les distracteurs sont construits sur des fautes « logiques » : on garde le d de l'infinitif (« il peind »), on oublie la cédille (« ils recoivent »), on fabrique un passé simple régulier (« il acquérit », « il mourit »), on met un accent circonflexe là où il n'en faut pas (« il disparût » au lieu de « il disparut »).",
+      "! Piège habituel : la forme qui « ressemble » à l'infinitif. Un verbe du 3e groupe change souvent de radical (le radical est la partie du verbe qui porte le sens, avant la terminaison) : peindre donne nous peignons, résoudre donne nous résolvons.",
+      "## La méthode, pas à pas",
+      "- 1. Repérez le temps demandé (présent ou passé simple) et la personne (je, tu, il, nous, vous, ils).",
+      "- 2. Classez le verbe : -indre, -soudre, -cevoir, verbe à radical variable (acquérir, mouvoir, tenir, venir) ou autre.",
+      "- 3. Appliquez la règle de la famille : chute du d, cédille, alternance du radical, famille de passé simple.",
+      "- 4. Vérifiez les accents : au passé simple, seules les personnes nous et vous portent l'accent circonflexe (nous peignîmes, vous reçûtes).",
+      "- 5. Barème : si vous éliminez par une règle sûre trois formes fautives, cochez ; si deux formes restent possibles, ne cochez que si votre note de confiance est élevée.",
+      "~ Exemple : « Le comité ___ le problème en une séance » (résoudre, présent). Étape 1 : présent, 3e personne du singulier. Étape 2 : verbe en -soudre. Étape 3 : le d tombe et la terminaison est -t. Réponse : Le comité résout le problème en une séance.",
+      "> Méthode du jour, la note de confiance (effet d'hypercorrection) : avant de lire chaque correction, notez votre certitude de 1 (je devine) à 3 (j'en suis sûr). Les psychologues Butterfield et Metcalfe ont nommé en 2001 un résultat surprenant : une erreur commise avec une forte certitude est plus souvent corrigée, une fois la correction lue, qu'une erreur commise au hasard, car la surprise attire l'attention sur la bonne réponse (Fazio et Marsh, 2009). Deux conditions : lire la correction, et revoir ces erreurs « sûres » aux rappels suivants, car elles peuvent revenir si la bonne réponse est oubliée.",
+      "> Le jour de l'épreuve, la même note sert au barème : une réponse notée 3 se coche ; une réponse notée 1, sans option éliminée par une règle sûre, se laisse blanche ; une réponse notée 2 se coche seulement si vous avez éliminé au moins deux options."
+     ],
+     "fond": [
+      "## Notion 1 : -indre et -soudre perdent le d au singulier",
+      "Règle : au présent de l'indicatif, les verbes en -indre (peindre, craindre, joindre, atteindre) et en -soudre (résoudre, dissoudre, absoudre) perdent le d aux trois personnes du singulier. Les terminaisons sont alors -s, -s, -t : je peins, tu peins, il peint ; je résous, tu résous, il résout.",
+      "Pourquoi ? Leur radical du présent n'a pas de d : c'est peign- et résolv- au pluriel (nous peignons, vous peignez, ils peignent ; nous résolvons, ils résolvent), et pein-, résou- au singulier. Le d n'appartient qu'à l'infinitif.",
+      "- Contraste : coudre, moudre, rendre, mordre gardent leur d au singulier : je couds, il coud, il moud, il rend. C'est le d du radical, présent partout.",
+      "- Correct : il peint, il craint, il atteint, il résout. Fautif : il peind, il craind, il résoud.",
+      "~ Exemple résolu : « Chaque matin, le gardien ___ les retards des élèves » (craindre, présent). Étape 1 : 3e personne du singulier. Étape 2 : verbe en -indre, donc pas de d. Étape 3 : terminaison -t. Réponse : Chaque matin, le gardien craint les retards des élèves.",
+      "! Piège : ne pas confondre « il coud » (coudre, qui garde le d) et « il résout » (résoudre, qui le perd). Seuls les verbes en -soudre perdent le d parmi les verbes en -oudre.",
+      "> Pour retenir : « -indre et -soudre jettent le d : il peint, il résout. Coudre, moudre, rendre le gardent : il coud, il moud, il rend. »",
+      "? Conjuguez au présent : « Nous ___ la salle de réunion et vous ___ les invitations » (peindre ; joindre). || Au pluriel, le radical de ces verbes en -indre est en -gn- : nous peignons, vous joignez. Le d de l'infinitif n'apparaît jamais au présent. Réponse : Nous peignons la salle de réunion et vous joignez les invitations.",
+      "## Notion 2 : -cevoir et la cédille",
+      "Règle : les verbes en -cevoir (recevoir, percevoir, apercevoir, décevoir, concevoir) prennent une cédille sous le c chaque fois que celui-ci se trouve devant o ou u : je reçois, il déçoit, ils perçoivent ; mais nous concevons, vous recevez, sans cédille devant e.",
+      "Pourquoi ? Devant a, o, u, la lettre c se prononce [k]. La cédille lui garde le son [s] de l'infinitif. Devant e, le c se prononce déjà [s] : la cédille serait inutile.",
+      "- Le même réflexe vaut au passé simple : je reçus, vous reçûtes.",
+      "~ Exemple résolu : « Les agents de la mairie ___ une prime de fin d'année » (percevoir, présent). Étape 1 : 3e personne du pluriel. Étape 2 : radical perçoiv- devant -ent ; le c est devant o. Étape 3 : cédille obligatoire. Réponse : Les agents de la mairie perçoivent une prime de fin d'année.",
+      "! Piège : « ils recoivent » sans cédille se lirait [rəkwav] : c'est une faute éliminatoire dans un QCM d'orthographe.",
+      "> Pour retenir : « C devant o ou u, cédille au rendez-vous : reçois, reçu ; devant e, jamais : recevez. »",
+      "? Conjuguez au présent : « Vous ___ rarement vos électeurs ; eux, ils vous ___ à chaque marché » (décevoir ; apercevoir). || Vous décevez : le c est devant e, donc pas de cédille. Ils aperçoivent : le c est devant o, donc cédille. Réponse : Vous décevez rarement vos électeurs ; eux, ils vous aperçoivent à chaque marché.",
+      "## Notion 3 : acquérir et mouvoir, deux radicaux",
+      "Règle : acquérir et mouvoir changent de radical aux trois personnes du singulier et à la 3e personne du pluriel, mais gardent celui de l'infinitif avec nous et vous, comme tenir (je tiens, nous tenons) et venir (je viens, nous venons).",
+      "- Acquérir : j'acquiers, tu acquiers, il acquiert, nous acquérons, vous acquérez, ils acquièrent. Participe passé : acquis, acquise.",
+      "- Mouvoir : je meus, tu meus, il meut, nous mouvons, vous mouvez, ils meuvent. Participe passé : mû au masculin singulier, mue, mus, mues.",
+      "Pourquoi ? Ce sont de vieux verbes dont le radical a deux formes, une forme longue (acquier-, meuv-) et une forme courte (acquér-, mouv-) réservée à nous et vous. Le schéma est le même que celui de tenir ou de venir, que vous connaissez déjà.",
+      "~ Exemple résolu : « Ces deux parcelles, la commune les a ___ l'an dernier » (acquérir, passé composé). Étape 1 : il faut le participe passé. Étape 2 : celui d'acquérir est acquis, jamais « acquéri ». Étape 3 : le complément d'objet direct les (les parcelles, féminin pluriel) est placé avant avoir : accord. Réponse : la commune les a acquises l'an dernier.",
+      "! Piège : « j'ai acquéri » et « il acquérit » n'existent pas. Le participe est acquis ; le passé simple est il acquit.",
+      "> Pour retenir : « Formule 3 + 1 : je, tu, il et ils changent de radical ; nous et vous gardent celui de l'infinitif. »",
+      "? Conjuguez au présent : « Les nouveaux agents ___ vite de l'expérience, et ces machines se ___ lentement » (acquérir ; mouvoir). || Ils acquièrent (forme longue acquièr-, avec accent grave) ; elles se meuvent (forme longue meuv-). Ce sont des 3es personnes du pluriel, donc la forme du singulier, pas celle de nous et vous. Réponse : Les nouveaux agents acquièrent vite de l'expérience, et ces machines se meuvent lentement.",
+      "## Notion 4 : les quatre familles du passé simple",
+      "Règle : au passé simple, chaque verbe appartient à une famille de terminaisons.",
+      "- Famille en -a : les verbes en -er : je demandai, il demanda, ils demandèrent.",
+      "- Famille en -it : les verbes du 2e groupe (il finit) et beaucoup de verbes du 3e groupe : les verbes en -indre (il peignit, il craignit), acquérir (il acquit), dormir, partir, voir (il vit), la plupart des verbes en -dre (il rendit).",
+      "- Famille en -ut : la plupart des verbes en -oir (recevoir : il reçut ; devoir : il dut), courir et mourir (il courut, il mourut), et résoudre, lire, croire, connaître, vivre, boire (il résolut, il lut).",
+      "- Famille en -int : tenir, venir et leurs dérivés : je vins, il vint, nous vînmes, ils vinrent.",
+      "Pourquoi ? Le passé simple a gardé des formes anciennes ; ces quatre familles, et non le groupe du verbe, permettent de retrouver la forme juste.",
+      "~ Exemple résolu : « Cette nuit-là, les négociateurs ___ la crise » (résoudre, passé simple). Étape 1 : 3e personne du pluriel. Étape 2 : résoudre appartient à la famille en -ut. Étape 3 : radical résol- + -urent. Réponse : Cette nuit-là, les négociateurs résolurent la crise.",
+      "! Piège : l'accent circonflexe ne se met qu'aux personnes nous et vous (nous peignîmes, vous reçûtes, nous vînmes). « Il disparut », sans accent, est un passé simple ; « qu'il disparût », avec accent, est un subjonctif imparfait.",
+      "> Pour retenir : « -indre et acquérir font -it ; -oir, résoudre, courir et mourir font -ut ; tenir et venir font -int. »",
+      "? Conjuguez au passé simple : « Ce jour-là, nous ___ la façade de l'école, puis le directeur ___ les parents » (peindre ; recevoir). || Peindre suit la famille en -it avec le radical peign- : nous peignîmes, avec l'accent circonflexe de nous. Recevoir suit la famille en -ut, avec cédille devant u : il reçut. Réponse : nous peignîmes la façade de l'école, puis le directeur reçut les parents."
+     ],
+     "retenir": [
+      "Les verbes en -indre et en -soudre perdent le d au singulier du présent : il peint, il craint, il résout.",
+      "Coudre, moudre et rendre gardent le d au présent : il coud, il moud, il rend.",
+      "Les verbes en -cevoir prennent une cédille devant o et u : je reçois, ils perçoivent, vous reçûtes.",
+      "Acquérir au présent : j'acquiers, nous acquérons, ils acquièrent ; participe passé acquis.",
+      "Mouvoir au présent : je meus, il meut, nous mouvons, ils meuvent ; participe passé mû, mue.",
+      "Passé simple en -it : il peignit, il acquit ; en -ut : il reçut, il résolut, il mourut ; en -int : il vint.",
+      "Au passé simple, l'accent circonflexe ne touche que nous et vous : nous peignîmes, vous reçûtes, nous tînmes."
+     ],
+     "exo": {
+      "tag": "niv-fr12",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "OQLF, Vitrine linguistique — Radical des verbes irréguliers au présent de l'indicatif",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24214/la-grammaire/le-verbe/conjugaison/verbes-des-2e-et-3e-groupes-au-present-de-lindicatif"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique — Formes du passé simple",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24207/la-grammaire/le-verbe/conjugaison/formes-du-passe-simple"
+      },
+      {
+       "t": "L'Étudiant — Verbes en -indre et en -oudre : déjouez leurs pièges",
+       "u": "https://www.letudiant.fr/lycee/verbes-en-indre-et-en-oudre-dejouez-leurs-pieges.html"
+      },
+      {
+       "t": "Larousse — Conjugaison du verbe acquérir",
+       "u": "https://www.larousse.fr/conjugaison/francais/acqu%C3%A9rir/135"
+      },
+      {
+       "t": "Larousse — Conjugaison du verbe mouvoir",
+       "u": "https://www.larousse.fr/conjugaison/francais/mouvoir/9780"
+      },
+      {
+       "t": "Larousse — Conjugaison du verbe peindre",
+       "u": "https://www.larousse.fr/conjugaison/francais/peindre/11696"
+      },
+      {
+       "t": "Gouvernement du Canada, ConjugArt — résoudre",
+       "u": "https://nos-langues.canada.ca/en/conjugart/resoudre"
+      },
+      {
+       "t": "Hypercorrection (psychology) — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/Hypercorrection_(psychology)"
+      },
+      {
+       "t": "Fazio et Marsh (2009), Surprising feedback improves later memory — PMC",
+       "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076"
+      }
+     ]
+    },
+    {
+     "id": "L20261125cg12",
+     "niv": "cg12",
+     "m": "cg",
+     "titre": "Europe : Union européenne et institutions",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez situer les dates fondatrices de la construction européenne (1950, 1951, 1957), réciter les élargissements de 6 à 27 membres et dire qui propose, qui adopte et où siège chaque institution de l'Union européenne (UE).",
+      "= Vous saurez aussi distinguer l'UE de la zone euro, c'est-à-dire l'ensemble des pays qui ont adopté l'euro comme monnaie.",
+      "## Ce que demande l'épreuve",
+      "En culture générale (barème +1 / 0 / −1), l'Europe arrive sous forme de dates, de sièges, de nombres de membres et d'intrus (« lequel n'est pas membre ? »). Les distracteurs jouent sur des confusions précises : le Conseil européen avec le Conseil de l'Union européenne, la Commission avec le Parlement, l'UE avec la zone euro, ou une année d'élargissement avec la suivante.",
+      "! Piège habituel : croire que tous les pays de l'UE utilisent l'euro. Le Danemark, membre depuis 1973, n'est pas dans la zone euro.",
+      "## La méthode, pas à pas",
+      "- 1. Placez la question sur la frise : origines (1950-1957), élargissements (1973-2013), sortie du Royaume-Uni (2020), euro (1999-2026).",
+      "- 2. Pour un nombre de membres, refaites l'addition à partir des vagues : 6, 9, 10, 12, 15, 25, 27, 28, puis 27.",
+      "- 3. Pour une institution, posez trois questions : qui la compose ? que fait-elle (proposer, adopter, juger, contrôler) ? où siège-t-elle ?",
+      "- 4. Pour la monnaie, vérifiez si le pays cité est dans la zone euro, qui compte moins de pays que l'UE.",
+      "- 5. Barème : une date à un an près ne se devine pas ; si deux années voisines restent possibles, abstenez-vous.",
+      "~ Exemple : « Combien de pays compte la Communauté après l'élargissement de 1995 ? » Étape 1 : avant 1995, on compte 12 membres (6 fondateurs + 3 en 1973 + 1 en 1981 + 2 en 1986). Étape 2 : en 1995, l'Autriche, la Finlande et la Suède entrent. Étape 3 : 12 + 3 = 15. Réponse : 15 membres.",
+      "> Méthode du jour, la note de confiance (effet d'hypercorrection) : avant de lire chaque correction, notez votre certitude de 1 (je devine) à 3 (j'en suis sûr). Les psychologues Butterfield et Metcalfe ont nommé en 2001 un résultat surprenant : une erreur commise avec une forte certitude est plus souvent corrigée, une fois la correction lue, qu'une erreur commise au hasard, car la surprise attire l'attention sur la bonne réponse (Fazio et Marsh, 2009). Deux conditions : lire la correction, et revoir ces erreurs « sûres » aux rappels suivants, car elles peuvent revenir si la bonne réponse est oubliée.",
+      "> Le jour de l'épreuve, la même note sert au barème : une réponse notée 3 se coche ; une réponse notée 1, sans option éliminée par une règle sûre, se laisse blanche ; une réponse notée 2 se coche seulement si vous avez éliminé au moins deux options."
+     ],
+     "fond": [
+      "## Notion 1 : les origines, de la déclaration Schuman aux traités de Rome",
+      "Règle : le 9 mai 1950, Robert Schuman, ministre français des affaires étrangères, propose de placer la production de charbon et d'acier sous le contrôle d'une Haute Autorité commune. Le traité instituant la Communauté européenne du charbon et de l'acier (CECA) est signé à Paris le 18 avril 1951 et entre en vigueur le 23 juillet 1952. Ses membres, « les Six », sont la Belgique, l'Allemagne (alors République fédérale), la France, l'Italie, le Luxembourg et les Pays-Bas. En 1957, les mêmes Six signent les traités de Rome, qui créent la Communauté économique européenne (CEE) et Euratom.",
+      "Pourquoi ? Après la guerre, la coopération commence par des secteurs concrets de l'économie plutôt que par une union politique d'un seul coup. Le 9 mai est devenu la « Journée de l'Europe » en souvenir de cette déclaration.",
+      "- L'assemblée de la CECA, créée en 1952, prend le nom de Parlement européen en 1962 ; ses membres sont élus au suffrage universel direct depuis 1979.",
+      "~ Exemple résolu : classez dans l'ordre : traités de Rome, déclaration Schuman, traité de Paris. Étape 1 : la déclaration est l'idée de départ (9 mai 1950). Étape 2 : le traité de Paris crée la CECA (18 avril 1951). Étape 3 : les traités de Rome élargissent la coopération à l'économie (1957). Réponse : déclaration Schuman, traité de Paris, traités de Rome.",
+      "! Piège : Jean Monnet a participé à la préparation de la déclaration, mais c'est Robert Schuman qui l'a présentée.",
+      "> Pour retenir : « 50-51-57 : Schuman parle, Paris crée le charbon-acier, Rome crée la Communauté économique. »",
+      "? Quel traité, signé par les Six, a créé en même temps la CEE et Euratom, et en quelle année ? || Ce sont les traités de Rome de 1957. Le traité de Paris (1951) n'avait créé que la CECA. Retenez la suite 50-51-57.",
+      "## Notion 2 : les élargissements, de 6 à 27",
+      "Règle : l'UE s'est agrandie par vagues successives.",
+      "- 1973 : Danemark, Irlande, Royaume-Uni (9 membres).",
+      "- 1981 : Grèce (10).",
+      "- 1986 : Espagne, Portugal (12).",
+      "- 1995 : Autriche, Finlande, Suède (15).",
+      "- 1er mai 2004 : Chypre, Estonie, Hongrie, Lettonie, Lituanie, Malte, Pologne, République tchèque, Slovaquie, Slovénie (25).",
+      "- 2007 : Bulgarie, Roumanie (27).",
+      "- 1er juillet 2013 : Croatie (28). Le 31 janvier 2020, le Royaume-Uni quitte l'UE, seul pays à l'avoir fait : 27 membres.",
+      "Pourquoi ? Pour entrer, un État européen doit remplir les critères fixés par le Conseil européen à Copenhague en 1993 : des institutions stables garantissant la démocratie, l'État de droit, les droits de l'homme et la protection des minorités ; une économie de marché viable ; la capacité d'assumer les obligations de membre (l'« acquis » de l'Union). L'article 49 du traité sur l'Union européenne fixe la procédure, et les décisions clés se prennent à l'unanimité.",
+      "~ Exemple résolu : un QCM demande « Combien de pays sont entrés le 1er mai 2004 ? ». Étape 1 : on passe de 15 à 25 membres. Étape 2 : 25 − 15 = 10. Réponse : dix pays.",
+      "! Piège : la Norvège a négocié son adhésion mais l'a refusée par référendum ; elle n'est pas membre.",
+      "> Pour retenir les dix de 2004 : « 3 Baltes, 2 îles, 5 du centre » : Estonie, Lettonie, Lituanie ; Chypre, Malte ; Pologne, République tchèque, Slovaquie, Hongrie, Slovénie.",
+      "? Un candidat écrit : « La Roumanie est entrée dans l'UE en 2004 avec la Pologne. » Corrigez. || La Roumanie est entrée en 2007, avec la Bulgarie. En 2004, la Pologne est entrée avec neuf autres pays : les trois Baltes, Chypre, Malte, la République tchèque, la Slovaquie, la Hongrie et la Slovénie.",
+      "## Notion 3 : les institutions, qui propose, qui décide, où",
+      "Règle : l'UE compte sept institutions. Quatre décident : le Parlement européen, le Conseil européen, le Conseil de l'Union européenne et la Commission européenne. Trois autres jugent, gèrent la monnaie ou contrôlent : la Cour de justice de l'UE, la Banque centrale européenne (BCE) et la Cour des comptes européenne.",
+      "- Commission européenne (Bruxelles et Luxembourg) : elle a le « droit d'initiative », c'est-à-dire qu'elle propose les lois.",
+      "- Parlement européen (Strasbourg, Bruxelles, Luxembourg) : il représente les citoyens, compte 720 députés pour 2024-2029, est élu tous les cinq ans et approuve le budget. Ses 12 sessions plénières mensuelles se tiennent à Strasbourg.",
+      "- Conseil de l'Union européenne (Bruxelles et Luxembourg) : il réunit les ministres des États et adopte les lois avec le Parlement.",
+      "- Conseil européen (Bruxelles) : il réunit les chefs d'État ou de gouvernement, fixe les grandes orientations et n'adopte pas de lois, sauf d'éventuelles modifications des traités. Son président est élu pour deux ans et demi, renouvelable une fois.",
+      "- Cour de justice (Luxembourg), Cour des comptes (Luxembourg), BCE (Francfort).",
+      "Pourquoi ? Le partage évite qu'un seul organe propose et décide à la fois : la Commission propose, puis les représentants des citoyens (Parlement) et ceux des États (Conseil de l'UE) adoptent.",
+      "~ Exemple résolu : « Quelle institution adopte les lois européennes avec le Conseil de l'UE ? » Étape 1 : la Commission propose, elle n'adopte pas. Étape 2 : le Conseil européen n'adopte pas de lois. Étape 3 : il reste le Parlement européen. Réponse : le Parlement européen.",
+      "! Piège : le Conseil européen (chefs d'État ou de gouvernement, orientations) n'est pas le Conseil de l'Union européenne (ministres, adoption des lois).",
+      "> Pour retenir : « La Commission propose, le Parlement et le Conseil disposent ; les juges et les comptables sont à Luxembourg, la banque à Francfort. »",
+      "? Associez chaque ville à une institution : Strasbourg, Luxembourg, Francfort. || Strasbourg : sessions plénières mensuelles du Parlement européen. Luxembourg : Cour de justice de l'UE et Cour des comptes européenne. Francfort : Banque centrale européenne.",
+      "## Notion 4 : l'euro, la monnaie d'une partie de l'UE",
+      "Règle : le 1er janvier 1999, l'euro naît comme monnaie scripturale (sur les comptes, sans billets) dans 11 pays : Allemagne, Autriche, Belgique, Espagne, Finlande, France, Irlande, Italie, Luxembourg, Pays-Bas, Portugal. La Grèce les rejoint le 1er janvier 2001. Les billets et les pièces circulent depuis le 1er janvier 2002 dans 12 pays ; l'euro devient la seule monnaie légale le 1er mars 2002. Suivent la Slovénie (2007), Chypre et Malte (2008), la Slovaquie (2009), l'Estonie (2011), la Lettonie (2014), la Lituanie (2015), la Croatie (2023) et la Bulgarie, 21e membre, le 1er janvier 2026.",
+      "Pourquoi ? Pour adopter l'euro, un pays doit respecter des critères de convergence économique ; l'entrée de la Bulgarie a été rendue possible par ce respect. Tous les membres de l'UE ne sont donc pas dans la zone euro : le Danemark ne l'a pas rejointe.",
+      "~ Exemple résolu : combien de pays utilisaient l'euro fin 2015 ? Étape 1 : 12 en 2002. Étape 2 : + Slovénie (13), + Chypre et Malte (15), + Slovaquie (16), + Estonie (17), + Lettonie (18), + Lituanie (19). Réponse : 19 pays. Avec la Croatie (2023) et la Bulgarie (2026), on arrive à 21.",
+      "! Piège : 1999 est la naissance de l'euro sur les comptes, 2002 celle des billets et des pièces. Lisez bien si la question parle de « monnaie » ou de « billets ».",
+      "> Pour retenir : « 99 sur les comptes, 2002 dans la poche ; 11 au départ, 21 en 2026. »",
+      "? Vrai ou faux : « La Croatie est entrée dans l'UE et dans la zone euro la même année. » || Faux. La Croatie est membre de l'UE depuis le 1er juillet 2013 et a adopté l'euro en 2023. L'adhésion à l'UE et l'adoption de l'euro sont deux étapes distinctes.",
+      "## Notion 5 : l'UE, un modèle pour l'Afrique ? (pour la dissertation)",
+      "Arguments pour : une intégration commencée par l'économie (charbon, acier, marché commun) a rapproché d'anciens ennemis ; une monnaie et des institutions communes donnent du poids aux États moyens. Les organisations africaines comme la CEDEAO ou l'UEMOA suivent aussi une logique d'intégration régionale.",
+      "Arguments contre : l'unanimité ralentit les décisions, notamment les élargissements ; la sortie du Royaume-Uni en 2020 montre qu'une intégration peut reculer ; et une monnaie commune exige des économies proches, ce que traduisent les critères de convergence.",
+      "~ Exemple résolu de phrase d'argument : « L'expérience européenne montre qu'une intégration régionale progresse par étapes concrètes : la CECA de 1951 précède de six ans la Communauté économique européenne de 1957. » L'idée (progression par étapes) est appuyée par deux dates vérifiées."
+     ],
+     "retenir": [
+      "Déclaration Schuman le 9 mai 1950, devenu Journée de l'Europe.",
+      "Traité de Paris du 18 avril 1951 : CECA ; traités de Rome de 1957 : CEE et Euratom.",
+      "Les Six fondateurs : Belgique, Allemagne, France, Italie, Luxembourg, Pays-Bas.",
+      "Élargissements : 1973, 1981, 1986, 1995, 2004, 2007, 2013 ; sortie du Royaume-Uni le 31 janvier 2020.",
+      "Critères de Copenhague (1993) : démocratie et État de droit, économie de marché, capacité d'assumer l'acquis.",
+      "La Commission propose les lois ; le Parlement et le Conseil de l'UE les adoptent.",
+      "Parlement européen : 720 députés pour 2024-2029, sessions plénières mensuelles à Strasbourg ; BCE à Francfort ; Cour de justice à Luxembourg.",
+      "Euro : comptes en 1999 (11 pays), billets et pièces en 2002 (12 pays), 21 pays depuis 2026."
+     ],
+     "exo": {
+      "tag": "niv-cg12",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Conseil de l'UE — La déclaration Schuman",
+       "u": "https://www.consilium.europa.eu/fr/schuman-declaration/"
+      },
+      {
+       "t": "Parlement européen, fiche thématique — L'élargissement de l'Union",
+       "u": "https://www.europarl.europa.eu/factsheets/en/sheet/167/the-enlargement-of-the-union"
+      },
+      {
+       "t": "Parlement européen (jeunesse) — Frise chronologique des pays de l'UE",
+       "u": "https://youth.europarl.europa.eu/files/live/sites/youthhub/files/active-lessons-revamp/FR-eu-countries-timeline-2025.pdf"
+      },
+      {
+       "t": "Union européenne — Types d'institutions et organes, implantation",
+       "u": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en"
+      },
+      {
+       "t": "Union européenne — Profil du Parlement européen",
+       "u": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles/european-parliament_en"
+      },
+      {
+       "t": "Parlement européen, fiche thématique 1.3.3 — Organisation et fonctionnement",
+       "u": "https://www.europarl.europa.eu/erpl-app-public/factsheets/pdf/en/FTU_1.3.3.pdf"
+      },
+      {
+       "t": "BCE — Les pays de la zone euro et leur année d'adhésion",
+       "u": "https://www.ecb.europa.eu/euro/intro/html/map.en.html"
+      },
+      {
+       "t": "Banco de España — L'introduction de l'euro",
+       "u": "https://www.bde.es/wbe/en/sobre-banco/actividad-europea/eurosistema-sebc/historia-eurosistema/euro/introduccion-euro/"
+      },
+      {
+       "t": "BCE — Le passage à l'euro fiduciaire de 2002",
+       "u": "https://ecb.europa.eu/euro/changeover/2002/html/index.en.html"
+      },
+      {
+       "t": "Banque de France — La Bulgarie, 21e membre de la zone euro en 2026",
+       "u": "https://www.banque-france.fr/en/news/21st-member-euro-area-2026-bulgaria"
+      },
+      {
+       "t": "Union européenne — Les pays de l'UE (adhésion, euro, Schengen)",
+       "u": "https://european-union.europa.eu/principles-countries-history/country-profiles_en"
+      },
+      {
+       "t": "Hypercorrection (psychology) — Wikipedia",
+       "u": "https://en.wikipedia.org/wiki/Hypercorrection_(psychology)"
+      },
+      {
+       "t": "Fazio et Marsh (2009), Surprising feedback improves later memory — PMC",
+       "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076"
+      }
+     ]
+    }
+   ],
+   "sujets": []
   }
  ]
 }
