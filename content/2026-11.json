@@ -44566,6 +44566,528 @@
       "t": "Union européenne — Types d'institutions et organes, implantation",
       "u": "https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/types-institutions-and-bodies_en"
      }
+    },
+    {
+     "id": "c20261125-ct-01",
+     "m": "ct",
+     "tag": "ct",
+     "verif": "calcul",
+     "calc": "180*0.9",
+     "q": "La consigne demande un résumé de 180 mots, avec une tolérance de 10 %. Quel est le nombre minimal de mots accepté ?",
+     "o": [
+      "162 mots",
+      "170 mots",
+      "171 mots",
+      "144 mots"
+     ],
+     "a": 0,
+     "e": "Tolérance de 10 % : on retire 10 % de 180, soit 18 mots. Minimum : 180 × 0,9 = 162 mots ; maximum : 180 × 1,1 = 198 mots.",
+     "ed": [
+      null,
+      "170 mots est dans la fourchette, mais ce n'est pas le minimum : on peut descendre jusqu'à 162.",
+      "171 mots correspond à une tolérance de 5 % (180 × 0,95), pas de 10 %.",
+      "144 mots correspond à une tolérance de 20 % (180 × 0,8) : c'est hors fourchette."
+     ]
+    },
+    {
+     "id": "c20261125-ct-02",
+     "m": "ct",
+     "tag": "ct",
+     "verif": "calcul",
+     "calc": "290-250*1.1",
+     "q": "Votre brouillon compte 290 mots, pour une consigne de 250 mots ± 10 %. Combien de mots devez-vous supprimer, au minimum, pour être dans la fourchette ?",
+     "o": [
+      "40 mots",
+      "25 mots",
+      "15 mots",
+      "29 mots"
+     ],
+     "a": 2,
+     "e": "Le maximum autorisé est 250 × 1,1 = 275 mots. Il faut donc retirer au moins 290 − 275 = 15 mots, de préférence en supprimant répétitions et tournures lourdes.",
+     "ed": [
+      "40 mots ramènerait à 250 pile : ce n'est pas obligatoire, la tolérance va jusqu'à 275.",
+      "25 mots ramènerait à 265 : possible, mais ce n'est pas le minimum demandé.",
+      null,
+      "29 mots correspond à 10 % du brouillon (290), alors que la tolérance se calcule sur la consigne (250)."
+     ]
+    },
+    {
+     "id": "c20261125-ct-03",
+     "m": "ct",
+     "tag": "ct",
+     "verif": "methode",
+     "q": "Selon l'usage des concours (chaque apostrophe sépare deux mots), combien de mots compte : « C'est l'avenir qu'on prépare » ?",
+     "o": [
+      "4 mots",
+      "5 mots",
+      "7 mots",
+      "6 mots"
+     ],
+     "a": 2,
+     "e": "On découpe à chaque espace et à chaque apostrophe : C' / est / l' / avenir / qu' / on / prépare, soit 7 mots. Les élisions comptent chacune pour un mot.",
+     "ed": [
+      "4 mots ne compte que les groupes séparés par des espaces : les apostrophes sont oubliées.",
+      "5 mots oublie deux des trois élisions (C', l', qu').",
+      null,
+      "6 mots oublie une élision : il y en a trois (C', l', qu')."
+     ]
+    },
+    {
+     "id": "c20261125-ct-04",
+     "m": "ct",
+     "tag": "ct",
+     "verif": "methode",
+     "q": "Le texte dit : « Certes, l'aide extérieure soulage les urgences. Mais elle entretient la dépendance. » Quelle reformulation condense le mieux ce raisonnement dans un résumé ?",
+     "o": [
+      "L'aide extérieure soulage les urgences et entretient la dépendance.",
+      "Bien qu'elle soulage les urgences, l'aide extérieure entretient la dépendance.",
+      "L'auteur pense que l'aide extérieure entretient la dépendance.",
+      "L'aide extérieure entretient la dépendance, par exemple en cas d'urgence."
+     ],
+     "a": 1,
+     "e": "Bien que (ou si… ) condense le couple concession-réfutation « certes… mais » en une seule phrase, sans perdre le lien logique : c'est ce que le correcteur vérifie.",
+     "ed": [
+      "« et » met les deux idées sur le même plan : la concession et l'opposition disparaissent.",
+      null,
+      "« L'auteur pense que » est une tournure de compte rendu, interdite dans un résumé écrit à la place de l'auteur.",
+      "« par exemple » invente un lien d'illustration qui n'existe pas dans le texte et fausse le raisonnement."
+     ]
+    },
+    {
+     "id": "c20261125-ct-05",
+     "m": "ct",
+     "tag": "ct",
+     "verif": "methode",
+     "q": "Quelle réécriture de « parce que les prix des denrées ne cessent d'augmenter » est la plus courte tout en restant fidèle ?",
+     "o": [
+      "en raison de la hausse continue des prix des denrées",
+      "parce que les prix des denrées augmentent sans cesse de façon continue",
+      "du fait que les prix des denrées vont toujours en augmentant",
+      "à cause des denrées"
+     ],
+     "a": 0,
+     "e": "La nominalisation (« la hausse continue des prix ») remplace une proposition par un groupe nominal : elle économise des mots sans retirer d'idée. C'est l'outil principal pour raccourcir.",
+     "ed": [
+      null,
+      "Cette version ajoute une redondance (« sans cesse » et « de façon continue ») : elle est plus longue que l'original.",
+      "« du fait que… vont toujours en augmentant » est aussi long que l'original : rien n'est gagné.",
+      "« à cause des denrées » supprime l'idée essentielle, la hausse des prix : le sens est perdu."
+     ]
+    },
+    {
+     "id": "c20261125-ct-06",
+     "m": "ct",
+     "tag": "ct",
+     "verif": "methode",
+     "q": "Le texte à résumer est écrit à la première personne du pluriel (« nous devons », « notre pays »). Comment rédiger le résumé ?",
+     "o": [
+      "À la troisième personne, en nommant l'auteur",
+      "À l'impersonnel uniquement (« il faut »)",
+      "En gardant le « nous » de l'auteur",
+      "En alternant « je » et « nous »"
+     ],
+     "a": 2,
+     "e": "Le résumé s'écrit à la place de l'auteur et respecte son système d'énonciation : si le texte dit « nous », le résumé dit « nous ».",
+     "ed": [
+      "Nommer l'auteur à la troisième personne transforme le résumé en compte rendu : c'est pénalisé.",
+      "L'impersonnel n'est pas fautif en soi, mais l'imposer partout trahit l'énonciation du texte.",
+      null,
+      "Alterner « je » et « nous » crée une incohérence que le texte ne contient pas."
+     ]
+    },
+    {
+     "id": "c20261125-ct-07",
+     "m": "ct",
+     "tag": "ct",
+     "verif": "methode",
+     "q": "Pour une consigne de 250 mots ± 10 %, votre résumé n'en compte que 205. Quelle est la cause la plus probable ?",
+     "o": [
+      "Un argument du texte a été oublié",
+      "Les phrases sont trop courtes",
+      "Vous n'avez pas assez cité le texte",
+      "Il manque des exemples"
+     ],
+     "a": 0,
+     "e": "Un résumé trop court a presque toujours perdu une idée : on relit le plan du texte, paragraphe par paragraphe, pour retrouver l'argument manquant, plutôt que d'allonger artificiellement.",
+     "ed": [
+      null,
+      "Allonger les phrases ajouterait des mots creux : le problème est une idée manquante, pas le style.",
+      "Les citations sont à supprimer dans un résumé : en ajouter serait une faute.",
+      "Les exemples se suppriment : les réintroduire ne corrige pas l'oubli d'un argument."
+     ]
+    },
+    {
+     "id": "c20261125-ct-08",
+     "m": "ct",
+     "tag": "ct",
+     "verif": "methode",
+     "q": "Lors de la deuxième lecture du texte, que faut-il faire en priorité ?",
+     "o": [
+      "Commencer à rédiger le résumé au propre",
+      "Numéroter les paragraphes, souligner l'idée principale de chacun, entourer les connecteurs logiques",
+      "Compter les mots du texte",
+      "Recopier les phrases les plus réussies"
+     ],
+     "a": 1,
+     "e": "La deuxième lecture sert à dégager la structure du texte : idée principale de chaque paragraphe et connecteurs (mais, donc, en effet), qui donneront le plan du résumé.",
+     "ed": [
+      "Rédiger avant d'avoir dégagé le plan du texte conduit à oublier ou déplacer des idées.",
+      null,
+      "Compter les mots du texte n'aide pas à le comprendre : seul compte le nombre de mots du résumé.",
+      "Recopier des phrases du texte est interdit : il faut reformuler."
+     ]
+    },
+    {
+     "id": "c20261125-sog2-01",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Sujet : « Commentez et discutez : “La jeunesse est le fer de lance du développement.” » Quel plan convient ?",
+     "o": [
+      "Un plan chronologique",
+      "Un plan descriptif",
+      "Un plan dialectique : l'assertion est fondée, puis elle doit être nuancée",
+      "Un plan en trois parties sans lien"
+     ],
+     "a": 2,
+     "e": "« Commentez et discutez » appelle l'examen de l'assertion puis sa discussion : on montre en quoi elle est fondée, puis ses limites. C'est le plan dialectique.",
+     "ed": [
+      "Le plan chronologique raconte une évolution ; il ne discute pas une assertion.",
+      "Le plan descriptif expose sans juger : il ne répond pas à « discutez ».",
+      null,
+      "Des parties sans lien ne forment pas une démonstration : le correcteur attend une progression."
+     ]
+    },
+    {
+     "id": "c20261125-sog2-02",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Sujet : « Analysez les causes et les conséquences de la cherté de la vie en Côte d'Ivoire. » Quel plan choisir ?",
+     "o": [
+      "Un plan analytique : I. Les causes ; II. Les conséquences",
+      "Un plan dialectique pour et contre",
+      "Un plan alphabétique des produits",
+      "Une seule partie générale"
+     ],
+     "a": 0,
+     "e": "La consigne « analysez les causes et les conséquences » demande d'expliquer un mécanisme : le plan analytique suit directement cette consigne.",
+     "ed": [
+      null,
+      "Il n'y a pas d'assertion à discuter : un plan pour et contre ne répond pas à la consigne.",
+      "Un classement alphabétique n'explique aucun mécanisme.",
+      "Une partie unique ne montre ni plan ni progression : la copie serait pénalisée."
+     ]
+    },
+    {
+     "id": "c20261125-sog2-03",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Dans quel ordre se succèdent les gestes de l'introduction ?",
+     "o": [
+      "Problématique, accroche, annonce du plan, définitions",
+      "Accroche, définitions, mise en tension, problématique, annonce du plan",
+      "Annonce du plan, accroche, problématique, définitions",
+      "Définitions, annonce du plan, accroche, problématique"
+     ],
+     "a": 1,
+     "e": "L'introduction va du général au précis : accroche, définition des termes, reformulation et mise en tension, problématique, puis annonce du plan qui ouvre le développement.",
+     "ed": [
+      "Commencer par la problématique prive le lecteur du contexte qui la justifie.",
+      null,
+      "L'annonce du plan termine l'introduction : la placer en premier casse la logique.",
+      "L'accroche vient en tête pour capter l'attention, pas après l'annonce du plan."
+     ]
+    },
+    {
+     "id": "c20261125-sog2-04",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Dans un paragraphe argumentatif, à quoi sert la mini-conclusion ?",
+     "o": [
+      "À annoncer le plan général",
+      "À ajouter un deuxième exemple",
+      "À donner son avis personnel",
+      "À relier l'argument au sujet"
+     ],
+     "a": 3,
+     "e": "Un argument suit quatre temps : idée, explication, exemple, mini-conclusion. La mini-conclusion montre au correcteur en quoi l'argument répond au sujet.",
+     "ed": [
+      "L'annonce du plan appartient à l'introduction, pas à chaque paragraphe.",
+      "L'exemple a déjà sa place ; la mini-conclusion tire la leçon de l'argument.",
+      "La mini-conclusion n'est pas une opinion : elle rattache l'argument au sujet.",
+      null
+     ]
+    },
+    {
+     "id": "c20261125-sog2-05",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Sujet sur les élections et la paix. Quelle ouverture de conclusion est la mieux venue ?",
+     "o": [
+      "Et le football, rassemble-t-il les peuples ?",
+      "Pour conclure, la paix est importante.",
+      "La confiance des citoyens dans leurs institutions n'est-elle pas, au fond, la première condition d'un vote apaisé ?",
+      "Tel était mon avis sur la question."
+     ],
+     "a": 2,
+     "e": "Une bonne ouverture prolonge la réflexion vers une question voisine : ici, du vote vers la confiance dans les institutions, sans changer de sujet.",
+     "ed": [
+      "Le football n'a pas de lien avec la réflexion menée : c'est une ouverture gratuite.",
+      "Cette phrase banale ne répond pas à la problématique et n'ouvre sur rien.",
+      null,
+      "Une formule d'opinion vide n'est ni un bilan ni une ouverture."
+     ]
+    },
+    {
+     "id": "c20261125-sog2-06",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "« L'emploi des jeunes est une priorité, car leur nombre augmente plus vite que les postes disponibles. Ainsi, l'insertion doit être au cœur des politiques publiques. » Quel élément manque à ce paragraphe ?",
+     "o": [
+      "L'idée",
+      "L'explication",
+      "La mini-conclusion",
+      "Un exemple précis"
+     ],
+     "a": 3,
+     "e": "Le paragraphe contient l'idée (priorité), l'explication (« car… ») et la mini-conclusion (« Ainsi… »), mais aucun exemple précis, daté ou situé : l'argument reste une affirmation.",
+     "ed": [
+      "L'idée est présente : « L'emploi des jeunes est une priorité ».",
+      "L'explication est présente : « car leur nombre augmente plus vite que les postes ».",
+      "La mini-conclusion est présente : « Ainsi, l'insertion doit être au cœur… ».",
+      null
+     ]
+    },
+    {
+     "id": "c20261125-sog2-07",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Quelle accroche est à éviter ?",
+     "o": [
+      "Un fait daté lié au sujet",
+      "« Depuis la nuit des temps, l'homme s'est toujours posé des questions. »",
+      "Une citation exacte dont l'auteur est connu",
+      "Une actualité en rapport avec le sujet"
+     ],
+     "a": 1,
+     "e": "L'accroche doit être précise et liée au sujet : fait, citation exacte ou actualité. La formule passe-partout « depuis la nuit des temps » ne dit rien et agace le correcteur.",
+     "ed": [
+      "Un fait daté lié au sujet est l'accroche recommandée.",
+      null,
+      "Une citation exacte et attribuée est une accroche valable.",
+      "Une actualité en lien avec le sujet est une accroche valable."
+     ]
+    },
+    {
+     "id": "c20261125-sog2-08",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Laquelle de ces phrases est une problématique, et non une annonce de plan ?",
+     "o": [
+      "Nous verrons d'abord les atouts, puis les limites.",
+      "Dans une première partie, nous montrerons que…",
+      "Le sport peut-il réellement servir de levier à la cohésion sociale ?",
+      "Ce sujet comporte deux parties."
+     ],
+     "a": 2,
+     "e": "La problématique pose, sous forme de question, le problème que la copie va résoudre. L'annonce du plan, qui suit, indique seulement l'ordre des parties.",
+     "ed": [
+      "Cette phrase annonce l'ordre des parties : c'est l'annonce du plan.",
+      "« Dans une première partie » annonce le plan, sans poser de problème.",
+      null,
+      "Cette phrase décrit la copie, elle ne pose aucune question."
+     ]
+    },
+    {
+     "id": "c20261125-pes2-01",
+     "m": "pes",
+     "tag": "pes2",
+     "verif": "calcul",
+     "calc": "(42800-40000)/40000*100",
+     "q": "Le PIB d'un pays passe de 40 000 à 42 800 milliards de F CFA en un an. Quel est le taux de croissance ?",
+     "o": [
+      "2,8 %",
+      "7 %",
+      "6,5 %",
+      "28 %"
+     ],
+     "a": 1,
+     "e": "Taux de croissance = (valeur finale − valeur initiale) / valeur initiale × 100 = 2 800 / 40 000 × 100 = 7 %.",
+     "ed": [
+      "2,8 % confond la hausse en milliers de milliards (2,8) avec un pourcentage.",
+      null,
+      "6,5 % divise par la valeur finale (2 800 / 42 800) au lieu de la valeur initiale.",
+      "28 % résulte d'une erreur de virgule : 2 800 / 40 000 vaut 0,07, soit 7 %."
+     ]
+    },
+    {
+     "id": "c20261125-pes2-02",
+     "m": "pes",
+     "tag": "pes2",
+     "verif": "calcul",
+     "calc": "1/(1-0.6)",
+     "q": "Les ménages consomment 60 % de tout revenu supplémentaire. Quel est le multiplicateur keynésien ?",
+     "o": [
+      "1,6",
+      "0,4",
+      "2,5",
+      "6"
+     ],
+     "a": 2,
+     "e": "Multiplicateur = 1 / (1 − propension marginale à consommer) = 1 / (1 − 0,6) = 1 / 0,4 = 2,5.",
+     "ed": [
+      "1,6 additionne 1 et 0,6 : ce n'est pas la formule.",
+      "0,4 est la propension à épargner (1 − 0,6), pas le multiplicateur.",
+      null,
+      "6 prend 60 % pour 0,1 ou confond pourcentage et multiplicateur."
+     ]
+    },
+    {
+     "id": "c20261125-pes2-03",
+     "m": "pes",
+     "tag": "pes2",
+     "verif": "calcul",
+     "calc": "1000/25000*100",
+     "q": "Le prix d'un panier de produits de base passe de 25 000 F à 26 000 F en un an. Quel est le taux d'inflation mesuré sur ce panier ?",
+     "o": [
+      "4 %",
+      "1 %",
+      "3,8 %",
+      "10 %"
+     ],
+     "a": 0,
+     "e": "Taux d'inflation = hausse / prix initial × 100 = 1 000 / 25 000 × 100 = 4 %. Ce niveau dépasserait le plafond de 3 % fixé par le critère de convergence de l'UEMOA.",
+     "ed": [
+      null,
+      "1 % confond la hausse (1 000 F) avec un pourcentage.",
+      "3,8 % divise par le prix final (1 000 / 26 000) au lieu du prix initial.",
+      "10 % est une erreur d'ordre de grandeur : 1 000 sur 25 000, c'est 4 sur 100."
+     ]
+    },
+    {
+     "id": "c20261125-pes2-04",
+     "m": "pes",
+     "tag": "pes2",
+     "verif": "calcul",
+     "calc": "6-2.5",
+     "q": "Le PIB réel d'un pays augmente de 6 % et sa population de 2,5 % dans l'année. De combien augmente, environ, le PIB par habitant ?",
+     "o": [
+      "8,5 %",
+      "6 %",
+      "2,4 %",
+      "3,5 %"
+     ],
+     "a": 3,
+     "e": "Pour de petits taux, la croissance du PIB par habitant est à peu près la différence : 6 − 2,5 = 3,5 %. Une forte croissance démographique absorbe donc une part de la croissance économique.",
+     "ed": [
+      "8,5 % additionne les deux taux alors qu'il faut les soustraire.",
+      "6 % oublie que la richesse est partagée entre plus d'habitants.",
+      "2,4 % divise les taux (6 / 2,5) : cela n'a pas de sens économique.",
+      null
+     ]
+    },
+    {
+     "id": "c20261125-pes2-05",
+     "m": "pes",
+     "tag": "pes2",
+     "q": "Selon la définition du BIT, laquelle de ces personnes est chômeuse ?",
+     "o": [
+      "Adjoua, 30 ans, sans emploi, disponible tout de suite, qui a démarché des employeurs la semaine dernière",
+      "Yao, 45 ans, qui a travaillé à temps partiel la semaine de référence et voudrait travailler plus",
+      "Fanta, 28 ans, sans emploi, qui a cessé toute recherche depuis un an",
+      "Koné, 22 ans, étudiant à temps plein, ni disponible ni en recherche"
+     ],
+     "a": 0,
+     "e": "Le BIT exige trois conditions à la fois : être sans emploi durant la semaine de référence, disponible dans les deux semaines, et avoir cherché activement un emploi au cours des quatre dernières semaines. Adjoua les remplit toutes.",
+     "ed": [
+      null,
+      "Yao a travaillé pendant la semaine de référence : il est en emploi (en sous-emploi), pas chômeur.",
+      "Fanta ne cherche plus d'emploi depuis un an : la condition de recherche active manque.",
+      "Koné n'est ni disponible ni en recherche : il est inactif au sens du BIT."
+     ],
+     "src": {
+      "t": "INSEE, « Chômeur (au sens du Bureau international du travail (BIT)) », définition",
+      "u": "https://www.insee.fr/fr/metadonnees/definition/c1129"
+     }
+    },
+    {
+     "id": "c20261125-pes2-06",
+     "m": "pes",
+     "tag": "pes2",
+     "q": "D'après la définition du BIT reprise par l'INSEE, dans quel délai un chômeur doit-il être disponible pour prendre un emploi ?",
+     "o": [
+      "Dans les deux semaines",
+      "Dans les trois mois",
+      "Dans l'année",
+      "Immédiatement, le jour même"
+     ],
+     "a": 0,
+     "e": "La définition fixe trois conditions simultanées : être sans emploi, être disponible pour prendre un emploi dans les deux semaines, et avoir cherché activement un emploi au cours des quatre dernières semaines.",
+     "ed": [
+      null,
+      "Trois mois est le délai d'un emploi déjà trouvé qui commence plus tard, pas le délai de disponibilité.",
+      "Un an est bien trop large : la définition parle de deux semaines.",
+      "La définition n'exige pas une disponibilité le jour même, mais dans les deux semaines."
+     ],
+     "src": {
+      "t": "INSEE, « Chômeur (au sens du Bureau international du travail (BIT)) », définition",
+      "u": "https://www.insee.fr/fr/metadonnees/definition/c1129"
+     }
+    },
+    {
+     "id": "c20261125-pes2-07",
+     "m": "pes",
+     "tag": "pes2",
+     "q": "Un État de l'UEMOA affiche un solde budgétaire de −2,5 % du PIB, une inflation de 2 % et une dette publique de 74 % du PIB. Quel critère de convergence de premier rang ne respecte-t-il pas ?",
+     "o": [
+      "Le solde budgétaire",
+      "L'inflation",
+      "La dette publique",
+      "Aucun : il respecte les trois"
+     ],
+     "a": 2,
+     "e": "Critères de premier rang : solde budgétaire global d'au moins −3 % du PIB, inflation d'au plus 3 % par an, dette d'au plus 70 % du PIB. Avec 74 %, la dette dépasse le plafond.",
+     "ed": [
+      "Un solde de −2,5 % est au-dessus du seuil de −3 % : le critère est respecté.",
+      "Une inflation de 2 % est sous le plafond de 3 % : le critère est respecté.",
+      null,
+      "La dette de 74 % dépasse le plafond de 70 % : un critère n'est pas respecté."
+     ],
+     "src": {
+      "t": "Financial Afrik, « Convergence dans l'UEMOA : aucun État n'a respecté les trois critères de premier rang en 2018 », 6 sept. 2019",
+      "u": "https://www.financialafrik.com/2019/09/06/convergence-dans-luemoa-aucun-etat-na-respecte-les-trois-criteres-de-premier-rang-en-2018/"
+     }
+    },
+    {
+     "id": "c20261125-pes2-08",
+     "m": "pes",
+     "tag": "pes2",
+     "q": "Parmi les critères de second rang de l'UEMOA, quel seuil s'applique au taux de pression fiscale ?",
+     "o": [
+      "Au plus 3 % du PIB",
+      "Au moins 20 % du PIB",
+      "Au plus 35 % du PIB",
+      "Au moins 70 % du PIB"
+     ],
+     "a": 1,
+     "e": "Le taux de pression fiscale (recettes fiscales rapportées au PIB) doit être d'au moins 20 %. L'autre critère de second rang plafonne la masse salariale à 35 % des recettes fiscales.",
+     "ed": [
+      "3 % est le plafond de l'inflation, critère de premier rang.",
+      null,
+      "35 % est le plafond de la masse salariale rapportée aux recettes fiscales, pas la pression fiscale.",
+      "70 % est le plafond de la dette publique, et c'est un maximum, pas un minimum."
+     ],
+     "src": {
+      "t": "Financial Afrik, « Convergence dans l'UEMOA : aucun État n'a respecté les trois critères de premier rang en 2018 », 6 sept. 2019",
+      "u": "https://www.financialafrik.com/2019/09/06/convergence-dans-luemoa-aucun-etat-na-respecte-les-trois-criteres-de-premier-rang-en-2018/"
+     }
     }
    ],
    "lessons": [
@@ -44929,6 +45451,113 @@
       {
        "t": "Fazio et Marsh (2009), Surprising feedback improves later memory — PMC",
        "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4036076"
+      }
+     ]
+    },
+    {
+     "id": "L20261122an07",
+     "niv": "an07",
+     "m": "ang",
+     "verif": "regle",
+     "rev": 2,
+     "titre": "Les conditionnelles et wish",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez reconnaître en quelques secondes le type d'une conditionnelle anglaise (0, 1, 2, 3 ou mixte) à partir du seul temps de la partie déjà écrite, et compléter l'autre partie sans calquer le français.",
+      "= Vous saurez aussi choisir la bonne forme après I wish et if only, selon que le souhait porte sur le présent, sur le passé ou sur le comportement d'autrui.",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), les conditionnelles et wish arrivent sous forme de phrases à trous. Une moitié de la phrase est donnée ; vous choisissez la forme verbale de l'autre moitié. Le piège : les mauvaises options sont souvent des formes correctes, mais d'un autre type de conditionnelle. Il faut donc lire le temps de la partie donnée avant de regarder les options.",
+      "! Le réflexe français trompe : on dit « si j'avais su », jamais « si j'aurais su ». L'anglais suit la même logique : dans une conditionnelle ordinaire, will et would ne se placent pas dans la proposition introduite par if.",
+      "## La grille des cinq cases (à recopier au brouillon le jour J)",
+      "- Type 0 : if + présent → présent (vérité générale, règle).",
+      "- Type 1 : if + présent → will + base verbale (futur réel ou possible).",
+      "- Type 2 : if + prétérit → would + base verbale (présent imaginaire, futur improbable).",
+      "- Type 3 : if + past perfect → would have + participe passé (passé qui n'a pas eu lieu).",
+      "- Mixtes : chaque moitié garde le temps de son époque.",
+      "## La méthode, pas à pas",
+      "- 1. Soulignez la partie déjà écrite : est-ce la condition (if) ou la conséquence ?",
+      "- 2. Nommez son temps : présent, prétérit ou past perfect (had + participe passé) ; ou will, would, would have dans la principale.",
+      "- 3. Placez-la dans la grille et lisez la case d'en face.",
+      "- 4. Vérifiez le sens : réel, imaginaire ou passé révolu ? Un mot comme now, today ou yesterday peut signaler une mixte.",
+      "- 5. Barème : si la grille ne vous permet pas d'écarter toutes les options sauf une, abstenez-vous (0) plutôt que de risquer −1.",
+      "~ Exemple résolu : « If the ministry ___ the results yesterday, the candidates would have known their scores. » La principale contient would have known : c'est la case du type 3. La condition prend le past perfect : had published. Traduction : « Si le ministère avait publié les résultats hier, les candidats auraient connu leurs notes. »",
+      "> Pour mémoriser durablement (réapprentissage successif) : récitez la grille et les « À retenir » sans regarder, jusqu'à tout retrouver une fois ; reprenez ce que vous avez manqué plus tard dans la séance. Recommencez lors d'au moins trois séances séparées d'au moins un jour : les séances suivantes sont de plus en plus courtes."
+     ],
+     "fond": [
+      "## Notion 1 : types 0 et 1, le monde réel",
+      "Règle. Le type 0 exprime une vérité générale, une loi ou une règle : if (ou when) + présent, puis présent. Le type 1 exprime une situation future que l'on juge réelle ou possible : if + présent, puis will + base verbale (la base verbale est le verbe sans to : go, pay, sign).",
+      "Pourquoi ? La proposition en if pose seulement une condition ; c'est la principale qui porte la prédiction. Le futur (will) se place donc dans la principale, et le verbe après if reste au présent, même s'il s'agit de demain. Le français fait pareil : « s'il pleut demain », et non « s'il pleuvra ».",
+      "~ Exemple résolu (type 0) : « Quand on chauffe du beurre de karité, il fond. » C'est un fait qui se vérifie toujours, pas une prédiction : When you heat shea butter, it melts. Deux présents, et when peut remplacer if.",
+      "~ Exemple résolu (type 1) : « Si la mairie répare la route, les taxis reviendront dans le quartier. » Étape 1 : événement futur possible, donc type 1. Étape 2 : condition au présent, If the town hall repairs the road. Étape 3 : principale avec will, the taxis will come back to the area. On n'écrit jamais « If the town hall will repair ».",
+      "> Pour retenir : « Après if, jamais will. » Le futur va dans la principale.",
+      "? Complétez : « If you ___ (send) your file before Friday, the committee will examine it next week. » || La principale contient will : type 1, condition future possible. Après if, le verbe reste au présent : If you send your file. « Will send » après if est la faute classique du QCM.",
+      "## Notion 2 : les mots de la condition",
+      "Règle. If n'est pas seul. Unless, as long as, as soon as et in case se construisent comme if au type 1 : présent dans la proposition qu'ils introduisent, will dans la principale. What if, suppose et supposing suivis d'un prétérit présentent une hypothèse peu probable.",
+      "Pourquoi ? Chacun ajoute une nuance que le QCM teste : unless veut dire « sauf si » et contient déjà la négation ; as long as signifie « à condition que, tant que » ; in case signifie « au cas où », c'est-à-dire une précaution prise à l'avance.",
+      "~ Exemple résolu : « Nous ne paierons pas sauf si vous nous envoyez la facture. » Unless contient déjà la négation : We won't pay unless you send us the invoice. Écrire « unless you don't send » ajouterait une double négation et inverserait le sens.",
+      "! Piège : in case n'est pas if. « Take your ID card in case the guard asks for it » : on prend la carte de toute façon, par précaution. « Take your ID card if the guard asks for it » : on ne la prend que si on vous la demande.",
+      "? Choisissez unless, as long as ou in case : « You can borrow my calculator ___ you give it back after the test. » || As long as : la phrase pose une condition (« à condition que tu me la rendes »). Unless donnerait le sens contraire, et in case exprimerait une précaution qui n'a pas de sens ici.",
+      "## Notion 3 : type 2, l'imaginaire du présent",
+      "Règle. If + prétérit, puis would + base verbale. On l'emploie pour une situation présente imaginaire ou un futur peu probable. Could ou might peuvent remplacer would dans la principale. Avec be, were est correct à toutes les personnes (If I were you) ; was est fréquent à l'oral, surtout avec he et she.",
+      "Pourquoi ? Ici, le prétérit ne parle pas du passé : il marque la distance avec la réalité, comme l'imparfait français dans « si j'avais ».",
+      "~ Exemple résolu : « Si mon village avait l'électricité, les élèves pourraient étudier le soir. » Étape 1 : le village n'a pas l'électricité, la situation est imaginaire, donc type 2. Étape 2 : condition au prétérit, If my village had electricity. Étape 3 : principale avec could, the pupils could study in the evening.",
+      "> Pour retenir : « si + imparfait » en français = « if + prétérit » en anglais ; le conditionnel français = would.",
+      "? Traduisez : « Si j'étais à ta place, je relirais la consigne deux fois. » || Je ne suis pas à ta place : situation imaginaire, type 2. If I were you, I would read the instructions twice. Were est la forme correcte à toutes les personnes.",
+      "## Notion 4 : type 3 et conditionnelles mixtes",
+      "Règle. Type 3 : if + past perfect (had + participe passé), puis would have + participe passé, pour imaginer un passé différent. Mixte passé → présent : if + past perfect, puis would + base verbale. Mixte présent → passé : if + prétérit, puis would have + participe passé.",
+      "Pourquoi ? Au type 3, les deux actions sont passées et ne peuvent plus changer : l'anglais recule d'un temps. Dans une mixte, la condition et la conséquence ne sont pas à la même époque : chaque moitié prend le temps de la sienne.",
+      "~ Exemple résolu (type 3) : « Si l'agent avait vérifié le dossier, il aurait vu l'erreur. » Il ne l'a pas vérifié : passé révolu. If the officer had checked the file, he would have seen the mistake.",
+      "~ Exemple résolu (mixte passé → présent) : « Si elle avait accepté le poste à Korhogo l'an dernier, elle vivrait dans le Nord aujourd'hui. » Condition passée, conséquence présente : If she had accepted the post in Korhogo last year, she would live in the North today.",
+      "! Piège : la contraction 'd vaut had devant un participe passé, et would devant une base verbale ou devant have. Dans « If we'd known, we'd have waited », le premier 'd est had, le second would.",
+      "> Pour retenir : la principale du type 3 compte trois mots verbaux : would + have + participe passé.",
+      "? Repérez l'erreur : « If the driver would have slowed down, the accident would not have happened. » || Would ne se place pas après if. Au type 3, la condition est au past perfect : If the driver had slowed down, the accident would not have happened.",
+      "? Complétez : « If he ___ (be) more patient by nature, he wouldn't have shouted at the client yesterday. » (Il est impatient de caractère.) || Le trait de caractère est présent et durable : prétérit, were (ou was). La conséquence est passée : wouldn't have shouted. C'est la mixte présent → passé.",
+      "## Notion 5 : I wish et if only",
+      "Règle. Wish (ou if only, un peu plus fort) + prétérit : souhait sur le présent (I wish I knew the answer). Wish + past perfect : regret sur le passé (I wish I hadn't left so early). Wish + could : capacité qui manque (I wish I could swim). Wish + would : agacement devant le comportement de quelqu'un, ou souhait qu'une chose change (I wish you wouldn't interrupt me).",
+      "Pourquoi ? Comme aux types 2 et 3, on recule d'un temps pour dire que la réalité n'est pas celle qu'on voudrait.",
+      "~ Exemple résolu : « Je regrette de ne pas parler le baoulé. » Souhait sur le présent, donc prétérit : I wish I spoke Baoulé. Et non : I wish I speak.",
+      "! Piège : pour parler de soi-même, on n'emploie pas wish + would ; on dit I wish I could. « I wish I could type faster », et non « I wish I would type faster ».",
+      "> Pour retenir : « wish recule d'un temps » : souhait présent → prétérit ; regret passé → past perfect ; agacement → would.",
+      "? Traduisez : « Si seulement nous n'avions pas oublié la clé USB ! » || Regret sur un passé révolu : if only + past perfect. If only we hadn't forgotten the USB stick! If only est un peu plus fort que wish."
+     ],
+     "retenir": [
+      "Type 0 : if + présent, puis présent ; type 1 : if + présent, puis will + base verbale.",
+      "Dans une conditionnelle ordinaire, will et would ne se placent jamais après if.",
+      "Type 2 : if + prétérit, puis would + base verbale ; « If I were » est correct à toutes les personnes.",
+      "Type 3 : if + past perfect, puis would have + participe passé, pour un passé qui n'a pas eu lieu.",
+      "Mixte passé → présent : if + past perfect, puis would + base verbale.",
+      "Unless signifie « sauf si » ; in case signifie « au cas où » et exprime une précaution.",
+      "Wish + prétérit : souhait présent ; wish + past perfect : regret passé ; wish + would : agacement.",
+      "La contraction 'd vaut had devant un participe passé, would devant une base verbale ou have."
+     ],
+     "exo": {
+      "tag": "niv-an07",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "British Council LearnEnglish, « Conditionals: zero, first and second »",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-zero-first-second?page=0"
+      },
+      {
+       "t": "British Council LearnEnglish, « Conditionals: third and mixed »",
+       "u": "https://learnenglish.britishcouncil.org/comment/172230"
+      },
+      {
+       "t": "British Council LearnEnglish, « Wishes: wish and if only »",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/wishes-wish-if-only?page=12"
+      },
+      {
+       "t": "British Council LearnEnglish, « Wishes and hypotheses »",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/wishes-hypotheses"
+      },
+      {
+       "t": "J. Dunlosky, M. Greve, S. Badali, K. Wissman, K. Rawson, « Successive Relearning: An Introduction and Guide for Educators », 2023",
+       "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-successive-relearning-dunlosky-greve-badali-wissman-rawson.pdf"
+      },
+      {
+       "t": "P. K. Agarwal, « Push beyond “one and done” », RetrievalPractice.org, 2018",
+       "u": "https://www.retrievalpractice.org/archive/2018/successive-relearning"
       }
      ]
     }
