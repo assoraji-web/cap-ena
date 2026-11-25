@@ -44933,7 +44933,75 @@
      ]
     }
    ],
-   "sujets": []
+   "sujets": [],
+   "analyses": [
+    {
+     "id": "A20261125",
+     "theme": "Finances publiques et fiscalité",
+     "titre": "Mobiliser l'impôt en Côte d'Ivoire : élargir l'assiette, numériser la facture et tenir le cap des 20 % de pression fiscale",
+     "chapeau": "La Côte d'Ivoire a fait passer ses recettes fiscales d'environ 12,7 % du PIB en 2022 à près de 15 % en 2025, mais reste loin du seuil de 20 % fixé par l'UEMOA. Pour financer ses besoins sans s'endetter davantage, l'État mise sur une stratégie de mobilisation des recettes à moyen terme et sur la facture normalisée électronique : l'enjeu est de faire payer plus de contribuables, plutôt que de faire payer davantage ceux qui paient déjà.",
+     "corps": [
+      "## Le constat",
+      "La pression fiscale (ou taux de pression fiscale) est le rapport entre les recettes fiscales encaissées par l'État et le produit intérieur brut (PIB), c'est-à-dire la richesse produite en une année. Elle mesure la part de la richesse nationale prélevée par l'impôt. Selon un article d'Abidjan.net du 23 avril 2026, qui cite le Fonds monétaire international (FMI), les recettes fiscales ivoiriennes sont passées de 12,7 % du PIB en 2022 à près de 15 % en 2025. Le portail du ministère de l'Économie estimait ce taux à 15,1 % en 2025, avec un objectif de 15,8 % en 2026, encore en dessous du seuil de 20 % retenu par la Commission de l'UEMOA (Union économique et monétaire ouest-africaine).",
+      "En montants, la Direction générale des impôts (DGI) a mobilisé 4 897,3 milliards de FCFA en 2025, pour un objectif de 5 025 milliards, soit un taux de réalisation de 97,5 % et une hausse de 15,2 % sur un an, selon KOACI (17 février 2026). Son objectif pour 2026 est de 5 988,1 milliards de FCFA, soit 22,3 % de plus.",
+      "Ces efforts s'inscrivent dans un cadre budgétaire resserré. D'après le FMI (communiqué n° 26/222 de juin 2026), le déficit budgétaire a été ramené à 3,0 % du PIB en 2025, contre 4,0 % en 2024 ; il est prévu à 3,8 % en 2026, un « assouplissement temporaire », avec un retour au plafond de 3 % de l'UEMOA d'ici 2028. La dette publique s'établissait à 57,1 % du PIB en 2025 selon le tableau du FMI, qui note que ce ratio a baissé pour la première fois depuis plus de dix ans.",
+      "## Les causes",
+      "Pourquoi l'impôt rapporte-t-il relativement peu ? Première raison : l'économie informelle, c'est-à-dire l'ensemble des activités qui échappent à l'enregistrement et à la comptabilité (petit commerce, artisanat, transport, services). Une grande partie de la richesse produite ne passe pas par des entreprises déclarées ; elle reste donc hors de l'assiette fiscale, c'est-à-dire de la base sur laquelle l'impôt est calculé. Le FMI cite d'ailleurs la « réduction de l'économie informelle » parmi les priorités de réforme.",
+      "Deuxième raison : les dépenses fiscales. Ce terme désigne les exonérations, réductions de taux ou régimes dérogatoires accordés par la loi (par exemple pour attirer des investisseurs). Elles constituent un manque à gagner pour l'État, même si elles peuvent avoir une justification économique. Le FMI demande d'en renforcer l'analyse, pour vérifier qu'elles produisent les effets attendus.",
+      "Troisième raison : la fraude et la sous-déclaration, notamment de la TVA (taxe sur la valeur ajoutée, impôt sur la consommation collecté par les entreprises). Lorsque les ventes ne sont pas facturées, la TVA n'est pas reversée et le chiffre d'affaires réel reste inconnu de l'administration.",
+      "## Les réponses publiques",
+      "La réponse centrale est la Stratégie nationale de mobilisation des recettes à moyen terme (SRMT), qui couvre la période 2024-2028 selon le portail du ministère de l'Économie. Le FMI en résume les axes : élargissement de l'assiette fiscale, déploiement de la facturation électronique, renforcement de l'analyse des dépenses fiscales et amélioration des outils de contrôle fondés sur les données.",
+      "L'outil le plus visible est la facture normalisée électronique (FNE). Son lancement officiel a eu lieu le 21 juillet 2025, pour une entrée en vigueur prévue le 1er septembre 2025 selon le régime d'imposition de chaque contribuable. Selon une note de la DGI rapportée par KOACI (23 décembre 2025), l'usage exceptionnel de la facture normalisée papier a pris fin en décembre 2025 ; seules les factures électroniques sont désormais admises pour justifier une charge et déduire la TVA, et l'inscription sur la plateforme conditionne la délivrance de l'attestation de régularité fiscale. Depuis le 1er septembre 2026, la DGI contrôle sur tout le territoire l'émission de ces factures et reçus, auprès des entreprises au régime réel normal, au réel simplifié, des microentreprises et des entreprenants, avec des amendes à la clé (KOACI, 26 août 2026).",
+      "- Principe : chaque vente est enregistrée en temps réel, ce qui rend la TVA traçable et fournit à l'administration des données sur l'activité réelle.",
+      "- Autres chantiers cités lors du séminaire de la DGI de février 2026 : le recensement électronique des parcelles et des activités économiques (phase pilote) et un impôt foncier calculé sur la valeur de marché à partir de janvier 2026.",
+      "~ Exemple : un commerçant qui achète des marchandises auprès d'un grossiste ne peut déduire la TVA payée que si le grossiste lui remet une facture électronique. Chacun a donc intérêt à exiger la facture de son fournisseur : c'est ainsi que la traçabilité se diffuse le long de la chaîne.",
+      "## Les débats et les limites",
+      "Les partisans de cette politique avancent trois arguments. D'abord, des recettes propres plus élevées réduisent la dépendance à l'endettement et à l'aide extérieure. Ensuite, la numérisation rendrait la concurrence plus loyale entre les entreprises qui déclarent et celles qui fraudent. Enfin, elle permettrait d'élargir l'assiette sans augmenter les taux, donc sans alourdir la charge de ceux qui paient déjà.",
+      "D'autres acteurs, notamment parmi les petites entreprises et certains observateurs, soulignent les coûts de mise en conformité : équipement, connexion, formation, gestion de la plateforme. Ils craignent qu'une pression de contrôle trop rapide ne pousse certaines petites structures à rester, ou à retourner, dans l'informel. Le débat porte aussi sur le partage de l'effort : faut-il d'abord revoir les dépenses fiscales accordées aux grandes entreprises, ou d'abord fiscaliser l'économie informelle ? Enfin, la hausse des recettes ne suffit pas à convaincre le contribuable : le consentement à l'impôt dépend aussi de la qualité perçue des services publics et de la transparence de la dépense.",
+      "Il faut aussi garder une limite statistique à l'esprit : les chiffres varient selon la définition retenue. Le FMI publie un ratio de recettes totales (16,8 % du PIB en 2025), qui inclut d'autres ressources que l'impôt ; il ne doit pas être confondu avec la pression fiscale, proche de 15 %.",
+      "## Ce qu'en attend un jury",
+      "Un jury attend d'abord des définitions exactes : pression fiscale, assiette, dépenses fiscales, critère de convergence. Il apprécie ensuite un raisonnement qui relie fiscalité, endettement et financement du développement, en montrant que l'objectif n'est pas seulement de prélever plus, mais de prélever mieux. Le candidat gagne à présenter les deux leviers (élargir l'assiette et rationaliser les exonérations), à mesurer les effets sur les petites entreprises et à évoquer le lien entre impôt et citoyenneté. Sur les points débattus, il expose les arguments en présence sans trancher de manière partisane, et il cite des ordres de grandeur sûrs plutôt que des chiffres approximatifs."
+     ],
+     "retenir": [
+      "Pression fiscale : environ 12,7 % du PIB en 2022, près de 15 % en 2025 (FMI) ; objectif de 15,8 % en 2026, pour un seuil UEMOA de 20 %.",
+      "Recettes de la DGI : 4 897,3 milliards de FCFA en 2025 ; objectif de 5 988,1 milliards en 2026.",
+      "Déficit ramené à 3 % du PIB en 2025, prévu à 3,8 % en 2026, retour à 3 % visé en 2028 ; dette publique à 57,1 % du PIB en 2025 (FMI).",
+      "SRMT 2024-2028 : élargir l'assiette, facturation électronique, analyse des dépenses fiscales, contrôles fondés sur les données.",
+      "Facture normalisée électronique : lancée en juillet 2025, seule admise depuis décembre 2025, contrôles sur tout le territoire depuis le 1er septembre 2026."
+     ],
+     "sujets": [
+      "« Prélever plus ou prélever mieux ? » La mobilisation des recettes fiscales en Côte d'Ivoire.",
+      "La numérisation de l'administration fiscale peut-elle réduire l'économie informelle ?",
+      "Impôt, dette et souveraineté budgétaire dans l'espace UEMOA."
+     ],
+     "sources": [
+      {
+       "t": "FMI, communiqué n° 26/222 : sixièmes revues des accords au titre du MEDC et de la FEC et cinquième revue de la FRD en faveur de la Côte d'Ivoire",
+       "u": "https://www.imf.org/fr/news/articles/2026/06/24/pr26222-cote-divoire-imf-exec-board-completes-sixth-rev-eff-ecf-arr-5th-rev-rsf-arr"
+      },
+      {
+       "t": "Abidjan.net, 23 avril 2026 : 6e revue du Programme économique et financier, la Côte d'Ivoire et le FMI saluent des performances solides",
+       "u": "https://news.abidjan.net/articles/747687/6e-revue-du-programme-economique-et-financier-la-cote-divoire-et-le-fmi-saluent-des-performances-solides"
+      },
+      {
+       "t": "Portail du ministère de l'Économie, 31 juillet 2025 : la Côte d'Ivoire adopte la facture normalisée électronique pour renforcer la mobilisation fiscale",
+       "u": "https://economie-ivoirienne.ci/actualites/la-cote-divoire-adopte-la-facture-normalisee-electronique-pour-renforcer-la-mobilisation"
+      },
+      {
+       "t": "KOACI, 17 février 2026 : DGI, séminaire sur la mise en œuvre de la SRMT",
+       "u": "https://www.koaci.com/index.php/article/2026/02/17/cote-divoire/economie/cote-divoire-dgi-fiscalite-finances-publiques-mobilisation-recettes-srmt-yamoussoukro-economie-numerique_194436.html"
+      },
+      {
+       "t": "KOACI, 23 décembre 2025 : fin de l'usage de la facture normalisée physique",
+       "u": "https://www.koaci.com/article/2025/12/23/cote-divoire/economie/cote-divoire-impots-fin-de-lusage-de-la-facture-normalisee-physique-et-nouvelle-disposition_193092.html"
+      },
+      {
+       "t": "KOACI, 26 août 2026 : contrôle de la facturation normalisée électronique à partir du 1er septembre",
+       "u": "https://www.koaci.com/article/2026/08/26/cote-divoire/economie/cote-divoire-operation-de-controle-de-la-facturation-normalisee-electronique-a-partir-du-1er-septembre-voici-les-entreprises-visees_199883.html"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
