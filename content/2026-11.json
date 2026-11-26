@@ -45631,6 +45631,1746 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-26",
+   "questions": [
+    {
+     "id": "n20261126-an11-01",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct form: « My new office is ___ than the old one. »",
+     "o": [
+      "more large",
+      "largest",
+      "larger",
+      "more larger"
+     ],
+     "a": 2,
+     "e": "Large a une syllabe et finit par -e : on ajoute seulement -r, puis than. Règle : court → -er, une seule marque.",
+     "ed": [
+      "Large n'a qu'une syllabe : il prend -er, pas more.",
+      "Largest est un superlatif ; than appelle un comparatif.",
+      null,
+      "Double marque (more + -er) : toujours fautive."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-02",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct form: « This exercise is ___ than the first one. » (easy)",
+     "o": [
+      "easier",
+      "more easy",
+      "easyer",
+      "the easiest"
+     ],
+     "a": 0,
+     "e": "Easy a deux syllabes et finit par consonne + y : le y devient i, puis on ajoute -er : easier than.",
+     "ed": [
+      null,
+      "Les adjectifs de deux syllabes en consonne + y prennent -ier, pas more.",
+      "Le y ne reste pas devant -er : il devient i (easier).",
+      "The easiest est un superlatif ; than exige un comparatif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-03",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct form: « The new procedure is ___ than the old one. » (complicated)",
+     "o": [
+      "complicateder",
+      "complicatest",
+      "most complicated",
+      "more complicated"
+     ],
+     "a": 3,
+     "e": "Complicated a quatre syllabes : on place more devant l'adjectif, qui ne change pas, puis than.",
+     "ed": [
+      "Un adjectif long ne prend jamais -er : on ne dit pas complicateder.",
+      "Complicatest n'existe pas : les adjectifs longs prennent most au superlatif.",
+      "Most sert au superlatif (the most complicated) ; than appelle more.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-04",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct superlative: « This is ___ hotel in the town. » (good)",
+     "o": [
+      "the goodest",
+      "the best",
+      "the better",
+      "the most good"
+     ],
+     "a": 1,
+     "e": "Good est irrégulier : good, better, the best. Le groupe « in the town » impose le superlatif.",
+     "ed": [
+      "Good est irrégulier : la forme « goodest » n'existe pas.",
+      null,
+      "The better est un comparatif ; « in the town » demande un superlatif.",
+      "On ne forme pas le superlatif de good avec most : c'est the best."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-05",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct word: « The road was ___ dangerous that drivers avoided it. »",
+     "o": [
+      "such",
+      "so",
+      "such a",
+      "too"
+     ],
+     "a": 1,
+     "e": "Dangerous est un adjectif seul, sans nom : on emploie so, suivi de that pour la conséquence.",
+     "ed": [
+      "Such se place devant un nom ; ici dangerous est un adjectif seul.",
+      null,
+      "Such a exige un nom singulier après l'adjectif, absent ici.",
+      "Too se construit avec to + verbe, jamais avec that + proposition."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-06",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct word: « He is ___ hard-working employee that he was promoted. »",
+     "o": [
+      "so",
+      "too",
+      "so a",
+      "such a"
+     ],
+     "a": 3,
+     "e": "Hard-working employee est un adjectif suivi d'un nom singulier : such a + adjectif + nom, puis that.",
+     "ed": [
+      "So ne peut pas précéder un groupe adjectif + nom avec article sous-entendu : such a.",
+      "Too + adjectif ne se construit pas avec un nom ni avec that.",
+      "L'ordre « so a » est fautif : on écrit such a.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-07",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct word: « There were ___ many people at the ceremony that some stood outside. »",
+     "o": [
+      "so",
+      "such",
+      "too much",
+      "enough"
+     ],
+     "a": 0,
+     "e": "Devant many (et much, few, little) suivi d'un nom, on emploie so : so many people that….",
+     "ed": [
+      null,
+      "« Such many » est fautif : devant many, on emploie so.",
+      "Too much accompagne un indénombrable ; people est pluriel, et many est déjà là.",
+      "Enough many n'existe pas, et enough ne se construit pas avec that."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-08",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Which sentence about the voting age is correct?",
+     "o": [
+      "She is not enough old to vote.",
+      "She is not as old enough to vote.",
+      "She is not old enough to vote.",
+      "She is not old so to vote."
+     ],
+     "a": 2,
+     "e": "Enough se place après l'adjectif : old enough to vote. Règle : too avant, enough après l'adjectif.",
+     "ed": [
+      "Enough ne précède pas l'adjectif : « enough old » calque le français « assez vieille ».",
+      "As … as et enough ne se combinent pas : as est en trop.",
+      null,
+      "So ne se place pas après l'adjectif et ne se construit pas avec to + verbe."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-09",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct word: « We cannot buy the computer: we don't have ___ money. »",
+     "o": [
+      "too",
+      "such",
+      "so",
+      "enough"
+     ],
+     "a": 3,
+     "e": "Enough se place avant le nom pour dire « assez de » : enough money. La phrase négative indique un manque.",
+     "ed": [
+      "Too ne se place pas directement devant un nom : il faudrait too much money, contraire au sens.",
+      "Such money n'a pas de sens ici : such renforce un nom, il n'exprime pas la quantité suffisante.",
+      "So ne précède pas un nom seul ; il faudrait so much money, et le sens serait autre.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-10",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct form: « There is ___ traffic in Adjamé this morning. »",
+     "o": [
+      "too many",
+      "too much",
+      "too",
+      "such many"
+     ],
+     "a": 1,
+     "e": "Traffic est indénombrable : l'excès se dit too much + indénombrable ; too many est réservé aux pluriels.",
+     "ed": [
+      "Too many accompagne un pluriel dénombrable ; traffic est indénombrable.",
+      null,
+      "Too seul se place devant un adjectif, pas devant un nom.",
+      "« Such many » n'existe pas, et many ne va pas avec un indénombrable."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-11",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct form: « The candidates made ___ mistakes in the grammar section. »",
+     "o": [
+      "too much",
+      "too",
+      "too many",
+      "so much"
+     ],
+     "a": 2,
+     "e": "Mistakes est un pluriel dénombrable : l'excès se dit too many mistakes.",
+     "ed": [
+      "Too much accompagne un indénombrable ; mistakes est un pluriel.",
+      "Too seul ne se place pas devant un nom.",
+      null,
+      "Much ne s'emploie pas avec un pluriel dénombrable : il faudrait so many."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-12",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct comparative: « Your results are ___ than mine. » (bad)",
+     "o": [
+      "worse",
+      "badder",
+      "worst",
+      "more bad"
+     ],
+     "a": 0,
+     "e": "Bad est irrégulier : bad, worse, the worst. Avec than, on emploie le comparatif worse.",
+     "ed": [
+      null,
+      "Bad est irrégulier : « badder » n'existe pas.",
+      "Worst est le superlatif (the worst) ; than exige le comparatif worse.",
+      "On ne forme pas le comparatif de bad avec more : c'est worse."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-13",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct form: « The ___ you revise, the ___ you will remember. »",
+     "o": [
+      "more / better",
+      "most / best",
+      "more / more good",
+      "much / well"
+     ],
+     "a": 0,
+     "e": "La proportion « plus…, mieux… » se dit the + comparatif, the + comparatif : the more…, the better….",
+     "ed": [
+      null,
+      "Most et best sont des superlatifs ; la proportion exige deux comparatifs.",
+      "« More good » est fautif : le comparatif de good est better.",
+      "Much et well ne sont pas des comparatifs : la structure the…, the… en exige."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-14",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct form: « Life in the city is getting ___ expensive. »",
+     "o": [
+      "expensiver and expensiver",
+      "most and most",
+      "more and more",
+      "much and much"
+     ],
+     "a": 2,
+     "e": "La progression d'un adjectif long se dit more and more + adjectif ; pour un adjectif court, bigger and bigger.",
+     "ed": [
+      "Expensive est long : il ne prend jamais -er.",
+      "Most est un superlatif ; la progression répète le comparatif more.",
+      null,
+      "Much and much n'est pas une structure de progression."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-15",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Which sentence about the meeting is correct?",
+     "o": [
+      "It was so a long meeting.",
+      "It was such a long meeting.",
+      "It was a such long meeting.",
+      "It was such long a meeting."
+     ],
+     "a": 1,
+     "e": "Devant un adjectif + nom singulier, on écrit such a + adjectif + nom : such a long meeting.",
+     "ed": [
+      "So ne se place pas devant l'article a : on écrit such a.",
+      null,
+      "Such se place avant l'article, pas après : such a long meeting.",
+      "L'article a se place juste après such, avant l'adjectif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-16",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Which of these sentences contains a grammar mistake?",
+     "o": [
+      "He walks so slowly.",
+      "They are such kind people.",
+      "This is the most important file.",
+      "This file is more heavier than that one."
+     ],
+     "a": 3,
+     "e": "« More heavier » cumule deux marques de comparatif ; on écrit heavier than. Les trois autres phrases sont correctes.",
+     "ed": [
+      "So + adverbe seul est correct : so slowly.",
+      "Such + adjectif + nom pluriel sans article est correct : such kind people.",
+      "Important est long : the most important est le superlatif correct.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-17",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Which sentence has the same meaning as « The box is too heavy for me to carry »?",
+     "o": [
+      "The box is light enough for me to carry.",
+      "The box is not light enough for me to carry.",
+      "The box is so light that I can carry it.",
+      "The box is enough heavy for me to carry."
+     ],
+     "a": 1,
+     "e": "Too heavy = not light enough : on prend l'adjectif contraire et on rend la phrase négative.",
+     "ed": [
+      "Light enough dit l'inverse : la boîte serait portable.",
+      null,
+      "So light that I can carry it dit aussi l'inverse du sens de départ.",
+      "« Enough heavy » viole l'ordre (heavy enough) et ne garde pas le sens."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-18",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct word: « The two reports are equally good: the first is ___ clear as the second. »",
+     "o": [
+      "as",
+      "so",
+      "than",
+      "more"
+     ],
+     "a": 0,
+     "e": "L'égalité à la forme affirmative se dit as + adjectif + as : as clear as.",
+     "ed": [
+      null,
+      "So … as ne s'emploie qu'à la forme négative (not so … as), pas dans une phrase affirmative.",
+      "Than suit un comparatif, il ne se combine pas avec as.",
+      "More … as est fautif : more appelle than, et le sens n'est pas l'égalité."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-19",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct form: « Of the three applicants, Koffi is ___. » (qualified)",
+     "o": [
+      "the more qualified",
+      "the qualifiedest",
+      "most qualifieder",
+      "the most qualified"
+     ],
+     "a": 3,
+     "e": "Trois personnes forment un groupe : superlatif. Qualified est long, donc the most qualified.",
+     "ed": [
+      "The more qualified compare deux éléments seulement ; ici il y en a trois.",
+      "Un adjectif long ne prend pas -est : the most qualified.",
+      "Un adjectif long ne prend jamais -er, et le the manque.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-an11-20",
+     "m": "ang",
+     "tag": "niv-an11",
+     "q": "Choose the correct option: « I was ___ tired to finish the test. »",
+     "o": [
+      "too much",
+      "so",
+      "too",
+      "enough"
+     ],
+     "a": 2,
+     "e": "Too + adjectif + to + verbe exprime un excès qui empêche l'action : too tired to finish.",
+     "ed": [
+      "Too much ne précède jamais un adjectif : « too much tired » est fautif.",
+      "So + adjectif se construit avec that, pas avec to + verbe.",
+      null,
+      "Enough se place après l'adjectif (tired enough), et le sens serait contraire."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-01",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Quelle est la forme correcte du verbe courir au futur simple, à la 3e personne du singulier ?",
+     "o": [
+      "il courira",
+      "il courera",
+      "il courra",
+      "il courrait"
+     ],
+     "a": 2,
+     "e": "Courir prend deux r au futur : radical cour- + terminaison -ra, soit il courra. Il fait partie des six verbes à double r.",
+     "ed": [
+      "Un seul r : le radical cour- est suivi du r de la terminaison, il en faut deux.",
+      "Courir n'est pas un verbe en -er : il ne prend pas de e avant la terminaison.",
+      null,
+      "Courrait est le conditionnel présent, pas le futur."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-02",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Demain, nous vous ___ les convocations. » (envoyer)",
+     "o": [
+      "enverrons",
+      "envoyerons",
+      "envoierons",
+      "enverrions"
+     ],
+     "a": 0,
+     "e": "Envoyer a un radical irrégulier au futur, enverr-, avec deux r : nous enverrons. Demain annonce un futur certain.",
+     "ed": [
+      null,
+      "Envoyer n'a pas de futur régulier : la forme envoyerons est fautive.",
+      "Envoyer ne suit pas la règle des verbes en -oyer : son futur est enverr-.",
+      "Enverrions est le conditionnel ; demain annonce une action certaine, donc le futur."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-03",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Quelle forme du verbe mourir au futur simple est correcte ?",
+     "o": [
+      "je mourirai",
+      "je meurrai",
+      "je mourai",
+      "je mourrai"
+     ],
+     "a": 3,
+     "e": "Mourir fait je mourrai au futur : radical mour- + -rai, d'où deux r, comme courir.",
+     "ed": [
+      "Mourir ne garde pas le i de l'infinitif au futur : je mourrai.",
+      "Le radical du futur est mour-, pas meur- (qui sert au présent : je meurs).",
+      "Il manque un r : radical mour- + terminaison -rai.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-04",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « L'an prochain, l'agence ___ de nouveaux locaux. » (acquérir)",
+     "o": [
+      "acquérira",
+      "acquerra",
+      "acquièrera",
+      "acquerrait"
+     ],
+     "a": 1,
+     "e": "Acquérir fait il acquerra au futur : radical acquer-, sans accent, puis -ra, d'où deux r.",
+     "ed": [
+      "Acquérir ne garde pas son infinitif au futur : le radical est acquer-.",
+      null,
+      "Le radical acquièr- sert au présent (il acquiert), pas au futur.",
+      "Acquerrait est le conditionnel ; « l'an prochain » annonce un futur certain."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-05",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Les délégués ___ leurs travaux jusqu'à vendredi. » (continuer)",
+     "o": [
+      "continuront",
+      "continueront",
+      "continuerons",
+      "continuerai"
+     ],
+     "a": 1,
+     "e": "Au futur, on ajoute la terminaison à l'infinitif entier : continuer + ont = ils continueront ; le e muet reste écrit.",
+     "ed": [
+      "Le e muet de l'infinitif a disparu : il faut continueront.",
+      null,
+      "Continuerons est la forme de nous ; le sujet les délégués appelle -ont.",
+      "Continuerai est la forme de je ; le sujet les délégués appelle -ont."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-06",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Quelle phrase contient un verbe au conditionnel présent ?",
+     "o": [
+      "Je serai à l'heure demain.",
+      "Il viendra si tu l'appelles.",
+      "Nous partirons à l'aube.",
+      "J'aimerais obtenir un rendez-vous."
+     ],
+     "a": 3,
+     "e": "J'aimerais exprime une demande polie : test du nous, nous aimerions, terminaison -rions du conditionnel.",
+     "ed": [
+      "Je serai est un futur : test du nous, nous serons.",
+      "Viendra est un futur, conforme à la règle si + présent → futur.",
+      "Partirons se termine par -rons : c'est un futur.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-07",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « À votre place, j'___ ce poste. » (accepter)",
+     "o": [
+      "accepterais",
+      "accepterai",
+      "acceptais",
+      "accepterait"
+     ],
+     "a": 0,
+     "e": "« À votre place » pose une hypothèse : conditionnel présent, terminaison -rais avec je (test du nous : nous accepterions).",
+     "ed": [
+      null,
+      "Accepterai est un futur ; l'hypothèse « à votre place » demande le conditionnel.",
+      "Acceptais est un imparfait : il ne convient pas dans la principale d'une hypothèse.",
+      "Accepterait est la 3e personne ; le sujet je exige -rais."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-08",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Si le budget le ___, nous recruterions deux agents. » (permettre)",
+     "o": [
+      "permettrait",
+      "permettra",
+      "permettait",
+      "permette"
+     ],
+     "a": 2,
+     "e": "La principale est au conditionnel présent (recruterions) : après si, on emploie l'imparfait, permettait. Jamais de conditionnel après si.",
+     "ed": [
+      "Le conditionnel est interdit après le si de condition.",
+      "Le futur est interdit après le si de condition.",
+      null,
+      "Le subjonctif ne s'emploie pas après le si de condition."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-09",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Si vous déposez votre dossier avant vendredi, il ___ examiné la semaine prochaine. »",
+     "o": [
+      "serait",
+      "serais",
+      "soit",
+      "sera"
+     ],
+     "a": 3,
+     "e": "Si + présent appelle le futur dans la principale : si vous déposez…, il sera examiné.",
+     "ed": [
+      "Le conditionnel répond à si + imparfait ; ici si est suivi du présent.",
+      "Serais est la forme de je ou tu, et le conditionnel ne répond pas à si + présent.",
+      "Le subjonctif ne s'emploie pas dans la principale d'une condition.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-10",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Laquelle de ces phrases hypothétiques est fautive ?",
+     "o": [
+      "Si j'avais su, je serais venu.",
+      "Si j'aurais su, je serais venu.",
+      "Si tu viens, je serai content.",
+      "S'il pleuvait, nous resterions ici."
+     ],
+     "a": 1,
+     "e": "« Si j'aurais su » place un conditionnel après le si de condition, ce qui est interdit : on écrit si j'avais su.",
+     "ed": [
+      "Si + plus-que-parfait puis conditionnel passé : phrase correcte.",
+      null,
+      "Si + présent puis futur : phrase correcte.",
+      "Si + imparfait puis conditionnel présent : phrase correcte."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-11",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Si tu avais écouté les consignes, tu ne ___ pas cette erreur. »",
+     "o": [
+      "ferais",
+      "avais fait",
+      "aurais fait",
+      "feras"
+     ],
+     "a": 2,
+     "e": "Si + plus-que-parfait pour un fait passé non réalisé : conditionnel passé dans la principale, tu n'aurais pas fait.",
+     "ed": [
+      "Le conditionnel présent viserait une conséquence actuelle ; l'erreur est passée et déjà commise.",
+      "Le plus-que-parfait ne s'emploie pas dans la principale d'une hypothèse.",
+      null,
+      "Le futur ne répond pas à si + plus-que-parfait."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-12",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Le maire avait annoncé que la route ___ bitumée le mois suivant. »",
+     "o": [
+      "serait",
+      "sera",
+      "soit",
+      "serais"
+     ],
+     "a": 0,
+     "e": "Le verbe principal est au passé (avait annoncé) : le futur devient conditionnel présent, c'est le futur du passé.",
+     "ed": [
+      null,
+      "Le futur ne concorde pas avec un récit au passé et « le mois suivant ».",
+      "Le subjonctif ne s'emploie pas après annoncer que.",
+      "Serais est la forme de je ou tu ; le sujet la route exige serait."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-13",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez en gardant l'idée d'avenir : « Ce jour-là, elle pensait qu'elle ___ avant midi. »",
+     "o": [
+      "aurait terminé",
+      "aura terminé",
+      "terminera",
+      "avait terminé"
+     ],
+     "a": 0,
+     "e": "Verbe principal au passé et action future déjà accomplie à midi : le futur antérieur devient conditionnel passé, aurait terminé.",
+     "ed": [
+      null,
+      "Le futur antérieur ne concorde pas avec un récit au passé (« ce jour-là »).",
+      "Le futur ne concorde pas avec le passé, et il perd l'idée d'action achevée.",
+      "Le plus-que-parfait marque une action déjà faite avant, pas un avenir."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-14",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Quand il ___ ses résultats, il nous appellera. » (recevoir)",
+     "o": [
+      "recevera",
+      "recevrait",
+      "recevra",
+      "recevoira"
+     ],
+     "a": 2,
+     "e": "Recevoir fait il recevra au futur (radical recev-, un seul r). Après quand, l'action future se met au futur.",
+     "ed": [
+      "Recevoir n'est pas un verbe en -er : pas de e avant la terminaison.",
+      "Le conditionnel ne convient pas : l'action future est présentée comme certaine.",
+      null,
+      "Le radical du futur est recev-, sans le oi de l'infinitif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-15",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Quelle forme du verbe cueillir au futur simple est correcte ?",
+     "o": [
+      "nous cueillirons",
+      "nous cueillerons",
+      "nous cueuillerons",
+      "nous cueilleront"
+     ],
+     "a": 1,
+     "e": "Cueillir se conjugue au futur comme un verbe en -er : nous cueillerons.",
+     "ed": [
+      "Cueillir ne garde pas le i de l'infinitif au futur : cueillerons.",
+      null,
+      "L'orthographe du radical est cueill-, pas cueuill-.",
+      "Cueilleront est la forme de ils ; le sujet nous exige -rons."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-16",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Je ___ volontiers ce rapport si j'en avais le temps. » (relire)",
+     "o": [
+      "relirai",
+      "relierais",
+      "relisais",
+      "relirais"
+     ],
+     "a": 3,
+     "e": "Si + imparfait (avais) appelle le conditionnel présent : je relirais, terminaison -rais.",
+     "ed": [
+      "Le futur ne répond pas à si + imparfait.",
+      "Relierais est le conditionnel de relier, pas de relire.",
+      "L'imparfait ne s'emploie pas dans la principale : le conditionnel est attendu.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-17",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Le chef de service avait demandé si nous ___ disponibles le samedi suivant. »",
+     "o": [
+      "serons",
+      "serions",
+      "soyons",
+      "sommes été"
+     ],
+     "a": 1,
+     "e": "Ici si introduit une question indirecte (« est-ce que ») : le conditionnel y est permis, et il exprime le futur du passé après avait demandé.",
+     "ed": [
+      "Le futur ne concorde pas avec un récit au passé (« avait demandé », « le samedi suivant »).",
+      null,
+      "Le subjonctif ne s'emploie pas après demander si.",
+      "« Sommes été » n'existe pas : le passé composé d'être se forme avec avoir."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-18",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Complétez : « Si tu ___ le directeur, dis-lui que je passerai. » (voir)",
+     "o": [
+      "vois",
+      "verrais",
+      "verras",
+      "voyais"
+     ],
+     "a": 0,
+     "e": "Si + présent peut être suivi d'un impératif : si tu vois le directeur, dis-lui….",
+     "ed": [
+      null,
+      "Le conditionnel est interdit après le si de condition.",
+      "Le futur est interdit après le si de condition.",
+      "Si + imparfait appelle un conditionnel, pas un impératif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-19",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Quelle phrase respecte la concordance des temps ?",
+     "o": [
+      "Il m'avait promis qu'il viendra le lendemain.",
+      "Il m'avait promis qu'il viendrais le lendemain.",
+      "Il m'avait promis qu'il vienne le lendemain.",
+      "Il m'avait promis qu'il viendrait le lendemain."
+     ],
+     "a": 3,
+     "e": "Verbe principal au passé : l'action future se met au conditionnel présent, viendrait (futur du passé).",
+     "ed": [
+      "Le futur ne concorde pas avec un récit au passé (« le lendemain »).",
+      "Viendrais est la forme de je ou tu ; le sujet il exige viendrait.",
+      "Le subjonctif ne s'emploie pas après promettre que.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-fr13-20",
+     "m": "fr",
+     "tag": "niv-fr13",
+     "q": "Quelle est la forme du verbe voir au conditionnel présent, 1re personne du pluriel ?",
+     "o": [
+      "nous voirions",
+      "nous verrons",
+      "nous verrions",
+      "nous voyerions"
+     ],
+     "a": 2,
+     "e": "Le conditionnel se forme sur le radical du futur, verr-, avec -rions : nous verrions.",
+     "ed": [
+      "Voir n'utilise pas son infinitif au conditionnel : le radical est verr-.",
+      "Verrons est le futur (terminaison -rons), pas le conditionnel.",
+      null,
+      "Le radical voy- sert au présent et à l'imparfait, pas au conditionnel."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261126-lo13-01",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Un restaurant propose 4 entrées, 3 plats et 2 desserts. Combien de menus différents (une entrée, un plat, un dessert) peut-on composer ?",
+     "o": [
+      "9",
+      "12",
+      "24",
+      "36"
+     ],
+     "a": 2,
+     "e": "Trois choix successifs : on multiplie, 4 × 3 × 2 = 24 menus (principe multiplicatif, « ET successifs → je multiplie »).",
+     "ed": [
+      "9 = 4 + 3 + 2 : on a additionné au lieu de multiplier.",
+      "12 = 4 × 3 : on a oublié le choix du dessert.",
+      null,
+      "36 = 4 × 3 × 3 : il n'y a que 2 desserts, pas 3."
+     ],
+     "verif": "calcul",
+     "calc": "4*3*2"
+    },
+    {
+     "id": "n20261126-lo13-02",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Combien de codes à 4 chiffres (chacun de 0 à 9, répétitions permises) existe-t-il ?",
+     "o": [
+      "10 000",
+      "40",
+      "5 040",
+      "9 999"
+     ],
+     "a": 0,
+     "e": "Ordre et répétition permis : 10 choix pour chacune des 4 positions, 10 × 10 × 10 × 10 = 10 000 codes (de 0000 à 9999).",
+     "ed": [
+      null,
+      "40 = 4 × 10 : on a multiplié le nombre de positions par 10 au lieu d'élever 10 à la puissance 4.",
+      "5 040 = 10 × 9 × 8 × 7 : ce serait le compte sans répétition, or les chiffres peuvent revenir.",
+      "9 999 oublie le code 0000 : de 0000 à 9999, il y a 10 000 codes."
+     ],
+     "verif": "calcul",
+     "calc": "10*10*10*10"
+    },
+    {
+     "id": "n20261126-lo13-03",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "De combien de façons peut-on ranger 4 dossiers différents côte à côte sur une étagère ?",
+     "o": [
+      "16",
+      "10",
+      "4",
+      "24"
+     ],
+     "a": 3,
+     "e": "Ranger tous les éléments distincts, c'est une permutation : 4! = 4 × 3 × 2 × 1 = 24.",
+     "ed": [
+      "16 = 4 × 4 suppose qu'un dossier peut occuper deux places.",
+      "10 = 4 + 3 + 2 + 1 : on a additionné au lieu de multiplier.",
+      "4 ne compte que le choix du premier dossier.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "4*3*2*1"
+    },
+    {
+     "id": "n20261126-lo13-04",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Douze candidats concourent ; on attribue un 1er, un 2e et un 3e prix, et une personne ne reçoit qu'un prix. Combien de palmarès possibles ?",
+     "o": [
+      "1 728",
+      "1 320",
+      "220",
+      "36"
+     ],
+     "a": 1,
+     "e": "Places différentes et pas de répétition : arrangement, 12 × 11 × 10 = 1 320 palmarès.",
+     "ed": [
+      "1 728 = 12 × 12 × 12 autorise un même candidat à recevoir plusieurs prix.",
+      null,
+      "220 est le nombre de groupes de 3 sans ordre ; or les prix sont classés.",
+      "36 = 12 × 3 n'a aucun sens combinatoire ici."
+     ],
+     "verif": "calcul",
+     "calc": "12*11*10"
+    },
+    {
+     "id": "n20261126-lo13-05",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "On doit choisir 3 représentants, sans fonction particulière, parmi 7 agents. Combien de groupes différents ?",
+     "o": [
+      "210",
+      "35",
+      "21",
+      "343"
+     ],
+     "a": 1,
+     "e": "Un simple groupe, sans ordre : combinaison, (7 × 6 × 5) ÷ 3! = 210 ÷ 6 = 35.",
+     "ed": [
+      "210 = 7 × 6 × 5 compte chaque groupe 6 fois (ses 6 ordres) : il faut diviser par 3!.",
+      null,
+      "21 est le nombre de paires C(7, 2), pas de groupes de 3.",
+      "343 = 7 × 7 × 7 autorise les répétitions et tient compte de l'ordre."
+     ],
+     "verif": "calcul",
+     "calc": "7*6*5/(3*2*1)"
+    },
+    {
+     "id": "n20261126-lo13-06",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Dans un tournoi, 8 équipes se rencontrent toutes une seule fois. Combien de matchs faut-il programmer ?",
+     "o": [
+      "64",
+      "56",
+      "16",
+      "28"
+     ],
+     "a": 3,
+     "e": "Un match est une paire d'équipes sans ordre : C(8, 2) = 8 × 7 ÷ 2 = 28 matchs.",
+     "ed": [
+      "64 = 8 × 8 compte aussi des équipes jouant contre elles-mêmes, et chaque match deux fois.",
+      "56 = 8 × 7 compte chaque match deux fois (A contre B et B contre A).",
+      "16 = 8 × 2 ne correspond à aucun dénombrement des paires.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "8*7/2"
+    },
+    {
+     "id": "n20261126-lo13-07",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Une urne contient 5 boules rouges et 15 boules blanches. On tire une boule au hasard. Quelle est la probabilité qu'elle soit rouge ?",
+     "o": [
+      "0,25",
+      "0,33",
+      "0,5",
+      "0,75"
+     ],
+     "a": 0,
+     "e": "Cas favorables ÷ cas possibles : 5 rouges sur 20 boules, 5 ÷ 20 = 0,25.",
+     "ed": [
+      null,
+      "0,33 ≈ 5 ÷ 15 divise par le nombre de blanches au lieu du total de 20 boules.",
+      "0,5 suppose deux issues également probables, rouge ou blanche, ce qui est faux.",
+      "0,75 = 15 ÷ 20 est la probabilité de tirer une boule blanche."
+     ],
+     "verif": "calcul",
+     "calc": "5/20"
+    },
+    {
+     "id": "n20261126-lo13-08",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Dans un service de 40 agents, 14 sont des femmes. On tire un agent au hasard. Quelle est la probabilité que ce soit un homme ?",
+     "o": [
+      "0,35",
+      "0,14",
+      "0,65",
+      "0,26"
+     ],
+     "a": 2,
+     "e": "Événement contraire : P(homme) = 1 − P(femme) = 1 − 14 ÷ 40 = 1 − 0,35 = 0,65.",
+     "ed": [
+      "0,35 = 14 ÷ 40 est la probabilité de tirer une femme.",
+      "0,14 confond l'effectif 14 avec une probabilité.",
+      null,
+      "0,26 = 26 ÷ 100 divise les 26 hommes par 100 au lieu de 40."
+     ],
+     "verif": "calcul",
+     "calc": "1-14/40"
+    },
+    {
+     "id": "n20261126-lo13-09",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "On lance deux pièces équilibrées. Quelle est la probabilité d'obtenir au moins un « face » ?",
+     "o": [
+      "0,5",
+      "0,25",
+      "1",
+      "0,75"
+     ],
+     "a": 3,
+     "e": "Au moins un = 1 − aucun : la seule issue sans face est pile-pile, 1 sur 4 ; 1 − 0,25 = 0,75.",
+     "ed": [
+      "0,5 oublie qu'il y a 4 issues (PP, PF, FP, FF), dont 3 contiennent face.",
+      "0,25 est la probabilité de l'événement contraire, pile-pile.",
+      "1 signifierait un événement certain, or pile-pile reste possible.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "1-1/4"
+    },
+    {
+     "id": "n20261126-lo13-10",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "On lance deux dés équilibrés à six faces, l'un rouge et l'autre bleu. Combien de couples de résultats (rouge, bleu) sont possibles ?",
+     "o": [
+      "12",
+      "36",
+      "21",
+      "30"
+     ],
+     "a": 1,
+     "e": "Deux choix successifs de 6 possibilités, ordre compté (rouge puis bleu) : 6 × 6 = 36 couples.",
+     "ed": [
+      "12 = 6 + 6 : on a additionné au lieu de multiplier.",
+      null,
+      "21 compte les paires sans distinguer les deux dés ; or les dés sont distincts.",
+      "30 = 6 × 5 exclut à tort les doubles (1-1, 2-2…), qui sont possibles."
+     ],
+     "verif": "calcul",
+     "calc": "6*6"
+    },
+    {
+     "id": "n20261126-lo13-11",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Avec les trois lettres du mot CAP, chacune utilisée une fois, combien de « mots » (ayant un sens ou non) peut-on écrire ?",
+     "o": [
+      "3",
+      "9",
+      "6",
+      "27"
+     ],
+     "a": 2,
+     "e": "On range 3 lettres distinctes : permutation, 3! = 3 × 2 × 1 = 6 (CAP, CPA, ACP, APC, PCA, PAC).",
+     "ed": [
+      "3 ne compte que le choix de la première lettre.",
+      "9 = 3 × 3 autorise une lettre à servir deux fois.",
+      null,
+      "27 = 3 × 3 × 3 autorise les répétitions (CCC, AAA…), interdites ici."
+     ],
+     "verif": "calcul",
+     "calc": "3*2*1"
+    },
+    {
+     "id": "n20261126-lo13-12",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Un bureau de 3 personnes (président, secrétaire, trésorier) est élu parmi 6 membres. Combien de bureaux différents sont possibles ?",
+     "o": [
+      "120",
+      "20",
+      "216",
+      "18"
+     ],
+     "a": 0,
+     "e": "Postes distincts, sans cumul : arrangement, 6 × 5 × 4 = 120 bureaux.",
+     "ed": [
+      null,
+      "20 = C(6, 3) compterait des groupes sans postes ; or les fonctions sont différentes.",
+      "216 = 6 × 6 × 6 autorise une même personne à cumuler les postes.",
+      "18 = 6 × 3 ne correspond à aucun dénombrement valable."
+     ],
+     "verif": "calcul",
+     "calc": "6*5*4"
+    },
+    {
+     "id": "n20261126-lo13-13",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Combien de façons y a-t-il de choisir 7 éléments, sans ordre, parmi 9 ?",
+     "o": [
+      "36",
+      "63",
+      "72",
+      "181 440"
+     ],
+     "a": 0,
+     "e": "Choisir 7 élus revient à choisir les 2 exclus : C(9, 7) = C(9, 2) = 9 × 8 ÷ 2 = 36.",
+     "ed": [
+      null,
+      "63 = 9 × 7 ne correspond à aucune formule de dénombrement.",
+      "72 = 9 × 8 compte les exclus avec ordre : il faut diviser par 2.",
+      "181 440 = 9 × 8 × 7 × 6 × 5 × 4 × 3 tient compte de l'ordre : il faut diviser par 7!."
+     ],
+     "verif": "calcul",
+     "calc": "9*8/2"
+    },
+    {
+     "id": "n20261126-lo13-14",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Dans un groupe de 30 candidats, 18 révisent l'anglais, 12 la logique et 6 les deux matières. On en tire un au hasard. Quelle est la probabilité qu'il révise l'anglais ou la logique ?",
+     "o": [
+      "1",
+      "0,6",
+      "0,8",
+      "0,2"
+     ],
+     "a": 2,
+     "e": "P(A ou L) = P(A) + P(L) − P(A et L) = (18 + 12 − 6) ÷ 30 = 24 ÷ 30 = 0,8.",
+     "ed": [
+      "1 = (18 + 12) ÷ 30 compte deux fois les 6 candidats qui révisent les deux matières.",
+      "0,6 = 18 ÷ 30 ne compte que l'anglais.",
+      null,
+      "0,2 = 6 ÷ 30 ne compte que ceux qui révisent les deux matières."
+     ],
+     "verif": "calcul",
+     "calc": "(18+12-6)/30"
+    },
+    {
+     "id": "n20261126-lo13-15",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "On tire au hasard, en même temps, 2 dossiers parmi 5, dont exactement 2 sont incomplets. Quelle est la probabilité de tirer les 2 dossiers incomplets ?",
+     "o": [
+      "0,4",
+      "0,1",
+      "0,2",
+      "0,16"
+     ],
+     "a": 1,
+     "e": "Cas possibles : C(5, 2) = 10 paires ; une seule paire est formée des 2 incomplets ; P = 1 ÷ 10 = 0,1.",
+     "ed": [
+      "0,4 = 2 ÷ 5 est la probabilité qu'un seul dossier tiré soit incomplet.",
+      null,
+      "0,2 = 2 ÷ 10 compte deux cas favorables alors qu'il n'y a qu'une paire d'incomplets.",
+      "0,16 = (2 ÷ 5)² suppose un tirage avec remise ; ici les deux dossiers sont tirés ensemble."
+     ],
+     "verif": "calcul",
+     "calc": "1/(5*4/2)"
+    },
+    {
+     "id": "n20261126-lo13-16",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Barème +2 / 0 / −2, QCM à 4 options : vous répondez totalement au hasard. Quel est le gain moyen par question ?",
+     "o": [
+      "0 point",
+      "-2 points",
+      "+0,5 point",
+      "-1 point"
+     ],
+     "a": 3,
+     "e": "Gain moyen = 1/4 × 2 + 3/4 × (−2) = 0,5 − 1,5 = −1 point : répondre au hasard fait perdre des points.",
+     "ed": [
+      "0 point suppose une chance sur deux ; avec 4 options, on a 1 chance sur 4.",
+      "−2 points serait le résultat d'une réponse toujours fausse, ce qui n'est pas le cas en moyenne.",
+      "+0,5 ne compte que le gain de la bonne réponse et oublie les pénalités.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "1/4*2-3/4*2"
+    },
+    {
+     "id": "n20261126-lo13-17",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Barème +2 / 0 / −2 : vous avez éliminé 2 options sur 4 avec certitude et choisissez au hasard entre les 2 restantes. Quel est le gain moyen ?",
+     "o": [
+      "+1 point",
+      "0 point",
+      "-0,5 point",
+      "+2 points"
+     ],
+     "a": 1,
+     "e": "Une chance sur deux : 1/2 × 2 + 1/2 × (−2) = 0. Répondre ne rapporte rien en moyenne, sans rien coûter.",
+     "ed": [
+      "+1 point oublie la pénalité de −2 en cas d'erreur.",
+      null,
+      "−0,5 point est le gain moyen d'une réponse au hasard sur 4 options au barème +1 / 0 / −1, pas la situation décrite.",
+      "+2 points supposerait d'être sûr de la réponse."
+     ],
+     "verif": "calcul",
+     "calc": "1/2*2-1/2*2"
+    },
+    {
+     "id": "n20261126-lo13-18",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Une plaque comporte 2 lettres choisies parmi 26, puis 3 chiffres de 0 à 9 (répétitions permises partout). Combien de plaques différentes ?",
+     "o": [
+      "676 000",
+      "650 000",
+      "17 576",
+      "6 760"
+     ],
+     "a": 0,
+     "e": "Cinq choix successifs avec répétition : 26 × 26 × 10 × 10 × 10 = 676 × 1 000 = 676 000.",
+     "ed": [
+      null,
+      "650 000 = 26 × 25 × 1 000 interdit à tort deux lettres identiques.",
+      "17 576 = 26 × 26 × 26 compte trois lettres et oublie les chiffres.",
+      "6 760 = 26 × 26 × 10 ne compte qu'un seul chiffre au lieu de trois."
+     ],
+     "verif": "calcul",
+     "calc": "26*26*10*10*10"
+    },
+    {
+     "id": "n20261126-lo13-19",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "Six personnes se saluent ; chacune serre une fois la main de chacune des autres. Combien de poignées de main sont échangées ?",
+     "o": [
+      "36",
+      "30",
+      "12",
+      "15"
+     ],
+     "a": 3,
+     "e": "Une poignée de main est une paire sans ordre : C(6, 2) = 6 × 5 ÷ 2 = 15.",
+     "ed": [
+      "36 = 6 × 6 inclut des personnes qui se serrent la main à elles-mêmes.",
+      "30 = 6 × 5 compte chaque poignée de main deux fois.",
+      "12 = 6 × 2 ne correspond à aucun dénombrement des paires.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "6*5/2"
+    },
+    {
+     "id": "n20261126-lo13-20",
+     "m": "log",
+     "tag": "niv-lo13",
+     "q": "On choisit au hasard 2 personnes parmi 4 hommes et 2 femmes. Quelle est la probabilité de choisir au moins une femme ?",
+     "o": [
+      "0,4",
+      "0,33",
+      "0,6",
+      "0,5"
+     ],
+     "a": 2,
+     "e": "Au moins une = 1 − aucune : paires d'hommes C(4, 2) = 6 sur C(6, 2) = 15 paires ; 1 − 6 ÷ 15 = 0,6.",
+     "ed": [
+      "0,4 = 6 ÷ 15 est la probabilité de ne choisir aucune femme.",
+      "0,33 ≈ 2 ÷ 6 est la proportion de femmes, pas la probabilité demandée sur deux tirages.",
+      null,
+      "0,5 n'a aucun fondement : les issues « au moins une femme » et « aucune » ne sont pas équiprobables."
+     ],
+     "verif": "calcul",
+     "calc": "1-6/15"
+    },
+    {
+     "id": "n20261126-cglibre-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Par quelle déclaration du 3 octobre 1973 le Liberia et la Sierra Leone ont-ils fondé une union régionale que la Guinée a rejointe en 1980 ?",
+     "o": [
+      "La déclaration du Conseil de l'Entente",
+      "La déclaration fondatrice de la CEDEAO",
+      "La déclaration de l'Union du fleuve Mano",
+      "La déclaration de l'OMVS"
+     ],
+     "a": 2,
+     "e": "L'Union du fleuve Mano est née de la déclaration du 3 octobre 1973 entre le Liberia et la Sierra Leone ; la Guinée l'a rejointe le 25 octobre 1980. Son secrétariat est à Freetown.",
+     "ed": [
+      "Le Conseil de l'Entente a été fondé en mai 1959, avec la Côte d'Ivoire parmi ses fondateurs.",
+      "La CEDEAO a été créée par le traité signé à Lagos le 28 mai 1975, et non par une déclaration bilatérale de 1973.",
+      null,
+      "L'OMVS a été créée à Nouakchott le 11 mars 1972 par le Mali, la Mauritanie et le Sénégal."
+     ],
+     "src": {
+      "t": "Wikipedia — Mano River Union",
+      "u": "https://en.wikipedia.org/wiki/Mano_River_Union"
+     }
+    },
+    {
+     "id": "n20261126-cglibre-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville siège l'Organisation africaine de la propriété intellectuelle (OAPI), créée par l'accord de Bangui du 2 mars 1977 ?",
+     "o": [
+      "Yaoundé",
+      "Bangui",
+      "Abidjan",
+      "Dakar"
+     ],
+     "a": 0,
+     "e": "L'OAPI, créée par l'accord de Bangui du 2 mars 1977, a son siège à Yaoundé, au Cameroun ; elle compte 17 États membres, pour la plupart francophones.",
+     "ed": [
+      null,
+      "L'accord fondateur porte le nom de Bangui, mais le siège de l'OAPI est à Yaoundé.",
+      "Abidjan n'accueille pas le siège de l'OAPI, qui se trouve à Yaoundé.",
+      "Dakar n'accueille pas le siège de l'OAPI, qui se trouve à Yaoundé."
+     ],
+     "src": {
+      "t": "Wikipedia — Organisation Africaine de la Propriété Intellectuelle",
+      "u": "https://en.wikipedia.org/wiki/Organisation_Africaine_de_la_Propri%C3%A9t%C3%A9_Intellectuelle"
+     }
+    },
+    {
+     "id": "n20261126-cglibre-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'Organisation de l'aviation civile internationale (OACI), instituée par la Convention de Chicago signée en 1944, a son siège permanent à :",
+     "o": [
+      "Chicago",
+      "Genève",
+      "New York",
+      "Montréal"
+     ],
+     "a": 3,
+     "e": "La Convention relative à l'aviation civile internationale a été signée à Chicago en 1944 ; l'OACI, établie en 1947, a son siège permanent à Montréal.",
+     "ed": [
+      "Chicago est la ville où la Convention a été signée, pas le siège de l'organisation.",
+      "Genève n'est pas le siège de l'OACI, installée à Montréal.",
+      "New York accueille le siège de l'ONU, pas celui de l'OACI.",
+      null
+     ],
+     "src": {
+      "t": "Britannica — International Civil Aviation Organization",
+      "u": "https://www.britannica.com/topic/International-Civil-Aviation-Organization"
+     }
+    },
+    {
+     "id": "n20261126-cglibre-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le Système d'intégration centraméricaine (SICA), issu du protocole de Tegucigalpa du 13 décembre 1991, a son centre administratif à :",
+     "o": [
+      "Tegucigalpa",
+      "San Salvador",
+      "Panama",
+      "Managua"
+     ],
+     "a": 1,
+     "e": "Le protocole de Tegucigalpa a été signé le 13 décembre 1991 par les pays de l'ODECA ; le SICA fonctionne depuis le 1er février 1993 et son centre administratif est à San Salvador.",
+     "ed": [
+      "Tegucigalpa est le lieu de signature du protocole, pas le centre administratif du SICA.",
+      null,
+      "Panama n'abrite pas le centre administratif du SICA, situé à San Salvador.",
+      "Managua n'abrite pas le centre administratif du SICA, situé à San Salvador."
+     ],
+     "src": {
+      "t": "Wikiwand (Wikipedia) — Central American Integration System",
+      "u": "https://www.wikiwand.com/en/articles/ODECA"
+     }
+    },
+    {
+     "id": "n20261126-cglibre-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Paraphé à Dayton le 21 novembre 1995, l'Accord-cadre général pour la paix en Bosnie-Herzégovine a été signé le 14 décembre 1995 à :",
+     "o": [
+      "Genève",
+      "Paris",
+      "Sarajevo",
+      "Vienne"
+     ],
+     "a": 1,
+     "e": "L'accord de Dayton, paraphé à Dayton le 21 novembre 1995, a été signé à Paris le 14 décembre 1995 par la Bosnie-Herzégovine, la Croatie et la République fédérale de Yougoslavie.",
+     "ed": [
+      "Genève n'est pas le lieu de signature : l'accord a été signé à Paris.",
+      null,
+      "Sarajevo n'est pas le lieu de signature : l'accord a été signé à Paris.",
+      "Vienne n'est pas le lieu de signature : l'accord a été signé à Paris."
+     ],
+     "src": {
+      "t": "Office of the High Representative — The General Framework Agreement for Peace in Bosnia and Herzegovina",
+      "u": "https://www.ohr.int/dayton-peace-agreement/"
+     }
+    },
+    {
+     "id": "n20261126-cglibre-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le 20 décembre 1999, la Chine a repris l'exercice de la souveraineté sur Macao, devenu région administrative spéciale. Quel principe, conçu par Deng Xiaoping, encadre ce retour ?",
+     "o": [
+      "« Un État, une seule loi »",
+      "« Un peuple, deux États »",
+      "« Deux pays, un système »",
+      "« Un pays, deux systèmes »"
+     ],
+     "a": 3,
+     "e": "Lors de la cérémonie du 20 décembre 1999, Jiang Zemin a rappelé que Hong Kong et Macao ont été réglés selon le principe « un pays, deux systèmes » de Deng Xiaoping, avec une large autonomie.",
+     "ed": [
+      "« Un État, une seule loi » contredit l'autonomie législative et judiciaire accordée à Macao.",
+      "« Un peuple, deux États » n'est pas la formule employée pour Macao.",
+      "« Deux pays, un système » inverse la formule : un seul pays, la Chine, avec deux systèmes.",
+      null
+     ],
+     "src": {
+      "t": "Ministère chinois des Affaires étrangères — Discours de Jiang Zemin à la cérémonie de transfert du gouvernement de Macao",
+      "u": "https://www.mfa.gov.cn/eng/wjb/zzjg_663340/gats_665294/xgxw_665296/202406/t20240606_11405833.html"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261126an11",
+     "niv": "an11",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "Comparatifs, superlatifs, so/such, too/enough",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez former le comparatif et le superlatif de n'importe quel adjectif anglais (taller, more careful, the best) et éviter les doubles marques fautives comme « more taller ».",
+      "= Vous saurez aussi choisir sans hésiter entre so et such, et placer correctement too et enough dans la phrase.",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), ces points arrivent dans des phrases à trous : « This road is ___ than the old one », « It was ___ a long meeting that… », « He is not old ___ to vote ». Les mauvaises options sont fabriquées sur trois erreurs : la double marque (more bigger), la confusion entre so et such, et l'ordre de enough calqué sur le français (« enough old », comme « assez vieux »).",
+      "## La méthode, pas à pas",
+      "- 1. Repérez le mot-indice : than annonce un comparatif ; the … in / of annonce un superlatif ; a / an + nom appelle such ; un adjectif seul appelle so ; to + verbe appelle souvent too ou enough.",
+      "- 2. Comptez les syllabes de l'adjectif : une syllabe → -er / -est ; deux syllabes terminées par consonne + y → -ier / -iest ; deux syllabes ou plus (sauf -y) → more / most.",
+      "- 3. Vérifiez qu'il n'y a qu'une seule marque : -er OU more, jamais les deux.",
+      "- 4. Pour so / such, regardez le mot qui suit : un adjectif seul → so ; un nom, avec ou sans adjectif → such.",
+      "- 5. Pour enough, regardez sa place : après l'adjectif (old enough), avant le nom (enough money).",
+      "- 6. Barème : si une règle sûre élimine deux options, répondez ; s'il reste deux options sans indice, laissez la case vide.",
+      "~ Exemple : « This is ___ room in the building. » (big) Étape 1 : the … in the building signale un superlatif. Étape 2 : big a une syllabe et finit par voyelle + consonne : on double le g. Étape 3 : the biggest. Réponse : This is the biggest room in the building (« C'est la plus grande salle du bâtiment »).",
+      "> Méthode du jour, le prétest : avant de lire le cours, essayez de répondre seul aux trois questions ci-dessous, même au hasard. Richland, Kornell et Kao (2009) ont interrogé des étudiants sur un texte avant qu'ils le lisent : même quand ils se trompaient, ils retenaient ensuite mieux ce texte que des étudiants qui avaient passé le même temps à l'étudier (environ 10 % de mieux selon le compte rendu de Scientific American). Condition indispensable : lire la bonne réponse juste après votre essai.",
+      "> Prétest (sans regarder le cours) : 1. bigger ou more big ? 2. « It was ___ a good idea » : so ou such ? 3. « old enough » ou « enough old » ? Les réponses sont dans les notions 1, 3 et 4."
+     ],
+     "fond": [
+      "## Notion 1 : former le comparatif de supériorité",
+      "Règle : le comparatif sert à dire qu'une chose a une qualité à un degré plus élevé qu'une autre. Il est suivi de than (« que »). Sa forme dépend de la longueur de l'adjectif.",
+      "- Une syllabe : on ajoute -er (old → older, long → longer).",
+      "- Une syllabe terminée par -e : on ajoute seulement -r (nice → nicer, large → larger).",
+      "- Une syllabe terminée par une voyelle + une consonne : on double la consonne (big → bigger, hot → hotter).",
+      "- Deux syllabes terminées par consonne + y : y devient i, puis -er (happy → happier, easy → easier).",
+      "- Deux syllabes ou plus (sauf -y) : on met more devant (careful → more careful, interesting → more interesting).",
+      "Pourquoi ? Un mot court supporte facilement un suffixe. Un mot long deviendrait lourd à prononcer : on ajoute donc un mot devant lui au lieu de l'allonger.",
+      "~ Exemple résolu : complétez « Traffic in Cocody is ___ today than yesterday. » (heavy) Étape 1 : than impose un comparatif. Étape 2 : heavy a deux syllabes et finit par consonne + y. Étape 3 : y devient i, on ajoute -er. Réponse : Traffic in Cocody is heavier today than yesterday (« La circulation à Cocody est plus dense aujourd'hui qu'hier »).",
+      "! Piège : la double marque. « More bigger », « more easier » sont toujours fautifs : -er et more font le même travail. Autre piège : écrire that au lieu de than après un comparatif.",
+      "> Pour retenir : « Court → -er ; long → more ; jamais les deux. »",
+      "? Complétez : « This report is ___ (clear) than the previous one, but it is ___ (expensive) to print. » || Clear a une seule syllabe : on ajoute -er, clearer. Expensive a trois syllabes : on met more devant, more expensive. Réponse : This report is clearer than the previous one, but it is more expensive to print.",
+      "## Notion 2 : le superlatif et les formes irrégulières",
+      "Règle : le superlatif désigne l'élément qui a la qualité au plus haut degré dans un groupe. Il se construit avec the + adjectif en -est (the oldest, the biggest, the happiest) ou the most + adjectif long (the most careful). Trois adjectifs très fréquents sont irréguliers : good → better → the best ; bad → worse → the worst ; far → farther / further → the farthest / the furthest.",
+      "Pourquoi the ? L'élément au plus haut degré est unique dans son groupe : on sait duquel on parle. C'est la règle de the vue dans la leçon sur les articles.",
+      "~ Exemple résolu : complétez « Of all the candidates, Aya gave ___ answer. » (good) Étape 1 : of all the candidates désigne un groupe, donc superlatif. Étape 2 : good est irrégulier : good, better, best. Étape 3 : the best. Réponse : Of all the candidates, Aya gave the best answer.",
+      "! Piège : « the most good », « badder », « worst than ». Le comparatif de bad est worse (worse than) ; worst est le superlatif (the worst).",
+      "> Pour retenir : « Good-better-best, bad-worse-worst : je les récite en trio, comme une comptine. »",
+      "? Corrigez : « This is the more important decision of the year, and the situation is more worse than last year. » || Important a quatre syllabes et l'on compare la décision à toutes celles de l'année : superlatif, the most important. Worse est déjà le comparatif de bad : more est en trop. Réponse : This is the most important decision of the year, and the situation is worse than last year.",
+      "## Notion 3 : so ou such ?",
+      "Règle : so (« si, tellement ») renforce un adjectif ou un adverbe seul : so hot, so slowly. Such (« un tel, de tels ») renforce un nom, accompagné ou non d'un adjectif : such a hot day, such lovely trousers (pluriel, sans article). Devant many, much, few, little + nom, on emploie so : so many people, so little time. Les deux se combinent avec that pour annoncer une conséquence : so cold that…, such a good teacher that….",
+      "Pourquoi ? So porte sur une qualité, such porte sur une chose. L'astuce de vérification : traduisez. Si « tellement » + adjectif sonne juste, c'est so ; si « un(e) tel(le) » + nom sonne juste, c'est such.",
+      "~ Exemple résolu : complétez « The rain was ___ heavy that the match was cancelled » puis « It was ___ heavy rain that the match was cancelled. » Étape 1 : dans la première phrase, heavy est un adjectif seul : so. Étape 2 : dans la seconde, heavy rain est un adjectif + nom : such. Étape 3 : rain est indénombrable, donc pas de a. Réponses : so heavy… ; such heavy rain….",
+      "! Piège : « so a good teacher » et « a such good teacher » sont fautifs : on écrit such a good teacher (such avant l'article). « Such many people » est fautif : so many people.",
+      "> Pour retenir : « So + adjectif seul ; such + nom ; so many, so much devant un nom de quantité. »",
+      "? Complétez : « There were ___ many applicants, and it was ___ difficult test that only ten were selected. » || Devant many, on emploie so : so many applicants. Difficult test est un adjectif + nom singulier dénombrable : such a. Réponse : There were so many applicants, and it was such a difficult test that only ten were selected.",
+      "## Notion 4 : too et enough",
+      "Règle : too (« trop ») se place avant l'adjectif ou l'adverbe et marque un excès : too young, too late. Devant un nom, on dit too much + indénombrable (too much traffic) et too many + pluriel (too many mistakes). Enough (« assez ») se place après l'adjectif ou l'adverbe (tall enough, quickly enough), mais avant le nom (enough money). Les deux se construisent avec to + verbe : too tired to work, old enough to vote.",
+      "Pourquoi ? Too et enough décrivent la même réalité vue de deux côtés : « too young » signifie « not old enough ». C'est pourquoi on peut passer de l'un à l'autre en prenant l'adjectif contraire.",
+      "~ Exemple résolu : réécrivez « The candidate is too young to sit the exam » avec enough. Étape 1 : too young = pas assez âgé. Étape 2 : l'adjectif contraire de young est old. Étape 3 : enough se place après lui, et la phrase devient négative. Réponse : The candidate is not old enough to sit the exam.",
+      "! Piège : « too much tired » est fautif (too tired) : too much ne précède jamais un adjectif. « Enough old » est fautif (old enough). Attention aussi à l'ordre avec un nom : « big enough rooms » (des salles assez grandes) n'a pas le même sens que « enough big rooms » (assez de grandes salles).",
+      "> Pour retenir : « Too avant l'adjectif, enough après ; mais enough avant le nom. »",
+      "? Complétez : « The hall is not ___ (large) to hold all the delegates: there are ___ people for only 200 seats. » || Enough suit l'adjectif : large enough. People est un pluriel dénombrable et il y a excès : too many. Réponse : The hall is not large enough to hold all the delegates: there are too many people for only 200 seats.",
+      "? Question type QCM : « She speaks ___ to be understood by everyone. » a) enough clearly b) clearly enough c) so clearly d) too clearly. || Enough suit l'adverbe : clearly enough (b). « Enough clearly » viole l'ordre ; so se construit avec that, pas avec to + verbe ; « too clearly to be understood » voudrait dire qu'elle parle trop clairement pour être comprise, ce qui est absurde.",
+      "## Notion 5 : égalité, progression et proportion",
+      "Règle : l'égalité se dit as + adjectif + as (as clear as) ; à la forme négative, not as … as ou not so … as. La progression se dit avec deux comparatifs reliés par and : bigger and bigger, more and more expensive. La proportion se dit the + comparatif…, the + comparatif : The faster you drive, the more dangerous it is.",
+      "Pourquoi ? Dans les trois cas, l'anglais répète la marque de comparaison pour la rendre visible, là où le français dit « de plus en plus » ou « plus…, plus… ».",
+      "~ Exemple résolu : traduisez « Plus vous révisez, plus vous retenez. » Étape 1 : la structure plus…, plus… est une proportion : the + comparatif, the + comparatif. Étape 2 : « plus » avec un verbe se dit more. Réponse : The more you revise, the more you remember.",
+      "! Piège : « The more you revise, more you remember » est fautif : le second the est obligatoire. « Most and most expensive » est fautif : more and more expensive.",
+      "> Pour retenir : « As… as pour l'égalité ; X-er and X-er pour la progression ; the…, the… pour la proportion. »"
+     ],
+     "retenir": [
+      "Adjectif d'une syllabe : -er / -est (old, older, the oldest) ; deux syllabes en consonne + y : -ier / -iest (happy, happier).",
+      "Adjectifs de deux syllabes ou plus (sauf -y) : more / most (more careful, the most interesting).",
+      "Une seule marque de comparaison : jamais « more bigger » ni « the most biggest ».",
+      "Irréguliers : good, better, the best ; bad, worse, the worst ; far, farther / further, the farthest / furthest.",
+      "So + adjectif ou adverbe seul (so hot) ; such + (a / an) + adjectif + nom (such a hot day).",
+      "So many, so much, so few, so little + nom ; jamais « such many ».",
+      "Too se place avant l'adjectif (too young) ; enough après l'adjectif (old enough) mais avant le nom (enough money).",
+      "Too much + indénombrable, too many + pluriel ; jamais « too much tired »."
+     ],
+     "exo": {
+      "tag": "niv-an11",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "British Council LearnEnglish — Comparative and superlative adjectives",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/comparative-superlative-adjectives"
+      },
+      {
+       "t": "British Council LearnEnglish — Intensifiers: so and such",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/intensifiers-so-such"
+      },
+      {
+       "t": "British Council LearnEnglish — Using enough",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/using-enough"
+      },
+      {
+       "t": "Test-English — Too, too much, too many, enough",
+       "u": "https://test-english.com/explanation/a2/too-too-much-too-many-enough/"
+      },
+      {
+       "t": "University of Chicago Learning Lab — The Pre-Testing Effect",
+       "u": "https://learninglab.uchicago.edu/Pre-Testing.html"
+      },
+      {
+       "t": "Scientific American — The Pluses of Getting It Wrong",
+       "u": "https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/"
+      }
+     ]
+    },
+    {
+     "id": "L20261126fr13",
+     "niv": "fr13",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Conjugaison 2 : futur, conditionnel, concordance des temps",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez conjuguer sans faute le futur simple et le conditionnel présent des verbes pièges : courir, mourir, acquérir, voir, envoyer, cueillir, crier, continuer.",
+      "= Vous saurez aussi choisir entre futur et conditionnel (je serai ou je serais), appliquer la règle du « si » de condition et la concordance des temps au passé (il a dit qu'il viendrait).",
+      "## Ce que demande l'épreuve",
+      "En présélection, la conjugaison arrive en QCM : « choisissez la forme correcte », « repérez la phrase fautive ». Les fausses options exploitent toujours les mêmes erreurs : un r au lieu de deux (il courira), un e oublié ou ajouté (ils continuront, il cueillira), un conditionnel après si (si j'aurais), et un futur là où le récit au passé exige un conditionnel.",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez le temps attendu : action future présentée comme certaine → futur ; hypothèse, souhait, politesse, futur vu depuis le passé → conditionnel.",
+      "- 2. Appliquez le test du « nous » : le futur fait -rons, le conditionnel -rions (je serai → nous serons ; je serais → nous serions).",
+      "- 3. Vérifiez le radical : les verbes en -ier, -ouer, -uer gardent leur e (crierai, jouera) ; courir, mourir, acquérir, voir, envoyer et pouvoir prennent deux r.",
+      "- 4. Si la phrase contient un si de condition : jamais de futur ni de conditionnel juste après si.",
+      "- 5. Si le verbe principal est au passé, le futur devient conditionnel (il dit qu'il viendra → il a dit qu'il viendrait).",
+      "- 6. Barème +1 / 0 / −1 : la règle du si et le test du nous suffisent souvent à éliminer deux options ; répondez alors. Sans règle sûre, abstenez-vous.",
+      "~ Exemple : « Je vous ___ le dossier demain matin. » (envoyer) Étape 1 : demain, action future certaine → futur. Étape 2 : test du nous : nous enverrons, et non enverrions. Étape 3 : le radical du futur d'envoyer est enverr-, avec deux r. Réponse : Je vous enverrai le dossier demain matin.",
+      "> Méthode du jour, le prétest : avant de lire le cours, essayez de répondre seul aux trois questions ci-dessous, même au hasard. Richland, Kornell et Kao (2009) ont interrogé des étudiants sur un texte avant qu'ils le lisent : même quand ils se trompaient, ils retenaient ensuite mieux ce texte que des étudiants qui avaient passé le même temps à l'étudier (environ 10 % de mieux selon le compte rendu de Scientific American). Condition indispensable : lire la bonne réponse juste après votre essai.",
+      "> Prétest (sans regarder le cours) : 1. « Il cou_ra » : un r ou deux ? 2. « Si j'___ le temps, je viendrais » : aurais ou avais ? 3. « Il avait promis qu'il ___ le lendemain » : viendra ou viendrait ? Les réponses sont dans les notions 2, 4 et 5."
+     ],
+     "fond": [
+      "## Notion 1 : la formation du futur simple",
+      "Règle : tous les verbes prennent au futur les mêmes terminaisons : -rai, -ras, -ra, -rons, -rez, -ront. Pour les verbes en -er et les verbes réguliers en -ir, on les ajoute à l'infinitif : chanter → je chanterai, finir → je finirai. Pour la plupart des verbes en -re, on retire le e final de l'infinitif : prendre → je prendrai, cuire → il cuira.",
+      "Pourquoi ? Retenir « infinitif + ai, as, a, ons, ez, ont » évite la faute la plus fréquente : oublier le e muet des verbes dont le radical finit par une voyelle. Ce e ne s'entend pas, mais il appartient à l'infinitif : crier → je crierai, nous crierons ; jouer → il jouera ; continuer → ils continueront.",
+      "- Verbes en -oyer et -uyer : y devient i (nettoyer → nous nettoierons, appuyer → il appuiera).",
+      "- Verbes en -ayer : deux formes admises (payer → ils paieront ou ils payeront).",
+      "~ Exemple résolu : complétez « Les agents ___ le directeur pour son appui. » (remercier) Étape 1 : verbe en -er, on part de l'infinitif entier : remercier. Étape 2 : on ajoute la terminaison de ils : -ont. Étape 3 : le e muet reste écrit. Réponse : Les agents remercieront le directeur pour son appui.",
+      "! Piège : « ils remercirons », « il joura », « nous crirons » : le e muet a disparu. Vérifiez toujours en relisant l'infinitif dans la forme.",
+      "> Pour retenir : « Futur = infinitif + ai, as, a, ons, ez, ont : je remercier-ai, il jouer-a. »",
+      "? Conjuguez au futur : « Nous (étudier) le dossier ; ils (nettoyer) la salle ; tu (payer) la facture. » || Nous étudierons : infinitif étudier + ons, le e muet reste écrit. Ils nettoieront : dans les verbes en -oyer, y devient i. Tu paieras ou tu payeras : les verbes en -ayer admettent les deux formes.",
+      "## Notion 2 : les radicaux irréguliers et les doubles r",
+      "Règle : quelques verbes changent de radical au futur, et ce radical sert aussi au conditionnel. Être → je serai ; avoir → j'aurai ; aller → j'irai ; faire → je ferai ; savoir → je saurai ; venir → je viendrai ; tenir → je tiendrai ; vouloir → je voudrai. Six verbes très demandés prennent deux r : courir → je courrai ; mourir → je mourrai ; acquérir → j'acquerrai ; voir → je verrai ; envoyer → j'enverrai ; pouvoir → je pourrai. Cueillir et accueillir se conjuguent au futur comme des verbes en -er : je cueillerai, j'accueillerai.",
+      "Pourquoi deux r ? Le radical se termine déjà par r (cour-, mour-, acquer-, ver-, enver-, pour-), puis vient le r de la terminaison. Décomposer la forme suffit à vérifier : cour + rai = courrai.",
+      "~ Exemple résolu : choisissez entre « l'équipe courira » et « l'équipe courra ». Étape 1 : le verbe est courir, du groupe des doubles r. Étape 2 : radical cour- + terminaison -ra. Étape 3 : cour + ra = courra. Réponse : l'équipe courra.",
+      "! Piège : acquérir perd son accent au futur : j'acquerrai, et non « j'acquièrerai ». Devoir, savoir et recevoir n'ont qu'un r : je devrai, je saurai, je recevrai.",
+      "> Pour retenir : « Courir, mourir, acquérir, voir, envoyer, pouvoir : six verbes qui roulent les deux r au futur et au conditionnel. »",
+      "? Corrigez : « Le ministère acquièrera de nouveaux véhicules ; l'agent accueillira les visiteurs ; nous mourirons de chaleur. » || Acquérir fait acquerra : radical acquer- sans accent, plus -ra, d'où deux r. Accueillir se conjugue au futur comme un verbe en -er : accueillera. Mourir fait nous mourrons : radical mour- + -rons.",
+      "## Notion 3 : futur ou conditionnel ? Le test du « nous »",
+      "Règle : le conditionnel présent se forme sur le radical du futur, avec les terminaisons de l'imparfait : -rais, -rais, -rait, -rions, -riez, -raient. À la première personne du singulier, seule une lettre sépare les deux temps : je serai (futur), je serais (conditionnel). Le futur présente une action à venir comme certaine ; le conditionnel exprime une hypothèse, un souhait, une demande polie ou une information non confirmée.",
+      "Pourquoi le test du nous ? À la première personne du pluriel, les deux temps se distinguent nettement : -rons pour le futur, -rions pour le conditionnel. Remplacer je par nous rend la différence visible.",
+      "~ Exemple résolu : complétez « Je ___ (vouloir) vous rencontrer, si vous le permettez. » Étape 1 : la phrase exprime une demande polie. Étape 2 : test du nous : « nous voudrions vous rencontrer » convient, « nous voudrons » ne convient pas. Étape 3 : conditionnel. Réponse : Je voudrais vous rencontrer, si vous le permettez.",
+      "~ Exemple résolu : complétez « Je ___ (être) à Bouaké lundi prochain. » Étape 1 : action future présentée comme certaine. Étape 2 : test du nous : nous serons. Réponse : Je serai à Bouaké lundi prochain.",
+      "! Piège : ne vous fiez pas à l'oreille. Beaucoup de locuteurs prononcent de la même façon je serai et je serais : seul le sens et le test du nous tranchent.",
+      "> Pour retenir : « Doute ? Je passe à nous : -rons = futur (-rai), -rions = conditionnel (-rais). »",
+      "? Complétez : « Demain, je ___ (passer) au bureau ; à ta place, je ___ (prendre) un congé. » || Demain annonce une action future certaine : nous passerons, donc je passerai. « À ta place » introduit une hypothèse : nous prendrions, donc je prendrais.",
+      "## Notion 4 : le si de condition",
+      "Règle : après le si qui exprime une condition, on n'emploie jamais le futur ni le conditionnel. Trois combinaisons sont à connaître : si + présent → futur, présent ou impératif (si tu viens, je serai content ; si tu le vois, dis-le-lui) ; si + imparfait → conditionnel présent (s'il pleuvait, nous resterions) ; si + plus-que-parfait → conditionnel passé pour un fait passé non réalisé (si j'avais su, je serais venu).",
+      "Pourquoi ? Le si pose déjà la condition : le verbe qui le suit n'a pas besoin d'une seconde marque d'hypothèse. C'est la principale qui porte le conditionnel.",
+      "~ Exemple résolu : complétez « Si la pluie ___ (cesser), la cérémonie aurait lieu dehors. » Étape 1 : la principale est au conditionnel présent (aurait lieu). Étape 2 : la combinaison est donc si + imparfait. Réponse : Si la pluie cessait, la cérémonie aurait lieu dehors.",
+      "! Piège : « Si j'aurais su » est fautif : si j'avais su. Exception : quand si introduit une question indirecte (au sens de « est-ce que »), le conditionnel est permis : « Le chef de service a demandé si nous serions disponibles samedi. »",
+      "> Pour retenir : « Les si n'aiment pas les -rais : si + imparfait, puis conditionnel. »",
+      "? Complétez : « Si tu (réviser) chaque jour, tu réussirais ; si tu avais révisé l'an dernier, tu (réussir) déjà. » || La principale tu réussirais est au conditionnel présent : si + imparfait, si tu révisais. Dans la seconde phrase, si + plus-que-parfait et fait passé non réalisé : conditionnel passé, tu aurais déjà réussi.",
+      "## Notion 5 : la concordance des temps au passé",
+      "Règle : quand le verbe principal est au passé, l'action future de la subordonnée se met au conditionnel présent (on l'appelle le futur du passé), et l'action future déjà accomplie se met au conditionnel passé. « Il annonce qu'il viendra » devient « Il a annoncé qu'il viendrait » ; « Elle pense qu'elle aura fini » devient « Elle pensait qu'elle aurait fini ».",
+      "Pourquoi ? Le conditionnel situe l'action dans l'avenir vu depuis un moment passé. Ici, il n'exprime aucune hypothèse : il est obligatoire même pour un fait certain.",
+      "~ Exemple résolu : mettez au discours indirect : Le préfet a déclaré : « Les travaux commenceront lundi. » Étape 1 : le verbe principal a déclaré est au passé. Étape 2 : le futur commenceront devient le conditionnel commenceraient. Étape 3 : l'indication de temps s'adapte au récit : lundi devient le lundi suivant. Réponse : Le préfet a déclaré que les travaux commenceraient le lundi suivant.",
+      "! Piège : garder le futur dans un récit au passé (« Il avait promis qu'il viendra le lendemain »). Nuance : si l'action est encore à venir au moment où l'on parle, l'usage admet aussi le futur ; au concours, choisissez la forme de concordance, toujours correcte.",
+      "? Mettez au passé : « Le directeur assure que le rapport sera prêt et qu'il l'aura signé avant vendredi. » || Le directeur a assuré que le rapport serait prêt et qu'il l'aurait signé avant vendredi. Le futur sera devient le conditionnel présent serait ; le futur antérieur aura signé devient le conditionnel passé aurait signé."
+     ],
+     "retenir": [
+      "Futur simple : terminaisons -rai, -ras, -ra, -rons, -rez, -ront, ajoutées à l'infinitif pour les verbes en -er et en -ir réguliers.",
+      "Les verbes en -ier, -ouer, -uer gardent le e muet au futur : je crierai, il jouera, ils continueront.",
+      "Deux r au futur et au conditionnel : je courrai, je mourrai, j'acquerrai, je verrai, j'enverrai, je pourrai.",
+      "Cueillir et accueillir font leur futur comme un verbe en -er : je cueillerai, j'accueillerai.",
+      "Futur ou conditionnel ? Remplacez par nous : -rons signale le futur (je serai), -rions le conditionnel (je serais).",
+      "Jamais de futur ni de conditionnel après le si de condition : si + imparfait, puis conditionnel présent.",
+      "Si + plus-que-parfait, puis conditionnel passé pour un fait passé non réalisé : si j'avais su, je serais venu.",
+      "Verbe principal au passé : le futur devient conditionnel présent (il a dit qu'il viendrait), le futur antérieur devient conditionnel passé."
+     ],
+     "exo": {
+      "tag": "niv-fr13",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Vitrine linguistique (OQLF) — Formes du futur simple",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24655/la-grammaire/le-verbe/conjugaison/formes-du-futur-simple"
+      },
+      {
+       "t": "Vitrine linguistique (OQLF) — Conditionnel dans les phrases hypothétiques",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24140/la-grammaire/le-verbe/temps-grammaticaux/conditionnel/conditionnel-dans-les-phrases-hypothetiques"
+      },
+      {
+       "t": "Vitrine linguistique (OQLF) — Valeur temporelle du conditionnel",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24138/la-grammaire/le-verbe/temps-grammaticaux/conditionnel/valeur-temporelle-du-conditionnel"
+      },
+      {
+       "t": "La langue française — 5 astuces pour ne plus confondre le conditionnel et le futur",
+       "u": "https://www.lalanguefrancaise.com/5-astuces-pour-ne-plus-confondre-le-conditionnel-et-le-futur"
+      },
+      {
+       "t": "Nos langues (Gouvernement du Canada) — Conjugaison du verbe envoyer",
+       "u": "https://our-languages.canada.ca/en/conjugart/envoyer"
+      },
+      {
+       "t": "University of Chicago Learning Lab — The Pre-Testing Effect",
+       "u": "https://learninglab.uchicago.edu/Pre-Testing.html"
+      },
+      {
+       "t": "Scientific American — The Pluses of Getting It Wrong",
+       "u": "https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/"
+      }
+     ]
+    },
+    {
+     "id": "L20261126lo13",
+     "niv": "lo13",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Dénombrement et probabilités simples",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez compter rapidement le nombre de possibilités d'une situation (codes, classements, comités, menus) en choisissant la bonne formule : principe multiplicatif, permutation, arrangement ou combinaison.",
+      "= Vous saurez aussi calculer une probabilité simple et celle d'un événement contraire, et utiliser ce calcul pour décider quand répondre au QCM de logique.",
+      "## Ce que demande l'épreuve",
+      "En logique, le barème est +2 / 0 / −2. Les problèmes de dénombrement (« de combien de façons… ») ont une seule réponse chiffrée, et les mauvaises options sont fabriquées avec la mauvaise formule : on propose le nombre ordonné quand l'ordre ne compte pas, ou le nombre avec répétition quand un même élément ne peut servir deux fois. Savoir pourquoi on choisit une formule vaut plus que la formule elle-même.",
+      "## La méthode, pas à pas",
+      "- 1. Posez deux questions : l'ordre compte-t-il (des places ou des postes différents) ? Un élément peut-il être répété ?",
+      "- 2. Ordre et répétition possibles : n multiplié k fois par lui-même (codes, plaques, mots de passe).",
+      "- 3. Ordre, sans répétition : arrangement n × (n − 1) × … sur k facteurs ; si l'on range tous les éléments, n! (« factorielle n » : n × (n − 1) × … × 1).",
+      "- 4. Sans ordre, sans répétition : combinaison = arrangement ÷ k!.",
+      "- 5. Probabilité (issues également possibles) : cas favorables ÷ cas possibles, puis vérifiez que le résultat est entre 0 et 1.",
+      "- 6. Contrôle de vraisemblance : une combinaison n'est jamais plus grande que l'arrangement correspondant.",
+      "~ Exemple : un cadenas a 3 molettes portant chacune les chiffres de 0 à 9. Combien de codes ? Étape 1 : l'ordre compte (123 n'est pas 321) et un chiffre peut revenir (777). Étape 2 : 10 choix par molette, trois molettes : 10 × 10 × 10 = 1 000 codes. Vérification : les codes vont de 000 à 999, soit 1 000 nombres.",
+      "> Méthode du jour, le prétest : avant de lire le cours, essayez de répondre seul aux trois questions ci-dessous, même au hasard. Richland, Kornell et Kao (2009) ont interrogé des étudiants sur un texte avant qu'ils le lisent : même quand ils se trompaient, ils retenaient ensuite mieux ce texte que des étudiants qui avaient passé le même temps à l'étudier (environ 10 % de mieux selon le compte rendu de Scientific American). Condition indispensable : lire la bonne réponse juste après votre essai.",
+      "> Prétest (sans regarder le cours) : 1. De combien de façons classer 3 candidats premier, deuxième, troisième ? 2. Combien de binômes peut-on former avec 4 personnes ? 3. Quelle est la probabilité d'obtenir un nombre pair avec un dé ? Réponses : 6, 6 et 0,5, expliquées dans les notions 2, 3 et 4."
+     ],
+     "fond": [
+      "## Notion 1 : le principe multiplicatif",
+      "Règle : quand un choix se fait en étapes successives offrant a, puis b, puis c possibilités, le nombre total de résultats est a × b × c. On peut le visualiser par un arbre : chaque branche de la première étape se divise en b branches, et ainsi de suite.",
+      "Pourquoi ? Chaque option de la première étape se combine avec chaque option de la deuxième : c'est un tableau de a lignes et b colonnes, qui compte a × b cases.",
+      "~ Exemple résolu : un maquis propose 3 plats (attiéké-poisson, foutou-sauce graine, riz-sauce arachide), 2 boissons et 2 desserts. Combien de menus plat + boisson + dessert ? Étape 1 : trois choix successifs, donc on multiplie. Étape 2 : 3 × 2 × 2 = 12. Vérification par l'arbre : chaque plat ouvre 2 × 2 = 4 menus, et 3 × 4 = 12.",
+      "! Piège : additionner au lieu de multiplier (3 + 2 + 2 = 7). On additionne seulement quand on choisit l'un OU l'autre : prendre un seul article parmi 3 plats ou 2 desserts offre 3 + 2 = 5 choix.",
+      "> Pour retenir : « ET successifs → je multiplie ; OU exclusif → j'additionne. »",
+      "? Un code d'accès comporte une lettre parmi A, B, C, D, puis deux chiffres de 0 à 9 (répétition permise). Combien de codes ? || Trois étapes successives, donc on multiplie : 4 × 10 × 10 = 400 codes. Vérification : pour la seule lettre A, il y a 100 suites de deux chiffres (de 00 à 99) ; quatre lettres donnent 400.",
+      "## Notion 2 : permutations et arrangements (l'ordre compte)",
+      "Règle : ranger n objets distincts dans un ordre donne n! possibilités (permutations). Choisir k objets parmi n en tenant compte de l'ordre, sans répétition, donne n × (n − 1) × … × (n − k + 1), soit k facteurs décroissants (arrangements). Par convention, 0! = 1.",
+      "Pourquoi ? À chaque place, il reste un candidat de moins, puisque celui qui est placé ne peut pas l'être une seconde fois.",
+      "- Factorielles à connaître par cœur : 3! = 6 ; 4! = 24 ; 5! = 120 ; 6! = 720.",
+      "~ Exemple résolu : 8 candidats briguent un bureau de trois postes distincts : président, vice-président, trésorier. Combien de bureaux ? Étape 1 : les postes sont différents, l'ordre compte ; une personne n'occupe qu'un poste, pas de répétition. Étape 2 : 8 choix pour le président, puis 7, puis 6. Étape 3 : 8 × 7 × 6 = 336.",
+      "! Piège : écrire 8 × 8 × 8 = 512, comme si la même personne pouvait cumuler les trois postes.",
+      "> Pour retenir : « Des places différentes → l'ordre compte → je descends : n × (n − 1) × … »",
+      "? De combien de façons 5 délégués peuvent-ils s'asseoir sur 5 chaises alignées ? || Chaque chaise reçoit une personne différente et tout le monde est placé : permutation, 5! = 5 × 4 × 3 × 2 × 1 = 120. Contrôle : la première chaise a 5 occupants possibles, la deuxième 4, et ainsi de suite.",
+      "## Notion 3 : les combinaisons (l'ordre ne compte pas)",
+      "Règle : choisir k objets parmi n, sans ordre et sans répétition, donne C(n, k) = arrangement ÷ k!. Cas fréquent : C(n, 2) = n × (n − 1) ÷ 2. Symétrie utile : choisir les k élus revient à choisir les n − k exclus, donc C(n, k) = C(n, n − k).",
+      "Pourquoi diviser par k! ? Un même groupe de 3 personnes apparaît, dans l'arrangement, sous ses 3! = 6 ordres différents. Si l'ordre ne compte pas, on l'a compté 6 fois de trop : on divise par 6.",
+      "~ Exemple résolu : on forme une commission de 3 membres, sans fonction particulière, parmi 8 agents. Étape 1 : un simple groupe, l'ordre ne compte pas. Étape 2 : arrangement 8 × 7 × 6 = 336. Étape 3 : on divise par 3! = 6 : 336 ÷ 6 = 56 commissions.",
+      "~ Exemple résolu : 10 équipes se rencontrent toutes une fois. Combien de matchs ? Un match est une paire d'équipes, sans ordre : C(10, 2) = 10 × 9 ÷ 2 = 45 matchs.",
+      "! Piège : confondre bureau (postes distincts → arrangement) et commission (membres équivalents → combinaison). Lisez si les élus ont des rôles différents.",
+      "> Pour retenir : « Des postes → arrangement ; un simple groupe → je divise par k!. »",
+      "? Un jury doit retenir 2 projets rizicoles parmi 6. Combien de paires possibles ? Et si l'un reçoit le 1er prix et l'autre le 2e prix ? || Sans ordre : C(6, 2) = 6 × 5 ÷ 2 = 15 paires. Avec ordre (1er et 2e prix) : 6 × 5 = 30. Le second résultat vaut le double du premier, car chaque paire peut être classée de 2! = 2 façons.",
+      "## Notion 4 : la probabilité d'un événement",
+      "Règle : quand toutes les issues ont la même chance (équiprobabilité), la probabilité d'un événement A est P(A) = nombre de cas favorables ÷ nombre de cas possibles. Elle est toujours comprise entre 0 (impossible) et 1 (certain). L'événement contraire (« non A ») a pour probabilité 1 − P(A). Pour « A ou B » : P(A ou B) = P(A) + P(B) − P(A et B).",
+      "Pourquoi ? Une probabilité mesure la part des cas qui réalisent l'événement. Dans « A ou B », les cas communs aux deux seraient comptés deux fois : on les retire une fois.",
+      "~ Exemple résolu : on tire au sort 2 délégués parmi 5 agents (3 femmes, 2 hommes). Probabilité de tirer deux femmes ? Étape 1 : cas possibles, paires sans ordre : C(5, 2) = 10. Étape 2 : cas favorables, paires de femmes : C(3, 2) = 3. Étape 3 : P = 3 ÷ 10 = 0,3.",
+      "~ Exemple résolu : on lance deux pièces. Probabilité d'obtenir au moins un « pile » ? Étape 1 : le contraire de « au moins un pile » est « aucun pile », soit face-face. Étape 2 : il y a 4 issues (PP, PF, FP, FF) et une seule est face-face : 1 ÷ 4 = 0,25. Étape 3 : 1 − 0,25 = 0,75.",
+      "! Piège : compter les cas favorables avec ordre et les cas possibles sans ordre (ou l'inverse). Les deux comptes doivent suivre la même règle.",
+      "> Pour retenir : « Probabilité = favorables ÷ possibles ; au moins un = 1 − aucun. »",
+      "? Dans un service de 25 agents, 10 parlent anglais, 8 parlent espagnol et 3 parlent les deux langues. On tire un agent au hasard. Probabilité qu'il parle anglais ou espagnol ? || P(A ou E) = 10 ÷ 25 + 8 ÷ 25 − 3 ÷ 25 = 15 ÷ 25 = 0,6. On retire les 3 agents bilingues, sinon on les compterait deux fois.",
+      "## Notion 5 : la probabilité au service du barème",
+      "Règle : le gain moyen d'une réponse est la somme des gains possibles pondérés par leur probabilité. Avec le barème +2 / 0 / −2 et 4 options, une réponse au hasard rapporte en moyenne 1/4 × 2 + 3/4 × (−2) = −1 point. Si vous avez éliminé 2 options avec certitude, il reste 1 chance sur 2 : 1/2 × 2 − 1/2 × 2 = 0. Si vous en avez éliminé 3, le gain de 2 points est assuré.",
+      "Pourquoi ? Sur une série de questions, la moyenne de vos gains se rapproche de ce calcul : répondre au hasard fait perdre des points, répondre après élimination ne coûte rien en moyenne.",
+      "~ Exemple résolu : sur 10 questions de logique, vous hésitez chaque fois entre 2 options. Étape 1 : vous aurez en moyenne 5 bonnes réponses (+10) et 5 mauvaises (−10). Étape 2 : total moyen 0. Étape 3 : répondre ne rapporte rien en moyenne ; ne le faites que si une option vous paraît nettement plus probable que l'autre, et gardez votre temps pour les questions sûres.",
+      "! Piège : « tenter sa chance » sur quatre options sans rien éliminer coûte en moyenne 1 point par question au barème +2 / 0 / −2.",
+      "? Barème +2 / 0 / −2 : vous avez éliminé une seule option sur quatre et choisissez au hasard parmi les trois restantes. Gain moyen ? || Il reste 3 options : 1/3 × 2 − 2/3 × 2 = 2/3 − 4/3 = −2/3, soit environ −0,67 point. Le gain reste négatif : abstenez-vous, sauf si l'une des trois options vous paraît nettement plus probable."
+     ],
+     "retenir": [
+      "Choix successifs : on multiplie les nombres de possibilités (3 plats × 2 boissons × 2 desserts = 12 menus).",
+      "Ordre et répétition permis : n multiplié k fois par lui-même (cadenas à 3 molettes de 10 chiffres : 1 000 codes).",
+      "Ranger n objets distincts : n! ; 3! = 6, 4! = 24, 5! = 120, 6! = 720.",
+      "Postes distincts sans répétition : arrangement n × (n − 1) × … sur k facteurs (8 candidats, 3 postes : 336).",
+      "Groupe sans ordre : combinaison = arrangement ÷ k! ; C(n, 2) = n × (n − 1) ÷ 2.",
+      "Probabilité en équiprobabilité : cas favorables ÷ cas possibles, toujours entre 0 et 1.",
+      "Au moins un : 1 − P(aucun) ; P(A ou B) = P(A) + P(B) − P(A et B).",
+      "Barème +2 / 0 / −2 : au hasard sur 4 options, gain moyen −1 point ; avec 2 options restantes, gain moyen 0."
+     ],
+     "exo": {
+      "tag": "niv-lo13",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Yvan Monka, maths-et-tiques — Combinatoire et dénombrement",
+       "u": "https://www.maths-et-tiques.fr/telech/Tcombi.pdf"
+      },
+      {
+       "t": "Maths-cours.fr — Probabilités (cours de seconde)",
+       "u": "https://www.maths-cours.fr/assets/pdfs/cours/seconde/probabilites.pdf"
+      },
+      {
+       "t": "University of Chicago Learning Lab — The Pre-Testing Effect",
+       "u": "https://learninglab.uchicago.edu/Pre-Testing.html"
+      },
+      {
+       "t": "Scientific American — The Pluses of Getting It Wrong",
+       "u": "https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/"
+      }
+     ]
+    }
+   ],
+   "sujets": []
   }
  ]
 }
