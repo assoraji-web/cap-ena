@@ -47058,6 +47058,449 @@
       "t": "Ministère chinois des Affaires étrangères — Discours de Jiang Zemin à la cérémonie de transfert du gouvernement de Macao",
       "u": "https://www.mfa.gov.cn/eng/wjb/zzjg_663340/gats_665294/xgxw_665296/202406/t20240606_11405833.html"
      }
+    },
+    {
+     "id": "c20261126-dc2-01",
+     "m": "dc",
+     "tag": "dc2",
+     "q": "Selon l'article 56 de la Constitution, comment le Président de la République est-il élu ?",
+     "o": [
+      "Au scrutin proportionnel à un tour",
+      "Au scrutin majoritaire à deux tours, à la majorité absolue des suffrages exprimés",
+      "Par le Parlement réuni en Congrès",
+      "Au scrutin majoritaire à un tour, à la majorité relative"
+     ],
+     "a": 1,
+     "e": "L'article 56 prévoit un scrutin majoritaire à deux tours : est élu au premier tour le candidat qui obtient la majorité absolue des suffrages exprimés.",
+     "ed": [
+      "La proportionnelle sert à répartir des sièges entre listes ; elle ne peut pas désigner une seule personne.",
+      null,
+      "Le Congrès intervient pour la révision de la Constitution, pas pour élire le Président, élu au suffrage universel direct.",
+      "La majorité relative ne suffit pas au premier tour : l'article 56 exige la majorité absolue."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "c20261126-dc2-02",
+     "m": "dc",
+     "tag": "dc2",
+     "q": "Aucun candidat n'a obtenu la majorité absolue au premier tour de l'élection présidentielle. Qui peut se présenter au second tour ?",
+     "o": [
+      "Tous les candidats ayant obtenu au moins 10 % des voix",
+      "Les trois candidats arrivés en tête",
+      "Seuls les deux candidats arrivés en tête au premier tour",
+      "Tout candidat, même nouveau, parrainé par un parti"
+     ],
+     "a": 2,
+     "e": "L'article 56 réserve le second tour aux deux candidats arrivés en tête au premier tour ; celui qui obtient le plus de voix au second tour est élu.",
+     "ed": [
+      "Aucun seuil de 10 % n'est prévu : seuls les deux premiers restent en lice.",
+      "Trois candidats au second tour rendraient la majorité incertaine ; le texte n'en retient que deux.",
+      null,
+      "Aucune nouvelle candidature n'est possible entre les deux tours."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "c20261126-dc2-03",
+     "m": "dc",
+     "tag": "dc2",
+     "q": "Selon l'article 55 de la Constitution révisée en 2020, le Président de la République choisit le Vice-Président :",
+     "o": [
+      "avec l'accord du Parlement",
+      "sur proposition du Premier ministre",
+      "après un vote du Conseil constitutionnel",
+      "sans aucune autre intervention, par simple décret"
+     ],
+     "a": 0,
+     "e": "L'article 55 dispose que le Président de la République choisit un Vice-Président « en accord avec le Parlement ». Le ticket électoral de 2016 a disparu en 2020.",
+     "ed": [
+      null,
+      "Le Premier ministre n'intervient pas dans ce choix : c'est le Président qui choisit, avec l'accord du Parlement.",
+      "Le Conseil constitutionnel reçoit le serment du Vice-Président ; il ne vote pas sur son choix.",
+      "Le choix n'est pas discrétionnaire : l'accord du Parlement est exigé par l'article 55."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "c20261126-dc2-04",
+     "m": "dc",
+     "tag": "dc2",
+     "q": "En cas de décès, de démission ou d'empêchement absolu du Président de la République, qui devient Président selon l'article 62 ?",
+     "o": [
+      "Le Président de l'Assemblée nationale",
+      "Le Président du Sénat",
+      "Le Premier ministre",
+      "Le Vice-Président de la République"
+     ],
+     "a": 3,
+     "e": "L'article 62 prévoit que le Vice-Président devient Président de la République après avoir prêté serment devant le Conseil constitutionnel, et achève le mandat en cours.",
+     "ed": [
+      "Le Président de l'Assemblée nationale n'assure pas la succession dans la Constitution révisée.",
+      "Le Président du Sénat n'est pas le successeur prévu par l'article 62.",
+      "Le Premier ministre n'intervient qu'en dernier recours, lorsque la vice-présidence est elle aussi vacante.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "c20261126-dc2-05",
+     "m": "dc",
+     "tag": "dc2",
+     "q": "Qui déclare l'empêchement absolu du Président de la République, et à la demande de qui ?",
+     "o": [
+      "Le Conseil constitutionnel, saisi par le Gouvernement statuant à la majorité de ses membres",
+      "L'Assemblée nationale, à la majorité des deux tiers",
+      "La Cour de cassation, saisie par le Procureur général",
+      "Le Sénat, saisi par son Président"
+     ],
+     "a": 0,
+     "e": "Selon l'article 62, l'empêchement absolu est constaté par le Conseil constitutionnel, saisi par le Gouvernement à la majorité de ses membres : c'est le juge électoral et constitutionnel qui tranche.",
+     "ed": [
+      null,
+      "L'Assemblée nationale ne constate pas l'empêchement : ce rôle revient au Conseil constitutionnel.",
+      "La Cour de cassation juge les litiges judiciaires, pas la situation du chef de l'État.",
+      "Le Sénat n'a aucun rôle dans la constatation de l'empêchement absolu."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "c20261126-dc2-06",
+     "m": "dc",
+     "tag": "dc2",
+     "q": "Selon l'article 74 de la Constitution, à qui appartient l'initiative des lois ?",
+     "o": [
+      "Au seul Président de la République",
+      "Au seul Parlement",
+      "Concurremment au Président de la République et aux membres du Parlement",
+      "Au Conseil économique, social, environnemental et culturel"
+     ],
+     "a": 2,
+     "e": "L'article 74 dispose que le Président de la République a l'initiative des lois concurremment avec les membres du Parlement : projets de loi d'un côté, propositions de loi de l'autre.",
+     "ed": [
+      "Le Président n'est pas seul : les parlementaires déposent aussi des propositions de loi.",
+      "Le Parlement n'est pas seul : le Président dépose des projets de loi.",
+      null,
+      "Le CESEC donne des avis ; il n'a pas l'initiative des lois."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "c20261126-dc2-07",
+     "m": "dc",
+     "tag": "dc2",
+     "q": "Quelle est la durée du mandat des sénateurs ivoiriens selon l'article 87 de la Constitution ?",
+     "o": [
+      "Six ans",
+      "Cinq ans",
+      "Sept ans",
+      "Quatre ans"
+     ],
+     "a": 1,
+     "e": "L'article 87 fixe à cinq ans le mandat des sénateurs, comme celui des députés (article 86) : la législature dure cinq ans pour les deux chambres.",
+     "ed": [
+      "Six ans n'est pas la durée prévue pour les sénateurs ivoiriens ; elle est de cinq ans.",
+      null,
+      "Sept ans ne correspond à aucun mandat parlementaire dans la Constitution de 2016.",
+      "Quatre ans est trop court : le mandat sénatorial est de cinq ans."
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "c20261126-dc2-08",
+     "m": "dc",
+     "tag": "dc2",
+     "q": "Le Président de la République effectue une visite officielle à l'étranger. Selon l'article 80, qui le remplace pendant son absence du territoire national ?",
+     "o": [
+      "Le Premier ministre",
+      "Le Président du Sénat",
+      "Le Président du Conseil constitutionnel",
+      "Le Vice-Président de la République"
+     ],
+     "a": 3,
+     "e": "L'article 80 prévoit que le Vice-Président agit par délégation du Président et le remplace lorsqu'il se trouve hors du territoire national.",
+     "ed": [
+      "Le Premier ministre dirige l'action du Gouvernement ; il ne remplace pas le Président absent du territoire.",
+      "Le Président du Sénat n'a pas ce rôle de suppléance dans la Constitution révisée.",
+      "Le Président du Conseil constitutionnel est un juge : il ne peut pas exercer les fonctions exécutives.",
+      null
+     ],
+     "src": {
+      "t": "Constitution de la Côte d'Ivoire de 2016, révisée en 2020 (Constitute Project)",
+      "u": "https://www.constituteproject.org/constitution/Cote_DIvoire_2020"
+     }
+    },
+    {
+     "id": "c20261126-pe05-01",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Combien de critères de convergence le pacte de l'UEMOA adopté en janvier 2015 retient-il ?",
+     "o": [
+      "Quatre, tous de premier rang",
+      "Sept, dont quatre de premier rang",
+      "Cinq : trois de premier rang et deux de second rang",
+      "Trois, tous de second rang"
+     ],
+     "a": 2,
+     "e": "Le pacte adopté le 19 janvier 2015 par la Conférence des chefs d'État retient cinq critères : trois de premier rang (solde budgétaire, inflation, dette) et deux de second rang (masse salariale, pression fiscale).",
+     "ed": [
+      "Il y a cinq critères, et deux d'entre eux sont de second rang.",
+      "Sept critères et quatre de premier rang ne correspondent pas au pacte de 2015.",
+      null,
+      "Les trois critères principaux sont de premier rang, pas de second rang."
+     ],
+     "src": {
+      "t": "DG Trésor, « 25 ans de l'UEMOA : bilan et perspectives » (2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "c20261126-pe05-02",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Quel est le critère clé du pacte de convergence de l'UEMOA de 2015 ?",
+     "o": [
+      "Le taux de chômage, inférieur à 10 %",
+      "Le solde budgétaire global, dons compris, rapporté au PIB nominal, supérieur ou égal à −3 %",
+      "Le taux de croissance du PIB réel, au moins égal à 7 %",
+      "Le solde de la balance commerciale, positif"
+     ],
+     "a": 1,
+     "e": "Le critère clé est le ratio du solde budgétaire global, dons compris, rapporté au PIB nominal : il doit être supérieur ou égal à −3 %, c'est-à-dire un déficit de 3 % du PIB au plus.",
+     "ed": [
+      "Le chômage n'est pas un critère de convergence de l'UEMOA.",
+      null,
+      "Aucun objectif de croissance chiffré ne figure parmi les critères du pacte.",
+      "La balance commerciale ne figure pas parmi les cinq critères."
+     ],
+     "src": {
+      "t": "DG Trésor, « 25 ans de l'UEMOA : bilan et perspectives » (2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "c20261126-pe05-03",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Quelle limite le pacte de l'UEMOA fixe-t-il au ratio masse salariale / recettes fiscales ?",
+     "o": [
+      "35 % au plus",
+      "50 % au plus",
+      "20 % au moins",
+      "70 % au plus"
+     ],
+     "a": 0,
+     "e": "Critère de second rang : la masse salariale de la fonction publique ne doit pas dépasser 35 % des recettes fiscales, pour laisser des ressources à l'investissement.",
+     "ed": [
+      null,
+      "50 % n'est pas la limite fixée ; elle est de 35 %.",
+      "20 % au moins est le seuil de la pression fiscale, l'autre critère de second rang.",
+      "70 % est le plafond de la dette publique rapportée au PIB, un critère de premier rang."
+     ],
+     "src": {
+      "t": "DG Trésor, « 25 ans de l'UEMOA : bilan et perspectives » (2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "c20261126-pe05-04",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Le taux de pression fiscale exigé par le pacte de convergence de l'UEMOA est :",
+     "o": [
+      "inférieur ou égal à 3 % du PIB",
+      "égal ou supérieur à 20 % du PIB",
+      "égal ou supérieur à 35 % du PIB",
+      "inférieur ou égal à 70 % du PIB"
+     ],
+     "a": 1,
+     "e": "Le second critère de second rang impose une pression fiscale (recettes fiscales / PIB) égale ou supérieure à 20 % : l'État doit mobiliser ses propres ressources.",
+     "ed": [
+      "3 % est la limite du déficit budgétaire et de l'inflation, pas un seuil de pression fiscale.",
+      null,
+      "35 % est le plafond du ratio masse salariale / recettes fiscales.",
+      "70 % est le plafond de la dette ; la pression fiscale est un plancher, pas un plafond."
+     ],
+     "src": {
+      "t": "DG Trésor, « 25 ans de l'UEMOA : bilan et perspectives » (2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "c20261126-pe05-05",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Un État de l'UEMOA verse une masse salariale de 2 800 milliards de F CFA pour 8 000 milliards de recettes fiscales. Quel est son ratio masse salariale / recettes fiscales ?",
+     "o": [
+      "28 %",
+      "40 %",
+      "35 %",
+      "45 %"
+     ],
+     "a": 2,
+     "e": "2 800 / 8 000 = 0,35, soit 35 % : l'État est exactement à la limite du critère de second rang (35 % au plus). Il le respecte, mais sans aucune marge.",
+     "ed": [
+      "28 % rapporte 2 800 à 10 000, un dénominateur qui n'est pas celui de l'énoncé.",
+      "40 % correspond à 3 200 milliards de masse salariale, pas 2 800.",
+      null,
+      "45 % suppose une masse salariale de 3 600 milliards."
+     ],
+     "verif": "calcul",
+     "calc": "2800/8000*100"
+    },
+    {
+     "id": "c20261126-pe05-06",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "PIB nominal : 60 000 milliards ; recettes fiscales : 9 000 milliards. De combien les recettes fiscales doivent-elles augmenter, à PIB constant, pour atteindre le seuil de 20 % de pression fiscale ?",
+     "o": [
+      "1 000 milliards",
+      "2 000 milliards",
+      "12 000 milliards",
+      "3 000 milliards"
+     ],
+     "a": 3,
+     "e": "Seuil : 20 % × 60 000 = 12 000 milliards de recettes. L'État en collecte 9 000 : il lui manque 12 000 − 9 000 = 3 000 milliards (sa pression fiscale actuelle est de 15 %).",
+     "ed": [
+      "1 000 milliards ne ferait passer la pression fiscale qu'à environ 16,7 %.",
+      "2 000 milliards porteraient les recettes à 11 000, soit environ 18,3 % du PIB.",
+      "12 000 milliards est le niveau de recettes à atteindre, pas l'augmentation nécessaire.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "60000*0.2-9000"
+    },
+    {
+     "id": "c20261126-pe05-07",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "Recettes : 9 500 milliards ; dons : 300 milliards ; dépenses totales : 11 600 milliards ; PIB nominal : 60 000 milliards. Quel déficit budgétaire global, dons compris, en % du PIB ?",
+     "o": [
+      "3 %",
+      "3,5 %",
+      "2,5 %",
+      "1,8 %"
+     ],
+     "a": 0,
+     "e": "Solde global dons compris : 9 500 + 300 − 11 600 = −1 800 milliards. Rapporté au PIB : 1 800 / 60 000 = 3 %. L'État est à la limite du critère clé (−3 %).",
+     "ed": [
+      null,
+      "3,5 % oublie les dons (2 100 / 60 000) alors que le critère se calcule dons compris.",
+      "2,5 % suppose un déficit de 1 500 milliards, ce qui ne correspond pas aux chiffres.",
+      "1,8 % confond le montant du déficit (1 800 milliards) avec son ratio au PIB."
+     ],
+     "verif": "calcul",
+     "calc": "(11600-9500-300)/60000*100"
+    },
+    {
+     "id": "c20261126-pe05-08",
+     "m": "pes",
+     "tag": "niv-pe05",
+     "q": "À quelle date le pacte de convergence de 2015 fixait-il l'horizon de convergence pour le critère du solde budgétaire ?",
+     "o": [
+      "31 décembre 2002",
+      "31 décembre 2008",
+      "31 décembre 2019",
+      "31 décembre 2025"
+     ],
+     "a": 2,
+     "e": "Le pacte de 2015 fixait l'horizon de convergence au 31 décembre 2019. Les horizons de 2002, puis 2005 et 2008, relevaient de l'ancien pacte de 1999.",
+     "ed": [
+      "2002 était l'horizon initial du pacte de 1999, pas celui du pacte de 2015.",
+      "2008 était le dernier report de l'ancien pacte de 1999.",
+      null,
+      "2025 ne correspond à aucun horizon fixé par le pacte de 2015."
+     ],
+     "src": {
+      "t": "DG Trésor, « 25 ans de l'UEMOA : bilan et perspectives » (2019)",
+      "u": "https://www.tresor.economie.gouv.fr/Articles/2d0606eb-bcac-4cc5-9d17-446f819e3c32/files/502fec30-36ca-4827-b74f-66a7136ee5ce"
+     }
+    },
+    {
+     "id": "c20261126-ct-01",
+     "m": "ct",
+     "tag": "ct",
+     "q": "La consigne demande un résumé de 120 mots, avec une tolérance de 10 %. Quel est le nombre maximal de mots accepté ?",
+     "o": [
+      "130 mots",
+      "132 mots",
+      "125 mots",
+      "144 mots"
+     ],
+     "a": 1,
+     "e": "Tolérance de 10 % : 120 × 1,1 = 132 mots au maximum (et 120 × 0,9 = 108 au minimum). Au-delà, le correcteur pénalise.",
+     "ed": [
+      "130 mots ne résulte d'aucun calcul : 10 % de 120 font 12, pas 10.",
+      null,
+      "125 mots est dans la fourchette mais n'en est pas le maximum.",
+      "144 mots applique une tolérance de 20 %, le double de la consigne."
+     ],
+     "verif": "calcul",
+     "calc": "120*1.1"
+    },
+    {
+     "id": "c20261126-ct-02",
+     "m": "ct",
+     "tag": "ct",
+     "q": "La consigne demande de résumer au quart un texte de 900 mots. Combien de mots doit compter le résumé (avant tolérance) ?",
+     "o": [
+      "300 mots",
+      "180 mots",
+      "225 mots",
+      "450 mots"
+     ],
+     "a": 2,
+     "e": "Résumer au quart, c'est diviser la longueur du texte par quatre : 900 / 4 = 225 mots, puis appliquer la tolérance indiquée par la consigne.",
+     "ed": [
+      "300 mots, c'est le tiers du texte, pas le quart.",
+      "180 mots, c'est le cinquième du texte.",
+      null,
+      "450 mots, c'est la moitié du texte."
+     ],
+     "verif": "calcul",
+     "calc": "900/4"
+    },
+    {
+     "id": "c20261126-ct-03",
+     "m": "ct",
+     "tag": "ct",
+     "q": "Dans un texte à résumer, le connecteur « en effet » introduit le plus souvent :",
+     "o": [
+      "une opposition à l'idée précédente",
+      "une conséquence de l'idée précédente",
+      "une concession accordée à l'adversaire",
+      "une justification ou une explication de l'idée précédente"
+     ],
+     "a": 3,
+     "e": "« En effet » annonce la preuve ou l'explication de ce qui vient d'être affirmé. Dans le résumé, on garde ce lien logique, par exemple avec « car ».",
+     "ed": [
+      "L'opposition se marque par « mais », « cependant », « pourtant », non par « en effet ».",
+      "La conséquence s'exprime par « donc », « ainsi », « c'est pourquoi ».",
+      "La concession se marque par « certes », « bien que », « il est vrai que ».",
+      null
+     ],
+     "verif": "regle"
     }
    ],
    "lessons": [
@@ -47366,6 +47809,110 @@
       {
        "t": "Scientific American — The Pluses of Getting It Wrong",
        "u": "https://www.scientificamerican.com/article/the-pluses-of-getting-it-wrong/"
+      }
+     ]
+    },
+    {
+     "id": "L20261113fr10",
+     "niv": "fr10",
+     "m": "fr",
+     "verif": "regle",
+     "rev": 2,
+     "titre": "Numéraux, tout, même, quelque, demi",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez écrire sans faute un nombre en lettres : quand « vingt » et « cent » prennent un « s », pourquoi « mille » ne change jamais, où placer les traits d'union.",
+      "= Vous saurez aussi accorder ou laisser invariables « tout », « même », « quelque » et « demi », en identifiant d'abord leur nature grâce à un test de remplacement.",
+      "## Ce que demande l'épreuve",
+      "Ces petits mots reviennent dans les QCM d'orthographe de la présélection : phrase à compléter, forme correcte à choisir, ou unique forme fautive à repérer. Le piège ne change pas : leur accord dépend de leur nature (adjectif, pronom, adverbe), et leur nature dépend de leur place. Le candidat qui accorde « à l'oreille », avec le nom le plus proche, tombe dans le piège.",
+      "Barème +1 / 0 / −1 : une réponse au hasard parmi quatre fait perdre des points en moyenne. Si, après la méthode, vous hésitez encore entre deux formes sans pouvoir appliquer un test, mieux vaut passer et revenir à la question à la fin.",
+      "## La méthode, pas à pas (moins de 30 secondes par question)",
+      "- 1. Soulignez le mot à accorder et regardez le mot qui le suit : nom, adjectif, nombre, adverbe, verbe « être » ?",
+      "- 2. Nombres : « vingt » ou « cent » est-il multiplié ? Termine-t-il le nombre ? Le mot suivant est-il « mille » (déterminant invariable) ou « millier, million, milliard » (noms) ? Le nombre indique-t-il un rang (page, article, année) ?",
+      "- 3. « Tout » devant un adjectif : remplacez par « entièrement ». Si le sens tient, c'est un adverbe. Puis regardez la première lettre de l'adjectif féminin : consonne ou h aspiré, il s'accorde ; voyelle ou h muet, il reste invariable.",
+      "- 4. « Quelque » : devant un nombre, remplacez par « environ » ; devant un nom, par « plusieurs ». Devant « être », « pouvoir » ou « devoir » au subjonctif, écrivez « quel que » en deux mots.",
+      "- 5. « Même » : remplacez par « aussi » ou « jusqu'à ». Si le sens tient, il est invariable.",
+      "- 6. « Demi » : devant le nom, il est invariable avec un trait d'union ; après le nom, il s'accorde en genre seulement.",
+      "! Piège habituel : un même mot change de nature d'une phrase à l'autre. On ne mémorise pas des formes, on applique des tests."
+     ],
+     "fond": [
+      "## Notion 1 : « vingt » et « cent », les deux seuls numéraux qui prennent un « s »",
+      "Règle : les déterminants numéraux (les mots qui indiquent une quantité, comme trois, douze, cinquante) sont invariables. Seuls « vingt » et « cent » font exception. Ils prennent un « s » à deux conditions réunies : ils sont multipliés par un autre nombre, et aucun autre numéral ne les suit immédiatement.",
+      "Pourquoi ? Dans « six cents », le mot « cent » est compté six fois : il se comporte comme un nom que l'on met au pluriel. Dès qu'un autre numéral le suit (six cent douze), l'usage a fixé la forme sans « s ».",
+      "Quand ils ne sont pas multipliés, ils restent invariables : cent vingt candidats. Quand ils indiquent un rang, c'est-à-dire qu'ils remplacent un ordinal comme « quatre-vingtième », ils restent aussi invariables : la page quatre-vingt, le paragraphe deux cent.",
+      "> Pour retenir : « Multiplié et en fin de nombre : s. Suivi ou rang : rien. »",
+      "~ Exemple résolu : « Le stade de Yamoussoukro a accueilli huit ___ supporters. » Étape 1 : « cent » est multiplié par huit. Étape 2 : rien ne le suit. Réponse : huit cents supporters. Contre-épreuve : avec « huit cent cinquante », un numéral suit, donc pas de « s ».",
+      "~ Exemple résolu : « Ouvrez le recueil à la page trois ___. » Il s'agit de la trois-centième page : c'est un rang, donc « page trois cent », sans « s », même si « cent » termine le nombre.",
+      "? Choisissez la bonne forme : « La commune compte (deux cent / deux cents) quatorze écoles, et la route a coûté (quatre-vingt / quatre-vingts) millions de francs. » || Deux cent quatorze : un numéral suit « cent », donc pas de « s ». Quatre-vingts millions : « million » est un nom, il ne compte pas comme un numéral qui suit ; « vingt », multiplié par quatre et en fin de nombre, prend donc un « s ».",
+      "## Notion 2 : « mille », les noms « millier, million, milliard » et les traits d'union",
+      "Règle : le déterminant « mille » est toujours invariable : cinq mille hectares. Dans les dates, on peut aussi écrire « mil ». À l'inverse, « millier », « million » et « milliard » sont des noms : ils prennent un « s » au pluriel et laissent « vingt » et « cent » s'accorder devant eux.",
+      "Pourquoi ? Un nom se met au pluriel ; un déterminant numéral, non. C'est pourquoi on écrit trois cents milliers d'habitants, mais trois cent mille habitants.",
+      "! Exception de sens : le nom « mille » qui désigne une mesure de distance (le mille marin) prend un « s » : naviguer sur vingt milles.",
+      "Traits d'union, orthographe traditionnelle : on en met entre deux éléments inférieurs à cent, sauf s'ils sont unis par « et » : soixante-dix-sept, cent trente-cinq, mais soixante et onze. Les rectifications de 1990, publiées au Journal officiel français du 6 décembre 1990, permettent de relier tous les éléments par des traits d'union : cent-trente-cinq, soixante-et-onze. Les deux graphies sont admises ; restez cohérent dans une même copie.",
+      "~ Exemple résolu : écrire 2 080 en lettres. « Mille » est invariable : deux mille. « Vingt » est multiplié par quatre et termine le nombre : quatre-vingts. Résultat traditionnel : deux mille quatre-vingts ; selon 1990 : deux-mille-quatre-vingts.",
+      "? Écrivez en lettres, en orthographe traditionnelle, le budget de 300 200 000 francs. || Trois cents millions deux cent mille francs. « Cent » devant « millions » (un nom) garde son « s » ; « deux cent » devant « mille » (un déterminant) reste invariable ; « mille » ne varie jamais.",
+      "## Notion 3 : « tout », adjectif, pronom ou adverbe",
+      "Adjectif : devant un déterminant et un nom, « tout » s'accorde : toute la semaine, tous les districts. Pronom : employé seul, il s'accorde avec ce qu'il représente : « Les dossiers ? Ils sont tous complets. »",
+      "Adverbe : devant un adjectif, un participe ou un adverbe, « tout » signifie « entièrement, tout à fait » ou « très ». Il est en principe invariable : ils sont tout émus, elle habite tout près.",
+      "Exception à connaître : devant un adjectif féminin qui commence par une consonne ou un h aspiré, l'adverbe « tout » s'accorde en genre et en nombre : les infirmières étaient toutes fatiguées. L'Académie française formulait déjà cette règle en 1704.",
+      "Pourquoi ? On fait entendre le « t » devant une consonne ; devant une voyelle, la liaison suffit : elle est tout étonnée.",
+      "> Pour retenir : « Consonne, tout se colle au féminin ; voyelle, tout reste masculin. »",
+      "! Piège : le h aspiré se reconnaît à l'absence d'élision. On dit « la hâte », pas « l'hâte » : toute hâtive. On dit « l'habileté » : h muet, donc tout habile.",
+      "~ Exemple résolu : « Les deux sages-femmes sont ___ contentes, et la cheffe de service est ___ émue. » « Contentes » est féminin et commence par une consonne : toutes contentes. « Émue » commence par une voyelle : tout émue.",
+      "? Complétez : « Ces nattes sont ___ en raphia ; la vendeuse, ___ joyeuse, les a ___ vendues. » || Tout en raphia : devant « en » suivi d'un nom, « tout » signifie « entièrement » et reste en principe invariable. Toute joyeuse : adverbe devant un adjectif féminin à consonne initiale, il s'accorde. Toutes vendues : pronom représentant « les nattes », il s'accorde au féminin pluriel.",
+      "## Notion 4 : « quelque » et « quel que »",
+      "Déterminant : devant un nom, « quelques » signifie « plusieurs, un petit nombre de » et s'accorde : quelques jours. Au singulier, il signifie « un certain » : depuis quelque temps. Après un nombre, « et quelques » est toujours au pluriel : trois cents et quelques francs.",
+      "Adverbe : devant un nombre, il signifie « environ » et reste invariable : quelque quatre cents planteurs.",
+      "« Quel que » en deux mots se place devant « être », un verbe comme « paraître » ou « sembler », « pouvoir » ou « devoir » au subjonctif, ou un pronom personnel. « Quel » s'accorde avec le sujet : quelles que puissent être vos réserves.",
+      "> Pour retenir : « Devant un verbe, je coupe en deux ; devant un nom ou un nombre, je laisse attaché. »",
+      "? Corrigez si nécessaire : « Quelque soient les résultats, quelques trois mille élèves passeront l'examen. » || Quels que soient les résultats : devant « être », on écrit en deux mots, et « quel » s'accorde avec « les résultats » (masculin pluriel). Quelque trois mille élèves : devant un nombre, « quelque » signifie « environ » et reste invariable.",
+      "## Notion 5 : « même » et « demi »",
+      "« Même » adjectif s'accorde quand il signifie « identique » (les mêmes horaires) ou quand il renforce un pronom, avec un trait d'union (elles-mêmes). Il est adverbe, donc invariable, quand il signifie « aussi, jusqu'à » : même les marchandes ont voté.",
+      "« Demi » devant le nom est invariable et suivi d'un trait d'union : deux demi-journées. Après le nom, joint par « et », il s'accorde en genre seulement : trois heures et demie. « À demi » est invariable ; il prend un trait d'union devant un nom (à demi-mot) mais pas devant un adjectif (à demi rassurés).",
+      "~ Exemple résolu : « Les élèves ont attendu deux heures et ___. » « Heure » est féminin : et demie, au singulier, car « demi » ne prend jamais le pluriel du nom qui précède."
+     ],
+     "retenir": [
+      "Vingt et cent prennent un « s » s'ils sont multipliés et terminent le nombre : six cents, mais six cent douze.",
+      "Vingt et cent restent invariables quand ils indiquent un rang : page quatre-vingt, page trois cent.",
+      "Mille est invariable ; millier, million et milliard sont des noms : trois cents millions, trois cent mille.",
+      "Tout adverbe est invariable, sauf devant un adjectif féminin à consonne ou h aspiré : toutes contentes, tout émue.",
+      "Quelque devant un nombre signifie « environ » et reste invariable ; devant un nom, « quelques » signifie « plusieurs ».",
+      "Devant être, pouvoir ou devoir au subjonctif, on écrit quel que en deux mots, accordé avec le sujet.",
+      "Même est invariable quand il signifie « aussi, jusqu'à » ; il s'accorde quand il signifie « identique » ou suit un pronom.",
+      "Demi est invariable devant le nom (une demi-heure) et s'accorde en genre seulement après (deux heures et demie)."
+     ],
+     "exo": {
+      "tag": "niv-fr10",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "OQLF, Vitrine linguistique : pluriel de vingt, de cent et de mille",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21532/la-grammaire/les-determinants/determinants-numeraux/pluriel-de-vingt-de-cent-et-de-mille"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique : écriture des déterminants numéraux",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/23494/la-typographie/nombres/ecriture-des-determinants-numeraux"
+      },
+      {
+       "t": "Académie française, Questions de langue : nombres (écriture, accord)",
+       "u": "https://dictionnaire-academie.fr/article/QDL057"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique : tout employé comme adverbe",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22907/la-grammaire/ladverbe/tout-employe-comme-adverbe"
+      },
+      {
+       "t": "Académie française, Questions de langue : « Tout étonnée, mais toute surprise »",
+       "u": "https://dictionnaire-academie.fr/article/QDL088"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique : les homophones quelque et quel que",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21570/la-grammaire/les-homophones-grammaticaux/les-homophones-quelque-et-quel-que"
+      },
+      {
+       "t": "OQLF, Vitrine linguistique : emploi de demi selon sa classe de mots",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21752/la-grammaire/ladjectif/accord-de-ladjectif/cas-particuliers-daccord-de-ladjectif/emploi-adjectival-et-adverbial-de-demi"
       }
      ]
     }
