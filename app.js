@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "v25 du 21/11/2026";
+const APP_VERSION = "v26 du 27/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -1529,7 +1529,7 @@ function toast(msg){ const t=$("#toast"); t.textContent=msg; t.hidden=false; cle
 const TRACKS = Object.fromEntries(PROGRAMME.map(t=>[t.k,t]));
 const LEVELS = []; const LVMAP = {};
 PROGRAMME.forEach(t=>t.levels.forEach((L,i)=>{ const lv={id:L[0],t:L[1],obj:L[2],lesson:L[3]||null,track:t.k,idx:i,last:i===t.levels.length-1}; LEVELS.push(lv); LVMAP[lv.id]=lv; }));
-const SLOT_KINDS = { blanc:{court:"Présélection blanche", label:"Présélection blanche (45 questions, 45 min)"}, revision:{court:"Rattrapages et révision", label:"Rattrapages, puis révision des erreurs"}, ecrit:{court:"Écrit en conditions", label:"Copie complète en conditions d'examen"}, "rot-ecrit":{court:"Matières écrites (en alternance)", label:"Une matière écrite par semaine, à tour de rôle"} };
+const SLOT_KINDS = { libre:{court:"Séance Cap ENA (1 niveau)", label:"Un niveau : leçon puis évaluation, dans la matière la moins avancée"}, rappel:{court:"Rappel du jour (10 min)", label:"Rappels de mémorisation dus aujourd'hui"}, blanc:{court:"Présélection blanche", label:"Présélection blanche (45 questions, 45 min)"}, revision:{court:"Rattrapages et révision", label:"Rattrapages, puis révision des erreurs"}, ecrit:{court:"Écrit en conditions", label:"Copie complète en conditions d'examen"}, "rot-ecrit":{court:"Matières écrites (en alternance)", label:"Une matière écrite par semaine, à tour de rôle"} };
 const kindLabel = (k)=> TRACKS[k] ? TRACKS[k].court : (SLOT_KINDS[k] ? SLOT_KINDS[k].court : k);
 const METHOD_LEVEL = {sog:"so02", pes:"pe01", ct:"ct01", dc:"dc02", da:"da02", ns:"ns01", oj:"oj01", denf:"de01", sfp:"sf01", opaj:"op01", pen:"pn01", dciv:"dv01", cmc:"cm01", redac:"rd01", mop:"mp01", dpen:"dp01", ecm:"ec01"};
 const CMAP = Object.fromEntries(CONCOURS.map(c=>[c.id,c]));
@@ -1776,7 +1776,7 @@ function creditSeance(kind){
   if (anticip && anticip !== addDays(today(), 1)) anticip = null;
   const d = anticip || today(); const list = slotsOn(d); const done = state.done[d] || (state.done[d] = []);
   let s = list.find(x=>x.k===kind && !done.includes(x.id));
-  if (!s && kind !== "blanc" && kind !== "ecrit" && kind !== "oral") s = list.find(x=>x.k==="revision" && !done.includes(x.id));
+  if (!s && kind !== "blanc" && kind !== "ecrit" && kind !== "oral" && kind !== "rappel") s = list.find(x=>x.k==="libre" && !done.includes(x.id)) || list.find(x=>x.k==="revision" && !done.includes(x.id));
   if (s){ done.push(s.id); save(); toast("Séance « " + slotLabel(s) + " » validée pour " + (anticip ? "demain (" + frDate(d) + ")" : "aujourd'hui") + "."); if (anticip && list.every(x=>done.includes(x.id))) anticip = null; return true; }
   return false;
 }
@@ -1789,6 +1789,7 @@ function processMissed(){
   if (parseYmd(d) < parseYmd(addDays(y, -60))) d = addDays(y, -60);
   let lost = 0, n = 0;
   while (parseYmd(d) <= parseYmd(y)){
+    if (modeHebdo()){ d = addDays(d, 1); continue; }
     for (const s of slotsOn(d)){
       if (slotDone(d, s)) continue;
       const id = d + "_" + s.id;
@@ -1801,6 +1802,7 @@ function processMissed(){
     d = addDays(d, 1);
   }
   state.lastProc = y;
+  bilanSemaines();
   // rattrapages expirés
   for (const m of state.missed) if (m.st==="due" && parseYmd(m.limit) < parseYmd(today())) m.st = "perdu";
   save();
@@ -1838,7 +1840,7 @@ function indice(){
   // assiduité sur 28 jours (0 tant qu'aucune séance n'était prévue)
   let due = 0, ok = 0;
   for (let i=1;i<=28;i++){ const d = addDays(today(), -i); if (parseYmd(d) < parseYmd(state.created)) break; for (const s of slotsOn(d)){ due++; const m = state.missed.find(x=>x.id===d+"_"+s.id); if (slotDone(d,s) || (m && m.st==="ok")) ok++; } }
-  const assiduite = due ? ok/due : 0;
+  const assiduite = modeHebdo() ? assiduiteHebdo() : (due ? ok/due : 0);
   const dos = dossierProgress();
   const parts = {couverture: Math.round(couverture*40), maitrise: Math.round(qualite*20), assiduite: Math.round(assiduite*25), dossier: Math.round(dos.pct/100*15)};
   return {total: parts.couverture+parts.maitrise+parts.assiduite+parts.dossier, parts, due, ok};
@@ -1900,7 +1902,7 @@ function gradeRappel(q){
   q.rappel = res;
   const okN = res.filter(x=>x.pass).length;
   addXP(okN*5);
-  if (q.track) creditSeance(q.track); else creditSeance("revision");
+  if (!creditSeance("rappel")){ if (q.track) creditSeance(q.track); else creditSeance("revision"); }
 }
 // un niveau à réapprendre est de nouveau réussi (évaluation à 14/20 après relecture)
 function relearnDone(id){
@@ -2863,6 +2865,7 @@ function peutAnticiper(){
   return slotsOn(dm).some(s=>!slotDone(dm, s));
 }
 function anticipCard(){
+  if (modeHebdo()) return null;
   const dm = addDays(today(), 1), l = slotsOn(dm);
   if (!l.length || !(peutAnticiper() || l.some(s=>slotDone(dm, s)))) return null;
   const reste = l.filter(s=>!slotDone(dm, s));
@@ -2909,7 +2912,7 @@ function checkEtape(){
   const premiere = state.etapeVue === undefined;
   if (state.onboarded){ processMissed(); state.planning = buildPlanning(); }
   if (e || !premiere) etapeNotice = {e, premiere};
-  state.etapeVue = id; save();
+  state.etapeVue = id; state.agendaAJour = false; save();
 }
 function etapeCard(){
   const e = etapeCourante(); if (!e) return null;
@@ -2923,6 +2926,111 @@ function etapeCard(){
     h("p",{class:"small"}, "Matières travaillées : " + mats + ". Séances, rappels de mémorisation et leçons spéciales portent sur ces matières ; l'analyse du jour continue."),
     h("p",{class:"muted small"}, (e.date.officiel ? "Date officielle : " : "Date estimée d'après la session 2026 (" + ECHEANCES[e.fin].ref + ") : ") + frDate(e.date.d) + "." + (suiv ? " Dès le lendemain, la préparation passera " + suiv.a + "." : "") + (e.date.officiel ? "" : " À vérifier dans le communiqué officiel.")),
     n ? h("button",{class:"btn",type:"button",onclick:()=>{ etapeNotice = null; render(); }},"J'ai compris") : null);
+}
+
+// ---------- Rythme « objectif hebdomadaire » (v26) ----------
+// Pour qui ne peut pas tenir des horaires fixes : un nombre de niveaux à valider chaque semaine (lundi au dimanche),
+// faits quand on peut. Les séances de l'agenda deviennent des suggestions, sans pénalité ; seul l'objectif
+// manqué à la fin de la semaine retire des points. Le rappel du jour (10 min) reste le geste quotidien.
+const modeHebdo = ()=> state.rythme === "hebdo";
+const cibleHebdo = ()=> Math.max(1, Math.min(20, parseInt(state.cibleHebdo, 10) || 7));
+function lundiDe(d){ const x = parseYmd(d); const k = (x.getDay() + 6) % 7; return addDays(d, -k); }
+function niveauxValides(du, au){ return LEVELS.filter(lv=>{ const o = lvState(lv.id).ok; return o && o >= du && o <= au; }).length; }
+function semaineCourante(){ const l = lundiDe(today()); return {lundi:l, dimanche:addDays(l, 6), fait:niveauxValides(l, today()), cible:cibleHebdo()}; }
+function restantsEtape(){ return LEVELS.filter(lv=>focusTracks().includes(lv.track) && !isValid(lv.id)).length; }
+// Rythme réel : moyenne des 4 dernières semaines complètes depuis l'adoption du mode (à défaut, l'objectif)
+function rythmeReel(){
+  const l = lundiDe(today()), depuis = state.rythmeDepuis || l, out = [];
+  for (let i=1;i<=4;i++){ const a = addDays(l, -7*i); if (a < depuis) break; out.push(niveauxValides(a, addDays(a, 6))); }
+  return out.length ? out.reduce((s,x)=>s+x,0)/out.length : null;
+}
+function projectionFin(){
+  const r = rythmeReel(), base = r || cibleHebdo(), n = restantsEtape();
+  if (!n) return {n, date:null, r};
+  return {n, r, date: addDays(today(), Math.ceil(n / Math.max(base, 0.5) * 7))};
+}
+// Bilan des semaines écoulées : objectif manqué = 30 XP retirés par niveau manquant (enregistré une seule fois)
+function bilanSemaines(){
+  if (!modeHebdo()) return;
+  state.semaines = state.semaines || {};
+  const cur = lundiDe(today());
+  const dep = state.rythmeDepuis || cur;
+  let l = lundiDe(dep) === dep ? dep : addDays(lundiDe(dep), 7);
+  for (let i=0;i<60 && l < cur;i++){
+    if (!state.semaines[l]){
+      const fait = niveauxValides(l, addDays(l, 6)), cible = cibleHebdo(), manque = Math.max(0, cible - fait);
+      const before = state.xp; if (manque) addXP(-30 * manque);
+      state.semaines[l] = {fait, cible, xp: state.xp - before};
+    }
+    l = addDays(l, 7);
+  }
+}
+function assiduiteHebdo(){
+  const ws = Object.entries(state.semaines || {}).sort((a,b)=>a[0]<b[0]?1:-1).slice(0, 4).map(x=>x[1]);
+  if (!ws.length){ const s = semaineCourante(); return Math.min(1, s.fait / s.cible); }
+  return ws.reduce((a,w)=>a + Math.min(1, w.fait / w.cible), 0) / ws.length;
+}
+// Séances suggérées (agenda du téléphone) : 4 soirs, samedi, dimanche, et le rappel quotidien de 10 minutes
+const PLANNING_HEBDO = [
+  {id:"h-rap", jour:-1, debut:"12:45", fin:"12:55", k:"rappel"},
+  {id:"h-lun", jour:1, debut:"20:30", fin:"21:15", k:"libre"},
+  {id:"h-mar", jour:2, debut:"20:30", fin:"21:15", k:"libre"},
+  {id:"h-mer", jour:3, debut:"20:30", fin:"21:15", k:"libre"},
+  {id:"h-jeu", jour:4, debut:"20:30", fin:"21:15", k:"libre"},
+  {id:"h-sam", jour:6, debut:"10:00", fin:"11:30", k:"libre"},
+  {id:"h-dim", jour:0, debut:"10:00", fin:"11:30", k:"libre"}
+];
+function planningHebdo(){ return PLANNING_HEBDO.flatMap(s=> s.jour === -1 ? [0,1,2,3,4,5,6].map(j=>Object.assign({}, s, {id:"h-rap"+j, jour:j})) : [Object.assign({}, s)]); }
+// Séance libre : la matière de l'étape la moins avancée (à égalité, l'ordre du programme)
+function matiereMoinsAvancee(){
+  const ks = focusTracks().filter(k=>currentLevel(k));
+  if (!ks.length) return null;
+  const pct = (k)=>{ const t = TRACKS[k]; const v = t.levels.filter(L=>isValid(L[0])).length; return v / t.levels.length; };
+  return ks.slice().sort((a,b)=>pct(a)-pct(b))[0];
+}
+function lancerLibre(){ const k = matiereMoinsAvancee(); if (!k) return toast("Toutes les leçons de l'étape sont faites : passez aux révisions (présélection blanche, leçons spéciales)."); openTrackSession(k); }
+function lancerRappel(){ startRappel(null); }
+function hebdoCard(){
+  if (!modeHebdo()) return null;
+  const s = semaineCourante(), pr = projectionFin();
+  const jours = Math.round((parseYmd(s.dimanche) - parseYmd(today()))/86400000) + 1;
+  const reste = Math.max(0, s.cible - s.fait);
+  const et = etapeCourante();
+  const enRetard = pr.date && et && et.id === "presel" && pr.date > "2027-02-28";
+  return card("feature stack tight",
+    h("div",{class:"row spread"}, h("h2",null,"Objectif de la semaine"), h("b",{class:"big-n"}, s.fait + " / " + s.cible)),
+    bar(Math.min(100, s.fait / s.cible * 100), reste > 0 && jours <= 2),
+    (()=>{ const dep = state.rythmeDepuis || today(); const essai = lundiDe(dep) !== dep && lundiDe(today()) === lundiDe(dep);
+      return h("p",{class:"small"}, essai ? "Semaine de démarrage, non comptée : l'objectif s'applique à partir du lundi " + frDate(addDays(lundiDe(dep), 7)) + ". Profitez-en pour prendre le rythme."
+        : reste ? (reste + " niveau" + (reste>1?"x":"") + " à valider d'ici dimanche soir (" + jours + " jour" + (jours>1?"s":"") + "), quand vous voulez. Les horaires de l'agenda sont des suggestions.") : "Objectif atteint pour cette semaine. Vous pouvez avancer davantage ou réviser."); })(),
+    pr.n ? h("p",{class:"muted small"}, pr.n + " niveau" + (pr.n>1?"x":"") + " restant" + (pr.n>1?"s":"") + " pour l'étape en cours. " + (pr.r != null ? "À votre rythme réel (" + (Math.round(pr.r*10)/10) + " par semaine)" : "À " + s.cible + " par semaine") + ", fin des leçons vers le " + frDate(pr.date) + ".") : h("p",{class:"muted small"},"Toutes les leçons de l'étape sont faites : place aux révisions générales."),
+    enRetard ? h("p",{class:"small bad"},"À ce rythme, les leçons finiraient après le 28 février : augmentez l'objectif dans Profil, ou ajoutez un niveau le week-end.") : null,
+    h("div",{class:"row"},
+      h("button",{class:"btn primary",type:"button",onclick:lancerLibre},"Faire un niveau maintenant"),
+      h("button",{class:"btn",type:"button",onclick:lancerRappel},"Rappel du jour (10 min)")));
+}
+let rythmeNotice = false;
+function rythmeNoticeCard(){
+  if (!rythmeNotice) return null;
+  return card("stack tight soft",
+    h("h2",null,"Nouveau rythme : objectif hebdomadaire"),
+    h("p",{class:"small"},"Plus d'horaires imposés : validez " + cibleHebdo() + " niveaux par semaine, quand vous pouvez. Les séances manquées ne retirent plus de points ; seul un objectif de semaine manqué en retire (30 XP par niveau manquant). Faites au minimum le rappel du jour, même les jours chargés."),
+    h("p",{class:"small"},"Mettez à jour l'agenda de votre téléphone : bouton « Mettre à jour l'agenda » ci-dessus (ou Profil > Modifier mes horaires). Vous pouvez changer l'objectif ou revenir aux horaires fixes dans le Profil."),
+    h("button",{class:"btn",type:"button",onclick:()=>{ rythmeNotice = false; render(); }},"J'ai compris"));
+}
+function activerRythmeV1(){
+  if (state.rythmeV1 || !state.onboarded) return;
+  state.rythmeV1 = today(); state.cibleHebdo = state.cibleHebdo || 7;
+  choisirRythme(true); rythmeNotice = true;
+}
+function choisirRythme(hebdo){
+  processMissed();
+  state.rythme = hebdo ? "hebdo" : "horaires";
+  if (hebdo && !state.rythmeDepuis) state.rythmeDepuis = today();
+  if (hebdo) state.semaines = state.semaines || {};
+  state.planning = buildPlanning();
+  state.agendaAJour = false;
+  save();
 }
 
 // ---------- Rendu ----------
@@ -2975,10 +3083,12 @@ function blocks(arr){
 }
 const bar = (pct, warn)=>h("div",{class:"bar"+(warn?" o":"")}, h("i",{style:"width:"+Math.max(0,Math.min(100,pct))+"%"}));
 const trackOrder = ()=>{ const act = focusTracks(); const seen = []; for (const d of [1,2,3,4,5,6,0]) for (const s of state.planning.filter(x=>x.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut))) { for (const k of (s.k===ROT ? rotTracks() : [s.k])) if (TRACKS[k] && act.includes(k) && !seen.includes(k)) seen.push(k); } for (const t of PROGRAMME) if (act.includes(t.k) && !seen.includes(t.k)) seen.push(t.k); return seen; };
-const slotless = ()=>{ const inPlan = new Set(state.planning.flatMap(s=>s.k===ROT ? focusTracks().filter(isEcritTrack) : [s.k])); return focusTracks().filter(k=>!inPlan.has(k)); };
+const slotless = ()=>{ if (modeHebdo()) return []; const inPlan = new Set(state.planning.flatMap(s=>s.k===ROT ? focusTracks().filter(isEcritTrack) : [s.k])); return focusTracks().filter(k=>!inPlan.has(k)); };
 
 // ---------- Démarrer une séance ----------
 function runSlot(s){
+  if (s.k === "libre") return lancerLibre();
+  if (s.k === "rappel") return lancerRappel();
   if (TRACKS[s.k]) return openTrackSession(s.k);
   if (s.k === "blanc") return startBlanc();
   if (s.k === "revision") return go("rattrapages");
@@ -3029,7 +3139,7 @@ function startErreurs(lu){
 
 // ---------- Aujourd'hui ----------
 function vHome(){
-  anticip = null; checkEtape(); retirerHorsEtape();
+  anticip = null; checkEtape(); activerRythmeV1(); retirerHorsEtape();
   const td = today(), slots = slotsOn(td), m = nowMin();
   const ind = indice(), due = dueMissed(), nv = grade(ind);
   const hr = new Date().getHours();
@@ -3040,9 +3150,12 @@ function vHome(){
     card("feature stack",
       h("div",{class:"row spread"}, h("div",null, h("p",{class:"lbl"},"Indice de préparation"), h("b",{class:"big-n"}, ind.total + " / 100")), h("div",{class:"right"}, h("p",{class:"lbl"},"Grade"), h("b",null, nv.cur[1]))),
       bar(ind.total, ind.total<40),
-      h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. Chaque séance manquée fait baisser l'assiduité et retire des points.")),
+      h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. " + (modeHebdo() ? "L'assiduité suit l'atteinte de l'objectif hebdomadaire (4 dernières semaines)." : "Chaque séance manquée fait baisser l'assiduité et retire des points."))),
     clockBack() ? card("stack warnc", h("h2",null,"Date du téléphone incorrecte"), h("p",{class:"small"},"La date du téléphone (" + frDate(today()) + ") est antérieure à votre dernière utilisation (" + frDate(state.maxDate) + "). Tant qu'elle n'est pas corrigée, aucune séance n'est comptée. Réglez la date et l'heure automatiques dans les paramètres du téléphone.")) : null,
+    rythmeNoticeCard(),
+    agendaBanner(),
     annNoticeCard(),
+    hebdoCard(),
     etapeCard(),
     analyseCard(),
     memCard(),
@@ -3063,13 +3176,13 @@ function vHome(){
       h("div",{class:"row spread"}, h("h2",null,"Emploi du temps du jour"), h("button",{class:"link",type:"button",onclick:()=>go("semaine")},"Ma semaine")),
       slots.length ? h("div",{class:"list"}, slots.map(s=>{
         const done = slotDone(td, s), cur = m>=toMin(s.debut) && m<toMin(s.fin), past = m>=toMin(s.fin);
-        const st = done ? ["Fait","ok"] : cur ? ["En cours","cur"] : past ? ["À faire avant minuit","late"] : ["À venir",""];
+        const st = done ? ["Fait","ok"] : cur ? ["En cours","cur"] : past ? (modeHebdo() ? ["Suggestion, sans pénalité",""] : ["À faire avant minuit","late"]) : [modeHebdo() ? "Suggéré" : "À venir",""];
         return h("div",{class:"slotrow"+(cur?" now":"")},
           h("div",{class:"tcol"}, h("time",null, s.debut), h("small",null, s.fin)),
           h("div",{class:"grow"}, h("b",null, slotLabel(s)), h("span",{class:"muted small block"}, slotDetail(s)), h("span",{class:"pill "+st[1]}, st[0])),
           done ? null : h("button",{class: "btn small " + (cur||past ? "primary" : ""),type:"button",onclick:()=>runSlot(s)}, cur ? "Commencer" : "Faire"));
       })) : h("p",{class:"muted"},"Aucune séance prévue aujourd'hui. Vous pouvez avancer dans le parcours ou faire vos rattrapages."),
-      h("p",{class:"note"},"Une séance est validée quand l'évaluation (ou la copie) de sa matière est terminée le jour même. Une séance non faite à minuit retire 2 XP par minute prévue ; elle se rattrape dans les 14 jours.")),
+      h("p",{class:"note"}, modeHebdo() ? "Rythme hebdomadaire : ces horaires sont des suggestions, synchronisées avec l'agenda du téléphone. Seul compte l'objectif de niveaux de la semaine." : "Une séance est validée quand l'évaluation (ou la copie) de sa matière est terminée le jour même. Une séance non faite à minuit retire 2 XP par minute prévue ; elle se rattrape dans les 14 jours.")),
     anticipCard(),
     card("stack",
       h("div",{class:"row spread"}, h("h2",null,"Mon dossier de candidature"), h("b",null, dp.ok + "/" + dp.total)),
@@ -3657,7 +3770,13 @@ function vProfil(){
     securityCard(),
     card("stack",
       h("h2",null,"Emploi du temps et rappels"),
-      h("p",{class:"muted small"}, state.planning.length + " séances par semaine, " + Math.round(state.planning.reduce((a,s)=>a+slotMin(s),0)/60*10)/10 + " h au total."),
+      h("div",{class:"stack tight"},
+        h("label",{class:"chk"}, h("input",{type:"radio",name:"rythme",checked:modeHebdo()||null,onchange:()=>{ choisirRythme(true); toast("Rythme hebdomadaire : mettez à jour l'agenda du téléphone."); render(); }}),
+          h("span",null,"Objectif hebdomadaire (recommandé si vos horaires de travail varient)", h("span",{class:"muted small block"},"Un nombre de niveaux à valider chaque semaine, quand vous pouvez ; seul l'objectif manqué retire des points."))),
+        modeHebdo() ? h("label",{class:"field"}, h("span",{class:"lbl"},"Niveaux à valider par semaine"), h("input",{type:"number",min:"1",max:"20",value:String(cibleHebdo()),onchange:(ev)=>{ state.cibleHebdo = Math.max(1, Math.min(20, parseInt(ev.target.value,10)||7)); save(); render(); }})) : null,
+        h("label",{class:"chk"}, h("input",{type:"radio",name:"rythme",checked:!modeHebdo()||null,onchange:()=>{ choisirRythme(false); toast("Horaires fixes : mettez à jour l'agenda du téléphone."); render(); }}),
+          h("span",null,"Horaires fixes", h("span",{class:"muted small block"},"Chaque séance prévue et non faite retire des points et se rattrape.")))),
+      h("p",{class:"muted small"}, state.planning.length + " séances " + (modeHebdo() ? "suggérées" : "") + " par semaine, " + Math.round(state.planning.reduce((a,s)=>a+slotMin(s),0)/60*10)/10 + " h au total."),
       h("div",{class:"row"}, h("button",{class:"btn primary",type:"button",onclick:()=>go("planning")},"Modifier mes horaires"), h("button",{class:"btn",type:"button",onclick:()=>go("semaine")},"Voir ma semaine")),
       (()=>{ const c = concoursById(state.concoursPrin); if (!c || c.org !== "ENA") return null;
         return h("label",{class:"chk"}, h("input",{type:"checkbox",checked:state.parEtapes !== false || null,onchange:(ev)=>{ state.parEtapes = ev.target.checked; save(); checkEtape(); render(); toast(ev.target.checked ? "Préparation par étape activée : emploi du temps adapté." : "Préparation de toutes les épreuves à la fois : emploi du temps adapté."); }}),
@@ -3704,7 +3823,7 @@ function download(name, text, type){ const a = document.createElement("a"); a.hr
 
 // ---------- Emploi du temps modifiable ----------
 let planDraft = null;
-const KIND_OPTIONS = ()=>[...PROGRAMME.map(t=>[t.k, t.court]), ["blanc","Présélection blanche"], ["revision","Rattrapages et révision"], ["ecrit","Écrit en conditions"], ["rot-ecrit","Matières écrites (une par semaine, en alternance)"]];
+const KIND_OPTIONS = ()=>[["libre","Séance Cap ENA (1 niveau)"], ["rappel","Rappel du jour (10 min)"], ...PROGRAMME.map(t=>[t.k, t.court]), ["blanc","Présélection blanche"], ["revision","Rattrapages et révision"], ["ecrit","Écrit en conditions"], ["rot-ecrit","Matières écrites (une par semaine, en alternance)"]];
 function vPlanning(){
   if (!planDraft) planDraft = state.planning.map(s=>Object.assign({},s));
   const rows = [1,2,3,4,5,6,0].flatMap(d=>planDraft.filter(s=>s.jour===d).sort((a,b)=>toMin(a.debut)-toMin(b.debut)));
@@ -3721,7 +3840,7 @@ function vPlanning(){
     h("div",{class:"row"},
       h("button",{class:"btn primary",type:"button",onclick:savePlanning},"Enregistrer"),
       h("button",{class:"btn ghost",type:"button",onclick:()=>{ planDraft = null; go("profil"); }},"Annuler"),
-      h("button",{class:"btn ghost",type:"button",onclick:()=>{ planDraft = DEFAULT_PLANNING.map(s=>Object.assign({},s)); render(); }},"Revenir aux horaires d'origine")),
+      h("button",{class:"btn ghost",type:"button",onclick:()=>{ planDraft = (modeHebdo() ? planningHebdo() : DEFAULT_PLANNING).map(s=>Object.assign({},s)); render(); }},"Revenir aux horaires d'origine")),
     remindersCard()
   );
 }
@@ -3737,37 +3856,84 @@ function savePlanning(){
   processMissed();   // les jours passés sont comptés avec l'ancien emploi du temps
   // un créneau d'aujourd'hui déjà fait reste fait
   state.planning = planDraft.map(s=>Object.assign({},s)); planDraft = null; save();
-  toast("Emploi du temps enregistré. Mettez à jour vos rappels.");
+  state.agendaAJour = false; save();
+  toast("Emploi du temps enregistré. Mettez à jour l'agenda du téléphone.");
   go("planning");
 }
 
 // ---------- Rappels (notifications du téléphone avec sonnerie, via l'agenda) ----------
 const DAYCODE = ["SU","MO","TU","WE","TH","FR","SA"];
 function nextDate(jour){ const d = new Date(); for (let i=0;i<8;i++){ if (d.getDay()===jour) break; d.setDate(d.getDate()+1); } return d; }
-function gcalLink(s){
+function agendaItems(){
+  const rap = state.planning.filter(s=>s.k==="rappel");
+  const autres = state.planning.filter(s=>s.k!=="rappel").map(s=>({s, daily:false}));
+  const memeHeure = rap.length === 7 && rap.every(x=>x.debut===rap[0].debut && x.fin===rap[0].fin);
+  const r = memeHeure ? [{s:Object.assign({}, rap[0], {id:"h-rap", jour:new Date().getDay()}), daily:true}] : rap.map(s=>({s, daily:false}));
+  return r.concat(autres).sort((a,b)=>(a.daily?-1:0)-(b.daily?-1:0) || ((a.s.jour+6)%7)-((b.s.jour+6)%7) || toMin(a.s.debut)-toMin(b.s.debut));
+}
+function gcalLink(s, daily){
   const d = nextDate(s.jour); const ds = d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate());
   const st = ds+"T"+s.debut.replace(":","")+"00", en = ds+"T"+s.fin.replace(":","")+"00";
-  return "https://calendar.google.com/calendar/render?action=TEMPLATE&text=" + encodeURIComponent("Cap ENA · " + slotLabel(s)) + "&details=" + encodeURIComponent("Séance Cap ENA. Ouvrez l'appli : " + location.origin + location.pathname) + "&dates=" + st + "/" + en + "&ctz=Africa/Abidjan&recur=" + encodeURIComponent("RRULE:FREQ=WEEKLY;BYDAY=" + DAYCODE[s.jour]);
+  const desc = (s.k === "rappel" ? "Rappels de mémorisation du jour (10 minutes)." : modeHebdo() ? "Séance suggérée : un niveau (leçon puis évaluation). Objectif : " + cibleHebdo() + " niveaux par semaine." : "Séance Cap ENA.") + " Ouvrez l'appli : " + location.origin + location.pathname;
+  return "https://calendar.google.com/calendar/render?action=TEMPLATE&text=" + encodeURIComponent("Cap ENA - " + slotLabel(s)) + "&details=" + encodeURIComponent(desc) + "&dates=" + st + "/" + en + "&ctz=Africa/Abidjan&recur=" + encodeURIComponent((daily ? "RRULE:FREQ=DAILY" : "RRULE:FREQ=WEEKLY;BYDAY=" + DAYCODE[s.jour]) + ";UNTIL=" + finAgenda());
+}
+function finAgenda(){
+  const et = etapeCourante();
+  const d = et ? et.date.d : addDays(today(), 182);
+  return d.replace(/-/g,"") + "T235959Z";
 }
 function icsText(){
   const stamp = new Date().toISOString().replace(/[-:]/g,"").replace(/\.\d+Z$/,"Z");
-  const L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Cap ENA//FR","CALSCALE:GREGORIAN","X-WR-CALNAME:Cap ENA"];
-  state.planning.forEach(s=>{
+  const seq = (state.icsSeq || 0) + 1;
+  const app = location.origin + location.pathname;
+  const esc = (t)=> String(t).replace(/[\\;,]/g, (c)=>"\\"+c);
+  const L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Cap ENA//FR","CALSCALE:GREGORIAN","METHOD:PUBLISH","X-WR-CALNAME:Cap ENA","X-WR-TIMEZONE:Africa/Abidjan"];
+  const uids = [];
+  agendaItems().forEach(({s, daily})=>{
     const d = nextDate(s.jour); const ds = d.getFullYear()+pad(d.getMonth()+1)+pad(d.getDate());
-    L.push("BEGIN:VEVENT","UID:capena-"+s.id+"-"+stamp+"@capena","DTSTAMP:"+stamp,"DTSTART;TZID=Africa/Abidjan:"+ds+"T"+s.debut.replace(":","")+"00","DTEND;TZID=Africa/Abidjan:"+ds+"T"+s.fin.replace(":","")+"00","RRULE:FREQ=WEEKLY;BYDAY="+DAYCODE[s.jour],"SUMMARY:Cap ENA - "+slotLabel(s),"DESCRIPTION:Séance Cap ENA","BEGIN:VALARM","ACTION:AUDIO","TRIGGER:-PT10M","END:VALARM","BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:Séance Cap ENA dans 10 minutes","TRIGGER:-PT10M","END:VALARM","END:VEVENT");
+    const uid = "capena-"+s.id+"@capena"; uids.push(uid);
+    const rappel = s.k === "rappel";
+    const desc = (rappel ? "Rappels de mémorisation du jour (10 minutes), même les jours chargés." : modeHebdo() ? "Séance suggérée : un niveau (leçon puis évaluation). Objectif : " + cibleHebdo() + " niveaux par semaine." : "Séance Cap ENA : " + slotDetail(s)) + " Ouvrir l'appli : " + app;
+    L.push("BEGIN:VEVENT","UID:"+uid,"SEQUENCE:"+seq,"DTSTAMP:"+stamp,"DTSTART;TZID=Africa/Abidjan:"+ds+"T"+s.debut.replace(":","")+"00","DTEND;TZID=Africa/Abidjan:"+ds+"T"+s.fin.replace(":","")+"00",
+      (daily ? "RRULE:FREQ=DAILY" : "RRULE:FREQ=WEEKLY;BYDAY="+DAYCODE[s.jour])+";UNTIL="+finAgenda(),"SUMMARY:"+esc("Cap ENA - "+slotLabel(s)),"DESCRIPTION:"+esc(desc),"URL:"+app,"STATUS:CONFIRMED",
+      "BEGIN:VALARM","ACTION:DISPLAY","DESCRIPTION:"+esc("Cap ENA - "+slotLabel(s)),"TRIGGER:"+(rappel ? "PT0M" : "-PT10M"),"END:VALARM","END:VEVENT");
   });
-  L.push("END:VCALENDAR"); return L.join("\r\n");
+  // séances retirées depuis le dernier export : annulées (même identifiant)
+  for (const uid of (state.icsUids || [])) if (!uids.includes(uid))
+    L.push("BEGIN:VEVENT","UID:"+uid,"SEQUENCE:"+seq,"DTSTAMP:"+stamp,"DTSTART;TZID=Africa/Abidjan:"+stamp.slice(0,8)+"T000000","SUMMARY:Cap ENA (séance supprimée)","STATUS:CANCELLED","END:VEVENT");
+  L.push("END:VCALENDAR");
+  return {texte: L.join("\r\n"), seq, uids};
+}
+function exporterAgenda(){
+  const r = icsText();
+  download("cap-ena-agenda.ics", r.texte, "text/calendar");
+  state.icsSeq = r.seq; state.icsUids = r.uids; state.agendaAJour = true; save(); render();
+  toast("Ouvrez le fichier téléchargé avec l'agenda du téléphone pour l'importer.");
+}
+function agendaBanner(){
+  if (state.agendaAJour !== false) return null;
+  return card("warnc stack tight", h("h2",null,"Agenda du téléphone à mettre à jour"),
+    h("p",{class:"small"},"Votre emploi du temps a changé. Mettez à jour l'agenda pour que les rappels sonnent aux bons moments."),
+    h("div",{class:"row"}, h("button",{class:"btn accent",type:"button",onclick:()=>go("planning")},"Mettre à jour l'agenda")));
 }
 function remindersCard(){
+  const et = etapeCourante();
   return card("stack",
-    h("h2",null,"Rappels avec sonnerie"),
-    h("p",null,"Les rappels passent par l'agenda du téléphone : il sonne même appli fermée et sans connexion. Touchez chaque créneau pour l'ajouter à Google Agenda (répétition chaque semaine)."),
+    h("h2",null,"Agenda du téléphone (rappels avec sonnerie)"),
+    h("p",{class:"small"},"Les séances " + (modeHebdo() ? "suggérées " : "") + "et le rappel du jour vont dans l'agenda du téléphone : il sonne même appli fermée et sans connexion. Les événements se répètent chaque semaine" + (et ? " jusqu'à " + et.court + " (" + frDate(et.date.d) + ")" : "") + "."),
+    state.agendaAJour === false ? h("p",{class:"small bad"},"Votre emploi du temps a changé depuis le dernier ajout à l'agenda.") : null,
+    h("h3",null,"Téléphone Android avec Google Agenda"),
     h("ol",{class:"pts small"},
-      h("li",null,"Dans Google Agenda, vérifiez la notification de l'événement (par exemple 10 minutes avant) et modifiez-la si besoin."),
-      h("li",null,"Pour la sonnerie : dans les réglages de notification de l'appli Agenda du téléphone, activez le son des rappels d'événements et choisissez une sonnerie (le chemin exact varie selon la marque du téléphone)."),
-      h("li",null,"Après un changement d'horaires, supprimez les anciens événements « Cap ENA » de l'agenda, puis ajoutez les nouveaux.")),
-    h("div",{class:"list"}, state.planning.slice().sort((a,b)=>((a.jour+6)%7)-((b.jour+6)%7) || toMin(a.debut)-toMin(b.debut)).map(s=>h("a",{class:"item",href:gcalLink(s),target:"_blank",rel:"noopener"}, h("span",{class:"grow"}, h("b",null, slotLabel(s)), h("span",{class:"muted small block"}, JOURS[s.jour] + " · " + s.debut + "–" + s.fin)), h("span",{class:"meta"},"Ajouter")))),
-    h("button",{class:"btn",type:"button",onclick:()=>download("cap-ena-rappels.ics", icsText(), "text/calendar")},"Ou télécharger tous les rappels (.ics)"));
+      h("li",null,"Si des événements « Cap ENA » existent déjà dans l'agenda, supprimez-les d'abord (ouvrez-en un, Supprimer, « Cet événement et les suivants »)."),
+      h("li",null,"Touchez chaque séance ci-dessous, puis Enregistrer dans Google Agenda."),
+      h("li",null,"Touchez « C'est fait » en bas : l'appli saura que l'agenda est à jour.")),
+    h("div",{class:"list"}, agendaItems().map(({s, daily})=>h("a",{class:"item",href:gcalLink(s, daily),target:"_blank",rel:"noopener"}, h("span",{class:"grow"}, h("b",null, slotLabel(s)), h("span",{class:"muted small block"}, (daily ? "Chaque jour" : JOURS[s.jour]) + " · " + s.debut + " à " + s.fin)), h("span",{class:"meta"},"Ajouter")))),
+    h("h3",null,"iPhone, agenda Samsung ou Outlook"),
+    h("p",{class:"small"},"Téléchargez le fichier agenda et ouvrez-le : toutes les séances s'ajoutent d'un coup. Au changement suivant, le nouveau fichier remplace les séances et annule celles qui ont été retirées, dans les agendas qui gèrent ces mises à jour."),
+    h("div",{class:"row"},
+      h("button",{class:"btn",type:"button",onclick:exporterAgenda},"Télécharger le fichier agenda (.ics)"),
+      h("button",{class:"btn primary",type:"button",onclick:()=>{ state.agendaAJour = true; save(); toast("Agenda marqué à jour."); render(); }},"C'est fait")),
+    h("p",{class:"muted small"},"Pour la sonnerie : dans les réglages de notification de l'appli Agenda, activez le son des rappels d'événements (le chemin exact varie selon la marque du téléphone)."));
 }
 
 // ---------- Photo de profil (stockée dans le téléphone uniquement) ----------
@@ -3801,6 +3967,7 @@ function photoCard(){
 
 // ---------- Nouvel emploi du temps (écrits le week-end de 10 h à 12 h), proposé une fois aux utilisateurs existants ----------
 function planV2Card(){
+  if (modeHebdo()) return null;
   if (state.planV2 || !state.onboarded) return null;
   const decide = (apply)=>{
     if (apply){ processMissed(); state.planning = buildPlanning(); toast("Nouvel emploi du temps appliqué. Mettez à jour vos rappels."); }
@@ -3826,6 +3993,7 @@ let onbStep = 0;
 const onbSel = new Set();
 // Emploi du temps de départ : les créneaux types, répartis entre les matières des concours choisis
 function buildPlanning(){
+  if (modeHebdo()) return planningHebdo();
   const et = etapeCourante();
   if (et){
     const f = etapeTracks(et), pool = PROGRAMME.map(t=>t.k).filter(k=>f.includes(k));
