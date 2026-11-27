@@ -47984,6 +47984,1811 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-27",
+   "questions": [
+    {
+     "id": "n20261127-an12-01",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Give the plural of « woman »:",
+     "o": [
+      "womans",
+      "women",
+      "womens",
+      "woman"
+     ],
+     "a": 1,
+     "e": "Woman change sa voyelle au pluriel, comme man → men : woman → women. Ces pluriels anciens ne prennent jamais de -s.",
+     "ed": [
+      "Woman ne prend pas -s : son pluriel se fait par changement de voyelle.",
+      null,
+      "Women est déjà un pluriel : ajouter -s fait une double marque.",
+      "Woman est le singulier ; il ne fait pas partie des noms invariables."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-02",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Give the plural of « goose »:",
+     "o": [
+      "gooses",
+      "goose",
+      "geese",
+      "geeses"
+     ],
+     "a": 2,
+     "e": "Goose fait partie des pluriels par changement de voyelle, comme foot → feet : goose → geese.",
+     "ed": [
+      "Le -s régulier ne s'applique pas à goose : son pluriel change la voyelle.",
+      "Goose n'est pas invariable (contrairement à sheep).",
+      null,
+      "Geese est déjà pluriel : le -s ajouté est une double marque."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-03",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Give the plural of « ox »:",
+     "o": [
+      "oxen",
+      "oxes",
+      "oxs",
+      "oxi"
+     ],
+     "a": 0,
+     "e": "Ox appartient au petit groupe des noms qui prennent -en au pluriel : ox → oxen.",
+     "ed": [
+      null,
+      "Le -es régulier ne s'applique pas à ox : son pluriel est en -en.",
+      "Oxs n'existe pas : ox prend -en.",
+      "La terminaison -i concerne des mots latins en -us (cactus → cacti), pas ox."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-04",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Which noun has the SAME form in the singular and the plural?",
+     "o": [
+      "leaf",
+      "hero",
+      "aircraft",
+      "criterion"
+     ],
+     "a": 2,
+     "e": "Aircraft est invariable : one aircraft, ten aircraft. Les autres noms changent (leaves, heroes, criteria).",
+     "ed": [
+      "Leaf devient leaves au pluriel (-f → -ves).",
+      "Hero devient heroes au pluriel (nom en -o qui prend -es).",
+      null,
+      "Criterion devient criteria au pluriel (mot grec)."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-05",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Give the feminine of « host »:",
+     "o": [
+      "hostine",
+      "hostess",
+      "hostlady",
+      "hosta"
+     ],
+     "a": 1,
+     "e": "Host prend le suffixe féminin -ess, comme actor → actress et waiter → waitress : host → hostess.",
+     "ed": [
+      "Le suffixe -ine ne s'emploie que dans quelques cas comme heroine, pas avec host.",
+      null,
+      "Hostlady n'existe pas ; -lady s'emploie dans landlady.",
+      "Le -a n'est pas un suffixe féminin en anglais."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-06",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "What do you call a person from Spain?",
+     "o": [
+      "a Spanish",
+      "a Spain",
+      "a Spanishman",
+      "a Spaniard"
+     ],
+     "a": 3,
+     "e": "Spanish est l'adjectif ; la personne a un nom spécial : a Spaniard. Les adjectifs en -ish ne servent pas de nom pour un individu.",
+     "ed": [
+      "Spanish est un adjectif : il ne peut pas désigner seul une personne.",
+      "Spain est le nom du pays, pas de l'habitant.",
+      "Spanishman n'existe pas : on dit a Spaniard.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-07",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Which sentence uses the plural of « sheep » correctly?",
+     "o": [
+      "The farmer sold three sheeps at the market.",
+      "The farmer sold three sheep at the market.",
+      "The farmer sold three sheepes at the market.",
+      "The farmer sold three sheepen at the market."
+     ],
+     "a": 1,
+     "e": "Sheep est invariable : one sheep, three sheep. Comme deer et fish, il ne prend aucune marque de pluriel.",
+     "ed": [
+      "Sheeps est une régularisation fautive : sheep est invariable.",
+      null,
+      "Sheepes n'existe pas : sheep ne change pas.",
+      "La terminaison -en ne concerne que quelques noms comme ox → oxen."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-08",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Complete: « Please put the forks and ___ on the table. » (knife)",
+     "o": [
+      "knife",
+      "knifes",
+      "knives",
+      "knivs"
+     ],
+     "a": 2,
+     "e": "Knife se termine par -fe, qui devient -ves au pluriel : knife → knives (comme wife → wives).",
+     "ed": [
+      "Knife est le singulier ; ici il en faut plusieurs (the forks and…).",
+      "Knifes est une régularisation fautive : -fe devient -ves.",
+      null,
+      "Knivs oublie le e de la terminaison -ves."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-09",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Which plural is spelled correctly?",
+     "o": [
+      "roofs",
+      "rooves",
+      "roofes",
+      "roof"
+     ],
+     "a": 0,
+     "e": "Roof est une exception de la famille en -f : il prend simplement -s (roofs), comme proof → proofs.",
+     "ed": [
+      null,
+      "Rooves applique à tort la règle -f → -ves : roof est une exception.",
+      "Roofes ajoute un e inutile : on écrit roofs.",
+      "Roof est le singulier, pas le pluriel."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-10",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Complete: « The cooperative exported tons of ___ last year. » (tomato)",
+     "o": [
+      "tomatos",
+      "tomato",
+      "tomatoe",
+      "tomatoes"
+     ],
+     "a": 3,
+     "e": "Tomato fait partie des noms en -o qui prennent -es au pluriel, comme potato → potatoes et hero → heroes.",
+     "ed": [
+      "Tomatos oublie le e : tomato prend -es.",
+      "Tomato est le singulier ; tons of appelle un pluriel.",
+      "Tomatoe n'est ni un singulier ni un pluriel correct.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-11",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Which plural is WRONG?",
+     "o": [
+      "photos",
+      "pianos",
+      "heroes",
+      "potatos"
+     ],
+     "a": 3,
+     "e": "Potato prend -es : potatoes. Photos et pianos (mots abrégés ou empruntés) prennent seulement -s ; heroes prend -es.",
+     "ed": [
+      "Photos est correct : photo est un mot abrégé (photograph), il prend -s.",
+      "Pianos est correct : mot emprunté qui prend seulement -s.",
+      "Heroes est correct : hero prend -es.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-12",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Complete: « The minister faced two major ___ in the same year. » (crisis)",
+     "o": [
+      "crisis",
+      "crises",
+      "crisises",
+      "crisi"
+     ],
+     "a": 1,
+     "e": "Les noms savants en -is font leur pluriel en -es : crisis → crises (comme analysis → analyses, thesis → theses).",
+     "ed": [
+      "Crisis est le singulier ; two appelle un pluriel.",
+      null,
+      "Crisises ajoute un -es régulier : c'est une double marque.",
+      "Crisi n'existe pas : -is devient -es, pas -i."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-13",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Which sentence uses « criterion / criteria » correctly?",
+     "o": [
+      "This criteria is very strict.",
+      "These criterion are very strict.",
+      "These criteria are very strict.",
+      "This criterias is very strict."
+     ],
+     "a": 2,
+     "e": "Criterion est le singulier, criteria le pluriel : these criteria are. On dirait au singulier this criterion is.",
+     "ed": [
+      "Criteria est pluriel : il ne s'emploie pas avec this et is.",
+      "Criterion est singulier : il ne s'emploie pas avec these et are.",
+      null,
+      "Criterias n'existe pas : criteria est déjà pluriel."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-14",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Give the feminine of « emperor »:",
+     "o": [
+      "emperess",
+      "empress",
+      "emperoress",
+      "emperorine"
+     ],
+     "a": 1,
+     "e": "Emperor prend le suffixe -ess, mais le o disparaît : emperor → empress.",
+     "ed": [
+      "Emperess garde à tort le e de la syllabe -or.",
+      null,
+      "Emperoress ajoute -ess sans supprimer -or : forme inexistante.",
+      "Le suffixe -ine ne s'emploie pas avec emperor (il sert pour heroine)."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-15",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Give the feminine of « hero »:",
+     "o": [
+      "heroin",
+      "heroess",
+      "herone",
+      "heroine"
+     ],
+     "a": 3,
+     "e": "Hero a un féminin particulier en -ine : heroine. Sans e final, heroin désigne une drogue.",
+     "ed": [
+      "Heroin, sans e final, est le nom d'une drogue, pas le féminin de hero.",
+      "Le suffixe -ess ne s'applique pas à hero.",
+      "Herone n'existe pas en anglais.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-16",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Complete: « ___ are famous for their chocolate and their watches. » (Switzerland)",
+     "o": [
+      "The Swiss",
+      "The Swisses",
+      "The Switzers",
+      "Swiss"
+     ],
+     "a": 0,
+     "e": "Swiss est invariable : a Swiss, the Swiss. Pour désigner tout le peuple, on emploie the + Swiss avec un verbe pluriel.",
+     "ed": [
+      null,
+      "Swiss ne prend pas de -s, même au pluriel.",
+      "Switzers n'est pas le nom usuel des Suisses ; on dit the Swiss.",
+      "Sans the, Swiss reste un adjectif : il faut the Swiss pour le peuple."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-17",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Which sentence about two visitors from Portugal is correct?",
+     "o": [
+      "Two Portugueses visited Abidjan.",
+      "Two Portuguese visited Abidjan.",
+      "Two Portuguesemen visited Abidjan.",
+      "Two Portugals visited Abidjan."
+     ],
+     "a": 1,
+     "e": "Les nationalités en -ese ne prennent jamais de -s : the Portuguese, two Portuguese. La majuscule est obligatoire.",
+     "ed": [
+      "Portugueses est fautif : les mots en -ese ne prennent pas de -s.",
+      null,
+      "Portuguesemen n'existe pas : -ese ne se combine pas avec -man ; on dit two Portuguese.",
+      "Portugal est le nom du pays, pas de ses habitants."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-18",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Which pair (adjective / person) is WRONG?",
+     "o": [
+      "Polish / a Pole",
+      "Finnish / a Finn",
+      "Turkish / a Turk",
+      "Swedish / a Swedish"
+     ],
+     "a": 3,
+     "e": "La personne de Suède se dit a Swede ; Swedish est l'adjectif. Pole, Finn et Turk sont bien les noms spéciaux des habitants.",
+     "ed": [
+      "Correct : l'adjectif est Polish, la personne a Pole.",
+      "Correct : l'adjectif est Finnish, la personne a Finn.",
+      "Correct : l'adjectif est Turkish, la personne a Turk.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-19",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Complete: « Many ___ live in the Plateau district. » (Iraq)",
+     "o": [
+      "Iraqi",
+      "Iraqies",
+      "Iraqis",
+      "Iraqese"
+     ],
+     "a": 2,
+     "e": "Iraqi fonctionne comme les noms en -an : il prend -s au pluriel (an Iraqi, the Iraqis), comme Thai → the Thais.",
+     "ed": [
+      "Après many, il faut un pluriel : Iraqi est au singulier.",
+      "Iraqies n'existe pas : on ajoute seulement -s.",
+      null,
+      "La terminaison -ese n'existe pas pour l'Irak."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-an12-20",
+     "m": "ang",
+     "tag": "niv-an12",
+     "q": "Which sentence contains NO mistake?",
+     "o": [
+      "The Frenchs and an Ivorian signed the agreement.",
+      "The Frenches and an Ivorian signed the agreement.",
+      "The French and a Ivorian signed the agreement.",
+      "The French and an Ivorian signed the agreement."
+     ],
+     "a": 3,
+     "e": "The French (sans -s, famille -ch) désigne le peuple ; an Ivorian prend une majuscule et l'article an devant une voyelle.",
+     "ed": [
+      "Frenchs est fautif : le peuple se dit the French.",
+      "Frenches est fautif : the French ne prend jamais de -s.",
+      "Devant le son voyelle de Ivorian, l'article est an, pas a.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261127-cg13-01",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quel titre porte officiellement Berne, siège du gouvernement et du Parlement suisses ?",
+     "o": [
+      "Capitale constitutionnelle",
+      "Ville fédérale",
+      "District fédéral autonome",
+      "Capitale impériale"
+     ],
+     "a": 1,
+     "e": "La Suisse n'a pas de capitale au sens juridique : Berne porte le titre de « ville fédérale », fixé par la loi et non par la Constitution.",
+     "ed": [
+      "La Constitution fédérale suisse ne désigne aucune capitale.",
+      null,
+      "Berne n'est pas un district autonome : c'est une ville qui porte le titre de ville fédérale.",
+      "La Suisse n'est pas un empire ; Berne n'a jamais porté ce titre."
+     ],
+     "src": {
+      "t": "Swissinfo, « Why Switzerland hasn't got a capital city » (29 mars 2025)",
+      "u": "https://www.swissinfo.ch/eng/swiss-oddities/why-switzerland-hasnt-got-a-capital-city/89071876"
+     }
+    },
+    {
+     "id": "n20261127-cg13-02",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "En quelle année les parlementaires de la Suisse, devenue État fédéral, ont-ils choisi Berne comme siège des autorités fédérales ?",
+     "o": [
+      "1648",
+      "1815",
+      "1848",
+      "1919"
+     ],
+     "a": 2,
+     "e": "Le 28 novembre 1848, l'année de naissance de la Suisse moderne comme État fédéral, les parlementaires ont choisi Berne comme siège des autorités.",
+     "ed": [
+      "1648 est deux siècles avant la naissance de l'État fédéral suisse (1848).",
+      "1815 est l'année du congrès de Vienne ; la Suisse n'est pas encore un État fédéral.",
+      null,
+      "En 1919, Berne était déjà ville fédérale depuis plus de soixante-dix ans."
+     ],
+     "src": {
+      "t": "Swissinfo, « Why Switzerland hasn't got a capital city » (29 mars 2025)",
+      "u": "https://www.swissinfo.ch/eng/swiss-oddities/why-switzerland-hasnt-got-a-capital-city/89071876"
+     }
+    },
+    {
+     "id": "n20261127-cg13-03",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Selon la Constitution des Pays-Bas, quelle ville est la capitale du pays ?",
+     "o": [
+      "La Haye",
+      "Rotterdam",
+      "Amsterdam",
+      "Utrecht"
+     ],
+     "a": 2,
+     "e": "La Constitution néerlandaise désigne Amsterdam comme capitale (le roi y est investi) ; La Haye est seulement le siège du gouvernement.",
+     "ed": [
+      "La Haye est le siège du gouvernement et du Parlement, pas la capitale constitutionnelle.",
+      "Rotterdam est un grand port, mais pas la capitale.",
+      null,
+      "Utrecht n'est ni la capitale ni le siège du gouvernement."
+     ],
+     "src": {
+      "t": "Wikipedia, « Capital of the Netherlands »",
+      "u": "https://en.wikipedia.org/wiki/Capital_of_the_Netherlands"
+     }
+    },
+    {
+     "id": "n20261127-cg13-04",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quelle est la capitale de la Slovénie ?",
+     "o": [
+      "Bratislava",
+      "Ljubljana",
+      "Zagreb",
+      "Sarajevo"
+     ],
+     "a": 1,
+     "e": "La capitale de la Slovénie est Ljubljana. Moyen mnémotechnique : les deux noms longs vont ensemble, Slovaquie-Bratislava.",
+     "ed": [
+      "Bratislava est la capitale de la Slovaquie, pays au nom proche.",
+      null,
+      "Zagreb est la capitale de la Croatie.",
+      "Sarajevo est la capitale de la Bosnie-Herzégovine."
+     ],
+     "src": {
+      "t": "Nations Online, « Capital Cities of Europe »",
+      "u": "https://nationsonline.org/oneworld/capitals_europe.htm"
+     }
+    },
+    {
+     "id": "n20261127-cg13-05",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quelle est la capitale de la Slovaquie ?",
+     "o": [
+      "Ljubljana",
+      "Budapest",
+      "Vienne",
+      "Bratislava"
+     ],
+     "a": 3,
+     "e": "La capitale de la Slovaquie est Bratislava, devenue capitale d'un État indépendant après le divorce de velours du 1er janvier 1993.",
+     "ed": [
+      "Ljubljana est la capitale de la Slovénie.",
+      "Budapest est la capitale de la Hongrie.",
+      "Vienne est la capitale de l'Autriche.",
+      null
+     ],
+     "src": {
+      "t": "Nations Online, « Capital Cities of Europe »",
+      "u": "https://nationsonline.org/oneworld/capitals_europe.htm"
+     }
+    },
+    {
+     "id": "n20261127-cg13-06",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quelle ville est la capitale de la Moldavie ?",
+     "o": [
+      "Chisinau",
+      "Bucarest",
+      "Minsk",
+      "Sofia"
+     ],
+     "a": 0,
+     "e": "La capitale de la Moldavie est Chisinau. Bucarest, capitale de la voisine Roumanie, est le distracteur habituel.",
+     "ed": [
+      null,
+      "Bucarest est la capitale de la Roumanie.",
+      "Minsk est la capitale de la Biélorussie.",
+      "Sofia est la capitale de la Bulgarie."
+     ],
+     "src": {
+      "t": "Nations Online, « Capital Cities of Europe »",
+      "u": "https://nationsonline.org/oneworld/capitals_europe.htm"
+     }
+    },
+    {
+     "id": "n20261127-cg13-07",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quelle association pays-capitale est correcte ?",
+     "o": [
+      "Estonie – Vilnius",
+      "Lituanie – Tallinn",
+      "Lettonie – Riga",
+      "Lettonie – Tallinn"
+     ],
+     "a": 2,
+     "e": "Riga est la capitale de la Lettonie. Pays baltes dans l'ordre alphabétique : Estonie-Tallinn, Lettonie-Riga, Lituanie-Vilnius (« T-R-V »).",
+     "ed": [
+      "Vilnius est la capitale de la Lituanie, pas de l'Estonie.",
+      "Tallinn est la capitale de l'Estonie, pas de la Lituanie.",
+      null,
+      "Tallinn est estonienne ; la capitale de la Lettonie est Riga."
+     ],
+     "src": {
+      "t": "Nations Online, « Capital Cities of Europe »",
+      "u": "https://nationsonline.org/oneworld/capitals_europe.htm"
+     }
+    },
+    {
+     "id": "n20261127-cg13-08",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quelle est la capitale de la Macédoine du Nord ?",
+     "o": [
+      "Podgorica",
+      "Skopje",
+      "Tirana",
+      "Belgrade"
+     ],
+     "a": 1,
+     "e": "La capitale de la Macédoine du Nord est Skopje. Podgorica, autre capitale d'un ancien État yougoslave, est celle du Monténégro.",
+     "ed": [
+      "Podgorica est la capitale du Monténégro.",
+      null,
+      "Tirana est la capitale de l'Albanie.",
+      "Belgrade est la capitale de la Serbie."
+     ],
+     "src": {
+      "t": "Nations Online, « Capital Cities of Europe »",
+      "u": "https://nationsonline.org/oneworld/capitals_europe.htm"
+     }
+    },
+    {
+     "id": "n20261127-cg13-09",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Combien l'Europe compte-t-elle de monarchies souveraines en 2026 ?",
+     "o": [
+      "7",
+      "10",
+      "15",
+      "12"
+     ],
+     "a": 3,
+     "e": "L'Europe compte 12 monarchies souveraines : 7 royaumes, 1 grand-duché, 3 principautés et le Vatican (« 7 + 1 + 3 + 1 »).",
+     "ed": [
+      "7 correspond aux seuls royaumes ; il faut ajouter le Luxembourg, les trois principautés et le Vatican.",
+      "10 oublie deux monarchies, par exemple le Vatican et Andorre.",
+      "15 dépasse le compte : il n'y a que 12 monarchies souveraines.",
+      null
+     ],
+     "src": {
+      "t": "Wikipedia, « Monarchies in Europe »",
+      "u": "https://en.wikipedia.org/wiki/Monarchies_in_Europe"
+     }
+    },
+    {
+     "id": "n20261127-cg13-10",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Lequel de ces États européens est une monarchie ?",
+     "o": [
+      "L'Italie",
+      "La Grèce",
+      "La Belgique",
+      "La Suisse"
+     ],
+     "a": 2,
+     "e": "La Belgique est l'un des sept royaumes européens. L'Italie (1946) et la Grèce (1974) sont devenues des républiques par référendum.",
+     "ed": [
+      "L'Italie est une république depuis le référendum du 2 juin 1946.",
+      "La Grèce a choisi la république par le référendum du 8 décembre 1974.",
+      null,
+      "La Suisse est un État fédéral sans monarque ; elle ne figure pas parmi les douze monarchies."
+     ],
+     "src": {
+      "t": "Wikipedia, « Monarchies in Europe »",
+      "u": "https://en.wikipedia.org/wiki/Monarchies_in_Europe"
+     }
+    },
+    {
+     "id": "n20261127-cg13-11",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quel est le régime du Luxembourg ?",
+     "o": [
+      "Un grand-duché",
+      "Une principauté",
+      "Un royaume",
+      "Une république fédérale"
+     ],
+     "a": 0,
+     "e": "Le Luxembourg est le seul grand-duché d'Europe : son chef d'État est un grand-duc, dans une monarchie constitutionnelle.",
+     "ed": [
+      null,
+      "Les trois principautés européennes sont Monaco, le Liechtenstein et Andorre, pas le Luxembourg.",
+      "Le Luxembourg n'est pas un royaume : son souverain est grand-duc, pas roi.",
+      "Le Luxembourg est une monarchie, pas une république."
+     ],
+     "src": {
+      "t": "Wikipedia, « Monarchies in Europe »",
+      "u": "https://en.wikipedia.org/wiki/Monarchies_in_Europe"
+     }
+    },
+    {
+     "id": "n20261127-cg13-12",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Qui sont les deux coprinces, chefs de l'État d'Andorre ?",
+     "o": [
+      "Le roi d'Espagne et le président de la République française",
+      "L'évêque d'Urgell et le président de la République française",
+      "Le pape et l'évêque d'Urgell",
+      "Le prince de Monaco et le roi d'Espagne"
+     ],
+     "a": 1,
+     "e": "Les coprinces d'Andorre sont l'évêque d'Urgell (Catalogne, Espagne) et le président de la République française ; la Constitution parle de « coprincipauté parlementaire ».",
+     "ed": [
+      "Le roi d'Espagne n'est pas coprince : le coprince espagnol est l'évêque d'Urgell.",
+      null,
+      "Le pape n'est pas coprince d'Andorre ; il est souverain du Vatican.",
+      "Ni le prince de Monaco ni le roi d'Espagne ne sont coprinces d'Andorre."
+     ],
+     "src": {
+      "t": "Wikipedia, « Co-princes of Andorra »",
+      "u": "https://en.wikipedia.org/wiki/Co-princes_of_Andorra"
+     }
+    },
+    {
+     "id": "n20261127-cg13-13",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quelle est la seule monarchie absolue d'Europe ?",
+     "o": [
+      "Monaco",
+      "Le Liechtenstein",
+      "Le Vatican",
+      "Le Luxembourg"
+     ],
+     "a": 2,
+     "e": "Sur les douze monarchies européennes, onze sont constitutionnelles ; le Vatican, monarchie élective dirigée par le pape, est la seule absolue.",
+     "ed": [
+      "Monaco est une monarchie constitutionnelle, dite semi-constitutionnelle, pas absolue.",
+      "Le Liechtenstein est une monarchie constitutionnelle, dite semi-constitutionnelle.",
+      null,
+      "Le Luxembourg est une monarchie constitutionnelle."
+     ],
+     "src": {
+      "t": "Wikipedia, « Monarchies in Europe »",
+      "u": "https://en.wikipedia.org/wiki/Monarchies_in_Europe"
+     }
+    },
+    {
+     "id": "n20261127-cg13-14",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Pourquoi qualifie-t-on souvent Monaco et le Liechtenstein de monarchies « semi-constitutionnelles » ?",
+     "o": [
+      "Parce que leur prince est élu par les citoyens",
+      "Parce que leur prince garde une grande influence politique",
+      "Parce qu'ils n'ont aucune Constitution",
+      "Parce qu'ils sont gouvernés par le pape"
+     ],
+     "a": 1,
+     "e": "Monaco et le Liechtenstein ont une Constitution, mais leur prince conserve une grande influence sur la politique : d'où le qualificatif de semi-constitutionnel.",
+     "ed": [
+      "Les princes de Monaco et du Liechtenstein ne sont pas élus ; la seule monarchie élective est le Vatican.",
+      null,
+      "Ces deux États ont une Constitution ; ils sont comptés parmi les monarchies constitutionnelles.",
+      "Le pape ne gouverne que le Vatican."
+     ],
+     "src": {
+      "t": "Wikipedia, « Monarchies in Europe »",
+      "u": "https://en.wikipedia.org/wiki/Monarchies_in_Europe"
+     }
+    },
+    {
+     "id": "n20261127-cg13-15",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Comment l'Italie est-elle devenue une république en 1946 ?",
+     "o": [
+      "Par un coup d'État militaire",
+      "Par le traité de paix signé avec les Alliés",
+      "Par le référendum du 2 juin 1946, gagné avec environ 54 % des voix",
+      "Par un vote unanime du Parlement royal"
+     ],
+     "a": 2,
+     "e": "Le 2 juin 1946, les Italiens ont choisi la république par référendum (environ 54 % des voix contre 46 % pour la monarchie) ; Umberto II a quitté le pays.",
+     "ed": [
+      "Le passage à la république ne vient pas d'un coup d'État, mais d'un vote populaire.",
+      "Ce n'est pas un traité qui a fixé le régime : ce sont les électeurs italiens.",
+      null,
+      "Le choix a été fait par les citoyens, à une majorité d'environ 54 %, pas par un vote unanime."
+     ],
+     "src": {
+      "t": "Wikipedia, « 1946 Italian institutional referendum »",
+      "u": "https://en.wikipedia.org/wiki/1946_Italian_institutional_referendum"
+     }
+    },
+    {
+     "id": "n20261127-cg13-16",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Lors du référendum grec du 8 décembre 1974, quelle part des voix s'est portée sur la république ?",
+     "o": [
+      "Environ 51 %",
+      "Environ 69 %",
+      "Environ 85 %",
+      "Environ 54 %"
+     ],
+     "a": 1,
+     "e": "Le 8 décembre 1974, 69,18 % des votants grecs ont choisi la république contre 30,82 % pour la monarchie constitutionnelle.",
+     "ed": [
+      "51 % est trop bas : la république l'a emporté avec 69,18 %.",
+      null,
+      "85 % est trop haut : le résultat était de 69,18 %.",
+      "Environ 54 % est le score de la république au référendum italien de 1946, pas grec."
+     ],
+     "src": {
+      "t": "Wikipedia, « 1974 Greek republic referendum »",
+      "u": "https://en.wikipedia.org/wiki/1974_Greek_republic_referendum"
+     }
+    },
+    {
+     "id": "n20261127-cg13-17",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Où l'Empire allemand a-t-il été proclamé, le 18 janvier 1871 ?",
+     "o": [
+      "Au palais de Potsdam",
+      "À la porte de Brandebourg, à Berlin",
+      "Dans la galerie des Glaces du château de Versailles",
+      "Au palais de la Hofburg, à Vienne"
+     ],
+     "a": 2,
+     "e": "L'Empire allemand a été proclamé le 18 janvier 1871 dans la galerie des Glaces de Versailles ; Bismarck y a lu la proclamation et Guillaume Ier est devenu empereur.",
+     "ed": [
+      "La proclamation n'a pas eu lieu à Potsdam mais en France, à Versailles.",
+      "La proclamation n'a pas eu lieu à Berlin : piège classique, elle a eu lieu à Versailles.",
+      null,
+      "La proclamation n'a pas eu lieu à Vienne, capitale autrichienne, mais à Versailles."
+     ],
+     "src": {
+      "t": "Wikipedia, « Proclamation of the German Empire »",
+      "u": "https://en.wikipedia.org/wiki/Proclamation_of_the_German_Empire"
+     }
+    },
+    {
+     "id": "n20261127-cg13-18",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "À quelle date la Tchécoslovaquie a-t-elle laissé place à la République tchèque et à la Slovaquie ?",
+     "o": [
+      "Le 9 novembre 1989",
+      "Le 1er janvier 1993",
+      "Le 1er mai 2004",
+      "Le 25 décembre 1991"
+     ],
+     "a": 1,
+     "e": "La fédération tchécoslovaque s'est dissoute pacifiquement le 1er janvier 1993 : c'est le « divorce de velours ».",
+     "ed": [
+      "En 1989, la Tchécoslovaquie existait encore ; sa dissolution date du 1er janvier 1993.",
+      null,
+      "En 2004, les deux États existaient déjà depuis onze ans.",
+      "Fin 1991, la Tchécoslovaquie existait encore ; elle n'a été dissoute qu'au 1er janvier 1993."
+     ],
+     "src": {
+      "t": "Britannica, « Velvet Divorce »",
+      "u": "https://www.britannica.com/topic/Velvet-Divorce"
+     }
+    },
+    {
+     "id": "n20261127-cg13-19",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "À quelle date le Royaume-Uni a-t-il quitté l'Union européenne ?",
+     "o": [
+      "Le 23 juin 2016",
+      "Le 29 mars 2019",
+      "Le 31 janvier 2020",
+      "Le 1er janvier 2021"
+     ],
+     "a": 2,
+     "e": "Le Royaume-Uni a quitté l'Union européenne le 31 janvier 2020 à minuit (heure d'Europe centrale), à l'entrée en vigueur de l'accord de retrait.",
+     "ed": [
+      "Le 23 juin 2016 est la date du référendum, pas de la sortie effective.",
+      "Au 29 mars 2019, le Royaume-Uni était encore membre de l'Union.",
+      null,
+      "Au 1er janvier 2021, le Royaume-Uni avait déjà quitté l'Union depuis le 31 janvier 2020."
+     ],
+     "src": {
+      "t": "Conseil de l'Union européenne, « Brexit »",
+      "u": "https://www.consilium.europa.eu/en/brexit/"
+     }
+    },
+    {
+     "id": "n20261127-cg13-20",
+     "m": "cg",
+     "tag": "niv-cg13",
+     "q": "Quel ordre chronologique est correct ?",
+     "o": [
+      "Empire allemand – congrès de Vienne – référendum italien – divorce de velours",
+      "Congrès de Vienne – Empire allemand – référendum italien – divorce de velours",
+      "Congrès de Vienne – référendum italien – Empire allemand – divorce de velours",
+      "Congrès de Vienne – Empire allemand – divorce de velours – référendum italien"
+     ],
+     "a": 1,
+     "e": "Congrès de Vienne (Acte final, 9 juin 1815), Empire allemand (18 janvier 1871), référendum italien (2 juin 1946), divorce de velours (1er janvier 1993).",
+     "ed": [
+      "L'Empire allemand (1871) est postérieur au congrès de Vienne (1815).",
+      null,
+      "Le référendum italien (1946) est postérieur à la proclamation de l'Empire allemand (1871).",
+      "Le divorce de velours (1993) est postérieur au référendum italien (1946)."
+     ],
+     "src": {
+      "t": "Britannica, « Congress of Vienna »",
+      "u": "https://www.britannica.com/topic/Congress-of-Vienna"
+     }
+    },
+    {
+     "id": "n20261127-lo14-01",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Aujourd'hui est un mardi. Quel jour de la semaine serons-nous dans 30 jours ?",
+     "o": [
+      "Mercredi (+1 jour)",
+      "Jeudi (+2 jours)",
+      "Vendredi (+3 jours)",
+      "Mardi (+0 jour)"
+     ],
+     "a": 1,
+     "e": "30 = 4 × 7 + 2 : les quatre semaines complètes ne changent rien, on avance du reste, 2 jours. Mardi + 2 = jeudi.",
+     "ed": [
+      "Un décalage d'un jour correspondrait à 29 jours, pas 30.",
+      null,
+      "Un décalage de 3 jours correspondrait à 31 jours.",
+      "On ne retombe sur mardi qu'après un multiple de 7 (28 ou 35 jours)."
+     ],
+     "verif": "calcul",
+     "calc": "30-4*7"
+    },
+    {
+     "id": "n20261127-lo14-02",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Dans un certain mois, le 5 est un lundi. Quel jour est le 31 du même mois ?",
+     "o": [
+      "Vendredi (+4 jours)",
+      "Dimanche (+6 jours)",
+      "Samedi (+5 jours)",
+      "Lundi (+0 jour)"
+     ],
+     "a": 2,
+     "e": "Écart : 31 − 5 = 26 jours ; 26 = 3 × 7 + 5. Lundi + 5 jours = samedi. Vérification : les lundis sont les 5, 12, 19 et 26 ; 26 + 5 = 31, samedi.",
+     "ed": [
+      "Un décalage de 4 jours oublie un jour : l'écart 26 laisse un reste de 5.",
+      "Un décalage de 6 jours compte les jours inclus (27) au lieu de l'écart (26).",
+      null,
+      "Le 31 n'est pas un lundi : les lundis du mois sont les 5, 12, 19 et 26."
+     ],
+     "verif": "calcul",
+     "calc": "26-3*7"
+    },
+    {
+     "id": "n20261127-lo14-03",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Combien de jours séparent le 10 janvier 2027 du 15 mars 2027 ?",
+     "o": [
+      "63 jours",
+      "65 jours",
+      "64 jours",
+      "66 jours"
+     ],
+     "a": 2,
+     "e": "Il reste 21 jours en janvier après le 10 (31 − 10), puis 28 jours en février (2027 n'est pas bissextile), puis 15 jours en mars : 21 + 28 + 15 = 64.",
+     "ed": [
+      "63 oublie un jour de mars : il faut compter jusqu'au 15.",
+      "65 ajoute un jour de trop, par exemple en comptant le 10 janvier.",
+      null,
+      "66 suppose un février de 29 jours et compte un jour de trop : 2027 n'est pas bissextile."
+     ],
+     "verif": "calcul",
+     "calc": "21+28+15"
+    },
+    {
+     "id": "n20261127-lo14-04",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Laquelle de ces années est bissextile dans le calendrier grégorien ?",
+     "o": [
+      "1900",
+      "2100",
+      "2030",
+      "2000"
+     ],
+     "a": 3,
+     "e": "Règle « 4 oui, 100 non, 400 oui » : 2000 est divisible par 400, elle est bissextile. 1900 et 2100 sont divisibles par 100 mais pas par 400.",
+     "ed": [
+      "1900 est divisible par 100 mais pas par 400 : elle n'est pas bissextile.",
+      "2100 est divisible par 100 mais pas par 400 : elle ne sera pas bissextile.",
+      "2030 n'est pas divisible par 4.",
+      null
+     ],
+     "src": {
+      "t": "Université de Warwick, « Leap years » (J. McCormac, 26 février 2020)",
+      "u": "https://warwick.ac.uk/news/knowledgecentre/science/physics-astrophysics/leap_years"
+     }
+    },
+    {
+     "id": "n20261127-lo14-05",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Combien de jours comptera l'année 2028 ?",
+     "o": [
+      "364",
+      "365",
+      "366",
+      "367"
+     ],
+     "a": 2,
+     "e": "2028 est divisible par 4 et n'est pas une année séculaire : elle est bissextile et compte 365 + 1 = 366 jours.",
+     "ed": [
+      "Aucune année du calendrier grégorien ne compte 364 jours.",
+      "365 jours est la durée d'une année ordinaire ; 2028 est bissextile.",
+      null,
+      "Une année grégorienne ne compte jamais plus de 366 jours."
+     ],
+     "verif": "calcul",
+     "calc": "365+1"
+    },
+    {
+     "id": "n20261127-lo14-06",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Le 27 novembre 2026 est un vendredi. Quel jour sera le 27 novembre 2027 ?",
+     "o": [
+      "Samedi (+1 jour)",
+      "Vendredi (+0 jour)",
+      "Dimanche (+2 jours)",
+      "Jeudi (−1 jour)"
+     ],
+     "a": 0,
+     "e": "Entre ces deux dates, il y a 365 jours (aucun 29 février traversé, 2027 n'est pas bissextile). 365 = 52 × 7 + 1 : on avance d'un jour, samedi.",
+     "ed": [
+      null,
+      "Une date ne garde son jour de la semaine qu'après un multiple de 7 jours ; 365 laisse un reste de 1.",
+      "Le décalage de 2 jours n'existe que si un 29 février est traversé.",
+      "Le calendrier avance d'une année à l'autre ; il ne recule jamais."
+     ],
+     "verif": "calcul",
+     "calc": "365-52*7"
+    },
+    {
+     "id": "n20261127-lo14-07",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Le 1er mars 2027 est un lundi. Quel jour sera le 1er mars 2028 ?",
+     "o": [
+      "Mardi (+1 jour)",
+      "Mercredi (+2 jours)",
+      "Lundi (+0 jour)",
+      "Jeudi (+3 jours)"
+     ],
+     "a": 1,
+     "e": "Entre ces deux dates, on traverse le 29 février 2028 : 366 jours, soit 52 semaines et 2 jours. Lundi + 2 = mercredi.",
+     "ed": [
+      "+1 jour oublie le 29 février 2028, qui se trouve dans l'intervalle.",
+      null,
+      "366 n'est pas un multiple de 7 : le jour change.",
+      "Une seule année ne décale jamais une date de 3 jours."
+     ],
+     "verif": "calcul",
+     "calc": "366-52*7"
+    },
+    {
+     "id": "n20261127-lo14-08",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Quel angle forment les aiguilles d'une horloge à 4 h 40 ?",
+     "o": [
+      "120°",
+      "110°",
+      "100°",
+      "80°"
+     ],
+     "a": 2,
+     "e": "Formule |30H − 5,5M| : 30 × 4 = 120 ; 5,5 × 40 = 220 ; |120 − 220| = 100°, inférieur à 180°.",
+     "ed": [
+      "120° correspond à l'aiguille des heures supposée fixe sur le 4 : elle a avancé de 20°.",
+      "110° ne résulte d'aucune application correcte de la formule.",
+      null,
+      "80° vient d'une erreur de signe sur le déplacement de l'aiguille des heures."
+     ],
+     "verif": "calcul",
+     "calc": "5.5*40-30*4"
+    },
+    {
+     "id": "n20261127-lo14-09",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Quel angle (le plus petit) forment les aiguilles à 9 h 15 ?",
+     "o": [
+      "187,5°",
+      "180°",
+      "165°",
+      "172,5°"
+     ],
+     "a": 3,
+     "e": "30 × 9 = 270 ; 5,5 × 15 = 82,5 ; 270 − 82,5 = 187,5°. Ce résultat dépasse 180° : le plus petit angle vaut 360 − 187,5 = 172,5°.",
+     "ed": [
+      "187,5° est l'angle extérieur : au-delà de 180°, il faut retirer le résultat de 360°.",
+      "180° suppose que l'aiguille des heures reste sur le 9 : elle a avancé de 7,5°.",
+      "165° résulte d'une erreur de calcul sur le déplacement de l'aiguille des heures.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "360-(270-5.5*15)"
+    },
+    {
+     "id": "n20261127-lo14-10",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Quel angle (le plus petit) forment les aiguilles à 10 h 10 ?",
+     "o": [
+      "115°",
+      "120°",
+      "125°",
+      "245°"
+     ],
+     "a": 0,
+     "e": "30 × 10 = 300 ; 5,5 × 10 = 55 ; 300 − 55 = 245°, au-delà de 180° : le plus petit angle vaut 360 − 245 = 115°.",
+     "ed": [
+      null,
+      "120° suppose l'aiguille des heures immobile sur le 10 ; elle a avancé de 5°.",
+      "125° ajoute les 5° de l'aiguille des heures au lieu de les retrancher.",
+      "245° est l'angle extérieur ; on demande le plus petit."
+     ],
+     "verif": "calcul",
+     "calc": "360-(300-5.5*10)"
+    },
+    {
+     "id": "n20261127-lo14-11",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "De combien de degrés l'aiguille des heures tourne-t-elle en 20 minutes ?",
+     "o": [
+      "20°",
+      "10°",
+      "30°",
+      "120°"
+     ],
+     "a": 1,
+     "e": "L'aiguille des heures fait 30° par heure, soit 0,5° par minute : 0,5 × 20 = 10°.",
+     "ed": [
+      "20° confond le nombre de minutes et le nombre de degrés.",
+      null,
+      "30° est le déplacement en une heure entière, pas en 20 minutes.",
+      "120° est le déplacement de l'aiguille des minutes en 20 minutes (6° par minute)."
+     ],
+     "verif": "calcul",
+     "calc": "0.5*20"
+    },
+    {
+     "id": "n20261127-lo14-12",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Combien de fois les aiguilles des heures et des minutes se superposent-elles en 24 heures ?",
+     "o": [
+      "24",
+      "12",
+      "22",
+      "23"
+     ],
+     "a": 2,
+     "e": "Elles se superposent 11 fois en 12 heures, car l'aiguille des minutes doit faire un peu plus d'un tour pour rattraper l'autre : 2 × 11 = 22 fois en 24 heures.",
+     "ed": [
+      "24 suppose une superposition par heure ; c'est faux, la grande aiguille doit faire plus d'un tour.",
+      "12 est le nombre d'heures du cadran, pas le nombre de superpositions sur 24 heures.",
+      null,
+      "23 ne correspond à aucun raisonnement : il y a 11 superpositions par demi-journée."
+     ],
+     "verif": "calcul",
+     "calc": "2*11"
+    },
+    {
+     "id": "n20261127-lo14-13",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Un car quitte Abidjan à 22 h 45 et arrive à destination à 6 h 20 le lendemain. Combien de temps a duré le trajet ?",
+     "o": [
+      "455 minutes (7 h 35)",
+      "475 minutes (7 h 55)",
+      "515 minutes (8 h 35)",
+      "445 minutes (7 h 25)"
+     ],
+     "a": 0,
+     "e": "De 22 h 45 à minuit : 75 minutes ; de minuit à 6 h 20 : 380 minutes. Total : 75 + 380 = 455 minutes, soit 7 h 35.",
+     "ed": [
+      null,
+      "475 minutes ajoute 20 minutes : de 22 h 45 à minuit, il y a 75 minutes et non 95.",
+      "515 minutes ajoute une heure de trop dans le passage de minuit.",
+      "445 minutes retire 10 minutes : vérifiez 75 + 380."
+     ],
+     "verif": "calcul",
+     "calc": "(24*60-(22*60+45))+(6*60+20)"
+    },
+    {
+     "id": "n20261127-lo14-14",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Il est 14 h dans une ville située à UTC+0. Quelle heure est-il au même instant dans une ville à UTC+3 ?",
+     "o": [
+      "11 h",
+      "17 h",
+      "15 h",
+      "13 h"
+     ],
+     "a": 1,
+     "e": "La ville à UTC+3 a 3 heures d'avance sur la ville à UTC+0 : on ajoute le décalage, 14 + 3 = 17 h.",
+     "ed": [
+      "11 h retranche le décalage au lieu de l'ajouter : la ville à UTC+3 est en avance.",
+      null,
+      "15 h n'ajoute qu'une heure au lieu de trois.",
+      "13 h retranche une heure : la ville à UTC+3 est en avance, pas en retard."
+     ],
+     "verif": "calcul",
+     "calc": "14+3"
+    },
+    {
+     "id": "n20261127-lo14-15",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Un avion décolle à 23 h (heure locale, UTC+0) pour un vol de 7 h vers une ville à UTC+3. À quelle heure locale atterrit-il ?",
+     "o": [
+      "6 h",
+      "10 h",
+      "9 h",
+      "3 h"
+     ],
+     "a": 2,
+     "e": "Arrivée dans le fuseau de départ : 23 h + 7 h = 6 h le lendemain. On ajoute ensuite le décalage de 3 heures : 6 + 3 = 9 h, heure locale d'arrivée.",
+     "ed": [
+      "6 h est l'heure d'arrivée dans le fuseau de départ ; il faut encore ajouter le décalage.",
+      "10 h ajoute une heure de trop.",
+      null,
+      "3 h retranche le décalage au lieu de l'ajouter."
+     ],
+     "verif": "calcul",
+     "calc": "23+7+3-24"
+    },
+    {
+     "id": "n20261127-lo14-16",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Une montre qui retarde de 4 minutes par heure est mise à l'heure à midi. Quelle heure indique-t-elle à 18 h (heure exacte) ?",
+     "o": [
+      "18 h 24",
+      "17 h 36",
+      "17 h 56",
+      "17 h 40"
+     ],
+     "a": 1,
+     "e": "De midi à 18 h, 6 heures s'écoulent : retard total 6 × 4 = 24 minutes. La montre indique 18 h moins 24 minutes, soit 17 h 36.",
+     "ed": [
+      "18 h 24 correspond à une montre qui avance, pas qui retarde.",
+      null,
+      "17 h 56 ne compte que 4 minutes de retard au lieu de 24.",
+      "17 h 40 compte 5 heures au lieu de 6 entre midi et 18 h."
+     ],
+     "verif": "calcul",
+     "calc": "60-6*4"
+    },
+    {
+     "id": "n20261127-lo14-17",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Une horloge avance de 2 minutes par jour. Au bout de combien de jours aura-t-elle une heure d'avance ?",
+     "o": [
+      "20 jours",
+      "120 jours",
+      "24 jours",
+      "30 jours"
+     ],
+     "a": 3,
+     "e": "Une heure = 60 minutes ; à 2 minutes d'avance par jour, il faut 60 / 2 = 30 jours.",
+     "ed": [
+      "20 jours ne donnent que 40 minutes d'avance.",
+      "120 jours multiplient au lieu de diviser : on obtiendrait 4 heures d'avance.",
+      "24 jours confondent le nombre d'heures d'une journée avec la réponse ; ils donnent 48 minutes.",
+      null
+     ],
+     "verif": "calcul",
+     "calc": "60/2"
+    },
+    {
+     "id": "n20261127-lo14-18",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Un séminaire se tient du lundi 2 au vendredi 13 du même mois, jours de début et de fin compris. Combien de jours dure-t-il ?",
+     "o": [
+      "11 jours",
+      "12 jours",
+      "13 jours",
+      "10 jours"
+     ],
+     "a": 1,
+     "e": "Jours inclus = différence + 1 : 13 − 2 + 1 = 12 jours. L'écart entre les deux dates (11) n'est pas le nombre de jours inclus.",
+     "ed": [
+      "11 est l'écart entre les deux dates : on oublie le premier jour (piège des piquets).",
+      null,
+      "13 confond la date de fin avec la durée.",
+      "10 retire un jour au lieu d'en ajouter."
+     ],
+     "verif": "calcul",
+     "calc": "13-2+1"
+    },
+    {
+     "id": "n20261127-lo14-19",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "Le 1er janvier d'une année non bissextile est un jeudi. Quel jour est le 31 décembre de la même année ?",
+     "o": [
+      "Vendredi (+1 jour)",
+      "Mercredi (−1 jour)",
+      "Jeudi (+0 jour)",
+      "Samedi (+2 jours)"
+     ],
+     "a": 2,
+     "e": "L'écart entre le 1er janvier et le 31 décembre d'une année ordinaire est de 364 jours, soit exactement 52 semaines : reste 0, c'est aussi un jeudi.",
+     "ed": [
+      "+1 jour serait le décalage du 1er janvier de l'année suivante, pas du 31 décembre.",
+      "Le calendrier n'avance pas en sens inverse : on ne recule pas d'un jour.",
+      null,
+      "+2 jours supposerait une année bissextile et le décalage d'une année entière."
+     ],
+     "verif": "calcul",
+     "calc": "364-52*7"
+    },
+    {
+     "id": "n20261127-lo14-20",
+     "m": "log",
+     "tag": "niv-lo14",
+     "q": "En logique (barème +2 / 0 / −2), vous avez éliminé avec certitude deux options sur quatre. Que vaut, en moyenne, une réponse au hasard entre les deux restantes ?",
+     "o": [
+      "0 point : ni gain ni perte en moyenne",
+      "Un point de plus en moyenne (+1)",
+      "Un point de moins en moyenne (−1)",
+      "+2 points en moyenne"
+     ],
+     "a": 0,
+     "e": "Espérance : 1/2 × (+2) + 1/2 × (−2) = 0. Répondre ne rapporte rien en moyenne ; seule une troisième élimination rend la réponse rentable.",
+     "ed": [
+      null,
+      "+1 point supposerait une chance sur deux de gagner 2 points sans risque de perte ; or l'erreur coûte 2 points.",
+      "−1 point est l'espérance d'un hasard complet entre quatre options, pas entre deux.",
+      "+2 points n'est obtenu qu'avec une réponse certaine."
+     ],
+     "verif": "calcul",
+     "calc": "0.5*2-0.5*2"
+    },
+    {
+     "id": "n20261127-cglibre-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville le Secrétariat de l'ASEAN est-il installé depuis sa création en février 1976 ?",
+     "o": [
+      "Bangkok",
+      "Jakarta",
+      "Manille",
+      "Singapour"
+     ],
+     "a": 1,
+     "e": "Le Secrétariat de l'ASEAN, créé en février 1976, est installé à Jakarta, en Indonésie (d'abord dans les locaux du ministère indonésien des Affaires étrangères).",
+     "ed": [
+      "Bangkok, capitale de la Thaïlande, n'accueille pas le Secrétariat de l'ASEAN.",
+      null,
+      "Manille n'accueille pas le Secrétariat de l'ASEAN.",
+      "Singapour n'accueille pas le Secrétariat de l'ASEAN."
+     ],
+     "src": {
+      "t": "ASEAN, « ASEAN Secretariat to Get More Space in Jakarta »",
+      "u": "https://asean.org/asean-secretariat-to-get-more-space-in-jakarta/"
+     }
+    },
+    {
+     "id": "n20261127-cglibre-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Où se trouve le Secrétariat du Forum des îles du Pacifique, fondé en 1971 sous le nom de Forum du Pacifique Sud ?",
+     "o": [
+      "À Suva (Fidji)",
+      "À Wellington (Nouvelle-Zélande)",
+      "À Canberra (Australie)",
+      "À Port Moresby (Papouasie-Nouvelle-Guinée)"
+     ],
+     "a": 0,
+     "e": "Le Secrétariat du Forum des îles du Pacifique siège à Suva, aux Fidji. Le Forum a tenu sa réunion inaugurale à Wellington en août 1971.",
+     "ed": [
+      null,
+      "Wellington a accueilli la réunion fondatrice de 1971, mais pas le Secrétariat.",
+      "Canberra n'accueille pas le Secrétariat du Forum.",
+      "Port Moresby n'accueille pas le Secrétariat du Forum."
+     ],
+     "src": {
+      "t": "Wikipedia, « Pacific Islands Forum »",
+      "u": "https://en.wikipedia.org/wiki/Pacific_Islands_Forum"
+     }
+    },
+    {
+     "id": "n20261127-cglibre-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le siège de la Communauté économique et monétaire de l'Afrique centrale (CEMAC) ?",
+     "o": [
+      "Yaoundé",
+      "Libreville",
+      "Bangui",
+      "N'Djamena"
+     ],
+     "a": 2,
+     "e": "Le siège de la CEMAC est à Bangui, en République centrafricaine. Yaoundé accueille la banque centrale commune, la BEAC.",
+     "ed": [
+      "Yaoundé accueille la BEAC, banque centrale de la zone, pas le siège de la CEMAC.",
+      "Libreville n'est pas le siège de la CEMAC.",
+      null,
+      "N'Djamena a donné son nom au traité de la CEMAC, mais n'en est pas le siège."
+     ],
+     "src": {
+      "t": "ECFR, « Economic and Monetary Community of Central Africa (CEMAC) »",
+      "u": "https://ecfr.eu/special/african-cooperation/cemac/"
+     }
+    },
+    {
+     "id": "n20261127-cglibre-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le Timor-Leste célèbre chaque 20 mai son indépendance, devenue effective en 2002. De quelle situation est-il alors sorti ?",
+     "o": [
+      "De la tutelle de l'Australie",
+      "De l'occupation indonésienne et de l'administration des Nations unies",
+      "De la colonisation néerlandaise",
+      "D'une fédération avec la Malaisie"
+     ],
+     "a": 1,
+     "e": "Le 20 mai célèbre l'indépendance acquise en 2002, après l'occupation indonésienne et une période d'administration par les Nations unies.",
+     "ed": [
+      "L'Australie n'a pas exercé de tutelle sur le Timor-Leste avant 2002.",
+      null,
+      "Le Timor-Leste n'était pas une colonie néerlandaise avant 2002.",
+      "Le Timor-Leste n'a jamais été fédéré à la Malaisie."
+     ],
+     "src": {
+      "t": "Wikipedia, « Independence Day (Timor-Leste) »",
+      "u": "https://en.wikipedia.org/wiki/Independence_Day_(Timor-Leste)"
+     }
+    },
+    {
+     "id": "n20261127-cglibre-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le siège du Mercosur ?",
+     "o": [
+      "Buenos Aires",
+      "Asunción",
+      "Brasília",
+      "Montevideo"
+     ],
+     "a": 3,
+     "e": "Le Mercosur, marché commun d'Amérique du Sud, a son siège à Montevideo, en Uruguay.",
+     "ed": [
+      "Buenos Aires est la capitale de l'Argentine, pas le siège du Mercosur.",
+      "Asunción, capitale du Paraguay, n'est pas le siège du Mercosur.",
+      "Brasília est la capitale du Brésil, pas le siège du Mercosur.",
+      null
+     ],
+     "src": {
+      "t": "Britannica, « Mercosur »",
+      "u": "https://www.britannica.com/topic/Mercosur"
+     }
+    },
+    {
+     "id": "n20261127-cglibre-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Depuis quelle date la Conférence sur la sécurité et la coopération en Europe (CSCE) porte-t-elle le nom d'OSCE ?",
+     "o": [
+      "Le 1er août 1975",
+      "Le 9 novembre 1989",
+      "Le 1er janvier 1995",
+      "Le 1er janvier 2000"
+     ],
+     "a": 2,
+     "e": "La CSCE est devenue l'OSCE le 1er janvier 1995, conformément aux décisions de la conférence de Budapest de 1994 ; son Secrétariat est à Vienne et elle compte 57 États participants.",
+     "ed": [
+      "En 1975, le nom OSCE n'existait pas : il n'a été adopté qu'au 1er janvier 1995.",
+      "En 1989, l'organisation s'appelait encore CSCE.",
+      null,
+      "En 2000, l'organisation portait déjà le nom d'OSCE depuis cinq ans."
+     ],
+     "src": {
+      "t": "Wikipedia, « Organization for Security and Co-operation in Europe »",
+      "u": "https://en.wikipedia.org/wiki/Organization_for_Security_and_Co-operation_in_Europe"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261127an12",
+     "niv": "an12",
+     "m": "ang",
+     "verif": "regle",
+     "titre": "Pluriels et féminins irréguliers, nationalités",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez donner sans hésiter le pluriel des noms anglais irréguliers (men, geese, knives, crises, criteria) et repérer les noms qui ne changent pas (sheep, aircraft).",
+      "= Vous saurez aussi former les féminins en -ess et nommer correctement un pays, sa langue, un de ses habitants et l'ensemble de son peuple (France, French, a Frenchman, the French).",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), ces points arrivent sous trois formes : « Give the plural of… », « Give the feminine of… » et des phrases à trous sur les nationalités (« The ___ are famous for their cheese »). Les mauvaises options sont fabriquées par régularisation abusive : on ajoute -s partout (« sheeps », « knifes », « crisises ») ou on calque le français (« the Frenchs », « a Chinese » pour une personne).",
+      "## La méthode, pas à pas",
+      "- 1. Identifiez la famille du nom : changement de voyelle, -en, nom invariable, -f / -fe, -o, mot savant d'origine latine ou grecque.",
+      "- 2. Appliquez la règle de la famille (voir le cours) ; pour un mot savant, regardez la terminaison : -is devient -es, -on devient -a, -us devient -i.",
+      "- 3. Pour une nationalité, posez-vous trois questions : quel est l'adjectif ? comment dit-on « un habitant » ? comment dit-on « le peuple tout entier » ?",
+      "- 4. Vérifiez la majuscule : en anglais, nationalités et langues prennent toujours une capitale, même adjectifs (French wine).",
+      "- 5. Barème : si vous reconnaissez la famille, répondez. Si deux options restent possibles et qu'aucune règle ne tranche, laissez la case vide : une erreur coûte un point.",
+      "~ Exemple : « Give the plural of knife. » Étape 1 : knife se termine par -fe. Étape 2 : dans cette famille, -fe devient -ves. Étape 3 : on écrit knives. Les options « knifes » et « knife » sont des pièges de régularisation.",
+      "> Méthode du jour, l'interrogation élaborative : après avoir retrouvé une règle de mémoire, demandez-vous « pourquoi est-ce vrai ? » et « pourquoi est-ce vrai pour X, mais pas pour Y ? », puis répondez par écrit en une phrase. La revue de Dunlosky et al. (2013) lui attribue une utilité « modérée » ; elle marche surtout pour des faits précis et quand on a déjà quelques connaissances. Deux conditions : une explication précise (pas « parce que c'est comme ça ») et une vérification avec le cours. Combinez-la au rappel : d'abord retrouver, ensuite expliquer."
+     ],
+     "fond": [
+      "## Notion 1 : les pluriels par changement de voyelle et en -en",
+      "Règle : quelques noms très anciens et très fréquents ne prennent pas -s. Ils changent leur voyelle intérieure : man → men, woman → women, foot → feet, goose → geese, louse → lice. Un petit groupe prend -en : ox → oxen. Enfin, person a pour pluriel courant people.",
+      "Pourquoi ? Ce sont des survivances du vieil anglais, la langue d'avant l'an 1100. Parce que ces mots servaient tous les jours, l'usage a conservé leur ancienne forme au lieu de la régulariser.",
+      "~ Exemple résolu : complétez « Three ___ were waiting at the gate. » (woman) Étape 1 : woman appartient à la famille du changement de voyelle (comme man). Étape 2 : man → men, donc woman → women. Étape 3 : on obtient Three women were waiting at the gate (« Trois femmes attendaient au portail »). Attention à la prononciation : le premier o de women se prononce « i ».",
+      "! Piège : « foots », « gooses », « mans » sont toujours fautifs. Autre piège : people est déjà un pluriel ; on dit « many people are », jamais « many peoples is » (peoples existe seulement au sens de « des peuples »).",
+      "> Pour retenir : « Man-men, foot-feet, goose-geese : la voyelle change, le -s disparaît. »",
+      "? Donnez le pluriel de chaque nom : ox, louse, foot, person. || Ox prend -en : oxen. Louse change sa voyelle et son s devient c : lice. Foot change sa voyelle : feet. Person a pour pluriel courant people. Réponse : oxen, lice, feet, people.",
+      "## Notion 2 : les noms invariables, les noms en -f / -fe et les noms en -o",
+      "Règle 1 : certains noms gardent la même forme au pluriel : sheep, deer, fish, et aircraft (de même watercraft, spacecraft). On dit one sheep, ten sheep.",
+      "Règle 2 : beaucoup de noms en -f ou -fe changent cette fin en -ves : knife → knives, wife → wives, leaf → leaves. Exception connue : roof → roofs, proof → proofs.",
+      "Règle 3 : plusieurs noms en -o prennent -es : potato → potatoes, tomato → tomatoes, hero → heroes. Mais les mots empruntés ou abrégés prennent seulement -s : piano → pianos, photo → photos, zero → zeros.",
+      "Pourquoi ? Pour -f / -fe, le son f s'est adouci en v entre deux voyelles, et l'écriture a suivi la prononciation. Pour -o, les mots courts et anciens ont pris -es ; les mots récents ou raccourcis (photo vient de photograph) gardent leur forme simple.",
+      "~ Exemple résolu : corrigez « The farmer sold two sheeps and bought new knifes. » Étape 1 : sheep est invariable : two sheep. Étape 2 : knife se termine par -fe, qui devient -ves : knives. Réponse : The farmer sold two sheep and bought new knives.",
+      "! Piège : ne mettez pas -ves partout. « Rooves » est fautif dans l'usage scolaire : on écrit roofs. Ne mettez pas -es partout non plus : « pianoes » et « photoes » sont fautifs.",
+      "> Pour retenir : « Potatoes et tomatoes au marché, heroes à la télé ; pianos et photos restent simples. »",
+      "? Complétez : « Our company owns six ___ (aircraft), and the canteen serves fried ___ (potato) every Friday. » || Aircraft est invariable : six aircraft. Potato fait partie des noms en -o qui prennent -es : potatoes. Réponse : six aircraft ; fried potatoes.",
+      "## Notion 3 : les pluriels savants (latin et grec)",
+      "Règle : des mots savants gardent le pluriel de leur langue d'origine. Les noms en -is passent en -es : crisis → crises, analysis → analyses, thesis → theses. Le grec criterion devient criteria. Le latin cactus devient cacti (cactuses est admis à l'oral).",
+      "Pourquoi ? Ces mots sont entrés dans l'anglais par les sciences et l'administration, où l'on écrivait en latin ou en grec. Ils ont gardé leur pluriel d'origine, comme en français « un critère » vient aussi du grec.",
+      "~ Exemple résolu : complétez « The jury applied three ___ to select the projects. » (criterion) Étape 1 : la terminaison -on signale un mot grec. Étape 2 : -on devient -a. Étape 3 : three criteria. Réponse : The jury applied three criteria to select the projects (« Le jury a appliqué trois critères »).",
+      "! Piège : criteria est un pluriel. « A criteria » ou « this criteria is » sont des fautes ; on dit this criterion is, these criteria are. Même chose : « two crisis » est fautif, on écrit two crises.",
+      "> Pour retenir : « -is → -es, -on → -a, -us → -i : crisis-crises, criterion-criteria, cactus-cacti. »",
+      "? Donnez le pluriel : analysis, thesis, cactus. Puis expliquez pourquoi on ne dit pas « analysises ». || Analysis et thesis se terminent par -is, qui devient -es : analyses, theses. Cactus se termine par -us, qui devient -i : cacti. « Analysises » ajoute un -es régulier à un mot qui garde son pluriel grec : c'est une double marque.",
+      "## Notion 4 : les féminins",
+      "Règle : l'anglais a peu de genre grammatical, mais certains noms de personnes ont une forme féminine. La plus fréquente est le suffixe -ess : actor → actress, waiter → waitress, host → hostess, steward → stewardess, emperor → empress (le o tombe). D'autres féminins sont particuliers : hero → heroine, landlord → landlady.",
+      "Pourquoi ? Le suffixe -ess vient du français (-esse, comme dans « princesse »). Aujourd'hui, l'usage préfère souvent un mot neutre pour les métiers : server pour waiter / waitress, flight attendant pour steward / stewardess. Le concours, lui, interroge encore la forme en -ess.",
+      "~ Exemple résolu : « Give the feminine of emperor. » Étape 1 : emperor se termine par -or. Étape 2 : comme dans actor → actress, on ajoute -ess ; mais ici le o disparaît. Étape 3 : empress. Réponse : empress.",
+      "! Piège : « emperess » et « heroess » sont fautifs. Hero donne heroine (ne pas confondre avec heroin, la drogue, sans e final).",
+      "> Pour retenir : « -ess pour la plupart (actress, hostess, empress) ; heroine et landlady à part. »",
+      "## Notion 5 : pays, nationalités et peuples",
+      "Règle : pour chaque pays, distinguez l'adjectif, l'habitant et le peuple. Trois grandes familles : 1) adjectifs en -an / -ian : l'habitant et le peuple prennent -s (an American, the Americans ; an Ivorian, the Ivorians) ; 2) adjectifs en -ese : pas de -s (a Chinese person, the Chinese ; the Portuguese, the Vietnamese) ; 3) adjectifs en -ish / -ch : le peuple se dit the + adjectif avec un verbe au pluriel (the French, the Irish, the Welsh), et l'habitant a un nom à part : a Frenchman, a Dutchman, an Englishman, a Welshman, ou un mot spécial : a Spaniard (Spanish), a Dane (Danish), a Swede (Swedish), a Pole (Polish), a Finn (Finnish), a Turk (Turkish), a Scot (Scottish), a Briton (British). Swiss est invariable : a Swiss, the Swiss. Thai, Iraqi, Pakistani prennent -s : the Thais, the Iraqis.",
+      "Pourquoi ? Un adjectif en -ese ou en -ish ne peut pas prendre -s, comme tout adjectif anglais ; il faut donc soit the + adjectif (le groupe), soit un nom spécial (la personne). Les mots en -an fonctionnent déjà comme des noms : ils prennent -s comme les autres noms.",
+      "~ Exemple résolu : complétez « ___ are known for their tulips, and my neighbour is ___. » (Netherlands) Étape 1 : l'adjectif est Dutch (famille -ch). Étape 2 : le peuple : the Dutch, avec un verbe pluriel (are). Étape 3 : une personne : a Dutchman (ou a Dutchwoman). Réponse : The Dutch are known for their tulips, and my neighbour is a Dutchman.",
+      "! Piège : « the Frenchs », « the Chineses », « a Spanish » (pour une personne) sont fautifs. Et la majuscule est obligatoire : « french », « ivorian » en minuscule sont des fautes en anglais.",
+      "> Pour retenir : « -an : +s ; -ese : jamais de s ; -ish / -ch : the + adjectif pour le peuple, un nom spécial pour la personne. »",
+      "? Complétez : « Two ___ (Senegal) and a ___ (Denmark) joined ___ (Japan) delegation. » || Senegalese est un adjectif en -ese : il ne prend pas de s, two Senegalese. Pour le Danemark, la personne se dit a Dane (l'adjectif est Danish). Enfin, devant delegation il faut l'adjectif : the Japanese delegation. Réponse : Two Senegalese and a Dane joined the Japanese delegation."
+     ],
+     "retenir": [
+      "Man-men, woman-women, foot-feet, goose-geese, louse-lice, ox-oxen, person-people : ces pluriels ne prennent jamais -s.",
+      "Sheep, deer, fish et aircraft ont la même forme au singulier et au pluriel.",
+      "Knife-knives, wife-wives, leaf-leaves, mais roof-roofs et proof-proofs.",
+      "Potatoes, tomatoes, heroes prennent -es ; pianos, photos, zeros prennent seulement -s.",
+      "Crisis-crises, analysis-analyses, thesis-theses, criterion-criteria, cactus-cacti : « these criteria are », jamais « a criteria ».",
+      "Féminins : actress, waitress, hostess, stewardess, empress, heroine, landlady.",
+      "Nationalités en -an prennent -s (the Ivorians) ; en -ese, jamais (the Chinese) ; en -ish / -ch, the + adjectif (the French).",
+      "Habitants à nom spécial : a Spaniard, a Dane, a Swede, a Pole, a Finn, a Turk, a Scot, a Briton ; Swiss est invariable."
+     ],
+     "exo": {
+      "tag": "niv-an12",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Grammarly, « Irregular Plural Nouns »",
+       "u": "https://www.grammarly.com/blog/parts-of-speech/irregular-plural-nouns/"
+      },
+      {
+       "t": "Lumen Learning (SUNY), « Irregular Plural Nouns »",
+       "u": "https://courses.lumenlearning.com/suny-styleguide/chapter/irregular-plural-nouns/"
+      },
+      {
+       "t": "EF, « Nationalities »",
+       "u": "https://www.ef.com/wwen/english-resources/english-grammar/nationalities/"
+      },
+      {
+       "t": "Grammar-Quizzes, « Nationality Names »",
+       "u": "https://www.grammar-quizzes.com/art-nationality.html"
+      },
+      {
+       "t": "Transparent Language, « English Words That Have Gender »",
+       "u": "https://blogs.transparent.com/english/english-words-that-have-gender/"
+      },
+      {
+       "t": "Structural Learning, « Elaborative Interrogation: Examples and Teaching Guide »",
+       "u": "https://www.structural-learning.com/post/elaborative-interrogation"
+      },
+      {
+       "t": "LITFL, « Elaboration and Elaborative Interrogation »",
+       "u": "https://litfl.com/elaboration-and-elaborative-interrogation"
+      }
+     ]
+    },
+    {
+     "id": "L20261127cg13",
+     "niv": "cg13",
+     "m": "cg",
+     "titre": "Europe : pays, capitales et histoire",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez citer les capitales européennes qui piègent les candidats (Berne, Amsterdam, Ljubljana, Bratislava, Chisinau, Skopje, les trois capitales baltes).",
+      "= Vous saurez aussi distinguer les douze monarchies européennes des républiques et situer sept dates clés, de 1815 à 2020.",
+      "## Ce que demande l'épreuve",
+      "La culture générale de la présélection (barème +1 / 0 / −1) interroge l'Europe de trois façons : une capitale à retrouver parmi quatre villes voisines, un régime politique (royaume, principauté, république) et une date ou un ordre chronologique. Les distracteurs sont presque toujours des capitales de pays voisins (Bratislava pour la Slovénie) ou des dates proches.",
+      "## La méthode, pas à pas",
+      "- 1. Lisez le nom du pays et rattachez-le à sa famille : pays balte, ancien État yougoslave, ancien bloc de l'Est, micro-État, grande monarchie.",
+      "- 2. Éliminez les capitales des voisins de la même famille : c'est là que se cachent les distracteurs.",
+      "- 3. Pour une date, retrouvez l'événement « avant » et l'événement « après » : une date isolée s'oublie, une chaîne se reconstruit.",
+      "- 4. Pour un régime, souvenez-vous du chiffre 12 : sept royaumes, un grand-duché, trois principautés, le Vatican.",
+      "- 5. Barème : si vous hésitez entre deux capitales de pays voisins sans indice sûr, laissez vide.",
+      "~ Exemple : « Capitale de la Slovénie ? Bratislava, Ljubljana, Zagreb, Sarajevo. » Étape 1 : la Slovénie est un ancien État yougoslave. Étape 2 : Zagreb (Croatie) et Sarajevo (Bosnie-Herzégovine) sont des voisins yougoslaves ; Bratislava est la capitale de la Slovaquie, pays au nom proche. Étape 3 : il reste Ljubljana.",
+      "> Méthode du jour, l'interrogation élaborative : après avoir retrouvé une règle de mémoire, demandez-vous « pourquoi est-ce vrai ? » et « pourquoi est-ce vrai pour X, mais pas pour Y ? », puis répondez par écrit en une phrase. La revue de Dunlosky et al. (2013) lui attribue une utilité « modérée » ; elle marche surtout pour des faits précis et quand on a déjà quelques connaissances. Deux conditions : une explication précise (pas « parce que c'est comme ça ») et une vérification avec le cours. Combinez-la au rappel : d'abord retrouver, ensuite expliquer."
+     ],
+     "fond": [
+      "## Notion 1 : les capitales qui piègent",
+      "Règle : une capitale est la ville où siègent les pouvoirs publics. Deux pays européens séparent la capitale officielle et le siège du gouvernement, ou n'ont pas de capitale officielle du tout.",
+      "- Suisse : elle n'a pas de capitale au sens juridique. Berne porte le titre de « ville fédérale » ; elle abrite le gouvernement et le Parlement. Les parlementaires l'ont choisie le 28 novembre 1848, l'année où la Suisse moderne est devenue un État fédéral.",
+      "- Pays-Bas : la Constitution désigne Amsterdam comme capitale (le roi y est investi), mais La Haye est le siège du gouvernement depuis 1588, avec le Parlement (États généraux) et la Cour suprême.",
+      "Pourquoi distinguer ? Une capitale est un titre juridique ; un siège du gouvernement est un fait pratique. En Suisse, aucun texte ne donne le titre de capitale : Berne n'est que le siège des autorités fédérales. Aux Pays-Bas, le titre (Amsterdam) et le siège (La Haye) sont dans deux villes différentes.",
+      "~ Exemple résolu : « Où siège le gouvernement néerlandais ? Amsterdam, La Haye, Rotterdam, Bruxelles. » Étape 1 : la question porte sur le gouvernement, pas sur la capitale constitutionnelle. Étape 2 : Amsterdam est la capitale selon la Constitution, mais pas le siège du gouvernement. Étape 3 : Bruxelles est belge. Réponse : La Haye.",
+      "- Les nouveaux États : Slovénie → Ljubljana ; Slovaquie → Bratislava ; Moldavie → Chisinau ; Monténégro → Podgorica ; Macédoine du Nord → Skopje ; Albanie → Tirana. Pays baltes : Estonie → Tallinn, Lettonie → Riga, Lituanie → Vilnius.",
+      "> Pour retenir : « Slo-vé-nie : Lju-blja-na ; Slo-va-quie : Bra-ti-sla-va » (les deux noms longs vont ensemble) ; pays baltes dans l'ordre alphabétique (Estonie, Lettonie, Lituanie) : « T-R-V », Tallinn, Riga, Vilnius.",
+      "! Piège : « Berne, capitale constitutionnelle de la Suisse » est faux : la Constitution fédérale ne désigne aucune capitale, et le titre de ville fédérale n'est fixé que par la loi.",
+      "? Associez chaque capitale à son pays : Podgorica, Skopje, Chisinau, Riga. || Podgorica est la capitale du Monténégro et Skopje celle de la Macédoine du Nord, deux anciens États yougoslaves. Chisinau est la capitale de la Moldavie, voisine de la Roumanie. Riga est la capitale de la Lettonie, le pays balte du milieu dans l'ordre alphabétique (T-R-V).",
+      "## Notion 2 : douze monarchies, et toutes les autres sont des républiques",
+      "Règle : en 2026, l'Europe compte douze monarchies souveraines. Sept royaumes : Royaume-Uni, Espagne, Belgique, Pays-Bas, Danemark, Norvège, Suède. Un grand-duché : le Luxembourg. Trois principautés : Monaco, Liechtenstein, Andorre. Et le Vatican, monarchie élective dirigée par le pape.",
+      "Onze sont des monarchies constitutionnelles : le monarque règne, mais le pouvoir est encadré par une Constitution et exercé surtout par un gouvernement responsable devant le Parlement. Le Vatican est la seule monarchie absolue. Monaco et le Liechtenstein sont souvent dits « semi-constitutionnels », car leur prince garde une grande influence politique.",
+      "Pourquoi Andorre est-elle à part ? Elle a deux chefs d'État, les coprinces : l'évêque d'Urgell (en Catalogne, Espagne) et le président de la République française. Sa Constitution la définit comme une « coprincipauté parlementaire ».",
+      "~ Exemple résolu : « Lequel de ces États est une monarchie : Italie, Grèce, Belgique, Portugal ? » Étape 1 : récitez les sept royaumes. Étape 2 : la Belgique en fait partie. Étape 3 : l'Italie et la Grèce sont devenues des républiques par référendum (notion 3). Réponse : la Belgique.",
+      "> Pour retenir : « 7 + 1 + 3 + 1 = 12 » : sept royaumes, un grand-duché, trois principautés, un Vatican.",
+      "! Piège : Andorre n'a pas de roi, et son président français n'en fait pas une partie de la France : c'est un État souverain à deux coprinces.",
+      "? Pourquoi le président de la République française est-il à la fois chef d'une république et coprince d'une principauté ? Appliquez l'interrogation élaborative avant de lire la correction. || Parce que ce sont deux fonctions dans deux États distincts : en France, il est chef de l'État d'une république ; en Andorre, la fonction de coprince est attachée à sa charge, à côté de l'évêque d'Urgell. Andorre reste un État souverain, une coprincipauté parlementaire.",
+      "## Notion 3 : sept dates qui structurent l'Europe",
+      "Règle : retenez une chaîne de dates plutôt que des dates isolées.",
+      "- 1815 : le congrès de Vienne (septembre 1814 – 9 juin 1815) redessine l'Europe après Napoléon ; son Acte final est signé peu avant la campagne de Waterloo.",
+      "- 1848 : la Suisse devient un État fédéral et choisit Berne comme siège des autorités.",
+      "- 18 janvier 1871 : l'Empire allemand est proclamé dans la galerie des Glaces du château de Versailles ; Guillaume Ier devient empereur, Bismarck lit la proclamation.",
+      "- 2 juin 1946 : par référendum, les Italiens choisissent la république (environ 54 % des voix) ; le roi Umberto II quitte le pays.",
+      "- 8 décembre 1974 : par référendum, 69,18 % des Grecs votent pour la république.",
+      "- 1er janvier 1993 : la Tchécoslovaquie se sépare pacifiquement en République tchèque et Slovaquie ; c'est le « divorce de velours ».",
+      "- 31 janvier 2020 : le Royaume-Uni quitte l'Union européenne, à l'entrée en vigueur de l'accord de retrait.",
+      "Pourquoi ces dates ? Elles marquent trois mouvements : la recomposition des frontières (1815, 1871, 1993), le passage de la monarchie à la république (1946, 1974) et les limites de l'intégration européenne (2020).",
+      "~ Exemple résolu : « La Slovaquie devient indépendante en : 1989, 1991, 1993, 2004 ? » Étape 1 : la Slovaquie naît de la séparation de la Tchécoslovaquie. Étape 2 : ce divorce de velours prend effet le 1er janvier 1993. Réponse : 1993.",
+      "> Pour retenir : « Vienne 15, Berne 48, Versailles 71, Rome 46, Athènes 74, Bratislava 93, Brexit 2020. »",
+      "! Piège : l'Empire allemand est proclamé en France, à Versailles, et non à Berlin. Retenez le paradoxe : un empire allemand né dans un château français.",
+      "? Classez du plus ancien au plus récent : référendum grec, proclamation de l'Empire allemand, divorce de velours, référendum italien. || Proclamation de l'Empire allemand (18 janvier 1871), référendum italien (2 juin 1946), référendum grec (8 décembre 1974), divorce de velours (1er janvier 1993). Astuce : la chaîne « Versailles 71, Rome 46, Athènes 74, Bratislava 93 ».",
+      "## Notion 4 : utiliser l'Europe dans une copie",
+      "Ces repères servent aussi à l'écrit. Le débat monarchie ou république se prête bien à une dissertation sur la démocratie : d'un côté, les monarchies constitutionnelles du nord de l'Europe montrent qu'un roi peut « régner sans gouverner » dans une démocratie parlementaire ; de l'autre, les référendums italien et grec rappellent que la légitimité du chef de l'État peut venir directement du vote des citoyens. Le divorce de velours offre enfin un exemple rare de séparation d'un État sans guerre, utile dans un sujet sur la paix et la gestion des différends."
+     ],
+     "retenir": [
+      "La Suisse n'a pas de capitale officielle : Berne est la « ville fédérale », siège du gouvernement et du Parlement depuis 1848.",
+      "Amsterdam est la capitale constitutionnelle des Pays-Bas ; La Haye est le siège du gouvernement.",
+      "Slovénie : Ljubljana ; Slovaquie : Bratislava ; Moldavie : Chisinau ; Macédoine du Nord : Skopje ; Monténégro : Podgorica.",
+      "Pays baltes : Estonie-Tallinn, Lettonie-Riga, Lituanie-Vilnius (« T-R-V »).",
+      "L'Europe compte 12 monarchies : 7 royaumes, le grand-duché de Luxembourg, 3 principautés (Monaco, Liechtenstein, Andorre) et le Vatican, seule monarchie absolue.",
+      "Les coprinces d'Andorre sont l'évêque d'Urgell et le président de la République française.",
+      "Italie républicaine par référendum le 2 juin 1946 ; Grèce le 8 décembre 1974 (69,18 %).",
+      "Empire allemand proclamé à Versailles le 18 janvier 1871 ; Tchécoslovaquie divisée le 1er janvier 1993 ; Brexit le 31 janvier 2020."
+     ],
+     "exo": {
+      "tag": "niv-cg13",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Wikipedia, « Monarchies in Europe »",
+       "u": "https://en.wikipedia.org/wiki/Monarchies_in_Europe"
+      },
+      {
+       "t": "Swissinfo, « Why Switzerland hasn't got a capital city » (29 mars 2025)",
+       "u": "https://www.swissinfo.ch/eng/swiss-oddities/why-switzerland-hasnt-got-a-capital-city/89071876"
+      },
+      {
+       "t": "Wikipedia, « Capital of the Netherlands »",
+       "u": "https://en.wikipedia.org/wiki/Capital_of_the_Netherlands"
+      },
+      {
+       "t": "Wikipedia, « 1946 Italian institutional referendum »",
+       "u": "https://en.wikipedia.org/wiki/1946_Italian_institutional_referendum"
+      },
+      {
+       "t": "Wikipedia, « 1974 Greek republic referendum »",
+       "u": "https://en.wikipedia.org/wiki/1974_Greek_republic_referendum"
+      },
+      {
+       "t": "Britannica, « Velvet Divorce »",
+       "u": "https://www.britannica.com/topic/Velvet-Divorce"
+      },
+      {
+       "t": "Wikipedia, « Proclamation of the German Empire »",
+       "u": "https://en.wikipedia.org/wiki/Proclamation_of_the_German_Empire"
+      },
+      {
+       "t": "Britannica, « Congress of Vienna »",
+       "u": "https://www.britannica.com/topic/Congress-of-Vienna"
+      },
+      {
+       "t": "Conseil de l'Union européenne, « Brexit »",
+       "u": "https://www.consilium.europa.eu/en/brexit/"
+      },
+      {
+       "t": "Wikipedia, « Co-princes of Andorra »",
+       "u": "https://en.wikipedia.org/wiki/Co-princes_of_Andorra"
+      },
+      {
+       "t": "Nations Online, « Capital Cities of Europe »",
+       "u": "https://nationsonline.org/oneworld/capitals_europe.htm"
+      },
+      {
+       "t": "Structural Learning, « Elaborative Interrogation: Examples and Teaching Guide »",
+       "u": "https://www.structural-learning.com/post/elaborative-interrogation"
+      },
+      {
+       "t": "LITFL, « Elaboration and Elaborative Interrogation »",
+       "u": "https://litfl.com/elaboration-and-elaborative-interrogation"
+      }
+     ]
+    },
+    {
+     "id": "L20261127lo14",
+     "niv": "lo14",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Calendriers, horloges et dates",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez trouver le jour de la semaine d'une date lointaine, reconnaître une année bissextile et calculer une durée qui passe minuit ou un fuseau horaire.",
+      "= Vous saurez aussi calculer en moins d'une minute l'angle des aiguilles d'une horloge à n'importe quelle heure, et corriger l'heure d'une montre qui avance ou retarde.",
+      "## Ce que demande l'épreuve",
+      "En logique, le barème est de +2 / 0 / −2 : une erreur annule une bonne réponse. Les questions de calendrier et d'horloge sont rentables, car elles reposent sur trois outils seulement : le reste de la division par 7, la règle des années bissextiles et deux vitesses d'aiguilles. Les pièges sont toujours les mêmes : compter les jours « en piquets » (inclure ou non le premier jour), oublier le 29 février, oublier que l'aiguille des heures bouge aussi.",
+      "## La méthode, pas à pas",
+      "- 1. Jour de la semaine : calculez l'écart en jours, divisez par 7, gardez le reste, avancez d'autant de jours.",
+      "- 2. D'une année à l'autre, à la même date : +1 jour, ou +2 si un 29 février se trouve dans l'intervalle.",
+      "- 3. Angle des aiguilles : angle = |30 × H − 5,5 × M| ; si le résultat dépasse 180°, prenez 360° moins ce résultat.",
+      "- 4. Durées : convertissez tout en minutes, calculez, puis reconvertissez.",
+      "- 5. Barème : avec quatre options, répondre au hasard coûte en moyenne 1 point ; après deux éliminations sûres, le hasard ne coûte plus rien en moyenne, mais ne rapporte rien non plus.",
+      "~ Exemple : quel angle font les aiguilles à 8 h 20 ? Étape 1 : 30 × 8 = 240. Étape 2 : 5,5 × 20 = 110. Étape 3 : |240 − 110| = 130°. Étape 4 : 130 est inférieur à 180, la réponse est 130°.",
+      "> Méthode du jour, l'interrogation élaborative : après avoir retrouvé une règle de mémoire, demandez-vous « pourquoi est-ce vrai ? » et « pourquoi est-ce vrai pour X, mais pas pour Y ? », puis répondez par écrit en une phrase. La revue de Dunlosky et al. (2013) lui attribue une utilité « modérée » ; elle marche surtout pour des faits précis et quand on a déjà quelques connaissances. Deux conditions : une explication précise (pas « parce que c'est comme ça ») et une vérification avec le cours. Combinez-la au rappel : d'abord retrouver, ensuite expliquer."
+     ],
+     "fond": [
+      "## Notion 1 : le jour de la semaine, ou l'art du reste",
+      "Règle : les jours de la semaine reviennent tous les 7 jours. Pour savoir quel jour tombe dans N jours, on ne garde que le reste de la division de N par 7 : c'est le nombre de jours dont on avance.",
+      "Pourquoi ? 7, 14, 21, 28… jours plus tard, on retombe sur le même jour. Ces semaines complètes ne changent rien : seul le reste compte.",
+      "~ Exemple résolu : le 9 d'un mois est un mercredi. Quel jour est le 27 du même mois ? Étape 1 : écart = 27 − 9 = 18 jours. Étape 2 : 18 = 2 × 7 + 4, le reste est 4. Étape 3 : mercredi + 4 jours = dimanche. Vérification : le 16 et le 23 sont des mercredis ; 23 + 4 = 27, et mercredi + 4 donne bien dimanche.",
+      "! Piège : l'écart entre deux dates n'est pas le nombre de jours « du … au … inclus ». Du 9 au 27 inclus, il y a 27 − 9 + 1 = 19 jours ; l'écart, lui, est de 18. C'est le piège des piquets et des intervalles.",
+      "> Pour retenir : « Écart = différence ; jours inclus = différence + 1 ; jour de la semaine = reste de l'écart par 7. »",
+      "? Un festival commence un samedi et dure 45 jours, le premier jour compris. Quel jour est le dernier jour ? || Le dernier jour est 44 jours après le premier (45 jours inclus = écart de 44). 44 = 6 × 7 + 2 : le reste est 2. Samedi + 2 jours = lundi. Le dernier jour est un lundi.",
+      "## Notion 2 : les années bissextiles et le décalage d'une année sur l'autre",
+      "Règle (calendrier grégorien, introduit en 1582 par le pape Grégoire XIII) : une année divisible par 4 est bissextile ; mais une année divisible par 100 ne l'est pas, sauf si elle est divisible par 400. Ainsi 1900 n'était pas bissextile, 2000 l'était.",
+      "Pourquoi ? L'année solaire dure environ 365,2422 jours. Ajouter un jour tous les quatre ans donnerait 365,25 jours, un peu trop ; supprimer trois années bissextiles sur quatre siècles ramène la moyenne à 365,2425 jours.",
+      "Conséquence : 365 = 52 × 7 + 1. Une année ordinaire décale donc une date d'un jour de la semaine ; une année qui contient un 29 février la décale de deux jours.",
+      "~ Exemple résolu : le 1er janvier 2026 est un jeudi. Quel jour est le 31 décembre 2026 ? Étape 1 : 2026 n'est pas divisible par 4, elle compte 365 jours. Étape 2 : l'écart entre le 1er janvier et le 31 décembre est de 364 jours. Étape 3 : 364 = 52 × 7, le reste est 0. Réponse : jeudi. Une année ordinaire commence et finit le même jour de la semaine.",
+      "! Piège : le 29 février ne compte que s'il se trouve entre les deux dates. Du 1er mars 2027 au 1er mars 2028, on traverse le 29 février 2028 : décalage de 2 jours. Du 1er janvier 2028 au 1er février 2028, aucun 29 février n'est traversé.",
+      "> Pour retenir : « 4 oui, 100 non, 400 oui. » Puis : « année ordinaire +1, année bissextile +2 ».",
+      "? Les années 2100, 2024 et 2400 sont-elles bissextiles ? || 2100 est divisible par 100 mais pas par 400 : non bissextile. 2024 est divisible par 4 et pas par 100 : bissextile. 2400 est divisible par 400 : bissextile. Réponse : 2024 et 2400 seulement.",
+      "## Notion 3 : les horloges et l'angle des aiguilles",
+      "Règle : l'aiguille des minutes fait 360° en 60 minutes, soit 6° par minute. L'aiguille des heures fait 360° en 12 heures, soit 30° par heure et 0,5° par minute. À H heures et M minutes, l'aiguille des heures est à 30H + 0,5M degrés de midi, celle des minutes à 6M degrés. D'où la formule : angle = |30H − 5,5M|.",
+      "Pourquoi 5,5 ? Parce que 6M − 0,5M = 5,5M : c'est l'avance que prend l'aiguille des minutes sur celle des heures, minute après minute.",
+      "~ Exemple résolu : angle à 11 h 50 ? Étape 1 : 30 × 11 = 330. Étape 2 : 5,5 × 50 = 275. Étape 3 : |330 − 275| = 55°. Vérification par l'image : à 11 h 50, la grande aiguille est sur le 10 et la petite presque sur le 12 ; l'écart d'un peu moins de deux « heures » (60°) est cohérent avec 55°.",
+      "! Piège : ne raisonnez pas comme si la petite aiguille restait sur le chiffre de l'heure. À 11 h 50, elle a parcouru 50 × 0,5 = 25° depuis le 11 : oublier ce déplacement donne une réponse fausse (30° au lieu de 55°).",
+      "Les aiguilles se superposent 11 fois en 12 heures (et non 12), car l'aiguille des minutes doit faire un peu plus d'un tour pour rattraper celle des heures.",
+      "> Pour retenir : « 30 par heure, 5,5 par minute ; au-delà de 180, je retire de 360. »",
+      "? Quel angle font les aiguilles à 7 h 24 ? || 30 × 7 = 210 ; 5,5 × 24 = 132 ; |210 − 132| = 78°. 78 est inférieur à 180 : la réponse est 78°.",
+      "## Notion 4 : durées, minuit et fuseaux horaires",
+      "Règle : pour une durée qui passe minuit, calculez séparément le temps jusqu'à minuit et le temps après minuit, puis additionnez. Pour un fuseau horaire, ajoutez le décalage quand on va vers une ville en avance (UTC+3 par rapport à UTC+0) et retranchez-le dans l'autre sens.",
+      "Pourquoi ? Une heure locale n'est qu'une étiquette : la durée réelle d'un trajet ne dépend pas du fuseau. On calcule donc la durée dans un seul fuseau, puis on change l'étiquette à l'arrivée.",
+      "~ Exemple résolu : un train part à 21 h 50 et arrive à 5 h 15 le lendemain. Étape 1 : de 21 h 50 à minuit : 2 h 10, soit 130 minutes. Étape 2 : de minuit à 5 h 15 : 315 minutes. Étape 3 : 130 + 315 = 445 minutes, soit 7 h 25.",
+      "Montres qui avancent ou retardent : multipliez l'écart par heure (ou par jour) par le nombre d'heures (ou de jours) écoulées. Une montre qui retarde de 3 minutes par heure, réglée à 8 h, indique à 12 h réelle 12 h moins 4 × 3 minutes, soit 11 h 48.",
+      "! Piège : en changeant de fuseau, appliquez le décalage une seule fois, et à l'heure d'arrivée, pas à la durée du vol.",
+      "? Un avion quitte une ville à UTC+0 à 16 h 30 (heure locale) et vole 5 h 45 vers une ville à UTC+2. Quelle heure locale est-il à l'arrivée ? || Heure d'arrivée dans le fuseau de départ : 16 h 30 + 5 h 45 = 22 h 15. On change ensuite l'étiquette : la ville d'arrivée a 2 heures d'avance, donc 22 h 15 + 2 h = 0 h 15, le lendemain."
+     ],
+     "retenir": [
+      "Jour de la semaine dans N jours : on avance du reste de la division de N par 7.",
+      "Du jour a au jour b inclus, il y a b − a + 1 jours ; l'écart entre les deux dates est b − a.",
+      "Année bissextile : divisible par 4, sauf les années divisibles par 100 qui ne sont pas divisibles par 400 (1900 non, 2000 oui).",
+      "D'une année sur l'autre, une date avance d'un jour de la semaine, ou de deux si un 29 février est traversé.",
+      "Une année ordinaire commence et finit le même jour de la semaine (364 = 52 × 7).",
+      "Angle des aiguilles à H h M min : |30H − 5,5M| ; au-delà de 180°, prendre 360° moins le résultat.",
+      "L'aiguille des heures avance de 0,5° par minute, celle des minutes de 6° par minute ; elles se superposent 11 fois en 12 heures.",
+      "Fuseaux : calculer la durée dans un seul fuseau, puis ajouter le décalage à l'heure d'arrivée."
+     ],
+     "exo": {
+      "tag": "niv-lo14",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "Université de Warwick, « Leap years » (J. McCormac, 26 février 2020)",
+       "u": "https://warwick.ac.uk/news/knowledgecentre/science/physics-astrophysics/leap_years"
+      },
+      {
+       "t": "Structural Learning, « Elaborative Interrogation: Examples and Teaching Guide »",
+       "u": "https://www.structural-learning.com/post/elaborative-interrogation"
+      },
+      {
+       "t": "LITFL, « Elaboration and Elaborative Interrogation »",
+       "u": "https://litfl.com/elaboration-and-elaborative-interrogation"
+      }
+     ]
+    }
+   ],
+   "sujets": []
   }
  ]
 }
