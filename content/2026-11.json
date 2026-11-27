@@ -49473,6 +49473,582 @@
       "t": "Wikipedia, « Organization for Security and Co-operation in Europe »",
       "u": "https://en.wikipedia.org/wiki/Organization_for_Security_and_Co-operation_in_Europe"
      }
+    },
+    {
+     "id": "c20261127-dc05-01",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Selon l'article 58 de la Constitution, à quelle date le Président élu est-il installé dans ses fonctions ?",
+     "o": [
+      "Le dernier samedi de novembre",
+      "Le premier lundi de janvier",
+      "Le deuxième lundi de décembre de la cinquième année du mandat",
+      "Le jour même de la proclamation des résultats"
+     ],
+     "a": 2,
+     "e": "L'article 58 fixe l'installation au deuxième lundi de décembre de la cinquième année du mandat : le Président élu y prête serment devant le Conseil constitutionnel et reçoit les attributs de sa charge.",
+     "ed": [
+      "Le dernier samedi de novembre est la date du second tour (article 56), pas celle de l'installation.",
+      "La Constitution ne fixe pas l'installation en janvier.",
+      null,
+      "La proclamation des résultats définitifs précède le serment ; elle ne vaut pas installation."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/"
+     }
+    },
+    {
+     "id": "c20261127-dc05-02",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Devant quelle institution le Président de la République fait-il sa déclaration de patrimoine, à l'entrée en fonction et à la fin du mandat (article 60) ?",
+     "o": [
+      "La Cour des comptes",
+      "Le Conseil constitutionnel",
+      "La Haute Autorité pour la bonne gouvernance",
+      "L'Assemblée nationale"
+     ],
+     "a": 0,
+     "e": "L'article 60 impose au Président une déclaration authentique de patrimoine auprès de la Cour des comptes, au début et à la fin du mandat, pour prévenir les conflits d'intérêts.",
+     "ed": [
+      null,
+      "Le Conseil constitutionnel reçoit le serment du Président (article 58), pas sa déclaration de patrimoine.",
+      "L'article 60 de la Constitution désigne la Cour des comptes, et non cette autorité.",
+      "Le Parlement ne reçoit pas la déclaration de patrimoine du Président."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/"
+     }
+    },
+    {
+     "id": "c20261127-dc05-03",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Pendant son mandat, le Président souhaite louer un immeuble appartenant à l'État. Que prévoit l'article 60 ?",
+     "o": [
+      "C'est librement permis s'il paie le loyer du marché",
+      "C'est interdit, sauf autorisation préalable de la Cour des comptes dans les conditions fixées par la loi",
+      "C'est permis avec l'accord du Premier ministre",
+      "C'est permis s'il passe par un intermédiaire"
+     ],
+     "a": 1,
+     "e": "L'article 60 interdit au Président d'acheter ou de prendre à bail, par lui-même ou par personne interposée, un bien de l'État, sauf autorisation préalable de la Cour des comptes.",
+     "ed": [
+      "Le prix du marché ne lève pas l'interdiction : seule l'autorisation de la Cour des comptes le permet.",
+      null,
+      "Le Premier ministre, nommé par le Président, n'a aucun rôle d'autorisation ici.",
+      "Le texte vise expressément l'acquisition « par personne interposée » : l'intermédiaire ne change rien."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/"
+     }
+    },
+    {
+     "id": "c20261127-dc05-04",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Pour obtenir un avis sur un projet de décret réglementaire avant son examen en Conseil des ministres, le Président peut saisir (article 72) :",
+     "o": [
+      "Le Conseil constitutionnel",
+      "La Cour de cassation",
+      "Le Conseil économique, social, environnemental et culturel",
+      "Le Conseil d'État"
+     ],
+     "a": 3,
+     "e": "L'article 72 distingue : projets de loi et d'ordonnance pour avis au Conseil constitutionnel ; projets de décrets réglementaires pour avis au Conseil d'État.",
+     "ed": [
+      "Le Conseil constitutionnel donne son avis sur les projets de loi et d'ordonnance, pas sur les projets de décrets réglementaires.",
+      "La Cour de cassation est une juridiction judiciaire, sans fonction consultative prévue par l'article 72.",
+      "L'article 72 ne mentionne pas cette institution consultative pour les projets de décret.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/"
+     }
+    },
+    {
+     "id": "c20261127-dc05-05",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Avant de soumettre un texte au référendum, le Président de la République doit, selon l'article 75 :",
+     "o": [
+      "obtenir l'accord du Sénat",
+      "consulter le Bureau du Congrès",
+      "saisir la Cour suprême",
+      "consulter le Premier ministre et le Gouvernement en Conseil"
+     ],
+     "a": 1,
+     "e": "L'article 75 permet au Président de soumettre au référendum tout texte ou toute question, après consultation du Bureau du Congrès ; un texte adopté est promulgué dans les délais de l'article 74.",
+     "ed": [
+      "Le Sénat seul n'a pas à donner son accord : c'est le Bureau du Congrès qui est consulté.",
+      null,
+      "Aucune saisine juridictionnelle préalable n'est prévue par l'article 75.",
+      "L'article 75 vise le Bureau du Congrès, non le Gouvernement."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/"
+     }
+    },
+    {
+     "id": "c20261127-dc05-06",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Après le premier tour, l'un des deux candidats qualifiés pour le second tour décède. Qui saisit immédiatement le Conseil constitutionnel (article 57) ?",
+     "o": [
+      "Le Président de la Commission électorale indépendante",
+      "Le Premier ministre",
+      "Le candidat resté en lice",
+      "Le Président de l'Assemblée nationale"
+     ],
+     "a": 0,
+     "e": "L'article 57 prévoit que le Président de la Commission électorale indépendante saisit sans délai le Conseil constitutionnel, qui décide dans les 72 heures de la reprise des opérations ; le scrutin a lieu dans les 30 jours au plus.",
+     "ed": [
+      null,
+      "Le Premier ministre n'intervient pas dans cette procédure électorale.",
+      "Le candidat restant n'a pas à saisir le Conseil : la saisine appartient au Président de la Commission électorale indépendante.",
+      "Le Président de l'Assemblée nationale n'a aucun rôle dans la saisine prévue par l'article 57."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/"
+     }
+    },
+    {
+     "id": "c20261127-dc05-07",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Une loi n'a pas été promulguée dans le délai de l'article 74. Qui peut saisir le Conseil constitutionnel pour qu'elle soit déclarée exécutoire ?",
+     "o": [
+      "Tout citoyen",
+      "Le Vice-Président",
+      "Le Président de l'une des deux chambres du Parlement",
+      "Le Médiateur de la République"
+     ],
+     "a": 2,
+     "e": "Selon l'article 74, la loi non promulguée dans les délais est déclarée exécutoire par le Conseil constitutionnel, saisi par le Président de l'une des deux chambres, si elle est conforme à la Constitution.",
+     "ed": [
+      "L'article 74 ne donne pas cette saisine aux citoyens.",
+      "Le Vice-Président n'a pas de pouvoir propre de saisine dans ce cas.",
+      null,
+      "Le Médiateur règle des différends avec l'administration ; il ne saisit pas le Conseil dans ce cas."
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/"
+     }
+    },
+    {
+     "id": "c20261127-dc05-08",
+     "m": "dc",
+     "tag": "niv-dc05",
+     "q": "Le Président demande une seconde délibération d'une loi. Quelle majorité est exigée pour l'adopter à nouveau (article 74) ?",
+     "o": [
+      "La majorité simple des suffrages exprimés à l'Assemblée nationale",
+      "Les trois cinquièmes des sénateurs",
+      "L'unanimité des membres du Bureau du Congrès",
+      "La majorité absolue des membres du Parlement réunis en Congrès"
+     ],
+     "a": 3,
+     "e": "L'article 74 prévoit que la seconde délibération, qui ne peut être refusée, est votée à la majorité absolue des membres du Parlement réunis en Congrès.",
+     "ed": [
+      "La majorité simple ne suffit pas : il faut la majorité absolue des membres du Congrès.",
+      "Le texte ne vise pas le seul Sénat ni la majorité des trois cinquièmes.",
+      "Le Bureau du Congrès n'adopte pas la loi ; c'est le Congrès entier qui vote.",
+      null
+     ],
+     "src": {
+      "t": "Loidici – Constitution ivoirienne (2016, rév. 2020), Chapitre 2 : Du Président de la République",
+      "u": "https://loidici.biz/2018/08/18/chapitre-2-du-president-de-la-republique/lois-article-par-article/codes/la-constitution-ivoirienne/"
+     }
+    },
+    {
+     "id": "c20261127-da1-01",
+     "m": "da",
+     "tag": "da1",
+     "q": "Combien de régions (circonscriptions administratives) la Côte d'Ivoire comptait-elle en 2021 selon la Direction générale de l'Économie ?",
+     "o": [
+      "14",
+      "31",
+      "108",
+      "509"
+     ],
+     "a": 1,
+     "e": "Le tableau officiel de l'organisation administrative en 2021 recense 31 régions, chacune dotée d'un conseil régional comme collectivité territoriale.",
+     "ed": [
+      "14 est le nombre de districts autonomes en 2021.",
+      null,
+      "108 est le nombre de départements en 2021.",
+      "509 est le nombre de sous-préfectures en 2021."
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie – Vie politique et administrative (organisation administrative en 2021)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/vie-politique-et-administrative.html"
+     }
+    },
+    {
+     "id": "c20261127-da1-02",
+     "m": "da",
+     "tag": "da1",
+     "q": "En 2021, combien de départements la Côte d'Ivoire comptait-elle ?",
+     "o": [
+      "108",
+      "201",
+      "31",
+      "8 571"
+     ],
+     "a": 0,
+     "e": "Selon le tableau 2021 de la Direction générale de l'Économie, le pays compte 108 départements, chacun administré par un préfet.",
+     "ed": [
+      null,
+      "201 est le nombre de communes.",
+      "31 est le nombre de régions.",
+      "8 571 est le nombre de villages."
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie – Vie politique et administrative (organisation administrative en 2021)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/vie-politique-et-administrative.html"
+     }
+    },
+    {
+     "id": "c20261127-da1-03",
+     "m": "da",
+     "tag": "da1",
+     "q": "Quelle est, en 2021, la circonscription administrative la plus nombreuse en Côte d'Ivoire ?",
+     "o": [
+      "La sous-préfecture",
+      "Le département",
+      "Le village",
+      "La région"
+     ],
+     "a": 2,
+     "e": "Le village est la base de l'organisation administrative : 8 571 villages en 2021, contre 509 sous-préfectures, 108 départements et 31 régions.",
+     "ed": [
+      "Les sous-préfectures sont 509, bien moins que les villages.",
+      "Les départements ne sont que 108.",
+      null,
+      "Les régions ne sont que 31."
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie – Vie politique et administrative (organisation administrative en 2021)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/vie-politique-et-administrative.html"
+     }
+    },
+    {
+     "id": "c20261127-da1-04",
+     "m": "da",
+     "tag": "da1",
+     "q": "Combien de sous-préfectures la Côte d'Ivoire comptait-elle en 2021 ?",
+     "o": [
+      "201",
+      "108",
+      "14",
+      "509"
+     ],
+     "a": 3,
+     "e": "Le tableau officiel 2021 recense 509 sous-préfectures, chacune administrée par un sous-préfet, représentant de l'État à l'échelon le plus proche des villages.",
+     "ed": [
+      "201 correspond aux communes, collectivités décentralisées.",
+      "108 correspond aux départements.",
+      "14 correspond aux districts autonomes.",
+      null
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie – Vie politique et administrative (organisation administrative en 2021)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/vie-politique-et-administrative.html"
+     }
+    },
+    {
+     "id": "c20261127-da1-05",
+     "m": "da",
+     "tag": "da1",
+     "q": "Qui administre le département, circonscription administrative de l'État ?",
+     "o": [
+      "Le président du conseil régional",
+      "Le préfet",
+      "Le maire du chef-lieu",
+      "Le ministre-gouverneur"
+     ],
+     "a": 1,
+     "e": "Le département est administré par un préfet, agent de l'État nommé et soumis au pouvoir hiérarchique : c'est l'administration déconcentrée.",
+     "ed": [
+      "Le président du conseil régional dirige une collectivité décentralisée, pas une circonscription de l'État.",
+      null,
+      "Le maire dirige la commune, collectivité territoriale, et non le département.",
+      "Le ministre-gouverneur dirige un district autonome."
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie – Vie politique et administrative (organisation administrative en 2021)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/vie-politique-et-administrative.html"
+     }
+    },
+    {
+     "id": "c20261127-da1-06",
+     "m": "da",
+     "tag": "da1",
+     "q": "Quel est le rôle du chef de village dans l'organisation administrative ivoirienne ?",
+     "o": [
+      "Il est reconnu par l'État et sert d'interlocuteur à l'administration préfectorale",
+      "Il est un fonctionnaire nommé par le préfet de région",
+      "Il préside de droit le conseil municipal",
+      "Il dirige une collectivité territoriale dotée d'un budget propre"
+     ],
+     "a": 0,
+     "e": "La présentation officielle décrit le village comme dirigé par un chef reconnu par l'État, interlocuteur de l'administration préfectorale (sous-préfet, préfet).",
+     "ed": [
+      null,
+      "Le chef de village n'est pas un fonctionnaire nommé : il est reconnu par l'État.",
+      "Le conseil municipal élit le maire ; le chef de village ne le préside pas de droit.",
+      "Le village est une circonscription administrative, non une collectivité territoriale."
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie – Vie politique et administrative (organisation administrative en 2021)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/vie-politique-et-administrative.html"
+     }
+    },
+    {
+     "id": "c20261127-da1-07",
+     "m": "da",
+     "tag": "da1",
+     "q": "Laquelle de ces entités est une collectivité territoriale (administration décentralisée) ?",
+     "o": [
+      "La sous-préfecture",
+      "Le département",
+      "La commune",
+      "Le village"
+     ],
+     "a": 2,
+     "e": "En 2021, les collectivités territoriales sont les communes (201) et les régions dotées d'un conseil régional (31) ; sous-préfectures, départements et villages relèvent de l'administration de l'État.",
+     "ed": [
+      "La sous-préfecture est une circonscription administrative de l'État.",
+      "Le département est une circonscription de l'administration déconcentrée.",
+      null,
+      "Le village est une circonscription administrative, non une collectivité décentralisée."
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie – Vie politique et administrative (organisation administrative en 2021)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/vie-politique-et-administrative.html"
+     }
+    },
+    {
+     "id": "c20261127-da1-08",
+     "m": "da",
+     "tag": "da1",
+     "q": "Un district autonome se définit comme :",
+     "o": [
+      "une collectivité dirigée par un maire élu",
+      "un ensemble de communes et de sous-préfectures dirigé par un ministre-gouverneur nommé par le Président",
+      "une subdivision du département dirigée par un sous-préfet",
+      "une circonscription judiciaire"
+     ],
+     "a": 1,
+     "e": "Selon la Direction générale de l'Économie, le district autonome regroupe communes et sous-préfectures et est dirigé par un ministre-gouverneur nommé par le Président ; on en comptait 14 en 2021.",
+     "ed": [
+      "Le maire élu dirige la commune, pas le district.",
+      null,
+      "La subdivision du département dirigée par un sous-préfet est la sous-préfecture.",
+      "Le district autonome est une structure administrative, non judiciaire."
+     ],
+     "src": {
+      "t": "Direction générale de l'Économie – Vie politique et administrative (organisation administrative en 2021)",
+      "u": "https://economie-ivoirienne.ci/index.php/cote-divoire-en-bref/vie-politique-et-administrative.html"
+     }
+    },
+    {
+     "id": "c20261127-da2-01",
+     "m": "da",
+     "tag": "da2",
+     "q": "Le maire décide qu'un arrêté réglementaire cessera de s'appliquer à partir du 1er janvier, sans revenir sur ses effets passés. Il procède à :",
+     "o": [
+      "un retrait",
+      "une annulation",
+      "une abrogation",
+      "une suspension"
+     ],
+     "a": 2,
+     "e": "L'abrogation fait disparaître l'acte pour l'avenir ; le retrait le fait disparaître rétroactivement, comme s'il n'avait jamais existé.",
+     "ed": [
+      "Le retrait efface l'acte rétroactivement, depuis son origine.",
+      "L'annulation est prononcée par le juge, pas par l'auteur de l'acte.",
+      null,
+      "La suspension interrompt provisoirement l'exécution ; elle ne fait pas disparaître l'acte."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, partie 4, ch. 1, section IV (sortie de vigueur des actes)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2020/08/12/droit-administratif-francais-partie-4-chapitre-1-section-4-xx"
+     }
+    },
+    {
+     "id": "c20261127-da2-02",
+     "m": "da",
+     "tag": "da2",
+     "q": "Selon l'arrêt Ternon du Conseil d'État français (2001), dans quel délai une décision individuelle illégale créatrice de droits peut-elle être retirée ?",
+     "o": [
+      "Deux mois après sa publication",
+      "Quatre mois à compter de son adoption",
+      "Un an après sa notification",
+      "À tout moment"
+     ],
+     "a": 1,
+     "e": "L'arrêt Ternon (CE, Ass., 26 octobre 2001) limite le retrait d'une décision individuelle illégale créatrice de droits à quatre mois à compter de son adoption (signature).",
+     "ed": [
+      "Deux mois est le délai de recours contentieux, que Ternon a justement abandonné pour le retrait.",
+      null,
+      "Aucun délai d'un an n'est retenu par Ternon.",
+      "Le retrait à tout moment ne vaut que pour les actes obtenus par fraude."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, partie 4, ch. 1, section IV (sortie de vigueur des actes)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2020/08/12/droit-administratif-francais-partie-4-chapitre-1-section-4-xx"
+     }
+    },
+    {
+     "id": "c20261127-da2-03",
+     "m": "da",
+     "tag": "da2",
+     "q": "Une décision individuelle légale a accordé un droit à un agent. L'administration peut-elle la retirer ?",
+     "o": [
+      "Oui, à tout moment",
+      "Oui, dans les quatre mois",
+      "Oui, si un nouveau ministre est nommé",
+      "Non, sauf à la demande du bénéficiaire"
+     ],
+     "a": 3,
+     "e": "Un acte régulier créateur de droits ne peut pas être retiré ; une exception existe lorsque le bénéficiaire lui-même le demande (article L. 242-4 du code français des relations entre le public et l'administration).",
+     "ed": [
+      "Le retrait à tout moment porterait atteinte aux droits acquis ; il est réservé à la fraude.",
+      "Le délai de quatre mois concerne les seuls actes illégaux.",
+      "Le changement d'autorité ne rend pas l'acte retirable : il engage l'administration, non une personne.",
+      null
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, partie 4, ch. 1, section IV (sortie de vigueur des actes)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2020/08/12/droit-administratif-francais-partie-4-chapitre-1-section-4-xx"
+     }
+    },
+    {
+     "id": "c20261127-da2-04",
+     "m": "da",
+     "tag": "da2",
+     "q": "Quels actes administratifs peuvent créer des droits au profit de leurs destinataires ?",
+     "o": [
+      "Les seuls actes réglementaires",
+      "Toutes les circulaires",
+      "Les seules décisions individuelles",
+      "Tous les actes, sans distinction"
+     ],
+     "a": 2,
+     "e": "Seules les décisions individuelles peuvent créer des droits ; un acte réglementaire n'en crée jamais : nul n'a droit au maintien d'un règlement.",
+     "ed": [
+      "Un règlement ne crée jamais de droits acquis à son maintien.",
+      "Une circulaire n'est pas une décision individuelle créatrice de droits.",
+      null,
+      "Les actes réglementaires et les actes non réglementaires non individuels n'en créent pas."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, partie 4, ch. 1, section IV (sortie de vigueur des actes)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2020/08/12/droit-administratif-francais-partie-4-chapitre-1-section-4-xx"
+     }
+    },
+    {
+     "id": "c20261127-da2-05",
+     "m": "da",
+     "tag": "da2",
+     "q": "Un permis a été obtenu grâce à de faux documents. Que peut faire l'administration ?",
+     "o": [
+      "Le retirer à tout moment, car un acte obtenu par fraude ne crée pas de droits",
+      "Le retirer seulement dans les quatre mois",
+      "Rien, car il est créateur de droits",
+      "Demander au juge pénal de l'abroger"
+     ],
+     "a": 0,
+     "e": "La fraude corrompt tout : un acte obtenu par fraude ne crée pas de droits et peut être retiré ou abrogé à tout moment (CE, 29 janvier 2002, AP-HM Marseille).",
+     "ed": [
+      null,
+      "Le délai de quatre mois ne protège pas le fraudeur.",
+      "L'acte frauduleux ne crée justement aucun droit.",
+      "L'abrogation appartient à l'administration ; le juge pénal ne l'abroge pas."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, partie 4, ch. 1, section IV (sortie de vigueur des actes)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2020/08/12/droit-administratif-francais-partie-4-chapitre-1-section-4-xx"
+     }
+    },
+    {
+     "id": "c20261127-da2-06",
+     "m": "da",
+     "tag": "da2",
+     "q": "Selon la jurisprudence Danthony (2011), un vice de procédure entraîne l'annulation d'une décision :",
+     "o": [
+      "dans tous les cas",
+      "seulement s'il a pu influencer la décision ou a privé l'intéressé d'une garantie",
+      "jamais, car c'est un simple vice de forme",
+      "seulement si le juge le relève d'office"
+     ],
+     "a": 1,
+     "e": "Depuis l'arrêt Danthony (CE, Ass., 23 décembre 2011), un vice de procédure n'annule l'acte que s'il a pu exercer une influence sur la décision ou priver les intéressés d'une garantie.",
+     "ed": [
+      "Danthony a précisément mis fin à l'annulation automatique pour vice de procédure.",
+      null,
+      "Le vice de procédure est distinct du vice de forme et peut entraîner l'annulation.",
+      "Le vice de procédure n'est pas d'ordre public : il doit être soulevé par les parties."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, 2e partie, ch. 2 (recours pour excès de pouvoir)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2013/08/17/droit-administratif-francais-deuxieme-partie-chapitre-2"
+     }
+    },
+    {
+     "id": "c20261127-da2-07",
+     "m": "da",
+     "tag": "da2",
+     "q": "Lequel de ces moyens le juge de l'excès de pouvoir doit-il relever d'office, car il est d'ordre public ?",
+     "o": [
+      "Le vice de procédure",
+      "Le vice de forme",
+      "Le détournement de pouvoir",
+      "L'incompétence de l'auteur de l'acte"
+     ],
+     "a": 3,
+     "e": "L'incompétence est un moyen d'ordre public : le juge la relève même si le requérant ne l'a pas invoquée ; le vice de procédure doit en principe être soulevé par les parties.",
+     "ed": [
+      "Le vice de procédure n'est pas d'ordre public : les parties doivent l'invoquer.",
+      "Le vice de forme doit être soulevé par le requérant.",
+      "Le détournement de pouvoir relève de la légalité interne et doit être invoqué.",
+      null
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, 2e partie, ch. 2 (recours pour excès de pouvoir)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2013/08/17/droit-administratif-francais-deuxieme-partie-chapitre-2"
+     }
+    },
+    {
+     "id": "c20261127-da2-08",
+     "m": "da",
+     "tag": "da2",
+     "q": "Un arrêté réglementaire légal n'a jamais été publié. Quelle est sa situation ?",
+     "o": [
+      "Il est illégal et nul",
+      "Il est légal, mais ne peut pas être opposé aux administrés tant qu'il n'est pas publié",
+      "Il entre en vigueur dès sa signature à l'égard de tous",
+      "Il devient un acte individuel"
+     ],
+     "a": 1,
+     "e": "Le défaut de publication n'affecte pas la légalité de l'acte, mais l'administration ne peut pas l'imposer aux administrés tant que la publicité n'est pas faite ; le délai de recours ne court pas.",
+     "ed": [
+      "La légalité s'apprécie à la signature : l'absence de publication ne rend pas l'acte illégal.",
+      null,
+      "Seules certaines décisions individuelles favorables prennent effet dès la signature ; pas un règlement.",
+      "La publication ou son absence ne change pas la nature de l'acte."
+     ],
+     "src": {
+      "t": "Revue générale du droit – P. Tifine, Droit administratif français, partie 4, ch. 1, section III (entrée en vigueur des actes)",
+      "u": "https://www.revuegeneraledudroit.eu/blog/2020/08/13/droit-administratif-francais-partie-4-chapitre-1-section-3-xx"
+     }
     }
    ],
    "lessons": [
@@ -49784,6 +50360,110 @@
       {
        "t": "LITFL, « Elaboration and Elaborative Interrogation »",
        "u": "https://litfl.com/elaboration-and-elaborative-interrogation"
+      }
+     ]
+    },
+    {
+     "id": "L20261112lo09",
+     "niv": "lo09",
+     "m": "log",
+     "verif": "calcul",
+     "titre": "Âges, partages et mélanges",
+     "min": 60,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez résoudre les problèmes d'âges en vous appuyant sur l'écart d'âge, qui ne change jamais.",
+      "= Vous saurez aussi partager une somme proportionnellement ou inversement proportionnellement à des nombres, et calculer le prix ou la concentration d'un mélange.",
+      "## Ce que demande l'épreuve",
+      "Ces trois familles de problèmes sont des classiques des tests de calcul de la présélection, notés +2 / 0 / −2 en logique. L'énoncé est court, mais il cache une inconnue : un nombre d'années, une part, une quantité à mélanger. Les mauvaises réponses proposées correspondent à des erreurs typiques : oublier que tout le monde vieillit en même temps, partager directement au lieu de partager à l'inverse, faire la moyenne simple de deux prix au lieu de la moyenne pondérée par les quantités.",
+      "## Le barème : quand répondre, quand s'abstenir",
+      "En logique, une bonne réponse rapporte 2 points, une erreur en retire 2, l'abstention vaut 0. Répondre au hasard entre 4 propositions fait perdre en moyenne 1 point (1/4 × 2 − 3/4 × 2). Entre 2 propositions restantes, l'espérance est nulle. Règle pratique : ne cochez que si vous avez calculé, ou si une vérification rapide (replacer le résultat dans l'énoncé) élimine toutes les autres réponses.",
+      "> Pour retenir : « Je calcule, je vérifie, je coche ; sinon je passe. »",
+      "## La méthode, pas à pas",
+      "- 1. Nommez l'inconnue (x années, la part de B, la quantité du produit à 300 F) et écrivez ce que chaque phrase de l'énoncé dit sur elle.",
+      "- 2. Âges : écrivez les âges à la date indiquée (aujourd'hui + x, ou aujourd'hui − x) pour toutes les personnes, puis posez l'égalité.",
+      "- 3. Partages : additionnez les parts (2 + 3 + 4…), divisez la somme par ce total pour obtenir la valeur d'une part, puis multipliez.",
+      "- 4. Mélanges : raisonnez sur les totaux (prix total, quantité de sucre) et non sur les prix ou les pourcentages, qui ne s'additionnent pas.",
+      "- 5. Vérifiez toujours en replaçant le résultat dans l'énoncé : c'est rapide et cela évite de perdre deux points.",
+      "! Piège habituel : dans les problèmes d'âges, ajouter les années à une seule personne. Dans 10 ans, le père ET l'enfant auront 10 ans de plus.",
+      "## Reconnaître la famille du problème en 5 secondes",
+      "- « il y a… ans », « dans… ans », « fois l'âge » : problème d'âges → écart constant.",
+      "- « proportionnellement », « inversement », « selon les apports » : partage → total des parts.",
+      "- « mélange », « kilo », « % de sucre », « eau ajoutée » : mélange → raisonner sur les totaux.",
+      "> Pour retenir : Âge = Écart ; Partage = Parts ; Mélange = Totaux (« A-E, P-P, M-T »)."
+     ],
+     "fond": [
+      "## Notion 1 : les âges et l'écart constant",
+      "Règle : l'écart d'âge entre deux personnes ne change jamais. Si une mère a 27 ans de plus que sa fille aujourd'hui, elle aura toujours 27 ans de plus.",
+      "Pourquoi ? Chaque année, les deux personnes vieillissent d'un an en même temps : la différence reste la même.",
+      "Raccourci : quand le parent a k fois l'âge de l'enfant, l'écart vaut (k − 1) fois l'âge de l'enfant. L'enfant a donc écart ÷ (k − 1) ans à ce moment-là.",
+      "~ Exemple résolu : Adjoua a 9 ans et sa mère 36 ans. Dans combien d'années la mère aura-t-elle le double de l'âge de sa fille ? Écart : 36 − 9 = 27 ans. Au moment du double (k = 2), la fille a 27 ÷ 1 = 27 ans. Cela arrive dans 27 − 9 = 18 ans. Vérification : 36 + 18 = 54 et 9 + 18 = 27 ; 54 = 2 × 27.",
+      "? Un grand-père a 70 ans et son petit-fils 10 ans. Dans combien d'années le grand-père aura-t-il cinq fois l'âge de son petit-fils ? || Écart : 70 − 10 = 60 ans. Au moment cherché (k = 5), le petit-fils a 60 ÷ 4 = 15 ans, donc dans 15 − 10 = 5 ans. Vérification : 75 = 5 × 15.",
+      "! Piège : la question peut porter sur le passé (« il y a combien d'années… »). On soustrait alors x aux deux âges ; si le calcul donne un résultat négatif, l'événement est dans le futur.",
+      "Méthode du tableau : quand l'énoncé donne deux informations (une somme aujourd'hui, un rapport dans le passé), faites un tableau à deux lignes (les personnes) et deux colonnes (il y a n ans, aujourd'hui). Écrivez les âges avec la même inconnue partout, puis posez l'égalité.",
+      "~ Exemple résolu avec tableau : il y a 4 ans, Konan avait le triple de l'âge de sa sœur Ama ; aujourd'hui, leurs âges font 40 ans à eux deux. Soit A l'âge d'Ama aujourd'hui. Il y a 4 ans : Ama A − 4, Konan 3(A − 4). Aujourd'hui, Konan a donc 3(A − 4) + 4 = 3A − 8. Somme : A + 3A − 8 = 40, d'où 4A = 48 et A = 12. Konan a 28 ans. Vérification : il y a 4 ans, 24 = 3 × 8.",
+      "? Une tante a 50 ans et sa nièce 20 ans. Il y a combien d'années la tante avait-elle quatre fois l'âge de sa nièce ? || Écart constant : 50 − 20 = 30 ans. Quand la tante a 4 fois l'âge de la nièce, l'écart vaut 3 fois l'âge de la nièce : celle-ci a 30 ÷ 3 = 10 ans. C'était il y a 20 − 10 = 10 ans. Vérification : 40 = 4 × 10.",
+      "> Pour retenir : « L'écart ne vieillit pas. » Écart ÷ (k − 1) donne l'âge du plus jeune au moment du rapport k.",
+      "## Notion 2 : somme et différence connues",
+      "Règle : si l'on connaît la somme S et la différence D de deux nombres, le plus grand vaut (S + D) ÷ 2 et le plus petit (S − D) ÷ 2.",
+      "Pourquoi ? En retirant la différence au total, on obtient deux fois le plus petit nombre ; en l'ajoutant, deux fois le plus grand.",
+      "~ Exemple résolu : deux caisses d'un groupement de vivrières contiennent ensemble 230 000 F, la première a 40 000 F de plus que la seconde. Première : (230 000 + 40 000) ÷ 2 = 135 000 F. Seconde : (230 000 − 40 000) ÷ 2 = 95 000 F. Vérification : 135 000 + 95 000 = 230 000.",
+      "? Trois cousins ont des âges qui se suivent (par exemple 6, 7, 8) et la somme de leurs âges est 57 ans. Quel est l'âge de l'aîné ? || Le cousin du milieu a l'âge moyen : 57 ÷ 3 = 19 ans. Les âges sont donc 18, 19 et 20 ; l'aîné a 20 ans. Vérification : 18 + 19 + 20 = 57.",
+      "## Notion 3 : le partage proportionnel",
+      "Règle : partager une somme proportionnellement à des nombres (2, 3, 4), c'est donner à chacun un nombre de parts égal à son nombre. Valeur d'une part = somme ÷ total des parts.",
+      "Pourquoi ? C'est la règle de l'équité : celui qui a apporté deux fois plus reçoit deux fois plus.",
+      "~ Exemple résolu : un GIE maraîcher de Bouaké réalise un bénéfice de 1 800 000 F, à partager selon les apports de trois membres : 200 000, 300 000 et 400 000 F. Les apports sont dans le rapport 2 : 3 : 4, soit 9 parts. Une part vaut 1 800 000 ÷ 9 = 200 000 F. Parts : 400 000 F, 600 000 F et 800 000 F. Vérification : total 1 800 000 F.",
+      "Variante : quand les apports durent des temps différents, on partage proportionnellement au produit apport × durée.",
+      "~ Exemple résolu (apport × durée) : deux coopératrices d'Agnibilékrou se partagent un bénéfice de 1 200 000 F. Akissi a placé 600 000 F pendant 8 mois, Brou 400 000 F pendant 12 mois. Étape 1 : produits apport × durée : 600 000 × 8 = 4 800 000 et 400 000 × 12 = 4 800 000. Étape 2 : les deux produits sont égaux, donc les parts aussi : 600 000 F chacune. Piège évité : partager selon les seuls apports (3 : 2) donnerait 720 000 F et 480 000 F.",
+      "? Partagez 156 000 F entre trois frères proportionnellement à 2, 3 et 8. || Total des parts : 2 + 3 + 8 = 13. Une part vaut 156 000 ÷ 13 = 12 000 F. Parts : 24 000 F, 36 000 F et 96 000 F. Vérification : 24 000 + 36 000 + 96 000 = 156 000 F.",
+      "## Notion 4 : le partage inversement proportionnel",
+      "Règle : partager inversement proportionnellement à 2, 3 et 6, c'est partager proportionnellement à 1/2, 1/3 et 1/6. On réduit au même dénominateur (6) : 3/6, 2/6, 1/6, puis on partage selon 3, 2 et 1.",
+      "Pourquoi ? On l'utilise quand une grandeur doit pénaliser : plus de retards ou d'absences donne une plus petite part.",
+      "~ Exemple résolu : une prime de 66 000 F est partagée entre trois livreurs inversement proportionnellement à leurs retards : 2, 3 et 6. Rapports : 3, 2 et 1, soit 6 parts de 11 000 F. Le livreur aux 2 retards reçoit 33 000 F, celui aux 3 retards 22 000 F, celui aux 6 retards 11 000 F.",
+      "! Piège : partager directement selon 2, 3, 6 donnerait la plus grosse part au moins ponctuel. Vérifiez que le classement des parts est bien inversé.",
+      "> Pour retenir : « Inverse, je retourne, je réduis, je partage. » Retourner les nombres (1/3, 1/4…), les réduire au même dénominateur, puis partager selon les numérateurs.",
+      "? Partagez 90 000 F inversement proportionnellement à 3, 4 et 6. || On partage selon 1/3, 1/4 et 1/6, soit 4/12, 3/12 et 2/12, donc selon 4, 3 et 2 : 9 parts de 10 000 F. Parts : 40 000 F (pour 3), 30 000 F (pour 4) et 20 000 F (pour 6). Contrôle : le plus petit nombre reçoit la plus grande part.",
+      "? Partagez 100 000 F entre deux agents inversement proportionnellement à leurs jours d'absence, 4 et 6. || On partage selon 1/4 et 1/6, soit 3/12 et 2/12, donc selon 3 et 2 : 5 parts de 20 000 F. L'agent aux 4 jours reçoit 60 000 F, l'agent aux 6 jours 40 000 F. Contrôle : le moins absent reçoit le plus.",
+      "## Notion 5 : le prix d'un mélange",
+      "Règle : le prix moyen d'un mélange est le prix total divisé par la quantité totale. C'est une moyenne pondérée par les quantités.",
+      "~ Exemple résolu : un commerçant d'Abengourou mélange 40 kg de riz à 450 F le kilo et 60 kg à 550 F. Prix total : 18 000 + 33 000 = 51 000 F pour 100 kg, soit 510 F le kilo, et non 500 F (moyenne simple).",
+      "Méthode des croix : pour obtenir un prix cible entre deux prix, les quantités sont dans le rapport inverse des écarts au prix cible. Pour 500 F à partir de 450 F et 600 F : écarts 50 et 100, donc 100 parts à 450 F pour 50 parts à 600 F, soit 2 pour 1.",
+      "? Un grossiste mélange 15 kg de maïs à 600 F le kilo, 10 kg à 900 F et 25 kg à 720 F. Quel est le prix du kilo du mélange ? || Prix total : 15 × 600 = 9 000 F, 10 × 900 = 9 000 F, 25 × 720 = 18 000 F, soit 36 000 F pour 50 kg. Prix moyen : 36 000 ÷ 50 = 720 F le kilo. La moyenne simple des trois prix (740 F) serait fausse : elle ignore les quantités.",
+      "? Combien de litres d'huile à 1 200 F et à 1 500 F faut-il mélanger pour obtenir 60 litres à 1 300 F le litre ? || Écarts au prix cible : 1 300 − 1 200 = 100 et 1 500 − 1 300 = 200. Les quantités sont dans le rapport inverse : 200 pour l'huile à 1 200 F et 100 pour l'huile à 1 500 F, soit 2 pour 1. Sur 60 litres : 40 litres à 1 200 F et 20 litres à 1 500 F. Vérification : (48 000 + 30 000) ÷ 60 = 1 300 F.",
+      "## Notion 6 : concentrations et dilutions",
+      "Règle : quand on ajoute de l'eau ou qu'on en fait évaporer, la quantité de produit dissous (sucre, sel, alcool) ne change pas. Seul le volume total change.",
+      "~ Exemple résolu : 50 litres de jus de bissap contiennent 12 % de sucre, soit 6 litres de sucre. On ajoute 10 litres d'eau : 6 ÷ 60 = 0,10, la concentration tombe à 10 %.",
+      "La méthode des croix marche aussi pour les concentrations : les volumes à mélanger sont dans le rapport inverse des écarts à la concentration visée.",
+      "~ Exemple résolu (croix et concentrations) : on veut 30 litres de solution à 30 % à partir de solutions à 20 % et à 50 %. Écarts à 30 % : 10 points et 20 points. Rapport inverse : 20 pour la solution à 20 %, 10 pour celle à 50 %, soit 2 pour 1. Sur 30 litres : 20 litres à 20 % et 10 litres à 50 %. Vérification : 4 + 5 = 9 litres de produit pur, et 9 ÷ 30 = 30 %.",
+      "> Pour retenir : « Le plus proche du but entre en plus grande quantité. »",
+      "? Une cuve contient 60 litres de sirop à 10 % de sucre. Combien de litres d'eau faut-il faire évaporer pour atteindre 15 % ? || Quantité de sucre : 60 × 10 % = 6 litres, elle ne change pas. Pour que 6 litres représentent 15 %, le volume doit être 6 ÷ 0,15 = 40 litres. Il faut donc évaporer 60 − 40 = 20 litres d'eau.",
+      "## Entraînement mélangé (pour le jour de l'épreuve)",
+      "Pourquoi mélanger ? Le jour du concours, les problèmes arrivent sans étiquette. La revue de Dunlosky et ses collègues (2013) classe le test de soi-même et la pratique espacée parmi les techniques les plus utiles, et la pratique entrelacée (alterner les types de problèmes) parmi les techniques d'utilité moyenne : on apprend à reconnaître la famille du problème avant de calculer.",
+      "? Série mélangée. A : « Dans 20 ans, un père aura le double de l'âge de son fils ; aujourd'hui il a le quadruple. » B : « Un sac contient 25 kg de riz à 18 % de brisures ; on ajoute 15 kg sans brisures. » Quelle famille et quel résultat pour chacun ? || A : âges. Aujourd'hui fils f, père 4f ; dans 20 ans : 4f + 20 = 2(f + 20), d'où 2f = 20, f = 10 ans et père 40 ans (vérification : 60 = 2 × 30). B : mélange (dilution). Brisures : 25 × 18 % = 4,5 kg, quantité inchangée ; nouveau total 40 kg ; 4,5 ÷ 40 = 11,25 % de brisures.",
+      "? Au barème +2 / 0 / −2, vous avez éliminé une seule proposition sur quatre et hésitez entre les trois autres. Faut-il répondre ? || Non. Espérance : 1/3 × 2 − 2/3 × 2 = −2/3 de point. Avec deux propositions restantes, l'espérance est 1/2 × 2 − 1/2 × 2 = 0 : répondre ne rapporte rien en moyenne. Mieux vaut vérifier par le calcul ou passer."
+     ],
+     "retenir": [
+      "L'écart d'âge entre deux personnes reste constant : tout le monde vieillit du même nombre d'années.",
+      "Quand un parent a k fois l'âge de son enfant, l'enfant a exactement l'écart d'âge divisé par (k − 1).",
+      "Avec une somme S et une différence D, le plus grand nombre vaut (S + D) ÷ 2, le plus petit (S − D) ÷ 2.",
+      "Partage proportionnel : valeur d'une part = somme à partager ÷ total des parts, puis multiplier par les parts de chacun.",
+      "Partager inversement à 2 et 3, c'est partager proportionnellement à 1/2 et 1/3, donc à 3 et 2.",
+      "Le prix d'un mélange est une moyenne pondérée : prix total ÷ quantité totale, jamais la moyenne simple des prix.",
+      "Dans une dilution, la quantité de produit dissous ne change pas : nouvelle concentration = produit ÷ nouveau volume.",
+      "Mélange de concentrations : les volumes sont dans le rapport inverse des écarts à la concentration visée (méthode des croix)."
+     ],
+     "exo": {
+      "tag": "niv-lo09",
+      "n": 10
+     },
+     "rev": 2,
+     "sources": [
+      {
+       "t": "Dunlosky et al. (2013), Improving Students' Learning With Effective Learning Techniques – résumé (Association for Psychological Science)",
+       "u": "https://www.psychologicalscience.org/journals/pspi/1529100612453266/"
+      },
+      {
+       "t": "University of New Brunswick, CETL – Effective learning techniques (synthèse de Dunlosky et al.)",
+       "u": "https://www.unb.ca/fredericton/cetl/services/teaching-tips/instructional-methods/effective-learning-techniques.html"
       }
      ]
     }
