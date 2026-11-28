@@ -1492,7 +1492,7 @@ const CAT_DUP = {"fp1-secretaire-administratif":"fp-sa"};
 (function(){
 "use strict";
 const $ = (s)=>document.querySelector(s);
-const APP_VERSION = "v26 du 27/11/2026";
+const APP_VERSION = "v27 du 28/11/2026";
 function h(tag, attrs, ...kids){
   const el = document.createElement(tag);
   if (attrs) for (const k in attrs){
@@ -3015,7 +3015,7 @@ function rythmeNoticeCard(){
   return card("stack tight soft",
     h("h2",null,"Nouveau rythme : objectif hebdomadaire"),
     h("p",{class:"small"},"Plus d'horaires imposés : validez " + cibleHebdo() + " niveaux par semaine, quand vous pouvez. Les séances manquées ne retirent plus de points ; seul un objectif de semaine manqué en retire (30 XP par niveau manquant). Faites au minimum le rappel du jour, même les jours chargés."),
-    h("p",{class:"small"},"Mettez à jour l'agenda de votre téléphone : bouton « Mettre à jour l'agenda » ci-dessus (ou Profil > Modifier mes horaires). Vous pouvez changer l'objectif ou revenir aux horaires fixes dans le Profil."),
+    h("p",{class:"small"},"Mettez à jour l'agenda de votre téléphone avec le bouton « Mettre à jour l'agenda ». Vous pouvez changer l'objectif ou revenir aux horaires fixes dans le Profil."),
     h("button",{class:"btn",type:"button",onclick:()=>{ rythmeNotice = false; render(); }},"J'ai compris"));
 }
 function activerRythmeV1(){
@@ -3140,6 +3140,7 @@ function startErreurs(lu){
 // ---------- Aujourd'hui ----------
 function vHome(){
   anticip = null; checkEtape(); activerRythmeV1(); retirerHorsEtape();
+  if (modeHebdo()){ annulerRattrapagesHebdo(); return vHomeHebdo(); }
   const td = today(), slots = slotsOn(td), m = nowMin();
   const ind = indice(), due = dueMissed(), nv = grade(ind);
   const hr = new Date().getHours();
@@ -3191,6 +3192,106 @@ function vHome(){
       h("button",{class:"btn",type:"button",onclick:()=>go("candidature")},"Ouvrir mon dossier")),
     newsCard(),
     installCard()
+  );
+}
+// ---------- Accueil du rythme hebdomadaire (v27) ----------
+// Une seule logique : l'objectif de la semaine. L'écran se lit de haut en bas :
+// 1. alertes (seulement s'il y en a) ; 2. la semaine et le bouton « Faire un niveau » ;
+// 3. les gestes courts du jour (rappel, analyse, leçon spéciale) ; 4. la progression (étape, indice, grade) ;
+// 5. le reste (dossier, anciens sujets, horaires suggérés, nouveautés) replié.
+// En rythme hebdomadaire, une séance manquée ne coûte rien : les rattrapages encore ouverts sont annulés
+// et les points rendus (une seule fois).
+function annulerRattrapagesHebdo(){
+  let n = 0, pts = 0;
+  for (const m of (state.missed||[])) if (m.st === "due"){ m.st = "annule"; addXP(m.lost != null ? m.lost : m.pts); pts += (m.lost != null ? m.lost : m.pts); n++; }
+  if (n){ save(); toast(n + " ancienne" + (n>1?"s":"") + " séance" + (n>1?"s":"") + " à rattraper annulée" + (n>1?"s":"") + " : +" + pts + " XP rendus."); }
+}
+let homePlus = false;
+function rappelFaitAujourdhui(){ const td = today(); return Object.values(state.rev||{}).some(r=>(r.hist||[]).some(x=>x[0]===td)); }
+function geste(fait, titre, detail, btn){
+  return h("div",{class:"item"},
+    h("span",{class:"lvi" + (fait ? " fait" : ""),"aria-hidden":"true"}, fait ? "✓" : ""),
+    h("span",{class:"grow"}, h("b",null, titre), detail ? h("span",{class:"muted small block"}, detail) : null),
+    btn);
+}
+function semaineBloc(){
+  const s = semaineCourante(), pr = projectionFin();
+  const jours = Math.round((parseYmd(s.dimanche) - parseYmd(today()))/86400000) + 1;
+  const reste = Math.max(0, s.cible - s.fait);
+  const dep = state.rythmeDepuis || today();
+  const essai = lundiDe(dep) !== dep && lundiDe(today()) === lundiDe(dep);
+  const et = etapeCourante();
+  const enRetard = pr.date && et && et.id === "presel" && pr.date > "2027-02-28";
+  const k = matiereMoinsAvancee(), lv = k ? currentLevel(k) : null;
+  const prep = lv && levelStatus(lv) === "prep";
+  return card("feature stack tight",
+    h("div",{class:"row spread"}, h("div",null, h("p",{class:"lbl"},"Cette semaine"), h("h2",null,"Objectif : " + s.cible + " niveaux")), h("b",{class:"big-n"}, s.fait + " / " + s.cible)),
+    bar(Math.min(100, s.fait / s.cible * 100), !essai && reste > 0 && jours <= 2),
+    h("p",{class:"small"}, essai ? "Semaine de démarrage, non comptée. L'objectif s'applique à partir du lundi " + frDate(addDays(lundiDe(dep), 7)) + "."
+      : reste ? reste + " niveau" + (reste>1?"x":"") + " à valider d'ici dimanche soir (" + jours + " jour" + (jours>1?"s":"") + " restant" + (jours>1?"s":"") + "), aux moments qui vous arrangent."
+      : "Objectif atteint. Vous pouvez avancer davantage ou réviser."),
+    lv ? h("button",{class:"btn primary",type:"button",onclick:lancerLibre}, prep ? "Réviser " + TRACKS[k].court + " (niveau suivant en préparation)" : "Faire un niveau : " + TRACKS[k].court + ", niveau " + (lv.idx+1))
+       : h("p",{class:"small"},"Toutes les leçons de l'étape sont faites : place à la présélection blanche et aux révisions (onglet Entraînement)."),
+    lv && !prep ? h("p",{class:"muted small"}, "« " + lv.t + " ». La matière la moins avancée de l'étape est proposée en premier ; les autres sont dans Parcours.") : null,
+    enRetard ? h("p",{class:"small bad"},"À ce rythme, les leçons finiraient après le 28 février : augmentez l'objectif dans Profil, ou ajoutez un niveau le week-end.") : null);
+}
+function gestesBloc(){
+  const due = dueLevels(), rl = toRelearn(), rf = rappelFaitAujourdhui();
+  const a = analyseDuJour(), alu = a && (state.analysesLues||{})[a.id];
+  const r = remedNiveaux(), nq = r.reduce((x,y)=>x+y.qs.length,0);
+  const nRap = Math.min(due.length, REV_MAX_LV) * REV_Q;
+  return card("stack tight",
+    h("div",null, h("p",{class:"lbl"},"Aujourd'hui, même les jours chargés"), h("h2",null,"Les gestes courts")),
+    h("div",{class:"list"},
+      geste(!due.length, "Rappel du jour", due.length ? nRap + " questions sur " + due.length + " niveau" + (due.length>1?"x":"") + " déjà validé" + (due.length>1?"s":"") + " (" + nRap + " min). C'est ce qui fixe la mémoire." : rf ? "Fait aujourd'hui." : "Aucun rappel dû aujourd'hui.",
+        due.length ? h("button",{class:"btn small primary",type:"button",onclick:lancerRappel},"Faire") : null),
+      rl.length ? geste(false, "À réapprendre", rl.length + " niveau" + (rl.length>1?"x":"") + " (deux rappels ratés de suite), dont « " + rl[0].t + " ».", h("button",{class:"btn small",type:"button",onclick:()=>openLevel(rl[0].id)},"Relire")) : null,
+      a ? geste(!!alu, "Analyse du jour", a.titre + (alu ? " (lue)" : " · quelques minutes, utile pour la culture générale et l'oral."),
+        h("button",{class:"btn small" + (alu ? "" : " primary"),type:"button",onclick:()=>{ analyseId = a.id; go("analyse"); }}, alu ? "Relire" : "Lire")) : null,
+      r.length ? geste(false, "Leçon spéciale sur vos erreurs", nq + " question" + (nq>1?"s":"") + " ratée" + (nq>1?"s":"") + ", à commencer par « " + r[0].lv.t + " » (" + TRACKS[r[0].lv.track].court + ").",
+        h("button",{class:"btn small",type:"button",onclick:()=>{ remedLv = r[0].lv.id; go("remed"); }},"Ouvrir")) : null));
+}
+function progressionBloc(){
+  const e = etapeCourante(), ind = indice(), nv = grade(ind), pr = projectionFin();
+  const j = e ? Math.round((parseYmd(e.date.d) - parseYmd(today()))/86400000) : null;
+  const det = h("details",{class:"plain"}, h("summary",{class:"small"},"Comment l'indice est calculé"),
+    h("p",{class:"muted small"}, "Programme " + ind.parts.couverture + "/40 · qualité " + ind.parts.maitrise + "/20 · assiduité " + ind.parts.assiduite + "/25 · dossier " + ind.parts.dossier + "/15. L'assiduité suit l'atteinte de l'objectif hebdomadaire sur les 4 dernières semaines. Le grade monte avec l'indice. Un objectif de semaine manqué retire 30 XP par niveau manquant."));
+  return card("stack tight",
+    h("div",null, h("p",{class:"lbl"},"Ma progression"), h("h2",null, e ? "Étape : " + e.lbl : "Préparation")),
+    e ? h("p",{class:"small"}, (j > 0 ? "J-" + j : "Aujourd'hui") + " · " + (e.date.officiel ? "date officielle " : "date estimée ") + frDate(e.date.d) + (e.date.officiel ? "" : " (à vérifier dans le communiqué officiel)") + ". Matières : " + focusTracks().map(k=>TRACKS[k].court).join(", ") + ".") : null,
+    etapeNotice ? h("p",{class:"box"}, "Nouvelle étape : la préparation passe " + e.a + ".", " ", h("button",{class:"link",type:"button",onclick:()=>{ etapeNotice = null; render(); }},"J'ai compris")) : null,
+    pr.n ? h("p",{class:"small"}, pr.n + " niveau" + (pr.n>1?"x":"") + " restant" + (pr.n>1?"s":"") + " : fin des leçons vers le " + frDate(pr.date) + (pr.r != null ? " (à votre rythme réel de " + (Math.round(pr.r*10)/10) + " par semaine)." : " (à " + cibleHebdo() + " par semaine).")) : null,
+    h("div",{class:"row spread"}, h("span",null, h("span",{class:"muted small"},"Indice de préparation "), h("b",null, ind.total + " / 100")), h("span",null, h("span",{class:"muted small"},"Grade "), h("b",null, nv.cur[1]))),
+    bar(ind.total, ind.total<40),
+    det);
+}
+function plusBloc(){
+  const dp = dossierProgress(), na = (state.annales||[]).length;
+  const lien = (t, d, f)=>h("button",{class:"item",type:"button",onclick:f}, h("span",{class:"grow"}, h("b",null,t), d ? h("span",{class:"muted small block"}, d) : null), h("span",{class:"meta"},"›"));
+  const det = h("details",{class:"card",open:homePlus||null,ontoggle:(ev)=>{ homePlus = ev.target.open; }});
+  det.append(h("summary",null,"Dossier, anciens sujets et réglages"),
+    h("div",{class:"list"},
+      lien("Mon dossier de candidature", dp.ok + "/" + dp.total + " pièces" + (dp.next ? " · prochaine : " + dp.next.t : " · tout est prêt"), ()=>go("candidature")),
+      lien("Déposer des anciens sujets ou des liens", na + " fichier" + (na>1?"s":"") + " déposé" + (na>1?"s":""), ()=>go("annales")),
+      lien("Horaires suggérés et agenda du téléphone", "Sans pénalité ; à synchroniser après chaque changement", ()=>go("planning")),
+      lien("Changer l'objectif de la semaine", cibleHebdo() + " niveaux par semaine aujourd'hui", ()=>go("profil")),
+      profilComplet() ? null : lien("Compléter mon profil", "Pour voir tous les concours accessibles", ()=>go("concours"))),
+    newsCard() || "", installCard() || "");
+  return det;
+}
+function vHomeHebdo(){
+  const td = today(), hr = new Date().getHours(), p = state.profile;
+  const redo = LEVELS.filter(lv=>lvState(lv.id).ecritRedo && activeTracks().includes(lv.track));
+  return h("div",{class:"stack"},
+    h("div",{class:"hello"}, h("button",{class:"avbtn",type:"button","aria-label":"Mon profil",onclick:()=>go("profil")}, avatar(52)), h("div",null, h("p",{class:"lbl"}, JOURS[new Date().getDay()] + " " + frDate(td) + " · " + ((CMAP[state.concoursPrin]||{}).court || (CMAP[state.concoursPrin]||{}).nom || "")), h("h1",null, (hr<18?"Bonjour ":"Bonsoir ") + (p.prenoms || "") ))),
+    clockBack() ? card("stack warnc", h("h2",null,"Date du téléphone incorrecte"), h("p",{class:"small"},"La date du téléphone (" + frDate(today()) + ") est antérieure à votre dernière utilisation (" + frDate(state.maxDate) + "). Tant qu'elle n'est pas corrigée, aucun niveau n'est compté. Réglez la date et l'heure automatiques dans les paramètres du téléphone.")) : null,
+    rythmeNoticeCard(), annNoticeCard(), agendaBanner(), echBanner(),
+    redo.length ? card("stack warnc", h("h2",null, redo.length + " écrit(s) à refaire"), h("p",{class:"small"},"Un correcteur a jugé insuffisante une copie qui avait validé un niveau. Refaites l'écrit, puis faites-le corriger."), h("button",{class:"btn accent",type:"button",onclick:()=>go("copies")},"Voir")) : null,
+    semaineBloc(),
+    gestesBloc(),
+    progressionBloc(),
+    veilleBanner(),
+    plusBloc()
   );
 }
 function newsCard(){
