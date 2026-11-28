@@ -52010,6 +52010,306 @@
       "t": "Commission européenne (AquaKnow) – Fiche Autorité du bassin du Niger",
       "u": "https://aquaknow.jrc.ec.europa.eu/sites/default/files/Autorit%C3%A9_du_Bassin_du_Niger.pdf"
      }
+    },
+    {
+     "id": "c20261128-sog1-01",
+     "m": "sog",
+     "tag": "sog1",
+     "verif": "methode",
+     "q": "Sujet : « En Afrique de l'Ouest, l'urbanisation rapide depuis les indépendances fragilise la cohésion sociale. » Quelle étape de l'analyse ce sujet rend-elle particulièrement facile ?",
+     "o": [
+      "Le choix des exemples personnels",
+      "La délimitation du cadre spatio-temporel, donnée par l'énoncé lui-même",
+      "La rédaction de la conclusion",
+      "Le choix d'un plan chronologique imposé"
+     ],
+     "a": 1,
+     "e": "L'énoncé fixe lui-même le lieu (l'Afrique de l'Ouest) et la période (depuis les indépendances). L'analyse demande toujours : où et quand le sujet se situe-t-il ? Ici, la réponse est dans le libellé, et la copie ne doit pas en sortir.",
+     "ed": [
+      "Les exemples viennent après l'analyse ; l'énoncé n'en fournit aucun.",
+      null,
+      "La conclusion se rédige au brouillon après le plan, pas pendant l'analyse du libellé.",
+      "Une indication de période ne commande pas un plan chronologique : le sujet appelle une discussion."
+     ],
+     "src": {
+      "t": "Hatier, « Méthode : analyser un sujet de dissertation » (SES)",
+      "u": "https://actu-ses.editions-hatier.fr/sites/default/files/Methode%20-%20Analyser%20un%20sujet%20de%20dissertation_0.pdf"
+     }
+    },
+    {
+     "id": "c20261128-sog1-02",
+     "m": "sog",
+     "tag": "sog1",
+     "verif": "methode",
+     "q": "Sujet : « Tradition et modernité peuvent-elles coexister dans la société ivoirienne ? » Un candidat prévoit : I. La tradition ; II. La modernité. Quel est son défaut ?",
+     "o": [
+      "Il traite séparément les deux notions au lieu d'étudier leur rapport (« saucissonnage »)",
+      "Il oublie de définir l'adjectif « ivoirienne »",
+      "Son plan compte trop de parties",
+      "Il n'y a aucun défaut : chaque notion a sa partie"
+     ],
+     "a": 0,
+     "e": "Le sujet porte sur la relation entre deux notions (peuvent-elles coexister ?). Les découper en deux exposés séparés, c'est le « saucissonnage » : la question posée n'est jamais traitée, ce qui revient au hors-sujet.",
+     "ed": [
+      null,
+      "Le défaut principal n'est pas une définition oubliée, mais l'absence de mise en rapport des deux notions.",
+      "Deux parties est un nombre tout à fait admis ; c'est leur contenu qui pose problème.",
+      "Si : un sujet de rapport entre deux notions ne se traite pas en les juxtaposant."
+     ],
+     "src": {
+      "t": "Université de Lille, Harmonisation lilloise : méthodologie de la dissertation (2025)",
+      "u": "https://humanites.univ-lille.fr/filehumanites/user_upload/docs-pdf/Departement_Philo/Harmonisation_lilloise_-_Methodologie_de_la_dissertation.pdf"
+     }
+    },
+    {
+     "id": "c20261128-sog1-03",
+     "m": "sog",
+     "tag": "sog1",
+     "verif": "methode",
+     "q": "Sujet : « Le numérique, chance ou menace pour l'emploi des jeunes en Côte d'Ivoire ? » Quelle reformulation de la consigne en question aide le mieux à trouver la problématique ?",
+     "o": [
+      "Qu'est-ce que le numérique ?",
+      "Combien de jeunes utilisent Internet ?",
+      "Dans quelle mesure le numérique crée-t-il plus d'emplois pour les jeunes qu'il n'en détruit ou n'en précarise ?",
+      "Le numérique existe-t-il en Côte d'Ivoire ?"
+     ],
+     "a": 2,
+     "e": "Reformuler la consigne en une question qui fait apparaître la tension du sujet (créer contre détruire) révèle la problématique et esquisse déjà le plan. La formule « dans quelle mesure » appelle une réponse nuancée.",
+     "ed": [
+      "Cette question ne porte que sur une définition : elle oublie l'emploi des jeunes et la tension chance / menace.",
+      "C'est une question de fait chiffré ; elle ne pose aucun problème à discuter.",
+      null,
+      "La réponse est évidente : la question n'ouvre aucune réflexion."
+     ],
+     "src": {
+      "t": "Hatier, « Méthode : analyser un sujet de dissertation » (SES)",
+      "u": "https://actu-ses.editions-hatier.fr/sites/default/files/Methode%20-%20Analyser%20un%20sujet%20de%20dissertation_0.pdf"
+     }
+    },
+    {
+     "id": "c20261128-sog2-01",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Un paragraphe se réduit à : « Par exemple, à Bouaké, de nombreux jeunes ont créé des entreprises de transport. » Que lui reproche le correcteur ?",
+     "o": [
+      "D'être trop long",
+      "De citer une ville ivoirienne",
+      "D'utiliser le connecteur « par exemple »",
+      "De présenter un exemple sans idée ni explication : un exemple seul ne vaut pas argument"
+     ],
+     "a": 3,
+     "e": "Un argument se construit ainsi : idée, explication, exemple, mini-conclusion. L'exemple illustre l'idée, il ne la remplace jamais. Sans idée énoncée ni explication, le correcteur ne sait pas ce que l'exemple prouve.",
+     "ed": [
+      "Le paragraphe tient en une phrase : son défaut est l'inverse, il est incomplet.",
+      "Un exemple ivoirien précis est une qualité, pas un défaut.",
+      "« Par exemple » est un connecteur correct ; le problème est l'absence d'idée qu'il illustrerait.",
+      null
+     ],
+     "src": {
+      "t": "Université de Lille, Harmonisation lilloise : méthodologie de la dissertation (2025)",
+      "u": "https://humanites.univ-lille.fr/filehumanites/user_upload/docs-pdf/Departement_Philo/Harmonisation_lilloise_-_Methodologie_de_la_dissertation.pdf"
+     }
+    },
+    {
+     "id": "c20261128-sog2-02",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Dans un plan dialectique, un candidat rédige sa troisième partie ainsi : « La vérité se situe entre les deux : chacun a un peu raison. » Pourquoi est-ce une faiblesse ?",
+     "o": [
+      "Parce que la troisième partie doit dépasser la contradiction, pas couper la poire en deux",
+      "Parce qu'une troisième partie est toujours interdite",
+      "Parce qu'il faut y donner de nouveaux exemples sans idée",
+      "Parce qu'elle doit répéter la première partie"
+     ],
+     "a": 0,
+     "e": "La troisième partie n'est pas un juste milieu entre les deux autres : elle dépasse la contradiction en proposant un point de vue nouveau (conditions, échelle, autre critère). « Chacun a un peu raison » n'apporte rien de nouveau.",
+     "ed": [
+      null,
+      "Une troisième partie est admise dans un plan dialectique, à condition qu'elle dépasse les deux premières.",
+      "Des exemples sans idée ne font pas une partie : l'idée de dépassement doit venir d'abord.",
+      "Répéter la première partie ne fait pas avancer la réflexion."
+     ],
+     "src": {
+      "t": "Université de Lille, Harmonisation lilloise : méthodologie de la dissertation (2025)",
+      "u": "https://humanites.univ-lille.fr/filehumanites/user_upload/docs-pdf/Departement_Philo/Harmonisation_lilloise_-_Methodologie_de_la_dissertation.pdf"
+     }
+    },
+    {
+     "id": "c20261128-sog2-03",
+     "m": "sog",
+     "tag": "sog2",
+     "verif": "methode",
+     "q": "Sujet : « Comparez le rôle de la famille et celui de l'école dans l'éducation civique des jeunes. » Quel plan est le plus adapté ?",
+     "o": [
+      "Un plan chronologique : avant 1960, après 1960",
+      "I. Des rôles qui se rejoignent ; II. Des rôles qui diffèrent et se complètent",
+      "I. Oui ; II. Non",
+      "I. La famille ; II. L'école"
+     ],
+     "a": 1,
+     "e": "Une consigne de comparaison appelle un plan ressemblances / différences (ou forces / faiblesses). Chaque partie met les deux termes en rapport, au lieu de les décrire l'un après l'autre.",
+     "ed": [
+      "Rien dans le sujet n'appelle une évolution historique ; ce plan sort de la consigne.",
+      null,
+      "Le plan « oui / non » répond à une question fermée à discuter, pas à une consigne de comparaison.",
+      "Décrire la famille puis l'école séparément, c'est juxtaposer : la comparaison n'est jamais faite."
+     ],
+     "src": {
+      "t": "Académie de Bordeaux, Méthodologie de la dissertation (SES)",
+      "u": "https://ent2d.ac-bordeaux.fr/disciplines/ses/wp-content/uploads/sites/9/2017/03/methodologie_dissertation.pdf"
+     }
+    },
+    {
+     "id": "c20261128-ns-01",
+     "m": "ns",
+     "tag": "ns",
+     "verif": "methode",
+     "q": "En note de synthèse, un document du dossier paraît secondaire. Que faut-il en faire ?",
+     "o": [
+      "L'ignorer pour gagner du temps",
+      "L'étudier comme les autres, puis n'en retenir que les idées utiles au sujet",
+      "Le recopier intégralement en annexe",
+      "Le critiquer dans la conclusion"
+     ],
+     "a": 1,
+     "e": "Les guides de l'épreuve sont constants : l'ensemble des documents doit être étudié, même ceux dont l'importance est moindre. On n'en retient ensuite que ce qui sert le sujet, sans le résumer à part.",
+     "ed": [
+      "Ignorer un document fait courir le risque d'oublier une idée attendue par le correcteur.",
+      null,
+      "La note ne comporte pas d'annexe et ne recopie jamais les documents.",
+      "La note est neutre : on ne critique pas les documents."
+     ],
+     "src": {
+      "t": "DGFiP, Guide de préparation de la note de synthèse, IFP externe (juillet 2023)",
+      "u": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/rejoindre/Guide%20pr%C3%A9paration%20de%20note%20de%20synth%C3%A8se%20-%20IFP%20externe.pdf"
+     }
+    },
+    {
+     "id": "c20261128-ns-02",
+     "m": "ns",
+     "tag": "ns",
+     "verif": "methode",
+     "q": "Pourquoi déconseille-t-on de surligner tout le dossier puis de rédiger à partir du surlignage ?",
+     "o": [
+      "Parce que le surlignage conduit souvent à la paraphrase, document par document",
+      "Parce que les surligneurs sont interdits",
+      "Parce qu'il faut tout lire deux fois",
+      "Parce que le surlignage empêche de compter les pages"
+     ],
+     "a": 0,
+     "e": "Le guide de la DGFiP le note : le surlignage conduit fréquemment à la paraphrase. Un tableau des idées, qui regroupe les documents par thème, aide à construire une synthèse au lieu de résumer chaque document à la suite.",
+     "ed": [
+      null,
+      "La raison donnée par les guides est méthodologique, non un règlement de salle.",
+      "Relire deux fois n'est pas la raison ; le risque est de rédiger en suivant l'ordre des documents.",
+      "Le nombre de pages du dossier se lit dans son sommaire, sans rapport avec le surlignage."
+     ],
+     "src": {
+      "t": "DGFiP, Guide de l'épreuve de note de synthèse, concours externe IFiP (mars 2025)",
+      "u": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/concours/Guides/Guide_IFiP_NDS_renove.pdf"
+     }
+    },
+    {
+     "id": "c20261128-ns-03",
+     "m": "ns",
+     "tag": "ns",
+     "verif": "methode",
+     "q": "Lequel de ces titres de partie convient le mieux à une note de synthèse sur l'électrification rurale ?",
+     "o": [
+      "I. Le constat",
+      "I. Un taux d'accès encore inégal entre villes et campagnes",
+      "I. Problèmes",
+      "I. Documents 1 à 4"
+     ],
+     "a": 1,
+     "e": "Les titres d'une note doivent être précis et informatifs : en les lisant seuls, le destinataire doit comprendre le contenu. Les guides déconseillent les titres vagues comme « constat » ou « problème ».",
+     "ed": [
+      "« Le constat » ne dit rien du contenu : c'est un titre-tiroir.",
+      null,
+      "« Problèmes » est un titre vague, déconseillé par les guides.",
+      "Un plan qui suit l'ordre des documents est une juxtaposition, pas une synthèse."
+     ],
+     "src": {
+      "t": "DGFiP, Guide de l'épreuve de note de synthèse, concours externe IFiP (mars 2025)",
+      "u": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/concours/Guides/Guide_IFiP_NDS_renove.pdf"
+     }
+    },
+    {
+     "id": "c20261128-ns-04",
+     "m": "ns",
+     "tag": "ns",
+     "verif": "methode",
+     "q": "Un candidat présente dans sa note : « - hausse des coûts ; - manque de techniciens ; - retards de chantier ». Que lui reprocher ?",
+     "o": [
+      "Rien : les listes sont plus lisibles",
+      "L'usage de tirets et d'énumérations au lieu de phrases rédigées",
+      "L'absence d'avis personnel",
+      "Le choix d'un thème technique"
+     ],
+     "a": 1,
+     "e": "La note se rédige en phrases complètes et reliées ; les guides demandent de ne pas utiliser de tirets ni d'énumérations. Une liste ne montre ni les liens logiques ni la hiérarchie des idées.",
+     "ed": [
+      "Une note de concours est un texte rédigé : la liste est sanctionnée.",
+      null,
+      "L'avis personnel est interdit dans la note de synthèse : son absence est une qualité.",
+      "Le thème vient du dossier ; le défaut est la forme de l'énumération."
+     ],
+     "src": {
+      "t": "DGFiP, Guide de l'épreuve de note de synthèse, concours externe IFiP (mars 2025)",
+      "u": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/concours/Guides/Guide_IFiP_NDS_renove.pdf"
+     }
+    },
+    {
+     "id": "c20261128-ns-05",
+     "m": "ns",
+     "tag": "ns",
+     "verif": "methode",
+     "q": "Au début de l'épreuve, par quoi commence une lecture efficace du dossier ?",
+     "o": [
+      "Lire intégralement le premier document, mot à mot",
+      "Rédiger l'introduction avant d'ouvrir le dossier",
+      "Lire le sujet, puis le sommaire, puis parcourir titres, sous-titres et légendes des documents",
+      "Lire seulement le document le plus long"
+     ],
+     "a": 2,
+     "e": "Les guides recommandent d'aller du général au particulier : sujet et mots-clés, sommaire (nombre de documents, dates), survol des titres et légendes, puis analyse approfondie. On évite ainsi de passer près de deux heures à lire.",
+     "ed": [
+      "Tout lire mot à mot dès le début fait perdre un temps que l'épreuve ne laisse pas.",
+      "L'introduction s'appuie sur le dossier : on ne peut pas l'écrire avant de l'avoir parcouru.",
+      null,
+      "Un document long n'est pas forcément central ; tous les documents doivent être étudiés."
+     ],
+     "src": {
+      "t": "DGFiP, Guide de préparation de la note de synthèse, IFP externe (juillet 2023)",
+      "u": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/rejoindre/Guide%20pr%C3%A9paration%20de%20note%20de%20synth%C3%A8se%20-%20IFP%20externe.pdf"
+     }
+    },
+    {
+     "id": "c20261128-ns-06",
+     "m": "ns",
+     "tag": "ns",
+     "verif": "methode",
+     "q": "Un dossier contient des documents de 2019 à 2025. Où chercher en priorité la « porte d'entrée » du sujet ?",
+     "o": [
+      "Dans le document le plus ancien",
+      "Dans un document au hasard",
+      "Dans la note de bas de page du dernier document",
+      "Souvent dans l'un des documents les plus récents"
+     ],
+     "a": 3,
+     "e": "Classer les documents par date aide à comprendre l'évolution du sujet ; la porte d'entrée, qui donne l'actualité du problème et l'accroche, se trouve généralement parmi les documents les plus récents.",
+     "ed": [
+      "Le document le plus ancien éclaire l'origine du problème, rarement son état actuel.",
+      "Le hasard n'est pas une méthode : la chronologie oriente la lecture.",
+      "Une note de bas de page est un détail ; la porte d'entrée est un document entier.",
+      null
+     ],
+     "src": {
+      "t": "DGFiP, Guide de préparation de la note de synthèse, IFP externe (juillet 2023)",
+      "u": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/rejoindre/Guide%20pr%C3%A9paration%20de%20note%20de%20synth%C3%A8se%20-%20IFP%20externe.pdf"
+     }
     }
    ],
    "lessons": [
@@ -52365,6 +52665,159 @@
        "u": "https://researchschool.org.uk/durrington/news/using-research-evidence-to-teach-effective-revision-strategies-dual-coding"
       }
      ]
+    },
+    {
+     "id": "L20261122fr11",
+     "niv": "fr11",
+     "m": "fr",
+     "verif": "regle",
+     "titre": "Les homophones grammaticaux",
+     "min": 55,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir sans hésiter entre a et à, ou et où, ces et ses, c'est et s'est, quand, quant et qu'en, leur et leurs, sans et s'en, quelquefois et quelques fois.",
+      "= Pour chaque paire, vous disposerez d'un test de remplacement qui se fait en deux secondes, le jour de l'épreuve.",
+      "## Ce que demande l'épreuve",
+      "Les homophones grammaticaux sont des mots qui se prononcent de la même façon mais n'appartiennent pas à la même classe grammaticale : l'un est un verbe, l'autre une préposition ; l'un est un déterminant, l'autre un pronom. En QCM, on vous demande de compléter une phrase ou de repérer la phrase fautive. L'oreille ne vous aide pas, puisque les formes se prononcent pareil : seule l'analyse tranche.",
+      "Pourquoi l'oreille trompe-t-elle ? Parce que « a » et « à », « ces » et « ses » se prononcent exactement de la même façon : seule la nature du mot (verbe, préposition, déterminant, pronom) décide de l'orthographe. Votre outil est donc toujours le même : remplacer le mot douteux par un autre qui, lui, ne se prononce pas pareil.",
+      "! Piège habituel : les phrases de concours accumulent deux ou trois homophones dans la même ligne. Une option peut être juste pour le premier blanc et fausse pour le second. Traitez les blancs un par un et éliminez une option dès qu'un blanc est faux.",
+      "## La méthode, pas à pas",
+      "- 1. Isolez le mot douteux et lisez la phrase jusqu'au bout.",
+      "- 2. Appliquez le test de remplacement de la paire (avait, ou bien, cela est, lorsque, lui…).",
+      "- 3. Si la phrase transformée reste correcte, vous tenez la forme ; sinon, c'est l'autre.",
+      "- 4. Remettez la forme choisie dans la phrase et relisez l'ensemble.",
+      "- 5. Barème : si vous ne retrouvez pas le test d'une paire, abstenez-vous plutôt que de choisir « à l'oreille » : une erreur coûte un point.",
+      "- 6. Temps : une question d'homophones se traite en 20 à 30 secondes. Si deux blancs restent douteux après les tests, passez et revenez-y en fin d'épreuve.",
+      "~ Exemple : « Il ___ oublié son badge ___ l'accueil. » Premier blanc : « Il avait oublié » fonctionne, donc a. Second blanc : « avait l'accueil » n'a pas de sens, donc à. Phrase correcte : Il a oublié son badge à l'accueil.",
+      "~ Exemple : « Le rapport ? Le préfet ___ lu hier, ___ la demande du ministre, et ___ transmis ___ Yamoussoukro. » Premier blanc : « le préfet l'avait lu » fonctionne, donc l'a. Deuxième : « avait la demande » n'a pas de sens, donc à. Troisième : « et l'avait transmis », donc l'a. Quatrième : « avait Yamoussoukro » n'a pas de sens, donc à. Quatre blancs, un seul test : le remplacement par avait.",
+      "> Méthode du réapprentissage successif : interrogez-vous sur chaque point « À retenir » jusqu'à le retrouver une fois sans aide ; mettez de côté ceux que vous avez réussis, reprenez les autres plus tard dans la séance. Recommencez lors d'au moins trois séances séparées d'au moins un jour : chaque séance est plus courte que la précédente, et ce qui est retrouvé ainsi tient jusqu'au jour de l'épreuve."
+     ],
+     "fond": [
+      "## Notion 1 : a ou à ; ou ou où",
+      "Règle : a sans accent est le verbe avoir conjugué (il a, elle a). À avec accent est une préposition (aller à Abidjan, penser à demain). Ou sans accent est une conjonction qui marque un choix ; on peut la remplacer par « ou bien ». Où avec accent indique un lieu ou un moment : c'est un adverbe interrogatif (Où vas-tu ?) ou un pronom relatif (la ville où je suis né, le jour où il est parti).",
+      "Pourquoi ? L'accent distingue deux mots de nature différente qui, sans lui, s'écriraient de la même façon. Il évite qu'une phrase administrative devienne ambiguë.",
+      "~ Exemple résolu : « Voulez-vous signer à Abengourou ___ à Agnibilékrou ? » Test : « ou bien à Agnibilékrou » a du sens, donc ou. « C'est la ville ___ j'ai été affecté. » Test : « ou bien j'ai été affecté » n'a pas de sens ; le mot désigne un lieu, donc où.",
+      "! Exception : les locutions latines a priori, a fortiori, a contrario s'écrivent traditionnellement sans accent ; les rectifications de 1990 admettent aussi l'accent.",
+      "> Pour retenir : « a » cache un « avait » ; « où » répond à la question où ? ou quand ?",
+      "? Complétez : « Le dossier ___ été transmis ___ la direction régionale, ___ il sera examiné lundi. » || Premier blanc : « avait été transmis » fonctionne, donc a. Deuxième : « avait la direction » ne fonctionne pas, donc à. Troisième : « ou bien il sera examiné » n'a pas de sens ; c'est un relatif de lieu, donc où.",
+      "## Notion 2 : ces ou ses ; c'est ou s'est",
+      "Règle : ces est un déterminant démonstratif pluriel ; au singulier, il devient ce, cet ou cette. Ses est un déterminant possessif pluriel ; au singulier, il devient son ou sa. C'est réunit le pronom ce et le verbe être ; on peut le remplacer par « cela est ». S'est réunit le pronom se et l'auxiliaire être devant le participe passé d'un verbe pronominal ; avec le sujet je, il devient « me suis ».",
+      "Pourquoi ? Ces montre (ces jours-ci, ces dossiers-là), ses indique à qui appartient la chose (ses enfants = les enfants de quelqu'un). C'est présente une chose, s'est conjugue un verbe.",
+      "~ Exemple résolu : « Le maire présente ___ excuses : ___ jours-ci, il ___ absenté pour raison de service. » Les excuses du maire : au singulier on dirait « son excuse », donc ses. « Ces jours-ci » : le nom est suivi de -ci, on montre un moment proche, donc ces. « Il ___ absenté » : avec je, on dirait « je me suis absenté », donc s'est.",
+      "! Piège : un nom suivi de -ci ou de -là appelle toujours le démonstratif ces (ces fleurs-ci, ces années-là).",
+      "> Pour retenir : « ces → cette ; ses → sa ; c'est → cela est ; s'est → me suis ».",
+      "? Corrigez : « S'est lui qui c'est trompé de salle. » || Premier mot : on peut dire « cela est lui » (c'est lui), donc C'est. Second : « je me suis trompé » fonctionne, c'est le verbe pronominal se tromper, donc s'est. Phrase correcte : C'est lui qui s'est trompé de salle.",
+      "## Notion 3 : quand, quant à ou qu'en",
+      "Règle : quand, avec un d, signifie « lorsque » ou pose une question de temps (Quand partez-vous ?). Quant, avec un t, s'emploie dans la locution « quant à », qui signifie « en ce qui concerne, pour ce qui est de ». Qu'en réunit que et en : « Qu'en pensez-vous ? » signifie « Que pensez-vous de cela ? ».",
+      "Pourquoi ? Ce sont trois mots différents : une conjonction de temps, une préposition qui annonce un thème, et deux mots soudés par l'apostrophe.",
+      "~ Exemple résolu : « ___ au budget, nous en parlerons ___ le ministre sera arrivé. » Premier blanc : « En ce qui concerne le budget » a du sens, donc Quant au. Second : « lorsque le ministre sera arrivé », donc quand.",
+      "! Piège : « tant qu'à », suivi d'un infinitif, signifie « s'il le faut » : « Tant qu'à faire, invitons aussi le préfet. » Ce n'est ni quand ni quant.",
+      "> Pour retenir : « quanD = lorsque, D comme date ; quanT à = en ce qui concerne, T comme thème ; qu'en = que + en ».",
+      "? Complétez : « ___ vous aurez lu le rapport, ___ penserez-vous ? ___ à moi, je le trouve trop long. » || « Lorsque vous aurez lu », donc Quand. « Que penserez-vous de cela ? », donc Qu'en. « En ce qui concerne moi » (pour ce qui est de moi), donc Quant.",
+      "## Notion 4 : leur ou leurs ; sans ou s'en",
+      "Règle : devant un verbe, leur est un pronom qui signifie « à eux, à elles » ; il est invariable et ne prend jamais de s, car il est déjà le pluriel de lui. Devant un nom, leur est un déterminant possessif qui s'accorde avec ce nom : leur maison, leurs feuilles. Sans est une préposition qui marque l'absence. S'en réunit se et en, dans un verbe pronominal (s'en aller, s'en souvenir) ; avec je, il devient « m'en ».",
+      "Pourquoi ? Le pronom leur remplace « à eux » : le pluriel est déjà dans le mot. Le déterminant, lui, suit le nombre du nom qu'il accompagne.",
+      "~ Exemple résolu : « Les chefs de village ont reçu ___ convocations ; le préfet ___ a rappelé l'heure. » Premier blanc : devant le nom pluriel convocations, déterminant possessif, donc leurs. Second : devant le verbe, au singulier on dirait « le préfet lui a rappelé », donc le pronom leur, sans s.",
+      "~ Exemple résolu : « Il est parti ___ dire au revoir ; il ne ___ souvient plus. » Premier blanc : absence d'au revoir, préposition, donc sans. Second : avec je, on dirait « je ne m'en souviens plus », donc s'en.",
+      "! Piège : on écrit « cela va sans dire » (cela va de soi), jamais « cela va s'en dire ».",
+      "> Pour retenir : « leur + verbe = lui au pluriel : jamais de s » ; « s'en → je m'en ».",
+      "? Complétez : « Les stagiaires attendent ___ attestations : je ___ ai promis qu'ils les recevraient ___ retard. » || Devant le nom pluriel attestations : leurs. Devant le verbe, au singulier on dirait « je lui ai promis » : leur, invariable. Absence de retard : la préposition sans.",
+      "## Notion 5 : quelquefois ou quelques fois",
+      "Règle : quelquefois, en un seul mot et sans s, est un adverbe qui signifie « parfois, de temps en temps ». Quelques fois, en deux mots, associe le déterminant pluriel quelques et le nom fois ; il signifie « à un petit nombre de reprises ».",
+      "Pourquoi ? Dans quelques fois, on compte des occasions ; dans quelquefois, on décrit une fréquence irrégulière.",
+      "~ Exemple résolu : « Le comité se réunit ___ par an. » On compte des réunions, « à quelques reprises par an », donc quelques fois. « Il arrive ___ en retard. » Le sens est « parfois », donc quelquefois.",
+      "! Piège : « si quelquefois », au sens de « si par hasard », est familier ; dans une lettre administrative, écrivez « si jamais » ou « au cas où ».",
+      "? Choisissez : « Les ___ où il a présidé la séance, tout s'est bien passé. » || Le mot est précédé de l'article les : c'est un nom que l'on compte, donc quelques fois. L'adverbe quelquefois ne peut pas être précédé d'un article.",
+      "## Notion 6 : plutôt ou plus tôt",
+      "Règle : plutôt, en un seul mot, exprime une préférence entre deux possibilités (« de préférence », « au lieu de »), corrige ce qu'on vient de dire (« plus exactement ») ou signifie « assez » (il fait plutôt chaud). Il est souvent suivi de que. Plus tôt, en deux mots, signifie « avant, plus vite » : c'est le contraire de plus tard.",
+      "Pourquoi ? Les deux formes n'en faisaient qu'une à l'origine, puis elles se sont séparées : l'une a gardé le sens de temps (tôt), l'autre a pris le sens de choix.",
+      "~ Exemple résolu : « La réunion de la commission a été avancée : elle commencera ___ que prévu. » Test : « elle commencera plus tard que prévu » garde un sens (c'est l'inverse), donc plus tôt. « Envoyez ___ un courriel qu'un courrier papier. » Test : « plus tard un courriel » n'a aucun sens ; on exprime une préférence, donc plutôt.",
+      "> Pour retenir : « plus tôt ↔ plus tard ; plutôt = de préférence ».",
+      "? Complétez : « Le candidat est arrivé ___ que les autres ; il a ___ choisi de relire ses fiches que de discuter. » || Premier blanc : « arrivé plus tard que les autres » a du sens, c'est le contraire, donc plus tôt. Second blanc : « choisi de préférence de relire » ; on oppose deux possibilités avec « que », donc plutôt.",
+      "## Notion 7 : la, là ou l'a",
+      "Règle : la sans accent est un déterminant devant un nom féminin singulier (la circulaire) ou un pronom personnel devant un verbe (je la signe). Là, avec un accent grave, est un adverbe de lieu ou de temps : on peut le remplacer par ici, ou par à ce moment. L'a réunit le pronom l' et le verbe avoir : on peut le remplacer par l'avait.",
+      "Pourquoi ? Là désigne un endroit ou un moment, d'où l'accent qui le distingue de l'article. L'a contient un verbe conjugué, ce que le test de l'imparfait fait apparaître.",
+      "! Piège : après un nom précédé de ce, cet, cette ou ces, et après celui, celle, on écrit -là avec un trait d'union : cette année-là, celle-là. On écrit aussi là-bas, là-haut, jusque-là, au-delà.",
+      "? Complétez : « ___ secrétaire générale cherchait le registre ; le planton ___ rangé ___-haut, dans l'armoire. » || Devant le nom secrétaire, féminin singulier : déterminant la. « le planton l'avait rangé » fonctionne : l'a. Devant -haut, adverbe composé de lieu : là-haut, avec accent et trait d'union.",
+      "? Complétez : « ___ secrétaire générale ___ convoquée ; ce jour-___, elle ___ reçue à 9 heures. » || Devant le nom secrétaire : déterminant, la. « l'avait convoquée » : l'a. Après « ce jour » : adverbe lié par un trait d'union, -là. « elle l'avait reçue » ne colle pas ici, car elle est le sujet : on dit « elle l'a reçue » seulement si quelqu'un reçoit quelqu'un d'autre ; avec « elle a été reçue », il faut écrire « elle a été reçue ». Retenez surtout le test : si « l'avait » ne donne pas un sens juste, ce n'est pas l'a.",
+      "## Notion 8 : ni ou n'y",
+      "Règle : ni est une conjonction de coordination négative, souvent répétée et presque toujours accompagnée de ne : « Ni le maire ni ses adjoints ne sont venus. » N'y réunit ne et y ; y signifie « à cela » ou « dans ce lieu ». N'y se place toujours devant un verbe.",
+      "Pourquoi ? Ni relie deux éléments en les niant tous les deux. N'y est une négation (ne… pas) autour d'un verbe dont y est le complément.",
+      "> Pour retenir : mettez la phrase à la forme positive. Si « ni » devient « et », c'était ni ; si « n'y » devient « y », c'était n'y.",
+      "~ Exemple résolu : « Je ___ suis jamais allé, ___ pour le travail ___ pour le tourisme. » Forme positive : « J'y suis allé » fonctionne, donc n'y. « pour le travail et pour le tourisme » fonctionne, donc ni… ni.",
+      "? Complétez : « Le dossier n'était ___ complet ___ signé ; l'agent ___ a rien pu faire. » || Forme positive : « complet et signé », donc ni… ni. « L'agent y a pu quelque chose » : on retrouve y devant le verbe, donc n'y. Phrase correcte : Le dossier n'était ni complet ni signé ; l'agent n'y a rien pu faire.",
+      "## Bilan : une seule question à vous poser",
+      "> Pour retenir : devant chaque homophone, demandez-vous « Par quoi puis-je le remplacer ? » : avait, ou bien, cela est, me suis, lorsque, lui, ici, l'avait, plus tard, forme positive. Le mot de remplacement tranche toujours.",
+      "? Repérez la seule phrase correcte : (a) « Il s'en est allé sans rien dire, ni à ses collègues ni à son chef. » (b) « Quant il viendra, on lui dira ou signer. » (c) « Les agents ont reçu leur primes plutôt que prévu. » || (a) est correcte : s'en aller devient « je m'en suis allé », sans marque l'absence, ni… ni coordonne deux négations. (b) est fautive deux fois : « lorsqu'il viendra » donne quand, et un lieu donne où. (c) est fautive deux fois : leurs primes (déterminant devant un nom pluriel) et plus tôt que prévu (contraire : plus tard)."
+     ],
+     "retenir": [
+      "« a » se remplace par « avait », « l'a » par « l'avait » ; sinon, c'est la préposition « à ».",
+      "« Ou » se remplace par « ou bien » ; « où » indique un lieu ou un moment.",
+      "« Ces » devient « cette » au singulier, « ses » devient « son » ; « c'est » = cela est, « s'est » = me suis.",
+      "« Quand » signifie lorsque ; « quant à » signifie en ce qui concerne ; « qu'en » réunit que et en.",
+      "Devant un verbe, le pronom « leur » est invariable ; « s'en » devient « m'en » ; on écrit « cela va sans dire ».",
+      "« Plus tôt » est le contraire de « plus tard » ; « plutôt » exprime une préférence ou signifie « assez ».",
+      "« Là » se remplace par « ici » ; après « ce, cette, celle », il prend un trait d'union : cette année-là.",
+      "À la forme positive, « ni » devient « et » et « n'y » devient « y » ; « quelquefois » signifie parfois."
+     ],
+     "exo": {
+      "tag": "niv-fr11",
+      "n": 20
+     },
+     "sources": [
+      {
+       "t": "OQLF, Vitrine linguistique : les homophones a et à",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22599/la-grammaire/les-homophones-grammaticaux/les-homophones-a-et-a"
+      },
+      {
+       "t": "OQLF : les homophones c'est et s'est",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22602/la-grammaire/les-homophones-grammaticaux/les-homophones-cest-et-sest"
+      },
+      {
+       "t": "OQLF : les homophones ces et ses",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22359/la-grammaire/les-homophones-grammaticaux/les-homophones-ces-et-ses"
+      },
+      {
+       "t": "OQLF : les homophones leur et leurs",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22360/la-grammaire/les-homophones-grammaticaux/les-homophones-leur-et-leurs"
+      },
+      {
+       "t": "OQLF : les homophones quand, quant à et tant qu'à",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21645/la-grammaire/les-homophones-grammaticaux/les-homophones-quand-et-quant"
+      },
+      {
+       "t": "OQLF : les homophones quelquefois et quelques fois",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24334/la-grammaire/les-homophones-grammaticaux/les-homophones-quelquefois-et-quelques-fois"
+      },
+      {
+       "t": "OQLF : il va sans dire et il va s'en dire",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24804/la-grammaire/les-homophones-grammaticaux/les-homophones-il-va-sans-dire-et-il-va-sen-dire"
+      },
+      {
+       "t": "SchoolMouv : les homophones ou / où",
+       "u": "https://www.schoolmouv.fr/cours/les-homophones-ou-ou-mes-mais-et-la-la-l-a-l-as-/"
+      },
+      {
+       "t": "J. Dunlosky, M. Greve, S. Badali, K. Wissman, K. Rawson, « Successive Relearning: An Introduction and Guide for Educators », APA, 2023",
+       "u": "https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-successive-relearning-dunlosky-greve-badali-wissman-rawson.pdf"
+      },
+      {
+       "t": "OQLF : les homophones plutôt et plus tôt",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22219/la-grammaire/les-homophones-grammaticaux/les-homophones-plutot-et-plus-tot"
+      },
+      {
+       "t": "OQLF : les homophones la et là",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22600/la-grammaire/les-homophones-grammaticaux/les-homophones-la-et-la"
+      },
+      {
+       "t": "OQLF : les homophones ni et n'y",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24451/la-grammaire/les-homophones-grammaticaux/les-homophones-ni-et-ny"
+      },
+      {
+       "t": "OQLF : les homophones lexicaux et grammaticaux",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22645/lorthographe/homophones-lexicaux/les-homophones-lexicaux-et-grammaticaux"
+      }
+     ],
+     "rev": 2
     }
    ],
    "sujets": [],
