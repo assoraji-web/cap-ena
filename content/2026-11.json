@@ -50539,6 +50539,1835 @@
      ]
     }
    ]
+  },
+  {
+   "date": "2026-11-28",
+   "questions": [
+    {
+     "id": "n20261128-an13-01",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« The teacher ___ taught me English has retired. »",
+     "o": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+     ],
+     "a": 1,
+     "e": "Teacher est une personne et le pronom est sujet du verbe taught : on emploie who (that serait aussi possible, sans virgule).",
+     "ed": [
+      "Which remplace une chose ; teacher désigne une personne.",
+      null,
+      "Whose exprime la possession et doit être suivi d'un nom ; ici vient un verbe (taught).",
+      "Whom est une forme complément ; ici le pronom est sujet de taught."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-02",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« The laptop ___ I bought last week is already broken. »",
+     "o": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+     ],
+     "a": 3,
+     "e": "Laptop est une chose : which (ou that, ou rien, puisque le pronom est complément de bought et qu'il n'y a pas de virgule).",
+     "ed": [
+      "Who remplace une personne ; laptop est une chose.",
+      "Whose exige un nom juste après lui ; ici vient le sujet I.",
+      "Whom ne s'emploie que pour une personne.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-03",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« This is the farmer ___ son won the scholarship. »",
+     "o": [
+      "whose",
+      "who's",
+      "who",
+      "which"
+     ],
+     "a": 0,
+     "e": "Le nom son suit le trou sans article : c'est une possession, « dont le fils ». On emploie whose.",
+     "ed": [
+      null,
+      "Who's signifie who is : « the farmer who is son… » n'a pas de sens.",
+      "Who laisserait son sans déterminant : la possession (« dont le fils ») ne serait pas exprimée.",
+      "Which remplace une chose ; farmer est une personne, et la phrase exige une possession."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-04",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "Quel pronom relatif peut remplacer aussi bien une personne qu'une chose dans une relative sans virgule ?",
+     "o": [
+      "who",
+      "whom",
+      "that",
+      "where"
+     ],
+     "a": 2,
+     "e": "That s'emploie pour les personnes comme pour les choses, mais uniquement dans une relative déterminative, sans virgule.",
+     "ed": [
+      "Who ne remplace qu'une personne.",
+      "Whom ne remplace qu'une personne, en fonction de complément.",
+      null,
+      "Where est un adverbe relatif de lieu ; il ne remplace pas une personne."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-05",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "Quelle liste ne contient que des pronoms réfléchis anglais corrects ?",
+     "o": [
+      "hisself, herself, itself",
+      "myself, ourselfs, themselves",
+      "myself, yourselves, themselves",
+      "yourself, theirselves, itself"
+     ],
+     "a": 2,
+     "e": "Les huit réfléchis sont myself, yourself, himself, herself, itself, ourselves, yourselves, themselves ; -self au singulier, -selves au pluriel.",
+     "ed": [
+      "Hisself n'existe pas en anglais correct : on écrit himself.",
+      "Au pluriel, -self devient -selves : ourselves, jamais ourselfs.",
+      null,
+      "Theirselves est fautif : la forme correcte est themselves."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-06",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "Dans une relative explicative, encadrée de virgules, quel pronom est interdit ?",
+     "o": [
+      "that",
+      "who",
+      "which",
+      "whose"
+     ],
+     "a": 0,
+     "e": "Une relative explicative commence par who, which, whose, when ou where, jamais par that : la virgule interdit that.",
+     "ed": [
+      null,
+      "Who est permis après une virgule pour une personne : my father, who is 70, …",
+      "Which est permis après une virgule pour une chose, et peut même reprendre toute la proposition.",
+      "Whose est permis dans une relative explicative : my neighbour, whose children…"
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-07",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« My grandmother, ___ lives in Daloa, sells attiéké. »",
+     "o": [
+      "that",
+      "which",
+      "whose",
+      "who"
+     ],
+     "a": 3,
+     "e": "Relative entre virgules, antécédent humain, pronom sujet de lives : who. Règle : virgule = ni that, ni pronom supprimé.",
+     "ed": [
+      "La virgule annonce une relative explicative : that y est interdit.",
+      "Which remplace une chose ; grandmother est une personne.",
+      "Whose doit être suivi d'un nom ; ici vient le verbe lives.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-08",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« The colleague with ___ I share my office is on leave. »",
+     "o": [
+      "who",
+      "whom",
+      "that",
+      "whose"
+     ],
+     "a": 1,
+     "e": "Préposition (with) devant le trou et antécédent humain : whom. Moyen de retenir : on dit « with him », donc « with whom ».",
+     "ed": [
+      "Juste après une préposition, la forme complément whom est obligatoire pour une personne.",
+      null,
+      "That ne peut jamais suivre directement une préposition ; avec that, la préposition va à la fin.",
+      "Whose exprime la possession et doit précéder un nom ; ici vient le sujet I."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-09",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« The company for ___ she works exports cashew nuts. »",
+     "o": [
+      "which",
+      "that",
+      "who",
+      "whom"
+     ],
+     "a": 0,
+     "e": "Après une préposition, on emploie which pour une chose : the company for which she works.",
+     "ed": [
+      null,
+      "That ne peut pas suivre une préposition : il faudrait « the company that she works for ».",
+      "Who remplace une personne, et ne suit pas directement une préposition.",
+      "Whom ne s'emploie que pour une personne ; company est une chose."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-10",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "Dans quelle phrase peut-on supprimer le pronom relatif ?",
+     "o": [
+      "The woman who called you is my aunt.",
+      "Our coach, who is very strict, trains us daily.",
+      "The letter that you sent has arrived.",
+      "The boy who won the race is my cousin."
+     ],
+     "a": 2,
+     "e": "That est complément de sent (le sujet est you) et il n'y a pas de virgule : « The letter you sent has arrived » est correct.",
+     "ed": [
+      "Who est sujet de called : un pronom sujet ne peut pas être omis.",
+      "La relative est entre virgules : son pronom ne peut jamais être omis.",
+      null,
+      "Who est sujet de won : le supprimer rendrait la phrase fautive."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-11",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« She passed the exam on her first attempt, ___ surprised everyone. »",
+     "o": [
+      "what",
+      "which",
+      "that",
+      "who"
+     ],
+     "a": 1,
+     "e": "Après une virgule, which peut reprendre toute la proposition précédente : « ce qui a surpris tout le monde ».",
+     "ed": [
+      "What ne reprend pas une proposition qui précède ; après la virgule, la règle demande which.",
+      null,
+      "That est interdit après une virgule.",
+      "Who remplace une personne ; ici le pronom reprend tout un fait (sa réussite)."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-12",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« The two candidates shook hands and wished ___ good luck. »",
+     "o": [
+      "themselves",
+      "theirselves",
+      "itself",
+      "each other"
+     ],
+     "a": 3,
+     "e": "Chaque candidat souhaite bonne chance à l'autre : l'action est réciproque, on emploie each other (l'un l'autre).",
+     "ed": [
+      "Themselves signifierait que chacun se souhaite bonne chance à lui-même.",
+      "Theirselves n'existe pas en anglais correct.",
+      "Itself renvoie à une chose au singulier ; le sujet est deux personnes.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-13",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« Nobody helped him: he repaired the generator by ___. »",
+     "o": [
+      "him",
+      "his own",
+      "itself",
+      "himself"
+     ],
+     "a": 3,
+     "e": "By + pronom réfléchi signifie « tout seul » : by himself, puisque le sujet est he.",
+     "ed": [
+      "Après by, pour dire « tout seul », il faut le réfléchi, pas le pronom complément.",
+      "His own s'emploie avec on (« on his own »), pas après by.",
+      "Itself renverrait au générateur, alors que c'est lui qui répare seul.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-14",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« Mrs Bamba, ___ daughter is a magistrate, chairs the parents' association. »",
+     "o": [
+      "who",
+      "whose",
+      "who's",
+      "whom"
+     ],
+     "a": 1,
+     "e": "Daughter suit le trou sans article : possession (« dont la fille »), donc whose, permis dans une relative explicative.",
+     "ed": [
+      "Who laisserait daughter sans déterminant : la possession ne serait pas exprimée.",
+      null,
+      "Who's signifie who is : « who is daughter » n'a pas de sens.",
+      "Whom est une forme complément ; il ne marque pas la possession."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-15",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "Traduisez en registre soutenu : « L'homme à qui j'ai parlé ».",
+     "o": [
+      "The man to who I spoke",
+      "The man to that I spoke",
+      "The man to whom I spoke",
+      "The man whom I spoke"
+     ],
+     "a": 2,
+     "e": "Préposition devant le relatif et antécédent humain : to whom. La version courante serait « the man (who) I spoke to ».",
+     "ed": [
+      "Juste après la préposition to, il faut la forme complément whom.",
+      "That ne peut jamais suivre directement une préposition.",
+      null,
+      "La préposition to a disparu : speak to someone exige to."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-16",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "Une seule de ces phrases est fautive à cause de la ponctuation. Laquelle ?",
+     "o": [
+      "The minister, that arrived late, apologised.",
+      "The minister, who arrived late, apologised.",
+      "The minister that we invited arrived late.",
+      "The minister, whose car broke down, apologised."
+     ],
+     "a": 0,
+     "e": "That est interdit dans une relative explicative, encadrée de virgules : il faut who.",
+     "ed": [
+      null,
+      "Correcte : who est permis dans une relative entre virgules.",
+      "Correcte : sans virgule, that peut remplacer une personne, ici en fonction de complément.",
+      "Correcte : whose est permis dans une relative entre virgules."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-17",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "Un candidat hésite entre who's et whose dans « The officer ___ car was stolen filed a complaint ». Que doit-il choisir ?",
+     "o": [
+      "who's, car officer est une personne",
+      "whose, car la phrase exprime une possession (dont la voiture)",
+      "who, car le pronom est sujet",
+      "which, car car est une chose"
+     ],
+     "a": 1,
+     "e": "Test du « who is » : « the officer who is car » n'a pas de sens, donc on écrit whose, relatif de possession.",
+     "ed": [
+      "Who's signifie who is : « who is car » n'a pas de sens.",
+      null,
+      "Le sujet de was stolen est car ; il manque la marque de possession.",
+      "L'antécédent est officer, une personne, et la phrase exige une possession."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-18",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« The man ___ she phoned yesterday is a lawyer. » Laquelle de ces options est INCORRECTE ?",
+     "o": [
+      "whose",
+      "whom",
+      "who",
+      "that"
+     ],
+     "a": 0,
+     "e": "Whose exprime la possession et doit être suivi d'un nom ; ici vient she : la phrase serait fautive. Les trois autres options sont correctes.",
+     "ed": [
+      null,
+      "Correcte : whom est la forme complément soutenue (she est le sujet de phoned).",
+      "Correcte : dans la langue courante, who remplace whom en fonction de complément.",
+      "Correcte : sans virgule, that peut remplacer une personne."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-19",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« The pupils prepared ___ for the exam » doit signifier « chacun s'est préparé lui-même ». Quelle option ?",
+     "o": [
+      "each other",
+      "theirselves",
+      "themselves",
+      "ourselves"
+     ],
+     "a": 2,
+     "e": "Le sujet et le complément sont les mêmes personnes, sans réciprocité : réfléchi pluriel de they, themselves.",
+     "ed": [
+      "Each other signifierait que les élèves se sont préparés les uns les autres.",
+      "Theirselves n'existe pas en anglais correct.",
+      null,
+      "Ourselves renvoie à we ; le sujet est the pupils (they)."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-an13-20",
+     "m": "ang",
+     "tag": "niv-an13",
+     "q": "« Our director, ___ we all respect, will retire in June. » Quelle option est correcte ?",
+     "o": [
+      "that",
+      "whose",
+      "what",
+      "whom"
+     ],
+     "a": 3,
+     "e": "Relative entre virgules, antécédent humain, pronom complément de respect (le sujet est we) : whom (ou who, plus courant).",
+     "ed": [
+      "La virgule annonce une relative explicative : that y est interdit.",
+      "Whose doit précéder un nom ; ici vient le sujet we.",
+      "What ne reprend jamais un antécédent nommé comme director.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-01",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Il faut que tu ___ ce formulaire avant midi. » (remplir)",
+     "o": [
+      "remplisses",
+      "remplis",
+      "remplissais",
+      "rempliras"
+     ],
+     "a": 0,
+     "e": "Il faut que exprime une nécessité et commande le subjonctif : remplir (2e groupe) intercale -iss- : que tu remplisses.",
+     "ed": [
+      null,
+      "Remplis est l'indicatif présent ; il faut que commande le subjonctif.",
+      "Remplissais est l'imparfait de l'indicatif, impossible après il faut que.",
+      "Rempliras est le futur de l'indicatif ; il faut que exige le subjonctif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-02",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "Quelle est la forme correcte du subjonctif présent d'avoir à la 1re personne du singulier ?",
+     "o": [
+      "que j'ai",
+      "que j'aies",
+      "que j'ait",
+      "que j'aie"
+     ],
+     "a": 3,
+     "e": "Subjonctif d'avoir : que j'aie, que tu aies, qu'il ait. Moyen de retenir : seul il prend le t.",
+     "ed": [
+      "J'ai est l'indicatif présent, pas le subjonctif.",
+      "Aies est la 2e personne (que tu aies), pas la 1re.",
+      "Le t n'apparaît qu'à la 3e personne : qu'il ait.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-03",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Le directeur exige que nous ___ à l'heure. » (être)",
+     "o": [
+      "sommes",
+      "soyons",
+      "soyions",
+      "serons"
+     ],
+     "a": 1,
+     "e": "Exiger exprime une volonté et appelle le subjonctif ; être n'a pas de i à nous : que nous soyons.",
+     "ed": [
+      "Sommes est l'indicatif ; exiger, verbe de volonté, commande le subjonctif.",
+      null,
+      "Être ne prend pas de i à nous et vous : que nous soyons.",
+      "Serons est le futur de l'indicatif, impossible après exiger que."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-04",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "Quel mode emploie-t-on après « après que » ?",
+     "o": [
+      "l'indicatif",
+      "le subjonctif",
+      "l'infinitif",
+      "l'impératif"
+     ],
+     "a": 0,
+     "e": "Après que introduit un fait accompli, donc certain : il se construit avec l'indicatif. Moyen de retenir : APRÈS, c'est fait.",
+     "ed": [
+      null,
+      "Le subjonctif après après que est critiqué : le fait est accompli, donc certain.",
+      "Après que introduit une proposition avec un verbe conjugué, jamais un infinitif.",
+      "L'impératif ne s'emploie pas dans une subordonnée."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-05",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Bien que la route ___ en mauvais état, le car est arrivé à l'heure. » (être)",
+     "o": [
+      "est",
+      "était",
+      "soit",
+      "sera"
+     ],
+     "a": 2,
+     "e": "Bien que exprime une concession et se construit avec le subjonctif : bien que la route soit en mauvais état.",
+     "ed": [
+      "L'indicatif après bien que est critiqué ou non admis.",
+      "Était est un indicatif, que bien que n'accepte pas.",
+      null,
+      "Sera est un futur de l'indicatif, impossible après bien que."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-06",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "Laquelle de ces conjonctions se construit avec l'indicatif ?",
+     "o": [
+      "avant que",
+      "après que",
+      "pour que",
+      "sans que"
+     ],
+     "a": 1,
+     "e": "Après que présente un fait accompli : il se construit avec l'indicatif. Avant que, pour que et sans que exigent le subjonctif.",
+     "ed": [
+      "Avant que introduit une action pas encore réalisée : il exige le subjonctif.",
+      null,
+      "Pour que exprime un but et exige le subjonctif.",
+      "Sans que exige le subjonctif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-07",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Je doute qu'il ___ la vérité. » (dire)",
+     "o": [
+      "dit",
+      "dira",
+      "disait",
+      "dise"
+     ],
+     "a": 3,
+     "e": "Douter que présente le fait comme incertain : subjonctif. Test d'oreille : « je doute qu'il fasse » sonne juste, donc qu'il dise.",
+     "ed": [
+      "Dit est l'indicatif ; douter met le fait en doute et appelle le subjonctif.",
+      "Dira est un futur de l'indicatif, impossible après douter que.",
+      "Disait est un imparfait de l'indicatif, impossible après douter que.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-08",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Il faut que nous ___ ces chiffres avant la réunion. » (vérifier)",
+     "o": [
+      "vérifions",
+      "vérifierons",
+      "vérifiyons",
+      "vérifiions"
+     ],
+     "a": 3,
+     "e": "Radical vérifi- + terminaison -ions : que nous vérifiions, avec deux i. Le i de la terminaison se garde même après un radical en i.",
+     "ed": [
+      "Vérifions est l'indicatif présent : il manque le i de la terminaison -ions.",
+      "Vérifierons est le futur de l'indicatif, impossible après il faut que.",
+      "Vérifiyons n'existe pas : le radical vérifi- reçoit simplement -ions.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-09",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Après que les candidats ___ , le surveillant ramassa les copies. » (composer)",
+     "o": [
+      "aient composé",
+      "eurent composé",
+      "eussent composé",
+      "composent"
+     ],
+     "a": 1,
+     "e": "Après que + indicatif ; avec une principale au passé simple, l'action antérieure se met au passé antérieur : après qu'ils eurent composé.",
+     "ed": [
+      "Aient composé est un subjonctif, critiqué après après que.",
+      null,
+      "Eussent composé est un plus-que-parfait du subjonctif : après que exige l'indicatif.",
+      "Composent est un présent qui ne marque pas l'antériorité par rapport au passé simple ramassa."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-10",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Rentrons avant qu'il ___ nuit. » (faire)",
+     "o": [
+      "fait",
+      "fera",
+      "fasse",
+      "faisait"
+     ],
+     "a": 2,
+     "e": "Avant que introduit une action pas encore réalisée : subjonctif. Faire a un radical irrégulier : qu'il fasse.",
+     "ed": [
+      "Fait est l'indicatif ; avant que exige le subjonctif.",
+      "Fera est le futur de l'indicatif, impossible après avant que.",
+      null,
+      "Faisait est l'imparfait de l'indicatif, impossible après avant que."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-11",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Mon père travaille dur pour que nous ___ aller à l'école. » (pouvoir)",
+     "o": [
+      "puissions",
+      "pouvons",
+      "pourrons",
+      "pouvions"
+     ],
+     "a": 0,
+     "e": "Pour que exprime un but et appelle le subjonctif ; pouvoir a pour radical puiss- : que nous puissions.",
+     "ed": [
+      null,
+      "Pouvons est l'indicatif ; pour que exprime un but et exige le subjonctif.",
+      "Pourrons est le futur de l'indicatif, impossible après pour que.",
+      "Pouvions est l'imparfait de l'indicatif, impossible après pour que."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-12",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "Au QCM de présélection (+1 / 0 / −1), vous hésitez entre « bien qu'il est » et « bien qu'il soit ». Que faire ?",
+     "o": [
+      "S'abstenir, car les deux formes sont admises",
+      "Répondre « soit » : la règle de bien que + subjonctif tranche",
+      "Choisir « est », la forme la plus courante à l'oral",
+      "Répondre au hasard pour ne pas perdre de temps"
+     ],
+     "a": 1,
+     "e": "On s'abstient seulement quand aucune règle ne tranche. Ici, bien que + subjonctif est une règle mécanique : on répond soit et on gagne le point.",
+     "ed": [
+      "Les deux ne sont pas admises : l'indicatif après bien que est critiqué.",
+      null,
+      "La fréquence à l'oral ne fait pas la règle : bien que appelle le subjonctif.",
+      "Répondre au hasard expose à −1, alors qu'une règle connue donne la réponse."
+     ],
+     "verif": "methode"
+    },
+    {
+     "id": "n20261128-fr14-13",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "Repérez la phrase correcte.",
+     "o": [
+      "Ferme la porte sans que personne te voie.",
+      "Ferme la porte sans que personne ne te voie.",
+      "Ferme la porte sans que personne te voit.",
+      "Ferme la porte sans que personne ne te voit."
+     ],
+     "a": 0,
+     "e": "Sans que exige le subjonctif (qu'il voie) et refuse le ne explétif, même avec personne, rien ou aucun.",
+     "ed": [
+      null,
+      "Le ne explétif est une erreur après sans que.",
+      "Voit est l'indicatif ; sans que exige le subjonctif voie.",
+      "Double faute : ne explétif après sans que, et indicatif voit au lieu de voie."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-14",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Je resterai au bureau jusqu'à ce que le dossier ___ complet. » (être)",
+     "o": [
+      "est",
+      "sera",
+      "soit",
+      "était"
+     ],
+     "a": 2,
+     "e": "Jusqu'à ce que introduit une limite pas encore atteinte : subjonctif, que le dossier soit complet.",
+     "ed": [
+      "Est est l'indicatif ; jusqu'à ce que exige le subjonctif.",
+      "Sera est le futur de l'indicatif, impossible après jusqu'à ce que.",
+      null,
+      "Était est l'imparfait de l'indicatif, impossible après jusqu'à ce que."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-15",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "Langue littéraire : « Le chef exigea que chacun ___ la parole à son tour. » Quelle forme est l'imparfait du subjonctif de prendre ?",
+     "o": [
+      "prenne",
+      "prendrait",
+      "prenait",
+      "prît"
+     ],
+     "a": 3,
+     "e": "Prendre suit la famille -isse, -ît (que nous prissions) : qu'il prît. L'accent circonflexe distingue le subjonctif du passé simple il prit.",
+     "ed": [
+      "Prenne est le subjonctif présent, pas l'imparfait ; le passé simple prit, sans accent, serait aussi faux.",
+      "Prendrait est un conditionnel, impossible après exiger que.",
+      "Prenait est l'imparfait de l'indicatif, impossible après exiger que.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-16",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Il fallait qu'il ___ présent. » Quelle forme est l'imparfait du subjonctif d'être ?",
+     "o": [
+      "soit",
+      "fût",
+      "fusse",
+      "fusses"
+     ],
+     "a": 1,
+     "e": "Être suit la famille -usse, -ût : qu'il fût. Moyen de retenir : au subjonctif imparfait, il porte un chapeau.",
+     "ed": [
+      "Soit est le subjonctif présent ; le passé simple fut, sans accent, serait aussi faux.",
+      null,
+      "Fusse est la 1re personne (que je fusse) ; le sujet est il.",
+      "Fusses est la 2e personne (que tu fusses) ; le sujet est il."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-17",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "Quelle est la faute dans « Après qu'il soit parti, la réunion a repris » ?",
+     "o": [
+      "Parti doit s'accorder : « partie »",
+      "Il faut écrire « après qu'il fût parti »",
+      "La phrase ne contient aucune faute",
+      "Soit parti est un subjonctif : après que exige l'indicatif"
+     ],
+     "a": 3,
+     "e": "Après que introduit un fait accompli et se construit avec l'indicatif ; « après qu'il soit parti » est la faute type à repérer.",
+     "ed": [
+      "Le sujet il est masculin singulier : parti est bien accordé.",
+      "Fût parti est encore un subjonctif (plus-que-parfait) : la faute demeure.",
+      "Le subjonctif après après que est critiqué : le fait est accompli.",
+      null
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-18",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Je crains qu'il ___ trop tard. » Laquelle de ces options est INCORRECTE ?",
+     "o": [
+      "est",
+      "ne soit",
+      "soit",
+      "ne soit pas"
+     ],
+     "a": 0,
+     "e": "Craindre exprime un sentiment et appelle le subjonctif ; l'indicatif est est donc fautif. Le ne explétif reste facultatif.",
+     "ed": [
+      null,
+      "Correcte : craindre que admet un ne explétif sans valeur négative.",
+      "Correcte : le ne explétif est facultatif après craindre que.",
+      "Correcte : ne… pas est ici une vraie négation, portée par la subordonnée au subjonctif."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-19",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "« Il faut que nous ___ le médecin demain. » (voir)",
+     "o": [
+      "voyons",
+      "verrons",
+      "voyions",
+      "voyerons"
+     ],
+     "a": 2,
+     "e": "Radical voy- + terminaison -ions : que nous voyions. Le i de la terminaison se garde après un radical en y.",
+     "ed": [
+      "Voyons est l'indicatif présent : il manque le i de la terminaison -ions.",
+      "Verrons est le futur de l'indicatif, impossible après il faut que.",
+      null,
+      "Voyerons n'existe pas en français."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-fr14-20",
+     "m": "fr",
+     "tag": "niv-fr14",
+     "q": "La route a été réparée : le résultat est constaté. « Le maire a fait réparer la route, de sorte que les camions ___ désormais circuler sans difficulté. »",
+     "o": [
+      "puissent",
+      "pussent",
+      "peuvent",
+      "puisse"
+     ],
+     "a": 2,
+     "e": "De sorte que prend l'indicatif quand la conséquence est réalisée, le subjonctif quand elle n'est que visée. Ici elle est constatée : peuvent.",
+     "ed": [
+      "Le subjonctif présenterait la circulation comme un simple but, alors qu'elle est constatée.",
+      "Pussent est un imparfait du subjonctif, mode du but et non du fait réalisé.",
+      null,
+      "Puisse est au singulier ; le sujet les camions est pluriel."
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "n20261128-cg14-01",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "À quelle date le Congrès continental a-t-il adopté la Déclaration d'indépendance des États-Unis ?",
+     "o": [
+      "2 août 1776",
+      "17 septembre 1787",
+      "30 mars 1867",
+      "4 juillet 1776"
+     ],
+     "a": 3,
+     "e": "La Déclaration d'indépendance a été adoptée le 4 juillet 1776 par le Congrès continental. Moyen de retenir : « 76 je déclare, 87 je construis ».",
+     "ed": [
+      "Le 2 août 1776 est le début de la signature, non la date d'adoption.",
+      "Le 17 septembre 1787 est la date de signature de la Constitution.",
+      "Le 30 mars 1867 est l'accord sur l'achat de l'Alaska.",
+      null
+     ],
+     "src": {
+      "t": "National Archives – Declaration of Independence (Milestone Documents)",
+      "u": "https://www.archives.gov/milestone-documents/declaration-of-Independence"
+     }
+    },
+    {
+     "id": "n20261128-cg14-02",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "À qui la rédaction de la Déclaration d'indépendance a-t-elle été confiée au sein du comité de cinq membres ?",
+     "o": [
+      "Abraham Lincoln",
+      "William Seward",
+      "Dwight Eisenhower",
+      "Thomas Jefferson"
+     ],
+     "a": 3,
+     "e": "Le comité comprenait Jefferson, Adams, Franklin, Livingston et Sherman ; la rédaction elle-même a été confiée à Thomas Jefferson.",
+     "ed": [
+      "Lincoln a été élu président en 1860, bien après 1776.",
+      "Seward était secrétaire d'État en 1867, lors de l'achat de l'Alaska.",
+      "Eisenhower a proclamé l'entrée d'Hawaï dans l'Union en 1959.",
+      null
+     ],
+     "src": {
+      "t": "National Archives – Declaration of Independence (Milestone Documents)",
+      "u": "https://www.archives.gov/milestone-documents/declaration-of-Independence"
+     }
+    },
+    {
+     "id": "n20261128-cg14-03",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Combien de sénateurs compte le Sénat des États-Unis ?",
+     "o": [
+      "435",
+      "100",
+      "50",
+      "538"
+     ],
+     "a": 1,
+     "e": "Chaque État, quelle que soit sa taille, élit deux sénateurs : 100 au total, pour un mandat de 6 ans.",
+     "ed": [
+      "435 est le nombre de membres de la Chambre des représentants.",
+      null,
+      "50 est le nombre d'États ; chacun élit deux sénateurs.",
+      "538 est le nombre de grands électeurs du collège électoral."
+     ],
+     "src": {
+      "t": "Britannica – Congress of the United States",
+      "u": "https://britannica.com/topic/Congress-of-the-United-States"
+     }
+    },
+    {
+     "id": "n20261128-cg14-04",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Quelle est la durée du mandat d'un membre de la Chambre des représentants des États-Unis ?",
+     "o": [
+      "6 ans",
+      "4 ans",
+      "2 ans",
+      "À vie"
+     ],
+     "a": 2,
+     "e": "Les 435 représentants sont élus pour 2 ans, les sénateurs pour 6 ans. Moyen de retenir : le Sénat dure, la Chambre se renouvelle.",
+     "ed": [
+      "Six ans est la durée du mandat d'un sénateur.",
+      "Quatre ans n'est pas la durée du mandat d'un représentant ; la Chambre est élue pour deux ans.",
+      null,
+      "Seuls les juges fédéraux, dont ceux de la Cour suprême, sont nommés à vie."
+     ],
+     "src": {
+      "t": "Britannica – Congress of the United States",
+      "u": "https://britannica.com/topic/Congress-of-the-United-States"
+     }
+    },
+    {
+     "id": "n20261128-cg14-05",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Combien de juges siègent à la Cour suprême des États-Unis ?",
+     "o": [
+      "9",
+      "7",
+      "12",
+      "15"
+     ],
+     "a": 0,
+     "e": "Le nombre de juges de la Cour suprême est fixé à neuf ; ils sont nommés à vie par le président avec le consentement du Sénat.",
+     "ed": [
+      null,
+      "La Cour suprême ne compte pas sept juges : son effectif est fixé à neuf.",
+      "Douze n'est pas l'effectif de la Cour suprême, qui compte neuf juges.",
+      "Quinze n'est pas l'effectif de la Cour suprême, qui compte neuf juges."
+     ],
+     "src": {
+      "t": "Britannica – Supreme Court of the United States",
+      "u": "https://www.britannica.com/topic/Supreme-Court-of-the-United-States"
+     }
+    },
+    {
+     "id": "n20261128-cg14-06",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Combien de provinces et de territoires compte le Canada ?",
+     "o": [
+      "13 provinces et aucun territoire",
+      "10 provinces et 3 territoires",
+      "10 provinces et 2 territoires",
+      "12 provinces et 1 territoire"
+     ],
+     "a": 1,
+     "e": "Le Canada compte 10 provinces et 3 territoires (Yukon, Territoires du Nord-Ouest, Nunavut), chacun avec sa capitale.",
+     "ed": [
+      "Le Canada distingue 10 provinces et 3 territoires, comme le Nunavut.",
+      null,
+      "Depuis la création du Nunavut en 1999, il y a 3 territoires.",
+      "Le Canada compte 10 provinces, pas 12, et 3 territoires."
+     ],
+     "src": {
+      "t": "Gouvernement du Canada – Découvrir le Canada : les régions du Canada",
+      "u": "https://www.canada.ca/content/canadasite/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-regions.html"
+     }
+    },
+    {
+     "id": "n20261128-cg14-07",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Un État américain compte 14 représentants à la Chambre. De combien de grands électeurs dispose-t-il ?",
+     "o": [
+      "16",
+      "14",
+      "28",
+      "12"
+     ],
+     "a": 0,
+     "e": "Chaque État a autant de grands électeurs que de représentants, plus deux pour ses sénateurs : 14 + 2 = 16.",
+     "ed": [
+      null,
+      "Ce chiffre oublie les deux sénateurs, qui comptent aussi.",
+      "Ce chiffre double les représentants au lieu d'ajouter deux sénateurs.",
+      "Ce chiffre retire deux au lieu de les ajouter."
+     ],
+     "verif": "calcul",
+     "src": {
+      "t": "National Archives – About the Electoral College",
+      "u": "https://www.archives.gov/electoral-college/about"
+     },
+     "calc": "14+2"
+    },
+    {
+     "id": "n20261128-cg14-08",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Un traité est examiné en présence de 96 sénateurs. Combien de voix faut-il au minimum pour le ratifier ?",
+     "o": [
+      "49",
+      "48",
+      "64",
+      "72"
+     ],
+     "a": 2,
+     "e": "La ratification d'un traité exige les deux tiers des sénateurs présents : 96 × 2 ÷ 3 = 64.",
+     "ed": [
+      "49 est la majorité simple, qui suffit pour une nomination, pas pour un traité.",
+      "48 n'est que la moitié des présents : la ratification exige les deux tiers.",
+      null,
+      "72 correspond aux trois quarts, plus que les deux tiers exigés."
+     ],
+     "verif": "calcul",
+     "src": {
+      "t": "Britannica – Congress of the United States",
+      "u": "https://britannica.com/topic/Congress-of-the-United-States"
+     },
+     "calc": "96*2/3"
+    },
+    {
+     "id": "n20261128-cg14-09",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Lorsqu'un président des États-Unis est mis en accusation par la Chambre des représentants (impeachment), quelle institution le juge ?",
+     "o": [
+      "La Chambre des représentants",
+      "La Cour suprême",
+      "Le collège électoral",
+      "Le Sénat"
+     ],
+     "a": 3,
+     "e": "La Chambre accuse, le Sénat juge ; la condamnation exige les deux tiers des sénateurs présents.",
+     "ed": [
+      "La Chambre accuse ; elle ne juge pas.",
+      "La Cour suprême ne juge pas l'impeachment : c'est le Sénat.",
+      "Le collège électoral élit le président ; il ne le juge pas.",
+      null
+     ],
+     "src": {
+      "t": "Britannica – Congress of the United States",
+      "u": "https://britannica.com/topic/Congress-of-the-United-States"
+     }
+    },
+    {
+     "id": "n20261128-cg14-10",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Qui préside le Sénat des États-Unis ?",
+     "o": [
+      "Le président des États-Unis",
+      "Le vice-président des États-Unis",
+      "Le président de la Cour suprême",
+      "Le sénateur le plus âgé"
+     ],
+     "a": 1,
+     "e": "Le vice-président des États-Unis préside le Sénat, mais ne vote qu'en cas d'égalité des voix.",
+     "ed": [
+      "Le président dirige l'exécutif ; il ne siège pas au Sénat.",
+      null,
+      "Le président de la Cour suprême dirige la juridiction, non le Sénat.",
+      "C'est le vice-président qui préside le Sénat, quel que soit l'âge des sénateurs."
+     ],
+     "src": {
+      "t": "Britannica – Congress of the United States",
+      "u": "https://britannica.com/topic/Congress-of-the-United-States"
+     }
+    },
+    {
+     "id": "n20261128-cg14-11",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "En quelle année a été ratifié le 22e amendement, qui limite à deux le nombre d'élections d'un président ?",
+     "o": [
+      "1947",
+      "1944",
+      "1961",
+      "1951"
+     ],
+     "a": 3,
+     "e": "Proposé le 24 mars 1947, le 22e amendement a été ratifié le 27 février 1951, après les quatre élections de Franklin D. Roosevelt.",
+     "ed": [
+      "1947 est l'année où le Congrès a proposé l'amendement (24 mars 1947).",
+      "1944 est la quatrième élection de Franklin D. Roosevelt, qui a motivé l'amendement.",
+      "1961 est postérieur : l'amendement a été ratifié le 27 février 1951.",
+      null
+     ],
+     "src": {
+      "t": "Britannica – Twenty-second Amendment",
+      "u": "https://www.britannica.com/topic/Twenty-second-Amendment"
+     }
+    },
+    {
+     "id": "n20261128-cg14-12",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Le 30 mars 1867, les États-Unis acceptent d'acheter l'Alaska pour 7,2 millions de dollars. À quel pays ?",
+     "o": [
+      "La Russie",
+      "Le Royaume-Uni",
+      "La France",
+      "Le Mexique"
+     ],
+     "a": 0,
+     "e": "Le secrétaire d'État William Seward a accepté l'offre du ministre russe Édouard de Stoeckl : l'Alaska a été acheté à la Russie.",
+     "ed": [
+      null,
+      "Le Royaume-Uni n'a pas vendu l'Alaska : l'offre venait du ministre russe Stoeckl.",
+      "La France n'a jamais possédé l'Alaska.",
+      "Le Mexique n'a jamais possédé l'Alaska."
+     ],
+     "src": {
+      "t": "Office of the Historian, U.S. Department of State – Purchase of Alaska, 1867",
+      "u": "https://history.state.gov/milestones/1866-1898/alaska-purchase"
+     }
+    },
+    {
+     "id": "n20261128-cg14-13",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "À quelle date Hawaï est-il devenu le 50e État des États-Unis ?",
+     "o": [
+      "3 janvier 1959",
+      "18 octobre 1867",
+      "21 août 1959",
+      "4 juillet 1776"
+     ],
+     "a": 2,
+     "e": "Le président Eisenhower a proclamé Hawaï 50e État le 21 août 1959, quelques mois après l'Alaska (3 janvier 1959).",
+     "ed": [
+      "Le 3 janvier 1959 est l'entrée de l'Alaska, 49e État.",
+      "Le 18 octobre 1867 est le transfert de l'Alaska par la Russie.",
+      null,
+      "Le 4 juillet 1776 est l'adoption de la Déclaration d'indépendance."
+     ],
+     "src": {
+      "t": "National Constitution Center – On this day, we added the 50th state",
+      "u": "https://constitutioncenter.org/blog/on-this-day-we-added-the-50th-state"
+     }
+    },
+    {
+     "id": "n20261128-cg14-14",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Quelle est la capitale du Nunavut, territoire canadien créé le 1er avril 1999 ?",
+     "o": [
+      "Yellowknife",
+      "Whitehorse",
+      "Iqaluit",
+      "Regina"
+     ],
+     "a": 2,
+     "e": "Le Nunavut, découpé dans les Territoires du Nord-Ouest, a pour capitale Iqaluit, sur l'île de Baffin. Moyen de retenir : Y-W-I d'ouest en est.",
+     "ed": [
+      "Yellowknife est la capitale des Territoires du Nord-Ouest.",
+      "Whitehorse est la capitale du Yukon.",
+      null,
+      "Regina est la capitale de la Saskatchewan, une province."
+     ],
+     "src": {
+      "t": "Gouvernement du Canada (RCAANC) – Nunavut, Canada's third territory",
+      "u": "https://rcaanc-cirnac.gc.ca/eng/1303138100962/1303138315347"
+     }
+    },
+    {
+     "id": "n20261128-cg14-15",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "L'Acte de l'Amérique du Nord britannique de 1867 divise l'ancienne colonie du Canada en deux provinces. Lesquelles ?",
+     "o": [
+      "Le Québec et l'Ontario",
+      "Le Manitoba et la Saskatchewan",
+      "L'Alberta et la Colombie-Britannique",
+      "Le Yukon et le Nunavut"
+     ],
+     "a": 0,
+     "e": "L'Acte de 1867 unit la Nouvelle-Écosse, le Nouveau-Brunswick et le Canada, qu'il divise en Québec et Ontario : quatre provinces au départ.",
+     "ed": [
+      null,
+      "Ces provinces ne figurent pas dans l'Acte de 1867, qui ne crée que le Québec et l'Ontario à partir du Canada.",
+      "Ces provinces ne sont pas issues de la division du Canada prévue par l'Acte de 1867.",
+      "Ce sont des territoires, et le Nunavut n'a été créé qu'en 1999."
+     ],
+     "src": {
+      "t": "Britannica – British North America Act",
+      "u": "https://britannica.com/event/British-North-America-Act"
+     }
+    },
+    {
+     "id": "n20261128-cg14-16",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Quel a été le résultat du référendum québécois du 30 octobre 1995 sur la souveraineté ?",
+     "o": [
+      "Le oui l'a emporté avec 50,58 %",
+      "Le non l'a emporté avec plus de 60 %",
+      "Le référendum a été annulé",
+      "Le non l'a emporté avec 50,58 %"
+     ],
+     "a": 3,
+     "e": "Le non l'a emporté avec 50,58 %, soit une marge d'environ 1 point et moins de 55 000 voix d'écart.",
+     "ed": [
+      "C'est le non, et non le oui, qui a obtenu 50,58 %.",
+      "L'écart a été d'environ 1 point seulement, moins de 55 000 voix.",
+      "Le référendum s'est tenu et le non l'a emporté de justesse.",
+      null
+     ],
+     "src": {
+      "t": "Britannica – Quebec referendum of 1995",
+      "u": "https://www.britannica.com/topic/Quebec-referendum-of-1995"
+     }
+    },
+    {
+     "id": "n20261128-cg14-17",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Lequel des Grands Lacs ne forme PAS une frontière naturelle entre le Canada et les États-Unis ?",
+     "o": [
+      "Le lac Supérieur",
+      "Le lac Michigan",
+      "Le lac Érié",
+      "Le lac Ontario"
+     ],
+     "a": 1,
+     "e": "Tous les Grands Lacs, sauf le lac Michigan, forment une frontière naturelle entre le Canada et les États-Unis. Moyen de retenir : HOMES.",
+     "ed": [
+      "Le lac Supérieur forme bien une partie de la frontière.",
+      null,
+      "Le lac Érié forme bien une partie de la frontière.",
+      "Le lac Ontario forme bien une partie de la frontière."
+     ],
+     "src": {
+      "t": "Britannica – Great Lakes",
+      "u": "https://www.britannica.com/place/Great-Lakes"
+     }
+    },
+    {
+     "id": "n20261128-cg14-18",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Laquelle de ces affirmations sur la Cour suprême des États-Unis est FAUSSE ?",
+     "o": [
+      "Le contrôle de constitutionnalité est écrit explicitement dans la Constitution",
+      "Elle compte neuf juges",
+      "Ses juges sont nommés par le président avec le consentement du Sénat",
+      "L'arrêt Marbury v. Madison (1803) a formulé le contrôle de constitutionnalité"
+     ],
+     "a": 0,
+     "e": "Le contrôle de constitutionnalité (judicial review) n'est pas mentionné explicitement dans la Constitution ; il a été formulé dans Marbury v. Madison (1803).",
+     "ed": [
+      null,
+      "Vraie : l'effectif de la Cour est fixé à neuf juges.",
+      "Vraie : c'est la procédure de nomination des juges fédéraux.",
+      "Vraie : c'est le juge Marshall qui l'a formulé dans cet arrêt."
+     ],
+     "src": {
+      "t": "Britannica – Supreme Court of the United States",
+      "u": "https://www.britannica.com/topic/Supreme-Court-of-the-United-States"
+     }
+    },
+    {
+     "id": "n20261128-cg14-19",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Qui a proclamé, le 17 avril 1982, la loi qui rend le Canada pleinement indépendant ?",
+     "o": [
+      "La reine Victoria",
+      "Le président des États-Unis",
+      "La reine Élisabeth II",
+      "Le Parlement du Québec"
+     ],
+     "a": 2,
+     "e": "Approuvée par le Parlement britannique le 25 mars 1982, la Loi sur le Canada a été proclamée par Élisabeth II le 17 avril 1982.",
+     "ed": [
+      "La reine Victoria a choisi Ottawa comme capitale en 1857 ; elle est morte bien avant 1982.",
+      "Le Canada est un État distinct : un président américain n'a aucun rôle dans sa constitution.",
+      null,
+      "La loi a été approuvée par le Parlement britannique (25 mars 1982) et proclamée par la reine."
+     ],
+     "src": {
+      "t": "Britannica – Canada Act",
+      "u": "https://www.britannica.com/event/Canada-Act"
+     }
+    },
+    {
+     "id": "n20261128-cg14-20",
+     "m": "cg",
+     "tag": "niv-cg14",
+     "q": "Quel est l'ordre chronologique correct ?",
+     "o": [
+      "Marbury v. Madison – Constitution signée – Achat de l'Alaska – Hawaï 50e État",
+      "Constitution signée – Marbury v. Madison – Achat de l'Alaska – Hawaï 50e État",
+      "Constitution signée – Achat de l'Alaska – Marbury v. Madison – Hawaï 50e État",
+      "Constitution signée – Marbury v. Madison – Hawaï 50e État – Achat de l'Alaska"
+     ],
+     "a": 1,
+     "e": "Constitution signée le 17 septembre 1787, arrêt Marbury v. Madison en 1803, achat de l'Alaska en 1867, Hawaï 50e État le 21 août 1959.",
+     "ed": [
+      "La Constitution (1787) précède l'arrêt Marbury (1803).",
+      null,
+      "L'arrêt Marbury (1803) précède l'achat de l'Alaska (1867).",
+      "L'achat de l'Alaska (1867) précède l'entrée d'Hawaï (1959)."
+     ],
+     "src": {
+      "t": "National Archives – The Constitution of the United States (Milestone Documents)",
+      "u": "https://www.archives.gov/milestone-documents/constitution"
+     }
+    },
+    {
+     "id": "n20261128-cgl-01",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'Union du fleuve Mano a été fondée en octobre 1973 par les présidents du Libéria et de la Sierra Leone. En quelle année la Côte d'Ivoire l'a-t-elle rejointe ?",
+     "o": [
+      "1973",
+      "1980",
+      "2008",
+      "2004"
+     ],
+     "a": 2,
+     "e": "Selon l'Union du fleuve Mano, la Guinée l'a rejointe en 1980 et la Côte d'Ivoire en 2008.",
+     "ed": [
+      "1973 est l'année de fondation par le Libéria et la Sierra Leone seuls.",
+      "1980 est l'année d'adhésion de la Guinée.",
+      null,
+      "En 2004, l'Union a été relancée lors d'un sommet ; la Côte d'Ivoire n'y adhère qu'en 2008."
+     ],
+     "src": {
+      "t": "Mano River Union – About us",
+      "u": "https://mru.int/en/about-us/"
+     }
+    },
+    {
+     "id": "n20261128-cgl-02",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Dans quelle ville se trouve le secrétariat de l'Union du fleuve Mano ?",
+     "o": [
+      "Monrovia",
+      "Conakry",
+      "Freetown",
+      "Abidjan"
+     ],
+     "a": 2,
+     "e": "Le secrétariat de l'Union du fleuve Mano est établi à Freetown, en Sierra Leone.",
+     "ed": [
+      "Monrovia est la capitale du Libéria, mais le secrétariat est à Freetown.",
+      "Conakry, capitale de la Guinée, n'abrite pas le secrétariat de l'Union.",
+      null,
+      "Abidjan n'abrite pas le secrétariat ; la Côte d'Ivoire n'a adhéré qu'en 2008."
+     ],
+     "src": {
+      "t": "Mano River Union – About us",
+      "u": "https://mru.int/en/about-us/"
+     }
+    },
+    {
+     "id": "n20261128-cgl-03",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "Le Comité permanent inter-États de lutte contre la sécheresse dans le Sahel (CILSS), créé le 12 septembre 1973, a son siège à :",
+     "o": [
+      "Ouagadougou",
+      "Bamako",
+      "Dakar",
+      "Nouakchott"
+     ],
+     "a": 0,
+     "e": "Le siège du CILSS est à Ouagadougou (Ouaga 2000) ; l'organisation compte treize États membres, dont la Côte d'Ivoire.",
+     "ed": [
+      null,
+      "Bamako n'est pas le siège du CILSS, établi à Ouagadougou.",
+      "Dakar n'est pas le siège du CILSS, établi à Ouagadougou.",
+      "Nouakchott n'est pas le siège du CILSS, établi à Ouagadougou."
+     ],
+     "src": {
+      "t": "CILSS – About the CILSS (50e anniversaire)",
+      "u": "https://fiftieth.cilss.int/?p=3201"
+     }
+    },
+    {
+     "id": "n20261128-cgl-04",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "La Commission du bassin du lac Tchad, créée le 22 mai 1964 par le Cameroun, le Niger, le Nigeria et le Tchad, a son siège à :",
+     "o": [
+      "Niamey",
+      "Abuja",
+      "Yaoundé",
+      "N'Djamena"
+     ],
+     "a": 3,
+     "e": "Le siège de la Commission du bassin du lac Tchad est à N'Djamena ; la Centrafrique l'a rejointe en 1996 et la Libye en 2008.",
+     "ed": [
+      "Niamey abrite l'Autorité du bassin du Niger, pas la Commission du lac Tchad.",
+      "Abuja n'est pas le siège de la Commission, établi à N'Djamena.",
+      "Yaoundé n'est pas le siège de la Commission, établi à N'Djamena.",
+      null
+     ],
+     "src": {
+      "t": "Commission du bassin du lac Tchad – About us",
+      "u": "https://cblt.org/about-us/"
+     }
+    },
+    {
+     "id": "n20261128-cgl-05",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'Organisation de la coopération islamique (OCI), qui compte 57 États membres, est née d'un sommet tenu en septembre 1969 à :",
+     "o": [
+      "Djeddah",
+      "Rabat",
+      "Le Caire",
+      "Astana"
+     ],
+     "a": 1,
+     "e": "L'OCI a été créée le 25 septembre 1969, à l'issue du sommet islamique de Rabat (22-25 septembre 1969) ; son siège est à Djeddah.",
+     "ed": [
+      "Djeddah est le siège de l'organisation, pas la ville du sommet fondateur.",
+      null,
+      "Le sommet fondateur ne s'est pas tenu au Caire mais à Rabat.",
+      "Astana a accueilli en 2011 la réunion qui a changé le nom de l'organisation."
+     ],
+     "src": {
+      "t": "Ministère turc des Affaires étrangères – Organisation de la coopération islamique",
+      "u": "https://www.mfa.gov.tr/OIC_french.en.mfa"
+     }
+    },
+    {
+     "id": "n20261128-cgl-06",
+     "m": "cg",
+     "tag": "cg-libre",
+     "q": "L'Autorité du bassin du Niger, qui regroupe 9 États dont la Côte d'Ivoire, a son secrétariat exécutif à :",
+     "o": [
+      "Niamey",
+      "Bamako",
+      "Abuja",
+      "N'Djamena"
+     ],
+     "a": 0,
+     "e": "Le secrétariat exécutif de l'Autorité du bassin du Niger est à Niamey ; la Commission du fleuve Niger a pris ce nom le 21 novembre 1980.",
+     "ed": [
+      null,
+      "Bamako n'abrite pas le secrétariat exécutif de l'Autorité, établi à Niamey.",
+      "Abuja n'abrite pas le secrétariat exécutif de l'Autorité, établi à Niamey.",
+      "N'Djamena abrite la Commission du bassin du lac Tchad, pas l'Autorité du bassin du Niger."
+     ],
+     "src": {
+      "t": "Commission européenne (AquaKnow) – Fiche Autorité du bassin du Niger",
+      "u": "https://aquaknow.jrc.ec.europa.eu/sites/default/files/Autorit%C3%A9_du_Bassin_du_Niger.pdf"
+     }
+    }
+   ],
+   "lessons": [
+    {
+     "id": "L20261128an13",
+     "niv": "an13",
+     "m": "ang",
+     "titre": "Pronoms et propositions relatives",
+     "min": 45,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez choisir sans hésiter entre who, whom, whose, which et that, et dire quand le pronom relatif peut disparaître.",
+      "= Vous saurez aussi employer les pronoms réfléchis (myself… themselves), les distinguer de each other et repérer la virgule qui interdit that.",
+      "## Ce que demande l'épreuve",
+      "En présélection d'anglais (barème +1 / 0 / −1), ce point arrive surtout en phrases à trous : « The manager ___ office was flooded called the plumber » ou « I painted the room ___ ». Les mauvaises options sont fabriquées à partir du français : who pour une chose (calque de « qui »), that juste après une virgule, whose confondu avec who's, ou un pronom répété (« the woman who she… »).",
+      "## La méthode, pas à pas",
+      "- 1. Regardez le mot placé juste avant le trou (l'antécédent) : est-ce une personne ou une chose ?",
+      "- 2. Regardez ce qui suit le trou : un verbe (le pronom est sujet), un sujet suivi d'un verbe (le pronom est complément), ou un nom sans article (c'est une possession : whose).",
+      "- 3. Cherchez une virgule avant le trou : si elle existe, la relative est explicative et that est exclu.",
+      "- 4. Une préposition juste avant le trou ? Alors whom pour une personne, which pour une chose ; jamais that ni who.",
+      "- 5. Pour un pronom réfléchi, vérifiez que le sujet et le complément désignent la même personne ; si l'action va de l'un à l'autre, c'est each other.",
+      "- 6. Barème : ces cinq tests tranchent presque toujours, donc répondez. Si deux options restent possibles après les tests, laissez la case vide : une erreur coûte un point.",
+      "~ Exemple : « The manager ___ office was flooded called the plumber. » Étape 1 : l'antécédent manager est une personne. Étape 2 : après le trou vient office, un nom sans article : c'est une possession (« dont le bureau »). Étape 3 : whose. Who et which laissent la phrase sans possesseur ; who's signifie who is.",
+      "> Méthode du jour, le double codage : associez chaque règle à une image que vous dessinez vous-même, ici un tableau à trois colonnes (sujet, complément, possession) et deux lignes (personne, chose). La théorie du double codage d'Allan Paivio (1971) avance que combiner une information verbale et une information visuelle aide à apprendre. Démarche en quatre temps : reliez le tableau au cours, expliquez-le sans notes, dessinez votre propre version, puis redessinez-le de mémoire sur une feuille blanche."
+     ],
+     "fond": [
+      "## Notion 1 : who, which, that – personne ou chose",
+      "Règle : who remplace une personne, which remplace une chose, et that peut remplacer les deux, mais seulement dans une relative sans virgule (relative déterminative).",
+      "Pourquoi ? Le français dit « qui » pour tout. L'anglais, lui, sépare l'humain (who) du non-humain (which). That est un relatif « passe-partout », plus neutre, réservé aux relatives qui servent à identifier.",
+      "Tableau à recopier (double codage) : personne → sujet who / complément who(m) / possession whose ; chose → sujet which / complément which / possession whose ; that → sujet ou complément, sans possession.",
+      "~ Exemple résolu : complétez « The nurse ___ treated my mother works in Bouaké. » Étape 1 : nurse est une personne. Étape 2 : après le trou vient un verbe (treated) : le pronom est sujet. Étape 3 : who (that est aussi possible). Traduction : « L'infirmière qui a soigné ma mère travaille à Bouaké. »",
+      "! Piège : « The road who leads to the market » est fautif : road est une chose, il faut which ou that. Autre piège : ne répétez jamais le sujet après le relatif ; « The nurse who she treated my mother » contient un « she » en trop.",
+      "> Pour retenir : « WHO pour un « who » (quelqu'un), WHICH pour un « which thing » (quelque chose) ; THAT pour les deux, jamais après une virgule. »",
+      "? Complétez avec who ou which : « The bridge ___ was built last year is already crowded » ; « The engineer ___ designed it is from Korhogo. » || Bridge est une chose et le pronom est sujet (il précède le verbe was built) : which (ou that). Engineer est une personne, pronom sujet devant designed : who (ou that).",
+      "## Notion 2 : whose (possession) et whom (complément)",
+      "Règle 1 : whose exprime la possession, comme « dont le, dont la ». Il se place directement devant le nom possédé, sans article, et s'emploie pour une personne comme pour une chose.",
+      "Règle 2 : whom est la forme complément de who. Il est soutenu ; aujourd'hui on emploie le plus souvent who. Mais juste après une préposition, seul whom est possible pour une personne (with whom, to whom) ; pour une chose, on dit with which, to which.",
+      "Règle 3 : si l'on veut employer who ou that, la préposition part à la fin : « the colleague (who) I work with », « the uncle that I inherited the money from ».",
+      "Pourquoi ? Whom garde une ancienne marque de complément, comme « him » à côté de « he ». Une préposition appelle toujours une forme complément : on dit « with him », donc « with whom ».",
+      "~ Exemple résolu : complétez « The candidate to ___ the jury spoke was nervous. » Étape 1 : une préposition (to) précède le trou. Étape 2 : candidate est une personne. Étape 3 : whom. Version courante équivalente : « The candidate (who) the jury spoke to was nervous. »",
+      "! Piège : whose et who's se prononcent pareil. Who's est la contraction de who is ou who has ; whose est le relatif de possession. Test : remplacez par « who is » ; si la phrase n'a plus de sens, écrivez whose.",
+      "> Pour retenir : « Préposition devant → whom (personne) ou which (chose). Nom juste derrière → whose. »",
+      "? Complétez : « The village ___ chief welcomed us is near Odienné » puis « The colleague with ___ I share my office is on leave. » || Dans la première phrase, chief suit le trou sans article : c'est une possession (« dont le chef »), donc whose. Dans la seconde, la préposition with précède le trou et colleague est une personne : whom. Who et that sont impossibles juste après with.",
+      "## Notion 3 : relative déterminative ou explicative (la virgule décide)",
+      "Règle : une relative déterminative identifie la personne ou la chose ; sans elle, on ne sait pas de qui on parle. Elle n'a pas de virgule, accepte that, et son pronom peut être omis quand il est complément. Une relative explicative ajoute seulement une information ; elle est encadrée de virgules, commence par who, which, whose, when ou where, jamais par that, et son pronom ne peut pas être omis.",
+      "Pourquoi ? La virgule signale une parenthèse : on pourrait retirer la relative sans perdre l'identité de la personne. That, mot d'identification, n'a donc rien à y faire.",
+      "~ Exemple résolu : complétez « My father, ___ is 70, still grows cocoa. » Étape 1 : une virgule précède le trou : relative explicative. Étape 2 : father est une personne, pronom sujet. Étape 3 : who ; that est exclu à cause de la virgule.",
+      "~ Exemple résolu : peut-on supprimer le pronom dans « The report that you wrote is excellent » ? Étape 1 : après that vient you, un sujet : that est complément de wrote. Étape 2 : pas de virgule. Étape 3 : oui, « The report you wrote is excellent ». En revanche, dans « The man who phoned is my uncle », who est sujet : on ne peut pas le supprimer.",
+      "Cas utile : après une virgule, which peut reprendre toute la proposition qui précède : « The bus left on time, which was a relief » (« ce qui fut un soulagement »).",
+      "! Piège : « Abidjan, that is my home town, … » est fautif : après la virgule, il faut which.",
+      "> Pour retenir : « Virgule = parenthèse : ni that, ni pronom supprimé. »",
+      "? Dans laquelle de ces phrases peut-on supprimer le relatif ? a) « The girl who sings in the choir is my niece. » b) « The book that I borrowed is in my bag. » c) « My aunt, whom you met, is a judge. » || Seulement b). En a), who est sujet (il précède sings). En c), la relative est entre virgules : le pronom ne peut jamais disparaître. En b), that est complément de borrowed (le sujet est I) et il n'y a pas de virgule : « The book I borrowed is in my bag ».",
+      "## Notion 4 : les pronoms réfléchis et each other",
+      "Règle : les huit pronoms réfléchis sont myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. On les emploie quand le sujet et le complément sont la même personne (« I cut myself »), pour insister (« I locked it myself », « je l'ai fermée moi-même »), et après by pour dire « tout seul » (« by himself »).",
+      "Pourquoi ? -self marque le retour de l'action sur le sujet ; au pluriel, -self devient -selves, comme shelf devient shelves.",
+      "Règle 2 : each other exprime la réciprocité : chacun agit sur l'autre, pas sur soi-même.",
+      "~ Exemple résolu : « The two ministers congratulated ___ after the vote. » Étape 1 : qui félicite qui ? Chaque ministre félicite l'autre. Étape 2 : l'action va de l'un à l'autre : réciprocité. Étape 3 : each other. Avec themselves, chacun se serait félicité lui-même.",
+      "! Piège : les formes « hisself », « theirselves » ou « ourselfs » ne figurent pas dans la liste : elles sont fautives. Ne confondez pas non plus « by herself » (toute seule) et « for herself » (pour elle-même).",
+      "> Pour retenir : « -self au singulier, -selves au pluriel ; by myself = tout seul ; each other = l'un l'autre. »",
+      "? Complétez : « She prepared the whole budget by ___ » et « After the match, the two captains thanked ___. » || Première phrase : by + réfléchi signifie « toute seule » ; le sujet est she : herself. Seconde phrase : chaque capitaine remercie l'autre, c'est une action réciproque : each other."
+     ],
+     "retenir": [
+      "Who remplace une personne, which une chose ; that remplace les deux, mais seulement dans une relative sans virgule.",
+      "Whose exprime la possession (« dont le ») et se place devant un nom sans article : the man whose car was stolen.",
+      "Après une préposition, on emploie whom pour une personne et which pour une chose, jamais that ni who.",
+      "Une relative entre virgules (explicative) n'accepte jamais that, et son pronom ne peut pas être omis.",
+      "On ne peut omettre le pronom relatif que s'il est complément : the report (that) you wrote.",
+      "Après une virgule, which peut reprendre toute la proposition : He passed, which surprised everyone.",
+      "Réfléchis : myself, yourself, himself, herself, itself, ourselves, yourselves, themselves ; by + réfléchi signifie « tout seul ».",
+      "Each other marque une action réciproque (l'un l'autre) ; themselves, une action tournée vers soi-même."
+     ],
+     "exo": {
+      "tag": "niv-an13",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "British Council, LearnEnglish – Relative pronouns and relative clauses",
+       "u": "https://learnenglish.britishcouncil.org/comment/145434"
+      },
+      {
+       "t": "British Council, LearnEnglish – Relative clauses: non-defining relative clauses",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/relative-clauses-non-defining-relative-clauses"
+      },
+      {
+       "t": "British Council, LearnEnglish – Reflexive pronouns",
+       "u": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reflexive-pronouns"
+      },
+      {
+       "t": "Durrington Research School – Teaching effective revision strategies: dual coding",
+       "u": "https://researchschool.org.uk/durrington/news/using-research-evidence-to-teach-effective-revision-strategies-dual-coding"
+      }
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "L20261128fr14",
+     "niv": "fr14",
+     "m": "fr",
+     "titre": "Conjugaison 3 : le subjonctif",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez conjuguer le subjonctif présent des verbes réguliers et irréguliers (que je fasse, qu'il ait, que nous étudiions), reconnaître l'imparfait du subjonctif (qu'il chantât) et choisir le bon mode après une conjonction.",
+      "= Vous saurez surtout éviter les deux fautes les plus fréquentes : « après qu'il soit parti » (il faut l'indicatif) et « bien qu'il est venu » (il faut le subjonctif).",
+      "## Ce que demande l'épreuve",
+      "En présélection, le subjonctif arrive en phrases à compléter (« Bien que la route ___ mauvaise… »), en repérage de la phrase correcte et en conjugaison pure. Les distracteurs sont toujours les mêmes : l'indicatif après bien que, le subjonctif après après que, les homophones (il voit / qu'il voie ; je conclus / que je conclue ; que j'aie / qu'il ait), et l'oubli du i de « que nous étudiions ».",
+      "## La méthode, pas à pas",
+      "- 1. Repérez ce qui commande la subordonnée : une conjonction (bien que, après que…) ou un verbe principal (exiger, douter, craindre…).",
+      "- 2. Posez la question du sens : le fait est-il présenté comme certain (indicatif) ou seulement envisagé, voulu, craint, contesté (subjonctif) ?",
+      "- 3. Pour une conjonction, appliquez la liste du cours : après que + indicatif ; avant que, bien que, pour que, sans que, à moins que, jusqu'à ce que + subjonctif.",
+      "- 4. Vérifiez la forme par un test d'oreille : remplacez le verbe par faire ou venir, dont les deux modes s'entendent (il fait / qu'il fasse ; il vient / qu'il vienne).",
+      "- 5. Barème (+1 / 0 / −1) : la règle des conjonctions est mécanique, donc répondez. Pour une forme rare d'imparfait du subjonctif, si deux terminaisons restent possibles après réflexion, abstenez-vous.",
+      "~ Exemple : « Bien qu'il (pleuvoir) toute la nuit, la cérémonie a eu lieu à Bondoukou. » Étape 1 : la subordonnée est introduite par bien que. Étape 2 : bien que exprime une concession et se construit avec le subjonctif. Étape 3 : la pluie est antérieure à la cérémonie, on prend le passé du subjonctif (auxiliaire au subjonctif présent + participe) : bien qu'il ait plu. Test d'oreille : « bien qu'il ait fait froid » sonne juste.",
+      "> Méthode du jour, le double codage : dessinez une flèche du temps. À gauche, « APRÈS QUE : c'est fait → indicatif » ; à droite, « AVANT QUE : pas encore fait → subjonctif ». Au-dessus, deux colonnes : CERTAIN (indicatif) / ENVISAGÉ (subjonctif). La théorie du double codage d'Allan Paivio (1971) avance que combiner les mots et l'image aide à apprendre. Expliquez votre schéma sans notes, puis redessinez-le de mémoire avant chaque séance."
+     ],
+     "fond": [
+      "## Notion 1 : former le subjonctif présent",
+      "Règle : tous les verbes prennent les terminaisons -e, -es, -e, -ions, -iez, -ent, sauf avoir et être. Les verbes du 2e groupe intercalent -iss- : que je finisse, qu'on rétablisse.",
+      "Avoir et être sont à part : que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient ; que je sois, qu'il soit, que nous soyons, que vous soyez. Ils prennent un t à la 3e personne du singulier et pas de i à nous et vous.",
+      "Radicaux irréguliers à connaître : que j'aille (aller), que je fasse (faire), que je puisse (pouvoir), que je sache (savoir), que je veuille (vouloir), que je vienne (venir), que je prenne (prendre), que je reçoive (recevoir), que je doive (devoir), que je boive (boire), que je craigne (craindre), que je résolve (résoudre), que j'acquière (acquérir), que je meure (mourir), que je vaille (valoir), qu'il faille (falloir).",
+      "Pourquoi ? Le subjonctif présente un fait comme envisagé, non comme constaté. Sa forme distincte (qu'il fasse face à il fait) permet d'entendre cette différence de sens.",
+      "~ Exemple résolu : « Il faut que nous (étudier) ce dossier. » Étape 1 : il faut que commande le subjonctif. Étape 2 : radical étudi- + terminaison -ions. Étape 3 : que nous étudiions, avec deux i. Le i de la terminaison se garde même si le radical finit par i ou y : que vous vous appuyiez.",
+      "! Piège : les homophones. « Je conclus » est l'indicatif, « que je conclue » le subjonctif ; « il voit » l'indicatif, « qu'il voie » le subjonctif ; « que j'aie » (e final) mais « qu'il ait » (t final).",
+      "> Pour retenir : « aie, aies, ait : seul il prend le t ; nous et vous n'ont pas de i : ayons, soyons. »",
+      "? Conjuguez au subjonctif présent : faire (que tu), savoir (qu'il), vouloir (que je), recevoir (qu'elle), voir (que nous). || Que tu fasses, qu'il sache, que je veuille, qu'elle reçoive (cédille devant o) et que nous voyions : radical voy- + -ions, le i de la terminaison se garde après le y.",
+      "## Notion 2 : le sens du subjonctif et les verbes qui l'appellent",
+      "Règle : le subjonctif exprime ce qui est envisagé mais n'est pas réalisé de façon sûre (souhait, ordre, nécessité, crainte, doute, jugement). L'indicatif présente l'action comme un fait certain ou probable. Le subjonctif est intemporel : c'est le contexte qui situe l'action dans le temps.",
+      "On le trouve après les verbes de volonté (vouloir, exiger, souhaiter), de sentiment (craindre, aimer que), de doute (douter que) et après les jugements (il est important que, je trouve normal que). Il s'emploie aussi seul, pour un ordre à la 3e personne ou un souhait : « Qu'il entre ! », « Pourvu qu'il réussisse ! ».",
+      "~ Exemple résolu : « Le préfet exige que chaque chef de village (venir) à la réunion. » Étape 1 : exiger exprime une volonté. Étape 2 : la venue n'est qu'envisagée, elle n'est pas constatée. Étape 3 : subjonctif : qu'il vienne.",
+      "! Piège : « Je doute qu'il vient » est fautif : douter met le fait en doute, il faut « je doute qu'il vienne ».",
+      "? Complétez : « Je trouve normal que tu (être) récompensé » et « Le maire souhaite que les travaux (finir) avant les pluies. » || Trouver normal est un jugement, souhaiter une volonté : les deux appellent le subjonctif. Que tu sois récompensé ; que les travaux finissent (2e groupe : radical fin- + -iss- + -ent).",
+      "## Notion 3 : après que + indicatif, avant que + subjonctif",
+      "Règle : après que introduit un fait accompli, donc certain : il se construit avec l'indicatif, le plus souvent au passé antérieur (« Après qu'il eut signé, il sortit »), ou avec un autre temps de l'indicatif selon le verbe principal. Le subjonctif après après que est critiqué. Avant que introduit une action pas encore réalisée : il se construit avec le subjonctif.",
+      "Pourquoi ? Ce qui est « après » est déjà arrivé : on le constate. Ce qui est « avant » n'est pas encore arrivé : on ne peut que l'envisager.",
+      "~ Exemple résolu : « Après qu'elle (arriver), nous commencerons la séance. » Étape 1 : après que → indicatif. Étape 2 : la principale est au futur et l'arrivée la précède. Étape 3 : futur antérieur : après qu'elle sera arrivée.",
+      "Le ne explétif : après avant que et à moins que, on peut ajouter un ne qui n'a aucun sens négatif, surtout à l'écrit soigné : « Rentrez le linge avant qu'il ne pleuve » (ou « avant qu'il pleuve »). Il est facultatif. Après sans que, il est une erreur : « sans que personne le sache », et non « sans que personne ne le sache ».",
+      "! Piège : « Avant qu'il a commencé » est fautif (avant que exige le subjonctif : avant qu'il ait commencé) ; « après qu'il soit parti » est critiqué (après que exige l'indicatif).",
+      "> Pour retenir : « APRÈS, c'est fait : indicatif. AVANT, ce n'est pas encore fait : subjonctif. »",
+      "? Corrigez si nécessaire : a) « Après que les élèves soient sortis, le directeur ferma la cour. » b) « Partons avant que la nuit tombe. » || a) Après que exige l'indicatif ; la principale est au passé simple et la sortie lui est antérieure : passé antérieur, « après que les élèves furent sortis ». b) Correcte : avant que + subjonctif (que la nuit tombe) ; « avant que la nuit ne tombe » serait aussi correct, avec un ne explétif facultatif.",
+      "## Notion 4 : bien que et les autres conjonctions",
+      "Règle : se construisent avec le subjonctif afin que, pour que, à condition que, à moins que, avant que, de peur que, jusqu'à ce que, pourvu que, sans que. Bien que se construit généralement avec le subjonctif ; l'indicatif y est critiqué ou non admis. Quoique est couramment suivi du subjonctif.",
+      "Cas à double sens : de sorte que, de manière que, en sorte que. Si la conséquence est seulement visée (un but), on met le subjonctif ; si elle est réalisée, on met l'indicatif.",
+      "~ Exemple résolu : « Il a révisé chaque soir, de sorte qu'il (réussir). » Lecture 1, résultat constaté : de sorte qu'il a réussi (indicatif). Lecture 2, but recherché : « Il révise chaque soir de sorte qu'il réussisse » (subjonctif). Le mode traduit la différence entre le fait et l'intention.",
+      "! Piège : à moins que garde le subjonctif même quand le fait paraît probable : « à moins qu'il pleuve » ou « à moins qu'il ne pleuve », jamais « à moins qu'il pleut ».",
+      "? Complétez : « Je resterai jusqu'à ce que tu (revenir) » ; « Bien qu'elle (être) fatiguée, elle a terminé le rapport. » || Jusqu'à ce que et bien que appellent le subjonctif : jusqu'à ce que tu reviennes ; bien qu'elle soit fatiguée.",
+      "## Notion 5 : reconnaître l'imparfait du subjonctif",
+      "Règle : l'imparfait et le plus-que-parfait du subjonctif sont pratiquement sortis de l'usage, mais le concours peut demander de les reconnaître. Les terminaisons suivent trois familles : -asse, -ât (qu'il chantât, qu'il donnât) ; -isse, -ît (qu'il battît, que nous prissions, qu'il prît) ; -usse, -ût (que je voulusse, qu'il connût). Tenir et venir donnent qu'il tînt, qu'il vînt. Le plus-que-parfait combine l'auxiliaire à l'imparfait du subjonctif et le participe : que tu eusses conclu, qu'ils fussent nés.",
+      "Pourquoi ? À la 3e personne du singulier, l'accent circonflexe distingue l'imparfait du subjonctif du passé simple : il chanta / qu'il chantât ; il prit / qu'il prît ; il fut / qu'il fût.",
+      "~ Exemple résolu : « Il fallait qu'il (venir), mais il resta chez lui. » En langue littéraire : qu'il vînt (famille de tenir et venir, avec circonflexe). En langue courante, on emploie le subjonctif présent : il fallait qu'il vienne.",
+      "! Piège : « qu'il fut » sans accent est le passé simple ; au subjonctif, on écrit « qu'il fût ».",
+      "> Pour retenir : « Au subjonctif imparfait, il porte un chapeau : chantât, prît, fût, vînt. »"
+     ],
+     "retenir": [
+      "Subjonctif présent : terminaisons -e, -es, -e, -ions, -iez, -ent pour tous les verbes sauf avoir et être.",
+      "Avoir : que j'aie, qu'il ait, que nous ayons ; être : que je sois, qu'il soit, que nous soyons.",
+      "Le i de -ions et -iez se garde au subjonctif : que nous étudiions, que nous voyions, que vous vous appuyiez.",
+      "Après que présente un fait accompli : il se construit avec l'indicatif (après qu'il fut parti).",
+      "Avant que, pour que, sans que, jusqu'à ce que et à moins que exigent le subjonctif.",
+      "Bien que se construit avec le subjonctif : bien qu'il soit malade ; l'indicatif y est critiqué.",
+      "Le ne explétif est facultatif après avant que et à moins que, mais fautif après sans que.",
+      "À la 3e personne du singulier, l'imparfait du subjonctif porte un accent circonflexe : qu'il chantât, qu'il fût, qu'il vînt."
+     ],
+     "exo": {
+      "tag": "niv-fr14",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "Vitrine linguistique (OQLF) – Formes du subjonctif",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24237/la-grammaire/le-verbe/conjugaison/formes-du-subjonctif"
+      },
+      {
+       "t": "Vitrine linguistique (OQLF) – Subjonctif ou indicatif après les conjonctions de subordination",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24238/la-grammaire/le-verbe/modes/subjonctif/subjonctif-ou-indicatif-apres-les-conjonctions-de-subordination"
+      },
+      {
+       "t": "Vitrine linguistique (OQLF) – Mode verbal avec après que et avant que",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/21132/la-grammaire/le-verbe/modes/concordance-des-temps/mode-verbal-avec-apres-que-et-avant-que"
+      },
+      {
+       "t": "Vitrine linguistique (OQLF) – Subjonctif après certains verbes",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24253/la-grammaire/le-verbe/modes/subjonctif/subjonctif-apres-certains-verbes"
+      },
+      {
+       "t": "Vitrine linguistique (OQLF) – Généralités sur le subjonctif",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24236/la-grammaire/le-verbe/modes/subjonctif/generalites-sur-le-subjonctif"
+      },
+      {
+       "t": "Vitrine linguistique (OQLF) – Constructions avec un ne explétif",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/22467/la-syntaxe/la-negation-et-la-restriction/constructions-avec-un-ne-expletif"
+      },
+      {
+       "t": "Vitrine linguistique (OQLF) – Valeurs particulières du subjonctif",
+       "u": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24248/la-grammaire/le-verbe/modes/subjonctif/valeurs-particulieres-du-subjonctif"
+      },
+      {
+       "t": "Justice Canada, Juriterminologie – Ne explétif",
+       "u": "https://www.justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no84.html"
+      },
+      {
+       "t": "Durrington Research School – Teaching effective revision strategies: dual coding",
+       "u": "https://researchschool.org.uk/durrington/news/using-research-evidence-to-teach-effective-revision-strategies-dual-coding"
+      }
+     ],
+     "verif": "regle"
+    },
+    {
+     "id": "L20261128cg14",
+     "niv": "cg14",
+     "m": "cg",
+     "titre": "Amérique du Nord : États-Unis et Canada",
+     "min": 50,
+     "tech": [
+      "= À la fin de cette leçon, vous saurez expliquer comment fonctionnent le Congrès, l'élection présidentielle et la Cour suprême des États-Unis, et dater les grandes étapes de ce pays (1776, 1787, 1861-1865, 1867, 1959).",
+      "= Vous saurez aussi présenter le Canada (fédération née en 1867, 10 provinces et 3 territoires, deux langues officielles) et situer les Grands Lacs.",
+      "## Ce que demande l'épreuve",
+      "En culture générale (barème +1 / 0 / −1), l'Amérique du Nord tombe en questions de date (adoption de la Déclaration d'indépendance), de chiffre (sénateurs, grands électeurs, juges), d'institution (qui juge un président mis en accusation ?) et de géographie (capitales, Grands Lacs). Les distracteurs mélangent les chiffres voisins (100, 435, 538), les dates proches (adoption et signature), et les États-Unis avec le Canada.",
+      "## La méthode, pas à pas",
+      "- 1. Classez la question : date, chiffre, institution ou géographie.",
+      "- 2. Pour un chiffre, reconstituez-le au lieu de le deviner : 538 = 435 + 100 + 3.",
+      "- 3. Pour une date, rattachez-la à la frise du cours : 1776 → 1787 → 1803 → 1861-1865 → 1867 → 1959 → 1982 → 1999.",
+      "- 4. Éliminez d'abord les options qui appartiennent à l'autre pays ou à une autre institution.",
+      "- 5. Barème : s'il reste deux dates proches et aucun repère pour trancher, laissez la case vide.",
+      "~ Exemple : « Combien de voix de grands électeurs faut-il pour être élu président ? » Étape 1 : c'est un chiffre. Étape 2 : le collège compte 538 grands électeurs (435 représentants + 100 sénateurs + 3 pour le district de Columbia). Étape 3 : la majorité, c'est plus de la moitié ; 538 ÷ 2 = 269, donc il faut 270.",
+      "> Méthode du jour, le double codage : dessinez deux images et apprenez-les avec le texte. 1) Une frise chronologique 1776-1999 avec une couleur par pays. 2) Un schéma du Congrès : un grand rectangle « Chambre, 435, 2 ans » et un petit « Sénat, 100, 6 ans », reliés par une flèche « mise en accusation → jugement ». La théorie du double codage d'Allan Paivio (1971) avance que combiner les mots et l'image aide à apprendre. Redessinez les deux schémas de mémoire avant de relire."
+     ],
+     "fond": [
+      "## Notion 1 : la naissance des États-Unis (1776-1787)",
+      "Fait : le 4 juillet 1776, le Congrès continental adopte la Déclaration d'indépendance, « déclaration unanime des treize États unis d'Amérique ». Un comité de cinq membres (Thomas Jefferson, John Adams, Benjamin Franklin, Robert Livingston, Roger Sherman) la prépare ; la rédaction est confiée à Jefferson. Les délégués commencent à la signer le 2 août 1776.",
+      "Onze ans plus tard, une convention se réunit à Philadelphie, dans la State House (Independence Hall), à partir de mai 1787. La Constitution qu'elle adopte est signée le 17 septembre 1787 et établit le gouvernement des États-Unis.",
+      "Pourquoi deux textes ? La Déclaration proclame l'indépendance ; la Constitution organise ensuite l'État : elle répartit le pouvoir entre le Congrès, le président et les juges.",
+      "~ Exemple résolu : « Combien d'années séparent l'adoption de la Déclaration de la signature de la Constitution ? » Étape 1 : Déclaration, 4 juillet 1776. Étape 2 : Constitution, 17 septembre 1787. Étape 3 : 1787 − 1776 = 11 ans.",
+      "! Piège : le 4 juillet 1776 est la date d'adoption ; la signature de la Déclaration commence le 2 août 1776. Le 17 septembre 1787 est la date de la Constitution, pas celle de l'indépendance.",
+      "> Pour retenir : « 76 je déclare, 87 je construis. »",
+      "? Qui a rédigé la Déclaration d'indépendance, et quelle assemblée l'a adoptée, à quelle date ? || La rédaction a été confiée à Thomas Jefferson, au sein d'un comité de cinq membres. Le texte a été adopté par le Congrès continental le 4 juillet 1776.",
+      "## Notion 2 : le Congrès, un Parlement à deux chambres",
+      "Règle : le Congrès comprend le Sénat et la Chambre des représentants. Chaque État, quelle que soit sa taille, élit deux sénateurs : 100 au total, pour 6 ans, environ un tiers étant renouvelé tous les deux ans. Les 435 représentants sont élus en fonction de la population, pour 2 ans.",
+      "Pouvoirs à connaître : la ratification d'un traité exige les deux tiers des sénateurs présents ; les grandes nominations, la majorité simple du Sénat. En cas de mise en accusation (impeachment), la Chambre accuse et le Sénat juge : la condamnation exige les deux tiers des sénateurs présents. Le vice-président des États-Unis préside le Sénat, mais ne vote qu'en cas d'égalité.",
+      "Pourquoi deux chambres ? Le Sénat donne le même poids à chaque État ; la Chambre donne plus de sièges aux États les plus peuplés.",
+      "~ Exemple résolu : un président est mis en accusation et les 100 sénateurs sont présents. Combien de voix faut-il pour le condamner ? Étape 1 : la Chambre a accusé, le Sénat juge. Étape 2 : il faut les deux tiers des présents : 100 × 2 ÷ 3 ≈ 66,7. Étape 3 : on ne vote pas avec une fraction de sénateur : il faut au moins 67 voix.",
+      "> Pour retenir : « Sénat : 100 pour 6 ans ; Chambre : 435 pour 2 ans. La Chambre accuse, le Sénat juge. »",
+      "? Un traité est examiné en présence de 90 sénateurs. Combien de voix faut-il au minimum pour le ratifier ? || La ratification exige les deux tiers des sénateurs présents : 90 × 2 ÷ 3 = 60. Il faut donc au moins 60 voix ; 59 ne suffisent pas.",
+      "## Notion 3 : le président, les grands électeurs et la Cour suprême",
+      "Règle : le président est élu par un collège de 538 grands électeurs ; il lui faut la majorité, soit 270. Chaque État a autant de grands électeurs que de représentants, plus deux (ses sénateurs) ; le district de Columbia en a 3, en vertu du 23e amendement. La plupart des États attribuent tous leurs grands électeurs au candidat arrivé en tête ; le Maine et le Nebraska appliquent une forme de répartition proportionnelle.",
+      "Le 22e amendement, proposé par le Congrès le 24 mars 1947 et ratifié le 27 février 1951, interdit d'être élu président plus de deux fois. Il fait suite aux quatre victoires de Franklin D. Roosevelt (1932, 1936, 1940, 1944).",
+      "La Cour suprême compte neuf juges, nommés à vie par le président avec l'avis et le consentement du Sénat. Elle exerce le contrôle de constitutionnalité (judicial review) : elle peut déclarer inconstitutionnelle une loi du Congrès ou d'un État. Ce pouvoir n'est pas écrit explicitement dans la Constitution ; le juge Marshall l'a formulé dans l'arrêt Marbury v. Madison (1803).",
+      "~ Exemple résolu : un État compte 8 représentants. Combien a-t-il de grands électeurs ? Étape 1 : règle, représentants + 2 sénateurs. Étape 2 : 8 + 2 = 10. Vérification : la même règle appliquée à tous les États donne 435 + 100 = 535, plus 3 pour le district de Columbia, soit 538.",
+      "! Piège : le contrôle de constitutionnalité n'est pas inscrit en toutes lettres dans la Constitution ; il vient de l'arrêt Marbury v. Madison (1803). Autre piège : 1947 est la date de proposition du 22e amendement, 1951 celle de sa ratification.",
+      "? Pourquoi faut-il 270 grands électeurs et non 269 ? || 538 ÷ 2 = 269 : avec 269 voix, on n'a que la moitié, et l'adversaire peut avoir autant. La majorité exige plus de la moitié, donc 270.",
+      "## Notion 4 : expansion, guerre de Sécession et derniers États",
+      "Fait : en 1860, l'élection d'Abraham Lincoln, candidat du Parti républicain opposé à l'esclavage, pousse des États du Sud à faire sécession. La guerre de Sécession (12 avril 1861 - 26 avril 1865) oppose les États-Unis à onze États du Sud réunis dans les États confédérés d'Amérique.",
+      "Le 30 mars 1867, le secrétaire d'État William Seward accepte la proposition du ministre russe Édouard de Stoeckl : les États-Unis achètent l'Alaska à la Russie pour 7,2 millions de dollars ; le transfert a lieu le 18 octobre 1867. L'Alaska devient le 49e État le 3 janvier 1959, Hawaï le 50e le 21 août 1959, par une proclamation du président Eisenhower.",
+      "~ Exemple résolu : rangez dans l'ordre : achat de l'Alaska, arrêt Marbury v. Madison, début de la guerre de Sécession, entrée d'Hawaï. Étape 1 : datez chaque fait : 1867, 1803, 1861, 1959. Étape 2 : classez : 1803, 1861, 1867, 1959. Réponse : Marbury, Sécession, Alaska, Hawaï.",
+      "! Piège : en 1959, l'Alaska (3 janvier) entre avant Hawaï (21 août) ; Hawaï est le dernier État admis, le 50e.",
+      "> Pour retenir : « 1867, l'année double : l'Alaska est acheté, le Canada est uni. »",
+      "## Notion 5 : le Canada, une fédération née en 1867",
+      "Fait : en 1867, l'Acte de l'Amérique du Nord britannique unit la Nouvelle-Écosse, le Nouveau-Brunswick et le Canada, qu'il divise en deux provinces, le Québec et l'Ontario. Ce texte sert de constitution jusqu'en 1982, année où il est renommé Loi constitutionnelle de 1867. La Loi de 1982 sur le Canada, approuvée par le Parlement britannique le 25 mars 1982 et proclamée par la reine Élisabeth II le 17 avril 1982, rend le Canada pleinement indépendant ; Pierre Elliott Trudeau est alors Premier ministre.",
+      "Le Canada compte aujourd'hui 10 provinces et 3 territoires, chacun avec sa capitale. Ottawa, capitale fédérale située dans l'Ontario, a été choisie en 1857 par la reine Victoria. Les deux langues officielles sont l'anglais et le français. Le 30 octobre 1995, les Québécois rejettent la souveraineté par référendum : le non l'emporte avec 50,58 %, avec moins de 55 000 voix d'écart. Le 1er avril 1999, le Nunavut, découpé dans les Territoires du Nord-Ouest, devient le troisième territoire ; sa capitale est Iqaluit, sur l'île de Baffin, et les Inuits forment près de 85 % de sa population.",
+      "~ Exemple résolu : « Combien de provinces le Canada comptait-il en 1867 ? » Étape 1 : l'Acte unit trois colonies. Étape 2 : l'une d'elles, le Canada, est divisée en Québec et Ontario. Étape 3 : 2 + 2 = 4 provinces : Nouvelle-Écosse, Nouveau-Brunswick, Québec, Ontario.",
+      "! Piège : la capitale de la province de Québec est la ville de Québec, pas Montréal ; celle de l'Ontario est Toronto, alors qu'Ottawa est la capitale fédérale.",
+      "> Pour retenir : capitales des territoires, « Y-W-I » d'ouest en est : Yukon → Whitehorse, Territoires du Nord-Ouest → Yellowknife, Nunavut → Iqaluit.",
+      "? Quel lien peut-on faire entre 1867 aux États-Unis et 1867 au Canada ? Quel texte de 1982 complète l'histoire constitutionnelle canadienne ? || En 1867, les États-Unis achètent l'Alaska (30 mars) et l'Acte de l'Amérique du Nord britannique crée la fédération canadienne. En 1982, la Loi sur le Canada, proclamée le 17 avril par Élisabeth II, rend le pays pleinement indépendant et renomme l'Acte de 1867.",
+      "## Notion 6 : géographie, les Grands Lacs et les trois océans",
+      "Fait : le Canada est le deuxième pays du monde par la superficie (10 millions de km²), bordé par trois océans : Pacifique à l'ouest, Atlantique à l'est, Arctique au nord. Les cinq Grands Lacs (Supérieur, Michigan, Huron, Érié, Ontario) couvrent environ 244 106 km², la plus grande surface d'eau douce du monde, même si le lac Baïkal, en Russie, contient un plus grand volume d'eau. Le lac Supérieur est le plus étendu (82 100 km²). Tous les lacs, sauf le lac Michigan, forment une frontière naturelle entre le Canada et les États-Unis. Ils appartiennent au système du Saint-Laurent, qui se jette dans l'Atlantique.",
+      "> Pour retenir : « HOMES » donne les cinq lacs : Huron, Ontario, Michigan, Erie (Érié), Superior (Supérieur).",
+      "Pour la dissertation : fédéralisme. Arguments pour : il permet à des régions de langues différentes (anglais et français au Canada) de vivre dans un même État. Arguments contre : il multiplie les niveaux de décision et peut nourrir des tentations de sécession, comme le montrent la guerre de Sécession américaine ou le référendum québécois de 1995. Question à se poser pour l'Afrique : quelle place donner aux régions dans un État qui veut rester uni ?",
+      "? Quel Grand Lac ne forme pas la frontière entre le Canada et les États-Unis, et lequel est le plus étendu ? || Le lac Michigan est le seul qui ne forme pas la frontière. Le lac Supérieur est le plus étendu, avec 82 100 km²."
+     ],
+     "retenir": [
+      "Le Congrès continental a adopté la Déclaration d'indépendance le 4 juillet 1776 ; Thomas Jefferson l'a rédigée.",
+      "La Constitution des États-Unis a été signée le 17 septembre 1787, après une convention réunie à Philadelphie.",
+      "Le Congrès compte 100 sénateurs (2 par État, 6 ans) et 435 représentants (élus selon la population, 2 ans).",
+      "Le président est élu par 538 grands électeurs ; il en faut 270. Le 22e amendement (1951) limite à deux élections.",
+      "La Cour suprême compte neuf juges nommés à vie par le président avec le consentement du Sénat.",
+      "1867 : les États-Unis achètent l'Alaska à la Russie pour 7,2 millions de dollars, et la fédération canadienne naît.",
+      "Le Canada compte 10 provinces et 3 territoires ; sa capitale est Ottawa ; ses langues officielles sont l'anglais et le français.",
+      "Grands Lacs (HOMES) : Huron, Ontario, Michigan, Érié, Supérieur ; le lac Supérieur est le plus étendu."
+     ],
+     "exo": {
+      "tag": "niv-cg14",
+      "n": 10
+     },
+     "sources": [
+      {
+       "t": "National Archives – Declaration of Independence (Milestone Documents)",
+       "u": "https://www.archives.gov/milestone-documents/declaration-of-Independence"
+      },
+      {
+       "t": "National Archives – The Constitution of the United States (Milestone Documents)",
+       "u": "https://www.archives.gov/milestone-documents/constitution"
+      },
+      {
+       "t": "Britannica – Congress of the United States",
+       "u": "https://britannica.com/topic/Congress-of-the-United-States"
+      },
+      {
+       "t": "National Archives – About the Electoral College",
+       "u": "https://www.archives.gov/electoral-college/about"
+      },
+      {
+       "t": "Britannica – Twenty-second Amendment",
+       "u": "https://www.britannica.com/topic/Twenty-second-Amendment"
+      },
+      {
+       "t": "Britannica – Supreme Court of the United States",
+       "u": "https://www.britannica.com/topic/Supreme-Court-of-the-United-States"
+      },
+      {
+       "t": "Britannica – American Civil War",
+       "u": "https://www.britannica.com/event/american-civil-war"
+      },
+      {
+       "t": "Office of the Historian, U.S. Department of State – Purchase of Alaska, 1867",
+       "u": "https://history.state.gov/milestones/1866-1898/alaska-purchase"
+      },
+      {
+       "t": "National Constitution Center – On this day, we added the 50th state",
+       "u": "https://constitutioncenter.org/blog/on-this-day-we-added-the-50th-state"
+      },
+      {
+       "t": "EBSCO Research Starters – Alaska and Hawaii Gain Statehood",
+       "u": "https://www.ebsco.com/research-starters/history/alaska-and-hawaii-gain-statehood"
+      },
+      {
+       "t": "Britannica – British North America Act",
+       "u": "https://britannica.com/event/British-North-America-Act"
+      },
+      {
+       "t": "Britannica – Canada Act",
+       "u": "https://www.britannica.com/event/Canada-Act"
+      },
+      {
+       "t": "Gouvernement du Canada – Découvrir le Canada : les régions du Canada",
+       "u": "https://www.canada.ca/content/canadasite/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-regions.html"
+      },
+      {
+       "t": "University of Lethbridge – Canada Facts",
+       "u": "https://ulethbridge.ca/node/20877"
+      },
+      {
+       "t": "Britannica – Quebec referendum of 1995",
+       "u": "https://www.britannica.com/topic/Quebec-referendum-of-1995"
+      },
+      {
+       "t": "Gouvernement du Canada (RCAANC) – Nunavut, Canada's third territory",
+       "u": "https://rcaanc-cirnac.gc.ca/eng/1303138100962/1303138315347"
+      },
+      {
+       "t": "Britannica – Great Lakes",
+       "u": "https://www.britannica.com/place/Great-Lakes"
+      },
+      {
+       "t": "Durrington Research School – Teaching effective revision strategies: dual coding",
+       "u": "https://researchschool.org.uk/durrington/news/using-research-evidence-to-teach-effective-revision-strategies-dual-coding"
+      }
+     ]
+    }
+   ],
+   "sujets": []
   }
  ]
 }
